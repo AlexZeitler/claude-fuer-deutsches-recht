@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-schoeffe-polizeizeug-bis-schoeffe-sitzungsord
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (schoeffe-polizeizeuge-orientierung, schoeffe-polizeizeuge-sitzung, schoeffe-sitzungsordnung-orientierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Schoeffe Polizeizeuge Orientierung, Schoeffe Polizeizeuge Sitzung, Schoeffe Sitzungsordnung Orientierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schoeffe-polizeizeuge-orientierung` | Polizeizeuge würdigen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `schoeffe-polizeizeuge-sitzung` | Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schoeffe-polizeizeuge-orientierung`
 
-**Frühere Beschreibung:** Polizeizeuge würdigen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Polizeizeuge würdigen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Polizeizeuge würdigen: Orientierung
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `schoeffe-polizeizeuge-sitzung`
 
-**Frühere Beschreibung:** Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Polizeizeuge würdigen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Routineaussagen, Erinnerungsstützen, Einsatzberichte und Glaubhaftigkeit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Polizeizeuge würdigen: Sitzungspraxis
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `schoeffe-sitzungsordnung-orientierung`
 
-**Frühere Beschreibung:** Sitzungsordnung und Auftreten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Sitzungsordnung und Auftreten (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Saalverhalten, Kleidung, Pünktlichkeit, Kontaktvermeidung und Sicherheit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Sitzungsordnung und Auftreten: Orientierung
 

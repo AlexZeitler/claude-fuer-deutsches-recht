@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-pdf-formulare-und-fo-bis-bf-kanzleiwebsite-ko
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (pdf-formulare-und-formulare-barrierefrei, automatisierter-audit-axe-lighthouse, bf-kanzleiwebsite-konkret) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pdf Formulare Und Formulare Barrierefrei, Automatisierter Audit Axe Lighthouse, Bf Kanzleiwebsite Konkret; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - barrierefreiheit-web-checker
+# Arbeitsbereich - Pdf Formulare Und Formulare Barrierefrei, Automatisierter Audit Axe Lighthouse, Bf Kanzleiwebsite Konkret
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pdf-formulare-und-formulare-barrierefrei` | PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie fuer Bestands-PDFs. |
 | `automatisierter-audit-axe-lighthouse` | Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse, Pa11y oder ähnlichen Tools ein. Erklärt Treffer, False Positives, False Negatives, manuelle Nachprüfung und Entwickler-Tickets. Output: Scanner-Auswertung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pdf-formulare-und-formulare-barrierefrei`
 
-**Frühere Beschreibung:** PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie fuer Bestands-PDFs.
+**Fokus:** PDF-Formulare und HTML-Formulare barrierefrei: Tag-Struktur, Lesefolge, Formularfeld-Beschriftungen, Fehlertexte, Pflichtfeld-Markierung, autocomplete-Attribute, Tastatursteuerung. Pruefraster PDF mit PAC 2024 und Acrobat. Sanierungsstrategie fuer Bestands-PDFs.
 
 # PDF und Formulare barrierefrei
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `barrierefreiheit-web-checker`. Er ergaenzt die 
 
 ## 2. `automatisierter-audit-axe-lighthouse`
 
-**Frühere Beschreibung:** Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse, Pa11y oder ähnlichen Tools ein. Erklärt Treffer, False Positives, False Negatives, manuelle Nachprüfung und Entwickler-Tickets. Output: Scanner-Auswertung.
+**Fokus:** Ordnet automatisierte Accessibility-Scans mit axe, Lighthouse, Pa11y oder ähnlichen Tools ein. Erklärt Treffer, False Positives, False Negatives, manuelle Nachprüfung und Entwickler-Tickets. Output: Scanner-Auswertung.
 
 # Automatisierter Audit
 
@@ -139,7 +139,7 @@ Nachweis:
 
 ## 3. `bf-kanzleiwebsite-konkret`
 
-**Frühere Beschreibung:** Kanzleiwebsite konkret pruefen: Pflicht ab BFSG 28.06.2025 fuer aktive E-Commerce-Aktivitaeten, fuer reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Workflow Designer und Entwickler. Konkrete Fix-Liste fuer typische Kanzleiseite.
+**Fokus:** Kanzleiwebsite konkret pruefen: Pflicht ab BFSG 28.06.2025 fuer aktive E-Commerce-Aktivitaeten, fuer reine Informationswebsites empfohlen, Tooling Axe / WAVE / Lighthouse, Workflow Designer und Entwickler. Konkrete Fix-Liste fuer typische Kanzleiseite.
 
 # BF: Kanzleiwebsite
 

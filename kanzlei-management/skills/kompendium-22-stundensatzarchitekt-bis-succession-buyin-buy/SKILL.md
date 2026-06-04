@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-stundensatzarchitekt-bis-succession-buyin-buy
-description: "kanzlei-management: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (stundensatzarchitektur, subscription-retainer, success-fee-risk, succession-buyin-buyout) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-management: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stundensatzarchitektur, Subscription Retainer, Success Fee Risk, Succession Buyin Buyout; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - kanzlei-management
+# Arbeitsbereich - Stundensatzarchitektur bis Succession Buyin Buyout
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stundensatzarchitektur` | Baut Rate Cards nach Seniorität, Praxisgruppe, Markt und Rabattgrenzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `subscription-retainer` | Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stundensatzarchitektur`
 
-**Frühere Beschreibung:** Baut Rate Cards nach Seniorität, Praxisgruppe, Markt und Rabattgrenzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Baut Rate Cards nach Seniorität, Praxisgruppe, Markt und Rabattgrenzen. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Stundensatzarchitektur
 
@@ -85,7 +85,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 2. `subscription-retainer`
 
-**Frühere Beschreibung:** Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Gestaltet Dauerberatung, Retainer, Kontingente und Legal-Desk-Modelle. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Subscription und Retainer
 
@@ -141,7 +141,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 3. `success-fee-risk`
 
-**Frühere Beschreibung:** Prüft Erfolgskomponenten vorsichtig nach Berufsrecht und Risikoallokation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Prüft Erfolgskomponenten vorsichtig nach Berufsrecht und Risikoallokation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Erfolgshonorar und Risiko
 
@@ -197,7 +197,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 4. `succession-buyin-buyout`
 
-**Frühere Beschreibung:** Prüft Eintritt, Austritt, Goodwill, Kapitalbindung und Generationengerechtigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Prüft Eintritt, Austritt, Goodwill, Kapitalbindung und Generationengerechtigkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Buy-in Buy-out Succession
 

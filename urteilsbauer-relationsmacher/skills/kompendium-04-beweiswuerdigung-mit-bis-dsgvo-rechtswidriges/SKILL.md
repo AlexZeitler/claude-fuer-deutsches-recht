@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-beweiswuerdigung-mit-bis-dsgvo-rechtswidriges
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (beweiswuerdigung-mit-richter-input, cisg-pruefen, dsgvo-rechtswidriges-produkt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beweiswuerdigung Mit Richter Input, Cisg Pruefen, Dsgvo Rechtswidriges Produkt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Beweiswuerdigung Mit Richter Input, Cisg Pruefen, Dsgvo Rechtswidriges Produkt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beweiswuerdigung-mit-richter-input` | Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben. |
 | `cisg-pruefen` | UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beweiswuerdigung-mit-richter-input`
 
-**Frühere Beschreibung:** Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben.
+**Fokus:** Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben.
 
 # Beweiswürdigung mit haendischem Richter-Input
 
@@ -118,7 +118,7 @@ Strukturierte Datei `beweiswuerdigung.md` mit den Aussagen, der Würdigung und d
 
 ## 2. `cisg-pruefen`
 
-**Frühere Beschreibung:** UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang.
+**Fokus:** UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen prüfen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmäßigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Prüfraster: sachlicher/persoenlicher/räumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Prüfschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang.
 
 # CISG-Prüfung
 
@@ -203,7 +203,7 @@ Wenn die Parteien gleichzeitig deutsches und Schweizer Recht wählen (kollidiere
 
 ## 3. `dsgvo-rechtswidriges-produkt`
 
-**Frühere Beschreibung:** Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (räumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Prüfraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Prüfschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin.
+**Fokus:** Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit prüfen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (räumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Prüfraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Prüfschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin.
 
 # DSGVO-rechtswidriges Produkt
 

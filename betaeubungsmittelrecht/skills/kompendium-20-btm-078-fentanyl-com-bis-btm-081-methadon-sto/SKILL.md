@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-btm-078-fentanyl-com-bis-btm-081-methadon-sto
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (btm-078-fentanyl-compliance-bauen, btm-079-fentanyl-akteneinsicht-vorbereiten, btm-080-fentanyl-mandantenbrief-schreiben, btm-081-methadon-stoff-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 078 Fentanyl Compliance Bauen, Btm 079 Fentanyl Akteneinsicht Vorbereiten, Btm 080 Fentanyl Mandantenbrief Schreiben, Btm 081 Methadon Stoff Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 078 Fentanyl Compliance Bauen bis Btm 081 Methadon Stoff Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-078-fentanyl-compliance-bauen` | Betäubungsmittelrecht: Fentanyl: Compliance bauen. Compliance bauen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-079-fentanyl-akteneinsicht-vorbereiten` | Betäubungsmittelrecht: Fentanyl: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-078-fentanyl-compliance-bauen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Compliance bauen. Compliance bauen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Compliance bauen. Compliance bauen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Compliance Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-079-fentanyl-akteneinsicht-vorbereiten`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Akteneinsicht Vorbereiten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-080-fentanyl-mandantenbrief-schreiben`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Mandantenbrief schreiben. Mandantenbrief schreiben für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Mandantenbrief schreiben. Mandantenbrief schreiben für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Mandantenbrief Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-081-methadon-stoff-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Methadon: Stoff prüfen. Stoff prüfen für Methadon im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Methadon: Stoff prüfen. Stoff prüfen für Methadon im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Methadon Stoff Pruefen
 

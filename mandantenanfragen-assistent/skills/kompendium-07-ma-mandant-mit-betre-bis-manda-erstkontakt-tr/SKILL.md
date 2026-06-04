@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ma-mandant-mit-betre-bis-manda-erstkontakt-tr
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (ma-mandant-mit-betreuung, manda-erstgespraechsleitfaden-checkliste, manda-erstkontakt-triagebogen-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - mandantenanfragen-assistent
+# Arbeitsbereich - Ma Mandant Mit Betreuung, Manda Erstgespraechsleitfaden Checkliste, Manda Erstkontakt Triagebogen Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ma-mandant-mit-betreuung` | Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur fuer den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin. |
 | `manda-erstgespraechsleitfaden-checkliste` | Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ma-mandant-mit-betreuung`
 
-**Frühere Beschreibung:** Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur fuer den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin.
+**Fokus:** Spezialfall Mandant mit gesetzlicher Betreuung oder Vorsorgevollmacht: Pruefen der Vertretungsmacht, Einwilligungsfaehigkeit, Schweigepflicht gegenueber Betreuer, Beauftragung nur fuer den Aufgabenkreis. Mustertexte und Pruefraster. Routet in passende Skills im Betreuungsrechts-Plugin.
 
 # Mandant mit Betreuung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 2. `manda-erstgespraechsleitfaden-checkliste`
 
-**Frühere Beschreibung:** Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant.
+**Fokus:** Checkliste Erstgespraechsleitfaden: Sachverhaltserhebung, Ziel des Mandanten, vorhandene Unterlagen, Erfolgsaussicht offen erlaeutern, Honorar. Mustertext Folgeschreiben Mandant.
 
 # Manda: Erstgespraechsleitfaden
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 3. `manda-erstkontakt-triagebogen-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster fuer Sekretariat und Anwalt.
+**Fokus:** Bauleiter Triagebogen Erstkontakt: Mandantendaten, COI-Pruefung, Rechtsschutzversicherung, Eilbeduerftigkeit, RVG-Hinweis. Pruefraster fuer Sekretariat und Anwalt.
 
 # Manda: Triagebogen Erstkontakt
 

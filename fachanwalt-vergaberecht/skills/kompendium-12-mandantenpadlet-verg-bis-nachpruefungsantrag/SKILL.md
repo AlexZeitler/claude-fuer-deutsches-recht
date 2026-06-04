@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-mandantenpadlet-verg-bis-nachpruefungsantrag
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (mandantenpadlet-vergabe-canvas, mandat-triage-vergaberecht, nachhaltigkeit-tariftreue-lksg-cbam, nachpruefungsantrag-powerdraft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenpadlet Vergabe Canvas, Mandat Triage Vergaberecht, Nachhaltigkeit Tariftreue Lksg Cbam, Nachpruefungsantrag Powerdraft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-vergaberecht
+# Arbeitsbereich - Mandantenpadlet Vergabe Canvas bis Nachpruefungsantrag Powerdraft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenpadlet-vergabe-canvas` | Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen. |
 | `mandat-triage-vergaberecht` | Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenpadlet-vergabe-canvas`
 
-**Frühere Beschreibung:** Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
+**Fokus:** Interaktives Vergabe-Padlet als Canvas erstellen: Rollen, Fristen, Dokumente, Rugepunkte, Bewertungsfehler, Rechtsweg, Risiken, Aufgaben und offene Fragen.
 
 # Mandantenpadlet Vergabe-Canvas
 
@@ -93,7 +93,7 @@ Padlet-Board in Markdown, Aufgabenliste, Ampeln, Tabellen, naechste Entscheidung
 
 ## 2. `mandat-triage-vergaberecht`
 
-**Frühere Beschreibung:** Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen.
+**Fokus:** Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen.
 
 # Mandat-Triage Vergaberecht
 
@@ -277,7 +277,7 @@ Naechster Schritt:          [Ruege / NPA / §181-Klage]
 
 ## 3. `nachhaltigkeit-tariftreue-lksg-cbam`
 
-**Frühere Beschreibung:** Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.
+**Fokus:** Nachhaltigkeit, soziale Kriterien, Tariftreue, Lieferkette und CO2-Bezug in Vergaben gestalten: Eignung, Ausfuehrungsbedingungen, Zuschlagskriterien und Nachweise.
 
 # Nachhaltigkeit, Tariftreue und Lieferkette
 
@@ -341,7 +341,7 @@ Kriterienmatrix, Nachweislogik, Verhaeltnismaessigkeitscheck, Textbausteine.
 
 ## 4. `nachpruefungsantrag-powerdraft`
 
-**Frühere Beschreibung:** Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege.
+**Fokus:** Nachpruefungsantrag als Powerdraft erstellen: Zulassung, Antragsbefugnis, Ruge, Fristen, Sachantraege, Akteneinsicht, Beweisangebote und Eilantraege.
 
 # Nachpruefungsantrag Powerdraft
 

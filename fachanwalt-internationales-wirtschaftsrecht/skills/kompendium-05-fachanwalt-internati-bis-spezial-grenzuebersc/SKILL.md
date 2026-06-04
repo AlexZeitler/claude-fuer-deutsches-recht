@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-fachanwalt-internati-bis-spezial-grenzuebersc
-description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fachanwalt-internationales-wirtschaftsrecht-schiedsklausel, intwr-schiedsklausel-newyork-spezial, spezial-grenzueberschreitender-vertragsstreit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-internationales-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationales Wirtschaftsrecht Schiedsklausel, Intwr Schiedsklausel Newyork Spezial, Grenzueberschreitender Vertragsstreit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-internationales-wirtschaftsrecht
+# Arbeitsbereich - Internationales Wirtschaftsrecht Schiedsklausel, Intwr Schiedsklausel Newyork Spezial, Grenzueberschreitender Vertragsstreit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel` | Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren). |
 | `intwr-schiedsklausel-newyork-spezial` | Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-internationales-wirtschaftsrecht-schiedsklausel`
 
-**Frühere Beschreibung:** Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren).
+**Fokus:** Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren).
 
 # Schiedsklausel — Prüfung und Gestaltung
 
@@ -315,7 +315,7 @@ Anwendbares Recht:   [RECHTSORDNUNG]
 
 ## 2. `intwr-schiedsklausel-newyork-spezial`
 
-**Frühere Beschreibung:** Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt.
+**Fokus:** Spezialfall Schiedsklausel und New Yorker UEbereinkommen: Wirksamkeit Schiedsvereinbarung, Anerkennung und Vollstreckung auslaendischer Schiedssprueche, ordre public-Vorbehalt. Pruefraster Auslaendervorbehalt.
 
 # IntWR: Schiedsklausel New York
 
@@ -368,7 +368,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. E
 
 ## 3. `spezial-grenzueberschreitender-vertragsstreit`
 
-**Frühere Beschreibung:** Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Grenzüberschreitender Vertragsstreit mit Rechtswahl, Gerichtsstand und Vollstreckung
 

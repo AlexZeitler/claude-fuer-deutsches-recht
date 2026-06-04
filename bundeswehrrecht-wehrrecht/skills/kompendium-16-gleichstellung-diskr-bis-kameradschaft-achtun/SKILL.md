@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-gleichstellung-diskr-bis-kameradschaft-achtun
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (gleichstellung-diskriminierung-soldatinnen-soldaten, impfpflicht-tauglichkeit-musterung, kameradschaft-achtungs-und-vertrauenspflicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Gleichstellung Diskriminierung Soldatinnen Soldaten, Impfpflicht Tauglichkeit Musterung, Kameradschaft Achtungs Und Vertrauenspflicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gleichstellung-diskriminierung-soldatinnen-soldaten` | Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3. |
 | `impfpflicht-tauglichkeit-musterung` | Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gleichstellung-diskriminierung-soldatinnen-soldaten`
 
-**Frühere Beschreibung:** Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3.
+**Fokus:** Gleichstellung und Diskriminierung Soldatinnen und Soldaten: prüft SoldGG, AGG-Anwendung, Beschwerderechte und Gleichstellungsbeauftragte. Norm-/Quellenanker: SoldGG, AGG, SG, GG Art. 3.
 
 # Gleichstellung und Diskriminierung Soldatinnen/Soldaten
 
@@ -138,7 +138,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `impfpflicht-tauglichkeit-musterung`
 
-**Frühere Beschreibung:** Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1.
+**Fokus:** Impfpflicht, Tauglichkeit und Musterung: prüft Impfpflicht Soldaten, Weigerungsrecht, Tauglichkeitsfeststellung und Rechtsmittel. Norm-/Quellenanker: SG § 17a, IfSG, WPflG, DV 46/1.
 
 # Impfpflicht, Tauglichkeit und Musterung
 
@@ -247,7 +247,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `kameradschaft-achtungs-und-vertrauenspflicht`
 
-**Frühere Beschreibung:** Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und 17 SG, Mobbing, Disziplinarrecht und Rechtsbehelfe. Norm-/Quellenanker: §§ 12 und 17 SG, WBO, WDO.
+**Fokus:** Kameradschaft, Achtungs- und Vertrauenspflicht: prüft §§ 12 und 17 SG, Mobbing, Disziplinarrecht und Rechtsbehelfe. Norm-/Quellenanker: §§ 12 und 17 SG, WBO, WDO.
 
 # Kameradschaft, Achtungs- und Vertrauenspflicht
 

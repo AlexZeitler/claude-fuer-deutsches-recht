@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-expectation-manageme-bis-festpreis-change-req
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (expectation-management, expert-management, fachabteilung-briefing, fee-model-selector, festpreis-change-request) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Expectation Management, Expert Management, Fachabteilung Briefing, Fee Model Selector und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Expectation Management bis Festpreis Change Request
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `expectation-management` | Erwartungsmanagement: steuert Enttäuschungen, schlechte Nachrichten, unsichere Rechtslage und Entscheidungsdruck konstruktiv steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `expert-management` | Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `expectation-management`
 
-**Frühere Beschreibung:** Erwartungsmanagement: steuert Enttäuschungen, schlechte Nachrichten, unsichere Rechtslage und Entscheidungsdruck konstruktiv steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Erwartungsmanagement: steuert Enttäuschungen, schlechte Nachrichten, unsichere Rechtslage und Entscheidungsdruck konstruktiv steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Erwartungsmanagement
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `expert-management`
 
-**Frühere Beschreibung:** Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Expert Management: steuert Sachverständige, Privatgutachten, Gutachterbudget, Briefing und Unabhängigkeit steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Expert Management
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `fachabteilung-briefing`
 
-**Frühere Beschreibung:** Fachabteilung Briefing: steuert Business-Leute so briefen, dass Kanzlei keine unbrauchbaren oder gefährlichen Fakten bekommt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Fachabteilung Briefing: steuert Business-Leute so briefen, dass Kanzlei keine unbrauchbaren oder gefährlichen Fakten bekommt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Fachabteilung Briefing
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `fee-model-selector`
 
-**Frühere Beschreibung:** Fee Model Selector: steuert Stundensatz, Festpreis, Cap, Blended Rate, Success-Komponente und Retainer vergleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Fee Model Selector: steuert Stundensatz, Festpreis, Cap, Blended Rate, Success-Komponente und Retainer vergleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Fee Model Selector
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `festpreis-change-request`
 
-**Frühere Beschreibung:** Festpreis und Change Request: steuert Festpreisprojekt steuern, Scope Creep erkennen und Change Request sauber auslösen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Festpreis und Change Request: steuert Festpreisprojekt steuern, Scope Creep erkennen und Change Request sauber auslösen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Festpreis und Change Request
 

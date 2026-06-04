@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-tier-049-pferdestall-bis-tier-052-rinderbetri
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (tier-049-pferdestall-eilantrag-bauen, tier-050-pferdestall-vergleich-suchen, tier-051-rinderbetrieb-schutzbedarf-pruefen, tier-052-rinderbetrieb-behoerdenantrag-schreibe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 049 Pferdestall Eilantrag Bauen, Tier 050 Pferdestall Vergleich Suchen, Tier 051 Rinderbetrieb Schutzbedarf Pruefen, Tier 052 Rinderbetrieb Behoerdenantrag Schreibe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - tierschutzrecht
+# Arbeitsbereich - Tier 049 Pferdestall Eilantrag Bauen bis Tier 052 Rinderbetrieb Behoerdenantrag Schreibe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-049-pferdestall-eilantrag-bauen` | Tierschutzrecht: Pferdestall: Eilantrag bauen. Eilantrag bauen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-050-pferdestall-vergleich-suchen` | Tierschutzrecht: Pferdestall: Vergleich suchen. Vergleich suchen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-049-pferdestall-eilantrag-bauen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Pferdestall: Eilantrag bauen. Eilantrag bauen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Pferdestall: Eilantrag bauen. Eilantrag bauen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Pferdestall Eilantrag Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-050-pferdestall-vergleich-suchen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Pferdestall: Vergleich suchen. Vergleich suchen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Pferdestall: Vergleich suchen. Vergleich suchen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Pferdestall Vergleich Suchen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-051-rinderbetrieb-schutzbedarf-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Rinderbetrieb: Schutzbedarf prüfen. Schutzbedarf prüfen für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Rinderbetrieb: Schutzbedarf prüfen. Schutzbedarf prüfen für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Rinderbetrieb Schutzbedarf Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-052-rinderbetrieb-behoerdenantrag-schreibe`
 
-**Frühere Beschreibung:** Tierschutzrecht: Rinderbetrieb: Behördenantrag schreiben. Behördenantrag schreiben für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Rinderbetrieb: Behördenantrag schreiben. Behördenantrag schreiben für Rinderbetrieb im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Rinderbetrieb Behoerdenantrag Schreibe
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-bho-255-kommunaler-f-bis-bho-265-sozialversic
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 24; bündelt 11 frühere Spezialskills (bho-255-kommunaler-finanztransfer-vollzug-trac, bho-256-sozialversicherung-schnittstelle-titel, bho-257-sozialversicherung-schnittstelle-umsch, bho-258-sozialversicherung-schnittstelle-sperr, bho-259-sozialversicherung-schnittstelle-decku und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 255 Kommunaler Finanztransfer Vollzug Trac, Bho 256 Sozialversicherung Schnittstelle Titel, Bho 257 Sozialversicherung Schnittstelle Umsch, Bho 258 Sozialversicherung Schnittstelle Sperr und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 255 Kommunaler Finanztransfer Vollzug Trac bis Bho 265 Sozialversicherung Schnittstelle Vollz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-255-kommunaler-finanztransfer-vollzug-trac` | Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Vollzug tracken. Vollzug tracken für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-256-sozialversicherung-schnittstelle-titel` | Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Titel prüfen. Titel prüfen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-255-kommunaler-finanztransfer-vollzug-trac`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Vollzug tracken. Vollzug tracken für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Vollzug tracken. Vollzug tracken für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Vollzug Trac
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-256-sozialversicherung-schnittstelle-titel`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Titel prüfen. Titel prüfen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Titel prüfen. Titel prüfen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Titel
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-257-sozialversicherung-schnittstelle-umsch`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Umschichtung simulieren. Umschichtung simulieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Umschichtung simulieren. Umschichtung simulieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Umsch
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-258-sozialversicherung-schnittstelle-sperr`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Sperre bewerten. Sperre bewerten für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Sperre bewerten. Sperre bewerten für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Sperr
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-259-sozialversicherung-schnittstelle-decku`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Deckung finden. Deckung finden für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Deckung finden. Deckung finden für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Decku
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-260-sozialversicherung-schnittstelle-szena`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Szenario rechnen. Szenario rechnen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Szenario rechnen. Szenario rechnen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Szena
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-261-sozialversicherung-schnittstelle-dashb`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Dashboard bauen. Dashboard bauen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Dashboard bauen. Dashboard bauen für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Dashb
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-262-sozialversicherung-schnittstelle-risik`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Risiko markieren. Risiko markieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Risiko markieren. Risiko markieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Risik
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-263-sozialversicherung-schnittstelle-brh-f`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: BRH-Frage formulieren. BRH-Frage formulieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: BRH-Frage formulieren. BRH-Frage formulieren für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Brh F
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-264-sozialversicherung-schnittstelle-parla`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Parla
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-265-sozialversicherung-schnittstelle-vollz`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Vollzug tracken. Vollzug tracken für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sozialversicherung Schnittstelle: Vollzug tracken. Vollzug tracken für Sozialversicherung Schnittstelle im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sozialversicherung Schnittstelle Vollz
 

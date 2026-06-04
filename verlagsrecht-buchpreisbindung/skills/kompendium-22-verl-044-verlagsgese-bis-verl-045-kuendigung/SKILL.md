@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-verl-044-verlagsgese-bis-verl-045-kuendigung
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (verl-044-verlagsgesetz-paragraphen-navigator, verl-045-kuendigung-wegen-nichtausuebung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kuendigung Wegen Nichtausuebung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 044 Verlagsgesetz Paragraphen Navigator, Verl 045 Kuendigung Wegen Nichtausuebung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-044-verlagsgesetz-paragraphen-navigator` | Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB. |
 | `verl-045-kuendigung-wegen-nichtausuebung` | Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-044-verlagsgesetz-paragraphen-navigator`
 
-**Frühere Beschreibung:** Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB.
+**Fokus:** Verlagsrecht: Navigationsführer durch das Verlagsgesetz 1901 (VerlG) — alle §§ mit Funktion, Anwendungsfall und Querverweisen zum UrhG und BGB.
 
 # Verl-044 · Verlagsgesetz: Paragraphen-Navigator
 
@@ -170,7 +170,7 @@ Das **Verlagsgesetz von 1901** (VerlG) ist nach wie vor geltendes Recht für den
 
 ## 2. `verl-045-kuendigung-wegen-nichtausuebung`
 
-**Frühere Beschreibung:** Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag.
+**Fokus:** Verlagsrecht: Rückruf und Kündigung wegen Nichtausübung — UrhG § 41 im Detail: Voraussetzungen, Sperrfristen, Verfahren, Wirkung und Strategien für Autor und Verlag.
 
 # Verl-045 · Kündigung wegen Nichtausübung (UrhG § 41)
 

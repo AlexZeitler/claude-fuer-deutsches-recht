@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-formales-deutsch-zu-bis-formular-ausfuellen
-description: "juristische-sprache-deutsch-als-zweitsprache: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (formales-deutsch-zu-einfach, formular-ausfuellen-hilfe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "juristische-sprache-deutsch-als-zweitsprache: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - juristische-sprache-deutsch-als-zweitsprache
+# Arbeitsbereich - Formales Deutsch Zu Einfach, Formular Ausfuellen Hilfe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `formales-deutsch-zu-einfach` | Hilft bei Formales Deutsch Zu Einfach fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `formular-ausfuellen-hilfe` | Hilft bei Formular Ausfuellen Hilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `formales-deutsch-zu-einfach`
 
-**Frühere Beschreibung:** Hilft bei Formales Deutsch Zu Einfach fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+**Fokus:** Hilft bei Formales Deutsch Zu Einfach fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
 # Formales Deutsch Zu Einfach
 
@@ -82,7 +82,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ## 2. `formular-ausfuellen-hilfe`
 
-**Frühere Beschreibung:** Hilft bei Formular Ausfuellen Hilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+**Fokus:** Hilft bei Formular Ausfuellen Hilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
 # Formular Ausfuellen Hilfe
 

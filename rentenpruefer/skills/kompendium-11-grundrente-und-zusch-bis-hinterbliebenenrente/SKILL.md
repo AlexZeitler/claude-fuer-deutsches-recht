@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-grundrente-und-zusch-bis-hinterbliebenenrente
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (grundrente-und-zuschlaege, hinterbliebenenrente-witwen-waisen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - rentenpruefer
+# Arbeitsbereich - Grundrente Und Zuschlaege, Hinterbliebenenrente Witwen Waisen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grundrente-und-zuschlaege` | Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten. |
 | `hinterbliebenenrente-witwen-waisen` | Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grundrente-und-zuschlaege`
 
-**Frühere Beschreibung:** Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten.
+**Fokus:** Grundrente und Zuschläge: Grundrentenzeiten, Einkommensprüfung, Bescheidverständnis und Korrektur bei fehlenden Zeiten.
 
 # grundrente-und-zuschlaege
 
@@ -67,7 +67,7 @@ Grundrentencheck und Widerspruchspunkte.
 
 ## 2. `hinterbliebenenrente-witwen-waisen`
 
-**Frühere Beschreibung:** Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug.
+**Fokus:** Hinterbliebenenrenten: Witwen-, Witwer- und Waisenrente, Einkommen, Sterbevierteljahr, Versorgungsausgleich und Auslandsbezug.
 
 # hinterbliebenenrente-witwen-waisen
 

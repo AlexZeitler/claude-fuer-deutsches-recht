@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-arbeitgeber-und-fehl-bis-auslaendischer-wehrd
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (arbeitgeber-und-fehlzeit, argumente-die-nicht-tragen, aufschiebende-wirkung-kdvg-3, ausbildungskosten-rueckforderung, auslaendischer-wehrdienst-und-asyl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitgeber Und Fehlzeit, Argumente Die Nicht Tragen, Aufschiebende Wirkung Kdvg 3, Ausbildungskosten Rueckforderung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Arbeitgeber Und Fehlzeit bis Auslaendischer Wehrdienst Und Asyl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitgeber-und-fehlzeit` | Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern. |
 | `argumente-die-nicht-tragen` | Markiert KDV-schwache Argumente und passende Alternativwege. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitgeber-und-fehlzeit`
 
-**Frühere Beschreibung:** Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern.
+**Fokus:** Kommuniziert Anhörungstermine datensparsam gegenüber Arbeitgebern.
 
 # Arbeitgeber und Fehlzeit
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `argumente-die-nicht-tragen`
 
-**Frühere Beschreibung:** Markiert KDV-schwache Argumente und passende Alternativwege.
+**Fokus:** Markiert KDV-schwache Argumente und passende Alternativwege.
 
 # Argumente die nicht tragen
 
@@ -140,7 +140,7 @@ Keine Totalverweigerung, Dienstflucht oder bloße politische Situationsverweiger
 
 ## 3. `aufschiebende-wirkung-kdvg-3`
 
-**Frühere Beschreibung:** Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3.
+**Fokus:** Erklärt § 3 KDVG, § 11 KDVG und die Sonderwirkung des § 13 Abs. 3.
 
 # Wirkung des Antrags
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `ausbildungskosten-rueckforderung`
 
-**Frühere Beschreibung:** Prüft mögliche Rückforderungen und Härteargumente nach KDV-bezogenem Ausscheiden.
+**Fokus:** Prüft mögliche Rückforderungen und Härteargumente nach KDV-bezogenem Ausscheiden.
 
 # Ausbildungskosten Rückforderung
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `auslaendischer-wehrdienst-und-asyl`
 
-**Frühere Beschreibung:** Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht.
+**Fokus:** Trennt deutsche KDV von Asyl-, Auslieferungs- und ausländischem Wehrrecht.
 
 # Ausländischer Wehrdienst
 

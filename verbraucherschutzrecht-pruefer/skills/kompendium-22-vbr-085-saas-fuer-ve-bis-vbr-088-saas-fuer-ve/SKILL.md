@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vbr-085-saas-fuer-ve-bis-vbr-088-saas-fuer-ve
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (vbr-085-saas-fuer-verbraucher-agb-redlinen, vbr-086-saas-fuer-verbraucher-beschwerde-schre, vbr-087-saas-fuer-verbraucher-schlichtung-waeh, vbr-088-saas-fuer-verbraucher-klagepfad-skizzi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 085 Saas Fuer Verbraucher Agb Redlinen, Vbr 086 Saas Fuer Verbraucher Beschwerde Schre, Vbr 087 Saas Fuer Verbraucher Schlichtung Waeh, Vbr 088 Saas Fuer Verbraucher Klagepfad Skizzi; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 085 Saas Fuer Verbraucher Agb Redlinen bis Vbr 088 Saas Fuer Verbraucher Klagepfad Skizzi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-085-saas-fuer-verbraucher-agb-redlinen` | Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: AGB redlinen. AGB redlinen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-086-saas-fuer-verbraucher-beschwerde-schre` | Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Beschwerde schreiben. Beschwerde schreiben für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-085-saas-fuer-verbraucher-agb-redlinen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: AGB redlinen. AGB redlinen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: AGB redlinen. AGB redlinen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Saas Fuer Verbraucher Agb Redlinen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-086-saas-fuer-verbraucher-beschwerde-schre`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Beschwerde schreiben. Beschwerde schreiben für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Beschwerde schreiben. Beschwerde schreiben für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Saas Fuer Verbraucher Beschwerde Schre
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-087-saas-fuer-verbraucher-schlichtung-waeh`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Schlichtung wählen. Schlichtung wählen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Schlichtung wählen. Schlichtung wählen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Saas Fuer Verbraucher Schlichtung Waeh
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-088-saas-fuer-verbraucher-klagepfad-skizzi`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Klagepfad skizzieren. Klagepfad skizzieren für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Klagepfad skizzieren. Klagepfad skizzieren für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Saas Fuer Verbraucher Klagepfad Skizzi
 

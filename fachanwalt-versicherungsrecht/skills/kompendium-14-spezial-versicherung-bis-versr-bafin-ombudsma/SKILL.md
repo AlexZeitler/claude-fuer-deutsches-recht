@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-versicherung-bis-versr-bafin-ombudsma
-description: "fachanwalt-versicherungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-versicherungsrecht-tatbestand-beweis-und-belege, vergleichsverhandlung-strategie, versr-bafin-ombudsmann-aufsichtsbeschwerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versicherungsrecht Tatbestand Beweis Und Belege, Vergleichsverhandlung Strategie, Versr Bafin Ombudsmann Aufsichtsbeschwerde; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-versicherungsrecht
+# Arbeitsbereich - Versicherungsrecht Tatbestand Beweis Und Belege, Vergleichsverhandlung Strategie, Versr Bafin Ombudsmann Aufsichtsbeschwerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-versicherungsrecht-tatbestand-beweis-und-belege` | Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-versicherungsrecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Versicherungsrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Versicherungsvertragsrecht (Personen- und Sachversicherung): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 # Vergleichsverhandlung und Einigung im Versicherungsvertragsrecht (Personen- und Sachversicherung)
 
@@ -244,7 +244,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `versr-bafin-ombudsmann-aufsichtsbeschwerde`
 
-**Frühere Beschreibung:** BaFin-Beschwerde, Versicherungsombudsmann, PKV-Ombudsmann und Klage taktisch wählen.
+**Fokus:** BaFin-Beschwerde, Versicherungsombudsmann, PKV-Ombudsmann und Klage taktisch wählen.
 
 # FA Versicherungsrecht: BaFin und Ombudsmann
 

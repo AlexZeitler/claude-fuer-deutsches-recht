@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-tatbestandsm-bis-spezial-zerlegen-ris
-description: "subsumtions-pruefer: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste, spezial-vier-behoerden-gericht-und-registerweg, spezial-zerlegen-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "subsumtions-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behoerden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - subsumtions-pruefer
+# Arbeitsbereich - Tatbestandsmerkmale Dokumentenmatrix Und Lueckenliste, Vier Behoerden Gericht Und Registerweg, Zerlegen Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste` | Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vier-behoerden-gericht-und-registerweg` | Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-tatbestandsmerkmale-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Tatbestandsmerkmale: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vier-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege.
+**Fokus:** Behörden-, Gerichts- oder Registerweg im Plugin subsumtions-pruefer; prüft welcher Weg zur zuständigen Behörde, zum richtigen Gericht oder zum einschlägigen Register führt. Gibt Normen, Fristen und Zuständigkeitsregeln für die vier klassischen Wege.
 
 # Behörden-, Gerichts- und Registerweg
 
@@ -227,7 +227,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-zerlegen-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zerlegen: Risikoampel, Gegenargumente und Verteidigungslinien
 

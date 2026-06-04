@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-us-patent-102-103-11-bis-us-trade-secret-dtsa
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (us-patent-102-103-112-software, us-saas-terms, us-software-patent-101, us-trade-secret-dtsa) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Us Patent 102 103 112 Software, Us Saas Terms, Us Software Patent 101, Us Trade Secret Dtsa; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - softwarerecht-de-eu-us
+# Arbeitsbereich - Us Patent 102 103 112 Software bis Us Trade Secret Dtsa
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `us-patent-102-103-112-software` | Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten. |
 | `us-saas-terms` | Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `us-patent-102-103-112-software`
 
-**Frühere Beschreibung:** Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten.
+**Fokus:** Prüft Neuheit, obviousness, written description, enablement und definiteness bei softwarebezogenen US-Patenten.
 
 # US Software Patent §§ 102/103/112
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `us-saas-terms`
 
-**Frühere Beschreibung:** Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms.
+**Fokus:** Entwirft US-SaaS-Terms mit subscription, acceptable use, data, uptime, indemnity, limitation of liability und order forms.
 
 # US SaaS Terms
 
@@ -142,7 +142,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `us-software-patent-101`
 
-**Frühere Beschreibung:** Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance.
+**Fokus:** Prüft US-Patentfähigkeit softwarebezogener Erfindungen nach § 101, abstract idea, practical application und eligibility guidance.
 
 # US Software Patent § 101
 
@@ -199,7 +199,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `us-trade-secret-dtsa`
 
-**Frühere Beschreibung:** Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence.
+**Fokus:** Prüft Software als Trade Secret nach US-Recht: secrecy measures, misappropriation, employee mobility und repository evidence.
 
 # US Trade Secret DTSA Software
 

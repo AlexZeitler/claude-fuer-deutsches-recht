@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-ki-arbeitsauftrag-br-bis-mahnwesen-honorar
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (ki-arbeitsauftrag-briefing, mahnwesen-honorar) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Arbeitsauftrag Briefing, Mahnwesen Honorar; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - kanzlei-allgemein
+# Arbeitsbereich - Ki Arbeitsauftrag Briefing, Mahnwesen Honorar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-arbeitsauftrag-briefing` | Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien. |
 | `mahnwesen-honorar` | Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-arbeitsauftrag-briefing`
 
-**Frühere Beschreibung:** Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien.
+**Fokus:** Kanzleiweiter Skill, der aus einer unklaren Bitte, einem Dokumentenpaket oder einer Sprachnotiz einen praezisen KI-Arbeitsauftrag macht. Klaert Ziel, Kontext, Outputformat, Grenzen, Quellenstandard, Datenschutz, Fristen und Abnahmekriterien.
 
 # KI-Arbeitsauftrag Briefing
 
@@ -78,7 +78,7 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 
 ## 2. `mahnwesen-honorar`
 
-**Frühere Beschreibung:** Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung.
+**Fokus:** Mahnwesen für eigene Honorarforderungen der Kanzlei gegenüber Mandanten. Anwendungsfall Mandant hat Rechnung nicht bezahlt und Kanzlei muss mahnen oder klagen. Normen § 286 BGB Verzugsbeginn § 288 BGB Verzugszinsen § 23 Nr. 1 GVG AG-Zuständigkeit bis 10000 EUR ab 01.01.2026 § 688 ff. ZPO Mahnverfahren. Prüfraster Stufen Zahlungserinnerung erste Mahnung zweite Mahnung dritte Mahnung Inkassouebergabe AG-Klage. Output Gestuftes Mahnschreibenpaket mit Verzugszinsen Mahnkosten Klagedrohung und Klageentwurf. Abgrenzung zu forderungsmanagement-klagewerkstatt-Plugin und kanzlei-allgemein-rechnung.
 
 # Mahnwesen für Kanzleihonorar
 

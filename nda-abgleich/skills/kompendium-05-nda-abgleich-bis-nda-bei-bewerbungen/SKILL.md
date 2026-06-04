@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-nda-abgleich-bis-nda-bei-bewerbungen
-description: "nda-abgleich: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (nda-abgleich, nda-bei-arbeitnehmer-kuendigung, nda-bei-bewerbungen-pitches) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-abgleich: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nda Abgleich, Nda Bei Arbeitnehmer Kuendigung, Nda Bei Bewerbungen Pitches; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - nda-abgleich
+# Arbeitsbereich - Nda Abgleich, Nda Bei Arbeitnehmer Kuendigung, Nda Bei Bewerbungen Pitches
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nda-abgleich` | Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzlöschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-prüfung (IP-Klauseln) und vertragsrecht-plugin allgemein. |
 | `nda-bei-arbeitnehmer-kuendigung` | Post-Termination-NDA bei Arbeitnehmer-Kuendigung: Wirksamkeit, Karenzentschaedigung § 74 HGB analog, Reichweite (keine generelle Wettbewerbssperre). Schnittstelle Arbeitsrecht. Empfehlung: nur ergaenzend zu nachvertraglichem Wettbewerbsverbot. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nda-abgleich`
 
-**Frühere Beschreibung:** Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzlöschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-prüfung (IP-Klauseln) und vertragsrecht-plugin allgemein.
+**Fokus:** Empfangende Seite soll NDA der Gegenseite prüfen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzlöschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-prüfung (IP-Klauseln) und vertragsrecht-plugin allgemein.
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen
 
@@ -312,7 +312,7 @@ Für Modus B (Redlining):
 
 ## 2. `nda-bei-arbeitnehmer-kuendigung`
 
-**Frühere Beschreibung:** Post-Termination-NDA bei Arbeitnehmer-Kuendigung: Wirksamkeit, Karenzentschaedigung § 74 HGB analog, Reichweite (keine generelle Wettbewerbssperre). Schnittstelle Arbeitsrecht. Empfehlung: nur ergaenzend zu nachvertraglichem Wettbewerbsverbot.
+**Fokus:** Post-Termination-NDA bei Arbeitnehmer-Kuendigung: Wirksamkeit, Karenzentschaedigung § 74 HGB analog, Reichweite (keine generelle Wettbewerbssperre). Schnittstelle Arbeitsrecht. Empfehlung: nur ergaenzend zu nachvertraglichem Wettbewerbsverbot.
 
 # Post-Termination-NDA Arbeitnehmer
 
@@ -364,7 +364,7 @@ Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `nda-bei-bewerbungen-pitches`
 
-**Frühere Beschreibung:** NDA bei Bewerbungen/Pitches/Investorengespraechen: Investor-NDAs sind ungewoehnlich; ueblich nur enge Mutual-NDAs fuer fortgeschrittene Stage. Empfehlung: nicht beleidigt sein, wenn VC unterschreibt nicht; Verhandlungsstrategie.
+**Fokus:** NDA bei Bewerbungen/Pitches/Investorengespraechen: Investor-NDAs sind ungewoehnlich; ueblich nur enge Mutual-NDAs fuer fortgeschrittene Stage. Empfehlung: nicht beleidigt sein, wenn VC unterschreibt nicht; Verhandlungsstrategie.
 
 # NDA bei Pitches/Investoren
 

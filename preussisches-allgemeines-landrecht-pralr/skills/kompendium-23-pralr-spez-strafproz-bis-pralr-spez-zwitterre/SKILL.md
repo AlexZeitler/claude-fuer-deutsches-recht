@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-pralr-spez-strafproz-bis-pralr-spez-zwitterre
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (pralr-spez-strafprozess-und-inquisition, pralr-spez-willensmaengel-arglist-irrtum-zwang, pralr-spez-zinsobergrenze-und-wuchertatbestand, pralr-spez-zivilprozess-im-alr-formstrenge, pralr-spez-zwitterrecht-alr-ii-1-19-bis-22) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Strafprozess Und Inquisition, Pralr Spez Willensmaengel Arglist Irrtum Zwang, Pralr Spez Zinsobergrenze Und Wuchertatbestand, Pralr Spez Zivilprozess Im Alr Formstrenge und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Strafprozess Und Inquisition bis Pralr Spez Zwitterrecht Alr Ii 1 19 Bis 22
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-strafprozess-und-inquisition` | Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix. |
 | `pralr-spez-willensmaengel-arglist-irrtum-zwang` | Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-strafprozess-und-inquisition`
 
-**Frühere Beschreibung:** Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix.
+**Fokus:** Strafprozess im ALR — Inquisitionsverfahren. Skill behandelt das Inquisitionsprinzip die Folter-Aufhebung Friedrichs II. 1740 die Beweismittel Indizienbeweis Folterabbau und die Reform durch die rheinische Strafprozessordnung 1849 mit Schwurgericht. Liefert Quellenmatrix.
 
 # Pralr Strafprozess Und Inquisition
 
@@ -78,7 +78,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-willensmaengel-arglist-irrtum-zwang`
 
-**Frühere Beschreibung:** Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster.
+**Fokus:** Willensmaengel im ALR — Arglist Irrtum Zwang. Skill behandelt ALR I 4 zur Anfechtbarkeit von Willenserklaerungen wegen arglistiger Taeuschung wesentlichen Irrtums und Zwangs sowie die Fortwirkung in §§ 119-124 BGB. Liefert Pruefraster.
 
 # Pralr Willensmaengel Arglist Irrtum Zwang
 
@@ -122,7 +122,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-zinsobergrenze-und-wuchertatbestand`
 
-**Frühere Beschreibung:** Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zinsobergrenze (centesima usura 12 Prozent oder 6 Prozent) Sondervorschriften beim fenus nauticum und das Verhaeltnis zum heutigen Wucherrecht § 138 II BGB und § 291 StGB. Liefert Quellenmatrix.
+**Fokus:** Zinsobergrenze und Wuchertatbestand im ALR. Skill behandelt die historische Zinsobergrenze (centesima usura 12 Prozent oder 6 Prozent) Sondervorschriften beim fenus nauticum und das Verhaeltnis zum heutigen Wucherrecht § 138 II BGB und § 291 StGB. Liefert Quellenmatrix.
 
 # Pralr Zinsobergrenze Und Wuchertatbestand
 
@@ -161,7 +161,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `pralr-spez-zivilprozess-im-alr-formstrenge`
 
-**Frühere Beschreibung:** Zivilprozess im ALR — Formstrenge und Fristen. Skill behandelt die wichtigsten Verfahrensformen das Klage- und Antragsystem die Schriftform die Fristenlogik und die Fortwirkung zur ZPO. Liefert Pruefraster.
+**Fokus:** Zivilprozess im ALR — Formstrenge und Fristen. Skill behandelt die wichtigsten Verfahrensformen das Klage- und Antragsystem die Schriftform die Fristenlogik und die Fortwirkung zur ZPO. Liefert Pruefraster.
 
 # Pralr Zivilprozess Im Alr Formstrenge
 
@@ -203,7 +203,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 5. `pralr-spez-zwitterrecht-alr-ii-1-19-bis-22`
 
-**Frühere Beschreibung:** Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die Aufhebung mit BGB. Liefert Quellenmatrix.
+**Fokus:** Zwitterrecht nach ALR — das beruehmte preussische Sonderrecht der Wahlmoeglichkeit. ALR II 1 §§ 19 bis 22 regelte das Geschlecht der Zwitter (Hermaphroditen): Eltern bestimmen Geschlecht bis 18 Jahre danach Wahlrecht des Betroffenen. Skill behandelt Norm Inhalt rechtshistorische Bedeutung und die Aufhebung mit BGB. Liefert Quellenmatrix.
 
 # Pralr Zwitterrecht Alr Ii 1 19 Bis 22
 

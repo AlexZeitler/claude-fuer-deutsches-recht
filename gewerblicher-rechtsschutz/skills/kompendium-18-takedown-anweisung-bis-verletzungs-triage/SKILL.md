@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-takedown-anweisung-bis-verletzungs-triage
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (takedown-anweisung, unterlassungsverlangen, verletzungs-triage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Takedown Anweisung, Unterlassungsverlangen, Verletzungs Triage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `takedown-anweisung` | Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage. |
 | `unterlassungsverlangen` | Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `takedown-anweisung`
 
-**Frühere Beschreibung:** Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage.
+**Fokus:** Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage.
 
 # Notice-and-Take-Down / Meldeverfahren
 
@@ -386,7 +386,7 @@ Bevor der Takedown ausgeloest wird, klaere:
 
 ## 2. `unterlassungsverlangen`
 
-**Frühere Beschreibung:** Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung).
+**Fokus:** Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung).
 
 # Abmahnung
 
@@ -584,7 +584,7 @@ Aktenzeichen geprueft und korrigiert:
 
 ## 3. `verletzungs-triage`
 
-**Frühere Beschreibung:** Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz.
+**Fokus:** Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Prüfraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz.
 
 # Verletzungs-Triage
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-vdg-102-inkasso-konz-bis-vdg-105-schufa-scori
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 26; bündelt 4 frühere Spezialskills (vdg-102-inkasso-konzerninkasso-musterfeststellung, vdg-103-bestellbutton-uklag-uwg-abmahnung, vdg-104-probeabo-widerruf-verbandsstrategie, vdg-105-schufa-scoring-dsgvo-verbandsfall) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 102 Inkasso Konzerninkasso Musterfeststellung, Vdg 103 Bestellbutton Uklag Uwg Abmahnung, Vdg 104 Probeabo Widerruf Verbandsstrategie, Vdg 105 Schufa Scoring Dsgvo Verbandsfall; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 102 Inkasso Konzerninkasso Musterfeststellung bis Vdg 105 Schufa Scoring Dsgvo Verbandsfall
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-102-inkasso-konzerninkasso-musterfeststellung` | Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren. |
 | `vdg-103-bestellbutton-uklag-uwg-abmahnung` | Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-102-inkasso-konzerninkasso-musterfeststellung`
 
-**Frühere Beschreibung:** Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren.
+**Fokus:** Verbraucherzentrale: Inkasso- und Konzerninkasso-Serienfälle nach BGH VIII ZR 138/23 prüfen; Verzug, Erstattungsfähigkeit, Gebührenhöhe, RDG, Anspruchsgruppen und Kommunikation für Musterverfahren.
 
 # VDG 102 Inkasso Konzerninkasso Musterfeststellung
 
@@ -74,7 +74,7 @@ Keine überholte Pauschalbehauptung. Nach VIII ZR 138/23 muss die Strategie gena
 
 ## 2. `vdg-103-bestellbutton-uklag-uwg-abmahnung`
 
-**Frühere Beschreibung:** Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor.
+**Fokus:** Verbraucherzentrale: fehlerhafte Bestellbuttons nach § 312j BGB und EuGH C-249/21 als Abmahn-, UKlaG-, UWG- oder Verbandsklagefall aufbereiten; mit Screenshot-Beweisplan, Testkauf und Antragstenor.
 
 # VDG 103 Bestellbutton UKlaG UWG Abmahnung
 
@@ -120,7 +120,7 @@ Nicht moralisch überziehen. Gute Button-Fälle sind technisch-nüchtern: Der Te
 
 ## 3. `vdg-104-probeabo-widerruf-verbandsstrategie`
 
-**Frühere Beschreibung:** Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik.
+**Fokus:** Verbraucherzentrale: Probeabo- und automatische Verlängerungsmodelle strategisch prüfen; EuGH C-565/22 Sofatutor, § 312j/312k/355 BGB, Widerrufsbelehrung, Kündigungsbutton, Anspruchsgruppen und Rückzahlungslogik.
 
 # VDG 104 Probeabo Widerruf Verbandsstrategie
 
@@ -163,7 +163,7 @@ Prüfe die Verteidigung: klare Kostenhinweise, bestätigte Nutzung, Wertersatz, 
 
 ## 4. `vdg-105-schufa-scoring-dsgvo-verbandsfall`
 
-**Frühere Beschreibung:** Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise.
+**Fokus:** Verbraucherzentrale: SCHUFA-Scoring, Negativeinträge und Restschuldbefreiung als DSGVO-Verbandsfall prüfen; EuGH C-634/21, C-26/22, C-64/22, Art. 15/17/21/22 DSGVO, Datenschutzaufsicht und Gruppenbeweise.
 
 # VDG 105 SCHUFA Scoring DSGVO Verbandsfall
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-urb-relationstechnik-bis-urb-versaeumnisurtei
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (urb-relationstechnik-bauleiter, urb-tatbestand-entscheidungsgruende-leitfaden, urb-versaeumnisurteil-einspruch-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urb Relationstechnik Bauleiter, Urb Tatbestand Entscheidungsgruende Leitfaden, Urb Versaeumnisurteil Einspruch Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Urb Relationstechnik Bauleiter, Urb Tatbestand Entscheidungsgruende Leitfaden, Urb Versaeumnisurteil Einspruch Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `urb-relationstechnik-bauleiter` | Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster fuer Berufseinsteiger und Referendare. |
 | `urb-tatbestand-entscheidungsgruende-leitfaden` | Leitfaden Tatbestand und Entscheidungsgruende: streitiges und unstreitiges Vorbringen, prozessualer Antraege, Entscheidungsgruende stringent. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `urb-relationstechnik-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster fuer Berufseinsteiger und Referendare.
+**Fokus:** Bauleiter Relationstechnik: Klage- und Verteidigerstation, Beweisaufnahme, Urteilsentwurf. Pruefraster fuer Berufseinsteiger und Referendare.
 
 # Urb: Relationstechnik Bauleiter
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `urteilsbauer-relationsmacher`. Er ergaenzt die 
 
 ## 2. `urb-tatbestand-entscheidungsgruende-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Tatbestand und Entscheidungsgruende: streitiges und unstreitiges Vorbringen, prozessualer Antraege, Entscheidungsgruende stringent. Pruefraster.
+**Fokus:** Leitfaden Tatbestand und Entscheidungsgruende: streitiges und unstreitiges Vorbringen, prozessualer Antraege, Entscheidungsgruende stringent. Pruefraster.
 
 # Urb: Tatbestand Gruende
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `urteilsbauer-relationsmacher`. Er ergaenzt die 
 
 ## 3. `urb-versaeumnisurteil-einspruch-spezial`
 
-**Frühere Beschreibung:** Spezialfall Versaeumnisurteil und Einspruch §§ 330 ff. ZPO: Voraussetzungen, Einspruchsfrist, Kosten, Tenor. Pruefraster fuer Klaeger und Beklagter.
+**Fokus:** Spezialfall Versaeumnisurteil und Einspruch §§ 330 ff. ZPO: Voraussetzungen, Einspruchsfrist, Kosten, Tenor. Pruefraster fuer Klaeger und Beklagter.
 
 # Urb: Versaeumnisurteil Einspruch
 

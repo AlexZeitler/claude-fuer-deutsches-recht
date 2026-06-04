@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-vbr-098-smart-device-bis-verbraucherrecht-beh
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (vbr-098-smart-device-klagepfad-skizzieren, vbr-099-smart-device-vergleich-vorschlagen, verbraucherrecht-abo-kuendigung-button, verbraucherrecht-behoerden-beschwerden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 098 Smart Device Klagepfad Skizzieren, Vbr 099 Smart Device Vergleich Vorschlagen, Verbraucherrecht Abo Kuendigung Button, Verbraucherrecht Behoerden Beschwerden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 098 Smart Device Klagepfad Skizzieren bis Verbraucherrecht Behoerden Beschwerden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-098-smart-device-klagepfad-skizzieren` | Verbraucherschutzrecht Prüfer: Smart Device: Klagepfad skizzieren. Klagepfad skizzieren für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-099-smart-device-vergleich-vorschlagen` | Verbraucherschutzrecht Prüfer: Smart Device: Vergleich vorschlagen. Vergleich vorschlagen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-098-smart-device-klagepfad-skizzieren`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Smart Device: Klagepfad skizzieren. Klagepfad skizzieren für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Smart Device: Klagepfad skizzieren. Klagepfad skizzieren für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Smart Device Klagepfad Skizzieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-099-smart-device-vergleich-vorschlagen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Smart Device: Vergleich vorschlagen. Vergleich vorschlagen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Smart Device: Vergleich vorschlagen. Vergleich vorschlagen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Smart Device Vergleich Vorschlagen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `verbraucherrecht-abo-kuendigung-button`
 
-**Frühere Beschreibung:** Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.; Normanker: BGB § 312k, § 309 Nr. 9; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Abo, Kündigungsbutton und Laufzeitfallen: Dauerschuldverhältnis, Online-Kündigung, Verlängerung und Nachweis.
 
@@ -168,7 +168,7 @@ BGB § 312k, § 309 Nr. 9; UWG. Der aktuelle Normtext, insbesondere BGB/EGBGB un
 
 ## 4. `verbraucherrecht-behoerden-beschwerden`
 
-**Frühere Beschreibung:** Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.; Normanker: VSBG; Fachaufsichtsrecht; DSGVO; EnWG/BNetzA; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.; Normanker: VSBG; Fachaufsichtsrecht; DSGVO; EnWG/BNetzA; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Behörden- und Ombudsstellenrouter: Verbraucherzentrale, Schlichtung, BaFin, BNetzA, Datenschutz, Marktüberwachung.
 

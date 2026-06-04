@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-agb-kontrolle-b2b-un-bis-arbeitsrecht-bewerbe
-description: "nda-verschwiegenheit-generator-checker: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (agb-kontrolle-b2b-und-b2c, angemessene-geheimhaltungsmassnahmen, anwaltliche-mandatsgeheimnisse, arbeitsrecht-bewerber-und-recruiting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-verschwiegenheit-generator-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agb Kontrolle B2b Und B2c, Angemessene Geheimhaltungsmassnahmen, Anwaltliche Mandatsgeheimnisse, Arbeitsrecht Bewerber Und Recruiting; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - nda-verschwiegenheit-generator-checker
+# Arbeitsbereich - Agb Kontrolle B2b Und B2c bis Arbeitsrecht Bewerber Und Recruiting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agb-kontrolle-b2b-und-b2c` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `angemessene-geheimhaltungsmassnahmen` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agb-kontrolle-b2b-und-b2c`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Agb Kontrolle B2B Und B2C; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Agb Kontrolle B2B Und B2C
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `angemessene-geheimhaltungsmassnahmen`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Angemessene Geheimhaltungsmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Angemessene Geheimhaltungsmassnahmen
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `anwaltliche-mandatsgeheimnisse`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Anwaltliche Mandatsgeheimnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Anwaltliche Mandatsgeheimnisse
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `arbeitsrecht-bewerber-und-recruiting`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Arbeitsrecht Bewerber Und Recruiting; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Arbeitsrecht Bewerber Und Recruiting
 

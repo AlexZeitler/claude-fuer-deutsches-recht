@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-presseanfragen-und-k-bis-rechtsanwaltliche-vo
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (presseanfragen-und-kdv, psychische-belastung-und-beratung, qualitaetsgate-vor-ausgabe, recht-auf-entscheidung-mein-gewissen-schlaeft-nicht, rechtsanwaltliche-vollmacht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Presseanfragen Und Kdv, Psychische Belastung Und Beratung, Qualitaetsgate Vor Ausgabe, Recht Auf Entscheidung Mein Gewissen Schlaeft Nicht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Presseanfragen Und Kdv bis Rechtsanwaltliche Vollmacht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `presseanfragen-und-kdv` | Hilft bei öffentlicher Kommunikation ohne Verfahrensschaden. |
 | `psychische-belastung-und-beratung` | Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `presseanfragen-und-kdv`
 
-**Frühere Beschreibung:** Hilft bei öffentlicher Kommunikation ohne Verfahrensschaden.
+**Fokus:** Hilft bei öffentlicher Kommunikation ohne Verfahrensschaden.
 
 # Presseanfragen
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `psychische-belastung-und-beratung`
 
-**Frühere Beschreibung:** Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung.
+**Fokus:** Routet Belastungen durch Gewissenskonflikt zu Hilfe ohne Pathologisierung.
 
 # Psychische Belastung
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `qualitaetsgate-vor-ausgabe`
 
-**Frühere Beschreibung:** Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung.
+**Fokus:** Erzwingt Normstand, Behördenstand, Statusprüfung, Quellenhygiene und Abgrenzung zur Totalverweigerung.
 
 # Qualitätsgate vor Ausgabe
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `recht-auf-entscheidung-mein-gewissen-schlaeft-nicht`
 
-**Frühere Beschreibung:** Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf.
+**Fokus:** Formuliert grundrechtsbewusst, warum eine ernste Gewissensentscheidung nicht beliebig liegen bleiben darf.
 
 # Recht auf Entscheidung
 
@@ -250,7 +250,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 5. `rechtsanwaltliche-vollmacht`
 
-**Frühere Beschreibung:** Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte.
+**Fokus:** Erstellt Vollmacht, Akteneinsicht und Zustellungsbitte.
 
 # Anwaltliche Vollmacht
 

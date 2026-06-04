@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-spezial-rechtsschutz-bis-designrecht-praxis-g
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (spezial-rechtsschutz-fristen-form-und-zustaendigkeit, spezial-schadensersatz-abschlussprodukt-und-uebergabe, designrecht-praxis-grundlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Uebergabe, Designrecht Praxis Grundlagen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Rechtsschutz Fristen Form Und Zustaendigkeit, Schadensersatz Abschlussprodukt Und Uebergabe, Designrecht Praxis Grundlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-rechtsschutz-fristen-form-und-zustaendigkeit` | Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr. |
 | `spezial-schadensersatz-abschlussprodukt-und-uebergabe` | Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-rechtsschutz-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
+**Fokus:** Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz: Klagefrist, Verjährung, Widerspruchsfristen DPMA/EUIPO, Beschwerdefristen BPatG, gerichtliche Zuständigkeit (LG/OLG/BGH), Formvorschriften, elektronischer Rechtsverkehr.
 
 # Fristen, Form und Zuständigkeit im gewerblichen Rechtsschutz
 
@@ -151,7 +151,7 @@ Dieser Skill liefert eine systematische Übersicht der Fristen, Formvorschriften
 
 ## 2. `spezial-schadensersatz-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten.
+**Fokus:** Schadensersatz-Abschlussprodukt und Übergabe: Schadensberechnung abschließen, Vergleichsverhandlung, Zahlungsvereinbarung, Vollstreckung des Schadensersatzurteils, Abschluss-Memo und Übergabe an Mandanten.
 
 # Schadensersatz: Abschlussprodukt und Übergabe
 
@@ -292,7 +292,7 @@ III. Übergabe an Mandant
 
 ## 3. `designrecht-praxis-grundlagen`
 
-**Frühere Beschreibung:** Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis.
+**Fokus:** Designrecht in der Praxis: DesignG (ex GeschmMG), Schutzvoraussetzungen Neuheit und Eigenart, Anmeldung DPMA, Gemeinschaftsgeschmacksmuster EUIPO, eingetragenes und nicht eingetragenes Gemeinschaftsgeschmacksmuster. Verletzungsfolgen, einstweilige Verfügung, Schadensersatz-Berechnung. Prüfraster für Modemarkenpraxis.
 
 # Designrecht in der Praxis
 

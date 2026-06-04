@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-stv-089-ladezone-kar-bis-stv-092-schulstrasse
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (stv-089-ladezone-karte-bauen, stv-090-ladezone-risiko-erklaeren, stv-091-schulstrasse-regel-pruefen, stv-092-schulstrasse-zeichen-auslegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 089 Ladezone Karte Bauen, Stv 090 Ladezone Risiko Erklaeren, Stv 091 Schulstrasse Regel Pruefen, Stv 092 Schulstrasse Zeichen Auslegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 089 Ladezone Karte Bauen bis Stv 092 Schulstrasse Zeichen Auslegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-089-ladezone-karte-bauen` | Straßenverkehrsrecht StVO: Ladezone: Karte bauen. Karte bauen für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-090-ladezone-risiko-erklaeren` | Straßenverkehrsrecht StVO: Ladezone: Risiko erklären. Risiko erklären für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-089-ladezone-karte-bauen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Ladezone: Karte bauen. Karte bauen für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Ladezone: Karte bauen. Karte bauen für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ladezone Karte Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-090-ladezone-risiko-erklaeren`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Ladezone: Risiko erklären. Risiko erklären für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Ladezone: Risiko erklären. Risiko erklären für Ladezone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ladezone Risiko Erklaeren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-091-schulstrasse-regel-pruefen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Schulstraße: Regel prüfen. Regel prüfen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Schulstraße: Regel prüfen. Regel prüfen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schulstrasse Regel Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-092-schulstrasse-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Schulstraße: Zeichen auslegen. Zeichen auslegen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Schulstraße: Zeichen auslegen. Zeichen auslegen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schulstrasse Zeichen Auslegen
 

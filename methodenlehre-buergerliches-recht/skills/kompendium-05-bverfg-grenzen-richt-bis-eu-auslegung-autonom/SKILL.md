@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bverfg-grenzen-richt-bis-eu-auslegung-autonom
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (bverfg-grenzen-richterlicher-rechtsfortbildung, diskurstheorie-habermas-alexy, dworkin-prinzipien-integritaet-zivilrecht, empirie-im-zivilrecht-quellenkritik, eu-auslegung-autonom-mehrsprachig) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bverfg Grenzen Richterlicher Rechtsfortbildung, Diskurstheorie Habermas Alexy, Dworkin Prinzipien Integritaet Zivilrecht, Empirie Im Zivilrecht Quellenkritik und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Bverfg Grenzen Richterlicher Rechtsfortbildung bis Eu Auslegung Autonom Mehrsprachig
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bverfg-grenzen-richterlicher-rechtsfortbildung` | Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht. |
 | `diskurstheorie-habermas-alexy` | Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann). |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bverfg-grenzen-richterlicher-rechtsfortbildung`
 
-**Frühere Beschreibung:** Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht.
+**Fokus:** Analysiert die vom BVerfG gezogenen Grenzen richterlicher Rechtsfortbildung im Zivilrecht. Das Skill systematisiert die maßgebliche Verfassungsrechtsprechung zu Art. 20 Abs. 3 GG und Art. 2 Abs. 1 GG und zeigt auf, wann Zivilgerichte die verfassungsrechtlich zulässige Rechtsfortbildung überschreiten. Geeignet für Verfassungsbeschwerden, Revisionsrügen und wissenschaftliche Stellungnahmen zu richterlicher Eigenmacht.
 
 # BVerfG-Grenzen richterlicher Rechtsfortbildung
 
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `diskurstheorie-habermas-alexy`
 
-**Frühere Beschreibung:** Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann).
+**Fokus:** Diskurstheorie und juristische Argumentation. Juergen Habermas, Faktizitaet und Geltung 1992. Robert Alexy, Theorie der juristischen Argumentation 1978. Diskursregeln, rationaler Diskurs, Anspruch auf Richtigkeit. Verhaeltnis allgemein-praktischer und juristischer Diskurs. Konsequenzen fuer Auslegung und Begruendung. Anwendung im Zivilrecht: Generalklauseln, Verhaeltnismaessigkeit, Abwaegung. Kritik (insbesondere von Luhmann).
 
 # Diskurstheorie und juristische Argumentation (Habermas / Alexy)
 
@@ -245,7 +245,7 @@ Stand: Mai 2026.
 
 ## 3. `dworkin-prinzipien-integritaet-zivilrecht`
 
-**Frühere Beschreibung:** Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente.
+**Fokus:** Überträgt Dworkins Regeln/Prinzipien-Analyse auf zivilrechtliche Auslegung, Generalklauseln, richterliche Rechtsfortbildung und Schriftsatzargumente.
 
 # Dworkin im Zivilrecht: Prinzipien, Integrität und hard cases
 
@@ -264,7 +264,7 @@ Schriftsatzbaustein mit zwei Ebenen: erst positive Rechtsquellen, dann Prinzipie
 
 ## 4. `empirie-im-zivilrecht-quellenkritik`
 
-**Frühere Beschreibung:** Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit.
+**Fokus:** Prüft den methodisch korrekten Umgang mit empirischen Quellen in zivilrechtlichen Entscheidungen und Gutachten. Das Skill analysiert, welche empirischen Befunde in rechtliche Argumentation einbezogen werden dürfen, wie Studien und Statistiken quellenkritisch bewertet werden und wo die Grenzen zwischen Tatsachenfeststellung und normativer Wertung verlaufen. Geeignet für Sachverständigengutachten, Schadensersatzprozesse und rechtstatsächliche Grundlagenarbeit.
 
 # Empirie im Zivilrecht: Quellenkritik und methodischer Umgang
 
@@ -354,7 +354,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `eu-auslegung-autonom-mehrsprachig`
 
-**Frühere Beschreibung:** Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen.
+**Fokus:** Leitet durch die autonome und mehrsprachige Auslegung von EU-Recht im Zivilrecht. Das Skill erklärt den methodischen Vorrang der unionsautonomen Begriffsbestimmung vor nationalen Auslegungstraditionen und zeigt, wie bei Divergenzen zwischen den Sprachfassungen des EU-Rechts vorzugehen ist. Geeignet für internationale Vertragsrecht, Verbraucherschutzrecht, Datenschutz und alle Bereiche mit unionsrechtlichem Regelungsrahmen.
 
 # EU-Auslegung: Autonom und mehrsprachig
 

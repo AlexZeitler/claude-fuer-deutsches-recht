@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-pflichtteils-bis-nachlassinsolvenz-er
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-pflichtteilsergaenzung-frist-naechster-schritt, fachanwalt-erbrecht-testamentsentwurf, nachlassinsolvenz-erbenhaftung-begrenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pflichtteilsergaenzung Frist Naechster Schritt, Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-erbrecht
+# Arbeitsbereich - Pflichtteilsergaenzung Frist Naechster Schritt, Erbrecht Testamentsentwurf, Nachlassinsolvenz Erbenhaftung Begrenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-pflichtteilsergaenzung-frist-naechster-schritt` | Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-erbrecht-testamentsentwurf` | Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht für Pflichtteilsberechnungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-pflichtteilsergaenzung-frist-naechster-schritt`
 
-**Frühere Beschreibung:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Pflichtteilsergaenzung: Fristennotiz und nächster Schritt im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Pflichtteilsergaenzung: Fristennotiz und nächster Schritt
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-erbrecht-testamentsentwurf`
 
-**Frühere Beschreibung:** Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht für Pflichtteilsberechnungen.
+**Fokus:** Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Prüfraster: Testierfähigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht für Pflichtteilsberechnungen.
 
 # Testamentsentwurf
 
@@ -169,7 +169,7 @@ Saemtliche Verfuegungen sind wechselbezueglich § 2270 BGB.
 
 ## 3. `nachlassinsolvenz-erbenhaftung-begrenzen`
 
-**Frühere Beschreibung:** Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung).
+**Fokus:** Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung).
 
 # Nachlassinsolvenz und Erbenhaftung begrenzen
 

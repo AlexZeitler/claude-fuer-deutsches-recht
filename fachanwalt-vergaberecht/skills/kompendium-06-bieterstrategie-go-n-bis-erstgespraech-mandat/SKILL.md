@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bieterstrategie-go-n-bis-erstgespraech-mandat
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (bieterstrategie-go-no-go, eforms-ted-bekanntmachung-check, eignung-referenzen-umsatz-nachunternehmer, erstgespraech-mandatsannahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bieterstrategie Go No Go, Eforms Ted Bekanntmachung Check, Eignung Referenzen Umsatz Nachunternehmer, Erstgespraech Mandatsannahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-vergaberecht
+# Arbeitsbereich - Bieterstrategie Go No Go bis Erstgespraech Mandatsannahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bieterstrategie-go-no-go` | Bieterstrategie und Go/No-Go fuer Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen. |
 | `eforms-ted-bekanntmachung-check` | eForms, TED und Bekanntmachungen pruefen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bieterstrategie-go-no-go`
 
-**Frühere Beschreibung:** Bieterstrategie und Go/No-Go fuer Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen.
+**Fokus:** Bieterstrategie und Go/No-Go fuer Ausschreibungen: Chancen, Aufwand, Rugepunkte, Preisstrategie, Nachunternehmer, Ausschlussrisiken und Eskalationsoptionen.
 
 # Bieterstrategie Go/No-Go
 
@@ -93,7 +93,7 @@ Go/No-Go-Tabelle, Risiko-/Chancenbild, Aufgabenplan, Managementsummary.
 
 ## 2. `eforms-ted-bekanntmachung-check`
 
-**Frühere Beschreibung:** eForms, TED und Bekanntmachungen pruefen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen.
+**Fokus:** eForms, TED und Bekanntmachungen pruefen: Bekanntmachungsfehler, CPV, Fristen, Auftragsbeschreibung, Eignung/Zuschlag, Berichtigung und Rechtsfolgen.
 
 # eForms/TED Bekanntmachungscheck
 
@@ -157,7 +157,7 @@ Bekanntmachungsmatrix, Fehlerliste, Berichtigungsvorschlag, Rugefrist-Hinweis.
 
 ## 3. `eignung-referenzen-umsatz-nachunternehmer`
 
-**Frühere Beschreibung:** Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.
+**Fokus:** Eignung vertieft pruefen: Referenzen, Mindestumsatz, technische Leistungsfaehigkeit, EEE, Nachunternehmer, Eignungsleihe, Konsortien und Nachforderung.
 
 # Eignung, Referenzen und Eignungsleihe
 
@@ -221,7 +221,7 @@ Eignungsmatrix, Nachforderungscheck, Ausschlussrisiko, Ruge-/Verteidigungslinie.
 
 ## 4. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 

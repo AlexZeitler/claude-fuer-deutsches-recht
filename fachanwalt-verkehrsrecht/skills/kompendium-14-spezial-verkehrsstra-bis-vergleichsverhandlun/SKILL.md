@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-verkehrsstra-bis-vergleichsverhandlun
-description: "fachanwalt-verkehrsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-verkehrsstrafrecht-mehrparteien-konflikt-und-interessen, spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine, vergleichsverhandlung-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verkehrsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-verkehrsrecht
+# Arbeitsbereich - Verkehrsstrafrecht Mehrparteien Konflikt Und Interessen, Verkehrsunfall Schriftsatz Brief Und Memo Bausteine, Vergleichsverhandlung Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verkehrsstrafrecht-mehrparteien-konflikt-und-interessen` | Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine` | Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verkehrsstrafrecht-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verkehrsstrafrecht: Mehrparteienkonflikt und Interessenmatrix
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verkehrsunfall-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verkehrsunfall: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 # Vergleichsverhandlung und Einigung im Verkehrsrecht (Unfall-, OWi- und Verkehrsstrafrecht)
 

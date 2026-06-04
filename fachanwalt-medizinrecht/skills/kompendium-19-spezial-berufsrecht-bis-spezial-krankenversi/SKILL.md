@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-berufsrecht-bis-spezial-krankenversi
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 19; bündelt 6 frühere Spezialskills (spezial-berufsrecht-verhandlung-vergleich-und-eskalation, spezial-bgb-risikoampel-und-gegenargumente, spezial-einwilligung-sonderfall-und-edge-case, spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-kanzlei-red-team-und-qualitaetskontrolle und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufsrecht Verhandlung Vergleich Und Eskalation, Bgb Risikoampel Und Gegenargumente, Einwilligung Sonderfall Und Edge Case, Fachanwalt Erstpruefung Und Mandatsziel und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-medizinrecht
+# Arbeitsbereich - Berufsrecht Verhandlung Vergleich Und Eskalation bis Krankenversicherung Zahlen Schwellen Und Berechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-berufsrecht-verhandlung-vergleich-und-eskalation` | Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-bgb-risikoampel-und-gegenargumente` | BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-berufsrecht-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berufsrecht: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Berufsrecht: Verhandlung, Vergleich und Eskalation
 
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bgb-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # BGB: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-einwilligung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Einwilligung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einwilligung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Einwilligung: Sonderfall und Edge-Case-Prüfung
 
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -195,7 +195,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-kanzlei-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kanzlei: Red-Team und Qualitätskontrolle
 
@@ -236,7 +236,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 6. `spezial-krankenversicherung-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Krankenversicherung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Krankenversicherung: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Krankenversicherung: Zahlen, Schwellenwerte und Berechnung
 

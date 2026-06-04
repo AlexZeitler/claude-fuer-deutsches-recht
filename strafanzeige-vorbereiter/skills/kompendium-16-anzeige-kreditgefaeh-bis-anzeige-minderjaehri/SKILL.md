@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-anzeige-kreditgefaeh-bis-anzeige-minderjaehri
-description: "strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (anzeige-kreditgefaehrdung-824-bgb, anzeige-minderjaehrige-schule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafanzeige-vorbereiter: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anzeige Kreditgefaehrdung 824 Bgb, Anzeige Minderjaehrige Schule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - strafanzeige-vorbereiter
+# Arbeitsbereich - Anzeige Kreditgefaehrdung 824 Bgb, Anzeige Minderjaehrige Schule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anzeige-kreditgefaehrdung-824-bgb` | Zivilrechtliches Haftungsrisiko bei Behauptungen über Insolvenz, Betrug, Zahlungsunfähigkeit oder Unzuverlässigkeit. |
 | `anzeige-minderjaehrige-schule` | Strafanzeige bei Minderjährigen/Schule: Jugendstrafrecht, Schutz, Schulrecht, Eltern, Jugendamt und Deeskalation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anzeige-kreditgefaehrdung-824-bgb`
 
-**Frühere Beschreibung:** Zivilrechtliches Haftungsrisiko bei Behauptungen über Insolvenz, Betrug, Zahlungsunfähigkeit oder Unzuverlässigkeit.
+**Fokus:** Zivilrechtliches Haftungsrisiko bei Behauptungen über Insolvenz, Betrug, Zahlungsunfähigkeit oder Unzuverlässigkeit.
 
 # Kreditgefährdung § 824 BGB
 
@@ -65,7 +65,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `anzeige-minderjaehrige-schule`
 
-**Frühere Beschreibung:** Strafanzeige bei Minderjährigen/Schule: Jugendstrafrecht, Schutz, Schulrecht, Eltern, Jugendamt und Deeskalation.
+**Fokus:** Strafanzeige bei Minderjährigen/Schule: Jugendstrafrecht, Schutz, Schulrecht, Eltern, Jugendamt und Deeskalation.
 
 # Minderjährige, Schule und Jugendamt
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-strafrecht-spezial-c-bis-strafrecht-spezial-g
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 14; bündelt 10 frühere Spezialskills (strafrecht-spezial-computerbetrug-263a-stgb, strafrecht-spezial-design-strafrecht-51-designg, strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb, strafrecht-spezial-faktische-geschaeftsfuehrer, strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Computerbetrug 263a Stgb, Strafrecht Spezial Design Strafrecht 51 Designg, Strafrecht Spezial Erpresserischer Menschenraub 239a 239b Stgb, Strafrecht Spezial Faktische Geschaeftsfuehrer und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Computerbetrug 263a Stgb bis Strafrecht Spezial Gmbh Unrichtige Darstellung 82 Gmbhg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-computerbetrug-263a-stgb` | Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off. |
 | `strafrecht-spezial-design-strafrecht-51-designg` | Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-computerbetrug-263a-stgb`
 
-**Frühere Beschreibung:** Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off.
+**Fokus:** Computerbetrug § 263a StGB: Anwendungsfall Verteidigung bei Manipulation EC- und Kreditkarte, Skimming, Phishing, missbraeuchliche Online-Banking-Nutzung, Crypto-Wallet-Drainage. Pruefraster Tathandlungen unrichtige Gestaltung des Programms, unbefugte Verwendung von Daten, sonstige unbefugte Einwirkung. Trade-offs zwischen Bestreiten Datenherkunft, Aufklaerungshilfe, Wiedergutmachung. Output Verteidigungsmemo mit Subsumtionsmuster und Strafzumessungs-Trade-off.
 
 # Computerbetrug § 263a StGB
 
@@ -138,7 +138,7 @@ Spezial-Mandat: Vorwurf Computerbetrug. Praxistypisch: Missbrauch Online-Banking
 
 ## 2. `strafrecht-spezial-design-strafrecht-51-designg`
 
-**Frühere Beschreibung:** Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht.
+**Fokus:** Strafvorschriften des Designgesetzes Paragraph 51 DesignG. Vorsaetzliche Designverletzung. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt. Eingetragenes Design Nichtbenutzungseinwand. Praxis Fashion Mode Konsumgueter. Verteidigung Schutzfaehigkeit Vorbenutzung Eigentuemlichkeit Vorsatz. Abgrenzung Marke Patent Urheberrecht.
 
 # Strafvorschriften des Designgesetzes nach Paragraph 51 DesignG
 
@@ -231,7 +231,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Anzahl verkaufter Stuecke, Umsatz, S
 
 ## 3. `strafrecht-spezial-erpresserischer-menschenraub-239a-239b-stgb`
 
-**Frühere Beschreibung:** Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren.
+**Fokus:** Erpresserischer Menschenraub § 239a StGB und Geiselnahme § 239b StGB. Entfuehrung oder Bemaechtigung eines Menschen zur Erpressung oder zur Noetigung. Restriktive Auslegung durch staendige BGH-Rechtsprechung bei Zwei-Personen-Verhaeltnis. Strafrahmen nicht unter fuenf Jahren; mit Todesfolge Abs. 3 lebenslang oder nicht unter zehn Jahren.
 
 # Erpresserischer Menschenraub und Geiselnahme §§ 239a, 239b StGB
 
@@ -339,7 +339,7 @@ Strafrahmen:
 
 ## 4. `strafrecht-spezial-faktische-geschaeftsfuehrer`
 
-**Frühere Beschreibung:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln fuer andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien fuer faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
+**Fokus:** Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht. Paragraph 14 StGB Handeln fuer andere. Strafbarkeit nach Paragraph 283 ff. StGB und Paragraph 84 GmbHG auch ohne Eintragung. BGH-Kriterien fuer faktische GF-Stellung. Strohmann-Konstellationen und Hintermaenner. Verteidigung gegen den Vorwurf der faktischen Geschaeftsfuehrung.
 
 # Faktische Geschaeftsfuehrer im Wirtschaftsstrafrecht
 
@@ -454,7 +454,7 @@ Bei Geschaeftsfuehrungsteam koennen *mehrere* Personen faktisch GF sein. Gesamts
 
 ## 5. `strafrecht-spezial-falschbeurkundung-348-stgb-und-271-stgb`
 
-**Frühere Beschreibung:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft fuer und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
+**Fokus:** Falschbeurkundung im Amt nach Paragraph 348 StGB und mittelbare Falschbeurkundung nach Paragraph 271 StGB. Oeffentliche Urkunde mit Beweiskraft fuer und gegen jedermann. Tathandlung Beurkunden einer rechtserheblichen Tatsache als wahr obwohl falsch. Praxisbezug Standesamt Notar Grundbuch Auslaenderbehoerde Schiffsregister. Konkurrenzen.
 
 # Falschbeurkundung im Amt Paragraph 348 StGB und mittelbare Falschbeurkundung Paragraph 271 StGB
 
@@ -570,7 +570,7 @@ Definition Paragraph 415 ZPO: Urkunde, die von einer oeffentlichen Behoerde inne
 
 ## 6. `strafrecht-spezial-gefaehrliche-koerperverletzung-224-stgb`
 
-**Frühere Beschreibung:** Gefaehrliche Koerperverletzung nach § 224 StGB. Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteiligten gemeinschaftlich; Nr. 5 lebensgefaehrdende Behandlung. Strafrahmen sechs Monate bis zehn Jahre.
+**Fokus:** Gefaehrliche Koerperverletzung nach § 224 StGB. Qualifikationen Nr. 1 Gift und gesundheitsschaedliche Stoffe; Nr. 2 Waffe oder gefaehrliches Werkzeug; Nr. 3 hinterlistiger Ueberfall; Nr. 4 mit anderen Beteiligten gemeinschaftlich; Nr. 5 lebensgefaehrdende Behandlung. Strafrahmen sechs Monate bis zehn Jahre.
 
 # Gefaehrliche Koerperverletzung § 224 StGB
 
@@ -669,7 +669,7 @@ In der Verteidigung sind die zentralen Streitfragen: Was ist ein "gefaehrliches 
 
 ## 7. `strafrecht-spezial-geldwaesche-261-stgb-neu-2021`
 
-**Frühere Beschreibung:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo fuer Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
+**Fokus:** Geldwaesche § 261 StGB Reform 2021 All-Crimes-Approach: Anwendungsfall Verteidigung seit Wegfall des Vortatkatalogs jede Straftat tauglich als Vortat. Pruefraster Tathandlungen Verbergen Verheimlichen Umtauschen Sichverschaffen Verwenden Verwahren. Subjektiver Tatbestand inklusive Leichtfertigkeit Abs. 6. Trade-offs Selbstanzeige § 261 Abs. 8 StGB Vortat-Beweis Money Mule Verteidigung. Strafrahmen drei Monate bis fuenf Jahre Grundtatbestand. Output Verteidigungsmemo fuer Kryptotransaktionen Bargeldgeschaefte Cum Ex Money Mules.
 
 # Geldwaesche § 261 StGB Reform 2021 (All-Crimes-Approach)
 
@@ -799,7 +799,7 @@ wird nicht bestraft, wenn die Tat in diesem Zeitpunkt nicht ganz oder zum Teil b
 
 ## 8. `strafrecht-spezial-geschgehg-23-strafvorschriften`
 
-**Frühere Beschreibung:** Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschaeftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing.
+**Fokus:** Strafvorschriften des Geschaeftsgeheimnisgesetzes Paragraph 23 GeschGehG. Erlangen Nutzen Offenlegen geschuetzter Geschaeftsgeheimnisse. Strafrahmen bis 3 Jahre Freiheitsstrafe gewerblich bis 5 Jahre. Ersetzt Paragraph 17 UWG aF seit 26.04.2019. Antragsdelikt mit Ausnahmen. Insider-Datenklau ehemalige Mitarbeiter Auslandsspionage. Verteidigung Geheimnisbegriff angemessene Geheimhaltungsmassnahmen Whistleblowing.
 
 # Strafvorschriften des Geschaeftsgeheimnisgesetzes nach Paragraph 23 GeschGehG
 
@@ -898,7 +898,7 @@ Strafrahmen Paragraph 23 Abs 1 GeschGehG: bis drei Jahre Freiheitsstrafe oder Ge
 
 ## 9. `strafrecht-spezial-glaeubigerbeguenstigung-283c-stgb`
 
-**Frühere Beschreibung:** Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfechtung. Verteidigung mit Bargeschaeftsausnahme Paragraph 142 InsO und Sanierungsversuch.
+**Fokus:** Glaeubigerbeguenstigung nach Paragraph 283c StGB. Bevorzugte Befriedigung eines Glaeubigers in der Krise zum Nachteil der Glaeubigergesamtheit. Tatbestand inkongruente Deckung und kongruente Deckung. Abgrenzung Paragraph 130 InsO Anfechtung. Verteidigung mit Bargeschaeftsausnahme Paragraph 142 InsO und Sanierungsversuch.
 
 # Glaeubigerbeguenstigung nach Paragraph 283c StGB
 
@@ -997,7 +997,7 @@ Wieder: Eintritt der Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag.
 
 ## 10. `strafrecht-spezial-gmbh-unrichtige-darstellung-82-gmbhg`
 
-**Frühere Beschreibung:** Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 StGB und Paragraph 331 HGB. Praxisrelevanz Gruendung Kapitalerhoehung Sanierung.
+**Fokus:** Falsche Angaben des Geschaeftsfuehrers nach Paragraph 82 GmbHG. Strafbarkeit bei unrichtiger Darstellung in Anmeldungen Gesellschafterversammlungen Pruefungsberichten. Schutzgut Vertrauen des Rechtsverkehrs. Abgrenzung zu Paragraph 263 StGB und Paragraph 331 HGB. Praxisrelevanz Gruendung Kapitalerhoehung Sanierung.
 
 # Falsche Angaben nach Paragraph 82 GmbHG
 

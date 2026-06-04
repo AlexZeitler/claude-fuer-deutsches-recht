@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-owi-071-baurecht-tat-bis-owi-075-baurecht-ein
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (owi-071-baurecht-tatbestand-zerlegen, owi-073-baurecht-akteneinsicht-schreiben, owi-074-baurecht-einspruch-begruenden, owi-075-baurecht-einstellung-anregen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 071 Baurecht Tatbestand Zerlegen, Owi 073 Baurecht Akteneinsicht Schreiben, Owi 074 Baurecht Einspruch Begruenden, Owi 075 Baurecht Einstellung Anregen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 071 Baurecht Tatbestand Zerlegen bis Owi 075 Baurecht Einstellung Anregen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-071-baurecht-tatbestand-zerlegen` | Ordnungswidrigkeitenrecht: Baurecht: Tatbestand zerlegen. Tatbestand zerlegen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-073-baurecht-akteneinsicht-schreiben` | Ordnungswidrigkeitenrecht: Baurecht: Akteneinsicht schreiben. Akteneinsicht schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-071-baurecht-tatbestand-zerlegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Baurecht: Tatbestand zerlegen. Tatbestand zerlegen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Baurecht: Tatbestand zerlegen. Tatbestand zerlegen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Baurecht Tatbestand Zerlegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-073-baurecht-akteneinsicht-schreiben`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Baurecht: Akteneinsicht schreiben. Akteneinsicht schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Baurecht: Akteneinsicht schreiben. Akteneinsicht schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Baurecht Akteneinsicht Schreiben
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-074-baurecht-einspruch-begruenden`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Baurecht: Einspruch begründen. Einspruch begründen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Baurecht: Einspruch begründen. Einspruch begründen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Baurecht Einspruch Begruenden
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-075-baurecht-einstellung-anregen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Baurecht: Einstellung anregen. Einstellung anregen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Baurecht: Einstellung anregen. Einstellung anregen für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Baurecht Einstellung Anregen
 

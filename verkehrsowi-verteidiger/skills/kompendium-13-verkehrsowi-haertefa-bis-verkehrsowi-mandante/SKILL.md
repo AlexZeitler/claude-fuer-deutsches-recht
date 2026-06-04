@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-verkehrsowi-haertefa-bis-verkehrsowi-mandante
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (verkehrsowi-haertefall-fahrverbot, verkehrsowi-hauptverhandlung-amtsgericht, verkehrsowi-mandantenkommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - verkehrsowi-verteidiger
+# Arbeitsbereich - Verkehrsowi Haertefall Fahrverbot, Verkehrsowi Hauptverhandlung Amtsgericht, Verkehrsowi Mandantenkommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehrsowi-haertefall-fahrverbot` | Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht. |
 | `verkehrsowi-hauptverhandlung-amtsgericht` | Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehrsowi-haertefall-fahrverbot`
 
-**Frühere Beschreibung:** Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht.
+**Fokus:** Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Führerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Prüfraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Prüfung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begründung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht.
 
 # Haertefall-Argumentation beim Fahrverbot — § 25 StVG
 
@@ -101,7 +101,7 @@ VIER-MONATS-FRIST (§ 25 Abs. 2a StVG):
 
 ## 2. `verkehrsowi-hauptverhandlung-amtsgericht`
 
-**Frühere Beschreibung:** Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot.
+**Fokus:** Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und führen: Termin nach Einspruch gegen Bußgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisanträge), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Prüfraster: Beweisanträge (Sachverständiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmöglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot.
 
 # Hauptverhandlung OWi am Amtsgericht
 
@@ -221,7 +221,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `verkehrsowi-mandantenkommunikation`
 
-**Frühere Beschreibung:** Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhoerungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhoerung siehe verkehrsowi-anhoerung-bußgeldbescheid.
+**Fokus:** Mandantenkommunikation im OWi-Mandat: Mandant versteht Verfahren nicht und benoetigt verstaendliche Erklärung. Normen: BRAO § 43a (Beratungspflicht), § 67 OWiG, § 25 StVG. Prüfraster: Erstgespraeche-Leitfaden, Anhoerungsbogen-Empfehlung, Fahrverbot-Erklärung, Punktestand-Abfrage, Terminvorbereitung HV. Output Mandantenbrief-Template, Erklärungsbausteine, Kommunikations-Protokoll. Abgrenzung: Inhaltliche Strategie siehe verkehrsowi-kommandocenter; Anhoerung siehe verkehrsowi-anhoerung-bußgeldbescheid.
 
 # Mandantenkommunikation im OWi-Mandat
 

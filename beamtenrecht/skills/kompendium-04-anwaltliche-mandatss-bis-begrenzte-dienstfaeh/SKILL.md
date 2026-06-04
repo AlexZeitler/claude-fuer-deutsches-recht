@@ -1,38 +1,36 @@
 ---
 name: kompendium-04-anwaltliche-mandatss-bis-begrenzte-dienstfaeh
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 04; bündelt 7 frühere Spezialskills (anwaltliche-mandatsstrategie-beamtenrecht, arbeitszeit-mehrarbeit-und-ruhezeiten, auslandsdienstbezuege-bbesg, auswahlgespraech-dokumentationspflicht, beamtstg-bbg-landesrecht-abgrenzung und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Anwaltliche Mandatsstrategie Beamtenrecht, Arbeitszeit Mehrarbeit Und Ruhezeiten, Auslandsdienstbezuege Bbesg, Auswahlgespraech Dokumentationspflicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - beamtenrecht
+# Arbeitsbereich - Anwaltliche Mandatsstrategie Beamtenrecht bis Auswahlgespraech Dokumentationspflicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaltliche-mandatsstrategie-beamtenrecht` | Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich. |
 | `arbeitszeit-mehrarbeit-und-ruhezeiten` | Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich. |
 | `auslandsdienstbezuege-bbesg` | Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine. |
 | `auswahlgespraech-dokumentationspflicht` | Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen fuer alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine fuer Anfechtung und Konkurrenteneilantrag. |
-| `beamtstg-bbg-landesrecht-abgrenzung` | Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen. |
-| `beforderung-und-erprobung` | Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten. |
-| `begrenzte-dienstfaehigkeit-27-bbg` | Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen fuer die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaltliche-mandatsstrategie-beamtenrecht`
 
-**Frühere Beschreibung:** Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich.
+**Fokus:** Mandatsstrategie im Beamtenrecht: leise Lösung, Widerspruch, Eilverfahren, Presse-/Personalratsrisiken und Vergleich.
+
 
 # Anwaltliche Mandatsstrategie Beamtenrecht
 
@@ -70,7 +68,8 @@ Entwickle eine Strategie mit Eskalationsstufen. Benenne Chancen, Risiken, Nebenw
 
 ## 2. `arbeitszeit-mehrarbeit-und-ruhezeiten`
 
-**Frühere Beschreibung:** Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich.
+**Fokus:** Arbeitszeit, Mehrarbeit, Bereitschaftsdienst, Ruhezeiten und Zeitausgleich.
+
 
 # Arbeitszeit Mehrarbeit Und Ruhezeiten
 
@@ -108,7 +107,8 @@ Prüfe Rechtsgrundlage, Anordnung/Genehmigung, Dokumentation, Verfall und Ausgle
 
 ## 3. `auslandsdienstbezuege-bbesg`
 
-**Frühere Beschreibung:** Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine.
+**Fokus:** Skill zu Auslandsdienstbezuegen im Auswaertigen Dienst und in der Auslandsverwendung. Klaert Auslandszuschlag Kaufkraftausgleich Mietzuschuss Auslandskinderzuschlag Bewertung der Auslandsdienstpostenkategorie und Bezuege bei Hardship-Posten. Behandelt das Verhaeltnis zur Bundesbesoldung und die Besonderheiten bei Verheirateten Lebenspartnern und Familien sowie die Konstellation Zweitwohnsitz im Heimatland und Schulbesuch der Kinder. Liefert Pruefraster und Antragsbausteine.
+
 
 # Auslandsdienstbezuege nach BBesG
 
@@ -173,7 +173,8 @@ Mandant ist Referent Botschaft Tokio, verheiratet, zwei Kinder. Auslandszuschlag
 
 ## 4. `auswahlgespraech-dokumentationspflicht`
 
-**Frühere Beschreibung:** Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen fuer alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine fuer Anfechtung und Konkurrenteneilantrag.
+**Fokus:** Skill zu Anforderungen an strukturierte Auswahlgespraeche und Assessment Center im beamtenrechtlichen Auswahlverfahren. Klaert die Dokumentationspflicht das Erfordernis gleicher Bedingungen fuer alle Bewerber die Beweislast bei Gespraechsfehlern und den Stellenwert eines Auswahlgespraechs gegenueber der dienstlichen Beurteilung. Behandelt typische Fehlerquellen wie ungleiche Fragebloecke fehlende Protokollierung wechselnde Kommissionsbesetzung und Befangenheit. Liefert Schriftsatzbausteine fuer Anfechtung und Konkurrenteneilantrag.
+
 
 # Auswahlgespraech — Dokumentationspflicht und Verfahrensfehler
 
@@ -233,160 +234,3 @@ Skill fuer Bewerber, die im Auswahlverfahren ein strukturiertes Auswahlgespraech
 ## 7. Beispiel (Kurzfassung)
 
 Konkurrentensituation um A15-Stelle. Auswahlgespraech entscheidet, da Beurteilungen gleich. Mandant ruegt: unterschiedliche Fragenkataloge, kein Protokoll, Kommissionsmitglied war im Vorjahr Vorgesetzter der Konkurrentin. Skill liefert Anordnungsanspruch fuer einstweilige Anordnung.
-
-## 5. `beamtstg-bbg-landesrecht-abgrenzung`
-
-**Frühere Beschreibung:** Trennt BeamtStG, BBG, Landesbeamtengesetze und kommunale Sonderregeln; verhindert falsche Normenwahl bei Status, Pflichten, Versetzung, Entlassung und Dienstvergehen.
-
-# BeamtStG, BBG und Landesrecht richtig abgrenzen
-
-## Einstieg
-
-Der Skill fragt zuerst:
-
-- Wer ist Dienstherr?
-- Handelt die Bundesbehörde, ein Land, eine Kommune, Universität, Kammer, Rundfunkanstalt oder sonstige Körperschaft?
-- Geht es um Statusrechte oder um Laufbahn/Besoldung/Versorgung?
-- Gibt es eine Speziallaufbahn: Polizei, Schule, Justizvollzug, Feuerwehr, Steuerverwaltung, Hochschule?
-
-## Grundsätze
-
-Das BeamtStG ist kein vollständiges Beamtenhandbuch. Es setzt gemeinsame statusrechtliche Eckpunkte für Landes- und Kommunalbeamte. Details der Laufbahn, Besoldung, Versorgung und des Verfahrens stehen in Landesgesetzen. Für Bundesbeamte ist das BBG Ausgangspunkt; daneben stehen BBesG, BeamtVG, BDG und Laufbahnverordnungen.
-
-## Abgrenzungsfragen
-
-### Status
-
-- Ernennung, Beamtenverhältnis auf Widerruf/Probe/Lebenszeit/Zeit.
-- Pflichten, Treue, Mäßigung, Dienstvergehen.
-- Entlassung, Verlust der Beamtenrechte, Ruhestand.
-
-### Laufbahn
-
-- Vorbildung, Laufbahngruppe, Fachrichtung.
-- Aufstieg, Anerkennung, Probezeit.
-- Landesrechtliche Öffnungen.
-
-### Besoldung und Versorgung
-
-- Seit 2006 bei Landesbeamten überwiegend Landesrecht.
-- Bundesrecht nur beim Bund und für fortgeltende Übergangslagen.
-
-## Praktische Ausgabe
-
-Der Skill erzeugt eine Normenampel:
-
-| Farbe | Bedeutung |
-| --- | --- |
-| Grün | Norm ist sehr wahrscheinlich einschlägig, muss aber in aktueller Fassung geprüft werden. |
-| Gelb | Norm kann einschlägig sein, hängt an Status/Bundesland/Sonderlaufbahn. |
-| Rot | Norm gehört zu anderem Dienstherrn oder falscher Materie. |
-
-## Mini-Check gegen Halluzination
-
-Wenn der Nutzer ein Aktenzeichen, eine Behördennorm oder eine Verwaltungsvorschrift nennt, prüft der Skill:
-
-- Passt die Norm zum Bundesland?
-- Gibt es eine amtliche Quelle?
-- Ist das Zitat nur aus einer privaten Datenbank?
-- Wird eine Verwaltungsvorschrift fälschlich wie ein Gesetz behandelt?
-
-## 6. `beforderung-und-erprobung`
-
-**Frühere Beschreibung:** Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten.
-
-# Beforderung Und Erprobung
-
-## Aufgabe
-
-Beförderung, Erprobung, Sperrzeiten, Wartezeiten und Beförderungsdienstposten.
-
-## Arbeitsweise
-
-Trenne Statusverleihung von Dienstpostenübertragung. Prüfe laufbahnrechtliche Wartezeiten, Erprobung, Haushaltstelle und Beteiligung von Personalrat/Gleichstellung/Schwerbehindertenvertretung.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 7. `begrenzte-dienstfaehigkeit-27-bbg`
-
-**Frühere Beschreibung:** Skill zur begrenzten Dienstfaehigkeit nach § 27 BBG bzw. § 27 BeamtStG. Klaert die Voraussetzungen fuer die Reduzierung der Arbeitszeit anstatt Versetzung in den Ruhestand das Verhaeltnis zu § 26 BBG Dienstunfaehigkeit die Bezuegehoehe bei begrenzter Dienstfaehigkeit und die Auswirkungen auf die Versorgungsanwartschaft. Behandelt das praktische Vorgehen amtsaerztliches Gutachten Pruefung anderweitiger Verwendung Beruecksichtigung der Belange des Beamten. Liefert Pruefraster und Schriftsatzbausteine.
-
-# Begrenzte Dienstfaehigkeit nach § 27 BBG
-
-## 1. Zweck und Anwendungsfall
-
-Skill fuer Beamte, deren Dienstfaehigkeit eingeschraenkt, aber nicht vollstaendig verloren ist. Anwendung als milderer Eingriff im Verhaeltnis zur Versetzung in den Ruhestand nach § 26 BBG.
-
-## 2. Eingaben
-
-- Amtsaerztliches Gutachten
-- Dienstpostenbeschreibung
-- Vorgesehene Verwendung (anderer Dienstposten?)
-- Stellungnahme des Mandanten
-
-## 3. Ablauf / Checkliste
-
-### a) Voraussetzungen § 27 BBG
-- Beamter ist nicht vollstaendig dienstunfaehig.
-- Restliche Dienstleistung ist mit mindestens 50 v. H. der Arbeitszeit moeglich.
-- Andersweitige Verwendung im Sinne § 26 Abs. 2 BBG ist zu pruefen.
-
-### b) Verhaeltnis zu § 26 BBG
-- § 27 BBG ist die mildere Maszahme; Vorrang vor Versetzung in den Ruhestand.
-- Dienstherr ist verpflichtet, die Moeglichkeit der begrenzten Dienstfaehigkeit zu pruefen.
-
-### c) Bezuege
-- Bezuege werden anteilig der herabgesetzten Arbeitszeit gezahlt; ggf. Ausgleichszahlung nach den landesrechtlichen Vorschriften.
-
-### d) Versorgungsanwartschaft
-- Die Zeit der begrenzten Dienstfaehigkeit ist anteilig ruhegehaltfaehig.
-- Sondervorschriften zur Hochrechnung bei spaeterer Versetzung in den Ruhestand.
-
-### e) Verfahrensschritte
-- Amtsaerztliches Gutachten.
-- Anhoerung Mandant.
-- Bescheid; Rechtsschutz Widerspruch und Klage.
-
-## 4. Quellenpflicht
-
-- Normen: § 27 BBG; § 27 BeamtStG i.V.m. Landesrecht; § 26 BBG.
-- Rspr.: BVerwG zur begrenzten Dienstfaehigkeit — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Antrag oder Widerspruch.
-- Berechnung der reduzierten Bezuege und Versorgungsfolgen.
-
-## 6. Verifizierte Quellenanker
-
-- § 45 BBG (begrenzte Dienstfaehigkeit Bund); § 27 BeamtStG i.V.m. Landesrecht.
-- § 44 BBG (Dienstunfaehigkeit) als Vergleichsmassstab; § 6 BeamtVG (anteilige Ruhegehaltfaehigkeit).
-- Vorrang der milderen Massnahme: anderweitige Verwendung und begrenzte Dienstfaehigkeit vor Ruhestandsversetzung.
-- BVerwG zur begrenzten Dienstfaehigkeit und zur Pruefungspflicht anderweitiger Verwendung — Datum und Az vor Zitat live verifizieren.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandantin Polizeikommissarin mit Bandscheibenleiden, Innen- statt Streifendienst denkbar. Dienstherr will Ruhestand verfuegen. Skill liefert Antrag auf begrenzte Dienstfaehigkeit und Pruefraster anderweitiger Verwendung.

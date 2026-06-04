@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-akteneinsicht-25-sgb-bis-anwaltskosten-bei-er
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (akteneinsicht-25-sgb-x, amtsermittlungsgrundsatz-103-sgg, anfechtungsklage-54-sgg, anlagen-bezeichnen-und-sortieren-sozialgericht, anwaltskosten-bei-erfolg-erstattung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akteneinsicht 25 Sgb X, Amtsermittlungsgrundsatz 103 Sgg, Anfechtungsklage 54 Sgg, Anlagen Bezeichnen Und Sortieren Sozialgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Akteneinsicht 25 Sgb X bis Anwaltskosten Bei Erfolg Erstattung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akteneinsicht-25-sgb-x` | Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage. |
 | `amtsermittlungsgrundsatz-103-sgg` | Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akteneinsicht-25-sgb-x`
 
-**Frühere Beschreibung:** Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage.
+**Fokus:** Akteneinsicht in die Sozialakte nach § 25 SGB X. Skill klaert wann wie und wo Akteneinsicht beantragt wird Beschraenkungen aus § 25 Abs. 3 SGB X (Privatangelegenheiten Dritter Geschaeftsgeheimnisse Schutz Dritter) und das Verhaeltnis zur DSGVO-Auskunft. Liefert Antragsvorlage.
 
 # Akteneinsicht 25 Sgb X
 
@@ -88,7 +88,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `amtsermittlungsgrundsatz-103-sgg`
 
-**Frühere Beschreibung:** Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern.
+**Fokus:** Das Gericht ermittelt für Sie § 103 SGG. Amtsermittlung im Sozialprozess für Buerger ohne Anwalt ein grosser Vorteil. Was das Gericht von Amts wegen tut und was Sie trotzdem mitliefern.
 
 # Das Gericht ermittelt fuer Sie — § 103 SGG
 
@@ -235,7 +235,7 @@ Stand: 05/2026. § 103 SGG ist das Herz des Sozialgerichtsverfahrens. Stark Laie
 
 ## 3. `anfechtungsklage-54-sgg`
 
-**Frühere Beschreibung:** Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt.
+**Fokus:** Die Anfechtungsklage nach § 54 Abs. 1 SGG. Wann passt sie. Beispiele Bescheid weghaben Sanktion aufheben. Antrag Mustertext für Buerger ohne Anwalt.
 
 # Die Anfechtungsklage — § 54 Abs. 1 SGG
 
@@ -386,7 +386,7 @@ Stand: 05/2026. § 54 SGG aktuell. SG hat Hinweis- und Aufklaerungspflicht (§ 1
 
 ## 4. `anlagen-bezeichnen-und-sortieren-sozialgericht`
 
-**Frühere Beschreibung:** Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren.
+**Fokus:** Anlagen zur Klage richtig bezeichnen sortieren und nummerieren. K-Anlagen für Klaeger Anlagenverzeichnis Lesbarkeit. Tipps für Buerger im SG-Verfahren.
 
 # Anlagen zur Klage — sortieren und bezeichnen
 
@@ -524,7 +524,7 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. Standard ist K- bzw. B-Bezeich
 
 ## 5. `anwaltskosten-bei-erfolg-erstattung`
 
-**Frühere Beschreibung:** Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte.
+**Fokus:** Anwaltskosten bei Erfolg vor dem SG erstattet bekommen. RVG-Saetze Streitwert PKH Beiordnung. Praxis für Buerger und ihre Anwaelte.
 
 # Anwaltskosten erstattet bekommen
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-27-kom-157-feuerwehr-la-bis-kom-159-feuerwehr-be
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 27; bündelt 2 frühere Spezialskills (kom-157-feuerwehr-landesrecht-routen, kom-159-feuerwehr-beschluss-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - kommunalrecht-laender
+# Arbeitsbereich - Kom 157 Feuerwehr Landesrecht Routen, Kom 159 Feuerwehr Beschluss Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-157-feuerwehr-landesrecht-routen` | Kommunalrecht der Länder: Feuerwehr: Landesrecht routen. Landesrecht routen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-159-feuerwehr-beschluss-bauen` | Kommunalrecht der Länder: Feuerwehr: Beschluss bauen. Beschluss bauen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-157-feuerwehr-landesrecht-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Feuerwehr: Landesrecht routen. Landesrecht routen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Feuerwehr: Landesrecht routen. Landesrecht routen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Feuerwehr Landesrecht Routen
 
@@ -84,7 +84,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-159-feuerwehr-beschluss-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Feuerwehr: Beschluss bauen. Beschluss bauen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Feuerwehr: Beschluss bauen. Beschluss bauen für Feuerwehr im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Feuerwehr Beschluss Bauen
 

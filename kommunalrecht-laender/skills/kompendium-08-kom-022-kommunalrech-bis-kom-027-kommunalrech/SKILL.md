@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-kom-022-kommunalrech-bis-kom-027-kommunalrech
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 08; bündelt 6 frühere Spezialskills (kom-022-kommunalrecht-bayern-routen, kom-023-kommunalrecht-berlin-routen, kom-024-kommunalrecht-brandenburg-routen, kom-025-kommunalrecht-bremen-routen, kom-026-kommunalrecht-hamburg-routen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 022 Kommunalrecht Bayern Routen, Kom 023 Kommunalrecht Berlin Routen, Kom 024 Kommunalrecht Brandenburg Routen, Kom 025 Kommunalrecht Bremen Routen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - kommunalrecht-laender
+# Arbeitsbereich - Kom 022 Kommunalrecht Bayern Routen bis Kom 027 Kommunalrecht Hessen Routen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-022-kommunalrecht-bayern-routen` | Kommunalrecht der Länder: Kommunalrecht Bayern routen. Kommunalrecht Bayern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-023-kommunalrecht-berlin-routen` | Kommunalrecht der Länder: Kommunalrecht Berlin routen. Kommunalrecht Berlin routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-022-kommunalrecht-bayern-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Bayern routen. Kommunalrecht Bayern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Bayern routen. Kommunalrecht Bayern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Bayern Routen
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-023-kommunalrecht-berlin-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Berlin routen. Kommunalrecht Berlin routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Berlin routen. Kommunalrecht Berlin routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Berlin Routen
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-024-kommunalrecht-brandenburg-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Brandenburg routen. Kommunalrecht Brandenburg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Brandenburg routen. Kommunalrecht Brandenburg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Brandenburg Routen
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-025-kommunalrecht-bremen-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Bremen routen. Kommunalrecht Bremen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Bremen routen. Kommunalrecht Bremen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Bremen Routen
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-026-kommunalrecht-hamburg-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Hamburg routen. Kommunalrecht Hamburg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Hamburg routen. Kommunalrecht Hamburg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Hamburg Routen
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-027-kommunalrecht-hessen-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Hessen routen. Kommunalrecht Hessen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Hessen Routen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-verl-redaktionsmemo-bis-verl-roh-research-zu
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (verl-redaktionsmemo-jahresplanung, verl-redaktionssitzung-vorbereiten, verl-relationslinien-pruefung-im-aufsatz, verl-richtigstellung-online-print, verl-roh-research-zu-essay) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Redaktionsmemo Jahresplanung, Verl Redaktionssitzung Vorbereiten, Verl Relationslinien Pruefung Im Aufsatz, Verl Richtigstellung Online Print und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verlagsredaktion
+# Arbeitsbereich - Verl Redaktionsmemo Jahresplanung bis Verl Roh Research Zu Essay
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-redaktionsmemo-jahresplanung` | Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Themenarchitektur, Heftfolge, Autorenstrategie und Risikoreserven. |
 | `verl-redaktionssitzung-vorbereiten` | Bereitet eine juristische Redaktionssitzung vor: Agenda, Themenscoring, Beschlussvorlage, Protokollskelett und Anschlussaufgaben. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-redaktionsmemo-jahresplanung`
 
-**Frühere Beschreibung:** Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Themenarchitektur, Heftfolge, Autorenstrategie und Risikoreserven.
+**Fokus:** Erstellt das Jahresheft-Planungsmemo einer juristischen Fachzeitschrift mit Themenarchitektur, Heftfolge, Autorenstrategie und Risikoreserven.
 
 # Redaktionsmemo Jahresplanung
 
@@ -137,7 +137,7 @@ Festlegung Schriftleitung: 15.10.2026
 
 ## 2. `verl-redaktionssitzung-vorbereiten`
 
-**Frühere Beschreibung:** Bereitet eine juristische Redaktionssitzung vor: Agenda, Themenscoring, Beschlussvorlage, Protokollskelett und Anschlussaufgaben.
+**Fokus:** Bereitet eine juristische Redaktionssitzung vor: Agenda, Themenscoring, Beschlussvorlage, Protokollskelett und Anschlussaufgaben.
 
 # Redaktionssitzung vorbereiten
 
@@ -245,7 +245,7 @@ Frist Druckfreigabe: 29.07.2026
 
 ## 3. `verl-relationslinien-pruefung-im-aufsatz`
 
-**Frühere Beschreibung:** Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel?
+**Fokus:** Prueft die logischen Relationslinien eines juristischen Aufsatzes: traegt das Argumentationsgeruest die Hauptthese ohne Sprunglinien und ohne Zirkel?
 
 # Relationslinien-Pruefung im Aufsatz
 
@@ -343,7 +343,7 @@ Sie brauchen ihn nach Format-Check und Zitiernorm-Pruefung, vor der inhaltlichen
 
 ## 4. `verl-richtigstellung-online-print`
 
-**Frühere Beschreibung:** Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte fuer alle drei Eskalationsstufen.
+**Fokus:** Richtigstellung im Online- und Printmedium: Berichtigungsanspruch, Gegendarstellung nach MStV § 20, Erratum, Online-Korrekturhinweis. Mustertexte fuer alle drei Eskalationsstufen.
 
 # Richtigstellung
 
@@ -496,7 +496,7 @@ Die Erstfassung ist auf Anforderung beim Verlag erhaeltlich.
 
 ## 5. `verl-roh-research-zu-essay`
 
-**Frühere Beschreibung:** Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag fuer juristisches Fachformat.
+**Fokus:** Verdichtet unstrukturierten Recherchewust einer Autorin zu einem zitierfaehigen Essay oder Diskussionsbeitrag fuer juristisches Fachformat.
 
 # Roh-Research zu Essay
 

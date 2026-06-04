@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-pe-002-anfaenger-mod-bis-pe-005-spezial-aif-u
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (pe-002-anfaenger-modus-pe-begriffe, pe-003-investorprofil-lp-gp-family-office, pe-004-fund-formation-deutschland-kagb-scope, pe-005-spezial-aif-und-professionelle-anleger) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 002 Anfaenger Modus Pe Begriffe, Pe 003 Investorprofil Lp Gp Family Office, Pe 004 Fund Formation Deutschland Kagb Scope, Pe 005 Spezial Aif Und Professionelle Anleger; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - private-equity-praxis
+# Arbeitsbereich - Pe 002 Anfaenger Modus Pe Begriffe bis Pe 005 Spezial Aif Und Professionelle Anleger
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-002-anfaenger-modus-pe-begriffe` | Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats. |
 | `pe-003-investorprofil-lp-gp-family-office` | Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-002-anfaenger-modus-pe-begriffe`
 
-**Frühere Beschreibung:** Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats.
+**Fokus:** Erklärt Private Equity, Sponsor, Fund, GP/LP, Carry, Waterfall, Leverage, Multiple, IRR, Co-Invest und Exit anhand eines konkreten Mandats.
 
 # Anfänger-Modus: PE-Begriffe ohne Gesichtsverlust
 
@@ -146,7 +146,7 @@ European Waterfall (Kurzfassung):
 
 ## 2. `pe-003-investorprofil-lp-gp-family-office`
 
-**Frühere Beschreibung:** Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil.
+**Fokus:** Baut aus Anlegerstatus, Ticketgröße, Risikoappetit, Haltedauer, ESG-Vorgaben und regulatorischem Profil ein Investmentprofil.
 
 # Investorprofil: LP, GP, Family Office, Stiftung, Versicherung
 
@@ -239,7 +239,7 @@ Excuse Right (Standardklausel):
 
 ## 3. `pe-004-fund-formation-deutschland-kagb-scope`
 
-**Frühere Beschreibung:** Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann.
+**Fokus:** Prüft, ob ein Vehikel als AIF/KVG-reguliert ist oder außerhalb des KAGB funktionieren kann.
 
 # Fund Formation: KAGB-Scope und Strukturentscheidung
 
@@ -334,7 +334,7 @@ Discretionary Mandate (Single-Investor-Carve-out):
 
 ## 4. `pe-005-spezial-aif-und-professionelle-anleger`
 
-**Frühere Beschreibung:** Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten.
+**Fokus:** Strukturiert Spezial-AIF für PE/Private Credit mit Anlegeraufnahme, Anlagebedingungen und Berichtspflichten.
 
 # Spezial-AIF: professionelle und semiprofessionelle Anleger
 

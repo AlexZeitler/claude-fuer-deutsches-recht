@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-cyberversicherung-ra-bis-elementarschaden-sta
-description: "versicherungsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (cyberversicherung-ransomware-sanktionsrecht, d-o-claims-made-innenhaftung-43-gmbhg, elementarschaden-starkregen-ueberschwemmung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Cyberversicherung Ransomware Sanktionsrecht, D O Claims Made Innenhaftung 43 Gmbhg, Elementarschaden Starkregen Ueberschwemmung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - versicherungsrecht
+# Arbeitsbereich - Cyberversicherung Ransomware Sanktionsrecht, D O Claims Made Innenhaftung 43 Gmbhg, Elementarschaden Starkregen Ueberschwemmung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `cyberversicherung-ransomware-sanktionsrecht` | Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten. |
 | `d-o-claims-made-innenhaftung-43-gmbhg` | D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `cyberversicherung-ransomware-sanktionsrecht`
 
-**Frühere Beschreibung:** Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten.
+**Fokus:** Cyberversicherung bei Ransomware, Datenabfluss, Betriebsunterbrechung, Lösegeld, Forensik, Sanktionsrecht, DORA/NIS2-Schnittstelle und Obliegenheiten.
 
 # Cyberversicherung: Ransomware, DORA, Sanktionen
 
@@ -69,7 +69,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `d-o-claims-made-innenhaftung-43-gmbhg`
 
-**Frühere Beschreibung:** D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen.
+**Fokus:** D&O-Versicherung: Claims-made-Prinzip, Pflichtverletzung, Innenhaftung, Ausschlüsse, Wissentlichkeit, Abwehrkosten und Side-A/B/C-Strukturen.
 
 # D&O: Claims-made, Innenhaftung und Organstreit
 
@@ -110,7 +110,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `elementarschaden-starkregen-ueberschwemmung`
 
-**Frühere Beschreibung:** Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache.
+**Fokus:** Elementarschadenversicherung: Überschwemmung, Rückstau, Starkregen, Grundwasser, Erdrutsch, Ausschlüsse und technische Schadenursache.
 
 # Elementarschaden: Starkregen und Überschwemmung
 

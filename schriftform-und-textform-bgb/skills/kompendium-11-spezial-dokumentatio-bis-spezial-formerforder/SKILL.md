@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-dokumentatio-bis-spezial-formerforder
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-dokumentation-verhandlung-vergleich-und-eskalation, spezial-empfangsbeduerftiger-international-schnittstellen, spezial-formerfordernisse-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - schriftform-und-textform-bgb
+# Arbeitsbereich - Dokumentation Verhandlung Vergleich Und Eskalation, Empfangsbeduerftiger International Schnittstellen, Formerfordernisse Erstpruefung Und Man
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-dokumentation-verhandlung-vergleich-und-eskalation` | Dokumentation: Verhandlung, Vergleich und Eskalation im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-empfangsbeduerftiger-international-schnittstellen` | Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-dokumentation-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Dokumentation: Verhandlung, Vergleich und Eskalation im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Dokumentation: Verhandlung, Vergleich und Eskalation im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Dokumentation: Verhandlung, Vergleich und Eskalation
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-empfangsbeduerftiger-international-schnittstellen`
 
-**Frühere Beschreibung:** Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Empfangsbeduerftiger: Internationaler Bezug und Schnittstellen
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-formerfordernisse-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Formerfordernisse: Erstprüfung, Rollenklärung und Mandatsziel
 

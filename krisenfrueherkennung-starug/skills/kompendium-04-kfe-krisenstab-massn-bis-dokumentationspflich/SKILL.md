@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-kfe-krisenstab-massn-bis-dokumentationspflich
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (kfe-krisenstab-massnahmen-leitfaden, cross-class-cram-down-und-absolute-priority, dokumentationspflicht-und-protokollierung-geschaeftsfuehrung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - krisenfrueherkennung-starug
+# Arbeitsbereich - Kfe Krisenstab Massnahmen Leitfaden, Cross Class Cram Down Und Absolute Priority, Dokumentationspflicht Und Protokollierung Geschaeftsfuehrun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kfe-krisenstab-massnahmen-leitfaden` | Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung. |
 | `cross-class-cram-down-und-absolute-priority` | Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kfe-krisenstab-massnahmen-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung.
+**Fokus:** Leitfaden Krisenstab und Sofortmassnahmen: Kommunikation Bank / Lieferant / Mitarbeitende / Mandanten, Treasury, Liquiditaetssteuerung. Pruefraster fuer Geschaeftsleitung.
 
 # KFE: Krisenstab Massnahmen
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `krisenfrueherkennung-starug`. Er ergaenzt die u
 
 ## 2. `cross-class-cram-down-und-absolute-priority`
 
-**Frühere Beschreibung:** Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin.
+**Fokus:** Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Gläubiger-Gruppen bestätigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Prüfraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Gläubiger-schlechter-gestellt-Test, gerichtliche Planbestätigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin.
 
 # Cross-Class-Cram-Down und Absolute Priority — § 26 StaRUG
 
@@ -288,7 +288,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `dokumentationspflicht-und-protokollierung-geschaeftsfuehrung`
 
-**Frühere Beschreibung:** Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
+**Fokus:** Krisenprotokollierung der Geschäftsführung für Haftungsschutz: GmbH-Geschäftsführer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Prüfraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
 
 # Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse
 

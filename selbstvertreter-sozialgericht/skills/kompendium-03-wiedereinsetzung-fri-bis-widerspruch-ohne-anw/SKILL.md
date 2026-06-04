@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-wiedereinsetzung-fri-bis-widerspruch-ohne-anw
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (wiedereinsetzung-frist-67-sgg, buergergeld-sanktionen-31a-sgb-ii, krankenkassen-krankengeld-44-sgb-v, schwerbehindertenausweis-merkzeichen-pruefen, widerspruch-ohne-anwalt-einreichen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wiedereinsetzung Frist 67 Sgg, Buergergeld Sanktionen 31a Sgb Ii, Krankenkassen Krankengeld 44 Sgb V, Schwerbehindertenausweis Merkzeichen Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Wiedereinsetzung Frist 67 Sgg bis Widerspruch Ohne Anwalt Einreichen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wiedereinsetzung-frist-67-sgg` | Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt. |
 | `buergergeld-sanktionen-31a-sgb-ii` | Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wiedereinsetzung-frist-67-sgg`
 
-**Frühere Beschreibung:** Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt.
+**Fokus:** Wenn Sie eine Frist verpasst haben § 67 SGG Wiedereinsetzung in den vorigen Stand. Wann möglich was vortragen welche Beweise. Mit Mustertext für Buerger ohne Anwalt.
 
 # Frist verpasst? Wiedereinsetzung nach § 67 SGG
 
@@ -198,7 +198,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## 2. `buergergeld-sanktionen-31a-sgb-ii`
 
-**Frühere Beschreibung:** Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine.
+**Fokus:** Buergergeld Sanktionen nach § 31a SGB II. Skill klaert die Sanktionstatbestaende Pflichtverletzungen und Meldeversaeumnisse die Stufung und das Verfahren nach der Reform 2023. Aktuelle BVerfG-Linie. Liefert Verteidigungsbausteine.
 
 # Buergergeld Sanktionen 31A Sgb Ii
 
@@ -250,7 +250,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## 3. `krankenkassen-krankengeld-44-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften fuer Selbststaendige. Liefert Pruefraster und Strategie bei Streit.
+**Fokus:** Krankenkassen-Krankengeld nach § 44 SGB V. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Wegfall bei Aussteuerung Sondervorschriften fuer Selbststaendige. Liefert Pruefraster und Strategie bei Streit.
 
 # Krankenkassen Krankengeld 44 Sgb V
 
@@ -310,7 +310,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## 4. `schwerbehindertenausweis-merkzeichen-pruefen`
 
-**Frühere Beschreibung:** Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster.
+**Fokus:** Schwerbehindertenausweis und Merkzeichen pruefen. Skill erklaert die Bedeutung der Merkzeichen ihre Voraussetzungen und die rechtlichen Vorteile (Nachteilsausgleich) wie Steuerermaessigung Parkerleichterung Kuendigungsschutz Zusatzurlaub. Liefert Pruefraster.
 
 # Schwerbehindertenausweis Merkzeichen Pruefen
 
@@ -380,7 +380,7 @@ Stand: 05/2026. § 67 SGG ist Standard. BSG-Rechtsprechung sehr streng. Bei wich
 
 ## 5. `widerspruch-ohne-anwalt-einreichen`
 
-**Frühere Beschreibung:** Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt.
+**Fokus:** Wie und wo Sie den Widerspruch einreichen. Brief Einschreiben Fax Mein Justizpostfach persoenliche Abgabe zur Niederschrift. Sicherer Versandweg für Buerger ohne Anwalt.
 
 # Widerspruch einreichen — die sicheren Wege
 

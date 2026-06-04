@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-oew-014-transparenz-bis-oew-017-buergschaft
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (oew-014-transparenz-und-kontrolle, oew-015-haushaltsrechtliche-freigabe, oew-016-gebuehrenfinanzierung-pruefen, oew-017-buergschaft-und-patronat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 014 Transparenz Und Kontrolle, Oew 015 Haushaltsrechtliche Freigabe, Oew 016 Gebuehrenfinanzierung Pruefen, Oew 017 Buergschaft Und Patronat; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 014 Transparenz Und Kontrolle bis Oew 017 Buergschaft Und Patronat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-014-transparenz-und-kontrolle` | Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-015-haushaltsrechtliche-freigabe` | Öffentliches Wirtschaftsrecht: Haushaltsrechtliche Freigabe. Haushaltsrechtliche Freigabe im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-014-transparenz-und-kontrolle`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Transparenz und Kontrolle. Transparenz und Kontrolle im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Transparenz Und Kontrolle
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-015-haushaltsrechtliche-freigabe`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Haushaltsrechtliche Freigabe. Haushaltsrechtliche Freigabe im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Haushaltsrechtliche Freigabe. Haushaltsrechtliche Freigabe im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Haushaltsrechtliche Freigabe
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-016-gebuehrenfinanzierung-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Gebührenfinanzierung prüfen. Gebührenfinanzierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Gebuehrenfinanzierung Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-017-buergschaft-und-patronat`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Bürgschaft und Patronat. Bürgschaft und Patronat im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Buergschaft Und Patronat
 

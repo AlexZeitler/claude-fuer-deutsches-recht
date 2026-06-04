@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anlagenpaket-fuer-ge-bis-arbeit-wechsel-und-m
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (anlagenpaket-fuer-gericht, antrag-insolvenzgericht, arbeit-wechsel-und-mehrverdienst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagenpaket Fuer Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Anlagenpaket Fuer Gericht, Antrag Insolvenzgericht, Arbeit Wechsel Und Mehrverdienst
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagenpaket-fuer-gericht` | Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `antrag-insolvenzgericht` | Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagenpaket-fuer-gericht`
 
-**Frühere Beschreibung:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.; Normanker: InsO § 305 Abs. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Anlagenpaket für Gericht: Bescheinigung, Plan, Gläubigerliste, Vermögen, Einkommen, Vollstreckungen und Nachweise.
 
@@ -69,7 +69,7 @@ InsO § 305 Abs. 1. Entscheidend ist immer der aktuelle Normstand der InsO, die 
 
 ## 2. `antrag-insolvenzgericht`
 
-**Frühere Beschreibung:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.; Normanker: InsO §§ 305 und 287 und 4a; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Antrag beim Insolvenzgericht: Formulare, Anlagen, Vermögensverzeichnis, Forderungsverzeichnis, RSB-Antrag und Stundung.
 
@@ -110,7 +110,7 @@ InsO §§ 305, 287, 4a. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 ## 3. `arbeit-wechsel-und-mehrverdienst`
 
-**Frühere Beschreibung:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.; Normanker: InsO § 295; ZPO § 850c; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Arbeitsaufnahme, Jobwechsel und Mehrverdienst: pfändbarer Anteil, Motivation, Anzeige und Vergleichschancen.
 

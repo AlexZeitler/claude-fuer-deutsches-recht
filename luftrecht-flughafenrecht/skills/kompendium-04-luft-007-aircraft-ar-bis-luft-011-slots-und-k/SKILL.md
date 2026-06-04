@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-luft-007-aircraft-ar-bis-luft-011-slots-und-k
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (luft-007-aircraft-arrest-international, luft-008-airline-finanzielle-leistungsfaehigkei, luft-009-betriebsgenehmigung-airline, luft-010-flughafen-planfeststellung, luft-011-slots-und-koordination) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 007 Aircraft Arrest International, Luft 008 Airline Finanzielle Leistungsfaehigkei, Luft 009 Betriebsgenehmigung Airline, Luft 010 Flughafen Planfeststellung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 007 Aircraft Arrest International bis Luft 011 Slots Und Koordination
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-007-aircraft-arrest-international` | Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage. |
 | `luft-008-airline-finanzielle-leistungsfaehigkei` | LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prueft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistungsfaehigkeits-Bewertungs-Vermerk. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-007-aircraft-arrest-international`
 
-**Frühere Beschreibung:** Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage.
+**Fokus:** Mandant will Flugzeug im Ausland arrestieren oder auslaendischer Glaeubiger arrestiert in Deutschland. Prueft Cape Town Convention Art. 8-10 Aircraft Protocol Remedies IDERA bilaterale Vollstreckungsvertraege und nationales ZPO-Arrestrecht und liefert Arrest-Strategie und Local-Counsel-Briefing-Vorlage.
 
 # Aircraft Arrest International – grenzüberschreitender Flugzeug-Arrest
 
@@ -108,7 +108,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 2. `luft-008-airline-finanzielle-leistungsfaehigkei`
 
-**Frühere Beschreibung:** LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prueft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistungsfaehigkeits-Bewertungs-Vermerk.
+**Fokus:** LBA prueft finanzielle Leistungsfaehigkeit nach EU-VO 1008/2008 Art. 5 oder Mandant bewertet Insolvenzrisiko einer Fluggesellschaft. Prueft Nachweispflichten Eigenkapital Versicherung Businessplan LBA-Auflagenpraxis und Fruehwarnindikatoren und liefert Leistungsfaehigkeits-Bewertungs-Vermerk.
 
 # Airline – Finanzielle Leistungsfähigkeit prüfen
 
@@ -189,7 +189,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 3. `luft-009-betriebsgenehmigung-airline`
 
-**Frühere Beschreibung:** Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein.
+**Fokus:** Airline beantragt Betriebsgenehmigung beim LBA oder bestehende Genehmigung soll geaendert oder widerrufen werden. Prueft EU-VO 1008/2008 Art. 3-9 Genehmigungsvoraussetzungen AOC Hauptniederlassung EU-Eigentumskontrolle und liefert Antragsunterlagen-Checkliste und Widerrufsabwehr-Baustein.
 
 # Betriebsgenehmigung Airline – Antrag, Änderung und Widerruf
 
@@ -281,7 +281,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 4. `luft-010-flughafen-planfeststellung`
 
-**Frühere Beschreibung:** Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk.
+**Fokus:** Flughafen plant Erweiterung oder Neubau; Mandant ist Vorhabentraeger Anwohner oder Naturschutzverband. Prueft LuftVG §§ 6-10 Planfeststellungspflicht UVP-Pflicht nach UVPG Klagerecht nach UmwRG BVerwG-Leitentscheidungen zu FRA BER Leipzig und liefert Rechtsschutzstrategie-Vermerk.
 
 # Flughafen-Planfeststellung – Genehmigung, UVP und Rechtsschutz
 
@@ -362,7 +362,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 5. `luft-011-slots-und-koordination`
 
-**Frühere Beschreibung:** Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein.
+**Fokus:** Airline verliert Slot oder klagt gegen Slotzuweisung der Flughafenkoordinatorin Fluko. Prueft VO EWG 95/93 Slotverordnung Grandfather Rights Use-it-or-lose-it FHKV Verwaltungsgerichtsweg und EuGH-Rechtsprechung zu Slot-Uebertragbarkeit und liefert Rechtsmittel-Vermerk und Klagebaustein.
 
 # Slots und Koordination – Slotzuweisung, Verlust und Rechtsschutz
 

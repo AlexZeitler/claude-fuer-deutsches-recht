@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-stv-009-schwertransp-bis-stv-012-fahrtenbucha
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (stv-009-schwertransport-und-erlaubnis, stv-010-fahrerlaubnis-schnittstelle, stv-011-mpu-und-fahreignung, stv-012-fahrtenbuchauflage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 009 Schwertransport Und Erlaubnis, Stv 010 Fahrerlaubnis Schnittstelle, Stv 011 Mpu Und Fahreignung, Stv 012 Fahrtenbuchauflage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 009 Schwertransport Und Erlaubnis bis Stv 012 Fahrtenbuchauflage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-009-schwertransport-und-erlaubnis` | Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `stv-010-fahrerlaubnis-schnittstelle` | Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-009-schwertransport-und-erlaubnis`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Schwertransport und Erlaubnis. Schwertransport und Erlaubnis im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Schwertransport Und Erlaubnis
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-010-fahrerlaubnis-schnittstelle`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrerlaubnis Schnittstelle. Fahrerlaubnis Schnittstelle im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Fahrerlaubnis Schnittstelle
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-011-mpu-und-fahreignung`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: MPU und Fahreignung. MPU und Fahreignung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: MPU und Fahreignung. MPU und Fahreignung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Mpu Und Fahreignung
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-012-fahrtenbuchauflage`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrtenbuchauflage. Fahrtenbuchauflage im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrtenbuchauflage. Fahrtenbuchauflage im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Fahrtenbuchauflage
 

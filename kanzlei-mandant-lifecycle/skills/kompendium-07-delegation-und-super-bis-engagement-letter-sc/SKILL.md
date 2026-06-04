@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-delegation-und-super-bis-engagement-letter-sc
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (delegation-und-supervision, deliverable-acceptance, document-room-governance, enforcement-monitor, engagement-letter-scope) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Delegation Und Supervision, Deliverable Acceptance, Document Room Governance, Enforcement Monitor und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Delegation Und Supervision bis Engagement Letter Scope
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `delegation-und-supervision` | Delegation und Supervision: steuert Wer darf was tun, wie wird reviewed, wann muss Partnerin selbst ran zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `deliverable-acceptance` | Deliverable Acceptance: steuert Gutachten, Schriftsatz, Redline, Vermerk oder Board Paper abnehmen, versionieren und freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `delegation-und-supervision`
 
-**Frühere Beschreibung:** Delegation und Supervision: steuert Wer darf was tun, wie wird reviewed, wann muss Partnerin selbst ran zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Delegation und Supervision: steuert Wer darf was tun, wie wird reviewed, wann muss Partnerin selbst ran zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Delegation und Supervision
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `deliverable-acceptance`
 
-**Frühere Beschreibung:** Deliverable Acceptance: steuert Gutachten, Schriftsatz, Redline, Vermerk oder Board Paper abnehmen, versionieren und freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Deliverable Acceptance: steuert Gutachten, Schriftsatz, Redline, Vermerk oder Board Paper abnehmen, versionieren und freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Deliverable Acceptance
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `document-room-governance`
 
-**Frühere Beschreibung:** Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Datenraum Governance: steuert Zugriffsrechte, Index, Redactions, Watermark, Versionen und Downloadlogik für Mandat und Verfahren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Datenraum Governance
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `enforcement-monitor`
 
-**Frühere Beschreibung:** Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Enforcement Monitor: steuert Vollstreckung, Sicherheiten, Vergleichsbruch und Kosten im Dashboard führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Enforcement Monitor
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `engagement-letter-scope`
 
-**Frühere Beschreibung:** Engagement Letter und Scope: steuert Mandatsvereinbarung, Scope, Out-of-Scope, Teams, Kommunikationskanäle und Abnahme zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Engagement Letter und Scope: steuert Mandatsvereinbarung, Scope, Out-of-Scope, Teams, Kommunikationskanäle und Abnahme zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Engagement Letter und Scope
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 20; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-purchase-price-adjustment-earn-out, grosskanzlei-corporate-ma-real-estate-leases-sites, grosskanzlei-corporate-ma-redline-comparison-automation, grosskanzlei-corporate-ma-register-filings-implementation, grosskanzlei-corporate-ma-regulatory-fdi-merger-control und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out, Grosskanzlei Corporate Ma Real Estate Leases Sites, Grosskanzlei Corporate Ma Redline Comparison Automation, Grosskanzlei Corporate Ma Register Filings Implementation und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Purchase Price Adjustment Earn Out bis Grosskanzlei Corporate Ma Risk Heatmap Board
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-purchase-price-adjustment-earn-out` | Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung. |
 | `grosskanzlei-corporate-ma-real-estate-leases-sites` | Real Estate, Leases und Sites Due Diligence: prueft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-purchase-price-adjustment-earn-out`
 
-**Frühere Beschreibung:** Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung.
+**Fokus:** Purchase Price Adjustment und Earn-out Skill: modelliert Anpassungen, Earn-out-KPIs, Manipulationsschutz, Covenants und Streitbeilegung.
 
 # Purchase Price Adjustment Earn Out
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-real-estate-leases-sites`
 
-**Frühere Beschreibung:** Real Estate, Leases und Sites Due Diligence: prueft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet.
+**Fokus:** Real Estate, Leases und Sites Due Diligence: prueft Grundstuecke, Mietvertraege, Belastungen, Genehmigungen, Umwelt, Change-of-Control und Standortkritikalitaet.
 
 # Real Estate Leases Sites
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-redline-comparison-automation`
 
-**Frühere Beschreibung:** Redline Comparison Automation fuer M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Aenderungen und baut Antwortvorschlaege.
+**Fokus:** Redline Comparison Automation fuer M&A-Dokumente: vergleicht Markups, extrahiert Key Issues, erkennt stille Aenderungen und baut Antwortvorschlaege.
 
 # Redline Comparison Automation
 
@@ -302,7 +302,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-register-filings-implementation`
 
-**Frühere Beschreibung:** Register Filings und Implementation Manager: plant Handelsregister, Transparenzregister, Gesellschafterlisten, Umwandlungsanmeldungen, Notarvollzug und Post-Closing-Filings.
+**Fokus:** Register Filings und Implementation Manager: plant Handelsregister, Transparenzregister, Gesellschafterlisten, Umwandlungsanmeldungen, Notarvollzug und Post-Closing-Filings.
 
 # Register Filings Implementation
 
@@ -392,7 +392,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-regulatory-fdi-merger-control`
 
-**Frühere Beschreibung:** Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Prüfung. Prüfraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur.
+**Fokus:** Fusionskontrolle und FDI-Investitionsprüfung für M&A-Transaktionen: Anwendungsfall Signing naht und Deal-Team prüft ob Kartellrechts-Freigabe oder AWV-Prüfung benoetigt wird. §§ 35-44 GWB inlaendische Fusionskontrolle, Art. 4 FKVO EU-Fusionskontrolle, §§ 55 ff. AWV FDI-Prüfung. Prüfraster Umsatzschwellen je Jurisdiktion, Vollzugsverbot bis Freigabe, Multi-Jurisdiction-Filing-Koordination, Sektorrisiken. Output Regulatorische Freigabe-Landkarte mit Filing-Pflichten, Zeitplan und Risikobewertung. Abgrenzung zu Signing-Closing-CPs und zu Transaktionsstruktur.
 
 # Fusionskontrolle und Investitionskontrolle
 
@@ -605,7 +605,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-restructuring-starug-insolvenzplan`
 
-**Frühere Beschreibung:** StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. §§ 1-93 StaRUG, §§ 217-269 InsO Insolvenzplan, § 18 InsO drohende Zahlungsunfähigkeit. Prüfraster Gläubiger-Klasseneinteilung, Plananforderungen, Abstimmungsquoren, Distressed-M&A-Optionen. Output Restrukturierungs-Optionsvergleich mit Plan-Entwurf und Zeitplan. Abgrenzung zu Distressed-MA und zu Fortbestehensprognose-Plugin.
+**Fokus:** StaRUG-Restrukturierung und Insolvenzplanverfahren begleiten: Anwendungsfall Unternehmen mit drohender Zahlungsunfähigkeit prüft Restrukturierungsoptionen einschließlich StaRUG-Plan, praeventiyen Restrukturierungsrahmen oder Insolvenzplan. §§ 1-93 StaRUG, §§ 217-269 InsO Insolvenzplan, § 18 InsO drohende Zahlungsunfähigkeit. Prüfraster Gläubiger-Klasseneinteilung, Plananforderungen, Abstimmungsquoren, Distressed-M&A-Optionen. Output Restrukturierungs-Optionsvergleich mit Plan-Entwurf und Zeitplan. Abgrenzung zu Distressed-MA und zu Fortbestehensprognose-Plugin.
 
 # StaRUG und Insolvenzplan
 
@@ -823,7 +823,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-risk-heatmap-board`
 
-**Frühere Beschreibung:** Risk Heatmap Board fuer Corporate/M&A: visualisiert Risiken nach Wahrscheinlichkeit, Impact, Verhandelbarkeit, Quellenstaerke, Owner und Deal-Blocker-Potential.
+**Fokus:** Risk Heatmap Board fuer Corporate/M&A: visualisiert Risiken nach Wahrscheinlichkeit, Impact, Verhandelbarkeit, Quellenstaerke, Owner und Deal-Blocker-Potential.
 
 # Risk Heatmap Board
 

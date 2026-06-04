@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kronzeugen-regelung-bis-personenverzeichnis
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (kronzeugen-regelung-spezial, opferzeugen-besondere-faelle, personenverzeichnis-aufbau) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kronzeugen Regelung Spezial, Opferzeugen Besondere Faelle, Personenverzeichnis Aufbau; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Kronzeugen Regelung Spezial, Opferzeugen Besondere Faelle, Personenverzeichnis Aufbau
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kronzeugen-regelung-spezial` | Spezialfall Kronzeugenregelung § 46b StGB: Aufklaerungshilfe oder Verhinderung schwerer Straftaten, Voraussetzungen Konnex, Ausschluss von § 100a StPO Katalogtaten, Strafrahmenverschiebung. Pruefraster fuer Verteidigerstrategie und Verhandlung mit Staatsanwaltschaft. |
 | `opferzeugen-besondere-faelle` | Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d ff. StPO, audiovisuelle Vernehmung § 58a StPO, Zeugenbeistand § 68b StPO, Ausschluss des Beschuldigten § 247 StPO. Verteidigungspflicht und Konfrontationsrecht Art. 6 EMRK. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kronzeugen-regelung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kronzeugenregelung § 46b StGB: Aufklaerungshilfe oder Verhinderung schwerer Straftaten, Voraussetzungen Konnex, Ausschluss von § 100a StPO Katalogtaten, Strafrahmenverschiebung. Pruefraster fuer Verteidigerstrategie und Verhandlung mit Staatsanwaltschaft.
+**Fokus:** Spezialfall Kronzeugenregelung § 46b StGB: Aufklaerungshilfe oder Verhinderung schwerer Straftaten, Voraussetzungen Konnex, Ausschluss von § 100a StPO Katalogtaten, Strafrahmenverschiebung. Pruefraster fuer Verteidigerstrategie und Verhandlung mit Staatsanwaltschaft.
 
 # Strafrecht: Kronzeugen § 46b StGB
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 2. `opferzeugen-besondere-faelle`
 
-**Frühere Beschreibung:** Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d ff. StPO, audiovisuelle Vernehmung § 58a StPO, Zeugenbeistand § 68b StPO, Ausschluss des Beschuldigten § 247 StPO. Verteidigungspflicht und Konfrontationsrecht Art. 6 EMRK.
+**Fokus:** Opferzeugen bei Sexualdelikten, Kindern, Schutzschriftsachen behandeln: Nebenklage § 395 StPO, Verletztenrechte §§ 406d ff. StPO, audiovisuelle Vernehmung § 58a StPO, Zeugenbeistand § 68b StPO, Ausschluss des Beschuldigten § 247 StPO. Verteidigungspflicht und Konfrontationsrecht Art. 6 EMRK.
 
 # Opferzeugen-Sonderfaelle
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `personenverzeichnis-aufbau`
 
-**Frühere Beschreibung:** Personenverzeichnis fuer eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens.
+**Fokus:** Personenverzeichnis fuer eine Strafakte systematisch aufbauen: Beschuldigte, Mitbeschuldigte, Zeugen, Geschaedigte, Sachverstaendige, Dolmetscher, Vertreter. Fuer jede Person Rolle, Aussagestatus, Adresse, Verteidiger, Verbindung zu Tatkomplexen, Auffaelligkeiten. Excel-Spaltenvorgabe und Plausibilitaetspruefung. Erkennt Schreibweisen-Varianten desselben Namens.
 
 # Personenverzeichnis aufbauen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-ip-license-365n-bis-means-test-707b
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (ip-license-365n, landlord-tenant-retail, mass-tort-bankruptcy, means-test-707b) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ip License 365n, Landlord Tenant Retail, Mass Tort Bankruptcy, Means Test 707b; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - us-bankruptcy-code
+# Arbeitsbereich - Ip License 365n bis Means Test 707b
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ip-license-365n` | Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments. |
 | `landlord-tenant-retail` | Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ip-license-365n`
 
-**Frühere Beschreibung:** Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments.
+**Fokus:** Prueft licensee rights after rejection, election, royalties, exclusivity and access to embodiments.
 
 # Intellectual Property License § 365(n)
 
@@ -98,7 +98,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `landlord-tenant-retail`
 
-**Frühere Beschreibung:** Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims.
+**Fokus:** Prueft retail cases: store closing, lease rejection/assumption, going-out-of-business sales and landlord claims.
 
 # Landlord Tenant and Retail Bankruptcy
 
@@ -166,7 +166,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `mass-tort-bankruptcy`
 
-**Frühere Beschreibung:** Prueft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures.
+**Fokus:** Prueft mass tort Chapter 11 issues: claims estimation, channeling, third-party releases, insurance and trust structures.
 
 # Mass Tort Bankruptcy
 
@@ -234,7 +234,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `means-test-707b`
 
-**Frühere Beschreibung:** Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances.
+**Fokus:** Prueft consumer Chapter 7 means test, abuse presumption, median income and special circumstances.
 
 # Means Test § 707(b)
 

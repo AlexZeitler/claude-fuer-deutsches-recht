@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-notarielle-beurkundu-bis-schriftform-paragrap
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (notarielle-beurkundung-und-oeffentliche-beglaubigung, prozessablauf-papier-vs-elektronisch, schriftform-paragraph-126-bgb-eigenhaendige-unterschrift) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unterschrift; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - schriftform-und-textform-bgb
+# Arbeitsbereich - Notarielle Beurkundung Und Oeffentliche Beglaubigung, Prozessablauf Papier Vs Elektronisch, Schriftform Paragraph 126 Bgb Eigenhaendige Unter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notarielle-beurkundung-und-oeffentliche-beglaubigung` | Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift. |
 | `prozessablauf-papier-vs-elektronisch` | Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notarielle-beurkundung-und-oeffentliche-beglaubigung`
 
-**Frühere Beschreibung:** Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift.
+**Fokus:** Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift.
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung
 
@@ -156,7 +156,7 @@ zunächst einen Notartermin.
 
 ## 2. `prozessablauf-papier-vs-elektronisch`
 
-**Frühere Beschreibung:** Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix.
+**Fokus:** Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG, Textform per E-Mail, Zustellung und Beweisarchitektur. Output: konkrete Prozessabläufe und Entscheidungsmatrix.
 
 # Prozessablauf — Papier vs. Elektronisch
 
@@ -377,7 +377,7 @@ von [Name Überbringer] folgendes Dokument erhalten zu haben:
 
 ## 3. `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift`
 
-**Frühere Beschreibung:** Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Prüfung und Empfehlung für Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger.
+**Fokus:** Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen Vertraegen Blankounterschrift Faksimile-Stempel räumliche Lage der Unterschrift unter dem Text. BGH-Linie. Output: Schriftform-Prüfung und Empfehlung für Vertragspartner. Abgrenzung zu elektronische-form-paragraph-126a-bgb-qes (qES) und textform-paragraph-126b-bgb-dauerhafter-datentraeger.
 
 # Schriftform § 126 BGB — Eigenhändige Unterschrift
 

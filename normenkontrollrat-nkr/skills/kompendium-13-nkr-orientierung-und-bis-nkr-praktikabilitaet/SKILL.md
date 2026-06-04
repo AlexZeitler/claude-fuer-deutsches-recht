@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-nkr-orientierung-und-bis-nkr-praktikabilitaet
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (nkr-orientierung-und-mandatsaufnahme, nkr-praktikabilitaet-vollzug-test) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Orientierung Und Mandatsaufnahme, Nkr Praktikabilitaet Vollzug Test
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-orientierung-und-mandatsaufnahme` | Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin. |
 | `nkr-praktikabilitaet-vollzug-test` | Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-orientierung-und-mandatsaufnahme`
 
-**Frühere Beschreibung:** Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin.
+**Fokus:** Einstiegs-Skill fuer NKR-Pruefauftraege. Klaert in einer einzigen knappen Rueckfrage was geprueft werden soll (Referentenentwurf Formulierungshilfe Verordnungsentwurf) welches Ressort federfuehrend ist welche Fristen gelten und in welchem Cluster der weitere Pruefweg liegt. Liefert sofort einen Pruefpfad-Vorschlag und verweist auf die einschlaegigen Spezial-Skills im Plugin.
 
 # NKR-Orientierung und Mandatsaufnahme
 
@@ -123,7 +123,7 @@ Erst-Antwort an Sekretariat (intern):
 
 ## 2. `nkr-praktikabilitaet-vollzug-test`
 
-**Frühere Beschreibung:** Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort.
+**Fokus:** Praktikabilitaetstest fuer den Vollzug. Prueft ob die Regelung von Behoerden und Adressaten ueberhaupt leistbar ist. Faktoren Personalbedarf IT-Voraussetzungen Datenverfuegbarkeit Schulungserfordernisse Vollzugskaskaden Konnexitaet Konfliktloesung mit Adressaten. Mit Mustertexten zur Vollzugskritik und Standardfragen an das federfuehrende Ressort.
 
 # NKR-Praktikabilitaet im Vollzug
 

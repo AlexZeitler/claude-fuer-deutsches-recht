@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-anfg-fristen-und-anf-bis-nichtiger-vertrag-13
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (anfg-fristen-und-anfechtungszeitraum, verjaehrung-bereicherung-anfechtung-fristen, konkurrenz-bereicherung-vertraglich-deliktisch, nichtiger-vertrag-134-138-und-rueckforderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfg Fristen Und Anfechtungszeitraum, Verjaehrung Bereicherung Anfechtung Fristen, Konkurrenz Bereicherung Vertraglich Deliktisch, Nichtiger Vertrag 134 138 Und Rueckforderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Anfg Fristen Und Anfechtungszeitraum bis Nichtiger Vertrag 134 138 Und Rueckforderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfg-fristen-und-anfechtungszeitraum` | Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO. |
 | `verjaehrung-bereicherung-anfechtung-fristen` | Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rechtshandlung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfg-fristen-und-anfechtungszeitraum`
 
-**Frühere Beschreibung:** Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO.
+**Fokus:** Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjährungsverhältnis, Hemmungstatbestände. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO.
 
 # Fristen und Anfechtungszeitraum — AnfG
 
@@ -93,7 +93,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `verjaehrung-bereicherung-anfechtung-fristen`
 
-**Frühere Beschreibung:** Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rechtshandlung.
+**Fokus:** Verjährung und Anfechtungsfristen trennen: § 195 und § 199 BGB für Bereicherung, § 15 AnfG, § 146 InsO mit Verweis auf regelmäßige BGB-Verjährung. Prüft Fristbeginn, Kenntnis, grob fahrlässige Unkenntnis, Hemmung, Anfechtungszeiträume §§ 130-135 InsO und keine pauschale Zehn-Jahres-Grenze ab Rechtshandlung.
 
 # Verjährung: Bereicherung, AnfG und InsO-Anfechtung
 
@@ -178,7 +178,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `konkurrenz-bereicherung-vertraglich-deliktisch`
 
-**Frühere Beschreibung:** Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klären. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitätsfragen, bereicherungsrechtliche Lückenfüllung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill).
+**Fokus:** Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klären. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitätsfragen, bereicherungsrechtliche Lückenfüllung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill).
 
 # Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV
 
@@ -266,7 +266,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `nichtiger-vertrag-134-138-und-rueckforderung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB.
+**Fokus:** Nutze diesen Skill, wenn Verbots- oder Sittenwidrigkeit die Rückforderung prägt. Normen: §§ 134 und 138 BGB; §§ 812 und 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Rückforderung bei Nichtigkeit mit § 817-S.-2-Sperre. Abgrenzung: nicht Anfechtung §§ 119 ff. BGB.
 
 # Nichtiger Vertrag nach §§ 134 und 138 BGB
 

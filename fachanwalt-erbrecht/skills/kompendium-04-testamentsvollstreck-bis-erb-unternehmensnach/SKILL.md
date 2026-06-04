@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-testamentsvollstreck-bis-erb-unternehmensnach
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (testamentsvollstrecker-kontrolle-haftung, erb-erbschaftsteuer-progressionsoptimierung-spezial, erb-unternehmensnachfolge-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-erbrecht
+# Arbeitsbereich - Testamentsvollstrecker Kontrolle Haftung, Erb Erbschaftsteuer Progressionsoptimierung Spezial, Erb Unternehmensnachfolge Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `testamentsvollstrecker-kontrolle-haftung` | Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `erb-erbschaftsteuer-progressionsoptimierung-spezial` | Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster fuer Steuer- und Erbrechtspraxis. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `testamentsvollstrecker-kontrolle-haftung`
 
-**Frühere Beschreibung:** Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.; Normanker: BGB §§ 2197 ff., 2218 und 2227 und 2219; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Testamentsvollstrecker: Amt, Zeugnis, Auskunft, ordnungsgemäße Verwaltung, Entlassung und Haftung.
 
@@ -61,7 +61,7 @@ BGB §§ 2197 ff., 2218, 2227, 2219. Rechtsprechung wird nur mit Gericht, Datum,
 
 ## 2. `erb-erbschaftsteuer-progressionsoptimierung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster fuer Steuer- und Erbrechtspraxis.
+**Fokus:** Spezialfall Erbschaftsteuer-Optimierung: Freibetraege § 16 ErbStG, Steuerklassen I / II / III, Bewertung Betriebsvermoegen §§ 13a / 13b ErbStG, Familienheim § 13 ErbStG. Pruefraster fuer Steuer- und Erbrechtspraxis.
 
 # Erb: Steuer-Optimierung
 
@@ -123,7 +123,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-erbrecht`. Er ergaenzt die uebrigen 
 
 ## 3. `erb-unternehmensnachfolge-spezial`
 
-**Frühere Beschreibung:** Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist. Pruefraster.
+**Fokus:** Spezialfall Unternehmensnachfolge: Vorab-Nachfolgeklauseln in Gesellschaftsvertrag, Pflichtteilsverzicht durch Erben, Stiftungsloesung, Verschonungsregelung §§ 13a / 13b / 19a ErbStG, Nachversteuerung Behaltensfrist. Pruefraster.
 
 # Erbrecht: Unternehmensnachfolge
 

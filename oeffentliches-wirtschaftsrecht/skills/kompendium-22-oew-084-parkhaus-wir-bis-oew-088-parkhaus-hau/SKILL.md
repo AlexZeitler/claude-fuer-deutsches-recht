@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-oew-084-parkhaus-wir-bis-oew-088-parkhaus-hau
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (oew-084-parkhaus-wirtschaftlichkeit-rechnen, oew-085-parkhaus-risiko-verteilen, oew-087-parkhaus-kontrolle-sichern, oew-088-parkhaus-haushalt-anbinden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 084 Parkhaus Wirtschaftlichkeit Rechnen, Oew 085 Parkhaus Risiko Verteilen, Oew 087 Parkhaus Kontrolle Sichern, Oew 088 Parkhaus Haushalt Anbinden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 084 Parkhaus Wirtschaftlichkeit Rechnen bis Oew 088 Parkhaus Haushalt Anbinden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-084-parkhaus-wirtschaftlichkeit-rechnen` | Öffentliches Wirtschaftsrecht: Parkhaus: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-085-parkhaus-risiko-verteilen` | Öffentliches Wirtschaftsrecht: Parkhaus: Risiko verteilen. Risiko verteilen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-084-parkhaus-wirtschaftlichkeit-rechnen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Wirtschaftlichkeit Rechnen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-085-parkhaus-risiko-verteilen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Risiko verteilen. Risiko verteilen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Risiko verteilen. Risiko verteilen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Risiko Verteilen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-087-parkhaus-kontrolle-sichern`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Kontrolle sichern. Kontrolle sichern für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Kontrolle sichern. Kontrolle sichern für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Kontrolle Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-088-parkhaus-haushalt-anbinden`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Haushalt anbinden. Haushalt anbinden für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Haushalt anbinden. Haushalt anbinden für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Haushalt Anbinden
 

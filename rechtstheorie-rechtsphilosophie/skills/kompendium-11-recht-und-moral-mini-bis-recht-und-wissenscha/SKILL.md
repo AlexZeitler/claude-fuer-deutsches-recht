@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-recht-und-moral-mini-bis-recht-und-wissenscha
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (recht-und-moral-minimum, recht-und-politik-abgrenzung, recht-und-wissenschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Recht Und Moral Minimum, Recht Und Politik Abgrenzung, Recht Und Wissenschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recht-und-moral-minimum` | Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch. |
 | `recht-und-politik-abgrenzung` | Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recht-und-moral-minimum`
 
-**Frühere Beschreibung:** Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch.
+**Fokus:** Prueft, wann moralische Argumente rechtlich relevant werden: Verfassung, Generalklauseln, Auslegung, Härtefälle, Rechtsmissbrauch.
 
 # Recht und Moral
 
@@ -80,7 +80,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 2. `recht-und-politik-abgrenzung`
 
-**Frühere Beschreibung:** Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss.
+**Fokus:** Prueft, wann eine juristische Entscheidung politisch geprägt ist und wie sie dennoch rechtsförmig begründet werden muss.
 
 # Recht und Politik
 
@@ -148,7 +148,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 3. `recht-und-wissenschaft`
 
-**Frühere Beschreibung:** Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung.
+**Fokus:** Prueft die Rolle von Rechtswissenschaft: Ordnung, Kritik, Systematisierung, Reformimpuls und Grenze zur Autoritätsbehauptung.
 
 # Recht und Wissenschaft
 

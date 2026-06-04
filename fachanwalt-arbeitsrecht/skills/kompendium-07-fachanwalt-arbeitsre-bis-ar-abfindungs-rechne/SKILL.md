@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fachanwalt-arbeitsre-bis-ar-abfindungs-rechne
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam, spezial-freistellungsklausel-sonderfall-und-edge-case, ar-abfindungs-rechner-modular) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Arbeitsrecht Bag Freistellungsklausel Unwirksam, Freistellungsklausel Sonderfall Und Edge Case, Ar Abfindungs Rechner Modular
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam` | Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `spezial-freistellungsklausel-sonderfall-und-edge-case` | Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht bag freistellungsklausel unwirksam. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Rechtsprechung live prüfen
 
@@ -238,7 +238,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `spezial-freistellungsklausel-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases.
+**Fokus:** Freistellungsklausel im Arbeitsvertrag: BAG 5 AZR 108/25 (pauschale Klausel unwirksam), anlassbezogene Formulierung, Vergütungsfortzahlung, Urlaubsverfall während Freistellung, Verrechnung mit Urlaubsabgeltung, Edge Cases.
 
 # Spezial: Freistellungsklausel — Sonderfall und Edge Cases
 
@@ -346,7 +346,7 @@ Bei Aufhebungsverträgen: explizite Freistellungsklausel vereinbaren; Urlaubsabr
 
 ## 3. `ar-abfindungs-rechner-modular`
 
-**Frühere Beschreibung:** Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich.
+**Fokus:** Abfindungsrechner modular: Faustformel 0 und5 Monatsgehälter pro Beschäftigungsjahr nach BAG-Linie, Anpassung nach Verhandlungsmacht, Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG. Beispielrechnung und Mustertext für Aufhebungsvertrag und Vergleich.
 
 # AR: Abfindungs-Rechner (modular)
 

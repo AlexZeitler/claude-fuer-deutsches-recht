@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-grundbuchamt-eilfall-bis-grundbuchamt-flurber
-description: "grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (grundbuchamt-eilfall-rangverlust, grundbuchamt-erbbaurecht-schnittstelle, grundbuchamt-flurbereinigung-und-umlegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grundbuchamt-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grundbuchamt Eilfall Rangverlust, Grundbuchamt Erbbaurecht Schnittstelle, Grundbuchamt Flurbereinigung Und Umlegung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - grundbuchamt-praxis
+# Arbeitsbereich - Grundbuchamt Eilfall Rangverlust, Grundbuchamt Erbbaurecht Schnittstelle, Grundbuchamt Flurbereinigung Und Umlegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grundbuchamt-eilfall-rangverlust` | Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag. |
 | `grundbuchamt-erbbaurecht-schnittstelle` | Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grundbuchamt-eilfall-rangverlust`
 
-**Frühere Beschreibung:** Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag.
+**Fokus:** Erarbeitet Sofortplan bei drohendem Rangverlust oder konkurrierendem Antrag.
 
 # Eilfall Rangverlust
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `grundbuchamt-erbbaurecht-schnittstelle`
 
-**Frühere Beschreibung:** Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen.
+**Fokus:** Verknüpft Grundstücksgrundbuch, Erbbaugrundbuch, Reallast, Zustimmung und Belastungen.
 
 # Erbbaurecht im Grundbuch
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `grundbuchamt-flurbereinigung-und-umlegung`
 
-**Frühere Beschreibung:** Prüft neue Grundstücksbezeichnungen, Surrogation, Rangfortsetzung und Vollzugsnachweise.
+**Fokus:** Prüft neue Grundstücksbezeichnungen, Surrogation, Rangfortsetzung und Vollzugsnachweise.
 
 # Flurbereinigung/Umlegung
 

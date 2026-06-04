@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-games-software-av-as-bis-gruw-unpublished-wor
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (games-software-av-assets, gebuehren-paygov-deposit-account, government-works-edicts-105, gruw-unpublished-works) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Games Software Av Assets, Gebuehren Paygov Deposit Account, Government Works Edicts 105, Gruw Unpublished Works; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Games Software Av Assets bis Gruw Unpublished Works
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `games-software-av-assets` | Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses. |
 | `gebuehren-paygov-deposit-account` | Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `games-software-av-assets`
 
-**Frühere Beschreibung:** Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses.
+**Fokus:** Prueft Games als Bündel aus Code, Audio, Grafik, Story, Characters, UI, engine assets and licenses.
 
 # Games, Software und AV Assets
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `gebuehren-paygov-deposit-account`
 
-**Frühere Beschreibung:** Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren.
+**Fokus:** Gebühren- und Zahlungsworkflow: Fee Schedule live prüfen, Pay.gov, Kreditkarte/ACH, Deposit Account, Special Handling und Kostenstellen sauber dokumentieren.
 
 # Gebühren, Pay.gov und Deposit Account
 
@@ -150,7 +150,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `government-works-edicts-105`
 
-**Frühere Beschreibung:** Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler.
+**Fokus:** Prueft US-Regierungswerke, amtliche Texte, Edicts of Government, Drittmaterial in Behördenpublikationen und public-domain-Fehler.
 
 # Government Works und Edicts
 
@@ -218,7 +218,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `gruw-unpublished-works`
 
-**Frühere Beschreibung:** Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle.
+**Fokus:** Group Registration of Unpublished Works (GRUW): bis zu zehn unveröffentlichte Werke, gleiche Autorenschaft, Online-Antrag, separate Dateien und keine Sammel-PDF-Falle.
 
 # GRUW - Group Registration of Unpublished Works
 

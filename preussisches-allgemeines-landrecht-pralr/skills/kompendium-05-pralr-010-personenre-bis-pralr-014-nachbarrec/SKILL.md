@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-pralr-010-personenre-bis-pralr-014-nachbarrec
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (pralr-010-personenrecht-status, pralr-011-familienrecht-ehe-und-vormundschaft, pralr-012-erbrecht-und-testierfreiheit, pralr-013-sachenrecht-eigentum-besitz, pralr-014-nachbarrecht-und-pommern-fortwirkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 010 Personenrecht Status, Pralr 011 Familienrecht Ehe Und Vormundschaft, Pralr 012 Erbrecht Und Testierfreiheit, Pralr 013 Sachenrecht Eigentum Besitz und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 010 Personenrecht Status bis Pralr 014 Nachbarrecht Und Pommern Fortwirkung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-010-personenrecht-status` | PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren. |
 | `pralr-011-familienrecht-ehe-und-vormundschaft` | PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit und historische Schutz-/Kontrolllogik prüfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-010-personenrecht-status`
 
-**Frühere Beschreibung:** PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren.
+**Fokus:** PrALR: Personenrecht, Rechtsfähigkeit, Statusgruppen, Hausverband und gesellschaftliche Zuordnung analysieren.
 
 # Personenrecht und Status
 
@@ -88,7 +88,7 @@ ALR-Loesung: ALR II 9 §§ — Pruefung des Adelsbriefs; Adelsfuehrung nur bei N
 
 ## 2. `pralr-011-familienrecht-ehe-und-vormundschaft`
 
-**Frühere Beschreibung:** PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit und historische Schutz-/Kontrolllogik prüfen.
+**Fokus:** PrALR: Ehe, Elterngewalt, Vormundschaft, Familiengerichtlichkeit und historische Schutz-/Kontrolllogik prüfen.
 
 # Familienrecht
 
@@ -148,7 +148,7 @@ ALR-Loesung: ALR II 18 — Vormund bestellt durch das Vormundschaftsgericht; Pfl
 
 ## 3. `pralr-012-erbrecht-und-testierfreiheit`
 
-**Frühere Beschreibung:** PrALR: Erbrecht, Testierfreiheit, Familienbindung, Pflichtteile und ständische Vermögensordnung strukturieren.
+**Fokus:** PrALR: Erbrecht, Testierfreiheit, Familienbindung, Pflichtteile und ständische Vermögensordnung strukturieren.
 
 # Erbrecht
 
@@ -208,7 +208,7 @@ ALR-Loesung: Bis 1919/1938 ALR II 4 — Stammgut unteilbar; geht an aeltesten So
 
 ## 4. `pralr-013-sachenrecht-eigentum-besitz`
 
-**Frühere Beschreibung:** PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrechte und Eigentumsbindungen historisch prüfen.
+**Fokus:** PrALR: Eigentum, Besitz, dingliche Rechte, Nutzungen, Nachbarrechte und Eigentumsbindungen historisch prüfen.
 
 # Sachenrecht
 
@@ -270,7 +270,7 @@ ALR-Loesung: ALR I 21 — Hutungsrecht als Dienstbarkeit; Ablösung gegen Entsch
 
 ## 5. `pralr-014-nachbarrecht-und-pommern-fortwirkung`
 
-**Frühere Beschreibung:** PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern-Bezüge und heutige Anwendungsrisiken prüfen.
+**Fokus:** PrALR: Nachbarrechtliche Fortwirkung, lokale Rechtsräume, Pommern-Bezüge und heutige Anwendungsrisiken prüfen.
 
 # Nachbarrechtliche Fortwirkung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-adressatenwuerde-und-bis-besitz-rechtsrealism
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (adressatenwuerde-und-rechtssteuerung, besitz-law-and-economics-transaktionskosten, besitz-rechtsrealismus-und-praktische-beduerfnisse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Adressatenwuerde Und Rechtssteuerung, Besitz Law And Economics Transaktionskosten, Besitz Rechtsrealismus Und Praktische Beduerfnisse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `adressatenwuerde-und-rechtssteuerung` | Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden. |
 | `besitz-law-and-economics-transaktionskosten` | Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `adressatenwuerde-und-rechtssteuerung`
 
-**Frühere Beschreibung:** Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden.
+**Fokus:** Prueft Recht als Adressierung verantwortlicher Personen: Wissen, Planen, Befolgen, Bestreiten, Beweisen, Gehoer und begruendete Entscheidung statt blosses Regiertwerden.
 
 # Adressatenwürde und Rechtssteuerung
 
@@ -85,7 +85,7 @@ Erstelle einen Adressatenwürde-Check mit den Spalten Erkennbarkeit, Befolgbarke
 
 ## 2. `besitz-law-and-economics-transaktionskosten`
 
-**Frühere Beschreibung:** Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus.
+**Fokus:** Analysiert Besitz, Fund, Ersitzung und Eigentumszuordnung oekonomisch: Exklusivitaet, Investitionsanreize, Suchkosten, Beweisverfall, Transaktionskosten, bilaterales Monopol und effiziente Rechtsfolgen ohne Effizienzautomatismus.
 
 # Besitz und Law & Economics: Transaktionskosten
 
@@ -156,7 +156,7 @@ Schließe mit `geltendes Recht` und `rechtspolitische Bewertung` getrennt.
 
 ## 3. `besitz-rechtsrealismus-und-praktische-beduerfnisse`
 
-**Frühere Beschreibung:** Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
+**Fokus:** Prueft Besitzschutz rechtsrealistisch: faktische Kontrolle, Streitvermeidung, Friedensfunktion, Beweislast, gerichtliche Handhabbarkeit und die Notwendigkeit, praktische Beduerfnisse konkret statt intuitiv zu benennen.
 
 # Besitz, Rechtsrealismus und praktische Bedürfnisse
 

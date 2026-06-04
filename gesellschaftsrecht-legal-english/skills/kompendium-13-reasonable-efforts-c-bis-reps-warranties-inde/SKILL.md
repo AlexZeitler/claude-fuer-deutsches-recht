@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-reasonable-efforts-c-bis-reps-warranties-inde
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (reasonable-efforts-covenants, reps-warranties-indemnities) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Reasonable Efforts Covenants, Reps Warranties Indemnities; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Reasonable Efforts Covenants, Reps Warranties Indemnities
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `reasonable-efforts-covenants` | Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht. |
 | `reps-warranties-indemnities` | Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `reasonable-efforts-covenants`
 
-**Frühere Beschreibung:** Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht.
+**Fokus:** Erklaert reasonable efforts, best efforts, commercially reasonable efforts, covenants, undertakings und konkretisiert sie fuer deutsches Recht.
 
 # Efforts und Covenants
 
@@ -96,7 +96,7 @@ Bemühensklauseln nicht als unbestimmte Floskeln stehen lassen.
 
 ## 2. `reps-warranties-indemnities`
 
-**Frühere Beschreibung:** Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA.
+**Fokus:** Erklaert Representations, Warranties, Covenants, Indemnities, Disclosure, Knowledge Qualifiers und deutsche Haftungslogik im SPA.
 
 # Reps, Warranties und Indemnities
 

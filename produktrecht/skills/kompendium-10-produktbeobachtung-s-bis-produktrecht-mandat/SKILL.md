@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-produktbeobachtung-s-bis-produktrecht-mandat
-description: "produktrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (produktbeobachtung-software-ota, produktrecht-anpassen, produktrecht-mandat-arbeitsbereich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - produktrecht
+# Arbeitsbereich - Produktbeobachtung Software Ota, Produktrecht Anpassen, Produktrecht Mandat Arbeitsbereich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produktbeobachtung-software-ota` | Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung. |
 | `produktrecht-anpassen` | Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt "mein [Ding] ändern", "mein Profil aktualisieren", "mein Framework bearbeiten", "meine Kalibrierung anpassen" oder "anpassen". |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produktbeobachtung-software-ota`
 
-**Frühere Beschreibung:** Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung.
+**Fokus:** Prüft Produktbeobachtungspflichten für Software, Firmware, OTA-Updates, digitale Dienste, Sicherheitsupdates, End-of-Support, Reparaturdaten und Feldüberwachung nach BGB, Produktsicherheit, GPSR und neuer EU-Produkthaftung.
 
 # Produktbeobachtung: Software, OTA und Sicherheitsupdates
 
@@ -75,7 +75,7 @@ EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verw
 
 ## 2. `produktrecht-anpassen`
 
-**Frühere Beschreibung:** Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt "mein [Ding] ändern", "mein Profil aktualisieren", "mein Framework bearbeiten", "meine Kalibrierung anpassen" oder "anpassen".
+**Fokus:** Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung, Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt "mein [Ding] ändern", "mein Profil aktualisieren", "mein Framework bearbeiten", "meine Kalibrierung anpassen" oder "anpassen".
 
 # /anpassen
 
@@ -139,7 +139,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `produktrecht-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten.
+**Fokus:** Verwaltung von Produktmandats-Workspaces — Anlegen, Auflisten, Wechseln, Schließen oder Deaktivieren (auf Kanzleiebene). Lädt, wenn der Nutzer ein neues Mandat anlegen, zwischen Mandaten wechseln, ein Mandat abschließen oder den mandatsbezogenen Kontext trennen möchte, insbesondere bei mehreren parallelen Produktrechtsmandaten.
 
 # Produktmandat-Workspace
 

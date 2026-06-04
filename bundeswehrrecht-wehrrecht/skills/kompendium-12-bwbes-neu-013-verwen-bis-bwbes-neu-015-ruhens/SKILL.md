@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-bwbes-neu-013-verwen-bis-bwbes-neu-015-ruhens
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle, bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise, bwbes-neu-015-ruhensregelungen-versorgung-und-erwerbseinkommen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bwbes Neu 013 Verwendungsfaehigkeit Tauglichkeit Und Finanzielle, Bwbes Neu 014 Auslandseinsatz Anerkennung Und Nachweise, Bwbes Neu 015 Ruhensregelungen Versorgung Und Erwerbseinkommen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Bwbes Neu 013 Verwendungsfaehigkeit Tauglichkeit Und Finanzielle, Bwbes Neu 014 Auslandseinsatz Anerkennung Und Nachweise, Bwbes Neu 015 Ruhe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle` | Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG. |
 | `bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise` | Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bwbes-neu-013-verwendungsfaehigkeit-tauglichkeit-und-finanzielle`
 
-**Frühere Beschreibung:** Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG.
+**Fokus:** Verwendungsfähigkeit, Tauglichkeit, finanzielle Folgen: prüft Tauglichkeitsstufen, dienstrechtliche Konsequenzen und SVG-Versorgung. Norm-/Quellenanker: §§ 44–45 und 55 SG, SVG.
 
 # Verwendungsfähigkeit, Tauglichkeit und finanzielle Folgen
 
@@ -134,7 +134,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `bwbes-neu-014-auslandseinsatz-anerkennung-und-nachweise`
 
-**Frühere Beschreibung:** Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG.
+**Fokus:** Auslandseinsatz Anerkennung und Nachweise: prüft Einsatzbescheinigungen, AVZ-Nachweise, WDB-Dokumentation und behördliche Verfahren. Norm-/Quellenanker: BBesG §§ 56–58, SVG, EinsatzWVG.
 
 # Auslandseinsatz: Anerkennung und Nachweise
 
@@ -243,7 +243,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `bwbes-neu-015-ruhensregelungen-versorgung-und-erwerbseinkommen`
 
-**Frühere Beschreibung:** Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG.
+**Fokus:** Ruhensregelungen Versorgung und Erwerbseinkommen: prüft SVG §§ 53–56, BeamtVG § 68, Anrechnungsgrenzen und Ausnahmen. Norm-/Quellenanker: SVG, BeamtVG analog, BBesG.
 
 # Ruhensregelungen: Versorgung und Erwerbseinkommen
 

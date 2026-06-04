@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-erfinderische-taetig-bis-ki-und-patent-strate
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (erfinderische-taetigkeit-pruefen, freedom-to-operate-recherche, ki-und-patent-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erfinderische Taetigkeit Pruefen, Freedom To Operate Recherche, Ki Und Patent Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - patentrecherche
+# Arbeitsbereich - Erfinderische Taetigkeit Pruefen, Freedom To Operate Recherche, Ki Und Patent Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erfinderische-taetigkeit-pruefen` | Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung löst und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Lösung umgesetzt. Berücksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Bedürfnis und kommerziellen Erfolg. Disclaimer keine amtliche Prüfung. |
 | `freedom-to-operate-recherche` | Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erfinderische-taetigkeit-pruefen`
 
-**Frühere Beschreibung:** Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung löst und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Lösung umgesetzt. Berücksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Bedürfnis und kommerziellen Erfolg. Disclaimer keine amtliche Prüfung.
+**Fokus:** Prüft erfinderische Tätigkeit nach § 4 PatG und Art. 56 EPUe mit dem Problem-Solution-Approach der EPA-Beschwerdekammern. Drei Stufen: (1) Bestimmung des naechstliegenden Stands der Technik (closest prior art) anhand technischer Naehe Zweckverwandschaft und gemeinsamer Merkmale; (2) Formulierung der objektiven technischen Aufgabe (objective technical problem) als das was die Erfindung löst und der naechstliegende Stand der Technik nicht; (3) Frage nach could-would am Tag der Anmeldung haette der Fachmann ausgehend vom naechstliegenden Stand der Technik mit Erwartung auf Erfolg die beanspruchte Lösung umgesetzt. Berücksichtigt Sekundaerindizien wie technisches Vorurteil unerwartete Wirkung lange empfundenes Bedürfnis und kommerziellen Erfolg. Disclaimer keine amtliche Prüfung.
 
 # erfinderische-tätigkeit-prüfen
 
@@ -157,7 +157,7 @@ Bevor der Problem-Solution-Approach angewendet wird, klaere:
 
 ## 2. `freedom-to-operate-recherche`
 
-**Frühere Beschreibung:** Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung.
+**Fokus:** Freedom-to-Operate-Recherche (FTO) vor Markteintritt eines konkreten Produkts oder Verfahrens der Mandantin. Sucht **in Kraft befindliche** Patente und Gebrauchsmuster Dritter im Zielmarkt deren Schutzbereich nach § 14 PatG Art. 69 EPUe das Produkt erreichen koennte. Anders als Stand-der-Technik-Recherche: Filter auf erteilte und rechtsstandfähige Schutzrechte (DPMAregister EPO Register Status erteilt nicht erloschen), Territorium passt zum Zielmarkt, Schutzbereich passt zum Produkt. Liefert Risiko-Ampel pro Treffer rot gelb gruen mit Begründung Pinpoint auf Hauptanspruch und Empfehlung Vermeidung Lizenz Vernichtungsklage Nichtigkeitsklage. Disclaimer keine Rechtsberatung kein Ersatz für Patentanwaltsbewertung.
 
 # freedom-to-operate-recherche
 
@@ -267,7 +267,7 @@ Bevor die FTO-Analyse begonnen wird, klaere:
 
 ## 3. `ki-und-patent-strategie`
 
-**Frühere Beschreibung:** Spezialfall KI-Erfindungen Patent-Strategie: DABUS-Entscheidungen DPMA und EPA und BPatG, Erfinderbenennung nur natuerliche Person, Beitrag der KI in Beschreibung, Daten- und Modellrechte. Strategie fuer KI-getriebene FuE und Patent-Portfolio. Mustertexte.
+**Fokus:** Spezialfall KI-Erfindungen Patent-Strategie: DABUS-Entscheidungen DPMA und EPA und BPatG, Erfinderbenennung nur natuerliche Person, Beitrag der KI in Beschreibung, Daten- und Modellrechte. Strategie fuer KI-getriebene FuE und Patent-Portfolio. Mustertexte.
 
 # KI-Erfindungen: Strategie
 

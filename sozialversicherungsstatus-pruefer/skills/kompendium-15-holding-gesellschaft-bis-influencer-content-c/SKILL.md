@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-holding-gesellschaft-bis-influencer-content-c
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (holding-gesellschafter-gf, honorararzt-und-aerzte, hybride-beschaeftigung, influencer-content-creator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Holding Gesellschafter Gf, Honorararzt Und Aerzte, Hybride Beschaeftigung, Influencer Content Creator; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Holding Gesellschafter Gf bis Influencer Content Creator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `holding-gesellschafter-gf` | Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers. |
 | `honorararzt-und-aerzte` | Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `holding-gesellschafter-gf`
 
-**Frühere Beschreibung:** Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers.
+**Fokus:** Prüft mittelbare Beteiligung über Holding, Stimmdurchgriff, Pooling und Status eines Geschäftsführers.
 
 # Holding-Gesellschafter-Geschäftsführer
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `honorararzt-und-aerzte`
 
-**Frühere Beschreibung:** Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation.
+**Fokus:** Prüft Honorarärzte, Praxisvertretung, Klinikdienst, Notdienst und Eingliederung in medizinische Organisation.
 
 # Honorararzt und Ärzte
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `hybride-beschaeftigung`
 
-**Frühere Beschreibung:** Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter.
+**Fokus:** Prüft parallele Rollen bei demselben Unternehmen oder Konzern: Arbeitnehmer plus Freelancer, GF plus Berater, Dozent plus Angestellter.
 
 # Hybride Beschäftigung und Selbständigkeit
 
@@ -226,7 +226,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `influencer-content-creator`
 
-**Frühere Beschreibung:** Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK.
+**Fokus:** Prüft Influencer, Creator, Agenturverträge, Markenbotschafter, Exklusivität und Sozialversicherung/KSK.
 
 # Influencer und Content Creator
 

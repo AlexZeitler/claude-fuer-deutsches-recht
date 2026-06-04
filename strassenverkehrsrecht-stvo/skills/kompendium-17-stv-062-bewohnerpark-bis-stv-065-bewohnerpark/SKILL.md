@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-stv-062-bewohnerpark-bis-stv-065-bewohnerpark
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (stv-062-bewohnerparken-zeichen-auslegen, stv-063-bewohnerparken-anordnung-angreifen, stv-064-bewohnerparken-antrag-schreiben, stv-065-bewohnerparken-beweis-sichern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 062 Bewohnerparken Zeichen Auslegen, Stv 063 Bewohnerparken Anordnung Angreifen, Stv 064 Bewohnerparken Antrag Schreiben, Stv 065 Bewohnerparken Beweis Sichern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 062 Bewohnerparken Zeichen Auslegen bis Stv 065 Bewohnerparken Beweis Sichern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-062-bewohnerparken-zeichen-auslegen` | Straßenverkehrsrecht StVO: Bewohnerparken: Zeichen auslegen. Zeichen auslegen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-063-bewohnerparken-anordnung-angreifen` | Straßenverkehrsrecht StVO: Bewohnerparken: Anordnung angreifen. Anordnung angreifen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-062-bewohnerparken-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Zeichen auslegen. Zeichen auslegen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Zeichen auslegen. Zeichen auslegen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Zeichen Auslegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-063-bewohnerparken-anordnung-angreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Anordnung angreifen. Anordnung angreifen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Anordnung angreifen. Anordnung angreifen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Anordnung Angreifen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-064-bewohnerparken-antrag-schreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Antrag schreiben. Antrag schreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Antrag schreiben. Antrag schreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Antrag Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-065-bewohnerparken-beweis-sichern`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Beweis sichern. Beweis sichern für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Beweis sichern. Beweis sichern für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Beweis Sichern
 

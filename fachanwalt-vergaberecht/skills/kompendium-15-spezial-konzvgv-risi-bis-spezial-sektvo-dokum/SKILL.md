@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-konzvgv-risi-bis-spezial-sektvo-dokum
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (spezial-konzvgv-risikoampel-und-gegenargumente, spezial-rahmenvereinbarung-international-schnittstellen, spezial-schnittstelle-zahlen-schwellen-und-berechnung, spezial-sektvo-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Konzvgv Risikoampel Und Gegenargumente, Rahmenvereinbarung International Schnittstellen, Schnittstelle Zahlen Schwellen Und Berechnung, Sektvo Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-vergaberecht
+# Arbeitsbereich - Konzvgv Risikoampel Und Gegenargumente bis Sektvo Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-konzvgv-risikoampel-und-gegenargumente` | Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rahmenvereinbarung-international-schnittstellen` | Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-konzvgv-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Konzvgv: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-rahmenvereinbarung-international-schnittstellen`
 
-**Frühere Beschreibung:** Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rahmenvereinbarung: Internationaler Bezug und Schnittstellen im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rahmenvereinbarung: Internationaler Bezug und Schnittstellen
 
@@ -133,7 +133,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstelle-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 
@@ -185,7 +185,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-sektvo-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sektvo: Dokumentenmatrix, Lückenliste und Nachforderung
 

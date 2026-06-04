@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-scope-creep-control-bis-standortstrategie
-description: "kanzlei-management: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (scope-creep-control, secretariat-business-services, staffing-board, standortstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-management: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Scope Creep Control, Secretariat Business Services, Staffing Board, Standortstrategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - kanzlei-management
+# Arbeitsbereich - Scope Creep Control bis Standortstrategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `scope-creep-control` | Erkennt kriechende Mandatserweiterung und erzeugt Nachtragskommunikation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `secretariat-business-services` | Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `scope-creep-control`
 
-**Frühere Beschreibung:** Erkennt kriechende Mandatserweiterung und erzeugt Nachtragskommunikation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Erkennt kriechende Mandatserweiterung und erzeugt Nachtragskommunikation. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Scope Creep Control
 
@@ -85,7 +85,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 2. `secretariat-business-services`
 
-**Frühere Beschreibung:** Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Stärkt Assistenz, Finance, HR, IT und Knowledge als Betriebssystem der Kanzlei. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Sekretariat und Business Services
 
@@ -141,7 +141,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 3. `staffing-board`
 
-**Frühere Beschreibung:** Ordnet neue Mandate nach Kapazität, Kompetenz, Ausbildungswert und Marge zu. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Ordnet neue Mandate nach Kapazität, Kompetenz, Ausbildungswert und Marge zu. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Staffing Board
 
@@ -197,7 +197,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 4. `standortstrategie`
 
-**Frühere Beschreibung:** Prüft Standorte, Mietkosten, Hybridarbeit, Recruitingwirkung und Symbolik. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Prüft Standorte, Mietkosten, Hybridarbeit, Recruitingwirkung und Symbolik. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Standortstrategie und Büroflächen
 

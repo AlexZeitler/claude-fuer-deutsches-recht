@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-willenserkla-bis-spezial-zugang-risik
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-willenserklaerung-formular-portal-und-einreichung, spezial-zivilrecht-tatbestand-beweis-und-belege, spezial-zugang-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Willenserklaerung Formular Portal Und Einreichung, Zivilrecht Tatbestand Beweis Und Belege, Zugang Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - schriftform-und-textform-bgb
+# Arbeitsbereich - Willenserklaerung Formular Portal Und Einreichung, Zivilrecht Tatbestand Beweis Und Belege, Zugang Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-willenserklaerung-formular-portal-und-einreichung` | Willenserklaerung: Formular, Portal und Einreichungslogik im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zivilrecht-tatbestand-beweis-und-belege` | Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-willenserklaerung-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Willenserklaerung: Formular, Portal und Einreichungslogik im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Willenserklaerung: Formular, Portal und Einreichungslogik im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Willenserklaerung: Formular, Portal und Einreichungslogik
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-zivilrecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zivilrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-zugang-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Zugang: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zugang: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zugang: Risikoampel, Gegenargumente und Verteidigungslinien
 

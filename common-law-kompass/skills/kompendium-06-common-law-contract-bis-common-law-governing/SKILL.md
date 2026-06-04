@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-common-law-contract-bis-common-law-governing
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (common-law-contract-formation-consideration, common-law-false-friends-scanner, common-law-governing-law-jurisdiction) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - common-law-kompass
+# Arbeitsbereich - Common Law Contract Formation Consideration, Common Law False Friends Scanner, Common Law Governing Law Jurisdiction
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-contract-formation-consideration` | Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln). |
 | `common-law-false-friends-scanner` | Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-contract-formation-consideration`
 
-**Frühere Beschreibung:** Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln).
+**Fokus:** Anwalt oder Mandant will Vertragsschluss-Grundlagen des Common Law verstehen: offer acceptance consideration deed promissory estoppel UCC. Anwendungsfall Transaktionsvertrag oder NDA mit UK/US-Gegenpartei. Prüfraster Consideration-Prüfung Deed-Anforderungen Estoppel-Risiko UCC-Varianten. Output Erklärung Vertragsschluss-Checkliste Risiko-Hinweis. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-representations-warranties-covenants (Klauseln).
 
 # Contract Formation und Consideration
 
@@ -137,7 +137,7 @@ RESULT:
 
 ## 2. `common-law-false-friends-scanner`
 
-**Frühere Beschreibung:** Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich).
+**Fokus:** Anwalt oder Übersetzer sucht missverstaendliche deutsch-englische Rechtsbegriffe im Vertragstext oder Memo. Anwendungsfall Vertragsentwurf mit False-Friend-Risiko. Prüfraster Begriff-Scan Risikoeinstufung sichere Alternativen Jurisdiktion-Check. Output False-Friends-Liste Korrekturvorschlaege sichere Formulierungen. Abgrenzung zu common-law-begriffe-uebersetzung (Übersetzung) und common-law-bilingual-contract-review (Vergleich).
 
 # False-Friends-Scanner
 
@@ -237,7 +237,7 @@ No. | Term Found | Location | Risk | Recommended Change
 
 ## 3. `common-law-governing-law-jurisdiction`
 
-**Frühere Beschreibung:** Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess).
+**Fokus:** Vertragsparteien muessen Rechtswahlklausel Gerichtsstand und Durchsetzbarkeit für grenzüberschreitenden Vertrag klaeren. UK US oder deutsches Recht. Prüfraster Rechtswahl-Klausel Forum-Venue-Service Arbitrations-Option Vollstreckbarkeit EU/UK/US. Output Rechtswahl-Empfehlung Klausel-Entwurf Risikomatrix. Abgrenzung zu common-law-governing-law-jurisdiction nur Rechtswahl nicht Inhalt und common-law-litigation-discovery (Prozess).
 
 # Governing Law, Jurisdiction und Forum
 

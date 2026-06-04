@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-umzug-registerbezirk-bis-auslandsurkunden-apo
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (umzug-registerbezirk, amtsloeschung-familienloeschung-registerblatt, auslandsurkunden-apostille-legalisation-uebersetzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umzug Registerbezirk, Amtsloeschung Familienloeschung Registerblatt, Auslandsurkunden Apostille Legalisation Uebersetzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - handelsregister-praxis
+# Arbeitsbereich - Umzug Registerbezirk, Amtsloeschung Familienloeschung Registerblatt, Auslandsurkunden Apostille Legalisation Uebersetzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umzug-registerbezirk` | Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik. |
 | `amtsloeschung-familienloeschung-registerblatt` | Prüft Löschungsandrohung, Anhörung, Unrichtigkeit, Vermögenslosigkeit, Gegenwehr und Dokumentationsstrategie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umzug-registerbezirk`
 
-**Frühere Beschreibung:** Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik.
+**Fokus:** Prüft innerörtlich/anderer Bezirk, Satzungsänderung, Registerabgabe, Bekanntmachung und Adresslogik.
 
 # Sitzverlegung und Registerbezirk
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `amtsloeschung-familienloeschung-registerblatt`
 
-**Frühere Beschreibung:** Prüft Löschungsandrohung, Anhörung, Unrichtigkeit, Vermögenslosigkeit, Gegenwehr und Dokumentationsstrategie.
+**Fokus:** Prüft Löschungsandrohung, Anhörung, Unrichtigkeit, Vermögenslosigkeit, Gegenwehr und Dokumentationsstrategie.
 
 # Amtslöschung und Registerbereinigung
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `auslandsurkunden-apostille-legalisation-uebersetzung`
 
-**Frühere Beschreibung:** Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis.
+**Fokus:** Prüft Apostille, Legalisation, beglaubigte Übersetzung, Existenznachweis und Vertretungsnachweis.
 
 # Auslandsurkunden registerfest machen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-gdpr-privacy-by-desi-bis-incident-cyber-liabi
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (gdpr-privacy-by-design-software, gpl-agpl, implementation-customizing, incident-cyber-liability) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gdpr Privacy By Design Software, Gpl Agpl, Implementation Customizing, Incident Cyber Liability; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - softwarerecht-de-eu-us
+# Arbeitsbereich - Gdpr Privacy By Design Software bis Incident Cyber Liability
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gdpr-privacy-by-design-software` | Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV. |
 | `gpl-agpl` | Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gdpr-privacy-by-design-software`
 
-**Frühere Beschreibung:** Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV.
+**Fokus:** Prüft Datenschutzanforderungen in Softwarearchitektur, Rollen, Logging, Telemetrie, AI, DSFA und AVV.
 
 # Privacy by Design Software
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `gpl-agpl`
 
-**Frühere Beschreibung:** Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken.
+**Fokus:** Prüft GPL/AGPL-Pflichten, Copyleft-Auslöser, Source-Angebot, Netzwerkinteraktion und SaaS-Sonderrisiken.
 
 # GPL und AGPL
 
@@ -142,7 +142,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `implementation-customizing`
 
-**Frühere Beschreibung:** Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix.
+**Fokus:** Prüft Implementierungsprojekte, Customizing, Konfiguration, Schnittstellen, Datenmigration und Verantwortungsmatrix.
 
 # Implementation und Customizing
 
@@ -199,7 +199,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `incident-cyber-liability`
 
-**Frühere Beschreibung:** Prüft Haftung nach Software-Cybervorfall, Logs, Patches, vertragliche Pflichten, DSGVO und Produktsicherheit.
+**Fokus:** Prüft Haftung nach Software-Cybervorfall, Logs, Patches, vertragliche Pflichten, DSGVO und Produktsicherheit.
 
 # Cyber Incident Liability Software
 

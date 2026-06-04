@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pe-077-data-room-ind-bis-pe-080-management-ro
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (pe-077-data-room-index-pe, pe-078-deal-timeline-und-workstreams, pe-079-bidco-stack-und-holdingstruktur, pe-080-management-rollover) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 077 Data Room Index Pe, Pe 078 Deal Timeline Und Workstreams, Pe 079 Bidco Stack Und Holdingstruktur, Pe 080 Management Rollover; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - private-equity-praxis
+# Arbeitsbereich - Pe 077 Data Room Index Pe bis Pe 080 Management Rollover
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-077-data-room-index-pe` | Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal. |
 | `pe-078-deal-timeline-und-workstreams` | Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-077-data-room-index-pe`
 
-**Frühere Beschreibung:** Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal.
+**Fokus:** Baut oder prüft Datenraum-Index für PE-Buyout, Add-on, Carve-out oder Distressed Deal.
 
 # Datenraum-Index PE
 
@@ -70,7 +70,7 @@ Corporate, Finance, Tax, HR, IP, Regulatory, Litigation, ESG, IT/Cyber.
 
 ## 2. `pe-078-deal-timeline-und-workstreams`
 
-**Frühere Beschreibung:** Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management.
+**Fokus:** Erstellt Deal-Zeitplan von NDA bis Closing mit Legal, Tax, Finance, Regulatory, Financing und Management.
 
 # Deal Timeline und Workstreams
 
@@ -111,7 +111,7 @@ SPA, GWB/FKVO/AWV, KYC, Notar/Register, Fonds-Approvals.
 
 ## 3. `pe-079-bidco-stack-und-holdingstruktur`
 
-**Frühere Beschreibung:** Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten.
+**Fokus:** Prüft Akquisitionsholding, Lux/DE/UK-Elemente, Gesellschafterdarlehen, Cash Flows und Sicherheiten.
 
 # BidCo-Stack und Holdingstruktur
 
@@ -152,7 +152,7 @@ GmbHG, Steuer, KAGB, Finanzierung, Kapitalerhaltung, Insolvenz.
 
 ## 4. `pe-080-management-rollover`
 
-**Frühere Beschreibung:** Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte.
+**Fokus:** Prüft Reinvestment des Managements, Bewertung, Finanzierung, Leaver, Vesting, Garantien und Interessenkonflikte.
 
 # Management Roll-over
 

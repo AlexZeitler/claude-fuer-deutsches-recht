@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-fran-040-e-commerce-bis-fran-042-bewertungen
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (fran-040-e-commerce-franchise-retouren-und-widerruf, fran-041-influencer-werbung-im-franchisesystem, fran-042-bewertungen-google-plattform-und-rufschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Und Rufschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - franchiserecht-praxis
+# Arbeitsbereich - Fran 040 E Commerce Franchise Retouren Und Widerruf, Fran 041 Influencer Werbung Im Franchisesystem, Fran 042 Bewertungen Google Plattform Un
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-040-e-commerce-franchise-retouren-und-widerruf` | E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops. |
 | `fran-041-influencer-werbung-im-franchisesystem` | Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-040-e-commerce-franchise-retouren-und-widerruf`
 
-**Frühere Beschreibung:** E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops.
+**Fokus:** E-Commerce im Franchisesystem regeln: Widerrufsrecht nach §§ 355 ff. BGB, Retourenmanagement, Haftung für fehlerhafte Produktbeschreibungen, Gebietsschutz im Online-Handel und Verantwortlichkeit für Datenschutz bei gemeinsamen Web-Shops.
 
 # Franchiserecht: E-Commerce-Franchise, Retouren und Widerrufsrecht
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-041-influencer-werbung-im-franchisesystem`
 
-**Frühere Beschreibung:** Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System.
+**Fokus:** Influencer-Werbung im Franchisesystem rechtlich gestalten: Kennzeichnungspflichten nach §§ 5a UWG und MStV, Markennutzungsrechte der Influencer, Haftung des Franchisenehmers und Franchisegebers, vertragliche Einbindung von Influencern ins System.
 
 # Franchiserecht: Influencer-Werbung im Franchisesystem
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-042-bewertungen-google-plattform-und-rufschutz`
 
-**Frühere Beschreibung:** Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie.
+**Fokus:** Online-Bewertungen im Franchisesystem managen: Löschungsansprüche gegen Google und Plattformen nach § 823 BGB und DSGVO, Gegendarstellungsrecht, Fake-Bewertungen als Wettbewerbsverstoss nach § 5 UWG und systemweite Reputationsstrategie.
 
 # Franchiserecht: Bewertungen, Google, Plattformen und Rufschutz
 

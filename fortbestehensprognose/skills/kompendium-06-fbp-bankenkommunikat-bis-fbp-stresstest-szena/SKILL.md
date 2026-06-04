@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fbp-bankenkommunikat-bis-fbp-stresstest-szena
-description: "fortbestehensprognose: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fbp-bankenkommunikation-waiver-spezial, fbp-integrierte-planung-bauleiter, fbp-stresstest-szenarien-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fortbestehensprognose: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fbp Bankenkommunikation Waiver Spezial, Fbp Integrierte Planung Bauleiter, Fbp Stresstest Szenarien Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fortbestehensprognose
+# Arbeitsbereich - Fbp Bankenkommunikation Waiver Spezial, Fbp Integrierte Planung Bauleiter, Fbp Stresstest Szenarien Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fbp-bankenkommunikation-waiver-spezial` | Spezialfall Bankenkommunikation und Waiver / Standstill bei drohender Zahlungsunfaehigkeit: Konsortium, Sicherheitenpool, MAC-Klausel. Pruefraster fuer Geschaeftsleitung und Treuhaender. |
 | `fbp-integrierte-planung-bauleiter` | Bauleiter integrierte Planung GuV, Bilanz, Cashflow fuer IDW S 11. Pruefraster fuer Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fbp-bankenkommunikation-waiver-spezial`
 
-**Frühere Beschreibung:** Spezialfall Bankenkommunikation und Waiver / Standstill bei drohender Zahlungsunfaehigkeit: Konsortium, Sicherheitenpool, MAC-Klausel. Pruefraster fuer Geschaeftsleitung und Treuhaender.
+**Fokus:** Spezialfall Bankenkommunikation und Waiver / Standstill bei drohender Zahlungsunfaehigkeit: Konsortium, Sicherheitenpool, MAC-Klausel. Pruefraster fuer Geschaeftsleitung und Treuhaender.
 
 # FBP: Bankenkommunikation Waiver
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fortbestehensprognose`. Er ergaenzt die uebrige
 
 ## 2. `fbp-integrierte-planung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter integrierte Planung GuV, Bilanz, Cashflow fuer IDW S 11. Pruefraster fuer Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis.
+**Fokus:** Bauleiter integrierte Planung GuV, Bilanz, Cashflow fuer IDW S 11. Pruefraster fuer Planungsschritte, Annahmen, Sensitivitaeten. Mustertext Annahmenverzeichnis.
 
 # FBP: Integrierte Planung Bauleiter
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fortbestehensprognose`. Er ergaenzt die uebrige
 
 ## 3. `fbp-stresstest-szenarien-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Stresstest- und Szenarien-Aufbau fuer Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger fuer Massnahmen. Pruefraster fuer Beraterhand und Geschaeftsleitung.
+**Fokus:** Leitfaden Stresstest- und Szenarien-Aufbau fuer Fortbestehensprognose: Basis-, Stress- und Worst-Case, KPIs, Trigger fuer Massnahmen. Pruefraster fuer Beraterhand und Geschaeftsleitung.
 
 # FBP: Stresstest-Szenarien
 

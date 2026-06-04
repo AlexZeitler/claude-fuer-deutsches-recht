@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-kv-071-arztbrief-in-bis-kv-073-private-krank
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen, kv-072-kassenaufsicht-beschwerde-und-bmg-bas, kv-073-private-krankenversicherung-kuendigung-wechsel-und-schuld) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 071 Arztbrief In Anspruchsbegruendung Uebersetzen, Kv 072 Kassenaufsicht Beschwerde Und Bmg Bas, Kv 073 Private Krankenversicherung Kuendigung Wechsel Und Schuld; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 071 Arztbrief In Anspruchsbegruendung Uebersetzen, Kv 072 Kassenaufsicht Beschwerde Und Bmg Bas, Kv 073 Private Krankenversicherung Kuendi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen` | Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV. |
 | `kv-072-kassenaufsicht-beschwerde-und-bmg-bas` | Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-071-arztbrief-in-anspruchsbegruendung-uebersetzen`
 
-**Frühere Beschreibung:** Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV.
+**Fokus:** Methodik zur Transformation medizinischer Arztbriefe in rechtlich verwertbare Anspruchsbegründungen gegenüber GKV und PKV.
 
 # Arztbrief in Anspruchsbegründung übersetzen
 
@@ -108,7 +108,7 @@ Arztbriefe enthalten die entscheidenden medizinischen Argumente für GKV-/PKV-An
 
 ## 2. `kv-072-kassenaufsicht-beschwerde-und-bmg-bas`
 
-**Frühere Beschreibung:** Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel.
+**Fokus:** Beschwerde bei Kassenaufsichtsbehörden (BAS, Landesbehörden): Zuständigkeiten, Beschwerdeinhalte, Grenzen der Aufsicht und ergänzende Rechtsmittel.
 
 # Kassenaufsicht: Beschwerde und BMG/BAS
 
@@ -189,7 +189,7 @@ Neben dem Rechtsweg zu den Sozialgerichten können Beschwerden bei der Kassenauf
 
 ## 3. `kv-073-private-krankenversicherung-kuendigung-wechsel-und-schuld`
 
-**Frühere Beschreibung:** PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV.
+**Fokus:** PKV kündigen, in GKV wechseln oder PKV-Schulden bereinigen: Voraussetzungen, Kündigungsfristen, Schuldenbereinigung und Wechseloptionen zur GKV.
 
 # PKV: Kündigung, Wechsel und Schulden
 

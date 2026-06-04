@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-spezial-schnittstell-bis-spezial-verhandlung
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (spezial-schnittstellen-formular-portal-und-einreichung, spezial-software-dokumentenmatrix-und-lueckenliste, spezial-source-internationaler-bezug-und-schnittstellen, spezial-ttdsg-verhandlung-vergleich-und-eskalation, spezial-verhandlung-abschlussprodukt-und-uebergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schnittstellen Formular Portal Und Einreichung, Software Dokumentenmatrix Und Lueckenliste, Source Internationaler Bezug Und Schnittstellen, Ttdsg Verhandlung Vergleich Und Eskalation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fachanwalt-it-recht
+# Arbeitsbereich - Schnittstellen Formular Portal Und Einreichung bis Verhandlung Abschlussprodukt Und Uebergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-schnittstellen-formular-portal-und-einreichung` | Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-software-dokumentenmatrix-und-lueckenliste` | Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-schnittstellen-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Formular, Portal und Einreichungslogik im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schnittstellen: Formular, Portal und Einreichungslogik
 
@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-software-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Software: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Software: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-source-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Source: Internationaler Bezug und Schnittstellen im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Source: Internationaler Bezug und Schnittstellen
 
@@ -153,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-ttdsg-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ttdsg: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ttdsg: Verhandlung, Vergleich und Eskalation
 
@@ -194,7 +194,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-verhandlung-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verhandlung: Abschlussprodukt und Übergabe im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verhandlung: Abschlussprodukt und Übergabe
 

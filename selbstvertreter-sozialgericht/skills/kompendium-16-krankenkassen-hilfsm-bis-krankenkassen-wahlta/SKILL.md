@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-krankenkassen-hilfsm-bis-krankenkassen-wahlta
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (krankenkassen-hilfsmittel-33-sgb-v, krankenkassen-leistungsablehnung-sgb-v, krankenkassen-mds-stellungnahme, krankenkassen-reha-40-sgb-v, krankenkassen-wahltarife-und-sonderkuendigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Krankenkassen Hilfsmittel 33 Sgb V, Krankenkassen Leistungsablehnung Sgb V, Krankenkassen Mds Stellungnahme, Krankenkassen Reha 40 Sgb V und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Krankenkassen Hilfsmittel 33 Sgb V bis Krankenkassen Wahltarife Und Sonderkuendigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krankenkassen-hilfsmittel-33-sgb-v` | Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage. |
 | `krankenkassen-leistungsablehnung-sgb-v` | Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krankenkassen-hilfsmittel-33-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage.
+**Fokus:** Krankenkassen-Hilfsmittel nach § 33 SGB V. Skill klaert die Voraussetzungen die Differenzierung Hilfsmittel im engeren Sinn und Gebrauchsgegenstaende des taeglichen Lebens das Hilfsmittelverzeichnis G-BA und die aktuelle BSG-Rechtsprechung zu hochwertigen Hilfsmitteln Mehrkosten und Festbetraege. Liefert Antragsvorlage.
 
 # Krankenkassen Hilfsmittel 33 Sgb V
 
@@ -92,7 +92,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `krankenkassen-leistungsablehnung-sgb-v`
 
-**Frühere Beschreibung:** Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage.
+**Fokus:** Streit mit der Krankenkasse nach SGB V. Leistungsablehnung Behandlung Hilfsmittel Therapie Krankengeld. Mustertext für Buerger Widerspruch Klage.
 
 # Streit mit der Krankenkasse — SGB V
 
@@ -261,7 +261,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 ## 3. `krankenkassen-mds-stellungnahme`
 
-**Frühere Beschreibung:** Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Stellungnahme des Medizinischen Dienstes (MD). Skill erklaert die Rolle des MD bei Pflegegrad-Begutachtung Reha Hilfsmittel Krankengeld AU-Pruefung sowie wie Selbstvertreter mit MD-Berichten umgehen Akteneinsicht Widerlegung Privatgutachten. Liefert Pruefraster.
 
 # Krankenkassen Mds Stellungnahme
 
@@ -322,7 +322,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 ## 4. `krankenkassen-reha-40-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhaeltnis zur Rentenversicherung. Liefert Antragsvorlage.
+**Fokus:** Krankenkassen-Rehabilitation nach § 40 SGB V. Skill klaert die Voraussetzungen ambulante stationaere Reha Mutter-Vater-Kind-Kur Anschlussheilbehandlung Verhaeltnis zur Rentenversicherung. Liefert Antragsvorlage.
 
 # Krankenkassen Reha 40 Sgb V
 
@@ -382,7 +382,7 @@ Stand: 05/2026. SGB V aktuell. Genehmigungsfiktion BSG-Linie etabliert. Hilfsmit
 
 ## 5. `krankenkassen-wahltarife-und-sonderkuendigung`
 
-**Frühere Beschreibung:** Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Wahltarife und Sonderkuendigungsrecht. Skill klaert das Wechselrecht zur anderen Krankenkasse Sonderkuendigung bei Beitragserhoehung Wahltarife (Selbstbehalt Bonus Krankengeld bei Selbststaendigen) und die Bindungsfristen. Liefert Pruefraster.
 
 # Krankenkassen Wahltarife Und Sonderkuendigung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-dashboard-executive-bis-dashboard-pricing-re
-description: "kanzlei-management: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (dashboard-executive-cockpit, dashboard-partner-scorecard, dashboard-practice-group, dashboard-pricing-realization) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-management: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dashboard Executive Cockpit, Dashboard Partner Scorecard, Dashboard Practice Group, Dashboard Pricing Realization; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - kanzlei-management
+# Arbeitsbereich - Dashboard Executive Cockpit bis Dashboard Pricing Realization
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dashboard-executive-cockpit` | Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `dashboard-partner-scorecard` | Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dashboard-executive-cockpit`
 
-**Frühere Beschreibung:** Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Baut Cockpit mit Cash, WIP, AR, Utilization, UBT, Pipeline und People Risk. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Executive Cockpit
 
@@ -85,7 +85,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 2. `dashboard-partner-scorecard`
 
-**Frühere Beschreibung:** Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Erstellt Scorecards mit Umsatz, Marge, Collections, BD, Qualität und Kulturwirkung. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Partner Scorecard
 
@@ -141,7 +141,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 3. `dashboard-practice-group`
 
-**Frühere Beschreibung:** Visualisiert Umsatz, UBT, Utilization, Marge, Pipeline und Headcount. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Visualisiert Umsatz, UBT, Utilization, Marge, Pipeline und Headcount. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Practice Group Dashboard
 
@@ -197,7 +197,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 4. `dashboard-pricing-realization`
 
-**Frühere Beschreibung:** Zeigt Preisniveau, Rabatte, Realization, Write-offs und Profitabilität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Zeigt Preisniveau, Rabatte, Realization, Write-offs und Profitabilität. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Pricing Realization Dashboard
 

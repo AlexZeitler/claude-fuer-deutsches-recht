@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-strassenrech-bis-spezial-verkehrswend
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-strassenrecht-internationaler-bezug-und-schnittstellen, spezial-verkehrs-erstpruefung-und-mandatsziel, spezial-verkehrswende-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Strassenrecht Internationaler Bezug Und Schnittstellen, Verkehrs Erstpruefung Und Mandatsziel, Verkehrswende Verhandlung Vergleich Und Eskala
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-strassenrecht-internationaler-bezug-und-schnittstellen` | Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verkehrs-erstpruefung-und-mandatsziel` | Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-strassenrecht-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Strassenrecht: Internationaler Bezug und Schnittstellen im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Strassenrecht: Internationaler Bezug und Schnittstellen
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verkehrs-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verkehrs: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verkehrswende-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrswende: Verhandlung, Vergleich und Eskalation im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verkehrswende: Verhandlung, Vergleich und Eskalation
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-staatsexamen-schnitt-bis-toilettengang-aufsic
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (staatsexamen-schnittstelle, taeuschung-und-plagiat, technische-stoerung-upload, toilettengang-aufsicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Staatsexamen Schnittstelle, Taeuschung Und Plagiat, Technische Stoerung Upload, Toilettengang Aufsicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - pruefungsrecht-hochschule
+# Arbeitsbereich - Staatsexamen Schnittstelle bis Toilettengang Aufsicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `staatsexamen-schnittstelle` | Prüft Schnittstellen zu staatlichen Prüfungen. |
 | `taeuschung-und-plagiat` | Prüft Täuschung, Plagiat und Sanktionen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `staatsexamen-schnittstelle`
 
-**Frühere Beschreibung:** Prüft Schnittstellen zu staatlichen Prüfungen.
+**Fokus:** Prüft Schnittstellen zu staatlichen Prüfungen.
 
 # Staatsexamen Schnittstelle
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Staatsexamen-Routing. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 2. `taeuschung-und-plagiat`
 
-**Frühere Beschreibung:** Prüft Täuschung, Plagiat und Sanktionen.
+**Fokus:** Prüft Täuschung, Plagiat und Sanktionen.
 
 # Taeuschung Und Plagiat
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Täuschungsabwehr. Am Ende immer drei Zeilen: **Frist**, **fe
 
 ## 3. `technische-stoerung-upload`
 
-**Frühere Beschreibung:** Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung.
+**Fokus:** Prüft Uploadstörung, Screenshot, Helpdesk, Fristwahrung und Wiedereinsetzung.
 
 # Technische Störung beim Upload
 
@@ -224,7 +224,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `toilettengang-aufsicht`
 
-**Frühere Beschreibung:** Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf.
+**Fokus:** Prüft Aufsichtsregeln, Verdachtsmomente, Gleichbehandlung und Täuschungsvorwurf.
 
 # Toilettengang und Aufsicht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-vergleich-arbeitsger-bis-zugang-kuendigung-bo
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (vergleich-arbeitsgericht-abrechnung, vergleichsverhandlung-strategie, zugang-kuendigung-bote-beweis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kuendigung Bote Beweis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Vergleich Arbeitsgericht Abrechnung, Vergleichsverhandlung Strategie, Zugang Kuendigung Bote Beweis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich-arbeitsgericht-abrechnung` | Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich-arbeitsgericht-abrechnung`
 
-**Frühere Beschreibung:** Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.; Normanker: SGB III Sperrzeit; BGB; KSchG; GewO § 109; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Arbeitsgerichtlicher Vergleich: Beendigungsdatum, Zeugnis, Turboklausel, Urlaubsabgeltung, Sprinter, Sperrzeit und Abrechnung.
 
@@ -59,7 +59,7 @@ SGB III Sperrzeit; BGB; KSchG; GewO § 109. Rechtsprechung wird nur mit Gericht,
 
 ## 2. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Individual- und kollektives Arbeitsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 # Vergleichsverhandlung und Einigung im Individual- und kollektives Arbeitsrecht
 
@@ -244,7 +244,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `zugang-kuendigung-bote-beweis`
 
-**Frühere Beschreibung:** Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.; Normanker: KSchG § 4; BGB §§ 130 und 623; ZPO Beweis; BAG-Rechtsprechung live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Zugang der Kündigung: Bote, Einwurf, Umschlaginhalt, Zugangstag, Beweis im Kündigungsschutzprozess.
 

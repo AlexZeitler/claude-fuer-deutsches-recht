@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-spezial-geldstrafe-z-bis-spezial-rechtsmittel
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (spezial-geldstrafe-zahlen-schwellen-und-berechnung, spezial-grossen-risikoampel-und-gegenargumente, spezial-rechtsmittel-und-gesamtstrafenfolgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - strafzumessung
+# Arbeitsbereich - Geldstrafe Zahlen Schwellen Und Berechnung, Grossen Risikoampel Und Gegenargumente, Rechtsmittel Und Gesamtstrafenfolgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-geldstrafe-zahlen-schwellen-und-berechnung` | Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-grossen-risikoampel-und-gegenargumente` | Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-geldstrafe-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Geldstrafe: Zahlen, Schwellenwerte und Berechnung im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Geldstrafe: Zahlen, Schwellenwerte und Berechnung
 
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-grossen-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Grossen: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Grossen: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -158,7 +158,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rechtsmittel-und-gesamtstrafenfolgen`
 
-**Frühere Beschreibung:** Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Rechtsmittel-, Bewährungs- und Gesamtstrafenfolgen nach der Zumessung
 

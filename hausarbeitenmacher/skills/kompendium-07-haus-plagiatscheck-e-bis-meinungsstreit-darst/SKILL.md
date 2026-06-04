@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-haus-plagiatscheck-e-bis-meinungsstreit-darst
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (haus-plagiatscheck-eigenstaendigkeit-spezial, haus-themaeingrenzung-bauleiter, meinungsstreit-darstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - hausarbeitenmacher
+# Arbeitsbereich - Haus Plagiatscheck Eigenstaendigkeit Spezial, Haus Themaeingrenzung Bauleiter, Meinungsstreit Darstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `haus-plagiatscheck-eigenstaendigkeit-spezial` | Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster fuer Pruefungsamt und Studierende. |
 | `haus-themaeingrenzung-bauleiter` | Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster fuer Erstsemester und Examenskandidaten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `haus-plagiatscheck-eigenstaendigkeit-spezial`
 
-**Frühere Beschreibung:** Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster fuer Pruefungsamt und Studierende.
+**Fokus:** Spezialfall Plagiatscheck und Eigenstaendigkeitserklaerung: Selbstplagiat, KI-Nutzung, Pruefungsrecht, Tools. Pruefraster fuer Pruefungsamt und Studierende.
 
 # Haus: Plagiatscheck Eigenstaendigkeit
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `hausarbeitenmacher`. Er ergaenzt die uebrigen S
 
 ## 2. `haus-themaeingrenzung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster fuer Erstsemester und Examenskandidaten.
+**Fokus:** Bauleiter Themaeingrenzung Hausarbeit: Forschungsfrage, Gliederungsentwurf, Literatursichtung. Pruefraster fuer Erstsemester und Examenskandidaten.
 
 # Haus: Themaeingrenzung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `hausarbeitenmacher`. Er ergaenzt die uebrigen S
 
 ## 3. `meinungsstreit-darstellen`
 
-**Frühere Beschreibung:** Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden).
+**Fokus:** Student muss Meinungsstreit in Hausarbeit darstellen: herrschende Meinung Mindermeinungen Argumente pro contra eigene Stellungnahme. Normen Methodenlehre wissenschaftliche Argumentation. Prüfraster Meinungs-Katalog Argument-Zuordnung Stellungnahme-Qualitaet Quellenbelege. Output strukturierter Meinungsstreit-Abschnitt eigene Argumentation. Abgrenzung zu metodenlehre-auslegung (Auslegungsmethoden) und quellenrecherche (Quellen finden).
 
 # Meinungsstreit darstellen
 

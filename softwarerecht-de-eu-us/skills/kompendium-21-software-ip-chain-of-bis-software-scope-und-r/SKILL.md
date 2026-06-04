@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-software-ip-chain-of-bis-software-scope-und-r
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (software-ip-chain-of-title, software-mna-dd, software-policy-legal-engineering, software-scope-und-rechtsgebiet-router) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Software Ip Chain Of Title, Software Mna Dd, Software Policy Legal Engineering, Software Scope Und Rechtsgebiet Router; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - softwarerecht-de-eu-us
+# Arbeitsbereich - Software Ip Chain Of Title bis Software Scope Und Rechtsgebiet Router
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `software-ip-chain-of-title` | Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten. |
 | `software-mna-dd` | Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `software-ip-chain-of-title`
 
-**Frühere Beschreibung:** Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten.
+**Fokus:** Prüft die Rechtekette an Code, Dokumentation, APIs, Datenbanken, Designs, KI-Code und Third-Party-Komponenten.
 
 # Software IP Chain of Title
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `software-mna-dd`
 
-**Frühere Beschreibung:** Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal.
+**Fokus:** Prüft Software-IP, OSS, Datenschutz, Security, Verträge, Kundenlizenzen, Mitarbeiter/Freelancer und technische Schulden im Deal.
 
 # Software M&A Due Diligence
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `software-policy-legal-engineering`
 
-**Frühere Beschreibung:** Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases.
+**Fokus:** Baut interne Software-Legal-Policy für Engineering: OSS, AI Tools, Repositories, Security, Export, Verträge und Releases.
 
 # Legal-Engineering Software Policy
 
@@ -201,7 +201,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `software-scope-und-rechtsgebiet-router`
 
-**Frühere Beschreibung:** Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein.
+**Fokus:** Ordnet ein Softwaremandat in Urheberrecht, Vertragsrecht, Datenschutz, Produktsicherheit, Patente, Open Source und Export ein.
 
 # Scope- und Rechtsgebietsrouter
 

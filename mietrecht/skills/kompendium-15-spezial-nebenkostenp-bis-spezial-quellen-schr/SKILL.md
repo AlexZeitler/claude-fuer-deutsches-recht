@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-nebenkostenp-bis-spezial-quellen-schr
-description: "mietrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-nebenkostenpruefung-formular-portal-und-einreichung, spezial-prozessstrategie-mieterhoehung, spezial-quellen-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - mietrecht
+# Arbeitsbereich - Nebenkostenpruefung Formular Portal Und Einreichung, Prozessstrategie Mieterhoehung, Quellen Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-nebenkostenpruefung-formular-portal-und-einreichung` | Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen. |
 | `spezial-prozessstrategie-mieterhoehung` | Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-nebenkostenpruefung-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen.
+**Fokus:** Nebenkostenprüfung als Einreichungs- und Verfahrensworkflow: Belegeinsicht verlangen, Einwendungen fristwahrend formulieren, Rückzahlungsanspruch beziffern, Mahnung/Mahnverfahren/Klage behandeln und Unterlagen für Amtsgericht oder Mieter-/Vermieterportal ordnen.
 
 # Nebenkostenprüfung: Einreichung, Portal und Amtsgericht
 
@@ -90,7 +90,7 @@ Dieser Skill baut aus einer fehlerhaften oder bestrittenen Betriebskostenabrechn
 
 ## 2. `spezial-prozessstrategie-mieterhoehung`
 
-**Frühere Beschreibung:** Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Prozessstrategie bei Mieterhöhung, Belegen und Sachverständigenrisiko
 
@@ -138,7 +138,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-quellen-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Quellen: Schriftsatz-, Brief- und Memo-Bausteine im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Quellen: Schriftsatz-, Brief- und Memo-Bausteine
 

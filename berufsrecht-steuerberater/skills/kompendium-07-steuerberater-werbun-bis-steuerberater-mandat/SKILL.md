@@ -1,40 +1,36 @@
 ---
 name: kompendium-07-steuerberater-werbun-bis-steuerberater-mandat
-description: "berufsrecht-steuerberater: Konsolidiertes Skill-Kompendium 07; bündelt 9 frühere Spezialskills (steuerberater-werbung-und-siegel-rechtsprechungscheck-und-red-t, steuerberater-zulassung-und-widerruf-rechtsprechungscheck-und-r, berufsgericht-und-disziplinarverfahren, frist-und-zustaendigkeit-cockpit, fristenkontrolle und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-steuerberater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T, Steuerberater Zulassung Und Widerruf Rechtsprechungscheck Und R, Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - berufsrecht-steuerberater
+# Arbeitsbereich - Steuerberater Werbung Und Siegel Rechtsprechungscheck Und Red T bis Fristenkontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-werbung-und-siegel-rechtsprechungscheck-und-red-t` | Steuerberater: werbung und siegel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-zulassung-und-widerruf-rechtsprechungscheck-und-r` | Steuerberater: zulassung und widerruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `berufsgericht-und-disziplinarverfahren` | Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Steuerberater; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Steuerberater; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `fristenkontrolle` | Fristenkontrolle: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fristenkontrolle im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
-| `steuerberater-lohnbuchhaltung-fristenversaeumnis-kammerantwort` | Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-lohnbuchhaltung-fristenversaeumnis-organisationsp` | Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-mandatskuendigung-vor-frist-kammerantwort-und-ver` | Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-mandatskuendigung-vor-frist-organisationspflicht` | Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerberater-werbung-und-siegel-rechtsprechungscheck-und-red-t`
 
-**Frühere Beschreibung:** Steuerberater: werbung und siegel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: werbung und siegel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: werbung und siegel - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -77,7 +73,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `steuerberater-zulassung-und-widerruf-rechtsprechungscheck-und-r`
 
-**Frühere Beschreibung:** Steuerberater: zulassung und widerruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: zulassung und widerruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: zulassung und widerruf - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -120,7 +116,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `berufsgericht-und-disziplinarverfahren`
 
-**Frühere Beschreibung:** Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Steuerberater; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Steuerberater; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Berufsgericht und Disziplinarverfahren
 
@@ -170,7 +166,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `frist-und-zustaendigkeit-cockpit`
 
-**Frühere Beschreibung:** Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Steuerberater; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Steuerberater; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Fristen- und Zuständigkeitscockpit
 
@@ -220,7 +216,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `fristenkontrolle`
 
-**Frühere Beschreibung:** Fristenkontrolle: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fristenkontrolle im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Fristenkontrolle: vertiefter Berufsrechts-Skill für Steuerberater; prüft Fristenkontrolle im Berufsrecht für Steuerberater, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Fristenkontrolle
 
@@ -267,175 +263,3 @@ Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organis
 ## Quellenhygiene
 
 Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 6. `steuerberater-lohnbuchhaltung-fristenversaeumnis-kammerantwort`
-
-**Frühere Beschreibung:** Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Steuerberater: lohnbuchhaltung fristenversaeumnis - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 7. `steuerberater-lohnbuchhaltung-fristenversaeumnis-organisationsp`
-
-**Frühere Beschreibung:** Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-
-## Konkreter Berufsrechtskern: Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-- **Spezialgegenstand:** Steuerberater: lohnbuchhaltung fristenversaeumnis - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 8. `steuerberater-mandatskuendigung-vor-frist-kammerantwort-und-ver`
-
-**Frühere Beschreibung:** Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Steuerberater: mandatskuendigung vor frist - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 9. `steuerberater-mandatskuendigung-vor-frist-organisationspflicht`
-
-**Frühere Beschreibung:** Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-
-## Konkreter Berufsrechtskern: Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-- **Spezialgegenstand:** Steuerberater: mandatskuendigung vor frist - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.

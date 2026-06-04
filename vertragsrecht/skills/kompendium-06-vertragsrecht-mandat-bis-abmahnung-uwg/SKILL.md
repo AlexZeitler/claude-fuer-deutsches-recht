@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-vertragsrecht-mandat-bis-abmahnung-uwg
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (vertragsrecht-mandat-arbeitsbereich, vr-einfuehrung-vertragstypen-bgb, abmahnung-uwg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - vertragsrecht
+# Arbeitsbereich - Vertragsrecht Mandat Arbeitsbereich, Vr Einfuehrung Vertragstypen Bgb, Abmahnung Uwg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertragsrecht-mandat-arbeitsbereich` | Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf kanzleiweiten Kontext umschalten möchte. |
 | `vr-einfuehrung-vertragstypen-bgb` | Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertragsrecht-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf kanzleiweiten Kontext umschalten möchte.
+**Fokus:** Verwaltet Mandatsarbeitsbereiche — neu anlegen, auflisten, wechseln, abschließen oder von Mandatsebene auf Kanzleiebene wechseln. Lädt, wenn ein Anwalt mit mehreren Mandanten ein neues Mandat anlegen, zum aktiven Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder auf kanzleiweiten Kontext umschalten möchte.
 
 # Mandatsarbeitsbereich Vertragsrecht
 
@@ -330,7 +330,7 @@ Bundle: bundle_047.json
 
 ## 2. `vr-einfuehrung-vertragstypen-bgb`
 
-**Frühere Beschreibung:** Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle.
+**Fokus:** Vertragsrecht einfuehrend: BGB-Vertragstypen Kauf, Werkvertrag, Dienstvertrag, Mietvertrag, Pacht, Darlehen, Geschaeftsbesorgung, Auftrag. Pro Typ Pflichten, Vergueng, Maengelrecht, Kuendigung. Entscheidungstabelle.
 
 # Vertragsrecht: BGB-Typen
 
@@ -382,7 +382,7 @@ Dieser Skill gehoert zum Plugin `vertragsrecht`. Er ergaenzt die uebrigen Skills
 
 ## 3. `abmahnung-uwg`
 
-**Frühere Beschreibung:** Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat.
+**Fokus:** Unterstützt beim Verfassen und Prüfen von UWG-Abmahnungen nach § 13 UWG sowie der dazugehörigen modifizierten Unterlassungserklärung mit Vertragsstrafe und der Schutzschrift. Lädt, wenn ein Mandat eine wettbewerbsrechtliche Abmahnung, eine strafbewehrte Unterlassungserklärung oder eine Schutzschrift zum Gegenstand hat.
 
 # UWG-Abmahnung – Erstellung und Prüfung
 

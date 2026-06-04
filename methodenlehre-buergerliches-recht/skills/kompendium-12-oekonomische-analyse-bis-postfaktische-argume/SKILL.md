@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-oekonomische-analyse-bis-postfaktische-argume
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (oekonomische-analyse-des-rechts-coase-posner, originalismus-und-gesetzgebungsmaterialien-deutschland, pandekten-und-begriffsjurisprudenz, positivismus-und-rueckbindung-an-den-text, postfaktische-argumente-red-team) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oekonomische Analyse Des Rechts Coase Posner, Originalismus Und Gesetzgebungsmaterialien Deutschland, Pandekten Und Begriffsjurisprudenz, Positivismus Und Rueckbindung An Den Text und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Oekonomische Analyse Des Rechts Coase Posner bis Postfaktische Argumente Red Team
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oekonomische-analyse-des-rechts-coase-posner` | Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern. |
 | `originalismus-und-gesetzgebungsmaterialien-deutschland` | Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oekonomische-analyse-des-rechts-coase-posner`
 
-**Frühere Beschreibung:** Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern.
+**Fokus:** Oekonomische Analyse des Rechts (Law and Economics). Ronald H. Coase, The Problem of Social Cost 1960. Richard A. Posner, Economic Analysis of Law 1973. Coase-Theorem, Transaktionskosten, Effizienz als Auslegungsmassstab. Anwendung im deutschen Zivilrecht (Schadensrecht, Vertragsrecht, Nachbarrecht). Kritik aus der Wertungsjurisprudenz und Grundrechtsdogmatik. Wo Effizienzargumente helfen und wo sie scheitern.
 
 # Oekonomische Analyse des Rechts (Law and Economics)
 
@@ -147,7 +147,7 @@ Stand: Mai 2026.
 
 ## 2. `originalismus-und-gesetzgebungsmaterialien-deutschland`
 
-**Frühere Beschreibung:** Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem.
+**Fokus:** Analysiert den deutschen Originalismus als Auslegungsansatz, der den historischen Gesetzgeberwillen konsequent in den Mittelpunkt stellt, und vergleicht ihn mit dem US-amerikanischen Originalismus. Das Skill zeigt Stärken und Schwächen des originalistischen Ansatzes für das deutsche Zivilrecht und lehrt den methodisch korrekten Rückgriff auf Gesetzgebungsmaterialien im deutschen Rechtssystem.
 
 # Originalismus und Gesetzgebungsmaterialien in Deutschland
 
@@ -236,7 +236,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `pandekten-und-begriffsjurisprudenz`
 
-**Frühere Beschreibung:** Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (Allgemeiner Teil, Stellvertretungsrecht) und wo nicht. Pruefraster zur Erkennung begriffsjuristischer Argumentation.
+**Fokus:** Pandektenwissenschaft und Begriffsjurisprudenz im 19. Jahrhundert. Georg Friedrich Puchta, Bernhard Windscheid, Hauptvertreter. Begriffspyramide und logisches Ableitungsmodell. Verhaeltnis zum BGB (1900) und zur heutigen Dogmatik. Wirkung auf das deutsche Privatrecht. Kritik durch Jhering, Heck, Larenz. Wo die Begriffsjurisprudenz heute noch trifft (Allgemeiner Teil, Stellvertretungsrecht) und wo nicht. Pruefraster zur Erkennung begriffsjuristischer Argumentation.
 
 # Pandektenwissenschaft und Begriffsjurisprudenz
 
@@ -355,7 +355,7 @@ Stand: Mai 2026.
 
 ## 4. `positivismus-und-rueckbindung-an-den-text`
 
-**Frühere Beschreibung:** Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen und wo seine Grenzen bei Extremunrecht und Normkollisionen deutlich werden.
+**Fokus:** Analysiert den juristischen Positivismus als Methodenkonzept und seine Forderung nach strikter Rückbindung an den Normtext im deutschen Zivilrecht. Das Skill zeigt, welche methodischen Konsequenzen ein positivistischer Ansatz hat, wo seine Stärken in Rechtssicherheit und Demokratierespekt liegen und wo seine Grenzen bei Extremunrecht und Normkollisionen deutlich werden.
 
 # Positivismus und Textrückbindung in der Zivilrechtsmethodik
 
@@ -444,7 +444,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `postfaktische-argumente-red-team`
 
-**Frühere Beschreibung:** Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsanmerkungen, die mit empirisch ungesicherten oder rhetorisch überformten Argumenten konfrontiert sind.
+**Fokus:** Identifiziert und dekonstruiert postfaktische Argumente in juristischen Texten und entwickelt methodisch fundierte Gegenargumente. Das Skill erkennt, wenn Behauptungen ohne belastbare Grundlage als Tatsachen ausgegeben werden, und liefert Red-Team-Analysen für Schriftsätze, Gutachten und Urteilsanmerkungen, die mit empirisch ungesicherten oder rhetorisch überformten Argumenten konfrontiert sind.
 
 # Postfaktische Argumente: Red-Team-Analyse und Dekonstruktion
 

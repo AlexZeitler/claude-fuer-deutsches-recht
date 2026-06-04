@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-memo-zu-mandantenanf-bis-memorandums-erstelle
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (memo-zu-mandantenanfrage-schnell, memo-zur-rechtsmittelentscheidung, memorandums-ersteller) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - memorandums-ersteller
+# Arbeitsbereich - Memo Zu Mandantenanfrage Schnell, Memo Zur Rechtsmittelentscheidung, Memorandums Ersteller
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-zu-mandantenanfrage-schnell` | Schnell-Memo zu eingehender Mandantenanfrage: in 30 Minuten, einseitig, mit 3-Punkte-Plan. Anlass: Erstgespraech, Eilanruf, Hilfeanfrage Kanzleikollege. Format: Frage, Kurzantwort, Risiken, naechster Schritt, offene Punkte. Output: Memo-Entwurf zum Mandantenversand. |
 | `memo-zur-rechtsmittelentscheidung` | Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-zu-mandantenanfrage-schnell`
 
-**Frühere Beschreibung:** Schnell-Memo zu eingehender Mandantenanfrage: in 30 Minuten, einseitig, mit 3-Punkte-Plan. Anlass: Erstgespraech, Eilanruf, Hilfeanfrage Kanzleikollege. Format: Frage, Kurzantwort, Risiken, naechster Schritt, offene Punkte. Output: Memo-Entwurf zum Mandantenversand.
+**Fokus:** Schnell-Memo zu eingehender Mandantenanfrage: in 30 Minuten, einseitig, mit 3-Punkte-Plan. Anlass: Erstgespraech, Eilanruf, Hilfeanfrage Kanzleikollege. Format: Frage, Kurzantwort, Risiken, naechster Schritt, offene Punkte. Output: Memo-Entwurf zum Mandantenversand.
 
 # Schnell-Memo Mandantenanfrage
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-zur-rechtsmittelentscheidung`
 
-**Frühere Beschreibung:** Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie.
+**Fokus:** Rechtsmittel-Memo: Berufung/Revision/Beschwerde nach erstinstanzlicher Niederlage. Erfolgsaussichten, Kosten, Zeitfaktor, Mandantenpraeferenz. Pruefraster: Welche Beanstandungen tragen wirklich? Mandantenrisiko bei Verschlechterung. Output: Klare Empfehlung mit alternativer Verhandlungsstrategie.
 
 # Rechtsmittel-Memo
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memorandums-ersteller`
 
-**Frühere Beschreibung:** Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar für Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Prüfraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausführungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo.
+**Fokus:** Erstellt ein professionelles juristisches Memorandum aus heterogenen Mandantenunterlagen. Anwendungsfall Mandant hat Unterlagen eingereicht und Kanzlei soll Rechtslage in Memorandumsform aufbereiten. Normen rechtsgebietsneutral einsetzbar für Arbeitsrecht Mietrecht Gesellschaftsrecht Vertragsrecht und alle weiteren Gebiete. Prüfraster Vier-Teile-Gliederung Sachverhalt mit Quellenreferenz Fragestellung als Ein-Satz-Fragen Antworten als Ein-Satz-Zusammenfassung Rechtliche Ausführungen mit Anspruchsgrundlage Tatbestandsmerkmale Subsumtion Ergebnis. Identifiziert Widersprueche offene Punkte und bietet Piercing-Questions. Output Strukturiertes Rechtsmemorandum mit Pinpoint-Zitierung aktueller Rechtsprechung. Abgrenzung zu kanzlei-allgemein-schreibcanvas und kanzlei-allgemein-schriftsatz-turbo.
 
 # Memorandums-Ersteller
 

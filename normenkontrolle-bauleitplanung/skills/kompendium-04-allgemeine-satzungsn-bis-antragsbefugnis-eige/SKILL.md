@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-allgemeine-satzungsn-bis-antragsbefugnis-eige
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (allgemeine-satzungsnormenkontrolle-47-vwgo, anpassungsgebot-flaechennutzungsplan, antragsbefugnis-eigentuemer-nachbar) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Allgemeine Satzungsnormenkontrolle 47 Vwgo, Anpassungsgebot Flaechennutzungsplan, Antragsbefugnis Eigentuemer Nachbar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemeine-satzungsnormenkontrolle-47-vwgo` | Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. |
 | `anpassungsgebot-flaechennutzungsplan` | Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Prüfprotokoll und Angriffspunkt für Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemeine-satzungsnormenkontrolle-47-vwgo`
 
-**Frühere Beschreibung:** Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
+**Fokus:** Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.; Normanker: VwGO § 47 Abs. 1 Nr. 2; jeweiliges Landesausführungsgesetz; Kommunalrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
 
 # Allgemeine Satzungsnormenkontrolle nach § 47 VwGO: kommunale Satzungen, Landesrechtsverordnungen, Landesrechtseröffnung und Abgrenzung zur Inzidentkontrolle.
 
@@ -55,7 +55,7 @@ Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schrif
 
 ## 2. `anpassungsgebot-flaechennutzungsplan`
 
-**Frühere Beschreibung:** Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Prüfprotokoll und Angriffspunkt für Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb.
+**Fokus:** Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Prüfprotokoll und Angriffspunkt für Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb.
 
 # Anpassungsgebot — Flächennutzungsplan
 
@@ -214,7 +214,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `antragsbefugnis-eigentuemer-nachbar`
 
-**Frühere Beschreibung:** Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist).
+**Fokus:** Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist).
 
 # Antragsbefugnis § 47 Abs. 2 VwGO
 

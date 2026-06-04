@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fachanwalt-verwaltun-bis-spezial-vwgo-fristen
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren, spezial-verwaltungsakt-rechtsbehelf-vorverfahren, spezial-vwgo-fristen-form-und-zustaendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Verwaltungsrecht Beamten Disziplinarverfahren, Verwaltungsakt Rechtsbehelf Vorverfahren, Vwgo Fristen Form Und Zustaendigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren` | Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Prüfraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhältnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage. |
 | `spezial-verwaltungsakt-rechtsbehelf-vorverfahren` | Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren`
 
-**Frühere Beschreibung:** Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Prüfraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhältnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
+**Fokus:** Beamten-Disziplinarverfahren führen oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Prüfraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhältnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
 
 # Beamten-Disziplinarverfahren
 
@@ -196,7 +196,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-verwaltungsakt-rechtsbehelf-vorverfahren`
 
-**Frühere Beschreibung:** Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Verwaltungsakt, Rechtsbehelf und Vorverfahren: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Verwaltungsakt, Rechtsbehelf und Vorverfahren
 
@@ -235,7 +235,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-vwgo-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** VwGO: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # VwGO: Fristen, Form, Zuständigkeit und Rechtsweg
 

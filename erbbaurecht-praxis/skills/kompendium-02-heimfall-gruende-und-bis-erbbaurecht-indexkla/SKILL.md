@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-heimfall-gruende-und-bis-erbbaurecht-indexkla
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (heimfall-gruende-und-verfahren, erbbaurecht-indexklausel-inflation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - erbbaurecht-praxis
+# Arbeitsbereich - Heimfall Gruende Und Verfahren, Erbbaurecht Indexklausel Inflation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `heimfall-gruende-und-verfahren` | Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug. |
 | `erbbaurecht-indexklausel-inflation` | Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `heimfall-gruende-und-verfahren`
 
-**Frühere Beschreibung:** Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug.
+**Fokus:** Prüft Vertragsgrund, Verzug, Pflichtverletzung, Fristen, Verhältnismäßigkeit, Entschädigung und Grundbuchvollzug.
 
 # Heimfall prüfen
 
@@ -61,7 +61,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `erbbaurecht-indexklausel-inflation`
 
-**Frühere Beschreibung:** Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel.
+**Fokus:** Prüft Wertsicherung, Anpassungszeitpunkte, Transparenz, Streitprotokoll und Alternativformel.
 
 # Indexklausel und Inflation
 

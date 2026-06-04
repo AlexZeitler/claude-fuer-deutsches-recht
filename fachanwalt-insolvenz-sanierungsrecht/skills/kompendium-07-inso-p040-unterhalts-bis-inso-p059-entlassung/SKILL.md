@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-inso-p040-unterhalts-bis-inso-p059-entlassung
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 21 frühere Spezialskills (inso-p040-unterhaltsanspruche, inso-p041-nicht-fallige-forderungen, inso-p042-auflosend-bedingte-forderungen, inso-p044-rechte-der-gesamtschuldner-und-burgen, inso-p044a-gesicherte-darlehen und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P040 Unterhaltsanspruche, Inso P041 Nicht Fallige Forderungen, Inso P042 Auflosend Bedingte Forderungen, Inso P044 Rechte Der Gesamtschuldner Und Burgen und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P040 Unterhaltsanspruche bis Inso P059 Entlassung Des Insolvenzverwalters
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p040-unterhaltsanspruche` | § 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p041-nicht-fallige-forderungen` | § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p040-unterhaltsanspruche`
 
-**Frühere Beschreibung:** § 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 40 InsO (Unterhaltsansprüche) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 40 InsO — Unterhaltsansprüche
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p041-nicht-fallige-forderungen`
 
-**Frühere Beschreibung:** § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 41 InsO (Nicht fällige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 41 InsO — Nicht fällige Forderungen
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p042-auflosend-bedingte-forderungen`
 
-**Frühere Beschreibung:** § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 42 InsO (Auflösend bedingte Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 42 InsO — Auflösend bedingte Forderungen
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p044-rechte-der-gesamtschuldner-und-burgen`
 
-**Frühere Beschreibung:** § 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 44 InsO (Rechte der Gesamtschuldner und Bürgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 44 InsO — Rechte der Gesamtschuldner und Bürgen
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p044a-gesicherte-darlehen`
 
-**Frühere Beschreibung:** § 44a InsO (Gesicherte Darlehen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 44a InsO (Gesicherte Darlehen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 44a InsO — Gesicherte Darlehen
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p045-umrechnung-von-forderungen`
 
-**Frühere Beschreibung:** § 45 InsO (Umrechnung von Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 45 InsO (Umrechnung von Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 45 InsO — Umrechnung von Forderungen
 
@@ -376,7 +376,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p046-wiederkehrende-leistungen`
 
-**Frühere Beschreibung:** § 46 InsO (Wiederkehrende Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 46 InsO (Wiederkehrende Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 46 InsO — Wiederkehrende Leistungen
 
@@ -431,7 +431,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p047-aussonderung`
 
-**Frühere Beschreibung:** § 47 InsO (Aussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 47 InsO (Aussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 47 InsO — Aussonderung
 
@@ -486,7 +486,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p048-ersatzaussonderung`
 
-**Frühere Beschreibung:** § 48 InsO (Ersatzaussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 48 InsO (Ersatzaussonderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 48 InsO — Ersatzaussonderung
 
@@ -541,7 +541,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p049-abgesonderte-befriedigung-aus-unbeweglichen-gegenstand`
 
-**Frühere Beschreibung:** § 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 49 InsO (Abgesonderte Befriedigung aus unbeweglichen Gegenständen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 49 InsO — Abgesonderte Befriedigung aus unbeweglichen Gegenständen
 
@@ -596,7 +596,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p050-abgesonderte-befriedigung-der-pfandglaubiger`
 
-**Frühere Beschreibung:** § 50 InsO (Abgesonderte Befriedigung der Pfandgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 50 InsO (Abgesonderte Befriedigung der Pfandgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 50 InsO — Abgesonderte Befriedigung der Pfandgläubiger
 
@@ -651,7 +651,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p051-sonstige-absonderungsberechtigte`
 
-**Frühere Beschreibung:** § 51 InsO (Sonstige Absonderungsberechtigte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 51 InsO (Sonstige Absonderungsberechtigte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 51 InsO — Sonstige Absonderungsberechtigte
 
@@ -706,7 +706,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p052-ausfall-der-absonderungsberechtigten`
 
-**Frühere Beschreibung:** § 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 52 InsO (Ausfall der Absonderungsberechtigten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 52 InsO — Ausfall der Absonderungsberechtigten
 
@@ -761,7 +761,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p053-masseglaubiger`
 
-**Frühere Beschreibung:** § 53 InsO (Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 53 InsO (Massegläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 53 InsO — Massegläubiger
 
@@ -816,7 +816,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p055-sonstige-masseverbindlichkeiten`
 
-**Frühere Beschreibung:** § 55 InsO (Sonstige Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 55 InsO (Sonstige Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 55 InsO — Sonstige Masseverbindlichkeiten
 
@@ -871,7 +871,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p056-bestellung-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 56 InsO (Bestellung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 56 InsO (Bestellung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 56 InsO — Bestellung des Insolvenzverwalters
 
@@ -926,7 +926,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p056a-glaubigerbeteiligung-bei-der-verwalterbestellung`
 
-**Frühere Beschreibung:** § 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 56a InsO (Gläubigerbeteiligung bei der Verwalterbestellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 56a InsO — Gläubigerbeteiligung bei der Verwalterbestellung
 
@@ -982,7 +982,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p056b-verwalterbestellung-bei-schuldnern-derselben-unterneh`
 
-**Frühere Beschreibung:** § 56b InsO (Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 56b InsO (Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 56b InsO — Verwalterbestellung bei Schuldnern derselben Unternehmensgruppe
 
@@ -1038,7 +1038,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p057-wahl-eines-anderen-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 57 InsO (Wahl eines anderen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 57 InsO — Wahl eines anderen Insolvenzverwalters
 
@@ -1093,7 +1093,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p058-aufsicht-des-insolvenzgerichts`
 
-**Frühere Beschreibung:** § 58 InsO (Aufsicht des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 58 InsO (Aufsicht des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 58 InsO — Aufsicht des Insolvenzgerichts
 
@@ -1148,7 +1148,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p059-entlassung-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 59 InsO (Entlassung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 59 InsO — Entlassung des Insolvenzverwalters
 

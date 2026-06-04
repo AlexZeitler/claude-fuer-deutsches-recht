@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-familien-und-partner-bis-inso-bargeschaeft-14
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (familien-und-partnerzuwendungen, gesellschaftsrechtliche-zuwendungen, gesetzesverstoss-und-817-satz-2-vertiefung, inso-bargeschaeft-142) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familien Und Partnerzuwendungen, Gesellschaftsrechtliche Zuwendungen, Gesetzesverstoss Und 817 Satz 2 Vertiefung, Inso Bargeschaeft 142; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Familien Und Partnerzuwendungen bis Inso Bargeschaeft 142
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `familien-und-partnerzuwendungen` | Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB. |
 | `gesellschaftsrechtliche-zuwendungen` | Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `familien-und-partnerzuwendungen`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB.
+**Fokus:** Nutze diesen Skill, wenn private Zuwendungen zwischen Näheverhältnis, Zweckbindung und Spezialrecht stehen. Normen: §§ 313 und 516 BGB; § 812 BGB; §§ 1372 ff. und § 1568a BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Zuordnungs-Matrix unbenannte Zuwendung vs. Schenkung vs. Spezialrecht. Abgrenzung: nicht Zugewinnausgleich §§ 1372 ff. BGB.
 
 # Familien- und Partnerzuwendungen
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `gesellschaftsrechtliche-zuwendungen`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung.
+**Fokus:** Nutze diesen Skill, wenn Gesellschafterleistungen nicht ohne Gesellschaftsrecht rückabgewickelt werden dürfen. Normen: §§ 30 und 31 GmbHG; §§ 57 und 62 AktG; § 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anspruchsmatrix Kapitalerhaltung vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht ohne Kapitalerhaltungsprüfung.
 
 # Gesellschaftsrechtliche Zuwendungen
 
@@ -177,7 +177,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `gesetzesverstoss-und-817-satz-2-vertiefung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
+**Fokus:** Nutze diesen Skill, wenn § 817 S. 2 BGB nach Normzweck und Schutzrichtung geprüft werden muss. Normen: §§ 134 und 138 BGB; § 817 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis § 817 S. 2 BGB mit Schutzrichtungs- und Rückausnahmenanalyse. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
 
 # Gesetzesverstoß und § 817 Satz 2 vertieft
 
@@ -251,7 +251,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `inso-bargeschaeft-142`
 
-**Frühere Beschreibung:** Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter Unlauterkeit. Output: Verteidigungs- und Risikoanalyse ohne pauschale 30-Tage-Regel.
+**Fokus:** Bargeschäft nach § 142 InsO prüfen: unmittelbarer gleichwertiger Leistungsaustausch, Geschäftsverkehrsübung, Arbeitsentgelt-Drei-Monats-Regel, Verhältnis zu §§ 130-132 und Vorsatzanfechtung § 133 mit erkannter Unlauterkeit. Output: Verteidigungs- und Risikoanalyse ohne pauschale 30-Tage-Regel.
 
 # Bargeschäft — § 142 InsO
 

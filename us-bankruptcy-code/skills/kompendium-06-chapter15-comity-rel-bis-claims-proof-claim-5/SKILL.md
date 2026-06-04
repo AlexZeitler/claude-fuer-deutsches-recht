@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-chapter15-comity-rel-bis-claims-proof-claim-5
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (chapter15-comity-relief, chapter15-recognition, claim-objection-502, claims-proof-claim-501) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chapter15 Comity Relief, Chapter15 Recognition, Claim Objection 502, Claims Proof Claim 501; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - us-bankruptcy-code
+# Arbeitsbereich - Chapter15 Comity Relief bis Claims Proof Claim 501
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chapter15-comity-relief` | Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception. |
 | `chapter15-recognition` | Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chapter15-comity-relief`
 
-**Frühere Beschreibung:** Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception.
+**Fokus:** Prueft post-recognition relief, cooperation, entrustment, asset turnover, discovery and public-policy exception.
 
 # Chapter 15 Comity and Relief
 
@@ -96,7 +96,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `chapter15-recognition`
 
-**Frühere Beschreibung:** Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief.
+**Fokus:** Prueft recognition of foreign proceedings, foreign main/nonmain, COMI, foreign representative and relief.
 
 # Chapter 15 Recognition
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `claim-objection-502`
 
-**Frühere Beschreibung:** Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement.
+**Fokus:** Prueft allowance/disallowance, objections, estimation, contingent/unliquidated claims and settlement.
 
 # Claim Objection § 502
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `claims-proof-claim-501`
 
-**Frühere Beschreibung:** Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments.
+**Fokus:** Prueft claim filing, bar date, secured/unsecured/priority status, documentation and amendments.
 
 # Proof of Claim § 501
 

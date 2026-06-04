@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-aussenwirtschaft-sof-bis-aussenwirtschaft-tra
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (aussenwirtschaft-software-verschluesselung-kryptografie, aussenwirtschaft-swiss-sanctions-touchpoint, aussenwirtschaft-trade-finance-lc-guarantees, aussenwirtschaft-transferpricing-zollwert-abgleich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Software Verschluesselung Kryptografie, Aussenwirtschaft Swiss Sanctions Touchpoint, Aussenwirtschaft Trade Finance Lc Guarantees, Aussenwirtschaft Transferpricing Zollwert Abgleich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Software Verschluesselung Kryptografie bis Aussenwirtschaft Transferpricing Zollwert Abgleich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-software-verschluesselung-kryptografie` | Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad. |
 | `aussenwirtschaft-swiss-sanctions-touchpoint` | Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-software-verschluesselung-kryptografie`
 
-**Frühere Beschreibung:** Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad.
+**Fokus:** Exportkontrolle fuer Verschluesselungssoftware und Kryptografieprodukte nach VO (EU) 2021/821 Kategorie 5 Teil 2 (Telekommunikation/Informationssicherheit): Klassifizierung von Algorithmen (AES 256 bit RSA ECC) Exportgenehmigungspflicht und Allgemeine Genehmigung EU001. Besonderheiten bei Open-Source-Software und Cloud-Diensten. Output: Klassifizierungsvermerk und Genehmigungspfad.
 
 # Exportkontrolle fuer Verschluesselungssoftware: Kryptografie und Dual-Use-Kategorie 5
 
@@ -115,7 +115,7 @@ Klassifizierungsvermerk mit Normgrundlage, Genehmigungspfad-Dokumentation und Ex
 
 ## 2. `aussenwirtschaft-swiss-sanctions-touchpoint`
 
-**Frühere Beschreibung:** Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg.
+**Fokus:** Schweizer Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: EmbG (Embargogesetz SR 946.231) SECO-Sanktionslisten und deren Konvergenz und Divergenz zu EU-Sanktionen. Relevant bei in der Schweiz ansaessigen Konzerntochtern oder Transaktionen ueber Schweizer Banken. Output: Kurzvergleich EU-CH-Sanktionen und Handlungsempfehlung fuer Schweizer Transaktionsweg.
 
 # Schweizer Sanktionen als Touchpoint: EmbG und SECO-Listen im EU-Mandat
 
@@ -201,7 +201,7 @@ Kurzvergleich EU-CH-Sanktionslage mit Divergenz-Tabelle, Handlungsempfehlung fue
 
 ## 3. `aussenwirtschaft-trade-finance-lc-guarantees`
 
-**Frühere Beschreibung:** Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung.
+**Fokus:** Sanktions- und Exportkontrollpruefung bei Trade-Finance-Instrumenten: Akkreditiv (Letter of Credit) Bankgarantien Avale und Dokumenteninkasso unter Beruecksichtigung von VO (EU) 833/2014 Art. 5a (Finanzhilfen) und Korrespondenzbanken-Verboten. Pruefraster fuer Bank-Compliance und Handelsfinanzierungsabteilung. Output: Pruefprotokoll und Freigabeempfehlung.
 
 # Trade Finance und Sanktionen: Akkreditive Garantien und Finanzhilfe-Verbote
 
@@ -289,7 +289,7 @@ Trade-Finance-Pruefprotokoll mit Sanktionslistenabgleich, Waren-Embargo-Check, E
 
 ## 4. `aussenwirtschaft-transferpricing-zollwert-abgleich`
 
-**Frühere Beschreibung:** Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen. Output: Zollwert-Verrechnungspreis-Konsistenzanalyse.
+**Fokus:** Abgleich von Verrechnungspreisen und Zollwerten nach UZK Art. 70 (Transaktionswert) und OECD-Verrechnungspreisleitlinien: Pruefung ob konzerninterne Preise den Zollwert beguenstigen und APA-Vereinbarungen mit Zollbewertung kollidieren. Risiko rueckwirkender Zollnacherhebung bei Preisanpassungen. Output: Zollwert-Verrechnungspreis-Konsistenzanalyse.
 
 # Zollwert und Verrechnungspreise: Konsistenzpruefung und Nacherhebungsrisiko
 

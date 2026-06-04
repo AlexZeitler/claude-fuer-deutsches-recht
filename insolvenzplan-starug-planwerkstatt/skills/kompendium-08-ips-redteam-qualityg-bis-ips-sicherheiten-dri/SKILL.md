@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ips-redteam-qualityg-bis-ips-sicherheiten-dri
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ips-redteam-qualitygate, ips-sanierungskonzept, ips-sicherheiten-drittsicherheiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Redteam Qualitygate, Ips Sanierungskonzept, Ips Sicherheiten Drittsicherheiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Redteam Qualitygate, Ips Sanierungskonzept, Ips Sicherheiten Drittsicherheiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-redteam-qualitygate` | Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen. §§ 231 245 251 InsO Versagungsgründe § 64 StaRUG. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate für alle ips-Skills. |
 | `ips-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Ausgangslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Plausibilitätsfragen, Lückenliste. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-redteam-qualitygate`
 
-**Frühere Beschreibung:** Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen. §§ 231 245 251 InsO Versagungsgründe § 64 StaRUG. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate für alle ips-Skills.
+**Fokus:** Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen. §§ 231 245 251 InsO Versagungsgründe § 64 StaRUG. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate für alle ips-Skills.
 
 # Red Team und Quality Gate
 
@@ -105,7 +105,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-sanierungskonzept`
 
-**Frühere Beschreibung:** Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Ausgangslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Plausibilitätsfragen, Lückenliste. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung).
+**Fokus:** Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Ausgangslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Szenarien und Dokumentation. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Plausibilitätsfragen, Lückenliste. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung).
 
 # Sanierungskonzept
 
@@ -209,7 +209,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-sicherheiten-drittsicherheiten`
 
-**Frühere Beschreibung:** Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO §§ 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung gruppeninterne Drittsicherheiten Finanzsicherheiten Eingriffsstopper. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung.
+**Fokus:** Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO §§ 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung gruppeninterne Drittsicherheiten Finanzsicherheiten Eingriffsstopper. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung.
 
 # Sicherheiten und Drittsicherheiten
 

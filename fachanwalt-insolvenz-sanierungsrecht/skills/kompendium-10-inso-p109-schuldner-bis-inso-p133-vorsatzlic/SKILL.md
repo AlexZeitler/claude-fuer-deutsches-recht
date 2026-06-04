@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-inso-p109-schuldner-bis-inso-p133-vorsatzlic
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 21 frühere Spezialskills (inso-p109-schuldner-als-mieter-oder-pachter, inso-p110-schuldner-als-vermieter-oder-verpachter, inso-p111-verausserung-des-miet-oder-pachtobjekts, inso-p112-kundigungssperre, inso-p113-kundigung-eines-dienstverhaltnisses und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P109 Schuldner Als Mieter Oder Pachter, Inso P110 Schuldner Als Vermieter Oder Verpachter, Inso P111 Verausserung Des Miet Oder Pachtobjekts, Inso P112 Kundigungssperre und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P109 Schuldner Als Mieter Oder Pachter bis Inso P133 Vorsatzliche Benachteiligung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p109-schuldner-als-mieter-oder-pachter` | § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p110-schuldner-als-vermieter-oder-verpachter` | § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p109-schuldner-als-mieter-oder-pachter`
 
-**Frühere Beschreibung:** § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 109 InsO (Schuldner als Mieter oder Pächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 109 InsO — Schuldner als Mieter oder Pächter
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p110-schuldner-als-vermieter-oder-verpachter`
 
-**Frühere Beschreibung:** § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 110 InsO (Schuldner als Vermieter oder Verpächter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 110 InsO — Schuldner als Vermieter oder Verpächter
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p111-verausserung-des-miet-oder-pachtobjekts`
 
-**Frühere Beschreibung:** § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 111 InsO (Veräußerung des Miet- oder Pachtobjekts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 111 InsO — Veräußerung des Miet- oder Pachtobjekts
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p112-kundigungssperre`
 
-**Frühere Beschreibung:** § 112 InsO (Kündigungssperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 112 InsO (Kündigungssperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 112 InsO — Kündigungssperre
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p113-kundigung-eines-dienstverhaltnisses`
 
-**Frühere Beschreibung:** § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 113 InsO (Kündigung eines Dienstverhältnisses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 113 InsO — Kündigung eines Dienstverhältnisses
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p114-weggefallen`
 
-**Frühere Beschreibung:** § 114 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen.
+**Fokus:** § 114 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen.
 
 # § 114 InsO — (weggefallen)
 
@@ -374,7 +374,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p115-erloschen-von-auftragen`
 
-**Frühere Beschreibung:** § 115 InsO (Erlöschen von Aufträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 115 InsO (Erlöschen von Aufträgen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 115 InsO — Erlöschen von Aufträgen
 
@@ -429,7 +429,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p117-erloschen-von-vollmachten`
 
-**Frühere Beschreibung:** § 117 InsO (Erlöschen von Vollmachten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 117 InsO (Erlöschen von Vollmachten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 117 InsO — Erlöschen von Vollmachten
 
@@ -484,7 +484,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p118-auflosung-von-gesellschaften`
 
-**Frühere Beschreibung:** § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 118 InsO (Auflösung von Gesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 118 InsO — Auflösung von Gesellschaften
 
@@ -539,7 +539,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p119-unwirksamkeit-abweichender-vereinbarungen`
 
-**Frühere Beschreibung:** § 119 InsO (Unwirksamkeit abweichender Vereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 119 InsO (Unwirksamkeit abweichender Vereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 119 InsO — Unwirksamkeit abweichender Vereinbarungen
 
@@ -594,7 +594,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p120-kundigung-von-betriebsvereinbarungen`
 
-**Frühere Beschreibung:** § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 120 InsO (Kündigung von Betriebsvereinbarungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 120 InsO — Kündigung von Betriebsvereinbarungen
 
@@ -649,7 +649,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p122-gerichtliche-zustimmung-zur-durchfuhrung-einer-betrieb`
 
-**Frühere Beschreibung:** § 122 InsO (Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 122 InsO (Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 122 InsO — Gerichtliche Zustimmung zur Durchführung einer Betriebsänderung
 
@@ -704,7 +704,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p123-umfang-des-sozialplans`
 
-**Frühere Beschreibung:** § 123 InsO (Umfang des Sozialplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 123 InsO (Umfang des Sozialplans) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 123 InsO — Umfang des Sozialplans
 
@@ -759,7 +759,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p125-interessenausgleich-und-kundigungsschutz`
 
-**Frühere Beschreibung:** § 125 InsO (Interessenausgleich und Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 125 InsO (Interessenausgleich und Kündigungsschutz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 125 InsO — Interessenausgleich und Kündigungsschutz
 
@@ -814,7 +814,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p127-klage-des-arbeitnehmers`
 
-**Frühere Beschreibung:** § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 127 InsO (Klage des Arbeitnehmers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 127 InsO — Klage des Arbeitnehmers
 
@@ -869,7 +869,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p128-betriebsverausserung`
 
-**Frühere Beschreibung:** § 128 InsO (Betriebsveräußerung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 128 InsO (Betriebsveräußerung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 128 InsO — Betriebsveräußerung
 
@@ -924,7 +924,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p129-grundsatz`
 
-**Frühere Beschreibung:** § 129 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 129 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 129 InsO — Grundsatz
 
@@ -979,7 +979,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p130-kongruente-deckung`
 
-**Frühere Beschreibung:** § 130 InsO (Kongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 130 InsO (Kongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 130 InsO — Kongruente Deckung
 
@@ -1034,7 +1034,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p131-inkongruente-deckung`
 
-**Frühere Beschreibung:** § 131 InsO (Inkongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 131 InsO (Inkongruente Deckung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 131 InsO — Inkongruente Deckung
 
@@ -1089,7 +1089,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p132-unmittelbar-nachteilige-rechtshandlungen`
 
-**Frühere Beschreibung:** § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 132 InsO (Unmittelbar nachteilige Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 132 InsO — Unmittelbar nachteilige Rechtshandlungen
 
@@ -1144,7 +1144,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p133-vorsatzliche-benachteiligung`
 
-**Frühere Beschreibung:** § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 133 InsO (Vorsätzliche Benachteiligung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 133 InsO — Vorsätzliche Benachteiligung
 

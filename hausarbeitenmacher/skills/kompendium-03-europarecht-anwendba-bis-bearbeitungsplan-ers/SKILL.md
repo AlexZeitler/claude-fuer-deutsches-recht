@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-europarecht-anwendba-bis-bearbeitungsplan-ers
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (europarecht-anwendbarkeit-vorrang-vorabentscheidung, spezial-hausarbeiten-fristen-form-und-zustaendigkeit, bearbeitungsplan-erstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Anwendbarkeit Vorrang Vorabentscheidung, Hausarbeiten Fristen Form Und Zustaendigkeit, Bearbeitungsplan Erstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - hausarbeitenmacher
+# Arbeitsbereich - Europarecht Anwendbarkeit Vorrang Vorabentscheidung, Hausarbeiten Fristen Form Und Zustaendigkeit, Bearbeitungsplan Erstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-anwendbarkeit-vorrang-vorabentscheidung` | Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG). |
 | `spezial-hausarbeiten-fristen-form-und-zustaendigkeit` | Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-anwendbarkeit-vorrang-vorabentscheidung`
 
-**Frühere Beschreibung:** Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG).
+**Fokus:** Student bearbeitet Hausarbeit mit Europarecht-Bezug: Anwendungsvorrang Verordnung direkt anwendbar Richtlinie richtlinienkonforme Auslegung Vorabentscheidungsverfahren. Art. 267 AEUV Marleasing EuGH-Linien Grundfreiheiten Grundrechte-Charta GRCh. Prüfraster Primaerrecht-Sekundaerrecht-Unterscheidung Anwendungsvorrang-Prüfung CILFIT-Ausnahmen. Output Europarecht-Prüfungsschema EuGH-Fundstellen. Abgrenzung zu methodenlehre-auslegung (allgemein) und verfassungsrecht-grundrechtsprüfung (GG).
 
 # Europarecht — Anwendbarkeit, Vorrang, Vorabentscheidung
 
@@ -250,7 +250,7 @@ Wenn Du argumentierst: "Hier könnte ein Vorabentscheidungs-Verfahren nach Art. 
 
 ## 2. `spezial-hausarbeiten-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin hausarbeitenmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Hausarbeiten: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -291,7 +291,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `bearbeitungsplan-erstellen`
 
-**Frühere Beschreibung:** Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss).
+**Fokus:** Student erstellt Zeitplan und Arbeitsplan für juristische Hausarbeit: Recherche Gliederung Rohfassung Endfassung Korrektur. Differenziert nach Hausarbeitstyp Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit. Normen Prüfungsordnungen Abgabetermin. Prüfraster Zeitaufteilung Phasen Lernziele Prokrastinations-Barrieren. Output Bearbeitungsplan-Template Zeitstrahl Meilensteine. Abgrenzung zu aufgabenstellung-erfassen (Inhalt) und selbstkontrolle-vor-abgabe (Abschluss).
 
 # Bearbeitungs-Plan erstellen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-notariat-027-bautrae-bis-notariat-054-ausland
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen, notariat-029-familiengesellschaft-poolvertrag-und-minderjaehrige, notariat-054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 054 Auslandsbeteiligte Steuerliche Hinweise Und Grenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - notariat-alltag
+# Arbeitsbereich - Notariat 027 Bautraegervertrag Mabv Ratenplan Und Abnahmefallen, Notariat 029 Familiengesellschaft Poolvertrag Und Minderjaehrige, Notariat 0
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen` | Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber. |
 | `notariat-029-familiengesellschaft-poolvertrag-und-minderjaehrige` | Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-027-bautraegervertrag-mabv-ratenplan-und-abnahmefallen`
 
-**Frühere Beschreibung:** Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber.
+**Fokus:** Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan und Abnahmefallen. Pflichtinhalt nach MaBV, Sicherungsanforderungen, Ratenplan-Voraussetzungen, Abnahme und typische Risiken für Erwerber.
 
 # Notariat im Alltag: Bauträgervertrag – MaBV, Ratenplan, Abnahmefallen
 
@@ -125,7 +125,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-029-familiengesellschaft-poolvertrag-und-minderjaehrige`
 
-**Frühere Beschreibung:** Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung.
+**Fokus:** Notariat im Alltag: Familiengesellschaft, Poolvertrag und Minderjährige. Gestaltung von Familien-GmbH und GbR, Poolverträge zur Sicherung von Gesellschaftermehrheiten, Beteiligung Minderjähriger und familiengerichtliche Genehmigung.
 
 # Notariat im Alltag: Familiengesellschaft, Poolvertrag, Minderjährige
 
@@ -216,7 +216,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-054-auslandsbeteiligte-steuerliche-hinweise-und-grenzen`
 
-**Frühere Beschreibung:** Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen. Steuerliche Problembereiche bei Immobilien- und Gesellschaftsgeschäften mit Auslandsbezug, beschränkte Steuerpflicht und Notarhinweispflichten.
+**Fokus:** Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen. Steuerliche Problembereiche bei Immobilien- und Gesellschaftsgeschäften mit Auslandsbezug, beschränkte Steuerpflicht und Notarhinweispflichten.
 
 # Notariat im Alltag: Auslandsbeteiligte – steuerliche Hinweise und Grenzen
 

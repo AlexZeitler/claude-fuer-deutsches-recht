@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-vc-052-quarterly-rec-bis-vc-055-board-pack-au
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (vc-052-quarterly-recap, vc-053-kpi-pack-standard, vc-054-founder-update-prompt, vc-055-board-pack-auswertung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 052 Quarterly Recap, Vc 053 Kpi Pack Standard, Vc 054 Founder Update Prompt, Vc 055 Board Pack Auswertung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - venture-capital-geber
+# Arbeitsbereich - Vc 052 Quarterly Recap bis Vc 055 Board Pack Auswertung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-052-quarterly-recap` | Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren. |
 | `vc-053-kpi-pack-standard` | Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-052-quarterly-recap`
 
-**Frühere Beschreibung:** Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren.
+**Fokus:** Erzeugt Quartalsrecaps für Family Office, Investment Committee, Partnerkreis oder Co-Investoren.
 
 # Quarterly Portfolio Recap
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-053-kpi-pack-standard`
 
-**Frühere Beschreibung:** Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer.
+**Fokus:** Definiert Standard-KPIs nach SaaS, Marketplace, Hardware, Biotech, Climate, FinTech und Consumer.
 
 # KPI-Pack Standard
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-054-founder-update-prompt`
 
-**Frühere Beschreibung:** Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask.
+**Fokus:** Erstellt höfliche, aber präzise Founder-Update-Requests mit KPIs, Cash, Milestones, Hiring, Risiken und Ask.
 
 # Founder-Update-Anfrage
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-055-board-pack-auswertung`
 
-**Frühere Beschreibung:** Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen.
+**Fokus:** Analysiert Board-Unterlagen, consent requests, Budgets, Hiring, Debt, M&A und Abweichungen.
 
 # Board-Pack-Auswertung
 

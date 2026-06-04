@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-fachanwalt-vergabere-bis-markterkundung-und-v
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (fachanwalt-vergaberecht-schadensersatz-181-gwb, aufklaerung-nachforderung-56-vgv, fachanwalt-vergaberecht-ruege-vor-zuschlag, markterkundung-und-vorbefassung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergaberecht Schadensersatz 181 Gwb, Aufklaerung Nachforderung 56 Vgv, Vergaberecht Ruege Vor Zuschlag, Markterkundung Und Vorbefassung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergaberecht Schadensersatz 181 Gwb bis Markterkundung Und Vorbefassung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-schadensersatz-181-gwb` | Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage. |
 | `aufklaerung-nachforderung-56-vgv` | Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-vergaberecht-schadensersatz-181-gwb`
 
-**Frühere Beschreibung:** Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+**Fokus:** Schadensersatz nach § 181 GWB und BGB-Vorvertragsrecht bei vergaberechtswidriger Zuschlagsentscheidung geltend machen: Bieter hat Zuschlag verloren und will Vertrauensschaden oder positives Interesse einklagen. Normen: § 181 GWB (Schadensersatz), §§ 280 und 311 BGB (vorvertragliches Schuldverhaeltnis), § 124 GWB (Ausschluss). Pruefraster: Anspruchsgrundlage, Kausalitaet, Echte-Chance-Doktrin BGH X ZR 100/04, Vertrauensschaden vs. positives Interesse, Mitverschulden, Verjaehrung. Output Klageschrift-Geruest LG, Schadensberechnung. Abgrenzung: VK-Verfahren siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk; De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 # Schadensersatz nach § 181 GWB
 
@@ -106,7 +106,7 @@ BGH-Entscheidungen vor Ausgabe ueber dejure.org oder bundesgerichtshof.de verifi
 
 ## 2. `aufklaerung-nachforderung-56-vgv`
 
-**Frühere Beschreibung:** Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung.
+**Fokus:** Aufklaerung, Nachforderung und Angebotsaufklaerung steuern: fehlende Unterlagen, unklare Preise, ungewoehnlich niedrige Angebote, Gleichbehandlung und Grenzen der Nachbesserung.
 
 # Aufklaerung und Nachforderung
 
@@ -170,7 +170,7 @@ Nachforderungsschema, Aufklaerungsfragen, Risikoampel, Vermerk.
 
 ## 3. `fachanwalt-vergaberecht-ruege-vor-zuschlag`
 
-**Frühere Beschreibung:** Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachprüfungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen.
+**Fokus:** Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Prüfraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurückweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachprüfungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen.
 
 # Rüge vor Zuschlag
 
@@ -325,7 +325,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `markterkundung-und-vorbefassung`
 
-**Frühere Beschreibung:** Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr.
+**Fokus:** Markterkundung, Vorbefassung und Interessenkonflikte rechtssicher steuern: zulaessige Informationsgewinnung, Ausgleichsmassnahmen, Dokumentation und Rugeabwehr.
 
 # Markterkundung und Vorbefassung
 

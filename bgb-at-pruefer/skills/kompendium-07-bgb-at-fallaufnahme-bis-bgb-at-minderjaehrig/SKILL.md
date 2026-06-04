@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-bgb-at-fallaufnahme-bis-bgb-at-minderjaehrig
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (bgb-at-fallaufnahme-und-pruefprogramm, bgb-at-form-und-prozessform, bgb-at-minderjaehrige-fehlsubsumtion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - bgb-at-pruefer
+# Arbeitsbereich - Bgb At Fallaufnahme Und Pruefprogramm, Bgb At Form Und Prozessform, Bgb At Minderjaehrige Fehlsubsumtion
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bgb-at-fallaufnahme-und-pruefprogramm` | Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen. |
 | `bgb-at-form-und-prozessform` | Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und prozessualer Formfrage: Schriftform, notarielle Beurkundung, elektronische Form, Heilung von Formmängeln und Auswirkungen auf Beweisbarkeit und Prozess. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bgb-at-fallaufnahme-und-pruefprogramm`
 
-**Frühere Beschreibung:** Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen.
+**Fokus:** Strukturiertes Fallaufnahme- und Prüfprogramm für BGB-AT-Mandate und Klausuren: Sachverhalt vollständig erfassen, Mandatsrolle klären, Prüfprogramm erstellen, offene Tatsachenfragen identifizieren und Prüfungsschwerpunkte setzen.
 
 # Fallaufnahme und Prüfprogramm — BGB Allgemeiner Teil
 
@@ -113,7 +113,7 @@ Prüfungsschritte: (1) Willenserklärungen abgegeben und zugegangen? (2) Geschä
 
 ## 2. `bgb-at-form-und-prozessform`
 
-**Frühere Beschreibung:** Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und prozessualer Formfrage: Schriftform, notarielle Beurkundung, elektronische Form, Heilung von Formmängeln und Auswirkungen auf Beweisbarkeit und Prozess.
+**Fokus:** Klausurfall zu Formvorschriften nach §§ 125 bis 129 BGB und prozessualer Formfrage: Schriftform, notarielle Beurkundung, elektronische Form, Heilung von Formmängeln und Auswirkungen auf Beweisbarkeit und Prozess.
 
 # Form und Prozessform — §§ 125 bis 129 BGB
 
@@ -202,7 +202,7 @@ Grundstückskaufvertrag) bleibt die notarielle Beurkundung zwingend — elektron
 
 ## 3. `bgb-at-minderjaehrige-fehlsubsumtion`
 
-**Frühere Beschreibung:** Klausurhilfe zu häufigen Fehlsubsumtionen bei Minderjährigen-Geschäften nach §§ 104 bis 113 BGB: Abgrenzung lediglich rechtlich vorteilhafter Geschäfte von neutralen und nachteiligen Geschäften, typische Klausurfehler und Korrekturansatz.
+**Fokus:** Klausurhilfe zu häufigen Fehlsubsumtionen bei Minderjährigen-Geschäften nach §§ 104 bis 113 BGB: Abgrenzung lediglich rechtlich vorteilhafter Geschäfte von neutralen und nachteiligen Geschäften, typische Klausurfehler und Korrekturansatz.
 
 # Minderjährige und Fehlsubsumtionen — §§ 104 bis 113 BGB
 

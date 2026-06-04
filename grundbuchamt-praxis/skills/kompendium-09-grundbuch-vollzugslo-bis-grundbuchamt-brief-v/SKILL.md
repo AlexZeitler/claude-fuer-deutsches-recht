@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-grundbuch-vollzugslo-bis-grundbuchamt-brief-v
-description: "grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (grundbuch-vollzugslog, grundbuchamt-amtswiderspruch-und-richtigstellung, grundbuchamt-brief-vs-buchrecht-erklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grundbuchamt-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grundbuch Vollzugslog, Grundbuchamt Amtswiderspruch Und Richtigstellung, Grundbuchamt Brief Vs Buchrecht Erklaerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - grundbuchamt-praxis
+# Arbeitsbereich - Grundbuch Vollzugslog, Grundbuchamt Amtswiderspruch Und Richtigstellung, Grundbuchamt Brief Vs Buchrecht Erklaerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grundbuch-vollzugslog` | Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt. |
 | `grundbuchamt-amtswiderspruch-und-richtigstellung` | Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grundbuch-vollzugslog`
 
-**Frühere Beschreibung:** Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt.
+**Fokus:** Erstellt Fristen-, Rang- und Nachweisliste mit Verantwortlichen, Stand und nächstem Schritt.
 
 # Vollzugslog Grundbuch
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `grundbuchamt-amtswiderspruch-und-richtigstellung`
 
-**Frühere Beschreibung:** Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz.
+**Fokus:** Prüft offensichtliche Unrichtigkeit, Amtswiderspruch, Amtslöschung, Berichtigung und Rechtsschutz.
 
 # Amtswiderspruch
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `grundbuchamt-brief-vs-buchrecht-erklaerung`
 
-**Frühere Beschreibung:** Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen.
+**Fokus:** Erklärt Mandanten, warum der Briefkörper zählt und warum Kopien nicht reichen.
 
 # Briefrecht vs. Buchrecht erklären
 

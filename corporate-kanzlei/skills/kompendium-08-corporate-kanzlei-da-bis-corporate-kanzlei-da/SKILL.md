@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-corporate-kanzlei-da-bis-corporate-kanzlei-da
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (corporate-kanzlei-datenraum-aufbau, corporate-kanzlei-datenraum-gap-clean-room) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Datenraum Aufbau, Corporate Kanzlei Datenraum Gap Clean Room
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-datenraum-aufbau` | Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests. |
 | `corporate-kanzlei-datenraum-gap-clean-room` | Gap-Analyse des Datenraums und Clean-Room-Protokoll für M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Prüfraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragsprüfung siehe due-diligence-commercial-contracts. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-datenraum-aufbau`
 
-**Frühere Beschreibung:** Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests.
+**Fokus:** Virtuellen Datenraum strukturieren und befuellen für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Prüfraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests.
 
 # Datenraum-Aufbau
 
@@ -280,7 +280,7 @@ Separate NDA unterzeichnet: [Ja]
 
 ## 2. `corporate-kanzlei-datenraum-gap-clean-room`
 
-**Frühere Beschreibung:** Gap-Analyse des Datenraums und Clean-Room-Protokoll für M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Prüfraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragsprüfung siehe due-diligence-commercial-contracts.
+**Fokus:** Gap-Analyse des Datenraums und Clean-Room-Protokoll für M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Prüfraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragsprüfung siehe due-diligence-commercial-contracts.
 
 # Datenraum Gap-Analyse und Clean Room
 

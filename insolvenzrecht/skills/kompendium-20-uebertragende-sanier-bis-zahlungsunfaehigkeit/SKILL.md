@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-uebertragende-sanier-bis-zahlungsunfaehigkeit
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (uebertragende-sanierung-und-asset-deals, v90-auslaendischer-office-holder-register-und-grundbuch, vorsatzanfechtung-133-inso, zahlungsunfaehigkeit-pruefung-17-inso) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Uebertragende Sanierung Und Asset Deals, V90 Auslaendischer Office Holder Register Und Grundbuch, Vorsatzanfechtung 133 Inso, Zahlungsunfaehigkeit Pruefung 17 Inso; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - insolvenzrecht
+# Arbeitsbereich - Uebertragende Sanierung Und Asset Deals bis Zahlungsunfaehigkeit Pruefung 17 Inso
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `uebertragende-sanierung-und-asset-deals` | Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin). |
 | `v90-auslaendischer-office-holder-register-und-grundbuch` | Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `uebertragende-sanierung-und-asset-deals`
 
-**Frühere Beschreibung:** Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin).
+**Fokus:** Insolvenzverwalter will Geschäftsbetrieb verkaufen oder Investor kauft aus der Insolvenz und braucht Prüfung des Asset-Deals. Prüfraster uebertragende Sanierung Asset Deal im Regelverfahren Zustimmung Gläubigerausschuss § 160 InsO. Insolvenzplan § 254a InsO für gesellschaftsrechtliche Massnahmen Grundstuecke Marken Kundendaten. Aufschiebend versus auflösend bedingte Klauseln Haftungsabgrenzung. Output Kaufvertragsentwurf Checkliste Vollzugs-Voraussetzungen Gläubigerausschuss-Vorlage. Abgrenzung: insolvenzplan-starug-planwerkstatt für Insolvenzplan-Erstellung (anderes Plugin).
 
 # Übertragende Sanierung und Asset Deals — innerhalb wie außerhalb des Insolvenzplans
 
@@ -440,7 +440,7 @@ USt Asset-Deal: EUR [BETRAG] (Masseverbindlichkeit)
 
 ## 2. `v90-auslaendischer-office-holder-register-und-grundbuch`
 
-**Frühere Beschreibung:** Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann.
+**Fokus:** Prüft, ob und wie ein US debtor in possession, kanadischer trustee, receiver, monitor oder sonstiger ausländischer office holder in Deutschland handeln kann.
 
 # Ausländischer Insolvenzverwalter: inzidente Anerkennung, Register, Grundbuch und GmbH-Anteile
 
@@ -459,7 +459,7 @@ Erzeuge ein Nachweispaket `ausländische Entscheidung / Amtsnachweis / Befugnis 
 
 ## 3. `vorsatzanfechtung-133-inso`
 
-**Frühere Beschreibung:** Workflow-Skill zu vorsatzanfechtung 133 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu vorsatzanfechtung 133 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Vorsatzanfechtung § 133 InsO
 
@@ -903,7 +903,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur 
 
 ## 4. `zahlungsunfaehigkeit-pruefung-17-inso`
 
-**Frühere Beschreibung:** Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung. Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund oder § 17 InsO prüfen möchte.
+**Fokus:** Erstellt ein strukturiertes Prüfgutachten zum Eröffnungsgrund der Zahlungsunfähigkeit nach § 17 InsO. Berechnet den Liquiditätsstatus zum Stichtag, wendet das 10-%-/3-Wochen-Schema des BGH an und würdigt Indizien der Zahlungseinstellung. Lädt, wenn der Nutzer Zahlungsunfähigkeit, Liquiditätsstatus, Insolvenzeröffnungsgrund oder § 17 InsO prüfen möchte.
 
 # Gerichtsfeste Prüfung des Eröffnungsgrundes § 17 InsO (Zahlungsunfähigkeit)
 

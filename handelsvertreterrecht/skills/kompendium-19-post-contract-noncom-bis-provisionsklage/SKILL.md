@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-post-contract-noncom-bis-provisionsklage
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (post-contract-noncompete, principal-direktgeschaeft, provisionsanspruch-paragraf87, provisionsklage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Post Contract Noncompete, Principal Direktgeschaeft, Provisionsanspruch Paragraf87, Provisionsklage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - handelsvertreterrecht
+# Arbeitsbereich - Post Contract Noncompete bis Provisionsklage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `post-contract-noncompete` | Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadensersatz und Vertragsstrafe bei Verstößen. |
 | `principal-direktgeschaeft` | Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `post-contract-noncompete`
 
-**Frühere Beschreibung:** Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadensersatz und Vertragsstrafe bei Verstößen.
+**Fokus:** Prüft das nachvertragliche Wettbewerbsverbot nach § 90a HGB nach Vertragsbeendigung: Wirksamkeit der Klausel, Geltungsdauer maximal zwei Jahre, räumliche und sachliche Reichweite, Karenzentschädigung und Loslösungsrecht sowie Schadensersatz und Vertragsstrafe bei Verstößen.
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB — Durchsetzung und Verletzung
 
@@ -108,7 +108,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 2. `principal-direktgeschaeft`
 
-**Frühere Beschreibung:** Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags.
+**Fokus:** Prüft Direktgeschäfte des Unternehmers im Handelsvertretergebiet: Provisionsanspruch des Handelsvertreters nach § 87 Abs. 2 HGB, Dokumentationspflichten des Unternehmers, Auskunfts- und Buchauszugsrecht sowie Schadensersatz bei systematischer Unterwanderung des Alleinvertretervertrags.
 
 # Direktgeschäfte des Unternehmers im Handelsvertretergebiet nach § 87 HGB
 
@@ -187,7 +187,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 3. `provisionsanspruch-paragraf87`
 
-**Frühere Beschreibung:** Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung.
+**Fokus:** Klärt Entstehung und Durchsetzung des Provisionsanspruchs nach § 87 HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit nach Ausführung des Geschäfts, Provisionssatz und Bemessungsgrundlage, Ansprüche bei Direktabschlüssen und nachvertraglichen Folgegeschäften sowie Verjährung.
 
 # Provisionsanspruch nach § 87 HGB — Entstehung, Fälligkeit und Durchsetzung
 
@@ -266,7 +266,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 4. `provisionsklage`
 
-**Frühere Beschreibung:** Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie.
+**Fokus:** Unterstützt bei der Erhebung einer Provisionsklage: Klageschriftentwurf mit Anspruchsbegründung nach §§ 87 ff. HGB, Beweisantritte, Stufenklage nach § 254 ZPO, einstweiliger Rechtsschutz sowie Prozesskostenrisiko und Vergleichsstrategie.
 
 # Provisionsklage nach §§ 87 ff. HGB — Klageschrift, Beweise und Strategie
 

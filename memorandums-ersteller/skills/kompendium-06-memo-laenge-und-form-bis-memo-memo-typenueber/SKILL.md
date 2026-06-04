@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-memo-laenge-und-form-bis-memo-memo-typenueber
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (memo-laenge-und-formate, memo-mandantenfreundliche-fassung-spezial, memo-memo-typenuebersicht-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Laenge Und Formate, Memo Mandantenfreundliche Fassung Spezial, Memo Memo Typenuebersicht Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - memorandums-ersteller
+# Arbeitsbereich - Memo Laenge Und Formate, Memo Mandantenfreundliche Fassung Spezial, Memo Memo Typenuebersicht Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-laenge-und-formate` | Memo-Laenge an Komplexitaet anpassen: 1-Seiten-Antwort (schneller Mandant-Check), 3-5-Seiten-Memo (Standardfall), 10+-Seiten-Memo (komplexe Restrukturierung, M&A). Pro Format vorgegebene Inhalts-Skelette. Output: Wahl des passenden Formats. |
 | `memo-mandantenfreundliche-fassung-spezial` | Spezialfall mandantenfreundliche Fassung eines juristischen Memos: Klartext, Handlungsoptionen, Risikoampel, Anhang fuer Tiefe. Pruefraster fuer Geschaeftsleitung als Adressat. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-laenge-und-formate`
 
-**Frühere Beschreibung:** Memo-Laenge an Komplexitaet anpassen: 1-Seiten-Antwort (schneller Mandant-Check), 3-5-Seiten-Memo (Standardfall), 10+-Seiten-Memo (komplexe Restrukturierung, M&A). Pro Format vorgegebene Inhalts-Skelette. Output: Wahl des passenden Formats.
+**Fokus:** Memo-Laenge an Komplexitaet anpassen: 1-Seiten-Antwort (schneller Mandant-Check), 3-5-Seiten-Memo (Standardfall), 10+-Seiten-Memo (komplexe Restrukturierung, M&A). Pro Format vorgegebene Inhalts-Skelette. Output: Wahl des passenden Formats.
 
 # Memo: Laenge und Formate
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-mandantenfreundliche-fassung-spezial`
 
-**Frühere Beschreibung:** Spezialfall mandantenfreundliche Fassung eines juristischen Memos: Klartext, Handlungsoptionen, Risikoampel, Anhang fuer Tiefe. Pruefraster fuer Geschaeftsleitung als Adressat.
+**Fokus:** Spezialfall mandantenfreundliche Fassung eines juristischen Memos: Klartext, Handlungsoptionen, Risikoampel, Anhang fuer Tiefe. Pruefraster fuer Geschaeftsleitung als Adressat.
 
 # Memo: Mandantenfreundliche Fassung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memo-memo-typenuebersicht-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster fuer Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ.
+**Fokus:** Bauleiter Memo-Typen: Kurz-Memo, Standard-Memo, Long-Form-Memo, Risk-Memo. Pruefraster fuer Zielgruppe, Tiefe und Format. Mustertext Inhaltsverzeichnis pro Typ.
 
 # Memo: Typen-Uebersicht
 

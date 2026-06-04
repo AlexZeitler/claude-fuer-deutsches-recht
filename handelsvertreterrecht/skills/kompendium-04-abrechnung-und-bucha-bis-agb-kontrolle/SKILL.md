@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-abrechnung-und-bucha-bis-agb-kontrolle
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (abrechnung-und-buchauszug, abschlussprovision, abschlussvertreter, agb-kontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abrechnung Und Buchauszug, Abschlussprovision, Abschlussvertreter, Agb Kontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - handelsvertreterrecht
+# Arbeitsbereich - Abrechnung Und Buchauszug bis Agb Kontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abrechnung-und-buchauszug` | Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven. |
 | `abschlussprovision` | Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abrechnung-und-buchauszug`
 
-**Frühere Beschreibung:** Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven.
+**Fokus:** Unterstützt Handelsvertreter und Unternehmer bei Streitigkeiten über Provisionsabrechnungen und den Buchauszug nach § 87c HGB: Prüfung von Vollständigkeit und Richtigkeit der Abrechnung, Formulierung von Buchauszugsverlangen, Klageerhebung bei Verweigerung sowie Auswertung übergebener Daten auf Lücken und Stornoreserven.
 
 # Provisionsabrechnung und Buchauszug nach § 87c HGB
 
@@ -109,7 +109,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 2. `abschlussprovision`
 
-**Frühere Beschreibung:** Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision.
+**Fokus:** Prüft den Provisionsanspruch des Abschlussvertreters nach §§ 87 und 87a HGB: Kausalität zwischen Vermittlungstätigkeit und Vertragsabschluss, Fälligkeit mit Ausführung durch den Unternehmer, Ansprüche bei vorzeitiger Vertragsauflösung sowie Abgrenzung von Abschluss- und Vermittlungsprovision.
 
 # Abschlussprovision des Abschlussvertreters nach §§ 87 und 87a HGB
 
@@ -189,7 +189,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 3. `abschlussvertreter`
 
-**Frühere Beschreibung:** Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis.
+**Fokus:** Klärt Rechtsstellung und Haftungsrahmen des Abschlussvertreters mit Abschlussvollmacht nach §§ 84 und 54 HGB: Vollmachtsumfang, Wirksamkeit abgeschlossener Verträge, Haftung bei Überschreitung der Vollmacht sowie Abgrenzung zum Vermittlungsvertreter ohne Abschlussbefugnis.
 
 # Rechtsstellung des Abschlussvertreters nach §§ 84 und 54 HGB
 
@@ -268,7 +268,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 4. `agb-kontrolle`
 
-**Frühere Beschreibung:** Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB.
+**Fokus:** Prüft AGB-Klauseln in Handelsvertreterverträgen auf Wirksamkeit nach §§ 305 ff. BGB und § 92c HGB: unangemessene Benachteiligung bei Provisionsregelungen, Ausgleichsausschlüssen, Wettbewerbsverboten sowie unzulässige Abweichungen vom zwingenden Handelsvertreterrecht nach §§ 84-92c HGB.
 
 # AGB-Kontrolle im Handelsvertretervertrag nach §§ 305 ff. BGB und § 92c HGB
 

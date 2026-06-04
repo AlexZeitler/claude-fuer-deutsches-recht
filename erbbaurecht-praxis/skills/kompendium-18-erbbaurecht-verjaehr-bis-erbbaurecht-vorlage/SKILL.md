@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-erbbaurecht-verjaehr-bis-erbbaurecht-vorlage
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (erbbaurecht-verjaehrung-verwirkung-duldung, erbbaurecht-vorlage-zustimmungsantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbbaurecht Verjaehrung Verwirkung Duldung, Erbbaurecht Vorlage Zustimmungsantrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - erbbaurecht-praxis
+# Arbeitsbereich - Erbbaurecht Verjaehrung Verwirkung Duldung, Erbbaurecht Vorlage Zustimmungsantrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbbaurecht-verjaehrung-verwirkung-duldung` | Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird. |
 | `erbbaurecht-vorlage-zustimmungsantrag` | Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbbaurecht-verjaehrung-verwirkung-duldung`
 
-**Frühere Beschreibung:** Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird.
+**Fokus:** Prüft, ob lange geduldete Nutzungen, verspätete Zinsforderungen oder alte Pflichtverletzungen noch durchsetzbar sind und welche Beweislage gebraucht wird.
 
 # Verjährung, Verwirkung und Duldung
 
@@ -61,7 +61,7 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 
 ## 2. `erbbaurecht-vorlage-zustimmungsantrag`
 
-**Frühere Beschreibung:** Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung.
+**Fokus:** Entwirft Antrag an Grundstückseigentümer für Veräußerung, Belastung oder bauliche Änderung.
 
 # Zustimmungsantrag
 

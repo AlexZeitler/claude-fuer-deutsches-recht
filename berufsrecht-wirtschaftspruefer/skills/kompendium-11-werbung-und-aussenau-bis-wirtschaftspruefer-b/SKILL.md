@@ -1,40 +1,36 @@
 ---
 name: kompendium-11-werbung-und-aussenau-bis-wirtschaftspruefer-b
-description: "berufsrecht-wirtschaftspruefer: Konsolidiertes Skill-Kompendium 11; bündelt 9 frühere Spezialskills (werbung-und-aussenauftritt, wirtschaftspruefer-aufbewahrung-pruefungsakte-kammerantwort-und, wirtschaftspruefer-aufbewahrung-pruefungsakte-organisationspfli, wirtschaftspruefer-auslandsmandat-und-ethics-code-kammerantwort, wirtschaftspruefer-auslandsmandat-und-ethics-code-organisations und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-wirtschaftspruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Werbung Und Aussenauftritt, Wirtschaftspruefer Aufbewahrung Pruefungsakte Kammerantwort Und, Wirtschaftspruefer Aufbewahrung Pruefungsakte Organisationspfli, Wirtschaftspruefer Auslandsmandat Und Ethics Code Kammerantwort und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - berufsrecht-wirtschaftspruefer
+# Arbeitsbereich - Werbung Und Aussenauftritt bis Wirtschaftspruefer Auslandsmandat Und Ethics Code Organisations
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `werbung-und-aussenauftritt` | Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `wirtschaftspruefer-aufbewahrung-pruefungsakte-kammerantwort-und` | Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-aufbewahrung-pruefungsakte-organisationspfli` | Wirtschaftsprüfer: aufbewahrung pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-auslandsmandat-und-ethics-code-kammerantwort` | Wirtschaftsprüfer: auslandsmandat und ethics code - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-auslandsmandat-und-ethics-code-organisations` | Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-auslandsmandat-und-ethics-code-rechtsprechun` | Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-bankabschluss-und-regulatorik-kammerantwort` | Wirtschaftsprüfer: bankabschluss und regulatorik - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-bankabschluss-und-regulatorik-organisationsp` | Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-berufsgesellschaft-zulassung-kammerantwort-u` | Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `werbung-und-aussenauftritt`
 
-**Frühere Beschreibung:** Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Werbung und Außenauftritt
 
@@ -84,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `wirtschaftspruefer-aufbewahrung-pruefungsakte-kammerantwort-und`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -127,7 +123,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `wirtschaftspruefer-aufbewahrung-pruefungsakte-organisationspfli`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: aufbewahrung pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: aufbewahrung pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: aufbewahrung pruefungsakte - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -170,7 +166,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `wirtschaftspruefer-auslandsmandat-und-ethics-code-kammerantwort`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: auslandsmandat und ethics code - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: auslandsmandat und ethics code - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -213,184 +209,12 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `wirtschaftspruefer-auslandsmandat-und-ethics-code-organisations`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
 ## Konkreter Berufsrechtskern: Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 - **Spezialgegenstand:** Wirtschaftsprüfer: auslandsmandat und ethics code - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 6. `wirtschaftspruefer-auslandsmandat-und-ethics-code-rechtsprechun`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Wirtschaftsprüfer: auslandsmandat und ethics code - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 7. `wirtschaftspruefer-bankabschluss-und-regulatorik-kammerantwort`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: bankabschluss und regulatorik - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: bankabschluss und regulatorik - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bankabschluss und regulatorik - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Wirtschaftsprüfer: bankabschluss und regulatorik - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 8. `wirtschaftspruefer-bankabschluss-und-regulatorik-organisationsp`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-- **Spezialgegenstand:** Wirtschaftsprüfer: bankabschluss und regulatorik - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 9. `wirtschaftspruefer-berufsgesellschaft-zulassung-kammerantwort-u`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Wirtschaftsprüfer: berufsgesellschaft zulassung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.

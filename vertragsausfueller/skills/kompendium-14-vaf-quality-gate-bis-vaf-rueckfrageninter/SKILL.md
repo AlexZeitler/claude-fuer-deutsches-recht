@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-vaf-quality-gate-bis-vaf-rueckfrageninter
-description: "vertragsausfueller: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (vaf-quality-gate, vaf-redline-qa, vaf-rueckfrageninterview) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsausfueller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - vertragsausfueller
+# Arbeitsbereich - Vaf Quality Gate, Vaf Redline Qa, Vaf Rueckfrageninterview
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vaf-quality-gate` | Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output. |
 | `vaf-redline-qa` | Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Prüfraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vaf-quality-gate`
 
-**Frühere Beschreibung:** Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output.
+**Fokus:** Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output.
 
 # Quality Gate — Vertragsausfueller
 
@@ -226,7 +226,7 @@ Empfehlung: Go / Go mit Warnungen / No-go
 
 ## 2. `vaf-redline-qa`
 
-**Frühere Beschreibung:** Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Prüfraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung.
+**Fokus:** Redline und Track-Changes-Fassung prüfen: Anwendungsfall Gegenentwurf oder überarbeitete Fassung liegt vor und soll auf Vollständigkeit versteckte Änderungen Formatbrüche und ungeklärte Klauselentscheidungen geprüft werden. §§ 145 ff. BGB Vertragsänderungen, §§ 305 ff. BGB AGB-Änderungskontrolle. Prüfraster Ausgangsfassung und überarbeitete Fassung identifiziert, alle Track-Changes-Status klar, materielle Änderungen gegen Freigaben geprüft. Output QA-Protokoll mit Änderungsübersicht und offenen Klauselentscheidungen. Abgrenzung zu Clean-Output und zu Klauselentscheidung.
 
 # Redline-QA
 
@@ -291,7 +291,7 @@ Bundle: bundle_047.json
 
 ## 3. `vaf-rueckfrageninterview`
 
-**Frühere Beschreibung:** Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter.
+**Fokus:** Rückfrageninterview für fehlende Vertragsdaten führen: Anwendungsfall Felder im Vertrag sind noch offen und Mandant muss verständnisfreundlich befragt werden. Klausel-Bibliothek, Vertragsmodule. Prüfraster offene Pflichtfelder nach Priorität sortieren, Freitext oder Tabellen-Eingabe anbieten, Platzhalter-Schnellversion bei Zeitdruck, Teilantworten aus vorhandenen Dokumenten verwerten. Output vollständig ausgefülltes Feldinventar oder Schnell-Entwurf mit markierten Platzhaltern. Abgrenzung zu Feldinventar für Vorbereitung und zu Kommandocenter.
 
 # Rückfrageninterview
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-insolvenzanfechtung-bis-kwg-erlaubnispflicht
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (insolvenzanfechtung-globalzession-deckung-bargeschaeft, konzentrationsrisiken-debitorenlimit-und-portfolio-covenants, kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Factoring 1 Abs 1a Satz 2 Nr 9 Kwg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - factoring-recht
+# Arbeitsbereich - Insolvenzanfechtung Globalzession Deckung Bargeschaeft, Konzentrationsrisiken Debitorenlimit Und Portfolio Covenants, Kwg Erlaubnispflicht Fa
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insolvenzanfechtung-globalzession-deckung-bargeschaeft` | Insolvenzanfechtung Globalzession Deckung Bargeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `konzentrationsrisiken-debitorenlimit-und-portfolio-covenants` | Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insolvenzanfechtung-globalzession-deckung-bargeschaeft`
 
-**Frühere Beschreibung:** Insolvenzanfechtung Globalzession Deckung Bargeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Insolvenzanfechtung Globalzession Deckung Bargeschäft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Insolvenzanfechtung Globalzession Deckung Bargeschäft
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `konzentrationsrisiken-debitorenlimit-und-portfolio-covenants`
 
-**Frühere Beschreibung:** Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Konzentrationsrisiken Debitorenlimit und Portfolio Covenants: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Konzentrationsrisiken Debitorenlimit und Portfolio Covenants
 
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `kwg-erlaubnispflicht-factoring-1-abs-1a-satz-2-nr-9-kwg`
 
-**Frühere Beschreibung:** KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** KWG Erlaubnispflicht Factoring § 1 Abs. 1a Satz 2 Nr. 9 KWG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # KWG-Erlaubnispflicht Factoring nach § 1 Abs. 1a Satz 2 Nr. 9 KWG
 

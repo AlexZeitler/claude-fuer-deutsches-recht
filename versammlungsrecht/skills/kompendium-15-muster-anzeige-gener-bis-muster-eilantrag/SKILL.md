@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-muster-anzeige-gener-bis-muster-eilantrag
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (muster-anzeige-generator, muster-eilantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Muster Anzeige Generator, Muster Eilantrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - versammlungsrecht
+# Arbeitsbereich - Muster Anzeige Generator, Muster Eilantrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `muster-anzeige-generator` | Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung. |
 | `muster-eilantrag` | Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `muster-anzeige-generator`
 
-**Frühere Beschreibung:** Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung.
+**Fokus:** Erstellt eine präzise Anzeige für Kundgebung, Mahnwache, Demonstrationszug, Fahrradaufzug oder Dauerversammlung.
 
 # Formular und Freitext in einem
 
@@ -69,7 +69,7 @@ Output: amtlich kompatible Anzeige plus schlanke E-Mail mit Bitte um Eingangsbes
 
 ## 2. `muster-eilantrag`
 
-**Frühere Beschreibung:** Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht.
+**Fokus:** Erstellt ein Grundgerüst für verwaltungsgerichtlichen Eilrechtsschutz im Versammlungsrecht.
 
 # Gerichtsfähig unter Zeitdruck
 

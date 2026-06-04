@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-vdg-043-energiepreis-bis-vdg-046-energiepreis
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (vdg-043-energiepreiserhoehung-anspruchsgruppen, vdg-044-energiepreiserhoehung-registertext-sch, vdg-045-energiepreiserhoehung-betroffenenformu, vdg-046-energiepreiserhoehung-beweisplan-erste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 043 Energiepreiserhoehung Anspruchsgruppen, Vdg 044 Energiepreiserhoehung Registertext Sch, Vdg 045 Energiepreiserhoehung Betroffenenformu, Vdg 046 Energiepreiserhoehung Beweisplan Erste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 043 Energiepreiserhoehung Anspruchsgruppen bis Vdg 046 Energiepreiserhoehung Beweisplan Erste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-043-energiepreiserhoehung-anspruchsgruppen` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-044-energiepreiserhoehung-registertext-sch` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Registertext schreiben. Registertext schreiben für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-043-energiepreiserhoehung-anspruchsgruppen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Anspruchsgruppen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-044-energiepreiserhoehung-registertext-sch`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Registertext schreiben. Registertext schreiben für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Registertext schreiben. Registertext schreiben für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Registertext Sch
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-045-energiepreiserhoehung-betroffenenformu`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Betroffenenformular bauen. Betroffenenformular bauen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Betroffenenformular bauen. Betroffenenformular bauen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Betroffenenformu
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-046-energiepreiserhoehung-beweisplan-erste`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Beweisplan erstellen. Beweisplan erstellen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Beweisplan erstellen. Beweisplan erstellen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Beweisplan Erste
 

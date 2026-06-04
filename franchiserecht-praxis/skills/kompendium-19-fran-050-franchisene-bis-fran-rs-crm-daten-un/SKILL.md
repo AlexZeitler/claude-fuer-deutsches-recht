@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-fran-050-franchisene-bis-fran-rs-crm-daten-un
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (fran-050-franchisenehmer-exit-plan, fran-051-qualitaetsgate-franchiseakte, fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - franchiserecht-praxis
+# Arbeitsbereich - Fran 050 Franchisenehmer Exit Plan, Fran 051 Qualitaetsgate Franchiseakte, Fran Rs Crm Daten Und Gemeinsame Verantwortlichkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-050-franchisenehmer-exit-plan` | Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen. |
 | `fran-051-qualitaetsgate-franchiseakte` | Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-050-franchisenehmer-exit-plan`
 
-**Frühere Beschreibung:** Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen.
+**Fokus:** Exit-Strategie für Franchisenehmer entwickeln: ordentliche und ausserordentliche Kündigung, Übertragung des Franchisebetriebs auf Dritten mit Franchisegeberzustimmung, Ausgleichsansprüche nach § 89b HGB analog und Nachfolge- oder Verkaufsoptionen.
 
 # Franchiserecht: Franchisenehmer-Exit-Plan
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-051-qualitaetsgate-franchiseakte`
 
-**Frühere Beschreibung:** Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen.
+**Fokus:** Qualitätsgate-Prüfung der vollständigen Franchiseakte: Vollständigkeit der Systemunterlagen, Kohärenz von Vertrag und Systemhandbuch, Schutzrechtebestand, offene Fristen und finale Plausibilitätsprüfung aller wesentlichen Franchise-Rechtspositionen.
 
 # Franchiserecht: Qualitätsgate – Franchiseakte
 
@@ -186,7 +186,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-rs-crm-daten-und-gemeinsame-verantwortlichkeit`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für CRM-Daten und gemeinsame Verantwortlichkeit: Zentrales CRM, Loyalty-Programme und Marketingdaten werden zwischen Franchisegeber und Nehmer auf Verantwortlichkeit und Bußgeldrisiko sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: CRM-Daten und gemeinsame Verantwortlichkeit
 

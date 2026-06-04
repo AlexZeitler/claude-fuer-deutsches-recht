@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-vc-092-founder-ask-r-bis-vc-096-esg-impact-ve
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (vc-092-founder-ask-response, vc-094-watchlist-und-wiedervorlage, vc-095-press-reputation-social-media, vc-096-esg-impact-venture) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 092 Founder Ask Response, Vc 094 Watchlist Und Wiedervorlage, Vc 095 Press Reputation Social Media, Vc 096 Esg Impact Venture; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - venture-capital-geber
+# Arbeitsbereich - Vc 092 Founder Ask Response bis Vc 096 Esg Impact Venture
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-092-founder-ask-response` | Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent. |
 | `vc-094-watchlist-und-wiedervorlage` | Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-092-founder-ask-response`
 
-**Frühere Beschreibung:** Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent.
+**Fokus:** Formuliert Antwort auf Gründerbitten: Bridge, Intro, Hiring, Kundenkontakt, PR, Krise, Follow-on, Board Consent.
 
 # Founder Ask Response
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-094-watchlist-und-wiedervorlage`
 
-**Frühere Beschreibung:** Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern.
+**Fokus:** Verwandelt interessante, aber unreife Deals in klare Beobachtungslogik mit Triggern.
 
 # Watchlist und Wiedervorlage
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-095-press-reputation-social-media`
 
-**Frühere Beschreibung:** Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit.
+**Fokus:** Prüft VC-Kommunikation, Portfolio-News, Krisenstatements, LinkedIn-Posts und Vertraulichkeit.
 
 # Presse, Reputation und Social Media
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-096-esg-impact-venture`
 
-**Frühere Beschreibung:** Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting.
+**Fokus:** Prüft Impact-Claims, Greenwashing, SFDR-Schnittstellen, KPIs, Mission Lock und Reporting.
 
 # ESG, Impact und Mission
 

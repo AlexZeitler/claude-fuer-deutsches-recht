@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-elterngeld-elterngel-bis-erwerbsminderungs-re
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (elterngeld-elterngeldstellen-beeg, em-rente-medizinische-feststellung, entschaedigung-sgb-xiv-opferleistungen, erstattung-zu-unrecht-50-sgb-x, erwerbsminderungs-rente-streit-sgb-vi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elterngeld Elterngeldstellen Beeg, Em Rente Medizinische Feststellung, Entschaedigung Sgb Xiv Opferleistungen, Erstattung Zu Unrecht 50 Sgb X und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Elterngeld Elterngeldstellen Beeg bis Erwerbsminderungs Rente Streit Sgb Vi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elterngeld-elterngeldstellen-beeg` | Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster. |
 | `em-rente-medizinische-feststellung` | Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elterngeld-elterngeldstellen-beeg`
 
-**Frühere Beschreibung:** Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster.
+**Fokus:** Elterngeld nach dem BEEG. Skill klaert die Voraussetzungen Hoehe (Basiselterngeld ElterngeldPlus Partnerschaftsbonus) Antrag bei der Elterngeldstelle Sondervorschriften fuer Selbststaendige und Mehrkindersituationen. Liefert Pruefraster.
 
 # Elterngeld Elterngeldstellen Beeg
 
@@ -85,7 +85,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `em-rente-medizinische-feststellung`
 
-**Frühere Beschreibung:** Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster.
+**Fokus:** Erwerbsminderungsrente medizinische Feststellung. Skill klaert die Voraussetzungen volle EM-Rente teilweise EM-Rente versicherungsrechtliche Voraussetzungen 5-Jahres-Wartezeit 3-Jahres-Belegungspflicht. Aktuelle Reform Anhebung des Zugangsfaktors. Liefert Pruefraster.
 
 # Em Rente Medizinische Feststellung
 
@@ -147,7 +147,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `entschaedigung-sgb-xiv-opferleistungen`
 
-**Frühere Beschreibung:** Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene.
+**Fokus:** Soziales Entschaedigungsrecht SGB XIV seit 2024. Opfer von Gewalttaten Anerkennung Entschaedigung Reha. Reform OEG/BVG. Praktischer Leitfaden für Betroffene.
 
 # Soziales Entschaedigungsrecht — SGB XIV
 
@@ -295,7 +295,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 
 ## 4. `erstattung-zu-unrecht-50-sgb-x`
 
-**Frühere Beschreibung:** Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine.
+**Fokus:** Erstattung zu Unrecht erbrachter Leistungen nach § 50 SGB X. Skill klaert wann der Buerger zurueckzahlen muss Voraussetzungen Hoehe Aufrechnung und Verhaeltnis zu Stundung oder Erlass. Liefert Verteidigungsbausteine.
 
 # Erstattung Zu Unrecht 50 Sgb X
 
@@ -342,7 +342,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Uebergangsregel
 
 ## 5. `erwerbsminderungs-rente-streit-sgb-vi`
 
-**Frühere Beschreibung:** EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV.
+**Fokus:** EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV.
 
 # Erwerbsminderungs-Rente — Streit mit der Rentenversicherung
 

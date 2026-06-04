@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-kv-020-buergergeld-r-bis-kv-023-md-gutachten
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (kv-020-buergergeld-rentner-und-krankenversicherungspflicht, kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung, kv-023-md-gutachten-angreifen-befundbericht-und-gegengutachten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten Angreifen Befundbericht Und Gegengutachten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 020 Buergergeld Rentner Und Krankenversicherungspflicht, Kv 022 Satzungsleistungen Bonusprogramm Und Rueckforderung, Kv 023 Md Gutachten A
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-020-buergergeld-rentner-und-krankenversicherungspflicht` | Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche. |
 | `kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung` | Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-020-buergergeld-rentner-und-krankenversicherungspflicht`
 
-**Frühere Beschreibung:** Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche.
+**Fokus:** Krankenversicherung bei Bürgergeld-Bezug (SGB II) und Rentnern: Pflichtversicherung, Beitragsübernahme, KVdR, Lückenfälle und Widersprüche.
 
 # Bürgergeld, Rentner und Krankenversicherungspflicht
 
@@ -110,7 +110,7 @@ Dieser Skill klärt die **Krankenversicherung von Bürgergeld-Beziehenden und Re
 
 ## 2. `kv-022-satzungsleistungen-bonusprogramm-und-rueckforderung`
 
-**Frühere Beschreibung:** Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse.
+**Fokus:** Freiwillige Kassenleistungen (Satzungsleistungen, §§ 11 und 194 SGB V), Bonusprogramme und Rückforderungsansprüche der Kasse.
 
 # Satzungsleistungen, Bonusprogramm und Rückforderung
 
@@ -194,7 +194,7 @@ Krankenkassen können freiwillige Leistungen anbieten, die über den gesetzliche
 
 ## 3. `kv-023-md-gutachten-angreifen-befundbericht-und-gegengutachten`
 
-**Frühere Beschreibung:** Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen.
+**Fokus:** Strategie zur Anfechtung von MDK/MD-Gutachten: Akteneinsicht, Qualitätsprüfung, Gegengutachten, prozessuale Sachverständigenfragen.
 
 # MD-Gutachten angreifen: Befundbericht und Gegengutachten
 

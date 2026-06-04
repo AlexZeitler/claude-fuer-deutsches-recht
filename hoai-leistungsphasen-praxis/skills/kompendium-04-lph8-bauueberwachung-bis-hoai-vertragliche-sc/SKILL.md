@@ -1,49 +1,36 @@
 ---
 name: kompendium-04-lph8-bauueberwachung-bis-hoai-vertragliche-sc
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 18 frühere Spezialskills (lph8-bauueberwachung-trockenbau-f30-f90, lph8-bauueberwachung-tunnel-spritzbeton-vortrieb, lph8-bauueberwachung-videoanalyse-tagesbaustelle, lph8-bauueberwachung-vob-c-din-checklisten, lph8-bauueberwachung-wasserwerk-rohrleitung und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lph8 Bauueberwachung Trockenbau F30 F90, Lph8 Bauueberwachung Tunnel Spritzbeton Vortrieb, Lph8 Bauueberwachung Videoanalyse Tagesbaustelle, Lph8 Bauueberwachung Vob C Din Checklisten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Lph8 Bauueberwachung Trockenbau F30 F90 bis Lph8 Bauueberwachung Wasserwerk Rohrleitung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lph8-bauueberwachung-trockenbau-f30-f90` | Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde. |
 | `lph8-bauueberwachung-tunnel-spritzbeton-vortrieb` | Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber. |
 | `lph8-bauueberwachung-videoanalyse-tagesbaustelle` | Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung. |
 | `lph8-bauueberwachung-vob-c-din-checklisten` | Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle. |
 | `lph8-bauueberwachung-wasserwerk-rohrleitung` | Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe. |
-| `lph8-bauueberwachung-windpark-fundament-turm` | Bauueberwachung HOAI LPH 8 fuer Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 fuer kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe. |
-| `hoai-altvertrag-mindestsatzstreit` | HOAI-Praxis: ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
-| `hoai-architektenvertrag-bgb-650p` | HOAI-Praxis: prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
-| `hoai-lph-01-vertrag-und-beauftragungsumfang` | HOAI LPH 1 Grundlagenermittlung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
-| `hoai-lph-02-vertrag-und-beauftragungsumfang` | HOAI LPH 2 Vorplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
-| `hoai-lph-03-vertrag-und-beauftragungsumfang` | HOAI LPH 3 Entwurfsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %. |
-| `hoai-lph-04-vertrag-und-beauftragungsumfang` | HOAI LPH 4 Genehmigungsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. |
-| `hoai-lph-05-vertrag-und-beauftragungsumfang` | HOAI LPH 5 Ausführungsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume. |
-| `hoai-lph-06-vertrag-und-beauftragungsumfang` | HOAI LPH 6 Vorbereitung der Vergabe: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. |
-| `hoai-lph-07-vertrag-und-beauftragungsumfang` | HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume. |
-| `hoai-lph-08-vertrag-und-beauftragungsumfang` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
-| `hoai-lph-09-vertrag-und-beauftragungsumfang` | HOAI LPH 9 Objektbetreuung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
-| `hoai-vertragliche-schnittstellen` | HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lph8-bauueberwachung-trockenbau-f30-f90`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Trockenbau-Brandschutzwaende und -decken F30 bis F90 — Kontrolle Gipskarton-Staenderwand nach DIBt-Zulassung und ETAG 003, Schottungspruefung Leitungsdurchfuehrungen, Fuge-Schaumabdichtung Brandschutzklasse, Beplankungslagen-Kontrolle Knauf oder Rigips Systeme, Verankerung und Abhaengungen nach DIN 18183 und Pruefprotokolle fuer Brandschutzsachverstaendige und Baubehoerde.
 
 # Bauueberwachung Trockenbau F30 und F90 Brandschutzwaende
 
@@ -126,7 +113,7 @@ Abnahmeprotokoll Brandschutzwand je Wandabschnitt mit BSV-Unterschrift. Abschott
 
 ## 2. `lph8-bauueberwachung-tunnel-spritzbeton-vortrieb`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Tunnelbauwerke im Spritzbetonvortrieb — Vortriebsklassen und Spritzbeton-Gueteklassen nach DIN EN 14487 und ZTV-ING, Konvergenzmessprogramm und Geologie-Prognose, Auflockerungszone nach NATM, Sicherungsmassnahmen Ankernagel und Stahleinbau sowie Bewetterungs- und Sicherheitspruefung. Praxisnahe Koordination mit SAP PM und RIB iTWO fuer Bahninfrastrukturbetreiber.
 
 # Bauueberwachung Tunnel Spritzbeton Vortrieb (LPH 8)
 
@@ -207,7 +194,7 @@ Bewetterungs-Messprotokoll CO/NOx. Abnahmeprotokoll Tunnel nach VOB/B und ZTV-IN
 
 ## 3. `lph8-bauueberwachung-videoanalyse-tagesbaustelle`
 
-**Frühere Beschreibung:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Videoanalyse der Tagesbaustelle mit Webcams Mobotix und Zeitrafferkameras GoPro HERO 11 und 360-Grad-Aufnahmen Matterport und Vuze XR, Bauzeitenanalyse und Fortschrittsmessung. Umfasst Integration in PlanRadar, BIM360 und SAP PS zur Baufortschrittsdokumentation, Konflikt-Identifikation auf Baustelle und Erstellung von Tagesberichten mittels KI-gestuetzter Videoauswertung.
 
 # Videoanalyse Tagesbaustelle in der Bauueberwachung LPH 8
 
@@ -290,7 +277,7 @@ Taeglich-Zeitraffer-Video 5 Minuten als MP4 mit Datum und Wetter-Overlay. Matter
 
 ## 4. `lph8-bauueberwachung-vob-c-din-checklisten`
 
-**Frühere Beschreibung:** Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle.
+**Fokus:** Methodikskill HOAI LPH 8 — Systematische VOB/C-DIN-Checklisten fuer die Bauueberwachung. Umfasst Pruefrubriken nach DIN 18299 bis 18459, gewerkeweise Abnahmechecklisten fuer Beton-, Mauerwerk-, Estrich-, Fassaden-, TGA- und Elektroarbeiten, digitale Checklisten-Workflows in Dalux Field und PlanRadar, Verknuepfung mit BIM360 und SAP PM sowie QR-Code-basierte Pruefpunkte fuer mobile Nutzung auf der Baustelle.
 
 # VOB/C-DIN-Checklisten in der Bauueberwachung LPH 8
 
@@ -373,7 +360,7 @@ Gewerkeweise VOB/C-Abnahmechecklisten vollstaendig mit Pruefergebnis und Foto. S
 
 ## 5. `lph8-bauueberwachung-wasserwerk-rohrleitung`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Wasserwerksrohrleitungen und Trinkwasserversorgungsanlagen — Kontrolle Rohrleitungsverlegung DN 80 bis DN 600 nach DIN EN 805 und DVGW W 400-2, Druckpruefung und Desinfektion nach DVGW W 291, Schweissnahtpruefung PE-HD nach DVGW GW 335 sowie Grabenabsicherung nach DIN 4124. Umfasst Fotoprotokoll, Aufmass und SAP-PM-Meldungen fuer Wasserversorger mit GIS-As-Built-Abgabe.
 
 # Bauueberwachung Wasserwerk und Trinkwasserrohrleitung
 
@@ -453,509 +440,3 @@ Einbauprotokoll Rohrleitung mit Schweiss- und Verbindungsprotokollen. Druckpruef
 - [§ 650q BGB](https://www.gesetze-im-internet.de/bgb/__650q.html)
 - [BGB § 634 Maengelansprueche](https://www.gesetze-im-internet.de/bgb/__634.html)
 - [DIN 4124 Baugruben](https://www.gesetze-im-internet.de/vob/)
-
-## 6. `lph8-bauueberwachung-windpark-fundament-turm`
-
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Windpark-Fundamente und Turmbauten — Ueberwachung Pfahlgruendungen und Flachgruendungen nach DIN EN 1997-1 EC7, Stahlbeton C30/37 XS1 fuer kuestennahe Standorte, Ringfundamente nach DIBt-Zulassung, Ankerkorb-Einmessung mit Tachymeter, Ankerschrauben-Drehmomentkontrolle M48 Guete 10.9, Setzungsmonitoring sowie VOB/C-Abnahme bei Windenergieanlagen bis 200 m Nabenhoehe.
-
-# Bauueberwachung Windpark Fundament und Turmschaft
-
-Windenergieanlagen-Fundamente zaehlen zu den geotechnisch und statisch anspruchsvollsten Bauwerken im Ingenieurbau. Die Bauueberwachung in LPH 8 sichert die anforderungsgerechte Ausfuehrung von Ringfundamenten und Pfahlgruendungen sowie die praezise Positionierung des Ankerkorbs. Fehler in dieser Phase fuehren zu Garantieverlust und betrieblichen Ausfaellen ueber die 20-jaehrige Anlagenlebensdauer.
-
-## Bauwerk und Auftrag
-
-- Windpark Schleswig-Holstein Kuestenlage: 12 WEA Typ Vestas V150-4.5, Nabenhoehe 166 m, Ringfundament Durchmesser 21 m, Beton C30/37 XF4, Bausumme Fundamente 8 Mio. EUR
-- Windpark Thueringen Mittelgebirge: 6 WEA ENERCON E-138, Pfahlgruendung 24 Ortbetonpfaehle je Anlage d = 900 mm Laenge 18 m wegen Weichschichteinlagen
-- Repowering Windpark Sachsen-Anhalt: Abbruch 3 Altanlagen, Ertuechtigung bestehender Fundamente nach Tragfaehigkeitsgutachten EC7, Bausumme 3.2 Mio. EUR
-
-## Erste Schritte auf der Baustelle
-
-1. Sichtpruefung Erdaushub Gruendungssohle: Bodenaustausch bei weichen Schichten dokumentieren, Sohldruckvergleich mit Baugrundgutachten GEO-Klasse 3 nach EC7 Abschnitt 2.5
-2. Einmesskontrolle Ankerkorb: Achse und Hoehe mit Tachymeter, Toleranz Mittelachse +-5 mm, Hoehe Ankerbolzen-Oberkante +-2 mm gegenueber Planvorgabe
-3. Bewehrungsabnahme vor Betonage: Ringgurt, Radialbewehrung, Buegelabstaende nach Plan, Betondeckung Abstandhalter 50 mm Fundamentunterseite
-4. Frischbetonkontrolle: Konsistenz F3, Temperatur 5-30 degC, Verdichtungsprotokoll Innenruettler je Lage max. 500 mm Schichtdicke
-5. Ankerbolzen-Anzugsdrehmoment: Drehmomentkontrolle nach Montageanweisung Turm-Hersteller, M48 Guete 10.9 typisch 4.750 Nm, Protokollierung 100 Prozent der Schrauben
-6. Setzungsmonitoring: Einbau Setzungspegel an 4 Messpunkten Fundament-Oberkante, monatliche Messung erste 12 Monate, Auswertung gegen Prognose Baugrundgutachten
-
-## Normen und Rechtsrahmen
-
-- § 650p BGB, § 650q BGB: Ingenieurvertrag Windpark, Haftung fuer geotechnische Planungsfehler
-- HOAI 2021 § 34 Anlage 10 LPH 8: Grundleistungen Bauueberwachung Ingenieurbauwerke, Sonderleistungen Geotechnik-Monitoring
-- VOB/C DIN 18301 Bohrarbeiten und DIN 18305 Wasserhaltungsarbeiten fuer Pfahlbohrung
-- DIN EN 1997-1 Eurocode 7 Geotechnik: GEO-Klasse 3, Pfahltragfaehigkeit, Setzungsnachweis
-- DIN EN 206:2021-06 und DIN 1045-2:2023-08: Beton C30/37 XF4 fuer Froststress Windpark-Exposition
-- DIBt-Zulassung des Herstellers fuer Turm-Fundament-Verbindung Ankerkorb und Bolzengarnitur
-
-## Prueferaster und Kontrollpunkte
-
-1. Pfahlherstellung: Bohrdurchmesser und Tiefe nach Bohrdatenprotokoll, Betoneinbau mit Kontraktorrohr, kein freier Fall bei Wasser im Bohrloch
-2. Ankerkorb-Geometrie: Mittelpunkt-Abweichung aller Ankerbolzen-Teilkreise kleiner 2 mm, Neigung kleiner 0.5 Promille nach Einschalplan
-3. Betonierprotokoll: Einbaugeschwindigkeit max. 1 m Steighoehe je Stunde bei Ringfundament, Kerntemperatur-Logging bei Bauteildicke groesser 1 m
-4. Rissbreitenkontrolle nach Ausschalen: W1-Rissbreite kleiner 0.3 mm nach DIN EN 1992-1-1 Abschnitt 7.3, Kartierung Rissbild
-5. Ankerschrauben-Drehmomentkontrolle: 100 Prozent aller M48-Schrauben mit kalibriertem Drehmomentschluessel, Zeitpunkte 72 h und 168 h nach Betonage
-6. Abdichtung Fundamentkopf: EPDM-Manschette ueber Oberkante, Stossnaehte versetzt, Nahtpruefung Vakuumbox-Test
-
-## Foto-, Video- und Dokumentenanalyse
-
-- Drohnenbefliegung DJI Matrice 300 RTK Zenmuse P1: Photogrammetrie Fundamentgrube nach Aushub, Orthofoto 1 cm/px, Vergleich mit geologischem Querschnitt
-- Zeitrafferaufnahme Betonage Ringfundament: GoPro HERO11 auf Stativ 1-Minuten-Intervall, Dokumentation Betonfluss und Verdichtung
-- Stahllieferscheine: Werksbescheinigung 3.1 nach EN 10204 fuer Ankerbolzen Guete 10.9 und Stahl S355 fuer Ankerkorbkonstruktion
-- Bohrprotokoll und Schichtenverzeichnis: DIN 4022 je Bohrung, Abgleich mit Baugrundgutachten Schichtgrenzen, Foto Bohrkern
-- PlanRadar Fotodokumentation: Jeder Mangel mit 3 Fotos Ueberblick-Detail-Kontext, GPS-Tag, Zeitstempel ISO 8601
-
-## Meldungserstellung im ERP / SAP
-
-- SAP PM Meldungsart M1 Instandhaltungsanforderung planmaessige Pruefungen Ankerschrauben: Equipment-Nr Anlage-ID z.B. WEA-07-NF, Pruefplan PP-WIND-0001
-- SAP PS Projekt WP-XXX: Netzplan FUND-010 Erdaushub, FUND-020 Bewehrung, FUND-030 Betonage, FUND-040 Ankerkorb, FUND-050 Setzungsmonitoring
-- RIB iTWO Qualitaetsmanagement: Pruefplan Beton-Guetepruefung, automatische Eskalation bei Unterschreitung C30/37, Freigabe Bauleiter erforderlich
-- Nevaris Bautagebuch-Modul: Import Wetter-API DWD, automatische Eintragung Temperatur und Niederschlag, digitale Unterschrift Bauleiter
-- Workflow: Ankerkorb ausserhalb Toleranz -> Meldung PLANI-001 -> Tragwerksplaner Stellungnahme 24 h -> Massnahmenplan -> Umsetzung -> Freigabe
-
-## Typische Fallstricke
-
-- Ankerkorb-Versatz durch Betonierdruckstoss: Ungesicherte Schalung verursacht Lageveraenderung, Nachmessen erst nach Ausschalen zu spaet
-- Massenbeton-Erwaermung Ringfundament: Temperaturdifferenz Kern-Rand groesser 20 K erzeugt Zwangsrisse, Kuehlkonzept pflichtmaessig
-- Veraenderte Setzungsdynamik nach Drainageeinbau: Dränagen um Fundament beschleunigen Konsolidierung, Monitoring-Auswertung pflichtmaessig
-- Fehlende DIBt-Pruefung vor Betonage: Ankerkorb-Einbauprotokoll fehlt in Zulassungsunterlagen, Genehmigungsversagung Inbetriebnahme
-
-## Output
-
-Fundamentabnahmeprotokoll mit Bewehrungsabnahme-Bescheinigung, Frischbetonprotokoll und Tachymeter-Einmessprotokoll Ankerkorb. Drehmomenten-Pruefprotokoll Ankerschrauben. Bautagebuch je Bauphase. Foto-Dokumentation in PlanRadar und BIM360. Setzungsmonitoring-Bericht nach 12 Monaten. SAP-PS-Projektabschluss mit Kostenauswertung.
-
-## Hinweise zur Qualitaetssicherung
-
-- Alle Abnahmeprotokolle muessen vom Bauueberwacher und dem ausfuehrenden Unternehmen unterschrieben sein
-- Fristen nach VOB/B § 13 Abs. 4: Maengelansprueche Bauwerk 4 Jahre, Gesamtwerk nach BGB § 634a 5 Jahre
-- Bauwerksbuch nach HOAI Anlage 10 LPH 9 wird durch Bautagebuecher LPH 8 vorbereitet
-
-## Quellen
-
-- [HOAI 2021 § 34 Anlage 10](https://www.gesetze-im-internet.de/hoai_2021/__34.html)
-- [§ 650p BGB Architektenvertrag](https://www.gesetze-im-internet.de/bgb/__650p.html)
-- [§ 650q BGB Ingenieurvertrag](https://www.gesetze-im-internet.de/bgb/__650q.html)
-- [VOB Vergabe und Vertragsordnung](https://www.gesetze-im-internet.de/vob/)
-- [BGB § 634 Maengelansprueche Werkvertrag](https://www.gesetze-im-internet.de/bgb/__634.html)
-- [DIN EN 1997-1 Geotechnik Eurocode 7](https://www.gesetze-im-internet.de/vob/)
-
-## 7. `hoai-altvertrag-mindestsatzstreit`
-
-**Frühere Beschreibung:** HOAI-Praxis: ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren.
-
-# HOAI Querschnitt: Ordnet altverträge vor 2021 und mindestsatz-/eugh-/bgh-risiken
-
-## Einsatz
-
-Dieser Querschnitts-Skill bearbeitet **ordnet Altverträge vor 2021 und Mindestsatz-/EuGH-/BGH-Risiken** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
-
-## Arbeitsweise
-
-1. Klär Rolle, Projektart, Leistungsbild, beauftragte LPH, Vertrag, Honorarvereinbarung und aktuellen Konflikt.
-2. Ordne die Unterlagen nach LPH, Planstand, Freigabe, Kostenstand, Terminstand und Beweiswert.
-3. Trenne HOAI-Grundleistung, besondere Leistung, Bauvertragsrecht, Vergabe, öffentliches Recht und Haftung.
-4. Erzeuge ein knappes, anschlussfähiges Arbeitsprodukt für Bauherr, Planer, Bauunternehmen, Anwalt oder Sachverständigen.
-
-## Ergebnis
-
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
-
-## Quellen- und Qualitätsregeln
-
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
-
-## 8. `hoai-architektenvertrag-bgb-650p`
-
-**Frühere Beschreibung:** HOAI-Praxis: prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren.
-
-# HOAI Querschnitt: Prüft planungsgrundlage
-
-## Einsatz
-
-Dieser Querschnitts-Skill bearbeitet **prüft Planungsgrundlage, Ziele, Kosteneinschätzung und Vertragspflichten** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
-
-## Arbeitsweise
-
-1. Klär Rolle, Projektart, Leistungsbild, beauftragte LPH, Vertrag, Honorarvereinbarung und aktuellen Konflikt.
-2. Ordne die Unterlagen nach LPH, Planstand, Freigabe, Kostenstand, Terminstand und Beweiswert.
-3. Trenne HOAI-Grundleistung, besondere Leistung, Bauvertragsrecht, Vergabe, öffentliches Recht und Haftung.
-4. Erzeuge ein knappes, anschlussfähiges Arbeitsprodukt für Bauherr, Planer, Bauunternehmen, Anwalt oder Sachverständigen.
-
-## Ergebnis
-
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
-
-## Quellen- und Qualitätsregeln
-
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.
-
-## 9. `hoai-lph-01-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
-
-# LPH 1 Grundlagenermittlung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren. Bewertungsanker für Gebäude/Innenräume: 2 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-1-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-1-Zweck: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-1-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 1
-
-- Phase: Grundlagenermittlung
-- Praktischer Kern: Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren
-- Bewertungsanker Gebäude/Innenräume: 2 %
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 10. `hoai-lph-02-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
-
-# LPH 2 Vorplanung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage. Bewertungsanker für Gebäude/Innenräume: 7 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-2-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-2-Zweck: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-2-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 2
-
-- Phase: Vorplanung
-- Praktischer Kern: Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage
-- Bewertungsanker Gebäude/Innenräume: 7 %
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 11. `hoai-lph-03-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
-
-# LPH 3 Entwurfsplanung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung. Bewertungsanker für Gebäude/Innenräume: 15 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-3-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-3-Zweck: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-3-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 3
-
-- Phase: Entwurfsplanung
-- Praktischer Kern: stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung
-- Bewertungsanker Gebäude/Innenräume: 15 %
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 12. `hoai-lph-04-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
-
-# LPH 4 Genehmigungsplanung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik. Bewertungsanker für Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-4-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-4-Zweck: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-4-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 4
-
-- Phase: Genehmigungsplanung
-- Praktischer Kern: öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik
-- Bewertungsanker Gebäude/Innenräume: 3 % Gebäude / 2 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 13. `hoai-lph-05-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
-
-# LPH 5 Ausführungsplanung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung. Bewertungsanker für Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-5-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-5-Zweck: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-5-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 5
-
-- Phase: Ausführungsplanung
-- Praktischer Kern: durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung
-- Bewertungsanker Gebäude/Innenräume: 25 % Gebäude / 30 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 14. `hoai-lph-06-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
-
-# LPH 6 Vorbereitung der Vergabe: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur. Bewertungsanker für Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-6-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-6-Zweck: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-6-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 6
-
-- Phase: Vorbereitung der Vergabe
-- Praktischer Kern: Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur
-- Bewertungsanker Gebäude/Innenräume: 10 % Gebäude / 7 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 15. `hoai-lph-07-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
-
-# LPH 7 Mitwirkung bei der Vergabe: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen. Bewertungsanker für Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-7-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-7-Zweck: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-7-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 7
-
-- Phase: Mitwirkung bei der Vergabe
-- Praktischer Kern: Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen
-- Bewertungsanker Gebäude/Innenräume: 4 % Gebäude / 3 % Innenräume
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 16. `hoai-lph-08-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
-
-# LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachung und Dokumentation)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation. Bewertungsanker für Gebäude/Innenräume: 32 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-8-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-8-Zweck: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-8-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 8
-
-- Phase: Objektüberwachung - Bauüberwachung und Dokumentation
-- Praktischer Kern: Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation
-- Bewertungsanker Gebäude/Innenräume: 32 %
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 17. `hoai-lph-09-vertrag-und-beauftragungsumfang`
-
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
-
-# LPH 9 Objektbetreuung: Ordnet vertrag
-
-## Einsatz
-
-Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er prüft ordnet Vertrag, Stufenbeauftragung, Leistungsbild und Kündigungsrisiken im Kontext dieser Phase: Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung. Bewertungsanker für Gebäude/Innenräume: 2 %.
-
-## Arbeitsweise
-
-1. Nimm zuerst nur den LPH-9-Stand auf: vorhandene Pläne, Protokolle, Kosten, Freigaben, offene Entscheidungen und Beteiligte.
-2. Vergleiche die Unterlagen mit dem typischen LPH-9-Zweck: Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung.
-3. Markiere, was Grundleistung, Besondere Leistung, Änderungswunsch, Mitwirkung des Auftraggebers oder Schnittstellenproblem ist.
-4. Erzeuge ein Ergebnis, das die nächste Projektentscheidung vorbereitet und zugleich beweisbar dokumentiert.
-
-## Ergebnis
-
-- LPH-9-Prüfmatrix
-- fehlende Unterlagen und offene Entscheidungen
-- Honorar-/Nachtragsnotiz
-- kurzer Textbaustein für Bauherr, Planer, Unternehmer oder Anwalt
-
-## Quellen- und Qualitätsregeln
-
-- HOAI § 34 und Anlage 10 als Primäranker verwenden; andere Leistungsbilder gesondert prüfen.
-- BGB §§ 650p bis 650t und Bauvertragsrecht nur dort einbeziehen, wo der Sachverhalt sie auslöst.
-- Keine Rechtsprechung aus Modellwissen zitieren; nur verifizierte Entscheidungen mit Gericht, Datum, Aktenzeichen und freiem Link.
-
-## Besonderer Blick in LPH 9
-
-- Phase: Objektbetreuung
-- Praktischer Kern: Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung
-- Bewertungsanker Gebäude/Innenräume: 2 %
-- Warnung: Nicht automatisch auf andere HOAI-Leistungsbilder übertragen; erst Leistungsbild und Anlage live bestimmen.
-
-## 18. `hoai-vertragliche-schnittstellen`
-
-**Frühere Beschreibung:** HOAI-Praxis: prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren.
-
-# HOAI Querschnitt: Prüft architekt
-
-## Einsatz
-
-Dieser Querschnitts-Skill bearbeitet **prüft Architekt, Fachplaner, Projektsteuerer, Bauleiter und GU/GÜ** über alle Leistungsphasen hinweg. Er hält die Projektlogik zusammen, bevor einzelne LPH-Spezialskills vertieft werden.
-
-## Arbeitsweise
-
-1. Klär Rolle, Projektart, Leistungsbild, beauftragte LPH, Vertrag, Honorarvereinbarung und aktuellen Konflikt.
-2. Ordne die Unterlagen nach LPH, Planstand, Freigabe, Kostenstand, Terminstand und Beweiswert.
-3. Trenne HOAI-Grundleistung, besondere Leistung, Bauvertragsrecht, Vergabe, öffentliches Recht und Haftung.
-4. Erzeuge ein knappes, anschlussfähiges Arbeitsprodukt für Bauherr, Planer, Bauunternehmen, Anwalt oder Sachverständigen.
-
-## Ergebnis
-
-- LPH-/Vertragsmatrix
-- Risikoregister
-- konkreter Text- oder Tabellenbaustein
-- nächste Prüfschritte
-
-## Quellen- und Qualitätsregeln
-
-- HOAI-Text, insbesondere § 34 und Anlage 10, live gegen Gesetze im Internet prüfen.
-- BGB §§ 650p bis 650t bei Architekten-/Ingenieurverträgen berücksichtigen.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freiem Fundlink; keine Blindzitate.

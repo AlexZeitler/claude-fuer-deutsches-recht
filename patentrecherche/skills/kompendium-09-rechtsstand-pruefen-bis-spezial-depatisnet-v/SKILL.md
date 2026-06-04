@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-rechtsstand-pruefen-bis-spezial-depatisnet-v
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (rechtsstand-pruefen, rueckfragen-mandant, spezial-depatisnet-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsstand Pruefen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - patentrecherche
+# Arbeitsbereich - Rechtsstand Pruefen, Rueckfragen Mandant, Depatisnet Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsstand-pruefen` | Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren. |
 | `rueckfragen-mandant` | Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Lösungsbeitrag der Erfindung gegenüber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veröffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rückfragen als Brief oder als Frageliste die in eine Mandantenrückfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsstand-pruefen`
 
-**Frühere Beschreibung:** Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren.
+**Fokus:** Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren.
 
 # rechtsstand-prüfen
 
@@ -155,7 +155,7 @@ Bevor der Rechtsstand geprueft wird, klaere:
 
 ## 2. `rueckfragen-mandant`
 
-**Frühere Beschreibung:** Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Lösungsbeitrag der Erfindung gegenüber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veröffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rückfragen als Brief oder als Frageliste die in eine Mandantenrückfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation.
+**Fokus:** Generiert Rückfragen an den Mandanten wenn das vorgelegte Material für eine sinnvolle Recherche nicht ausreicht oder Abgrenzungsfragen offen sind. Pflichtfragen: Was ist der wesentliche Lösungsbeitrag der Erfindung gegenüber dem Stand der Technik den der Mandant kennt; Welcher Anspruch ist der wichtigste; Welcher Markt und welche Zielstaaten; Gibt es eigene fruehere Veröffentlichungen Anmeldungen Vortraege Messeauftritte (Eigenstand der Technik); Gibt es Konkurrenten die das Plugin in den Watch nehmen soll; Welcher Recherchezweck. Formuliert die Rückfragen als Brief oder als Frageliste die in eine Mandantenrückfrage uebernommen werden kann. Disclaimer keine Rechtsberatung Patentanwaeltin verantwortet die Mandantenkommunikation.
 
 # rückfragen-mandant
 
@@ -295,7 +295,7 @@ Bevor die Rueckfrageliste erstellt wird, klaere:
 
 ## 3. `spezial-depatisnet-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Depatisnet: Verhandlung, Vergleich und Eskalation im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Depatisnet: Verhandlung, Vergleich und Eskalation im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Depatisnet: Verhandlung, Vergleich und Eskalation
 

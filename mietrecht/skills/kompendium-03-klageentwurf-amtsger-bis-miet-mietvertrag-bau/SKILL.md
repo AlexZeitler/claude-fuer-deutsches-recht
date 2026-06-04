@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-klageentwurf-amtsger-bis-miet-mietvertrag-bau
-description: "mietrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (klageentwurf-amtsgericht, miet-gewerbemiete-vertragsklauseln-spezial, miet-mietvertrag-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageentwurf Amtsgericht, Miet Gewerbemiete Vertragsklauseln Spezial, Miet Mietvertrag Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - mietrecht
+# Arbeitsbereich - Klageentwurf Amtsgericht, Miet Gewerbemiete Vertragsklauseln Spezial, Miet Mietvertrag Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageentwurf-amtsgericht` | Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach. |
 | `miet-gewerbemiete-vertragsklauseln-spezial` | Spezialfall Gewerbemiete: Wertsicherungsklauseln, Konkurrenzschutz, Schriftform § 550 BGB, Doppelschriftformklausel. Pruefraster fuer Vermieter und Mieter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageentwurf-amtsgericht`
 
-**Frühere Beschreibung:** Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
+**Fokus:** Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG zehntausend Euro ab 01.01.2026 durch das Gesetz zur Stärkung der Amtsgerichte in Zivilsachen; davor fünftausend Euro. Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
 
 # Klageentwurf zum Amtsgericht (Mietsache)
 
@@ -132,7 +132,7 @@ Audit durchgefuehrt am 27.05.2026. Drei halluzinierte Aktenzeichen im Abschnitt 
 
 ## 2. `miet-gewerbemiete-vertragsklauseln-spezial`
 
-**Frühere Beschreibung:** Spezialfall Gewerbemiete: Wertsicherungsklauseln, Konkurrenzschutz, Schriftform § 550 BGB, Doppelschriftformklausel. Pruefraster fuer Vermieter und Mieter.
+**Fokus:** Spezialfall Gewerbemiete: Wertsicherungsklauseln, Konkurrenzschutz, Schriftform § 550 BGB, Doppelschriftformklausel. Pruefraster fuer Vermieter und Mieter.
 
 # Miet: Gewerbemiete-Klauseln
 
@@ -194,7 +194,7 @@ Dieser Skill gehoert zum Plugin `mietrecht`. Er ergaenzt die uebrigen Skills des
 
 ## 3. `miet-mietvertrag-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Wohnraum-Mietvertrag: Schoenheitsreparaturen, Kaution, Kuendigung, Mieterhoehung, Untervermietung. Pruefraster fuer Vermieter und Mieter.
+**Fokus:** Bauleiter Wohnraum-Mietvertrag: Schoenheitsreparaturen, Kaution, Kuendigung, Mieterhoehung, Untervermietung. Pruefraster fuer Vermieter und Mieter.
 
 # Miet: Mietvertrag Bauleiter
 

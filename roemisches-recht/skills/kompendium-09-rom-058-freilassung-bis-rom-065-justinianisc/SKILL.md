@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-rom-058-freilassung-bis-rom-065-justinianisc
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 09; bündelt 8 frühere Spezialskills (rom-058-freilassung-und-freiheitsstatus-historisch-kritisch, rom-059-sklaverei-rechtshistorisch-kritisch, rom-060-juristen-gaius, rom-061-juristen-ulpian, rom-062-juristen-paulus und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch, Rom 059 Sklaverei Rechtshistorisch Kritisch, Rom 060 Juristen Gaius, Rom 061 Juristen Ulpian und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - roemisches-recht
+# Arbeitsbereich - Rom 058 Freilassung Und Freiheitsstatus Historisch Kritisch bis Rom 065 Justinianische Kompilation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-058-freilassung-und-freiheitsstatus-historisch-kritisch` | Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana. |
 | `rom-059-sklaverei-rechtshistorisch-kritisch` | Römisches Recht: Sklaverei (servitus) rechtshistorisch-kritisch - rechtliche Stellung des Sklaven nach D. 1.5.4, Gaius Inst. 1.9, Funktionen (Handeln für den Herrn), Quellen der Sklaverei und historisch-ethische Einordnung. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-058-freilassung-und-freiheitsstatus-historisch-kritisch`
 
-**Frühere Beschreibung:** Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana.
+**Fokus:** Römisches Recht: Freilassung (manumissio) nach Gaius Inst. 1.17-41 - manumissio vindicta, censu, testamento, Rechtsstatus der Freigelassenen (libertini), Patronatsverhältnis und lex Iunia Norbana.
 
 # Freilassung (manumissio) und Freiheitsstatus - historisch-kritisch
 
@@ -87,7 +87,7 @@ Gaius Inst. 1.17-41; D. 40; D. 38.1 (Mommsen-Krüger). Kaser RP I. Wiedemann.
 
 ## 2. `rom-059-sklaverei-rechtshistorisch-kritisch`
 
-**Frühere Beschreibung:** Römisches Recht: Sklaverei (servitus) rechtshistorisch-kritisch - rechtliche Stellung des Sklaven nach D. 1.5.4, Gaius Inst. 1.9, Funktionen (Handeln für den Herrn), Quellen der Sklaverei und historisch-ethische Einordnung.
+**Fokus:** Römisches Recht: Sklaverei (servitus) rechtshistorisch-kritisch - rechtliche Stellung des Sklaven nach D. 1.5.4, Gaius Inst. 1.9, Funktionen (Handeln für den Herrn), Quellen der Sklaverei und historisch-ethische Einordnung.
 
 # Sklaverei im römischen Recht - rechtshistorisch-kritisch
 
@@ -142,7 +142,7 @@ D. 1.5; D. 15 (Mommsen-Krüger). Gaius Inst. 1. Watson Roman Slave Law. Wiedeman
 
 ## 3. `rom-060-juristen-gaius`
 
-**Frühere Beschreibung:** Römisches Recht: Gaius (um 110-180 n.Chr.) - Institutiones als einziges vollständig erhaltenes klassisches Rechtslehrbuch, Verona-Palimpsest (1816 wiederentdeckt), Gaius und die Provinzjurisprudenz.
+**Fokus:** Römisches Recht: Gaius (um 110-180 n.Chr.) - Institutiones als einziges vollständig erhaltenes klassisches Rechtslehrbuch, Verona-Palimpsest (1816 wiederentdeckt), Gaius und die Provinzjurisprudenz.
 
 # Jurist: Gaius
 
@@ -196,7 +196,7 @@ Gaius Inst. (Mommsen-Krüger, archive.org). Studemund Apographum (archive.org). 
 
 ## 4. `rom-061-juristen-ulpian`
 
-**Frühere Beschreibung:** Römisches Recht: Ulpian (gest. 223 n.Chr.) - produktivster klassischer Jurist, präfectus praetorio, Werke (Ad edictum, Ad Sabinum), ca. 40% der Digesten stammen aus Ulpian nach Lenel.
+**Fokus:** Römisches Recht: Ulpian (gest. 223 n.Chr.) - produktivster klassischer Jurist, präfectus praetorio, Werke (Ad edictum, Ad Sabinum), ca. 40% der Digesten stammen aus Ulpian nach Lenel.
 
 # Jurist: Ulpian (Domitius Ulpianus)
 
@@ -250,7 +250,7 @@ Lenel Palingenesia II (archive.org). D. 1.1 (Mommsen-Krüger). Honoré Ulpian (2
 
 ## 5. `rom-062-juristen-paulus`
 
-**Frühere Beschreibung:** Römisches Recht: Iulius Paulus (um 170-230 n.Chr.) - zweitproduktivster Klassiker, Sententiae (Vulgarrecht), Ad edictum, ca. 17% der Digesten, Quellen und historisch-kritische Einordnung.
+**Fokus:** Römisches Recht: Iulius Paulus (um 170-230 n.Chr.) - zweitproduktivster Klassiker, Sententiae (Vulgarrecht), Ad edictum, ca. 17% der Digesten, Quellen und historisch-kritische Einordnung.
 
 # Jurist: Iulius Paulus
 
@@ -304,7 +304,7 @@ Lenel Palingenesia I (archive.org). Pauli Sententiae: FIRA vol. II (archive.org)
 
 ## 6. `rom-063-juristen-papinian`
 
-**Frühere Beschreibung:** Römisches Recht: Aemilius Papinianus (gest. 212 n.Chr.) - praefectus praetorio, Quaestiones und Responsa als Hauptwerke, Zitiergesetz 426 gibt ihm das Stichentscheidungsrecht, Verhältnis zu Ulpian und Paulus.
+**Fokus:** Römisches Recht: Aemilius Papinianus (gest. 212 n.Chr.) - praefectus praetorio, Quaestiones und Responsa als Hauptwerke, Zitiergesetz 426 gibt ihm das Stichentscheidungsrecht, Verhältnis zu Ulpian und Paulus.
 
 # Jurist: Papinian (Aemilius Papinianus)
 
@@ -358,7 +358,7 @@ Lenel Palingenesia I (archive.org). CTh 1.4.3: FIRA vol. I (archive.org). D. 1.1
 
 ## 7. `rom-064-juristen-modestinus`
 
-**Frühere Beschreibung:** Römisches Recht: Herennius Modestinus (gest. um 250 n.Chr.) - letzter der fünf klassischen Zitierjuristen, Differentiae, Regulae, Responsa, griechischsprachige Werke und seine Stellung in der nachklassischen Jurisprudenz.
+**Fokus:** Römisches Recht: Herennius Modestinus (gest. um 250 n.Chr.) - letzter der fünf klassischen Zitierjuristen, Differentiae, Regulae, Responsa, griechischsprachige Werke und seine Stellung in der nachklassischen Jurisprudenz.
 
 # Jurist: Modestinus (Herennius Modestinus)
 
@@ -412,7 +412,7 @@ Lenel Palingenesia I (archive.org). CTh 1.4.3: FIRA vol. I (archive.org). D. 23.
 
 ## 8. `rom-065-justinianische-kompilation`
 
-**Frühere Beschreibung:** Römisches Recht: Die justinianische Kompilation (528-534 n.Chr.) - Codex, Digesten, Institutionen, Novellen und Constitutiones Haec/Tanta/Omnem/Imperatoriam als Programm der Rechtseinheit.
+**Fokus:** Römisches Recht: Die justinianische Kompilation (528-534 n.Chr.) - Codex, Digesten, Institutionen, Novellen und Constitutiones Haec/Tanta/Omnem/Imperatoriam als Programm der Rechtseinheit.
 
 # Die justinianische Kompilation
 

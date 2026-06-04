@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-entfristung-schriftf-bis-kueschk-frist-und-zu
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (entfristung-schriftform-14-abs-4-erkennen, entfristung-triage-was-will-user, entfristung-vergleichsverhandlung-checkliste, kueschk-frist-und-zugang-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entfristung Schriftform 14 Abs 4 Erkennen, Entfristung Triage Was Will User, Entfristung Vergleichsverhandlung Checkliste, Kueschk Frist Und Zugang Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - arbeitsrecht
+# Arbeitsbereich - Entfristung Schriftform 14 Abs 4 Erkennen bis Kueschk Frist Und Zugang Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papierunterschrift nach § 126 BGB oder echte qualifizierte elektronische Signatur nach § 126a BGB prüfen; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet. |
 | `entfristung-triage-was-will-user` | Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entfristung-schriftform-14-abs-4-erkennen`
 
-**Frühere Beschreibung:** KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papierunterschrift nach § 126 BGB oder echte qualifizierte elektronische Signatur nach § 126a BGB prüfen; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet.
+**Fokus:** KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; Papierunterschrift nach § 126 BGB oder echte qualifizierte elektronische Signatur nach § 126a BGB prüfen; Scan/einfache Signatur genügt nicht; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet.
 
 # KERNSKILL: Schriftform § 14 Abs. 4 TzBfG — Die häufig übersehene Falle
 
@@ -148,7 +148,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 2. `entfristung-triage-was-will-user`
 
-**Frühere Beschreibung:** Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills.
+**Fokus:** Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills.
 
 # Entfristungsklage: Was will der Nutzer?
 
@@ -230,7 +230,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 3. `entfristung-vergleichsverhandlung-checkliste`
 
-**Frühere Beschreibung:** Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken.
+**Fokus:** Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken.
 
 # Vergleichsverhandlung: Checkliste Entfristungsklage
 
@@ -350,7 +350,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+1048%2F0
 
 ## 4. `kueschk-frist-und-zugang-pruefen`
 
-**Frühere Beschreibung:** Fristprüfung Kündigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB.
+**Fokus:** Fristprüfung Kündigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB.
 
 # Frist und Zugang prüfen
 

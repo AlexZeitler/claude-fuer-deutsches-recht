@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-energie-regulierungs-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 16; bündelt 8 frühere Spezialskills (energie-regulierungsakte-kapazitaetsvergabe-gas-stellungnahme-en, energie-regulierungsakte-kapazitaetsvergabe-gas-unterlagenanford, energie-regulierungsakte-kwkg-zuschlaege-rechtsmittel-check, energie-regulierungsakte-kwkg-zuschlaege-unterlagenanforderung, energie-regulierungsakte-ladesaeulen-elektromobilitaet-rechtsmit und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Regulierungsakte Kapazitaetsvergabe Gas Stellungnahme En, Energie Regulierungsakte Kapazitaetsvergabe Gas Unterlagenanford, Energie Regulierungsakte Kwkg Zuschlaege Rechtsmittel Check, Energie Regulierungsakte Kwkg Zuschlaege Unterlagenanforderung und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und"
 ---
 
-# Kompendium 16 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Regulierungsakte Kapazitaetsvergabe Gas Stellungnahme En bis Energie Regulierungsakte Messstellenbetrieb Msbg Smart Meter Fri
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-regulierungsakte-kapazitaetsvergabe-gas-stellungnahme-en` | Kapazitätsvergabe Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-kapazitaetsvergabe-gas-unterlagenanford` | Kapazitätsvergabe Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-regulierungsakte-kapazitaetsvergabe-gas-stellungnahme-en`
 
-**Frühere Beschreibung:** Kapazitätsvergabe Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Kapazitätsvergabe Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Stellungnahme-Entwurf
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-regulierungsakte-kapazitaetsvergabe-gas-unterlagenanford`
 
-**Frühere Beschreibung:** Kapazitätsvergabe Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Kapazitätsvergabe Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Kapazitätsvergabe Gas — Unterlagenanforderung
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-regulierungsakte-kwkg-zuschlaege-rechtsmittel-check`
 
-**Frühere Beschreibung:** KWKG Zuschläge: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** KWKG Zuschläge: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: KWKG Zuschläge — Rechtsmittel-Check
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-kwkg-zuschlaege-unterlagenanforderung`
 
-**Frühere Beschreibung:** KWKG Zuschläge: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** KWKG Zuschläge: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: KWKG Zuschläge — Unterlagenanforderung
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-ladesaeulen-elektromobilitaet-rechtsmit`
 
-**Frühere Beschreibung:** Ladesäulen Elektromobilität: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Ladesäulen Elektromobilität: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Rechtsmittel-Check
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-ladesaeulen-elektromobilitaet-stellungn`
 
-**Frühere Beschreibung:** Ladesäulen Elektromobilität: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Ladesäulen Elektromobilität: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Stellungnahme-Entwurf
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-ladesaeulen-elektromobilitaet-unterlage`
 
-**Frühere Beschreibung:** Ladesäulen Elektromobilität: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Ladesäulen Elektromobilität: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Ladesäulen Elektromobilität — Unterlagenanforderung
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-messstellenbetrieb-msbg-smart-meter-fri`
 
-**Frühere Beschreibung:** Messstellenbetrieb MsbG Smart Meter: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Messstellenbetrieb MsbG Smart Meter: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Messstellenbetrieb MsbG Smart Meter — Fristen- und Bescheidanalyse
 

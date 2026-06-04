@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-einseitig-gegenseiti-bis-executive-summary-fu
-description: "nda-verschwiegenheit-generator-checker: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (einseitig-gegenseitig-multilateral, entwerfen-oder-pruefen-router, eu-trade-secrets-directive, executive-summary-fuer-geschaeftsfuehrung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-verschwiegenheit-generator-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einseitig Gegenseitig Multilateral, Entwerfen Oder Pruefen Router, Eu Trade Secrets Directive, Executive Summary Fuer Geschaeftsfuehrung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - nda-verschwiegenheit-generator-checker
+# Arbeitsbereich - Einseitig Gegenseitig Multilateral bis Executive Summary Fuer Geschaeftsfuehrung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einseitig-gegenseitig-multilateral` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `entwerfen-oder-pruefen-router` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einseitig-gegenseitig-multilateral`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Einseitig Gegenseitig Multilateral; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Einseitig Gegenseitig Multilateral
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `entwerfen-oder-pruefen-router`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Entwerfen Oder Pruefen Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Entwerfen Oder Pruefen Router
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `eu-trade-secrets-directive`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: EU Trade Secrets Directive; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # EU Trade Secrets Directive
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `executive-summary-fuer-geschaeftsfuehrung`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Executive Summary Fuer Geschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Executive Summary Fuer Geschaeftsfuehrung
 

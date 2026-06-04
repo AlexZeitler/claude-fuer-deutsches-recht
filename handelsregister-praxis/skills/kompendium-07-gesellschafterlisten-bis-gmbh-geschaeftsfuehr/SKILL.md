@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-gesellschafterlisten-bis-gmbh-geschaeftsfuehr
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (gesellschafterlistenstreit-eilstrategie, gmbh-co-kg-registerdoppelvollzug, gmbh-geschaeftsfuehrerbestellung-abberufung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschafterlistenstreit Eilstrategie, Gmbh Co Kg Registerdoppelvollzug, Gmbh Geschaeftsfuehrerbestellung Abberufung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - handelsregister-praxis
+# Arbeitsbereich - Gesellschafterlistenstreit Eilstrategie, Gmbh Co Kg Registerdoppelvollzug, Gmbh Geschaeftsfuehrerbestellung Abberufung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschafterlistenstreit-eilstrategie` | Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar. |
 | `gmbh-co-kg-registerdoppelvollzug` | Koordiniert KG-Register, Komplementär-GmbH, Vertretung, Gesellschafterlisten und Firmenidentität. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschafterlistenstreit-eilstrategie`
 
-**Frühere Beschreibung:** Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar.
+**Fokus:** Ordnet Anspruch, einstweilige Verfügung, Registersperre, materiellen Streit und Kommunikation mit Registergericht/Notar.
 
 # Gesellschafterlistenstreit strategisch führen
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `gmbh-co-kg-registerdoppelvollzug`
 
-**Frühere Beschreibung:** Koordiniert KG-Register, Komplementär-GmbH, Vertretung, Gesellschafterlisten und Firmenidentität.
+**Fokus:** Koordiniert KG-Register, Komplementär-GmbH, Vertretung, Gesellschafterlisten und Firmenidentität.
 
 # GmbH & Co. KG Doppelvollzug
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `gmbh-geschaeftsfuehrerbestellung-abberufung`
 
-**Frühere Beschreibung:** Prüft Beschluss, Anmeldung, Versicherung, Vertretungsregel, Amtsannahme, Abberufung und Handelsregistervollzug.
+**Fokus:** Prüft Beschluss, Anmeldung, Versicherung, Vertretungsregel, Amtsannahme, Abberufung und Handelsregistervollzug.
 
 # Geschäftsführerwechsel
 

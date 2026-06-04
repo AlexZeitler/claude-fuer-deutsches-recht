@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-ihl-065-joint-ventur-bis-ihl-068-tooling-and
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (ihl-065-joint-venture-trade, ihl-066-manufacturing-agreement, ihl-067-oem-odm-private-label, ihl-068-tooling-and-molds) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 065 Joint Venture Trade, Ihl 066 Manufacturing Agreement, Ihl 067 Oem Odm Private Label, Ihl 068 Tooling And Molds; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 065 Joint Venture Trade bis Ihl 068 Tooling And Molds
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-065-joint-venture-trade` | Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV). |
 | `ihl-066-manufacturing-agreement` | Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-065-joint-venture-trade`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV).
+**Fokus:** Internationales Handelsrecht: Joint Venture im internationalen Handel. Contractual JV vs. Incorporated JV, Governance (Deadlock), Gewinnverteilung, IP-Schutz im JV, Ausstiegsrechte und kartellrechtliche Fragen (EU-Fusionskontrolle, Vollfunktions-JV).
 
 # Joint Venture im internationalen Handel
 
@@ -81,7 +81,7 @@ EU-Fusionskontroll-VO 139/2004: eur-lex.europa.eu. GWB §§ 35-44: gesetze-im-in
 
 ## 2. `ihl-066-manufacturing-agreement`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung.
+**Fokus:** Internationales Handelsrecht: Produktionsvertrag (Manufacturing Agreement) international. Spezifikationspflichten, Qualitätssicherung (IATF 16949, ISO 9001), IP-Schutz, Exklusivität, Verlagerungsschutz und CISG-Anwendbarkeit auf Werklieferung.
 
 # Produktionsvertrag International
 
@@ -133,7 +133,7 @@ CISG Art. 3: uncitral.un.org. BGB §§ 631 ff.: gesetze-im-internet.de. HGeschGe
 
 ## 3. `ihl-067-oem-odm-private-label`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label.
+**Fokus:** Internationales Handelsrecht: OEM, ODM und Private Label im internationalen Handel. Markenrecht (EUIPO, WIPO), IP-Übertragung vs. Lizenz, CE-Kennzeichnung, Hersteller-Importeur-Haftung und Unterschied OEM vs. ODM vs. White-Label.
 
 # OEM, ODM und Private Label
 
@@ -185,7 +185,7 @@ Unionsmarken-VO 2017/1001: eur-lex.europa.eu. EUIPO: euipo.europa.eu. CISG Art. 
 
 ## 4. `ihl-068-tooling-and-molds`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Molds) im internationalen Liefervertrag. Eigentumsrecht an Werkzeugen, Rückgabepflicht, Abschreibung, Auslandssicherung und chinesisches Recht bei Tooling in China.
+**Fokus:** Internationales Handelsrecht: Werkzeuge und Formen (Tooling and Molds) im internationalen Liefervertrag. Eigentumsrecht an Werkzeugen, Rückgabepflicht, Abschreibung, Auslandssicherung und chinesisches Recht bei Tooling in China.
 
 # Werkzeuge und Formen im internationalen Liefervertrag
 

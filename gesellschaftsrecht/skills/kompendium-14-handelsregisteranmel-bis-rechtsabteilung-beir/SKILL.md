@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-handelsregisteranmel-bis-rechtsabteilung-beir
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (handelsregisteranmeldung, integrations-management, ki-werkzeug-uebergabe, mandat-triage-gesellschaftsrecht, rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsregisteranmeldung, Integrations Management, Ki Werkzeug Uebergabe, Mandat Triage Gesellschaftsrecht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - gesellschaftsrecht
+# Arbeitsbereich - Handelsregisteranmeldung bis Beirat Mit Vetorechten In Der Gmbh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsregisteranmeldung` | Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfragen und Anmeldungspflichten. |
 | `integrations-management` | Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei "Post-Merger-Integration", "Post-Closing", "Betriebsübergang", "Vertragsübertragung" oder "was ist noch offen". |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsregisteranmeldung`
 
-**Frühere Beschreibung:** Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfragen und Anmeldungspflichten.
+**Fokus:** Vorbereitung und Prüfung von Handelsregisteranmeldungen (HRB, HRA, GnR, PartGR) nach § 12 HGB; Pflichtanmeldungen für Geschäftsführerwechsel (§ 39 GmbHG), Prokura (§ 53 HGB), Sitzverlegung und Kapitalmaßnahmen; Eintragungsgrundätze und Wirkung nach § 15 HGB. Lädt bei allen Registerpublizitätsfragen und Anmeldungspflichten.
 
 # Handelsregisteranmeldung – HRB / HRA / GnR / PartGR
 
@@ -313,7 +313,7 @@ abweichende Literaturauffassungen kenntlich zu machen.
 
 ## 2. `integrations-management`
 
-**Frühere Beschreibung:** Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei "Post-Merger-Integration", "Post-Closing", "Betriebsübergang", "Vertragsübertragung" oder "was ist noch offen".
+**Fokus:** Post-Merger-Integrations-Tracker — phasenbasierter Arbeitsplan, Zustimmungsverfolgung, Vertragsübertragung im Großmaßstab, Statusberichte. Initialisiert aus SPA, Deal-Zusammenfassung oder Abschluss-Checkliste. Berücksichtigt § 613a BGB (Betriebsübergang), BetrVG-Mitbestimmung und gesellschaftsrechtliche Post-Closing-Pflichten nach UmwG/GmbHG/AktG. Lädt bei "Post-Merger-Integration", "Post-Closing", "Betriebsübergang", "Vertragsübertragung" oder "was ist noch offen".
 
 # Post-Merger-Integrations-Management
 
@@ -524,7 +524,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `ki-werkzeug-uebergabe`
 
-**Frühere Beschreibung:** KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern.
+**Fokus:** KI-Tool-Übergabe für Massenvertragsprüfungen an Luminance oder Kira. Laden wenn der Nutzer "Luminance", "Kira", "KI-Prüfung", "automatische Extraktion" oder "Massenprüfung" erwähnt oder der Datenraum mehr als ~50 Verträge enthält, die ein einheitliches Klausel-Extraktionsprofil erfordern.
 
 # KI-Tool-Übergabe (Luminance / Kira)
 
@@ -803,7 +803,7 @@ Empfehlung: [ERGEBNIS DIREKT UEBERNEHMEN / NACHPRUEFUNG ERFORDERLICH FUER ROT-FI
 
 ## 4. `mandat-triage-gesellschaftsrecht`
 
-**Frühere Beschreibung:** Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung).
+**Fokus:** Eingangs-Abfrage für gesellschaftsrechtliche Mandate — Mandant fragt nach GmbH-Gründung Gesellschafterbeschluss Kapitalerhöhung Geschäftsführer-Abberufung M&A-Transaktion oder Gesellschafterstreit. Klaert Mandantenrolle (Gesellschafter Geschäftsführer Aufsichtsrat Investor Kaeufer) und Rechtsform (GmbH AG UG GmbH&CoKG). Sofort-Fristen Insolvenzantragspflicht § 15a InsO drei Wochen Anfechtungsklage § 246 AktG ein Monat. Normen § 2 GmbHG Gründung § 48 GmbHG Gesellschafterversammlung § 241 AktG Beschlussmaengel. Eskalation Telefon-Sofort bei Insolvenznähe Gesellschafterversammlung morgen. Output Triage-Memo mit Fristen-Ampel und Routing zu Plugin-Skills. Abgrenzung zu gesellschaftsrecht-mandat-arbeitsbereich (Workspace-Verwaltung).
 
 # Mandat-Triage Gesellschaftsrecht
 
@@ -1094,7 +1094,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 5. `rechtsabteilung-beirat-mit-vetorechten-in-der-gmbh`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Beirat mit Vetorechten in der GmbH: Beiratsrechte werden zwischen Beratung, Zustimmung, Weisung und faktischer Geschäftsführung abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Beirat mit Vetorechten in der GmbH
 

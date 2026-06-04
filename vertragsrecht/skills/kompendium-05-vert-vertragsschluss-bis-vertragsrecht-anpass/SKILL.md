@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vert-vertragsschluss-bis-vertragsrecht-anpass
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (vert-vertragsschluss-bauleiter, vertragspruefung, vertragsrecht-anpassen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - vertragsrecht
+# Arbeitsbereich - Vert Vertragsschluss Bauleiter, Vertragspruefung, Vertragsrecht Anpassen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vert-vertragsschluss-bauleiter` | Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster fuer typische Streitfaelle. |
 | `vertragspruefung` | Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen", "AGB prüfen", "NDA prüfen", "Klauselkontrolle" oder einen Vertrag zur Analyse einreicht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vert-vertragsschluss-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster fuer typische Streitfaelle.
+**Fokus:** Bauleiter Vertragsschluss §§ 145 ff. BGB: Angebot, Annahme, Auslegung, Stellvertretung, kaufmaennisches Bestaetigungsschreiben. Pruefraster fuer typische Streitfaelle.
 
 # Vert: Vertragsschluss Bauleiter
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `vertragsrecht`. Er ergaenzt die uebrigen Skills
 
 ## 2. `vertragspruefung`
 
-**Frühere Beschreibung:** Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen", "AGB prüfen", "NDA prüfen", "Klauselkontrolle" oder einen Vertrag zur Analyse einreicht.
+**Fokus:** Prüft einen Vertrag gegen das Kanzlei-Playbook nach deutschem Recht. Identifiziert Vertragsstruktur anhand der Titelseite, ordnet das Dokument dem richtigen Prüfpfad zu (Lieferantenvertrag, NDA, AGB-Klauselkontrolle, Dienstleistungsvertrag) und erstellt ein strukturiertes Rechtsprüfungsmemo. Lädt, wenn der Nutzer "Vertrag prüfen", "AGB prüfen", "NDA prüfen", "Klauselkontrolle" oder einen Vertrag zur Analyse einreicht.
 
 # Vertragsanalyse und Klauselkontrolle
 
@@ -439,7 +439,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `vertragsrecht-anpassen`
 
-**Frühere Beschreibung:** Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt.
+**Fokus:** Geführte Anpassung des Kanzleiprofils im Vertragsrecht — ändert einzelne Einstellungen ohne erneutes Erstgespräch. Lädt, wenn der Nutzer "Profil anpassen", "Playbook ändern", "Eskalation aktualisieren", "Klauselposition ändern" oder "konfigurieren" sagt.
 
 # Kanzleiprofil anpassen
 

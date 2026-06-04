@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-beirat-mitbestimmung-bis-beirat-startup-inves
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 08; bündelt 7 frühere Spezialskills (beirat-mitbestimmung-abgrenzung, beirat-nachfolge, beirat-private-equity-investor, beirat-register-und-notar, beirat-satzungsgrundlage und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge, Beirat Private Equity Investor, Beirat Register Und Notar und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Beirat Mitbestimmung Abgrenzung bis Beirat Startup Investor Director
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-nachfolge` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-mitbestimmung-abgrenzung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Mitbestimmung Abgrenzung
 
@@ -98,7 +98,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-nachfolge`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Nachfolge
 
@@ -164,7 +164,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-private-equity-investor`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Private Equity Investor
 
@@ -230,7 +230,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-register-und-notar`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Register Und Notar
 
@@ -296,7 +296,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-satzungsgrundlage`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Satzungsgrundlage
 
@@ -362,7 +362,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 6. `beirat-sitzung-und-protokoll`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Sitzung Und Protokoll
 
@@ -428,7 +428,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 7. `beirat-startup-investor-director`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Startup Investor Director; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Startup Investor Director
 

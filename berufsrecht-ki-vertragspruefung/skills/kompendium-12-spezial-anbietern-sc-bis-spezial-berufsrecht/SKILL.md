@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-anbietern-sc-bis-spezial-berufsrecht
-description: "berufsrecht-ki-vertragspruefung: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-anbietern-schriftsatz-brief-und-memo-bausteine, spezial-belehrung-abschlussprodukt-und-uebergabe, spezial-berufsrecht-sonderfall-und-edge-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-ki-vertragspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Uebergabe, Berufsrecht Sonderfall Und Edge Case; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - berufsrecht-ki-vertragspruefung
+# Arbeitsbereich - Anbietern Schriftsatz Brief Und Memo Bausteine, Belehrung Abschlussprodukt Und Uebergabe, Berufsrecht Sonderfall Und Edge Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anbietern-schriftsatz-brief-und-memo-bausteine` | Anbietern: Schriftsatz-, Brief- und Memo-Bausteine im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-belehrung-abschlussprodukt-und-uebergabe` | Belehrung: Abschlussprodukt und Übergabe im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anbietern-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anbietern: Schriftsatz-, Brief- und Memo-Bausteine im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anbietern: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -87,7 +87,7 @@ Standardisierte Anfragen ohne Anpassung an den konkreten Use Case wirken oft anm
 
 ## 2. `spezial-belehrung-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Belehrung: Abschlussprodukt und Übergabe im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Belehrung: Abschlussprodukt und Übergabe im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Belehrung: Abschlussprodukt und Übergabe
 
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-berufsrecht-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berufsrecht: Sonderfall und Edge-Case-Prüfung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Berufsrecht: Sonderfall und Edge-Case-Prüfung
 

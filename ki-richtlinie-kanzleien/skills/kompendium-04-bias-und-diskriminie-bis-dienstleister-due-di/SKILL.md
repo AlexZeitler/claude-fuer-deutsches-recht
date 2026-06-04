@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bias-und-diskriminie-bis-dienstleister-due-di
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (bias-und-diskriminierung-pruefung, compliance-regelsatz-erstellen, dienstleister-due-diligence) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bias Und Diskriminierung Pruefung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Bias Und Diskriminierung Pruefung, Compliance Regelsatz Erstellen, Dienstleister Due Diligence
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bias-und-diskriminierung-pruefung` | Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz. |
 | `compliance-regelsatz-erstellen` | Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bias-und-diskriminierung-pruefung`
 
-**Frühere Beschreibung:** Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz.
+**Fokus:** Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz.
 
 # Bias und Diskriminierung Prüfung
 
@@ -108,7 +108,7 @@ Geprueft von: [NAME], [DATUM]
 
 ## 2. `compliance-regelsatz-erstellen`
 
-**Frühere Beschreibung:** Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine.
+**Fokus:** Compliance-Regelsatz Zehn Gebote für KI-Einsatz in Kanzleien erstellen: Anwendungsfall Kanzlei benoetigt praegnante Verhaltensregeln für alle Mitarbeitenden zu erlaubten und verbotenen KI-Nutzungen. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster kein Privat-Account, keine Mandatsdaten ohne Anonymisierung, kein PDF-Upload ohne AVV, Korrekturlesung Pflicht, KI-Kennzeichnung. Output standardisierter Zehn-Gebote-Regelsatz anpassbar an Kanzlei-Profil. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Berufsrecht-Bausteine.
 
 # Compliance-Regelsatz erstellen
 
@@ -224,7 +224,7 @@ Verabschiedet von: [GESCHAEFTSFUEHRUNG], [DATUM]
 
 ## 3. `dienstleister-due-diligence`
 
-**Frühere Beschreibung:** KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterprüfung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Prüfraster EU-Sitz vs. US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschluesselung, Zertifizierungen, Subprozessoren, Standardvertragsklauseln. Output Dienstleister-Bewertungsmatrix mit Ampelstatus und AVV-Empfehlung. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Musterklauseln-IT.
+**Fokus:** KI-Dienstleister Due Diligence für Kanzleien durchführen: Anwendungsfall Kanzlei moechte neuen KI-Dienst beauftragen und muss eigenverantwortlich Datenschutz Berufsrecht und Sicherheit prüfen. § 43e BRAO Dienstleisterprüfung, Art. 28 Abs. 1 DSGVO Garantiepflichten, ISO 27001 SOC 2. Prüfraster EU-Sitz vs. US-Sitz, Enterprise-Tier mit Training-Opt-out, Verschluesselung, Zertifizierungen, Subprozessoren, Standardvertragsklauseln. Output Dienstleister-Bewertungsmatrix mit Ampelstatus und AVV-Empfehlung. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Musterklauseln-IT.
 
 # Dienstleister Due Diligence
 

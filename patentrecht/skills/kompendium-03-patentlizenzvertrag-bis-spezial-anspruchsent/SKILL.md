@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-patentlizenzvertrag-bis-spezial-anspruchsent
-description: "patentrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (patentlizenzvertrag-de-en-drafting, patentlizenzvertrag-review, spezial-anspruchsentwurf-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - patentrecht
+# Arbeitsbereich - Patentlizenzvertrag De En Drafting, Patentlizenzvertrag Review, Anspruchsentwurf Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patentlizenzvertrag-de-en-drafting` | Setzt Patentlizenz-Term-Sheets in deutsch-englische Vertragsklauseln um; erklärt Legal-English-Begriffe im deutschen Rechtskontext und vermeidet unklare Transaktionssprache. |
 | `patentlizenzvertrag-review` | Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivität, Unterlizenzen, Royalties, Milestones, Improvements, Inhaberschaft, Gewährleistung, Durchsetzung, Kündigung und Insolvenzrisiken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patentlizenzvertrag-de-en-drafting`
 
-**Frühere Beschreibung:** Setzt Patentlizenz-Term-Sheets in deutsch-englische Vertragsklauseln um; erklärt Legal-English-Begriffe im deutschen Rechtskontext und vermeidet unklare Transaktionssprache.
+**Fokus:** Setzt Patentlizenz-Term-Sheets in deutsch-englische Vertragsklauseln um; erklärt Legal-English-Begriffe im deutschen Rechtskontext und vermeidet unklare Transaktionssprache.
 
 # Patentlizenzvertrag DE/EN
 
@@ -89,7 +89,7 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 
 ## 2. `patentlizenzvertrag-review`
 
-**Frühere Beschreibung:** Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivität, Unterlizenzen, Royalties, Milestones, Improvements, Inhaberschaft, Gewährleistung, Durchsetzung, Kündigung und Insolvenzrisiken.
+**Fokus:** Prüft Patentlizenzverträge: Schutzrechte, Territory, Field of Use, Exklusivität, Unterlizenzen, Royalties, Milestones, Improvements, Inhaberschaft, Gewährleistung, Durchsetzung, Kündigung und Insolvenzrisiken.
 
 # Patentlizenzvertrag prüfen
 
@@ -146,7 +146,7 @@ Begriffe wie "best efforts", "reasonable efforts", "affiliate", "change of contr
 
 ## 3. `spezial-anspruchsentwurf-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin patentrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin patentrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anspruchsentwurf: Dokumentenmatrix, Lückenliste und Nachforderung
 

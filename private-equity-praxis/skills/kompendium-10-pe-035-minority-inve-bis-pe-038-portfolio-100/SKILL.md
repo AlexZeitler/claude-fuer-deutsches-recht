@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-pe-035-minority-inve-bis-pe-038-portfolio-100
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (pe-035-minority-investment-protective-rights, pe-036-public-to-private-pe, pe-037-distressed-ma-aus-insolvenz, pe-038-portfolio-100-tage-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 035 Minority Investment Protective Rights, Pe 036 Public To Private Pe, Pe 037 Distressed Ma Aus Insolvenz, Pe 038 Portfolio 100 Tage Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - private-equity-praxis
+# Arbeitsbereich - Pe 035 Minority Investment Protective Rights bis Pe 038 Portfolio 100 Tage Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-035-minority-investment-protective-rights` | Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten. |
 | `pe-036-public-to-private-pe` | Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-035-minority-investment-protective-rights`
 
-**Frühere Beschreibung:** Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten.
+**Fokus:** Prüft Minderheitsbeteiligungen mit Informations-, Vetorechten, Verwässerungsschutz und Exit-Rechten.
 
 # Minority Investment und Protective Rights
 
@@ -70,7 +70,7 @@ GmbHG/AktG, Kartellkontrolle/Kontrollerwerb, KAGB, SPA/SHA.
 
 ## 2. `pe-036-public-to-private-pe`
 
-**Frühere Beschreibung:** Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad.
+**Fokus:** Begleitet Delisting, Übernahmeangebot, Pflichtangebot, Finanzierung und Squeeze-out-Pfad.
 
 # Public-to-Private
 
@@ -111,7 +111,7 @@ WpÜG, WpHG/MAR, AktG, Börsenrecht, Kartell/FDI.
 
 ## 3. `pe-037-distressed-ma-aus-insolvenz`
 
-**Frühere Beschreibung:** Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung.
+**Fokus:** Prüft Asset Deal, Share Deal, Insolvenzplan, StaRUG, Anfechtungsrisiken und Haftungsfreistellung.
 
 # Distressed M&A aus Krise und Insolvenz
 
@@ -152,7 +152,7 @@ InsO, StaRUG, BGB, § 613a BGB, Steuer, Sicherheiten, Gläubigerausschuss.
 
 ## 4. `pe-038-portfolio-100-tage-plan`
 
-**Frühere Beschreibung:** Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting.
+**Fokus:** Erstellt Post-Closing-Plan für Corporate Housekeeping, Verträge, Compliance, HR, IP, Versicherungen und Reporting.
 
 # Portfolio: 100-Tage-Plan Legal
 

@@ -1,32 +1,32 @@
 ---
 name: kompendium-16-vowi-akteneinsicht-r-bis-vowi-akteneinsicht-r
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 16; bündelt 1 frühere Spezialskills (vowi-akteneinsicht-rohmessdaten-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill zu Vowi Akteneinsicht Rohmessdaten Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verkehrsowi-verteidiger
+# Arbeitsbereich - Vowi Akteneinsicht Rohmessdaten Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vowi-akteneinsicht-rohmessdaten-leitfaden` | Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren. Pruefraster fuer Verteidiger. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vowi-akteneinsicht-rohmessdaten-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren. Pruefraster fuer Verteidiger.
+**Fokus:** Leitfaden Akteneinsicht und Rohmessdaten in OWi-Verfahren: BVerfG- und OLG-Rechtsprechung, Sachverstaendigengutachten, standardisiertes Messverfahren. Pruefraster fuer Verteidiger.
 
 # VOWi: Akteneinsicht Rohmessdaten
 

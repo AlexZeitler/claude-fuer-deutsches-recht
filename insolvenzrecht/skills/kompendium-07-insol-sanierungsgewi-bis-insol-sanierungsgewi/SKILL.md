@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-insol-sanierungsgewi-bis-insol-sanierungsgewi
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (insol-sanierungsgewinn-uebertragende-sanierung-asset-deal, insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung, insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab, insol-sanierungsgewinn-verzicht-bilanz-im-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal, Insol Sanierungsgewinn Vergleich Mit Finanzamt Und Stundung, Insol Sanierungsgewinn Verlustvortrag Und 3a Iii Vorab, Insol Sanierungsgewinn Verzicht Bilanz Im Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - insolvenzrecht
+# Arbeitsbereich - Insol Sanierungsgewinn Uebertragende Sanierung Asset Deal bis Insol Sanierungsgewinn Verzicht Bilanz Im Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-uebertragende-sanierung-asset-deal` | Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht. |
 | `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung` | Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insol-sanierungsgewinn-uebertragende-sanierung-asset-deal`
 
-**Frühere Beschreibung:** Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht.
+**Fokus:** Uebertragende Sanierung als Asset Deal (Paragraphen 159 ff. InsO) und der Sanierungsgewinn. Beim Asset Deal entsteht kein klassischer Sanierungsertrag beim Schuldner, weil keine Forderungen erlassen werden. Stattdessen Veraeusserungsgewinn bei der Schuldnerin (stille Reserven). Steuerliche Schnittstelle: Paragraph 3a EStG meist nicht direkt anwendbar; Paragraph 75 AO Uebernehmerhaftung. Abgrenzung zur Plan-Sanierung mit Forderungsverzicht.
 
 # Sanierungsgewinn — Uebertragende Sanierung (Asset Deal) und ihre Steuerfolgen
 
@@ -182,7 +182,7 @@ In anderen Plugins:
 
 ## 2. `insol-sanierungsgewinn-vergleich-mit-finanzamt-und-stundung`
 
-**Frühere Beschreibung:** Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag.
+**Fokus:** Stundung Paragraph 222 AO und Erlass Paragraph 227 AO als Auffanglinien fuer den verbleibenden steuerbaren Restsanierungsertrag. Wenn Paragraph 3a EStG-Voraussetzungen nicht eindeutig erfuellt sind oder ein Restbetrag steuerpflichtig bleibt: persoenliche und sachliche Unbilligkeit begruenden, Vermoegensauflistung, Tatsaechliche Verstaendigung Paragraph 78 AO. Mustertexte Stundungs- und Erlassantrag.
 
 # Sanierungsgewinn — Vergleich mit Finanzamt und Stundung
 
@@ -362,7 +362,7 @@ In anderen Plugins:
 
 ## 3. `insol-sanierungsgewinn-verlustvortrag-und-3a-iii-vorab`
 
-**Frühere Beschreibung:** Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle.
+**Fokus:** Vorab-Pruefung der Verrechnungsreihenfolge nach Paragraph 3a Absatz 3 EStG vor Insolvenzantrag oder StaRUG-Anzeige. Schritt-fuer-Schritt-Modellrechnung: laufende Verluste des Sanierungsjahres, vortragsfaehige Verluste, weitere Minderungspositionen. Wenn die Verrechnungsmasse den Sanierungsertrag aufzehrt, ist die Steuerfreiheit faktisch sichergestellt — Erlassantrag bleibt formell sinnvoll, materiell aber entbehrlich. Mit Berechnungsschemata und Excel-tauglicher Tabelle.
 
 # Sanierungsgewinn — Verlustvortrag und Paragraph 3a Absatz 3 EStG vorab pruefen
 
@@ -503,7 +503,7 @@ In anderen Plugins:
 
 ## 4. `insol-sanierungsgewinn-verzicht-bilanz-im-plan`
 
-**Frühere Beschreibung:** Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkungen auf das Eigenkapital. Schnittstelle zur Modellrechnung Paragraph 3a Absatz 3 EStG.
+**Fokus:** Bilanzielle Erfassung des Forderungsverzichts im Insolvenzplan und StaRUG-Plan. Handelsrechtliche und steuerliche Behandlung. Werthaltigkeit der verzichteten Forderung. Verzicht mit und ohne Besserungsschein. Gesellschafterverzicht versus Drittglaeubigerverzicht. Buchungsbeispiele und Auswirkungen auf das Eigenkapital. Schnittstelle zur Modellrechnung Paragraph 3a Absatz 3 EStG.
 
 # Sanierungsgewinn — Forderungsverzicht im Plan, bilanzielle Folgen
 

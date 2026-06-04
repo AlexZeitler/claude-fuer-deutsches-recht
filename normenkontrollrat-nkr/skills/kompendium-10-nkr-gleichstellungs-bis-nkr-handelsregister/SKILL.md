@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-nkr-gleichstellungs-bis-nkr-handelsregister
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (nkr-gleichstellungs-und-gendercheck, nkr-handelsregister-und-elektronische-zustellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Gleichstellungs Und Gendercheck, Nkr Handelsregister Und Elektronische Zustellung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-gleichstellungs-und-gendercheck` | Spezialskill Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten. |
 | `nkr-handelsregister-und-elektronische-zustellung` | Spezialskill fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-gleichstellungs-und-gendercheck`
 
-**Frühere Beschreibung:** Spezialskill Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten.
+**Fokus:** Spezialskill Gleichstellungs- und Gendercheck nach § 1 BGleiG und § 2 GGO. Beschreibt die Pflicht zur geschlechterdifferenzierten Folgenabschaetzung wann ein Gendercheck zwingend ist und wie die NKR-Pruefung sich darauf bezieht. Mit Pruefraster Mustertexten und Standardargumenten.
 
 # NKR-Gleichstellungs- und Gendercheck
 
@@ -140,7 +140,7 @@ Rueckfrage nur wenn unklar: *"Welche Personenkategorie ist primaer adressiert?"*
 
 ## 2. `nkr-handelsregister-und-elektronische-zustellung`
 
-**Frühere Beschreibung:** Spezialskill fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen.
+**Fokus:** Spezialskill fuer Vorhaben mit Handelsregister-Bezug und elektronischer Zustellung. Beschreibt die Schnittstellen HRG ZPO beA beBPO De-Mail eIDAS-Wallet und die typischen NKR-Pruefpunkte bei Handelsregister-Vorhaben (Fallzahlen rund 1.8 Mio Gesellschaften zentrale vs dezentrale Architektur Once-Only auslaendische Gesellschaften). Mit Standardbausteinen.
 
 # NKR-Handelsregister und elektronische Zustellung
 

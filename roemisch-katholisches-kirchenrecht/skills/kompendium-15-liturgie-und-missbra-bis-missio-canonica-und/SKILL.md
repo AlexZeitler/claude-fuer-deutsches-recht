@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-liturgie-und-missbra-bis-missio-canonica-und
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (liturgie-und-missbrauchsvermeidung, messstipendien-und-intentionen, mischehe-und-religionsverschiedenheit, missio-canonica-und-lehrerlaubnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Liturgie Und Missbrauchsvermeidung, Messstipendien Und Intentionen, Mischehe Und Religionsverschiedenheit, Missio Canonica Und Lehrerlaubnis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Liturgie Und Missbrauchsvermeidung bis Missio Canonica Und Lehrerlaubnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `liturgie-und-missbrauchsvermeidung` | Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `messstipendien-und-intentionen` | Messstipendien und Intentionen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `liturgie-und-missbrauchsvermeidung`
 
-**Frühere Beschreibung:** Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Liturgie und Missbrauchsvermeidung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Liturgie und Missbrauchsvermeidung
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `messstipendien-und-intentionen`
 
-**Frühere Beschreibung:** Messstipendien und Intentionen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Messstipendien und Intentionen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Messstipendien und Intentionen
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `mischehe-und-religionsverschiedenheit`
 
-**Frühere Beschreibung:** Mischehe und Religionsverschiedenheit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Mischehe und Religionsverschiedenheit: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Mischehe und Religionsverschiedenheit
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `missio-canonica-und-lehrerlaubnis`
 
-**Frühere Beschreibung:** Missio canonica und Lehrerlaubnis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Missio canonica und Lehrerlaubnis: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Missio canonica und Lehrerlaubnis
 

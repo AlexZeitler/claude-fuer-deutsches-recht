@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-nkr-verhaeltnismaess-bis-nkr-zeitwerttabelle
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (nkr-verhaeltnismaessigkeit-aus-nkr-sicht, nkr-zeitwerttabelle-und-fallzahlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Verhaeltnismaessigkeit Aus Nkr Sicht, Nkr Zeitwerttabelle Und Fallzahlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-verhaeltnismaessigkeit-aus-nkr-sicht` | Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten. |
 | `nkr-zeitwerttabelle-und-fallzahlen` | Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Branchenstatistiken). Mit Bezugsformeln und Quellenpfaden. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-verhaeltnismaessigkeit-aus-nkr-sicht`
 
-**Frühere Beschreibung:** Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten.
+**Fokus:** Verhaeltnismaessigkeit aus NKR-Sicht: keine grundrechtliche Pruefung sondern Kosten-Nutzen- und Eingriffstiefe-Pruefung. Erklaert wie der NKR die drei klassischen Stufen Geeignetheit Erforderlichkeit Angemessenheit auf Erfuellungsaufwand uebertraegt und wo die Abgrenzung zur BMJ-Pruefung liegt. Mit Mustertexten und Standardargumenten.
 
 # NKR-Verhaeltnismaessigkeit aus NKR-Sicht
 
@@ -123,7 +123,7 @@ Rueckfrage nur wenn unklar: *"Welche Komponente erscheint Ihnen ueberzogen — E
 
 ## 2. `nkr-zeitwerttabelle-und-fallzahlen`
 
-**Frühere Beschreibung:** Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Branchenstatistiken). Mit Bezugsformeln und Quellenpfaden.
+**Fokus:** Praxisleitfaden zu Zeitwerttabellen und Fallzahlenermittlung. Zeigt die Struktur der Leitfaden-Zeitwerttabelle die Komplexitaetsstufen die Standard-Lohnsaetze DESTATIS-Quellen die Datenwege zur Fallzahlenermittlung und die typischen Quellen (Statistisches Bundesamt Bundesregister Ressortdaten Branchenstatistiken). Mit Bezugsformeln und Quellenpfaden.
 
 # NKR-Zeitwerttabelle und Fallzahlen
 

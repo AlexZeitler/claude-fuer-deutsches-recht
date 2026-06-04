@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-ksv-paedagogisch-kue-bis-minderheits-gf-sperr
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (ksv-paedagogisch-kuenstlerisch, mandanten-intake-status, mehrere-auftraggeber, minderheits-gf-sperrminoritaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ksv Paedagogisch Kuenstlerisch, Mandanten Intake Status, Mehrere Auftraggeber, Minderheits Gf Sperrminoritaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Ksv Paedagogisch Kuenstlerisch bis Minderheits Gf Sperrminoritaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ksv-paedagogisch-kuenstlerisch` | Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus. |
 | `mandanten-intake-status` | Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ksv-paedagogisch-kuenstlerisch`
 
-**Frühere Beschreibung:** Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus.
+**Fokus:** Prüft Schnittstelle zwischen Unterricht, Kunst, Publizistik, Künstlersozialversicherung und Beschäftigungsstatus.
 
 # KSV pädagogisch-künstlerisch
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `mandanten-intake-status`
 
-**Frühere Beschreibung:** Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten.
+**Fokus:** Erfasst alle Tatsachen für eine belastbare Statusprüfung ohne vorschnelle rechtliche Etiketten.
 
 # Mandanten-Intake Statusprüfung
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `mehrere-auftraggeber`
 
-**Frühere Beschreibung:** Prüft mehrere Auftraggeber, wirtschaftliche Abhängigkeit, Hauptauftraggeber und zeitliche Kapazität.
+**Fokus:** Prüft mehrere Auftraggeber, wirtschaftliche Abhängigkeit, Hauptauftraggeber und zeitliche Kapazität.
 
 # Mehrere Auftraggeber
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `minderheits-gf-sperrminoritaet`
 
-**Frühere Beschreibung:** Prüft Minderheitsgesellschafter-Geschäftsführer mit echter umfassender Sperrminorität.
+**Fokus:** Prüft Minderheitsgesellschafter-Geschäftsführer mit echter umfassender Sperrminorität.
 
 # Minderheits-GF mit Sperrminorität
 

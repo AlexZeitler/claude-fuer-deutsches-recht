@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vc-006-euveca-eltif-bis-vc-009-founder-updat
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (vc-006-euveca-eltif-vc-fonds, vc-007-deal-sourcing-thesis, vc-008-pipeline-crm-kanban, vc-009-founder-update-intake) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 006 Euveca Eltif Vc Fonds, Vc 007 Deal Sourcing Thesis, Vc 008 Pipeline Crm Kanban, Vc 009 Founder Update Intake; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - venture-capital-geber
+# Arbeitsbereich - Vc 006 Euveca Eltif Vc Fonds bis Vc 009 Founder Update Intake
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-006-euveca-eltif-vc-fonds` | Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab. |
 | `vc-007-deal-sourcing-thesis` | Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-006-euveca-eltif-vc-fonds`
 
-**Frühere Beschreibung:** Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab.
+**Fokus:** Ordnet EuVECA- und ELTIF-Optionen als regulierte VC-/Private-Markets-Hüllen ein und grenzt sie von Direkt- und SPV-Investments ab.
 
 # EuVECA, ELTIF und VC-Fonds
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-007-deal-sourcing-thesis`
 
-**Frühere Beschreibung:** Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen.
+**Fokus:** Hilft, Branchenfokus, Dealquellen, Gründerprofile, Warm Intros, Events, Scouts und Ausschlusskriterien zu bauen.
 
 # Deal-Sourcing und Investmentthese
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-008-pipeline-crm-kanban`
 
-**Frühere Beschreibung:** Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen.
+**Fokus:** Baut ein VC-Tracking-System mit Status, Fristen, Reminder, Verantwortlichen, Investor-Updates und Follow-on-Signalen.
 
 # Pipeline-CRM und Kanban
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-009-founder-update-intake`
 
-**Frühere Beschreibung:** Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung.
+**Fokus:** Liest Founder Updates, extrahiert KPIs, Zusagen, Risiken, offene Requests, Stimmungen und nächste Investorhandlung.
 
 # Founder-Update Intake
 

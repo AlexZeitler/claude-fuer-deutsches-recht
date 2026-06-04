@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-umv-005-uig-anfrage-bis-umv-009-bimschg-gene
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (umv-005-uig-anfrage-fuer-umweltakte, umv-006-uvp-pflicht-und-vorpruefung, umv-008-planfeststellung-angreifen, umv-009-bimschg-genehmigung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 005 Uig Anfrage Fuer Umweltakte, Umv 006 Uvp Pflicht Und Vorpruefung, Umv 008 Planfeststellung Angreifen, Umv 009 Bimschg Genehmigung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 005 Uig Anfrage Fuer Umweltakte bis Umv 009 Bimschg Genehmigung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-005-uig-anfrage-fuer-umweltakte` | Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-006-uvp-pflicht-und-vorpruefung` | Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-005-uig-anfrage-fuer-umweltakte`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: UIG-Anfrage für Umweltakte. UIG-Anfrage für Umweltakte im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uig Anfrage Fuer Umweltakte
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-006-uvp-pflicht-und-vorpruefung`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: UVP-Pflicht und Vorprüfung. UVP-Pflicht und Vorprüfung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uvp Pflicht Und Vorpruefung
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-008-planfeststellung-angreifen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Planfeststellung angreifen. Planfeststellung angreifen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Planfeststellung Angreifen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-009-bimschg-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: BImSchG-Genehmigung prüfen. BImSchG-Genehmigung prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: BImSchG-Genehmigung prüfen. BImSchG-Genehmigung prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bimschg Genehmigung Pruefen
 

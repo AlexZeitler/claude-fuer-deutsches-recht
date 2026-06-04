@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-einreichung-rechtsan-bis-gerichtskostenvorsch
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (einreichung-rechtsantragsstelle-selbst, gegnerische-vollstreckung-abwehr, gerichtskostenvorschuss-12-gkg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einreichung Rechtsantragsstelle Selbst, Gegnerische Vollstreckung Abwehr, Gerichtskostenvorschuss 12 Gkg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Einreichung Rechtsantragsstelle Selbst, Gegnerische Vollstreckung Abwehr, Gerichtskostenvorschuss 12 Gkg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einreichung-rechtsantragsstelle-selbst` | Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen. |
 | `gegnerische-vollstreckung-abwehr` | Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einreichung-rechtsantragsstelle-selbst`
 
-**Frühere Beschreibung:** Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen.
+**Fokus:** Hilfe über die Rechtsantragsstelle des Amtsgerichts. Buerger koennen muendlich Klage zu Protokoll geben formelle Hilfe bei Klageschrift Antrag und Vollstreckung. Was die Rechtsantragsstelle leistet und was Sie selbst tun muessen.
 
 # Die Rechtsantragsstelle als Hilfe fuer Buerger
 
@@ -142,7 +142,7 @@ Stand: 05/2026. § 496 ZPO unveraendert. Rechtsantragsstellen bei den meisten AG
 
 ## 2. `gegnerische-vollstreckung-abwehr`
 
-**Frühere Beschreibung:** Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht.
+**Fokus:** Abwehr der Vollstreckung wenn Sie verloren haben. Vollstreckungs-Gegenklage Pfaendungs-Freigrenzen Stundungs-Antrag Ratenzahlung Vollstreckungs-Schutzantrag. Was Sie tun koennen wenn der Gerichtsvollzieher vor der Tuer steht.
 
 # Wenn Sie verlieren: Vollstreckung abwehren oder mildern
 
@@ -312,7 +312,7 @@ Stand: 05/2026. §§ 765a, 767, 850 ff. ZPO unveraendert. Pfaendungs-Freigrenzen
 
 ## 3. `gerichtskostenvorschuss-12-gkg`
 
-**Frühere Beschreibung:** Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt wenn Vorschuss eingegangen ist. Berechnung Zahlung Bedeutung für § 167 ZPO und Verjährungs-Hemmung. Was tun bei finanziellen Schwierigkeiten PKH-Antrag.
+**Fokus:** Gerichtskostenvorschuss nach § 12 GKG. Klage wird erst zugestellt wenn Vorschuss eingegangen ist. Berechnung Zahlung Bedeutung für § 167 ZPO und Verjährungs-Hemmung. Was tun bei finanziellen Schwierigkeiten PKH-Antrag.
 
 # Gerichtskostenvorschuss: Klage wird erst nach Zahlung zugestellt
 

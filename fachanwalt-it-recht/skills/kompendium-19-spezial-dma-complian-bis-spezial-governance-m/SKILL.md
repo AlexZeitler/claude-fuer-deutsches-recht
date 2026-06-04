@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-dma-complian-bis-spezial-governance-m
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (spezial-dma-compliance-dokumentation-und-akte, spezial-dsa-zahlen-schwellen-und-berechnung, spezial-dsgvo-behoerden-gericht-und-registerweg, spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-governance-mandantenkommunikation-entscheidungsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dma Compliance Dokumentation Und Akte, Dsa Zahlen Schwellen Und Berechnung, Dsgvo Behoerden Gericht Und Registerweg, Fachanwalt Erstpruefung Und Mandatsziel und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-it-recht
+# Arbeitsbereich - Dma Compliance Dokumentation Und Akte bis Governance Mandantenkommunikation Entscheidungsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-dma-compliance-dokumentation-und-akte` | DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-dsa-zahlen-schwellen-und-berechnung` | DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-dma-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DMA: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DMA: Compliance-Dokumentation und Aktenvermerk
 
@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-dsa-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSA: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DSA: Zahlen, Schwellenwerte und Berechnung
 
@@ -123,7 +123,7 @@ Die "45-Mio-Schwelle" wird halbjährlich nach Methodik der EU-Kommission gemesse
 
 ## 3. `spezial-dsgvo-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSGVO: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DSGVO: Behörden-, Gerichts- oder Registerweg
 
@@ -182,7 +182,7 @@ Bei Schadensersatzklage Art. 82 DSGVO ist nach EuGH C-300/21 keine Erheblichkeit
 
 ## 4. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -234,7 +234,7 @@ Frühe gerichtliche Eskalation (Klage, einstweilige Verfügung) bringt schnelle 
 
 ## 5. `spezial-governance-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Governance: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Governance: Mandantenkommunikation und Entscheidungsvorlage
 

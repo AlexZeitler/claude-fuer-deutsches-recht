@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-bho-091-verteidigung-bis-bho-101-sondervermoe
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 10; bündelt 11 frühere Spezialskills (bho-091-verteidigungsausgaben-dashboard-bauen, bho-092-verteidigungsausgaben-risiko-markieren, bho-093-verteidigungsausgaben-brh-frage-formul, bho-094-verteidigungsausgaben-parlamentsfrage, bho-095-verteidigungsausgaben-vollzug-tracken und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 091 Verteidigungsausgaben Dashboard Bauen, Bho 092 Verteidigungsausgaben Risiko Markieren, Bho 093 Verteidigungsausgaben Brh Frage Formul, Bho 094 Verteidigungsausgaben Parlamentsfrage und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 091 Verteidigungsausgaben Dashboard Bauen bis Bho 101 Sondervermoegen Bundeswehr Dashboard B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-091-verteidigungsausgaben-dashboard-bauen` | Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Dashboard bauen. Dashboard bauen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-092-verteidigungsausgaben-risiko-markieren` | Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Risiko markieren. Risiko markieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-091-verteidigungsausgaben-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Dashboard bauen. Dashboard bauen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Dashboard bauen. Dashboard bauen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Dashboard Bauen
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-092-verteidigungsausgaben-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Risiko markieren. Risiko markieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Risiko markieren. Risiko markieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Risiko Markieren
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-093-verteidigungsausgaben-brh-frage-formul`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: BRH-Frage formulieren. BRH-Frage formulieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: BRH-Frage formulieren. BRH-Frage formulieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Brh Frage Formul
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-094-verteidigungsausgaben-parlamentsfrage`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Parlamentsfrage
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-095-verteidigungsausgaben-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Vollzug tracken. Vollzug tracken für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Vollzug tracken. Vollzug tracken für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Vollzug Tracken
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-096-sondervermoegen-bundeswehr-titel-pruef`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Titel prüfen. Titel prüfen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Titel prüfen. Titel prüfen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Titel Pruef
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-097-sondervermoegen-bundeswehr-umschichtun`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Umschichtung simulieren. Umschichtung simulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Umschichtung simulieren. Umschichtung simulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Umschichtun
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-098-sondervermoegen-bundeswehr-sperre-bewe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Sperre bewerten. Sperre bewerten für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Sperre bewerten. Sperre bewerten für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Sperre Bewe
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-099-sondervermoegen-bundeswehr-deckung-fin`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Deckung finden. Deckung finden für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Deckung finden. Deckung finden für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Deckung Fin
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-100-sondervermoegen-bundeswehr-szenario-re`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Szenario rechnen. Szenario rechnen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Szenario rechnen. Szenario rechnen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Szenario Re
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-101-sondervermoegen-bundeswehr-dashboard-b`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Dashboard bauen. Dashboard bauen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Dashboard bauen. Dashboard bauen für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Dashboard B
 

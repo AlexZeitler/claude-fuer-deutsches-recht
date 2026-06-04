@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-verjaehrung-grundsch-bis-vollmacht-erteilung
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (verjaehrung-grundschema-paragraphen-194-218, vertreter-ohne-vertretungsmacht-paragraphen-177-179, vollmacht-erteilung-umfang-erloeschen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - bgb-at-pruefer
+# Arbeitsbereich - Verjaehrung Grundschema Paragraphen 194 218, Vertreter Ohne Vertretungsmacht Paragraphen 177 179, Vollmacht Erteilung Umfang Erloeschen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verjaehrung-grundschema-paragraphen-194-218` | Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regelmäßige Verjährungsfrist drei Jahre nach § 195 BGB mit Fristbeginn § 199 BGB, Hemmung §§ 203 bis 213 BGB, Neubeginn § 212 BGB, Einrede der Verjährung und Folge nach § 214 BGB. Prüfraster für Examen. |
 | `vertreter-ohne-vertretungsmacht-paragraphen-177-179` | Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verjaehrung-grundschema-paragraphen-194-218`
 
-**Frühere Beschreibung:** Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regelmäßige Verjährungsfrist drei Jahre nach § 195 BGB mit Fristbeginn § 199 BGB, Hemmung §§ 203 bis 213 BGB, Neubeginn § 212 BGB, Einrede der Verjährung und Folge nach § 214 BGB. Prüfraster für Examen.
+**Fokus:** Klausurfall zum Verjährungsrecht nach §§ 194 bis 218 BGB: regelmäßige Verjährungsfrist drei Jahre nach § 195 BGB mit Fristbeginn § 199 BGB, Hemmung §§ 203 bis 213 BGB, Neubeginn § 212 BGB, Einrede der Verjährung und Folge nach § 214 BGB. Prüfraster für Examen.
 
 # Verjährung — Grundschema §§ 194 bis 218 BGB
 
@@ -112,7 +112,7 @@ verweigern, auch wenn er noch Eigentum haben würde.
 
 ## 2. `vertreter-ohne-vertretungsmacht-paragraphen-177-179`
 
-**Frühere Beschreibung:** Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB.
+**Fokus:** Klausurfall zum vollmachtlosen Vertreter nach §§ 177 bis 179 BGB: schwebende Unwirksamkeit des Vertreterhandelns, Genehmigung des Vertretenen nach § 177 BGB, Widerrufsrecht des Dritten nach § 178 BGB, Haftung des Vertreters auf Erfüllung oder Schadensersatz nach § 179 BGB.
 
 # Vertreter ohne Vertretungsmacht — §§ 177 bis 179 BGB
 
@@ -196,7 +196,7 @@ negative Interesse (Vertrauensschaden).
 
 ## 3. `vollmacht-erteilung-umfang-erloeschen`
 
-**Frühere Beschreibung:** Klausurfall zu Vollmachtserteilung, Vollmachtsumfang und Erlöschen der Vollmacht nach §§ 167 bis 169 BGB: Innen- und Außenvollmacht, Spezial- und Generalvollmacht, Widerruf, Erlöschen nach § 168 BGB und Rechtsscheinwirkung nach §§ 170 bis 172 BGB.
+**Fokus:** Klausurfall zu Vollmachtserteilung, Vollmachtsumfang und Erlöschen der Vollmacht nach §§ 167 bis 169 BGB: Innen- und Außenvollmacht, Spezial- und Generalvollmacht, Widerruf, Erlöschen nach § 168 BGB und Rechtsscheinwirkung nach §§ 170 bis 172 BGB.
 
 # Vollmacht — Erteilung, Umfang und Erlöschen §§ 167 bis 176 BGB
 

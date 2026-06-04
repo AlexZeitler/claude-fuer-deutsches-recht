@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-vc-061-venture-debt-bis-vc-065-insolvency-ru
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (vc-061-venture-debt, vc-063-exit-readiness, vc-064-ma-sale-startup, vc-065-insolvency-runway-crisis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 061 Venture Debt, Vc 063 Exit Readiness, Vc 064 Ma Sale Startup, Vc 065 Insolvency Runway Crisis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - venture-capital-geber
+# Arbeitsbereich - Vc 061 Venture Debt bis Vc 065 Insolvency Runway Crisis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-061-venture-debt` | Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen. |
 | `vc-063-exit-readiness` | Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-061-venture-debt`
 
-**Frühere Beschreibung:** Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen.
+**Fokus:** Prüft Venture Debt, Warrants, Covenants, IP-Sicherheiten, MAC, Defaults und Intercreditor-Fragen.
 
 # Venture Debt
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-063-exit-readiness`
 
-**Frühere Beschreibung:** Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor.
+**Fokus:** Bereitet Portfolio-Unternehmen auf M&A, Secondary, IPO-Pfad oder strategischen Käufer vor.
 
 # Exit Readiness
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-064-ma-sale-startup`
 
-**Frühere Beschreibung:** Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing.
+**Fokus:** Prüft Startup-Verkauf, SPA, Drag, Founder Rollover, Earn-out, IP, W&I und Closing.
 
 # M&A Sale Startup
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-065-insolvency-runway-crisis`
 
-**Frühere Beschreibung:** Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung.
+**Fokus:** Prüft Insolvenzreife-Signale, Geschäftsführerpflichten, Bridge, Rangrücktritt, Gesellschafterdarlehen und Anfechtung.
 
 # Insolvenz, Runway und Krise
 

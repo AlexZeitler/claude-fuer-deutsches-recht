@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-betriebsrat-bis-spezial-datum-formul
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (spezial-betriebsrat-zahlen-schwellen-und-berechnung, spezial-betrvg-behoerden-gericht-und-registerweg, spezial-datum-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behoerden Gericht Und Registerweg, Datum Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Betriebsrat Zahlen Schwellen Und Berechnung, Betrvg Behoerden Gericht Und Registerweg, Datum Formular Portal Und Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-betriebsrat-zahlen-schwellen-und-berechnung` | Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender. |
 | `spezial-betrvg-behoerden-gericht-und-registerweg` | BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-betriebsrat-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender.
+**Fokus:** Betriebsrat: Schwellenwerte für Größe, Zusammensetzung und Freistellungen §§ 9 und 38 BetrVG, Wahlrecht § 7 BetrVG, Betriebsbegriff, geteilte und gemeinsame Betriebe, Gesamtbetriebsrat, Konzernbetriebsrat, Betriebsratswahl-Kalender.
 
 # Spezial: Betriebsrat — Zahlen, Schwellen und Berechnung
 
@@ -167,7 +167,7 @@ Räumlich weit entfernte Betriebsteile oder organisatorisch selbständige Betrie
 
 ## 2. `spezial-betrvg-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer.
+**Fokus:** BetrVG: Behörden, Gerichte und Registerwege — Beschlussverfahren §§ 80 ff. ArbGG, Einigungsstelle §§ 76 BetrVG, Wahlanfechtung § 19 BetrVG, Zustimmungsersetzung § 99 Abs. 4 BetrVG, Beteiligte im Beschlussverfahren, zuständige Kammer.
 
 # Spezial: BetrVG — Behörden, Gericht und Registerweg
 
@@ -299,7 +299,7 @@ Nur bei besonders schwerwiegenden Mängeln, z.B. wenn kein Betrieb vorhanden war
 
 ## 3. `spezial-datum-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare.
+**Fokus:** Datum, Formular, Portal und Einreichung im arbeitsrechtlichen Verfahren: Fristenkalender, elektronische Einreichung ERV/beA, Gerichtsportale Arbeitsgericht, Formulare Klage ArbG, Antragsformulare ELAN-K2, Massenentlassung-Anzeige, BA-Formulare.
 
 # Spezial: Datum, Formular, Portal und Einreichung
 

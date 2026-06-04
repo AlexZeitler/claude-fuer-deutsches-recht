@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-mietrecht-er-bis-spezial-mietspiegel
-description: "mietrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-mietrecht-erstpruefung-und-mandatsziel, spezial-mietsenkungsverlangen-international-schnittstellen, spezial-mietspiegel-behoerden-gericht-und-registerweg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mietrecht Erstpruefung Und Mandatsziel, Mietsenkungsverlangen International Schnittstellen, Mietspiegel Behoerden Gericht Und Registerweg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - mietrecht
+# Arbeitsbereich - Mietrecht Erstpruefung Und Mandatsziel, Mietsenkungsverlangen International Schnittstellen, Mietspiegel Behoerden Gericht Und Registerweg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-mietrecht-erstpruefung-und-mandatsziel` | Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-mietsenkungsverlangen-international-schnittstellen` | Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-mietrecht-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mietrecht: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-mietsenkungsverlangen-international-schnittstellen`
 
-**Frühere Beschreibung:** Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mietsenkungsverlangen: Internationaler Bezug und Schnittstellen
 
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mietspiegel-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Mietspiegel: Behörden-, Gerichts- oder Registerweg im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mietspiegel: Behörden-, Gerichts- oder Registerweg im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mietspiegel: Behörden-, Gerichts- oder Registerweg
 

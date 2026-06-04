@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-aussenwirtschaft-che-bis-aussenwirtschaft-emb
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (aussenwirtschaft-chemikalien-reach-pic, aussenwirtschaft-cites-artenschutz, aussenwirtschaft-dual-use-forschung-hochschule, aussenwirtschaft-embargo-belarus) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Chemikalien Reach Pic, Aussenwirtschaft Cites Artenschutz, Aussenwirtschaft Dual Use Forschung Hochschule, Aussenwirtschaft Embargo Belarus; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Chemikalien Reach Pic bis Aussenwirtschaft Embargo Belarus
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-chemikalien-reach-pic` | REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote fuer nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben. |
 | `aussenwirtschaft-cites-artenschutz` | Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-chemikalien-reach-pic`
 
-**Frühere Beschreibung:** REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote fuer nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben.
+**Fokus:** REACH-Konformitaet und PIC-Verfahren (Prior Informed Consent) bei Im- und Export von gefaehrlichen Chemikalien: VO (EG) 1907/2006 REACH und VO (EU) 649/2012. Registrierung, Auskunftspflichten und Verbote fuer nicht-EU-Exporte. Ansprechpartner ECHA und Hauptzollamt. Output: REACH/PIC-Compliance-Checkliste und Behordenschreiben.
 
 # REACH und PIC: Chemikalien-Compliance im Aussenhandel
 
@@ -116,7 +116,7 @@ REACH/PIC-Compliance-Checkliste, Exportbenachrichtigungsschreiben an ECHA, SDS-P
 
 ## 2. `aussenwirtschaft-cites-artenschutz`
 
-**Frühere Beschreibung:** Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung.
+**Fokus:** Artenschutz-Pflichten bei Im- und Export von CITES-geschuetzten Tieren und Pflanzen: VO (EG) 338/97 und CITES-Uebereinkommen. CITES-Genehmigungsverfahren Anhang A-D, zustaendige Behoerden (BfN, Zoll), Ausnahmen und Bescheinigungen. Fallkonstellation: Kunsthaendler importiert Elfenbein-Antiken. Output: CITES-Genehmigungspaket und Artenschutzbescheinigung.
 
 # CITES-Artenschutz: Genehmigungen fuer geschuetzte Arten im Aussenhandel
 
@@ -203,7 +203,7 @@ CITES-Genehmigungspaket mit Antragsformularen, Artbestimmungsprotokoll, Herkunft
 
 ## 3. `aussenwirtschaft-dual-use-forschung-hochschule`
 
-**Frühere Beschreibung:** Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen fuer Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk fuer Forschungsvorhaben.
+**Fokus:** Exportkontrolle im Hochschul- und Forschungskontext: Dual-Use-Pruefung fuer akademischen Wissenstransfer, Publikationen, Konferenzbetraege, Forschungskooperationen und Software nach VO (EU) 2021/821 und AWG. Ausnahmen fuer Grundlagenforschung und oeffentlich zugaengliches Wissen. Besondere Risiken bei technischer Ausbildung auslaendischer Studierender. Output: Pruefvermerk fuer Forschungsvorhaben.
 
 # Dual-Use in Forschung und Hochschule: Wissenstransfer und Exportkontrolle
 
@@ -290,7 +290,7 @@ Pruefvermerk fuer Forschungsvorhaben mit Listeneintrag-Analyse, Ausnahmenbegruen
 
 ## 4. `aussenwirtschaft-embargo-belarus`
 
-**Frühere Beschreibung:** EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Pruefung von Handelsbeziehungen mit belarussischen Parteien. Output: Embargo-Pruefungsvermerk und Screeningprotokoll.
+**Fokus:** EU-Belarus-Sanktionsregime nach VO (EU) 765/2006 und VO (EU) 2022/576 (Russland-Belarus-Gueterembargoerweiterung): gelistete Personen und Unternehmen, Guetersanktionen, Dienstleistungsverbote und Exportbeschraenkungen. Besondere Risiken: Umgehung von Russland-Embargo ueber Belarus. Pruefung von Handelsbeziehungen mit belarussischen Parteien. Output: Embargo-Pruefungsvermerk und Screeningprotokoll.
 
 # Embargo Belarus: Sanktionsregime und Umgehungsrisiken
 

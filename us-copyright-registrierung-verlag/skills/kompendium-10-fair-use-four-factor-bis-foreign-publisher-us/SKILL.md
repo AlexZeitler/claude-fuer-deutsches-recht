@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-fair-use-four-factor-bis-foreign-publisher-us
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (fair-use-four-factors-107, fashion-jewelry-useful-article, fixation-originality-human-authorship, foreign-publisher-us-distribution) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fair Use Four Factors 107, Fashion Jewelry Useful Article, Fixation Originality Human Authorship, Foreign Publisher Us Distribution; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Fair Use Four Factors 107 bis Foreign Publisher Us Distribution
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fair-use-four-factors-107` | Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix. |
 | `fashion-jewelry-useful-article` | Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fair-use-four-factors-107`
 
-**Frühere Beschreibung:** Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix.
+**Fokus:** Prueft Fair Use nach § 107 mit Zweck, Werkart, Umfang/Substantiality und Markteffekt in belastbarer Matrix.
 
 # Fair Use Four Factors
 
@@ -98,7 +98,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `fashion-jewelry-useful-article`
 
-**Frühere Beschreibung:** Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives.
+**Fokus:** Prueft Mode, Schmuck, Muster, Stoffdruck, separability, useful articles, trade dress and design patent alternatives.
 
 # Fashion, Jewelry und Product Design
 
@@ -166,7 +166,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `fixation-originality-human-authorship`
 
-**Frühere Beschreibung:** Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial.
+**Fokus:** Prueft Fixierung, minimale Originalitaet und menschliche Autorenschaft im US-Copyright, besonders bei AI- und Softwarematerial.
 
 # Fixation, Originality und Human Authorship
 
@@ -234,7 +234,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `foreign-publisher-us-distribution`
 
-**Frühere Beschreibung:** Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie.
+**Fokus:** Deutscher Verlag mit US-Vertrieb: Import, Distributor, Plattformverkauf, first foreign edition, U.S.-Mandatory-Deposit-Risiko und Registrierungsstrategie.
 
 # Foreign Publisher und US Distribution
 

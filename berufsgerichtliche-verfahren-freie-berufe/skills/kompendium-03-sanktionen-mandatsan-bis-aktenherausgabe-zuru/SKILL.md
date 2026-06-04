@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-sanktionen-mandatsan-bis-aktenherausgabe-zuru
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (sanktionen-mandatsannahme-praevention, sanktionen-mandatsannahme-verteidigung, aktenherausgabe-zurueckbehaltungsrecht-praevention, aktenherausgabe-zurueckbehaltungsrecht-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sanktionen Mandatsannahme Praevention, Sanktionen Mandatsannahme Verteidigung, Aktenherausgabe Zurueckbehaltungsrecht Praevention, Aktenherausgabe Zurueckbehaltungsrecht Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Sanktionen Mandatsannahme Praevention bis Aktenherausgabe Zurueckbehaltungsrecht Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sanktionen-mandatsannahme-praevention` | Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `sanktionen-mandatsannahme-verteidigung` | Sanktionen und Mandatsannahme (Verteidigungs- und Kammerantwort): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sanktionen-mandatsannahme-praevention`
 
-**Frühere Beschreibung:** Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Sanktionen und Mandatsannahme (Präventions- und Organisationspaket): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Sanktionen und Mandatsannahme: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `sanktionen-mandatsannahme-verteidigung`
 
-**Frühere Beschreibung:** Sanktionen und Mandatsannahme (Verteidigungs- und Kammerantwort): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Sanktionen und Mandatsannahme (Verteidigungs- und Kammerantwort): steuert Sanktionslisten, embargobehaftete Mandate, Zahlungsannahme und Niederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Sanktionen und Mandatsannahme: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `aktenherausgabe-zurueckbehaltungsrecht-praevention`
 
-**Frühere Beschreibung:** Aktenherausgabe und Zurückbehaltungsrecht (Präventions- und Organisationspaket): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Aktenherausgabe und Zurückbehaltungsrecht (Präventions- und Organisationspaket): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Aktenherausgabe und Zurückbehaltungsrecht: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `aktenherausgabe-zurueckbehaltungsrecht-verteidigung`
 
-**Frühere Beschreibung:** Aktenherausgabe und Zurückbehaltungsrecht (Verteidigungs- und Kammerantwort): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Aktenherausgabe und Zurückbehaltungsrecht (Verteidigungs- und Kammerantwort): steuert Herausgabe der Handakte, digitale Akte, Zurückbehaltungsrecht, Datenschutz und Fristensicherung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Aktenherausgabe und Zurückbehaltungsrecht: Verteidigungs- und Kammerantwort
 

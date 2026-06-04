@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-versorgungswerk-und-bis-widerspruch-sozialge
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (versorgungswerk-und-drv-parallel, widerspruch-sozialgericht-klage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - rentenpruefer
+# Arbeitsbereich - Versorgungswerk Und Drv Parallel, Widerspruch Sozialgericht Klage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versorgungswerk-und-drv-parallel` | Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche. |
 | `widerspruch-sozialgericht-klage` | Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versorgungswerk-und-drv-parallel`
 
-**Frühere Beschreibung:** Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche.
+**Fokus:** Parallelität von Versorgungswerk und DRV: Befreiungslücken, frühere Beschäftigungen, Nachversicherung, Doppelversicherung und Koordination mehrerer Ansprüche.
 
 # versorgungswerk-und-drv-parallel
 
@@ -67,7 +67,7 @@ Systemkarte und Handlungsempfehlung.
 
 ## 2. `widerspruch-sozialgericht-klage`
 
-**Frühere Beschreibung:** Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH.
+**Fokus:** Widerspruch und Sozialgerichtsklage in Rentensachen: Frist, Form, Begründung, Akteneinsicht, Gutachten, Eilrechtsschutz und PKH.
 
 # widerspruch-sozialgericht-klage
 

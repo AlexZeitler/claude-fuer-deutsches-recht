@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-umweltrecht-immissio-bis-umweltrecht-natursch
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (umweltrecht-immissionsschutz-bimschg, umweltrecht-kommandocenter, umweltrecht-naturschutz-artenschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - umweltrecht
+# Arbeitsbereich - Umweltrecht Immissionsschutz Bimschg, Umweltrecht Kommandocenter, Umweltrecht Naturschutz Artenschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umweltrecht-immissionsschutz-bimschg` | Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall). |
 | `umweltrecht-kommandocenter` | Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umweltrecht-immissionsschutz-bimschg`
 
-**Frühere Beschreibung:** Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall).
+**Fokus:** Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall).
 
 # Immissionsschutz und BImSchG
 
@@ -190,7 +190,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `umweltrecht-kommandocenter`
 
-**Frühere Beschreibung:** Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing).
+**Fokus:** Umweltmandat-Einstieg: Intake Anlagenkarte Behoerdenkarte Fristen Risiken naechstes Arbeitsprodukt. Routing zu BImSchG KrWG WHG BBodSchG TEHG BNatSchG-Skills. Normen je nach Routing. Prüfraster Mandanten-Typ-Identifikation Sachgebiets-Routing Triage-Matrix. Output Mandat-Karte Routing-Empfehlung Naechste-Schritte-Plan. Abgrenzung zu allen Fach-Skills (nur Master-Routing).
 
 # Umweltrecht-Kommandocenter
 
@@ -294,7 +294,7 @@ OFFENE FRAGEN / BENOETIGT:
 
 ## 3. `umweltrecht-naturschutz-artenschutz`
 
-**Frühere Beschreibung:** Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Prüfraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Prüfung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage).
+**Fokus:** Unternehmen plant Bauvorhaben mit naturschutzrechtlichem Eingriff oder Artenschutz-Konflikt. FFH-Vertraeglichkeit Artenschutz §§ 44 45 BNatSchG Kompensationspflichten. Normen BNatSchG §§ 13-19 34-36 44-45 FFH-RL 92/43/EWG Vogelschutz-RL. Prüfraster Eingriffs-Ausgleichs-Regelung saP-Gutachten FFH-Vertraeglichkeit Verbandsklagebefugnis. Output Artenschutz-Prüfung Kompensationskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-verfahren (Klage).
 
 # Naturschutz und Artenschutz
 

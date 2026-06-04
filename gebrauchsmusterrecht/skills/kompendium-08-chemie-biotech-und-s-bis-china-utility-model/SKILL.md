@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-chemie-biotech-und-s-bis-china-utility-model
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (chemie-biotech-und-stoffschutz, china-utility-model-vergleich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chemie Biotech Und Stoffschutz, China Utility Model Vergleich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - gebrauchsmusterrecht
+# Arbeitsbereich - Chemie Biotech Und Stoffschutz, China Utility Model Vergleich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chemie-biotech-und-stoffschutz` | Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute. |
 | `china-utility-model-vergleich` | China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chemie-biotech-und-stoffschutz`
 
-**Frühere Beschreibung:** Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute.
+**Fokus:** Chemie-, Pharma-, Biotech- und Stoffschutz im Gebrauchsmusterrecht einordnen: Schutzgegenstand, Ausschlüsse, Erzeugnisbezug und Patentroute.
 
 # Chemie Biotech Und Stoffschutz
 
@@ -59,7 +59,7 @@ Route-Entscheidung und Counsel-Fragen.
 
 ## 2. `china-utility-model-vergleich`
 
-**Frühere Beschreibung:** China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken.
+**Fokus:** China Utility Model als Vergleich und Counsel-Briefing: schneller Schutz, Produktbezug, Durchsetzung, lokale Prüfung und Kollisionsrisiken.
 
 # China Utility Model Vergleich
 

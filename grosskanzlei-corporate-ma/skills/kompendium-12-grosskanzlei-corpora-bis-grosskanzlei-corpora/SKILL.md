@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 12; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-auction-process-letter, grosskanzlei-corporate-ma-authority-matrix-approvals, grosskanzlei-corporate-ma-automation-monitoring, grosskanzlei-corporate-ma-bank-consents-change-control, grosskanzlei-corporate-ma-bidder-instructions-vdr-rules und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Auction Process Letter, Grosskanzlei Corporate Ma Authority Matrix Approvals, Grosskanzlei Corporate Ma Automation Monitoring, Grosskanzlei Corporate Ma Bank Consents Change Control und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Auction Process Letter bis Grosskanzlei Corporate Ma Board Consents Minutes Resolutions
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-auction-process-letter` | Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln. |
 | `grosskanzlei-corporate-ma-authority-matrix-approvals` | Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-auction-process-letter`
 
-**Frühere Beschreibung:** Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.
+**Fokus:** Auction Process Letter Generator: erstellt und prueft Prozessbriefe fuer strukturierte Verkaufs- und Bieterverfahren mit Deadlines, Bid Requirements und Verfahrensregeln.
 
 # Auction Process Letter
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-authority-matrix-approvals`
 
-**Frühere Beschreibung:** Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben.
+**Fokus:** Authority Matrix und Approvals Skill: prueft Zeichnungsberechtigungen, Gremienkompetenzen, Vollmachten, Gesellschafterbeschluesse, Board Consents und interne Freigaben.
 
 # Authority Matrix Approvals
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-automation-monitoring`
 
-**Frühere Beschreibung:** Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Prüfraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO für manuelle Aufgabenlisten und zu Fristen-CP-Kalender.
+**Fokus:** Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen. §§ 35 ff. GWB Kartellrechtsfristen, §§ 55 ff. AWV FDI-Fristen, Art. 17 MAR Ad-hoc-Monitoring. Prüfraster Eskalationsregeln Owner-Matrix Stop-Schwellen PMI-Aufgaben News-Monitoring. Output Monitoring-Plan mit Trigger-Logik Eskalationspfad und Verantwortlichkeitsmatrix. Abgrenzung zu Steps-Plan-PMO für manuelle Aufgabenlisten und zu Fristen-CP-Kalender.
 
 # Automationen und Monitoring (Corporate M&A)
 
@@ -396,7 +396,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-bank-consents-change-control`
 
-**Frühere Beschreibung:** Bank Consents und Change-of-Control in Finanzierungsvertraegen: erkennt Consent-Pflichten, Default-Risiken, Waiver-Bedarf und Closing-CPs.
+**Fokus:** Bank Consents und Change-of-Control in Finanzierungsvertraegen: erkennt Consent-Pflichten, Default-Risiken, Waiver-Bedarf und Closing-CPs.
 
 # Bank Consents Change Control
 
@@ -486,7 +486,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-bidder-instructions-vdr-rules`
 
-**Frühere Beschreibung:** Bidder Instructions und VDR Rules fuer grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen.
+**Fokus:** Bidder Instructions und VDR Rules fuer grosse M&A-Prozesse: formuliert Datenraumregeln, Q&A-Disziplin, Upload-Standards, Clean-Room-Grenzen und Sanktionen bei Prozessverstoessen.
 
 # Bidder Instructions VDR Rules
 
@@ -576,7 +576,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-billing-narratives`
 
-**Frühere Beschreibung:** Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung.
+**Fokus:** Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung.
 
 # Big-Law Billing Narratives (Corporate M&A)
 
@@ -804,7 +804,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-board-consents-minutes-resolutions`
 
-**Frühere Beschreibung:** Board Consents, Minutes und Resolutions fuer M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.
+**Fokus:** Board Consents, Minutes und Resolutions fuer M&A: erstellt Beschlussvorlagen, Protokolle, Umlaufbeschluesse und Entscheidungsunterlagen mit Business-Judgment-Absicherung.
 
 # Board Consents Minutes Resolutions
 

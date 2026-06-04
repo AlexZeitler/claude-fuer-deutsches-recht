@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-vdg-056-plattform-sp-bis-vdg-060-plattform-sp
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (vdg-056-plattform-sperre-beweisplan-erstellen, vdg-057-plattform-sperre-vergleich-pruefen, vdg-058-plattform-sperre-umsetzung-ueberwachen, vdg-060-plattform-sperre-risiko-rot-markieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 056 Plattform Sperre Beweisplan Erstellen, Vdg 057 Plattform Sperre Vergleich Pruefen, Vdg 058 Plattform Sperre Umsetzung Ueberwachen, Vdg 060 Plattform Sperre Risiko Rot Markieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 056 Plattform Sperre Beweisplan Erstellen bis Vdg 060 Plattform Sperre Risiko Rot Markieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-056-plattform-sperre-beweisplan-erstellen` | Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Beweisplan erstellen. Beweisplan erstellen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-057-plattform-sperre-vergleich-pruefen` | Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Vergleich prüfen. Vergleich prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-056-plattform-sperre-beweisplan-erstellen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Beweisplan erstellen. Beweisplan erstellen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Beweisplan erstellen. Beweisplan erstellen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Beweisplan Erstellen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-057-plattform-sperre-vergleich-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Vergleich prüfen. Vergleich prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Vergleich prüfen. Vergleich prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Vergleich Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-058-plattform-sperre-umsetzung-ueberwachen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Umsetzung überwachen. Umsetzung überwachen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Umsetzung überwachen. Umsetzung überwachen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Umsetzung Ueberwachen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-060-plattform-sperre-risiko-rot-markieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Risiko rot markieren. Risiko rot markieren für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Risiko rot markieren. Risiko rot markieren für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Risiko Rot Markieren
 

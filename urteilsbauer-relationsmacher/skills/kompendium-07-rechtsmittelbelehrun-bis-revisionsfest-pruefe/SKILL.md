@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-rechtsmittelbelehrun-bis-revisionsfest-pruefe
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (rechtsmittelbelehrung-zivil, relation-zivil, revisionsfest-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Rechtsmittelbelehrung Zivil, Relation Zivil, Revisionsfest Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsmittelbelehrung-zivil` | Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `relation-zivil` | Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/Replikstation, Beweisstation, Tenorierungsstation, Nebenentscheidungen. Output Vollrelation (Schulstandard) oder Kurzfassung (Praxis). Abgrenzung: Vollständige Langfassung siehe vollrelation-langfassung; Familienrichter-Spezifika siehe familienrichter-spezifika. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsmittelbelehrung-zivil`
 
-**Frühere Beschreibung:** Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu rechtsmittelbelehrung zivil. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Rechtsmittelbelehrung Zivil
 
@@ -119,7 +119,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 
 ## 2. `relation-zivil`
 
-**Frühere Beschreibung:** Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/Replikstation, Beweisstation, Tenorierungsstation, Nebenentscheidungen. Output Vollrelation (Schulstandard) oder Kurzfassung (Praxis). Abgrenzung: Vollständige Langfassung siehe vollrelation-langfassung; Familienrichter-Spezifika siehe familienrichter-spezifika.
+**Fokus:** Zivilrechtliche Relation nach klassischer Relationstechnik erstellen: Referendar oder Richter erstellt Entscheidungsunterlage vor Urteilsabfassung. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Streitgegenstand, Zulässigkeitsstation, Schluessigkeitsstation, Klaeger-/Beklagten-/Replikstation, Beweisstation, Tenorierungsstation, Nebenentscheidungen. Output Vollrelation (Schulstandard) oder Kurzfassung (Praxis). Abgrenzung: Vollständige Langfassung siehe vollrelation-langfassung; Familienrichter-Spezifika siehe familienrichter-spezifika.
 
 # Relation Zivilprozess - Vollrelation nach deutschem Standard
 
@@ -263,7 +263,7 @@ Die Relation muss am Ende eindeutig sagen:
 
 ## 3. `revisionsfest-pruefen`
 
-**Frühere Beschreibung:** Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand.
+**Fokus:** Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand.
 
 # Revisionsfestigkeit prüfen
 

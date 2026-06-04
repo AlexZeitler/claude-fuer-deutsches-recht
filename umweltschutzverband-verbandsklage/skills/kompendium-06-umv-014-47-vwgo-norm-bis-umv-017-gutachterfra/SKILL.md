@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-umv-014-47-vwgo-norm-bis-umv-017-gutachterfra
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (umv-014-47-vwgo-normenkontrolle, umv-015-eilrechtsschutz-gegen-vollzug, umv-016-aktenauswertung-behoerdenordner, umv-017-gutachterfragen-formulieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 014 47 Vwgo Normenkontrolle, Umv 015 Eilrechtsschutz Gegen Vollzug, Umv 016 Aktenauswertung Behoerdenordner, Umv 017 Gutachterfragen Formulieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 014 47 Vwgo Normenkontrolle bis Umv 017 Gutachterfragen Formulieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-014-47-vwgo-normenkontrolle` | Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-015-eilrechtsschutz-gegen-vollzug` | Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-014-47-vwgo-normenkontrolle`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: § 47 VwGO Normenkontrolle. § 47 VwGO Normenkontrolle im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # 47 Vwgo Normenkontrolle
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-015-eilrechtsschutz-gegen-vollzug`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Eilrechtsschutz gegen Vollzug. Eilrechtsschutz gegen Vollzug im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Eilrechtsschutz Gegen Vollzug
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-016-aktenauswertung-behoerdenordner`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Aktenauswertung Behördenordner. Aktenauswertung Behördenordner im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Aktenauswertung Behördenordner. Aktenauswertung Behördenordner im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Aktenauswertung Behoerdenordner
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-017-gutachterfragen-formulieren`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Gutachterfragen formulieren. Gutachterfragen formulieren im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Gutachterfragen formulieren. Gutachterfragen formulieren im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Gutachterfragen Formulieren
 

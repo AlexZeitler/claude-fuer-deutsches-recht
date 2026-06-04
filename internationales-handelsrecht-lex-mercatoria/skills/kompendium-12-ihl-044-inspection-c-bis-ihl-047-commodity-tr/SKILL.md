@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-ihl-044-inspection-c-bis-ihl-047-commodity-tr
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (ihl-044-inspection-certificate, ihl-045-late-delivery-liquidated-damages, ihl-046-penalty-vs-liquidated-damages, ihl-047-commodity-trade) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 044 Inspection Certificate, Ihl 045 Late Delivery Liquidated Damages, Ihl 046 Penalty Vs Liquidated Damages, Ihl 047 Commodity Trade; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 044 Inspection Certificate bis Ihl 047 Commodity Trade
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-044-inspection-certificate` | Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen. |
 | `ihl-045-late-delivery-liquidated-damages` | Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-044-inspection-certificate`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen.
+**Fokus:** Internationales Handelsrecht: Inspektionszertifikat im internationalen Handel. Arten (Quantitäts-, Qualitäts-, Herkunftszertifikat), Anforderungen nach UCP 600 Art. 26, Aussteller (SGS, Bureau Veritas, Intertek), und Wirkung als Beweisurkunde in Streitfällen.
 
 # Inspektionszertifikat
 
@@ -80,7 +80,7 @@ UCP 600 Art. 26: iccwbo.org. CISG Art. 35/38: uncitral.un.org. ISO/IEC 17020: is
 
 ## 2. `ihl-045-late-delivery-liquidated-damages`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen.
+**Fokus:** Internationales Handelsrecht: Lieferverzug und Liquidated Damages im internationalen Kaufvertrag. CISG Art. 45/74 als Grundlage, Klauselgestaltung, Vorhersehbarkeitsgrenzen, Verhältnis zu CISG-Schadensersatz und Penalty-Kontrolle in verschiedenen Rechtsordnungen.
 
 # Lieferverzug und Liquidated Damages
 
@@ -132,7 +132,7 @@ CISG Art. 74: uncitral.un.org. BGB §§ 339-345: gesetze-im-internet.de. Cavendi
 
 ## 3. `ihl-046-penalty-vs-liquidated-damages`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge.
+**Fokus:** Internationales Handelsrecht: Abgrenzung Penalty vs. Liquidated Damages in Common Law und Civil Law. Cavendish-Test (UK 2015), PICC Art. 7.4.13 Reduktionsrecht, § 343 BGB Mäßigung und rechtsvergleichende Analyse für internationale Verträge.
 
 # Penalty vs. Liquidated Damages: Rechtsvergleich
 
@@ -184,7 +184,7 @@ Cavendish [2015] UKSC 67: bailii.org. BGB §§ 339, 343: gesetze-im-internet.de.
 
 ## 4. `ihl-047-commodity-trade`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit.
+**Fokus:** Internationales Handelsrecht: Commodity-Handel — Rohstoff- und Agrarprodukthandel. GAFTA/FOSFA-Standardverträge, ISDA-Rahmenverträge für Derivate, Preissicherung (Hedging), String-Trading-Struktur, Ware-Dokument-Prinzip und CISG-Anwendbarkeit.
 
 # Commodity Trade
 

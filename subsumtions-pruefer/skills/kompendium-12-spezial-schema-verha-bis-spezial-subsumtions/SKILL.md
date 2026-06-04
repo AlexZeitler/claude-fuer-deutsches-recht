@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-schema-verha-bis-spezial-subsumtions
-description: "subsumtions-pruefer: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-schema-verhandlung-vergleich-und-eskalation, spezial-schritt-schriftsatz-brief-und-memo-bausteine, spezial-subsumtions-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "subsumtions-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - subsumtions-pruefer
+# Arbeitsbereich - Schema Verhandlung Vergleich Und Eskalation, Schritt Schriftsatz Brief Und Memo Bausteine, Subsumtions Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-schema-verhandlung-vergleich-und-eskalation` | Schema: Verhandlung, Vergleich und Eskalation im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-schritt-schriftsatz-brief-und-memo-bausteine` | Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-schema-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Schema: Verhandlung, Vergleich und Eskalation im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schema: Verhandlung, Vergleich und Eskalation im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schema: Verhandlung, Vergleich und Eskalation
 
@@ -138,7 +138,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-schritt-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schritt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -283,7 +283,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-subsumtions-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Subsumtions: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin subsumtions-pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Subsumtion: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

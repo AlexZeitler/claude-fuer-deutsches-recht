@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bericht-arbeitsunfal-bis-bericht-auskunftspfl
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (bericht-arbeitsunfall-dguv, bericht-audit-trail-freigabe, bericht-auskunftspflicht-bstatg-15) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Arbeitsunfall Dguv, Bericht Audit Trail Freigabe, Bericht Auskunftspflicht Bstatg 15
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-arbeitsunfall-dguv` | Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation. |
 | `bericht-audit-trail-freigabe` | Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-arbeitsunfall-dguv`
 
-**Frühere Beschreibung:** Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation.
+**Fokus:** Arbeitsunfall/Berufskrankheit melden: Drei-Tage-Regel, Unfallanzeige, Betriebsrat, Fachkraft, Berufsgenossenschaft und Dokumentation.
 
 # Arbeitsunfallanzeige DGUV
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-audit-trail-freigabe`
 
-**Frühere Beschreibung:** Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie.
+**Fokus:** Audit-Trail für Meldungen: Version, Quelle, Berechnung, Prüfung, Freigabe, Versand und Korrekturhistorie.
 
 # Audit-Trail und Vier-Augen-Freigabe
 
@@ -112,7 +112,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-auskunftspflicht-bstatg-15`
 
-**Frühere Beschreibung:** Amtliche Erhebungen verstehen: Auskunftspflicht, Stichprobe, elektronische Meldung, Fristverlängerung, Geheimhaltung und Grenzen der Datenanforderung.
+**Fokus:** Amtliche Erhebungen verstehen: Auskunftspflicht, Stichprobe, elektronische Meldung, Fristverlängerung, Geheimhaltung und Grenzen der Datenanforderung.
 
 # Amtliche Statistik und Auskunftspflicht § 15 BStatG
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-notariat-031-umwandl-bis-notariat-033-unterne
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis, notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht, notariat-033-unternehmensnachfolge-anteilsabtretung-niessbrauch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat 033 Unternehmensnachfolge Anteilsabtretung Niessbrauch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - notariat-alltag
+# Arbeitsbereich - Notariat 031 Umwandlung Verschmelzung Spaltung Formwechsel Regis, Notariat 032 Kapitalerhoehung Barkapital Sachkapital Bezugsrecht, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis` | Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen. |
 | `notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht` | Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-031-umwandlung-verschmelzung-spaltung-formwechsel-regis`
 
-**Frühere Beschreibung:** Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen.
+**Fokus:** Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug. UmwG-Verfahren, notarielle Beurkundungspflichten, Handelsregisteranmeldung und Vollzugsvoraussetzungen bei Umstrukturierungen.
 
 # Notariat im Alltag: Umwandlung – Verschmelzung, Spaltung, Formwechsel, Registervollzug
 
@@ -112,7 +112,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-032-kapitalerhoehung-barkapital-sachkapital-bezugsrecht`
 
-**Frühere Beschreibung:** Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung.
+**Fokus:** Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht und Handelsregister. Notarielle Anforderungen für GmbH- und AG-Kapitalerhöhungen, Übernahmeerklärung, Einzahlungsnachweis und HR-Anmeldung.
 
 # Notariat im Alltag: Kapitalerhöhung – Barkapital, Sachkapital, Bezugsrecht, HR
 
@@ -202,7 +202,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-033-unternehmensnachfolge-anteilsabtretung-niessbrauch`
 
-**Frühere Beschreibung:** Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag.
+**Fokus:** Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch und Stimmrechtsbindung. Strukturierung der Unternehmensnachfolge mittels GmbH-Anteilsabtretung, Nießbrauchsvorbehalt und Poolvertrag.
 
 # Notariat im Alltag: Unternehmensnachfolge – Anteilsabtretung, Nießbrauch, Stimmrechtsbindung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-nda-intake-rollen-un-bis-nda-und-escrow
-description: "nda-verschwiegenheit-generator-checker: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (nda-intake-rollen-und-ziel, nda-mit-non-solicit-abgrenzung, nda-und-audit-rights, nda-und-escrow) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-verschwiegenheit-generator-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nda Intake Rollen Und Ziel, Nda Mit Non Solicit Abgrenzung, Nda Und Audit Rights, Nda Und Escrow; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - nda-verschwiegenheit-generator-checker
+# Arbeitsbereich - Nda Intake Rollen Und Ziel bis Nda Und Escrow
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nda-intake-rollen-und-ziel` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Intake Rollen Und Ziel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `nda-mit-non-solicit-abgrenzung` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Mit Non Solicit Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nda-intake-rollen-und-ziel`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Intake Rollen Und Ziel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Intake Rollen Und Ziel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Intake Rollen Und Ziel
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nda-mit-non-solicit-abgrenzung`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Mit Non Solicit Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Mit Non Solicit Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Mit Non Solicit Abgrenzung
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `nda-und-audit-rights`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Audit Rights; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Audit Rights; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Audit Rights
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `nda-und-escrow`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Escrow; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Escrow; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Escrow
 

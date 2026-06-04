@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vorstandsvorlage-gut-bis-zag-e-geld-institut
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (vorstandsvorlage-gutachten, wpig-wertpapierinstitut-schnittstelle, zag-agenten-auslagerung-register, zag-ausnahmen-limited-network-commercial-agent, zag-e-geld-institut-emoney) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorstandsvorlage Gutachten, Wpig Wertpapierinstitut Schnittstelle, Zag Agenten Auslagerung Register, Zag Ausnahmen Limited Network Commercial Agent und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - bank-rechtsabteilung
+# Arbeitsbereich - Vorstandsvorlage Gutachten bis Zag E Geld Institut Emoney
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vorstandsvorlage-gutachten` | Vorstandsvorlage und juristisches Gutachten für eine Bank erstellen: Entscheidungssatz, Risikoampel, Handlungsoptionen, Beschlussvorschlag, Annahmen, Quellen und Anlagenverzeichnis. |
 | `wpig-wertpapierinstitut-schnittstelle` | WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vorstandsvorlage-gutachten`
 
-**Frühere Beschreibung:** Vorstandsvorlage und juristisches Gutachten für eine Bank erstellen: Entscheidungssatz, Risikoampel, Handlungsoptionen, Beschlussvorschlag, Annahmen, Quellen und Anlagenverzeichnis.
+**Fokus:** Vorstandsvorlage und juristisches Gutachten für eine Bank erstellen: Entscheidungssatz, Risikoampel, Handlungsoptionen, Beschlussvorschlag, Annahmen, Quellen und Anlagenverzeichnis.
 
 # Vorstandsvorlage
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `wpig-wertpapierinstitut-schnittstelle`
 
-**Frühere Beschreibung:** WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen.
+**Fokus:** WpIG-Schnittstellen prüfen, wenn Bankgruppe, Wertpapierinstitut, Vermittler oder Tochtergesellschaft beteiligt sind: Rollen, Erlaubnis, Eigenmittel, Auslagerung und Governance abgrenzen.
 
 # WpIG-Schnittstelle
 
@@ -260,7 +260,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `zag-agenten-auslagerung-register`
 
-**Frühere Beschreibung:** ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister.
+**Fokus:** ZAG-Agenten, E-Geld-Agenten und Auslagerung prüfen: Register, Haftung, Weisungen, Schulungen, AML, Kundenkommunikation, Passporting und Abgrenzung zum bloßen Dienstleister.
 
 # ZAG-Agenten, E-Geld-Agenten und Auslagerung
 
@@ -307,7 +307,7 @@ gesetze-im-internet.de (ZAG, GwG), eur-lex.europa.eu (DORA VO 2022/2554), eba.eu
 
 ## 4. `zag-ausnahmen-limited-network-commercial-agent`
 
-**Frühere Beschreibung:** ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken.
+**Fokus:** ZAG-Ausnahmen tief prüfen: begrenztes Netz, begrenzte Produktpalette, Handelsvertreterausnahme, technische Dienstleister, Konzernprivileg und digitale Plattformrisiken.
 
 # ZAG-Ausnahmen
 
@@ -421,7 +421,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `zag-e-geld-institut-emoney`
 
-**Frühere Beschreibung:** E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage.
+**Fokus:** E-Geld-Institut und E-Geld-Geschäft nach ZAG prüfen: Ausgabe, Rücktausch, monetärer Wert, Akzeptanzstellen, Sicherungsmittel, Eigenmittel, Vertrieb und Abgrenzung zu Gutschein, Token und Einlage.
 
 # E-Geld-Institut und E-Geld-Geschäft nach ZAG
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-anfg-einreden-und-ve-bis-anfg-rechtsfolge-rue
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (anfg-einreden-und-verteidigung-anfechtungsgegner, anfg-grundtatbestand-und-anfechtungsberechtigte, anfg-mittelbare-benachteiligung-und-kongruenz, anfg-rechtsfolge-rueckgewaehr-11) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfg Einreden Und Verteidigung Anfechtungsgegner, Anfg Grundtatbestand Und Anfechtungsberechtigte, Anfg Mittelbare Benachteiligung Und Kongruenz, Anfg Rechtsfolge Rueckgewaehr 11; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Anfg Einreden Und Verteidigung Anfechtungsgegner bis Anfg Rechtsfolge Rueckgewaehr 11
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfg-einreden-und-verteidigung-anfechtungsgegner` | Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO. |
 | `anfg-grundtatbestand-und-anfechtungsberechtigte` | Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfg-einreden-und-verteidigung-anfechtungsgegner`
 
-**Frühere Beschreibung:** Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO.
+**Fokus:** Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjährung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO.
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG
 
@@ -96,7 +96,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `anfg-grundtatbestand-und-anfechtungsberechtigte`
 
-**Frühere Beschreibung:** Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung.
+**Fokus:** Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klären: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lückenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeröffnung.
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte
 
@@ -164,7 +164,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anfg-mittelbare-benachteiligung-und-kongruenz`
 
-**Frühere Beschreibung:** Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzprüfung §§ 130 131 InsO.
+**Fokus:** Kongruente und inkongruente Deckung sowie mittelbare Gläubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Prüfraster: unmittelbar vs. mittelbar begünstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmöglichkeit. Output: Prüfliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzprüfung §§ 130 131 InsO.
 
 # Mittelbare Benachteiligung und Kongruenz — AnfG
 
@@ -232,7 +232,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `anfg-rechtsfolge-rueckgewaehr-11`
 
-**Frühere Beschreibung:** Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz, Bösgläubigkeit, Umfang der Rückgewähr. Output: Tenorvorschlag Duldungsurteil und Wertersatzberechnung. Abgrenzung: nicht InsO-Rechtsfolgen §§ 143 ff. InsO.
+**Fokus:** Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Prüfraster: Duldung vs. Wertersatz, Bösgläubigkeit, Umfang der Rückgewähr. Output: Tenorvorschlag Duldungsurteil und Wertersatzberechnung. Abgrenzung: nicht InsO-Rechtsfolgen §§ 143 ff. InsO.
 
 # Rechtsfolge: Rückgewähr — § 11 AnfG
 

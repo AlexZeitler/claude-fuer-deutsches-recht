@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-common-law-humor-coa-bis-common-law-kommandoc
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (common-law-humor-coach, common-law-interpretation-precedent, common-law-kommandocenter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - common-law-kompass
+# Arbeitsbereich - Common Law Humor Coach, Common Law Interpretation Precedent, Common Law Kommandocenter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-humor-coach` | Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton). |
 | `common-law-interpretation-precedent` | Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-humor-coach`
 
-**Frühere Beschreibung:** Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton).
+**Fokus:** Common-Law-Erklärungen sollen für Mandanten oder Team leichter lesbar werden ohne Praezision zu verlieren. Anwendungsfall Onboarding-Dokument oder Mandanten-Erklärung. Prüfraster Verstaendlichkeit Ton-Angemessenheit Praezisions-Erhaltung. Output aufgelockerte Erklärung Ton-Anpassungen. Abgrenzung zu common-law-client-explainer (Inhalt) und allen Fach-Skills (nur Ton).
 
 # Low-Key Late-Night Coach
 
@@ -117,7 +117,7 @@ Einsatz-Empfehlung: [Beginn Praesentation / Auflockerung Schriftsatz-Review]
 
 ## 2. `common-law-interpretation-precedent`
 
-**Frühere Beschreibung:** Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess).
+**Fokus:** Deutscher Anwalt liest UK oder US-Gerichtsentscheidung und versteht Praezedenzfall-Logik nicht: ratio decidendi obiter dictum stare decisis Vertragsauslegung. Normen UK Supreme Court Rules US Federal Rules. Prüfraster Ratio-obiter-Unterscheidung Binding-Persuasive-Abgrenzung Auslegungs-Methode. Output Entscheidungs-Analyse Praezedenz-Einordnung. Abgrenzung zu common-law-governing-law-jurisdiction (Rechtswahl) und common-law-litigation-discovery (Prozess).
 
 # Interpretation und Precedent
 
@@ -228,7 +228,7 @@ Recommendation: [amend / argue / accept]
 
 ## 3. `common-law-kommandocenter`
 
-**Frühere Beschreibung:** Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion).
+**Fokus:** Kanzlei startet Common-Law- UK- US- oder bilinguales Drafting-Mandat und braucht strukturierten Einstieg. Jurisdiktionscheck False-Friends-Scan Arbeitsplan. Prüfraster Jurisdiktion-Identifikation Primaeranliegen-Erfassung Skill-Routing. Output Mandat-Karte Jurisdiktion-Check Arbeitsplan. Abgrenzung zu allen Einzel-Skills (nur Master-Routing-Funktion).
 
 # Common-Law-Kommandocenter
 

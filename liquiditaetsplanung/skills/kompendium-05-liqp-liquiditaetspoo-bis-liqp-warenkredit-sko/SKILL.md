@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-liqp-liquiditaetspoo-bis-liqp-warenkredit-sko
-description: "liquiditaetsplanung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (liqp-liquiditaetspool-cash-pooling-spezial, liqp-rollende-13wochen-bauleiter, liqp-warenkredit-skonto-szenarien-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "liquiditaetsplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - liquiditaetsplanung
+# Arbeitsbereich - Liqp Liquiditaetspool Cash Pooling Spezial, Liqp Rollende 13wochen Bauleiter, Liqp Warenkredit Skonto Szenarien Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `liqp-liquiditaetspool-cash-pooling-spezial` | Spezialfall Liquiditaetspool und Cash-Pooling im Konzern: § 30 GmbHG, BGH-Rechtsprechung, vollwertiger Rueckzahlungsanspruch. Pruefraster fuer Konzernmutter und Tochter. |
 | `liqp-rollende-13wochen-bauleiter` | Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Pruefraster Mittelstand und Konzerntochter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `liqp-liquiditaetspool-cash-pooling-spezial`
 
-**Frühere Beschreibung:** Spezialfall Liquiditaetspool und Cash-Pooling im Konzern: § 30 GmbHG, BGH-Rechtsprechung, vollwertiger Rueckzahlungsanspruch. Pruefraster fuer Konzernmutter und Tochter.
+**Fokus:** Spezialfall Liquiditaetspool und Cash-Pooling im Konzern: § 30 GmbHG, BGH-Rechtsprechung, vollwertiger Rueckzahlungsanspruch. Pruefraster fuer Konzernmutter und Tochter.
 
 # LiqP: Cash-Pooling Spezial
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen 
 
 ## 2. `liqp-rollende-13wochen-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Pruefraster Mittelstand und Konzerntochter.
+**Fokus:** Bauleiter rollende 13-Wochen-Liquiditaetsplanung: Einnahmen / Ausgaben / Saldo / kumulierter Saldo, Granularitaet, Update-Zyklen. Pruefraster Mittelstand und Konzerntochter.
 
 # LiqP: 13-Wochen-Plan Bauleiter
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen 
 
 ## 3. `liqp-warenkredit-skonto-szenarien-spezial`
 
-**Frühere Beschreibung:** Spezialfall Warenkredit und Skontostrategien in der Krise: Lieferantenverhandlung, Vorkasse, verlaengerter Eigentumsvorbehalt, Factoring. Pruefraster fuer Treasury.
+**Fokus:** Spezialfall Warenkredit und Skontostrategien in der Krise: Lieferantenverhandlung, Vorkasse, verlaengerter Eigentumsvorbehalt, Factoring. Pruefraster fuer Treasury.
 
 # LiqP: Warenkredit Skonto
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-business-owner-educa-bis-commercial-litigatio
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (business-owner-education, client-data-retention, client-facing-language, client-satisfaction-pulse, commercial-litigation-budget) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Business Owner Education, Client Data Retention, Client Facing Language, Client Satisfaction Pulse und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Business Owner Education bis Commercial Litigation Budget
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `business-owner-education` | Business Owner Education: steuert Fachbereich lernt, wann Legal einzubinden ist und welche Unterlagen nötig sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `client-data-retention` | Client Data Retention: steuert Aufbewahrung, Löschung, Archiv, Legal Hold und Datenrückgabe nach Mandatsende zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `business-owner-education`
 
-**Frühere Beschreibung:** Business Owner Education: steuert Fachbereich lernt, wann Legal einzubinden ist und welche Unterlagen nötig sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Business Owner Education: steuert Fachbereich lernt, wann Legal einzubinden ist und welche Unterlagen nötig sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Business Owner Education
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `client-data-retention`
 
-**Frühere Beschreibung:** Client Data Retention: steuert Aufbewahrung, Löschung, Archiv, Legal Hold und Datenrückgabe nach Mandatsende zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Client Data Retention: steuert Aufbewahrung, Löschung, Archiv, Legal Hold und Datenrückgabe nach Mandatsende zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Client Data Retention
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `client-facing-language`
 
-**Frühere Beschreibung:** Client Facing Language: steuert Juristische Arbeit in klare Business-Sprache übersetzen, ohne Genauigkeit zu verlieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Client Facing Language: steuert Juristische Arbeit in klare Business-Sprache übersetzen, ohne Genauigkeit zu verlieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Client Facing Language
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `client-satisfaction-pulse`
 
-**Frühere Beschreibung:** Client Satisfaction Pulse: steuert kurzer Beziehungspuls: Vertrauen, Tempo, Verständlichkeit, Kosten, Strategieklarheit zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Client Satisfaction Pulse: steuert kurzer Beziehungspuls: Vertrauen, Tempo, Verständlichkeit, Kosten, Strategieklarheit zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Client Satisfaction Pulse
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `commercial-litigation-budget`
 
-**Frühere Beschreibung:** Commercial Litigation Budget: steuert Klage, Beweisaufnahme, Vergleich, Berufung und Vollstreckung budgetieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Commercial Litigation Budget: steuert Klage, Beweisaufnahme, Vergleich, Berufung und Vollstreckung budgetieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Commercial Litigation Budget
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-vertrag-unterschrieb-bis-abo-kuendigung-fitne
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (vertrag-unterschrieben-bereut, abo-falle-kuendigung, abo-kuendigung-fitness-streaming) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertrag Unterschrieben Bereut, Abo Falle Kuendigung, Abo Kuendigung Fitness Streaming; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Vertrag Unterschrieben Bereut, Abo Falle Kuendigung, Abo Kuendigung Fitness Streaming
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertrag-unterschrieben-bereut` | Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `abo-falle-kuendigung` | Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertrag-unterschrieben-bereut`
 
-**Frühere Beschreibung:** Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Vertrag unterschrieben und bereut: führt Laien durch Widerruf, Anfechtung, Kündigung, Haustür-/Fernabsatzlage und Irrtum. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Vertrag unterschrieben und bereut
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `abo-falle-kuendigung`
 
-**Frühere Beschreibung:** Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Abo-Falle und Kündigung: erklärt Laufzeit, Kündigungsbutton, Zahlungsaufforderung und Inkasso in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Abo-Falle und Kündigung
 
@@ -131,7 +131,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `abo-kuendigung-fitness-streaming`
 
-**Frühere Beschreibung:** Abo-Kündigung Fitness und Streaming: führt Laien durch Laufzeitvertrag, Kündigungsbutton, automatische Verlängerung, Umzug, Krankheit und Beitragsrückstand. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Abo-Kündigung Fitness und Streaming: führt Laien durch Laufzeitvertrag, Kündigungsbutton, automatische Verlängerung, Umzug, Krankheit und Beitragsrückstand. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Abo-Kündigung Fitness und Streaming
 

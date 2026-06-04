@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-reise-flug-zug-probl-bis-schriftsatz-vermerk
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (reise-flug-zug-problem, reparatur-statt-neukauf-right-to-repair, schriftsatz-vermerk-und-mustertext) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Reise Flug Zug Problem, Reparatur Statt Neukauf Right To Repair, Schriftsatz Vermerk Und Mustertext
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `reise-flug-zug-problem` | Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `reparatur-statt-neukauf-right-to-repair` | Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `reise-flug-zug-problem`
 
-**Frühere Beschreibung:** Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Reise, Flug und Zug Problem: führt Laien durch Verspätung, Annullierung, Pauschalreise, Bahnrechte und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Reise, Flug und Zug Problem
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `reparatur-statt-neukauf-right-to-repair`
 
-**Frühere Beschreibung:** Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Reparatur statt Neukauf und Right to Repair: führt Laien durch Reparaturanspruch, Ersatzteile, digitale Bestandteile, Nachhaltigkeit und Kostenvergleich. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Reparatur statt Neukauf und Right to Repair
 
@@ -134,7 +134,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `schriftsatz-vermerk-und-mustertext`
 
-**Frühere Beschreibung:** Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Schriftsatz, Vermerk und Mustertext: erklärt liefert einen belastbaren ersten Entwurf mit offenen Punkten in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Schriftsatz, Vermerk und Mustertext
 

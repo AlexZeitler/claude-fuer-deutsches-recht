@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-umv-076-wasserentnah-bis-umv-079-wasserentnah
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (umv-076-wasserentnahme-eilantrag-schreiben, umv-077-wasserentnahme-normenkontrolle-skizzie, umv-078-wasserentnahme-nebenbestimmung-fordern, umv-079-wasserentnahme-monitoring-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 076 Wasserentnahme Eilantrag Schreiben, Umv 077 Wasserentnahme Normenkontrolle Skizzie, Umv 078 Wasserentnahme Nebenbestimmung Fordern, Umv 079 Wasserentnahme Monitoring Planen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 076 Wasserentnahme Eilantrag Schreiben bis Umv 079 Wasserentnahme Monitoring Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-076-wasserentnahme-eilantrag-schreiben` | Umweltschutzverband Verbandsklage: Wasserentnahme: Eilantrag schreiben. Eilantrag schreiben für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-077-wasserentnahme-normenkontrolle-skizzie` | Umweltschutzverband Verbandsklage: Wasserentnahme: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-076-wasserentnahme-eilantrag-schreiben`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserentnahme: Eilantrag schreiben. Eilantrag schreiben für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserentnahme: Eilantrag schreiben. Eilantrag schreiben für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wasserentnahme Eilantrag Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-077-wasserentnahme-normenkontrolle-skizzie`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserentnahme: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserentnahme: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wasserentnahme Normenkontrolle Skizzie
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-078-wasserentnahme-nebenbestimmung-fordern`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserentnahme: Nebenbestimmung fordern. Nebenbestimmung fordern für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserentnahme: Nebenbestimmung fordern. Nebenbestimmung fordern für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wasserentnahme Nebenbestimmung Fordern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-079-wasserentnahme-monitoring-planen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserentnahme: Monitoring planen. Monitoring planen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserentnahme: Monitoring planen. Monitoring planen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wasserentnahme Monitoring Planen
 

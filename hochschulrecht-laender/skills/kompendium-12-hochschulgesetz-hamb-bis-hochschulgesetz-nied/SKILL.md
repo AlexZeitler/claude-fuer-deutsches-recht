@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-hochschulgesetz-hamb-bis-hochschulgesetz-nied
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (hochschulgesetz-hamburg, hochschulgesetz-hessen, hochschulgesetz-mecklenburg-vorpommern, hochschulgesetz-niedersachsen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hochschulgesetz Hamburg, Hochschulgesetz Hessen, Hochschulgesetz Mecklenburg Vorpommern, Hochschulgesetz Niedersachsen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - hochschulrecht-laender
+# Arbeitsbereich - Hochschulgesetz Hamburg bis Hochschulgesetz Niedersachsen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hochschulgesetz-hamburg` | Prüft Hochschulrecht in Hamburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
 | `hochschulgesetz-hessen` | Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hochschulgesetz-hamburg`
 
-**Frühere Beschreibung:** Prüft Hochschulrecht in Hamburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
+**Fokus:** Prüft Hochschulrecht in Hamburg mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
 
 # Hochschulgesetz Hamburg
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 2. `hochschulgesetz-hessen`
 
-**Frühere Beschreibung:** Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
+**Fokus:** Prüft Hochschulrecht in Hessen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
 
 # Hochschulgesetz Hessen
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `hochschulgesetz-mecklenburg-vorpommern`
 
-**Frühere Beschreibung:** Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
+**Fokus:** Prüft Hochschulrecht in Mecklenburg-Vorpommern mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
 
 # Hochschulgesetz Mecklenburg Vorpommern
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 4. `hochschulgesetz-niedersachsen`
 
-**Frühere Beschreibung:** Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
+**Fokus:** Prüft Hochschulrecht in Niedersachsen mit Landeshochschulgesetz, Satzungen, Ministerium und Hochschulautonomie.
 
 # Hochschulgesetz Niedersachsen
 

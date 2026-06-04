@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-rom-066-glossatoren-bis-rom-073-besitzschutz
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 10; bündelt 8 frühere Spezialskills (rom-066-glossatoren-und-kommentatoren, rom-067-mos-italicus-und-mos-gallicus, rom-068-usus-modernus, rom-069-pandektenwissenschaft, rom-070-rezeption-in-deutschland und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 066 Glossatoren Und Kommentatoren, Rom 067 Mos Italicus Und Mos Gallicus, Rom 068 Usus Modernus, Rom 069 Pandektenwissenschaft und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - roemisches-recht
+# Arbeitsbereich - Rom 066 Glossatoren Und Kommentatoren bis Rom 073 Besitzschutz Vergleich Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-066-glossatoren-und-kommentatoren` | Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik. |
 | `rom-067-mos-italicus-und-mos-gallicus` | Römisches Recht: Mos italicus (Kommentatoren-Methode) vs. mos gallicus (humanistisch-historische Methode, Budé, Cujas, Alciato) im 16. Jh. - Methodenstreit, elegante Jurisprudenz und Einfluss auf Textkritik. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-066-glossatoren-und-kommentatoren`
 
-**Frühere Beschreibung:** Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik.
+**Fokus:** Römisches Recht: Glossatoren (Bologna ab 1088, Irnerius) und Kommentatoren (Bartolus, Baldus, 14. Jh.) - Digestenrezeption, Glossenapparat (Accursius), mos italicus und Verhältnis zur Pandektistik.
 
 # Glossatoren und Kommentatoren
 
@@ -87,7 +87,7 @@ Accursius Glossa ordinaria (archive.org). Bartolus Opera (archive.org). Wieacker
 
 ## 2. `rom-067-mos-italicus-und-mos-gallicus`
 
-**Frühere Beschreibung:** Römisches Recht: Mos italicus (Kommentatoren-Methode) vs. mos gallicus (humanistisch-historische Methode, Budé, Cujas, Alciato) im 16. Jh. - Methodenstreit, elegante Jurisprudenz und Einfluss auf Textkritik.
+**Fokus:** Römisches Recht: Mos italicus (Kommentatoren-Methode) vs. mos gallicus (humanistisch-historische Methode, Budé, Cujas, Alciato) im 16. Jh. - Methodenstreit, elegante Jurisprudenz und Einfluss auf Textkritik.
 
 # Mos italicus und mos gallicus
 
@@ -141,7 +141,7 @@ Budé Annotationes (archive.org). Cujas Observationes (archive.org). Wieacker Pr
 
 ## 3. `rom-068-usus-modernus`
 
-**Frühere Beschreibung:** Römisches Recht: Usus modernus pandectarum (17.-18. Jh.) - Anwendung des gemeinen Rechts unter Einbeziehung lokaler Gewohnheiten, Benedikt Carpzov, Samuel Stryk und Verhältnis zur Naturrechtslehre.
+**Fokus:** Römisches Recht: Usus modernus pandectarum (17.-18. Jh.) - Anwendung des gemeinen Rechts unter Einbeziehung lokaler Gewohnheiten, Benedikt Carpzov, Samuel Stryk und Verhältnis zur Naturrechtslehre.
 
 # Usus modernus pandectarum
 
@@ -194,7 +194,7 @@ Stryk Usus Modernus (archive.org). Carpzov Jurisprudentia (archive.org). Wieacke
 
 ## 4. `rom-069-pandektenwissenschaft`
 
-**Frühere Beschreibung:** Römisches Recht: Pandektenwissenschaft des 19. Jhs. - Historische Rechtsschule (Savigny, Puchta), Begriffsjurisprudenz (Windscheid, Jhering), BGB-Entstehung und Einfluss auf die moderne Rechtsdogmatik.
+**Fokus:** Römisches Recht: Pandektenwissenschaft des 19. Jhs. - Historische Rechtsschule (Savigny, Puchta), Begriffsjurisprudenz (Windscheid, Jhering), BGB-Entstehung und Einfluss auf die moderne Rechtsdogmatik.
 
 # Pandektenwissenschaft
 
@@ -247,7 +247,7 @@ Savigny System (archive.org). Windscheid Pandekten (archive.org). Wieacker Priva
 
 ## 5. `rom-070-rezeption-in-deutschland`
 
-**Frühere Beschreibung:** Römisches Recht: Rezeption in Deutschland - ius commune, Reichskammergericht 1495, praktische Geltung bis BGB 1900, gemeinrechtliche Rechtspraxis und Bedeutung für die deutsche Rechtsgeschichte.
+**Fokus:** Römisches Recht: Rezeption in Deutschland - ius commune, Reichskammergericht 1495, praktische Geltung bis BGB 1900, gemeinrechtliche Rechtspraxis und Bedeutung für die deutsche Rechtsgeschichte.
 
 # Rezeption des römischen Rechts in Deutschland
 
@@ -300,7 +300,7 @@ Reichskammergerichtsordnung 1495: MGH. Wieacker Privatrechtsgeschichte. Koschake
 
 ## 6. `rom-071-romanistische-begriffe-im-bgb`
 
-**Frühere Beschreibung:** Römisches Recht: Romanistische Begriffe im BGB - culpa, dolus, condictio, negotiorum gestio, traditio, possessio, servitus als Fundament des BGB und ihre Transformationsgeschichte.
+**Fokus:** Römisches Recht: Romanistische Begriffe im BGB - culpa, dolus, condictio, negotiorum gestio, traditio, possessio, servitus als Fundament des BGB und ihre Transformationsgeschichte.
 
 # Romanistische Begriffe im BGB
 
@@ -354,7 +354,7 @@ BGB: gesetze-im-internet.de. Motive/Mugdan (archive.org). Digesten: Mommsen-Krü
 
 ## 7. `rom-072-abstraktionsprinzip-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Abstraktionsprinzip - Iulianus D. 41.1.36 als mögl. röm. Vorläufer vs. Kausalprinzip (D. 41.1.31 Gaius) und Übernahme als deutschrechtliches Abstraktionsprinzip in BGB §§ 873 und 929.
+**Fokus:** Römisches Recht: Abstraktionsprinzip - Iulianus D. 41.1.36 als mögl. röm. Vorläufer vs. Kausalprinzip (D. 41.1.31 Gaius) und Übernahme als deutschrechtliches Abstraktionsprinzip in BGB §§ 873 und 929.
 
 # Abstraktionsprinzip im Vergleich
 
@@ -408,7 +408,7 @@ D. 41.1 (Mommsen-Krüger). Savigny System (archive.org). BGB: gesetze-im-interne
 
 ## 8. `rom-073-besitzschutz-vergleich-bgb`
 
-**Frühere Beschreibung:** Römisches Recht: Besitzschutz im Vergleich - röm. Interdikte (uti possidetis, utrubi) vs. BGB §§ 861-869 (possessorischer Schutz) und Savignys/Jherings Besitztheorie und ihre BGB-Auflösung.
+**Fokus:** Römisches Recht: Besitzschutz im Vergleich - röm. Interdikte (uti possidetis, utrubi) vs. BGB §§ 861-869 (possessorischer Schutz) und Savignys/Jherings Besitztheorie und ihre BGB-Auflösung.
 
 # Besitzschutz im Vergleich: röm. Recht vs. BGB
 

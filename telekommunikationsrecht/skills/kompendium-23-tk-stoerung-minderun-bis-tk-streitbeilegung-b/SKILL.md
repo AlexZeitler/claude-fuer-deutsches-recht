@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-tk-stoerung-minderun-bis-tk-streitbeilegung-b
-description: "telekommunikationsrecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (tk-stoerung-minderung-ausfallentschaedigung, tk-streitbeilegung-bnetza) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "telekommunikationsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - telekommunikationsrecht
+# Arbeitsbereich - Tk Stoerung Minderung Ausfallentschaedigung, Tk Streitbeilegung Bnetza
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tk-stoerung-minderung-ausfallentschaedigung` | Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz. |
 | `tk-streitbeilegung-bnetza` | Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tk-stoerung-minderung-ausfallentschaedigung`
 
-**Frühere Beschreibung:** Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz.
+**Fokus:** Internet-/Telefonstörung: Minderung, Ausfallentschädigung, Entstörungspflichten, Messprotokolle, SLA und Schadensersatz.
 
 # Störung, Minderung und Ausfallentschädigung
 
@@ -68,7 +68,7 @@ Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bu
 
 ## 2. `tk-streitbeilegung-bnetza`
 
-**Frühere Beschreibung:** Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung.
+**Fokus:** Streitbeilegung bei Zugang, Mitnutzung, Entgelt, Nummerierung oder Anbieterwechsel mit BNetzA-Beteiligung.
 
 # BNetzA-Streitbeilegung zwischen Unternehmen
 

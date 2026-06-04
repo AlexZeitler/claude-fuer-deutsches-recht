@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-reihenfolge-bis-spezial-unionsrechts
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine, spezial-starren-formular-portal-und-einreichung, spezial-system-zahlen-schwellen-und-berechnung, spezial-telos-mehrparteien-konflikt-und-interessen, spezial-unionsrechtskonforme-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Reihenfolge Schriftsatz Brief Und Memo Bausteine, Starren Formular Portal Und Einreichung, System Zahlen Schwellen Und Berechnung, Telos Mehrparteien Konflikt Und Interessen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Reihenfolge Schriftsatz Brief Und Memo Bausteine bis Unionsrechtskonforme Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine` | Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert. |
 | `spezial-starren-formular-portal-und-einreichung` | Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-reihenfolge-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert.
+**Fokus:** Dieses Skill definiert die methodisch optimale Reihenfolge und Bausteinstruktur für juristische Schriftsätze, anwaltliche Briefe und interne Rechtsmemos. Es zeigt, wie die Gliederung eines Schriftsatzes die Überzeugungskraft maximiert, welche Standardbausteine für Klageschriften, Klageerwiderungen und außergerichtliche Schreiben zu verwenden sind und wie Memos intern so strukturiert werden, dass Entscheidungsträger schnell den Kern erfassen. Methodische Klarheit und persuasive Wirkung werden systematisch kombiniert.
 
 # Reihenfolge und Bausteine für Schriftsatz, Brief und Memo
 
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 2. `spezial-starren-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen.
+**Fokus:** Dieses Skill behandelt die methodisch korrekte Handhabung von starren Formularvordrucken, elektronischen Gerichtsportalen und behördlichen Einreichungsverfahren im bürgerlichen Recht. Es zeigt, wie Formularerfordernisse mit dem materiellen Recht in Einklang gebracht werden, welche Fallstricke bei Online-Portalen drohen und wie technische Einreichungsanforderungen die anwaltliche Sorgfaltspflicht berühren. Dabei werden EGVP, beA und besondere Einreichungsfristen systematisch einbezogen.
 
 # Formulare, Portale und elektronische Einreichung im bürgerlichen Recht
 
@@ -214,7 +214,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `spezial-system-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden.
+**Fokus:** Dieses Skill systematisiert die wichtigsten Zahlenschwellen, Betragsgrenzwerte und Berechnungsformeln im bürgerlichen Recht und Zivilprozess. Es zeigt, wie Streitwerte berechnet werden, welche Betragsgrenzen für Zuständigkeiten und Rechtsmittelzulassungen gelten, wie Zinsen und Schadensersatzbeträge methodisch korrekt ermittelt werden und welche numerischen Schwellen bei AGB-Klauseln, Verjährungsfristen und Bürgschaften zu beachten sind. Zahlenfehler werden so durch strukturierte Berechnung vermieden.
 
 # Zahlenschwellen und Berechnungen im bürgerlichen Recht
 
@@ -306,7 +306,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 4. `spezial-telos-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird. Es trainiert die Fähigkeit, divergierende Parteiinteressen in die teleologische Analyse einzubeziehen, Interessenabwägungen methodisch zu strukturieren und das auslegungsgerechte Ergebnis im Mehrparteienkontext zu ermitteln.
+**Fokus:** Dieses Skill wendet teleologische Auslegung auf Mehrparteien-Konflikte an und zeigt, wie der Normzweck einer Vorschrift bei komplexen Interessenkonstellationen mit mehr als zwei Beteiligten methodisch ermittelt und auf den Sachverhalt angewendet wird. Es trainiert die Fähigkeit, divergierende Parteiinteressen in die teleologische Analyse einzubeziehen, Interessenabwägungen methodisch zu strukturieren und das auslegungsgerechte Ergebnis im Mehrparteienkontext zu ermitteln.
 
 # Teleologische Auslegung im Mehrparteien-Konflikt
 
@@ -399,7 +399,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `spezial-unionsrechtskonforme-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte unionsrechtskonforme Beweislastregeln anwenden müssen und wie Anwälte diese Regeln prozessstrategisch einsetzen. Besonderes Gewicht liegt auf den Bereichen Verbraucherrecht und Kaufrecht.
+**Fokus:** Dieses Skill untersucht, wie EU-Richtlinien und EuGH-Rechtsprechung die nationalen Regeln zur Beweislast und Darlegungslast im bürgerlichen Recht verändern. Es zeigt, wann das Unionsrecht eine günstigere Beweislastverteilung für Verbraucher oder Arbeitnehmer gebietet, wie nationale Gerichte unionsrechtskonforme Beweislastregeln anwenden müssen und wie Anwälte diese Regeln prozessstrategisch einsetzen. Besonderes Gewicht liegt auf den Bereichen Verbraucherrecht und Kaufrecht.
 
 # Unionsrechtskonforme Beweislast und Darlegungslast
 

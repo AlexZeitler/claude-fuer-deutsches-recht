@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-spezial-literatur-fo-bis-spezial-lizenziertem
-description: "zitierweise-deutsches-recht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (spezial-literatur-formular-portal-und-einreichung, spezial-live-beweislast-und-darlegungslast, spezial-lizenziertem-mandantenkommunikation-entscheidungsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zitierweise-deutsches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Literatur Formular Portal Und Einreichung, Live Beweislast Und Darlegungslast, Lizenziertem Mandantenkommunikation Entscheidungsvorlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - zitierweise-deutsches-recht
+# Arbeitsbereich - Literatur Formular Portal Und Einreichung, Live Beweislast Und Darlegungslast, Lizenziertem Mandantenkommunikation Entscheidungsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-literatur-formular-portal-und-einreichung` | Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-live-beweislast-und-darlegungslast` | Live: Beweislast, Darlegungslast und Substantiierung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-literatur-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Literatur: Formular, Portal und Einreichungslogik im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Literatur: Formular, Portal und Einreichungslogik
 
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-live-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Live: Beweislast, Darlegungslast und Substantiierung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Live: Beweislast, Darlegungslast und Substantiierung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Live: Beweislast, Darlegungslast und Substantiierung
 
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-lizenziertem-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Lizenziertem: Mandantenkommunikation und Entscheidungsvorlage
 

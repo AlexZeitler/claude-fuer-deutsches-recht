@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-rechtsabteilung-gese-bis-spezial-anmeldungen
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (rechtsabteilung-gesellschafterliste-und-registerstreit, rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss, rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9, schriftliche-beschlussfassung, spezial-anmeldungen-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschafterliste Und Registerstreit, Kapitalerhoehung Mit Bezugsrechtsausschluss, Stimmbindung Und Beschlussmangel Nach Hannover 9, Schriftliche Beschlussfassung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - gesellschaftsrecht
+# Arbeitsbereich - Gesellschafterliste Und Registerstreit bis Anmeldungen Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-gesellschafterliste-und-registerstreit` | Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss` | Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-gesellschafterliste-und-registerstreit`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Gesellschafterliste und Registerstreit: Liste, Legitimationswirkung, Widerspruch und Registersperre werden als Fristenplan bearbeitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Gesellschafterliste und Registerstreit
 
@@ -86,7 +86,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kapitalerhoehung-mit-bezugsrechtsausschluss`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung mit Bezugsrechtsausschluss: Minderheitenschutz, Verwässerung, Bewertungsunterlagen und Eilrechtsschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kapitalerhöhung mit Bezugsrechtsausschluss
 
@@ -142,7 +142,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-stimmbindung-und-beschlussmangel-nach-hannover-9`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Stimmbindung und Beschlussmangel nach Hannover-96-Linie: Rechtsabteilungen trennen Satzungsverstoß, schuldrechtliche Stimmbindung und Anfechtbarkeit. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Stimmbindung und Beschlussmangel nach Hannover-96-Linie
 
@@ -198,7 +198,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `schriftliche-beschlussfassung`
 
-**Frühere Beschreibung:** Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei "Umlaufbeschluss", "schriftlicher Beschluss", "Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung.
+**Fokus:** Entwirft Beschlüsse im schriftlichen Verfahren (§ 48 Abs. 2 GmbHG) oder Umlaufbeschlüsse im Hausstil mit Präzedenzsuche im Beschlussarchiv. Bei der AG: Hinweis, dass HV-Beschlüsse Präsenz oder virtuelle HV (§ 118a AktG) erfordern und notariell beurkundet werden (§ 130 AktG); Umlaufverfahren bei AG nur für Aufsichtsrat (§ 108 Abs. 4 AktG) und Vorstand (§ 77 AktG). Behandelt Stimmverbote (§ 47 Abs. 4 GmbHG), Mehrheitserfordernisse und Unterzeichner-Tracking. Lädt bei "Umlaufbeschluss", "schriftlicher Beschluss", "Gesellschafterbeschluss" oder Beschreibung einer zustimmungspflichtigen Maßnahme ohne Versammlung.
 
 # Beschluss im schriftlichen Verfahren / Umlaufbeschluss
 
@@ -421,7 +421,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 5. `spezial-anmeldungen-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Anmeldungen: Verhandlung, Vergleich und Eskalation im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Anmeldungen: Verhandlung, Vergleich und Eskalation
 

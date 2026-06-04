@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-berufsverbot-und-sof-bis-datenpanne-berufstra
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (berufsverbot-und-sofortvollzug-praevention, berufsverbot-und-sofortvollzug-verteidigung, datenpanne-berufstraeger-praevention, datenpanne-berufstraeger-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufsverbot Und Sofortvollzug Praevention, Berufsverbot Und Sofortvollzug Verteidigung, Datenpanne Berufstraeger Praevention, Datenpanne Berufstraeger Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Berufsverbot Und Sofortvollzug Praevention bis Datenpanne Berufstraeger Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufsverbot-und-sofortvollzug-praevention` | Berufsverbot und Sofortvollzug (Präventions- und Organisationspaket): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `berufsverbot-und-sofortvollzug-verteidigung` | Berufsverbot und Sofortvollzug (Verteidigungs- und Kammerantwort): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufsverbot-und-sofortvollzug-praevention`
 
-**Frühere Beschreibung:** Berufsverbot und Sofortvollzug (Präventions- und Organisationspaket): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsverbot und Sofortvollzug (Präventions- und Organisationspaket): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsverbot und Sofortvollzug: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `berufsverbot-und-sofortvollzug-verteidigung`
 
-**Frühere Beschreibung:** Berufsverbot und Sofortvollzug (Verteidigungs- und Kammerantwort): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsverbot und Sofortvollzug (Verteidigungs- und Kammerantwort): steuert vorläufige Maßnahmen, Sofortvollzug, existenzielle Folgen, Eilrechtsschutz und Kanzleifortführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsverbot und Sofortvollzug: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `datenpanne-berufstraeger-praevention`
 
-**Frühere Beschreibung:** Datenpanne beim Berufsträger (Präventions- und Organisationspaket): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Datenpanne beim Berufsträger (Präventions- und Organisationspaket): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Datenpanne beim Berufsträger: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `datenpanne-berufstraeger-verteidigung`
 
-**Frühere Beschreibung:** Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Datenpanne beim Berufsträger (Verteidigungs- und Kammerantwort): steuert verlorener Laptop, Fehlversand, Cloud-Leak, Mandatsgeheimnis und Meldestrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Datenpanne beim Berufsträger: Verteidigungs- und Kammerantwort
 

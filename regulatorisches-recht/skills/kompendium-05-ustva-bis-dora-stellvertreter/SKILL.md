@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ustva-bis-dora-stellvertreter
-description: "regulatorisches-recht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (ustva, aufsichtskommunikation-grundregeln, dora-stellvertreter-und-konzern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "regulatorisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ustva, Aufsichtskommunikation Grundregeln, Dora Stellvertreter Und Konzern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - regulatorisches-recht
+# Arbeitsbereich - Ustva, Aufsichtskommunikation Grundregeln, Dora Stellvertreter Und Konzern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ustva` | Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht. |
 | `aufsichtskommunikation-grundregeln` | Grundregeln Aufsichtskommunikation: Mitteilungspflichten, Auskunftsrechte, Sonderpruefung, Anhoerung, Bussgeldverfahren. Tonfall, Tempo, Vollstaendigkeit, Konsistenz Schriftverkehr. Pruefraster fuer Antworten an BaFin, BNetzA, Bundeskartellamt. Mustertexte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ustva`
 
-**Frühere Beschreibung:** Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht.
+**Fokus:** Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht.
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)
 
@@ -152,7 +152,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `aufsichtskommunikation-grundregeln`
 
-**Frühere Beschreibung:** Grundregeln Aufsichtskommunikation: Mitteilungspflichten, Auskunftsrechte, Sonderpruefung, Anhoerung, Bussgeldverfahren. Tonfall, Tempo, Vollstaendigkeit, Konsistenz Schriftverkehr. Pruefraster fuer Antworten an BaFin, BNetzA, Bundeskartellamt. Mustertexte.
+**Fokus:** Grundregeln Aufsichtskommunikation: Mitteilungspflichten, Auskunftsrechte, Sonderpruefung, Anhoerung, Bussgeldverfahren. Tonfall, Tempo, Vollstaendigkeit, Konsistenz Schriftverkehr. Pruefraster fuer Antworten an BaFin, BNetzA, Bundeskartellamt. Mustertexte.
 
 # Aufsichtskommunikation Grundregeln
 
@@ -204,7 +204,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 
 ## 3. `dora-stellvertreter-und-konzern`
 
-**Frühere Beschreibung:** DORA-Spezial: Stellvertreter, Konzernregelungen, Outsourcing zum gruppeneigenen IT-Dienstleister, kritische TPP-Registrierung bei ESAs. Pruefraster und Klauseln in Konzern-IT-Vertraegen. Schnittstelle zu Aufsichtsrecht der Toechter im Ausland.
+**Fokus:** DORA-Spezial: Stellvertreter, Konzernregelungen, Outsourcing zum gruppeneigenen IT-Dienstleister, kritische TPP-Registrierung bei ESAs. Pruefraster und Klauseln in Konzern-IT-Vertraegen. Schnittstelle zu Aufsichtsrecht der Toechter im Ausland.
 
 # DORA: Konzern und Stellvertreter
 

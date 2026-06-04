@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-drv-selbstcheck-erwe-bis-eingliederung-arbeit
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (drv-selbstcheck-erwerbsstatus, eigene-betriebsstaette, einbindung-it-systeme, eingliederung-arbeitsorganisation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drv Selbstcheck Erwerbsstatus, Eigene Betriebsstaette, Einbindung It Systeme, Eingliederung Arbeitsorganisation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Drv Selbstcheck Erwerbsstatus bis Eingliederung Arbeitsorganisation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drv-selbstcheck-erwerbsstatus` | Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln. |
 | `eigene-betriebsstaette` | Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drv-selbstcheck-erwerbsstatus`
 
-**Frühere Beschreibung:** Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln.
+**Fokus:** Nutzt den DRV-Selbstcheck als strukturiertes Vorprüfungsraster ohne ihn mit einer verbindlichen Entscheidung zu verwechseln.
 
 # DRV Selbstcheck Erwerbsstatus
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `eigene-betriebsstaette`
 
-**Frühere Beschreibung:** Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht.
+**Fokus:** Prüft eigene Betriebsstätte, Büro, Praxis, Studio, Infrastruktur und deren Gewicht im Statusrecht.
 
 # Eigene Betriebsstätte
 
@@ -159,7 +159,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `einbindung-it-systeme`
 
-**Frühere Beschreibung:** Prüft E-Mail, Jira, Teams, ERP, Klinik-/Schulsoftware, Zeiterfassung und Adminrechte als Eingliederungsindizien.
+**Fokus:** Prüft E-Mail, Jira, Teams, ERP, Klinik-/Schulsoftware, Zeiterfassung und Adminrechte als Eingliederungsindizien.
 
 # Einbindung in IT-Systeme
 
@@ -224,7 +224,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `eingliederung-arbeitsorganisation`
 
-**Frühere Beschreibung:** Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung.
+**Fokus:** Prüft Eingliederung in Betrieb, Teams, Tools, Räume, Hierarchie, Prozesse und Außendarstellung.
 
 # Eingliederung in Arbeitsorganisation
 

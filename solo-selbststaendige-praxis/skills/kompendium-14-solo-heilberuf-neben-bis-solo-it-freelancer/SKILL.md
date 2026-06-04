@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-solo-heilberuf-neben-bis-solo-it-freelancer
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 8 frühere Spezialskills (solo-heilberuf-nebenpraxis, solo-homeoffice-und-arbeitszimmer, solo-honorar-pauschal-stunde-retainer, solo-honorarlehrkraft-musikschule, solo-inkasso-pruefen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Heilberuf Nebenpraxis, Solo Homeoffice Und Arbeitszimmer, Solo Honorar Pauschal Stunde Retainer, Solo Honorarlehrkraft Musikschule und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Heilberuf Nebenpraxis bis Solo It Freelancer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-heilberuf-nebenpraxis` | Solo-Selbstständige: prüft Berufsrecht, Heilmittelwerbung, Datenschutz und Abrechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-homeoffice-und-arbeitszimmer` | Solo-Selbstständige: prüft häusliche Arbeitsstätte, Pauschalen und Belegstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-heilberuf-nebenpraxis`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Berufsrecht, Heilmittelwerbung, Datenschutz und Abrechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Berufsrecht, Heilmittelwerbung, Datenschutz und Abrechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft berufsrecht
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 2. `solo-homeoffice-und-arbeitszimmer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft häusliche Arbeitsstätte, Pauschalen und Belegstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft häusliche Arbeitsstätte, Pauschalen und Belegstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Prüft häusliche arbeitsstätte
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 3. `solo-honorar-pauschal-stunde-retainer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Pauschale, Stundenhonorar, Retainer, Erfolgskomponente und Nachtragslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Pauschale, Stundenhonorar, Retainer, Erfolgskomponente und Nachtragslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Prüft pauschale
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 4. `solo-honorarlehrkraft-musikschule`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Lehrkräfte, Kursplan, Material, Vertretung und Schulorganisation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Lehrkräfte, Kursplan, Material, Vertretung und Schulorganisation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft lehrkräfte
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 5. `solo-inkasso-pruefen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Inkassodienstleister, Kosten, RDG und Reputationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Inkassodienstleister, Kosten, RDG und Reputationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Prüft inkassodienstleister
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 6. `solo-insolvenzrisiko-einzelunternehmer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Zahlungsfähigkeit, Verbraucher-/Regelinsolvenz und Freigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Zahlungsfähigkeit, Verbraucher-/Regelinsolvenz und Freigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Prüft zahlungsfähigkeit
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 7. `solo-it-basisschutz-solo`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Mindeststandard für Passwortmanager, 2FA, Backups, Geräte, Updates; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Erstellt mindeststandard für passwortmanager
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 8. `solo-it-freelancer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Projektvertrag, Code-Rechte, Scheinselbstständigkeit, Datenschutz und Open Source; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Projektvertrag, Code-Rechte, Scheinselbstständigkeit, Datenschutz und Open Source; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft projektvertrag
 

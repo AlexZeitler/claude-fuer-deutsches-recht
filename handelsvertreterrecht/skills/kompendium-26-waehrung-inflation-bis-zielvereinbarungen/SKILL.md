@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-waehrung-inflation-bis-zielvereinbarungen
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 26; bündelt 3 frühere Spezialskills (waehrung-inflation, wettbewerbsabrede-90a, zielvereinbarungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Waehrung Inflation, Wettbewerbsabrede 90a, Zielvereinbarungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - handelsvertreterrecht
+# Arbeitsbereich - Waehrung Inflation, Wettbewerbsabrede 90a, Zielvereinbarungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `waehrung-inflation` | Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb. |
 | `wettbewerbsabrede-90a` | Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `waehrung-inflation`
 
-**Frühere Beschreibung:** Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb.
+**Fokus:** Prüft Auswirkungen von Währungsrisiken und Inflation auf Handelsvertreter-Ansprüche: Provisionsberechnung in Fremdwährung, Wertsicherungsklauseln für langfristige Verträge, Anpassungsansprüche nach § 313 BGB bei erheblicher Geldentwertung sowie Währungsrisiko im internationalen Vertrieb.
 
 # Währungsrisiken und Inflation im Handelsvertretervertrag nach HGB und § 313 BGB
 
@@ -107,7 +107,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 2. `wettbewerbsabrede-90a`
 
-**Frühere Beschreibung:** Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln.
+**Fokus:** Prüft nachvertragliche Wettbewerbsverbote nach § 90a HGB: Voraussetzungen der Wirksamkeit (Schriftform, max. zwei Jahre, Karenzentschädigung mind. 50 Prozent der zuletzt bezogenen Vergütung), Rechtsfolgen bei unwirksamem Verbot, Wahlrecht des Handelsvertreters sowie Abwehr unzumutbarer Klauseln.
 
 # Nachvertragliches Wettbewerbsverbot nach § 90a HGB
 
@@ -186,7 +186,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `zielvereinbarungen`
 
-**Frühere Beschreibung:** Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele.
+**Fokus:** Prüft Zielvereinbarungen im Handelsvertretervertrag: Rechtmäßigkeit von umsatzabhängigen Bonus- und Zielprämien, Abgrenzung zu festen Provisionsansprüchen nach § 87 HGB, AGB-Konformität von Zielklauseln nach § 307 BGB sowie Ansprüche bei einseitiger Zielveränderung oder Nicht-Erreichbarkeit der Ziele.
 
 # Zielvereinbarungen im Handelsvertretervertrag — Bonus und Provision nach § 87 HGB
 

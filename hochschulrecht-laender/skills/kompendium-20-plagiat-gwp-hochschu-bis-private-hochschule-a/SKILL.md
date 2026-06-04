@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-plagiat-gwp-hochschu-bis-private-hochschule-a
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (plagiat-gwp-hochschule, praesidium-rektorat-kanzler, private-hochschule, private-hochschule-anerkennung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Plagiat Gwp Hochschule, Praesidium Rektorat Kanzler, Private Hochschule, Private Hochschule Anerkennung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - hochschulrecht-laender
+# Arbeitsbereich - Plagiat Gwp Hochschule bis Private Hochschule Anerkennung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `plagiat-gwp-hochschule` | Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte. |
 | `praesidium-rektorat-kanzler` | Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `plagiat-gwp-hochschule`
 
-**Frühere Beschreibung:** Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte.
+**Fokus:** Prüft Plagiatsvorwürfe, Promotionsfolgen, Akteneinsicht und Verfahrensrechte.
 
 # Plagiat und GWP an Hochschulen
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `praesidium-rektorat-kanzler`
 
-**Frühere Beschreibung:** Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten.
+**Fokus:** Prüft Präsidium/Rektorat/Kanzler-Zuständigkeiten.
 
 # Praesidium Rektorat Kanzler
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Organvermerk. Am Ende immer drei Zeilen: **Frist**, **fehlend
 
 ## 3. `private-hochschule`
 
-**Frühere Beschreibung:** Prüft private und staatlich anerkannte Hochschulen.
+**Fokus:** Prüft private und staatlich anerkannte Hochschulen.
 
 # Private Hochschule
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Privathochschulcheck. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 4. `private-hochschule-anerkennung`
 
-**Frühere Beschreibung:** Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte.
+**Fokus:** Prüft staatliche Anerkennung, Aufsicht, Studiengänge, Gebühren und Studierendenrechte.
 
 # Private Hochschule und Anerkennung
 

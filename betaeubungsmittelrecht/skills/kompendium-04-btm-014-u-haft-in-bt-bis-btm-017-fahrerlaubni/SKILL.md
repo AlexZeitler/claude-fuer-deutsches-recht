@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-btm-014-u-haft-in-bt-bis-btm-017-fahrerlaubni
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (btm-014-u-haft-in-btm-sache, btm-015-einziehung-und-wertersatz, btm-016-jugendliche-und-btm, btm-017-fahrerlaubnis-und-btm) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 014 U Haft In Btm Sache, Btm 015 Einziehung Und Wertersatz, Btm 016 Jugendliche Und Btm, Btm 017 Fahrerlaubnis Und Btm; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 014 U Haft In Btm Sache bis Btm 017 Fahrerlaubnis Und Btm
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-014-u-haft-in-btm-sache` | Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-015-einziehung-und-wertersatz` | Betäubungsmittelrecht: Einziehung und Wertersatz. Einziehung und Wertersatz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-014-u-haft-in-btm-sache`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: U-Haft in BtM-Sache. U-Haft in BtM-Sache im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # U Haft In Btm Sache
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-015-einziehung-und-wertersatz`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Einziehung und Wertersatz. Einziehung und Wertersatz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Einziehung und Wertersatz. Einziehung und Wertersatz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einziehung Und Wertersatz
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-016-jugendliche-und-btm`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Jugendliche und BtM. Jugendliche und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Jugendliche und BtM. Jugendliche und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Jugendliche Und Btm
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-017-fahrerlaubnis-und-btm`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fahrerlaubnis und BtM. Fahrerlaubnis und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Fahrerlaubnis und BtM. Fahrerlaubnis und BtM im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Fahrerlaubnis Und Btm
 

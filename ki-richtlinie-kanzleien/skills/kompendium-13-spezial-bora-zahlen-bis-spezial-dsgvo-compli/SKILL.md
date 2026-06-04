@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-bora-zahlen-bis-spezial-dsgvo-compli
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-bora-zahlen-schwellen-und-berechnung, spezial-brak-internationaler-bezug-und-schnittstellen, spezial-dsgvo-compliance-dokumentation-und-akte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Bora Zahlen Schwellen Und Berechnung, Brak Internationaler Bezug Und Schnittstellen, Dsgvo Compliance Dokumentation Und Akte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bora-zahlen-schwellen-und-berechnung` | Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-brak-internationaler-bezug-und-schnittstellen` | Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bora-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bora: Zahlen, Schwellenwerte und Berechnung im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bora: Zahlen, Schwellenwerte und Berechnung
 
@@ -92,7 +92,7 @@ Strenge Schwellenwerte ("Keine Mandantendaten an Cloud-KI") schaffen Klarheit, b
 
 ## 2. `spezial-brak-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Brak: Internationaler Bezug und Schnittstellen im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Brak: Internationaler Bezug und Schnittstellen
 
@@ -133,7 +133,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-dsgvo-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** DSGVO: Compliance-Dokumentation und Aktenvermerk im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSGVO: Compliance-Dokumentation und Aktenvermerk im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DSGVO: Compliance-Dokumentation und Aktenvermerk
 

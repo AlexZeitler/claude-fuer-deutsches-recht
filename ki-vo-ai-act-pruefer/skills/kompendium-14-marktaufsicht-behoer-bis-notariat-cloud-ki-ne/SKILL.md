@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-marktaufsicht-behoer-bis-notariat-cloud-ki-ne
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (marktaufsicht-behoerdenkommunikation-evidence-room, marktueberwachung-meldung-vorfaelle-art-72-bis-79, nicht-hochrisiko-bestaetigt-end-to-end-roadmap, notariat-cloud-ki-nebenakte-verschwiegenheit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Marktaufsicht Behoerdenkommunikation Evidence Room, Marktueberwachung Meldung Vorfaelle Art 72 Bis 79, Nicht Hochrisiko Bestaetigt End To End Roadmap, Notariat Cloud Ki Nebenakte Verschwiegenheit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Marktaufsicht Behoerdenkommunikation Evidence Room bis Notariat Cloud Ki Nebenakte Verschwiegenheit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `marktaufsicht-behoerdenkommunikation-evidence-room` | Marktaufsicht und Behoerdenkommunikation: Evidence Room fuer KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie. |
 | `marktueberwachung-meldung-vorfaelle-art-72-bis-79` | Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster: serious incident reporting Definition schwerwiegender Vorfall Art. 3 Nr. 49 Meldefristen Inhalt der Meldung Meldewege nationale Aufsichtsbehoerde. Marktueberwauchungsmassnahmen Rückruf Aussetzen des Betriebs. Output: Melde-Checkliste und Vorlage Vorfallmeldung. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (zuständige Stellen) und hochrisiko-bestätigt-end-to-end-roadmap. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `marktaufsicht-behoerdenkommunikation-evidence-room`
 
-**Frühere Beschreibung:** Marktaufsicht und Behoerdenkommunikation: Evidence Room fuer KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie.
+**Fokus:** Marktaufsicht und Behoerdenkommunikation: Evidence Room fuer KI-VO-Pruefungen, Zuständigkeit, Fristen, Dokumentenpakete, technische Erklaerungen, Betriebsgeheimnisse, Schwärzung, Nachforderung und Eskalationsstrategie.
 
 # Marktaufsicht: Evidence Room
 
@@ -68,7 +68,7 @@ Wenn eine Behörde Unterlagen verlangt, muss das Unternehmen schnell, geordnet u
 
 ## 2. `marktueberwachung-meldung-vorfaelle-art-72-bis-79`
 
-**Frühere Beschreibung:** Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster: serious incident reporting Definition schwerwiegender Vorfall Art. 3 Nr. 49 Meldefristen Inhalt der Meldung Meldewege nationale Aufsichtsbehoerde. Marktueberwauchungsmassnahmen Rückruf Aussetzen des Betriebs. Output: Melde-Checkliste und Vorlage Vorfallmeldung. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (zuständige Stellen) und hochrisiko-bestätigt-end-to-end-roadmap.
+**Fokus:** Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Prüfraster: serious incident reporting Definition schwerwiegender Vorfall Art. 3 Nr. 49 Meldefristen Inhalt der Meldung Meldewege nationale Aufsichtsbehoerde. Marktueberwauchungsmassnahmen Rückruf Aussetzen des Betriebs. Output: Melde-Checkliste und Vorlage Vorfallmeldung. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (zuständige Stellen) und hochrisiko-bestätigt-end-to-end-roadmap.
 
 # Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 KI-VO
 
@@ -193,7 +193,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `nicht-hochrisiko-bestaetigt-end-to-end-roadmap`
 
-**Frühere Beschreibung:** Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transparenzpflichten Art. 50 GPAI-Pflichten Art. 53 KI-Kompetenz Art. 4 Sanktionen bei Verstoss. Output: Dokumentationspaket Negativ-Diagnose und Restpflichten-Checkliste. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Hochrisiko-Roadmap) und risikoklassen-uebersicht-und-triage.
+**Fokus:** Prüfung hat ergeben: kein Hochrisiko. Unternehmen fragt: Welche KI-VO-Pflichten gelten trotzdem und wie dokumentieren wir das Negativ-Ergebnis rechtssicher? Drei Pfade Anhang I/III nicht zutreffend Rückausnahme Art. 6 Abs. 3 oder verbotene Praktiken ausgeschlossen. Verbleibende Pflichten: Transparenzpflichten Art. 50 GPAI-Pflichten Art. 53 KI-Kompetenz Art. 4 Sanktionen bei Verstoss. Output: Dokumentationspaket Negativ-Diagnose und Restpflichten-Checkliste. Abgrenzung zu hochrisiko-bestätigt-end-to-end-roadmap (Hochrisiko-Roadmap) und risikoklassen-uebersicht-und-triage.
 
 # Kein Hochrisiko bestätigt — die End-to-End-Roadmap
 
@@ -432,7 +432,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `notariat-cloud-ki-nebenakte-verschwiegenheit`
 
-**Frühere Beschreibung:** Notariat, Cloud und KI: Nebenakte, Entwurfsarbeit, Urkundenbezug, Verschwiegenheit, Verfuegbarkeit, lokale Aktenherrschaft, Auftragsverarbeitung, Datenabfluss und Notfallbetrieb. Prueft, wann KI/Cloud nur Hilfsmittel ist und wann es berufsrechtlich kippt.
+**Fokus:** Notariat, Cloud und KI: Nebenakte, Entwurfsarbeit, Urkundenbezug, Verschwiegenheit, Verfuegbarkeit, lokale Aktenherrschaft, Auftragsverarbeitung, Datenabfluss und Notfallbetrieb. Prueft, wann KI/Cloud nur Hilfsmittel ist und wann es berufsrechtlich kippt.
 
 # Notariat: Cloud, KI und Nebenakte
 

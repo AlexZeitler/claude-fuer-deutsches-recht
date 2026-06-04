@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-chn-085-counterfeit-bis-chn-089-factory-leas
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (chn-085-counterfeit-and-parallel-imports, chn-087-trade-fair-china-ip-risk, chn-088-visas-expats-and-secondment, chn-089-factory-lease-and-land-use-rights) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 085 Counterfeit And Parallel Imports, Chn 087 Trade Fair China Ip Risk, Chn 088 Visas Expats And Secondment, Chn 089 Factory Lease And Land Use Rights; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 085 Counterfeit And Parallel Imports bis Chn 089 Factory Lease And Land Use Rights
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-085-counterfeit-and-parallel-imports` | Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktpiraterie § 143 MarkenG. Output: Anti-Piraterie-Strategie und Zoll-Notifizierungsplan. |
 | `chn-087-trade-fair-china-ip-risk` | IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-085-counterfeit-and-parallel-imports`
 
-**Frühere Beschreibung:** Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktpiraterie § 143 MarkenG. Output: Anti-Piraterie-Strategie und Zoll-Notifizierungsplan.
+**Fokus:** Produktpiraterie und Grauimporte aus/über China: Grenzbeschlagnahme EU (EU-VO 608/2013), CNIPA-Enforcement, chinesische Zollregistrierung IP-Rechte, Parallelimporte (Erschöpfung EU vs. CN), Abmahnverfahren DE, Zoll-Alarm-System COPIS, Strafverfolgung Produktpiraterie § 143 MarkenG. Output: Anti-Piraterie-Strategie und Zoll-Notifizierungsplan.
 
 # Produktpiraterie und Grauimporte China: Grenzbeschlagnahme/CNIPA
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-087-trade-fair-china-ip-risk`
 
-**Frühere Beschreibung:** IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll.
+**Fokus:** IP-Risiken bei chinesischen Messen (z.B. Canton Fair, CIIE): Ausstellungsschutz für Neuheiten (§ 3 PatG Neuheitsschonfrist), Marken-Monitoring auf Messe, NDA vor Produkt-Demos, Fotoverbot als Geheimhaltungsmaßnahme, Gerichtsstand bei Messe-IP-Streit, CNIPA-Notfall-Enforcement auf Messe. Output: Messe-IP-Schutzkonzept und Vor-Ort-Protokoll.
 
 # IP-Schutz auf chinesischen Messen: Prävention und Enforcement
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-088-visas-expats-and-secondment`
 
-**Frühere Beschreibung:** Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster.
+**Fokus:** Visa, Expatriate-Recht und Entsendung nach China: Arbeitserlaubnis und Residence Permit (Punkte-System CN seit 2017), Entsendungsvertrag DE-CN (Sozialversicherungs-Doppelabkommen), Reiserecht/Exit-Ban-Risiken CN, Sicherheitscheck bei sensiblen Positionen, Kurzzeit-Entsendungen, lokale Anstellung vs. Entsendung. Output: Expat-Compliance-Handbuch und Entsendungsvertragsmuster.
 
 # Visa und Entsendung China: Arbeitserlaubnis/Exit-Ban/Entsendungsrecht
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-089-factory-lease-and-land-use-rights`
 
-**Frühere Beschreibung:** Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen.
+**Fokus:** Fabrikmiete und Bodennutzungsrechte in China: Unterschied Grundstückseigentum (staatlich) vs. Bodennutzungsrecht (Land Use Right), Gewerbliche LUR-Laufzeiten (50 Jahre), Mietvertrag Fabrik (Industriezone), Genehmigungen Umbau/Erweiterung, Abbruchrisiken bei Stadtentwicklung, Insolvenzfestigkeit LUR. Output: Immobilien-Due-Diligence-Checkliste China und Vertragsrahmen.
 
 # Fabrikmiete und Bodennutzungsrechte China: LUR und Mietrecht
 

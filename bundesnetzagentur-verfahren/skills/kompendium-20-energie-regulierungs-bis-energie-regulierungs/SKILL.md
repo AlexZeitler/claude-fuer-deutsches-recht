@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-energie-regulierungs-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 20; bündelt 8 frühere Spezialskills (energie-regulierungsakte-remit-marktmissbrauch-energie-stellungn, energie-regulierungsakte-remit-marktmissbrauch-energie-unterlage, energie-regulierungsakte-unbundling-entflechtung-rechtsmittel-ch, energie-regulierungsakte-unbundling-entflechtung-stellungnahme-e, energie-regulierungsakte-unbundling-entflechtung-unterlagenanfor und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Regulierungsakte Remit Marktmissbrauch Energie Stellungn, Energie Regulierungsakte Remit Marktmissbrauch Energie Unterlage, Energie Regulierungsakte Unbundling Entflechtung Rechtsmittel Ch, Energie Regulierungsakte Unbundling Entflechtung Stellungnahme E und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmus"
 ---
 
-# Kompendium 20 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Regulierungsakte Remit Marktmissbrauch Energie Stellungn bis Energie Regulierungsakte Versorgungssicherheit Monitoring Unterl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-regulierungsakte-remit-marktmissbrauch-energie-stellungn` | REMIT Marktmissbrauch Energie: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-remit-marktmissbrauch-energie-unterlage` | REMIT Marktmissbrauch Energie: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-regulierungsakte-remit-marktmissbrauch-energie-stellungn`
 
-**Frühere Beschreibung:** REMIT Marktmissbrauch Energie: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** REMIT Marktmissbrauch Energie: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Stellungnahme-Entwurf
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-regulierungsakte-remit-marktmissbrauch-energie-unterlage`
 
-**Frühere Beschreibung:** REMIT Marktmissbrauch Energie: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** REMIT Marktmissbrauch Energie: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Unterlagenanforderung
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-regulierungsakte-unbundling-entflechtung-rechtsmittel-ch`
 
-**Frühere Beschreibung:** Unbundling Entflechtung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Unbundling Entflechtung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Rechtsmittel-Check
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-unbundling-entflechtung-stellungnahme-e`
 
-**Frühere Beschreibung:** Unbundling Entflechtung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Unbundling Entflechtung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Stellungnahme-Entwurf
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-unbundling-entflechtung-unterlagenanfor`
 
-**Frühere Beschreibung:** Unbundling Entflechtung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Unbundling Entflechtung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Unbundling Entflechtung — Unterlagenanforderung
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-versorgungssicherheit-monitoring-rechts`
 
-**Frühere Beschreibung:** Versorgungssicherheit Monitoring: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Versorgungssicherheit Monitoring: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Rechtsmittel-Check
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-versorgungssicherheit-monitoring-stellu`
 
-**Frühere Beschreibung:** Versorgungssicherheit Monitoring: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Versorgungssicherheit Monitoring: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Stellungnahme-Entwurf
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-versorgungssicherheit-monitoring-unterl`
 
-**Frühere Beschreibung:** Versorgungssicherheit Monitoring: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Versorgungssicherheit Monitoring: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Versorgungssicherheit Monitoring — Unterlagenanforderung
 

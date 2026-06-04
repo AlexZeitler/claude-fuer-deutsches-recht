@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-hoai-lph-05-kostenst-bis-hoai-lph-06-bauherrn
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 18 frühere Spezialskills (hoai-lph-05-kostensteuerung, hoai-lph-05-mandantenbericht, hoai-lph-05-mangel-claim-vorsorge, hoai-lph-05-nachtrag-und-change-request, hoai-lph-05-oeffentlicher-auftraggeber und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 05 Kostensteuerung, Hoai Lph 05 Mandantenbericht, Hoai Lph 05 Mangel Claim Vorsorge, Hoai Lph 05 Nachtrag Und Change Request und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 05 Kostensteuerung bis Hoai Lph 06 Bauherrnfreigabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-05-kostensteuerung` | HOAI LPH 5 Ausführungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume. |
 | `hoai-lph-05-mandantenbericht` | HOAI LPH 5 Ausführungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-05-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Prüft kostenermittlung
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 2. `hoai-lph-05-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 3. `hoai-lph-05-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Sichert spätere mängel-
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 4. `hoai-lph-05-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Erkennt planungsänderung
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 5. `hoai-lph-05-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Berücksichtigt vergabe
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 6. `hoai-lph-05-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Liefert alle dokumente
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 7. `hoai-lph-05-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Prüft planindex
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 8. `hoai-lph-05-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Erstellt ein qualitygate
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 9. `hoai-lph-05-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Prüft abschlag
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 10. `hoai-lph-05-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Baut risiko-
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 11. `hoai-lph-05-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 12. `hoai-lph-05-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Prüft vob/b
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 13. `hoai-lph-05-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 14. `hoai-lph-05-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Baut terminlog
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 15. `hoai-lph-05-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 5 Ausführungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
+**Fokus:** HOAI LPH 5 Ausführungsplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf durcharbeitete ausführungsreife Planung, Detailpläne, Koordination der Fachplaner und Fortschreibung und Bewertungsanteil 25 % Gebäude / 30 % Innenräume.
 
 # LPH 5 Ausführungsplanung: Erklärt pflichten
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 5 (Ausführungsplanung)** gedacht. Er
 
 ## 16. `hoai-lph-06-abnahme-und-teilabnahme`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Ordnet abnahme
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 17. `hoai-lph-06-anwaltlicher-pruefvermerk`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 18. `hoai-lph-06-bauherrnfreigabe`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Strukturiert freigabeentscheidung
 

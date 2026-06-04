@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-familienr-bis-fachanwalt-familienr
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag, fachanwalt-familienrecht-mediation-156-famfg-cochemer, fachanwalt-familienrecht-orientierung, fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen, fachanwalt-familienrecht-scheidungsantrag-stellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienrecht Kindeswohlgefaehrdung Eilantrag, Familienrecht Mediation 156 Famfg Cochemer, Familienrecht Orientierung, Familienrecht Sbgg Personenstandswechsel Folgen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-familienrecht
+# Arbeitsbereich - Familienrecht Kindeswohlgefaehrdung Eilantrag bis Familienrecht Scheidungsantrag Stellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag` | Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen. |
 | `fachanwalt-familienrecht-mediation-156-famfg-cochemer` | Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag`
 
-**Frühere Beschreibung:** Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen.
+**Fokus:** Kindeswohlgefaehrdung nach § 1666 BGB: Eilantrag auf Sorgerechtsentzug oder Schutzanordnung stellen oder dagegen verteidigen. Normen: § 1666 BGB (Eingriff Familiengericht), § 49 FamFG (Einstweilige Anordnung), § 8a SGB VIII (Jugendamt-Meldung), § 42 SGB VIII (Inobhutnahme). Prüfraster: Gefaehrdungsgrad, Eilbedürftigkeit, Jugendamt-Einschaltung, Sorgerecht-Teilentzug vs. Vollentziehung. Output Eilantrags-Entwurf oder Verteidigungsschrift. Abgrenzung: Regelmäßiger Sorgerechtsstreit siehe schriftsatzkern-substantiierung; Umgang siehe umgangsregelung-mustervorlagen.
 
 # Kindeswohlgefährdung — Eilanordnung
 
@@ -243,7 +243,7 @@ Weitere Entscheidungen aus Modellwissen nicht zitieren; vor Ausgabe über bundes
 
 ## 2. `fachanwalt-familienrecht-mediation-156-famfg-cochemer`
 
-**Frühere Beschreibung:** Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB.
+**Fokus:** Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweigerung, ADR-Pfade (Familienmediation DGFM, Familiengerichts-Mediation § 278a ZPO analog, Cochemer Praxis), Hochkonflikt-Familien, Schutzklausel § 1666 BGB, interdisziplinäre Zusammenarbeit mit Jugendamt, BKKJ und Verfahrensbeistand, Beurkundung § 127a BGB, MediationsG, Kostentragung, Abgrenzung zur streitigen Entscheidung nach § 1684 BGB.
 
 ## V90 Fachkern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Familienrechtliche Mediation nach § 156 FamFG und Cochemer Modell: Vermittlungsverfahren § 165 FamFG bei Umgangsverweige` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -537,7 +537,7 @@ Erhöhung auf EUR 5.000–8.000 bei komplexen Hochkonfliktfällen möglich (§ 4
 
 ## 3. `fachanwalt-familienrecht-orientierung`
 
-**Frühere Beschreibung:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills.
+**Fokus:** Orientierung im Fachanwaltsrecht Familienrecht: FAO-Voraussetzungen, Kerngebiete, Verfahren nach FamFG und BGB ueberblicken. Normen: FamFG (Beschluss statt Urteil, Verbund § 137 FamFG), §§ 23a und 23b GVG (Familiengericht), BGB Familienrecht. Prüfraster: Sachgebiet (Scheidung, Sorge, Umgang, Unterhalt, Zugewinn, VA), Verfahrenstypen, Eilbedürftigkeit. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-familienrecht; Detailbearbeitungen siehe Spezialskills.
 
 # Fachanwalt für Familienrecht — Orientierung
 
@@ -634,7 +634,7 @@ Dieses Plugin liefert nur die Orientierung. Tiefe Mandatsbearbeitung erfordert d
 
 ## 4. `fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt familienrecht sbgg personenstandswechsel folgen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen
 
@@ -982,7 +982,7 @@ eines Vermittlungstermins innerhalb eines Monats.
 
 ## 5. `fachanwalt-familienrecht-scheidungsantrag-stellen`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 ## V90 Fachkern — Familienrecht
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt familienrecht scheidungsantrag stellen. Nutzt Normtext, Nutzerangaben und verifizierte Quel` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.

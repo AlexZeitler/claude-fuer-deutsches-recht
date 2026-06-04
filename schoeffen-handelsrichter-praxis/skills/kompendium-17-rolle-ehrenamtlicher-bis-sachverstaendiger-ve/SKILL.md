@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-rolle-ehrenamtlicher-bis-sachverstaendiger-ve
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (rolle-ehrenamtlicher-richter, sachverstaendiger-verstehen-orientierung, sachverstaendiger-verstehen-sitzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Rolle Ehrenamtlicher Richter, Sachverstaendiger Verstehen Orientierung, Sachverstaendiger Verstehen Sitzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rolle-ehrenamtlicher-richter` | Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `sachverstaendiger-verstehen-orientierung` | Sachverständige verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rolle-ehrenamtlicher-richter`
 
-**Frühere Beschreibung:** Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Rolle ehrenamtlicher Richter: erklärt Unabhängigkeit, gleiche Stimme, Beratungsgeheimnis, gesetzlicher Richter und Grenzen der Laienrolle für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Rolle ehrenamtlicher Richter
 
@@ -78,7 +78,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `sachverstaendiger-verstehen-orientierung`
 
-**Frühere Beschreibung:** Sachverständige verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Sachverständige verstehen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Sachverständige verstehen: Orientierung
 
@@ -132,7 +132,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `sachverstaendiger-verstehen-sitzung`
 
-**Frühere Beschreibung:** Sachverständige verstehen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Sachverständige verstehen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Gutachten lesen, Nachfragen, Methodenkritik und Grenzen eigener Sachkunde mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Sachverständige verstehen: Sitzungspraxis
 

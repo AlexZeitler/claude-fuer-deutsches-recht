@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-erbbaurecht-und-phot-bis-erbbaurecht-untererb
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (erbbaurecht-und-photovoltaik, erbbaurecht-untererbbaurecht-und-weitergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbbaurecht Und Photovoltaik, Erbbaurecht Untererbbaurecht Und Weitergabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - erbbaurecht-praxis
+# Arbeitsbereich - Erbbaurecht Und Photovoltaik, Erbbaurecht Untererbbaurecht Und Weitergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbbaurecht-und-photovoltaik` | Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung. |
 | `erbbaurecht-untererbbaurecht-und-weitergabe` | Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbbaurecht-und-photovoltaik`
 
-**Frühere Beschreibung:** Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung.
+**Fokus:** Prüft Nutzungszweck, bauliche Veränderung, Dienstbarkeit, Einspeisung, Finanzierung und Zustimmung.
 
 # PV, Wärmepumpe, Ladepunkte
 
@@ -61,7 +61,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `erbbaurecht-untererbbaurecht-und-weitergabe`
 
-**Frühere Beschreibung:** Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen.
+**Fokus:** Prüft, ob und wie ein Untererbbaurecht, eine Betreiberüberlassung oder langfristige Untervermietung zulässig ist und welche Zustimmung, Rang- und Heimfallfolgen entstehen.
 
 # Untererbbaurecht und Weitergabe
 

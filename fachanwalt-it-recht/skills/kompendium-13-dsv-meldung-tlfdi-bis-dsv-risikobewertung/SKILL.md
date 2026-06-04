@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-dsv-meldung-tlfdi-bis-dsv-risikobewertung
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (dsv-meldung-tlfdi, dsv-meldung-uld-sh, dsv-nachmeldung-aktualisierung-art-33-abs-4, dsv-risikobewertung-edsa-leitlinie, dsv-risikobewertung-enisa-schweregrad) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Meldung Tlfdi, Dsv Meldung Uld Sh, Dsv Nachmeldung Aktualisierung Art 33 Abs 4, Dsv Risikobewertung Edsa Leitlinie und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Meldung Tlfdi bis Dsv Risikobewertung Enisa Schweregrad
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-meldung-tlfdi` | Reicht eine Meldung nach Art. 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus ThürDSG Thüringer Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-uld-sh` | Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Schleswig-Holstein; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-meldung-tlfdi`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus ThürDSG Thüringer Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Thüringer Landesbeauftragter für den Datenschutz und die Informationsfreiheit (TLfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Thüringen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus ThürDSG Thüringer Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die TLfDI
 
@@ -135,7 +135,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 2. `dsv-meldung-uld-sh`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Schleswig-Holstein; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Landeszentrum für Datenschutz Schleswig-Holstein (ULD) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Schleswig-Holstein und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Schleswig-Holstein; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die ULD
 
@@ -240,7 +240,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 3. `dsv-nachmeldung-aktualisierung-art-33-abs-4`
 
-**Frühere Beschreibung:** Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur Strafanzeige; Schluss der Meldung. Output: Nachmeldungs-Schreiben mit Bezug auf Aktenzeichen der Erstmeldung. Abgrenzung: keine neue Erstmeldung.
+**Fokus:** Erstellt die Nachmeldung zu einer vorläufigen Erstmeldung nach Art. 33 Abs. 4 DSGVO. Behandelt: 14-Tage-Frist der Berliner Praxis; Ergänzung der Datenarten; Korrektur der Anzahl Betroffener; Update der Gegenmaßnahmen; Information zur Pressemitteilung; Verweis auf Forensikbericht; Mitteilung zur Strafanzeige; Schluss der Meldung. Output: Nachmeldungs-Schreiben mit Bezug auf Aktenzeichen der Erstmeldung. Abgrenzung: keine neue Erstmeldung.
 
 # Nachmeldung und Aktualisierung nach Art. 33 Abs. 4 DSGVO
 
@@ -298,7 +298,7 @@ Mit dieser Nachmeldung gilt die Meldung als endgültig.
 
 ## 4. `dsv-risikobewertung-edsa-leitlinie`
 
-**Frühere Beschreibung:** Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch. Behandelt: Beispielfallgruppen Ransomware; Datenexfiltration; Insider; Verlust; Fehlversand; soziale Ingenieurkunst; jeweils mit Schwere-Schwellen für Meldepflicht Art. 33 DSGVO und Benachrichtigungspflicht Art. 34 DSGVO. Output: strukturierte Bewertung mit Bezug auf konkrete Beispielfallgruppe und begründeter Empfehlung Meldung Ja/Nein und Benachrichtigung Ja/Nein. Abgrenzung: keine Behördenmeldung; keine ENISA-Methodik.
+**Fokus:** Führt die Risikobewertung eines Datenschutzvorfalls anhand der EDSA-Leitlinie 9/2022 zu Beispielen für die Meldung von Datenschutzverletzungen durch. Behandelt: Beispielfallgruppen Ransomware; Datenexfiltration; Insider; Verlust; Fehlversand; soziale Ingenieurkunst; jeweils mit Schwere-Schwellen für Meldepflicht Art. 33 DSGVO und Benachrichtigungspflicht Art. 34 DSGVO. Output: strukturierte Bewertung mit Bezug auf konkrete Beispielfallgruppe und begründeter Empfehlung Meldung Ja/Nein und Benachrichtigung Ja/Nein. Abgrenzung: keine Behördenmeldung; keine ENISA-Methodik.
 
 # Risikobewertung nach EDSA-Leitlinie 9/2022
 
@@ -350,7 +350,7 @@ Risikomatrix: Eintrittswahrscheinlichkeit × Schwere; Begründung mit EDSA-Refer
 
 ## 5. `dsv-risikobewertung-enisa-schweregrad`
 
-**Frühere Beschreibung:** Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an. Behandelt: Data Processing Context DPC; Ease of Identification EI; Circumstances of Breach CB; Schweregradformel SE = DPC × EI + CB; vier Stufen Low Medium High Very High; Übersetzung in Meldepflicht Art. 33 und Benachrichtigung Art. 34 DSGVO. Output: quantitative ENISA-Bewertung mit Faktoren und Schwellenwerten. Abgrenzung: keine EDSA-Beispielmethodik; keine Behördenmeldung.
+**Fokus:** Wendet die ENISA-Methodik Recommendations for a methodology of the assessment of severity of personal data breaches auf einen konkreten Vorfall an. Behandelt: Data Processing Context DPC; Ease of Identification EI; Circumstances of Breach CB; Schweregradformel SE = DPC × EI + CB; vier Stufen Low Medium High Very High; Übersetzung in Meldepflicht Art. 33 und Benachrichtigung Art. 34 DSGVO. Output: quantitative ENISA-Bewertung mit Faktoren und Schwellenwerten. Abgrenzung: keine EDSA-Beispielmethodik; keine Behördenmeldung.
 
 # ENISA-Methodik zur Schweregradbewertung von Datenschutzverletzungen
 

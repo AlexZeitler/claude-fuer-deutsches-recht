@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-allgemein-bis-workflow-fristen-und
-description: "forschungszulage-antragstellung: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (allgemein, workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forschungszulage-antragstellung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - forschungszulage-antragstellung
+# Arbeitsbereich - Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Spezialskills und liefert sofort Kurzbild plus Arbeitsentwurf. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin forschungszulage-antragstellung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Spezialskills und liefert sofort Kurzbild plus Arbeitsentwurf.
+**Fokus:** Adaptiver Einstieg, Mandatsklärung und Routing im Forschungszulage-Plugin. Führt Einsteiger, Technikteams, CFOs und Steuerberater unterschiedlich, klärt Unternehmen, FuE-Vorhaben, Wirtschaftsjahre, BSFZ-Status, Finanzamt-Antrag, Liquidität, Dokumentation und Spezialskills und liefert sofort Kurzbild plus Arbeitsentwurf.
 
 # Forschungszulage — Allgemein
 
@@ -188,7 +188,7 @@ Konkrete Beträge, Fristen und KMU-Definition vom Antragsteller vor Einreichung 
 
 ## 2. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin forschungszulage-antragstellung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix im Plugin forschungszulage-antragstellung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 # Chronologie und Belegmatrix
 
@@ -223,7 +223,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin forschungszulage-antragstellung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin forschungszulage-antragstellung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 # Fristen- und Risikoampel
 

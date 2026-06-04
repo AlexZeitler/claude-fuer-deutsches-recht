@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-klageschrift-pflicht-bis-kostenfestsetzung-10
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (klageschrift-pflichtbestandteile-253-zpo, klageschrift-tatsachenvortrag-strukturieren, kostenfestsetzung-103-104-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Klageschrift Pflichtbestandteile 253 Zpo, Klageschrift Tatsachenvortrag Strukturieren, Kostenfestsetzung 103 104 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageschrift-pflichtbestandteile-253-zpo` | Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe. |
 | `klageschrift-tatsachenvortrag-strukturieren` | Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageschrift-pflichtbestandteile-253-zpo`
 
-**Frühere Beschreibung:** Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe.
+**Fokus:** Pflichtbestandteile einer Klageschrift nach § 253 ZPO. Bezeichnung der Parteien Gericht bestimmter Antrag Klagegrund Beweise Unterschrift. Mit Mustertext-Anregung für eine vollständige Klage in einfacher Sprache und Hinweisen zur Streitwert-Angabe.
 
 # So bauen Sie eine Klageschrift auf
 
@@ -240,7 +240,7 @@ Stand: 05/2026. § 253 ZPO unveraendert.
 
 ## 2. `klageschrift-tatsachenvortrag-strukturieren`
 
-**Frühere Beschreibung:** Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern.
+**Fokus:** Strukturierung des Tatsachenvortrags in der Klageschrift. Chronologische Schilderung pro Tatbestandsmerkmal Beweis-Junktur und rechtliche Würdigung in einfacher Sprache. Mit Mustertext Vermeidung von Pauschalbehauptungen und Standard-Fehlern.
 
 # Den Sachverhalt richtig in die Klage schreiben
 
@@ -431,7 +431,7 @@ Stand: 05/2026. ZPO unveraendert. Praxis-Tipp.
 
 ## 3. `kostenfestsetzung-103-104-zpo`
 
-**Frühere Beschreibung:** Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschäftsstelle was erstattungsfähig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall.
+**Fokus:** Kostenfestsetzung nach §§ 103 104 ZPO. Bei Erfolg im Verfahren Ihre Kosten gegen den Verlierer festsetzen lassen. Antrag bei Geschäftsstelle was erstattungsfähig was nicht. Mit Muster und Hinweis auf Selbstvertretung-Sonderfall.
 
 # Kostenfestsetzung: Bei Erfolg Geld zurueckholen
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-verl-026-autorenkuen-bis-verl-027-verlagsagen
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (verl-026-autorenkuendigung-bestseller-und-nachverguetung, verl-027-verlagsagentur-literaturagentur-und-provision) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 026 Autorenkuendigung Bestseller Und Nachverguetung, Verl 027 Verlagsagentur Literaturagentur Und Provision
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-026-autorenkuendigung-bestseller-und-nachverguetung` | Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung. |
 | `verl-027-verlagsagentur-literaturagentur-und-provision` | Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-026-autorenkuendigung-bestseller-und-nachverguetung`
 
-**Frühere Beschreibung:** Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung.
+**Fokus:** Verlagsrecht: Autorenkündigung des Verlagsvertrags, Bestseller-Nachvergütung nach UrhG § 32a und Vertragsanpassung — Voraussetzungen, Verfahren und Durchsetzung.
 
 # Verl-026 · Autorenkündigung, Bestseller und Nachvergütung
 
@@ -148,7 +148,7 @@ Dieser Skill behandelt zwei eng verwandte Konfliktfelder: Wann und wie kann ein 
 
 ## 2. `verl-027-verlagsagentur-literaturagentur-und-provision`
 
-**Frühere Beschreibung:** Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB).
+**Fokus:** Verlagsrecht: Literaturagentur und Verlagsagentur — Agenturvertrag, Vollmacht, Provision, Interessenkollision, Haftung und Abgrenzung zum Handelsvertreter (HGB).
 
 # Verl-027 · Verlagsagentur, Literaturagentur und Provision
 

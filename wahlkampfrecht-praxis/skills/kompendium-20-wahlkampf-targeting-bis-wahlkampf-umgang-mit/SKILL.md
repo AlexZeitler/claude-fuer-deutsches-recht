@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-wahlkampf-targeting-bis-wahlkampf-umgang-mit
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (wahlkampf-targeting-dsgvo, wahlkampf-tracking-pixel-cookies, wahlkampf-ueberkleben-sachbeschaedigung, wahlkampf-umfragen-und-prognosen, wahlkampf-umgang-mit-provokateuren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Targeting Dsgvo, Wahlkampf Tracking Pixel Cookies, Wahlkampf Ueberkleben Sachbeschaedigung, Wahlkampf Umfragen Und Prognosen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Targeting Dsgvo bis Wahlkampf Umgang Mit Provokateuren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-targeting-dsgvo` | Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich pruefen. |
 | `wahlkampf-tracking-pixel-cookies` | Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-targeting-dsgvo`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Targeting und Zustellung politischer Werbung datenschutzrechtlich pruefen.
 
 # Targeting Dsgvo
 
@@ -91,7 +91,7 @@ Erzeuge: **Targeting-Ampel**. Wenn Informationen fehlen, stelle höchstens acht 
 
 ## 2. `wahlkampf-tracking-pixel-cookies`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Kampagnenwebsite, Pixel, Conversiontracking und Cookies pruefen.
 
 # Tracking Pixel Cookies
 
@@ -144,7 +144,7 @@ Erzeuge: **Tracking-Freigabevermerk**. Wenn Informationen fehlen, stelle höchst
 
 ## 3. `wahlkampf-ueberkleben-sachbeschaedigung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Ueberkleben, Beschmieren oder Entfernen fremder Plakate pruefen.
 
 # Ueberkleben Sachbeschaedigung
 
@@ -197,7 +197,7 @@ Erzeuge: **Incident-Vermerk**. Wenn Informationen fehlen, stelle höchstens acht
 
 ## 4. `wahlkampf-umfragen-und-prognosen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden.
+**Fokus:** Wahlkampfrecht Praxis: Umfragen, Projektionen und interne Trackings richtig verwenden.
 
 # Umfragen Und Prognosen
 
@@ -250,7 +250,7 @@ Erzeuge: **Umfragen-Freigabe**. Wenn Informationen fehlen, stelle höchstens ach
 
 ## 5. `wahlkampf-umgang-mit-provokateuren`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen.
+**Fokus:** Wahlkampfrecht Praxis: Umgang mit Provokateuren bei Veranstaltungen und Strassenwahlkampf planen.
 
 # Umgang Mit Provokateuren
 

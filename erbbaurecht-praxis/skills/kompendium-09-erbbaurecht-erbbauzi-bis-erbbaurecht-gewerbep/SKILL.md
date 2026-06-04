@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-erbbaurecht-erbbauzi-bis-erbbaurecht-gewerbep
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (erbbaurecht-erbbauzinsrang-vor-finanzierungsbank, erbbaurecht-gewerbepark) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbbaurecht Erbbauzinsrang Vor Finanzierungsbank, Erbbaurecht Gewerbepark; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - erbbaurecht-praxis
+# Arbeitsbereich - Erbbaurecht Erbbauzinsrang Vor Finanzierungsbank, Erbbaurecht Gewerbepark
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbbaurecht-erbbauzinsrang-vor-finanzierungsbank` | Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen. |
 | `erbbaurecht-gewerbepark` | Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbbaurecht-erbbauzinsrang-vor-finanzierungsbank`
 
-**Frühere Beschreibung:** Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen.
+**Fokus:** Prüft, wann der Rang der Erbbauzinsreallast die Finanzierung entwertet, wie Rangrücktritt oder Stillhalteabrede aussehen können und welche Risiken Eigentümer, Bank und Erbbauberechtigter jeweils tragen.
 
 # Erbbauzinsrang vor Finanzierungsbank
 
@@ -61,7 +61,7 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 
 ## 2. `erbbaurecht-gewerbepark`
 
-**Frühere Beschreibung:** Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit.
+**Fokus:** Prüft Nutzung, Baupflicht, Betriebspflicht, Umwelt, Altlasten, Heimfall und Investorenexit.
 
 # Gewerbliches Erbbaurecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-lease-016-kuendigung-bis-lease-018-insolvenz
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung, lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung, lease-018-insolvenz-leasinggeber-eigentum-und-refinanzierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 016 Kuendigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolvenz Leasinggeber Eigentum Und Refinanzierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - leasingrecht-praxis
+# Arbeitsbereich - Lease 016 Kuendigung Zahlungsverzug Rueckholung Und Verwertung, Lease 017 Insolvenz Leasingnehmer Aussonderung Fortfuehrung, Lease 018 Insolv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung` | Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung. |
 | `lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung` | Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-016-kuendigung-zahlungsverzug-rueckholung-und-verwertung`
 
-**Frühere Beschreibung:** Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung.
+**Fokus:** Kündigung des Leasingvertrags: Zahlungsverzug, außerordentliche Kündigung, Rückholung, Verwertung und Schadensersatzberechnung.
 
 # Kündigung, Rückholung und Verwertung
 
@@ -135,7 +135,7 @@ Schadensersatz = Ausstehende Raten (abgezinst) - Verwertungserlös - Ersparte Au
 
 ## 2. `lease-017-insolvenz-leasingnehmer-aussonderung-fortfuehrung`
 
-**Frühere Beschreibung:** Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen.
+**Fokus:** Insolvenz des Leasingnehmers: §§ 108 und 109 InsO, Aussonderungsrecht, Wahlrecht des Insolvenzverwalters, offene Forderungen, Sanierungsoptionen.
 
 # Insolvenz des Leasingnehmers: Aussonderung und Fortführung
 
@@ -241,7 +241,7 @@ Voraussetzungen:
 
 ## 3. `lease-018-insolvenz-leasinggeber-eigentum-und-refinanzierung`
 
-**Frühere Beschreibung:** Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers.
+**Fokus:** Insolvenz des Leasinggebers: Nutzungsrecht des LN, Refinanzierungsstruktur, Sicherungsübereignung, § 108 InsO und Ansprüche des Refinanzierers.
 
 # Insolvenz des Leasinggebers: Nutzungsrecht und Refinanzierung
 

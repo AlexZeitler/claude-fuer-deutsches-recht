@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ein-019-vergleich-mi-bis-ein-022-volkseigener
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (ein-019-vergleich-mit-oeffentlicher-hand, ein-020-chronologie-und-belegmappe, ein-021-volkseigener-betrieb-anspruchspfad-pru, ein-022-volkseigener-betrieb-akte-anfordern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 019 Vergleich Mit Oeffentlicher Hand, Ein 020 Chronologie Und Belegmappe, Ein 021 Volkseigener Betrieb Anspruchspfad Pru, Ein 022 Volkseigener Betrieb Akte Anfordern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 019 Vergleich Mit Oeffentlicher Hand bis Ein 022 Volkseigener Betrieb Akte Anfordern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-019-vergleich-mit-oeffentlicher-hand` | Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-020-chronologie-und-belegmappe` | Einigungsvertrag und Vermögensrecht: Chronologie und Belegmappe. Chronologie und Belegmappe im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-019-vergleich-mit-oeffentlicher-hand`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Vergleich mit öffentlicher Hand. Vergleich mit öffentlicher Hand im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vergleich Mit Oeffentlicher Hand
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-020-chronologie-und-belegmappe`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Chronologie und Belegmappe. Chronologie und Belegmappe im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Chronologie und Belegmappe. Chronologie und Belegmappe im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Chronologie Und Belegmappe
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-021-volkseigener-betrieb-anspruchspfad-pru`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Anspruchspfad prüfen. Anspruchspfad prüfen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Anspruchspfad prüfen. Anspruchspfad prüfen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Anspruchspfad Pru
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-022-volkseigener-betrieb-akte-anfordern`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Akte anfordern. Akte anfordern für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Akte anfordern. Akte anfordern für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Akte Anfordern
 

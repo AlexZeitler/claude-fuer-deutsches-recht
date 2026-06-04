@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fristen-bis-spezial-rdg-fristen
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (fristen, spezial-fristenkontrolle-behoerden-gericht-und-registerweg, spezial-rdg-fristen-form-und-zustaendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen, Fristenkontrolle Behoerden Gericht Und Registerweg, Rdg Fristen Form Und Zustaendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - rechtsberatungsstelle
+# Arbeitsbereich - Fristen, Fristenkontrolle Behoerden Gericht Und Registerweg, Rdg Fristen Form Und Zustaendigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fristen` | Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt. |
 | `spezial-fristenkontrolle-behoerden-gericht-und-registerweg` | Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fristen`
 
-**Frühere Beschreibung:** Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt.
+**Fokus:** Fristenmanagement für die Rechtsberatungsstelle — Fristen eintragen, gesamtübergreifende Übersicht abrufen, aktualisieren, als erledigt markieren oder schließen. Warnt bei konfigurierbaren Schwellenwerten (Standard: 14/7/3/1 Tage); überfällige Einträge bleiben markiert bis zur ausdrücklichen Erledigung. Lädt, wenn ein Studierender oder Supervisor Fristen hinzufügen, den Fristenstatus abrufen oder eine Fristenübersicht für laufende Mandate benötigt.
 
 # Fristenverwaltung
 
@@ -187,7 +187,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 2. `spezial-fristenkontrolle-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fristenkontrolle: Behörden-, Gerichts- oder Registerweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fristenkontrolle: Behörden-, Gerichts- oder Registerweg
 
@@ -228,7 +228,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rdg-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** RDG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # RDG: Fristen, Form, Zuständigkeit und Rechtsweg
 

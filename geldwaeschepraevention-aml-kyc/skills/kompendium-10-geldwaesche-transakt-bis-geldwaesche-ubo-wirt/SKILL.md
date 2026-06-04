@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-geldwaesche-transakt-bis-geldwaesche-ubo-wirt
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (geldwaesche-transaktionsstopp-freeze, geldwaesche-transparenzregister, geldwaesche-ubo-wirtschaftlich-berechtigte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Geldwaesche Transaktionsstopp Freeze, Geldwaesche Transparenzregister, Geldwaesche Ubo Wirtschaftlich Berechtigte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-transaktionsstopp-freeze` | Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening. |
 | `geldwaesche-transparenzregister` | Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Prüfraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Prüfprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation für KYC-Akte. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-datenqualitaet-register. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-transaktionsstopp-freeze`
 
-**Frühere Beschreibung:** Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening.
+**Fokus:** Transaktionsstopp Kontoeinfrierung und Nichtdurchführung bei Sanktions- oder Verdachtstreffer. Anwendungsfall Transaktion muss gestoppt oder Konto eingefroren werden weil Sanktionstreffer oder konkreter Verdacht vorliegt. Normen § 40 GwG Nichtdurchführung § 5 AWG Embargo-Befolgung EU-Sanktionsverordnungen. Prüfraster Nichtdurchführungsbegründung vorlaeufige Sperre Vertragsabbruch Restguthaben Kontobeendigung Kommunikationslinie FIU. Output Stoppprotokoll mit Begründung Kommunikationsschreiben FIU-Meldung und Archivierungsplan. Abgrenzung zu geldwäsche-verdachtsmeldung-fiu-goaml und geldwäsche-sanktionsscreening.
 
 # Transaktionsstopp, Freeze und Exit
 
@@ -97,7 +97,7 @@ Dieser Skill gibt klare Sofortmaßnahmen bei Verdachtsfall, Sanktionstreffer ode
 
 ## 2. `geldwaesche-transparenzregister`
 
-**Frühere Beschreibung:** Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Prüfraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Prüfprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation für KYC-Akte. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-datenqualitaet-register.
+**Fokus:** Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Prüfraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Prüfprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation für KYC-Akte. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-datenqualitaet-register.
 
 # Transparenzregister und Unstimmigkeitsmeldung
 
@@ -166,7 +166,7 @@ Dieser Skill verbindet KYC-Unterlagen mit Transparenzregisterdaten und Eskalatio
 
 ## 3. `geldwaesche-ubo-wirtschaftlich-berechtigte`
 
-**Frühere Beschreibung:** Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstrukturen nach GwG. Anwendungsfall neue Geschäftsbeziehung mit Unternehmen und wirtschaftlich Berechtigte muessen identifiziert werden. Normen § 3 GwG wirtschaftlich Berechtigter § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister. Prüfraster Eigentumsanteile ab 25 Prozent Kontrollketten Trust-Strukturen Stiftungen Nominees Transparenzregisterdaten. Output UBO-Struktur-Diagramm mit Eigentumsanteilen Kontrollrechten und KYC-Dokumentation für Akte. Abgrenzung zu geldwäsche-transparenzregister und geldwäsche-pep-hochrisikoland.
+**Fokus:** Ermittlung wirtschaftlich Berechtigter UBO Kontrollketten und Trust-Stiftungsstrukturen nach GwG. Anwendungsfall neue Geschäftsbeziehung mit Unternehmen und wirtschaftlich Berechtigte muessen identifiziert werden. Normen § 3 GwG wirtschaftlich Berechtigter § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister. Prüfraster Eigentumsanteile ab 25 Prozent Kontrollketten Trust-Strukturen Stiftungen Nominees Transparenzregisterdaten. Output UBO-Struktur-Diagramm mit Eigentumsanteilen Kontrollrechten und KYC-Dokumentation für Akte. Abgrenzung zu geldwäsche-transparenzregister und geldwäsche-pep-hochrisikoland.
 
 # Wirtschaftlich Berechtigte und UBO
 

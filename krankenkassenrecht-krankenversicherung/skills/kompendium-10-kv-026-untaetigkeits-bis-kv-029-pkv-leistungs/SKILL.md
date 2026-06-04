@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-kv-026-untaetigkeits-bis-kv-029-pkv-leistungs
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (kv-026-untaetigkeitsklage-krankenkasse-und-akteneinsicht, kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber, kv-029-pkv-leistungspflicht-medizinische-notwendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungspflicht Medizinische Notwendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 026 Untaetigkeitsklage Krankenkasse Und Akteneinsicht, Kv 027 Datenschutz Gesundheitsdaten Krankenkasse Arbeitgeber, Kv 029 Pkv Leistungsp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-026-untaetigkeitsklage-krankenkasse-und-akteneinsicht` | Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage (§ 88 SGG), Akteneinsichtsrecht (§ 25 SGB X), Fristen und Beschleunigungsstrategien. |
 | `kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber` | Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-026-untaetigkeitsklage-krankenkasse-und-akteneinsicht`
 
-**Frühere Beschreibung:** Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage (§ 88 SGG), Akteneinsichtsrecht (§ 25 SGB X), Fristen und Beschleunigungsstrategien.
+**Fokus:** Rechtsdurchsetzung bei untätiger Krankenkasse: Untätigkeitsklage (§ 88 SGG), Akteneinsichtsrecht (§ 25 SGB X), Fristen und Beschleunigungsstrategien.
 
 # Untätigkeitsklage, Krankenkasse und Akteneinsicht
 
@@ -112,7 +112,7 @@ Krankenkassen entscheiden manchmal nicht oder zu spät. Dieser Skill nutzt die *
 
 ## 2. `kv-027-datenschutz-gesundheitsdaten-krankenkasse-arbeitgeber`
 
-**Frühere Beschreibung:** Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte.
+**Fokus:** Datenschutz im Krankenversicherungsrecht: DSGVO, § 67 SGB X, Weitergabe an Arbeitgeber, MDK-Datenschutz und Auskunftsrechte.
 
 # Datenschutz: Gesundheitsdaten, Krankenkasse und Arbeitgeber
 
@@ -197,7 +197,7 @@ Gesundheitsdaten genießen besonderen Schutz. Dieser Skill klärt, **welche Date
 
 ## 3. `kv-029-pkv-leistungspflicht-medizinische-notwendigkeit`
 
-**Frühere Beschreibung:** Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast.
+**Fokus:** Leistungspflicht in der PKV nach § 192 VVG und MB/KK: medizinische Notwendigkeit, Behandlungsmethoden, Kostenbegrenzungsklauseln und Beweislast.
 
 # PKV-Leistungspflicht: Medizinische Notwendigkeit
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ausgruendung-transfe-bis-berufungsvereinbarun
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ausgruendung-transferstelle, bafoeg-und-hochschulstatus, barrierefreiheit-campus-digital, berufungsvereinbarung-ausstattung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausgruendung Transferstelle, Bafoeg Und Hochschulstatus, Barrierefreiheit Campus Digital, Berufungsvereinbarung Ausstattung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - hochschulrecht-laender
+# Arbeitsbereich - Ausgruendung Transferstelle bis Berufungsvereinbarung Ausstattung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausgruendung-transferstelle` | Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen. |
 | `bafoeg-und-hochschulstatus` | Prüft BAföG-Schnittstellen zu Hochschulstatus. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausgruendung-transferstelle`
 
-**Frühere Beschreibung:** Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen.
+**Fokus:** Prüft Spin-off, Beteiligung, Nebentätigkeit, IP-Lizenz und Hochschulressourcen.
 
 # Ausgründung und Transferstelle
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `bafoeg-und-hochschulstatus`
 
-**Frühere Beschreibung:** Prüft BAföG-Schnittstellen zu Hochschulstatus.
+**Fokus:** Prüft BAföG-Schnittstellen zu Hochschulstatus.
 
 # BAföG Und Hochschulstatus
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: BAföG-Schnittstellenvermerk. Am Ende immer drei Zeilen: **Fr
 
 ## 3. `barrierefreiheit-campus-digital`
 
-**Frühere Beschreibung:** Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich.
+**Fokus:** Prüft bauliche und digitale Barrierefreiheit, Studienorganisation und Nachteilsausgleich.
 
 # Barrierefreiheit Campus und digital
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 4. `berufungsvereinbarung-ausstattung`
 
-**Frühere Beschreibung:** Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt.
+**Fokus:** Prüft Ausstattung, Zusagen, Verstetigung, Widerruf und Haushaltsvorbehalt.
 
 # Berufungsvereinbarung und Ausstattung
 

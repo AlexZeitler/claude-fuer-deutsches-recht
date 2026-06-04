@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-pe-055-financial-ass-bis-pe-058-restructuring
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (pe-055-financial-assistance-und-upstream, pe-056-fund-finance-und-nav-facility, pe-057-preferred-equity-hybrid-finance, pe-058-restructuring-waiver-amend-extend) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 055 Financial Assistance Und Upstream, Pe 056 Fund Finance Und Nav Facility, Pe 057 Preferred Equity Hybrid Finance, Pe 058 Restructuring Waiver Amend Extend; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - private-equity-praxis
+# Arbeitsbereich - Pe 055 Financial Assistance Und Upstream bis Pe 058 Restructuring Waiver Amend Extend
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-055-financial-assistance-und-upstream` | Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen. |
 | `pe-056-fund-finance-und-nav-facility` | Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-055-financial-assistance-und-upstream`
 
-**Frühere Beschreibung:** Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen.
+**Fokus:** Prüft, ob Finanzierung/Sicherheiten gegen Kapitalerhaltung, Existenzvernichtung oder Organpflichten laufen.
 
 # Financial Assistance, Upstream Security und Kapitalerhaltung
 
@@ -70,7 +70,7 @@ GmbHG § 30, AktG Kapitalerhaltung, BGB, InsO, Geschäftsleiterhaftung.
 
 ## 2. `pe-056-fund-finance-und-nav-facility`
 
-**Frühere Beschreibung:** Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits.
+**Fokus:** Prüft Subscription Line, NAV Facility, GP Commitment, LP Capital Call Security und Borrowing Limits.
 
 # Fund Finance und NAV Facility
 
@@ -111,7 +111,7 @@ KAGB, Fondsvertrag, Sicherheiten, Datenschutz, Side Letters.
 
 ## 3. `pe-057-preferred-equity-hybrid-finance`
 
-**Frühere Beschreibung:** Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt.
+**Fokus:** Prüft Preferred Equity, Mezzanine, Wandeldarlehen, Gesellschafterdarlehen und Rangrücktritt.
 
 # Preferred Equity und hybride Finanzierung
 
@@ -152,7 +152,7 @@ BGB, GmbHG, InsO § 39/135, Steuer, Bilanz, SHA/Investment Agreement.
 
 ## 4. `pe-058-restructuring-waiver-amend-extend`
 
-**Frühere Beschreibung:** Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung.
+**Fokus:** Begleitet Waiver, Covenant Reset, A&E, Standstill, Super Senior, SFA und Krisenfinanzierung.
 
 # Amend & Extend und Restrukturierung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-forderungsmanagement-bis-klagevorlage-aus-eig
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (forderungsmanagement-aufnahme, inkasso-zahlungsklage-ersteller, klagevorlage-aus-eigenen-mustern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Forderungsmanagement Aufnahme, Inkasso Zahlungsklage Ersteller, Klagevorlage Aus Eigenen Mustern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `forderungsmanagement-aufnahme` | Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage. |
 | `inkasso-zahlungsklage-ersteller` | Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `forderungsmanagement-aufnahme`
 
-**Frühere Beschreibung:** Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage.
+**Fokus:** Forderung systematisch aufnehmen: Glaeubiger, Schuldner, Rechtsgrund, Hauptforderung, Nebenforderungen (Zinsen § 288 BGB, vorgerichtliche Anwaltskosten, Mahngebuehren), Faelligkeit, Verjaehrungsbeginn. Output: vollstaendige Forderungsbeschreibung als Basis fuer Mahnverfahren oder Klage.
 
 # Forderung aufnehmen
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `inkasso-zahlungsklage-ersteller`
 
-**Frühere Beschreibung:** Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster).
+**Fokus:** Gläubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Prüfraster: Mahnvorlauf Anspruchs-Gatekeeper fällig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage für klare fällige belegte Ansprüche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster).
 
 # Inkasso-Zahlungsklage-Ersteller
 
@@ -229,7 +229,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `klagevorlage-aus-eigenen-mustern`
 
-**Frühere Beschreibung:** Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP für naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller.
+**Fokus:** Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP für naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller.
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern
 

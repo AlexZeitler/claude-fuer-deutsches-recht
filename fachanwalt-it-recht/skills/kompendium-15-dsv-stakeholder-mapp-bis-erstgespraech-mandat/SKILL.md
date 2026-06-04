@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-dsv-stakeholder-mapp-bis-erstgespraech-mandat
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (dsv-stakeholder-mapping, dsv-tonfall-krisenkommunikation, dsv-verdacht-vs-festgestellt, dsv-zeitleiste, erstgespraech-mandatsannahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Stakeholder Mapping, Dsv Tonfall Krisenkommunikation, Dsv Verdacht Vs Festgestellt, Dsv Zeitleiste und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Stakeholder Mapping bis Erstgespraech Mandatsannahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-stakeholder-mapping` | Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbehörde; Strafverfolgungsbehörden; Betroffene; Großkunden mit Vertragsklauseln; Presse; Sozialmedien. Output: Stakeholder-Matrix mit Eskalations- und Informationsplan. Abgrenzung: keine konkreten Schreiben. |
 | `dsv-tonfall-krisenkommunikation` | Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen; Empathie ohne Anerkenntnis; rechtliche Grenzen (§ 824 BGB; § 4 UWG; Art. 5 Abs. 1 lit. a DSGVO). Output: Sprachregel-Leitfaden mit Beispielsätzen Do/Don't. Abgrenzung: keine Pressemitteilung; keine individuelle Benachrichtigung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-stakeholder-mapping`
 
-**Frühere Beschreibung:** Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbehörde; Strafverfolgungsbehörden; Betroffene; Großkunden mit Vertragsklauseln; Presse; Sozialmedien. Output: Stakeholder-Matrix mit Eskalations- und Informationsplan. Abgrenzung: keine konkreten Schreiben.
+**Fokus:** Kartiert alle internen und externen Stakeholder eines Datenschutzvorfalls inklusive Informationsbedarf, Zeitpunkt und Verantwortlicher. Behandelt: Geschäftsleitung; Datenschutzbeauftragter; IT-Sicherheit; Betriebsrat; Auftragsverarbeiter; gemeinsam Verantwortliche; Cyberversicherung; Aufsichtsbehörde; Strafverfolgungsbehörden; Betroffene; Großkunden mit Vertragsklauseln; Presse; Sozialmedien. Output: Stakeholder-Matrix mit Eskalations- und Informationsplan. Abgrenzung: keine konkreten Schreiben.
 
 # Stakeholder-Mapping nach Datenschutzvorfall
 
@@ -76,7 +76,7 @@ Stakeholder; Rolle; Pflicht oder freiwillig; Zeitpunkt; Verantwortlicher intern;
 
 ## 2. `dsv-tonfall-krisenkommunikation`
 
-**Frühere Beschreibung:** Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen; Empathie ohne Anerkenntnis; rechtliche Grenzen (§ 824 BGB; § 4 UWG; Art. 5 Abs. 1 lit. a DSGVO). Output: Sprachregel-Leitfaden mit Beispielsätzen Do/Don't. Abgrenzung: keine Pressemitteilung; keine individuelle Benachrichtigung.
+**Fokus:** Bestimmt den richtigen Tonfall und die Sprachregelung in der Krisenkommunikation nach einem Datenschutzvorfall. Behandelt: Vermeidung von Verharmlosung; Vermeidung von Panikmache; matter-of-factly; Reasoning vor Conclusion; Vermeidung selbstbelastender Aussagen; keine voreiligen Schuldzuweisungen; Empathie ohne Anerkenntnis; rechtliche Grenzen (§ 824 BGB; § 4 UWG; Art. 5 Abs. 1 lit. a DSGVO). Output: Sprachregel-Leitfaden mit Beispielsätzen Do/Don't. Abgrenzung: keine Pressemitteilung; keine individuelle Benachrichtigung.
 
 # Tonfall und Sprache in der Krisenkommunikation nach Datenschutzvorfall
 
@@ -131,7 +131,7 @@ Reasoning vor Conclusion: erst Beschreibung der Lage; dann Bewertung; dann Empfe
 
 ## 3. `dsv-verdacht-vs-festgestellt`
 
-**Frühere Beschreibung:** Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspflichten in der Verdachtsphase; Risiko einer verspäteten Meldung. Output: Memo zur Einordnung und Begründung des Fristbeginns. Abgrenzung: keine eigene Meldung; keine Risikobewertung.
+**Fokus:** Bewertet, ob der Mandant bereits Kenntnis von einer Verletzung im Sinne Art. 33 Abs. 1 DSGVO hat oder ob noch bloßer Verdacht vorliegt. Behandelt: Abgrenzung Verdacht und Kenntnis; angemessene Sicherheit der Feststellung; Pflicht zur unverzüglichen Aufklärung; Erwägungsgrund 87; Dokumentationspflichten in der Verdachtsphase; Risiko einer verspäteten Meldung. Output: Memo zur Einordnung und Begründung des Fristbeginns. Abgrenzung: keine eigene Meldung; keine Risikobewertung.
 
 # Verdacht versus festgestellte Verletzung — Kenntnisbegriff Art. 33 DSGVO
 
@@ -182,7 +182,7 @@ Dokumentationsbausteine: was wurde wann wahrgenommen; welche Prüfungen wurden e
 
 ## 4. `dsv-zeitleiste`
 
-**Frühere Beschreibung:** Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO; 72-Stunden-Lauf; Sofortmaßnahmen; Forensik-Beauftragung; Meldung an Aufsichtsbehörde; Benachrichtigung Betroffene; Pressemitteilung; Nachmeldung. Output: tabellarische Zeitleiste mit Quellen und Rechtsfolgen. Abgrenzung: keine Risikobewertung; keine Behördenmeldung im engeren Sinne.
+**Fokus:** Erstellt eine minutiös rekonstruierte Zeitleiste vom Eintritt der Verletzung bis zur Meldung und Benachrichtigung. Behandelt: Eintritt; Erstwahrnehmung; Meldung an Service-Desk; Eingang Datenschutzpostfach; Kenntnisbegriff Art. 33 DSGVO; 72-Stunden-Lauf; Sofortmaßnahmen; Forensik-Beauftragung; Meldung an Aufsichtsbehörde; Benachrichtigung Betroffene; Pressemitteilung; Nachmeldung. Output: tabellarische Zeitleiste mit Quellen und Rechtsfolgen. Abgrenzung: keine Risikobewertung; keine Behördenmeldung im engeren Sinne.
 
 # Zeitleiste des Datenschutzvorfalls — minutiöse Rekonstruktion
 
@@ -229,7 +229,7 @@ Wichtig: Kenntnisbegriff sauber dokumentieren — ein bloßer Verdacht oder Hinw
 
 ## 5. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für IT-, Datenschutz- und Telemedienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im IT-, Datenschutz- und Telemedienrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-ihl-077-interim-meas-bis-ihl-080-expert-deter
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (ihl-077-interim-measures, ihl-078-recognition-new-york-convention, ihl-079-mediation-singapore-convention, ihl-080-expert-determination) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 077 Interim Measures, Ihl 078 Recognition New York Convention, Ihl 079 Mediation Singapore Convention, Ihl 080 Expert Determination; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 077 Interim Measures bis Ihl 080 Expert Determination
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-077-interim-measures` | Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions. |
 | `ihl-078-recognition-new-york-convention` | Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-077-interim-measures`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions.
+**Fokus:** Internationales Handelsrecht: Einstweilige Maßnahmen in der internationalen Schiedsgerichtsbarkeit. UNCITRAL Model Law Art. 17-17J, Schiedsgericht vs. staatlicher Rechtsschutz, Asset Freezing Orders, Mareva Injunctions und Anti-Suit Injunctions.
 
 # Einstweilige Maßnahmen in der Schiedsgerichtsbarkeit
 
@@ -81,7 +81,7 @@ UNCITRAL Model Law: uncitral.un.org. ICC Regeln 2021: iccwbo.org. CPR 25.1 (UK):
 
 ## 2. `ihl-078-recognition-new-york-convention`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern.
+**Fokus:** Internationales Handelsrecht: Anerkennung und Vollstreckung ausländischer Schiedssprüche nach New York Convention 1958. Art. V Versagungsgründe (Verfahrensfehler, Ordre public), Formvoraussetzungen Art. IV, Vollstreckungsverfahren in Deutschland und ausgewählten Ländern.
 
 # New York Convention 1958: Anerkennung und Vollstreckung
 
@@ -133,7 +133,7 @@ NY Convention 1958: newyorkconvention.org (Text und Vorbehaltsliste). §§ 1060-
 
 ## 3. `ihl-079-mediation-singapore-convention`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014.
+**Fokus:** Internationales Handelsrecht: Internationale Mediation und Singapur-Konvention 2019 (UN Convention on International Settlement Agreements). Vollstreckbarkeit von Mediationsvergleichen, Abgrenzung zu Schiedsvergleich und ICC Mediation Rules 2014.
 
 # Mediation und Singapur-Konvention 2019
 
@@ -185,7 +185,7 @@ Singapur-Konvention: uncitral.un.org. ICC Mediation Rules: iccwbo.org. EU-Mediat
 
 ## 4. `ihl-080-expert-determination`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit.
+**Fokus:** Internationales Handelsrecht: Expert Determination (Sachverständigenentscheidung) im internationalen Handelsrecht. Abgrenzung zu Schiedsgerichtsbarkeit, Verbindlichkeit, ICC Expert Rules 2015, Einsatzgebiete (Preis, Qualität, Bilanzen) und Anfechtbarkeit.
 
 # Expert Determination
 

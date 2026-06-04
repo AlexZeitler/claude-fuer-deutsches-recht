@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-owi-bussgeldbescheid-bis-rechtsmittel-sta-ber
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (owi-bussgeldbescheid-inhalt-und-fehler, owi-umwelt-arbeitsschutz-produkt-bussgeld, beschuldigtenvernehmung-anhoerung, polizei-ermittlungsauftrag-nachsteuerung, rechtsmittel-sta-berufung-revision) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi Bussgeldbescheid Inhalt Und Fehler, Owi Umwelt Arbeitsschutz Produkt Bussgeld, Beschuldigtenvernehmung Anhoerung, Polizei Ermittlungsauftrag Nachsteuerung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Owi Bussgeldbescheid Inhalt Und Fehler bis Rechtsmittel Sta Berufung Revision
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-bussgeldbescheid-inhalt-und-fehler` | Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
 | `owi-umwelt-arbeitsschutz-produkt-bussgeld` | Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-bussgeldbescheid-inhalt-und-fehler`
 
-**Frühere Beschreibung:** Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Bußgeldbescheid prüfen: Tatbezeichnung, Rechtsgrundlage, Beweismittel, Nebenfolgen, Rechtsbehelf und typische Fehler erkennen
 
@@ -88,7 +88,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 2. `owi-umwelt-arbeitsschutz-produkt-bussgeld`
 
-**Frühere Beschreibung:** Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Umwelt-, Arbeitsschutz- und Produkt-OWi: technische Behördenakten in gerichtsfeste Bußgeldlogik bringen
 
@@ -146,7 +146,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 3. `beschuldigtenvernehmung-anhoerung`
 
-**Frühere Beschreibung:** Beschuldigtenvernehmung und Anhörung: Praxis-Skill für neue Staatsanwälte zu Belehrung, Schweigerecht, Verteidigerkontakt und Vernehmungsplanung rechtssicher steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Beschuldigtenvernehmung und Anhörung: Praxis-Skill für neue Staatsanwälte zu Belehrung, Schweigerecht, Verteidigerkontakt und Vernehmungsplanung rechtssicher steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Beschuldigtenvernehmung und Anhörung
 
@@ -196,7 +196,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `polizei-ermittlungsauftrag-nachsteuerung`
 
-**Frühere Beschreibung:** Ermittlungsauftrag an die Polizei: Nachsteuerung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Ermittlungsauftrag an die Polizei: Nachsteuerung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Ermittlungsauftrag an die Polizei: Nachsteuerung
 
@@ -245,7 +245,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `rechtsmittel-sta-berufung-revision`
 
-**Frühere Beschreibung:** Rechtsmittel der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte zu Berufung, Revision, Beschwerde, Frist, Begründung und Zustimmung bei Rücknahme sauber steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Rechtsmittel der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwälte zu Berufung, Revision, Beschwerde, Frist, Begründung und Zustimmung bei Rücknahme sauber steuern; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Rechtsmittel der Staatsanwaltschaft
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-dsa-transparenzberic-bis-dsa-vlop-vlose-einor
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (dsa-transparenzbericht-erstellung, dsa-trusted-flagger-anerkennung, dsa-vlop-vlose-einordnung-und-pflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dsa Transparenzbericht Erstellung, Dsa Trusted Flagger Anerkennung, Dsa Vlop Vlose Einordnung Und Pflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsa-transparenzbericht-erstellung` | Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerdenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht. |
 | `dsa-trusted-flagger-anerkennung` | Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhoerung. Pruefraster fuer Vereine und NGOs die sich anerkennen lassen wollen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsa-transparenzbericht-erstellung`
 
-**Frühere Beschreibung:** Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerdenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht.
+**Fokus:** Transparenzbericht nach Art. 15 DSA jaehrlich erstellen: Behoerdenanordnungen (Loeschung, Auskunft), Nutzermeldungen, eigene Inhaltsmoderation, automatisierte Tools, Statement of Reasons, Beschwerden. Format-Anforderungen der EU-Kommission, Excel-Templates, Veroeffentlichungspflichten. Fuer VLOP zusaetzlich Halbjahresbericht.
 
 # DSA Transparenzbericht
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 2. `dsa-trusted-flagger-anerkennung`
 
-**Frühere Beschreibung:** Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhoerung. Pruefraster fuer Vereine und NGOs die sich anerkennen lassen wollen.
+**Fokus:** Trusted Flagger nach Art. 22 DSA: Voraussetzungen, Anerkennung durch nationalen Digital Services Coordinator, Vorrangstellung bei Meldungen, Pflichten der Plattform zur prioritaeren Bearbeitung. Antragsverfahren bei der BNetzA (DSC Deutschland) inkl. Anhoerung. Pruefraster fuer Vereine und NGOs die sich anerkennen lassen wollen.
 
 # Trusted Flagger Anerkennung
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 3. `dsa-vlop-vlose-einordnung-und-pflichten`
 
-**Frühere Beschreibung:** VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: Risikobewertung, Audits, Compliance-Funktion, Transparenz, Werbung, Empfehlungssysteme, Forschungsdatenzugang, Krisenmechanismus). Prüfraster: 45 Mio. monatlich aktive Nutzer Schwelle, Meldepflicht, Pflichtenkatalog je Art. Output Designation-Prüfschema, Compliance-Roadmap. Abgrenzung: Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste; Art. 34 Risikobewertung siehe dsa-art-34-systemische-risikobewertung.
+**Fokus:** VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prüft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: Risikobewertung, Audits, Compliance-Funktion, Transparenz, Werbung, Empfehlungssysteme, Forschungsdatenzugang, Krisenmechanismus). Prüfraster: 45 Mio. monatlich aktive Nutzer Schwelle, Meldepflicht, Pflichtenkatalog je Art. Output Designation-Prüfschema, Compliance-Roadmap. Abgrenzung: Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste; Art. 34 Risikobewertung siehe dsa-art-34-systemische-risikobewertung.
 
 # DSA — VLOP/VLOSE-Einordnung und Pflichten
 

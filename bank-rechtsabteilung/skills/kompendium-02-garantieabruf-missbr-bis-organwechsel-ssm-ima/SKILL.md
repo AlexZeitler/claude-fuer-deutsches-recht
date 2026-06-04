@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-garantieabruf-missbr-bis-organwechsel-ssm-ima
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (garantieabruf-missbrauch-und-zahlungsstopp, garantieprovision-limit-und-risk-weighting, kundenbeschwerde-ombudsmann-bafin, litigation-schlichtung-prozess, organwechsel-ssm-imas-mvp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Garantieabruf Missbrauch Und Zahlungsstopp, Garantieprovision Limit Und Risk Weighting, Kundenbeschwerde Ombudsmann Bafin, Litigation Schlichtung Prozess und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - bank-rechtsabteilung
+# Arbeitsbereich - Garantieabruf Missbrauch Und Zahlungsstopp bis Organwechsel Ssm Imas Mvp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `garantieabruf-missbrauch-und-zahlungsstopp` | Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress. |
 | `garantieprovision-limit-und-risk-weighting` | Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `garantieabruf-missbrauch-und-zahlungsstopp`
 
-**Frühere Beschreibung:** Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress.
+**Fokus:** Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern im Eilfall steuern: formale Prüfung, Missbrauchseinwand, Zahlungsstopp, einstweiliger Rechtsschutz, Kundenkommunikation und Regress.
 
 # Garantieabruf, Missbrauch und Zahlungsstopp
 
@@ -122,7 +122,7 @@ Erzeuge je nach Auftrag:
 
 ## 2. `garantieprovision-limit-und-risk-weighting`
 
-**Frühere Beschreibung:** Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage.
+**Fokus:** Aval- und Garantiegeschäft wirtschaftlich-juristisch steuern: Garantieprovision, Limitnutzung, Risikoklassifizierung, Kreditäquivalent, Sicherheiten, Covenants, Forbearance, NPE und Vorstandsvorlage.
 
 # Garantieprovision, Limit und Risk Weighting
 
@@ -186,7 +186,7 @@ Liefere:
 
 ## 3. `kundenbeschwerde-ombudsmann-bafin`
 
-**Frühere Beschreibung:** Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern.
+**Fokus:** Kundenbeschwerden, Ombudsmann, BaFin-Beschwerde und Eskalation: Sachverhalt, Anspruch, Kulanz, Reputationsrisiko, Fristen, Ton und interne Learnings für Banken steuern.
 
 # Beschwerdemanagement
 
@@ -301,7 +301,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 4. `litigation-schlichtung-prozess`
 
-**Frühere Beschreibung:** Litigation, Schlichtung und Prozessführung einer Bank: Anspruch, Beweise, Kosten, Vergleich, Musterverfahren, Ombudsmann, externe Kanzlei und Vorstandsinformation steuern.
+**Fokus:** Litigation, Schlichtung und Prozessführung einer Bank: Anspruch, Beweise, Kosten, Vergleich, Musterverfahren, Ombudsmann, externe Kanzlei und Vorstandsinformation steuern.
 
 # Litigation Bank
 
@@ -416,7 +416,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `organwechsel-ssm-imas-mvp`
 
-**Frühere Beschreibung:** Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing.
+**Fokus:** Organwechsel bei SI, LSI und Zahlungsinstituten über SSM-IMAS, MVP oder Formulare steuern: Zuständigkeit, Einreichkanal, Fristen, Unterlagen, Nachfragen und Vorstandsbüro-Briefing.
 
 # Organwechsel Einreichkanal
 

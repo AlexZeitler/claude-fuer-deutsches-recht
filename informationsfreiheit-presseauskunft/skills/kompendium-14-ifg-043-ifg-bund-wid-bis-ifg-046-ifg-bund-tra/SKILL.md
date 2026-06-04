@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-ifg-043-ifg-bund-wid-bis-ifg-046-ifg-bund-tra
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (ifg-043-ifg-bund-widerspruch-bauen, ifg-044-ifg-bund-klage-vorbereiten, ifg-045-ifg-bund-presseantwort-nachfassen, ifg-046-ifg-bund-tracking-aktualisieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 043 Ifg Bund Widerspruch Bauen, Ifg 044 Ifg Bund Klage Vorbereiten, Ifg 045 Ifg Bund Presseantwort Nachfassen, Ifg 046 Ifg Bund Tracking Aktualisieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 043 Ifg Bund Widerspruch Bauen bis Ifg 046 Ifg Bund Tracking Aktualisieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-043-ifg-bund-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: IFG Bund: Widerspruch bauen. Widerspruch bauen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-044-ifg-bund-klage-vorbereiten` | Informationsfreiheit und Presseauskunft: IFG Bund: Klage vorbereiten. Klage vorbereiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-043-ifg-bund-widerspruch-bauen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Widerspruch bauen. Widerspruch bauen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Widerspruch bauen. Widerspruch bauen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Widerspruch Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-044-ifg-bund-klage-vorbereiten`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Klage vorbereiten. Klage vorbereiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Klage vorbereiten. Klage vorbereiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Klage Vorbereiten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-045-ifg-bund-presseantwort-nachfassen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Presseantwort nachfassen. Presseantwort nachfassen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Presseantwort nachfassen. Presseantwort nachfassen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Presseantwort Nachfassen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-046-ifg-bund-tracking-aktualisieren`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Tracking aktualisieren. Tracking aktualisieren für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Tracking aktualisieren. Tracking aktualisieren für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Tracking Aktualisieren
 

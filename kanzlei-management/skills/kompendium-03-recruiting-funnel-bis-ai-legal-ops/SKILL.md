@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-recruiting-funnel-bis-ai-legal-ops
-description: "kanzlei-management: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (recruiting-funnel, referendar-trainee-pipeline, template-library, ai-legal-ops) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-management: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recruiting Funnel, Referendar Trainee Pipeline, Template Library, Ai Legal Ops; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - kanzlei-management
+# Arbeitsbereich - Recruiting Funnel bis Ai Legal Ops
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recruiting-funnel` | Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `referendar-trainee-pipeline` | Steuert Nachwuchs, Stationen, Mentor:innen, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recruiting-funnel`
 
-**Frühere Beschreibung:** Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Steuert Recruiting-Geschwindigkeit, Interviews, Candidate Experience und Partnerdisziplin. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Recruiting Funnel
 
@@ -85,7 +85,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 2. `referendar-trainee-pipeline`
 
-**Frühere Beschreibung:** Steuert Nachwuchs, Stationen, Mentor:innen, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Steuert Nachwuchs, Stationen, Mentor:innen, Angebote und Conversion. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Referendar- und Trainee-Pipeline
 
@@ -141,7 +141,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 3. `template-library`
 
-**Frühere Beschreibung:** Steuert Musterbibliothek mit Owner, Aktualisierung und Verfallsdatum. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Steuert Musterbibliothek mit Owner, Aktualisierung und Verfallsdatum. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Template Library
 
@@ -197,7 +197,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 4. `ai-legal-ops`
 
-**Frühere Beschreibung:** Plant KI-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Plant KI-Einsatz mit Datenklassen, Freigaben, Human Review und Wirtschaftlichkeit. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # KI und Legal Ops in der Kanzlei
 

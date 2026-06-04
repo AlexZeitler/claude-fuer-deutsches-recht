@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-solo-mobile-arbeitsw-bis-solo-negative-bewert
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 8 frühere Spezialskills (solo-mobile-arbeitsweise, solo-monatlicher-rechtscheck, solo-musik-video-podcast, solo-mutterschutz-elterngeld-selbststaendige, solo-nachfolge-und-vertretung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Mobile Arbeitsweise, Solo Monatlicher Rechtscheck, Solo Musik Video Podcast, Solo Mutterschutz Elterngeld Selbststaendige und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Mobile Arbeitsweise bis Solo Negative Bewertung Nach Streit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-mobile-arbeitsweise` | Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-monatlicher-rechtscheck` | Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-mobile-arbeitsweise`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Laptop, Handy, Messenger, Screenshots, WLAN und Kundendaten unterwegs; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Prüft laptop
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 2. `solo-monatlicher-rechtscheck`
 
-**Frühere Beschreibung:** Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: führt einen wiederkehrenden Monatscheck für Fristen, Geld, Aufträge und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Führt einen wiederkehrenden monatscheck für fristen
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 3. `solo-musik-video-podcast`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft GEMA, Leistungsschutz, Samples, Podcast-Rechte und Plattformen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft GEMA, Leistungsschutz, Samples, Podcast-Rechte und Plattformen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Prüft gema
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 4. `solo-mutterschutz-elterngeld-selbststaendige`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Elterngeld, Mutterschutz-ähnliche Planung und Liquidität; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Elterngeld, Mutterschutz-ähnliche Planung und Liquidität; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Ordnet elterngeld
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 5. `solo-nachfolge-und-vertretung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Stellvertretung, Vollmachten, Passwortzugang und Notfallmappe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Stellvertretung, Vollmachten, Passwortzugang und Notfallmappe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Plant stellvertretung
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 6. `solo-nda-vor-kundenpitch`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Verschwiegenheit, Pitch-Unterlagen, Ideen und Referenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Verschwiegenheit, Pitch-Unterlagen, Ideen und Referenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Ordnet verschwiegenheit
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 7. `solo-nebenjob-hauptjob-abgrenzung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Nebenerwerb, Arbeitgeberpflichten, Wettbewerbsverbote und Zeitkonflikte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Nebenerwerb, Arbeitgeberpflichten, Wettbewerbsverbote und Zeitkonflikte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Prüft nebenerwerb
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 8. `solo-negative-bewertung-nach-streit`
 
-**Frühere Beschreibung:** Solo-Selbstständige: reagiert auf Bewertung ohne Eskalationsfehler; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: reagiert auf Bewertung ohne Eskalationsfehler; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Reagiert auf bewertung ohne eskalationsfehler
 

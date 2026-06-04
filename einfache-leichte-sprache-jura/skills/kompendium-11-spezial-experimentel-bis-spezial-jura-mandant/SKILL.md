@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-experimentel-bis-spezial-jura-mandant
-description: "einfache-leichte-sprache-jura: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-experimentelle-schriftsatz-brief-und-memo-bausteine, spezial-glossar-sonderfall-und-edge-case, spezial-jura-mandantenkommunikation-entscheidungsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einfache-leichte-sprache-jura: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - einfache-leichte-sprache-jura
+# Arbeitsbereich - Experimentelle Schriftsatz Brief Und Memo Bausteine, Glossar Sonderfall Und Edge Case, Jura Mandantenkommunikation Entscheidungsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-experimentelle-schriftsatz-brief-und-memo-bausteine` | Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-glossar-sonderfall-und-edge-case` | Glossar: Sonderfall und Edge-Case-Prüfung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-experimentelle-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Experimentelle: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-glossar-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Glossar: Sonderfall und Edge-Case-Prüfung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Glossar: Sonderfall und Edge-Case-Prüfung im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Glossar: Sonderfall und Edge-Case-Prüfung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-jura-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Jura: Mandantenkommunikation und Entscheidungsvorlage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Jura: Mandantenkommunikation und Entscheidungsvorlage im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Jura: Mandantenkommunikation und Entscheidungsvorlage
 

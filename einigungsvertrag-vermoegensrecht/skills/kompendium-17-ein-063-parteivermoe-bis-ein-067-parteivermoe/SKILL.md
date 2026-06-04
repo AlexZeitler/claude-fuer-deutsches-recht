@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-ein-063-parteivermoe-bis-ein-067-parteivermoe
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (ein-063-parteivermoegen-chronologie-bauen, ein-064-parteivermoegen-berechtigte-ermitteln, ein-066-parteivermoegen-grundbuch-auswerten, ein-067-parteivermoegen-behoerdenbrief-schreib) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 063 Parteivermoegen Chronologie Bauen, Ein 064 Parteivermoegen Berechtigte Ermitteln, Ein 066 Parteivermoegen Grundbuch Auswerten, Ein 067 Parteivermoegen Behoerdenbrief Schreib; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 063 Parteivermoegen Chronologie Bauen bis Ein 067 Parteivermoegen Behoerdenbrief Schreib
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-063-parteivermoegen-chronologie-bauen` | Einigungsvertrag und Vermögensrecht: Parteivermögen: Chronologie bauen. Chronologie bauen für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-064-parteivermoegen-berechtigte-ermitteln` | Einigungsvertrag und Vermögensrecht: Parteivermögen: Berechtigte ermitteln. Berechtigte ermitteln für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-063-parteivermoegen-chronologie-bauen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Chronologie bauen. Chronologie bauen für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Chronologie bauen. Chronologie bauen für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parteivermoegen Chronologie Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-064-parteivermoegen-berechtigte-ermitteln`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Berechtigte ermitteln. Berechtigte ermitteln für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Berechtigte ermitteln. Berechtigte ermitteln für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parteivermoegen Berechtigte Ermitteln
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-066-parteivermoegen-grundbuch-auswerten`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Grundbuch auswerten. Grundbuch auswerten für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Grundbuch auswerten. Grundbuch auswerten für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parteivermoegen Grundbuch Auswerten
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-067-parteivermoegen-behoerdenbrief-schreib`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Behördenbrief schreiben. Behördenbrief schreiben für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Parteivermögen: Behördenbrief schreiben. Behördenbrief schreiben für Parteivermögen im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parteivermoegen Behoerdenbrief Schreib
 

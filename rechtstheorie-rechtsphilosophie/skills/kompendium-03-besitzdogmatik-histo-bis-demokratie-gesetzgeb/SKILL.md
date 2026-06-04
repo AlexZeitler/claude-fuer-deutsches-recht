@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-besitzdogmatik-histo-bis-demokratie-gesetzgeb
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (besitzdogmatik-historische-schule-und-systemdenken, daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck, demokratie-gesetzgeber-gericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Besitzdogmatik Historische Schule Und Systemdenken, Daseinsvorsorge Verwaltungsrealismus Rechtsstaatscheck, Demokratie Gesetzgeber Gericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `besitzdogmatik-historische-schule-und-systemdenken` | Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung. |
 | `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck` | Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `besitzdogmatik-historische-schule-und-systemdenken`
 
-**Frühere Beschreibung:** Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
+**Fokus:** Prueft Besitzdogmatik als Testfeld fuer historische Schule, Systemdenken, formale Rationalitaet, Begriffsdeduktion, Professorenrecht und die Grenze zwischen Tradition, Dogmatik und praktischer Fallloesung.
 
 # Besitzdogmatik, historische Schule und Systemdenken
 
@@ -97,7 +97,7 @@ Schließe mit einem Satz, ob die historische Dogmatik das Ergebnis trägt, nur e
 
 ## 2. `daseinsvorsorge-verwaltungsrealismus-rechtsstaatscheck`
 
-**Frühere Beschreibung:** Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
+**Fokus:** Prueft Daseinsvorsorge, Infrastruktur, Verwaltung als Leistungs- und Ordnungsmacht: realistische Aufgabenanalyse ohne Preisgabe von Grundrechten, Gesetzesbindung und Rechtsschutz.
 
 # Daseinsvorsorge und Verwaltungsrealismus
 
@@ -164,7 +164,7 @@ Gib eine Daseinsvorsorge-Prüfung mit:
 
 ## 3. `demokratie-gesetzgeber-gericht`
 
-**Frühere Beschreibung:** Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
+**Fokus:** Prueft demokratische Legitimation und Gewaltenteilung bei Auslegung, Rechtsfortbildung und richterlicher Korrektur alter Normen.
 
 # Demokratie, Gesetzgeber und Gericht
 

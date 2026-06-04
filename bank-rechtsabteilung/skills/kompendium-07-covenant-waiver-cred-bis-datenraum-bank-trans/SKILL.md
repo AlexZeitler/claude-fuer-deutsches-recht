@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-covenant-waiver-cred-bis-datenraum-bank-trans
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (covenant-waiver-credit-documentation, crr-crd-eigenmittel-large-exposure, crr-kapitalanforderungen-juristenmatrix, darlehensrecht-verbraucher-unternehmer, datenraum-bank-transaktion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Covenant Waiver Credit Documentation, Crr Crd Eigenmittel Large Exposure, Crr Kapitalanforderungen Juristenmatrix, Darlehensrecht Verbraucher Unternehmer und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - bank-rechtsabteilung
+# Arbeitsbereich - Covenant Waiver Credit Documentation bis Datenraum Bank Transaktion
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `covenant-waiver-credit-documentation` | Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz. |
 | `crr-crd-eigenmittel-large-exposure` | CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmittelbegriffe, Large Exposure, Organkredite, Beteiligungen, Limitüberschreitungen und Governance-Freigaben verständlich prüfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `covenant-waiver-credit-documentation`
 
-**Frühere Beschreibung:** Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz.
+**Fokus:** Covenant Waiver und Kreditdokumentation tief prüfen: Financial Covenants, MAC, Events of Default, Informationspflichten, Cure Rights, Margin Step-up und Dokumentationsschutz.
 
 # Covenant Waiver
 
@@ -129,7 +129,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `crr-crd-eigenmittel-large-exposure`
 
-**Frühere Beschreibung:** CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmittelbegriffe, Large Exposure, Organkredite, Beteiligungen, Limitüberschreitungen und Governance-Freigaben verständlich prüfen.
+**Fokus:** CRR-, CRD- und Großkredit-Schnittstelle für Juristen: Eigenmittelbegriffe, Large Exposure, Organkredite, Beteiligungen, Limitüberschreitungen und Governance-Freigaben verständlich prüfen.
 
 # CRR CRD Eigenmittel und Großkredite
 
@@ -248,7 +248,7 @@ Schalte `crr-kapitalanforderungen-juristenmatrix` zu, wenn Legal eine Entscheidu
 
 ## 3. `crr-kapitalanforderungen-juristenmatrix`
 
-**Frühere Beschreibung:** CRR-Juristenmatrix für Bank-Legal: Art.-4-Begriffe, Eigenmittel, Großkredite, Gruppen verbundener Kunden, Liquidität, Leverage, Sicherheiten, Garantien und Vertragsfolgen in Legal Notes und Vorstandsvorlagen übersetzen.
+**Fokus:** CRR-Juristenmatrix für Bank-Legal: Art.-4-Begriffe, Eigenmittel, Großkredite, Gruppen verbundener Kunden, Liquidität, Leverage, Sicherheiten, Garantien und Vertragsfolgen in Legal Notes und Vorstandsvorlagen übersetzen.
 
 # CRR-Kapitalanforderungen für Juristen
 
@@ -303,7 +303,7 @@ Nie CRR-Quoten, Definitionen oder Übergangsregeln aus Modellwissen fest behaupt
 
 ## 4. `darlehensrecht-verbraucher-unternehmer`
 
-**Frühere Beschreibung:** Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen.
+**Fokus:** Darlehensrecht für Banken: Verbraucher- und Unternehmenskredit, Pflichtangaben, Widerruf, Kündigung, Sicherheiten, Zahlungsverzug, Vorfälligkeitsfragen und Prozessrisiko prüfen.
 
 # Darlehensrecht
 
@@ -418,7 +418,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `datenraum-bank-transaktion`
 
-**Frühere Beschreibung:** Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail.
+**Fokus:** Datenraum für Bank-Transaktionen oder Aufsichtsprüfungen strukturieren: Dokumentenindex, Berechtigungen, Schwärzungen, Bankgeheimnis, Datenschutz, Q&A und Audit Trail.
 
 # Datenraum Bank
 

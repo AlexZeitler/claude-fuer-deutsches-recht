@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-inso-gerichtliche-un-bis-inso-insolvenzbekann
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (inso-gerichtliche-und-aufsichtswege-schufa, inso-glaeubigerausschuss-praxis, inso-glaeubigerausschuss-zustimmung-spezial, inso-insolvenzbekanntmachungen-auskunfteien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Gerichtliche Und Aufsichtswege Schufa, Inso Glaeubigerausschuss Praxis, Inso Glaeubigerausschuss Zustimmung Spezial, Inso Insolvenzbekanntmachungen Auskunfteien; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - insolvenzrecht
+# Arbeitsbereich - Inso Gerichtliche Und Aufsichtswege Schufa bis Inso Insolvenzbekanntmachungen Auskunfteien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-gerichtliche-und-aufsichtswege-schufa` | Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast. |
 | `inso-glaeubigerausschuss-praxis` | Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-gerichtliche-und-aufsichtswege-schufa`
 
-**Frühere Beschreibung:** Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast.
+**Fokus:** Rechtsdurchsetzung gegen Auskunfteien: Aufsichtsbeschwerde, Zivilklage, einstweiliger Rechtsschutz, Art. 82 DSGVO und Beweislast.
 
 # Gerichtliche und aufsichtsrechtliche Wege gegen Auskunfteien
 
@@ -72,7 +72,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 2. `inso-glaeubigerausschuss-praxis`
 
-**Frühere Beschreibung:** Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung.
+**Fokus:** Glaeubigerausschuss in der Praxis: § 67 InsO Einsetzung, vorlaeufiger Ausschuss § 21 Abs. 2 Nr. 1a InsO, Mitwirkungsrechte, Beratungspflichten. Pruefraster fuer Glaeubiger-Mitglied und mustertexte fuer Anhoerung.
 
 # InsO: Glaeubigerausschuss
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 3. `inso-glaeubigerausschuss-zustimmung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorlaeufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster fuer Mitglieder.
+**Fokus:** Spezialfall Glaeubigerausschuss und Zustimmungsvorbehalte §§ 67 ff. InsO: vorlaeufiger und endgueltiger Ausschuss, zustimmungspflichtige Geschaefte, Haftung Mitglieder. Pruefraster fuer Mitglieder.
 
 # Inso: Glaeubigerausschuss
 
@@ -195,7 +195,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 4. `inso-insolvenzbekanntmachungen-auskunfteien`
 
-**Frühere Beschreibung:** Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck.
+**Fokus:** Zusammenspiel öffentlicher Insolvenzbekanntmachungen und privater Auskunfteien: Veröffentlichung, Abruffrist, Weiterverarbeitung und Löschdruck.
 
 # Insolvenzbekanntmachungen und Auskunfteien
 

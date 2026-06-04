@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-ideas-facts-merger-s-bis-injunction-impoundme
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (ideas-facts-merger-scenes-faire, imports-exports-602-603, infringement-remedies-501-505, injunction-impoundment-502-503) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ideas Facts Merger Scenes Faire, Imports Exports 602 603, Infringement Remedies 501 505, Injunction Impoundment 502 503; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Ideas Facts Merger Scenes Faire bis Injunction Impoundment 502 503
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ideas-facts-merger-scenes-faire` | Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act. |
 | `imports-exports-602-603` | Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ideas-facts-merger-scenes-faire`
 
-**Frühere Beschreibung:** Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act.
+**Fokus:** Trennt Idee, Methode, Fakt, System, Standardmotiv, Genrebaustein und geschützten Ausdruck im US Copyright Act.
 
 # Ideas, Facts, Merger und Scenes a Faire
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `imports-exports-602-603`
 
-**Frühere Beschreibung:** Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme.
+**Fokus:** Prueft Import/Export verletzender Kopien, Parallelimporte, Customs, Gray Market und Grenzbeschlagnahme.
 
 # Importation und Exportation §§ 602-603
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `infringement-remedies-501-505`
 
-**Frühere Beschreibung:** Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure.
+**Fokus:** Prueft Anspruchsaufbau, standing, remedies, injunction, damages, profits, costs und fee exposure.
 
 # Infringement und Remedies §§ 501-505
 
@@ -234,7 +234,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `injunction-impoundment-502-503`
 
-**Frühere Beschreibung:** Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen.
+**Fokus:** Prueft einstweiligen und endgültigen Rechtsschutz, Impoundment, Destruction, Seizure und praktische Vollstreckungsfolgen.
 
 # Injunction und Impoundment
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-aussenwirtschaft-all-bis-aussenwirtschaft-ant
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (aussenwirtschaft-allgemeingenehmigung-agg-finder, aussenwirtschaft-antidumping-ausgleich, aussenwirtschaft-antidumping-erstattung-review, aussenwirtschaft-antidumping-taric-massnahmen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Allgemeingenehmigung Agg Finder, Aussenwirtschaft Antidumping Ausgleich, Aussenwirtschaft Antidumping Erstattung Review, Aussenwirtschaft Antidumping Taric Massnahmen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Allgemeingenehmigung Agg Finder bis Aussenwirtschaft Antidumping Taric Massnahmen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-allgemeingenehmigung-agg-finder` | Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen. |
 | `aussenwirtschaft-antidumping-ausgleich` | Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft Antidumping-Risiko bei Stahlimport aus China. Output: Antidumping-Belastungsuebersicht und Erlaeuterungsschreiben. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-allgemeingenehmigung-agg-finder`
 
-**Frühere Beschreibung:** Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen.
+**Fokus:** Allgemeine Genehmigungen nach AWV: Auffinden und Pruefen der passenden Allgemeingenehmigung (AGG) fuer kontrollierte Ausfuhren ohne Einzelgenehmigung. Beruecksichtigt EU-Ausfuhrgenehmigungen (001-009 VO 2021/821), nationale AGGs der AWV und BAFA-Merkblaetter. Mandant liefert Ware/Technologie und Zielland; Skill ermittelt passende AGG, prueft Bedingungen und Registrierungspflichten. Output: AGG-Zuordnungsvermerk mit Nutzungsbedingungen.
 
 # Allgemeine Genehmigungen: Finder und Nutzungsbedingungen fuer Exportkontrolle
 
@@ -116,7 +116,7 @@ AGG-Zuordnungsvermerk mit anwendbarer Genehmigung, Nutzungsbedingungen, Ausschlu
 
 ## 2. `aussenwirtschaft-antidumping-ausgleich`
 
-**Frühere Beschreibung:** Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft Antidumping-Risiko bei Stahlimport aus China. Output: Antidumping-Belastungsuebersicht und Erlaeuterungsschreiben.
+**Fokus:** Antidumping-Ausgleichsmassnahmen nach EU-Grundverordnung (VO (EU) 2016/1036): Identifizierung von TARIC-Antidumping-Massnahmen, Berechnung endgueltiger Antidumping-Zoelle, Ueberpruefen von Ursprungsnachweis und Hersteller-TARIC-Code (Einzelzoll vs. Restzoll). Fallkonstellation: Importeur prueft Antidumping-Risiko bei Stahlimport aus China. Output: Antidumping-Belastungsuebersicht und Erlaeuterungsschreiben.
 
 # Antidumping-Ausgleich: TARIC-Massnahmen und Herstellerzuordnung
 
@@ -203,7 +203,7 @@ Antidumping-Belastungsuebersicht mit Zollsatz je Hersteller, Ursprungsnachweis-C
 
 ## 3. `aussenwirtschaft-antidumping-erstattung-review`
 
-**Frühere Beschreibung:** Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfahren nach Art. 11 VO (EU) 2016/1036: Rueckerstattungsantrag (Art. 11 Abs. 8), Interim-Review und Sunset-Review. Prueft Fristen beim Hauptzollamt und EU-Kommission. Fallkonstellation: Importeur hat ueberhohten Antidumping-Zoll gezahlt und moechte Erstattung oder Margenkorrektur. Output: Erstattungsantrag mit Kalkulationsnachweis.
+**Fokus:** Erstattung zu viel gezahlter Antidumping-Zoelle und Auslosung von Revisionsverfahren nach Art. 11 VO (EU) 2016/1036: Rueckerstattungsantrag (Art. 11 Abs. 8), Interim-Review und Sunset-Review. Prueft Fristen beim Hauptzollamt und EU-Kommission. Fallkonstellation: Importeur hat ueberhohten Antidumping-Zoll gezahlt und moechte Erstattung oder Margenkorrektur. Output: Erstattungsantrag mit Kalkulationsnachweis.
 
 # Antidumping-Erstattung und Review: Margenkorrektur und Rueckforderung
 
@@ -290,7 +290,7 @@ Erstattungsantrag mit Exportpreisvergleich und Dumping-Kalkulation, Interim-Revi
 
 ## 4. `aussenwirtschaft-antidumping-taric-massnahmen`
 
-**Frühere Beschreibung:** Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte fuer relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung fuer Zollabfertigung.
+**Fokus:** Identifizierung und Anwendung handelspolitischer Schutzmassnahmen (Antidumping, Ausgleichszoll, Safeguards) im TARIC-System: Zuordnung der KN-Position, Ursprungsland und Hersteller zu geltenden Massnahmen. Ermittelt TARIC-Zusatzcode, Preisverpflichtungen und Schwellenwerte fuer relevante Waren. Output: TARIC-Massnahmen-Uebersicht mit Handlungsempfehlung fuer Zollabfertigung.
 
 # TARIC-Massnahmen: Antidumping und Ausgleichszoelle in der Zollabfertigung
 

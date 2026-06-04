@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-steuerstrafrecht-koo-bis-anklageschrift-gross
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (steuerstrafrecht-kooperation-finanzamt, abschlussverfuegung-anfaengerfehler, aktengeheimnis-und-ki-nutzung-sta, anklageschrift-aufbau, anklageschrift-grosse-wirtschaftsstrafkammer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerstrafrecht Kooperation Finanzamt, Abschlussverfuegung Anfaengerfehler, Aktengeheimnis Und Ki Nutzung Sta, Anklageschrift Aufbau und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Steuerstrafrecht Kooperation Finanzamt bis Anklageschrift Grosse Wirtschaftsstrafkammer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerstrafrecht-kooperation-finanzamt` | Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `abschlussverfuegung-anfaengerfehler` | Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerstrafrecht-kooperation-finanzamt`
 
-**Frühere Beschreibung:** Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Steuerstrafrecht: Zusammenarbeit mit Steuerfahndung und Finanzamt
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `abschlussverfuegung-anfaengerfehler`
 
-**Frühere Beschreibung:** Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Abschlussverfügung: Anfängerfehler vermeiden: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Abschlussverfügung: Anfängerfehler vermeiden
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `aktengeheimnis-und-ki-nutzung-sta`
 
-**Frühere Beschreibung:** Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Aktengeheimnis und KI-Nutzung in der Staatsanwaltschaft
 
@@ -177,7 +177,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `anklageschrift-aufbau`
 
-**Frühere Beschreibung:** Anklageschrift aufbauen: Praxis-Skill für neue Staatsanwälte zu Anklagesatz, Konkretisierung, Beweismittel, rechtliche Würdigung und wesentliche Ermittlungsergebnisse schreiben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Anklageschrift aufbauen: Praxis-Skill für neue Staatsanwälte zu Anklagesatz, Konkretisierung, Beweismittel, rechtliche Würdigung und wesentliche Ermittlungsergebnisse schreiben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Anklageschrift aufbauen
 
@@ -227,7 +227,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `anklageschrift-grosse-wirtschaftsstrafkammer`
 
-**Frühere Beschreibung:** Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Anklageschrift zur großen Wirtschaftsstrafkammer: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Anklageschrift zur großen Wirtschaftsstrafkammer
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-fachanwalt-transport-bis-frachtfuehrerhaftung
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fachanwalt-transport-speditionsrecht-cmr-haftung, fachanwalt-transport-speditionsrecht-ladungsschaden, frachtfuehrerhaftung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Transport Speditionsrecht Cmr Haftung, Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Transport Speditionsrecht Cmr Haftung, Transport Speditionsrecht Ladungsschaden, Frachtfuehrerhaftung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-transport-speditionsrecht-cmr-haftung` | CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung. |
 | `fachanwalt-transport-speditionsrecht-ladungsschaden` | Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-transport-speditionsrecht-cmr-haftung`
 
-**Frühere Beschreibung:** CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung.
+**Fokus:** CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung.
 
 # CMR-Haftung – Grenzüberschreitender Straßengüterverkehr
 
@@ -321,7 +321,7 @@ Hilfsweise Klage auch gegen [C].
 
 ## 2. `fachanwalt-transport-speditionsrecht-ladungsschaden`
 
-**Frühere Beschreibung:** Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug.
+**Fokus:** Ladungsschaden im Gueterverkehr prüfen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Prüfraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Prüfergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug.
 
 # Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)
 
@@ -628,7 +628,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `frachtfuehrerhaftung-pruefen`
 
-**Frühere Beschreibung:** Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen. Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtführerhaftungs-Prüfergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB.
+**Fokus:** Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen. Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtführerhaftungs-Prüfergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB.
 
 # Frachtführer-Haftung prüfen
 

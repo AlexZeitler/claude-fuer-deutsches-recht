@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-beirat-immobilien-un-bis-beirat-interessenkon
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (beirat-immobilien-und-investitionen, beirat-informationsrechte, beirat-insolvenznaehe, beirat-interessenkonflikte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Immobilien Und Investitionen, Beirat Informationsrechte, Beirat Insolvenznaehe, Beirat Interessenkonflikte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - mittelstand-corporate-ma
+# Arbeitsbereich - Beirat Immobilien Und Investitionen bis Beirat Interessenkonflikte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-immobilien-und-investitionen` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-informationsrechte` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-immobilien-und-investitionen`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Immobilien Und Investitionen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Immobilien Und Investitionen
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-informationsrechte`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Informationsrechte
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-insolvenznaehe`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Insolvenznaehe
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-interessenkonflikte`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Interessenkonflikte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Interessenkonflikte
 

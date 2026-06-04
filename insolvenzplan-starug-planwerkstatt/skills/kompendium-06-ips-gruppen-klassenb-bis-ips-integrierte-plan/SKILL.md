@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ips-gruppen-klassenb-bis-ips-integrierte-plan
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ips-gruppen-klassenbildung, ips-insolvenzplan-architektur, ips-integrierte-planung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Gruppen Klassenbildung, Ips Insolvenzplan Architektur, Ips Integrierte Planung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-gruppen-klassenbildung` | Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung Absonderung Insolvenzgläubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (ips-abstimmung-mehrheiten). |
 | `ips-insolvenzplan-architektur` | Vollständigen Insolvenzplan nach §§ 217 ff. InsO strukturieren und alle Pflichtbestandteile verbinden. §§ 217 220 221 InsO Planarchitektur §§ 222 229 InsO Gruppen und Anlagen. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug Überwachung. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht für StaRUG-Plan (ips-starug-plan-architektur). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-gruppen-klassenbildung`
 
-**Frühere Beschreibung:** Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung Absonderung Insolvenzgläubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (ips-abstimmung-mehrheiten).
+**Fokus:** Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung Absonderung Insolvenzgläubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (ips-abstimmung-mehrheiten).
 
 # Gruppen- und Klassenbildung
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-insolvenzplan-architektur`
 
-**Frühere Beschreibung:** Vollständigen Insolvenzplan nach §§ 217 ff. InsO strukturieren und alle Pflichtbestandteile verbinden. §§ 217 220 221 InsO Planarchitektur §§ 222 229 InsO Gruppen und Anlagen. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug Überwachung. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht für StaRUG-Plan (ips-starug-plan-architektur).
+**Fokus:** Vollständigen Insolvenzplan nach §§ 217 ff. InsO strukturieren und alle Pflichtbestandteile verbinden. §§ 217 220 221 InsO Planarchitektur §§ 222 229 InsO Gruppen und Anlagen. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug Überwachung. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht für StaRUG-Plan (ips-starug-plan-architektur).
 
 # Insolvenzplan-Architektur
 
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-integrierte-planung`
 
-**Frühere Beschreibung:** Integrierte Planrechnung aus GuV Liquiditaet und Bilanz für Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO §§ 14 StaRUG Finanzplanung. Prüfraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brückenrechnung Annahmenregister Konsistenz. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht für Vergleichsrechnung (ips-vergleichsrechnung).
+**Fokus:** Integrierte Planrechnung aus GuV Liquiditaet und Bilanz für Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO §§ 14 StaRUG Finanzplanung. Prüfraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brückenrechnung Annahmenregister Konsistenz. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht für Vergleichsrechnung (ips-vergleichsrechnung).
 
 # Integrierte Planrechnung
 

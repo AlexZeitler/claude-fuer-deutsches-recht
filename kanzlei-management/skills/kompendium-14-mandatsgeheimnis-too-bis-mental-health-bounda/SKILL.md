@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-mandatsgeheimnis-too-bis-mental-health-bounda
-description: "kanzlei-management: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (mandatsgeheimnis-tooling, market-positioning, matter-profitability, mental-health-boundaries) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-management: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandatsgeheimnis Tooling, Market Positioning, Matter Profitability, Mental Health Boundaries; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - kanzlei-management
+# Arbeitsbereich - Mandatsgeheimnis Tooling bis Mental Health Boundaries
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandatsgeheimnis-tooling` | Bewertet Cloud, KI, Logging, Zugriff und § 203-StGB-Risiken. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
 | `market-positioning` | Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandatsgeheimnis-tooling`
 
-**Frühere Beschreibung:** Bewertet Cloud, KI, Logging, Zugriff und § 203-StGB-Risiken. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Bewertet Cloud, KI, Logging, Zugriff und § 203-StGB-Risiken. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Mandatsgeheimnis und Tooling
 
@@ -85,7 +85,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 2. `market-positioning`
 
-**Frühere Beschreibung:** Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Schärft Positionierung zwischen Boutique, Full Service und regionalem Platzhirsch. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Marktpositionierung Mittelstandskanzlei
 
@@ -141,7 +141,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 3. `matter-profitability`
 
-**Frühere Beschreibung:** Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization und Write-offs. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Berechnet Mandatsprofitabilität aus Rate, Staffing, Realization und Write-offs. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Matter Profitability
 
@@ -197,7 +197,7 @@ Bei Vergütung, Honorarvereinbarung, Erfolgshonorar, Mandatsannahme, Verschwiege
 
 ## 4. `mental-health-boundaries`
 
-**Frühere Beschreibung:** Erkennt Überlast und Fürsorgepflichten ohne Ferndiagnose. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
+**Fokus:** Erkennt Überlast und Fürsorgepflichten ohne Ferndiagnose. Für Managing Partner, Management Committee oder COO/CFO einer deutschen mittelständischen Kanzlei mit konkreten Abfragen, Kennzahlen, Entscheidungen und berufsrechtlicher Quellenhygiene.
 
 # Mental Health und Grenzen
 

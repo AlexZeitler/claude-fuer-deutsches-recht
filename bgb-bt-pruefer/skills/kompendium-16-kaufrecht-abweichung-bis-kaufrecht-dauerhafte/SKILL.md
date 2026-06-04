@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-kaufrecht-abweichung-bis-kaufrecht-dauerhafte
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476, kaufrecht-beweislast-verjaehrung-digitale-elemente, kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kaufrecht Abweichungsvereinbarung Objektive Anforderungen 476, Kaufrecht Beweislast Verjaehrung Digitale Elemente, Kaufrecht Dauerhafte Bereitstellung Digitaler Elemente 475c; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - bgb-bt-pruefer
+# Arbeitsbereich - Kaufrecht Abweichungsvereinbarung Objektive Anforderungen 476, Kaufrecht Beweislast Verjaehrung Digitale Elemente, Kaufrecht Dauerhafte Berei
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476` | Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf. |
 | `kaufrecht-beweislast-verjaehrung-digitale-elemente` | Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kaufrecht-abweichungsvereinbarung-objektive-anforderungen-476`
 
-**Frühere Beschreibung:** Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf.
+**Fokus:** Prüft Abweichungsvereinbarungen von objektiven Anforderungen § 476 BGB beim Verbrauchsgüterkauf.
 
 # Kaufrecht: Abweichungsvereinbarung objektive Anforderungen § 476 BGB
 
@@ -118,7 +118,7 @@ Abweichungsvereinbarungen von den objektiven Anforderungen an die Kaufsache nach
 
 ## 2. `kaufrecht-beweislast-verjaehrung-digitale-elemente`
 
-**Frühere Beschreibung:** Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen.
+**Fokus:** Prüft Beweislastumkehr § 477 BGB, Verjährung § 438 BGB und Besonderheiten bei digitalen Elementen.
 
 # Kaufrecht: Beweislast, Verjährung und digitale Elemente
 
@@ -210,7 +210,7 @@ Beweislastumkehr nach § 477 BGB, Verjährungsfristen nach § 438 BGB und besond
 
 ## 3. `kaufrecht-dauerhafte-bereitstellung-digitaler-elemente-475c`
 
-**Frühere Beschreibung:** Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung.
+**Fokus:** Prüft dauerhafte Bereitstellungspflicht digitaler Elemente § 475c BGB und Folgen bei Pflichtverletzung.
 
 # Kaufrecht: Dauerhafte Bereitstellung digitaler Elemente § 475c BGB
 

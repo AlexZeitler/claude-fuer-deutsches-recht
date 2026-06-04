@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-space-077-menschenre-bis-space-080-luftfahrt
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (space-077-menschenrechte-und-ueberwachung-durch-satelliten, space-078-katastrophenschutz-mit-satellitendaten, space-079-maritime-satellitendienste-und-schiffssicherheit, space-080-luftfahrt-satellitenkommunikation-und-safety-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 077 Menschenrechte Und Ueberwachung Durch Satelliten, Space 078 Katastrophenschutz Mit Satellitendaten, Space 079 Maritime Satellitendienste Und Schiffssicherheit, Space 080 Luftfahrt Satellitenkommunikation Und Safety Case; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - weltraumrecht
+# Arbeitsbereich - Space 077 Menschenrechte Und Ueberwachung Durch Satelliten bis Space 080 Luftfahrt Satellitenkommunikation Und Safety Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-077-menschenrechte-und-ueberwachung-durch-satelliten` | Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung. |
 | `space-078-katastrophenschutz-mit-satellitendaten` | Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-077-menschenrechte-und-ueberwachung-durch-satelliten`
 
-**Frühere Beschreibung:** Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung.
+**Fokus:** Satellitenüberwachung und Menschenrechte – DSGVO, EMRK Art. 8, staatliche Überwachung.
 
 # Weltraumrecht: Menschenrechte und Überwachung durch Satelliten
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Satellitenüberwachung, Menschenr
 
 ## 2. `space-078-katastrophenschutz-mit-satellitendaten`
 
-**Frühere Beschreibung:** Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten.
+**Fokus:** Satellitendaten im Katastrophenschutz – Copernicus EMS, Datenzugang, Behördenpflichten.
 
 # Weltraumrecht: Katastrophenschutz mit Satellitendaten
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Katastrophenschutz Satellitendate
 
 ## 3. `space-079-maritime-satellitendienste-und-schiffssicherheit`
 
-**Frühere Beschreibung:** Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen.
+**Fokus:** Maritime Satellitenkommunikation – GMDSS, AIS, Haftung bei Ausfall, SOLAS-Anforderungen.
 
 # Weltraumrecht: Maritime Satellitendienste und Schiffssicherheit
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Maritime Satellitenkommunkation, 
 
 ## 4. `space-080-luftfahrt-satellitenkommunikation-und-safety-case`
 
-**Frühere Beschreibung:** Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung.
+**Fokus:** Satellitenkommunikation in der Luftfahrt – LDACS, Safety Case, EASA-Zertifizierung.
 
 # Weltraumrecht: Luftfahrt-Satellitenkommunikation und Safety Case
 

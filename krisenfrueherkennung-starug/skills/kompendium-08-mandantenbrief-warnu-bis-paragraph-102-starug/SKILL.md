@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-mandantenbrief-warnu-bis-paragraph-102-starug
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (mandantenbrief-warnung-paragraph-102-starug-template, paragraph-1-starug-pflichten-und-24-monats-horizont, paragraph-102-starug-warnpflicht-bei-rechtsberatern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht Bei Rechtsberatern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - krisenfrueherkennung-starug
+# Arbeitsbereich - Mandantenbrief Warnung Paragraph 102 Starug Template, Paragraph 1 Starug Pflichten Und 24 Monats Horizont, Paragraph 102 Starug Warnpflicht B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenbrief-warnung-paragraph-102-starug-template` | Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `paragraph-1-starug-pflichten-und-24-monats-horizont` | § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenbrief-warnung-paragraph-102-starug-template`
 
-**Frühere Beschreibung:** Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu mandantenbrief warnung paragraph 102 starug template. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen
 
@@ -346,7 +346,7 @@ _______________________________   _______________________________
 
 ## 2. `paragraph-1-starug-pflichten-und-24-monats-horizont`
 
-**Frühere Beschreibung:** § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform.
+**Fokus:** § 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklären und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Prüfraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform.
 
 # § 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont
 
@@ -517,7 +517,7 @@ Unterschriften: _________________ / _________________
 
 ## 3. `paragraph-102-starug-warnpflicht-bei-rechtsberatern`
 
-**Frühere Beschreibung:** Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu paragraph 102 starug warnpflicht bei rechtsberatern. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-aussenwirtschaft-sam-bis-aussenwirtschaft-scr
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (aussenwirtschaft-sammelgenehmigung-export, aussenwirtschaft-schulung-exportkontrolle-rollout, aussenwirtschaft-schutzmassnahmen-safeguards, aussenwirtschaft-screening-tool-validierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Sammelgenehmigung Export, Aussenwirtschaft Schulung Exportkontrolle Rollout, Aussenwirtschaft Schutzmassnahmen Safeguards, Aussenwirtschaft Screening Tool Validierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Sammelgenehmigung Export bis Aussenwirtschaft Screening Tool Validierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-sammelgenehmigung-export` | Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll. |
 | `aussenwirtschaft-schulung-exportkontrolle-rollout` | Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BAFA-ICP-Anforderungen: Zielgruppen (Vertrieb, Einkauf, Logistik, IT), Schulungsinhalte, Nachweisdokumentation, E-Learning vs. Praesenz, jaehrliche Wiederholung. Output: Schulungskonzept und Nachweisprotokoll. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-sammelgenehmigung-export`
 
-**Frühere Beschreibung:** Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll.
+**Fokus:** Globale und Sammelausfuhrgenehmigungen bei BAFA: Allgemeine Ausfuhrgenehmigungen EU001-EU008, nationale AGG, globale Einzelgenehmigungen; Voraussetzungen ICP, Berichtspflichten und Ablauf des Antragsverfahrens ueber ELAN-K2. Output: Sammelgenehmigungsantrag und Nutzungsprotokoll.
 
 # Sammelgenehmigungen und AGG fuer Dual-Use-Exporte: Beantragung und Nutzung
 
@@ -116,7 +116,7 @@ AGG-Anwendbarkeitsmatrix, Sammelgenehmigungsantrag ueber ELAN-K2, Nutzungsprotok
 
 ## 2. `aussenwirtschaft-schulung-exportkontrolle-rollout`
 
-**Frühere Beschreibung:** Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BAFA-ICP-Anforderungen: Zielgruppen (Vertrieb, Einkauf, Logistik, IT), Schulungsinhalte, Nachweisdokumentation, E-Learning vs. Praesenz, jaehrliche Wiederholung. Output: Schulungskonzept und Nachweisprotokoll.
+**Fokus:** Konzeption und Durchfuehrung von Exportkontroll-Schulungen nach BAFA-ICP-Anforderungen: Zielgruppen (Vertrieb, Einkauf, Logistik, IT), Schulungsinhalte, Nachweisdokumentation, E-Learning vs. Praesenz, jaehrliche Wiederholung. Output: Schulungskonzept und Nachweisprotokoll.
 
 # Exportkontroll-Schulungskonzept: ICP-konforme Schulungsplanung und Nachweis
 
@@ -203,7 +203,7 @@ Schulungskonzept mit Zielgruppen, Inhalten und Format; Schulungskalender, Nachwe
 
 ## 3. `aussenwirtschaft-schutzmassnahmen-safeguards`
 
-**Frühere Beschreibung:** EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoellen. Output: Safeguard-Pruefvermerk und Reaktionsplan.
+**Fokus:** EU-Schutzmassnahmen (Safeguards) nach VO (EU) 2015/478 Art. 16 und VO (EU) 2015/755 Art. 13: Mengenbeschraenkungen Ueberwachungsmassnahmen und Antragstellung bei der EU-Kommission. Wirkung auf Importeure und Exporteure in betroffenen Sektoren (Stahl Solar Keramik). Abgrenzung zu Antidumping-Zoellen. Output: Safeguard-Pruefvermerk und Reaktionsplan.
 
 # EU-Schutzmassnahmen (Safeguards): Mengenbeschraenkungen und Unternehmensreaktion
 
@@ -291,7 +291,7 @@ Safeguard-Pruefvermerk mit TARIC-Abfrage-Nachweis, Kontingentsantrag-Vorlage, Re
 
 ## 4. `aussenwirtschaft-screening-tool-validierung`
 
-**Frühere Beschreibung:** Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design fuer SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse.
+**Fokus:** Validierung und Qualitaetssicherung von Sanktionsscreening-Tools: Testfall-Design fuer SDN/EU-Konsolidierte-Liste, Trefferqualitaet (False Positives/Negatives), Fuzzy-Match-Schwellenwerte und Audit-Readiness nach BAFA- und Bankaufsichtsanforderungen. Bewertet ob das eingesetzte Tool die regulatorischen Mindestanforderungen erfuellt. Output: Validierungsbericht mit Gap-Analyse.
 
 # Screening-Tool-Validierung: Trefferqualitaet und Audit-Readiness
 

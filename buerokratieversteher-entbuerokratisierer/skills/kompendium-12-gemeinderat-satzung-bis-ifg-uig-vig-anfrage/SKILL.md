@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-gemeinderat-satzung-bis-ifg-uig-vig-anfrage
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (gemeinderat-satzung-verstehen, gerichtsladung-zeuge, hausbesuch-behoerde, ifg-uig-vig-anfrage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gemeinderat Satzung Verstehen, Gerichtsladung Zeuge, Hausbesuch Behoerde, Ifg Uig Vig Anfrage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Gemeinderat Satzung Verstehen bis Ifg Uig Vig Anfrage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gemeinderat-satzung-verstehen` | Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht. |
 | `gerichtsladung-zeuge` | Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gemeinderat-satzung-verstehen`
 
-**Frühere Beschreibung:** Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht.
+**Fokus:** Erklärt kommunale Satzungen, Ratsbeschlüsse, Zuständigkeiten und wo die Rechtsgrundlage steht.
 
 # Gemeinderat und Satzung verstehen
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `gerichtsladung-zeuge`
 
-**Frühere Beschreibung:** Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels.
+**Fokus:** Erklärt Pflicht zum Erscheinen, Wahrheitspflicht, Auslagen, Zeugnisverweigerungsrechte und Risiken eines Rollenwechsels.
 
 # Gerichtsladung als Zeuge
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `hausbesuch-behoerde`
 
-**Frühere Beschreibung:** Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung.
+**Fokus:** Erklärt angekündigten oder unangekündigten Hausbesuch, Rechte, Pflichten, Dokumentation und Grenzen freiwilliger Mitwirkung.
 
 # Hausbesuch Behörde
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `ifg-uig-vig-anfrage`
 
-**Frühere Beschreibung:** Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren.
+**Fokus:** Erstellt Informationsfreiheits-, Umweltinformations- oder Verbraucherinfomations-Antrag und erklärt Ablehnung/Gebühren.
 
 # IFG/UIG/VIG-Anfrage
 

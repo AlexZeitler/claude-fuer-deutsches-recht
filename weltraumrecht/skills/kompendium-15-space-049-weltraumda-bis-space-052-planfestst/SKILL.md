@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-space-049-weltraumda-bis-space-052-planfestst
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (space-049-weltraumdaten-datenbankrecht-und-ai-training, space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-n, space-051-umweltpruefung-startanlage-flora-fauna-wasserrecht, space-052-planfeststellung-raumfahrtinfrastruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 049 Weltraumdaten Datenbankrecht Und Ai Training, Space 050 Bodeneigentuemer Startplatz Laerm Erschuetterung Und N, Space 051 Umweltpruefung Startanlage Flora Fauna Wasserrecht, Space 052 Planfeststellung Raumfahrtinfrastruktur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - weltraumrecht
+# Arbeitsbereich - Space 049 Weltraumdaten Datenbankrecht Und Ai Training bis Space 052 Planfeststellung Raumfahrtinfrastruktur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-049-weltraumdaten-datenbankrecht-und-ai-training` | Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz. |
 | `space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-n` | Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-049-weltraumdaten-datenbankrecht-und-ai-training`
 
-**Frühere Beschreibung:** Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz.
+**Fokus:** Weltraumdaten als Datenbankwerk – Sui-generis-Schutz, AI-Training, DSGVO, Copernicus-Lizenz.
 
 # Weltraumrecht: Weltraumdaten: Datenbankrecht und AI-Training
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Weltraumdaten, Datenbankrecht, AI
 
 ## 2. `space-050-bodeneigentuemer-startplatz-laerm-erschuetterung-und-n`
 
-**Frühere Beschreibung:** Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche.
+**Fokus:** Grundstücksrecht am Startplatz – Lärmimmissionen, Erschütterungen, Nachbarrechtsansprüche.
 
 # Weltraumrecht: Bodeneigentümer Startplatz: Lärm, Erschütterung, Nachbarrecht
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Nachbarrecht Startplatz, Lärmimm
 
 ## 3. `space-051-umweltpruefung-startanlage-flora-fauna-wasserrecht`
 
-**Frühere Beschreibung:** Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht.
+**Fokus:** Umweltverträglichkeitsprüfung für Startanlagen – Schutzgüter, FFH-Verträglichkeit, Wasserrecht.
 
 # Weltraumrecht: Umweltprüfung Startanlage: Flora, Fauna, Wasserrecht
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: UVP Startanlage, FFH-Verträglich
 
 ## 4. `space-052-planfeststellung-raumfahrtinfrastruktur`
 
-**Frühere Beschreibung:** Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz.
+**Fokus:** Planfeststellungsverfahren für Startanlagen und Bodensegment – Träger, Öffentlichkeitsbeteiligung, Rechtsschutz.
 
 # Weltraumrecht: Planfeststellung Raumfahrtinfrastruktur
 

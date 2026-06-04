@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-anzeige-notruf-akut-bis-anzeige-online-platt
-description: "strafanzeige-vorbereiter: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (anzeige-notruf-akut-gefahr, anzeige-online-plattform-screenshots) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafanzeige-vorbereiter: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anzeige Notruf Akut Gefahr, Anzeige Online Plattform Screenshots; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - strafanzeige-vorbereiter
+# Arbeitsbereich - Anzeige Notruf Akut Gefahr, Anzeige Online Plattform Screenshots
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anzeige-notruf-akut-gefahr` | Akute Gefahr, laufende Tat, Selbst-/Fremdgefährdung: Sofort Polizei/112/110 statt Entwurf. |
 | `anzeige-online-plattform-screenshots` | Screenshots, URLs, Zeitstempel, Accountdaten, Plattformmeldungen und Löschrisiko beweissicher sichern. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anzeige-notruf-akut-gefahr`
 
-**Frühere Beschreibung:** Akute Gefahr, laufende Tat, Selbst-/Fremdgefährdung: Sofort Polizei/112/110 statt Entwurf.
+**Fokus:** Akute Gefahr, laufende Tat, Selbst-/Fremdgefährdung: Sofort Polizei/112/110 statt Entwurf.
 
 # Akute Gefahr: Notruf statt Plugin
 
@@ -73,7 +73,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `anzeige-online-plattform-screenshots`
 
-**Frühere Beschreibung:** Screenshots, URLs, Zeitstempel, Accountdaten, Plattformmeldungen und Löschrisiko beweissicher sichern.
+**Fokus:** Screenshots, URLs, Zeitstempel, Accountdaten, Plattformmeldungen und Löschrisiko beweissicher sichern.
 
 # Online-Beweise und Plattform-Screenshots
 

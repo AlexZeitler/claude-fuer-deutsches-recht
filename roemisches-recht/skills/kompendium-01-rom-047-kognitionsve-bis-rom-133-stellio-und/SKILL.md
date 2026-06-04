@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-rom-047-kognitionsve-bis-rom-133-stellio-und
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 01; bündelt 8 frühere Spezialskills (rom-047-kognitionsverfahren, rom-138-mandatum-pecuniae-credendae-bankvertrag, rom-162-vertragstypen-konsens-real-verbal-litteral, rom-037-noxalhaftung, rom-103-zwoelftafelgesetz-delikte-und-sanktionen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 047 Kognitionsverfahren, Rom 138 Mandatum Pecuniae Credendae Bankvertrag, Rom 162 Vertragstypen Konsens Real Verbal Litteral, Rom 037 Noxalhaftung und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - roemisches-recht
+# Arbeitsbereich - Rom 047 Kognitionsverfahren bis Rom 133 Stellio Und Schmuggel Roemische Zollordnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-047-kognitionsverfahren` | Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel. |
 | `rom-138-mandatum-pecuniae-credendae-bankvertrag` | Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhaeltnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-047-kognitionsverfahren`
 
-**Frühere Beschreibung:** Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel.
+**Fokus:** Römisches Recht: Kognitionsverfahren (cognitio extra ordinem) ab Kaiserzeit nach D. 4.4 und Nov. 82 (Justinian) - amtliches Verfahren ohne Formel, appellatio, rescriptum principis und Rechtsmittel.
 
 # Das Kognitionsverfahren (cognitio extra ordinem)
 
@@ -87,7 +87,7 @@ D. 49.1; C. 7.62-70; Nov. 82 (Mommsen-Krüger). Kaser/Hackl Zivilprozessrecht.
 
 ## 2. `rom-138-mandatum-pecuniae-credendae-bankvertrag`
 
-**Frühere Beschreibung:** Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhaeltnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix.
+**Fokus:** Mandatum pecuniae credendae: Kreditbuergschaftsvertrag im roemischen Recht als Vorlaeufer der Bankkredit-Garantie. Skill behandelt die Konstruktion das Verhaeltnis zur Buergschaft und zum Auftrag. Liefert Quellenmatrix.
 
 # Rom 138 Mandatum Pecuniae Credendae Bankvertrag
 
@@ -135,7 +135,7 @@ Skill fuer mandatum pecuniae credendae.
 
 ## 3. `rom-162-vertragstypen-konsens-real-verbal-litteral`
 
-**Frühere Beschreibung:** Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung.
+**Fokus:** Römisches Recht: Vertragstypen nach Entstehungsmodus. Konsensualverträge, Realverträge, Verbalverträge/Stipulation und Litteralkontrakte; mit Kauf, mutuum, Zinsstipulation, Darlehen und moderner Rezeptionswarnung.
 
 # Vertragstypen: Konsens, Übergabe, Worte, Schrift
 
@@ -179,7 +179,7 @@ Zinsen (`usurae`) sind nicht selbstverständlich Teil des `mutuum`. Sie werden t
 
 ## 4. `rom-037-noxalhaftung`
 
-**Frühere Beschreibung:** Römisches Recht: Noxalhaftung (noxae deditio) nach D. 9.4 und Gaius Inst. 4.75-79 - Haftung des Hausvaters für Delikte von Haussöhnen und Sklaven, noxae caput sequitur, actiones noxales.
+**Fokus:** Römisches Recht: Noxalhaftung (noxae deditio) nach D. 9.4 und Gaius Inst. 4.75-79 - Haftung des Hausvaters für Delikte von Haussöhnen und Sklaven, noxae caput sequitur, actiones noxales.
 
 # Noxalhaftung (noxae deditio)
 
@@ -233,7 +233,7 @@ D. 9.4; Gaius Inst. 4.75-79 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive
 
 ## 5. `rom-103-zwoelftafelgesetz-delikte-und-sanktionen`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion.
+**Fokus:** Römisches Recht: Zwölftafelgesetz zu furtum, iniuria, Sachschaden, Talion, Bußen, Sakralnähe und privater Sanktion.
 
 # Zwölftafelgesetz - Delikte und Sanktionen
 
@@ -263,7 +263,7 @@ Dieser Skill behandelt Delikts- und Sanktionslogik im Zwölftafelgesetz: **Diebs
 
 ## 6. `rom-124-actio-exercitoria-reederhaftung`
 
-**Frühere Beschreibung:** Actio exercitoria: Klage gegen den Reeder (exercitor navis) fuer Verbindlichkeiten aus Handlungen seines magister navis. Skill behandelt die Voraussetzungen die Vollhaftung des Reeders und den Vergleich zum modernen Schifffahrtsrecht. Liefert Quellenmatrix.
+**Fokus:** Actio exercitoria: Klage gegen den Reeder (exercitor navis) fuer Verbindlichkeiten aus Handlungen seines magister navis. Skill behandelt die Voraussetzungen die Vollhaftung des Reeders und den Vergleich zum modernen Schifffahrtsrecht. Liefert Quellenmatrix.
 
 # Rom 124 Actio Exercitoria Reederhaftung
 
@@ -313,7 +313,7 @@ Skill fuer die actio exercitoria.
 
 ## 7. `rom-125-actio-institoria-prokuristenhaftung`
 
-**Frühere Beschreibung:** Actio institoria: Klage gegen den Geschaeftsherrn (dominus) fuer Verbindlichkeiten aus Handlungen seines institor (Prokuristen). Skill behandelt die Voraussetzungen und die Sonderfaelle bei Sklaven und Familienangehoerigen als institor. Liefert Quellenmatrix.
+**Fokus:** Actio institoria: Klage gegen den Geschaeftsherrn (dominus) fuer Verbindlichkeiten aus Handlungen seines institor (Prokuristen). Skill behandelt die Voraussetzungen und die Sonderfaelle bei Sklaven und Familienangehoerigen als institor. Liefert Quellenmatrix.
 
 # Rom 125 Actio Institoria Prokuristenhaftung
 
@@ -357,7 +357,7 @@ Skill fuer die actio institoria als Pendant der actio exercitoria im Land-/Stadt
 
 ## 8. `rom-133-stellio-und-schmuggel-roemische-zollordnung`
 
-**Frühere Beschreibung:** Stellio und Schmuggel im roemischen Reich: Strafregeln fuer Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix.
+**Fokus:** Stellio und Schmuggel im roemischen Reich: Strafregeln fuer Zoll-, Steuer- und Warendelikte. Skill behandelt die Strafe der Vermoegenseinziehung (commissum) Strafverfahren und Aufsichtsbehoerden. Liefert Quellenmatrix.
 
 # Rom 133 Stellio Und Schmuggel Roemische Zollordnung
 

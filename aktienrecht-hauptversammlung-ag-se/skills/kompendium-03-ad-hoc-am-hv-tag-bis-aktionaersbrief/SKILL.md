@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ad-hoc-am-hv-tag-bis-aktionaersbrief
-description: "aktienrecht-hauptversammlung-ag-se: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ad-hoc-am-hv-tag, ag-typ-kleine-normale-boersennotierte-ag-se, aktienrueckkauf, aktionaersbrief) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktienrecht-hauptversammlung-ag-se: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ad Hoc Am Hv Tag, Ag Typ Kleine Normale Boersennotierte Ag Se, Aktienrueckkauf, Aktionaersbrief; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - aktienrecht-hauptversammlung-ag-se
+# Arbeitsbereich - Ad Hoc Am Hv Tag bis Aktionaersbrief
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ad-hoc-am-hv-tag` | Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `ag-typ-kleine-normale-boersennotierte-ag-se` | Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ad-hoc-am-hv-tag`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Ad Hoc Am HV Tag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ad Hoc Am HV Tag
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `ag-typ-kleine-normale-boersennotierte-ag-se`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: AG Typ Kleine Normale Boersennotierte AG SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # AG Typ Kleine Normale Boersennotierte AG SE
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aktienrueckkauf`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktienrueckkauf; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktienrueckkauf
 
@@ -203,7 +203,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aktionaersbrief`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Aktionaersbrief; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aktionaersbrief
 

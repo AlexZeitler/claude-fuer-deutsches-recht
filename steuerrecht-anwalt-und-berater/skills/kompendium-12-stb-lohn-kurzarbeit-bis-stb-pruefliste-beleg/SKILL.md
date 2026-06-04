@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-stb-lohn-kurzarbeit-bis-stb-pruefliste-beleg
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 12; bündelt 9 frühere Spezialskills (stb-lohn-kurzarbeit-kug-progression, stb-lohn-lohnsteuer-anmeldung-elster, stb-lohn-lohnsteuer-monatsabschluss, stb-lohn-minijob-538-euro-2024-anpassung, stb-lohn-sachbezuege-50-euro-freigrenze und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Lohn Kurzarbeit Kug Progression, Stb Lohn Lohnsteuer Anmeldung Elster, Stb Lohn Lohnsteuer Monatsabschluss, Stb Lohn Minijob 538 Euro 2024 Anpassung und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Lohn Kurzarbeit Kug Progression bis Stb Pruefliste Belegabgabe Monatlich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-lohn-kurzarbeit-kug-progression` | Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung. |
 | `stb-lohn-lohnsteuer-anmeldung-elster` | Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-lohn-kurzarbeit-kug-progression`
 
-**Frühere Beschreibung:** Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung.
+**Fokus:** Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung.
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression
 
@@ -171,7 +171,7 @@ Stand: 05/2026.
 
 ## 2. `stb-lohn-lohnsteuer-anmeldung-elster`
 
-**Frühere Beschreibung:** Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung.
+**Fokus:** Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung.
 
 # Lohnsteuer-Anmeldung ueber ELSTER
 
@@ -314,7 +314,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-lohnsteuer-monatsabschluss`
 
-**Frühere Beschreibung:** Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung.
+**Fokus:** Monatlicher Lohnsteuer-Monatsabschluss. Anwendungsfall regulaere Lohnabrechnung Bruttolohn LSt KiSt SolZ pauschalierte Loehne SV-Abrechnung Auszahlung Anmeldung. Methodik Standard-Workflow Abrechnungsschritte 39e Tabelle. Output Lohnabrechnungen LSt-Anmeldung Bankueberweisung.
 
 # Lohnsteuer-Monatsabschluss
 
@@ -473,7 +473,7 @@ Stand: 05/2026.
 
 ## 4. `stb-lohn-minijob-538-euro-2024-anpassung`
 
-**Frühere Beschreibung:** Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft.
+**Fokus:** Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft.
 
 # Minijob — 538-EUR-Grenze und Anpassungen
 
@@ -625,7 +625,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-sachbezuege-50-euro-freigrenze`
 
-**Frühere Beschreibung:** Sachbezuege 50 EUR Freigrenze § 8 Abs 2 EStG. Anwendungsfall geldwerte Vorteile Gutscheine Sachgeschenke Aufmerksamkeiten Begründung steuerfrei wenn unter 50 EUR/Monat. Methodik Prüfung Sachbezugs-Typ Geldzuwendung-Abgrenzung Loyalitaetsprogramme. Output Sachbezugs-Abrechnung Dokumentation.
+**Fokus:** Sachbezuege 50 EUR Freigrenze § 8 Abs 2 EStG. Anwendungsfall geldwerte Vorteile Gutscheine Sachgeschenke Aufmerksamkeiten Begründung steuerfrei wenn unter 50 EUR/Monat. Methodik Prüfung Sachbezugs-Typ Geldzuwendung-Abgrenzung Loyalitaetsprogramme. Output Sachbezugs-Abrechnung Dokumentation.
 
 # Sachbezuege — 50-EUR-Freigrenze § 8 Abs. 2 EStG
 
@@ -769,7 +769,7 @@ Stand: 05/2026.
 
 ## 6. `stb-mandanten-onboarding-checkliste-vollservice`
 
-**Frühere Beschreibung:** Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar.
+**Fokus:** Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar.
 
 # Mandanten-Onboarding-Checkliste Vollservice
 
@@ -951,7 +951,7 @@ Stand: 05/2026.
 
 ## 7. `stb-mandantenkommunikation-bwa-uebergabe-quartal`
 
-**Frühere Beschreibung:** Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Massnahmen-Liste.
+**Fokus:** Quartalsgespraech BWA-Übergabe. Anwendungsfall systematische Quartalskommunikation mit Mandant Ergebnisbesprechung Steuerthemen Investitionsplanung. Methodik Termin-Vorbereitung Agenda Dokumentation. Output Quartalsgespraechs-Protokoll Massnahmen-Liste.
 
 # Quartalsgespraech — BWA-Uebergabe mit dem Mandanten
 
@@ -1154,7 +1154,7 @@ Stand: 05/2026.
 
 ## 8. `stb-mandantenrechnung-honorar-stbvv`
 
-**Frühere Beschreibung:** Mandantenrechnung Honorar StBVV. Anwendungsfall Honorarabrechnung Pauschal- Zeit- und Gegenstandswert-Honorar Steuerberatergebührenverordnung. Methodik Rechnungsschreibung Gebührensaetze § 33 35 35a. Output Mandantenrechnung.
+**Fokus:** Mandantenrechnung Honorar StBVV. Anwendungsfall Honorarabrechnung Pauschal- Zeit- und Gegenstandswert-Honorar Steuerberatergebührenverordnung. Methodik Rechnungsschreibung Gebührensaetze § 33 35 35a. Output Mandantenrechnung.
 
 # Mandantenrechnung — Honorar nach StBVV
 
@@ -1323,7 +1323,7 @@ Stand: 05/2026.
 
 ## 9. `stb-pruefliste-belegabgabe-monatlich`
 
-**Frühere Beschreibung:** Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollständigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Prüfliste Eingangskontrolle Mahnung. Output Prüfprotokoll Belegmahnung.
+**Fokus:** Prüfliste monatliche Belegabgabe. Anwendungsfall standardisierte Belegabgabe-Kontrolle Mandant Vollständigkeit Bankauszuege Kasse Eingangsrechnungen Ausgangsrechnungen Lohnauswertung. Methodik Prüfliste Eingangskontrolle Mahnung. Output Prüfprotokoll Belegmahnung.
 
 # Pruefliste monatliche Belegabgabe
 

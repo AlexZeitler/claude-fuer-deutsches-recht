@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-schuelerzeitung-pres-bis-schulaufsichtsbeschw
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (schuelerzeitung-pressefreiheit, schulaufnahme-und-schulbezirk, schulaufsicht-akteneinsicht-eltern, schulaufsichtsbeschwerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schuelerzeitung Pressefreiheit, Schulaufnahme Und Schulbezirk, Schulaufsicht Akteneinsicht Eltern, Schulaufsichtsbeschwerde; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - schulrecht-laender
+# Arbeitsbereich - Schuelerzeitung Pressefreiheit bis Schulaufsichtsbeschwerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schuelerzeitung-pressefreiheit` | Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit. |
 | `schulaufnahme-und-schulbezirk` | Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schuelerzeitung-pressefreiheit`
 
-**Frühere Beschreibung:** Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit.
+**Fokus:** Prüft Schülerzeitung, Meinungsfreiheit, Schulordnung, Vorabkontrolle und Verantwortlichkeit.
 
 # Schülerzeitung und Pressefreiheit
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `schulaufnahme-und-schulbezirk`
 
-**Frühere Beschreibung:** Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung.
+**Fokus:** Prüft Aufnahme, Schulbezirk, Kapazität und Ablehnung.
 
 # Schulaufnahme Und Schulbezirk
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Aufnahme-Check. Am Ende immer drei Zeilen: **Frist**, **fehle
 
 ## 3. `schulaufsicht-akteneinsicht-eltern`
 
-**Frühere Beschreibung:** Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte.
+**Fokus:** Prüft Akteneinsicht, Schulaufsichtsbeschwerde und Informationsrechte.
 
 # Schulaufsicht und Akteneinsicht der Eltern
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `schulaufsichtsbeschwerde`
 
-**Frühere Beschreibung:** Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde.
+**Fokus:** Erstellt Schulaufsichtsbeschwerde und Dienstaufsichtsbeschwerde.
 
 # Schulaufsichtsbeschwerde
 

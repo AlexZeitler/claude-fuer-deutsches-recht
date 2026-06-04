@@ -1,32 +1,32 @@
 ---
 name: kompendium-22-whistleblowing-hinsc-bis-whistleblowing-hinsc
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 22; bündelt 1 frühere Spezialskills (whistleblowing-hinschg-hr-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill zu Whistleblowing Hinschg Hr Schnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Whistleblowing Hinschg Hr Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `whistleblowing-hinschg-hr-schnittstelle` | Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `whistleblowing-hinschg-hr-schnittstelle`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Hinweisgeberschutz und HR: Meldekanal, Vertraulichkeit, Repressalienverbot, NDA-Konflikte und Personalmaßnahmen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Whistleblowing HinSchG HR Schnittstelle
 

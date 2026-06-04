@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-bho-244-eu-mittel-pa-bis-bho-254-kommunaler-f
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 23; bündelt 11 frühere Spezialskills (bho-244-eu-mittel-parlamentsfrage-vorbereiten, bho-245-eu-mittel-vollzug-tracken, bho-246-kommunaler-finanztransfer-titel-pruefe, bho-247-kommunaler-finanztransfer-umschichtung, bho-248-kommunaler-finanztransfer-sperre-bewer und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 244 Eu Mittel Parlamentsfrage Vorbereiten, Bho 245 Eu Mittel Vollzug Tracken, Bho 246 Kommunaler Finanztransfer Titel Pruefe, Bho 247 Kommunaler Finanztransfer Umschichtung und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 244 Eu Mittel Parlamentsfrage Vorbereiten bis Bho 254 Kommunaler Finanztransfer Parlamentsfr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-244-eu-mittel-parlamentsfrage-vorbereiten` | Haushaltsrecht BHO Bund und Länder: EU-Mittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-245-eu-mittel-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: EU-Mittel: Vollzug tracken. Vollzug tracken für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-244-eu-mittel-parlamentsfrage-vorbereiten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Parlamentsfrage Vorbereiten
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-245-eu-mittel-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Vollzug tracken. Vollzug tracken für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Vollzug tracken. Vollzug tracken für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Vollzug Tracken
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-246-kommunaler-finanztransfer-titel-pruefe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Titel prüfen. Titel prüfen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Titel prüfen. Titel prüfen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Titel Pruefe
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-247-kommunaler-finanztransfer-umschichtung`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Umschichtung simulieren. Umschichtung simulieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Umschichtung simulieren. Umschichtung simulieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Umschichtung
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-248-kommunaler-finanztransfer-sperre-bewer`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Sperre bewerten. Sperre bewerten für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Sperre bewerten. Sperre bewerten für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Sperre Bewer
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-249-kommunaler-finanztransfer-deckung-find`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Deckung finden. Deckung finden für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Deckung finden. Deckung finden für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Deckung Find
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-250-kommunaler-finanztransfer-szenario-rec`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Szenario rechnen. Szenario rechnen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Szenario rechnen. Szenario rechnen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Szenario Rec
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-251-kommunaler-finanztransfer-dashboard-ba`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Dashboard bauen. Dashboard bauen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Dashboard bauen. Dashboard bauen für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Dashboard Ba
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-252-kommunaler-finanztransfer-risiko-marki`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren. Risiko markieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Risiko markieren. Risiko markieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Risiko Marki
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-253-kommunaler-finanztransfer-brh-frage-fo`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: BRH-Frage formulieren. BRH-Frage formulieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: BRH-Frage formulieren. BRH-Frage formulieren für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Brh Frage Fo
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-254-kommunaler-finanztransfer-parlamentsfr`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Kommunaler Finanztransfer: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Kommunaler Finanztransfer im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kommunaler Finanztransfer Parlamentsfr
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-franchise-shop-in-sh-bis-green-claims-nachhal
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (franchise-shop-in-shop, green-claims-nachhaltigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Franchise Shop In Shop, Green Claims Nachhaltigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fashion-law-moderecht
+# Arbeitsbereich - Franchise Shop In Shop, Green Claims Nachhaltigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `franchise-shop-in-shop` | Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit. |
 | `green-claims-nachhaltigkeit` | Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `franchise-shop-in-shop`
 
-**Frühere Beschreibung:** Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit.
+**Fokus:** Franchise, Concession und Shop-in-Shop im Fashion Retail prüfen: Markenlizenz, Store-Konzept, Personal, Warenwirtschaft, Umsatzmiete und Exit.
 
 # Franchise Shop In Shop
 
@@ -59,7 +59,7 @@ Vertragsstruktur-Check.
 
 ## 2. `green-claims-nachhaltigkeit`
 
-**Frühere Beschreibung:** Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko.
+**Fokus:** Green Claims und Nachhaltigkeitskommunikation für Mode prüfen: recycelt, klimaneutral, vegan, fair, langlebig, Reparatur, Belege und UWG-Risiko.
 
 # Green Claims Nachhaltigkeit
 

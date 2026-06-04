@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-vdg-047-energiepreis-bis-vdg-051-plattform-sp
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (vdg-047-energiepreiserhoehung-vergleich-pruefe, vdg-048-energiepreiserhoehung-umsetzung-ueberw, vdg-050-energiepreiserhoehung-risiko-rot-marki, vdg-051-plattform-sperre-sammelfaehigkeit-prue) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 047 Energiepreiserhoehung Vergleich Pruefe, Vdg 048 Energiepreiserhoehung Umsetzung Ueberw, Vdg 050 Energiepreiserhoehung Risiko Rot Marki, Vdg 051 Plattform Sperre Sammelfaehigkeit Prue; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 047 Energiepreiserhoehung Vergleich Pruefe bis Vdg 051 Plattform Sperre Sammelfaehigkeit Prue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-047-energiepreiserhoehung-vergleich-pruefe` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen. Vergleich prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-048-energiepreiserhoehung-umsetzung-ueberw` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Umsetzung überwachen. Umsetzung überwachen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-047-energiepreiserhoehung-vergleich-pruefe`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen. Vergleich prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Vergleich prüfen. Vergleich prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Vergleich Pruefe
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-048-energiepreiserhoehung-umsetzung-ueberw`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Umsetzung überwachen. Umsetzung überwachen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Umsetzung überwachen. Umsetzung überwachen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Umsetzung Ueberw
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-050-energiepreiserhoehung-risiko-rot-marki`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Risiko rot markieren. Risiko rot markieren für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Risiko rot markieren. Risiko rot markieren für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Risiko Rot Marki
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-051-plattform-sperre-sammelfaehigkeit-prue`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Sammelfaehigkeit Prue
 

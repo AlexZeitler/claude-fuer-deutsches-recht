@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-abschlusspruefer-ste-bis-ag-se-boersennotiert
-description: "aufsichtsrat-ag-se-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (abschlusspruefer-steuerung, aufsichtsrat-steuer-compliance, ad-hoc-und-aufsichtsrat, ag-se-boersennotiert-router) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aufsichtsrat-ag-se-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abschlusspruefer Steuerung, Aufsichtsrat Steuer Compliance, Ad Hoc Und Aufsichtsrat, Ag Se Boersennotiert Router; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - aufsichtsrat-ag-se-praxis
+# Arbeitsbereich - Abschlusspruefer Steuerung bis Ag Se Boersennotiert Router
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abschlusspruefer-steuerung` | AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `aufsichtsrat-steuer-compliance` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abschlusspruefer-steuerung`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Abschlusspruefer Steuerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Abschlusspruefer Steuerung
 
@@ -89,7 +89,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-steuer-compliance`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Steuer Compliance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Steuer Compliance
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `ad-hoc-und-aufsichtsrat`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Ad Hoc Und Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Ad Hoc Und Aufsichtsrat
 
@@ -203,7 +203,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `ag-se-boersennotiert-router`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: AG SE Boersennotiert Router; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # AG SE Boersennotiert Router
 

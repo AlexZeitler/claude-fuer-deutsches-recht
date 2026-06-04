@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-beirat-private-equit-bis-beirat-sitzung-und-p
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (beirat-private-equity-investor, beirat-register-und-notar, beirat-satzungsgrundlage, beirat-sitzung-und-protokoll) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Private Equity Investor, Beirat Register Und Notar, Beirat Satzungsgrundlage, Beirat Sitzung Und Protokoll; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - mittelstand-corporate-ma
+# Arbeitsbereich - Beirat Private Equity Investor bis Beirat Sitzung Und Protokoll
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-private-equity-investor` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-register-und-notar` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-private-equity-investor`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Private Equity Investor
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-register-und-notar`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Register Und Notar
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-satzungsgrundlage`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Satzungsgrundlage; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Satzungsgrundlage
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-sitzung-und-protokoll`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Sitzung Und Protokoll; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Sitzung Und Protokoll
 

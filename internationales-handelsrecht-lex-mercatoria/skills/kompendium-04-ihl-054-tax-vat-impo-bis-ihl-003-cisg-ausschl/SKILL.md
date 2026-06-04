@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-ihl-054-tax-vat-impo-bis-ihl-003-cisg-ausschl
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (ihl-054-tax-vat-import-export, ihl-087-settlement-crossborder, ihl-002-cisg-anwendungsbereich, ihl-003-cisg-ausschluss-und-rechtswahl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 054 Tax Vat Import Export, Ihl 087 Settlement Crossborder, Ihl 002 Cisg Anwendungsbereich, Ihl 003 Cisg Ausschluss Und Rechtswahl; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 054 Tax Vat Import Export bis Ihl 003 Cisg Ausschluss Und Rechtswahl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-054-tax-vat-import-export` | Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax. |
 | `ihl-087-settlement-crossborder` | Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-054-tax-vat-import-export`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax.
+**Fokus:** Internationales Handelsrecht: Steuerrecht im internationalen Handel. Umsatzsteuer bei grenzüberschreitenden Lieferungen (§ 4 Nr. 1a UStG, 0%-Satz), Einfuhrumsatzsteuer, Verrechnungspreise (OECD-Leitsätze), Betriebsstättenrisiko und withholding tax.
 
 # Steuerrecht im internationalen Handel
 
@@ -81,7 +81,7 @@ UStG §§ 4, 6, 13b: gesetze-im-internet.de. MwStSystRL Art. 138: eur-lex.europa
 
 ## 2. `ihl-087-settlement-crossborder`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung.
+**Fokus:** Internationales Handelsrecht: Grenzüberschreitende Vergleiche. Vergleichsvertrag (§ 779 BGB), Singapur-Konvention-Vollstreckung, Consent Award im Schiedsverfahren, Release-Klauseln, Steuerfolgen und Vollstreckungssicherung.
 
 # Grenzüberschreitende Vergleiche
 
@@ -133,7 +133,7 @@ BGB § 779: gesetze-im-internet.de. NY Convention: newyorkconvention.org. Singap
 
 ## 3. `ihl-002-cisg-anwendungsbereich`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG.
+**Fokus:** Internationales Handelsrecht: CISG Anwendungsbereich nach Art. 1-13 CISG. Räumlicher Anwendungsbereich (Vertragsstaatenprinzip), sachlicher Ausschluss nach Art. 2 CISG (Verbraucher, Wertpapiere, Strom), und Lückenfüllung nach Art. 7 Abs. 2 CISG.
 
 # CISG Anwendungsbereich (Art. 1-13)
 
@@ -186,7 +186,7 @@ CISG-Text: uncitral.un.org. Rechtsprechungsdatenbank: CISG-online.ch, jusmundi.c
 
 ## 4. `ihl-003-cisg-ausschluss-und-rechtswahl`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung.
+**Fokus:** Internationales Handelsrecht: CISG Ausschluss nach Art. 6 CISG und Rechtswahl nach Rom I (EG) 593/2008. Formulierung wirksamer Ausschlussklauseln, Teilausschluss einzelner Artikel und Zusammenspiel mit nationaler Kaufrechtsergänzung.
 
 # CISG-Ausschluss und Rechtswahl
 

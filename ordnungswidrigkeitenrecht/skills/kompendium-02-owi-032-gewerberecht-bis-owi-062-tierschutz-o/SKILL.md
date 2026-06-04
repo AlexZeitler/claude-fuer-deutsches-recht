@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-owi-032-gewerberecht-bis-owi-062-tierschutz-o
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (owi-032-gewerberecht-frist-pruefen, owi-042-umwelt-owi-frist-pruefen, owi-052-lebensmittelrecht-frist-pruefen, owi-062-tierschutz-owi-frist-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 032 Gewerberecht Frist Pruefen, Owi 042 Umwelt Owi Frist Pruefen, Owi 052 Lebensmittelrecht Frist Pruefen, Owi 062 Tierschutz Owi Frist Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 032 Gewerberecht Frist Pruefen bis Owi 062 Tierschutz Owi Frist Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-032-gewerberecht-frist-pruefen` | Ordnungswidrigkeitenrecht: Gewerberecht: Frist prüfen. Frist prüfen für Gewerberecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-042-umwelt-owi-frist-pruefen` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Frist prüfen. Frist prüfen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-032-gewerberecht-frist-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Gewerberecht: Frist prüfen. Frist prüfen für Gewerberecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Gewerberecht: Frist prüfen. Frist prüfen für Gewerberecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Gewerberecht Frist Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-042-umwelt-owi-frist-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Frist prüfen. Frist prüfen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Frist prüfen. Frist prüfen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Umwelt Owi Frist Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-052-lebensmittelrecht-frist-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Frist prüfen. Frist prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Frist prüfen. Frist prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lebensmittelrecht Frist Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-062-tierschutz-owi-frist-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Frist prüfen. Frist prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Frist prüfen. Frist prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Frist Pruefen
 

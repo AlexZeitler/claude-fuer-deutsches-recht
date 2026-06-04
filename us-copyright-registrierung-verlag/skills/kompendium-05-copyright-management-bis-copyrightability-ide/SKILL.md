@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-copyright-management-bis-copyrightability-ide
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (copyright-management-info-1202, copyright-royalty-board-ch8, copyright-small-claims-ccb, copyrightability-idea-facts-methods) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Copyright Management Info 1202, Copyright Royalty Board Ch8, Copyright Small Claims Ccb, Copyrightability Idea Facts Methods; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Copyright Management Info 1202 bis Copyrightability Idea Facts Methods
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `copyright-management-info-1202` | Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente. |
 | `copyright-royalty-board-ch8` | Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `copyright-management-info-1202`
 
-**Frühere Beschreibung:** Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente.
+**Fokus:** Prueft Entfernen oder Fälschen von CMI, Metadaten, Wasserzeichen, Credits, AI-Content-Labels und Knowledge-Elemente.
 
 # Copyright Management Information § 1202
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `copyright-royalty-board-ch8`
 
-**Frühere Beschreibung:** Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen.
+**Fokus:** Prueft CRB-Verfahren, statutory rates, distribution proceedings, royalty claims und Musik-/Broadcast-Schnittstellen.
 
 # Copyright Royalty Board Chapter 8
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `copyright-small-claims-ccb`
 
-**Frühere Beschreibung:** Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung.
+**Fokus:** Prueft Copyright Small Claims, opt-out, damages cap, procedure, foreign claimant issues und taktische Eignung.
 
 # Copyright Claims Board CCB
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `copyrightability-idea-facts-methods`
 
-**Frühere Beschreibung:** Schutzgegenstand eingrenzen: Ideen, Methoden, Fakten, amtliche Texte, Tabellenlogik und bloße Daten von konkreter Ausdrucksgestaltung trennen.
+**Fokus:** Schutzgegenstand eingrenzen: Ideen, Methoden, Fakten, amtliche Texte, Tabellenlogik und bloße Daten von konkreter Ausdrucksgestaltung trennen.
 
 # Copyrightability, Ideen, Fakten und Methoden
 

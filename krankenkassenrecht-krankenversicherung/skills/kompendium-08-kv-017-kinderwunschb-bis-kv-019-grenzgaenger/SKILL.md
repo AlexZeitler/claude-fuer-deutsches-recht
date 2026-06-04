@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-kv-017-kinderwunschb-bis-kv-019-grenzgaenger
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (kv-017-kinderwunschbehandlung-ehe-alter-und-kostenquote, kv-018-auslandsbehandlung-eu-s2-formular-und-notfall, kv-019-grenzgaenger-auslandskrankenversicherung-und-koordinierun) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskrankenversicherung Und Koordinierun; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 017 Kinderwunschbehandlung Ehe Alter Und Kostenquote, Kv 018 Auslandsbehandlung Eu S2 Formular Und Notfall, Kv 019 Grenzgaenger Auslandskr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-017-kinderwunschbehandlung-ehe-alter-und-kostenquote` | GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch. |
 | `kv-018-auslandsbehandlung-eu-s2-formular-und-notfall` | GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, Notfallbehandlung, Kostenerstattung und EU-Patientenrechte-Richtlinie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-017-kinderwunschbehandlung-ehe-alter-und-kostenquote`
 
-**Frühere Beschreibung:** GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch.
+**Fokus:** GKV-Leistungen für Kinderwunschbehandlung (§ 27a SGB V): Eheerfordernis, Altersgrenzen, 50-%-Kostenquote, Versuche und Widerspruch.
 
 # Kinderwunschbehandlung: Ehe, Alter und Kostenquote
 
@@ -111,7 +111,7 @@ Dieser Skill klärt den **GKV-Anspruch auf Kinderwunschbehandlung**: Welche Paar
 
 ## 2. `kv-018-auslandsbehandlung-eu-s2-formular-und-notfall`
 
-**Frühere Beschreibung:** GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, Notfallbehandlung, Kostenerstattung und EU-Patientenrechte-Richtlinie.
+**Fokus:** GKV-Leistungen im Ausland: EHIC-Karte, S2-Genehmigungsverfahren, Notfallbehandlung, Kostenerstattung und EU-Patientenrechte-Richtlinie.
 
 # Auslandsbehandlung: EU, S2-Formular und Notfall
 
@@ -196,7 +196,7 @@ Dieser Skill klärt **GKV-Leistungen für Behandlungen im Ausland**: Notfallvers
 
 ## 3. `kv-019-grenzgaenger-auslandskrankenversicherung-und-koordinierun`
 
-**Frühere Beschreibung:** Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsverordnung 883/2004, S1-/S2-Formulare, Doppelversicherung und zuständige Träger.
+**Fokus:** Krankenversicherungsrecht für Grenzgänger, EU-Koordinierungsverordnung 883/2004, S1-/S2-Formulare, Doppelversicherung und zuständige Träger.
 
 # Grenzgänger, Auslandskrankenversicherung und Koordinierungsrecht
 

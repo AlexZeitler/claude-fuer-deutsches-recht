@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-top-generator-emotio-bis-wegh-bauliche-veraen
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (top-generator-emotion-zu-beschluss, verwalterpflichten-26-27-weg, wegh-bauliche-veraenderung-beschluss-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - weg-hausverwaltung
+# Arbeitsbereich - Top Generator Emotion Zu Beschluss, Verwalterpflichten 26 27 Weg, Wegh Bauliche Veraenderung Beschluss Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `top-generator-emotion-zu-beschluss` | Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine. |
 | `verwalterpflichten-26-27-weg` | Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `top-generator-emotion-zu-beschluss`
 
-**Frühere Beschreibung:** Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine.
+**Fokus:** Verwandelt ungeordnete Beschwerden, WhatsApp-Nachrichten, Eigentuemermails und Verwaltervermerke in sachliche Tagesordnungspunkte, Beschlussvorschlaege, Informations-TOPs und Protokollbausteine.
 
 # TOP-Generator - von Emotion zu Beschluss
 
@@ -88,7 +88,7 @@ Ist die Antwort handlungsorientiert, knapp, respektvoll, belegnah und ohne erfun
 
 ## 2. `verwalterpflichten-26-27-weg`
 
-**Frühere Beschreibung:** Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
+**Fokus:** Prüft Verwalterbestellung, Abberufung, Verwaltervertrag, Aufgaben und Befugnisse nach §§ 26 und 27 WEG (Stand 05/2026), laufende Verwaltung, Eilmaßnahmen, Vertretung der GdWE und Haftung; berücksichtigt BGH V ZR 34/24 (keine Schutzwirkung des Verwaltervertrags) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
 
 # Verwalterpflichten §§ 26, 27 WEG
 
@@ -177,7 +177,7 @@ Verwalterhandeln rechtssicher einordnen: Was darf der Verwalter allein, was brau
 
 ## 3. `wegh-bauliche-veraenderung-beschluss-spezial`
 
-**Frühere Beschreibung:** Spezialfall bauliche Veraenderung Beschluss WEG nach Reform: privilegierte Massnahmen, Kostenverteilung. Pruefraster fuer Verwalter und Eigentuemergemeinschaft.
+**Fokus:** Spezialfall bauliche Veraenderung Beschluss WEG nach Reform: privilegierte Massnahmen, Kostenverteilung. Pruefraster fuer Verwalter und Eigentuemergemeinschaft.
 
 # WEGh: Bauliche Veraenderung WEG
 

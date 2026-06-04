@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-vr-leistungsstoerung-bis-widerruf-fernabsatz
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (vr-leistungsstoerungen-spezial, widerruf-fernabsatz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - vertragsrecht
+# Arbeitsbereich - Vr Leistungsstoerungen Spezial, Widerruf Fernabsatz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vr-leistungsstoerungen-spezial` | Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Pruefraster. |
 | `widerruf-fernabsatz` | Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vr-leistungsstoerungen-spezial`
 
-**Frühere Beschreibung:** Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Pruefraster.
+**Fokus:** Spezialfall Leistungsstoerungen: Unmoeglichkeit § 275 BGB, Verzug § 286 BGB, Schlechtleistung mit Nacherfuellung § 439 / § 635 BGB. Rechtsfolgen Schadensersatz, Ruecktritt, Minderung. Pruefraster.
 
 # Vertragsrecht: Leistungsstoerungen
 
@@ -79,7 +79,7 @@ Dieser Skill gehoert zum Plugin `vertragsrecht`. Er ergaenzt die uebrigen Skills
 
 ## 2. `widerruf-fernabsatz`
 
-**Frühere Beschreibung:** Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft.
+**Fokus:** Unterstützt bei Fragen zum Widerrufsrecht im Fernabsatzrecht nach §§ 312g und 355 BGB: Belehrungspflichten, Fristberechnung, Rechtsfolgen des Widerrufs und Ausnahmen. Lädt, wenn ein Mandat Widerrufsbelehrung, Widerrufsdurchsetzung oder Rückabwicklung eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft.
 
 # Widerruf im Fernabsatz- und Außergeschäftsraumvertrag
 

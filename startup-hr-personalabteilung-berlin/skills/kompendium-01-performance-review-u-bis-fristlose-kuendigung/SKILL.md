@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-performance-review-u-bis-fristlose-kuendigung
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (performance-review-und-feedback, arbeitsvertrag-befristung-tzbfg, arbeitsvertrag-standard-unbefristet, fristentracker-befristung-probezeit-visa, fristlose-kuendigung-626-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Performance Review Und Feedback, Arbeitsvertrag Befristung Tzbfg, Arbeitsvertrag Standard Unbefristet, Fristentracker Befristung Probezeit Visa und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Performance Review Und Feedback bis Fristlose Kuendigung 626 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `performance-review-und-feedback` | Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `arbeitsvertrag-befristung-tzbfg` | Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `performance-review-und-feedback`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Performance Reviews: faire Kriterien, Bias-Check, Dokumentation, Gehaltsbezug, Entwicklungsplan und Low-Performer-Risiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Performance Review Und Feedback
 
@@ -88,7 +88,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `arbeitsvertrag-befristung-tzbfg`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Befristete Arbeitsverträge nach TzBfG: Sachgrund, sachgrundlos, Verlängerung, Schriftform, Risikoampel und Reminder. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Befristung TzBfG
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `arbeitsvertrag-standard-unbefristet`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Unbefristeten Arbeitsvertrag für Start-up-Rollen prüfen und entwerfen: NachwG, Probezeit, Vergütung, Remote, IP, Vertraulichkeit. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Arbeitsvertrag Standard Unbefristet
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `fristentracker-befristung-probezeit-visa`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Fristentracker für Befristung, Probezeit, Visa, Mutterschutz, BEM, Kündigungsschutzklage und Payroll-Deadlines. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Fristentracker Befristung Probezeit Visa
 
@@ -262,7 +262,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `fristlose-kuendigung-626-bgb`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Fristlose Kündigung nach § 626 BGB: Zwei-Wochen-Frist, wichtiger Grund, Anhörung, Beweise und Alternativen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Fristlose Kuendigung 626 BGB
 

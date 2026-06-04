@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-grundbuchamt-verlore-bis-grundbuchamt-vollstr
-description: "grundbuchamt-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (grundbuchamt-verlorene-genehmigung-und-ersatznachweis, grundbuchamt-verwalterzustimmung-weg, grundbuchamt-vollstreckungsunterwerfung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grundbuchamt-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grundbuchamt Verlorene Genehmigung Und Ersatznachweis, Grundbuchamt Verwalterzustimmung Weg, Grundbuchamt Vollstreckungsunterwerfung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - grundbuchamt-praxis
+# Arbeitsbereich - Grundbuchamt Verlorene Genehmigung Und Ersatznachweis, Grundbuchamt Verwalterzustimmung Weg, Grundbuchamt Vollstreckungsunterwerfung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grundbuchamt-verlorene-genehmigung-und-ersatznachweis` | Prüft, wie eine verlorene familiengerichtliche, betreuungsgerichtliche, sanierungsrechtliche oder behördliche Genehmigung grundbuchtauglich ersetzt oder erneut beschafft wird. |
 | `grundbuchamt-verwalterzustimmung-weg` | Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grundbuchamt-verlorene-genehmigung-und-ersatznachweis`
 
-**Frühere Beschreibung:** Prüft, wie eine verlorene familiengerichtliche, betreuungsgerichtliche, sanierungsrechtliche oder behördliche Genehmigung grundbuchtauglich ersetzt oder erneut beschafft wird.
+**Fokus:** Prüft, wie eine verlorene familiengerichtliche, betreuungsgerichtliche, sanierungsrechtliche oder behördliche Genehmigung grundbuchtauglich ersetzt oder erneut beschafft wird.
 
 # Verlorene Genehmigung und Ersatznachweis
 
@@ -62,7 +62,7 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 
 ## 2. `grundbuchamt-verwalterzustimmung-weg`
 
-**Frühere Beschreibung:** Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung.
+**Fokus:** Prüft Teilungserklärung, Verwalternachweis, Beschluss, Form und Nachreichung.
 
 # WEG-Verwalterzustimmung
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `grundbuchamt-vollstreckungsunterwerfung`
 
-**Frühere Beschreibung:** Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung.
+**Fokus:** Prüft § 800 ZPO-Schnittstelle, dingliche Unterwerfung, Klausel und Zustellung.
 
 # Unterwerfung und Vollstreckung
 

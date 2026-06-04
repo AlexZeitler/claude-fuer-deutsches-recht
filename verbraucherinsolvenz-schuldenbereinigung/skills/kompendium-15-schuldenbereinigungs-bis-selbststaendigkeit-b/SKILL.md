@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-schuldenbereinigungs-bis-selbststaendigkeit-b
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (schuldenbereinigungsplan-quote, schuldnerin-mit-immobilie, selbststaendigkeit-beendet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Schuldenbereinigungsplan Quote, Schuldnerin Mit Immobilie, Selbststaendigkeit Beendet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schuldenbereinigungsplan-quote` | Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `schuldnerin-mit-immobilie` | Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schuldenbereinigungsplan-quote`
 
-**Frühere Beschreibung:** Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.; Normanker: InsO §§ 305 und 307-309; ZPO §§ 850c ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Schuldenbereinigungsplan mit Quote: Einkommen, pfändbarer Betrag, Einmalzahlung, Drittmittel, Nullplan und dynamischer Plan.
 
@@ -69,7 +69,7 @@ InsO §§ 305, 307-309; ZPO §§ 850c ff.. Entscheidend ist immer der aktuelle N
 
 ## 2. `schuldnerin-mit-immobilie`
 
-**Frühere Beschreibung:** Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.; Normanker: InsO §§ 35 und 49; ZVG; BGB Sicherheiten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Schuldner mit Immobilie: Grundschuld, Teilungsversteigerung, freihändiger Verkauf, Wohnenbleiben und Masse.
 
@@ -110,7 +110,7 @@ InsO §§ 35, 49; ZVG; BGB Sicherheiten. Entscheidend ist immer der aktuelle Nor
 
 ## 3. `selbststaendigkeit-beendet`
 
-**Frühere Beschreibung:** Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.; Normanker: InsO § 304 Abs. 1 Satz 2; SGB IV; § 266a StGB als Risiko; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Beendete Selbstständigkeit: alte Gewerbeschulden, Arbeitnehmerforderungen, Krankenkassenbeiträge und Regelinsolvenzrisiko.
 

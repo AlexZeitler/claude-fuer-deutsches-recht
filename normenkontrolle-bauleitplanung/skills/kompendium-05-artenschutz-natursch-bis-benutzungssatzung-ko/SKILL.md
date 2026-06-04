@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-artenschutz-natursch-bis-benutzungssatzung-ko
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (artenschutz-naturschutz-planung, aufstellungsbeschluss-bekanntmachung, benutzungssatzung-kommunale-einrichtung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Artenschutz Naturschutz Planung, Aufstellungsbeschluss Bekanntmachung, Benutzungssatzung Kommunale Einrichtung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Artenschutz Naturschutz Planung, Aufstellungsbeschluss Bekanntmachung, Benutzungssatzung Kommunale Einrichtung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `artenschutz-naturschutz-planung` | Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb. |
 | `aufstellungsbeschluss-bekanntmachung` | Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identität ausgelegte und beschlossene Fassung Zuständigkeit Beschlussfähigkeit. Output: Verfahrensfehlerprüfung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `artenschutz-naturschutz-planung`
 
-**Frühere Beschreibung:** Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb.
+**Fokus:** Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzprüfung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Prüfraster: spezielle artenschutzrechtliche Prüfung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltprüfung (UVPG) und abwaegungsgebot-1-abs-7-baugb.
 
 # Artenschutz und Naturschutz in der Bauleitplanung
 
@@ -272,7 +272,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `aufstellungsbeschluss-bekanntmachung`
 
-**Frühere Beschreibung:** Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identität ausgelegte und beschlossene Fassung Zuständigkeit Beschlussfähigkeit. Output: Verfahrensfehlerprüfung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb.
+**Fokus:** Mandant prüft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Prüfraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identität ausgelegte und beschlossene Fassung Zuständigkeit Beschlussfähigkeit. Output: Verfahrensfehlerprüfung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb.
 
 # Aufstellungsbeschluss und Bekanntmachung
 
@@ -426,7 +426,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `benutzungssatzung-kommunale-einrichtung`
 
-**Frühere Beschreibung:** Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.; Normanker: VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
+**Fokus:** Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.; Normanker: VwGO § 47; Kommunalordnungen; Grundrechte; Gebührenrecht; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
 
 # Benutzungssatzungen kommunaler Einrichtungen: Markthalle, Friedhof, Kita, Bibliothek, Sportanlage, Hausrecht und Grundrechte.
 

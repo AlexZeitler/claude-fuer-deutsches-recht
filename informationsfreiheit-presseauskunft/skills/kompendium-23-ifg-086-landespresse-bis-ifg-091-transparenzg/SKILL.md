@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-ifg-086-landespresse-bis-ifg-091-transparenzg
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (ifg-086-landespressegesetz-tracking-aktualisie, ifg-087-transparenzgesetz-antrag-formulieren, ifg-090-transparenzgesetz-kosten-deckeln, ifg-091-transparenzgesetz-schwaerzung-angreife) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 086 Landespressegesetz Tracking Aktualisie, Ifg 087 Transparenzgesetz Antrag Formulieren, Ifg 090 Transparenzgesetz Kosten Deckeln, Ifg 091 Transparenzgesetz Schwaerzung Angreife; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 086 Landespressegesetz Tracking Aktualisie bis Ifg 091 Transparenzgesetz Schwaerzung Angreife
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-086-landespressegesetz-tracking-aktualisie` | Informationsfreiheit und Presseauskunft: Landespressegesetz: Tracking aktualisieren. Tracking aktualisieren für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-087-transparenzgesetz-antrag-formulieren` | Informationsfreiheit und Presseauskunft: Transparenzgesetz: Antrag formulieren. Antrag formulieren für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-086-landespressegesetz-tracking-aktualisie`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Tracking aktualisieren. Tracking aktualisieren für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Tracking aktualisieren. Tracking aktualisieren für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landespressegesetz Tracking Aktualisie
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-087-transparenzgesetz-antrag-formulieren`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Antrag formulieren. Antrag formulieren für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Antrag formulieren. Antrag formulieren für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Transparenzgesetz Antrag Formulieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-090-transparenzgesetz-kosten-deckeln`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Kosten deckeln. Kosten deckeln für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Kosten deckeln. Kosten deckeln für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Transparenzgesetz Kosten Deckeln
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-091-transparenzgesetz-schwaerzung-angreife`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Schwärzung angreifen. Schwärzung angreifen für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Transparenzgesetz: Schwärzung angreifen. Schwärzung angreifen für Transparenzgesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Transparenzgesetz Schwaerzung Angreife
 

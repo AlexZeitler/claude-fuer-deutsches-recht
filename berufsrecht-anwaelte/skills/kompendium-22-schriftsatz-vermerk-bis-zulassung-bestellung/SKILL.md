@@ -1,38 +1,36 @@
 ---
 name: kompendium-22-schriftsatz-vermerk-bis-zulassung-bestellung
-description: "berufsrecht-anwaelte: Konsolidiertes Skill-Kompendium 22; bündelt 7 frühere Spezialskills (schriftsatz-vermerk-und-mustertext, sitzungs-und-terminvorbereitung, syndikus-oder-inhouse, treuhand-oder-fremdgeld, verschwiegenheit-und-geheimnisschutz und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-anwaelte: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Schriftsatz Vermerk Und Mustertext, Sitzungs Und Terminvorbereitung, Syndikus Oder Inhouse, Treuhand Oder Fremdgeld; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - berufsrecht-anwaelte
+# Arbeitsbereich - Schriftsatz Vermerk Und Mustertext bis Treuhand Oder Fremdgeld
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `sitzungs-und-terminvorbereitung` | Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Anwälte; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `syndikus-oder-inhouse` | Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `treuhand-oder-fremdgeld` | Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Anwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
-| `verschwiegenheit-und-geheimnisschutz` | Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
-| `werbung-und-aussenauftritt` | Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Anwälte; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
-| `zulassung-bestellung-und-register` | Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schriftsatz-vermerk-und-mustertext`
 
-**Frühere Beschreibung:** Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Schriftsatz, Vermerk und Mustertext: vertiefter Berufsrechts-Skill für Anwälte; prüft liefert einen belastbaren ersten Entwurf mit offenen Punkten, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
 
 # Schriftsatz, Vermerk und Mustertext
 
@@ -82,7 +80,8 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `sitzungs-und-terminvorbereitung`
 
-**Frühere Beschreibung:** Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Anwälte; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Sitzungs- und Terminvorbereitung: vertiefter Berufsrechts-Skill für Anwälte; prüft bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
 
 # Sitzungs- und Terminvorbereitung
 
@@ -132,7 +131,8 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `syndikus-oder-inhouse`
 
-**Frühere Beschreibung:** Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Syndikus oder Inhouse: vertiefter Berufsrechts-Skill für Anwälte; prüft Syndikus oder Inhouse im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
 
 # Syndikus oder Inhouse
 
@@ -182,7 +182,8 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `treuhand-oder-fremdgeld`
 
-**Frühere Beschreibung:** Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Anwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Treuhand oder Fremdgeld: vertiefter Berufsrechts-Skill für Anwälte; prüft Treuhand oder Fremdgeld im Berufsrecht für Anwälte, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+
 
 # Treuhand oder Fremdgeld
 
@@ -198,156 +199,6 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
 
 **Fokus:** Treuhand oder Fremdgeld im Berufsrecht für Anwälte
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, StPO/ZPO Schnittstellen und Kammerhinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 5. `verschwiegenheit-und-geheimnisschutz`
-
-**Frühere Beschreibung:** Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Anwälte; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
-
-# Verschwiegenheit und Geheimnisschutz
-
-## Fachkern: Verschwiegenheit und Geheimnisschutz
-- **Spezialgegenstand:** Verschwiegenheit und Geheimnisschutz; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
-- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
-
-**Fokus:** Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, StPO/ZPO Schnittstellen und Kammerhinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 6. `werbung-und-aussenauftritt`
-
-**Frühere Beschreibung:** Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Anwälte; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
-
-# Werbung und Außenauftritt
-
-## Fachkern: Werbung und Außenauftritt
-- **Spezialgegenstand:** Werbung und Außenauftritt; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
-- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
-
-**Fokus:** Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit
-
-## Kaltstart in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, StPO/ZPO Schnittstellen und Kammerhinweise live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge je nach Auftrag: Berufsrechtsmemo, Kammerantwort, Konfliktcheck, Organisationsanweisung, Vertragsklausel, Fristenblatt oder Verteidigungslinie. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 7. `zulassung-bestellung-und-register`
-
-**Frühere Beschreibung:** Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Anwälte; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
-
-# Zulassung, Bestellung und Register
-
-## Fachkern: Zulassung, Bestellung und Register
-- **Spezialgegenstand:** Zulassung, Bestellung und Register; der Skill muss die konkrete Fachfrage tragen und nicht nur in einen allgemeinen Startdialog zurückfallen.
-- **Normen-/Quellenanker:** BRAO, BORA, FAO, RVG, RDG, GwG, beA, Verschwiegenheit, Interessenkollision und Anwaltsgerichtsbarkeit.
-- **Entscheidende Weiche:** Pflichtnorm, Mandatsrolle, Verschulden, Kammerverfahren, Reputationsrisiko, Rechtsbehelf und milderes Organisationsmittel trennen.
-- **Arbeitsprodukt:** Liefere eine fallbezogene `Norm / Tatsache / Beleg / Wertung / Gegenargument / nächster Schritt`-Matrix und einen direkt nutzbaren Textbaustein, wenn der Nutzer einen Entwurf braucht.
-
-
-## Einsatz
-
-Nutze diesen Skill im Plugin **Berufsrecht Anwälte**, wenn die Akte, der Nutzer oder der Kaltstart auf dieses Thema zeigt. Arbeite nicht wie ein Lehrbuch, sondern wie ein sorgfältiger Praxisbegleiter: erst ordnen, dann prüfen, dann ein verwertbares Arbeitsprodukt liefern.
-
-**Fokus:** Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken
 
 ## Kaltstart in fünf Schritten
 

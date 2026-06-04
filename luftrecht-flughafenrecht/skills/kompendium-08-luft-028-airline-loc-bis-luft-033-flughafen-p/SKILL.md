@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-luft-028-airline-loc-bis-luft-033-flughafen-p
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (luft-028-airline-local-counsel-briefen, luft-029-airline-dashboard-bauen, luft-030-airline-mandantenmemo-schreiben, luft-032-flughafen-register-auswerten, luft-033-flughafen-pfandrecht-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 028 Airline Local Counsel Briefen, Luft 029 Airline Dashboard Bauen, Luft 030 Airline Mandantenmemo Schreiben, Luft 032 Flughafen Register Auswerten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 028 Airline Local Counsel Briefen bis Luft 033 Flughafen Pfandrecht Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-028-airline-local-counsel-briefen` | Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Airline-Mandat briefen: Arrest Insolvenz Cape-Town oder Betriebsgenehmigung. Skill erstellt strukturiertes englisches Briefing-Memo mit Sachverhalt deutschem Rechtsrahmen Cape-Town-Status IDERA und konkreten Fragen an Local Counsel. |
 | `luft-029-airline-dashboard-bauen` | Kanzlei oder Mandant braucht operatives Airline-Dashboard fuer laufendes Mandat: Genehmigungsstatus Flotte Slots Sicherheitsauflagen Insolvenzrisiko. Skill strukturiert Datenquellen LBA EU-VO 1008/2008 Art. 9 Fluko ICAO-Register und liefert befuellbares Dashboard-Template mit Aktualisierungs-Checkliste. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-028-airline-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Airline-Mandat briefen: Arrest Insolvenz Cape-Town oder Betriebsgenehmigung. Skill erstellt strukturiertes englisches Briefing-Memo mit Sachverhalt deutschem Rechtsrahmen Cape-Town-Status IDERA und konkreten Fragen an Local Counsel.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Airline-Mandat briefen: Arrest Insolvenz Cape-Town oder Betriebsgenehmigung. Skill erstellt strukturiertes englisches Briefing-Memo mit Sachverhalt deutschem Rechtsrahmen Cape-Town-Status IDERA und konkreten Fragen an Local Counsel.
 
 # Airline – Local Counsel briefen
 
@@ -123,7 +123,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 2. `luft-029-airline-dashboard-bauen`
 
-**Frühere Beschreibung:** Kanzlei oder Mandant braucht operatives Airline-Dashboard fuer laufendes Mandat: Genehmigungsstatus Flotte Slots Sicherheitsauflagen Insolvenzrisiko. Skill strukturiert Datenquellen LBA EU-VO 1008/2008 Art. 9 Fluko ICAO-Register und liefert befuellbares Dashboard-Template mit Aktualisierungs-Checkliste.
+**Fokus:** Kanzlei oder Mandant braucht operatives Airline-Dashboard fuer laufendes Mandat: Genehmigungsstatus Flotte Slots Sicherheitsauflagen Insolvenzrisiko. Skill strukturiert Datenquellen LBA EU-VO 1008/2008 Art. 9 Fluko ICAO-Register und liefert befuellbares Dashboard-Template mit Aktualisierungs-Checkliste.
 
 # Airline – Dashboard bauen
 
@@ -217,7 +217,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 3. `luft-030-airline-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Airline zu komplexem Luftrechtsfall: Genehmigungsrisiko Sicherheitsauflage Slot-Verlust oder Insolvenznaehe. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung und liefert fertigen Memo-Baustein mit Nächste-Schritte-Tabelle.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Airline zu komplexem Luftrechtsfall: Genehmigungsrisiko Sicherheitsauflage Slot-Verlust oder Insolvenznaehe. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung und liefert fertigen Memo-Baustein mit Nächste-Schritte-Tabelle.
 
 # Airline – Mandantenmemo schreiben
 
@@ -311,7 +311,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 4. `luft-032-flughafen-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht.
+**Fokus:** Mandant will Grundbuch Liegenschaftsregister und LuftVG-Genehmigungshistorie eines Flughafens auswerten. Skill prueft LuftVG § 6 Genehmigungsurkunde Planfeststellungsbeschluss Grundbuch und FluglaermG-Zoneneinteilung und liefert strukturierten Genehmigungsstatus-Bericht.
 
 # Flughafen – Register auswerten
 
@@ -405,7 +405,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 5. `luft-033-flughafen-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung.
+**Fokus:** Kreditgeber will Sicherheiten an Flughafen-Infrastruktur bestellen. Skill prueft Grundbuchrecht Hypothek Grundschuld GBO LuftVG-Betreiberpflichten und Abgrenzung vom Luftfahrzeugpfandrecht und liefert Sicherungsstrategie-Vermerk fuer Flughafen-Finanzierung.
 
 # Flughafen – Pfandrecht vorbereiten
 

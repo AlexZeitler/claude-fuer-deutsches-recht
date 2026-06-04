@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-recordation-transfer-bis-rights-and-permissio
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (recordation-transfer-security-interest, refusal-reconsideration-escalation, repeat-infringer-policy-512, rights-and-permissions-public-record) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recordation Transfer Security Interest, Refusal Reconsideration Escalation, Repeat Infringer Policy 512, Rights And Permissions Public Record; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Recordation Transfer Security Interest bis Rights And Permissions Public Record
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recordation-transfer-security-interest` | Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen. |
 | `refusal-reconsideration-escalation` | Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recordation-transfer-security-interest`
 
-**Frühere Beschreibung:** Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen.
+**Fokus:** Recordation von Transfers und Dokumenten: Rechteübertragungen, Sicherheiten, Verlagskauf, Backlist-Erwerb und US-Record-Strategie prüfen.
 
 # Recordation von Transfers und Sicherheiten
 
@@ -73,7 +73,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `refusal-reconsideration-escalation`
 
-**Frühere Beschreibung:** Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen.
+**Fokus:** Refusal, Reconsideration und Eskalation: Ablehnungsgründe verstehen, Nachweise ordnen, Fristen prüfen und US-Counsel gezielt briefen.
 
 # Refusal, Reconsideration und Eskalation
 
@@ -117,7 +117,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `repeat-infringer-policy-512`
 
-**Frühere Beschreibung:** Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken.
+**Fokus:** Prueft angemessene Repeat-Infringer-Policy, Umsetzung, Account-Termination, Knowledge und Red-Flag-Risiken.
 
 # Repeat Infringer Policy
 
@@ -185,7 +185,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `rights-and-permissions-public-record`
 
-**Frühere Beschreibung:** Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren.
+**Fokus:** Rights-and-Permissions-Kontakt und Public Record: Kontaktdaten, Datenschutz, Verlagsadresse, Pseudonyme und spätere Anfragen kontrollieren.
 
 # Rights and Permissions und Public Record
 

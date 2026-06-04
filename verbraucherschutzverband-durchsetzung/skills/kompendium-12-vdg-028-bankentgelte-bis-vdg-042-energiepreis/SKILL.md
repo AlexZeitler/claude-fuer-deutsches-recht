@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-vdg-028-bankentgelte-bis-vdg-042-energiepreis
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (vdg-028-bankentgelte-umsetzung-ueberwachen, vdg-030-bankentgelte-risiko-rot-markieren, vdg-041-energiepreiserhoehung-sammelfaehigkeit, vdg-042-energiepreiserhoehung-klageschrift-str) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 028 Bankentgelte Umsetzung Ueberwachen, Vdg 030 Bankentgelte Risiko Rot Markieren, Vdg 041 Energiepreiserhoehung Sammelfaehigkeit, Vdg 042 Energiepreiserhoehung Klageschrift Str; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 028 Bankentgelte Umsetzung Ueberwachen bis Vdg 042 Energiepreiserhoehung Klageschrift Str
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-028-bankentgelte-umsetzung-ueberwachen` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Umsetzung überwachen. Umsetzung überwachen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-030-bankentgelte-risiko-rot-markieren` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Risiko rot markieren. Risiko rot markieren für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-028-bankentgelte-umsetzung-ueberwachen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Umsetzung überwachen. Umsetzung überwachen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Umsetzung überwachen. Umsetzung überwachen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Umsetzung Ueberwachen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-030-bankentgelte-risiko-rot-markieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Risiko rot markieren. Risiko rot markieren für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Risiko rot markieren. Risiko rot markieren für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Risiko Rot Markieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-041-energiepreiserhoehung-sammelfaehigkeit`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Sammelfaehigkeit
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-042-energiepreiserhoehung-klageschrift-str`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Klageschrift strukturieren. Klageschrift strukturieren für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Klageschrift strukturieren. Klageschrift strukturieren für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Klageschrift Str
 

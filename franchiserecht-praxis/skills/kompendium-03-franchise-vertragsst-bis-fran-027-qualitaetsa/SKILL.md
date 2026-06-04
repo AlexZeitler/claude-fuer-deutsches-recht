@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-franchise-vertragsst-bis-fran-027-qualitaetsa
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (franchise-vertragsstruktur-master-unit, franchise-vorvertragliche-aufklaerung-bgh, fran-027-qualitaetsaudit-filiale-und-sanktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - franchiserecht-praxis
+# Arbeitsbereich - Franchise Vertragsstruktur Master Unit, Franchise Vorvertragliche Aufklaerung Bgh, Fran 027 Qualitaetsaudit Filiale Und Sanktionen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `franchise-vertragsstruktur-master-unit` | Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster. |
 | `franchise-vorvertragliche-aufklaerung-bgh` | Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `franchise-vertragsstruktur-master-unit`
 
-**Frühere Beschreibung:** Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster.
+**Fokus:** Franchise: Vertragsstruktur Master-Agreement und Unit-Agreements. Skill behandelt die hierarchische Vertragsstruktur in internationalen Franchise-Systemen Master-Franchisee Sub-Franchisee Anpassung an nationales Recht. Klaert das Spannungsverhaeltnis zwischen einheitlichem System und lokaler Marktverhaeltnis. Liefert Pruefraster.
 
 # Franchise Vertragsstruktur Master Unit
 
@@ -77,7 +77,7 @@ Skill fuer Master-Franchise-Strukturen.
 
 ## 2. `franchise-vorvertragliche-aufklaerung-bgh`
 
-**Frühere Beschreibung:** Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss.
+**Fokus:** Franchise: vorvertragliche Aufklaerungspflichten. Skill klaert den Umfang der Pflicht des Franchisegebers den potenziellen Franchisenehmer rechtzeitig vor Vertragsschluss vollstaendig ueber Marktstellung Vergangenheitsdaten Investitionsrueckfluss Risiken und Wettbewerbssituation aufzuklaeren. BGH-Linie zur Pruefungsdichte und Schadensersatz bei Aufklaerungsverstoss.
 
 # Franchise Vorvertragliche Aufklaerung Bgh
 
@@ -133,7 +133,7 @@ Skill fuer vorvertragliche Aufklaerungspflichten im Franchise.
 
 ## 3. `fran-027-qualitaetsaudit-filiale-und-sanktionen`
 
-**Frühere Beschreibung:** Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde.
+**Fokus:** Qualitätsaudit im Franchisesystem rechtskonform durchführen: Zutrittsrechte, Dokumentationspflichten, Vertragsstrafen nach § 307 BGB, Verhältnismässigkeit von Sanktionen und Rechtsschutz des Franchisenehmers gegen unberechtigte Auditbefunde.
 
 # Franchiserecht: Qualitätsaudit, Filialprüfung und Sanktionen
 

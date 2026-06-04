@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vifr-aeg-bahnrecht-l-bis-vifr-luftverkehrsrec
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (vifr-aeg-bahnrecht-leitfaden, vifr-deutschlandticket-tarifrecht-spezial, vifr-luftverkehrsrecht-flughafen-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vifr Aeg Bahnrecht Leitfaden, Vifr Deutschlandticket Tarifrecht Spezial, Vifr Luftverkehrsrecht Flughafen Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Vifr Aeg Bahnrecht Leitfaden, Vifr Deutschlandticket Tarifrecht Spezial, Vifr Luftverkehrsrecht Flughafen Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vifr-aeg-bahnrecht-leitfaden` | Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster fuer EVU und EIU. |
 | `vifr-deutschlandticket-tarifrecht-spezial` | Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Laender, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster fuer Verbraucherzentrale und Verkehrsverbund. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vifr-aeg-bahnrecht-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster fuer EVU und EIU.
+**Fokus:** Leitfaden AEG und Bahnrecht: Eisenbahninfrastruktur, Trassenvergabe, Netzzugang, EBA als Aufsicht. Pruefraster fuer EVU und EIU.
 
 # ViFR: AEG-Bahnrecht
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `verkehr-infrastrukturrecht`. Er ergaenzt die ue
 
 ## 2. `vifr-deutschlandticket-tarifrecht-spezial`
 
-**Frühere Beschreibung:** Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Laender, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster fuer Verbraucherzentrale und Verkehrsverbund.
+**Fokus:** Spezialfall Deutschlandticket und Tarifrecht OePNV: Finanzierungsvereinbarungen Bund-Laender, AGB Verkehrsverbund, Verbraucherrechte. Pruefraster fuer Verbraucherzentrale und Verkehrsverbund.
 
 # ViFR: Deutschlandticket Tarifrecht
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `verkehr-infrastrukturrecht`. Er ergaenzt die ue
 
 ## 3. `vifr-luftverkehrsrecht-flughafen-spezial`
 
-**Frühere Beschreibung:** Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster fuer Flughafenbetreiber und Anwohner.
+**Fokus:** Spezialfall Luftverkehrsrecht und Flughafenausbau: Planfeststellung LuftVG, Nachtflug, Anwohnerklagen, EU-Slot-VO. Pruefraster fuer Flughafenbetreiber und Anwohner.
 
 # ViFR: Luftverkehr Flughafen
 

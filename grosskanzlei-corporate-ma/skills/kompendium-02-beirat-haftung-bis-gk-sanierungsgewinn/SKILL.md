@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-beirat-haftung-bis-gk-sanierungsgewinn
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 02; bündelt 7 frühere Spezialskills (beirat-haftung, gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik, gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf, gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften, gk-sanierungsgewinn-konzern-und-cross-border und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Haftung, Gk Sanierungsgewinn Debt Equity Swap Und Spa Mechanik, Gk Sanierungsgewinn Fruehe Mandantsteuerung Q Minus Zwoelf, Gk Sanierungsgewinn Im Bond Restructuring Finanzgesellschaften und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Beirat Haftung bis Gk Sanierungsgewinn Tax Warranty Und Tax Indemnity Im Spa
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-haftung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik` | Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-haftung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -98,7 +98,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gk-sanierungsgewinn-debt-equity-swap-und-spa-mechanik`
 
-**Frühere Beschreibung:** Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026.
+**Fokus:** Debt-Equity-Swap (DES) als Bestandteil einer M&A-Transaktion mit Sanierungsgewinn-Bezug. Beschreibt die Mechanik des DES, die steuerlichen Wirkungen auf Schuldnerseite (Sanierungsertrag, § 3a EStG) und Gläubigerseite (Forderungseinbringung, Werthaltigkeit), die gesellschaftsrechtliche Umsetzung (Kapitalherabsetzung, Kapitalerhöhung, Sacheinlage) und die Einbindung in die SPA-Architektur. Adressat ist das Großkanzlei-Team in Transaktion und Restrukturierung. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Debt-Equity-Swap und SPA-Mechanik
 
@@ -236,7 +236,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `gk-sanierungsgewinn-fruehe-mandantsteuerung-q-minus-zwoelf`
 
-**Frühere Beschreibung:** Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026.
+**Fokus:** Q-12-Frühwarn-Skill für Großkanzlei-Mandate mit absehbarem Sanierungsbedarf. Steuert die Mandantenkommunikation zwölf Monate vor der formellen Anzeige eines Restrukturierungsplans oder StaRUG-Verfahrens und bindet die Steuerseite (§ 3a EStG / § 7b GewStG / § 8c und § 8d KStG) frühzeitig ein. Adressat ist die Sozietät als Sparringspartner des CFO und Tax Director. Liefert Zeitachse Q-12 bis Q+6, Stakeholder-Map, Mandantenmemo und Beratungs-Roadmap. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Frühe Mandantsteuerung Q-12
 
@@ -384,7 +384,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `gk-sanierungsgewinn-im-bond-restructuring-finanzgesellschaften`
 
-**Frühere Beschreibung:** Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026.
+**Fokus:** Sanierungsgewinn in Bond-Restrukturierungen und bei Finanzgesellschaften. Behandelt die Besonderheiten der Anleihegläubiger-Strukturen, das Schuldverschreibungsgesetz, Mehrheitsentscheidungen der Anleihegläubigerversammlung, Lock-up Agreements, Schemes of Arrangement nach englischem Recht und die steuerlichen Wirkungen des Forderungsverzichts auf Schuldnerseite. Liefert Strukturraster, Plan-Klauseln und Verhandlungstaktik für Bond-Restrukturierungen. Adressat ist das Kapitalmarkt- und Restrukturierungsteam der Großkanzlei. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Bond Restructuring und Finanzgesellschaften
 
@@ -551,7 +551,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `gk-sanierungsgewinn-konzern-und-cross-border`
 
-**Frühere Beschreibung:** Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026.
+**Fokus:** Sanierungsgewinn in Konzernstrukturen und bei grenzüberschreitenden Sanierungen. Behandelt Forderungsverzichte zwischen Konzerngesellschaften, organschaftliche Verflechtungen, Verlustnutzung im internationalen Konzern, Wechselwirkung mit dem Außensteuergesetz, ATAD und EU-Beihilferecht. Liefert Strukturraster, Risiko-Marker für Cross-Border-Restrukturierung und Klauselbausteine. Adressat ist das Großkanzlei-Team in Konzern-Restrukturierungen und Multi-Jurisdiktions-Mandaten. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Konzern und Cross-Border
 
@@ -689,7 +689,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `gk-sanierungsgewinn-private-equity-und-managementbeteiligung`
 
-**Frühere Beschreibung:** Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von § 8c KStG auf die Verlustvorträge nach Investoren-Einstieg. Liefert Strukturraster, MEP-Klauseln und SPA-Mustertexte. Adressat ist das PE-Team der Großkanzlei. Quellen Stand 06/2026.
+**Fokus:** Sanierungsgewinn im PE-Mandat. Adressiert PE-Investoren in der Rolle des Sanierungserwerbers oder Sanierungsexits, das Zusammenspiel von Management Equity Plan (MEP) und Sanierungsertrag, die steuerliche Behandlung von Sweet Equity und Management-Carried-Interest und die Wirkung von § 8c KStG auf die Verlustvorträge nach Investoren-Einstieg. Liefert Strukturraster, MEP-Klauseln und SPA-Mustertexte. Adressat ist das PE-Team der Großkanzlei. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Private Equity und Managementbeteiligung
 
@@ -848,7 +848,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `gk-sanierungsgewinn-tax-warranty-und-tax-indemnity-im-spa`
 
-**Frühere Beschreibung:** Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach § 3a Abs. 3 EStG den Verlustvortrag aufzehrt oder dass die verbindliche Auskunft nicht erteilt wird. Liefert Klauselbausteine, Trade-off-Matrix und Verhandlungstaktik. Adressat ist das SPA-Drafting-Team der Großkanzlei. Quellen Stand 06/2026.
+**Fokus:** Strukturierung von Tax Warranty und Tax Indemnity im SPA für Transaktionen mit Sanierungsgewinn-Risiko nach § 3a EStG. Adressiert die Verteilung des Risikos zwischen Verkäufer und Käufer für den Fall, dass die Steuerbefreiung versagt wird, dass die zwingende Verrechnungsreihenfolge nach § 3a Abs. 3 EStG den Verlustvortrag aufzehrt oder dass die verbindliche Auskunft nicht erteilt wird. Liefert Klauselbausteine, Trade-off-Matrix und Verhandlungstaktik. Adressat ist das SPA-Drafting-Team der Großkanzlei. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Tax Warranty und Tax Indemnity im SPA
 

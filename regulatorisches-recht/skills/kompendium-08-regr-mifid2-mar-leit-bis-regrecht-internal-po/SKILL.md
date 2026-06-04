@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-regr-mifid2-mar-leit-bis-regrecht-internal-po
-description: "regulatorisches-recht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (regr-mifid2-mar-leitfaden, regrecht-einfuehrung-sektoren, regrecht-internal-policies-design) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "regulatorisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - regulatorisches-recht
+# Arbeitsbereich - Regr Mifid2 Mar Leitfaden, Regrecht Einfuehrung Sektoren, Regrecht Internal Policies Design
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `regr-mifid2-mar-leitfaden` | Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster fuer Emittent und Wertpapierdienstleister. |
 | `regrecht-einfuehrung-sektoren` | Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, Pharma, Lebensmittel. Pro Sektor: Aufsicht, Kernnormen, Lizenzpflicht, typische Compliance-Aufgaben. Entscheidungstabelle und Verweis auf passende Detail-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `regr-mifid2-mar-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster fuer Emittent und Wertpapierdienstleister.
+**Fokus:** Leitfaden MiFID II und MAR: Wohlverhaltenspflichten, Suitability, Ad-hoc-Publizitaet, Insiderrecht. Pruefraster fuer Emittent und Wertpapierdienstleister.
 
 # RegR: MiFID II MAR
 
@@ -141,7 +141,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 
 ## 2. `regrecht-einfuehrung-sektoren`
 
-**Frühere Beschreibung:** Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, Pharma, Lebensmittel. Pro Sektor: Aufsicht, Kernnormen, Lizenzpflicht, typische Compliance-Aufgaben. Entscheidungstabelle und Verweis auf passende Detail-Skills.
+**Fokus:** Einfuehrung regulatorisches Recht in den wichtigsten Sektoren: Bank, Versicherung, Energie, Telekommunikation, Verkehr, Pharma, Lebensmittel. Pro Sektor: Aufsicht, Kernnormen, Lizenzpflicht, typische Compliance-Aufgaben. Entscheidungstabelle und Verweis auf passende Detail-Skills.
 
 # Regrecht: Sektoren-Einfuehrung
 
@@ -193,7 +193,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 
 ## 3. `regrecht-internal-policies-design`
 
-**Frühere Beschreibung:** Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate fuer Bank- und Versicherungskonzerne.
+**Fokus:** Internal Policies regulatorisch design: Hierarchie (Konzernrichtlinie, Tochterrichtlinie, Arbeitsanweisung, Verfahrensbeschreibung), Pflichtbestandteile, Versionierung, Verteilung, Schulung, Wirksamkeitsmessung. Mustertemplate fuer Bank- und Versicherungskonzerne.
 
 # Regrecht: Internal Policies
 

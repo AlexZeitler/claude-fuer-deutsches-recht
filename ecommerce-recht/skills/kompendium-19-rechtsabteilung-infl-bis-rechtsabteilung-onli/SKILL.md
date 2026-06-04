@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-rechtsabteilung-infl-bis-rechtsabteilung-onli
-description: "ecommerce-recht: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (rechtsabteilung-influencer-und-affiliate-shop, rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation, rechtsabteilung-online-marktplatz-nach-dsa) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ecommerce-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Influencer Und Affiliate Shop, Omnibus Preisangaben Und Rabattkommunikation, Online Marktplatz Nach Dsa; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - ecommerce-recht
+# Arbeitsbereich - Influencer Und Affiliate Shop, Omnibus Preisangaben Und Rabattkommunikation, Online Marktplatz Nach Dsa
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-influencer-und-affiliate-shop` | Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation` | Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-influencer-und-affiliate-shop`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Influencer- und Affiliate-Shop: Affiliate-Links, Reviews und Gratisprodukte werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Influencer- und Affiliate-Shop
 
@@ -75,7 +75,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-omnibus-preisangaben-und-rabattkommunikation`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Omnibus-Preisangaben und Rabattkommunikation: Rabatte, Streichpreise und personalisierte Preise werden schnell geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Omnibus-Preisangaben und Rabattkommunikation
 
@@ -122,7 +122,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-online-marktplatz-nach-dsa`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Online-Marktplatz nach DSA: Notice-and-Action, Trader Traceability und Rankingtransparenz werden operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Online-Marktplatz nach DSA
 

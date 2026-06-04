@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-kaufrecht-right-to-r-bis-kaufrecht-updates-si
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (kaufrecht-right-to-repair-und-nacherfuellung, kaufrecht-sachmangel-paragraph-434, kaufrecht-updates-sicherheitsupdates-327f-475b) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327f 475b; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - bgb-bt-pruefer
+# Arbeitsbereich - Kaufrecht Right To Repair Und Nacherfuellung, Kaufrecht Sachmangel Paragraph 434, Kaufrecht Updates Sicherheitsupdates 327f 475b
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kaufrecht-right-to-repair-und-nacherfuellung` | Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf. |
 | `kaufrecht-sachmangel-paragraph-434` | Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kaufrecht-right-to-repair-und-nacherfuellung`
 
-**Frühere Beschreibung:** Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf.
+**Fokus:** Prüft Right to Repair EU-Recht, Nacherfüllungsrecht § 439 BGB und Reparaturpflichten bei Verbrauchsgüterkauf.
 
 # Kaufrecht: Right to Repair und Nacherfüllung
 
@@ -119,7 +119,7 @@ Recht auf Reparatur nach EU-Recht (Right to Repair RL 2024) und Nacherfüllungsr
 
 ## 2. `kaufrecht-sachmangel-paragraph-434`
 
-**Frühere Beschreibung:** Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung.
+**Fokus:** Prüft Sachmangel § 434 BGB: subjektive, objektive und Montageanforderungen; Aliud-Lieferung.
 
 # Kaufrecht: Sachmangel § 434 BGB
 
@@ -210,7 +210,7 @@ Sachmangel nach § 434 BGB vollständig prüfen: subjektive, objektive und monta
 
 ## 3. `kaufrecht-updates-sicherheitsupdates-327f-475b`
 
-**Frühere Beschreibung:** Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen.
+**Fokus:** Prüft Update- und Sicherheitsupdatepflichten §§ 327f und 475b BGB bei digitalen Produkten und Ware mit digitalen Elementen.
 
 # Kaufrecht: Updates und Sicherheitsupdates §§ 327f und 475b BGB
 

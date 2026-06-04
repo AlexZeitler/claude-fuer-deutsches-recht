@@ -1,32 +1,32 @@
 ---
 name: kompendium-16-zivilrecht-anspruchs-bis-zivilrecht-anspruchs
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 16; bündelt 1 frühere Spezialskills (zivilrecht-anspruchsgrundlagen-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill zu Zivilrecht Anspruchsgrundlagen Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - hausarbeitenmacher
+# Arbeitsbereich - Zivilrecht Anspruchsgrundlagen Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zivilrecht-anspruchsgrundlagen-pruefung` | Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Prüfraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchsprüfungs-Schema Begründung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und öffentliches-recht-statthaft (Verwaltungsrecht). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zivilrecht-anspruchsgrundlagen-pruefung`
 
-**Frühere Beschreibung:** Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Prüfraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchsprüfungs-Schema Begründung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und öffentliches-recht-statthaft (Verwaltungsrecht).
+**Fokus:** Student prüft zivilrechtliche Ansprüche in der Hausarbeit: Reihenfolge V-C-G-D-D-B Vertrag culpa in contrahendo GoA dinglich Delikt Bereicherung. Prüfungsschemata je Anspruchsgrundlage §§ 433 280 823 812 BGB. Prüfraster Anspruchsgrundlagen-Reihenfolge Spezialitaet Konkurrenzen lex specialis. Output Anspruchsprüfungs-Schema Begründung. Abgrenzung zu strafrecht-tatbestand (Strafrecht) und öffentliches-recht-statthaft (Verwaltungsrecht).
 
 # Zivilrecht — Anspruchsgrundlagen-Prüfung
 

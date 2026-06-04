@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-zvg-versicherungen-g-bis-zvg-verteilungsplan
-description: "zwangsverwaltung-zvg: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (zvg-versicherungen-gefahren, zvg-versteigerungsteilnahme, zvg-verteilungsplan-155) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsverwaltung-zvg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - zwangsverwaltung-zvg
+# Arbeitsbereich - Zvg Versicherungen Gefahren, Zvg Versteigerungsteilnahme, Zvg Verteilungsplan 155
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zvg-versicherungen-gefahren` | Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Prüfraster Gebaeudeversicherung Haftpflicht Beitragsrückstaende Schadenmeldung Deckungsprüfung Notmassnahmen Sicherung. Output Versicherungsprüfbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenführung. |
 | `zvg-versteigerungsteilnahme` | Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversagung. Prüfraster Ausweis Vertretung Sicherheitsleistung geringstes Gebot Bietstrategie Zuschlagsgrenzen Protokoll Nachbereitung. Output Teilnahme-Checkliste mit Bietlimit Sicherheitsleistungsnachweis und Nachbereitungsprotokoll. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-portal-recherche. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zvg-versicherungen-gefahren`
 
-**Frühere Beschreibung:** Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Prüfraster Gebaeudeversicherung Haftpflicht Beitragsrückstaende Schadenmeldung Deckungsprüfung Notmassnahmen Sicherung. Output Versicherungsprüfbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenführung.
+**Fokus:** Versicherungsschutz und Gefahrenabwehr am Zwangsverwaltungsobjekt. Anwendungsfall Gebaeudeversicherung ist nicht bezahlt oder Schadenfall ist eingetreten. Normen § 154 ZVG Erhaltungspflicht § 823 BGB Verkehrssicherungspflicht VVG Versicherungsrecht. Prüfraster Gebaeudeversicherung Haftpflicht Beitragsrückstaende Schadenmeldung Deckungsprüfung Notmassnahmen Sicherung. Output Versicherungsprüfbericht mit Deckungsnachweis Schadenmeldung und Sicherungsmassnahmen. Abgrenzung zu zvg-instandhaltung-sicherung und zvg-konten-kassenführung.
 
 # Versicherungen und Gefahren
 
@@ -118,7 +118,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `zvg-versteigerungsteilnahme`
 
-**Frühere Beschreibung:** Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversagung. Prüfraster Ausweis Vertretung Sicherheitsleistung geringstes Gebot Bietstrategie Zuschlagsgrenzen Protokoll Nachbereitung. Output Teilnahme-Checkliste mit Bietlimit Sicherheitsleistungsnachweis und Nachbereitungsprotokoll. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-portal-recherche.
+**Fokus:** Vorbereitung der Teilnahme am Zwangsversteigerungstermin für Gläubiger oder Bieter. Anwendungsfall Mandant will an Versteigerungstermin teilnehmen und benoetigt vollständige Vorbereitung. Normen §§ 87 ff. ZVG Termin § 74a ZVG geringstes Gebot § 81 ZVG Sicherheitsleistung § 85a ZVG Zuschlagsversagung. Prüfraster Ausweis Vertretung Sicherheitsleistung geringstes Gebot Bietstrategie Zuschlagsgrenzen Protokoll Nachbereitung. Output Teilnahme-Checkliste mit Bietlimit Sicherheitsleistungsnachweis und Nachbereitungsprotokoll. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-portal-recherche.
 
 # Teilnahme am Versteigerungstermin
 
@@ -205,7 +205,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `zvg-verteilungsplan-155`
 
-**Frühere Beschreibung:** Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung § 10 ZVG Rangklassen § 154 ZVG Kosten Verwalterverguetung. Prüfraster Nutzungen Ausgaben Kosten Gläubigerzahlungen Vorschuesse Rang Auszahlung Restbetrag. Output Verteilungsplan mit Rangfolge Betraegen Auszahlungsnachweis und Gerichtsbericht. Abgrenzung zu zvg-rechnungslegung (Gesamtabrechnung) und zvg-konten-kassenführung.
+**Fokus:** Verteilungsplan nach § 155 ZVG für die Auszahlung von Einnahmen in der Zwangsverwaltung. Anwendungsfall Einnahmen sind angefallen und muessen nach gesetzlicher Rangfolge verteilt werden. Normen § 155 ZVG Verteilung § 10 ZVG Rangklassen § 154 ZVG Kosten Verwalterverguetung. Prüfraster Nutzungen Ausgaben Kosten Gläubigerzahlungen Vorschuesse Rang Auszahlung Restbetrag. Output Verteilungsplan mit Rangfolge Betraegen Auszahlungsnachweis und Gerichtsbericht. Abgrenzung zu zvg-rechnungslegung (Gesamtabrechnung) und zvg-konten-kassenführung.
 
 # Verteilungsplan § 155 ZVG
 

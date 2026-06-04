@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-metaverse-nft-digita-bis-model-release-persoe
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (metaverse-nft-digital-fashion, model-release-persoenlichkeitsrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fashion-law-moderecht
+# Arbeitsbereich - Metaverse Nft Digital Fashion, Model Release Persoenlichkeitsrechte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `metaverse-nft-digital-fashion` | Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims. |
 | `model-release-persoenlichkeitsrechte` | Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `metaverse-nft-digital-fashion`
 
-**Frühere Beschreibung:** Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims.
+**Fokus:** Metaverse, NFT und Digital Fashion prüfen: virtuelle Güter, Markenklassen, Urheberrechte, Plattformbedingungen, Avatare und Consumer Claims.
 
 # Metaverse Nft Digital Fashion
 
@@ -59,7 +59,7 @@ Digital-Fashion-Memo.
 
 ## 2. `model-release-persoenlichkeitsrechte`
 
-**Frühere Beschreibung:** Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf.
+**Fokus:** Model Release und Persönlichkeitsrechte prüfen: Nutzungsumfang, Territory, Dauer, Buyout, Social Media, KI-Nutzung, Retusche und Widerruf.
 
 # Model Release Persoenlichkeitsrechte
 

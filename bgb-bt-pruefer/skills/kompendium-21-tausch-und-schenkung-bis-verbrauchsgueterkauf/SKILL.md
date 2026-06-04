@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-tausch-und-schenkung-bis-verbrauchsgueterkauf
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (tausch-und-schenkung, unechte-goa-paragraph-687, verbrauchsgueterkauf-digitales) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - bgb-bt-pruefer
+# Arbeitsbereich - Tausch Und Schenkung, Unechte Goa Paragraph 687, Verbrauchsgueterkauf Digitales
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tausch-und-schenkung` | Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede. |
 | `unechte-goa-paragraph-687` | Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tausch-und-schenkung`
 
-**Frühere Beschreibung:** Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede.
+**Fokus:** Tausch § 480 BGB und Schenkung §§ 516-534 BGB: Unentgeltlichkeit, Form, Widerruf, Notbedarfseinrede.
 
 # Tausch und Schenkung §§ 480 und 516 ff. BGB
 
@@ -120,7 +120,7 @@ Tauschvertrag nach § 480 BGB und Schenkungsrecht (§§ 516 ff. BGB) prüfen: Un
 
 ## 2. `unechte-goa-paragraph-687`
 
-**Frühere Beschreibung:** Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes.
+**Fokus:** Unechte GoA § 687 BGB: eigenmächtige Durchführung eines fremden Geschäfts als eigenes.
 
 # Unechte GoA § 687 BGB
 
@@ -208,7 +208,7 @@ Unechte Geschäftsführung ohne Auftrag nach § 687 BGB prüfen: § 687 Abs. 1 (
 
 ## 3. `verbrauchsgueterkauf-digitales`
 
-**Frühere Beschreibung:** Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB.
+**Fokus:** Verbrauchsgüterkauf §§ 474 ff. BGB und digitale Elemente: Beweislastumkehr, zwingende Normen, §§ 327 ff. BGB.
 
 # Verbrauchsgüterkauf und Digitales §§ 474 ff. BGB
 

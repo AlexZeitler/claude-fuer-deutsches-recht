@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kueschk-annahmeverzu-bis-agg-pruefung-bewerbe
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst, lohnsteuer-sozialversicherung, abmahnung-arbeitsrecht, agg-pruefung-bewerber-und-beschaeftigte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kueschk Annahmeverzug Loehne Anrechnung Zwischenverdienst, Lohnsteuer Sozialversicherung, Abmahnung Arbeitsrecht, Agg Pruefung Bewerber Und Beschaeftigte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - arbeitsrecht
+# Arbeitsbereich - Kueschk Annahmeverzug Loehne Anrechnung Zwischenverdienst bis Agg Pruefung Bewerber Und Beschaeftigte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung. |
 | `lohnsteuer-sozialversicherung` | Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst`
 
-**Frühere Beschreibung:** Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung.
+**Fokus:** Annahmeverzugslohn nach § 615 BGB und § 11 KSchG; Anrechnung anderweitigen Verdienstes; boeswiches Unterlassen; Berechnung Nettolohnvorteil; Schadensminderungspflicht; Auswirkung auf Vergleichsdruck; steuerliche Behandlung.
 
 # Annahmeverzugslöhne und Zwischenverdienst
 
@@ -142,7 +142,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 2. `lohnsteuer-sozialversicherung`
 
-**Frühere Beschreibung:** Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
+**Fokus:** Beurteilt den sozialversicherungsrechtlichen Status (Scheinselbständigkeit, § 7a SGB IV) und lohnsteuerliche Fragen im Arbeitsverhältnis. Lädt, wenn ein Statusfeststellungsverfahren, Scheinselbständigkeit, Nachzahlungspflichten (§ 28e SGB IV), strafrechtliche Risiken (§ 266a StGB) oder die Abgrenzung Arbeitnehmer/Selbständiger zu prüfen ist.
 
 # Lohnsteuer und Sozialversicherung – Statusfeststellung und Scheinselbständigkeit
 
@@ -309,7 +309,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 3. `abmahnung-arbeitsrecht`
 
-**Frühere Beschreibung:** Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhoerung bei betriebsrat-anhoerung.
+**Fokus:** Arbeitgeber will Arbeitnehmer abmahnen oder Arbeitnehmer hat Abmahnung erhalten und will sie anfechten. Prüfraster Warnfunktion Ruegefunktion Dokumentationsfunktion nach BAG-Rspr. § 314 Abs. 2 BGB § 241 Abs. 2 BGB. Inhaltliche Anforderungen Bestimmtheit Konkretheit des Vorwurfs Verhältnismäßigkeit. Prüfung ob Abmahnung entbehrlich (verhaltensbedingte Kündigung). Output Abmahnungsschreiben oder Gegendarstellung Widerspruchsschreiben Löschungsantrag. Abgrenzung: Kündigungsprüfung bei kueschk-skills; BR-Anhoerung bei betriebsrat-anhoerung.
 
 # Abmahnung im Arbeitsrecht
 
@@ -491,7 +491,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=2+AZR+782%2F11
 
 ## 4. `agg-pruefung-bewerber-und-beschaeftigte`
 
-**Frühere Beschreibung:** AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung.
+**Fokus:** AGG-Prüfung bei Bewerbung und Beschäftigung: Diskriminierungsmerkmale § 1 AGG, Benachteiligungsverbot § 7 AGG, Entschädigungs- und Schadensersatzansprüche § 15 AGG, Beweislastumkehr § 22 AGG, Geltendmachungsfrist § 15 Abs. 4 AGG (zwei Monate). Stellenausschreibung, Auswahlverfahren, Beschäftigungsbedingungen, Beförderung, Entlohnung, Kündigung.
 
 # AGG-Prüfung bei Bewerbern und Beschäftigten
 

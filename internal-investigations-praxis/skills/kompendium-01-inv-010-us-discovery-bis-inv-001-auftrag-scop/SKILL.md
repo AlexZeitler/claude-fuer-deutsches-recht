@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-inv-010-us-discovery-bis-inv-001-auftrag-scop
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (inv-010-us-discovery, inv-001-auftrag-scope) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 010 Us Discovery, Inv 001 Auftrag Scope; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - internal-investigations-praxis
+# Arbeitsbereich - Inv 010 Us Discovery, Inv 001 Auftrag Scope
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-010-us-discovery` | Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold. |
 | `inv-001-auftrag-scope` | Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-010-us-discovery`
 
-**Frühere Beschreibung:** Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold.
+**Fokus:** Steuert das US-Discovery-Risiko bei Internal Investigations – FRCP, Attorney-Client Privilege, Work Product, Litigation Hold.
 
 # US-Discovery in Cross-Border Investigations
 
@@ -113,7 +113,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-001-auftrag-scope`
 
-**Frühere Beschreibung:** Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig.
+**Fokus:** Formuliert Untersuchungsauftrag, Scope, Ausschlüsse, Governance und Eskalation so eng wie möglich und so belastbar wie nötig.
 
 # Untersuchungsauftrag und Scope
 

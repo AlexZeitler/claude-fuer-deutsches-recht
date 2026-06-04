@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-solo-sprache-und-ueb-bis-solo-toolwechsel-und
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 8 frühere Spezialskills (solo-sprache-und-uebersetzung, solo-standardvorlagen, solo-statuscheck-sgb-iv-paragraph-7, solo-stilllegung-und-ruhephase, solo-storno-gutschrift-korrekturrechnung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Sprache Und Uebersetzung, Solo Standardvorlagen, Solo Statuscheck Sgb Iv Paragraph 7, Solo Stilllegung Und Ruhephase und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Sprache Und Uebersetzung bis Solo Toolwechsel Und Datenexport
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-sprache-und-uebersetzung` | Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-standardvorlagen` | Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-sprache-und-uebersetzung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: setzt klare Sprachregel für Angebot, Vertrag, Rechnung und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Setzt klare sprachregel für angebot
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 2. `solo-standardvorlagen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Vorlagen für Angebot, Auftrag, Rechnung, Mahnung, Projektabschluss; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Erstellt vorlagen für angebot
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 3. `solo-statuscheck-sgb-iv-paragraph-7`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Weisung, Eingliederung, Unternehmerrisiko und Marktauftritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Weisung, Eingliederung, Unternehmerrisiko und Marktauftritt; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft weisung
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 4. `solo-stilllegung-und-ruhephase`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Pause, Abmeldung, Kunden, Daten, Versicherungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Plant pause
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 5. `solo-storno-gutschrift-korrekturrechnung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: unterscheidet Storno, Gutschrift, Rechnungskorrektur und Kulanz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Unterscheidet storno
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 6. `solo-taetigkeit-beschreiben-ohne-falle`
 
-**Frühere Beschreibung:** Solo-Selbstständige: formuliert Tätigkeitsbeschreibung für Gewerbeamt, Finanzamt, Website und Vertrag; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: formuliert Tätigkeitsbeschreibung für Gewerbeamt, Finanzamt, Website und Vertrag; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Formuliert tätigkeitsbeschreibung für gewerbeamt
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 7. `solo-telefonnotiz`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht aus Telefonat eine beweistaugliche Notiz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht aus Telefonat eine beweistaugliche Notiz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Macht aus telefonat eine beweistaugliche notiz
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 8. `solo-toolwechsel-und-datenexport`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Export, Kündigung, Datenportabilität und Beweisarchiv beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Export, Kündigung, Datenportabilität und Beweisarchiv beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Prüft export
 

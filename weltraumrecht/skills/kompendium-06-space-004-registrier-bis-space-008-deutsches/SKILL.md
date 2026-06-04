@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-space-004-registrier-bis-space-008-deutsches
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (space-004-registrierungsuebereinkommen-register-staat-zustaendig, space-005-astronautenrettung-rueckgabe-und-statusfragen, space-007-artemis-accords-und-verhaeltnis-zu-un-vertraegen, space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 004 Registrierungsuebereinkommen Register Staat Zustaendig, Space 005 Astronautenrettung Rueckgabe Und Statusfragen, Space 007 Artemis Accords Und Verhaeltnis Zu Un Vertraegen, Space 008 Deutsches Weltraumgesetz Planungsstand Und Uebergangsr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - weltraumrecht
+# Arbeitsbereich - Space 004 Registrierungsuebereinkommen Register Staat Zustaendig bis Space 008 Deutsches Weltraumgesetz Planungsstand Und Uebergangsr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-004-registrierungsuebereinkommen-register-staat-zustaendig` | Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle. |
 | `space-005-astronautenrettung-rueckgabe-und-statusfragen` | Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-004-registrierungsuebereinkommen-register-staat-zustaendig`
 
-**Frühere Beschreibung:** Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle.
+**Fokus:** Registration Convention 1975 (REG) – Pflichtregistrierung, UN-Register, nationale Register, Jurisdiktion und Kontrolle.
 
 # Weltraumrecht: Registrierungsübereinkommen: Register, Staat, Zuständigkeit, Kontrolle
 
@@ -133,7 +133,7 @@ Dieser Skill bearbeitet **Registrierungsübereinkommen: Register, Staat, Zustän
 
 ## 2. `space-005-astronautenrettung-rueckgabe-und-statusfragen`
 
-**Frühere Beschreibung:** Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer.
+**Fokus:** Rescue Agreement 1968 – Rettungs- und Rückgabepflicht, Botschafter der Menschheit, Status kommerzieller Raumfahrer.
 
 # Weltraumrecht: Astronautenrettung: Rückgabe und Statusfragen
 
@@ -236,7 +236,7 @@ Dieser Skill bearbeitet **Astronautenrettung: Rückgabe und Statusfragen** im Be
 
 ## 3. `space-007-artemis-accords-und-verhaeltnis-zu-un-vertraegen`
 
-**Frühere Beschreibung:** Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion.
+**Fokus:** Artemis Accords 2020 – Inhalt, Rechtsnatur, Verhältnis zu OST/LIAB/REG, Safety Zones, Ressourcenextraktion.
 
 # Weltraumrecht: Artemis Accords und Verhältnis zu UN-Verträgen
 
@@ -339,7 +339,7 @@ Dieser Skill bearbeitet **Artemis Accords und Verhältnis zu UN-Verträgen** im 
 
 ## 4. `space-008-deutsches-weltraumgesetz-planungsstand-und-uebergangsr`
 
-**Frühere Beschreibung:** Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken.
+**Fokus:** Raumfahrtgesetzentwurf BMWK – Genehmigungspflicht, Versicherungspflicht, Regressrecht, Übergangsrecht und Lücken.
 
 # Weltraumrecht: Deutsches Weltraumgesetz: Planungsstand und Übergangsrisiko
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-kammeranhoerung-fris-bis-patentanwalt-fristen
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (kammeranhoerung-fristverlaengerung-praevention, kammeranhoerung-fristverlaengerung-verteidigung, patentanwalt-fristenversaeumnis-epo-dpma-praevention, patentanwalt-fristenversaeumnis-epo-dpma-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kammeranhoerung Fristverlaengerung Praevention, Kammeranhoerung Fristverlaengerung Verteidigung, Patentanwalt Fristenversaeumnis Epo Dpma Praevention, Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Kammeranhoerung Fristverlaengerung Praevention bis Patentanwalt Fristenversaeumnis Epo Dpma Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kammeranhoerung-fristverlaengerung-praevention` | Kammeranhörung Fristverlängerung (Präventions- und Organisationspaket): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `kammeranhoerung-fristverlaengerung-verteidigung` | Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kammeranhoerung-fristverlaengerung-praevention`
 
-**Frühere Beschreibung:** Kammeranhörung Fristverlängerung (Präventions- und Organisationspaket): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kammeranhörung Fristverlängerung (Präventions- und Organisationspaket): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kammeranhörung Fristverlängerung: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `kammeranhoerung-fristverlaengerung-verteidigung`
 
-**Frühere Beschreibung:** Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kammeranhörung Fristverlängerung (Verteidigungs- und Kammerantwort): steuert erste Kammeranhörung, Fristverlängerung, Akteneinsicht, Schweige-/Mitwirkungslinie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kammeranhörung Fristverlängerung: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `patentanwalt-fristenversaeumnis-epo-dpma-praevention`
 
-**Frühere Beschreibung:** Patentanwalt Fristenversäumnis DPMA/EPO (Präventions- und Organisationspaket): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Fristenversäumnis DPMA/EPO (Präventions- und Organisationspaket): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Fristenversäumnis DPMA/EPO: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `patentanwalt-fristenversaeumnis-epo-dpma-verteidigung`
 
-**Frühere Beschreibung:** Patentanwalt Fristenversäumnis DPMA/EPO (Verteidigungs- und Kammerantwort): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Fristenversäumnis DPMA/EPO (Verteidigungs- und Kammerantwort): steuert Fristversäumnis, Wiedereinsetzung, Mandanteninformation und berufsrechtliche Aufarbeitung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Fristenversäumnis DPMA/EPO: Verteidigungs- und Kammerantwort
 

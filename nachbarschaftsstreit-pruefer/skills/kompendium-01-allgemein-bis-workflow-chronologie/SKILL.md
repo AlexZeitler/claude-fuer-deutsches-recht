@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-allgemein-bis-workflow-chronologie
-description: "nachbarschaftsstreit-pruefer: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (allgemein, workflow-anschluss-skills-router, workflow-chronologie-und-belegmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nachbarschaftsstreit-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - nachbarschaftsstreit-pruefer
+# Arbeitsbereich - Allgemein, Anschluss Skills Router, Chronologie Und Belegmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Spezial-Skills zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin nachbarschaftsstreit-pruefer: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Spezial-Skills zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Nachbarschaftsstreit-Prüfer. Fragt Grundstücke, Grenze, Bundesland, Streitgegenstand, Gefahr, Fristen, Beweise, bisherige Kommunikation und Ziel ab; schlägt passende Spezial-Skills zu Überbau, Überhang, Ästen/Wurzeln, Einfriedung, Immissionen, Notweg, Beweissicherung, Schreiben, Eilrechtsschutz und Vergleich vor.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -125,7 +125,7 @@ Stand: 05/2026. Kernnormen: §§ 903, 906-923, 823, 862, 1004 BGB; Landesnachbar
 
 ## 2. `workflow-anschluss-skills-router`
 
-**Frühere Beschreibung:** Anschluss-Skills Router im Plugin nachbarschaftsstreit-pruefer: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.
+**Fokus:** Anschluss-Skills Router im Plugin nachbarschaftsstreit-pruefer: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.
 
 # Anschluss-Skills Router
 
@@ -160,7 +160,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin nachbarschaftsstreit-pruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix im Plugin nachbarschaftsstreit-pruefer: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 # Chronologie und Belegmatrix
 

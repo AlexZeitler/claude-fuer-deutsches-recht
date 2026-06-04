@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-spezial-rechtsformwa-bis-spezial-ueber-schrif
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (spezial-rechtsformwahl-behoerden-gericht-und-registerweg, spezial-ueber-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsformwahl Behoerden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - gesellschaftsgruender
+# Arbeitsbereich - Rechtsformwahl Behoerden Gericht Und Registerweg, Ueber Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-rechtsformwahl-behoerden-gericht-und-registerweg` | Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-ueber-schriftsatz-brief-und-memo-bausteine` | Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-rechtsformwahl-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Rechtsformwahl: Behörden-, Gerichts- oder Registerweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Rechtsformwahl: Behörden-, Gerichts- oder Registerweg
 
@@ -90,7 +90,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ueber-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ueber: Schriftsatz-, Brief- und Memo-Bausteine im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ueber: Schriftsatz-, Brief- und Memo-Bausteine
 

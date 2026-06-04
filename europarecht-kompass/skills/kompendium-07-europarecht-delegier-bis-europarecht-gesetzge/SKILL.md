@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-europarecht-delegier-bis-europarecht-gesetzge
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (europarecht-delegierte-durchfuehrungsakte, europarecht-deutscher-denkfehler-scanner, europarecht-gesetzgebung-trilog) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - europarecht-kompass
+# Arbeitsbereich - Europarecht Delegierte Durchfuehrungsakte, Europarecht Deutscher Denkfehler Scanner, Europarecht Gesetzgebung Trilog
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-delegierte-durchfuehrungsakte` | Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung). |
 | `europarecht-deutscher-denkfehler-scanner` | Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-delegierte-durchfuehrungsakte`
 
-**Frühere Beschreibung:** Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung).
+**Fokus:** Delegierte Rechtsakte und Durchführungsrechtsakte der EU einordnen und deren Verbindlichkeit prüfen. Art. 290 291 AEUV Delegierung. Prüfraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht für primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung).
 
 # Delegierte und Durchführungsakte
 
@@ -105,7 +105,7 @@ Moegliche Anfechtung: [Art. 263 AEUV — Frist 2 Monate ab Bekanntmachung]
 
 ## 2. `europarecht-deutscher-denkfehler-scanner`
 
-**Frühere Beschreibung:** Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate.
+**Fokus:** Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate.
 
 # Deutscher-Denkfehler-Scanner
 
@@ -193,7 +193,7 @@ Sachverhalt: [KURZBESCHREIBUNG]
 
 ## 3. `europarecht-gesetzgebung-trilog`
 
-**Frühere Beschreibung:** Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Zeitplan Umsetzungspflichten. Output: Verfahrensstand-Memo Stellungnahme-Empfehlung. Abgrenzung: nicht für erlassene Verordnungen oder Richtlinien.
+**Fokus:** Europaeisches Gesetzgebungsverfahren und Trilog-Verhandlungen einordnen wenn EU-Regelung in Entstehung ist. Art. 289 294 AEUV ordentliches Gesetzgebungsverfahren. Prüfraster: Verfahrensstand Kompromisstext Ratspositionen EP-Positionen Zeitplan Umsetzungspflichten. Output: Verfahrensstand-Memo Stellungnahme-Empfehlung. Abgrenzung: nicht für erlassene Verordnungen oder Richtlinien.
 
 # EU-Gesetzgebung und Trilog
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-inv-020-manager-inte-bis-inv-021-dawn-raid-pl
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (inv-020-manager-interview, inv-021-dawn-raid-playbook) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 020 Manager Interview, Inv 021 Dawn Raid Playbook; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - internal-investigations-praxis
+# Arbeitsbereich - Inv 020 Manager Interview, Inv 021 Dawn Raid Playbook
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-020-manager-interview` | Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation. |
 | `inv-021-dawn-raid-playbook` | Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-020-manager-interview`
 
-**Frühere Beschreibung:** Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation.
+**Fokus:** Leitet Interviews mit Führungskräften und Organmitgliedern – Belehrung, Privilegkonflikte, Aussagestrategie und Dokumentation.
 
 # Interviews mit Führungskräften und Organmitgliedern
 
@@ -113,7 +113,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-021-dawn-raid-playbook`
 
-**Frühere Beschreibung:** Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation.
+**Fokus:** Playbook für den Umgang mit Durchsuchungen (Dawn Raids) durch Staatsanwaltschaft, Kartellbehörden oder Regulatoren – Verhalten, Protokoll, Eskalation.
 
 # Dawn Raid Playbook
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-chn-002-de-risking-n-bis-chn-005-handelsbilan
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (chn-002-de-risking-nicht-decoupling, chn-003-china-strategie-bundesregierung-umsetzen, chn-004-eu-china-trade-risk-dashboard, chn-005-handelsbilanz-und-abhaengigkeiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 002 De Risking Nicht Decoupling, Chn 003 China Strategie Bundesregierung Umsetzen, Chn 004 Eu China Trade Risk Dashboard, Chn 005 Handelsbilanz Und Abhaengigkeiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 002 De Risking Nicht Decoupling bis Chn 005 Handelsbilanz Und Abhaengigkeiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-002-de-risking-nicht-decoupling` | Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung. |
 | `chn-003-china-strategie-bundesregierung-umsetzen` | Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-002-de-risking-nicht-decoupling`
 
-**Frühere Beschreibung:** Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung.
+**Fokus:** Operative Umsetzung der EU/Bundesregierungs-De-risking-Strategie: Abgrenzung De-risking vs. Decoupling, Risikoklassifizierung von Lieferanten und Technologien nach Kritikalitäts-Score, AWG/AWV-Sektorenliste, Diversifizierungsfahrplan. Output: De-risking-Fahrplan mit Priorisierungsmatrix und Ressourcenplanung.
 
 # De-risking statt Decoupling: Strategie und operative Umsetzung
 
@@ -121,7 +121,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-003-china-strategie-bundesregierung-umsetzen`
 
-**Frühere Beschreibung:** Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan.
+**Fokus:** Unternehmensinterner Umsetzungsfahrplan zur China-Strategie der Bundesregierung 2023: Gap-Analyse bestehender Compliance-Strukturen, Maßnahmenplan zu De-risking, FDI-Meldepflichten (AWV §§ 55 ff.), Exportkontrolle (BAFA), LkSG-Lieferkettenpflichten und Board-Berichterstattung. Output: Compliance-Gap-Analyse und Umsetzungsplan.
 
 # China-Strategie der Bundesregierung: Unternehmensumsetzung
 
@@ -212,7 +212,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-004-eu-china-trade-risk-dashboard`
 
-**Frühere Beschreibung:** Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus.
+**Fokus:** Aufbau eines EU-China-Handelsrisiko-Dashboards für Unternehmen: Datenquellen (Eurostat, BMWK, BAFA), Abhängigkeitsindikatoren, Sektorrisiko-Scores, De-risking-Fortschritts-KPIs, Anti-Dumping/Countervailing-Watch, FDI-Meldestatus. Output: Dashboard-Struktur mit Datenquellen-Matrix und Aktualisierungsrhythmus.
 
 # EU-China Trade-Risk-Dashboard: Aufbau und Betrieb
 
@@ -302,7 +302,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-005-handelsbilanz-und-abhaengigkeiten`
 
-**Frühere Beschreibung:** Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen.
+**Fokus:** Analyse struktureller Handelsabhängigkeiten von Deutschland/EU gegenüber VR China: Gütergruppen mit Importkonzentration über 50 Prozent, kritische Rohstoffe (Seltene Erden, Gallium, Germanium), Exportabhängigkeiten dt. Industrie (Automotive, Maschinenbau), Substitutionspotenzial. Output: Abhängigkeitsmatrix mit Risikobewertung und Diversifizierungsoptionen.
 
 # Handelsbilanz und Abhängigkeiten: Analyse und Risikobewertung
 

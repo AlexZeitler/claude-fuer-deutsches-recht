@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-recherche-start-bis-semester-uebergabe
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (recherche-start, rechtsberatungsstelle-anpassen, semester-uebergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recherche Start, Rechtsberatungsstelle Anpassen, Semester Uebergabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - rechtsberatungsstelle
+# Arbeitsbereich - Recherche Start, Rechtsberatungsstelle Anpassen, Semester Uebergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recherche-start` | Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte. |
 | `rechtsberatungsstelle-anpassen` | Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recherche-start`
 
-**Frühere Beschreibung:** Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte.
+**Fokus:** Recherchefahrplan für eine Rechtsfrage — einschlägige Normen, Rechtsprechungsbereiche, verifizierbare Quellen, Suchbegriffe für amtliche/freie Quellen oder lizenzierte Datenbanken/dejure. Hinweise und Rahmen, KEINE geprüften Belege; Studierende recherchieren und verifizieren eigenständig. Lädt, wenn ein Studierender fragt, wo er mit einer Recherche anfangen soll, einen Fahrplan für eine Rechtsfrage benötigt oder Lücken in bestehender Recherche identifizieren möchte.
 
 # Recherchefahrplan: Orientierung, keine Recherche
 
@@ -224,7 +224,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 2. `rechtsberatungsstelle-anpassen`
 
-**Frühere Beschreibung:** Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill.
+**Fokus:** Rechtsberatungsstelle-Plugin an spezifische Kanzlei oder Uni anpassen: Anwendungsfall neue Rechtsberatungsstelle moechte Plugin konfigurieren mit eigenen Rechtsgebieten Zielgruppe und Verfahrensregeln. BeratungsHiG, BRAO, hochschulspezifische Beratungsordnung. Prüfraster Rechtsgebiete einstellen, Zielgruppe und Sprachstil, Beratungsschein-Regelungen, Anleiter-Kontakte und Eskalationspfade konfigurieren. Output konfiguriertes Plugin-Profil mit angepassten Workflows für die jeweilige Stelle. Abgrenzung zu Kaltstart-Interview für Erst-Einrichtung und zu Einarbeitung-Skill.
 
 # /anpassen
 
@@ -353,7 +353,7 @@ Vollständige, aktualisierte `CLAUDE.md` (oder `guides/<name>.md`). Kein `[KI-GE
 
 ## 3. `semester-uebergabe`
 
-**Frühere Beschreibung:** Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen.
+**Fokus:** Semesterabschluss-Übergabe — das Gegenstück zu `/einarbeitung`. Erstellt fallbezogene Übergabenotizen und eine Kohorten-Gesamtübersicht, damit die abgehende Kohorte die laufenden Mandate unter Wahrung des Mandatsgeheimnisses sauber an die nächste übergibt. Liest Fristendatei, Mandantenkommunikationslog und Fallhistorie. Lädt, wenn der Supervisor oder abgehende Studierende den Semesterabschluss koordinieren, Übergabenotizen erstellen oder einen ausscheidenden Studierenden abmelden müssen.
 
 # Semesterübergabe
 

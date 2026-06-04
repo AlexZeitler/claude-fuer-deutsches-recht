@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-inso-p061-nichterful-bis-inso-p082-leistungen
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 21 frühere Spezialskills (inso-p061-nichterfullung-von-masseverbindlichkeiten, inso-p062-verjahrung, inso-p063-vergutung-des-insolvenzverwalters, inso-p064-festsetzung-durch-das-gericht, inso-p065-verordnungsermachtigung und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P061 Nichterfullung Von Masseverbindlichkeiten, Inso P062 Verjahrung, Inso P063 Vergutung Des Insolvenzverwalters, Inso P064 Festsetzung Durch Das Gericht und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P061 Nichterfullung Von Masseverbindlichkeiten bis Inso P082 Leistungen An Den Schuldner
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p061-nichterfullung-von-masseverbindlichkeiten` | § 61 InsO (Nichterfüllung von Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p062-verjahrung` | § 62 InsO (Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p061-nichterfullung-von-masseverbindlichkeiten`
 
-**Frühere Beschreibung:** § 61 InsO (Nichterfüllung von Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 61 InsO (Nichterfüllung von Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 61 InsO — Nichterfüllung von Masseverbindlichkeiten
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p062-verjahrung`
 
-**Frühere Beschreibung:** § 62 InsO (Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 62 InsO (Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 62 InsO — Verjährung
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p063-vergutung-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 63 InsO (Vergütung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 63 InsO (Vergütung des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 63 InsO — Vergütung des Insolvenzverwalters
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p064-festsetzung-durch-das-gericht`
 
-**Frühere Beschreibung:** § 64 InsO (Festsetzung durch das Gericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 64 InsO (Festsetzung durch das Gericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 64 InsO — Festsetzung durch das Gericht
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p065-verordnungsermachtigung`
 
-**Frühere Beschreibung:** § 65 InsO (Verordnungsermächtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 65 InsO (Verordnungsermächtigung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 65 InsO — Verordnungsermächtigung
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p066-rechnungslegung`
 
-**Frühere Beschreibung:** § 66 InsO (Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 66 InsO (Rechnungslegung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 66 InsO — Rechnungslegung
 
@@ -376,7 +376,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p067-einsetzung-des-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 67 InsO (Einsetzung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 67 InsO (Einsetzung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 67 InsO — Einsetzung des Gläubigerausschusses
 
@@ -431,7 +431,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p068-wahl-anderer-mitglieder`
 
-**Frühere Beschreibung:** § 68 InsO (Wahl anderer Mitglieder) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 68 InsO (Wahl anderer Mitglieder) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 68 InsO — Wahl anderer Mitglieder
 
@@ -486,7 +486,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p069-aufgaben-des-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 69 InsO (Aufgaben des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 69 InsO (Aufgaben des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 69 InsO — Aufgaben des Gläubigerausschusses
 
@@ -541,7 +541,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p070-entlassung`
 
-**Frühere Beschreibung:** § 70 InsO (Entlassung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 70 InsO (Entlassung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 70 InsO — Entlassung
 
@@ -596,7 +596,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p072-beschlusse-des-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 72 InsO (Beschlüsse des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 72 InsO (Beschlüsse des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 72 InsO — Beschlüsse des Gläubigerausschusses
 
@@ -651,7 +651,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p073-vergutung-der-mitglieder-des-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 73 InsO (Vergütung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 73 InsO (Vergütung der Mitglieder des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 73 InsO — Vergütung der Mitglieder des Gläubigerausschusses
 
@@ -706,7 +706,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p074-einberufung-der-glaubigerversammlung`
 
-**Frühere Beschreibung:** § 74 InsO (Einberufung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 74 InsO (Einberufung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 74 InsO — Einberufung der Gläubigerversammlung
 
@@ -761,7 +761,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p075-antrag-auf-einberufung`
 
-**Frühere Beschreibung:** § 75 InsO (Antrag auf Einberufung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 75 InsO (Antrag auf Einberufung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 75 InsO — Antrag auf Einberufung
 
@@ -816,7 +816,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p076-beschlusse-der-glaubigerversammlung`
 
-**Frühere Beschreibung:** § 76 InsO (Beschlüsse der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 76 InsO (Beschlüsse der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 76 InsO — Beschlüsse der Gläubigerversammlung
 
@@ -871,7 +871,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p077-feststellung-des-stimmrechts`
 
-**Frühere Beschreibung:** § 77 InsO (Feststellung des Stimmrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 77 InsO (Feststellung des Stimmrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 77 InsO — Feststellung des Stimmrechts
 
@@ -926,7 +926,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p078-aufhebung-eines-beschlusses-der-glaubigerversammlung`
 
-**Frühere Beschreibung:** § 78 InsO (Aufhebung eines Beschlusses der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 78 InsO (Aufhebung eines Beschlusses der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 78 InsO — Aufhebung eines Beschlusses der Gläubigerversammlung
 
@@ -981,7 +981,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p079-unterrichtung-der-glaubigerversammlung`
 
-**Frühere Beschreibung:** § 79 InsO (Unterrichtung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 79 InsO (Unterrichtung der Gläubigerversammlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 79 InsO — Unterrichtung der Gläubigerversammlung
 
@@ -1036,7 +1036,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p080-ubergang-des-verwaltungs-und-verfugungsrechts`
 
-**Frühere Beschreibung:** § 80 InsO (Übergang des Verwaltungs- und Verfügungsrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 80 InsO (Übergang des Verwaltungs- und Verfügungsrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 80 InsO — Übergang des Verwaltungs- und Verfügungsrechts
 
@@ -1091,7 +1091,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p081-verfugungen-des-schuldners`
 
-**Frühere Beschreibung:** § 81 InsO (Verfügungen des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 81 InsO (Verfügungen des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 81 InsO — Verfügungen des Schuldners
 
@@ -1146,7 +1146,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p082-leistungen-an-den-schuldner`
 
-**Frühere Beschreibung:** § 82 InsO (Leistungen an den Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 82 InsO (Leistungen an den Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 82 InsO — Leistungen an den Schuldner
 

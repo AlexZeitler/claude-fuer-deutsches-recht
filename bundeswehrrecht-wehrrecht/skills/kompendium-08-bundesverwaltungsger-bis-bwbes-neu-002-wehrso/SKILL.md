@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bundesverwaltungsger-bis-bwbes-neu-002-wehrso
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (bundesverwaltungsgericht-wehrdienstsenate, bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad, bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssic) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger Wehrdienst Und Unterhaltssic; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Bundesverwaltungsgericht Wehrdienstsenate, Bwbes Neu 001 Soldatenbesoldung Grundgehalt Und Dienstgrad, Bwbes Neu 002 Wehrsold Freiwilliger We
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bundesverwaltungsgericht-wehrdienstsenate` | Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad` | Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, Stufenaufstieg, Dienstgradkorrelation und Rückwirkungsfragen. Norm-/Quellenanker: BBesG Anlagen I, IV, § 27 BBesG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bundesverwaltungsgericht-wehrdienstsenate`
 
-**Frühere Beschreibung:** Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Bundesverwaltungsgericht Wehrdienstsenate: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Bundesverwaltungsgericht – Wehrdienstsenate
 
@@ -125,7 +125,7 @@ Die Wehrdienstsenate des BVerwG (1. und 2. Wehrdienstsenat) entscheiden über Re
 
 ## 2. `bwbes-neu-001-soldatenbesoldung-grundgehalt-und-dienstgrad`
 
-**Frühere Beschreibung:** Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, Stufenaufstieg, Dienstgradkorrelation und Rückwirkungsfragen. Norm-/Quellenanker: BBesG Anlagen I, IV, § 27 BBesG.
+**Fokus:** Soldatenbesoldung Grundgehalt Dienstgrad: prüft BBesG-Gruppen, Stufenaufstieg, Dienstgradkorrelation und Rückwirkungsfragen. Norm-/Quellenanker: BBesG Anlagen I, IV, § 27 BBesG.
 
 # Soldatenbesoldung: Grundgehalt und Dienstgrad
 
@@ -233,7 +233,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `bwbes-neu-002-wehrsold-freiwilliger-wehrdienst-und-unterhaltssic`
 
-**Frühere Beschreibung:** Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfahren und Schnittstellen SGB. Norm-/Quellenanker: WSG, UhSiG, § 58b SG.
+**Fokus:** Wehrsold FWD Unterhaltssicherung: prüft WSG, UhSiG, Höhe, Verfahren und Schnittstellen SGB. Norm-/Quellenanker: WSG, UhSiG, § 58b SG.
 
 # Wehrsold, freiwilliger Wehrdienst und Unterhaltssicherung
 

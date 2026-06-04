@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-agrarrech-bis-fachanwalt-agrarrech
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fachanwalt-agrarrecht-orientierung, fachanwalt-agrarrecht-tierhaltung-genehmigung, fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agrarrecht Orientierung, Agrarrecht Tierhaltung Genehmigung, Agrarrecht Verhandlung Landpacht Schlichtung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-agrarrecht
+# Arbeitsbereich - Agrarrecht Orientierung, Agrarrecht Tierhaltung Genehmigung, Agrarrecht Verhandlung Landpacht Schlichtung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-agrarrecht-orientierung` | Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg. |
 | `fachanwalt-agrarrecht-tierhaltung-genehmigung` | Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-agrarrecht-orientierung`
 
-**Frühere Beschreibung:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
+**Fokus:** Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg.
 
 # Fachanwalt für Agrarrecht — Orientierung
 
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-agrarrecht-tierhaltung-genehmigung`
 
-**Frühere Beschreibung:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag.
+**Fokus:** Genehmigung Tierhaltungsanlagen nach § 4 BImSchG ab Schwellenwerten. UVP-Pflicht UVPG. Tierschutz-Nutztierhaltungsverordnung. Standortgebundenheit BauGB § 35 Privilegierung. Stallneubau Stallerweiterung. Immissionsschutz Geruch TA Luft. Anhoerung Buergerbeteiligung. Widerspruch Klage Eilantrag.
 
 # Tierhaltungs-Genehmigung
 
@@ -402,7 +402,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `fachanwalt-agrarrecht-verhandlung-landpacht-schlichtung`
 
-**Frühere Beschreibung:** Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren.
+**Fokus:** Landwirt und Verpaechter streiten über Pacht oder Hof-Erbe und muessen Einigung außergerichtlich versuchen. Prüfraster Pachtvertrags-Vergleich LPachtVG Pachtanpassung § 593 BGB Landwirtschaftskammer-Schlichtung. ADR-Wege Hofuebergabe-Mediation Schlichtungsformate im Pachtgewerbe. Normen §§ 581 ff. BGB § 593 BGB Pachtanpassung LPachtVG. Output Verhandlungs-Strategie-Memo Schlichtungsantrag Vergleichs-Skript. Abgrenzung: fachanwalt-agrarrecht-pachtvertrag-streitig für streitiges Gerichtsverfahren.
 
 # Verhandlung und Schlichtung im Agrarrecht
 

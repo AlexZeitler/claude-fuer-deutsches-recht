@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-iv-plan-planbetroffe-bis-iv-plan-planvollzug
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (iv-plan-planbetroffene-auswahl, iv-plan-planvollzug-monitoring) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Planbetroffene Auswahl, Iv Plan Planvollzug Monitoring; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Planbetroffene Auswahl, Iv Plan Planvollzug Monitoring
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-planbetroffene-auswahl` | Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begründungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht für allgemeine Gruppenbildung (iv-plan-gruppen-klassenbildung). |
 | `iv-plan-planvollzug-monitoring` | Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweichungslog. Abgrenzung: nicht für gerichtliche Schritte nach Planbestätigung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-planbetroffene-auswahl`
 
-**Frühere Beschreibung:** Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begründungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht für allgemeine Gruppenbildung (iv-plan-gruppen-klassenbildung).
+**Fokus:** Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begründen. §§ 2 4 StaRUG Gestaltbarkeit. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begründungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht für allgemeine Gruppenbildung (iv-plan-gruppen-klassenbildung).
 
 # IV-integrierte Auswahl der Planbetroffenen
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-planvollzug-monitoring`
 
-**Frühere Beschreibung:** Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweichungslog. Abgrenzung: nicht für gerichtliche Schritte nach Planbestätigung.
+**Fokus:** Planvollzug nach Bestätigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Prüfraster: Bedingungen Fälligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweichungslog. Abgrenzung: nicht für gerichtliche Schritte nach Planbestätigung.
 
 # IV-integrierte Planvollzug und Monitoring
 

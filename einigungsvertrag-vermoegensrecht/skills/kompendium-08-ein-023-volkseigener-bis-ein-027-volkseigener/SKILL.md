@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ein-023-volkseigener-bis-ein-027-volkseigener
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (ein-023-volkseigener-betrieb-chronologie-bauen, ein-024-volkseigener-betrieb-berechtigte-ermit, ein-026-volkseigener-betrieb-grundbuch-auswert, ein-027-volkseigener-betrieb-behoerdenbrief-sc) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 023 Volkseigener Betrieb Chronologie Bauen, Ein 024 Volkseigener Betrieb Berechtigte Ermit, Ein 026 Volkseigener Betrieb Grundbuch Auswert, Ein 027 Volkseigener Betrieb Behoerdenbrief Sc; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 023 Volkseigener Betrieb Chronologie Bauen bis Ein 027 Volkseigener Betrieb Behoerdenbrief Sc
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-023-volkseigener-betrieb-chronologie-bauen` | Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Chronologie bauen. Chronologie bauen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-024-volkseigener-betrieb-berechtigte-ermit` | Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Berechtigte ermitteln. Berechtigte ermitteln für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-023-volkseigener-betrieb-chronologie-bauen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Chronologie bauen. Chronologie bauen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Chronologie bauen. Chronologie bauen für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Chronologie Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-024-volkseigener-betrieb-berechtigte-ermit`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Berechtigte ermitteln. Berechtigte ermitteln für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Berechtigte ermitteln. Berechtigte ermitteln für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Berechtigte Ermit
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-026-volkseigener-betrieb-grundbuch-auswert`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Grundbuch auswerten. Grundbuch auswerten für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Grundbuch auswerten. Grundbuch auswerten für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Grundbuch Auswert
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-027-volkseigener-betrieb-behoerdenbrief-sc`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Behördenbrief schreiben. Behördenbrief schreiben für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Behördenbrief schreiben. Behördenbrief schreiben für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Behoerdenbrief Sc
 

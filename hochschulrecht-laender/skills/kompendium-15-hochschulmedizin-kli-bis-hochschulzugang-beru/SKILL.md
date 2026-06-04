@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-hochschulmedizin-kli-bis-hochschulzugang-beru
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (hochschulmedizin-klinik-schnittstelle, hochschulrat-aufsicht-ministerium, hochschulwahlen, hochschulzugang-beruflich-qualifizierte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hochschulmedizin Klinik Schnittstelle, Hochschulrat Aufsicht Ministerium, Hochschulwahlen, Hochschulzugang Beruflich Qualifizierte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - hochschulrecht-laender
+# Arbeitsbereich - Hochschulmedizin Klinik Schnittstelle bis Hochschulzugang Beruflich Qualifizierte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hochschulmedizin-klinik-schnittstelle` | Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung. |
 | `hochschulrat-aufsicht-ministerium` | Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hochschulmedizin-klinik-schnittstelle`
 
-**Frühere Beschreibung:** Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung.
+**Fokus:** Prüft Universitätsmedizin, Klinikträger, Forschung, Lehre und Organabgrenzung.
 
 # Hochschulmedizin und Klinik-Schnittstelle
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `hochschulrat-aufsicht-ministerium`
 
-**Frühere Beschreibung:** Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung.
+**Fokus:** Prüft Hochschulrat, Rechtsaufsicht, Fachaufsichtsgrenzen und ministerielle Beanstandung.
 
 # Hochschulrat, Aufsicht und Ministerium
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `hochschulwahlen`
 
-**Frühere Beschreibung:** Prüft Hochschulwahlen und Wahlprüfung.
+**Fokus:** Prüft Hochschulwahlen und Wahlprüfung.
 
 # Hochschulwahlen
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Wahlprüfungsvermerk. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 4. `hochschulzugang-beruflich-qualifizierte`
 
-**Frühere Beschreibung:** Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung.
+**Fokus:** Prüft Hochschulzugang ohne Abitur, Beratungspflichten, Eignung und Ablehnung.
 
 # Hochschulzugang beruflich Qualifizierte
 

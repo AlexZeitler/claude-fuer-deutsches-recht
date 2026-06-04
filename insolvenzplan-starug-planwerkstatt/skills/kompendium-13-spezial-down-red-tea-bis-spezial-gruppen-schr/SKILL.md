@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-down-red-tea-bis-spezial-gruppen-schr
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-down-red-team-und-qualitaetskontrolle, spezial-gestaltender-zahlen-schwellen-und-berechnung, spezial-gruppen-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Down Red Team Und Qualitaetskontrolle, Gestaltender Zahlen Schwellen Und Berechnung, Gruppen Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-down-red-team-und-qualitaetskontrolle` | Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-gestaltender-zahlen-schwellen-und-berechnung` | Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-down-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Down: Red-Team und Qualitätskontrolle im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Down: Red-Team und Qualitätskontrolle
 
@@ -87,7 +87,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-gestaltender-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gestaltender: Zahlen, Schwellenwerte und Berechnung im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gestaltender: Zahlen, Schwellenwerte und Berechnung
 
@@ -146,7 +146,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-gruppen-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gruppen: Schriftsatz-, Brief- und Memo-Bausteine im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gruppen: Schriftsatz-, Brief- und Memo-Bausteine
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fachanwalt-it-recht-bis-itr-saas-vertrag-bau
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (fachanwalt-it-recht-vertragsstrafe-pruefen, it-recht-cloud-vertrag-datenschutz-due-diligence, it-recht-datenschutz-im-it-vertrag, itr-ki-systeme-vertragsklausel-leitfaden, itr-saas-vertrag-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu It Recht Vertragsstrafe Pruefen, It Recht Cloud Vertrag Datenschutz Due Diligence, It Recht Datenschutz Im It Vertrag, Itr Ki Systeme Vertragsklausel Leitfaden und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-it-recht
+# Arbeitsbereich - It Recht Vertragsstrafe Pruefen bis Itr Saas Vertrag Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-it-recht-vertragsstrafe-pruefen` | Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr. |
 | `it-recht-cloud-vertrag-datenschutz-due-diligence` | Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-fuer-Schritt fuer Pre-Contract-Pruefung und laufende Compliance. Mustertexte fuer Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle). |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-it-recht-vertragsstrafe-pruefen`
 
-**Frühere Beschreibung:** Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr.
+**Fokus:** Vertragsstrafenklausel in IT-Vertraegen auf AGB-Wirksamkeit und Hoechstgrenzen prüfen. Anwendungsfall IT-Vertrag enthaelt Vertragsstrafenklausel und es stellt sich die Frage ob sie wirksam vereinbart ist. Normen § 339 BGB Vertragsstrafe § 307 BGB AGB-Kontrolle Transparenzgebot § 343 BGB Herabsetzung § 348 HGB beiderseitiges Handelsgeschäft § 341 Abs. 3 BGB Vorbehalt. Prüfraster Klauselinhalt klar definierte Pflichtverletzung Hoechstgrenze Verschulden Individualvereinbarung Herabsetzungsrecht BGH-Linie. Output Vertragsstrafenprüfvermerk mit Wirksamkeitsbeurteilung Verhandlungsempfehlung und Anpassungsvorschlag. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr.
 
 # Vertragsstrafe prüfen
 
@@ -191,7 +191,7 @@ sind verifiziert.
 
 ## 2. `it-recht-cloud-vertrag-datenschutz-due-diligence`
 
-**Frühere Beschreibung:** Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-fuer-Schritt fuer Pre-Contract-Pruefung und laufende Compliance. Mustertexte fuer Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutz-Due-Diligence fuer Cloud-Vertraege. Sieben-Fragen-Diagnose: Cloud-Typ IaaS PaaS SaaS Anbietersitz Datenstandort Schlusselverwaltung Subprozessoren Zertifizierung Vertragslaufzeit. Pruefraster fuer Art. 28 DSGVO Mindestinhalte Art. 32 DSGVO TOM Art. 44 ff DSGVO Drittlandstransfer EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework. Schritt-fuer-Schritt fuer Pre-Contract-Pruefung und laufende Compliance. Mustertexte fuer Due-Diligence-Bericht und Risikoampel. Abgrenzung: keine SaaS-AVV im engeren Sinn (it-recht-saas-avv-und-tia-bundle).
 
 # IT-Recht — Cloud-Vertrag mit Datenschutz-Due-Diligence
 
@@ -337,7 +337,7 @@ Empfehlung: [Abschluss / Nachverhandlung / Ablehnung]
 
 ## 3. `it-recht-datenschutz-im-it-vertrag`
 
-**Frühere Beschreibung:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-fuer-Schritt fuer Vertragspruefung. Mustertexte fuer Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
+**Fokus:** Datenschutzklauseln im IT-Vertrag pruefen und gestalten. Schnittstelle IT-Recht und Datenschutzrecht. Sieben-Fragen-Diagnose: Vertragstyp Werkvertrag Dienstvertrag SaaS Lizenz personenbezogene Daten Rolle Verantwortlicher Auftragsverarbeiter gemeinsam Verantwortlicher Subverarbeiter Datenstandort. AVV Art. 28 DSGVO Joint Controllership Art. 26 DSGVO Drittlandstransfer Art. 44 ff DSGVO. Schritt-fuer-Schritt fuer Vertragspruefung. Mustertexte fuer Klauseln. Abgrenzung: kein reiner AVV (avv-pruefung) keine SaaS-Spezialklauseln (it-recht-saas-avv-und-tia-bundle).
 
 # IT-Recht — Datenschutz im IT-Vertrag
 
@@ -454,7 +454,7 @@ Sieben-Fragen-Diagnose:
 
 ## 4. `itr-ki-systeme-vertragsklausel-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor.
+**Fokus:** Leitfaden Vertragsklauseln fuer KI-Systeme: Trainings- und Inferenzphase, Black-Box-Klausel, Halluzination, Outputrechte, Daten-Lizenz. Pruefraster fuer Customer und Vendor.
 
 # IT: KI-Systeme Vertragsklausel
 
@@ -507,7 +507,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 5. `itr-saas-vertrag-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus. Standardklauseln und Verhandlungstipps.
+**Fokus:** Bauleiter SaaS-Vertrag: Service Level Agreement, Datenverarbeitung Auftragsverarbeitungsvertrag, Mitwirkungspflichten, Verfuegbarkeit, Bonus-Malus. Standardklauseln und Verhandlungstipps.
 
 # IT: SaaS-Vertrag Bauleiter
 

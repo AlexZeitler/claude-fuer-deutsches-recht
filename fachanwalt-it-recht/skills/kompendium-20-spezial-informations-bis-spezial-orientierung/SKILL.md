@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spezial-informations-bis-spezial-orientierung
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (spezial-informationstechnologierecht-tatbestand-beweis, spezial-kanzlei-beweislast-und-darlegungslast, spezial-lizenz-risikoampel-und-gegenargumente, spezial-open-mehrparteien-konflikt-und-interessen, spezial-orientierung-sonderfall-und-edge-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Informationstechnologierecht Tatbestand Beweis, Kanzlei Beweislast Und Darlegungslast, Lizenz Risikoampel Und Gegenargumente, Open Mehrparteien Konflikt Und Interessen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-it-recht
+# Arbeitsbereich - Informationstechnologierecht Tatbestand Beweis bis Orientierung Sonderfall Und Edge Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-informationstechnologierecht-tatbestand-beweis` | Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kanzlei-beweislast-und-darlegungslast` | Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-informationstechnologierecht-tatbestand-beweis`
 
-**Frühere Beschreibung:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Informationstechnologierecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -83,7 +83,7 @@ Bei Software-Werkverträgen ist die Abnahme (§ 640 BGB) der entscheidende Wende
 
 ## 2. `spezial-kanzlei-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kanzlei: Beweislast, Darlegungslast und Substantiierung
 
@@ -144,7 +144,7 @@ Bei SLA-Mängeln häufiger Fehler: Verfügbarkeit als Quartalsdurchschnitt verei
 
 ## 3. `spezial-lizenz-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Lizenz: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -214,7 +214,7 @@ Sofortige Anerkennung eines Audit-Defizits beendet Konflikt, kann aber zu Ketten
 
 ## 4. `spezial-open-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Open: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Open: Mehrparteienkonflikt und Interessenmatrix
 
@@ -255,7 +255,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-orientierung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 

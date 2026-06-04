@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-legw-bmleh-agrar-und-bis-legw-bmukn-naturschu
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 09; bündelt 8 frühere Spezialskills (legw-bmleh-agrar-und-foerderungsrecht-gak-gap, legw-bmleh-forst-und-jagdrecht, legw-bmleh-lebensmittelrecht-und-futtermittelrecht, legw-bmleh-tierschutz-und-tiergesundheitsrecht, legw-bmukn-abfall-und-kreislaufwirtschaftsrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmleh Agrar Und Foerderungsrecht Gak Gap, Legw Bmleh Forst Und Jagdrecht, Legw Bmleh Lebensmittelrecht Und Futtermittelrecht, Legw Bmleh Tierschutz Und Tiergesundheitsrecht und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmleh Agrar Und Foerderungsrecht Gak Gap bis Legw Bmukn Naturschutz Und Artenschutzrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmleh-agrar-und-foerderungsrecht-gak-gap` | Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). |
 | `legw-bmleh-forst-und-jagdrecht` | Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.); Akteure (BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmleh-agrar-und-foerderungsrecht-gak-gap`
 
-**Frühere Beschreibung:** Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
+**Fokus:** Sachbereich Agrar- und Foerderungsrecht (GAK; GAP) im Geschaeftsbereich BMLEH: Normbestand (GAKG; AgrarZahlG; InVeKoSV; DueV; OeLG; BWaldG-Bezuege; AgrarStatG.); Akteure (BLE; Laender-Landwirtschaftsministerien; Generaldirektion AGRI; BMEL/BMLEH.); EU-Bezug (GAP-Reform; Direktzahlungen-VO; ELER-VO; Konditionalitaet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
 
 # Agrar- und Foerderungsrecht (GAK; GAP) (BMLEH)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmleh-forst-und-jagdrecht`
 
-**Frühere Beschreibung:** Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.); Akteure (BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
+**Fokus:** Sachbereich Forst- und Jagdrecht im Geschaeftsbereich BMLEH: Normbestand (BWaldG; BJagdG; LJagdGes der Laender; FleischhygieneG; ForstWG.); Akteure (BLE; Laender-Forstaemter und Jagdbehoerden; BMLEH.); EU-Bezug (EUDR (Verordnung gegen Entwaldung); Vogelschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
 
 # Forst- und Jagdrecht (BMLEH)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmleh-lebensmittelrecht-und-futtermittelrecht`
 
-**Frühere Beschreibung:** Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
+**Fokus:** Sachbereich Lebensmittel- und Futtermittelrecht im Geschaeftsbereich BMLEH: Normbestand (LFGB; ZusatzstoffzulV; LMHV; FFG; OekoKennzG; LMIV; FuttermittelV.); Akteure (BVL; BfR; Laender-Lebensmittelueberwachung; BMLEH; EFSA (EU).); EU-Bezug (VO 178/2002 (Basisrechtsakt); Hygienepaket; HealthClaim-VO; LMIV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
 
 # Lebensmittel- und Futtermittelrecht (BMLEH)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmleh-tierschutz-und-tiergesundheitsrecht`
 
-**Frühere Beschreibung:** Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
+**Fokus:** Sachbereich Tierschutz- und Tiergesundheitsrecht im Geschaeftsbereich BMLEH: Normbestand (TierSchG; TierSchNutztV; TierGesG; SchwarzwildG; VermarktungsNormG.); Akteure (BVL; FLI; Laender-Veterinaerbehoerden; Kommunale Veterinaeramter; BMLEH.); EU-Bezug (EU-Tiergesundheitsrecht (AHL); Tierhaltungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmleh (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmleh (Heranfuehrung).
 
 # Tierschutz- und Tiergesundheitsrecht (BMLEH)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmukn-abfall-und-kreislaufwirtschaftsrecht`
 
-**Frühere Beschreibung:** Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
+**Fokus:** Sachbereich Abfall- und Kreislaufwirtschaftsrecht im Geschaeftsbereich BMUKN: Normbestand (KrWG; ElektroG; VerpackG; BatterieG; ChemG; AbfallverbringungsV.); Akteure (UBA; Laender-Abfallbehoerden; Stiftung EAR; Zentrale Stelle Verpackungsregister.); EU-Bezug (EU-Abfallrahmen-RL; Verpackungs-VO; WEEE-RL; Batterieverordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
 
 # Abfall- und Kreislaufwirtschaftsrecht (BMUKN)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmukn-atom-und-strahlenschutzrecht`
 
-**Frühere Beschreibung:** Sachbereich Atom- und Strahlenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.); Akteure (BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.); EU-Bezug (Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
+**Fokus:** Sachbereich Atom- und Strahlenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (AtG; StrlSchG; StrlSchV; EndlSiUntG; StandAG; AtVfV.); Akteure (BMUKN; BASE; BGE; BfS; Laender-Atomaufsichten; Reaktor-Sicherheitskommission.); EU-Bezug (Euratom-Vertrag; Grundnormen-RL; nukleare Sicherheit RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
 
 # Atom- und Strahlenschutzrecht (BMUKN)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmukn-immissionsschutz-und-bimschg`
 
-**Frühere Beschreibung:** Sachbereich Immissionsschutz (BImSchG) im Geschaeftsbereich BMUKN: Normbestand (BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.); Akteure (UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.); EU-Bezug (IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
+**Fokus:** Sachbereich Immissionsschutz (BImSchG) im Geschaeftsbereich BMUKN: Normbestand (BImSchG; BImSchV (1-44; TA Luft; TA Laerm); BBodSchG; UVPG; UmwRG.); Akteure (UBA; BfS (Strahlen); Laender-Genehmigungsbehoerden; Bundesverwaltung Verkehr.); EU-Bezug (IED-RL; Luftqualitaets-RL; Umgebungslaerm-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
 
 # Immissionsschutz (BImSchG) (BMUKN)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmukn-naturschutz-und-artenschutzrecht`
 
-**Frühere Beschreibung:** Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
+**Fokus:** Sachbereich Naturschutz- und Artenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (BNatSchG; NatschGesetze der Laender; CITES; BJagdG (Schnittstelle).); Akteure (BfN; UBA; Laender-Naturschutzbehoerden; Untere Naturschutzbehoerden.); EU-Bezug (FFH-RL; Vogelschutz-RL; Wiederherstellungs-VO (Nature Restoration).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
 
 # Naturschutz- und Artenschutzrecht (BMUKN)
 

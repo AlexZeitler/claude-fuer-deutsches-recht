@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-wahlkampf-kandidaten-bis-wahlkampf-keine-bueh
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (wahlkampf-kandidatenbriefing-kamera, wahlkampf-kandidatenteam-intake, wahlkampf-kandidierenden-fuersorge, wahlkampf-kassenpruefung-kreisverband, wahlkampf-keine-buehne-aber-nicht-fehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Kandidatenbriefing Kamera, Wahlkampf Kandidatenteam Intake, Wahlkampf Kandidierenden Fuersorge, Wahlkampf Kassenpruefung Kreisverband und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Kandidatenbriefing Kamera bis Wahlkampf Keine Buehne Aber Nicht Fehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-kandidatenbriefing-kamera` | Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips und spontane Fragen trainieren. |
 | `wahlkampf-kandidatenteam-intake` | Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-kandidatenbriefing-kamera`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips und spontane Fragen trainieren.
+**Fokus:** Wahlkampfrecht Praxis: Kandidierende fuer Kamera, Smartphone-Clips und spontane Fragen trainieren.
 
 # Kandidatenbriefing Kamera
 
@@ -91,7 +91,7 @@ Erzeuge: **Kamera-Briefing und Do-Don’t-Liste**. Wenn Informationen fehlen, st
 
 ## 2. `wahlkampf-kandidatenteam-intake`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen.
+**Fokus:** Wahlkampfrecht Praxis: Kandidatenteam aufnehmen und biografische, digitale und organisatorische Schwachstellen erkennen.
 
 # Kandidatenteam Intake
 
@@ -144,7 +144,7 @@ Erzeuge: **Kandidatenakte und Risikoampel**. Wenn Informationen fehlen, stelle h
 
 ## 3. `wahlkampf-kandidierenden-fuersorge`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen.
+**Fokus:** Wahlkampfrecht Praxis: Belastung, Angriffe und Burnout in Kandidatenteams ernst nehmen.
 
 # Kandidierenden Fuersorge
 
@@ -197,7 +197,7 @@ Erzeuge: **Fürsorge- und Schutzplan**. Wenn Informationen fehlen, stelle höchs
 
 ## 4. `wahlkampf-kassenpruefung-kreisverband`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kreisverbaenden bei sauberer Kasse waehrend intensiver Kampagnen helfen.
+**Fokus:** Wahlkampfrecht Praxis: Kreisverbaenden bei sauberer Kasse waehrend intensiver Kampagnen helfen.
 
 # Kassenpruefung Kreisverband
 
@@ -250,7 +250,7 @@ Erzeuge: **Kassen-Checkliste**. Wenn Informationen fehlen, stelle höchstens ach
 
 ## 5. `wahlkampf-keine-buehne-aber-nicht-fehlen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll.
+**Fokus:** Wahlkampfrecht Praxis: Alternativen entwickeln, wenn ein Podium nicht besucht werden soll.
 
 # Keine Buehne Aber Nicht Fehlen
 

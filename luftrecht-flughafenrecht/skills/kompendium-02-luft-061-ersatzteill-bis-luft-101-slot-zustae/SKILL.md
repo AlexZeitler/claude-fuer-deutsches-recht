@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-luft-061-ersatzteill-bis-luft-101-slot-zustae
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (luft-061-ersatzteillager-zustaendigkeit-pruefen, luft-071-drohne-zustaendigkeit-pruefen, luft-081-luftfracht-zustaendigkeit-pruefen, luft-091-acc3-zustaendigkeit-pruefen, luft-101-slot-zustaendigkeit-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 061 Ersatzteillager Zustaendigkeit Pruefen, Luft 071 Drohne Zustaendigkeit Pruefen, Luft 081 Luftfracht Zustaendigkeit Pruefen, Luft 091 Acc3 Zustaendigkeit Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 061 Ersatzteillager Zustaendigkeit Pruefen bis Luft 101 Slot Zustaendigkeit Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-061-ersatzteillager-zustaendigkeit-pruefen` | Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zustaendigkeits-Vermerk fuer Lager-Genehmigung. |
 | `luft-071-drohne-zustaendigkeit-pruefen` | Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behoerde zustaendig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zustaendigkeits-Vermerk fuer Drohnen-Genehmigung oder Streit. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-061-ersatzteillager-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zustaendigkeits-Vermerk fuer Lager-Genehmigung.
+**Fokus:** Ersatzteillager fuer Luftfahrzeuge: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Gefahrgut-Aufsicht. Prueft LuftVG EASA Part-145 Approved Maintenance Organisation Zollrecht und Gefahrgutrecht und liefert Zustaendigkeits-Vermerk fuer Lager-Genehmigung.
 
 # Ersatzteillager – Zuständigkeit prüfen
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 2. `luft-071-drohne-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behoerde zustaendig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zustaendigkeits-Vermerk fuer Drohnen-Genehmigung oder Streit.
+**Fokus:** Drohnen-Mandat: unklar ob LBA EASA Landesbehoerde oder Luftraum-Nutzer-Behoerde zustaendig. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a und U-Space-Regulierung und liefert Zustaendigkeits-Vermerk fuer Drohnen-Genehmigung oder Streit.
 
 # Drohne – Zuständigkeit prüfen
 
@@ -221,7 +221,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 3. `luft-081-luftfracht-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Luftfracht-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zustaendigkeits-Vermerk fuer Luftfracht-Streit oder Genehmigungsverfahren.
+**Fokus:** Luftfracht-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Zollbehoerde oder Luftsicherheitsbehoerde. Prueft LuftVG Montreal Convention Art. 18 IATA-Frachtregeln Zollrecht und liefert Zustaendigkeits-Vermerk fuer Luftfracht-Streit oder Genehmigungsverfahren.
 
 # Luftfracht – Zuständigkeit prüfen
 
@@ -315,7 +315,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 4. `luft-091-acc3-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zustaendigkeits-Vermerk fuer ACC3-Designierungsverfahren.
+**Fokus:** ACC3-Mandat: Luftfrachttraeger der Fracht aus Drittlaendern in EU bringt muss Designierung und Validierung nachweisen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 LuftSiG § 9 und EU-Validierungs-Verfahren und liefert Zustaendigkeits-Vermerk fuer ACC3-Designierungsverfahren.
 
 # ACC3 – Zuständigkeit prüfen
 
@@ -409,7 +409,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 5. `luft-101-slot-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit.
+**Fokus:** Slot-Mandat: unklar ob Fluko LBA oder Verwaltungsgericht zustaendig ist fuer Slot-Zuweisung Widerspruch oder Klage. Prueft LuftVG §§ 27a-27d FHKV VO EWG 95/93 und Verwaltungsrechtsweg und liefert Zustaendigkeits-Vermerk fuer Slot-Rechtsstreit.
 
 # Slot – Zuständigkeit prüfen
 

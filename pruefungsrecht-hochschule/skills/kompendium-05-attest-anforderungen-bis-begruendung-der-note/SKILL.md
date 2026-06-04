@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-attest-anforderungen-bis-begruendung-der-note
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (attest-anforderungen-hochschule, auslandsanerkennung-pruefungsleistung, befangenheit-pruefer, begruendung-der-note) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Attest Anforderungen Hochschule, Auslandsanerkennung Pruefungsleistung, Befangenheit Pruefer, Begruendung Der Note; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - pruefungsrecht-hochschule
+# Arbeitsbereich - Attest Anforderungen Hochschule bis Begruendung Der Note
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `attest-anforderungen-hochschule` | Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren. |
 | `auslandsanerkennung-pruefungsleistung` | Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `attest-anforderungen-hochschule`
 
-**Frühere Beschreibung:** Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren.
+**Fokus:** Prüft formale und materielle Anforderungen an Atteste in Prüfungsverfahren.
 
 # Attestanforderungen Hochschule
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 2. `auslandsanerkennung-pruefungsleistung`
 
-**Frühere Beschreibung:** Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung.
+**Fokus:** Prüft Anerkennung ausländischer Leistungen, Learning Agreement, ECTS und Ablehnung.
 
 # Auslandsanerkennung Prüfungsleistung
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `befangenheit-pruefer`
 
-**Frühere Beschreibung:** Prüft Prüferbefangenheit und Besorgnis der Befangenheit.
+**Fokus:** Prüft Prüferbefangenheit und Besorgnis der Befangenheit.
 
 # Befangenheit Pruefer
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Befangenheitsantrag. Am Ende immer drei Zeilen: **Frist**, **
 
 ## 4. `begruendung-der-note`
 
-**Frühere Beschreibung:** Prüft Begründungspflicht und Bewertungsfeedback.
+**Fokus:** Prüft Begründungspflicht und Bewertungsfeedback.
 
 # Begruendung Der Note
 

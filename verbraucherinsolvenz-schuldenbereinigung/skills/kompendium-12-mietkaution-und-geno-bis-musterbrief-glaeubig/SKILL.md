@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-mietkaution-und-geno-bis-musterbrief-glaeubig
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (mietkaution-und-genossenschaftsanteil, muster-schuldenbereinigungsplan, musterbrief-glaeubiger) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Mietkaution Und Genossenschaftsanteil, Muster Schuldenbereinigungsplan, Musterbrief Glaeubiger
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mietkaution-und-genossenschaftsanteil` | Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `muster-schuldenbereinigungsplan` | Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mietkaution-und-genossenschaftsanteil`
 
-**Frühere Beschreibung:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.; Normanker: InsO § 109; BGB Mietkaution; Genossenschaftsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Mietkaution und Genossenschaftsanteile: Masse, Wohnungserhalt, Freigabe und Kündigungsrisiken.
 
@@ -69,7 +69,7 @@ InsO § 109; BGB Mietkaution; Genossenschaftsrecht. Entscheidend ist immer der a
 
 ## 2. `muster-schuldenbereinigungsplan`
 
-**Frühere Beschreibung:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.; Normanker: InsO §§ 305 und 307-309; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Muster-Schuldenbereinigungsplan: Nullplan, Quotenplan, Drittmittelplan und Begründung in Alltagssprache.
 
@@ -110,7 +110,7 @@ InsO §§ 305, 307-309. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 ## 3. `musterbrief-glaeubiger`
 
-**Frühere Beschreibung:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.; Normanker: InsO § 305; BGB Anerkenntnis; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Musterbrief an Gläubiger: Forderungsstand, Vollmacht, Planangebot, Frist, keine Anerkenntnisfalle.
 

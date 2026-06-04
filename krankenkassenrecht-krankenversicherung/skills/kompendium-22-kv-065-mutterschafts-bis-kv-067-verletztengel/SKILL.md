@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-kv-065-mutterschafts-bis-kv-067-verletztengel
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (kv-065-mutterschaftsgeld-und-schwangerschaftsleistungen, kv-066-kinderkrankengeld-und-pflegezeit, kv-067-verletztengeld-krankengeld-abgrenzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 065 Mutterschaftsgeld Und Schwangerschaftsleistungen, Kv 066 Kinderkrankengeld Und Pflegezeit, Kv 067 Verletztengeld Krankengeld Abgrenzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 065 Mutterschaftsgeld Und Schwangerschaftsleistungen, Kv 066 Kinderkrankengeld Und Pflegezeit, Kv 067 Verletztengeld Krankengeld Abgrenzun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-065-mutterschaftsgeld-und-schwangerschaftsleistungen` | GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge. |
 | `kv-066-kinderkrankengeld-und-pflegezeit` | Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-065-mutterschaftsgeld-und-schwangerschaftsleistungen`
 
-**Frühere Beschreibung:** GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge.
+**Fokus:** GKV-Leistungen für Schwangere und Mütter: Mutterschaftsgeld (§ 24i SGB V), Schwangerschaftsvorsorge, Entbindungsleistungen und Nachsorge.
 
 # Mutterschaftsgeld und Schwangerschaftsleistungen
 
@@ -113,7 +113,7 @@ Dieser Skill klärt alle **GKV-Leistungen rund um Schwangerschaft und Geburt**: 
 
 ## 2. `kv-066-kinderkrankengeld-und-pflegezeit`
 
-**Frühere Beschreibung:** Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht.
+**Fokus:** Kinderkrankengeld nach § 45 SGB V: Anspruch, Dauer, Erweiterung durch Corona-Regelungen; Pflege und Betreuung erkrankter Kinder im Leistungsrecht.
 
 # Kinderkrankengeld und Pflegezeit
 
@@ -194,7 +194,7 @@ Dieser Skill klärt den **Anspruch auf Kinderkrankengeld** bei Betreuung erkrank
 
 ## 3. `kv-067-verletztengeld-krankengeld-abgrenzung`
 
-**Frühere Beschreibung:** Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit.
+**Fokus:** Abgrenzung Verletztengeld (BG, § 45 SGB VII) und Krankengeld (GKV, § 44 SGB V): Zuständigkeit bei Arbeitsunfall, Höhe, Übergang und Gleichzeitigkeit.
 
 # Verletztengeld und Krankengeld: Abgrenzung
 

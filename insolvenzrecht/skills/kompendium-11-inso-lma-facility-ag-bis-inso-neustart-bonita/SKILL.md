@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-inso-lma-facility-ag-bis-inso-neustart-bonita
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (inso-lma-facility-agent-und-syndikat, inso-massearmut-massekostenmangel-spezial, inso-negativeintrag-bestreiten-belegpaket, inso-neustart-bonitaet-konto-kredit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Lma Facility Agent Und Syndikat, Inso Massearmut Massekostenmangel Spezial, Inso Negativeintrag Bestreiten Belegpaket, Inso Neustart Bonitaet Konto Kredit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - insolvenzrecht
+# Arbeitsbereich - Inso Lma Facility Agent Und Syndikat bis Inso Neustart Bonitaet Konto Kredit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-lma-facility-agent-und-syndikat` | Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility Agent, Security Agent, Majority Lenders, Waiver, Standstill, Acceleration und Forderungsanmeldung. |
 | `inso-massearmut-massekostenmangel-spezial` | Spezialfall Massearmut und Massekostenmangel § 207 InsO: Einstellung mangels Masse, Verfahrenskostenstundung, Restschuldbefreiung. Pruefraster fuer Schuldner und Verwalter. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-lma-facility-agent-und-syndikat`
 
-**Frühere Beschreibung:** Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility Agent, Security Agent, Majority Lenders, Waiver, Standstill, Acceleration und Forderungsanmeldung.
+**Fokus:** Prüft syndizierte LMA-Finanzierung in Insolvenz/StaRUG: Facility Agent, Security Agent, Majority Lenders, Waiver, Standstill, Acceleration und Forderungsanmeldung.
 
 # Insolvenz: LMA Facility, Agent und Syndikat
 
@@ -72,7 +72,7 @@ InsO, StaRUG, BGB, Sicherheitenrecht, hochgeladener Kreditvertrag.
 
 ## 2. `inso-massearmut-massekostenmangel-spezial`
 
-**Frühere Beschreibung:** Spezialfall Massearmut und Massekostenmangel § 207 InsO: Einstellung mangels Masse, Verfahrenskostenstundung, Restschuldbefreiung. Pruefraster fuer Schuldner und Verwalter.
+**Fokus:** Spezialfall Massearmut und Massekostenmangel § 207 InsO: Einstellung mangels Masse, Verfahrenskostenstundung, Restschuldbefreiung. Pruefraster fuer Schuldner und Verwalter.
 
 # Inso: Massearmut Massekostenmangel
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 3. `inso-negativeintrag-bestreiten-belegpaket`
 
-**Frühere Beschreibung:** Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Registerauszüge, Erledigungsnachweise, Löschfristen, Auskunft und Versandnachweis.
+**Fokus:** Belegpaket gegen negative Auskunfteieinträge: Beschlüsse, Registerauszüge, Erledigungsnachweise, Löschfristen, Auskunft und Versandnachweis.
 
 # Negativeintrag bestreiten: Belegpaket
 
@@ -183,7 +183,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 4. `inso-neustart-bonitaet-konto-kredit`
 
-**Frühere Beschreibung:** Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Vermieter-/Bankauskunft, Löschung, Berichtigung und Dokumentation.
+**Fokus:** Praktischer Neustart nach Restschuldbefreiung: Basiskonto, Kreditfähigkeit, Vermieter-/Bankauskunft, Löschung, Berichtigung und Dokumentation.
 
 # Neustart nach Insolvenz: Konto, Kredit, Bonität
 

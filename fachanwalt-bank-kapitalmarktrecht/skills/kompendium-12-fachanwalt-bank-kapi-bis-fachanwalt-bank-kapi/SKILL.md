@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-fachanwalt-bank-kapi-bis-fachanwalt-bank-kapi
-description: "fachanwalt-bank-kapitalmarktrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (fachanwalt-bank-kapitalmarktrecht-orientierung, fachanwalt-bank-kapitalmarktrecht-schufa-eintrag, fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bank-kapitalmarktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bank Kapitalmarktrecht Orientierung, Bank Kapitalmarktrecht Schufa Eintrag, Bank Kapitalmarktrecht Schufa Loeschungsanspruch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-bank-kapitalmarktrecht
+# Arbeitsbereich - Bank Kapitalmarktrecht Orientierung, Bank Kapitalmarktrecht Schufa Eintrag, Bank Kapitalmarktrecht Schufa Loeschungsanspruch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-orientierung` | Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing). |
 | `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-orientierung`
 
-**Frühere Beschreibung:** Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing).
+**Fokus:** Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing).
 
 # Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung
 
@@ -133,7 +133,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-bank-kapitalmarktrecht-schufa-eintrag`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa eintrag. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # SCHUFA-Eintrag
 
@@ -216,7 +216,7 @@ Mit freundlichen Gruessen
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht schufa loeschungsanspruch. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # SCHUFA-Löschungsanspruch
 

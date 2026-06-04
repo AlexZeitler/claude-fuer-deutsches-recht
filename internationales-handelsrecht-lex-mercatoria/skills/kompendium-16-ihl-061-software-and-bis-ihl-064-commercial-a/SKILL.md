@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-ihl-061-software-and-bis-ihl-064-commercial-a
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (ihl-061-software-and-saas-crossborder, ihl-062-agency-distribution-franchise, ihl-063-exclusive-distributor, ihl-064-commercial-agent-eu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 061 Software And Saas Crossborder, Ihl 062 Agency Distribution Franchise, Ihl 063 Exclusive Distributor, Ihl 064 Commercial Agent Eu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 061 Software And Saas Crossborder bis Ihl 064 Commercial Agent Eu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-061-software-and-saas-crossborder` | Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand. |
 | `ihl-062-agency-distribution-franchise` | Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-061-software-and-saas-crossborder`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand.
+**Fokus:** Internationales Handelsrecht: Software- und SaaS-Verträge im grenzüberschreitenden B2B-Kontext. Lizenzrecht, Service Level Agreements (SLA), Daten-Portabilität, Exit-Klauseln, Exportkontrolle für Kryptographie (EAR Cat. 5 Part 2) und Gerichtsstand.
 
 # Software- und SaaS-Verträge im grenzüberschreitenden B2B
 
@@ -81,7 +81,7 @@ EAR 15 CFR: bis.doc.gov. DSGVO: eur-lex.europa.eu. Data Act 2023/2854: eur-lex.e
 
 ## 2. `ihl-062-agency-distribution-franchise`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz.
+**Fokus:** Internationales Handelsrecht: Handelsvertreter, Vertriebsvertrag und Franchise im internationalen Vergleich. EU-Handelsvertreter-RL 86/653/EWG (Ausgleichsanspruch), Alleinvertrieb, Wettbewerbsverbot, Franchise-Disclosure und Kündigungsschutz.
 
 # Handelsvertreter, Vertriebsvertrag und Franchise
 
@@ -133,7 +133,7 @@ HGB §§ 84, 89b: gesetze-im-internet.de. EU-HV-RL 86/653/EWG: eur-lex.europa.eu
 
 ## 3. `ihl-063-exclusive-distributor`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung.
+**Fokus:** Internationales Handelsrecht: Alleinvertriebsvertrag international. Gebietsschutz nach VBER 2022 (EU) 2022/720, Mindestumsatzpflichten, Wettbewerbsverbote, Kündigung und Schadensersatz bei missbräuchlicher Beendigung.
 
 # Alleinvertriebsvertrag International
 
@@ -185,7 +185,7 @@ VBER (EU) 2022/720: eur-lex.europa.eu. GWB § 20: gesetze-im-internet.de. Leitli
 
 ## 4. `ihl-064-commercial-agent-eu`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln.
+**Fokus:** Internationales Handelsrecht: EU-Handelsvertreterrecht nach RL 86/653/EWG und HGB §§ 84-92c. Vergütung (Provision), Ausgleichsanspruch § 89b HGB, Kundschutzliste, Delkrederepflicht und Kollisionsrecht bei ausländischen HV-Klauseln.
 
 # EU-Handelsvertreterrecht
 

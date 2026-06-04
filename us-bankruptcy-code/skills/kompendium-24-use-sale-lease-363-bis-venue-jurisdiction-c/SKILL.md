@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-use-sale-lease-363-bis-venue-jurisdiction-c
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (use-sale-lease-363, utilities-366, valuation-enterprise, venue-jurisdiction-core) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Use Sale Lease 363, Utilities 366, Valuation Enterprise, Venue Jurisdiction Core; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - us-bankruptcy-code
+# Arbeitsbereich - Use Sale Lease 363 bis Venue Jurisdiction Core
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `use-sale-lease-363` | Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections. |
 | `utilities-366` | Prueft utility service, adequate assurance, deposits, objections and first-day relief. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `use-sale-lease-363`
 
-**Frühere Beschreibung:** Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections.
+**Fokus:** Prueft ordinary/nonordinary use, sale or lease of estate property, notice, business judgment and objections.
 
 # Use, Sale or Lease § 363
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `utilities-366`
 
-**Frühere Beschreibung:** Prueft utility service, adequate assurance, deposits, objections and first-day relief.
+**Fokus:** Prueft utility service, adequate assurance, deposits, objections and first-day relief.
 
 # Utilities § 366
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `valuation-enterprise`
 
-**Frühere Beschreibung:** Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer.
+**Fokus:** Prueft valuation evidence for plan, cramdown, adequate protection, 363 sale, solvency and fraudulent transfer.
 
 # Enterprise Valuation
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `venue-jurisdiction-core`
 
-**Frühere Beschreibung:** Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions.
+**Fokus:** Prueft Bankruptcy Court jurisdiction, venue, core/non-core, related-to, removal and abstention questions.
 
 # Venue, Jurisdiction and Core Proceedings
 

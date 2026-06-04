@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bewaehrung-auflagen-bis-freiheitsstrafe-ohne
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (bewaehrung-auflagen-und-weisungen-56b-c-stgb, bewaehrungswiderruf-56f-stgb, freiheitsstrafe-ohne-bewaehrung-vollstreckung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - strafzumessung
+# Arbeitsbereich - Bewaehrung Auflagen Und Weisungen 56b C Stgb, Bewaehrungswiderruf 56f Stgb, Freiheitsstrafe Ohne Bewaehrung Vollstreckung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bewaehrung-auflagen-und-weisungen-56b-c-stgb` | Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Geldzahlung gemeinnuetzige Arbeit. Weisungen lenken kuenftiges Verhalten Aufenthalt Beruf Therapie Kontaktverbot. Bewaehrungshelfer § 56d StGB. Aktive Verteidigungsstrategie: Auflagenangebote vorbereiten, ueberzogene Weisungen abwehren. |
 | `bewaehrungswiderruf-56f-stgb` | Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhoerungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bewaehrung-auflagen-und-weisungen-56b-c-stgb`
 
-**Frühere Beschreibung:** Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Geldzahlung gemeinnuetzige Arbeit. Weisungen lenken kuenftiges Verhalten Aufenthalt Beruf Therapie Kontaktverbot. Bewaehrungshelfer § 56d StGB. Aktive Verteidigungsstrategie: Auflagenangebote vorbereiten, ueberzogene Weisungen abwehren.
+**Fokus:** Auflagen § 56b StGB und Weisungen § 56c StGB im Bewaehrungsbeschluss. Auflagen dienen der Genugtuung Wiedergutmachung Geldzahlung gemeinnuetzige Arbeit. Weisungen lenken kuenftiges Verhalten Aufenthalt Beruf Therapie Kontaktverbot. Bewaehrungshelfer § 56d StGB. Aktive Verteidigungsstrategie: Auflagenangebote vorbereiten, ueberzogene Weisungen abwehren.
 
 # Auflagen und Weisungen — §§ 56b, 56c StGB
 
@@ -139,7 +139,7 @@ VI. Belehrung nach § 268a Abs. 3 StPO.
 
 ## 2. `bewaehrungswiderruf-56f-stgb`
 
-**Frühere Beschreibung:** Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhoerungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren.
+**Fokus:** Widerruf der Strafaussetzung zur Bewaehrung nach § 56f StGB. Widerrufsgruende neue Straftat in der Bewaehrungszeit, Verletzung von Auflagen Weisungen, Entziehung von der Bewaehrungshilfe. Verhaeltnismaessigkeitspruefung. Beschluss-Verfahren § 453 StPO. Sofortige Beschwerde. Verteidigungsstrategie: Anhoerungsrecht, Wiedereinsetzung, Therapie nachholen, Auflagenerfuellung dokumentieren.
 
 # Bewaehrungswiderruf — § 56f StGB
 
@@ -251,7 +251,7 @@ Bei Widerruf werden Leistungen, die der Verurteilte zur Erfuellung von Auflagen 
 
 ## 3. `freiheitsstrafe-ohne-bewaehrung-vollstreckung`
 
-**Frühere Beschreibung:** Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium.
+**Fokus:** Freiheitsstrafe ohne Bewaehrung. Anrechnung Untersuchungshaft und Auslieferungshaft § 51 StGB. Vollstreckungsplanung Reststrafenaussetzung § 57 StGB Halbstrafe Drittel. Lebenslang § 57a StGB. Strafaufschub § 456 StPO. Strafunterbrechung § 455 StPO. § 35 BtMG Therapie statt Strafe. Beleidigte Vollstreckungsplanung; Verteidigung im Vollstreckungsstadium.
 
 # Freiheitsstrafe ohne Bewaehrung — Vollstreckung
 

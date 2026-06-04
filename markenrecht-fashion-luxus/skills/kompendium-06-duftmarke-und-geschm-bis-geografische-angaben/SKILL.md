@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-duftmarke-und-geschm-bis-geografische-angaben
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (duftmarke-und-geschmacksmarke, einstweilige-verfuegung-markenrecht-dringleichkeit, erschoepfung-parallelimport-graumarkt, geografische-angaben-kollektiv-gewaehrleistungsmarke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Duftmarke Und Geschmacksmarke, Einstweilige Verfuegung Markenrecht Dringleichkeit, Erschoepfung Parallelimport Graumarkt, Geografische Angaben Kollektiv Gewaehrleistungsmarke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - markenrecht-fashion-luxus
+# Arbeitsbereich - Duftmarke Und Geschmacksmarke bis Geografische Angaben Kollektiv Gewaehrleistungsmarke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `duftmarke-und-geschmacksmarke` | Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen. |
 | `einstweilige-verfuegung-markenrecht-dringleichkeit` | Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `duftmarke-und-geschmacksmarke`
 
-**Frühere Beschreibung:** Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen.
+**Fokus:** Duftmarken und Geschmacksmarken realistisch prüfen: Darstellbarkeit, klare und eindeutige Wiedergabe, praktische Eintragungshürden, UWG-, Patent-, Design- und Geschäftsgeheimnis-Alternativen.
 
 # Duftmarken und Geschmacksmarken
 
@@ -168,7 +168,7 @@ Thema: wettbewerbliche Eigenart und UWG-Nachahmungsschutz; passt inhaltlich zum 
 
 ## 2. `einstweilige-verfuegung-markenrecht-dringleichkeit`
 
-**Frühere Beschreibung:** Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung.
+**Fokus:** Einstweilige Verfügung im Markenrecht vorbereiten oder abwehren: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Selbstwiderlegung, Glaubhaftmachung, Schutzschrift, Anträge und Vollziehung.
 
 # Einstweilige Verfügung im Markenrecht
 
@@ -221,7 +221,7 @@ Lokale Gerichtspraxis und Rechtsprechung nur verifiziert verwenden. Dringlichkei
 
 ## 3. `erschoepfung-parallelimport-graumarkt`
 
-**Frühere Beschreibung:** Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie.
+**Fokus:** Erschöpfung, Parallelimport und Graumarkt prüfen: erstes Inverkehrbringen im EWR, Zustimmung, Umpacken, Luxusimage, selektiver Vertrieb, Beweislast, Testkäufe und Durchsetzungsstrategie.
 
 # Erschöpfung, Parallelimport und Graumarkt
 
@@ -273,7 +273,7 @@ EuGH/BGH-Rechtsprechung nur verifiziert zitieren; Produkt- und Lieferdaten nicht
 
 ## 4. `geografische-angaben-kollektiv-gewaehrleistungsmarke`
 
-**Frühere Beschreibung:** Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke.
+**Fokus:** Geografische Angaben, Kollektivmarken und Gewährleistungsmarken prüfen: Herkunftsschutz, Qualitätszeichen, Verbandsmarke, Satzung, Irreführung, EU-Schutzsysteme und Abgrenzung zur Individualmarke.
 
 # Geografische Angaben, Kollektiv- und Gewährleistungsmarken
 

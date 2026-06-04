@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-inso-p270f-anordnung-bis-inso-p288-bestimmung
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 21 frühere Spezialskills (inso-p270f-anordnung-der-eigenverwaltung, inso-p270g-eigenverwaltung-bei-gruppenangehorigen-schuldnern, inso-p271-nachtragliche-anordnung, inso-p272-aufhebung-der-anordnung, inso-p273-offentliche-bekanntmachung und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P270f Anordnung Der Eigenverwaltung, Inso P270g Eigenverwaltung Bei Gruppenangehorigen Schuldnern, Inso P271 Nachtragliche Anordnung, Inso P272 Aufhebung Der Anordnung und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P270f Anordnung Der Eigenverwaltung bis Inso P288 Bestimmung Des Treuhanders
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p270f-anordnung-der-eigenverwaltung` | § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p270g-eigenverwaltung-bei-gruppenangehorigen-schuldnern` | § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p270f-anordnung-der-eigenverwaltung`
 
-**Frühere Beschreibung:** § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270f InsO (Anordnung der Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270f InsO — Anordnung der Eigenverwaltung
 
@@ -100,7 +100,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p270g-eigenverwaltung-bei-gruppenangehorigen-schuldnern`
 
-**Frühere Beschreibung:** § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270g InsO (Eigenverwaltung bei gruppenangehörigen Schuldnern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270g InsO — Eigenverwaltung bei gruppenangehörigen Schuldnern
 
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p271-nachtragliche-anordnung`
 
-**Frühere Beschreibung:** § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 271 InsO (Nachträgliche Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 271 InsO — Nachträgliche Anordnung
 
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p272-aufhebung-der-anordnung`
 
-**Frühere Beschreibung:** § 272 InsO (Aufhebung der Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 272 InsO (Aufhebung der Anordnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 272 InsO — Aufhebung der Anordnung
 
@@ -263,7 +263,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p273-offentliche-bekanntmachung`
 
-**Frühere Beschreibung:** § 273 InsO (Öffentliche Bekanntmachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 273 InsO (Öffentliche Bekanntmachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 273 InsO — Öffentliche Bekanntmachung
 
@@ -317,7 +317,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p274-rechtsstellung-des-sachwalters`
 
-**Frühere Beschreibung:** § 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 274 InsO (Rechtsstellung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 274 InsO — Rechtsstellung des Sachwalters
 
@@ -371,7 +371,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p275-mitwirkung-des-sachwalters`
 
-**Frühere Beschreibung:** § 275 InsO (Mitwirkung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 275 InsO (Mitwirkung des Sachwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 275 InsO — Mitwirkung des Sachwalters
 
@@ -425,7 +425,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p276-mitwirkung-des-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 276 InsO (Mitwirkung des Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 276 InsO — Mitwirkung des Gläubigerausschusses
 
@@ -479,7 +479,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p276a-mitwirkung-der-uberwachungsorgane`
 
-**Frühere Beschreibung:** § 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 276a InsO (Mitwirkung der Überwachungsorgane) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 276a InsO — Mitwirkung der Überwachungsorgane
 
@@ -533,7 +533,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p277-anordnung-der-zustimmungsbedurftigkeit`
 
-**Frühere Beschreibung:** § 277 InsO (Anordnung der Zustimmungsbedürftigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 277 InsO (Anordnung der Zustimmungsbedürftigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 277 InsO — Anordnung der Zustimmungsbedürftigkeit
 
@@ -587,7 +587,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p278-mittel-zur-lebensfuhrung-des-schuldners`
 
-**Frühere Beschreibung:** § 278 InsO (Mittel zur Lebensführung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 278 InsO (Mittel zur Lebensführung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 278 InsO — Mittel zur Lebensführung des Schuldners
 
@@ -641,7 +641,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p281-unterrichtung-der-glaubiger`
 
-**Frühere Beschreibung:** § 281 InsO (Unterrichtung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 281 InsO (Unterrichtung der Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 281 InsO — Unterrichtung der Gläubiger
 
@@ -695,7 +695,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p282-verwertung-von-sicherungsgut`
 
-**Frühere Beschreibung:** § 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 282 InsO (Verwertung von Sicherungsgut) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 282 InsO — Verwertung von Sicherungsgut
 
@@ -750,7 +750,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p283-befriedigung-der-insolvenzglaubiger`
 
-**Frühere Beschreibung:** § 283 InsO (Befriedigung der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 283 InsO (Befriedigung der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 283 InsO — Befriedigung der Insolvenzgläubiger
 
@@ -804,7 +804,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p284-insolvenzplan`
 
-**Frühere Beschreibung:** § 284 InsO (Insolvenzplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 284 InsO (Insolvenzplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 284 InsO — Insolvenzplan
 
@@ -859,7 +859,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p285-masseunzulanglichkeit`
 
-**Frühere Beschreibung:** § 285 InsO (Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 285 InsO (Masseunzulänglichkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 285 InsO — Masseunzulänglichkeit
 
@@ -914,7 +914,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p286-grundsatz`
 
-**Frühere Beschreibung:** § 286 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 286 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 286 InsO — Grundsatz
 
@@ -968,7 +968,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p287-antrag-des-schuldners`
 
-**Frühere Beschreibung:** § 287 InsO (Antrag des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 287 InsO (Antrag des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 287 InsO — Antrag des Schuldners
 
@@ -1023,7 +1023,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p287a-entscheidung-des-insolvenzgerichts`
 
-**Frühere Beschreibung:** § 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 287a InsO (Entscheidung des Insolvenzgerichts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 287a InsO — Entscheidung des Insolvenzgerichts
 
@@ -1077,7 +1077,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p287b-erwerbsobliegenheit-des-schuldners`
 
-**Frühere Beschreibung:** § 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 287b InsO (Erwerbsobliegenheit des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 287b InsO — Erwerbsobliegenheit des Schuldners
 
@@ -1131,7 +1131,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p288-bestimmung-des-treuhanders`
 
-**Frühere Beschreibung:** § 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 288 InsO (Bestimmung des Treuhänders) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 288 InsO — Bestimmung des Treuhänders
 

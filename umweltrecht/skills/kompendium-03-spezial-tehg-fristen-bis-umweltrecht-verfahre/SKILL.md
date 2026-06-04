@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-tehg-fristen-bis-umweltrecht-verfahre
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-tehg-fristen-form-und-zustaendigkeit, spezial-verfahren-verhandlung-vergleich-und-eskalation, umweltrecht-verfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - umweltrecht
+# Arbeitsbereich - Tehg Fristen Form Und Zustaendigkeit, Verfahren Verhandlung Vergleich Und Eskalation, Umweltrecht Verfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-tehg-fristen-form-und-zustaendigkeit` | Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahren-verhandlung-vergleich-und-eskalation` | Verfahren: Verhandlung, Vergleich und Eskalation im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-tehg-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tehg: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Tehg: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verfahren-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Verfahren: Verhandlung, Vergleich und Eskalation im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verfahren: Verhandlung, Vergleich und Eskalation im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verfahren: Verhandlung, Vergleich und Eskalation
 
@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `umweltrecht-verfahren`
 
-**Frühere Beschreibung:** Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht).
+**Fokus:** Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht).
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren
 

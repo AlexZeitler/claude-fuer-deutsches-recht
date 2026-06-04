@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-kanzlei-allgemein-fr-bis-kanzlei-allgemein-ha
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (kanzlei-allgemein-freundlicher-copilot, kanzlei-allgemein-handelsregisterabruf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Allgemein Freundlicher Copilot, Kanzlei Allgemein Handelsregisterabruf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - kanzlei-allgemein
+# Arbeitsbereich - Kanzlei Allgemein Freundlicher Copilot, Kanzlei Allgemein Handelsregisterabruf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-allgemein-freundlicher-copilot` | Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklärungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening. |
 | `kanzlei-allgemein-handelsregisterabruf` | Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-allgemein-freundlicher-copilot`
 
-**Frühere Beschreibung:** Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklärungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening.
+**Fokus:** Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklärungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening.
 
 # Freundlicher Kanzlei-Copilot
 
@@ -123,7 +123,7 @@ Wenn Text juristisch schwach, zu pauschal oder nicht beweisbar wirkt:
 
 ## 2. `kanzlei-allgemein-handelsregisterabruf`
 
-**Frühere Beschreibung:** Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte.
+**Fokus:** Handelsregisterabruf über offizielle Quellen für Unternehmensprüfung in Mandaten. Anwendungsfall Mandant oder Gegner ist eine GmbH und Vertretung Gesellschafterstruktur und Prokura muessen geprüft werden. Normen §§ 15 17 HGB Registerrecht § 10 GwG wirtschaftlich Berechtigte. Prüfraster Firma Sitz Registergericht Vertretung Prokura Gesellschafterliste Gesellschaftsvertrag Zeitstempel Quellenprotokoll. Output Handelsregisterauszug-Zusammenfassung mit Vertretungsnachweis Gesellschafterstruktur und GwG-Dokumentation. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte.
 
 # Handelsregisterabruf
 

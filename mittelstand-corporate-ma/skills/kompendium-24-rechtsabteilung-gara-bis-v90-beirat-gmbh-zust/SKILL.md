@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-rechtsabteilung-gara-bis-v90-beirat-gmbh-zust
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (rechtsabteilung-garantiekatalog-ohne-grosskanzlei-overkill, rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten, v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Garantiekatalog Ohne Grosskanzlei Overkill, Vendor Due Diligence Fuer Versteckte Altlasten, V90 Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - mittelstand-corporate-ma
+# Arbeitsbereich - Garantiekatalog Ohne Grosskanzlei Overkill, Vendor Due Diligence Fuer Versteckte Altlasten, V90 Beirat Gmbh Zustimmungskatalog Und Konfliktma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-garantiekatalog-ohne-grosskanzlei-overkill` | Rechtsabteilungs-Spezialskill für Garantiekatalog ohne Großkanzlei-Overkill: Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten` | Rechtsabteilungs-Spezialskill für Vendor Due Diligence für versteckte Altlasten: Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-garantiekatalog-ohne-grosskanzlei-overkill`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Garantiekatalog ohne Großkanzlei-Overkill: Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Garantiekatalog ohne Großkanzlei-Overkill: Garantien werden für Mittelstandstransaktionen risikobasiert gestrafft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Garantiekatalog ohne Großkanzlei-Overkill
 
@@ -84,7 +84,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-vendor-due-diligence-fuer-versteckte-altlasten`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Vendor Due Diligence für versteckte Altlasten: Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Vendor Due Diligence für versteckte Altlasten: Der Verkäufer baut eine Verteidigungsakte statt bloßer Verkaufsbroschüre. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Vendor Due Diligence für versteckte Altlasten
 
@@ -140,7 +140,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
 
-**Frühere Beschreibung:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+**Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 

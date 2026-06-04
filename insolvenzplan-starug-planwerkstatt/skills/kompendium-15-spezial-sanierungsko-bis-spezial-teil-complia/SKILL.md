@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-sanierungsko-bis-spezial-teil-complia
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-sanierungskonzept-risikoampel-und-gegenargumente, spezial-starug-tatbestand-beweis-und-belege, spezial-teil-compliance-dokumentation-und-akte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Sanierungskonzept Risikoampel Und Gegenargumente, Starug Tatbestand Beweis Und Belege, Teil Compliance Dokumentation Und Akte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-sanierungskonzept-risikoampel-und-gegenargumente` | Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-starug-tatbestand-beweis-und-belege` | StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-sanierungskonzept-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Sanierungskonzept: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-starug-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # StaRUG: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -162,7 +162,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-teil-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Teil: Compliance-Dokumentation und Aktenvermerk im Insolvenzplan und StaRUG: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/Planrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Teil: Compliance-Dokumentation und Aktenvermerk
 

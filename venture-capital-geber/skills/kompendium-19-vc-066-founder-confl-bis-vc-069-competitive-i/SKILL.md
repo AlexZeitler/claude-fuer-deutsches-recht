@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-vc-066-founder-confl-bis-vc-069-competitive-i
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (vc-066-founder-conflict-removal, vc-067-legitime-deal-taktik, vc-068-shareholder-dispute, vc-069-competitive-intelligence-lawful) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 066 Founder Conflict Removal, Vc 067 Legitime Deal Taktik, Vc 068 Shareholder Dispute, Vc 069 Competitive Intelligence Lawful; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - venture-capital-geber
+# Arbeitsbereich - Vc 066 Founder Conflict Removal bis Vc 069 Competitive Intelligence Lawful
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-066-founder-conflict-removal` | Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen. |
 | `vc-067-legitime-deal-taktik` | Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-066-founder-conflict-removal`
 
-**Frühere Beschreibung:** Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen.
+**Fokus:** Prüft legitime Wege bei Founder-Streit, Geschäftsführerabberufung, Vesting, Leaver, Mediation und Eilmaßnahmen.
 
 # Founder-Konflikt und Abberufung
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-067-legitime-deal-taktik`
 
-**Frühere Beschreibung:** Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein.
+**Fokus:** Ordnet harte VC-Taktiken wie pro rata, veto, pay-to-play, bridge terms, information pressure und syndicate leverage rechtlich und ethisch ein.
 
 # Legitime Deal-Taktik und rote Linien
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-068-shareholder-dispute`
 
-**Frühere Beschreibung:** Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstweiligen Rechtsschutz und Investorenschutz im Startup.
+**Fokus:** Prüft Beschlussmängel, Informationsrechte, Treuepflicht, Einstweiligen Rechtsschutz und Investorenschutz im Startup.
 
 # Gesellschafterstreit im Portfolio
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-069-competitive-intelligence-lawful`
 
-**Frühere Beschreibung:** Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, Founder Calls und Datenschutzgrenzen.
+**Fokus:** Hilft bei Marktbeobachtung, Wettbewerbertracking, Public Sources, Founder Calls und Datenschutzgrenzen.
 
 # Lawful Competitive Intelligence
 

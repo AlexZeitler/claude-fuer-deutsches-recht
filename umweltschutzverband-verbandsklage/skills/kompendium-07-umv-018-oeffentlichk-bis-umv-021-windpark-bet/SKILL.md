@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-umv-018-oeffentlichk-bis-umv-021-windpark-bet
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (umv-018-oeffentlichkeitsarbeit-ohne-risiko, umv-019-vergleich-und-nebenbestimmungen, umv-020-kostenrisiko-verband, umv-021-windpark-beteiligung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 018 Oeffentlichkeitsarbeit Ohne Risiko, Umv 019 Vergleich Und Nebenbestimmungen, Umv 020 Kostenrisiko Verband, Umv 021 Windpark Beteiligung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 018 Oeffentlichkeitsarbeit Ohne Risiko bis Umv 021 Windpark Beteiligung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-018-oeffentlichkeitsarbeit-ohne-risiko` | Umweltschutzverband Verbandsklage: Öffentlichkeitsarbeit ohne Risiko. Öffentlichkeitsarbeit ohne Risiko im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-019-vergleich-und-nebenbestimmungen` | Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-018-oeffentlichkeitsarbeit-ohne-risiko`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Öffentlichkeitsarbeit ohne Risiko. Öffentlichkeitsarbeit ohne Risiko im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Öffentlichkeitsarbeit ohne Risiko. Öffentlichkeitsarbeit ohne Risiko im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Oeffentlichkeitsarbeit Ohne Risiko
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-019-vergleich-und-nebenbestimmungen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Vergleich und Nebenbestimmungen. Vergleich und Nebenbestimmungen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vergleich Und Nebenbestimmungen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-020-kostenrisiko-verband`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Kostenrisiko Verband. Kostenrisiko Verband im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Kostenrisiko Verband. Kostenrisiko Verband im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kostenrisiko Verband
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-021-windpark-beteiligung-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Windpark: Beteiligung prüfen. Beteiligung prüfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Windpark: Beteiligung prüfen. Beteiligung prüfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Windpark Beteiligung Pruefen
 

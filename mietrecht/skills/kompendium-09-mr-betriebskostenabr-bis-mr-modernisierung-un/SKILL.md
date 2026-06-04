@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-mr-betriebskostenabr-bis-mr-modernisierung-un
-description: "mietrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (mr-betriebskostenabrechnung-fehler-spezial, mr-kuendigungsschutz-praxis, mr-modernisierung-und-rolling-rent-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - mietrecht
+# Arbeitsbereich - Mr Betriebskostenabrechnung Fehler Spezial, Mr Kuendigungsschutz Praxis, Mr Modernisierung Und Rolling Rent Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mr-betriebskostenabrechnung-fehler-spezial` | Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht nach § 259 BGB, Zahlungsbelege, 12-Monats-Fristen nach § 556 Abs. 3 BGB, Zurückbehaltung, Rückzahlungsklage und Mustertexte. |
 | `mr-kuendigungsschutz-praxis` | Wohnraum-Kuendigungsschutz Praxis: ordentliche Kuendigung § 573 BGB nur bei berechtigtem Interesse, Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Kuendigung bei Pflichtverletzung, Zahlungsverzug. Sozialklausel § 574 BGB. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mr-betriebskostenabrechnung-fehler-spezial`
 
-**Frühere Beschreibung:** Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht nach § 259 BGB, Zahlungsbelege, 12-Monats-Fristen nach § 556 Abs. 3 BGB, Zurückbehaltung, Rückzahlungsklage und Mustertexte.
+**Fokus:** Fehlerhafte Betriebskostenabrechnung als Streitfall: formelle Mindestangaben, materielle Umlagefähigkeit, Belegeinsicht nach § 259 BGB, Zahlungsbelege, 12-Monats-Fristen nach § 556 Abs. 3 BGB, Zurückbehaltung, Rückzahlungsklage und Mustertexte.
 
 # Mietrecht: Betriebskosten-Fehler
 
@@ -99,7 +99,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle. 
 
 ## 2. `mr-kuendigungsschutz-praxis`
 
-**Frühere Beschreibung:** Wohnraum-Kuendigungsschutz Praxis: ordentliche Kuendigung § 573 BGB nur bei berechtigtem Interesse, Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Kuendigung bei Pflichtverletzung, Zahlungsverzug. Sozialklausel § 574 BGB. Pruefraster.
+**Fokus:** Wohnraum-Kuendigungsschutz Praxis: ordentliche Kuendigung § 573 BGB nur bei berechtigtem Interesse, Eigenbedarf § 573 Abs. 2 Nr. 2 BGB, Kuendigung bei Pflichtverletzung, Zahlungsverzug. Sozialklausel § 574 BGB. Pruefraster.
 
 # Mietrecht: Kuendigungsschutz
 
@@ -160,7 +160,7 @@ Dieser Skill gehoert zum Plugin `mietrecht`. Er ergaenzt die uebrigen Skills des
 
 ## 3. `mr-modernisierung-und-rolling-rent-spezial`
 
-**Frühere Beschreibung:** Spezialfall Modernisierungs-Umlage in der laufenden Mieterhoehung: Verhaeltnis § 559 BGB zur ortsueblichen Vergleichsmiete § 558 BGB, Kappungsgrenze, Haerteeinwand. Aktuelle Rechtsprechung BGH. Pruefraster.
+**Fokus:** Spezialfall Modernisierungs-Umlage in der laufenden Mieterhoehung: Verhaeltnis § 559 BGB zur ortsueblichen Vergleichsmiete § 558 BGB, Kappungsgrenze, Haerteeinwand. Aktuelle Rechtsprechung BGH. Pruefraster.
 
 # Mietrecht: Modernisierung-Rolling-Rent
 

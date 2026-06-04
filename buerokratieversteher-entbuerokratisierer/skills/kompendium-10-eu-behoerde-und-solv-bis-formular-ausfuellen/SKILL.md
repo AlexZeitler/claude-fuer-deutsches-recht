@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-eu-behoerde-und-solv-bis-formular-ausfuellen
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (eu-behoerde-und-solvit, familiengericht-vorladung, foerdermittel-bescheid, formular-ausfuellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eu Behoerde Und Solvit, Familiengericht Vorladung, Foerdermittel Bescheid, Formular Ausfuellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Eu Behoerde Und Solvit bis Formular Ausfuellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eu-behoerde-und-solvit` | Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde. |
 | `familiengericht-vorladung` | Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eu-behoerde-und-solvit`
 
-**Frühere Beschreibung:** Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde.
+**Fokus:** Routet EU-Freizügigkeit, Berufsanerkennung, Binnenmarktproblem, SOLVIT und nationale Behörde.
 
 # EU-Behörde und SOLVIT
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `familiengericht-vorladung`
 
-**Frühere Beschreibung:** Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung.
+**Fokus:** Erklärt Ladung, Beteiligtenrolle, Kindeswohl, Anhörung, Jugendamt, Verfahrensbeistand, Unterlagen und sichere Vorbereitung.
 
 # Vorladung Familiengericht
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `foerdermittel-bescheid`
 
-**Frühere Beschreibung:** Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf.
+**Fokus:** Erklärt Zuwendungsbescheid, Nebenbestimmungen, Verwendungsnachweis, Rückforderung und Widerruf.
 
 # Fördermittel-Bescheid
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `formular-ausfuellen`
 
-**Frühere Beschreibung:** Hilft beim Ausfüllen von Papier- oder Onlineformularen, ohne unbeabsichtigte Rechtsbehauptungen oder unnötige Angaben zu machen.
+**Fokus:** Hilft beim Ausfüllen von Papier- oder Onlineformularen, ohne unbeabsichtigte Rechtsbehauptungen oder unnötige Angaben zu machen.
 
 # Formular ausfüllen
 

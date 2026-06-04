@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ifap-nachtraegliche-bis-ifap-quality-gate
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ifap-nachtraegliche-anmeldung-177, ifap-pruefungstermin-176, ifap-quality-gate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Nachtraegliche Anmeldung 177, Ifap Pruefungstermin 176, Ifap Quality Gate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Nachtraegliche Anmeldung 177, Ifap Pruefungstermin 176, Ifap Quality Gate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-nachtraegliche-anmeldung-177` | Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Prüfungstermin, § 5 InsO Sondertermin. Prüfraster Fristablauf feststellen, Kostenpflicht bei Verspätung, Einordnung in Sondertermin oder schriftliches Verfahren. Output Verfahrensprotokoll mit Kostenbescheid und Terminzuordnung. Abgrenzung zu Formalprüfung-174 für rechtzeitige Anmeldungen und zu Prüfungstermin-176. |
 | `ifap-pruefungstermin-176` | Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-nachtraegliche-anmeldung-177`
 
-**Frühere Beschreibung:** Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Prüfungstermin, § 5 InsO Sondertermin. Prüfraster Fristablauf feststellen, Kostenpflicht bei Verspätung, Einordnung in Sondertermin oder schriftliches Verfahren. Output Verfahrensprotokoll mit Kostenbescheid und Terminzuordnung. Abgrenzung zu Formalprüfung-174 für rechtzeitige Anmeldungen und zu Prüfungstermin-176.
+**Fokus:** Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Prüfungstermin, § 5 InsO Sondertermin. Prüfraster Fristablauf feststellen, Kostenpflicht bei Verspätung, Einordnung in Sondertermin oder schriftliches Verfahren. Output Verfahrensprotokoll mit Kostenbescheid und Terminzuordnung. Abgrenzung zu Formalprüfung-174 für rechtzeitige Anmeldungen und zu Prüfungstermin-176.
 
 # Nachträgliche Anmeldung nach § 177 InsO
 
@@ -101,7 +101,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-pruefungstermin-176`
 
-**Frühere Beschreibung:** Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180.
+**Fokus:** Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180.
 
 # Prüfungstermin vorbereiten
 
@@ -175,7 +175,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-quality-gate`
 
-**Frühere Beschreibung:** Qualitätsgate vor Tabelleneintrag Prüfungstermin und Verteilung: Anwendungsfall alle Prüfschritte wurden durchgeführt und jetzt muss vor Versand oder Eintrag nochmals Vollständigkeit Plausibilitaet und Risiken geprüft werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, § 189 InsO Verteilung. Prüfraster alle Pflichtfelder befüllt, Berechnungen plausibel, rote Risiken identifiziert, Quellen belegt. Output Qualitaetsprotokoll mit Ampelstatus und Freigabeentscheidung. Abgrenzung zu Kommandocenter als Einstieg und zu Prüfentscheidung.
+**Fokus:** Qualitätsgate vor Tabelleneintrag Prüfungstermin und Verteilung: Anwendungsfall alle Prüfschritte wurden durchgeführt und jetzt muss vor Versand oder Eintrag nochmals Vollständigkeit Plausibilitaet und Risiken geprüft werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, § 189 InsO Verteilung. Prüfraster alle Pflichtfelder befüllt, Berechnungen plausibel, rote Risiken identifiziert, Quellen belegt. Output Qualitaetsprotokoll mit Ampelstatus und Freigabeentscheidung. Abgrenzung zu Kommandocenter als Einstieg und zu Prüfentscheidung.
 
 # Qualitätsgate und Plausibilitätskontrolle
 

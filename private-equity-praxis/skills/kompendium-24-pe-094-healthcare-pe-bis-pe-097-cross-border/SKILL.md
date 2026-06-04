@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-pe-094-healthcare-pe-bis-pe-097-cross-border
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (pe-094-healthcare-pe-target, pe-095-energy-infrastructure-pe, pe-096-real-estate-npl-pe, pe-097-cross-border-fund-investment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 094 Healthcare Pe Target, Pe 095 Energy Infrastructure Pe, Pe 096 Real Estate Npl Pe, Pe 097 Cross Border Fund Investment; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - private-equity-praxis
+# Arbeitsbereich - Pe 094 Healthcare Pe Target bis Pe 097 Cross Border Fund Investment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-094-healthcare-pe-target` | Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken. |
 | `pe-095-energy-infrastructure-pe` | Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-094-healthcare-pe-target`
 
-**Frühere Beschreibung:** Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken.
+**Fokus:** Prüft MVZ, Klinik, Pflege, Apothekennähe, GOÄ/EBM, Zulassung und regulatorische Exit-Risiken.
 
 # Healthcare-Target im PE-Deal
 
@@ -70,7 +70,7 @@ SGB V, KHG, ApoG, Berufsrecht, Datenschutz, FDI bei kritischer Infrastruktur.
 
 ## 2. `pe-095-energy-infrastructure-pe`
 
-**Frühere Beschreibung:** Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen.
+**Fokus:** Prüft Investitionen in Netze, Speicher, Wind/PV, Wärmenetze, Wasserstoff und Konzessionen.
 
 # Energy/Infrastructure PE
 
@@ -111,7 +111,7 @@ EnWG, EEG, KWKG, GEG, BImSchG, BNetzA, Konzessionsrecht.
 
 ## 3. `pe-096-real-estate-npl-pe`
 
-**Frühere Beschreibung:** Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz.
+**Fokus:** Prüft Immobilienbesicherte NPL-Portfolios, Grundschuld, Zwangsverwaltung, Zwangsversteigerung und Datenschutz.
 
 # Real-Estate-NPL und Sicherheitenverwertung
 
@@ -152,7 +152,7 @@ KrZwMG, BGB, ZVG, DSGVO, Grundbuch, Sicherheitenzweck.
 
 ## 4. `pe-097-cross-border-fund-investment`
 
-**Frühere Beschreibung:** Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen.
+**Fokus:** Prüft Investoren aus Deutschland in ausländischen Fonds und ausländische Investoren in deutsche PE-Strukturen.
 
 # Cross-border Fund Investment
 

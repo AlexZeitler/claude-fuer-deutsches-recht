@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-db-020-oeffentliche-bis-db-022-kartendaten-g
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (db-020-oeffentliche-register-handelsregister-grundbuch-transpare, db-021-wissenschaftsdaten-forschungsdatenbank, db-022-kartendaten-geodaten-und-luftbilder) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten Und Luftbilder; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - datenbankrecht
+# Arbeitsbereich - Db 020 Oeffentliche Register Handelsregister Grundbuch Transpare, Db 021 Wissenschaftsdaten Forschungsdatenbank, Db 022 Kartendaten Geodaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-020-oeffentliche-register-handelsregister-grundbuch-transpare` | Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste. |
 | `db-021-wissenschaftsdaten-forschungsdatenbank` | Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-020-oeffentliche-register-handelsregister-grundbuch-transpare`
 
-**Frühere Beschreibung:** Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste.
+**Fokus:** Datenbankrecht für öffentliche Register (Handelsregister, Grundbuch, Transparenzregister): Schutzfähigkeit nach §§ 87a-87e UrhG und § 5 UrhG, Weiterverwendungsrecht nach IWG und Open-Data-RL 2019/1024, massenhafte Registerabfragen als Verletzung sowie DSGVO-Grenzen bei personenbezogenen Registereinträgen. Erstellt Compliance-Konzept für Datenaggregationsdienste.
 
 # Öffentliche Register — Handelsregister, Grundbuch und Transparenzregister
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-021-wissenschaftsdaten-forschungsdatenbank`
 
-**Frühere Beschreibung:** Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept.
+**Fokus:** Datenbankrecht für Forschungsdatenbanken und Wissenschaftsdaten: § 60d UrhG (TDM-Schranke für wissenschaftliche Forschung), §§ 87a-87e UrhG für Forschungsdatenbanken, Open-Access-Pflichten nach BMBF-Richtlinien und DSM-RL Art. 3, Rechtslage bei Hochschul-Spin-offs und Forschungsdaten-Lizenzen (CC0, CC BY). Erstellt Rechtsgutachten und Datenpublikationskonzept.
 
 # Wissenschaftsdaten und Forschungsdatenbanken — Datenbankrecht und TDM-Schranke
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-022-kartendaten-geodaten-und-luftbilder`
 
-**Frühere Beschreibung:** Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e UrhG für topografische Datenbanken, OpenStreetMap-ODbL-Lizenz, BKG-Nutzungsbedingungen, Verhältnis zu § 2 UrhG (Kartenwerke als Werke) und Open-Geodata-Anforderungen nach GeoZG. Bewertet Nutzung von Google Maps-, HERE- und OSM-Daten für kommerzielle Anwendungen.
+**Fokus:** Datenbankrecht für Geodatenbanken, Kartendienste und Luftbilder: §§ 87a-87e UrhG für topografische Datenbanken, OpenStreetMap-ODbL-Lizenz, BKG-Nutzungsbedingungen, Verhältnis zu § 2 UrhG (Kartenwerke als Werke) und Open-Geodata-Anforderungen nach GeoZG. Bewertet Nutzung von Google Maps-, HERE- und OSM-Daten für kommerzielle Anwendungen.
 
 # Kartendaten, Geodaten und Luftbilder — Datenbankrecht für Geodatenbanken
 

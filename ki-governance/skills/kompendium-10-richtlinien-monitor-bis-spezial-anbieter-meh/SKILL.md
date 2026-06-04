@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-richtlinien-monitor-bis-spezial-anbieter-meh
-description: "ki-governance: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (richtlinien-monitor, richtlinien-vorlage, spezial-anbieter-mehrparteien-konflikt-und-interessen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - ki-governance
+# Arbeitsbereich - Richtlinien Monitor, Richtlinien Vorlage, Anbieter Mehrparteien Konflikt Und Interessen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `richtlinien-monitor` | Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt. |
 | `richtlinien-vorlage` | Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer "KI-Richtlinie entwerfen", "wir brauchen eine KI-Richtlinie", "AI-Act-konforme Richtlinie" oder Ähnliches sagt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `richtlinien-monitor`
 
-**Frühere Beschreibung:** Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt.
+**Fokus:** Überwacht die interne KI-Richtlinie auf Abweichungen von der gelebten Praxis — wöchentlicher Abgleich gespeicherter Folgenabschätzungen, Triage-Ergebnisse und Anbieterprüfungen, oder direkte Prüfung einer geplanten neuen KI-Praxis. Lädt, wenn der Nutzer "Richtlinien-Sweep", "KI-Richtlinie prüfen", "deckt unsere Richtlinie das ab", "wir wollen X einführen — brauchen wir eine Richtlinienänderung" oder "Policy-Monitor starten" sagt.
 
 # KI-Richtlinien-Monitor
 
@@ -224,7 +224,7 @@ Erstellt: [NAME], [DATUM]
 
 ## 2. `richtlinien-vorlage`
 
-**Frühere Beschreibung:** Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer "KI-Richtlinie entwerfen", "wir brauchen eine KI-Richtlinie", "AI-Act-konforme Richtlinie" oder Ähnliches sagt.
+**Fokus:** Entwirft eine interne KI-Nutzungsrichtlinie auf Basis veröffentlichter Musterrichtlinien und des Praxisprofils — Recherche- und Synthese-Tool, dessen Ausgabe ein Entwurf für die anwaltliche Prüfung und Freigabe ist, keine fertige Richtlinie. Lädt, wenn der Nutzer "KI-Richtlinie entwerfen", "wir brauchen eine KI-Richtlinie", "AI-Act-konforme Richtlinie" oder Ähnliches sagt.
 
 # KI-Richtlinien-Starter
 
@@ -435,7 +435,7 @@ Datenschutzbeauftragter: [NAME, EMAIL]
 
 ## 3. `spezial-anbieter-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Anbieter: Mehrparteienkonflikt und Interessenmatrix im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anbieter: Mehrparteienkonflikt und Interessenmatrix im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anbieter: Mehrparteienkonflikt und Interessenmatrix
 

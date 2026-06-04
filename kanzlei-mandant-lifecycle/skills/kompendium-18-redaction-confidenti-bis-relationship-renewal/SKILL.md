@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-redaction-confidenti-bis-relationship-renewal
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (redaction-confidentiality, regulatory-matter-command, regulatory-remediation-plan, relationship-redflags, relationship-renewal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Redaction Confidentiality, Regulatory Matter Command, Regulatory Remediation Plan, Relationship Redflags und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Redaction Confidentiality bis Relationship Renewal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `redaction-confidentiality` | Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `regulatory-matter-command` | Regulatory Matter Command: steuert Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `redaction-confidentiality`
 
-**Frühere Beschreibung:** Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Redaction und Confidentiality: steuert Schwärzungen, Anlagen, Betriebsgeheimnisse und Gerichts-/Gegnerfassung sauber steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Redaction und Confidentiality
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `regulatory-matter-command`
 
-**Frühere Beschreibung:** Regulatory Matter Command: steuert Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Regulatory Matter Command: steuert Behördenverfahren mit Kanzlei und Inhouse steuern: Auskunft, Akteneinsicht, Frist, Ton zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Regulatory Matter Command
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `regulatory-remediation-plan`
 
-**Frühere Beschreibung:** Regulatory Remediation Plan: steuert nach Auflage/Bußgeld/Prüfung Maßnahmenplan, Owner, Nachweis und Kanzleirolle steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Regulatory Remediation Plan: steuert nach Auflage/Bußgeld/Prüfung Maßnahmenplan, Owner, Nachweis und Kanzleirolle steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Regulatory Remediation Plan
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `relationship-redflags`
 
-**Frühere Beschreibung:** Relationship Red Flags: steuert Warnzeichen: Funkstille, Überraschungsrechnung, Scope-Unklarheit, Strategiedrift, Fristdruck zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Relationship Red Flags: steuert Warnzeichen: Funkstille, Überraschungsrechnung, Scope-Unklarheit, Strategiedrift, Fristdruck zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Relationship Red Flags
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `relationship-renewal`
 
-**Frühere Beschreibung:** Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Relationship Renewal: steuert nach Krise oder Erfolg: neue OCG, bessere Reports, neue Teams, neue Preise zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Relationship Renewal
 

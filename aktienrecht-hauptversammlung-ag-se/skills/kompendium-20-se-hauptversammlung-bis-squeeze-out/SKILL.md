@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-se-hauptversammlung-bis-squeeze-out
-description: "aktienrecht-hauptversammlung-ag-se: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (se-hauptversammlung, se-mitbestimmung, sonderpruefung, squeeze-out) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktienrecht-hauptversammlung-ag-se: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Se Hauptversammlung, Se Mitbestimmung, Sonderpruefung, Squeeze Out; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - aktienrecht-hauptversammlung-ag-se
+# Arbeitsbereich - Se Hauptversammlung bis Squeeze Out
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `se-hauptversammlung` | Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `se-mitbestimmung` | Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `se-hauptversammlung`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: SE Hauptversammlung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Hauptversammlung
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `se-mitbestimmung`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: SE Mitbestimmung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # SE Mitbestimmung
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `sonderpruefung`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Sonderpruefung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Sonderpruefung
 
@@ -203,7 +203,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `squeeze-out`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Squeeze Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Squeeze Out
 

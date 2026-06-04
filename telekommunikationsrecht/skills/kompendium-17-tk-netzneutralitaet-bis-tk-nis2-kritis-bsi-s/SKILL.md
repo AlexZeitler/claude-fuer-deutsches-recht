@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-tk-netzneutralitaet-bis-tk-nis2-kritis-bsi-s
-description: "telekommunikationsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (tk-netzneutralitaet-zero-rating-throttling, tk-nis2-kritis-bsi-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "telekommunikationsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - telekommunikationsrecht
+# Arbeitsbereich - Tk Netzneutralitaet Zero Rating Throttling, Tk Nis2 Kritis Bsi Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tk-netzneutralitaet-zero-rating-throttling` | Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken. |
 | `tk-nis2-kritis-bsi-schnittstelle` | NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tk-netzneutralitaet-zero-rating-throttling`
 
-**Frühere Beschreibung:** Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken.
+**Fokus:** Netzneutralität: Zero-Rating, Priorisierung, Drosselung, Spezialdienste, Traffic Management und Beschwerde-/Abmahnrisiken.
 
 # Netzneutralität, Zero-Rating und Drosselung
 
@@ -68,7 +68,7 @@ Keine Rechtsweg- oder Normbehauptung aus dem Bauch heraus. Bei Streit mit der Bu
 
 ## 2. `tk-nis2-kritis-bsi-schnittstelle`
 
-**Frühere Beschreibung:** NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation.
+**Fokus:** NIS2/KRITIS/BSI-Anforderungen für TK-Unternehmen, Rechenzentren, Managed Services und kritische Kommunikation.
 
 # NIS2, KRITIS und BSI-Schnittstelle
 

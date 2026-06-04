@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-chn-051-employee-dat-bis-chn-054-evidence-pre
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (chn-051-employee-data-china-operations, chn-052-cloud-and-erp-rollout-china, chn-053-wechat-business-records, chn-054-evidence-preservation-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 051 Employee Data China Operations, Chn 052 Cloud And Erp Rollout China, Chn 053 Wechat Business Records, Chn 054 Evidence Preservation China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 051 Employee Data China Operations bis Chn 054 Evidence Preservation China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-051-employee-data-china-operations` | Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie. |
 | `chn-052-cloud-and-erp-rollout-china` | Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-051-employee-data-china-operations`
 
-**Frühere Beschreibung:** Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie.
+**Fokus:** Arbeitnehmerdatenschutz in China-Betrieben: PIPL §§ 13 ff. Einwilligungspflichten, Personalakten-Lokalisierung, chinesisches Arbeitsrecht Datenschutzpflichten (Arbeitnehmerschutz), Überwachung am Arbeitsplatz (Grenzen), grenzüberschreitende HR-Datentransfers (PIPL Art. 38 ff.), DSGVO-Anforderungen im Konzern. Output: HR-Datenschutz-Compliance-China und Konzernrichtlinie.
 
 # Arbeitnehmerdaten China: PIPL/DSGVO und HR-Compliance
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-052-cloud-and-erp-rollout-china`
 
-**Frühere Beschreibung:** Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China.
+**Fokus:** Cloud und ERP-Rollout in China: ICP-Lizenz-Anforderungen, Datenlokalisierung (Cybersecurity Law Art. 37), MLPS-Zertifizierung, Rechenzentrum-Anforderungen, Besonderheiten internationaler Cloud-Anbieter (AWS/Azure/Google – Joint Ventures in CN), SAP/Oracle China-Compliance, Behördenabnahme ERP. Output: Cloud/ERP-Rollout-Compliance-Plan China.
 
 # Cloud und ERP in China: ICP/MLPS/Datenlokalisierung
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-053-wechat-business-records`
 
-**Frühere Beschreibung:** WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept.
+**Fokus:** WeChat als Geschaeftskommunikation in China: Archivierungspflichten für Unternehmen, PIPL-Einwilligungsanforderungen, Ermittlungsrisiken (Behördenzugriff WeChat-Daten), E-Discovery-Problematik, alternative Kommunikationskanäle, Datensicherheit bei WeChat Work (Qiyeweixin). Output: WeChat-Compliance-Leitfaden und Archivierungskonzept.
 
 # WeChat Business Records: Archivierung/Behördenzugriff/Datenschutz
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-054-evidence-preservation-china`
 
-**Frühere Beschreibung:** Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan.
+**Fokus:** Beweissicherung in China: Notarielle Beweissicherung (Gongzheng), Blockchain-Notarisierung CN (rechtlich anerkannt seit 2018), E-Discovery im Schiedsverfahren, Behördlicher Aktenzugang, Dokumentenvernichtungsrisiken, grenzüberschreitende Beweisübermittlung HBÜ und deutsch-chinesische Rechtshilfe. Output: Beweissicherungs-Protokoll und Notarisierungsplan.
 
 # Beweissicherung China: Notarisierung/E-Discovery/Rechtshilfe
 

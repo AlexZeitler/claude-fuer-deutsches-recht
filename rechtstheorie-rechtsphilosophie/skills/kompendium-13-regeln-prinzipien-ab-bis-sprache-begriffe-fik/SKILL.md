@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-regeln-prinzipien-ab-bis-sprache-begriffe-fik
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (regeln-prinzipien-abwaegung, regeln-tacit-knowledge-und-kognitive-entlastung, sprache-begriffe-fiktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Regeln Prinzipien Abwaegung, Regeln Tacit Knowledge Und Kognitive Entlastung, Sprache Begriffe Fiktionen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `regeln-prinzipien-abwaegung` | Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist. |
 | `regeln-tacit-knowledge-und-kognitive-entlastung` | Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `regeln-prinzipien-abwaegung`
 
-**Frühere Beschreibung:** Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist.
+**Fokus:** Unterscheidet Regeln, Prinzipien, Standards und Generalklauseln und legt offen, wann Subsumtion reicht und wann Abwaegung noetig ist.
 
 # Regeln, Prinzipien und Abwägung
 
@@ -98,7 +98,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 2. `regeln-tacit-knowledge-und-kognitive-entlastung`
 
-**Frühere Beschreibung:** Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
+**Fokus:** Prueft Regeln als gespeichertes Erfahrungswissen: tacit knowledge, kognitive Entlastung, Regel-vs-Standard-Wahl, rationale Traegheit, Ausnahmebedarf und Gefahr blinder Routine.
 
 # Regeln, stilles Wissen und kognitive Entlastung
 
@@ -164,7 +164,7 @@ Gib eine Regelwissen-Analyse aus:
 
 ## 3. `sprache-begriffe-fiktionen`
 
-**Frühere Beschreibung:** Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung.
+**Fokus:** Prueft juristische Sprache, Fiktionen, Metaphern und technische Begriffe als Werkzeuge und Gefahrenquellen der Rechtsanwendung.
 
 # Sprache, Begriffe und Fiktionen
 

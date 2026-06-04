@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vbr-054-marketplace-bis-vbr-057-marketplace
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (vbr-054-marketplace-beweise-sichern, vbr-055-marketplace-agb-redlinen, vbr-056-marketplace-beschwerde-schreiben, vbr-057-marketplace-schlichtung-waehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 054 Marketplace Beweise Sichern, Vbr 055 Marketplace Agb Redlinen, Vbr 056 Marketplace Beschwerde Schreiben, Vbr 057 Marketplace Schlichtung Waehlen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 054 Marketplace Beweise Sichern bis Vbr 057 Marketplace Schlichtung Waehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-054-marketplace-beweise-sichern` | Verbraucherschutzrecht Prüfer: Marketplace: Beweise sichern. Beweise sichern für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-055-marketplace-agb-redlinen` | Verbraucherschutzrecht Prüfer: Marketplace: AGB redlinen. AGB redlinen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-054-marketplace-beweise-sichern`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: Beweise sichern. Beweise sichern für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: Beweise sichern. Beweise sichern für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Beweise Sichern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-055-marketplace-agb-redlinen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: AGB redlinen. AGB redlinen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: AGB redlinen. AGB redlinen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Agb Redlinen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-056-marketplace-beschwerde-schreiben`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: Beschwerde schreiben. Beschwerde schreiben für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: Beschwerde schreiben. Beschwerde schreiben für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Beschwerde Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-057-marketplace-schlichtung-waehlen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: Schlichtung wählen. Schlichtung wählen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: Schlichtung wählen. Schlichtung wählen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Schlichtung Waehlen
 

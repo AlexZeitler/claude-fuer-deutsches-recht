@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-chn-059-local-counse-bis-chn-062-dawn-raid-in
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (chn-059-local-counsel-management, chn-060-government-relations-clean-compliance, chn-061-anti-bribery-and-gifts, chn-062-dawn-raid-inspection-factory) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 059 Local Counsel Management, Chn 060 Government Relations Clean Compliance, Chn 061 Anti Bribery And Gifts, Chn 062 Dawn Raid Inspection Factory; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 059 Local Counsel Management bis Chn 062 Dawn Raid Inspection Factory
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-059-local-counsel-management` | Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste. |
 | `chn-060-government-relations-clean-compliance` | Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-059-local-counsel-management`
 
-**Frühere Beschreibung:** Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste.
+**Fokus:** Management chinesischer Rechtsanwälte und lokaler Berater: Beauftragungsvertrag mit CN-Kanzlei (Vergütung, Haftung, Honorar), Interessenkonflikte CN-Anwalt mit CN-Behörden/Parteien, Due Diligence CN-Kanzlei, Kommunikation unter Anwaltsprivileg (schwach in CN), Auswahlkriterien, Eskalation bei Mandatsproblemen. Output: Local-Counsel-Beauftragungsrahmen und Auswahlcheckliste.
 
 # Lokale Rechtsberater China: Auswahl/Beauftragung/Risiken
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-060-government-relations-clean-compliance`
 
-**Frühere Beschreibung:** Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex.
+**Fokus:** Government Relations in China: Clean-Compliance-Anforderungen, Anti-Bribery-Risiken (FCPA-Anwendung, dt. § 299 StGB, OECD Anti-Bribery-Convention), politische Kontaktpflege ohne Korruptionsrisiko, Behördenbeziehungen als Geschaeftsfaktor, Abgrenzung legitimes Lobbying vs. Bestechung CN. Output: Government-Relations-Compliance-Handbuch und Verhaltenskodex.
 
 # Government Relations China: Compliance ohne Korruptionsrisiko
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-061-anti-bribery-and-gifts`
 
-**Frühere Beschreibung:** Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan.
+**Fokus:** Anti-Korruption und Geschenke im China-Geschaeft: FCPA (US) bei US-Nexus, UK Bribery Act, § 299 StGB (DE), chinesisches Anti-Korruptionsrecht (Criminal Law Art. 391-396), Geschenke- und Bewirtungsrichtlinien, Red-Flag-Indikatoren, Whistleblower-Schutz, Behördliche Ermittlungen CN. Output: Anti-Bribery-Compliance-Richtlinie China und Schulungsplan.
 
 # Anti-Korruption China: FCPA/§ 299 StGB/CN-Recht
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-062-dawn-raid-inspection-factory`
 
-**Frühere Beschreibung:** Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage.
+**Fokus:** Dawn Raid und Fabrikinspektion in China: Verhalten bei unangekündigten Behördeninspektionen (SAMR, Zoll, Arbeitsbehörde, CAC), Rechte und Pflichten des Unternehmens CN, Anwaltszugang während Inspektion, Dokumentenherausgabe vs. Verweigerung, Kommunikationsstrategie, Eskalation Konsulat DE. Output: Dawn-Raid-Notfallprotokoll und Schulungsunterlage.
 
 # Dawn Raid China: Notfallprotokoll und Behördeninspektion
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-er-bess-netzentgelte-bis-er-bess-power-qualit
-description: "energierecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (er-bess-netzentgelte-und-abgaben, er-bess-output-board-paper, er-bess-physische-sicherheit-terror, er-bess-power-quality-emv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Netzentgelte Und Abgaben, Er Bess Output Board Paper, Er Bess Physische Sicherheit Terror, Er Bess Power Quality Emv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - energierecht
+# Arbeitsbereich - Er Bess Netzentgelte Und Abgaben bis Er Bess Power Quality Emv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-netzentgelte-und-abgaben` | Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen. |
 | `er-bess-output-board-paper` | Erstellt Entscheidungsvorlage für Vorstand/Geschäftsführung/Aufsichtsrat zu Investition, Risiko, Genehmigung und Finanzierung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-netzentgelte-und-abgaben`
 
-**Frühere Beschreibung:** Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen.
+**Fokus:** Prüft Strombezug, Einspeicherung, Ausspeicherung, Netzentgelte, Umlagen, Messung und Entlastungen.
 
 # Netzentgelte, Umlagen, Speicherprivilegien
 
@@ -62,7 +62,7 @@ EnWG, StromNEV, EEG, KWKG, StromStG/EnergieStG nur als Schnittstelle, BNetzA-Pra
 
 ## 2. `er-bess-output-board-paper`
 
-**Frühere Beschreibung:** Erstellt Entscheidungsvorlage für Vorstand/Geschäftsführung/Aufsichtsrat zu Investition, Risiko, Genehmigung und Finanzierung.
+**Fokus:** Erstellt Entscheidungsvorlage für Vorstand/Geschäftsführung/Aufsichtsrat zu Investition, Risiko, Genehmigung und Finanzierung.
 
 # Board Paper Batteriespeicher
 
@@ -95,7 +95,7 @@ Business Judgment, GmbHG/AktG, EnWG/Bau/BImSchG, Finanzierung, Cyber/KRITIS.
 
 ## 3. `er-bess-physische-sicherheit-terror`
 
-**Frühere Beschreibung:** Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten.
+**Fokus:** Prüft Zaun, Zutritt, Drohnen, Video, Wachschutz, Polizei/Feuerwehr, Geheimschutz und Betreiberpflichten.
 
 # Physische Sicherheit, Sabotage und Terrorrisiko
 
@@ -128,7 +128,7 @@ BSIG/KRITIS, Bauordnungsrecht, Datenschutz bei Video, Versicherungsauflagen.
 
 ## 4. `er-bess-power-quality-emv`
 
-**Frühere Beschreibung:** Prüft Oberschwingungen, Spannungshaltung, Umrichter, elektromagnetische Verträglichkeit und Nachbar-/Netzbetreiberforderungen.
+**Fokus:** Prüft Oberschwingungen, Spannungshaltung, Umrichter, elektromagnetische Verträglichkeit und Nachbar-/Netzbetreiberforderungen.
 
 # Power Quality, EMV und Netzrückwirkungen
 

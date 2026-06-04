@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-q-and-a-vorstandsant-bis-redezeit-und-ordnung
-description: "aktienrecht-hauptversammlung-ag-se: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (q-and-a-vorstandsantworten, rechtsmissbrauch-und-raeuberische-aktionaere, record-date-und-nachweisstichtag, redezeit-und-ordnungsmassnahmen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktienrecht-hauptversammlung-ag-se: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Q And A Vorstandsantworten, Rechtsmissbrauch Und Raeuberische Aktionaere, Record Date Und Nachweisstichtag, Redezeit Und Ordnungsmassnahmen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - aktienrecht-hauptversammlung-ag-se
+# Arbeitsbereich - Q And A Vorstandsantworten bis Redezeit Und Ordnungsmassnahmen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `q-and-a-vorstandsantworten` | Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `rechtsmissbrauch-und-raeuberische-aktionaere` | Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `q-and-a-vorstandsantworten`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Q&and A Vorstandsantworten; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Q&and A Vorstandsantworten
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `rechtsmissbrauch-und-raeuberische-aktionaere`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Rechtsmissbrauch Und Raeuberische Aktionaere; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Rechtsmissbrauch Und Raeuberische Aktionaere
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `record-date-und-nachweisstichtag`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Record Date Und Nachweisstichtag; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Record Date Und Nachweisstichtag
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `redezeit-und-ordnungsmassnahmen`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Redezeit Und Ordnungsmassnahmen; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Redezeit Und Ordnungsmassnahmen
 

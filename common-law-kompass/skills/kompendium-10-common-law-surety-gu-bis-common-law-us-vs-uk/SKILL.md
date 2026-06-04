@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-common-law-surety-gu-bis-common-law-us-vs-uk
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (common-law-surety-guarantee-indemnity, common-law-ucc-sales-goods, common-law-us-vs-uk-drafting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - common-law-kompass
+# Arbeitsbereich - Common Law Surety Guarantee Indemnity, Common Law Ucc Sales Goods, Common Law Us Vs Uk Drafting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-surety-guarantee-indemnity` | Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen). |
 | `common-law-ucc-sales-goods` | Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-surety-guarantee-indemnity`
 
-**Frühere Beschreibung:** Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen).
+**Fokus:** Anwalt prüft Sicherheitenklausel und muss zwischen Buergschaft Garantie suretyship guarantee indemnity primary obligation accessory liability unterscheiden. Prüfraster Klausel-Typ-Identifikation Akzessorietaet Durchsetzbarkeit Regress. Output Sicherheiten-Klassifikation Risikomatrix Klausel-Empfehlung. Abgrenzung zu common-law-representations-warranties-covenants (Vertragsklauseln) und common-law-remedies-damages-equity (Rechtsfolgen).
 
 # Surety, Guarantee und Indemnity
 
@@ -136,7 +136,7 @@ Jurisdiction: [England/Wales / New York]
 
 ## 2. `common-law-ucc-sales-goods`
 
-**Frühere Beschreibung:** Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln).
+**Fokus:** Anwalt prüft Warenkaufvertrag nach UCC oder Sale of Goods Act: title risk warranties perfect tender remedies. Anwendungsfall US-Kaufvertrag oder UK-Warengeschäft. Prüfraster UCC Art. 2 Sale-of-Goods-Act-Prüfung Title-Risk-Transfer Warranty-Typen Perfect-Tender-Rule. Output Kaufvertrags-Analyse Risikomatrix Empfehlungen. Abgrenzung zu common-law-contract-formation-consideration (Allgemein) und common-law-representations-warranties-covenants (Klauseln).
 
 # UCC und Sale of Goods
 
@@ -253,7 +253,7 @@ Date: [DATE] — Goods: [DESCRIPTION] — State: [STATE]
 
 ## 3. `common-law-us-vs-uk-drafting`
 
-**Frühere Beschreibung:** Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl).
+**Fokus:** Anwalt muss zwischen British English English Law US contract style Delaware/New York-Konventionen und Business-English unterscheiden. Anwendungsfall Vertrag für UK- oder US-Gegenpartei. Prüfraster Jurisdiction-Style-Matching Drafting-Konventionen Sprachebene. Output Drafting-Empfehlung Stil-Hinweise Klausel-Beispiele. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-governing-law-jurisdiction (Rechtswahl).
 
 # UK vs US Drafting
 

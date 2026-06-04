@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-soldat-auf-zeit-kdv-bis-sprachlich-einfache
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (soldat-auf-zeit-kdv, soldatinnen-und-kdv, spannungs-verteidigungsfall, sprache-der-loyalitaet, sprachlich-einfache-erklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Soldat Auf Zeit Kdv, Soldatinnen Und Kdv, Spannungs Verteidigungsfall, Sprache Der Loyalitaet und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Soldat Auf Zeit Kdv bis Sprachlich Einfache Erklaerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `soldat-auf-zeit-kdv` | Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit. |
 | `soldatinnen-und-kdv` | Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `soldat-auf-zeit-kdv`
 
-**Frühere Beschreibung:** Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit.
+**Fokus:** Prüft KDV, § 55 SG und Nebenfolgen bei Soldaten auf Zeit.
 
 # Soldat auf Zeit und KDV
 
@@ -85,7 +85,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 2. `soldatinnen-und-kdv`
 
-**Frühere Beschreibung:** Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben.
+**Fokus:** Stellt KDV-Rechte von Frauen dar, die dienen oder früher gedient haben.
 
 # Soldatinnen und KDV
 
@@ -140,7 +140,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 3. `spannungs-verteidigungsfall`
 
-**Frühere Beschreibung:** Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall.
+**Fokus:** Prüft Sonderregeln im Spannungs-, Verteidigungs- und Bereitschaftsdienstfall.
 
 # Spannungs- und Verteidigungsfall
 
@@ -195,7 +195,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 4. `sprache-der-loyalitaet`
 
-**Frühere Beschreibung:** Formuliert staatstreu und grundgesetznah ohne Unterwürfigkeit.
+**Fokus:** Formuliert staatstreu und grundgesetznah ohne Unterwürfigkeit.
 
 # Sprache der Loyalität
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `sprachlich-einfache-erklaerung`
 
-**Frühere Beschreibung:** Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache.
+**Fokus:** Erklärt KDV in einfacher Sprache für Menschen ohne Juristensprache.
 
 # Einfache Erklärung
 

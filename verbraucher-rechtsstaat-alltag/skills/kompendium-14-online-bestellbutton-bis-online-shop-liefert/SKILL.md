@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-online-bestellbutton-bis-online-shop-liefert
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (online-bestellbutton-zahlungspflicht, online-bewertung-abmahnung, online-shop-liefert-nicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Online Bestellbutton Zahlungspflicht, Online Bewertung Abmahnung, Online Shop Liefert Nicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Online Bestellbutton Zahlungspflicht, Online Bewertung Abmahnung, Online Shop Liefert Nicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `online-bestellbutton-zahlungspflicht` | Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen. |
 | `online-bewertung-abmahnung` | Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `online-bestellbutton-zahlungspflicht`
 
-**Frühere Beschreibung:** Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen.
+**Fokus:** Online-Bestellbutton und Zahlungspflicht: prüft § 312j BGB, EuGH C-249/21 Fuhrmann-2, Buttontext, Checkout-Screenshots, Plattformbuchung, Rückforderung und Inkassoabwehr, wenn Verbraucher angeblich durch einen Klick zahlen sollen.
 
 # Online-Bestellbutton Und Zahlungspflicht
 
@@ -89,7 +89,7 @@ Keine künstliche Sicherheit: Wenn nur eine Bestätigungsmail vorliegt, aber kei
 
 ## 2. `online-bewertung-abmahnung`
 
-**Frühere Beschreibung:** Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Online-Bewertung und Abmahnung: führt Laien durch Negative Bewertung, Tatsachenbasis, Meinungsfreiheit, Löschungsaufforderung und Unterlassung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Online-Bewertung und Abmahnung
 
@@ -142,7 +142,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `online-shop-liefert-nicht`
 
-**Frühere Beschreibung:** Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Online-Shop liefert nicht: führt Laien durch Nichtlieferung, Teillieferung, Ersatzlieferung, Widerruf und Rückzahlung nach Online-Kauf. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Online-Shop liefert nicht
 

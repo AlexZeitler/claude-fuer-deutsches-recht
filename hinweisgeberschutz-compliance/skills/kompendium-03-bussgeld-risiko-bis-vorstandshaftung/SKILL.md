@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-bussgeld-risiko-bis-vorstandshaftung
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (bussgeld-risiko, exportkontrolle-sanktionen, schadensersatz, vorstandshaftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bussgeld Risiko, Exportkontrolle Sanktionen, Schadensersatz, Vorstandshaftung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Bussgeld Risiko bis Vorstandshaftung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bussgeld-risiko` | Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße. |
 | `exportkontrolle-sanktionen` | Routet Sanktions- und Exportkontrollhinweise. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bussgeld-risiko`
 
-**Frühere Beschreibung:** Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße.
+**Fokus:** Bewertet Bußgeldrisiken für fehlenden Meldekanal oder Verstöße.
 
 # Bussgeld Risiko
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `exportkontrolle-sanktionen`
 
-**Frühere Beschreibung:** Routet Sanktions- und Exportkontrollhinweise.
+**Fokus:** Routet Sanktions- und Exportkontrollhinweise.
 
 # Exportkontrolle Sanktionen
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `schadensersatz`
 
-**Frühere Beschreibung:** Prüft Schadensersatzansprüche bei Repressalien.
+**Fokus:** Prüft Schadensersatzansprüche bei Repressalien.
 
 # Schadensersatz
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `vorstandshaftung`
 
-**Frühere Beschreibung:** Prüft Organhaftung bei ignorierten Hinweisen.
+**Fokus:** Prüft Organhaftung bei ignorierten Hinweisen.
 
 # Vorstandshaftung
 

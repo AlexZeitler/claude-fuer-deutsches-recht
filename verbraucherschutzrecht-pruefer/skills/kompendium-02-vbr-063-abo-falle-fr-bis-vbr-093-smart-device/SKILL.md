@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-vbr-063-abo-falle-fr-bis-vbr-093-smart-device
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (vbr-063-abo-falle-frist-berechnen, vbr-073-digitale-inhalte-frist-berechnen, vbr-083-saas-fuer-verbraucher-frist-berechnen, vbr-093-smart-device-frist-berechnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 063 Abo Falle Frist Berechnen, Vbr 073 Digitale Inhalte Frist Berechnen, Vbr 083 Saas Fuer Verbraucher Frist Berechnen, Vbr 093 Smart Device Frist Berechnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 063 Abo Falle Frist Berechnen bis Vbr 093 Smart Device Frist Berechnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-063-abo-falle-frist-berechnen` | Verbraucherschutzrecht Prüfer: Abo-Falle: Frist berechnen. Frist berechnen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-073-digitale-inhalte-frist-berechnen` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Frist berechnen. Frist berechnen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-063-abo-falle-frist-berechnen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Abo-Falle: Frist berechnen. Frist berechnen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Abo-Falle: Frist berechnen. Frist berechnen für Abo-Falle im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Falle Frist Berechnen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-073-digitale-inhalte-frist-berechnen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Frist berechnen. Frist berechnen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Frist berechnen. Frist berechnen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Frist Berechnen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-083-saas-fuer-verbraucher-frist-berechnen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Frist berechnen. Frist berechnen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: SaaS für Verbraucher: Frist berechnen. Frist berechnen für SaaS für Verbraucher im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Saas Fuer Verbraucher Frist Berechnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-093-smart-device-frist-berechnen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Smart Device: Frist berechnen. Frist berechnen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Smart Device: Frist berechnen. Frist berechnen für Smart Device im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Smart Device Frist Berechnen
 

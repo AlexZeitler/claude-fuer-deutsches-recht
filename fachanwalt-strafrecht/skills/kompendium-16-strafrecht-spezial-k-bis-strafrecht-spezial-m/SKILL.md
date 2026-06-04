@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-strafrecht-spezial-k-bis-strafrecht-spezial-m
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 16; bündelt 10 frühere Spezialskills (strafrecht-spezial-koerperverletzung-223-stgb-grund, strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb, strafrecht-spezial-konkursrechtliche-anfechtungsbezuege, strafrecht-spezial-kreditbetrug-265b-stgb, strafrecht-spezial-kriminologie-deliktphaenomenologie und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Koerperverletzung 223 Stgb Grund, Strafrecht Spezial Koerperverletzung Mit Todesfolge 227 Stgb, Strafrecht Spezial Konkursrechtliche Anfechtungsbezuege, Strafrecht Spezial Kreditbetrug 265b Stgb und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Koerperverletzung 223 Stgb Grund bis Strafrecht Spezial Markenrecht 143 Markeng
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-koerperverletzung-223-stgb-grund` | Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung. |
 | `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb` | Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-koerperverletzung-223-stgb-grund`
 
-**Frühere Beschreibung:** Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung.
+**Fokus:** Koerperverletzung nach § 223 StGB Grundtatbestand. Praxisleitfaden zu koerperlicher Misshandlung und Gesundheitsschaedigung. Strafantrag § 230 StGB. Einwilligung § 228 StGB. Versuch ist strafbar. Abgrenzung zu § 224 StGB gefaehrliche und § 226 StGB schwere Koerperverletzung.
 
 # Koerperverletzung § 223 StGB
 
@@ -146,7 +146,7 @@ In der Praxis ist § 223 StGB Einstiegsnorm fuer eine Vielzahl von Konstellation
 
 ## 2. `strafrecht-spezial-koerperverletzung-mit-todesfolge-227-stgb`
 
-**Frühere Beschreibung:** Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB.
+**Fokus:** Koerperverletzung mit Todesfolge nach § 227 StGB. Erfolgsqualifikation. Grundtat § 223 oder § 224 StGB; fahrlaessige Todesfolge § 18 StGB; tatbestandsspezifischer Gefahrenzusammenhang nach staendiger BGH-Rechtsprechung. Strafrahmen nicht unter drei Jahren. Abgrenzung zu § 212 StGB.
 
 # Koerperverletzung mit Todesfolge § 227 StGB
 
@@ -250,7 +250,7 @@ In der Praxis ist § 227 StGB das **Verteidigungsziel** bei Anklage wegen Totsch
 
 ## 3. `strafrecht-spezial-konkursrechtliche-anfechtungsbezuege`
 
-**Frühere Beschreibung:** Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien fuer den Anfechtungsgegner.
+**Fokus:** Schnittstelle zwischen Insolvenzanfechtung Paragraphen 129 ff. InsO und Bankrott Paragraph 283 StGB sowie Glaeubigerbeguenstigung Paragraph 283c StGB. Inkongruente Deckung Vorsatzanfechtung Schenkungsanfechtung. Strafrechtliche Konsequenzen anfechtbarer Rechtshandlungen. Verteidigungslinien fuer den Anfechtungsgegner.
 
 # Schnittstelle Insolvenzanfechtung und Strafrecht
 
@@ -366,7 +366,7 @@ Anfechtbar: Rueckgewaehr von Gesellschafterdarlehen innerhalb des letzten Jahres
 
 ## 4. `strafrecht-spezial-kreditbetrug-265b-stgb`
 
-**Frühere Beschreibung:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits fuer einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo fuer Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
+**Fokus:** Kreditbetrug § 265b StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung eines Kredits fuer einen Betrieb oder ein Unternehmen. Abstraktes Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Kreditbegriff § 265b Abs. 3 StGB, wirtschaftliche Verhaeltnisse, Bilanzen, Vermoegensueber sicht. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 265b Abs. 2 StGB. Output Memo fuer Mittelstandskredite und KMU-Finanzierungen mit Subsumtionsraster und Strafzumessungsanalyse.
 
 # Kreditbetrug § 265b StGB
 
@@ -472,7 +472,7 @@ Wer einem Betrieb oder Unternehmen im Zusammenhang mit einem Antrag auf Gewaehru
 
 ## 5. `strafrecht-spezial-kriminologie-deliktphaenomenologie`
 
-**Frühere Beschreibung:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug fuer kontextsensitive Strafzumessungsargumentation.
+**Fokus:** Deliktsphaenomenologie nach Deliktstyp: Vermoegensdelikte (Diebstahl, Betrug, Untreue), Gewaltdelikte (Koerperverletzung, Raub, Toetung), Sexualdelikte (sexueller Missbrauch, sexuelle Noetigung). Tatmuster, Taeterprofile, Aufklaerungsraten, Beweiskonstellationen. Verteidigerwerkzeug fuer kontextsensitive Strafzumessungsargumentation.
 
 # Deliktsphaenomenologie nach Tatkategorie
 
@@ -578,7 +578,7 @@ Im Plaedoyer phaenomenologisch kontextualisieren: "Statistisch sind Vermoegensde
 
 ## 6. `strafrecht-spezial-kriminologie-grundlagen-und-praxis`
 
-**Frühere Beschreibung:** Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug fuer Schlussvortrag mit kriminologischen Argumenten.
+**Fokus:** Kriminologie als Bezugswissenschaft des Strafrechts: Aetiologie, Phaenomenologie, Viktimologie, Praevention, Repression. Theorien (Anomie, Subkultur, Etikettierung, Rational Choice). Anwendung in Strafzumessung, Prognose, Verteidigungsstrategie. Verteidigerwerkzeug fuer Schlussvortrag mit kriminologischen Argumenten.
 
 # Kriminologie als Bezugswissenschaft des Strafrechts
 
@@ -662,7 +662,7 @@ Im Strafzumessungsplaedoyer kombinieren Sie Einzelfall und Empirie: "Mein Mandan
 
 ## 7. `strafrecht-spezial-kriminologie-opferpsychologie`
 
-**Frühere Beschreibung:** Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung fuer aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin.
+**Fokus:** Opferpsychologie und Viktimologie: Aussagedynamik nach Trauma, PTBS-Symptomatik, dissoziative Erinnerungsphaenomene, Latenz und Aussagekonstanz nach traumatischen Ereignissen. Bedeutung fuer aussagepsychologische Bewertung. Verteidigerwerkzeug bei traumatisierter Belastungszeugin.
 
 # Opferpsychologie und Aussagedynamik nach Trauma
 
@@ -743,7 +743,7 @@ Im Plaedoyer respektvoll und differenziert: "Die Zeugin hat ohne Zweifel belaste
 
 ## 8. `strafrecht-spezial-kriminologie-rueckfallprognose`
 
-**Frühere Beschreibung:** Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik fuer Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung.
+**Fokus:** Kriminalprognostische Verfahren: PCL-R (Psychopathy Checklist), HCR-20 (Historical Clinical Risk Management), FOTRES (Forensisches Operationalisiertes Therapie-Risiko-Evaluations-System), MPU-Kriterien. Methodische Anforderungen, Replik fuer Verteidigung bei Sicherungsverwahrung, Massregelvollzug und Bewaehrungsentscheidung.
 
 # Rueckfallprognose und kriminalprognostische Verfahren
 
@@ -835,7 +835,7 @@ Im Plaedoyer methodisch argumentieren: "Das vorgelegte Prognosegutachten arbeite
 
 ## 9. `strafrecht-spezial-kriminologie-tatdynamik-und-modus-operandi`
 
-**Frühere Beschreibung:** Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung fuer Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug fuer Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung.
+**Fokus:** Tatdynamik und Modus operandi: Tataufbau, Tatzeit-, Tatort-, Tatopfer-Selektion, Affekttat vs. Plantat. Kriminologische Strukturierung der Tatentstehung, Bedeutung fuer Schuld- und Strafzumessungsfrage. Verteidigerwerkzeug fuer Sachverhaltsanalyse, Affektbeweis, Spontaneitaetsverteidigung.
 
 # Tatdynamik und Modus operandi
 
@@ -941,7 +941,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Tatdynamik laesst sich aus den Akte
 
 ## 10. `strafrecht-spezial-markenrecht-143-markeng`
 
-**Frühere Beschreibung:** Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes oeffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport.
+**Fokus:** Strafvorschriften nach Paragraph 143 MarkenG. Vorsaetzliche Markenrechtsverletzung Doppelidentitaet Verwechslungsgefahr Bekanntheitsschutz. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Antragsdelikt mit Ausnahme besonderes oeffentliches Interesse Paragraph 144 MarkenG. Produktpiraterie Counterfeit-Vertrieb Fashion Luxus. Verteidigung Verwechslungsgefahr Erschoepfung Reimport.
 
 # Strafvorschriften des Markenrechts nach Paragraph 143 MarkenG
 

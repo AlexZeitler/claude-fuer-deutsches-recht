@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ihl-013-lex-mercator-bis-ihl-017-pecl-und-sof
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (ihl-013-lex-mercatoria-einsatzgrenzen, ihl-015-unidroit-hardship, ihl-016-unidroit-force-majeure, ihl-017-pecl-und-soft-law-vergleich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 013 Lex Mercatoria Einsatzgrenzen, Ihl 015 Unidroit Hardship, Ihl 016 Unidroit Force Majeure, Ihl 017 Pecl Und Soft Law Vergleich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 013 Lex Mercatoria Einsatzgrenzen bis Ihl 017 Pecl Und Soft Law Vergleich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-013-lex-mercatoria-einsatzgrenzen` | Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit. |
 | `ihl-015-unidroit-hardship` | Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-013-lex-mercatoria-einsatzgrenzen`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit.
+**Fokus:** Internationales Handelsrecht: Lex mercatoria — transnationaler Handelsrechtsdebatte. Goldman-These (autonomes Handelsrecht), Lord Mustill (Skepsis), Berger CENTRAL-Prinzipien-Datenbank und Grenzen in staatlichen Gerichten vs. internationaler Schiedsgerichtsbarkeit.
 
 # Lex Mercatoria: Geltungsbereich und Grenzen
 
@@ -81,7 +81,7 @@ trans-lex.org (CENTRAL), unidroit.org, jusmundi.com, italaw.com. Schrifttum: Ber
 
 ## 2. `ihl-015-unidroit-hardship`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC).
+**Fokus:** Internationales Handelsrecht: Hardship nach UNIDROIT Principles Art. 6.2.1-6.2.3. Definition der Leistungserschwernis, Wesentlichkeit des Ungleichgewichts, Neuverhandlungspflicht, Gerichts-/Schiedsrichterentscheid und Abgrenzung zu Force Majeure (Art. 7.1.7 PICC).
 
 # Hardship (Leistungserschwernis) nach UNIDROIT Principles Art. 6.2.1-6.2.3
 
@@ -133,7 +133,7 @@ PICC 2016 Art. 6.2.1-6.2.3: unidroit.org. Schiedssprüche: jusmundi.com. Schrift
 
 ## 3. `ihl-016-unidroit-force-majeure`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln.
+**Fokus:** Internationales Handelsrecht: Force Majeure nach UNIDROIT Principles Art. 7.1.7 und CISG Art. 79. Befreiungsvoraussetzungen, Hinweispflicht, Rechtsfolgen (kein Schadensersatz aber Aufhebungsrecht) und Abfassung von Force-Majeure-Klauseln.
 
 # Force Majeure: PICC Art. 7.1.7 und CISG Art. 79
 
@@ -185,7 +185,7 @@ CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 202
 
 ## 4. `ihl-017-pecl-und-soft-law-vergleich`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge.
+**Fokus:** Internationales Handelsrecht: Soft-Law-Vergleich UNIDROIT PICC 2016 vs. Principles of European Contract Law (PECL) vs. Draft Common Frame of Reference (DCFR). Anwendungsfelder, Gemeinsamkeiten, Divergenzen und Relevanz für grenzüberschreitende Verträge.
 
 # PECL, DCFR und PICC: Soft-Law-Vergleich
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anerkennung-von-prue-bis-anwesenheitspflicht
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anerkennung-von-pruefungsleistungen, anonymisierung-klausur, anwesenheitspflicht, anwesenheitspflicht-modul) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anerkennung Von Pruefungsleistungen, Anonymisierung Klausur, Anwesenheitspflicht, Anwesenheitspflicht Modul; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - pruefungsrecht-hochschule
+# Arbeitsbereich - Anerkennung Von Pruefungsleistungen bis Anwesenheitspflicht Modul
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anerkennung-von-pruefungsleistungen` | Prüft Anerkennung und Anrechnung von Prüfungsleistungen. |
 | `anonymisierung-klausur` | Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anerkennung-von-pruefungsleistungen`
 
-**Frühere Beschreibung:** Prüft Anerkennung und Anrechnung von Prüfungsleistungen.
+**Fokus:** Prüft Anerkennung und Anrechnung von Prüfungsleistungen.
 
 # Anerkennung Von Pruefungsleistungen
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Anerkennungsantrag. Am Ende immer drei Zeilen: **Frist**, **f
 
 ## 2. `anonymisierung-klausur`
 
-**Frühere Beschreibung:** Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler.
+**Fokus:** Prüft Matrikelnummer, Namensoffenlegung, Gleichbehandlung und Korrekturfehler.
 
 # Anonymisierung der Klausur
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `anwesenheitspflicht`
 
-**Frühere Beschreibung:** Prüft Anwesenheitspflichten als Prüfungsvoraussetzung.
+**Fokus:** Prüft Anwesenheitspflichten als Prüfungsvoraussetzung.
 
 # Anwesenheitspflicht
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Anwesenheitsmemo. Am Ende immer drei Zeilen: **Frist**, **feh
 
 ## 4. `anwesenheitspflicht-modul`
 
-**Frühere Beschreibung:** Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung.
+**Fokus:** Prüft Anwesenheitspflichten, Fehlzeiten, Satzungsgrundlage und Prüfungszulassung.
 
 # Anwesenheitspflicht im Modul
 

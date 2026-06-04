@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-rueckforderung-und-a-bis-schulbehoerde-brief
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (rueckforderung-und-aufhebung, rundfunkbeitrag, schulbegleitung-und-inklusion, schulbehoerde-brief) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rueckforderung Und Aufhebung, Rundfunkbeitrag, Schulbegleitung Und Inklusion, Schulbehoerde Brief; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Rueckforderung Und Aufhebung bis Schulbehoerde Brief
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rueckforderung-und-aufhebung` | Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken. |
 | `rundfunkbeitrag` | Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rueckforderung-und-aufhebung`
 
-**Frühere Beschreibung:** Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken.
+**Fokus:** Ordnet Aufhebungs- und Rückforderungsbescheide, Vertrauensschutz, Ratenzahlung und Widerspruchsrisiken.
 
 # Rückforderung und Aufhebung
 
@@ -76,7 +76,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `rundfunkbeitrag`
 
-**Frühere Beschreibung:** Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise.
+**Fokus:** Erklärt Beitragsbescheid, Befreiung, Ermäßigung, Vollstreckung, Widerspruch und Nachweise.
 
 # Rundfunkbeitrag
 
@@ -116,7 +116,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `schulbegleitung-und-inklusion`
 
-**Frühere Beschreibung:** Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag.
+**Fokus:** Routet zwischen Schule, Eingliederungshilfe, Jugendamt, Sozialamt, ärztlichen Nachweisen und Eilantrag.
 
 # Schulbegleitung und Inklusion
 
@@ -156,7 +156,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `schulbehoerde-brief`
 
-**Frühere Beschreibung:** Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht.
+**Fokus:** Erklärt Schulpflicht, Ordnungsmaßnahmen, Anhörung, Klassenkonferenz, Widerspruch, Schulamt und Landesrecht.
 
 # Schulbehörde-Brief
 

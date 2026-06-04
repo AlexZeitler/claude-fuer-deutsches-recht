@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ar-betriebsuebergang-bis-ar-leiharbeit-equal
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ar-betriebsuebergang-spezial, ar-einfuehrung-mandantenanliegen, ar-leiharbeit-equal-pay-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Ar Betriebsuebergang Spezial, Ar Einfuehrung Mandantenanliegen, Ar Leiharbeit Equal Pay Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ar-betriebsuebergang-spezial` | Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität. |
 | `ar-einfuehrung-mandantenanliegen` | Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ar-betriebsuebergang-spezial`
 
-**Frühere Beschreibung:** Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität.
+**Fokus:** Betriebsübergang § 613a BGB im M&A-Kontext: Asset-Deal vs. Share-Deal, identitätswahrender Übergang (EuGH/BAG-Linie), Unterrichtungsschreiben Mindestinhalt, Widerspruchsrecht 1 Monat, Haftungsfolgen, Tarif- und Betriebsvereinbarungskontinuität.
 
 # AR: Betriebsübergang § 613a BGB (Spezial)
 
@@ -148,7 +148,7 @@ Ein unvollständiges oder fehlerhaftes Unterrichtungsschreiben setzt die Widersp
 
 ## 2. `ar-einfuehrung-mandantenanliegen`
 
-**Frühere Beschreibung:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste.
+**Fokus:** Arbeitsrecht einführend: typische Mandantenanliegen — Kündigung, Abfindung, Zeugnis, Befristung, Maßregelungsverbot, Diskriminierung AGG, Lohn, Urlaub, BR-Mitbestimmung. Routing in Spezial-Skills. Erstgesprächs-Checkliste.
 
 # AR: Einführung — Typische Mandantenanliegen
 
@@ -257,7 +257,7 @@ Alle Spezial-Skills des Plugins stehen für die jeweiligen Themen bereit. Nach K
 
 ## 3. `ar-leiharbeit-equal-pay-spezial`
 
-**Frühere Beschreibung:** Leiharbeit: Equal-Pay-Anspruch § 8 AÜG, Überlassungshöchstdauer 18 Monate § 1 Abs. 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes § 10 AÜG, Gleichbehandlungsgrundsatz und tarifliche Abweichungsmöglichkeit.
+**Fokus:** Leiharbeit: Equal-Pay-Anspruch § 8 AÜG, Überlassungshöchstdauer 18 Monate § 1 Abs. 1b AÜG, Verbot verdeckter Arbeitnehmerüberlassung, Arbeitsverhältnis kraft Gesetzes § 10 AÜG, Gleichbehandlungsgrundsatz und tarifliche Abweichungsmöglichkeit.
 
 # AR: Leiharbeit — Equal Pay und AÜG-Spezial
 

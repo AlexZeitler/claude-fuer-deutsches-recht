@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-fran-034-fitness-fra-bis-fran-036-pflege-oder
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (fran-034-fitness-franchise-verbrauchervertraege, fran-035-bildungsfranchise-schulrecht-und-werbung, fran-036-pflege-oder-medizin-franchise-regulatorische-grenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Regulatorische Grenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - franchiserecht-praxis
+# Arbeitsbereich - Fran 034 Fitness Franchise Verbrauchervertraege, Fran 035 Bildungsfranchise Schulrecht Und Werbung, Fran 036 Pflege Oder Medizin Franchise Re
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-034-fitness-franchise-verbrauchervertraege` | Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System. |
 | `fran-035-bildungsfranchise-schulrecht-und-werbung` | Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-034-fitness-franchise-verbrauchervertraege`
 
-**Frühere Beschreibung:** Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System.
+**Fokus:** Fitness-Franchise und Verbraucherverträge rechtlich gestalten: Laufzeitklauseln in Mitgliedschaftsverträgen nach § 309 Nr. 9 BGB, Widerrufsrecht, Preisanpassungsklauseln, Schliessungspflichten bei Insolvenz und Haftung für Sportverletzungen im System.
 
 # Franchiserecht: Fitness-Franchise und Verbraucherverträge
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-035-bildungsfranchise-schulrecht-und-werbung`
 
-**Frühere Beschreibung:** Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen.
+**Fokus:** Bildungsfranchise rechtlich prüfen: Schulrecht und staatliche Genehmigungspflichten, Werbebeschränkungen im Bildungsbereich, Curriculum-Schutz als Know-how, Verbraucherschutz bei Kursverträgen und Haftung für Bildungsversprechen.
 
 # Franchiserecht: Bildungsfranchise, Schulrecht und Werbung
 
@@ -185,7 +185,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-036-pflege-oder-medizin-franchise-regulatorische-grenzen`
 
-**Frühere Beschreibung:** Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspflichten nach SGB XI und SGB V, Berufsrechtsschranken für Heilberufe, Werbebeschränkungen nach HWG und UWG, Haftung für Pflegemängel und Systemverantwortung des Franchisegebers.
+**Fokus:** Pflege- und Medizin-Franchise regulatorisch prüfen: Zulassungspflichten nach SGB XI und SGB V, Berufsrechtsschranken für Heilberufe, Werbebeschränkungen nach HWG und UWG, Haftung für Pflegemängel und Systemverantwortung des Franchisegebers.
 
 # Franchiserecht: Pflege- und Medizin-Franchise – Regulatorische Grenzen
 

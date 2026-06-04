@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-iv-masseeinsammlung-bis-iv-massemehrung-asse
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (iv-masseeinsammlung, iv-massemehrung-asset-realisation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Masseeinsammlung, Iv Massemehrung Asset Realisation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - insolvenzverwaltung
+# Arbeitsbereich - Iv Masseeinsammlung, Iv Massemehrung Asset Realisation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-masseeinsammlung` | Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht für aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation). |
 | `iv-massemehrung-asset-realisation` | Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht für reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortführung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-masseeinsammlung`
 
-**Frühere Beschreibung:** Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht für aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation).
+**Fokus:** Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht für aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation).
 
 # Masseeinsammlung
 
@@ -115,7 +115,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `iv-massemehrung-asset-realisation`
 
-**Frühere Beschreibung:** Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht für reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortführung.
+**Fokus:** Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht für reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortführung.
 
 # Massemehrung und Verwertung
 

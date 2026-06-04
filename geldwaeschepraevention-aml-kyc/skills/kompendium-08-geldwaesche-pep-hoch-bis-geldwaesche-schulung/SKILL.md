@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-geldwaesche-pep-hoch-bis-geldwaesche-schulung
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (geldwaesche-pep-hochrisikoland, geldwaesche-risikoanalyse-unternehmen, geldwaesche-schulung-awareness) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Pep Hochrisikoland, Geldwaesche Risikoanalyse Unternehmen, Geldwaesche Schulung Awareness; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Geldwaesche Pep Hochrisikoland, Geldwaesche Risikoanalyse Unternehmen, Geldwaesche Schulung Awareness
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-pep-hochrisikoland` | Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Prüfraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begründung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-sanktionsscreening. |
 | `geldwaesche-risikoanalyse-unternehmen` | Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-pep-hochrisikoland`
 
-**Frühere Beschreibung:** Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Prüfraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begründung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-sanktionsscreening.
+**Fokus:** Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Prüfraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begründung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-sanktionsscreening.
 
 # PEP, Hochrisikoland und verstärkte Sorgfalt
 
@@ -104,7 +104,7 @@ Dieser Skill entscheidet nicht pauschal, sondern führt durch Risikofaktoren, Fr
 
 ## 2. `geldwaesche-risikoanalyse-unternehmen`
 
-**Frühere Beschreibung:** Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
+**Fokus:** Risikobasierte AML/CFT-Risikoanalyse nach § 5 GwG für Verpflichtete. Anwendungsfall Unternehmen muss gesetzlich vorgeschriebene Risikoanalyse erstellen oder aktualisieren. Normen § 5 GwG Risikoanalyse § 6 GwG interne Sicherungsmassnahmen FATF-Empfehlungen BaFin-AuA. Prüfraster Produkte Kundenstruktur Laender Vertriebskanaele Transaktionen bestehende Kontrollen Risikoniveau. Output Risikoanalysedokument mit Risikoklassifizierung Kontrolllueckenbewertung und Massnahmenplan für Behoerdenvorlage. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
 
 # Unternehmensweite Risikoanalyse
 
@@ -180,7 +180,7 @@ Dieser Skill macht § 5 GwG operationalisierbar: Risikoidentifikation, Bewertung
 
 ## 3. `geldwaesche-schulung-awareness`
 
-**Frühere Beschreibung:** Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
+**Fokus:** Zielgruppengerechte AML/KYC-Schulungen und Awareness-Massnahmen nach § 6 Abs. 2 Nr. 6 GwG. Anwendungsfall jaehrliche Pflichtschulung muss durchgeführt oder neue Mitarbeiter eingearbeitet werden. Normen § 6 Abs. 2 Nr. 6 GwG Schulungspflicht BaFin-Mindestanforderungen FATF-Empfehlungen. Prüfraster Zielgruppen Inhalte Red-Flag-Karten Tests Teilnahmeprotokolle Auffrischungskonzept. Output Schulungspaket mit Kursinhalt Tests Teilnahmeprotokoll und E-Learning-Konzept. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
 
 # Schulung und Awareness
 

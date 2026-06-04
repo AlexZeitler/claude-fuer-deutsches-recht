@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-chn-094-incident-res-bis-chn-099-abschlussmem
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (chn-094-incident-response-china-business, chn-095-media-and-public-affairs, chn-098-negotiation-playbook, chn-099-abschlussmemo-china-deal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 094 Incident Response China Business, Chn 095 Media And Public Affairs, Chn 098 Negotiation Playbook, Chn 099 Abschlussmemo China Deal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 094 Incident Response China Business bis Chn 099 Abschlussmemo China Deal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-094-incident-response-china-business` | Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage. |
 | `chn-095-media-and-public-affairs` | Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-094-incident-response-china-business`
 
-**Frühere Beschreibung:** Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage.
+**Fokus:** Incident Response bei Vorfällen in China-Betrieb: Behördliche Maßnahmen (Durchsuchung, Verhör, Vermögensbeschlagnahme), Kommunikationskette Konzernzentrale, Anwalt vor Ort, Konsulat DE, Mitarbeiter-Instruktionen, Datensicherung vor Beschlagnahme, Krisenkommunikation innen/außen, Post-Incident-Review. Output: Incident-Response-Plan China und Notfall-Protokoll-Vorlage.
 
 # Incident Response China: Behördliche Maßnahmen und Notfallprotokoll
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-095-media-and-public-affairs`
 
-**Frühere Beschreibung:** Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste.
+**Fokus:** Medien und Public Affairs im China-Kontext: Staatliche Medien VR China (Xinhua/CGTN/Global Times), Umgang mit chinesischen Journalistenanfragen, Social-Media-Regulierung CN (Weibo/WeChat), Krisenkommunikation bei China-Themen in Deutschland, Abstimmung Pressemitteilungen mit CN-Rechtsstatus, Reputationsrisiken durch CN-Medien. Output: Media-Relations-Leitfaden China und Pressemitteilungs-Checkliste.
 
 # Medien und Public Affairs China: Staatspresse/Social Media/Krisenkomm
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-098-negotiation-playbook`
 
-**Frühere Beschreibung:** Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien.
+**Fokus:** Verhandlungs-Playbook China: Kulturelle und taktische Besonderheiten chinesischer Verhandlungsführung (Mianzi/Guanxi), Zeitdruck als Taktik, Vertragsänderungen nach Signing, Drittparteien-Einfluss (Behörden/Partei), BATNA-Analyse, Eskalationspfade, Mediations-/Schiedsoptionen. Output: Verhandlungs-Playbook mit Taktik-Matrix und Worst-Case-Szenarien.
 
 # Verhandlungs-Playbook China: Kultur/Taktik/BATNA
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-099-abschlussmemo-china-deal`
 
-**Frühere Beschreibung:** Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notarielle Beglaubigungen CN, Post-Closing-Obligations. Output: Abschluss-Memo-Template und Post-Closing-Checkliste.
+**Fokus:** Abschluss-Memo China-Deal: Checkliste für finale Dokumentation vor Signing/Closing, AWV-Meldung, BAFA-Genehmigungen, FDI-Screening-Clearance, IP-Registrierung, Datenschutz-Compliance (PIPL/DSGVO), LkSG-Risikoanalyse abgeschlossen, Notarielle Beglaubigungen CN, Post-Closing-Obligations. Output: Abschluss-Memo-Template und Post-Closing-Checkliste.
 
 # Abschluss-Memo China-Deal: Signing/Closing-Checkliste
 

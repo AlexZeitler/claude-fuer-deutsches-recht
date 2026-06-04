@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-vaf-feldinventar-bis-vaf-fremdsprachige-v
-description: "vertragsausfueller: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (vaf-feldinventar, vaf-fragebogen-input-leitfaden, vaf-fremdsprachige-vertraege-bilingual) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsausfueller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vaf Feldinventar, Vaf Fragebogen Input Leitfaden, Vaf Fremdsprachige Vertraege Bilingual; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - vertragsausfueller
+# Arbeitsbereich - Vaf Feldinventar, Vaf Fragebogen Input Leitfaden, Vaf Fremdsprachige Vertraege Bilingual
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vaf-feldinventar` | Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview. |
 | `vaf-fragebogen-input-leitfaden` | Leitfaden Fragebogen-Input fuer Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster fuer UX-Tests. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vaf-feldinventar`
 
-**Frühere Beschreibung:** Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview.
+**Fokus:** Feldinventar für Vertragsgenerator erstellen: Anwendungsfall Anwalt oder Mandant will wissen welche Felder im Vertrag auszufüllen sind bevor Rückfrageninterview startet. §§ 550 BGB Schriftformerfordernis Mietvertrag, § 2 NachwG Arbeitsvertrag Pflichtfelder. Prüfraster Pflichtfelder nach Gesetz, optionale Felder, Quellen für Werte, bedingte Felder für Sonderoptionen, Risikofelder ohne Default. Output Feldinventar-Tabelle mit Feldname, Pflicht/Optional, Quelle und Risikohinweis. Abgrenzung zu Template-Erkennung und zu Rückfrageninterview.
 
 # Feldinventar
 
@@ -98,7 +98,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 
 ## 2. `vaf-fragebogen-input-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Fragebogen-Input fuer Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster fuer UX-Tests.
+**Fokus:** Leitfaden Fragebogen-Input fuer Vertragsausfueller: Reihenfolge, Validierung, Plausibilitaet, Mandantenfreundlichkeit. Pruefraster fuer UX-Tests.
 
 # VAF: Fragebogen-Input
 
@@ -151,7 +151,7 @@ Dieser Skill gehoert zum Plugin `vertragsausfueller`. Er ergaenzt die uebrigen S
 
 ## 3. `vaf-fremdsprachige-vertraege-bilingual`
 
-**Frühere Beschreibung:** Spezialfall fremdsprachige und bilinguale Vertraege: Sprache fuer rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte.
+**Fokus:** Spezialfall fremdsprachige und bilinguale Vertraege: Sprache fuer rechtlich verbindliche Auslegung definieren, Konsistenz Glossar, Uebersetzung als Anlage. Risiken bei Verwendung von DeepL und LLM. Pruefraster und Mustertexte.
 
 # Bilinguale Vertraege
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-space-039-kleinsatel-bis-space-043-weltraumwe
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-ver, space-040-amateurfunk-satellit-und-frequenznutzung, space-041-remote-sensing-lizenz-rohdaten-und-sensible-orte, space-043-weltraumwetter-solarsturm-und-betreiberpflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver, Space 040 Amateurfunk Satellit Und Frequenznutzung, Space 041 Remote Sensing Lizenz Rohdaten Und Sensible Orte, Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - weltraumrecht
+# Arbeitsbereich - Space 039 Kleinsatellit Universitaet Cubesat Genehmigung Und Ver bis Space 043 Weltraumwetter Solarsturm Und Betreiberpflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-ver` | CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm. |
 | `space-040-amateurfunk-satellit-und-frequenznutzung` | Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-039-kleinsatellit-universitaet-cubesat-genehmigung-und-ver`
 
-**Frühere Beschreibung:** CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm.
+**Fokus:** CubeSat-Missionen von Universitäten – Genehmigungspflichten, Versicherung, DLR-Schirm.
 
 # Weltraumrecht: Kleinsatellit/Universität: CubeSat, Genehmigung, Versicherung
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: CubeSat, Universitätssatellit, G
 
 ## 2. `space-040-amateurfunk-satellit-und-frequenznutzung`
 
-**Frühere Beschreibung:** Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA.
+**Fokus:** Amateurfunksatelliten – ITU-Amateurfrequenzen, IARU-Koordinierung, nationale Genehmigung, BNetzA.
 
 # Weltraumrecht: Amateurfunk-Satellit und Frequenznutzung
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Amateurfunksatellit, ITU Amateur 
 
 ## 3. `space-041-remote-sensing-lizenz-rohdaten-und-sensible-orte`
 
-**Frühere Beschreibung:** Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO.
+**Fokus:** Remote Sensing-Recht – Lizenzpflichten, Schutz sensibler Orte, Datenvertrieb, DSGVO.
 
 # Weltraumrecht: Remote Sensing: Lizenz, Rohdaten, sensible Orte
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Remote Sensing, SatDSiG, sensible
 
 ## 4. `space-043-weltraumwetter-solarsturm-und-betreiberpflichten`
 
-**Frühere Beschreibung:** Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung.
+**Fokus:** Weltraumwetter-Risiken – Solarsturm, Strahlungsschäden, Betreiberpflichten, Versicherungsdeckung.
 
 # Weltraumrecht: Weltraumwetter: Solarsturm und Betreiberpflichten
 

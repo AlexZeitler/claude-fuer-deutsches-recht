@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fran-011-datenschutz-bis-fran-013-handelsvert
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli, fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise, fran-013-handelsvertreterausgleich-analog-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsvertreterausgleich Analog Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - franchiserecht-praxis
+# Arbeitsbereich - Fran 011 Datenschutz Crm Kundendaten Und Gemeinsame Verantwortli, Fran 012 Arbeitsrecht Scheinselbststaendigkeit Franchise, Fran 013 Handelsv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli` | Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer. |
 | `fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise` | Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-011-datenschutz-crm-kundendaten-und-gemeinsame-verantwortli`
 
-**Frühere Beschreibung:** Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer.
+**Fokus:** Datenschutz im Franchisesystem regeln: gemeinsame Verantwortlichkeit nach Art. 26 DSGVO für CRM und Kundendaten, Auftragsverarbeitungsverträge nach Art. 28 DSGVO, Rechenschaftspflichten und Bussgeldrisiken. Perspektive Franchisegeber und Franchisenehmer.
 
 # Franchiserecht: Datenschutz, CRM, Kundendaten und gemeinsame Verantwortlichkeit
 
@@ -103,7 +103,7 @@ Im Franchisekontext ist besonders kritisch, wer die Entscheidung über den Einsa
 
 ## 2. `fran-012-arbeitsrecht-scheinselbststaendigkeit-franchise`
 
-**Frühere Beschreibung:** Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen.
+**Fokus:** Scheinselbstständigkeit von Franchisenehmern prüfen: Abgrenzung selbstständiger Unternehmer vs. Arbeitnehmer oder arbeitnehmerähnliche Person nach § 84 HGB. Sozialversicherungsrecht, Statusfeststellungsverfahren DRV und arbeitsrechtliche Konsequenzen.
 
 # Franchiserecht: Arbeitsrecht und Scheinselbstständigkeit im Franchise
 
@@ -181,7 +181,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-013-handelsvertreterausgleich-analog-pruefen`
 
-**Frühere Beschreibung:** Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber.
+**Fokus:** Ausgleichsanspruch des Franchisenehmers analog § 89b HGB prüfen: Voraussetzungen, Berechnung nach Rohertrag und Unternehmervorteilen, BGH-Linie zur analogen Anwendung, Ausschlussgründe und Verjährung. Perspektive Franchisenehmer und Franchisegeber.
 
 # Franchiserecht: Handelsvertreterausgleich analog – § 89b HGB prüfen
 

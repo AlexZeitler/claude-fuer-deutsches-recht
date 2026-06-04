@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-inso-tabelle-und-fes-bis-insolvenzgeld-165-sg
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (inso-tabelle-und-feststellung-spezial, inso-verbraucherinsolvenz-leitfaden, insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan, insolvenzgeld-165-sgb-iii) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Tabelle Und Feststellung Spezial, Inso Verbraucherinsolvenz Leitfaden, Insol Sanierungsgewinn Rangruecktritt Und 5 Abs 2a Estg Im Plan, Insolvenzgeld 165 Sgb Iii; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - insolvenzrecht
+# Arbeitsbereich - Inso Tabelle Und Feststellung Spezial bis Insolvenzgeld 165 Sgb Iii
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-tabelle-und-feststellung-spezial` | Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte. |
 | `inso-verbraucherinsolvenz-leitfaden` | Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-tabelle-und-feststellung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte.
+**Fokus:** Spezialfall Tabelle und Feststellung: § 175 InsO Tabelle, § 176 InsO Pruefungstermin, § 178 InsO Wirkungen festgestellter Forderungen, Widerspruch durch Insolvenzverwalter oder anderen Glaeubiger. Pruefraster und Mustertexte.
 
 # InsO: Tabelle und Feststellung
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 2. `inso-verbraucherinsolvenz-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung.
+**Fokus:** Leitfaden Verbraucherinsolvenz §§ 304 ff. InsO: aussergerichtlicher Einigungsversuch, Schuldenbereinigungsplan, Restschuldbefreiung, Sperrfristen. Pruefraster Schuldnerberatung.
 
 # Inso: Verbraucherinsolvenz
 
@@ -152,7 +152,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 3. `insol-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg-im-plan`
 
-**Frühere Beschreibung:** Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen/Liquidationserloesen erfolgt. Beziehung zu Sanierungsertrag. Mustertexte Rangruecktrittsvereinbarung.
+**Fokus:** Rangruecktritt und Paragraph 5 Absatz 2a EStG im Insolvenz- und StaRUG-Plan. Qualifizierter Rangruecktritt verhindert Passivierung. Abgrenzung zum Forderungsverzicht: bei Rangruecktritt bleibt die Verbindlichkeit zivilrechtlich, faellt aber bilanziell weg, wenn Tilgung nur aus kuenftigen Gewinnen/Liquidationserloesen erfolgt. Beziehung zu Sanierungsertrag. Mustertexte Rangruecktrittsvereinbarung.
 
 # Sanierungsgewinn — Rangruecktritt und Paragraph 5 Absatz 2a EStG im Plan
 
@@ -360,7 +360,7 @@ Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
 
 ## 4. `insolvenzgeld-165-sgb-iii`
 
-**Frühere Beschreibung:** Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-gläubiger für allgemeine Forderungsanmeldung.
+**Fokus:** Arbeitnehmer eines insolventen Unternehmens will Insolvenzgeld beantragen oder Insolvenzverwalter bearbeitet Insolvenzgeld-Anmeldungen. Prüfraster § 165 ff. SGB III Anspruchs-Voraussetzungen Arbeitsentgelt letzte drei Monate vor Insolvenz-Ereignis. Insolvenz-Ereignis § 165 Abs. 1 SGB III Eroeffnung Abweisung mangels Masse Vollstreckungs-Aussichtslosigkeit. Antragsfrist zwei Monate § 324 SGB III Vor-Finanzierung Banken bis 75 Prozent. Output Antragsentwurf Bescheinigung Abrechnung Schnittstelle Sozialversicherungs-Beitraege. Abgrenzung: forderungsanmeldung-gläubiger für allgemeine Forderungsanmeldung.
 
 # Insolvenzgeld nach § 165 SGB III
 

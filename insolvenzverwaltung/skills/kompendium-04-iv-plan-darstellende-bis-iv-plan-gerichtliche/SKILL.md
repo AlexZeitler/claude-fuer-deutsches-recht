@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-iv-plan-darstellende-bis-iv-plan-gerichtliche
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (iv-plan-darstellender-teil, iv-plan-gerichtliche-schritte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Darstellender Teil, Iv Plan Gerichtliche Schritte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Darstellender Teil, Iv Plan Gerichtliche Schritte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-darstellender-teil` | Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (iv-plan-gestaltender-teil). |
 | `iv-plan-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorprüfung Bestätigung §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag Vorlaufprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Stakeholder-Kommunikation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-darstellender-teil`
 
-**Frühere Beschreibung:** Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (iv-plan-gestaltender-teil).
+**Fokus:** Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (iv-plan-gestaltender-teil).
 
 # IV-integrierte Darstellender Teil
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-gerichtliche-schritte`
 
-**Frühere Beschreibung:** Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorprüfung Bestätigung §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag Vorlaufprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Stakeholder-Kommunikation.
+**Fokus:** Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorprüfung Bestätigung §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichungsantrag Vorlaufprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Stakeholder-Kommunikation.
 
 # IV-integrierte Gerichtliche Schritte
 

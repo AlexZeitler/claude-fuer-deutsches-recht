@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-schule-universitaet-bis-schutz-vor-vorauseil
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (schule-universitaet-jugendliche, schutz-vor-vorauseilendem-gehorsam) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schule Universitaet Jugendliche, Schutz Vor Vorauseilendem Gehorsam; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - versammlungsrecht
+# Arbeitsbereich - Schule Universitaet Jugendliche, Schutz Vor Vorauseilendem Gehorsam
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schule-universitaet-jugendliche` | Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht. |
 | `schutz-vor-vorauseilendem-gehorsam` | Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schule-universitaet-jugendliche`
 
-**Frühere Beschreibung:** Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht.
+**Fokus:** Prüft Schüler-, Studierenden-, Hochschul- und Jugendversammlungen samt Aufsicht, Schulrecht und Hausrecht.
 
 # Junge Versammlungen brauchen klare Rollen
 
@@ -69,7 +69,7 @@ Output: Rollenkarte und sichere Einladung.
 
 ## 2. `schutz-vor-vorauseilendem-gehorsam`
 
-**Frühere Beschreibung:** Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen.
+**Fokus:** Hilft, berechtigte Behördenbelange zu berücksichtigen, ohne die Versammlung aus Angst selbst zu entkernen.
 
 # Keine Schere im Kopf
 

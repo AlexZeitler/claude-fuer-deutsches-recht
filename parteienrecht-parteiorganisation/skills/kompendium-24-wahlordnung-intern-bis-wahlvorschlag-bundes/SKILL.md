@@ -1,33 +1,33 @@
 ---
 name: kompendium-24-wahlordnung-intern-bis-wahlvorschlag-bundes
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (wahlordnung-intern, wahlvorschlag-bundestag-einreichen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Wahlordnung Intern, Wahlvorschlag Bundestag Einreichen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlordnung-intern` | Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung. |
 | `wahlvorschlag-bundestag-einreichen` | Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlordnung-intern`
 
-**Frühere Beschreibung:** Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung.
+**Fokus:** Regelt geheime Wahl, Kandidaturen, Vorstellung, Stimmzettel, Auszählung, Stichwahl, Wahlanfechtung.
 
 # Interne Wahlordnung
 
@@ -68,7 +68,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `wahlvorschlag-bundestag-einreichen`
 
-**Frühere Beschreibung:** Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen.
+**Fokus:** Erstellt Einreichungscheck für Kreiswahlvorschlag und Landesliste nach BWahlG/BWO und Bundeswahlleiter-Hinweisen.
 
 # Bundestag Wahlvorschlag einreichen
 

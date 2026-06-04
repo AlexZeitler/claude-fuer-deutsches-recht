@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-recherche-strategie-bis-recherchebericht-ers
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (recherche-strategie-keywords-und-klassen, recherche-tools-marktuebersicht, recherchebericht-erstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - patentrecherche
+# Arbeitsbereich - Recherche Strategie Keywords Und Klassen, Recherche Tools Marktuebersicht, Recherchebericht Erstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recherche-strategie-keywords-und-klassen` | Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle. |
 | `recherche-tools-marktuebersicht` | Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recherche-strategie-keywords-und-klassen`
 
-**Frühere Beschreibung:** Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle.
+**Fokus:** Recherche-Strategie Keywords und Klassifikationen: Boolesche Operatoren, Wildcards, Stopp-Woerter, Variantenpruefung, Trunkierung, Synonyme. CPC und IPC mit Co-Klassen, Klassenwanderung Updates. Strukturierte Vorbereitung von Suchprofilen. Mustertabelle.
 
 # Recherche-Strategie
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## 2. `recherche-tools-marktuebersicht`
 
-**Frühere Beschreibung:** Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung.
+**Fokus:** Marktuebersicht Recherche-Tools: kostenlose Quellen (Espacenet, DEPATIS, Google Patents, Lens, USPTO PatFT/AppFT, J-PlatPat), kostenpflichtige (Derwent, Orbit, PatBase, Minesoft, IPCheckUp, Patsnap). Pro Tool: Staerken, Schwaechen, Lizenzmodell, Eignung.
 
 # Recherche-Tools: Marktuebersicht
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## 3. `recherchebericht-erstellen`
 
-**Frühere Beschreibung:** Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Suchstrings Klassen Schlagworte Zeitraum Trefferzahlen Treffertabelle und Bewertungen aus Skills neuheit-prüfen erfinderische-tätigkeit-prüfen freedom-to-operate-recherche und patentfamilien-analyse zusammen. Strukturierter Aufbau mit Deckblatt Auftragsbeschreibung Methodik Trefferdokumentation Bewertung Empfehlung Anhang (Suchstrings Klassen Quellenliste). Disclaimer Vorrecherche keine amtliche Recherche mehrfach im Bericht. Output als Markdown-Dokument das die Patentanwaeltin in Word oder PDF weiterverarbeiten kann.
+**Fokus:** Formaler Recherchebericht für den Mandanten oder die Akte. Bringt Auftrag Methodik durchsuchte Datenbanken verwendete Suchstrings Klassen Schlagworte Zeitraum Trefferzahlen Treffertabelle und Bewertungen aus Skills neuheit-prüfen erfinderische-tätigkeit-prüfen freedom-to-operate-recherche und patentfamilien-analyse zusammen. Strukturierter Aufbau mit Deckblatt Auftragsbeschreibung Methodik Trefferdokumentation Bewertung Empfehlung Anhang (Suchstrings Klassen Quellenliste). Disclaimer Vorrecherche keine amtliche Recherche mehrfach im Bericht. Output als Markdown-Dokument das die Patentanwaeltin in Word oder PDF weiterverarbeiten kann.
 
 # recherchebericht-erstellen
 

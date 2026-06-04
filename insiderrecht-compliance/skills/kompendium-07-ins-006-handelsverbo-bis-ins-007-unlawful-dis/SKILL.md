@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-ins-006-handelsverbo-bis-ins-007-unlawful-dis
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (ins-006-handelsverbot-art14, ins-007-unlawful-disclosure) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - insiderrecht-compliance
+# Arbeitsbereich - Ins 006 Handelsverbot Art14, Ins 007 Unlawful Disclosure
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-006-handelsverbot-art14` | Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher. |
 | `ins-007-unlawful-disclosure` | Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-006-handelsverbot-art14`
 
-**Frühere Beschreibung:** Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher.
+**Fokus:** Prueft Insiderhandelsverbot nach Art. 14 MAR, abgrenzt Wissen von Absicht, analysiert Safe-Harbour-Ausnahmen und stellt Verteidigungsdokumentation sicher.
 
 # Insiderhandelsverbot nach Art. 14 MAR
 
@@ -118,7 +118,7 @@ bgh.de, dejure.org, openjur.de.
 
 ## 2. `ins-007-unlawful-disclosure`
 
-**Frühere Beschreibung:** Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab.
+**Fokus:** Prueft unzulaessige Offenlegung von Insiderinformationen nach Art. 10 MAR und grenzt sie von zulaessiger Informationsweitergabe (Market Sounding, Beratung, M&A) ab.
 
 # Unzulässige Offenlegung nach Art. 10 MAR
 

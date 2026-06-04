@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-workflow-arbeitswelt-bis-workflow-ce-akte-und
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 01; bündelt 6 frühere Spezialskills (workflow-arbeitswelt-cobot-check, workflow-beschaffung-oeffentlich-privat, workflow-betreiberpflichten-und-training, workflow-beweismatrix-und-logauswertung, workflow-board-und-c-level-briefing und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitswelt Cobot Check, Beschaffung Oeffentlich Privat, Betreiberpflichten Und Training, Beweismatrix Und Logauswertung und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - robotik-recht
+# Arbeitsbereich - Arbeitswelt Cobot Check bis Ce Akte Und Technische Dokumentation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-arbeitswelt-cobot-check` | Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung. |
 | `workflow-beschaffung-oeffentlich-privat` | Unterstützt Beschaffung von Robotik durch Unternehmen oder öffentliche Hand: Lastenheft, Vergabe, Compliance-Kriterien, Abnahme, Gewährleistung und Exit. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-arbeitswelt-cobot-check`
 
-**Frühere Beschreibung:** Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung.
+**Fokus:** Prüft Cobots im Betrieb: Arbeitsschutz, Beschäftigtendaten, Mitbestimmung, Qualifikation, Mensch-Roboter-Interaktion, Unfälle und Produktverantwortung.
 
 # Arbeitswelt Cobot Check
 
@@ -82,7 +82,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `workflow-beschaffung-oeffentlich-privat`
 
-**Frühere Beschreibung:** Unterstützt Beschaffung von Robotik durch Unternehmen oder öffentliche Hand: Lastenheft, Vergabe, Compliance-Kriterien, Abnahme, Gewährleistung und Exit.
+**Fokus:** Unterstützt Beschaffung von Robotik durch Unternehmen oder öffentliche Hand: Lastenheft, Vergabe, Compliance-Kriterien, Abnahme, Gewährleistung und Exit.
 
 # Beschaffung Robotik
 
@@ -133,7 +133,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `workflow-betreiberpflichten-und-training`
 
-**Frühere Beschreibung:** Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort.
+**Fokus:** Prüft Betreiberpflichten: Arbeitsschutz, BetrSichV-Schnittstelle, Einweisung, Wartung, Betriebsanweisung, Nutzerlogs und Verantwortlichkeiten vor Ort.
 
 # Betreiberpflichten und Training
 
@@ -184,7 +184,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `workflow-beweismatrix-und-logauswertung`
 
-**Frühere Beschreibung:** Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen.
+**Fokus:** Baut Beweismatrix aus Telemetrie, Event Logs, Wartungsprotokollen, Video, Sensorik, Tickets, E-Mails und Versionsständen.
 
 # Beweismatrix und Logauswertung
 
@@ -235,7 +235,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 5. `workflow-board-und-c-level-briefing`
 
-**Frühere Beschreibung:** Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstands-/C-Level-Vorlagen mit Risiko, Optionen, Zeitplan und Budget.
+**Fokus:** Übersetzt komplexes Robotikrecht in entscheidungsfähige Vorstands-/C-Level-Vorlagen mit Risiko, Optionen, Zeitplan und Budget.
 
 # Board- und C-Level-Briefing
 
@@ -286,7 +286,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 6. `workflow-ce-akte-und-technische-dokumentation`
 
-**Frühere Beschreibung:** Erstellt eine CE-/Konformitätsakte mit technischer Dokumentation, EU-Konformitätserklärung, Einbauerklärung, Anleitung, Prüfprotokollen und offenen Nachweisen.
+**Fokus:** Erstellt eine CE-/Konformitätsakte mit technischer Dokumentation, EU-Konformitätserklärung, Einbauerklärung, Anleitung, Prüfprotokollen und offenen Nachweisen.
 
 # CE-Akte und technische Dokumentation
 

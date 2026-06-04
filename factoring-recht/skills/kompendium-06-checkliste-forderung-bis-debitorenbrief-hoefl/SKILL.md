@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-checkliste-forderung-bis-debitorenbrief-hoefl
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (checkliste-forderungsdatenraum-factoring, datenschutz-debitorendaten-dsgvo-informationspflichten, debitorenbrief-hoeflich-aber-rechtssicher) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - factoring-recht
+# Arbeitsbereich - Checkliste Forderungsdatenraum Factoring, Datenschutz Debitorendaten Dsgvo Informationspflichten, Debitorenbrief Hoeflich Aber Rechtssicher
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `checkliste-forderungsdatenraum-factoring` | Checkliste Forderungsdatenraum Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `datenschutz-debitorendaten-dsgvo-informationspflichten` | Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `checkliste-forderungsdatenraum-factoring`
 
-**Frühere Beschreibung:** Checkliste Forderungsdatenraum Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Checkliste Forderungsdatenraum Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Checkliste Forderungsdatenraum Factoring
 
@@ -164,7 +164,7 @@ Antwort: Im Anhang Q&A-47.xlsx finden Sie die vollständige Liste. Insgesamt 23 
 
 ## 2. `datenschutz-debitorendaten-dsgvo-informationspflichten`
 
-**Frühere Beschreibung:** Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Datenschutz Debitorendaten DSGVO Informationspflichten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Datenschutz Debitorendaten DSGVO Informationspflichten
 
@@ -277,7 +277,7 @@ Fragen zum Einstieg:
 
 ## 3. `debitorenbrief-hoeflich-aber-rechtssicher`
 
-**Frühere Beschreibung:** Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Debitorenbrief höflich aber rechtssicher: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Debitorenbrief höflich aber rechtssicher
 

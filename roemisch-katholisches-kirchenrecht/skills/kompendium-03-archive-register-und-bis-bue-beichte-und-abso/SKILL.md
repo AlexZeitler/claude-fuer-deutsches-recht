@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-archive-register-und-bis-bue-beichte-und-abso
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (archive-register-und-datenschutz, auslegung-von-canones-und-aequitas-canonica, beichtgeheimnis-und-seelsorgegeheimnis, bue-beichte-und-absolution) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Archive Register Und Datenschutz, Auslegung Von Canones Und Aequitas Canonica, Beichtgeheimnis Und Seelsorgegeheimnis, Bue Beichte Und Absolution; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Archive Register Und Datenschutz bis Bue Beichte Und Absolution
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `archive-register-und-datenschutz` | Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `auslegung-von-canones-und-aequitas-canonica` | Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `archive-register-und-datenschutz`
 
-**Frühere Beschreibung:** Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Archive, Register und Datenschutz: Registerführung, Einsicht, Korrektur, Geheimarchiv und Datenschutz; CIC can. 486-491 und 535; KKK 2491-2492; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Archive, Register und Datenschutz
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `auslegung-von-canones-und-aequitas-canonica`
 
-**Frühere Beschreibung:** Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Auslegung von Canones und aequitas canonica: Wortlaut, Kontext, Parallelstellen, Zweck, Tradition, Billigkeit und Heil der Seelen; CIC can. 17-19 und 1752; KKK 1950-1974 und 2038-2046; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Auslegung von Canones und aequitas canonica
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `beichtgeheimnis-und-seelsorgegeheimnis`
 
-**Frühere Beschreibung:** Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Beichtgeheimnis und Seelsorgegeheimnis: sakramentales Siegel, geistliche Begleitung und staatlicher Druck; CIC can. 983-984 und 1386; KKK 1467 und 2491; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Beichtgeheimnis und Seelsorgegeheimnis
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `bue-beichte-und-absolution`
 
-**Frühere Beschreibung:** Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis; CIC can. 959-997; KKK 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Buße, Beichte und Absolution: Sünde, Reue, Bekenntnis, Lossprechung und Beichtgeheimnis; CIC can. 959-997; KKK 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Buße, Beichte und Absolution
 

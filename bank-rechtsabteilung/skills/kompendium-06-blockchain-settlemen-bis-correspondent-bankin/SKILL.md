@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-blockchain-settlemen-bis-correspondent-bankin
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (blockchain-settlement-dvp, buergschaft-auf-erste-anforderung-bank, buergschaft-privatperson-gesellschafter-ehegatte, chargeback-card-schemes-bankrecht, correspondent-banking-nostro-vostro) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Blockchain Settlement Dvp, Buergschaft Auf Erste Anforderung Bank, Buergschaft Privatperson Gesellschafter Ehegatte, Chargeback Card Schemes Bankrecht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bank-rechtsabteilung
+# Arbeitsbereich - Blockchain Settlement Dvp bis Correspondent Banking Nostro Vostro
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `blockchain-settlement-dvp` | Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl. |
 | `buergschaft-auf-erste-anforderung-bank` | Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `blockchain-settlement-dvp`
 
-**Frühere Beschreibung:** Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl.
+**Fokus:** Blockchain-Settlement und Delivery-versus-Payment prüfen: Wertpapierseite, Geldseite, Finalität, CSD, Token Cash, Smart Contract, Fehlerkorrektur und Rechtswahl.
 
 # DLT Settlement DvP
 
@@ -129,7 +129,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `buergschaft-auf-erste-anforderung-bank`
 
-**Frühere Beschreibung:** Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung.
+**Fokus:** Bürgschaft oder Garantie auf erste Anforderung aus Bankensicht prüfen: Textauslegung, Abrufmechanik, offensichtlicher Rechtsmissbrauch, einstweiliger Rechtsschutz, Regress gegen Kunden und Dokumentation der Zahlungsentscheidung.
 
 # Bürgschaft auf erste Anforderung
 
@@ -223,7 +223,7 @@ Formuliere:
 
 ## 3. `buergschaft-privatperson-gesellschafter-ehegatte`
 
-**Frühere Beschreibung:** Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko.
+**Fokus:** Privatpersonen-, Gesellschafter- und Ehegattenbürgschaften aus Bankensicht prüfen: Schriftform, krasse finanzielle Überforderung, Sittenwidrigkeit, Verbraucherschutz, Aufklärung, Sicherheitenwert und Prozessrisiko.
 
 # Buergschaft Privatperson Gesellschafter Ehegatte
 
@@ -273,7 +273,7 @@ Skill fuer Buergschaft Privatperson / Gesellschafter / Ehegatte — Wirksamkeit 
 
 ## 4. `chargeback-card-schemes-bankrecht`
 
-**Frühere Beschreibung:** Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen.
+**Fokus:** Chargeback und Card-Scheme-Disputes rechtlich begleiten: Mastercard/Visa-Regeln, Zahlungsdienstehaftung, Händlerstreit, Fristen, Belege, Kundenerwartung und Kulanzgrenzen.
 
 # Chargeback und Kartenstreit
 
@@ -372,7 +372,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `correspondent-banking-nostro-vostro`
 
-**Frühere Beschreibung:** Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen.
+**Fokus:** Korrespondenzbankbeziehungen und Nostro/Vostro-Risiken prüfen: AML, Sanktionen, Länder, Zahlungswege, Vertragsklauseln, Informationsrechte, Kündigung und Aufsichtserwartungen.
 
 # Correspondent Banking
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-fragebogen-risikoana-bis-gebuehrenbescheid
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (fragebogen-risikoanalyse, fuehrerschein-fahrerlaubnis, gaststaette-und-sondernutzung, gebuehrenbescheid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fragebogen Risikoanalyse, Fuehrerschein Fahrerlaubnis, Gaststaette Und Sondernutzung, Gebuehrenbescheid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Fragebogen Risikoanalyse bis Gebuehrenbescheid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fragebogen-risikoanalyse` | Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen. |
 | `fuehrerschein-fahrerlaubnis` | Routet Entziehung, MPU, Punkte, Fahrverbot, Neuerteilung, Anhörung und Widerspruch. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fragebogen-risikoanalyse`
 
-**Frühere Beschreibung:** Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen.
+**Fokus:** Analysiert Behördenfragebögen: Pflichtangaben, freiwillige Angaben, sensible Daten, Unklarheiten und Rückfragen.
 
 # Fragebogen-Risikoanalyse
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `fuehrerschein-fahrerlaubnis`
 
-**Frühere Beschreibung:** Routet Entziehung, MPU, Punkte, Fahrverbot, Neuerteilung, Anhörung und Widerspruch.
+**Fokus:** Routet Entziehung, MPU, Punkte, Fahrverbot, Neuerteilung, Anhörung und Widerspruch.
 
 # Führerschein / Fahrerlaubnis
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `gaststaette-und-sondernutzung`
 
-**Frühere Beschreibung:** Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt.
+**Fokus:** Erklärt Erlaubnis, Auflagen, Außengastronomie, Sondernutzung, Lärm, Hygiene und Ordnungsamt.
 
 # Gaststätte und Sondernutzung
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `gebuehrenbescheid`
 
-**Frühere Beschreibung:** Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch.
+**Fokus:** Prüft Gebühren, Auslagen, Fälligkeit, Rechtsgrundlage, Billigkeit, Stundung, Erlass und Widerspruch.
 
 # Gebührenbescheid
 

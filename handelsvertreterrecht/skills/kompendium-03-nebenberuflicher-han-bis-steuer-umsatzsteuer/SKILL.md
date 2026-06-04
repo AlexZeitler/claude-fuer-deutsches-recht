@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-nebenberuflicher-han-bis-steuer-umsatzsteuer
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (nebenberuflicher-handelsvertreter, scheinselbststaendigkeit, spesen-kosten, steuer-umsatzsteuer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nebenberuflicher Handelsvertreter, Scheinselbststaendigkeit, Spesen Kosten, Steuer Umsatzsteuer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - handelsvertreterrecht
+# Arbeitsbereich - Nebenberuflicher Handelsvertreter bis Steuer Umsatzsteuer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nebenberuflicher-handelsvertreter` | Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige. |
 | `scheinselbststaendigkeit` | Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nebenberuflicher-handelsvertreter`
 
-**Frühere Beschreibung:** Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige.
+**Fokus:** Analysiert die Rechtsstellung des nebenberuflichen Handelsvertreters: Vollständige Anwendung der §§ 84-92c HGB, Besonderheiten bei geringem Vertragsumfang, Scheinselbständigkeit bei nur einem Auftraggeber, Sozialversicherungsrecht sowie Steuerrecht für nebenberufliche Selbständige.
 
 # Nebenberuflicher Handelsvertreter — HGB-Recht und Sozialversicherung
 
@@ -108,7 +108,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 2. `scheinselbststaendigkeit`
 
-**Frühere Beschreibung:** Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung.
+**Fokus:** Prüft das Risiko der Scheinselbständigkeit des Handelsvertreters nach § 7 SGB IV: Merkmale persönlicher und wirtschaftlicher Abhängigkeit, Konsequenzen für Sozialversicherungspflicht und Steuern, Unterschied zu arbeitnehmerähnlicher Stellung nach § 92a HGB sowie Statusfeststellungsverfahren bei der Deutschen Rentenversicherung.
 
 # Scheinselbständigkeit des Handelsvertreters: § 7 SGB IV und § 84 HGB
 
@@ -187,7 +187,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `spesen-kosten`
 
-**Frühere Beschreibung:** Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG.
+**Fokus:** Prüft Aufwendungsersatz und Spesenabrechnungen im Handelsvertretervertrag: gesetzlicher Aufwendungsersatzanspruch nach § 87d HGB, vertragliche Pauschalierungen, Abrechnungsmodalitäten, Abgrenzung von Provision und Kosten sowie steuerliche Behandlung von Spesen nach EStG.
 
 # Spesen und Aufwendungsersatz im Handelsvertretervertrag nach § 87d HGB
 
@@ -266,7 +266,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `steuer-umsatzsteuer`
 
-**Frühere Beschreibung:** Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz.
+**Fokus:** Prüft die umsatzsteuerliche Behandlung des Handelsvertreters: Umsatzsteuerpflicht auf Provisionen nach § 1 UStG, Rechnungsstellung nach § 14 UStG, Vorsteuerabzug des Unternehmers, Kleinunternehmerregelung nach § 19 UStG sowie steuerliche Abgrenzung von Provision und Aufwendungsersatz.
 
 # Umsatzsteuer im Handelsvertreterverhältnis nach UStG
 

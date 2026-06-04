@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-owi-uebergang-strafv-bis-betrug-onlinehandel
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (owi-uebergang-strafverfahren-81-82, revision-sta-verfahrensruegen-vorpruefung, sicherungsverfahren-413-stpo, wirtschaftsstrafverfahren-datenraum-aktenplan, betrug-onlinehandel-beweis-und-schaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi Uebergang Strafverfahren 81 82, Revision Sta Verfahrensruegen Vorpruefung, Sicherungsverfahren 413 Stpo, Wirtschaftsstrafverfahren Datenraum Aktenplan und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Owi Uebergang Strafverfahren 81 82 bis Betrug Onlinehandel Beweis Und Schaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-uebergang-strafverfahren-81-82` | Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
 | `revision-sta-verfahrensruegen-vorpruefung` | Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-uebergang-strafverfahren-81-82`
 
-**Frühere Beschreibung:** Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Übergang zwischen Bußgeld- und Strafverfahren: Hinweis, Rollenwechsel und keine Verfahrensfalle
 
@@ -88,7 +88,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 2. `revision-sta-verfahrensruegen-vorpruefung`
 
-**Frühere Beschreibung:** Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Revision der Staatsanwaltschaft: Vorprüfung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Revision der Staatsanwaltschaft: Vorprüfung
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `sicherungsverfahren-413-stpo`
 
-**Frühere Beschreibung:** Sicherungsverfahren und Maßregelantrag: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sicherungsverfahren und Maßregelantrag: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Sicherungsverfahren und Maßregelantrag
 
@@ -186,7 +186,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `wirtschaftsstrafverfahren-datenraum-aktenplan`
 
-**Frühere Beschreibung:** Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Wirtschaftsstrafverfahren: Aktenplan und Datenraum: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Wirtschaftsstrafverfahren: Aktenplan und Datenraum
 
@@ -235,7 +235,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `betrug-onlinehandel-beweis-und-schaden`
 
-**Frühere Beschreibung:** Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Betrug im Onlinehandel: Beweis, Schaden, Einstellungs- oder Anklagereife
 

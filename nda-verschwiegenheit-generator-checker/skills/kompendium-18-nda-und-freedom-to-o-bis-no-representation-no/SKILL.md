@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-nda-und-freedom-to-o-bis-no-representation-no
-description: "nda-verschwiegenheit-generator-checker: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (nda-und-freedom-to-operate, nda-und-public-disclosure, need-to-know-empfaengerkreis, no-representation-no-warranty) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-verschwiegenheit-generator-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nda Und Freedom To Operate, Nda Und Public Disclosure, Need To Know Empfaengerkreis, No Representation No Warranty; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - nda-verschwiegenheit-generator-checker
+# Arbeitsbereich - Nda Und Freedom To Operate bis No Representation No Warranty
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nda-und-freedom-to-operate` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `nda-und-public-disclosure` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nda-und-freedom-to-operate`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Freedom To Operate; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Freedom To Operate
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `nda-und-public-disclosure`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: NDA Und Public Disclosure; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # NDA Und Public Disclosure
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `need-to-know-empfaengerkreis`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Need To Know Empfaengerkreis; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Need To Know Empfaengerkreis
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `no-representation-no-warranty`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: No Representation No Warranty; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # No Representation No Warranty
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-brief-per-post-und-e-bis-datenschutz-auskunft
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (brief-per-post-und-einschreiben, buergergeld-jobcenter, chronologie-fuer-behoerde, datenschutz-auskunft-behoerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Brief Per Post Und Einschreiben, Buergergeld Jobcenter, Chronologie Fuer Behoerde, Datenschutz Auskunft Behoerde; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Brief Per Post Und Einschreiben bis Datenschutz Auskunft Behoerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `brief-per-post-und-einschreiben` | Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation. |
 | `buergergeld-jobcenter` | Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `brief-per-post-und-einschreiben`
 
-**Frühere Beschreibung:** Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation.
+**Fokus:** Erklärt Versandwege, Zugangsnachweis, Fax-/Einschreiben-/Einwurf-Risiken, Behördenbriefkasten und Dokumentation.
 
 # Brief, Post und Nachweis
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `buergergeld-jobcenter`
 
-**Frühere Beschreibung:** Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe.
+**Fokus:** Erklärt Jobcenter-Bescheid, Bedarf, Unterkunft, Sanktion, Mitwirkung, Eilantrag und Beratungshilfe.
 
 # Bürgergeld / Jobcenter
 
@@ -116,7 +116,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `chronologie-fuer-behoerde`
 
-**Frühere Beschreibung:** Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen.
+**Fokus:** Macht aus Lebenssachverhalt eine knappe, belegbare Chronologie ohne Spekulationen.
 
 # Chronologie für Behörde
 
@@ -156,7 +156,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `datenschutz-auskunft-behoerde`
 
-**Frühere Beschreibung:** Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen.
+**Fokus:** Hilft bei DSGVO-Auskunft, Berichtigung, Löschung, Akteneinsicht und Datenschutzbeschwerde gegen öffentliche Stellen.
 
 # Datenschutz-Auskunft
 

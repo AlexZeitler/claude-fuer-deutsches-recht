@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-kv-046-pflegeversich-bis-kv-048-krankenkassen
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (kv-046-pflegeversicherung-schnittstelle-pflegegrad, kv-047-hospiz-palliativversorgung-und-sapv, kv-048-krankenkassenregress-behandlungsfehler-und-erstattung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 046 Pflegeversicherung Schnittstelle Pflegegrad, Kv 047 Hospiz Palliativversorgung Und Sapv, Kv 048 Krankenkassenregress Behandlungsfehler Und Erstattung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 046 Pflegeversicherung Schnittstelle Pflegegrad, Kv 047 Hospiz Palliativversorgung Und Sapv, Kv 048 Krankenkassenregress Behandlungsfehler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-046-pflegeversicherung-schnittstelle-pflegegrad` | Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung. |
 | `kv-047-hospiz-palliativversorgung-und-sapv` | GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-046-pflegeversicherung-schnittstelle-pflegegrad`
 
-**Frühere Beschreibung:** Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung.
+**Fokus:** Schnittstelle GKV und GPV: Pflegegrad-Einstufung (SGB XI), Krankenbehandlung vs. Pflege, Hilfsmittel, Pflegehilfsmittel und Finanzierungsabgrenzung.
 
 # Pflegeversicherung: Schnittstelle Pflegegrad
 
@@ -111,7 +111,7 @@ GKV und Pflegeversicherung überschneiden sich bei Hilfsmitteln, Häuslicher Kra
 
 ## 2. `kv-047-hospiz-palliativversorgung-und-sapv`
 
-**Frühere Beschreibung:** GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination.
+**Fokus:** GKV-Leistungen für sterbende Menschen: Hospizversorgung (§ 39a SGB V), SAPV (§ 37b SGB V), Zuzahlungsbefreiung und Versorgungskoordination.
 
 # Hospiz, Palliativversorgung und SAPV
 
@@ -193,7 +193,7 @@ Sterbende Menschen und ihre Familien haben Anspruch auf umfassende palliative Ve
 
 ## 3. `kv-048-krankenkassenregress-behandlungsfehler-und-erstattung`
 
-**Frühere Beschreibung:** Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch.
+**Fokus:** Regressansprüche der GKV gegen Leistungserbringer bei Behandlungsfehlern (§ 116 SGB X): Voraussetzungen, Höhe, Verjährung und Verhältnis zum Patientenanspruch.
 
 # Krankenkassenregress: Behandlungsfehler und Erstattung
 

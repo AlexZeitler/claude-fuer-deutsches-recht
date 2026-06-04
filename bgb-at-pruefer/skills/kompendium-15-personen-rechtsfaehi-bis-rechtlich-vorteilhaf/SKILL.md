@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-personen-rechtsfaehi-bis-rechtlich-vorteilhaf
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (personen-rechtsfaehigkeit-und-handlungsfaehigkeit, privatautonomie-trennungs-abstraktionsprinzip, rechtlich-vorteilhaft-paragraph-107) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - bgb-at-pruefer
+# Arbeitsbereich - Personen Rechtsfaehigkeit Und Handlungsfaehigkeit, Privatautonomie Trennungs Abstraktionsprinzip, Rechtlich Vorteilhaft Paragraph 107
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `personen-rechtsfaehigkeit-und-handlungsfaehigkeit` | Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess. |
 | `privatautonomie-trennungs-abstraktionsprinzip` | Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip im BGB: Verpflichtungsgeschäft und Verfügungsgeschäft als rechtlich selbständige Akte, Kausalität und Abstraktion, Fehleridentität als Ausnahme, Kondiktion nach § 812 BGB bei fehlerhaftem Grundgeschäft. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `personen-rechtsfaehigkeit-und-handlungsfaehigkeit`
 
-**Frühere Beschreibung:** Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess.
+**Fokus:** Prüft Rechtsfähigkeit und Handlungsfähigkeit natürlicher und juristischer Personen nach §§ 1 bis 14 BGB: Beginn und Ende der Rechtsfähigkeit bei natürlichen Personen, Geschäftsfähigkeit §§ 104 bis 113 BGB, Deliktsfähigkeit § 828 BGB, Parteifähigkeit im Zivilprozess.
 
 # Rechtsfähigkeit und Handlungsfähigkeit — §§ 1 bis 14 BGB
 
@@ -111,7 +111,7 @@ Die Gründer haften persönlich für Verbindlichkeiten, die vor der Eintragung e
 
 ## 2. `privatautonomie-trennungs-abstraktionsprinzip`
 
-**Frühere Beschreibung:** Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip im BGB: Verpflichtungsgeschäft und Verfügungsgeschäft als rechtlich selbständige Akte, Kausalität und Abstraktion, Fehleridentität als Ausnahme, Kondiktion nach § 812 BGB bei fehlerhaftem Grundgeschäft.
+**Fokus:** Klausurfall zu Privatautonomie, Trennungs- und Abstraktionsprinzip im BGB: Verpflichtungsgeschäft und Verfügungsgeschäft als rechtlich selbständige Akte, Kausalität und Abstraktion, Fehleridentität als Ausnahme, Kondiktion nach § 812 BGB bei fehlerhaftem Grundgeschäft.
 
 # Privatautonomie, Trennungs- und Abstraktionsprinzip
 
@@ -195,7 +195,7 @@ Kaufvertrag ist nichtig, aber die Übereignung ist es nicht.
 
 ## 3. `rechtlich-vorteilhaft-paragraph-107`
 
-**Frühere Beschreibung:** Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligung des Vertreters, wenn das Geschäft keinen rechtlichen Nachteil bringt. Abgrenzung zu wirtschaftlichen Vorteilen, gemischte Rechtsgeschäfte und Schenkung mit Auflagen.
+**Fokus:** Klausurfall zu lediglich rechtlich vorteilhaften Rechtsgeschäften nach § 107 BGB: Minderjähriger erwirbt ohne Einwilligung des Vertreters, wenn das Geschäft keinen rechtlichen Nachteil bringt. Abgrenzung zu wirtschaftlichen Vorteilen, gemischte Rechtsgeschäfte und Schenkung mit Auflagen.
 
 # Lediglich rechtlich vorteilhaft — § 107 BGB
 

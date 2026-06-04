@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-lph8-bauueberwachung-bis-lph8-bauueberwachung
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 18 frühere Spezialskills (lph8-bauueberwachung-dokumentenanalyse-aufmass, lph8-bauueberwachung-doppelhaus-reihenhaus, lph8-bauueberwachung-einfamilienhaus-holzbau, lph8-bauueberwachung-einfamilienhaus-massiv, lph8-bauueberwachung-einkaufszentrum-mall und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lph8 Bauueberwachung Dokumentenanalyse Aufmass, Lph8 Bauueberwachung Doppelhaus Reihenhaus, Lph8 Bauueberwachung Einfamilienhaus Holzbau, Lph8 Bauueberwachung Einfamilienhaus Massiv und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Lph8 Bauueberwachung Dokumentenanalyse Aufmass bis Lph8 Bauueberwachung Kirche Sanierung Statik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lph8-bauueberwachung-dokumentenanalyse-aufmass` | Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung. |
 | `lph8-bauueberwachung-doppelhaus-reihenhaus` | Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lph8-bauueberwachung-dokumentenanalyse-aufmass`
 
-**Frühere Beschreibung:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer Dokumentenanalyse und Aufmass auf der Baustelle. Umfasst Aufmassverfahren nach VOB/C je Gewerk, digitales Aufmass mit RFID-Padfon Alber und 3D-Tachymeter Leica TS16, Mengenvergleich Plan-Ist in RIB iTWO und Nevaris, Pruefung Lieferscheine und Materialzeugnisse EN 10204, Digitalisierung Bautagebuecher in SAP PS sowie KI-gestuetzte Dokumenten-OCR-Extraktion fuer Schlussrechnungspruefung.
 
 # Dokumentenanalyse und Aufmass in der Bauueberwachung LPH 8
 
@@ -126,7 +126,7 @@ Dokumentenregister vollstaendig mit Ablageort und Status. Aufmassblatt je LV-Pos
 
 ## 2. `lph8-bauueberwachung-doppelhaus-reihenhaus`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Doppelhaeuser und Reihenhausgruppen — trennwandbezogener Schallschutz nach DIN 4109, Feuerwiderstand Haustrennwand REI 90 nach DIN EN 13501-2, Koordination paralleler Gewerke mehrerer Einheiten und einheitenbezogene Abnahme. Unterstuetzt schluessel-fertige Bautraeger-Projekte mit bis zu 12 Reihenhauseinheiten und PlanRadar-Sammelreport.
 
 # Bauueberwachung Doppelhaus und Reihenhaus (LPH 8)
 
@@ -207,7 +207,7 @@ Schlusskostenfeststellung je Einheit fuer Schlussrechnung des Bautraeger-Control
 
 ## 3. `lph8-bauueberwachung-einfamilienhaus-holzbau`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser in Holzrahmen- oder Holztafelbauweise — CLT- und Brettschichtholz-Verbindungen nach DIN EN 1995, Holzfeuchte-Monitoring, Luftdichtheitsebene nach DIN 4108-7, Brandschutz nach LBO und energetische Qualitaetskontrolle nach GEG 2023. Praxisnahe Dokumentation mit Dalux, PlanRadar und Blower-Door-Pruefprotokoll.
 
 # Bauueberwachung Einfamilienhaus Holzbau (LPH 8)
 
@@ -288,7 +288,7 @@ Abnahmeprotokoll nach VOB/B mit Vorbehalt offener Blower-Door-Endmessung und KfW
 
 ## 4. `lph8-bauueberwachung-einfamilienhaus-massiv`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Einfamilienhaeuser im Massivbau — Mauerwerks- und Betonarbeiten nach DIN EN 1996 und DIN EN 13670, Abdichtung Keller nach DIN 18533, Estrich- und Putzarbeiten nach VOB/C sowie thermische Huelle nach GEG 2023. Unterstuetzt Bauueberwacher bei lueckenlosen Protokollen, Betonpruefung und digitaler Maengeldokumentation mit PlanRadar und RIB iTWO.
 
 # Bauueberwachung Einfamilienhaus Massivbau (LPH 8)
 
@@ -369,7 +369,7 @@ Abnahmeprotokoll nach VOB/B § 12 mit Vorbehaltsliste und Restleistungsverzeichn
 
 ## 5. `lph8-bauueberwachung-einkaufszentrum-mall`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Einkaufszentren und Malls — Stahlbeton-Skelettbau mit grossen Stuetzenweiten, Sprinkleranlage nach VdS CEA 4001, Rauchabzugsanlage nach DIN 18232, Barrierefreiheit nach DIN 18040-1 und Mieteinheiten-bezogene Abnahme fuer verschiedene Mietergruppen. Praxisnahe Koordination mit BIM360, PlanRadar und SAP-PM fuer Betreibergesellschaft.
 
 # Bauueberwachung Einkaufszentrum Mall (LPH 8)
 
@@ -450,7 +450,7 @@ BIM360 As-Built-Dokumentation. Abnahmeprotokoll Mall nach VOB/B und Sonderbaurec
 
 ## 6. `lph8-bauueberwachung-elektro-erdung-blitzschutz`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer elektrische Anlagen mit Fokus Erdung und Blitzschutz — Kontrolle Fundamenterder nach DIN 18014 und DIN VDE 0100-540, Blitzschutzsystem Klasse I-IV nach DIN EN 62305-3, Potentialausgleich Trennungsabstand nach DIN EN 62305-3 Abschnitt 6, Messung Erdungswiderstand nach DIN VDE 0100-610, Ueberspannungsschutz SPD nach DIN EN 61643-11 sowie DGUV-konforme Abnahme-Pruefung durch Elektrofachkraft.
 
 # Bauueberwachung Elektro Erdung und Blitzschutz
 
@@ -533,7 +533,7 @@ Fundamenterder-Einbauprotokoll mit Foto vor Betonage. Erdungswiderstandsmessung 
 
 ## 7. `lph8-bauueberwachung-estrich-feuchteprotokoll`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar fuer Bodenbelag-Freigabe.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Estricharbeiten mit Schwerpunkt Feuchteprotokoll — Kontrolle Zementestrich CT und Anhydritestrich CA nach DIN EN 13813, Feuchtemessung CM-Methode vor Belagsverlegung nach DIN 18560-1, Estrichdicke und Bewehrung Schwimmender Estrich nach DIN 18560-2, Randdaemmstreifen-Einbau, Feldeinteilung und Fugenplan, Trocknungsprotokolle sowie digitale Abnahme mit PlanRadar fuer Bodenbelag-Freigabe.
 
 # Bauueberwachung Estrich und Feuchteprotokoll
 
@@ -616,7 +616,7 @@ CM-Messprotokolle je Raum mit Datum und Grenzwert-Bewertung. Trocknungsprotokoll
 
 ## 8. `lph8-bauueberwachung-fassade-wdvs-brandsperren`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Waermedaemm-Verbundsysteme WDVS und vorgehaengte Fassaden — Kontrolle WDVS-Kleber und Duebel nach DIBt-Zulassung und ETAG 004, Brandsperren EPS-Mineralwolle-Lamellenstreifen nach MBO § 28 und LBO, Putztraeger-Armierungsgewebe-Einbettung, Anschlussdetails Fenstersturzabdichtung sowie vorgehaengte Fassadenunterkonstruktion nach DIN 18516-1. Konkrete Falleinsaetze Mehrfamilienhaeuser und Hochhaeuser.
 
 # Bauueberwachung WDVS-Fassade und Brandsperren
 
@@ -699,7 +699,7 @@ Brandsperre-Einbaunachweis je Geschoss mit Foto und Lieferschein Mineralwolle ni
 
 ## 9. `lph8-bauueberwachung-fenster-tueren-anschluss`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Fenster- und Tuereinbauten — Kontrolle Einbauanschluss nach RAL-Leitfaden Fenstereinbau 3-Ebenen-Konzept aussen schlagregensDicht-innen dampfdicht, Fensterbank- und Sturzdichtung, Befestigungsnachweis Rahmendubel nach EN 14592, Schallschutz-Einbauprotokoll nach DIN 4109, einbruchhemmende Verglasung nach RC-Klassen sowie Aufmass und Abnahme mit Blower-Door-Messung nach DIN EN ISO 9972.
 
 # Bauueberwachung Fenster und Tueren Einbauanschluss
 
@@ -782,7 +782,7 @@ Einbauprotokoll RAL je Fenstereinheit mit 4 Pflichtfotos. Rahmendubel-Pruefproto
 
 ## 10. `lph8-bauueberwachung-flughafen-vorfeld-tower`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Flughafenvorfelder und Towerbauten — Kontrolle von Vorfeldbeton C35/45 XF4 XD3 nach DIN EN 206 und DIN 1045-2, Befeuerungsanlagen nach ICAO Annex 14, ILS-Schutzbereiche nach LuftVO sowie koordinierte Abnahme mit Luftfahrtbehoerde. Umfasst Drohnendokumentation, SAP-PM-Mangelmanagement und VOB/C-Abnahme in sicherheitskritischer Luftfahrtumgebung.
 
 # Bauueberwachung Flughafen Vorfeld und Tower
 
@@ -865,7 +865,7 @@ Tagesprotokoll Betonage mit Frischbetonkennwerten, Temperaturprotokoll und Charg
 
 ## 11. `lph8-bauueberwachung-fotoanalyse-baustellen-drohne`
 
-**Frühere Beschreibung:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung.
+**Fokus:** Methodikskill HOAI LPH 8 — Strukturierter Workflow fuer die Fotoanalyse von Baustellen mit Drohnen DJI Mavic 3 Enterprise und Matrice 300 RTK. Umfasst Flugplanung nach LuftVO Kap. 4, Orthofoto-Erstellung mit Pix4Dmapper und DroneDeploy, Rissdetektionsauswertung, Soll-Ist-Vergleich mit BIM-Modell in BIM360, thermische Analyse Zenmuse XT2 sowie Integration in PlanRadar und SAP PM fuer Mangelmanagement bei Bauueberwachung.
 
 # Fotoanalyse Baustellen-Drohne in der Bauueberwachung LPH 8
 
@@ -948,7 +948,7 @@ Orthofoto-Mosaik GeoTIFF mit Koordinatensystem EPSG 25832. Pix4Dmapper Genauigke
 
 ## 12. `lph8-bauueberwachung-gartenhaus-carport`
 
-**Frühere Beschreibung:** Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux.
+**Fokus:** Bauueberwachung gemaess HOAI LPH 8 fuer Gartenhaeuser und Carports aus Holz- oder Stahl-Leichtbau — Fundamentpruefung nach DIN 1054, Holzschutzklassen nach DIN 68800, Verbindungsmittel-Kontrolle und Abstandsflaechennachweis. Unterstuetzt private und kleingewerbliche Bauherren mit strukturierter Maengeldokumentation und digitaler Fotodokumentation ueber PlanRadar oder Dalux.
 
 # Bauueberwachung Gartenhaus und Carport (LPH 8)
 
@@ -1028,7 +1028,7 @@ Bautagebuch-Eintrag mit Datum, Witterung, Personen und Kontrollen. Fotodokumenta
 
 ## 13. `lph8-bauueberwachung-gewerbehalle-stahlbau`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration fuer Betreiber.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Gewerbe- und Produktionshallen in Stahlbau — Schweissnahtpruefung nach DIN EN ISO 17637 und DIN EN ISO 5817, Korrosionsschutz nach DIN EN ISO 12944, Kranbahn-Ueberpruefung nach DIN 15018 und Brandschutzkonzept nach DIN EN 13501-1. Unterstuetzt Bauueberwacher mit systematischer Maengeldokumentation und SAP-PM-Integration fuer Betreiber.
 
 # Bauueberwachung Gewerbehalle Stahlbau (LPH 8)
 
@@ -1109,7 +1109,7 @@ Abnahmeprotokoll Gewerbehalle nach VOB/B. Fotodokumentation Dachdecke und Stahlv
 
 ## 14. `lph8-bauueberwachung-hafen-spundwand-kai`
 
-**Frühere Beschreibung:** Bauueberwachung HOAI LPH 8 fuer Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde.
+**Fokus:** Bauueberwachung HOAI LPH 8 fuer Hafenspundwaende und Kaianlagen — Kontrolle Stahlspundwand-Einbau Larssen-Profile nach DIN EN 12063, Rammprotokolle nach DIN EN ISO 22477-6, Ankerplatten und Zugpfaehle nach EC3 und EC7, Stahlbetonkaisohle C35/45 XS3 XF4, Korrosionsschutz Riffelblech nach DIN EN ISO 12944, kathodischer Korrosionsschutz sowie koordinierte Abnahme mit Hafen- und Wasserbehoerde.
 
 # Bauueberwachung Hafen Spundwand und Kai
 
@@ -1192,7 +1192,7 @@ Rammprotokoll je Spundwandborle mit GPS und Eindringungsdiagramm. Abnahmeprotoko
 
 ## 15. `lph8-bauueberwachung-hochhaus-statik-fassade`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Hochhaeuser ab 22 m Hoehe — Ueberwachung Stahlbeton-Kerntragwerk nach DIN EN 13670, Curtain-Wall-Fassade nach DIN EN 13830, Windlastnachweis nach DIN EN 1991-1-4, Brandschutzkonzept Gebaeudehoehe nach LBO sowie Aufzugs- und Fluchtwegkonzept. Praxisnahe Koordination zwischen Statik, Fassade und TGA.
 
 # Bauueberwachung Hochhaus Statik und Fassade (LPH 8)
 
@@ -1273,7 +1273,7 @@ Abnahmeprotokoll Hochhaus mit Sonderbau-Checkliste. Fotodokumentation Fassadenan
 
 ## 16. `lph8-bauueberwachung-hotel-zimmerfertigung`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Hotelneubauten mit modular vorgefertigten Zimmern — Modulverbindungen Stahlrahmen und Betonkern, Schallschutzanforderungen nach DIN 4109 Schallschutzklasse IV, Sprinkler-Anlage nach DIN EN 12845, barrierefreie Zimmer nach DIN 18040-1 und Energieeffizienz-Anforderungen nach GEG 2023. Praxisnahe Maengeldokumentation mit Dalux und SAP-PM.
 
 # Bauueberwachung Hotel Zimmerfertigung (LPH 8)
 
@@ -1354,7 +1354,7 @@ Abnahmeprotokoll Hotel nach VOB/B. SAP-PM-Equipment-Hierarchie als Anlagenregist
 
 ## 17. `lph8-bauueberwachung-industrieanlage-medien`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration fuer Instandhaltungsbeauftragten.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Industrieanlagen mit komplexen Medieninfrastrukturen — Pruefung Druckrohr-Systeme nach DVGW W 400 und TRWI, Ex-Schutzbereich-Abnahme nach ATEX-Richtlinie 2014/34/EU, Druckbehaelterabnahme nach PED 2014/68/EU und Kuehlwasserkreislauf nach DIN EN ISO 13849. Unterstuetzt Bauueberwacher mit SAP-PM-EAM-Integration fuer Instandhaltungsbeauftragten.
 
 # Bauueberwachung Industrieanlage Medien (LPH 8)
 
@@ -1435,7 +1435,7 @@ SAP-PM-Equipment-Hierarchie als Anlageninventar. Abnahmeprotokoll Industrieanlag
 
 ## 18. `lph8-bauueberwachung-kirche-sanierung-statik`
 
-**Frühere Beschreibung:** Bauueberwachung nach HOAI LPH 8 fuer Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern.
+**Fokus:** Bauueberwachung nach HOAI LPH 8 fuer Kirchensanierungen mit statischen Ertuechtigunsarbeiten — Gewoelbe-Sicherung, Dachstuhl-Sanierung nach DIN EN 1995, Blitzschutz nach DIN EN 62305, Naturstein-Fugenrestaurierung nach DIN EN 998 und Feuchtemessung nach DIN EN ISO 12572. Unterstuetzt Bauueberwacher bei Foerdermittel-Dokumentation und kirchlichen Baulasttraegern.
 
 # Bauueberwachung Kirche Sanierung Statik (LPH 8)
 

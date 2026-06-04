@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-spezial-zwangsbehand-bis-vermoegensverzeichni
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (spezial-zwangsbehandlung-beweislast-und-darlegungslast, ueberforderung-verhinderung-und-abgabe, vermoegensverzeichnis-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - betreuungsrecht
+# Arbeitsbereich - Zwangsbehandlung Beweislast Und Darlegungslast, Ueberforderung Verhinderung Und Abgabe, Vermoegensverzeichnis Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-zwangsbehandlung-beweislast-und-darlegungslast` | Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `ueberforderung-verhinderung-und-abgabe` | Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachliche Schreiben an Gericht und Betreuungsverein. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-zwangsbehandlung-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zwangsbehandlung: Beweislast, Darlegungslast und Substantiierung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `ueberforderung-verhinderung-und-abgabe`
 
-**Frühere Beschreibung:** Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachliche Schreiben an Gericht und Betreuungsverein.
+**Fokus:** Überforderungsschutz für ehrenamtliche Betreuer: erkennt Haftungs-, Zeit-, Familien- und Gesundheitsgrenzen, plant Verhinderungsbetreuung, bittet um Entlastung, Aufgabenbegrenzung, Mitbetreuer oder Betreuerwechsel und formuliert sachliche Schreiben an Gericht und Betreuungsverein.
 
 # Überforderung, Verhinderung und Abgabe
 
@@ -126,7 +126,7 @@ Vor jeder Abgabe prüfen:
 
 ## 3. `vermoegensverzeichnis-pruefung`
 
-**Frühere Beschreibung:** Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berücksichtigt Trennungsgebot (§ 1836 BGB), Belege, Konten, Immobilien, Wertpapiere, Verbindlichkeiten, spätere Vermögenserwerbe und Anschluss an Jahresbericht, Rechnungslegung/Vermögensübersicht und Kontodaten-Vertragsverdacht.
+**Fokus:** Vermögensverzeichnis für Betreuung prüfen und erstellen: Betreuer muss bei Aufgabenkreis Vermögenssorge nach § 1835 BGB ein Vermögensverzeichnis aufnehmen oder ein bestehendes Verzeichnis auf Vollständigkeit und Richtigkeit prüfen. Berücksichtigt Trennungsgebot (§ 1836 BGB), Belege, Konten, Immobilien, Wertpapiere, Verbindlichkeiten, spätere Vermögenserwerbe und Anschluss an Jahresbericht, Rechnungslegung/Vermögensübersicht und Kontodaten-Vertragsverdacht.
 
 # Vermögensverzeichnis und Rechnungslegung (§§ 1835, 1839, 1865 BGB)
 

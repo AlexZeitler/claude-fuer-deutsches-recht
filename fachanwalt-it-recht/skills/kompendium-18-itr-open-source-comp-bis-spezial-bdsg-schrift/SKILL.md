@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-itr-open-source-comp-bis-spezial-bdsg-schrift
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (itr-open-source-compliance-spezial, itr-source-code-escrow-spezial, mandat-triage-it-recht, schriftsatzkern-substantiierung, spezial-bdsg-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Itr Open Source Compliance Spezial, Itr Source Code Escrow Spezial, Mandat Triage It Recht, Schriftsatzkern Substantiierung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-it-recht
+# Arbeitsbereich - Itr Open Source Compliance Spezial bis Bdsg Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `itr-open-source-compliance-spezial` | Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice. |
 | `itr-source-code-escrow-spezial` | Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `itr-open-source-compliance-spezial`
 
-**Frühere Beschreibung:** Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice.
+**Fokus:** Spezialfall Open-Source-Compliance: Copyleft GPL/AGPL/LGPL, Permissive MIT/Apache, SBOM. Pruefraster Embedded-Software, IoT, KI-Modelle. Mustertext Open-Source-Notice.
 
 # IT: Open-Source-Compliance
 
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 2. `itr-source-code-escrow-spezial`
 
-**Frühere Beschreibung:** Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte.
+**Fokus:** Spezialfall Source-Code-Escrow: dreiseitiger Vertrag Lizenzgeber, Lizenznehmer, Escrow-Agent. Release-Trigger (Insolvenz, Vertragsbruch, Einstellung Support), Code-Aktualisierung, Pruefung Vollstaendigkeit. Mustertexte.
 
 # IT-Recht: Source-Code-Escrow
 
@@ -135,7 +135,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 3. `mandat-triage-it-recht`
 
-**Frühere Beschreibung:** Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h.
+**Fokus:** Strukturierte Eingangs-Abfrage für IT-rechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues IT-Rechtsmandat geht ein und muss schnell triagiert und dem richtigen Workflow zugeordnet werden. Normen Art. 33 DSGVO 72-Stunden-Frist NIS-2 24-Stunden-Fruehwarnung §§ 327 ff. BGB Digitale Produkte. Prüfraster Sachgebiet Mandantenrolle Vertragstyp Phase Sofort-Fristen Cyber-Vorfall Eskalation. Output Triage-Ergebnis mit Routing zu Folgeskills und Fristen-Eskalationshinweis bei Cyber-Vorfall. Abgrenzung zu erstgespraech-mandatsannahme und cyber-incident-response-72h.
 
 # Mandat-Triage IT-Recht
 
@@ -341,7 +341,7 @@ Bearbeiter: [NAME RA/RAin]
 
 ## 4. `schriftsatzkern-substantiierung`
 
-**Frühere Beschreibung:** Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
+**Fokus:** Substantiierter Schriftsatzkern für Unterlassungsklage Datenschutz, Klage IT-Vertrag, DSGVO-Bußgeldwiderspruch: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
 # Schriftsatzkern und Substantiierung im IT-, Datenschutz- und Telemedienrecht
 
@@ -620,7 +620,7 @@ Rechtsanwaeltin / Rechtsanwalt
 
 ## 5. `spezial-bdsg-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bdsg: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bdsg: Schriftsatz-, Brief- und Memo-Bausteine
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-see-100-kreuzfahrtsc-bis-see-105-konnossement
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (see-100-kreuzfahrtschiff-risiko-memo-schreiben, see-101-konnossement-register-pruefen, see-102-konnossement-hypothek-bestellen, see-104-konnossement-arrest-vorbereiten, see-105-konnossement-wrackpflicht-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 100 Kreuzfahrtschiff Risiko Memo Schreiben, See 101 Konnossement Register Pruefen, See 102 Konnossement Hypothek Bestellen, See 104 Konnossement Arrest Vorbereiten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 100 Kreuzfahrtschiff Risiko Memo Schreiben bis See 105 Konnossement Wrackpflicht Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-100-kreuzfahrtschiff-risiko-memo-schreiben` | Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix. |
 | `see-101-konnossement-register-pruefen` | Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank prueft kein Schiffsregister; Dokumentenregime auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-100-kreuzfahrtschiff-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Kreuzfahrtschiff: Gesamtrisikobewertung fuer Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bei Kreuzfahrtschiff oder grosses Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Kreuzfahrtschiff – Risiko-Memo schreiben
 
@@ -123,7 +123,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 2. `see-101-konnossement-register-pruefen`
 
-**Frühere Beschreibung:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank prueft kein Schiffsregister; Dokumentenregime auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank prueft kein Schiffsregister; Dokumentenregime auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Konnossement – Registerprüfung
 
@@ -218,7 +218,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 3. `see-102-konnossement-hypothek-bestellen`
 
-**Frühere Beschreibung:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Konnossements-Transaktion (Bill of Lading). HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Konnossement – Schiffshypothek bestellen
 
@@ -297,7 +297,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 4. `see-104-konnossement-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Konnossement: Glaeubiger sichert Anspruch an Konnossements-Transaktion (Bill of Lading) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Konnossement: Glaeubiger sichert Anspruch an Konnossements-Transaktion (Bill of Lading) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Konnossement – Arrest vorbereiten
 
@@ -393,7 +393,7 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 
 ## 5. `see-105-konnossement-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Konnossements-Transaktion (Bill of Lading). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Konnossement – Wrackbeseitigungspflicht prüfen
 

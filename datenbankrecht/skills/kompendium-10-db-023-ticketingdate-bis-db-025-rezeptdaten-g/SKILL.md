@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-db-023-ticketingdate-bis-db-025-rezeptdaten-g
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (db-023-ticketingdaten-veranstaltungsdaten-und-kalender, db-024-stellenanzeigen-jobportal-und-scraping, db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Und Sozialdaten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - datenbankrecht
+# Arbeitsbereich - Db 023 Ticketingdaten Veranstaltungsdaten Und Kalender, Db 024 Stellenanzeigen Jobportal Und Scraping, Db 025 Rezeptdaten Gesundheitsdaten Un
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-023-ticketingdaten-veranstaltungsdaten-und-kalender` | Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten. |
 | `db-024-stellenanzeigen-jobportal-und-scraping` | Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-023-ticketingdaten-veranstaltungsdaten-und-kalender`
 
-**Frühere Beschreibung:** Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten.
+**Fokus:** Datenbankrecht für Veranstaltungsdatenbanken und Ticketing-Plattformen: §§ 87a-87e UrhG für Veranstaltungskalender, Abgrenzung zur selbsterzeugten Eventdaten-Problematik nach EuGH C-203/02, Schutz gegen Aggregatoren und Konkurrenzportale sowie Lizenzmodelle für Veranstaltungsdaten-APIs. Bewertet Datenschutzaspekte bei Käuferdaten.
 
 # Ticketing-Daten, Veranstaltungsdaten und Kalender — Datenbankrecht
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-024-stellenanzeigen-jobportal-und-scraping`
 
-**Frühere Beschreibung:** Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale.
+**Fokus:** Datenbankrecht für Jobportale und Stellenanzeigen-Datenbanken nach EuGH C-202/12 (Innoweb/Wegener): Wesentliche Investition in Stellenanzeigen-Sammlung, Schutz gegen Konkurrenz-Jobsuchmaschinen und Aggregatoren, AGB-Scraping-Verbote sowie DSGVO-Pflichten bei Bewerber- und Arbeitgeberdaten. Erstellt Schutzkonzept und Lizenzstruktur für Jobportale.
 
 # Stellenanzeigen, Jobportale und Scraping — Datenbankrecht nach Innoweb
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-025-rezeptdaten-gesundheitsdaten-und-sozialdaten`
 
-**Frühere Beschreibung:** Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken.
+**Fokus:** Datenbankrecht für Gesundheitsdatenbanken: §§ 87a-87e UrhG für Arzneimitteldatenbanken und Patientenregister, besonderer Schutz nach Art. 9 DSGVO für Gesundheitsdaten, DSGVO-Zweckbindung und Weitergabe, Forschungsschranken nach § 27 BDSG und KI-Nutzung von Gesundheitsdaten. Erstellt Rechts-Compliance-Konzept für HealthTech-Anbieter und Kliniken.
 
 # Rezeptdaten, Gesundheitsdaten und Sozialdaten — Datenbankrecht und Datenschutz
 

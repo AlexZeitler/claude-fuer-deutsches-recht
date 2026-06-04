@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-organisationsverschu-bis-public-sector-und-ve
-description: "datenschutz-sanktionsverfahren-verteidigung: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (organisationsverschulden-ersteinschaetzung, privilege-und-mandatsgeheimnis, profiling-und-automatisierte-entscheidungen, public-sector-und-vergabefolgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutz-sanktionsverfahren-verteidigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Organisationsverschulden Ersteinschaetzung, Privilege Und Mandatsgeheimnis, Profiling Und Automatisierte Entscheidungen, Public Sector Und Vergabefolgen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - datenschutz-sanktionsverfahren-verteidigung
+# Arbeitsbereich - Organisationsverschulden Ersteinschaetzung bis Public Sector Und Vergabefolgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `organisationsverschulden-ersteinschaetzung` | Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `privilege-und-mandatsgeheimnis` | Privilege Mandatsgeheimnis und Vertraulichkeit: Anwaltliche Kommunikation, Verteidigungsdokumente und vertrauliche Untersuchungsunterlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `organisationsverschulden-ersteinschaetzung`
 
-**Frühere Beschreibung:** Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Organisationsverschulden ersteinschätzen: Schuldhaftes Unternehmensverhalten nach EuGH C-807/21/C-683/21 anhand Organisation, Wissen und Pflichtverstoß prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Organisationsverschulden ersteinschätzen
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 2. `privilege-und-mandatsgeheimnis`
 
-**Frühere Beschreibung:** Privilege Mandatsgeheimnis und Vertraulichkeit: Anwaltliche Kommunikation, Verteidigungsdokumente und vertrauliche Untersuchungsunterlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Privilege Mandatsgeheimnis und Vertraulichkeit: Anwaltliche Kommunikation, Verteidigungsdokumente und vertrauliche Untersuchungsunterlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Privilege Mandatsgeheimnis und Vertraulichkeit
 
@@ -153,7 +153,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 3. `profiling-und-automatisierte-entscheidungen`
 
-**Frühere Beschreibung:** Profiling und automatisierte Entscheidungen: Art. 22, Scoring, KI-Systeme, Transparenz, DSFA und Diskriminierungsrisiko im Bußgeldfall prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Profiling und automatisierte Entscheidungen: Art. 22, Scoring, KI-Systeme, Transparenz, DSFA und Diskriminierungsrisiko im Bußgeldfall prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Profiling und automatisierte Entscheidungen
 
@@ -215,7 +215,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 4. `public-sector-und-vergabefolgen`
 
-**Frühere Beschreibung:** Public Sector und Vergabefolgen: Folgen einer Datenschutzsanktion für öffentliche Auftraggeber, Vergaben, Zuverlässigkeit und Lieferantenstatus prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Public Sector und Vergabefolgen: Folgen einer Datenschutzsanktion für öffentliche Auftraggeber, Vergaben, Zuverlässigkeit und Lieferantenstatus prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Public Sector und Vergabefolgen
 

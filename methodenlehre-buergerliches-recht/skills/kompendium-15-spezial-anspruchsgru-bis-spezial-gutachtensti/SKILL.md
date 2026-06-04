@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-anspruchsgru-bis-spezial-gutachtensti
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg, spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste, spezial-auslegung-verhandlung-vergleich-und-eskalation, spezial-buergerliches-abschlussprodukt-und-uebergabe, spezial-gutachtenstil-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anspruchsgrundlagen Behoerden Gericht Und Registerweg, Anwaltsperspektive Dokumentenmatrix Und Lueckenliste, Auslegung Verhandlung Vergleich Und Eskalation, Buergerliches Abschlussprodukt Und Uebergabe und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Anspruchsgrundlagen Behoerden Gericht Und Registerweg bis Gutachtenstil Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg` | Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht. |
 | `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste` | Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anspruchsgrundlagen-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht.
+**Fokus:** Dieses Skill systematisiert die Auswahl und Durchsetzung von Anspruchsgrundlagen auf dem Behörden-, Gerichts- und Registerweg. Es führt durch die Entscheidung, welche Ansprüche verwaltungs-, zivil- oder registerrechtlich geltend zu machen sind, welche Zuständigkeiten bestehen und wie Mandanten effizient durch die verschiedenen Rechtswege geführt werden. Der Fokus liegt auf methodischer Anspruchsprüfung und prozessstrategischer Weichenstellung im Schnittfeld von Zivilrecht und öffentlichem Recht.
 
 # Anspruchsgrundlagen auf Behörden-, Gerichts- und Registerweg
 
@@ -121,7 +121,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 2. `spezial-anwaltsperspektive-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen.
+**Fokus:** Dieses Skill erstellt aus anwaltlicher Perspektive eine systematische Dokumentenmatrix und Lückenliste für ein Mandat. Es zeigt, welche Unterlagen zur rechtlichen Durchsetzung oder Abwehr eines Anspruchs erforderlich sind, welche fehlen und wie Beweislücken methodisch geschlossen werden. Dabei werden Beweislastregeln, Darlegungserfordernisse und Urkundenbeweisanforderungen einbezogen, um die Mandatsführung von Anfang an auf eine tragfähige Dokumentenbasis zu stellen.
 
 # Anwaltsperspektive: Dokumentenmatrix und Lückenliste
 
@@ -213,7 +213,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `spezial-auslegung-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
+**Fokus:** Dieses Skill verbindet methodische Vertragsauslegung mit strategischer Verhandlungsführung, Vergleichsgestaltung und Eskalationsmanagement. Es zeigt, wie Auslegungsergebnisse nach §§ 133 und 157 BGB als Grundlage für Verhandlungspositionen genutzt werden, wie ein interessengerechter Vergleich formuliert und tituliert wird und wann eine Eskalation zum Gericht methodisch und strategisch geboten ist. Der Fokus liegt auf dem Übergang zwischen Beratung und Prozess.
 
 # Auslegung, Verhandlung, Vergleich und Eskalation
 
@@ -306,7 +306,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 4. `spezial-buergerliches-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation.
+**Fokus:** Dieses Skill definiert und strukturiert das juristische Abschlussprodukt eines zivilrechtlichen Mandats und leitet die methodisch korrekte Übergabe an den Mandanten an. Es zeigt, welche Dokumente am Ende eines Mandats zu übergeben sind, wie ein Abschlussprotokoll erstellt wird, wie offene Risiken dokumentiert werden und wie der Mandant über mögliche Folgeschritte und Verjährungsrisiken aufgeklärt werden muss. Das Skill sichert die anwaltliche Sorgfaltspflicht und Haftungsreduktion durch vollständige Übergabedokumentation.
 
 # Bürgerliches Abschlussprodukt und Übergabe
 
@@ -398,7 +398,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `spezial-gutachtenstil-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Dieses Skill verbindet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen.
+**Fokus:** Dieses Skill verbindet den klassischen juristischen Gutachtenstil mit einem praktischen Risikoampelsystem und der systematischen Erarbeitung von Gegenargumenten. Es zeigt, wie ein Gutachten nicht nur die vertretene Position entwickelt, sondern auch gegenteilige Argumente methodisch einbezieht und Risikostufen sichtbar macht. So entstehen Gutachten, die Mandanten nicht nur das günstigste Ergebnis nennen, sondern auch den Korridor vertretbarer Gegenpositionen und das Prozessrisiko transparent darstellen.
 
 # Gutachtenstil, Risikoampel und Gegenargumente
 

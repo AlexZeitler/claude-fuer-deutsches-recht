@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-inkasso-risi-bis-spezial-klagefreigab
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-inkasso-risikoampel-und-gegenargumente, spezial-klage-formular-portal-und-einreichung, spezial-klagefreigabe-belegte-forderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Inkasso Risikoampel Und Gegenargumente, Klage Formular Portal Und Einreichung, Klagefreigabe Belegte Forderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-inkasso-risikoampel-und-gegenargumente` | Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-klage-formular-portal-und-einreichung` | Klage: Formular, Portal und Einreichungslogik im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-inkasso-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Inkasso: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -83,7 +83,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-klage-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Klage: Formular, Portal und Einreichungslogik im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Klage: Formular, Portal und Einreichungslogik im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Klage: Formular, Portal und Einreichungslogik
 
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-klagefreigabe-belegte-forderung`
 
-**Frühere Beschreibung:** Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Klagefreigabe nur für fällige, belegte und prozessreife Forderungen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Klagefreigabe nur für fällige, belegte und prozessreife Forderungen
 

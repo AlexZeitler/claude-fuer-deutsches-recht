@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-inso-p020-auskunfts-bis-inso-p039-nachrangig
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 21 frühere Spezialskills (inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre, inso-p021-anordnung-vorlaufiger-massnahmen, inso-p022-rechtsstellung-des-vorlaufigen-insolvenzverwalters, inso-p022a-bestellung-eines-vorlaufigen-glaubigerausschusses, inso-p023-bekanntmachung-der-verfugungsbeschrankungen und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P020 Auskunfts Und Mitwirkungspflicht Im Eroffnungsverfahre, Inso P021 Anordnung Vorlaufiger Massnahmen, Inso P022 Rechtsstellung Des Vorlaufigen Insolvenzverwalters, Inso P022a Bestellung Eines Vorlaufigen Glaubigerausschusses und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätsche"
 ---
 
-# Kompendium 06 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P020 Auskunfts Und Mitwirkungspflicht Im Eroffnungsverfahre bis Inso P039 Nachrangige Insolvenzglaubiger
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre` | § 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p021-anordnung-vorlaufiger-massnahmen` | § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p020-auskunfts-und-mitwirkungspflicht-im-eroffnungsverfahre`
 
-**Frühere Beschreibung:** § 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 20 InsO (Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 20 InsO — Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p021-anordnung-vorlaufiger-massnahmen`
 
-**Frühere Beschreibung:** § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 21 InsO (Anordnung vorläufiger Maßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 21 InsO — Anordnung vorläufiger Maßnahmen
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p022-rechtsstellung-des-vorlaufigen-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 22 InsO (Rechtsstellung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 22 InsO — Rechtsstellung des vorläufigen Insolvenzverwalters
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p022a-bestellung-eines-vorlaufigen-glaubigerausschusses`
 
-**Frühere Beschreibung:** § 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 22a InsO (Bestellung eines vorläufigen Gläubigerausschusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 22a InsO — Bestellung eines vorläufigen Gläubigerausschusses
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p023-bekanntmachung-der-verfugungsbeschrankungen`
 
-**Frühere Beschreibung:** § 23 InsO (Bekanntmachung der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 23 InsO (Bekanntmachung der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 23 InsO — Bekanntmachung der Verfügungsbeschränkungen
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p024-wirkungen-der-verfugungsbeschrankungen`
 
-**Frühere Beschreibung:** § 24 InsO (Wirkungen der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 24 InsO (Wirkungen der Verfügungsbeschränkungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 24 InsO — Wirkungen der Verfügungsbeschränkungen
 
@@ -376,7 +376,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p025-aufhebung-der-sicherungsmassnahmen`
 
-**Frühere Beschreibung:** § 25 InsO (Aufhebung der Sicherungsmaßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 25 InsO (Aufhebung der Sicherungsmaßnahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 25 InsO — Aufhebung der Sicherungsmaßnahmen
 
@@ -431,7 +431,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p026-abweisung-mangels-masse`
 
-**Frühere Beschreibung:** § 26 InsO (Abweisung mangels Masse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 26 InsO (Abweisung mangels Masse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 26 InsO — Abweisung mangels Masse
 
@@ -486,7 +486,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p026a-vergutung-des-vorlaufigen-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 26a InsO (Vergütung des vorläufigen Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 26a InsO — Vergütung des vorläufigen Insolvenzverwalters
 
@@ -541,7 +541,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p027-eroffnungsbeschluss`
 
-**Frühere Beschreibung:** § 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 27 InsO (Eröffnungsbeschluß) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 27 InsO — Eröffnungsbeschluß
 
@@ -596,7 +596,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p028-aufforderungen-an-die-glaubiger-und-die-schuldner`
 
-**Frühere Beschreibung:** § 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 28 InsO (Aufforderungen an die Gläubiger und die Schuldner) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 28 InsO — Aufforderungen an die Gläubiger und die Schuldner
 
@@ -653,7 +653,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p029-terminbestimmungen`
 
-**Frühere Beschreibung:** § 29 InsO (Terminbestimmungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 29 InsO (Terminbestimmungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 29 InsO — Terminbestimmungen
 
@@ -708,7 +708,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p030-bekanntmachung-des-eroffnungsbeschlusses`
 
-**Frühere Beschreibung:** § 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 30 InsO (Bekanntmachung des Eröffnungsbeschlusses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 30 InsO — Bekanntmachung des Eröffnungsbeschlusses
 
@@ -763,7 +763,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p031-handels-genossenschafts-gesellschafts-partnerschafts-o`
 
-**Frühere Beschreibung:** § 31 InsO (Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 31 InsO (Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 31 InsO — Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister
 
@@ -818,7 +818,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p032-grundbuch`
 
-**Frühere Beschreibung:** § 32 InsO (Grundbuch) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 32 InsO (Grundbuch) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 32 InsO — Grundbuch
 
@@ -873,7 +873,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p033-register-fur-schiffe-und-luftfahrzeuge`
 
-**Frühere Beschreibung:** § 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 33 InsO (Register für Schiffe und Luftfahrzeuge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 33 InsO — Register für Schiffe und Luftfahrzeuge
 
@@ -928,7 +928,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p034-rechtsmittel`
 
-**Frühere Beschreibung:** § 34 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 34 InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 34 InsO — Rechtsmittel
 
@@ -983,7 +983,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p035-begriff-der-insolvenzmasse`
 
-**Frühere Beschreibung:** § 35 InsO (Begriff der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 35 InsO (Begriff der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 35 InsO — Begriff der Insolvenzmasse
 
@@ -1038,7 +1038,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p037-gesamtgut-bei-gutergemeinschaft`
 
-**Frühere Beschreibung:** § 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 37 InsO (Gesamtgut bei Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 37 InsO — Gesamtgut bei Gütergemeinschaft
 
@@ -1093,7 +1093,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p038-begriff-der-insolvenzglaubiger`
 
-**Frühere Beschreibung:** § 38 InsO (Begriff der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 38 InsO (Begriff der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 38 InsO — Begriff der Insolvenzgläubiger
 
@@ -1148,7 +1148,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p039-nachrangige-insolvenzglaubiger`
 
-**Frühere Beschreibung:** § 39 InsO (Nachrangige Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 39 InsO (Nachrangige Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 39 InsO — Nachrangige Insolvenzgläubiger
 

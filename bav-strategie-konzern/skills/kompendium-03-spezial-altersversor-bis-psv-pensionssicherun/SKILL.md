@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-altersversor-bis-psv-pensionssicherun
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-altersversorgung-fristen-form-und-zustaendigkeit, spezial-boutique-fristennotiz-und-naechster-schritt, psv-pensionssicherungsverein-und-haftungsketten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungsketten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bav-strategie-konzern
+# Arbeitsbereich - Altersversorgung Fristen Form Und Zustaendigkeit, Boutique Fristennotiz Und Naechster Schritt, Psv Pensionssicherungsverein Und Haftungskette
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-altersversorgung-fristen-form-und-zustaendigkeit` | Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-boutique-fristennotiz-und-naechster-schritt` | Boutique: Fristennotiz und nächster Schritt im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-altersversorgung-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Altersversorgung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -94,7 +94,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-boutique-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Boutique: Fristennotiz und nächster Schritt im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Boutique: Fristennotiz und nächster Schritt im Plugin bav strategie konzern; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Boutique: Fristennotiz und nächster Schritt
 
@@ -135,7 +135,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `psv-pensionssicherungsverein-und-haftungsketten`
 
-**Frühere Beschreibung:** PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung).
+**Fokus:** PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Prüfraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung).
 
 # PSV — Pensionssicherungsverein und Haftungsketten
 

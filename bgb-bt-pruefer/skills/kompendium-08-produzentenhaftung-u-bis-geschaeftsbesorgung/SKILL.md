@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-produzentenhaftung-u-bis-geschaeftsbesorgung
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (produzentenhaftung-und-verkehrssicherung, schadensrecht-paragraphen-249-253, geschaeftsbesorgung-auftrag-mandat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bgb-bt-pruefer
+# Arbeitsbereich - Produzentenhaftung Und Verkehrssicherung, Schadensrecht Paragraphen 249 253, Geschaeftsbesorgung Auftrag Mandat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produzentenhaftung-und-verkehrssicherung` | Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten. |
 | `schadensrecht-paragraphen-249-253` | Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produzentenhaftung-und-verkehrssicherung`
 
-**Frühere Beschreibung:** Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten.
+**Fokus:** Produzentenhaftung § 823 BGB und Produkthaftungsgesetz: Fehler, Kausalität, Verkehrssicherungspflichten.
 
 # Produzentenhaftung und Verkehrssicherung
 
@@ -121,7 +121,7 @@ Produzentenhaftung nach § 823 Abs. 1 BGB und dem Produkthaftungsgesetz (ProdHaf
 
 ## 2. `schadensrecht-paragraphen-249-253`
 
-**Frühere Beschreibung:** Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld.
+**Fokus:** Schadensrecht §§ 249-253 BGB: Naturalrestitution, Schadensberechnung, Vermögensschaden, Schmerzensgeld.
 
 # Schadensrecht §§ 249-253 BGB
 
@@ -209,7 +209,7 @@ Schadensersatzansprüche nach §§ 249-253 BGB vollständig ausarbeiten: Grundsa
 
 ## 3. `geschaeftsbesorgung-auftrag-mandat`
 
-**Frühere Beschreibung:** Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler.
+**Fokus:** Prüft entgeltliche Geschäftsbesorgung § 675 BGB, Anwalts- und Steuerberaterauftrag und Haftung für Beratungsfehler.
 
 # Geschäftsbesorgung, Auftrag und Mandat
 

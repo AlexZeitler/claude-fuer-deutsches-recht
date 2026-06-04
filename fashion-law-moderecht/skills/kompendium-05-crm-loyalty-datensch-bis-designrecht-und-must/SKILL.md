@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-crm-loyalty-datensch-bis-designrecht-und-must
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (crm-loyalty-datenschutz, designrecht-und-muster) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Crm Loyalty Datenschutz, Designrecht Und Muster; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fashion-law-moderecht
+# Arbeitsbereich - Crm Loyalty Datenschutz, Designrecht Und Muster
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `crm-loyalty-datenschutz` | CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung. |
 | `designrecht-und-muster` | Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `crm-loyalty-datenschutz`
 
-**Frühere Beschreibung:** CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung.
+**Fokus:** CRM, Loyalty-Programm und Datenschutz in Fashion Retail prüfen: Kundendaten, Größenprofile, Kaufhistorie, Einwilligungen, Newsletter, Profiling und Löschung.
 
 # Crm Loyalty Datenschutz
 
@@ -59,7 +59,7 @@ Datenschutz-Check.
 
 ## 2. `designrecht-und-muster`
 
-**Frühere Beschreibung:** Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats.
+**Fokus:** Designrecht für Kollektionen, Accessoires, Prints und Produktformen prüfen: Registerdesign, nicht eingetragenes EU-Design, Offenbarung, Saisonware und Copycats.
 
 # Designrecht Und Muster
 

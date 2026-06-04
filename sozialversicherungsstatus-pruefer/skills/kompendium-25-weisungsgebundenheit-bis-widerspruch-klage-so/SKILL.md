@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-weisungsgebundenheit-bis-widerspruch-klage-so
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (weisungsgebundenheit, widerspruch-klage-sozialgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Weisungsgebundenheit, Widerspruch Klage Sozialgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Weisungsgebundenheit, Widerspruch Klage Sozialgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `weisungsgebundenheit` | Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz. |
 | `widerspruch-klage-sozialgericht` | Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `weisungsgebundenheit`
 
-**Frühere Beschreibung:** Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz.
+**Fokus:** Vertieft Weisungen zu Inhalt, Durchführung, Zeit, Ort, Reihenfolge und Verhalten als Statusindiz.
 
 # Weisungsgebundenheit
 
@@ -92,7 +92,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `widerspruch-klage-sozialgericht`
 
-**Frühere Beschreibung:** Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide.
+**Fokus:** Führt durch Widerspruch, Klage und sozialgerichtliche Strategie gegen Status- oder Beitragsbescheide.
 
 # Widerspruch und Sozialgericht
 

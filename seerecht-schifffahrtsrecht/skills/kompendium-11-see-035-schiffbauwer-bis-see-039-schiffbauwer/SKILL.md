@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-see-035-schiffbauwer-bis-see-039-schiffbauwer
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (see-035-schiffbauwerk-wrackpflicht-pruefen, see-036-schiffbauwerk-versicherung-melden, see-037-schiffbauwerk-local-counsel-instruiere, see-038-schiffbauwerk-closing-planen, see-039-schiffbauwerk-klagepfad-waehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 035 Schiffbauwerk Wrackpflicht Pruefen, See 036 Schiffbauwerk Versicherung Melden, See 037 Schiffbauwerk Local Counsel Instruiere, See 038 Schiffbauwerk Closing Planen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 035 Schiffbauwerk Wrackpflicht Pruefen bis See 039 Schiffbauwerk Klagepfad Waehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-035-schiffbauwerk-wrackpflicht-pruefen` | Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. |
 | `see-036-schiffbauwerk-versicherung-melden` | Schiffbauwerk: Schadensereignis an Schiff im Bau (Schiffbauwerk) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-035-schiffbauwerk-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Schiff im Bau (Schiffbauwerk). Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Schiffbauwerk – Wrackbeseitigungspflicht prüfen
 
@@ -122,7 +122,7 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 
 ## 2. `see-036-schiffbauwerk-versicherung-melden`
 
-**Frühere Beschreibung:** Schiffbauwerk: Schadensereignis an Schiff im Bau (Schiffbauwerk) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Schiffbauwerk: Schadensereignis an Schiff im Bau (Schiffbauwerk) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Schiffbauwerk – Schadensfall bei Versicherung melden
 
@@ -213,7 +213,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 3. `see-037-schiffbauwerk-local-counsel-instruiere`
 
-**Frühere Beschreibung:** Schiffbauwerk: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Schiff im Bau (Schiffbauwerk) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Schiffbauwerk: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Schiff im Bau (Schiffbauwerk) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Schiffbauwerk – Local Counsel instruieren
 
@@ -304,7 +304,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 4. `see-038-schiffbauwerk-closing-planen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Closing eines Schiff im Bau (Schiffbauwerk)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Schiffbauwerk: Closing eines Schiff im Bau (Schiffbauwerk)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Schiffbauwerk – Closing planen
 
@@ -397,7 +397,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 5. `see-039-schiffbauwerk-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Schiffbauwerk: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Schiff im Bau (Schiffbauwerk): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Schiffbauwerk – Klagepfad wählen
 

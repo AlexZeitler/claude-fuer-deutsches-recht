@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-kirchlicher-verwaltu-bis-kirchliches-vermogen
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (kirchlicher-verwaltungsakt-und-dekret, kirchliches-begrabnis-nach-kirchenaustritt, kirchliches-strafrecht-nach-buch-vi, kirchliches-vermogen-und-pfarrverwaltung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kirchlicher Verwaltungsakt Und Dekret, Kirchliches Begrabnis Nach Kirchenaustritt, Kirchliches Strafrecht Nach Buch Vi, Kirchliches Vermogen Und Pfarrverwaltung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Kirchlicher Verwaltungsakt Und Dekret bis Kirchliches Vermogen Und Pfarrverwaltung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kirchlicher-verwaltungsakt-und-dekret` | Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `kirchliches-begrabnis-nach-kirchenaustritt` | Kirchliches Begräbnis nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kirchlicher-verwaltungsakt-und-dekret`
 
-**Frühere Beschreibung:** Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchlicher Verwaltungsakt und Dekret: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchlicher Verwaltungsakt und Dekret
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kirchliches-begrabnis-nach-kirchenaustritt`
 
-**Frühere Beschreibung:** Kirchliches Begräbnis nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Begräbnis nach Kirchenaustritt: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Begräbnis nach Kirchenaustritt
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `kirchliches-strafrecht-nach-buch-vi`
 
-**Frühere Beschreibung:** Kirchliches Strafrecht nach Buch VI: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Strafrecht nach Buch VI: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Strafrecht nach Buch VI
 
@@ -235,7 +235,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `kirchliches-vermogen-und-pfarrverwaltung`
 
-**Frühere Beschreibung:** Kirchliches Vermögen und Pfarrverwaltung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchliches Vermögen und Pfarrverwaltung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchliches Vermögen und Pfarrverwaltung
 

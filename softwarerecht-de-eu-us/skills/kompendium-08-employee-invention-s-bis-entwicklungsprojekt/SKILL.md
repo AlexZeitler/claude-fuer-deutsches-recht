@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-employee-invention-s-bis-entwicklungsprojekt
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (employee-invention-software-patents-de, employment-contract-software-engineer-de, enterprise-license-metrics, entwicklungsprojekt-intake) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Employee Invention Software Patents De, Employment Contract Software Engineer De, Enterprise License Metrics, Entwicklungsprojekt Intake; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - softwarerecht-de-eu-us
+# Arbeitsbereich - Employee Invention Software Patents De bis Entwicklungsprojekt Intake
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `employee-invention-software-patents-de` | Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG. |
 | `employment-contract-software-engineer-de` | Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `employee-invention-software-patents-de`
 
-**Frühere Beschreibung:** Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG.
+**Fokus:** Prüft Software-nahe Erfindungen deutscher Mitarbeiter, ArbEG, technische Lehre, PatG und Schnittstelle zu § 69b UrhG.
 
 # Arbeitnehmererfindungen und Softwarepatente DE
 
@@ -87,7 +87,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `employment-contract-software-engineer-de`
 
-**Frühere Beschreibung:** Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding.
+**Fokus:** Entwirft Klauseln für deutsche angestellte Softwareingenieure zu § 69b, Nebentätigkeit, OSS, Geheimnissen, Erfindungen und Offboarding.
 
 # Arbeitsvertrag Software Engineer DE
 
@@ -145,7 +145,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `enterprise-license-metrics`
 
-**Frühere Beschreibung:** Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls.
+**Fokus:** Prüft komplexe Lizenzmetriken: Seats, named users, concurrent users, devices, cores, revenue, affiliates und API calls.
 
 # Enterprise-Lizenzmetriken
 
@@ -202,7 +202,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `entwicklungsprojekt-intake`
 
-**Frühere Beschreibung:** Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch.
+**Fokus:** Führt das Intake für eine komplette Softwareentwicklung vom Term Sheet bis Go-live und Post-Launch.
 
 # Softwareentwicklungsprojekt Intake
 

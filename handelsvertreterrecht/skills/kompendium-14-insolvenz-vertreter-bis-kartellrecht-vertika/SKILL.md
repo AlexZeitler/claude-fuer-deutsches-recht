@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-insolvenz-vertreter-bis-kartellrecht-vertika
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (insolvenz-vertreter, internationales-recht-rom-i, karenzentschaedigung, kartellrecht-vertikal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insolvenz Vertreter, Internationales Recht Rom I, Karenzentschaedigung, Kartellrecht Vertikal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - handelsvertreterrecht
+# Arbeitsbereich - Insolvenz Vertreter bis Kartellrecht Vertikal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insolvenz-vertreter` | Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters. |
 | `internationales-recht-rom-i` | Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insolvenz-vertreter`
 
-**Frühere Beschreibung:** Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters.
+**Fokus:** Analysiert die Insolvenz des Handelsvertreters: Auswirkungen auf laufende Vertreterverträge, Kündigung durch den Unternehmer bei Insolvenz des Vertreters, Pfändbarkeit von Provisionsansprüchen, Massezugehörigkeit des Ausgleichsanspruchs und Gläubigerrechte im Insolvenzverfahren des Handelsvertreters.
 
 # Insolvenz des Handelsvertreters — Vertragsbeendigung und Anspruchsübertragung
 
@@ -108,7 +108,7 @@ ergänzen das Recht praxisnah.
 
 ## 2. `internationales-recht-rom-i`
 
-**Frühere Beschreibung:** Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter.
+**Fokus:** Analysiert das auf Handelsvertreterverträge anwendbare Recht nach der Rom-I-Verordnung: Rechtswahl, objektive Anknüpfung nach Art. 4 Abs. 1 lit. b oder Abs. 2 Rom-I-VO, Eingriffsnormen nach Art. 9 Rom-I-VO und zwingende Schutzvorschriften nach § 92c HGB für in Deutschland tätige Vertreter.
 
 # Anwendbares Recht auf Handelsvertreterverträge nach Rom-I-Verordnung
 
@@ -187,7 +187,7 @@ ergänzen das Recht praxisnah.
 
 ## 3. `karenzentschaedigung`
 
-**Frühere Beschreibung:** Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln.
+**Fokus:** Prüft Karenzentschädigung nach § 90a HGB: Mindesthöhe der Entschädigung (50 % der zuletzt bezogenen Vergütung), Zahlungsmodalitäten, Entfall bei Kündigung aus wichtigem Grund durch den Unternehmer, Loslösungsrecht des Handelsvertreters bei unzureichender Karenzentschädigung sowie AGB-Kontrolle von Entschädigungsklauseln.
 
 # Karenzentschädigung nach § 90a HGB beim nachvertraglichen Wettbewerbsverbot
 
@@ -266,7 +266,7 @@ ergänzen das Recht praxisnah.
 
 ## 4. `kartellrecht-vertikal`
 
-**Frühere Beschreibung:** Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung.
+**Fokus:** Prüft kartellrechtliche Anforderungen an vertikale Vertriebsvereinbarungen mit Handelsvertretern: Preisbindung der zweiten Hand, Gebietsschutz und Kundengruppen unter der Vertikal-GVO, Einzelfreistellung nach Art. 101 Abs. 3 AEUV sowie Abgrenzung zulässiger Empfehlungen von verbotener Preisbindung.
 
 # Kartellrecht und vertikale Beschränkungen im Handelsvertretervertrieb nach Art. 101 AEUV
 

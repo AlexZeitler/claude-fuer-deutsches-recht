@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-tier-080-gefluegelma-bis-tier-083-tiertranspo
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (tier-080-gefluegelmast-vergleich-suchen, tier-081-tiertransport-schutzbedarf-pruefen, tier-082-tiertransport-behoerdenantrag-schreibe, tier-083-tiertransport-anordnung-angreifen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 080 Gefluegelmast Vergleich Suchen, Tier 081 Tiertransport Schutzbedarf Pruefen, Tier 082 Tiertransport Behoerdenantrag Schreibe, Tier 083 Tiertransport Anordnung Angreifen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - tierschutzrecht
+# Arbeitsbereich - Tier 080 Gefluegelmast Vergleich Suchen bis Tier 083 Tiertransport Anordnung Angreifen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-080-gefluegelmast-vergleich-suchen` | Tierschutzrecht: Geflügelmast: Vergleich suchen. Vergleich suchen für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-081-tiertransport-schutzbedarf-pruefen` | Tierschutzrecht: Tiertransport: Schutzbedarf prüfen. Schutzbedarf prüfen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-080-gefluegelmast-vergleich-suchen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Geflügelmast: Vergleich suchen. Vergleich suchen für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Geflügelmast: Vergleich suchen. Vergleich suchen für Geflügelmast im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Gefluegelmast Vergleich Suchen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-081-tiertransport-schutzbedarf-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tiertransport: Schutzbedarf prüfen. Schutzbedarf prüfen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Tiertransport: Schutzbedarf prüfen. Schutzbedarf prüfen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tiertransport Schutzbedarf Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-082-tiertransport-behoerdenantrag-schreibe`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tiertransport: Behördenantrag schreiben. Behördenantrag schreiben für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Tiertransport: Behördenantrag schreiben. Behördenantrag schreiben für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tiertransport Behoerdenantrag Schreibe
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-083-tiertransport-anordnung-angreifen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tiertransport: Anordnung angreifen. Anordnung angreifen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Tiertransport: Anordnung angreifen. Anordnung angreifen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tiertransport Anordnung Angreifen
 

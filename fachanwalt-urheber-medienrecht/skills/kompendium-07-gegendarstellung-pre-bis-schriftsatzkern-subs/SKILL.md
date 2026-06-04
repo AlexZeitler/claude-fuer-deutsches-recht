@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-gegendarstellung-pre-bis-schriftsatzkern-subs
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (gegendarstellung-presse, mandat-triage-urheber-medienrecht, schriftsatzkern-substantiierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Gegendarstellung Presse, Mandat Triage Urheber Medienrecht, Schriftsatzkern Substantiierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gegendarstellung-presse` | Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA. |
 | `mandat-triage-urheber-medienrecht` | Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gegendarstellung-presse`
 
-**Frühere Beschreibung:** Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA.
+**Fokus:** Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA.
 
 # Gegendarstellung nach Pressegesetz
 
@@ -307,7 +307,7 @@ Bevor der Gegendarstellungsanspruch geltend gemacht wird, klaere:
 
 ## 2. `mandat-triage-urheber-medienrecht`
 
-**Frühere Beschreibung:** Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
+**Fokus:** Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
 
 # Mandat-Triage Urheber- und Medienrecht
 
@@ -408,7 +408,7 @@ Naechste Schritte:[MASSNAHME 1] bis [DATUM]
 
 ## 3. `schriftsatzkern-substantiierung`
 
-**Frühere Beschreibung:** Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz.
+**Fokus:** Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz.
 
 # Schriftsatzkern und Substantiierung im Urheber- und Medienrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fakultaetsrat-kompet-bis-forschungskooperatio
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (fakultaetsrat-kompetenzen, forschungsdaten-datenschutz, forschungsdaten-und-open-science, forschungskooperation-industrie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fakultaetsrat Kompetenzen, Forschungsdaten Datenschutz, Forschungsdaten Und Open Science, Forschungskooperation Industrie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - hochschulrecht-laender
+# Arbeitsbereich - Fakultaetsrat Kompetenzen bis Forschungskooperation Industrie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fakultaetsrat-kompetenzen` | Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium. |
 | `forschungsdaten-datenschutz` | Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fakultaetsrat-kompetenzen`
 
-**Frühere Beschreibung:** Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium.
+**Fokus:** Prüft Zuständigkeit von Fakultätsrat, Dekanat, Senat und Präsidium.
 
 # Fakultätsrat und Kompetenzen
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `forschungsdaten-datenschutz`
 
-**Frühere Beschreibung:** Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung.
+**Fokus:** Prüft Forschungsdaten, DSGVO, Ethik, Löschung, Open Data und Zweckbindung.
 
 # Forschungsdaten und Datenschutz
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `forschungsdaten-und-open-science`
 
-**Frühere Beschreibung:** Prüft Forschungsdaten, Open Science und Repositorien.
+**Fokus:** Prüft Forschungsdaten, Open Science und Repositorien.
 
 # Forschungsdaten Und Open Science
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Forschungsdatenmemo. Am Ende immer drei Zeilen: **Frist**, **
 
 ## 4. `forschungskooperation-industrie`
 
-**Frühere Beschreibung:** Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance.
+**Fokus:** Prüft Forschungskooperation, Publikationssperre, IP, Interessenkonflikte und Compliance.
 
 # Forschungskooperation mit Industrie
 

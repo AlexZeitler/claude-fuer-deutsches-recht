@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-vbr-017-telekommunik-bis-vbr-021-haustuergesc
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (vbr-017-telekommunikation-und-laufzeit, vbr-018-finanzdienstleistung-fernabsatz, vbr-020-verbraucherbericht-erzeugen, vbr-021-haustuergeschaeft-anspruch-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 017 Telekommunikation Und Laufzeit, Vbr 018 Finanzdienstleistung Fernabsatz, Vbr 020 Verbraucherbericht Erzeugen, Vbr 021 Haustuergeschaeft Anspruch Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 017 Telekommunikation Und Laufzeit bis Vbr 021 Haustuergeschaeft Anspruch Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-017-telekommunikation-und-laufzeit` | Verbraucherschutzrecht Prüfer: Telekommunikation und Laufzeit. Telekommunikation und Laufzeit im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-018-finanzdienstleistung-fernabsatz` | Verbraucherschutzrecht Prüfer: Finanzdienstleistung Fernabsatz. Finanzdienstleistung Fernabsatz im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-017-telekommunikation-und-laufzeit`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Telekommunikation und Laufzeit. Telekommunikation und Laufzeit im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Telekommunikation und Laufzeit. Telekommunikation und Laufzeit im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Telekommunikation Und Laufzeit
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-018-finanzdienstleistung-fernabsatz`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Finanzdienstleistung Fernabsatz. Finanzdienstleistung Fernabsatz im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Finanzdienstleistung Fernabsatz. Finanzdienstleistung Fernabsatz im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Finanzdienstleistung Fernabsatz
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-020-verbraucherbericht-erzeugen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Verbraucherbericht erzeugen. Verbraucherbericht erzeugen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Verbraucherbericht erzeugen. Verbraucherbericht erzeugen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verbraucherbericht Erzeugen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-021-haustuergeschaeft-anspruch-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Haustürgeschäft: Anspruch prüfen. Anspruch prüfen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Haustürgeschäft: Anspruch prüfen. Anspruch prüfen für Haustürgeschäft im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haustuergeschaeft Anspruch Pruefen
 

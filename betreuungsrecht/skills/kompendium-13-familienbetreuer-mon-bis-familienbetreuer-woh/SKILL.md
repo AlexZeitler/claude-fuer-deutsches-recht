@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-familienbetreuer-mon-bis-familienbetreuer-woh
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (familienbetreuer-monatsroutine-kalender, familienbetreuer-scannen-ordner-datenschutz, familienbetreuer-wohnungsaufloesung-genehmigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - betreuungsrecht
+# Arbeitsbereich - Familienbetreuer Monatsroutine Kalender, Familienbetreuer Scannen Ordner Datenschutz, Familienbetreuer Wohnungsaufloesung Genehmigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `familienbetreuer-monatsroutine-kalender` | Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht. |
 | `familienbetreuer-scannen-ordner-datenschutz` | Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `familienbetreuer-monatsroutine-kalender`
 
-**Frühere Beschreibung:** Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht.
+**Fokus:** Monatlicher Betreuungsrhythmus: Post, Rechnungen, Gesundheit, Wohnsituation, Fristen, Angehörigenkommunikation und Betreuungsgericht.
 
 # Familienbetreuer: Monatsroutine und Kalender
 
@@ -70,7 +70,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 2. `familienbetreuer-scannen-ordner-datenschutz`
 
-**Frühere Beschreibung:** Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe.
+**Fokus:** Digitale Betreuungsakte für Angehörige: Scans, Dateinamen, Datenschutz, Freigaben, Kalender, Nachweise und sichere Übergabe.
 
 # Familienbetreuer: Scannen, Ordner, Datenschutz
 
@@ -104,7 +104,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 3. `familienbetreuer-wohnungsaufloesung-genehmigung`
 
-**Frühere Beschreibung:** Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall.
+**Fokus:** Wohnungskündigung, Haushaltsauflösung, Heimaufnahme, Mietvertrag, Genehmigung und emotionale Dokumentation im Betreuungsfall.
 
 # Familienbetreuer: Wohnung, Heim, Kündigung, Genehmigung
 

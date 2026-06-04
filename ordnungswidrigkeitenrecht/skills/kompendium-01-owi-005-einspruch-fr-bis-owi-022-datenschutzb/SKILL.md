@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-owi-005-einspruch-fr-bis-owi-022-datenschutzb
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (owi-005-einspruch-fristgerecht-einlegen, owi-016-beschlussverfahren-72-owig, owi-019-jugendliche-im-owi-verfahren, owi-022-datenschutzbussgeld-frist-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 005 Einspruch Fristgerecht Einlegen, Owi 016 Beschlussverfahren 72 Owig, Owi 019 Jugendliche Im Owi Verfahren, Owi 022 Datenschutzbussgeld Frist Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 005 Einspruch Fristgerecht Einlegen bis Owi 022 Datenschutzbussgeld Frist Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-005-einspruch-fristgerecht-einlegen` | Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `owi-016-beschlussverfahren-72-owig` | Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-005-einspruch-fristgerecht-einlegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Einspruch fristgerecht einlegen. Einspruch fristgerecht einlegen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einspruch Fristgerecht Einlegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-016-beschlussverfahren-72-owig`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Beschlussverfahren § 72 OWiG. Beschlussverfahren § 72 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Beschlussverfahren 72 Owig
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-019-jugendliche-im-owi-verfahren`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Jugendliche im OWi-Verfahren. Jugendliche im OWi-Verfahren im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Jugendliche Im Owi Verfahren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-022-datenschutzbussgeld-frist-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Frist prüfen. Frist prüfen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Frist prüfen. Frist prüfen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Datenschutzbussgeld Frist Pruefen
 

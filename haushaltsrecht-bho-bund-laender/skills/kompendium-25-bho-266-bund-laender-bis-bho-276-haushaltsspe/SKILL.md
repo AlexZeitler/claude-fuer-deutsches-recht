@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-bho-266-bund-laender-bis-bho-276-haushaltsspe
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 25; bündelt 11 frühere Spezialskills (bho-266-bund-laender-programm-titel-pruefen, bho-267-bund-laender-programm-umschichtung-sim, bho-268-bund-laender-programm-sperre-bewerten, bho-269-bund-laender-programm-deckung-finden, bho-270-bund-laender-programm-szenario-rechnen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 266 Bund Laender Programm Titel Pruefen, Bho 267 Bund Laender Programm Umschichtung Sim, Bho 268 Bund Laender Programm Sperre Bewerten, Bho 269 Bund Laender Programm Deckung Finden und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 266 Bund Laender Programm Titel Pruefen bis Bho 276 Haushaltssperre Titel Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-266-bund-laender-programm-titel-pruefen` | Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Titel prüfen. Titel prüfen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-267-bund-laender-programm-umschichtung-sim` | Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Umschichtung simulieren. Umschichtung simulieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-266-bund-laender-programm-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Titel prüfen. Titel prüfen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Titel prüfen. Titel prüfen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Titel Pruefen
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-267-bund-laender-programm-umschichtung-sim`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Umschichtung simulieren. Umschichtung simulieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Umschichtung simulieren. Umschichtung simulieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Umschichtung Sim
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-268-bund-laender-programm-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Sperre bewerten. Sperre bewerten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Sperre bewerten. Sperre bewerten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Sperre Bewerten
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-269-bund-laender-programm-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Deckung finden. Deckung finden für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Deckung finden. Deckung finden für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Deckung Finden
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-270-bund-laender-programm-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Szenario rechnen. Szenario rechnen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Szenario rechnen. Szenario rechnen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Szenario Rechnen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-271-bund-laender-programm-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Dashboard bauen. Dashboard bauen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Dashboard bauen. Dashboard bauen für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Dashboard Bauen
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-272-bund-laender-programm-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Risiko markieren. Risiko markieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Risiko markieren. Risiko markieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Risiko Markieren
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-273-bund-laender-programm-brh-frage-formul`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: BRH-Frage formulieren. BRH-Frage formulieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: BRH-Frage formulieren. BRH-Frage formulieren für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Brh Frage Formul
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-274-bund-laender-programm-parlamentsfrage`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Parlamentsfrage
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-275-bund-laender-programm-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Vollzug tracken. Vollzug tracken für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bund-Länder-Programm: Vollzug tracken. Vollzug tracken für Bund-Länder-Programm im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bund Laender Programm Vollzug Tracken
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-276-haushaltssperre-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Titel prüfen. Titel prüfen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Titel prüfen. Titel prüfen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Titel Pruefen
 

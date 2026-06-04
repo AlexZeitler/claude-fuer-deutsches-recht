@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-vertraegen-d-bis-strafrechtliche-bele
-description: "berufsrecht-ki-vertragspruefung: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-vertraegen-dokumentenmatrix-und-lueckenliste, strafprozessuale-regelung-pruefen, strafrechtliche-belehrung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-ki-vertragspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertraegen Dokumentenmatrix Und Lueckenliste, Strafprozessuale Regelung Pruefen, Strafrechtliche Belehrung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - berufsrecht-ki-vertragspruefung
+# Arbeitsbereich - Vertraegen Dokumentenmatrix Und Lueckenliste, Strafprozessuale Regelung Pruefen, Strafrechtliche Belehrung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-vertraegen-dokumentenmatrix-und-lueckenliste` | Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `strafprozessuale-regelung-pruefen` | Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenüber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-vertraegen-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin berufsrecht ki vertragspruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verträgen: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `strafprozessuale-regelung-pruefen`
 
-**Frühere Beschreibung:** Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenüber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz.
+**Fokus:** Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenüber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz.
 
 # Strafprozessuale Regelung prüfen
 
@@ -188,7 +188,7 @@ Handlungsbedarf: [...]
 
 ## 3. `strafrechtliche-belehrung-pruefen`
 
-**Frühere Beschreibung:** Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters nach § 203 Absatz vier Satz zwei Nummer eins StGB.
+**Fokus:** Prüfe die strafrechtliche Belehrung des Dienstleisters nach Absatz drei Satz zwei Nummer eins der einschlaegigen Dienstleisterregelung. Pflichtinhalte § 203 Absatz eins drei vier und sechs StGB und § 204 StGB. Empfehlung Normtext als Vertragsanlage. Hinweis auf Sekundaerpflicht des Dienstleisters nach § 203 Absatz vier Satz zwei Nummer eins StGB.
 
 # Strafrechtliche Belehrung prüfen
 

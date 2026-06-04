@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-str-026-autobahn-eil-bis-str-029-autobahn-dok
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (str-026-autobahn-eilantrag-skizzieren, str-027-autobahn-kostenlast-pruefen, str-028-autobahn-unterhaltung-ruegen, str-029-autobahn-dokumente-sortieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 026 Autobahn Eilantrag Skizzieren, Str 027 Autobahn Kostenlast Pruefen, Str 028 Autobahn Unterhaltung Ruegen, Str 029 Autobahn Dokumente Sortieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 026 Autobahn Eilantrag Skizzieren bis Str 029 Autobahn Dokumente Sortieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-026-autobahn-eilantrag-skizzieren` | Straßenrecht und Infrastruktur: Autobahn: Eilantrag skizzieren. Eilantrag skizzieren für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-027-autobahn-kostenlast-pruefen` | Straßenrecht und Infrastruktur: Autobahn: Kostenlast prüfen. Kostenlast prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-026-autobahn-eilantrag-skizzieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Eilantrag skizzieren. Eilantrag skizzieren für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Eilantrag skizzieren. Eilantrag skizzieren für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Eilantrag Skizzieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-027-autobahn-kostenlast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Kostenlast prüfen. Kostenlast prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Kostenlast prüfen. Kostenlast prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Kostenlast Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-028-autobahn-unterhaltung-ruegen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Unterhaltung rügen. Unterhaltung rügen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Unterhaltung rügen. Unterhaltung rügen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Unterhaltung Ruegen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-029-autobahn-dokumente-sortieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Dokumente sortieren. Dokumente sortieren für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Dokumente sortieren. Dokumente sortieren für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Dokumente Sortieren
 

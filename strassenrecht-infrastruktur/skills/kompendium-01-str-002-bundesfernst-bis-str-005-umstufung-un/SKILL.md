@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-str-002-bundesfernst-bis-str-005-umstufung-un
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (str-002-bundesfernstrasse-oder-landesstrasse, str-003-strassenbaulasttraeger-bestimmen, str-004-widmung-und-einziehung-pruefen, str-005-umstufung-und-teileinziehung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 002 Bundesfernstrasse Oder Landesstrasse, Str 003 Strassenbaulasttraeger Bestimmen, Str 004 Widmung Und Einziehung Pruefen, Str 005 Umstufung Und Teileinziehung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 002 Bundesfernstrasse Oder Landesstrasse bis Str 005 Umstufung Und Teileinziehung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-002-bundesfernstrasse-oder-landesstrasse` | Straßenrecht und Infrastruktur: Bundesfernstraße oder Landesstraße. Bundesfernstraße oder Landesstraße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-003-strassenbaulasttraeger-bestimmen` | Straßenrecht und Infrastruktur: Straßenbaulastträger bestimmen. Straßenbaulastträger bestimmen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-002-bundesfernstrasse-oder-landesstrasse`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesfernstraße oder Landesstraße. Bundesfernstraße oder Landesstraße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesfernstraße oder Landesstraße. Bundesfernstraße oder Landesstraße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bundesfernstrasse Oder Landesstrasse
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-003-strassenbaulasttraeger-bestimmen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Straßenbaulastträger bestimmen. Straßenbaulastträger bestimmen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Straßenbaulastträger bestimmen. Straßenbaulastträger bestimmen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Strassenbaulasttraeger Bestimmen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-004-widmung-und-einziehung-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Widmung und Einziehung prüfen. Widmung und Einziehung prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Widmung und Einziehung prüfen. Widmung und Einziehung prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Widmung Und Einziehung Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-005-umstufung-und-teileinziehung`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Umstufung und Teileinziehung. Umstufung und Teileinziehung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Umstufung und Teileinziehung. Umstufung und Teileinziehung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Umstufung Und Teileinziehung
 

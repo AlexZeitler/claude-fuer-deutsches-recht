@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vertreterversammlung-bis-waehlergruppe-vs-par
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (vertreterversammlung, vorstandswahl-partei, waehlergruppe-vs-partei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Vertreterversammlung, Vorstandswahl Partei, Waehlergruppe Vs Partei
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertreterversammlung` | Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation. |
 | `vorstandswahl-partei` | Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertreterversammlung`
 
-**Frühere Beschreibung:** Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation.
+**Fokus:** Prüft Delegiertenwahl, Vertreterversammlung, Mandatsprüfung, Ersatzdelegierte und Legitimation.
 
 # Vertreterversammlung
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `vorstandswahl-partei`
 
-**Frühere Beschreibung:** Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe.
+**Fokus:** Bereitet Vorstandswahl nach Satzung und PartG vor, inklusive Annahme, Protokoll, Amtszeit und Übergabe.
 
 # Vorstandswahl Partei
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `waehlergruppe-vs-partei`
 
-**Frühere Beschreibung:** Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initiative und Folgen für Wahlrecht/Finanzen.
+**Fokus:** Erklärt Abgrenzung Partei, kommunale Wählergruppe, Verein, Initiative und Folgen für Wahlrecht/Finanzen.
 
 # Wählergruppe oder Partei
 

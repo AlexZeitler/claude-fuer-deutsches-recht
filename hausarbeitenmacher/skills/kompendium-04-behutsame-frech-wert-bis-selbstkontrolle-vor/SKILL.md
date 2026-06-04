@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-behutsame-frech-wert-bis-selbstkontrolle-vor
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (behutsame-frech-wertschaetzende-rueckfragen, haeufige-fehler-vermeiden, selbstkontrolle-vor-abgabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - hausarbeitenmacher
+# Arbeitsbereich - Behutsame Frech Wertschaetzende Rueckfragen, Haeufige Fehler Vermeiden, Selbstkontrolle Vor Abgabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `behutsame-frech-wertschaetzende-rueckfragen` | Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt). |
 | `haeufige-fehler-vermeiden` | Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `behutsame-frech-wertschaetzende-rueckfragen`
 
-**Frühere Beschreibung:** Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt).
+**Fokus:** Stil-Anleitung für den Dialog-Ton des Plugins: behutsam unterhaltsam ketzerisch wertschaetzend niemals herablassend. Trockenes Staunen alltagsphilosophische Beobachtung selbstironische Wendung scheinbar naive Nachfrage. Kein Dauerton nur am Rande einsetzen. Prüfraster Ton-Angemessenheit Lerninhalt-Schutz Dialog-Qualitaet. Output Rückfrage-Formulierungen Stil-Beispiele. Abgrenzung zu allen Fach-Skills (nur Ton-Steuerung kein Rechtsinhalt).
 
 # Behutsame, frech-wertschätzende Rückfragen — Stil-Anleitung
 
@@ -291,7 +291,7 @@ Das Plugin ist primär ein **sokratischer Lern-Begleiter**, gentle, ermutigend, 
 
 ## 2. `haeufige-fehler-vermeiden`
 
-**Frühere Beschreibung:** Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil).
+**Fokus:** Student will typische Fehler in juristischen Hausarbeiten vermeiden: methodische stilistische formale Fehler. Liste der 20 häufigsten Fehler mit Korrekturhinweisen. Normen Methodenlehre Zitierstandards. Prüfraster Fehlertypen-Scan Selbstprüfung. Output Fehler-Checkliste Korrekturempfehlungen Beispiele. Abgrenzung zu selbstkontrolle-vor-abgabe (finaler Check) und gutachtenstil-vs-urteilsstil (Stil).
 
 # Häufige Fehler vermeiden — Top-20
 
@@ -528,7 +528,7 @@ Idealerweise jemand mit juristischer Vorbildung. Selbst Nicht-Juristen finden St
 
 ## 3. `selbstkontrolle-vor-abgabe`
 
-**Frühere Beschreibung:** Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan).
+**Fokus:** Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan).
 
 # Selbst-Kontrolle vor Abgabe
 

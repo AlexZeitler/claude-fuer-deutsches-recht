@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-jurisdiktion-kasachs-bis-jurisdiktion-litauen
-description: "kartellrecht-marktabgrenzung-pruefung: Konsolidiertes Skill-Kompendium 05; bündelt 14 frühere Spezialskills (jurisdiktion-kasachstan-competition-authority, jurisdiktion-katar-competition-authority, jurisdiktion-kenia-competition-authority, jurisdiktion-kirgisistan-competition-authority, jurisdiktion-kolumbien-competition-authority und 9 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kartellrecht-marktabgrenzung-pruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kasachstan Competition Authority, Katar Competition Authority, Kenia Competition Authority, Kirgisistan Competition Authority und 10 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - kartellrecht-marktabgrenzung-pruefung
+# Arbeitsbereich - Kasachstan Competition Authority bis Litauen Competition Authority
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `jurisdiktion-kasachstan-competition-authority` | Jurisdiktionsskill Kasachstan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 | `jurisdiktion-katar-competition-authority` | Jurisdiktionsskill Katar: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
@@ -30,16 +30,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `jurisdiktion-kasachstan-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kasachstan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kasachstan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kasachstan: Competition Authority Check
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `jurisdiktion-katar-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Katar: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Katar: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Katar: Competition Authority Check
 
@@ -127,7 +127,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `jurisdiktion-kenia-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kenia: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kenia: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kenia: Competition Authority Check
 
@@ -171,7 +171,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `jurisdiktion-kirgisistan-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kirgisistan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kirgisistan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kirgisistan: Competition Authority Check
 
@@ -215,7 +215,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `jurisdiktion-kolumbien-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kolumbien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kolumbien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kolumbien: Competition Authority Check
 
@@ -259,7 +259,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `jurisdiktion-korea-sued-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Korea Süd: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Korea Süd: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Korea Süd: Competition Authority Check
 
@@ -303,7 +303,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `jurisdiktion-kosovo-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kosovo: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kosovo: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kosovo: Competition Authority Check
 
@@ -347,7 +347,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 8. `jurisdiktion-kroatien-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kroatien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kroatien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kroatien: Competition Authority Check
 
@@ -391,7 +391,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 9. `jurisdiktion-kuwait-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Kuwait: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Kuwait: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Kuwait: Competition Authority Check
 
@@ -435,7 +435,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 10. `jurisdiktion-laos-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Laos: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Laos: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Laos: Competition Authority Check
 
@@ -479,7 +479,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 11. `jurisdiktion-lettland-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Lettland: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Lettland: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Lettland: Competition Authority Check
 
@@ -523,7 +523,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 12. `jurisdiktion-libanon-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Libanon: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Libanon: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Libanon: Competition Authority Check
 
@@ -567,7 +567,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 13. `jurisdiktion-liechtenstein-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Liechtenstein: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Liechtenstein: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Liechtenstein: Competition Authority Check
 
@@ -611,7 +611,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 14. `jurisdiktion-litauen-competition-authority`
 
-**Frühere Beschreibung:** Jurisdiktionsskill Litauen: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
+**Fokus:** Jurisdiktionsskill Litauen: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
 
 # Jurisdiktion Litauen: Competition Authority Check
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-stb-jahresgespraech-bis-stb-lohn-gesellschaf
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 20; bündelt 9 frühere Spezialskills (stb-jahresgespraech-mandant-bwa-basis, stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht, stb-lohn-arbeitgeber-arbeitnehmer-anteile, stb-lohn-aufzeichnungspflichten-milog, stb-lohn-bav-doppelversorgung-foerderung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Jahresgespraech Mandant Bwa Basis, Stb Ki Tools Im Stb Betrieb Grenzen Berufsrecht, Stb Lohn Arbeitgeber Arbeitnehmer Anteile, Stb Lohn Aufzeichnungspflichten Milog und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Jahresgespraech Mandant Bwa Basis bis Stb Lohn Gesellschafter Geschaeftsfuehrer Sv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-jahresgespraech-mandant-bwa-basis` | Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier. |
 | `stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht` | KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-jahresgespraech-mandant-bwa-basis`
 
-**Frühere Beschreibung:** Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier.
+**Fokus:** Jahresgespraech Mandant auf BWA-Basis. Anwendungsfall jaehrliches Bilanzgespraech nach Jahresabschluss-Erstellung Gesamtjahresblick Mehrjahres-Trend Strategie Folgejahr. Methodik intensive Vorbereitung 2-3 Stunden Termin Dokumentation. Output Gespraechs-Protokoll Strategiepapier.
 
 # Jahresgespraech mit dem Mandanten
 
@@ -195,7 +195,7 @@ Stand: 05/2026.
 
 ## 2. `stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht`
 
-**Frühere Beschreibung:** KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei.
+**Fokus:** KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei.
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen
 
@@ -338,7 +338,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-arbeitgeber-arbeitnehmer-anteile`
 
-**Frühere Beschreibung:** Arbeitgeber- und Arbeitnehmer-Anteile in der SV. Anwendungsfall Verteilung der SV-Beitraege zwischen AG und AN PV-Zuschlag Kinderlose KV-Zusatzbeitrag Sonderbeitraege Lohnabrechnung. Methodik AG-AN-Aufteilung in DATEV LODAS. Output Lohnabrechnung mit korrekter Aufteilung.
+**Fokus:** Arbeitgeber- und Arbeitnehmer-Anteile in der SV. Anwendungsfall Verteilung der SV-Beitraege zwischen AG und AN PV-Zuschlag Kinderlose KV-Zusatzbeitrag Sonderbeitraege Lohnabrechnung. Methodik AG-AN-Aufteilung in DATEV LODAS. Output Lohnabrechnung mit korrekter Aufteilung.
 
 # AG-/AN-Anteile in der Sozialversicherung
 
@@ -482,7 +482,7 @@ Stand: 05/2026.
 
 ## 4. `stb-lohn-aufzeichnungspflichten-milog`
 
-**Frühere Beschreibung:** Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz.
+**Fokus:** Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz.
 
 # Aufzeichnungspflichten nach MiLoG § 17
 
@@ -606,7 +606,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-bav-doppelversorgung-foerderung`
 
-**Frühere Beschreibung:** bAV bei mehreren Durchführungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte 8-Prozent-Prüfung. Output bAV-Prüfnotiz.
+**Fokus:** bAV bei mehreren Durchführungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte 8-Prozent-Prüfung. Output bAV-Prüfnotiz.
 
 # bAV bei mehreren Durchfuehrungswegen — Doppelversorgung
 
@@ -735,7 +735,7 @@ Stand: 05/2026.
 
 ## 6. `stb-lohn-berufsgenossenschaft-bg-meldung-jahresende`
 
-**Frühere Beschreibung:** Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid.
+**Fokus:** Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid.
 
 # Berufsgenossenschaft — Lohnnachweis Jahresende
 
@@ -863,7 +863,7 @@ Stand: 05/2026.
 
 ## 7. `stb-lohn-betriebsausfluege-aufmerksamkeiten-60-euro`
 
-**Frühere Beschreibung:** Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit.
+**Fokus:** Aufmerksamkeiten 60 EUR-Freigrenze pro persoenlichem Anlass. Anwendungsfall Sachgeschenk zu Geburtstag Hochzeit Jubilaeum 60 EUR Hoechstwert LSt-frei. Methodik Abgrenzung zur 50 EUR-Sachbezugs-Freigrenze. Output korrekte Lohn-Behandlung Aufmerksamkeit.
 
 # Aufmerksamkeiten — 60-EUR-Freigrenze pro persoenlichem Anlass
 
@@ -993,7 +993,7 @@ Stand: 05/2026.
 
 ## 8. `stb-lohn-betriebsveranstaltung-110-euro-freibetrag`
 
-**Frühere Beschreibung:** Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung.
+**Fokus:** Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung.
 
 # Betriebsveranstaltung — 110-EUR-Freibetrag § 19 Abs. 1 Nr. 1a EStG
 
@@ -1142,7 +1142,7 @@ Stand: 05/2026.
 
 ## 9. `stb-lohn-gesellschafter-geschaeftsfuehrer-sv`
 
-**Frühere Beschreibung:** Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandanten-Notiz.
+**Fokus:** Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandanten-Notiz.
 
 # Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung
 

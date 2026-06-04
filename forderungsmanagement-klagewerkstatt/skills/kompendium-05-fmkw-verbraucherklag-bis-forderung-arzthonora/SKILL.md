@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-fmkw-verbraucherklag-bis-forderung-arzthonora
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fmkw-verbraucherklage-cookies-rdg-spezial, forderung-anwaltshonorar-rvg, forderung-arzthonorar-goae) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Fmkw Verbraucherklage Cookies Rdg Spezial, Forderung Anwaltshonorar Rvg, Forderung Arzthonorar Goae
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fmkw-verbraucherklage-cookies-rdg-spezial` | Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte. |
 | `forderung-anwaltshonorar-rvg` | Anwaltshonorar nach RVG einklagen: Vereinbarung § 3a RVG, Vergleich, Streitwertfestsetzung, Honorartoleranz. Pruefraster: Wirksame Vergueltungsvereinbarung? Mandantenbeschwerde Rechtsanwaltskammer? Output: Klageschrift und Vorpruefung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fmkw-verbraucherklage-cookies-rdg-spezial`
 
-**Frühere Beschreibung:** Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte.
+**Fokus:** Spezialfall Verbraucherklageinkasso und RDG-Grenzen: Massenforderungen, Sammelklage als Modell, Anti-Claim-Klausel. Pruefraster fuer Legal-Tech und Anwaelte.
 
 # FMKW: Verbraucherinkasso RDG
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `forderung-anwaltshonorar-rvg`
 
-**Frühere Beschreibung:** Anwaltshonorar nach RVG einklagen: Vereinbarung § 3a RVG, Vergleich, Streitwertfestsetzung, Honorartoleranz. Pruefraster: Wirksame Vergueltungsvereinbarung? Mandantenbeschwerde Rechtsanwaltskammer? Output: Klageschrift und Vorpruefung.
+**Fokus:** Anwaltshonorar nach RVG einklagen: Vereinbarung § 3a RVG, Vergleich, Streitwertfestsetzung, Honorartoleranz. Pruefraster: Wirksame Vergueltungsvereinbarung? Mandantenbeschwerde Rechtsanwaltskammer? Output: Klageschrift und Vorpruefung.
 
 # Anwaltshonorar-Forderung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `forderung-arzthonorar-goae`
 
-**Frühere Beschreibung:** Arzthonorar nach GOAE/GOZ: Faelligkeit § 12 GOAE Rechnungserteilung mit Beschreibung der Leistungen, Wirksamkeit § 4 GOAE, Steigerungsfaktor. Streitige Punkte: angemessene Honorarsteigerung. Output: Klageschrift.
+**Fokus:** Arzthonorar nach GOAE/GOZ: Faelligkeit § 12 GOAE Rechnungserteilung mit Beschreibung der Leistungen, Wirksamkeit § 4 GOAE, Steigerungsfaktor. Streitige Punkte: angemessene Honorarsteigerung. Output: Klageschrift.
 
 # Arzthonorar-Forderung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-aussenwirtschaft-awv-bis-aussenwirtschaft-baf
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (aussenwirtschaft-awv-beteiligungsmeldungen, aussenwirtschaft-awv-bundesbank, aussenwirtschaft-awv-z4-z10-z11-meldungen, aussenwirtschaft-bafa-elan-k2-antragspaket) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Awv Beteiligungsmeldungen, Aussenwirtschaft Awv Bundesbank, Aussenwirtschaft Awv Z4 Z10 Z11 Meldungen, Aussenwirtschaft Bafa Elan K2 Antragspaket; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Awv Beteiligungsmeldungen bis Aussenwirtschaft Bafa Elan K2 Antragspaket
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-awv-beteiligungsmeldungen` | Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank. |
 | `aussenwirtschaft-awv-bundesbank` | Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-awv-beteiligungsmeldungen`
 
-**Frühere Beschreibung:** Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank.
+**Fokus:** Meldepflichten fuer Direktinvestitionen und Beteiligungserwerbe nach AWV §§ 56-67 und Z4/Z5-Meldeformular: Grenzwerte fuer meldepflichtige Beteiligungen (10 %-Schwelle), Fristen und Formvorschriften. Abgrenzung zur BMWK-Investitionspruefung. Mandant erwirbt Anteile an auslaendischem Unternehmen oder umgekehrt. Output: Meldedokumentation fuer Bundesbank.
 
 # AWV-Beteiligungsmeldungen: Direktinvestitionen und Bundesbank-Meldepflicht
 
@@ -116,7 +116,7 @@ Ausgefuelltes Z4/Z5-Formular, Deckblatt mit Beteiligungsstruktur, Fristen-Uebers
 
 ## 2. `aussenwirtschaft-awv-bundesbank`
 
-**Frühere Beschreibung:** Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste.
+**Fokus:** Melde- und Auskunftspflichten nach AWV gegenueber der Deutschen Bundesbank: Z1-Z15-Formulare fuer Zahlungsmeldungen, Kapitalverkehrsmeldungen und Bestandserhebungen. Einordnung von Zahlungen, Wertpapiergeschaeften und Direktinvestitionsaenderungen. Fristenkontrolle fuer monatliche und jaehrliche Meldungen. Output: Ausgefuellte Meldeformulare und Fristen-Checkliste.
 
 # AWV-Bundesbank-Meldungen: Z-Formulare und Kapitalverkehrspflichten
 
@@ -203,7 +203,7 @@ Ausgefuellte Z-Formulare, Fristen-Kalender fuer jaehrliche und monatliche Meldun
 
 ## 3. `aussenwirtschaft-awv-z4-z10-z11-meldungen`
 
-**Frühere Beschreibung:** Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe.
+**Fokus:** Meldepflichten nach AWV fuer spezifische Formulare Z4 (Direktinvestitionen), Z10 (Wertpapiertransaktionen) und Z11 (Kapitalverkehr/Kredite): Anwendungsbereiche, Schwellenwerte und Fristen. Abgrenzung der Formulare je Transaktionstypus. Output: Korrekt ausgefuellte Z4/Z10/Z11-Meldungen und Ausfuellhilfe.
 
 # AWV Z4/Z10/Z11: Spezifische Bundesbank-Meldungen im Kapitalverkehr
 
@@ -289,7 +289,7 @@ Ausgefuellte Z4/Z10/Z11-Formulare, Transaktions-Einstufungstabelle, Fristen-Kale
 
 ## 4. `aussenwirtschaft-bafa-elan-k2-antragspaket`
 
-**Frühere Beschreibung:** Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket fuer BAFA-Genehmigungsantrag.
+**Fokus:** Aufbau und Einreichung eines vollstaendigen Genehmigungsantrags ueber das BAFA-Online-System ELAN-K2: technische Gueterbeschreibung nach Anhang I VO (EU) 2021/821 oder nationaler Gueterliste, Endverwendungserklaerung (EUC), Lieferplandokument und begleitende Compliance-Nachweise. Output: Vollstaendiges Antragspaket fuer BAFA-Genehmigungsantrag.
 
 # BAFA ELAN-K2: Vollstaendiges Genehmigungsantragspaket aufbauen
 

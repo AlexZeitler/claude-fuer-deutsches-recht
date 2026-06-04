@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-wahlkampf-ordner-und-bis-wahlkampf-plakatstan
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (wahlkampf-ordner-und-sicherheit, wahlkampf-parteieigenschaft-bundeswahlausschuss, wahlkampf-plakat-vandalismus-beweissicherung, wahlkampf-plakatierung-genehmigung, wahlkampf-plakatstandorte-matrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Ordner Und Sicherheit, Wahlkampf Parteieigenschaft Bundeswahlausschuss, Wahlkampf Plakat Vandalismus Beweissicherung, Wahlkampf Plakatierung Genehmigung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Ordner Und Sicherheit bis Wahlkampf Plakatstandorte Matrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-ordner-und-sicherheit` | Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren. |
 | `wahlkampf-parteieigenschaft-bundeswahlausschuss` | Wahlkampfrecht Praxis: Parteieigenschaft und Beteiligungsanzeige vorbereiten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-ordner-und-sicherheit`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren.
+**Fokus:** Wahlkampfrecht Praxis: Ordner, Security und Deeskalation bei Wahlkampfterminen organisieren.
 
 # Ordner Und Sicherheit
 
@@ -83,7 +83,7 @@ Erzeuge: **Sicherheitsplan**. Wenn Informationen fehlen, stelle höchstens acht 
 
 ## 2. `wahlkampf-parteieigenschaft-bundeswahlausschuss`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Parteieigenschaft und Beteiligungsanzeige vorbereiten.
+**Fokus:** Wahlkampfrecht Praxis: Parteieigenschaft und Beteiligungsanzeige vorbereiten.
 
 # Parteieigenschaft Bundeswahlausschuss
 
@@ -136,7 +136,7 @@ Erzeuge: **Parteieigenschafts-Dossier**. Wenn Informationen fehlen, stelle höch
 
 ## 3. `wahlkampf-plakat-vandalismus-beweissicherung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplakaten organisieren.
+**Fokus:** Wahlkampfrecht Praxis: Beweissicherung bei beschaedigten Wahlplakaten organisieren.
 
 # Plakat Vandalismus Beweissicherung
 
@@ -189,7 +189,7 @@ Erzeuge: **Beweisprotokoll**. Wenn Informationen fehlen, stelle höchstens acht 
 
 ## 4. `wahlkampf-plakatierung-genehmigung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: kommunale Plakatierung und Sondernutzung rechtlich praktisch begleiten.
+**Fokus:** Wahlkampfrecht Praxis: kommunale Plakatierung und Sondernutzung rechtlich praktisch begleiten.
 
 # Plakatierung Genehmigung
 
@@ -250,7 +250,7 @@ Erzeuge: **Ordnungsamtsmail und Genehmigungslog**. Wenn Informationen fehlen, st
 
 ## 5. `wahlkampf-plakatstandorte-matrix`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Standortmatrix fuer Plakate mit Sichtbarkeit und Rechtssicherheit erstellen.
+**Fokus:** Wahlkampfrecht Praxis: Standortmatrix fuer Plakate mit Sichtbarkeit und Rechtssicherheit erstellen.
 
 # Plakatstandorte Matrix
 

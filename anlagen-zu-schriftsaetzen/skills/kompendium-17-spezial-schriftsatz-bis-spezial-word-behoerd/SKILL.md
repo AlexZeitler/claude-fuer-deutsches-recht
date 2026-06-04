@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-schriftsatz-bis-spezial-word-behoerd
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (spezial-schriftsatz-verhandlung-vergleich-und-eskalation, spezial-sortiert-risikoampel-und-gegenargumente, spezial-stempelt-internationaler-bezug-und-schnittstellen, spezial-word-behoerden-gericht-und-registerweg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schriftsatz Verhandlung Vergleich Und Eskalation, Sortiert Risikoampel Und Gegenargumente, Stempelt Internationaler Bezug Und Schnittstellen, Word Behoerden Gericht Und Registerweg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Schriftsatz Verhandlung Vergleich Und Eskalation bis Word Behoerden Gericht Und Registerweg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-schriftsatz-verhandlung-vergleich-und-eskalation` | Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-sortiert-risikoampel-und-gegenargumente` | Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-schriftsatz-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schriftsatz: Verhandlung, Vergleich und Eskalation im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schriftsatz: Verhandlung, Vergleich und Eskalation
 
@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-sortiert-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sortiert: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-stempelt-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Stempelt: Internationaler Bezug und Schnittstellen im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Stempelt: Internationaler Bezug und Schnittstellen im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Stempelt: Internationaler Bezug und Schnittstellen
 
@@ -155,7 +155,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-word-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Bereitet Word-, PDF- und Scan-Anlagen für Gerichts- oder Behördenwege vor: Konvertierung, Lesezeichen, PDF/A, Dateiname, Deckblatt.
+**Fokus:** Bereitet Word-, PDF- und Scan-Anlagen für Gerichts- oder Behördenwege vor: Konvertierung, Lesezeichen, PDF/A, Dateiname, Deckblatt.
 
 # Word/PDF-Umwandlung für Gericht und Behörden
 

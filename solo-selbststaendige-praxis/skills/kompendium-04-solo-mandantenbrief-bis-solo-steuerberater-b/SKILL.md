@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-solo-mandantenbrief-bis-solo-steuerberater-b
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 8 frühere Spezialskills (solo-mandantenbrief-in-einfach, solo-meeting-agenda, solo-ordnerstruktur, solo-plattformarbeit, solo-quellensteuer-ausland und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Mandantenbrief In Einfach, Solo Meeting Agenda, Solo Ordnerstruktur, Solo Plattformarbeit und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Mandantenbrief In Einfach bis Solo Steuerberater Briefing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-mandantenbrief-in-einfach` | Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-meeting-agenda` | Solo-Selbstständige: erstellt kurze Agenda für Kunde, Steuerberater oder Behörde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-mandantenbrief-in-einfach`
 
-**Frühere Beschreibung:** Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: übersetzt Behörden-/Steuer-/Kundenlage in normales Deutsch; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Übersetzt behörden-/steuer-/kundenlage in normales deutsch
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 2. `solo-meeting-agenda`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt kurze Agenda für Kunde, Steuerberater oder Behörde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt kurze Agenda für Kunde, Steuerberater oder Behörde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Erstellt kurze agenda für kunde
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 3. `solo-ordnerstruktur`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Drive/Cloud nach Steuern, Kunden, Verträgen, Belegen und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Drive/Cloud nach Steuern, Kunden, Verträgen, Belegen und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Ordnet drive/cloud nach steuern
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 4. `solo-plattformarbeit`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Plattformvorgaben, Algorithmussteuerung, Bewertungssysteme und Status; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Plattformvorgaben, Algorithmussteuerung, Bewertungssysteme und Status; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft plattformvorgaben
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 5. `solo-quellensteuer-ausland`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet W-8BEN, Ansässigkeitsbescheinigung und Doppelbesteuerung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Ordnet w-8ben
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 6. `solo-rechnung-pflichtangaben`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Rechnungsnummer, Leistungsdatum, Steuernummer, USt und Leistungsbeschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Rechnungsnummer, Leistungsdatum, Steuernummer, USt und Leistungsbeschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Prüft rechnungsnummer
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 7. `solo-regelbesteuerung-entscheidung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelbesteuerung mit Kundenstruktur und Vorsteuer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: vergleicht Kleinunternehmerstatus und Regelbesteuerung mit Kundenstruktur und Vorsteuer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Vergleicht kleinunternehmerstatus und regelbesteuerung mit kundenstruktur und vorsteuer
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 8. `solo-steuerberater-briefing`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Übergabepaket für Steuerberater ohne Belegchaos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Übergabepaket für Steuerberater ohne Belegchaos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Erstellt übergabepaket für steuerberater ohne belegchaos
 

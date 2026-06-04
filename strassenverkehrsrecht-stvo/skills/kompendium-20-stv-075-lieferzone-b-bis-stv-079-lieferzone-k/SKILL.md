@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-stv-075-lieferzone-b-bis-stv-079-lieferzone-k
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (stv-075-lieferzone-beweis-sichern, stv-077-lieferzone-eilrechtsschutz-planen, stv-078-lieferzone-behoerde-anschreiben, stv-079-lieferzone-karte-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 075 Lieferzone Beweis Sichern, Stv 077 Lieferzone Eilrechtsschutz Planen, Stv 078 Lieferzone Behoerde Anschreiben, Stv 079 Lieferzone Karte Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 075 Lieferzone Beweis Sichern bis Stv 079 Lieferzone Karte Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-075-lieferzone-beweis-sichern` | Straßenverkehrsrecht StVO: Lieferzone: Beweis sichern. Beweis sichern für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-077-lieferzone-eilrechtsschutz-planen` | Straßenverkehrsrecht StVO: Lieferzone: Eilrechtsschutz planen. Eilrechtsschutz planen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-075-lieferzone-beweis-sichern`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Beweis sichern. Beweis sichern für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Beweis sichern. Beweis sichern für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Beweis Sichern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-077-lieferzone-eilrechtsschutz-planen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Eilrechtsschutz planen. Eilrechtsschutz planen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Eilrechtsschutz planen. Eilrechtsschutz planen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Eilrechtsschutz Planen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-078-lieferzone-behoerde-anschreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Behörde anschreiben. Behörde anschreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Behörde anschreiben. Behörde anschreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Behoerde Anschreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-079-lieferzone-karte-bauen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Karte bauen. Karte bauen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Karte bauen. Karte bauen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Karte Bauen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-spezial-tagessaetze-bis-spezial-verteidiger
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (spezial-tagessaetze-schriftsatz-brief-und-memo-bausteine, spezial-verstaendigung-sonderfall-und-edge-case, spezial-verteidiger-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - strafbefehl-verteidiger
+# Arbeitsbereich - Tagessaetze Schriftsatz Brief Und Memo Bausteine, Verstaendigung Sonderfall Und Edge Case, Verteidiger Formular Portal Und Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-tagessaetze-schriftsatz-brief-und-memo-bausteine` | Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verstaendigung-sonderfall-und-edge-case` | Verstaendigung: Sonderfall und Edge-Case-Prüfung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-tagessaetze-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Tagessaetze: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -97,7 +97,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verstaendigung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Verstaendigung: Sonderfall und Edge-Case-Prüfung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verstaendigung: Sonderfall und Edge-Case-Prüfung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verstaendigung: Sonderfall und Edge-Case-Prüfung
 
@@ -139,7 +139,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verteidiger-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Verteidiger: Formular, Portal und Einreichungslogik im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verteidiger: Formular, Portal und Einreichungslogik im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verteidiger: Formular, Portal und Einreichungslogik
 

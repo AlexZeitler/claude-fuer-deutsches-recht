@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-technische-begriffe-bis-verfassungs-und-unio
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (technische-begriffe-neutralitaetscheck, teleologische-auslegung, topik-viehweg-vs-systemdenken, ueberpositives-recht-als-leerformel-check, verfassungs-und-unionsrechtskonforme-auslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Technische Begriffe Neutralitaetscheck, Teleologische Auslegung, Topik Viehweg Vs Systemdenken, Ueberpositives Recht Als Leerformel Check und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Technische Begriffe Neutralitaetscheck bis Verfassungs Und Unionsrechtskonforme Auslegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `technische-begriffe-neutralitaetscheck` | Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache. |
 | `teleologische-auslegung` | Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `technische-begriffe-neutralitaetscheck`
 
-**Frühere Beschreibung:** Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache.
+**Fokus:** Dieses Skill führt einen Neutralitätscheck für technische und fachsprachliche Begriffe in juristischen Argumentationen durch. Es zeigt, wie technische, wirtschaftliche oder wissenschaftliche Begriffe in rechtliche Tatbestandsmerkmale überführt werden, welche Neutralitätsrisiken bei der Übernahme von Fachterminologie bestehen und wie Anwälte sicherstellen, dass technische Begriffsverwendung das rechtliche Ergebnis nicht unbemerkt vorprogrammiert. Besonderes Gewicht liegt auf der methodischen Übersetzung von Fachsprache in Rechtssprache.
 
 # Technische Begriffe und Neutralitätscheck in der Rechtsanwendung
 
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 2. `teleologische-auslegung`
 
-**Frühere Beschreibung:** Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung.
+**Fokus:** Teleologische Auslegung im deutschen Zivilrecht. Sinn und Zweck der Norm (ratio legis). Geltungstheorie vs. Entstehungstheorie. Konkrete BGB-Beispiele zu Schutzzwecknormen (§§ 433 437 823 1004 1626). Verhaeltnis zur historischen Auslegung. Warum die teleologische Auslegung in der BGH-Praxis das staerkste Argument ist und wo ihre Grenzen liegen. Pruefraster Schutzzweck, Normzweck, Funktion, Wertentscheidung.
 
 # Teleologische Auslegung
 
@@ -235,7 +235,7 @@ Stand: Mai 2026.
 
 ## 3. `topik-viehweg-vs-systemdenken`
 
-**Frühere Beschreibung:** Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen fuer den Anwaltsschriftsatz.
+**Fokus:** Topik und Jurisprudenz nach Theodor Viehweg. Viehweg, Topik und Jurisprudenz 1953. Renaissance der Rhetorik in der Methodenlehre. Problem-Denken statt System-Denken. Topoi als Argumentationsmuster. Verhaeltnis zur Begriffsjurisprudenz und zur Wertungsjurisprudenz. Anwendung im Zivilrecht: Generalklauseln, Vertragsauslegung, Schiedsverfahren. Kritik (Canaris, Larenz) und Verteidigung. Praktischer Nutzen fuer den Anwaltsschriftsatz.
 
 # Topik nach Theodor Viehweg vs. Systemdenken
 
@@ -356,7 +356,7 @@ Stand: Mai 2026.
 
 ## 4. `ueberpositives-recht-als-leerformel-check`
 
-**Frühere Beschreibung:** Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie als Leerformeln ohne normative Substanz aufgedeckt werden müssen und wie man in der Praxis zwischen legitimer überpositiver Argumentation und Gerechtigkeitsrhetorik unterscheidet. Das Skill stärkt methodische Redlichkeit bei Fundamentalargumenten.
+**Fokus:** Dieses Skill prüft den argumentativen Einsatz von überpositivem Recht, Naturrecht und ungeschriebenen Verfassungsprinzipien auf ihre methodische Substanz und warnt vor deren Verwendung als inhaltsleere Leerformel. Es zeigt, wann Argumente aus überpositivem Recht methodisch zulässig sind, wann sie als Leerformeln ohne normative Substanz aufgedeckt werden müssen und wie man in der Praxis zwischen legitimer überpositiver Argumentation und Gerechtigkeitsrhetorik unterscheidet. Das Skill stärkt methodische Redlichkeit bei Fundamentalargumenten.
 
 # Überpositives Recht als Leerformel: Methodischer Check
 
@@ -448,7 +448,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `verfassungs-und-unionsrechtskonforme-auslegung`
 
-**Frühere Beschreibung:** Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster.
+**Fokus:** Verfassungs- und unionsrechtskonforme Auslegung im deutschen Zivilrecht. BVerfGE 7 198 Lueth-Drittwirkung der Grundrechte. EuGH Marleasing C-106/89 richtlinienkonforme Auslegung; EuGH von Colson C-14/83. Keine horizontale Direktwirkung von Richtlinien EuGH Marshall 152/84. Grenzen der konformen Auslegung (Wortlaut, contra legem). Konkrete Anwendung im BGB (§§ 138 242 305 ff. 312 ff. 651a ff.). Praezises Pruefraster.
 
 # Verfassungs- und unionsrechtskonforme Auslegung
 

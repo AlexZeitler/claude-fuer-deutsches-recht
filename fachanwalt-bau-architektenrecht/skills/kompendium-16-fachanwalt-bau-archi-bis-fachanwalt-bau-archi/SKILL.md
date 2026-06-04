@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-fachanwalt-bau-archi-bis-fachanwalt-bau-archi
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (fachanwalt-bau-architektenrecht-abnahme-verweigerung, fachanwalt-bau-architektenrecht-bauablauf-vbg, fachanwalt-bau-architektenrecht-bautraeger-insolvenz, fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bau Architektenrecht Abnahme Verweigerung, Bau Architektenrecht Bauablauf Vbg, Bau Architektenrecht Bautraeger Insolvenz, Bau Architektenrecht Hoai Honorar Mindestsaetze; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bau Architektenrecht Abnahme Verweigerung bis Bau Architektenrecht Hoai Honorar Mindestsaetze
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-bau-architektenrecht-abnahme-verweigerung` | Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt. |
 | `fachanwalt-bau-architektenrecht-bauablauf-vbg` | Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-abnahme-verweigerung`
 
-**Frühere Beschreibung:** Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt.
+**Fokus:** Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt.
 
 # Abnahme-Verweigerung wegen Mängeln
 
@@ -181,7 +181,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-bau-architektenrecht-bauablauf-vbg`
 
-**Frühere Beschreibung:** Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung.
+**Fokus:** Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B prüfen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Prüfraster: Behinderungsanzeige, Kausalität, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegründung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung.
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung
 
@@ -514,7 +514,7 @@ Anlagen: Kalkulation, Bautagebücher, SOLL/IST-Vergleich
 
 ## 3. `fachanwalt-bau-architektenrecht-bautraeger-insolvenz`
 
-**Frühere Beschreibung:** Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung.
+**Fokus:** Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung.
 
 # Bauträger-Insolvenz — Erwerber-Schutz
 
@@ -700,7 +700,7 @@ nachweisbar. Bestehende Zitate IX ZR 109/04, IX ZR 235/12, IX ZR 285/14 bleiben.
 
 ## 4. `fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze`
 
-**Frühere Beschreibung:** HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung.
+**Fokus:** HOAI-Honorar für Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung prüfen. Normen: HOAI, §§ 650p ff. BGB. Prüfraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung.
 
 # HOAI-Honorar (nach EuGH-Urteil)
 

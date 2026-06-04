@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-chn-043-trade-secret-bis-chn-046-technology-t
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (chn-043-trade-secret-protection, chn-044-nda-nnn-agreement-china, chn-045-tooling-and-molds-ownership, chn-046-technology-transfer-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 043 Trade Secret Protection, Chn 044 Nda Nnn Agreement China, Chn 045 Tooling And Molds Ownership, Chn 046 Technology Transfer Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 043 Trade Secret Protection bis Chn 046 Technology Transfer Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-043-trade-secret-protection` | Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll. |
 | `chn-044-nda-nnn-agreement-china` | NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-043-trade-secret-protection`
 
-**Frühere Beschreibung:** Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll.
+**Fokus:** Geschäftsgeheimnisschutz in China-Operationen: Chinesisches UWG (Anti-Unfair Competition Law) und Trade-Secret-Definitionen, GeschGehG (DE) §§ 2 ff. im internationalen Kontext, Schutzmaßnahmen vor Mitarbeiterübertritt, NDA/NNN-Verträge, Digital-Forensics bei Verdacht, Strafverfolgung CN. Output: Trade-Secret-Schutzkonzept und Sicherheitsprotokoll.
 
 # Geschäftsgeheimnisschutz China: GeschGehG und CN-Recht
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-044-nda-nnn-agreement-china`
 
-**Frühere Beschreibung:** NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen.
+**Fokus:** NDA und NNN-Vereinbarungen (Non-Disclosure/Non-Use/Non-Circumvention) für China-Geschaeft: Unterschied Standard-NDA vs. CN-NNN, Vertragsgestaltung für chinesisches Recht, Gerichtsstand Arbitration vs. CN-Gericht, Vertragspönalen und Durchsetzbarkeit, Verhältnis zu deutschem GeschGehG. Output: NNN-Vertragsmuster mit Kommentierung und Durchsetzungshinweisen.
 
 # NDA und NNN-Vereinbarungen China: Gestaltung und Durchsetzung
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-045-tooling-and-molds-ownership`
 
-**Frühere Beschreibung:** Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie.
+**Fokus:** Eigentumsrechte an Werkzeugen und Formen (Tooling/Molds) bei chinesischen Auftragsfertigern: Vertragsgestaltung Eigentumsübertragung, Kennzeichnungspflichten, Herausgabeansprüche, chinesisches Sachenrecht (Wuquan Fa), Insolvenzfestigkeit, Rückholung bei Streit. Output: Tooling-Ownership-Vertragsmuster und Durchsetzungsstrategie.
 
 # Tooling und Molds: Eigentumsrechte bei chinesischen Fertigern
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-046-technology-transfer-risk`
 
-**Frühere Beschreibung:** Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan.
+**Fokus:** Technologietransfer-Risiken im China-Geschaeft: Zwangstransfer in JV-Strukturen (aufgehoben durch FIL 2020, aber de-facto-Druck), BAFA-Genehmigungspflicht für Technologie-Export, chinesisches Technology Import/Export Regulation (TIER), Know-how-Schutz durch Stückelung, IP-Box-Strukturen. Output: Technologietransfer-Risikoanalyse und Schutzmaßnahmenplan.
 
 # Technologietransfer China: Risiken und Schutzmaßnahmen
 

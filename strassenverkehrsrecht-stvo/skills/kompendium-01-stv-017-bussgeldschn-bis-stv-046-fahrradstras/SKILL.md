@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-stv-017-bussgeldschn-bis-stv-046-fahrradstras
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (stv-017-bussgeldschnittstelle-owig, stv-026-haltverbot-bussgeld-abgrenzen, stv-036-tempo-30-bussgeld-abgrenzen, stv-046-fahrradstrasse-bussgeld-abgrenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 017 Bussgeldschnittstelle Owig, Stv 026 Haltverbot Bussgeld Abgrenzen, Stv 036 Tempo 30 Bussgeld Abgrenzen, Stv 046 Fahrradstrasse Bussgeld Abgrenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 017 Bussgeldschnittstelle Owig bis Stv 046 Fahrradstrasse Bussgeld Abgrenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-017-bussgeldschnittstelle-owig` | Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `stv-026-haltverbot-bussgeld-abgrenzen` | Straßenverkehrsrecht StVO: Haltverbot: Bußgeld abgrenzen. Bußgeld abgrenzen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-017-bussgeldschnittstelle-owig`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Bußgeldschnittstelle OWiG. Bußgeldschnittstelle OWiG im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bussgeldschnittstelle Owig
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-026-haltverbot-bussgeld-abgrenzen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Bußgeld abgrenzen. Bußgeld abgrenzen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Bußgeld abgrenzen. Bußgeld abgrenzen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Bussgeld Abgrenzen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-036-tempo-30-bussgeld-abgrenzen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Bußgeld abgrenzen. Bußgeld abgrenzen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Bußgeld abgrenzen. Bußgeld abgrenzen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Bussgeld Abgrenzen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-046-fahrradstrasse-bussgeld-abgrenzen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrradstraße: Bußgeld abgrenzen. Bußgeld abgrenzen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrradstraße: Bußgeld abgrenzen. Bußgeld abgrenzen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fahrradstrasse Bussgeld Abgrenzen
 

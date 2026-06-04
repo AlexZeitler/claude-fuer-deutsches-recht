@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-mehrsprachige-erklae-bis-nachreichen-statt-au
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (mehrsprachige-erklaerung, meldebehoerde, minderjaehrige-und-eltern, nachreichen-statt-ausplaudern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mehrsprachige Erklaerung, Meldebehoerde, Minderjaehrige Und Eltern, Nachreichen Statt Ausplaudern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Mehrsprachige Erklaerung bis Nachreichen Statt Ausplaudern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mehrsprachige-erklaerung` | Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache. |
 | `meldebehoerde` | Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mehrsprachige-erklaerung`
 
-**Frühere Beschreibung:** Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache.
+**Fokus:** Erzeugt zweisprachige Erklärung: einfacher deutscher Kerntext plus Übersetzung/Glossar in gewünschter Arbeitssprache.
 
 # Mehrsprachige Erklärung
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `meldebehoerde`
 
-**Frühere Beschreibung:** Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen.
+**Fokus:** Hilft bei Anmeldung, Ummeldung, Auskunftssperre, Meldebescheinigung, Bußgeldandrohung und Nachweisen.
 
 # Meldebehörde
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `minderjaehrige-und-eltern`
 
-**Frühere Beschreibung:** Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht.
+**Fokus:** Erklärt Elternrolle, Sorgeberechtigung, Vertretung, Anhörung Kind, Schule/Jugendamt/Familiengericht.
 
 # Minderjährige und Eltern
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `nachreichen-statt-ausplaudern`
 
-**Frühere Beschreibung:** Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage.
+**Fokus:** Formuliert Nachreichungsankündigung und verhindert spontane unvollständige Antworten bei unklarer Aktenlage.
 
 # Nachreichen statt Ausplaudern
 

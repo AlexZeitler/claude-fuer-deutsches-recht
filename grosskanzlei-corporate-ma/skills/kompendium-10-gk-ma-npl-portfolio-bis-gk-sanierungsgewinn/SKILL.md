@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-gk-ma-npl-portfolio-bis-gk-sanierungsgewinn
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 10; bündelt 7 frühere Spezialskills (gk-ma-npl-portfolio-und-loan-to-own, gk-ma-schuldschein-darlehen-transfer, gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma, gk-sanierungsgewinn-bmf-ankoppelung-und-strategie, gk-sanierungsgewinn-eu-beihilfe-und-altmark und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gk Ma Npl Portfolio Und Loan To Own, Gk Ma Schuldschein Darlehen Transfer, Gk Sanierungsgewinn 3a Estg Praxis Fuer Corporate Ma, Gk Sanierungsgewinn Bmf Ankoppelung Und Strategie und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Gk Ma Npl Portfolio Und Loan To Own bis Gk Sanierungsgewinn Im Asset Deal Vs Share Deal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gk-ma-npl-portfolio-und-loan-to-own` | Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie. |
 | `gk-ma-schuldschein-darlehen-transfer` | Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gk-ma-npl-portfolio-und-loan-to-own`
 
-**Frühere Beschreibung:** Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie.
+**Fokus:** Strukturiert NPL-Portfoliokauf, distressed secondary loan trade, enforcement und Debt-Equity-Strategie.
 
 # Big Law M&A: NPL Portfolio und Loan-to-own
 
@@ -96,7 +96,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `gk-ma-schuldschein-darlehen-transfer`
 
-**Frühere Beschreibung:** Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen.
+**Fokus:** Begleitet Übertragung von Schuldscheindarlehen in M&A, Refinanzierung, Distressed Debt und Portfoliotransaktionen.
 
 # Big Law M&A: Schuldschein Transfer
 
@@ -160,7 +160,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `gk-sanierungsgewinn-3a-estg-praxis-fuer-corporate-ma`
 
-**Frühere Beschreibung:** Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreihenfolge nach § 3a Abs. 3 EStG und die Schnittstellen zu Restrukturierungsdokumenten. Liefert Prüfraster, Mustertexte für Sanierungsabreden und Verhandlungsleitlinien. Quellen Stand 06/2026.
+**Fokus:** Praxisleitfaden zu § 3a EStG für das Corporate-/M&A-Team einer Großkanzlei. Erklärt die vier Tatbestandsmerkmale (Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungseignung des Schulderlasses, Sanierungsabsicht der Gläubiger) im Transaktionskontext, die Folgen der zwingenden Verrechnungsreihenfolge nach § 3a Abs. 3 EStG und die Schnittstellen zu Restrukturierungsdokumenten. Liefert Prüfraster, Mustertexte für Sanierungsabreden und Verhandlungsleitlinien. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – § 3a EStG Praxis für Corporate/M&A
 
@@ -305,7 +305,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `gk-sanierungsgewinn-bmf-ankoppelung-und-strategie`
 
-**Frühere Beschreibung:** BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026.
+**Fokus:** BMF-Ankoppelung und strategische Auseinandersetzung mit den Verwaltungsanweisungen zu § 3a EStG. Analysiert das BMF-Schreiben vom 27.04.2017 und nachfolgende Verlautbarungen sowie die Wirkungen des Wachstumschancengesetzes und weiterer Gesetzgebungsvorhaben mit Sanierungsbezug. Liefert Verwaltungsanweisungs-Synopse, Strategie-Entscheidungsraster und Empfehlung für die Mandatsführung. Adressat ist das Großkanzlei-Team in komplexen Sanierungsmandaten mit Verwaltungsschnittstellen. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – BMF-Ankoppelung und Strategie
 
@@ -459,7 +459,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `gk-sanierungsgewinn-eu-beihilfe-und-altmark`
 
-**Frühere Beschreibung:** EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-Marker und Strategie für notifizierungspflichtige Sanierungen. Adressat ist das Großkanzlei-Team in Sanierungsmandaten mit öffentlich-rechtlichem Einschlag oder staatlicher Beteiligung. Quellen Stand 06/2026.
+**Fokus:** EU-beihilferechtliche Prüfung von Sanierungsmaßnahmen nach Art. 107 AEUV. Behandelt die Sanierungsklausel § 8c Abs. 1a KStG als Beihilfegegenstand, die Anwendung der Altmark-Trans-Kriterien, die De-minimis-Verordnung und das Notifizierungsverfahren bei der Kommission. Liefert Prüfraster, Risiko-Marker und Strategie für notifizierungspflichtige Sanierungen. Adressat ist das Großkanzlei-Team in Sanierungsmandaten mit öffentlich-rechtlichem Einschlag oder staatlicher Beteiligung. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – EU-Beihilfe und Altmark
 
@@ -620,7 +620,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `gk-sanierungsgewinn-forderungsverzicht-vs-mantelkauf-8c-kstg`
 
-**Frühere Beschreibung:** Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026.
+**Fokus:** Konkurrenz und Wechselwirkung von Forderungsverzicht (§ 3a EStG) und schädlichem Beteiligungserwerb (§ 8c KStG). Beschreibt die fatale Konstellation, in der eine Sanierung mit Anteilseignerwechsel den Verlustvortrag vor seinem Einsatz im Sanierungsertrag zerstört. Liefert Konkurrenzanalyse, Vermeidungsstrategien, Reihenfolge-Optimierung und § 8d KStG als Rettungsanker. Adressat ist das Großkanzlei-Team bei kombinierten Restrukturierungs- und Investoren-Transaktionen. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Forderungsverzicht vs. Mantelkauf § 8c KStG
 
@@ -796,7 +796,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `gk-sanierungsgewinn-im-asset-deal-vs-share-deal`
 
-**Frühere Beschreibung:** Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matrix und SPA-Mustertexte für beide Varianten. Adressat ist das Großkanzlei-Team in der Strukturentscheidung. Quellen Stand 06/2026.
+**Fokus:** Strukturvergleich Asset Deal vs. Share Deal im Distressed-M&A mit Sanierungsgewinn-Bezug. Vergleicht Verlustvortrag-Schicksal, Anwendbarkeit § 3a EStG, § 8c KStG-Effekt, übertragende Sanierung nach §§ 163 InsO, § 613a BGB-Wirkung und Tax-Strukturierung. Liefert Vergleichsraster, Strukturwahl-Matrix und SPA-Mustertexte für beide Varianten. Adressat ist das Großkanzlei-Team in der Strukturentscheidung. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Im Asset Deal vs. Share Deal
 

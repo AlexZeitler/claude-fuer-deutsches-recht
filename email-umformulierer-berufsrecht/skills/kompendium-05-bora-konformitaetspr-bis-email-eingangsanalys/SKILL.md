@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bora-konformitaetspr-bis-email-eingangsanalys
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bora-konformitaetspruefung, brao-konformitaetspruefung, email-eingangsanalyse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Bora Konformitaetspruefung, Brao Konformitaetspruefung, Email Eingangsanalyse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bora-konformitaetspruefung` | E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung). |
 | `brao-konformitaetspruefung` | E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bora-konformitaetspruefung`
 
-**Frühere Beschreibung:** E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung).
+**Fokus:** E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung).
 
 # BORA-Konformitätsprüfung
 
@@ -100,7 +100,7 @@ Der Skill gibt aus: (1) Identifizierte BORA-Risikostellen mit Zitat. (2) Einschl
 
 ## 2. `brao-konformitaetspruefung`
 
-**Frühere Beschreibung:** E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung).
+**Fokus:** E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung).
 
 # BRAO-Konformitätsprüfung
 
@@ -155,7 +155,7 @@ Der Skill gibt aus: (1) Liste problematischer Textstellen mit Zitat. (2) Einordn
 
 ## 3. `email-eingangsanalyse`
 
-**Frühere Beschreibung:** Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz).
+**Fokus:** Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz).
 
 # E-Mail-Eingangsanalyse
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-defensive-drafting-f-bis-deutscher-kanzleisti
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (defensive-drafting-fallen-erkennen, deutscher-kanzleistil-kalibrieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Defensive Drafting Fallen Erkennen, Deutscher Kanzleistil Kalibrieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Defensive Drafting Fallen Erkennen, Deutscher Kanzleistil Kalibrieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `defensive-drafting-fallen-erkennen` | Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen. |
 | `deutscher-kanzleistil-kalibrieren` | Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `defensive-drafting-fallen-erkennen`
 
-**Frühere Beschreibung:** Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen.
+**Fokus:** Defensives Drafting beim Review fremder Entwuerfe. Erkennt die zwoelf haeufigsten Fallen: kaschierte Haftungsfreistellung, verschobene Beweislast, einseitiger Gerichtsstand, unfaire Aenderungsvorbehalte, kurze Verjaehrungsverkuerzung, Nachhaftung der Geschaeftsfuehrung, Lock-in-Mechanismen Auto-Renewal, Schiedsklauseln mit Kostenrisiko, Closing-Bedingungen unter Gegnerkontrolle, Service-Level ohne Sanktion, Audit-Rechte ohne Reziprozitaet, Sprachklausel und Gerichtsstandsklausel divergierend. Mit Beispielklauseln, Roten-Flaggen-Wortliste und Verteidigungsformulierungen.
 
 # Defensive Drafting und Fallen-Erkennung
 
@@ -207,7 +207,7 @@ Er ergaenzt `agb-konforme-klauseln-305-310-bgb` (AGB-Inhaltskontrolle) und `haft
 
 ## 2. `deutscher-kanzleistil-kalibrieren`
 
-**Frühere Beschreibung:** Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register.
+**Fokus:** Kalibriert juristische Texte auf den passenden deutschen Kanzleistil: Frankfurter Großkanzlei, Boutique, Kleinkanzlei, Inhouse, Gericht oder Behörde. Erstellt ein Stilprofil mit Ton, Satzlänge, Gliederung, Anrede, Risikoniveau, Schärfegrad und No-Go-Formulierungen und überarbeitet Beispielpassagen in diesem Register.
 
 # Deutscher Kanzleistil Kalibrieren
 

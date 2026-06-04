@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-bericht-mutterschutz-bis-bericht-produktsiche
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (bericht-mutterschutz-gefaehrdungsbeurteilung, bericht-nis2-bsi-incident, bericht-produktsicherheit-rueckruf-market) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Mutterschutz Gefaehrdungsbeurteilung, Bericht Nis2 Bsi Incident, Bericht Produktsicherheit Rueckruf Market
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-mutterschutz-gefaehrdungsbeurteilung` | Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation. |
 | `bericht-nis2-bsi-incident` | IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-mutterschutz-gefaehrdungsbeurteilung`
 
-**Frühere Beschreibung:** Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation.
+**Fokus:** Mutterschutz: Gefährdungsbeurteilung, Meldung an Aufsicht, Schutzmaßnahmen und Dokumentation.
 
 # Mutterschutz Gefährdungsbeurteilung und Meldung
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-nis2-bsi-incident`
 
-**Frühere Beschreibung:** IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung.
+**Fokus:** IT-Sicherheitsmeldungen: NIS2/BSI, Geschäftsleitung, Incident-Kategorien, Fristen, Nachbericht und Beweissicherung.
 
 # NIS2/BSI Incident Reporting
 
@@ -104,7 +104,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-produktsicherheit-rueckruf-market`
 
-**Frühere Beschreibung:** Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation.
+**Fokus:** Produktsicherheitsrecht: gefährliches Produkt, Rückruf, Safety Gate, Marktüberwachung, Händler-/Herstellerrolle und Dokumentation.
 
 # Produktsicherheit und Marktüberwachung melden
 

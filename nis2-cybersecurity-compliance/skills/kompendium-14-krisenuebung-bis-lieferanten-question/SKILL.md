@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-krisenuebung-bis-lieferanten-question
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (krisenuebung, kritis-bsig-schnittstelle, leitungserklaerung-cyber-attestation, lieferanten-questionnaire) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Krisenuebung, Kritis Bsig Schnittstelle, Leitungserklaerung Cyber Attestation, Lieferanten Questionnaire; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Krisenuebung bis Lieferanten Questionnaire
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krisenuebung` | Prüft technische Krisenübung mit Restore und Kommunikationsausfall. |
 | `kritis-bsig-schnittstelle` | Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krisenuebung`
 
-**Frühere Beschreibung:** Prüft technische Krisenübung mit Restore und Kommunikationsausfall.
+**Fokus:** Prüft technische Krisenübung mit Restore und Kommunikationsausfall.
 
 # Krisenuebung
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `kritis-bsig-schnittstelle`
 
-**Frühere Beschreibung:** Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten.
+**Fokus:** Verknüpft KRITIS-Prüfung, BSIG 2025 und NIS-2-Pflichten.
 
 # Kritis Bsig Schnittstelle
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `leitungserklaerung-cyber-attestation`
 
-**Frühere Beschreibung:** Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit.
+**Fokus:** Erstellt eine belastbare Leitungserklärung zur Cyber-Compliance mit Scope, Quellen, Restrisiken, Budgetentscheidungen, Nachweisen und klaren Vorbehalten gegen Scheinsicherheit.
 
 # Leitungserklärung Cyber Attestation
 
@@ -162,7 +162,7 @@ Erzeuge eine zweistufige Ausgabe: erst eine rote Vorprüfung der nicht unterschr
 
 ## 4. `lieferanten-questionnaire`
 
-**Frühere Beschreibung:** Erstellt Security-Fragebögen, die nicht nur Papier produzieren.
+**Fokus:** Erstellt Security-Fragebögen, die nicht nur Papier produzieren.
 
 # Lieferanten Questionnaire
 

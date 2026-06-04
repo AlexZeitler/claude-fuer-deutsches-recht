@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-collective-work-cont-bis-copyright-bankruptcy
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (collective-work-contributions-periodicals, compilations-derivative-works-103, copying-substantial-similarity, copyright-bankruptcy-365n) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Collective Work Contributions Periodicals, Compilations Derivative Works 103, Copying Substantial Similarity, Copyright Bankruptcy 365n; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Collective Work Contributions Periodicals bis Copyright Bankruptcy 365n
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `collective-work-contributions-periodicals` | Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten. |
 | `compilations-derivative-works-103` | Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `collective-work-contributions-periodicals`
 
-**Frühere Beschreibung:** Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten.
+**Fokus:** Sammelwerke, Beiträge, Periodika und Herausgeberbände: kollektiven Schutz, Einzelbeiträge, Fremdbeiträge und Gruppenoptionen sauber auseinanderhalten.
 
 # Collective Work, Beiträge und Periodika
 
@@ -73,7 +73,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `compilations-derivative-works-103`
 
-**Frühere Beschreibung:** Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103.
+**Fokus:** Prueft Sammelwerke, Datenzusammenstellungen, Bearbeitungen, Übersetzungen und abgeleitete Werke nach 17 USC 103.
 
 # Compilations und Derivative Works
 
@@ -141,7 +141,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `copying-substantial-similarity`
 
-**Frühere Beschreibung:** Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor.
+**Fokus:** Bereitet US-Infringement-Prüfung zu Zugang, tatsächlicher Kopie, protectable expression und substantial similarity vor.
 
 # Copying und Substantial Similarity
 
@@ -209,7 +209,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `copyright-bankruptcy-365n`
 
-**Frühere Beschreibung:** Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues.
+**Fokus:** Prueft Copyright-Lizenzen in US-Bankruptcy, rejection, licensee election, source code and IP survival issues.
 
 # Copyright Licenses in Bankruptcy § 365(n)
 

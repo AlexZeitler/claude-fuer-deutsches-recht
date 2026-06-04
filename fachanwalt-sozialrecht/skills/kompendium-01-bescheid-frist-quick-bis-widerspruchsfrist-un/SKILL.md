@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-bescheid-frist-quick-bis-widerspruchsfrist-un
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (bescheid-frist-quick-check, fristenbuch-sozialrecht, laienhilfe-fristenkalender, widerspruchsfrist-und-zustellung-sgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bescheid Frist Quick Check, Fristenbuch Sozialrecht, Laienhilfe Fristenkalender, Widerspruchsfrist Und Zustellung Sgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - fachanwalt-sozialrecht
+# Arbeitsbereich - Bescheid Frist Quick Check bis Widerspruchsfrist Und Zustellung Sgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bescheid-frist-quick-check` | 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen. |
 | `fristenbuch-sozialrecht` | Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bescheid-frist-quick-check`
 
-**Frühere Beschreibung:** 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen.
+**Fokus:** 60-Sekunden-Sofortprüfung der Frist eines sozialrechtlichen Bescheids. Eingabe Datum der Bekanntgabe (Zugang) und Datum des Bescheids und Status der Rechtsbehelfsbelehrung. Berechnung Widerspruchsfrist § 84 SGG ein Monat ab Bekanntgabe. Bei fehlender oder unrichtiger Rechtsbehelfsbelehrung ein Jahr ab Bekanntgabe nach § 66 Abs. 2 SGG. Bekanntgabe-Fiktion bei einfachem Brief vier Tage ab Aufgabe zur Post § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Endet mit Ampel rot (verstrichen) gelb (knapp unter zwei Wochen) gruen (komfortabel) plus Frist-Datum und Vorfrist-Datum. Vorschalt-Skill für alles weitere. Prüfung Wiedereinsetzung § 67 SGG bei roter Ampel. Prüfung § 44 SGB X Überprüfungsantrag wenn Wiedereinsetzung ausgeschlossen.
 
 # Frist-Quick-Check
 
@@ -138,7 +138,7 @@ Wenn nicht alle erfüllt → kein Wiedereinsetzungsantrag, stattdessen `§ 44 SG
 
 ## 2. `fristenbuch-sozialrecht`
 
-**Frühere Beschreibung:** Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung).
+**Fokus:** Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung).
 
 # Fristenbuch Sozialrecht
 
@@ -245,7 +245,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `laienhilfe-fristenkalender`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Fristenkalender. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Fristenkalender
 
@@ -327,7 +327,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `widerspruchsfrist-und-zustellung-sgb`
 
-**Frühere Beschreibung:** Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Prüfraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untätigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Prüfprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht.
+**Fokus:** Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Prüfraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untätigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Prüfprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht.
 
 # Widerspruchsfrist und Zustellung im Sozialrecht
 

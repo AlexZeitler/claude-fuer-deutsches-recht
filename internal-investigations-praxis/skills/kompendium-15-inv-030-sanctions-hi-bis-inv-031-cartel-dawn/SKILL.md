@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-inv-030-sanctions-hi-bis-inv-031-cartel-dawn
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (inv-030-sanctions-hit, inv-031-cartel-dawn-raid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - internal-investigations-praxis
+# Arbeitsbereich - Inv 030 Sanctions Hit, Inv 031 Cartel Dawn Raid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-030-sanctions-hit` | Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie. |
 | `inv-031-cartel-dawn-raid` | Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-030-sanctions-hit`
 
-**Frühere Beschreibung:** Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie.
+**Fokus:** Reagiert auf einen Sanktionstreffer – EU-Sanktionsverordnungen, OFAC, Einfrierung, Meldepflichten, Strafrisiken und Behördenstrategie.
 
 # Sanktionstreffer – Sofortmaßnahmen und Behördenstrategie
 
@@ -111,7 +111,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-031-cartel-dawn-raid`
 
-**Frühere Beschreibung:** Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag.
+**Fokus:** Behandelt Kartellrechtsdurchsuchungen durch Bundeskartellamt oder EU-Kommission – Mitwirkungspflichten, Leniency, Privilege, Kronzeugenantrag.
 
 # Kartell-Dawn-Raid und Leniency
 

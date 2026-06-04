@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-btm-006-btm-rezept-u-bis-btm-009-therapie-sta
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (btm-006-btm-rezept-und-btmvv, btm-007-arztpraxis-compliance, btm-008-apotheke-btm-dokumentation, btm-009-therapie-statt-strafe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 006 Btm Rezept Und Btmvv, Btm 007 Arztpraxis Compliance, Btm 008 Apotheke Btm Dokumentation, Btm 009 Therapie Statt Strafe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 006 Btm Rezept Und Btmvv bis Btm 009 Therapie Statt Strafe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-006-btm-rezept-und-btmvv` | Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-007-arztpraxis-compliance` | Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-006-btm-rezept-und-btmvv`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: BtM-Rezept und BtMVV. BtM-Rezept und BtMVV im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Btm Rezept Und Btmvv
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-007-arztpraxis-compliance`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Arztpraxis Compliance. Arztpraxis Compliance im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Arztpraxis Compliance
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-008-apotheke-btm-dokumentation`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Apotheke BtM-Dokumentation. Apotheke BtM-Dokumentation im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Apotheke BtM-Dokumentation. Apotheke BtM-Dokumentation im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Apotheke Btm Dokumentation
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-009-therapie-statt-strafe`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Therapie statt Strafe. Therapie statt Strafe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Therapie statt Strafe. Therapie statt Strafe im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Therapie Statt Strafe
 

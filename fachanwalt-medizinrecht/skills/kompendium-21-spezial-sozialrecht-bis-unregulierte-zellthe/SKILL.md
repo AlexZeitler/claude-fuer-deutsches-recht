@@ -1,37 +1,36 @@
 ---
 name: kompendium-21-spezial-sozialrecht-bis-unregulierte-zellthe
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 21; bündelt 6 frühere Spezialskills (spezial-sozialrecht-formular-portal-und-einreichung, sprachbarriere-einwilligung, sterilgut-medizinprodukt, transplantation-allocation, tumorboard-onkologiepflicht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Spezial Sozialrecht Formular Portal Und Einreichung, Sprachbarriere Einwilligung, Sterilgut Medizinprodukt, Transplantation Allocation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fachanwalt-medizinrecht
+# Arbeitsbereich - Spezial Sozialrecht Formular Portal Und Einreichung bis Transplantation Allocation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-sozialrecht-formular-portal-und-einreichung` | Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `sprachbarriere-einwilligung` | Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `sterilgut-medizinprodukt` | Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `transplantation-allocation` | Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `tumorboard-onkologiepflicht` | Tumorboard und Onkologiepflicht: moderner Medizinrechts-Skill für Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `unregulierte-zelltherapie-abwehr` | Unregulierte Zelltherapie abwehren: moderner Medizinrechts-Skill für Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-sozialrecht-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sozialrecht: Formular, Portal und Einreichungslogik im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+
 
 # Sozialrecht: Formular, Portal und Einreichungslogik
 
@@ -72,7 +71,8 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `sprachbarriere-einwilligung`
 
-**Frühere Beschreibung:** Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Sprachbarriere Einwilligung: moderner Medizinrechts-Skill für Dolmetscher, fremdsprachige Aufklärung, Angehörige, Dokumentation und Beweislast. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Sprachbarriere Einwilligung
 
@@ -130,7 +130,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `sterilgut-medizinprodukt`
 
-**Frühere Beschreibung:** Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Sterilgut und Medizinprodukt: moderner Medizinrechts-Skill für Aufbereitungsfehler, Sterilgutdokumentation, Herstellerangaben und Vorkommnismeldung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Sterilgut und Medizinprodukt
 
@@ -188,7 +189,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `transplantation-allocation`
 
-**Frühere Beschreibung:** Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Transplantation und Allocation: moderner Medizinrechts-Skill für Warteliste, Meldedaten, Vermittlung, Aufklärung und Compliance bei Transplantationszentren. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Transplantation und Allocation
 
@@ -241,121 +243,3 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 ## Nützliche Startquellen
 
 - Bundesärztekammer Richtlinien: https://www.bundesaerztekammer.de/
-
-## 5. `tumorboard-onkologiepflicht`
-
-**Frühere Beschreibung:** Tumorboard und Onkologiepflicht: moderner Medizinrechts-Skill für Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# Tumorboard und Onkologiepflicht
-
-## Fachkern: Tumorboard und Onkologiepflicht
-- **Spezialgegenstand:** Tumorboard und Onkologiepflicht wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** Tumorboard-Dokumentation, Leitlinienabweichung, molekulare Diagnostik und Therapieoptionen.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** §§ 630a ff. BGB, SGB V, Leitlinien live prüfen, GenDG bei Diagnostik und Aufklärung.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- GenDG: https://www.gesetze-im-internet.de/gendg/BJNR252900009.html
-- BGB Behandlungsvertrag: https://www.gesetze-im-internet.de/bgb/__630a.html
-- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
-- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
-- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
-
-## 6. `unregulierte-zelltherapie-abwehr`
-
-**Frühere Beschreibung:** Unregulierte Zelltherapie abwehren: moderner Medizinrechts-Skill für Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# Unregulierte Zelltherapie abwehren
-
-## Fachkern: Unregulierte Zelltherapie abwehren
-- **Spezialgegenstand:** Unregulierte Zelltherapie abwehren wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** Online beworbene Stammzell-/Dendriten-/Exosomenangebote, Behördenweg, Unterlassung und Patientenschutz.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** EMA/HMA-Warnung 2025, AMG, HWG, UWG, Berufsrecht, Straf-/Ordnungswidrigkeitenrisiken.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- EMA Advanced therapy medicinal products overview: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
-- EMA legal framework for advanced therapies: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/legal-framework-advanced-therapies
-- Paul-Ehrlich-Institut ATMP/Gentherapie: https://www.pei.de/

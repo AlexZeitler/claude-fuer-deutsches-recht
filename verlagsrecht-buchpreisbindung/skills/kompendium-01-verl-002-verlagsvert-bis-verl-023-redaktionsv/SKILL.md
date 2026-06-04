@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-verl-002-verlagsvert-bis-verl-023-redaktionsv
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru, verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 002 Verlagsvertrag Hauptpflichten Rechteuebertragung Und Ru, Verl 023 Redaktionsvertrag Freelancer Und Arbeitnehmer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru` | Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen. |
 | `verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer` | Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-002-verlagsvertrag-hauptpflichten-rechteuebertragung-und-ru`
 
-**Frühere Beschreibung:** Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen.
+**Fokus:** Verlagsrecht: Hauptpflichten aus dem Verlagsvertrag, Rechteübertragung nach UrhG §§ 31 ff. und VerlG sowie Rückrufrechte nach VerlG §§ 7–8, UrhG §§ 41–42 systematisch prüfen.
 
 # Verl-002 · Verlagsvertrag: Hauptpflichten, Rechteübertragung, Rückruf
 
@@ -132,7 +132,7 @@ Dieser Skill analysiert den Verlagsvertrag nach seinen **synallagmatischen Haupt
 
 ## 2. `verl-023-redaktionsvertrag-freelancer-und-arbeitnehmer`
 
-**Frühere Beschreibung:** Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung.
+**Fokus:** Verlagsrecht: Redaktionsverträge mit Freelancern und Arbeitnehmern — Abgrenzung Werkvertrag, Dienstvertrag, Arbeitsverhältnis; Scheinwerkvertrag, Urheberrecht und Sozialversicherung.
 
 # Verl-023 · Redaktionsvertrag, Freelancer und Arbeitnehmer
 

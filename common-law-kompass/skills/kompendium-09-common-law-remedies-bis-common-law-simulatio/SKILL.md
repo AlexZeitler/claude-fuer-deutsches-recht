@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-common-law-remedies-bis-common-law-simulatio
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (common-law-remedies-damages-equity, common-law-representations-warranties-covenants, common-law-simulation-negotiation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - common-law-kompass
+# Arbeitsbereich - Common Law Remedies Damages Equity, Common Law Representations Warranties Covenants, Common Law Simulation Negotiation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-remedies-damages-equity` | Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess). |
 | `common-law-representations-warranties-covenants` | Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikomatrix. Abgrenzung zu common-law-ma-commercial-drafting (Drafting) und common-law-surety-guarantee-indemnity (Sicherheiten). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-remedies-damages-equity`
 
-**Frühere Beschreibung:** Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess).
+**Fokus:** Mandant erleidet Schaden aus UK/US-Vertrag oder Delikt und fragt nach Rechtsfolgen: damages specific performance injunction rescission restitution equitable relief punitive damages. Prüfraster Remedy-Auswahl Schadensmass Equity-Voraussetzungen Enforcement. Output Remedy-Analyse Schadensberechnung Klage-Strategie. Abgrenzung zu common-law-contract-formation-consideration (Vertragsschluss) und common-law-litigation-discovery (Prozess).
 
 # Remedies, Damages und Equity
 
@@ -148,7 +148,7 @@ Jurisdiction: [England/Wales / New York]
 
 ## 2. `common-law-representations-warranties-covenants`
 
-**Frühere Beschreibung:** Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikomatrix. Abgrenzung zu common-law-ma-commercial-drafting (Drafting) und common-law-surety-guarantee-indemnity (Sicherheiten).
+**Fokus:** Anwalt ordnet Klauseln in Common-Law-Transaktionsvertraegen ein: reps warranties covenants conditions undertakings indemnities. Anwendungsfall SPA NDA oder Commercial Agreement. Prüfraster Klausel-Typ-Zuordnung Haftungsfolgen Survical-Period Breach-Remedies. Output Klausel-Klassifikation Risikomatrix. Abgrenzung zu common-law-ma-commercial-drafting (Drafting) und common-law-surety-guarantee-indemnity (Sicherheiten).
 
 # Representations, Warranties und Covenants
 
@@ -252,7 +252,7 @@ GLOBAL ISSUES:
 
 ## 3. `common-law-simulation-negotiation`
 
-**Frühere Beschreibung:** Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung).
+**Fokus:** Anwalt oder Mandant will UK/US-Vertragsverhandlung oder Mandantengespraech simulieren und False-Friends-Lernkurve absolvieren. Prüfraster Verhandlungs-Simulation Issue-List-Erstellung Mandanten-Erklärung. Output Simulations-Szenario Verhandlungs-Script Lern-Feedback. Abgrenzung zu common-law-quality-gate (Qualitaet) und common-law-client-explainer (Erklärung).
 
 # Simulation und Verhandlungstraining
 

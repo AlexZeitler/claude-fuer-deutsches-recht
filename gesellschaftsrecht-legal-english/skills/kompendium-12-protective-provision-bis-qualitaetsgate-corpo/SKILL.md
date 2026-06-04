@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-protective-provision-bis-qualitaetsgate-corpo
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (protective-provisions-vetorechte, qualitaetsgate-corporate-legal-english) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Protective Provisions Vetorechte, Qualitaetsgate Corporate Legal English; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Protective Provisions Vetorechte, Qualitaetsgate Corporate Legal English
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `protective-provisions-vetorechte` | Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten. |
 | `qualitaetsgate-corporate-legal-english` | Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `protective-provisions-vetorechte`
 
-**Frühere Beschreibung:** Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten.
+**Fokus:** Prueft Protective Provisions, Reserved Matters, Vetorechte, Zustimmungsvorbehalte, Sperrminoritaeten und Blockaderisiken in Corporate-Dokumenten.
 
 # Protective Provisions und Vetorechte
 
@@ -96,7 +96,7 @@ Investorenschutzrechte funktional verstehen und in deutsche Dokumentenlogik übe
 
 ## 2. `qualitaetsgate-corporate-legal-english`
 
-**Frühere Beschreibung:** Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen.
+**Fokus:** Schlusspruefung fuer Corporate Legal English: Begriff, deutsche Naeherung, Dokument, Rechtsanker, Zahlenlogik, Parteiinteresse und offene Annahmen.
 
 # Qualitätstor Corporate Legal English
 

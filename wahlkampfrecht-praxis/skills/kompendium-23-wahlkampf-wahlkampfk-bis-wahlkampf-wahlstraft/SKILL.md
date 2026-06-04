@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-wahlkampf-wahlkampfk-bis-wahlkampf-wahlstraft
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (wahlkampf-wahlkampfkosten-budget, wahlkampf-wahlprogramm-und-faktencheck, wahlkampf-wahlpruefung-nachwahl, wahlkampf-wahlraum-propagandaverbot, wahlkampf-wahlstraftaten-stgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Wahlkampfkosten Budget, Wahlkampf Wahlprogramm Und Faktencheck, Wahlkampf Wahlpruefung Nachwahl, Wahlkampf Wahlraum Propagandaverbot und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Wahlkampfkosten Budget bis Wahlkampf Wahlstraftaten Stgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-wahlkampfkosten-budget` | Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen. |
 | `wahlkampf-wahlprogramm-und-faktencheck` | Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-wahlkampfkosten-budget`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen.
+**Fokus:** Wahlkampfrecht Praxis: Budget, Kostenstellen und Rechenschaftslogik bauen.
 
 # Wahlkampfkosten Budget
 
@@ -83,7 +83,7 @@ Erzeuge: **Budget- und Belegplan**. Wenn Informationen fehlen, stelle höchstens
 
 ## 2. `wahlkampf-wahlprogramm-und-faktencheck`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlprogramm und Kurzforderungen auf belegbare Tatsachenbasis pruefen.
 
 # Wahlprogramm Und Faktencheck
 
@@ -136,7 +136,7 @@ Erzeuge: **Programmfakten-Check**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 3. `wahlkampf-wahlpruefung-nachwahl`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten.
+**Fokus:** Wahlkampfrecht Praxis: Wahlpruefung und Einspruch nach Wahlfehlern vorbereiten.
 
 # Wahlpruefung Nachwahl
 
@@ -189,7 +189,7 @@ Erzeuge: **Wahlpruefungsdossier**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 4. `wahlkampf-wahlraum-propagandaverbot`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlwerbung am Wahltag im und am Wahlgebaeude pruefen.
 
 # Wahlraum Propagandaverbot
 
@@ -250,7 +250,7 @@ Erzeuge: **Wahlraum-Check**. Wenn Informationen fehlen, stelle höchstens acht p
 
 ## 5. `wahlkampf-wahlstraftaten-stgb`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlstraftaten und strafrechtliche Nebenrisiken routen.
 
 # Wahlstraftaten Stgb
 

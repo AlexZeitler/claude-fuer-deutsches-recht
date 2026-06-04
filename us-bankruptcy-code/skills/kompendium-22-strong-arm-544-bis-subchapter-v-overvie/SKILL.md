@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-strong-arm-544-bis-subchapter-v-overvie
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (strong-arm-544, structured-finance-securitization, subchapter-v-confirmation, subchapter-v-overview) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strong Arm 544, Structured Finance Securitization, Subchapter V Confirmation, Subchapter V Overview; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - us-bankruptcy-code
+# Arbeitsbereich - Strong Arm 544 bis Subchapter V Overview
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strong-arm-544` | Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps. |
 | `structured-finance-securitization` | Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strong-arm-544`
 
-**Frühere Beschreibung:** Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps.
+**Fokus:** Prueft trustee avoiding powers, hypothetical lien creditor, bona fide purchaser, state-law avoidance and perfection gaps.
 
 # Strong Arm § 544
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `structured-finance-securitization`
 
-**Frühere Beschreibung:** Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues.
+**Fokus:** Prueft bankruptcy remoteness, true sale, SPE separateness, substantive consolidation and servicing issues.
 
 # Structured Finance and Securitization
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `subchapter-v-confirmation`
 
-**Frühere Beschreibung:** Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention.
+**Fokus:** Prueft consensual and nonconsensual Subchapter V confirmation, disposable income, projected payments and owner retention.
 
 # Subchapter V Confirmation
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `subchapter-v-overview`
 
-**Frühere Beschreibung:** Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs.
+**Fokus:** Prueft Subchapter V small business reorganization: eligibility, trustee, streamlined plan and cost/speed tradeoffs.
 
 # Subchapter V Overview
 

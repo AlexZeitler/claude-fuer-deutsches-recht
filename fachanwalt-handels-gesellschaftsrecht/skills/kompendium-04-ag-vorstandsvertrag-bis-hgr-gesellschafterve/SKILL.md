@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-ag-vorstandsvertrag-bis-hgr-gesellschafterve
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (ag-vorstandsvertrag-vorbereiten, hgr-aktionsbindungsvertrag-spezial, hgr-gesellschaftervertrag-tour) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ag Vorstandsvertrag Vorbereiten, Hgr Aktionsbindungsvertrag Spezial, Hgr Gesellschaftervertrag Tour; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Ag Vorstandsvertrag Vorbereiten, Hgr Aktionsbindungsvertrag Spezial, Hgr Gesellschaftervertrag Tour
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ag-vorstandsvertrag-vorbereiten` | Vorstandsvertrag AG vorbereiten: §§ 84 ff. AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuendigung bei wichtigem Grund. Mustertexte und Verhandlungsstrategie. |
 | `hgr-aktionsbindungsvertrag-spezial` | Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster fuer Hauptaktionaer und Minderheitsgesellschafter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ag-vorstandsvertrag-vorbereiten`
 
-**Frühere Beschreibung:** Vorstandsvertrag AG vorbereiten: §§ 84 ff. AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuendigung bei wichtigem Grund. Mustertexte und Verhandlungsstrategie.
+**Fokus:** Vorstandsvertrag AG vorbereiten: §§ 84 ff. AktG, Bestellung und Anstellung trennen, Vergueng (fix, variabel, ESG-LTI), D and O Versicherung, Tantieme Caps nach VorstAG, Anstellungsbedingungen Compliance, Sonderkuendigung bei wichtigem Grund. Mustertexte und Verhandlungsstrategie.
 
 # AG: Vorstandsvertrag
 
@@ -89,7 +89,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 2. `hgr-aktionsbindungsvertrag-spezial`
 
-**Frühere Beschreibung:** Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster fuer Hauptaktionaer und Minderheitsgesellschafter.
+**Fokus:** Spezialfall Aktionsbindungsvertrag bei AG: zulaessige Stimmbindungen, Sperrwirkung gegenueber Satzung, Pruefung BGH-Rechtsprechung. Mustertexte und Pruefraster fuer Hauptaktionaer und Minderheitsgesellschafter.
 
 # HGR: Aktionsbindungsvertrag
 
@@ -151,7 +151,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 3. `hgr-gesellschaftervertrag-tour`
 
-**Frühere Beschreibung:** Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along. Klausel-fuer-Klausel Erklaerung und Klauselrisiken.
+**Fokus:** Gesellschaftervertrags-Tour: GmbH-Standardklauseln Vinkulierung, Wettbewerbsverbot, Abfindungsklausel, Gesellschafterversammlung, Tag-along / Drag-along. Klausel-fuer-Klausel Erklaerung und Klauselrisiken.
 
 # HGR: Gesellschaftervertrag-Tour
 

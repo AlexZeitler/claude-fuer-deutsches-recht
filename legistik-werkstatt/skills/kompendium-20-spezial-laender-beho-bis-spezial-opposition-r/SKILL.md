@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spezial-laender-beho-bis-spezial-opposition-r
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 20; bündelt 8 frühere Spezialskills (spezial-laender-behoerden-gericht-und-registerweg, spezial-landtage-schriftsatz-brief-und-memo-bausteine, spezial-legistik-erstpruefung-und-mandatsziel, spezial-ministerien-tatbestand-beweis-und-belege, spezial-mitte-internationaler-bezug-und-schnittstellen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laender Behoerden Gericht Und Registerweg, Landtage Schriftsatz Brief Und Memo Bausteine, Legistik Erstpruefung Und Mandatsziel, Ministerien Tatbestand Beweis Und Belege und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - legistik-werkstatt
+# Arbeitsbereich - Laender Behoerden Gericht Und Registerweg bis Opposition Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-laender-behoerden-gericht-und-registerweg` | Laender: Behörden-, Gerichts- oder Registerweg im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-landtage-schriftsatz-brief-und-memo-bausteine` | Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-laender-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Laender: Behörden-, Gerichts- oder Registerweg im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Laender: Behörden-, Gerichts- oder Registerweg im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Laender: Behörden-, Gerichts- oder Registerweg
 
@@ -74,7 +74,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-landtage-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Landtage: Schriftsatz-, Brief- und Memo-Bausteine im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Landtage: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -115,7 +115,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-legistik-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Legistik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Legistik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Legistik: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -156,7 +156,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-ministerien-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ministerien: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-mitte-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Mitte: Internationaler Bezug und Schnittstellen im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mitte: Internationaler Bezug und Schnittstellen im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mitte: Internationaler Bezug und Schnittstellen
 
@@ -238,7 +238,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 6. `spezial-normgeber-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Normgeber: Verhandlung, Vergleich und Eskalation im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Normgeber: Verhandlung, Vergleich und Eskalation im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Normgeber: Verhandlung, Vergleich und Eskalation
 
@@ -279,7 +279,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 7. `spezial-normtext-begruendung-und-synopse`
 
-**Frühere Beschreibung:** Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Normtext, Begründung und Synopse als Gesetzgebungswerkstatt: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Normtext, Begründung und Synopse als Gesetzgebungswerkstatt
 
@@ -318,7 +318,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 8. `spezial-opposition-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Opposition: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Opposition: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin legistik werkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Opposition: Risikoampel, Gegenargumente und Verteidigungslinien
 

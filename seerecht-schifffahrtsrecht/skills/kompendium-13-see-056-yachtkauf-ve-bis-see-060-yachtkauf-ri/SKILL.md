@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-see-056-yachtkauf-ve-bis-see-060-yachtkauf-ri
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (see-056-yachtkauf-versicherung-melden, see-057-yachtkauf-local-counsel-instruieren, see-058-yachtkauf-closing-planen, see-059-yachtkauf-klagepfad-waehlen, see-060-yachtkauf-risiko-memo-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 056 Yachtkauf Versicherung Melden, See 057 Yachtkauf Local Counsel Instruieren, See 058 Yachtkauf Closing Planen, See 059 Yachtkauf Klagepfad Waehlen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 056 Yachtkauf Versicherung Melden bis See 060 Yachtkauf Risiko Memo Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-056-yachtkauf-versicherung-melden` | Yachtkauf: Schadensereignis an Segel- oder Motorjacht melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. |
 | `see-057-yachtkauf-local-counsel-instruieren` | Yachtkauf: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Segel- oder Motorjacht im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-056-yachtkauf-versicherung-melden`
 
-**Frühere Beschreibung:** Yachtkauf: Schadensereignis an Segel- oder Motorjacht melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Yachtkauf: Schadensereignis an Segel- oder Motorjacht melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Yachtkauf – Schadensfall bei Versicherung melden
 
@@ -121,7 +121,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 2. `see-057-yachtkauf-local-counsel-instruieren`
 
-**Frühere Beschreibung:** Yachtkauf: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Segel- oder Motorjacht im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Yachtkauf: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Segel- oder Motorjacht im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Yachtkauf – Local Counsel instruieren
 
@@ -212,7 +212,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 3. `see-058-yachtkauf-closing-planen`
 
-**Frühere Beschreibung:** Yachtkauf: Closing eines Segel- oder Motorjacht-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Yachtkauf: Closing eines Segel- oder Motorjacht-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Yachtkauf – Closing planen
 
@@ -305,7 +305,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 4. `see-059-yachtkauf-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Yachtkauf: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Motorjacht: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Yachtkauf: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Segel- oder Motorjacht: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Yachtkauf – Klagepfad wählen
 
@@ -396,7 +396,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 5. `see-060-yachtkauf-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Yachtkauf: Gesamtrisikobewertung fuer Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Yachtkauf: Gesamtrisikobewertung fuer Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bei Segel- oder Motorjacht: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Yachtkauf – Risiko-Memo schreiben
 

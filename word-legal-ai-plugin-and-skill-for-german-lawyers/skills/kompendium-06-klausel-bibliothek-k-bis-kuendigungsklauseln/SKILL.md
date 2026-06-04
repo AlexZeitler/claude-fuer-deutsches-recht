@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-klausel-bibliothek-k-bis-kuendigungsklauseln
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (klausel-bibliothek-katalog, kuendigungsklauseln-und-vertragsbeendigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Klausel Bibliothek Katalog, Kuendigungsklauseln Und Vertragsbeendigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klausel-bibliothek-katalog` | Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante. |
 | `kuendigungsklauseln-und-vertragsbeendigung` | Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klausel-bibliothek-katalog`
 
-**Frühere Beschreibung:** Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante.
+**Fokus:** Klauselbibliothek mit ueber 60 fertigen Bausteinen fuer deutsche Wirtschaftsvertraege. Sortiert nach Bereichen: Praeambel Definitionen Leistung Verguetung Verzug Gewaehrleistung Haftung Kuendigung Vertragsstrafe Force Majeure Geheimhaltung Datenschutz IP Aenderungen Sprachklausel Schriftform Salvatorisch Gerichtsstand Rechtswahl Schiedsklausel Mediation. Jeder Baustein mit Verwendungshinweis (B2B oder B2C), AGB-Risikohinweis, Alternativen mild und scharf, und bilingualer deutsch-englischer Variante.
 
 # Klauselbibliothek-Katalog
 
@@ -231,7 +231,7 @@ Die Bibliothek wird regelmaessig aktualisiert. Aenderungen in der Gesetzgebung (
 
 ## 2. `kuendigungsklauseln-und-vertragsbeendigung`
 
-**Frühere Beschreibung:** Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung.
+**Fokus:** Drafting und Prüfung von Kündigungsklauseln. Ordentliche Kündigung mit Frist und Form, außerordentliche Kündigung aus wichtigem Grund nach § 314 BGB mit Abmahnung und Frist nach Kenntnis, Zugang nach § 130 BGB sowie Form nach §§ 126 (Schriftform), 126a (elektronische Form) und 126b BGB (Textform). Behandelt die Folgewirkungen auf Boilerplate (Geheimhaltung, Schiedsklausel, Gerichtsstand wirken fort) und liefert Mustertexte für ordentliche und außerordentliche Kündigung.
 
 # Kündigungsklauseln und Vertragsbeendigung
 

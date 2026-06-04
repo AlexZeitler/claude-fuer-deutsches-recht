@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fran-008-preisempfeh-bis-fran-010-onlinevertr
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht, fran-009-markennutzung-ci-und-qualitaetskontrolle, fran-010-onlinevertrieb-plattformen-und-social-media) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattformen Und Social Media; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - franchiserecht-praxis
+# Arbeitsbereich - Fran 008 Preisempfehlung Preisbindung Und Wettbewerbsrecht, Fran 009 Markennutzung Ci Und Qualitaetskontrolle, Fran 010 Onlinevertrieb Plattf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht` | Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen. |
 | `fran-009-markennutzung-ci-und-qualitaetskontrolle` | Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-008-preisempfehlung-preisbindung-und-wettbewerbsrecht`
 
-**Frühere Beschreibung:** Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen.
+**Fokus:** Preisempfehlungen und Preisbindungen im Franchisesystem kartellrechtlich einordnen: unverbindliche Preisempfehlung vs. verbotene Preisbindung zweiter Hand nach Art. 4 lit. a Vertikal-GVO und § 21 GWB. Druckmittel und Anreize als verdeckte Preisbindung erkennen.
 
 # Franchiserecht: Preisempfehlung, Preisbindung und Wettbewerbsrecht
 
@@ -108,7 +108,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-009-markennutzung-ci-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo.
+**Fokus:** Markennutzung im Franchisesystem prüfen: Lizenzierung nach MarkenG, Corporate-Identity-Pflichten, Qualitätskontrollrechte des Franchisegebers, Konsequenzen bei CI-Verstössen und Erschöpfungsgrundsatz. Kennzeichenschutz für Systemname und Logo.
 
 # Franchiserecht: Markennutzung, Corporate Identity und Qualitätskontrolle
 
@@ -186,7 +186,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-010-onlinevertrieb-plattformen-und-social-media`
 
-**Frühere Beschreibung:** Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen.
+**Fokus:** Online-Vertrieb im Franchisesystem regeln: Plattformverbote, Marktplatz-Sperren nach Vertikal-GVO EU 2022/720, Social-Media-Pflichten des Franchisenehmers, Gebietsschutz im E-Commerce und Datenschutz bei digitalen Kundenbeziehungen.
 
 # Franchiserecht: Online-Vertrieb, Plattformen und Social Media
 

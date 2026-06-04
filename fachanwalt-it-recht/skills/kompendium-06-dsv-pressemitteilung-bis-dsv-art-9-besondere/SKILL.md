@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-dsv-pressemitteilung-bis-dsv-art-9-besondere
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (dsv-pressemitteilung-krisenkommunikation, dsv-sammelklagen-praevention, dsv-vvt-update-nach-vorfall, cyber-incident-response-72h, dsv-art-9-besondere-kategorien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Pressemitteilung Krisenkommunikation, Dsv Sammelklagen Praevention, Dsv Vvt Update Nach Vorfall, Cyber Incident Response 72h und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Pressemitteilung Krisenkommunikation bis Dsv Art 9 Besondere Kategorien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-pressemitteilung-krisenkommunikation` | Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel. |
 | `dsv-sammelklagen-praevention` | Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-pressemitteilung-krisenkommunikation`
 
-**Frühere Beschreibung:** Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel.
+**Fokus:** Entwirft eine Pressemitteilung und begleitende Krisenkommunikation bei einem Datenschutzvorfall mit öffentlicher Wahrnehmung. Behandelt: rechtliche Pflichten aus Art. 34 Abs. 3 lit. c DSGVO (öffentliche Bekanntmachung); Inhalt; Tonfall; Vermeidung von Selbstbelastung; Abstimmung mit Aufsichtsbehörde; Q&A für Pressestelle; Social-Media-Steuerung. Output: Pressemitteilung mit Q&A. Abgrenzung: keine individuelle Benachrichtigung; keine Pressepressespiegel.
 
 # Pressemitteilung und Krisenkommunikation bei Datenschutzvorfall
 
@@ -88,7 +88,7 @@ Sperrfristen: erst nach Information der Betroffenen oder gleichzeitig veröffent
 
 ## 2. `dsv-sammelklagen-praevention`
 
-**Frühere Beschreibung:** Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung.
+**Fokus:** Entwickelt eine Strategie zur Prävention und Steuerung von Sammelklagen und Massenverfahren nach einer Massendatenpanne. Behandelt: Verbandsklage-Richtlinie; UKlaG; KapMuG-Analogien; Inkasso-Plattformen; anwaltliche Akquise-Wellen; Beweisaufnahme-Risiken bei öffentlicher Bekanntmachung; Vergleichsangebote; Goodwill-Leistungen ohne Anerkenntnis; Schufa-Auskünfte. Output: Strategie-Memo mit Maßnahmen-Roadmap. Abgrenzung: keine konkrete Schadensersatzverteidigung.
 
 # Sammelklagen-Prävention nach Massendatenpanne
 
@@ -145,7 +145,7 @@ Goodwill: pauschale Kulanzpakete (z.B. Schufa-Auskunft, Identitätsschutz) ohne 
 
 ## 3. `dsv-vvt-update-nach-vorfall`
 
-**Frühere Beschreibung:** Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Update; Aufbewahrungsfristen; Verknüpfung mit Vorfallregister Art. 33 Abs. 5. Output: Update-Checkliste mit Pflichtfeldern. Abgrenzung: kein neues VVT; keine DSFA.
+**Fokus:** Steuert die Aktualisierung des Verzeichnisses von Verarbeitungstätigkeiten nach Art. 30 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Identifikation der betroffenen Verarbeitungen; Anpassung der technischen und organisatorischen Maßnahmen; neue Risikoeinschätzung; Auftragsverarbeiter-Update; Aufbewahrungsfristen; Verknüpfung mit Vorfallregister Art. 33 Abs. 5. Output: Update-Checkliste mit Pflichtfeldern. Abgrenzung: kein neues VVT; keine DSFA.
 
 # Aktualisierung des Verfahrensverzeichnisses nach Datenschutzvorfall
 
@@ -204,7 +204,7 @@ Schritt 6: Versionsstand mit Datum und Bearbeiter speichern; alte Version revisi
 
 ## 4. `cyber-incident-response-72h`
 
-**Frühere Beschreibung:** Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
+**Fokus:** Sofortmassnahmen bei aktivem Cyber-Vorfall Ransomware Datenexfiltration oder Insider-Threat. Anwendungsfall Cyberangriff ist entdeckt und IT-rechtliche Meldepflichten sowie Beweissicherung muessen binnen Stunden eingeleitet werden. Normen Art. 33 DSGVO 72-Stunden-Meldung Datenpanne Art. 34 DSGVO Betroffeneninformation NIS2UmsuCG § 32 BSIG n.F. §§ 202a 303b StGB. Prüfraster Sofort-Eindaemmung Forensik-Sicherung DSGVO-Meldepflicht NIS-2-Fruehwarnung 24 Stunden Strafanzeige Cybersecurity-Versicherer Beweiskette. Output Sofortmassnahmen-Protokoll mit 72-Stunden-Plan Meldungsformulierung und Chain-of-Custody-Dokumentation. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
 
 # Cyber-Incident-Response 72 Stunden
 
@@ -491,7 +491,7 @@ Hinweis gemaess Art. 33 Abs. 4 DSGVO: Nachmeldung vorbehalten.
 
 ## 5. `dsv-art-9-besondere-kategorien`
 
-**Frühere Beschreibung:** Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizierung; Gesundheitsdaten; Daten zum Sexualleben oder zur sexuellen Orientierung. Folgen: regelmäßige Annahme hohen Risikos; Benachrichtigung Art. 34 DSGVO; Bußgeldverschärfung Art. 83 Abs. 5. Output: Memo mit Schutzbedarfsanalyse. Abgrenzung: § 203 StGB getrennt; Sozialdaten getrennt.
+**Fokus:** Bewertet einen Datenschutzvorfall mit besonderen Kategorien personenbezogener Daten nach Art. 9 DSGVO. Behandelt: rassische/ethnische Herkunft; politische Meinungen; religiöse/weltanschauliche Überzeugungen; Gewerkschaftszugehörigkeit; genetische und biometrische Daten zur eindeutigen Identifizierung; Gesundheitsdaten; Daten zum Sexualleben oder zur sexuellen Orientierung. Folgen: regelmäßige Annahme hohen Risikos; Benachrichtigung Art. 34 DSGVO; Bußgeldverschärfung Art. 83 Abs. 5. Output: Memo mit Schutzbedarfsanalyse. Abgrenzung: § 203 StGB getrennt; Sozialdaten getrennt.
 
 # Besondere Kategorien Art. 9 DSGVO im Datenschutzvorfall
 

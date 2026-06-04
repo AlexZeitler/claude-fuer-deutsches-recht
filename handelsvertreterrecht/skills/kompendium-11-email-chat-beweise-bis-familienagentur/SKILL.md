@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-email-chat-beweise-bis-familienagentur
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (email-chat-beweise, energievertrieb, eu-richtlinie-86-653, familienagentur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Email Chat Beweise, Energievertrieb, Eu Richtlinie 86 653, Familienagentur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - handelsvertreterrecht
+# Arbeitsbereich - Email Chat Beweise bis Familienagentur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `email-chat-beweise` | Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung. |
 | `energievertrieb` | Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `email-chat-beweise`
 
-**Frühere Beschreibung:** Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung.
+**Fokus:** Prüft die Verwertbarkeit von E-Mails, WhatsApp-Nachrichten und Chat-Protokollen als Beweismittel in Handelsvertreterstreitigkeiten: Authentizitätsnachweis, datenschutzrechtliche Verwertungsverbote nach DSGVO, Vorlage als Urkunde nach § 416 ZPO und Anforderungen an forensische Sicherung.
 
 # E-Mails und Chat-Nachrichten als Beweismittel im Handelsvertreterstreit
 
@@ -108,7 +108,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 2. `energievertrieb`
 
-**Frühere Beschreibung:** Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG.
+**Fokus:** Analysiert Besonderheiten des Handelsvertreterrechts im Energievertrieb: Zulassungspflichten für Energievertriebsvermittler, Provisionsabrechnungen bei Strom- und Gasverträgen, Widerrufsrechte der Endkunden und deren Auswirkung auf die Provision, Ausgleichsansprüche im regulierten Energiemarkt sowie Anforderungen nach EnWG.
 
 # Handelsvertreterrecht im Energievertrieb — EnWG und §§ 84 ff. HGB
 
@@ -187,7 +187,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 3. `eu-richtlinie-86-653`
 
-**Frühere Beschreibung:** Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung.
+**Fokus:** Analysiert die EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung ins deutsche HGB: Mindeststandards für Ausgleich und Kündigung, richtlinienkonforme Auslegung der §§ 84-92c HGB, EuGH-Rechtsprechung (Honyvem, Saint-Gobain, Quenon) und Schranken der nationalen Rechtsanwendung.
 
 # EU-Handelsvertreterrichtlinie 86/653/EWG und ihre Umsetzung im deutschen HGB
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 4. `familienagentur`
 
-**Frühere Beschreibung:** Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und Erbrecht.
+**Fokus:** Prüft Besonderheiten der Familienhandelsvertretung: Mitarbeit von Familienangehörigen im Handelsvertreterbetrieb, arbeitsrechtliche Einordnung mitarbeitender Familienmitglieder, Haftung bei Familiengesellschaften, Übertragung der Agentur auf Familienangehörige und Auswirkungen auf Ausgleich und Erbrecht.
 
 # Familienhandelsvertretung — Mitarbeit von Angehörigen und Agenturübertragung
 

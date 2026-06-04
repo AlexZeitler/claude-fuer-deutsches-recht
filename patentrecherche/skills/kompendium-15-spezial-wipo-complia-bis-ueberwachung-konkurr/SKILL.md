@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-wipo-complia-bis-ueberwachung-konkurr
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-wipo-compliance-dokumentation-und-akte, stand-der-technik-recherche, ueberwachung-konkurrenten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - patentrecherche
+# Arbeitsbereich - Wipo Compliance Dokumentation Und Akte, Stand Der Technik Recherche, Ueberwachung Konkurrenten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-wipo-compliance-dokumentation-und-akte` | Wipo: Compliance-Dokumentation und Aktenvermerk im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `stand-der-technik-recherche` | Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelten CPC-IPC-Klassen die wichtigsten Veröffentlichungen die der Anmeldetag-Reife der Mandantenerfindung im Wege stehen koennten. Patent- und Nichtpatentliteratur (NPL) Aufsaetze Konferenzproceedings Dissertationen Datenblaetter Produktinformationen. Berücksichtigt § 3 Abs. 1 PatG Art. 54 Abs. 2 EPUe (Stand der Technik weltweit jede Sprache) und § 3 Abs. 2 PatG Art. 54 Abs. 3 EPUe (aeltere Anmeldungen nur Neuheitsschaedlich). Liefert Trefferdossiers mit Pinpoint auf Anspruch oder Absatz Bewertung als A X Y P E im Stil der EPA-Recherchezeichen. Disclaimer Vorrecherche keine amtliche Recherche. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-wipo-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Wipo: Compliance-Dokumentation und Aktenvermerk im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wipo: Compliance-Dokumentation und Aktenvermerk im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Wipo: Compliance-Dokumentation und Aktenvermerk
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `stand-der-technik-recherche`
 
-**Frühere Beschreibung:** Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelten CPC-IPC-Klassen die wichtigsten Veröffentlichungen die der Anmeldetag-Reife der Mandantenerfindung im Wege stehen koennten. Patent- und Nichtpatentliteratur (NPL) Aufsaetze Konferenzproceedings Dissertationen Datenblaetter Produktinformationen. Berücksichtigt § 3 Abs. 1 PatG Art. 54 Abs. 2 EPUe (Stand der Technik weltweit jede Sprache) und § 3 Abs. 2 PatG Art. 54 Abs. 3 EPUe (aeltere Anmeldungen nur Neuheitsschaedlich). Liefert Trefferdossiers mit Pinpoint auf Anspruch oder Absatz Bewertung als A X Y P E im Stil der EPA-Recherchezeichen. Disclaimer Vorrecherche keine amtliche Recherche.
+**Fokus:** Recherche Stand der Technik vor eigener Patentanmeldung. Identifiziert anhand des Erfindungsmaterials und der ermittelten CPC-IPC-Klassen die wichtigsten Veröffentlichungen die der Anmeldetag-Reife der Mandantenerfindung im Wege stehen koennten. Patent- und Nichtpatentliteratur (NPL) Aufsaetze Konferenzproceedings Dissertationen Datenblaetter Produktinformationen. Berücksichtigt § 3 Abs. 1 PatG Art. 54 Abs. 2 EPUe (Stand der Technik weltweit jede Sprache) und § 3 Abs. 2 PatG Art. 54 Abs. 3 EPUe (aeltere Anmeldungen nur Neuheitsschaedlich). Liefert Trefferdossiers mit Pinpoint auf Anspruch oder Absatz Bewertung als A X Y P E im Stil der EPA-Recherchezeichen. Disclaimer Vorrecherche keine amtliche Recherche.
 
 # stand-der-technik-recherche
 
@@ -180,7 +180,7 @@ Bevor die Recherche begonnen wird, klaere:
 
 ## 3. `ueberwachung-konkurrenten`
 
-**Frühere Beschreibung:** Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veröffentlichung. Disclaimer Vollständigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung.
+**Fokus:** Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veröffentlichung. Disclaimer Vollständigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung.
 
 # überwachung-konkurrenten
 

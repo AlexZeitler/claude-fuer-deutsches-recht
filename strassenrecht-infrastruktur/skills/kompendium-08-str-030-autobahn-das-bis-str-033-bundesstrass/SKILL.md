@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-str-030-autobahn-das-bis-str-033-bundesstrass
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (str-030-autobahn-dashboard-erstellen, str-031-bundesstrasse-baulast-pruefen, str-032-bundesstrasse-widmung-lesen, str-033-bundesstrasse-planrecht-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 030 Autobahn Dashboard Erstellen, Str 031 Bundesstrasse Baulast Pruefen, Str 032 Bundesstrasse Widmung Lesen, Str 033 Bundesstrasse Planrecht Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 030 Autobahn Dashboard Erstellen bis Str 033 Bundesstrasse Planrecht Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-030-autobahn-dashboard-erstellen` | Straßenrecht und Infrastruktur: Autobahn: Dashboard erstellen. Dashboard erstellen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-031-bundesstrasse-baulast-pruefen` | Straßenrecht und Infrastruktur: Bundesstraße: Baulast prüfen. Baulast prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-030-autobahn-dashboard-erstellen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Dashboard erstellen. Dashboard erstellen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Dashboard erstellen. Dashboard erstellen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Dashboard Erstellen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-031-bundesstrasse-baulast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Baulast prüfen. Baulast prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Baulast prüfen. Baulast prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Baulast Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-032-bundesstrasse-widmung-lesen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Widmung lesen. Widmung lesen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Widmung lesen. Widmung lesen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Widmung Lesen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-033-bundesstrasse-planrecht-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Planrecht prüfen. Planrecht prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Planrecht prüfen. Planrecht prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Planrecht Pruefen
 

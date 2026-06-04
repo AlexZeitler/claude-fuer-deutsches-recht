@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-space-087-internatio-bis-space-091-raumfahrt
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (space-087-internationale-streitbeilegung-diplomatischer-schutz, space-089-nationale-weltraumregister-eintragung-und-nachweise, space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfan, space-091-raumfahrt-und-versicherungsaufsicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 087 Internationale Streitbeilegung Diplomatischer Schutz, Space 089 Nationale Weltraumregister Eintragung Und Nachweise, Space 090 Buergeranfrage Satellit Stoert Grundstueck Oder Empfan, Space 091 Raumfahrt Und Versicherungsaufsicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - weltraumrecht
+# Arbeitsbereich - Space 087 Internationale Streitbeilegung Diplomatischer Schutz bis Space 091 Raumfahrt Und Versicherungsaufsicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-087-internationale-streitbeilegung-diplomatischer-schutz` | Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht. |
 | `space-089-nationale-weltraumregister-eintragung-und-nachweise` | Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-087-internationale-streitbeilegung-diplomatischer-schutz`
 
-**Frühere Beschreibung:** Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht.
+**Fokus:** Weltraumrechtliche Streitbeilegung – diplomatischer Schutz, LIAB-Anspruchskommission, IGH, Schiedsrecht.
 
 # Weltraumrecht: Internationale Streitbeilegung: Diplomatischer Schutz
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Weltraumstreit, Diplomatischer Sc
 
 ## 2. `space-089-nationale-weltraumregister-eintragung-und-nachweise`
 
-**Frühere Beschreibung:** Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen.
+**Fokus:** Eintragung in nationales Weltraumregister – Nachweise, Fehler, Wirkungen, Haftungsfolgen.
 
 # Weltraumrecht: Nationale Weltraumregister: Eintragung und Nachweise
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Nationales Weltraumregister, Eint
 
 ## 3. `space-090-buergeranfrage-satellit-stoert-grundstueck-oder-empfan`
 
-**Frühere Beschreibung:** Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg.
+**Fokus:** Bürgeranfragen zu Satelliten – Störungsrecht, Nachbarrecht, Frequenzinterferenz, Behördenweg.
 
 # Weltraumrecht: Bürgeranfrage: Satellit stört Grundstück oder Empfang
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Bürgeranfrage Satellit, Frequenz
 
 ## 4. `space-091-raumfahrt-und-versicherungsaufsicht`
 
-**Frühere Beschreibung:** Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung.
+**Fokus:** Versicherungsaufsicht für Raumfahrtversicherungen – VAG, Solvency II, Rückversicherung.
 
 # Weltraumrecht: Raumfahrt und Versicherungsaufsicht
 

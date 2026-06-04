@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-mehrsprachige-antwor-bis-spam-und-massen-anfr
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (mehrsprachige-antwort, muster-erstantwort, spam-und-massen-anfrage-filter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - mandantenanfragen-assistent
+# Arbeitsbereich - Mehrsprachige Antwort, Muster Erstantwort, Spam Und Massen Anfrage Filter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mehrsprachige-antwort` | Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede). |
 | `muster-erstantwort` | Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mehrsprachige-antwort`
 
-**Frühere Beschreibung:** Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede).
+**Fokus:** Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede).
 
 # Mehrsprachige-Antwort
 
@@ -176,7 +176,7 @@ der das Erstgespräch führen kann? Falls nein: Hinweis in der Mail aufnehmen.
 
 ## 2. `muster-erstantwort`
 
-**Frühere Beschreibung:** Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser.
+**Fokus:** Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser.
 
 # Muster-Erstantwort
 
@@ -349,7 +349,7 @@ Datenschutzhinweis gemäß Art. 13 DSGVO auf Anfrage erhältlich unter [KANZLEI-
 
 ## 3. `spam-und-massen-anfrage-filter`
 
-**Frühere Beschreibung:** Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker.
+**Fokus:** Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker.
 
 # Spam-und-Massen-Anfrage-Filter
 

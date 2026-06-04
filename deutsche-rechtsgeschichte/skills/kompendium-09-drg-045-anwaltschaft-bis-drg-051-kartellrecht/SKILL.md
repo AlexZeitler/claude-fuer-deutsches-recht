@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-drg-045-anwaltschaft-bis-drg-051-kartellrecht
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 09; bündelt 6 frühere Spezialskills (drg-045-anwaltschaft-und-berufsrecht-historisch, drg-046-richterbild-und-justizverwaltung, drg-047-kolonialrecht-kritisch-einordnen, drg-048-militaerrecht-und-kriegsfolgen, drg-050-wirtschaftsrecht-im-20-jahrhundert und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 045 Anwaltschaft Und Berufsrecht Historisch, Drg 046 Richterbild Und Justizverwaltung, Drg 047 Kolonialrecht Kritisch Einordnen, Drg 048 Militaerrecht Und Kriegsfolgen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 045 Anwaltschaft Und Berufsrecht Historisch bis Drg 051 Kartellrecht Und Ordoliberalismus
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-045-anwaltschaft-und-berufsrecht-historisch` | Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut. |
 | `drg-046-richterbild-und-justizverwaltung` | Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-045-anwaltschaft-und-berufsrecht-historisch`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte der Anwaltschaft und des Berufsrechts. Reichsanwaltsordnung 1878, BRAO 1959, Anwaltszulassung und freier Beruf als verfassungsrechtlich geschuetztes Gut.
 
 # Anwaltschaft und Berufsrecht historisch
 
@@ -81,7 +81,7 @@ RAO 1878: RGBl. 1878, 177 via ALEX/OeNB. BRAO: gesetze-im-internet.de. BVerfGE: 
 
 ## 2. `drg-046-richterbild-und-justizverwaltung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage.
+**Fokus:** Deutsche Rechtsgeschichte: Richterbild und Justizverwaltung. Richterlicher Unabhaengigkeitsgedanke, Berufsrichter vs. Schoeffen, NS-Richterbild und DRiG 1961 als demokratische Grundlage.
 
 # Richterbild und Justizverwaltung
 
@@ -131,7 +131,7 @@ GVG und DRiG: gesetze-im-internet.de. GG Art. 97: gesetze-im-internet.de. BVerfG
 
 ## 3. `drg-047-kolonialrecht-kritisch-einordnen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute.
+**Fokus:** Deutsche Rechtsgeschichte: Kolonialrecht kritisch einordnen. Deutsche Kolonialgesetzgebung 1885-1914, Herero-Nama-Voelkermord, Kolonialrechtliche Diskriminierung und Aufarbeitung nach 1919 und heute.
 
 # Kolonialrecht kritisch einordnen
 
@@ -181,7 +181,7 @@ Schutzgebietsgesetz 1886: ALEX/OeNB. Versailler Vertrag: documentArchiv.de. Voel
 
 ## 4. `drg-048-militaerrecht-und-kriegsfolgen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern.
+**Fokus:** Deutsche Rechtsgeschichte: Militaerrecht und Kriegsfolgen. Militaerstrafrecht im Kaiserreich, Kriegsgerichtsbarkeit WW1 und WW2, Deserteur-Rehabilitierung und Aufarbeitung von Kriegsverbrechern.
 
 # Militaerrecht und Kriegsfolgen
 
@@ -231,7 +231,7 @@ MStGB 1872: ALEX/OeNB. WStG 2002: gesetze-im-internet.de. NS-Aufhebungsgesetz 20
 
 ## 5. `drg-050-wirtschaftsrecht-im-20-jahrhundert`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus.
+**Fokus:** Deutsche Rechtsgeschichte: Wirtschaftsrecht im 20. Jahrhundert. Kriegswirtschaftsrecht 1914-1918, Weimarer Wirtschaftsrecht, NS-Wirtschaftslenkung, Soziale Marktwirtschaft und Ordoliberalismus.
 
 # Wirtschaftsrecht im 20. Jahrhundert
 
@@ -280,7 +280,7 @@ GWB: gesetze-im-internet.de. NS-Wirtschaftsrecht: RGBl. via ALEX/OeNB. Eucken 19
 
 ## 6. `drg-051-kartellrecht-und-ordoliberalismus`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kartellrecht im Kaiserreich (Kohlen-Kartell-Entscheidung RG 1897), GWB 1957, Bundeskartellamt und EU-Kartellrecht Art. 101-102 AEUV.
+**Fokus:** Deutsche Rechtsgeschichte: Kartellrecht und Ordoliberalismus. Kartellrecht im Kaiserreich (Kohlen-Kartell-Entscheidung RG 1897), GWB 1957, Bundeskartellamt und EU-Kartellrecht Art. 101-102 AEUV.
 
 # Kartellrecht und Ordoliberalismus
 

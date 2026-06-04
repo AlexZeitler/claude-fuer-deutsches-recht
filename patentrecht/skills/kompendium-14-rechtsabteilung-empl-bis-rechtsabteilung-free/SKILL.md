@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-rechtsabteilung-empl-bis-rechtsabteilung-free
-description: "patentrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (rechtsabteilung-employee-invention-im-konzernprojekt, rechtsabteilung-frand-verteidigung-bei-sep-abmahnung, rechtsabteilung-freedom-to-operate-vor-product-launch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Employee Invention Im Konzernprojekt, Frand Verteidigung Bei Sep Abmahnung, Freedom To Operate Vor Product Launch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - patentrecht
+# Arbeitsbereich - Employee Invention Im Konzernprojekt, Frand Verteidigung Bei Sep Abmahnung, Freedom To Operate Vor Product Launch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-employee-invention-im-konzernprojekt` | Rechtsabteilungs-Spezialskill für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung` | Rechtsabteilungs-Spezialskill für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-employee-invention-im-konzernprojekt`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Employee Invention im Konzernprojekt: Meldung, Inanspruchnahme, Vergütung und ausländische R&D-Beiträge werden aufgesetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Employee Invention im Konzernprojekt
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-frand-verteidigung-bei-sep-abmahnung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für FRAND-Verteidigung bei SEP-Abmahnung: Lizenzbereitschaft, Vergleichbarkeit und Hold-out/Hold-up werden dokumentiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: FRAND-Verteidigung bei SEP-Abmahnung
 
@@ -108,7 +108,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-freedom-to-operate-vor-product-launch`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Freedom-to-Operate vor Product Launch: FTO wird mit Claim Chart, Länderpriorität und Design-Around-Entscheidung ausgegeben. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Freedom-to-Operate vor Product Launch
 

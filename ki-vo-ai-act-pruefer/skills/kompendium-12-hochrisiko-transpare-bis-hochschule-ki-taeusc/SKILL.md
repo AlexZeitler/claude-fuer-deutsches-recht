@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-hochrisiko-transpare-bis-hochschule-ki-taeusc
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13, hochrisiko-zuordnung-art-6-und-anhang-i-iii, hochschule-ki-detektor-menschliche-pruefung, hochschule-ki-taeuschung-anscheinsbeweis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hochrisiko Transparenz Und Informationen Fuer Betreiber Art 13, Hochrisiko Zuordnung Art 6 Und Anhang I Iii, Hochschule Ki Detektor Menschliche Pruefung, Hochschule Ki Taeuschung Anscheinsbeweis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Hochrisiko Transparenz Und Informationen Fuer Betreiber Art 13 bis Hochschule Ki Taeuschung Anscheinsbeweis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13` | Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz). |
 | `hochrisiko-zuordnung-art-6-und-anhang-i-iii` | Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitenden-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Routing zu Detail-Skills. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz).
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Prüfraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz).
 
 # Transparenz und Informationen für Betreiber — Art. 13 KI-VO
 
@@ -149,7 +149,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `hochrisiko-zuordnung-art-6-und-anhang-i-iii`
 
-**Frühere Beschreibung:** Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitenden-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Routing zu Detail-Skills.
+**Fokus:** Gesamtuebersicht zur Hochrisiko-Zuordnung nach Art. 6 KI-VO: Art. 6 Abs. 1 Sicherheitsbauteil/Anhang I und Art. 6 Abs. 2/Anhang III. Erklaert Zweckbestimmung, allgemeine Chatbots/GPAI, Mitarbeitenden-Fehlgebrauch, Rueckausnahme Art. 6 Abs. 3 und Pflichtenfolge. Output: Hochrisiko-Landkarte mit Routing zu Detail-Skills.
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III
 
@@ -239,7 +239,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12/13/23, Art. 6 und Anhang I/III KI
 
 ## 3. `hochschule-ki-detektor-menschliche-pruefung`
 
-**Frühere Beschreibung:** KI-Detektoren in Schule, Hochschule und Auswahlverfahren: methodische Grenzen, False Positives, Transparenz, Anhoerung, menschliche Plausibilitaetspruefung, Datenschutz und Beweisakte. Baut einen belastbaren Entscheidungsvermerk statt Detektor-Automatismus.
+**Fokus:** KI-Detektoren in Schule, Hochschule und Auswahlverfahren: methodische Grenzen, False Positives, Transparenz, Anhoerung, menschliche Plausibilitaetspruefung, Datenschutz und Beweisakte. Baut einen belastbaren Entscheidungsvermerk statt Detektor-Automatismus.
 
 # KI-Detektor plus menschliche Prüfung
 
@@ -281,7 +281,7 @@ Wenn ein System im Bildungsbereich Lern- oder Prüfungsentscheidungen beeinfluss
 
 ## 4. `hochschule-ki-taeuschung-anscheinsbeweis`
 
-**Frühere Beschreibung:** KI-Nutzung in Hochschulpruefungen: Taeschungsvorwurf, Anscheinsbeweis, Indizienbuendel, Beweislast der Hochschule, subjektives Element, Anhoerung, Pruefungsrecht und DSGVO-Schnittstelle. Erzeugt Verteidigungs- oder Hochschulvermerk ohne blinde Detektor-Glaeubigkeit.
+**Fokus:** KI-Nutzung in Hochschulpruefungen: Taeschungsvorwurf, Anscheinsbeweis, Indizienbuendel, Beweislast der Hochschule, subjektives Element, Anhoerung, Pruefungsrecht und DSGVO-Schnittstelle. Erzeugt Verteidigungs- oder Hochschulvermerk ohne blinde Detektor-Glaeubigkeit.
 
 # Hochschule: KI-Täuschung und Anscheinsbeweis
 

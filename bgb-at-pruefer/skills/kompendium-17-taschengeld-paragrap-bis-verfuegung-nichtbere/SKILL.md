@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-taschengeld-paragrap-bis-verfuegung-nichtbere
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (taschengeld-paragraph-110, uebermittlungsirrtum-paragraph-120, verfuegung-nichtberechtigter-paragraph-185) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - bgb-at-pruefer
+# Arbeitsbereich - Taschengeld Paragraph 110, Uebermittlungsirrtum Paragraph 120, Verfuegung Nichtberechtigter Paragraph 185
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `taschengeld-paragraph-110` | Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB. |
 | `uebermittlungsirrtum-paragraph-120` | Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `taschengeld-paragraph-110`
 
-**Frühere Beschreibung:** Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB.
+**Fokus:** Klausurfall zur Taschengeldparagraph nach § 110 BGB: Minderjähriger bewirkt Leistung aus eigenen Mitteln, die ihm zu freiem Verfügen überlassen wurden. Abgrenzung zu Schenkung, Aufwendungsersatz und zur beschränkten Geschäftsfähigkeit nach §§ 106 bis 108 BGB.
 
 # Taschengeldparagraph — § 110 BGB
 
@@ -111,7 +111,7 @@ bezahlt wird und die restlichen Raten noch offen sind.
 
 ## 2. `uebermittlungsirrtum-paragraph-120`
 
-**Frühere Beschreibung:** Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB.
+**Fokus:** Klausurfall zum Übermittlungsirrtum nach § 120 BGB: fehlerhafte Übermittlung durch Boten oder Fernkommunikation, Gleichstellung mit dem Erklärungsirrtum nach § 119 Abs. 1 BGB, Anfechtungsrecht des Erklärenden und Schadensersatz nach § 122 BGB.
 
 # Übermittlungsirrtum — § 120 BGB
 
@@ -196,7 +196,7 @@ das Risiko. § 120 BGB gilt dann nicht für den Erklärenden.
 
 ## 3. `verfuegung-nichtberechtigter-paragraph-185`
 
-**Frühere Beschreibung:** Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung und nachträgliche Genehmigung des Berechtigten, Heilung durch spätere Berechtigung, Abgrenzung zum gutgläubigen Erwerb nach §§ 932 ff. BGB. Klausurfall mit Subsumtionsraster für Examen.
+**Fokus:** Prüft Verfügung eines Nichtberechtigten nach § 185 BGB: Einwilligung und nachträgliche Genehmigung des Berechtigten, Heilung durch spätere Berechtigung, Abgrenzung zum gutgläubigen Erwerb nach §§ 932 ff. BGB. Klausurfall mit Subsumtionsraster für Examen.
 
 # Verfügung des Nichtberechtigten — § 185 BGB
 

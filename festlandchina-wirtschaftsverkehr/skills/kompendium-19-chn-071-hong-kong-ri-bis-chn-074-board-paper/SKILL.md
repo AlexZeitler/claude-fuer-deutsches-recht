@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-chn-071-hong-kong-ri-bis-chn-074-board-paper
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (chn-071-hong-kong-risk-scenario, chn-072-tibet-xinjiang-public-communications, chn-073-free-economy-and-human-rights-positioning, chn-074-board-paper-china-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 071 Hong Kong Risk Scenario, Chn 072 Tibet Xinjiang Public Communications, Chn 073 Free Economy And Human Rights Positioning, Chn 074 Board Paper China Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 071 Hong Kong Risk Scenario bis Chn 074 Board Paper China Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-071-hong-kong-risk-scenario` | Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen. |
 | `chn-072-tibet-xinjiang-public-communications` | Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-071-hong-kong-risk-scenario`
 
-**Frühere Beschreibung:** Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen.
+**Fokus:** Hongkong-Risikoszenario: National Security Law HK 2020 Auswirkungen auf Geschaeft, Rechtsstaatlichkeits-Degradierung HK-Gerichte, Common Law-Restbestand, HKIAC-Schiedsstandort unter Druck, Datentransfer HK-CN-DE, Exit-Strategien für Büros in HK. Output: HK-Risikoanalyse und Strategiealternativen.
 
 # Hongkong-Risikoszenario: National Security Law und Rechtsstaat
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-072-tibet-xinjiang-public-communications`
 
-**Frühere Beschreibung:** Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung.
+**Fokus:** Unternehmenskommunikation zu Tibet und Xinjiang: Reputationsrisiken bei Quellenoffenlegung, chinesisches Anti-Sanktions-Gesetz 2021 Gegenmaßnahmen gegen Boykotte, LkSG-Berichtspflichten vs. China-Retaliation-Risiko, Balance Menschenrechtsbericht und Marktinteresse CN, Abstimmung PR/Rechtsabteilung. Output: Kommunikationsstrategie-Leitfaden und rechtliche Risikoeinschätzung.
 
 # Kommunikation zu Tibet/Xinjiang: Rechts- und Reputationsrisiken
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-073-free-economy-and-human-rights-positioning`
 
-**Frühere Beschreibung:** Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper.
+**Fokus:** Unternehmenspositionierung: Freiheitliche Wirtschaft und Menschenrechte im China-Kontext: Grenzen des Engagements in VR China, Werte-Compliance vs. Marktzugang, LkSG-Pflichten als Mindestrahmen, OECD-Leitsätze, Investorenerwartungen ESG, Abwägungsrahmen für Board-Entscheidungen. Output: Positionierungs-Framework und Board-Paper.
 
 # Freiheitliche Wirtschaft und Menschenrechte: China-Positionierung
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-074-board-paper-china-risk`
 
-**Frühere Beschreibung:** Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie.
+**Fokus:** Board-Paper zu China-Risiken: Struktur und Inhalt eines belastbaren China-Risikoberichts für Aufsichtsrat/Vorstand, wesentliche Risikokategorien (Geopolitik/Regulation/Lieferkette/IP/Cyber), De-risking-Fortschritt, AWV-Meldestatus, LkSG-Compliance, ESG-Aspekte. Anforderungen §§ 76/93 AktG Sorgfaltspflicht. Output: Board-Paper-Vorlage und Risiko-Ampel-Folie.
 
 # Board-Paper China-Risiken: Struktur und Inhalte für Aufsichtsrat
 

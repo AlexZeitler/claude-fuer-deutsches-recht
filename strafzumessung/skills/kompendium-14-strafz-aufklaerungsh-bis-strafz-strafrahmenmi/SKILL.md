@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-strafz-aufklaerungsh-bis-strafz-strafrahmenmi
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (strafz-aufklaerungshilfe-kronzeuge-spezial, strafz-sicherungsverwahrung-spezial, strafz-strafrahmenmilderung-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafz Aufklaerungshilfe Kronzeuge Spezial, Strafz Sicherungsverwahrung Spezial, Strafz Strafrahmenmilderung Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - strafzumessung
+# Arbeitsbereich - Strafz Aufklaerungshilfe Kronzeuge Spezial, Strafz Sicherungsverwahrung Spezial, Strafz Strafrahmenmilderung Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafz-aufklaerungshilfe-kronzeuge-spezial` | Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Pruefraster fuer Verteidiger und Staatsanwalt. |
 | `strafz-sicherungsverwahrung-spezial` | Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster fuer Verteidiger. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafz-aufklaerungshilfe-kronzeuge-spezial`
 
-**Frühere Beschreibung:** Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Pruefraster fuer Verteidiger und Staatsanwalt.
+**Fokus:** Spezialfall Aufklaerungshilfe Kronzeugenregelung § 46b StGB: Voraussetzungen, BGH-Rechtsprechung, Verteidigung. Pruefraster fuer Verteidiger und Staatsanwalt.
 
 # StrafZ: Aufklaerungshilfe
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `strafzumessung`. Er ergaenzt die uebrigen Skill
 
 ## 2. `strafz-sicherungsverwahrung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster fuer Verteidiger.
+**Fokus:** Spezialfall Sicherungsverwahrung §§ 66 ff. StGB: formell und materiell, Vorbehalts- und nachtraegliche Sicherungsverwahrung, EGMR. Pruefraster fuer Verteidiger.
 
 # StrafZ: Sicherungsverwahrung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `strafzumessung`. Er ergaenzt die uebrigen Skill
 
 ## 3. `strafz-strafrahmenmilderung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster fuer Verteidiger.
+**Fokus:** Leitfaden Strafrahmenmilderung § 49 StGB und benannte Strafmilderungsgruende. Pruefraster fuer Verteidiger.
 
 # StrafZ: Strafrahmenmilderung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-entfristung-klagesch-bis-entfristung-rechtsfo
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (entfristung-klageschrift-anwalt-baustein, entfristung-klageschrift-laie-baustein, entfristung-laie-oder-anwalt-frage, entfristung-rechtsfolge-16-tzbfg-unbefristet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entfristung Klageschrift Anwalt Baustein, Entfristung Klageschrift Laie Baustein, Entfristung Laie Oder Anwalt Frage, Entfristung Rechtsfolge 16 Tzbfg Unbefristet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - arbeitsrecht
+# Arbeitsbereich - Entfristung Klageschrift Anwalt Baustein bis Entfristung Rechtsfolge 16 Tzbfg Unbefristet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil. |
 | `entfristung-klageschrift-laie-baustein` | Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entfristung-klageschrift-anwalt-baustein`
 
-**Frühere Beschreibung:** Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil.
+**Fokus:** Anwaltliche Klageschrift Entfristungsklage mit Hauptantrag und Hilfsanträgen; Weiterbeschaeftigungsantrag; strukturierte Begründung nach § 14 Abs. 4 TzBfG und Sachgrundprüfung; Beweisangebote im BAG-Zitierstil.
 
 # Klageschrift Entfristungsklage — Anwaltliche Version
 
@@ -179,7 +179,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entfristung-klageschrift-laie-baustein`
 
-**Frühere Beschreibung:** Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
+**Fokus:** Schritt-fuer-Schritt Klageschrift Entfristungsklage für Laien: Rubrum; Feststellungsantrag Unbefristetheit; Begründungsbausteine für Schriftformmangel und fehlenden Sachgrund; Beweisangebote; Pflicht-Disclaimer.
 
 # Klageschrift Entfristungsklage — Laien-Baustein
 
@@ -332,7 +332,7 @@ ____________________________
 
 ## 3. `entfristung-laie-oder-anwalt-frage`
 
-**Frühere Beschreibung:** Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist.
+**Fokus:** Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist.
 
 # Entfristung: Laie oder Anwalt?
 
@@ -404,7 +404,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 4. `entfristung-rechtsfolge-16-tzbfg-unbefristet`
 
-**Frühere Beschreibung:** Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag.
+**Fokus:** Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag.
 
 # Rechtsfolge der unwirksamen Befristung — § 16 TzBfG
 

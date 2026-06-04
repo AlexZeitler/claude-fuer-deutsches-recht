@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-bebauungspla-bis-abwaegungsgebot-1-ab
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-bebauungsplaenen-fristen-form-und-zustaendigkeit, kommunalabgaben-und-beitragssatzungen, abwaegungsgebot-1-abs-7-baugb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Bebauungsplaenen Fristen Form Und Zustaendigkeit, Kommunalabgaben Und Beitragssatzungen, Abwaegungsgebot 1 Abs 7 Baugb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bebauungsplaenen-fristen-form-und-zustaendigkeit` | Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `kommunalabgaben-und-beitragssatzungen` | Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.; Normanker: VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bebauungsplaenen-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bebauungsplaenen: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `kommunalabgaben-und-beitragssatzungen`
 
-**Frühere Beschreibung:** Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.; Normanker: VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
+**Fokus:** Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.; Normanker: VwGO § 47; KAG der Länder; Art. 3 GG; Äquivalenz- und Kostendeckungsprinzip; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
 
 # Kommunalabgaben- und Beitragssatzungen: Gebühren, Beiträge, Fremdenverkehr, Abwasser, Elternbeiträge, Kalkulation und Gleichheitssatz.
 
@@ -106,7 +106,7 @@ Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schrif
 
 ## 3. `abwaegungsgebot-1-abs-7-baugb`
 
-**Frühere Beschreibung:** Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Ergebnisfehler. Vorfestlegung und formelhafte Abwaegungsdokumentation als Angriffspunkte. Output: Abwaegungsfehler-Analyse und Bausteine für Normenkontrollantrag. Abgrenzung zu planerhaltung-214-215-baugb (Fehlererheblichkeit) und normenkontrollantrag-schriftsatz.
+**Fokus:** Mandant greift Bebauungsplan wegen fehlerhafter Interessenabwaegung an. § 1 Abs. 7 BauGB Abwaegungsgebot. Prüfraster: vier Abwaegungsfehler-Stufen Abwaegungsausfall Abwaegungsdefizit Abwaegungsfehleinschaetzung Abwaegungsdisproportionalitaet. § 214 Abs. 3 BauGB filtert nur Vorgangsfehler nicht Ergebnisfehler. Vorfestlegung und formelhafte Abwaegungsdokumentation als Angriffspunkte. Output: Abwaegungsfehler-Analyse und Bausteine für Normenkontrollantrag. Abgrenzung zu planerhaltung-214-215-baugb (Fehlererheblichkeit) und normenkontrollantrag-schriftsatz.
 
 # Abwägungsgebot § 1 Abs. 7 BauGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-notar-gesellschafter-bis-notar-unparteilichke
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (notar-gesellschafterliste-fehler-praevention, notar-gesellschafterliste-fehler-verteidigung, notar-unparteilichkeit-familiengesellschaft-praevention, notar-unparteilichkeit-familiengesellschaft-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notar Gesellschafterliste Fehler Praevention, Notar Gesellschafterliste Fehler Verteidigung, Notar Unparteilichkeit Familiengesellschaft Praevention, Notar Unparteilichkeit Familiengesellschaft Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Notar Gesellschafterliste Fehler Praevention bis Notar Unparteilichkeit Familiengesellschaft Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notar-gesellschafterliste-fehler-praevention` | Notar Gesellschafterliste Fehler (Präventions- und Organisationspaket): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `notar-gesellschafterliste-fehler-verteidigung` | Notar Gesellschafterliste Fehler (Verteidigungs- und Kammerantwort): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notar-gesellschafterliste-fehler-praevention`
 
-**Frühere Beschreibung:** Notar Gesellschafterliste Fehler (Präventions- und Organisationspaket): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Notar Gesellschafterliste Fehler (Präventions- und Organisationspaket): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Notar Gesellschafterliste Fehler: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `notar-gesellschafterliste-fehler-verteidigung`
 
-**Frühere Beschreibung:** Notar Gesellschafterliste Fehler (Verteidigungs- und Kammerantwort): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Notar Gesellschafterliste Fehler (Verteidigungs- und Kammerantwort): steuert fehlerhafte Gesellschafterliste, Registervollzug, Rechtsschein, Korrektur und Amtshaftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Notar Gesellschafterliste Fehler: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `notar-unparteilichkeit-familiengesellschaft-praevention`
 
-**Frühere Beschreibung:** Notar Unparteilichkeit Familiengesellschaft (Präventions- und Organisationspaket): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Notar Unparteilichkeit Familiengesellschaft (Präventions- und Organisationspaket): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Notar Unparteilichkeit Familiengesellschaft: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `notar-unparteilichkeit-familiengesellschaft-verteidigung`
 
-**Frühere Beschreibung:** Notar Unparteilichkeit Familiengesellschaft (Verteidigungs- und Kammerantwort): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Notar Unparteilichkeit Familiengesellschaft (Verteidigungs- und Kammerantwort): steuert Unparteilichkeit bei Familiengesellschaft, Näheverhältnis, Belehrungspflichten und Ablehnung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Notar Unparteilichkeit Familiengesellschaft: Verteidigungs- und Kammerantwort
 

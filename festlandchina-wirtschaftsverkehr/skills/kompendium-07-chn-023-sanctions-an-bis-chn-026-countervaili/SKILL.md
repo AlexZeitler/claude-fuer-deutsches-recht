@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-chn-023-sanctions-an-bis-chn-026-countervaili
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (chn-023-sanctions-and-restricted-party-screening, chn-024-anti-coercion-instrument-eu, chn-025-trade-defence-anti-dumping, chn-026-countervailing-duty-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 023 Sanctions And Restricted Party Screening, Chn 024 Anti Coercion Instrument Eu, Chn 025 Trade Defence Anti Dumping, Chn 026 Countervailing Duty Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 023 Sanctions And Restricted Party Screening bis Chn 026 Countervailing Duty Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-023-sanctions-and-restricted-party-screening` | Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung. |
 | `chn-024-anti-coercion-instrument-eu` | EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-023-sanctions-and-restricted-party-screening`
 
-**Frühere Beschreibung:** Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung.
+**Fokus:** Sanktionen und Restricted-Party-Screening im China-Geschaeft: EU-Sanktionen (keine umfassenden China-Sanktionen, aber Dual-Use-Beschränkungen), US-SDN-Liste, Entity-List BIS, chinesische Unreliable Entity List, Matching-Algorithmen, False-Positives-Handling, BAFA-Meldepflichten, Re-Export-Risiken. Output: Screening-Prozess-Handbuch und Tool-Empfehlung.
 
 # Sanktionen und Restricted-Party-Screening: China-Spezifika
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-024-anti-coercion-instrument-eu`
 
-**Frühere Beschreibung:** EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad.
+**Fokus:** EU Anti-Coercion Instrument (EU-VO 2023/2675): Anwendungsvoraussetzungen wirtschaftliche Zwangsmaßnahmen, Aktivierungsverfahren EU-Kommission, Gegenmaßnahmen, Relevanz für China-Handelsstreitigkeiten, Abgrenzung zu Anti-Dumping und Schutzmaßnahmen. Praxisrelevanz für Unternehmen bei chinesischen Gegenmaßnahmen. Output: ACI-Prüfschema und Eskalationspfad.
 
 # EU Anti-Coercion Instrument: Schutz gegen chinesische Wirtschaftszwangsmaßnahmen
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-025-trade-defence-anti-dumping`
 
-**Frühere Beschreibung:** EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe.
+**Fokus:** EU-Handelschutzmaßnahmen gegen VR China: Anti-Dumping-Verfahren nach EU-VO 2016/1036, laufende Maßnahmen (Solar, Stahl, E-Bikes, Reifen), Schadensprüfung, Zollberechnung, Anträge auf MET/IT-Behandlung, Circumvention-Verdacht, Gegenzölle CN. Output: Anti-Dumping-Einordnung für Produktgruppe und Kalkulationshilfe.
 
 # EU Anti-Dumping China: Verfahren und laufende Maßnahmen
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-026-countervailing-duty-risk`
 
-**Frühere Beschreibung:** EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick.
+**Fokus:** EU-Antisubventionsverfahren (Countervailing Duties) gegen VR China nach EU-VO 2016/1037: Subventionskategorien (staatliche Darlehen, Bürgschaften, Vorzugspreise), Foreign Subsidies VO 2022/2560 als Parallelinstrument, Betroffenheitsprüfung für Importeure, Verfahren EU-Kommission, Mitwirkungspflichten. Output: CVD-Risikoeinschätzung und Verfahrensüberblick.
 
 # EU-Antisubventionsverfahren China: Risiken und Verfahren
 

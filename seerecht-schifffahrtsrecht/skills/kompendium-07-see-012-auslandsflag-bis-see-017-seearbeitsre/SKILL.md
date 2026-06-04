@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-see-012-auslandsflag-bis-see-017-seearbeitsre
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (see-012-auslandsflagge-und-local-counsel, see-014-insolvenz-der-reederei, see-015-versicherung-p-i-hull, see-016-hafenrecht-und-liegegeld, see-017-seearbeitsrecht-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 012 Auslandsflagge Und Local Counsel, See 014 Insolvenz Der Reederei, See 015 Versicherung P I Hull, See 016 Hafenrecht Und Liegegeld und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 012 Auslandsflagge Und Local Counsel bis See 017 Seearbeitsrecht Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-012-auslandsflagge-und-local-counsel` | Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste. |
 | `see-014-insolvenz-der-reederei` | Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-012-auslandsflagge-und-local-counsel`
 
-**Frühere Beschreibung:** Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste.
+**Fokus:** Reederei betreibt Schiff unter Auslandsflagge (Panama; Marshall Islands; Liberia); Abstimmung mit Local Counsel fuer Registerfragen; Hypotheken; PSC-Verfahren. UNCLOS Art. 91-94 (genuine link; Flaggenstaat); FlaggRG §§ 1-10 (Deutsche Flagge); ISM-Code; Paris MOU Port-State-Control. Output: Local-Counsel-Briefing und Flaggenstaat-Compliance-Checkliste.
 
 # Auslandsflagge und Local Counsel – Flaggenstaat-Compliance
 
@@ -129,7 +129,7 @@ Eine deutsche Reederei betreibt ihre Flotte unter Panama-Flagge und bekommt Port
 
 ## 2. `see-014-insolvenz-der-reederei`
 
-**Frühere Beschreibung:** Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie.
+**Fokus:** Reederei ist insolvent; Insolvenzverwalter oder Glaeubiger klaert Absonderungsrechte an Schiffen. InsO §§ 49-51 (Absonderung Schiffshypothek); InsO § 21 (Sicherungsmassnahmen); HGB §§ 596-601 (Schiffsglaeubigerrechte); ZPO §§ 864-871 (Zwangsversteigerung). EuInsVO Recast 2015/848. Output: Glaeubigeranalyse und Verwertungsstrategie.
 
 # Insolvenz der Reederei – Gläubigerrechte und Verwertung
 
@@ -211,7 +211,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 3. `see-015-versicherung-p-i-hull`
 
-**Frühere Beschreibung:** Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden.
+**Fokus:** Mandant prueft Schiffsversicherungsschutz P&I (Protection & Indemnity) und H&M (Hull & Machinery): Deckungsabgrenzung; Club-Rules; Kollisions-Haftungsteilung (3/4 H&M vs. 1/4 P&I); Mortgagee Interest Insurance (MII); Both-to-Blame-Klausel. VVG §§ 28-30; DTV-Klauseln Kasko; IGP&I Group Agreement. Output: Deckungsanalyse und Schadensabwicklungs-Leitfaden.
 
 # Versicherung P&I und Hull & Machinery – Deckungsanalyse
 
@@ -292,7 +292,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 4. `see-016-hafenrecht-und-liegegeld`
 
-**Frühere Beschreibung:** Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie.
+**Fokus:** Reeder oder Charterer streitet ueber Liegegeld; Hafengebühren oder Hafensperrung: HGB §§ 527-545 (Liegegeld Voyage Charter); NOR-Wirksamkeit; Laytime-Berechnung; Demurrage-Dispatch-Abrechnung. Hafenpfandrecht (HGB § 601); Hamburger Hafenordnung; SeeschStrO. Output: Liegegeld-Berechnung und Klagestrategie.
 
 # Hafenrecht und Liegegeld – Demurrage-Berechnung und Hafenstreit
 
@@ -372,7 +372,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 5. `see-017-seearbeitsrecht-schnittstelle`
 
-**Frühere Beschreibung:** Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check.
+**Fokus:** Seemann oder Reederei klaert Arbeitsverhältnis; Heurvertrag; Repatriierung oder MLC-Beschwerde. SeeArbG §§ 1-130 (Seearbeitsgesetz); MLC 2006 Titel 1-4; STCW-Uebereinkommen; Besatzungsstaerke (BSH Safe-Manning); Ruhezeiten-Verstoss; Krankenlohn 16 Wochen. Output: Heurvertrag-Analyse und MLC-Compliance-Check.
 
 # Seearbeitsrecht – Heurvertrag und MLC-Compliance
 

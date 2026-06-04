@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-btm-022-cannabis-men-bis-btm-025-cannabis-ein
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (btm-022-cannabis-menge-einordnen, btm-023-cannabis-strafrahmen-routen, btm-024-cannabis-beweis-sichern, btm-025-cannabis-einlassung-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 022 Cannabis Menge Einordnen, Btm 023 Cannabis Strafrahmen Routen, Btm 024 Cannabis Beweis Sichern, Btm 025 Cannabis Einlassung Planen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 022 Cannabis Menge Einordnen bis Btm 025 Cannabis Einlassung Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-022-cannabis-menge-einordnen` | Betäubungsmittelrecht: Cannabis: Menge einordnen. Menge einordnen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-023-cannabis-strafrahmen-routen` | Betäubungsmittelrecht: Cannabis: Strafrahmen routen. Strafrahmen routen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-022-cannabis-menge-einordnen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Cannabis: Menge einordnen. Menge einordnen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Cannabis: Menge einordnen. Menge einordnen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Cannabis Menge Einordnen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-023-cannabis-strafrahmen-routen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Cannabis: Strafrahmen routen. Strafrahmen routen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Cannabis: Strafrahmen routen. Strafrahmen routen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Cannabis Strafrahmen Routen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-024-cannabis-beweis-sichern`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Cannabis: Beweis sichern. Beweis sichern für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Cannabis: Beweis sichern. Beweis sichern für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Cannabis Beweis Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-025-cannabis-einlassung-planen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Cannabis: Einlassung planen. Einlassung planen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Cannabis: Einlassung planen. Einlassung planen für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Cannabis Einlassung Planen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-dokument-upload-erst-bis-einbuergerung
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (dokument-upload-erste-hilfe, dolmetscher-und-uebersetzung, eilantrag-notfall, einbuergerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dokument Upload Erste Hilfe, Dolmetscher Und Uebersetzung, Eilantrag Notfall, Einbuergerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Dokument Upload Erste Hilfe bis Einbuergerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dokument-upload-erste-hilfe` | Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit. |
 | `dolmetscher-und-uebersetzung` | Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dokument-upload-erste-hilfe`
 
-**Frühere Beschreibung:** Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit.
+**Fokus:** Liest eingescannten Bescheid, Brief, Formular oder Ladung und macht zuerst Rollen-, Fristen-, Risiko- und Nächste-Schritte-Klarheit.
 
 # Dokument-Upload Erste Hilfe
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `dolmetscher-und-uebersetzung`
 
-**Frühere Beschreibung:** Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist.
+**Fokus:** Klären, wann Übersetzung, Dolmetscher, einfache Sprache, fremdsprachiger Begleittext oder amtliche Übersetzung nötig ist.
 
 # Dolmetscher und Übersetzung
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `eilantrag-notfall`
 
-**Frühere Beschreibung:** Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung.
+**Fokus:** Erkennt Notlagen, in denen Widerspruch/Klage nicht reicht: Existenz, Wohnung, Schule, Aufenthalt, Gesundheit, Kinderschutz, Vollziehung.
 
 # Eilantrag Notfall
 
@@ -156,7 +156,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `einbuergerung`
 
-**Frühere Beschreibung:** Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel.
+**Fokus:** Erklärt Antrag, Unterlagen, Sprach- und Lebensunterhaltsfragen, Rückfragen, Verzögerung und Rechtsmittel.
 
 # Einbürgerung
 

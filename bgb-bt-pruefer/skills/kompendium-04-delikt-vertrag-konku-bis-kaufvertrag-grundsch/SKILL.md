@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-delikt-vertrag-konku-bis-kaufvertrag-grundsch
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (delikt-vertrag-konkurrenz, dienstvertrag-und-behandlungsvertrag, kaufvertrag-grundschema-paragraph-433) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Delikt Vertrag Konkurrenz, Dienstvertrag Und Behandlungsvertrag, Kaufvertrag Grundschema Paragraph 433; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bgb-bt-pruefer
+# Arbeitsbereich - Delikt Vertrag Konkurrenz, Dienstvertrag Und Behandlungsvertrag, Kaufvertrag Grundschema Paragraph 433
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `delikt-vertrag-konkurrenz` | Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede. |
 | `dienstvertrag-und-behandlungsvertrag` | Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `delikt-vertrag-konkurrenz`
 
-**Frühere Beschreibung:** Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede.
+**Fokus:** Prüft das Verhältnis von vertraglicher und deliktischer Haftung: Konkurrenz, Anspruchskumulation und Verjährungsunterschiede.
 
 # Delikt-Vertrag Konkurrenz
 
@@ -121,7 +121,7 @@ Das Konkurrenzverhältnis von vertraglichem Schadensersatz (§ 280 BGB) und Deli
 
 ## 2. `dienstvertrag-und-behandlungsvertrag`
 
-**Frühere Beschreibung:** Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung.
+**Fokus:** Prüft Dienstvertrag §§ 611 ff. BGB und Behandlungsvertrag §§ 630a ff. BGB: Aufklärung, Dokumentation und Arzthaftung.
 
 # Dienstvertrag und Behandlungsvertrag
 
@@ -210,7 +210,7 @@ Behandlungsvertragsrecht nach §§ 630a–630h BGB prüfen: Aufklärungspflichte
 
 ## 3. `kaufvertrag-grundschema-paragraph-433`
 
-**Frühere Beschreibung:** Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz.
+**Fokus:** Kaufvertrag § 433 BGB: Primär- und Sekundäransprüche, Übergabe, Eigentumsverschaffung, AGB und Verbraucherschutz.
 
 # Kaufvertrag Grundschema § 433 BGB
 

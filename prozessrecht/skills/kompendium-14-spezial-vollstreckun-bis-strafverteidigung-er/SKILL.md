@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-vollstreckun-bis-strafverteidigung-er
-description: "prozessrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-vollstreckung-behoerden-gericht-und-registerweg, stpo-biometrischer-internetabgleich-und-ki-ermittlung, strafverteidigung-ersttermin) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "prozessrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vollstreckung Behoerden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - prozessrecht
+# Arbeitsbereich - Vollstreckung Behoerden Gericht Und Registerweg, Stpo Biometrischer Internetabgleich Und Ki Ermittlung, Strafverteidigung Ersttermin
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-vollstreckung-behoerden-gericht-und-registerweg` | Vollstreckung: Behörden-, Gerichts- oder Registerweg im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `stpo-biometrischer-internetabgleich-und-ki-ermittlung` | StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-vollstreckung-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Vollstreckung: Behörden-, Gerichts- oder Registerweg im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vollstreckung: Behörden-, Gerichts- oder Registerweg im Plugin prozessrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vollstreckung: Behörden-, Gerichts- oder Registerweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `stpo-biometrischer-internetabgleich-und-ki-ermittlung`
 
-**Frühere Beschreibung:** StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik.
+**Fokus:** StPO-Spezialprüfung zu digitalen Ermittlungsmaßnahmen: § 98d StPO-E biometrischer Internetabgleich, § 98e StPO-E Analyseplattform, § 101 StPO-E Benachrichtigung, §§ 161 163 StPO als Grenzen manueller OSINT, KI-VO-Hochrisiko, Grundrechte, Akteneinsicht und prozessuale Angriffslogik.
 
 # StPO: Biometrischer Internetabgleich und KI-Ermittlung
 
@@ -226,7 +226,7 @@ Wenn diese Unterlagen fehlen, ist das nicht nur Datenschutz- oder Technikproblem
 
 ## 3. `strafverteidigung-ersttermin`
 
-**Frühere Beschreibung:** Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht).
+**Fokus:** Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht).
 
 # Strafverteidigung – Ersttermin und erste Schritte
 

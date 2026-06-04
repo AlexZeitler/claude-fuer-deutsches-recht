@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-schutz-missbrauch-un-bis-spanische-katechese
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (schutz-missbrauch-und-meldepflichten, seelsorgegesprach-als-skript, segensfragen-und-pastorale-grenzen, spanische-katechese-und-ehefragen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schutz Missbrauch Und Meldepflichten, Seelsorgegesprach Als Skript, Segensfragen Und Pastorale Grenzen, Spanische Katechese Und Ehefragen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Schutz Missbrauch Und Meldepflichten bis Spanische Katechese Und Ehefragen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schutz-missbrauch-und-meldepflichten` | Schutz, Missbrauch und Meldepflichten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `seelsorgegesprach-als-skript` | Seelsorgegespräch als Skript: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schutz-missbrauch-und-meldepflichten`
 
-**Frühere Beschreibung:** Schutz, Missbrauch und Meldepflichten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Schutz, Missbrauch und Meldepflichten: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Schutz, Missbrauch und Meldepflichten
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `seelsorgegesprach-als-skript`
 
-**Frühere Beschreibung:** Seelsorgegespräch als Skript: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Seelsorgegespräch als Skript: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Seelsorgegespräch als Skript
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `segensfragen-und-pastorale-grenzen`
 
-**Frühere Beschreibung:** Segensfragen und pastorale Grenzen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Segensfragen und pastorale Grenzen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Segensfragen und pastorale Grenzen
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `spanische-katechese-und-ehefragen`
 
-**Frühere Beschreibung:** Spanische Katechese und Ehefragen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Spanische Katechese und Ehefragen: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Spanische Katechese und Ehefragen
 

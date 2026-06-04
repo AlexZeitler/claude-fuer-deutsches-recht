@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-mandantenbrief-bis-rbs-beratungshilfe-u
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (mandantenbrief, memo, rbs-beratungshilfe-und-pkh-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenbrief, Memo, Rbs Beratungshilfe Und Pkh Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - rechtsberatungsstelle
+# Arbeitsbereich - Mandantenbrief, Memo, Rbs Beratungshilfe Und Pkh Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenbrief` | Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze. |
 | `memo` | Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE, das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder ein Kurz-Gutachten für einen Fall erstellen muss. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenbrief`
 
-**Frühere Beschreibung:** Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze.
+**Fokus:** Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze.
 
 # /mandantenbrief
 
@@ -169,7 +169,7 @@ Jede Ausgabe trägt:
 
 ## 2. `memo`
 
-**Frühere Beschreibung:** Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE, das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder ein Kurz-Gutachten für einen Fall erstellen muss.
+**Fokus:** Erstellt ein Gutachten-Gerüst nach der deutschen Gutachtenmethode (Obersatz — Definition/Norm — Subsumtion — Ergebnis) mit gekennzeichneten Recherchelücken — das Gerüst, nicht die Analyse selbst. Normblöcke sind mit RECHERCHE ERFORDERLICH markiert, die Subsumtion mit STUDENTISCHE ANALYSE, das Ergebnis ist bewusst offen gelassen. Lädt, wenn ein Studierender ein internes Rechtsgutachten strukturieren, eine Fallanalyse aufschreiben oder ein Kurz-Gutachten für einen Fall erstellen muss.
 
 # Internes Rechtsgutachten: Gutachten-Gerüst
 
@@ -370,7 +370,7 @@ Befund: KORRIGIERT. Skill hatte falschen Thementext: "Verbraucherrecht: Widerruf
 
 ## 3. `rbs-beratungshilfe-und-pkh-praxis`
 
-**Frühere Beschreibung:** Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise.
+**Fokus:** Beratungshilfe BerHG und PKH in der Praxis: Antrag beim Amtsgericht, Berechtigung Einkommen, Vermoegen, Wahrnehmungsbefugnis Anwalt. Schnittstelle PKH-Antrag. Mustertexte und Berechtigungsnachweise.
 
 # Rbs: Beratungshilfe-Praxis
 

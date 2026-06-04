@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-risikoklassen-uebers-bis-rueckausnahme-art-6
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (risikoklassen-uebersicht-und-triage, rolle-anbieter-pruefen-art-3-nr-3, rolle-betreiber-pruefen-art-3-nr-4, rueckausnahme-art-6-abs-3) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Risikoklassen Uebersicht Und Triage, Rolle Anbieter Pruefen Art 3 Nr 3, Rolle Betreiber Pruefen Art 3 Nr 4, Rueckausnahme Art 6 Abs 3; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Risikoklassen Uebersicht Und Triage bis Rueckausnahme Art 6 Abs 3
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `risikoklassen-uebersicht-und-triage` | Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs. 2 und Anhang III. Prueft verboten, Hochrisiko nach Art. 6 Abs. 1/2, Rueckausnahme Art. 6 Abs. 3, begrenztes Risiko Art. 50, GPAI und minimales Risiko. Behandelt allgemeine Chatbots/GPAI: nicht automatisch Hochrisiko, sondern zweck- und einsatzbezogen. Output: Risikoklassen-Erstdiagnose mit passenden Folge-Skills und Dokumentationshinweisen. |
 | `rolle-anbieter-pruefen-art-3-nr-3` | Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betreiber Einführer Haendler. Output: Rollenentscheidung Anbieter ja/nein mit Begründung und Liste der Anbieter-Pflichten. Abgrenzung zu anbieter-werden-art-25 (Rollenwechsel) und persoenlicher-anwendungsbereich-rollen-art-3 (Übersicht). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `risikoklassen-uebersicht-und-triage`
 
-**Frühere Beschreibung:** Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs. 2 und Anhang III. Prueft verboten, Hochrisiko nach Art. 6 Abs. 1/2, Rueckausnahme Art. 6 Abs. 3, begrenztes Risiko Art. 50, GPAI und minimales Risiko. Behandelt allgemeine Chatbots/GPAI: nicht automatisch Hochrisiko, sondern zweck- und einsatzbezogen. Output: Risikoklassen-Erstdiagnose mit passenden Folge-Skills und Dokumentationshinweisen.
+**Fokus:** Schnelle Risikoklassen-Triage nach KI-VO mit Fokus auf Art. 6 Abs. 2 und Anhang III. Prueft verboten, Hochrisiko nach Art. 6 Abs. 1/2, Rueckausnahme Art. 6 Abs. 3, begrenztes Risiko Art. 50, GPAI und minimales Risiko. Behandelt allgemeine Chatbots/GPAI: nicht automatisch Hochrisiko, sondern zweck- und einsatzbezogen. Output: Risikoklassen-Erstdiagnose mit passenden Folge-Skills und Dokumentationshinweisen.
 
 # Risikoklassen-Übersicht und Triage — KI-VO
 
@@ -155,7 +155,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3, 5, 6, 50, 51 bis 55 und Anhang III KI-V
 
 ## 2. `rolle-anbieter-pruefen-art-3-nr-3`
 
-**Frühere Beschreibung:** Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betreiber Einführer Haendler. Output: Rollenentscheidung Anbieter ja/nein mit Begründung und Liste der Anbieter-Pflichten. Abgrenzung zu anbieter-werden-art-25 (Rollenwechsel) und persoenlicher-anwendungsbereich-rollen-art-3 (Übersicht).
+**Fokus:** Unternehmen das Software oder KI entwickelt fragt: Sind wir Anbieter im Sinne der KI-VO und welche Pflichten treffen uns deshalb? Art. 3 Nr. 3 KI-VO Anbieter-Definition. Prüfraster: Entwicklung oder Beauftragung Entwicklung Inverkehrbringen unter eigenem Namen Inbetriebnahme. Abgrenzung zu Betreiber Einführer Haendler. Output: Rollenentscheidung Anbieter ja/nein mit Begründung und Liste der Anbieter-Pflichten. Abgrenzung zu anbieter-werden-art-25 (Rollenwechsel) und persoenlicher-anwendungsbereich-rollen-art-3 (Übersicht).
 
 # Rolle-Check: Anbieter — Art. 3 Nr. 3 KI-VO
 
@@ -264,7 +264,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `rolle-betreiber-pruefen-art-3-nr-4`
 
-**Frühere Beschreibung:** Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener Verantwortung Abgrenzung zu persoenlicher nicht beruflicher Nutzung Abgrenzung zu Anbieter. Output: Rollenentscheidung Betreiber ja/nein und Liste der Betreiber-Pflichten. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Detailpflichten) und anbieter-werden-art-25 (Rollenwechsel zu Anbieter).
+**Fokus:** Unternehmen kauft oder lizenziert ein KI-System von einem Anbieter und fragt: Sind wir Betreiber im Sinne der KI-VO und was muessen wir tun? Art. 3 Nr. 4 KI-VO Betreiber-Definition. Prüfraster: Verwendung in eigener Verantwortung Abgrenzung zu persoenlicher nicht beruflicher Nutzung Abgrenzung zu Anbieter. Output: Rollenentscheidung Betreiber ja/nein und Liste der Betreiber-Pflichten. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Detailpflichten) und anbieter-werden-art-25 (Rollenwechsel zu Anbieter).
 
 # Rolle-Check: Betreiber — Art. 3 Nr. 4 KI-VO
 
@@ -383,7 +383,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `rueckausnahme-art-6-abs-3`
 
-**Frühere Beschreibung:** Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko fuer Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruendungs- und Dokumentationspflicht nach Art. 6 Abs. 4. Besonders wichtig fuer allgemeine Assistenzsysteme, Chatbots und vorbereitende Tools in Personal, Justiz, Bildung, Kredit und Verwaltung. Output: begruendeter Rueckausnahme-Vermerk mit Risikobegruendung und Folge-Skills.
+**Fokus:** Prueft nach positiver Anhang-III-Zuordnung, ob ein KI-System ausnahmsweise nicht Hochrisiko ist. Art. 6 Abs. 3 KI-VO: kein erhebliches Risiko fuer Gesundheit, Sicherheit oder Grundrechte, vier enge Fallgruppen, Profiling-Sperre, Begruendungs- und Dokumentationspflicht nach Art. 6 Abs. 4. Besonders wichtig fuer allgemeine Assistenzsysteme, Chatbots und vorbereitende Tools in Personal, Justiz, Bildung, Kredit und Verwaltung. Output: begruendeter Rueckausnahme-Vermerk mit Risikobegruendung und Folge-Skills.
 
 # Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO
 

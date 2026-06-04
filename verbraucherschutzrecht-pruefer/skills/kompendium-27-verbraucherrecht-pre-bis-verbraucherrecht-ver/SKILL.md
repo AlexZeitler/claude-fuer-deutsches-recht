@@ -1,17 +1,17 @@
 ---
 name: kompendium-27-verbraucherrecht-pre-bis-verbraucherrecht-ver
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 27; bündelt 4 frühere Spezialskills (verbraucherrecht-preisangaben-und-dark-patterns, verbraucherrecht-reise-flug-pauschal, verbraucherrecht-right-to-repair, verbraucherrecht-verbandsklage-musterfeststellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verbraucherrecht Preisangaben Und Dark Patterns, Verbraucherrecht Reise Flug Pauschal, Verbraucherrecht Right To Repair, Verbraucherrecht Verbandsklage Musterfeststellung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Verbraucherrecht Preisangaben Und Dark Patterns bis Verbraucherrecht Verbandsklage Musterfeststellung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verbraucherrecht-preisangaben-und-dark-patterns` | Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
 | `verbraucherrecht-reise-flug-pauschal` | Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verbraucherrecht-preisangaben-und-dark-patterns`
 
-**Frühere Beschreibung:** Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.; Normanker: PAngV; UWG §§ 3 und 5 und 5a; DSA-Schnittstellen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Preisangaben, Omnibus und Dark Patterns: Grundpreis, Streichpreis, Ranking, Zusatzkosten und manipulative Gestaltung.
 
@@ -54,7 +54,7 @@ PAngV; UWG §§ 3, 5, 5a; DSA-Schnittstellen. Der aktuelle Normtext, insbesonder
 
 ## 2. `verbraucherrecht-reise-flug-pauschal`
 
-**Frühere Beschreibung:** Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.; Normanker: BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Reise, Flug und Pauschalreise: Mängelanzeige, Ausgleich, Rücktritt, höhere Gewalt, Insolvenzabsicherung.
 
@@ -79,7 +79,7 @@ BGB §§ 651a ff.; FluggastrechteVO; Montrealer Übereinkommen. Der aktuelle Nor
 
 ## 3. `verbraucherrecht-right-to-repair`
 
-**Frühere Beschreibung:** Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.; Normanker: BGB §§ 439 und 475; EU-Reparaturregime; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.; Normanker: BGB §§ 439 und 475; EU-Reparaturregime; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Right to Repair und Reparaturanspruch: Nacherfüllung, Ersatzteile, Reparaturinformation, Herstellergarantie und Nachhaltigkeitsargument.
 
@@ -104,7 +104,7 @@ BGB §§ 439, 475; EU-Reparaturregime; Produktsicherheitsrecht. Der aktuelle Nor
 
 ## 4. `verbraucherrecht-verbandsklage-musterfeststellung`
 
-**Frühere Beschreibung:** Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.; Normanker: UKlaG; VDuG; ZPO; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.; Normanker: UKlaG; VDuG; ZPO; UWG; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Verbraucherverbandsdurchsetzung: Unterlassung, Musterfeststellung, Abhilfeklage, Sammelinteressen und Beweissicherung.
 

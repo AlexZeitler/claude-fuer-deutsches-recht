@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-grosskanzlei-corpora-bis-ki-einsatz-bei-gutac
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 23; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-wi-insurance, grosskanzlei-ma-aktenanlage, grosskanzlei-ma-insolvenzreife, grosskanzlei-ma-liquiditaetsvorschau, grosskanzlei-ma-schreibcanvas und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Wi Insurance, Grosskanzlei Ma Aktenanlage, Grosskanzlei Ma Insolvenzreife, Grosskanzlei Ma Liquiditaetsvorschau und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Wi Insurance bis Ki Einsatz Bei Gutachten Mandatsseite
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-wi-insurance` | W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf. |
 | `grosskanzlei-ma-aktenanlage` | Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-wi-insurance`
 
-**Frühere Beschreibung:** W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
+**Fokus:** W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
 
 # W&I-Versicherung
 
@@ -253,7 +253,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-ma-aktenanlage`
 
-**Frühere Beschreibung:** Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter.
+**Fokus:** Freistehende M&A-Aktenanlage ohne externes Plugin: Anwendungsfall neue Corporate-Transaktion wird aufgenommen und Deal-Akte mit Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel und Closing-Bible-Grundgeruest wird benoetigt. § 43a BRAO Aktenführung, GoBD Aufbewahrungsfristen. Prüfraster Transaktionsparteien, Deal-Code, Vertraulichkeitsstufen, Workstream-Struktur, Closing-Bible-Vorbereitung. Output vollständig eingerichtete Deal-Akte mit internen Zugriffsrechten und Checkliste. Abgrenzung zum Matter-File-Skill im Corporate-Plugin und zum Kommandocenter.
 
 # Freistehende M&A-Aktenanlage
 
@@ -509,7 +509,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-ma-insolvenzreife`
 
-**Frühere Beschreibung:** Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG drohende Zahlungsunfähigkeit. Prüfraster Zahlungsunfähigkeitstest Liquiditaetsstatus, Überschuldungsbilanz Fortführungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin.
+**Fokus:** Freistehender Insolvenzreife- und StaRUG-Schwellencheck für M&A: Anwendungsfall im Kaufprozess oder Beratungsmandat muss geprüft werden ob Zielunternehmen oder Mandant nahe an Insolvenzantragspflicht ist. §§ 17-19 InsO Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung, § 1 StaRUG drohende Zahlungsunfähigkeit. Prüfraster Zahlungsunfähigkeitstest Liquiditaetsstatus, Überschuldungsbilanz Fortführungswille, Antragspflicht-Timing. Output Insolvenzreife-Gutachten mit Ampelstatus Handlungsoptionen und Deal-Auswirkungen. Abgrenzung zu Liquiditaetsvorschau und zu Fortbestehensprognose-Plugin.
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck
 
@@ -778,7 +778,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-ma-liquiditaetsvorschau`
 
-**Frühere Beschreibung:** Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfähigkeit, § 19 InsO Überschuldung, § 1 StaRUG Sanierung. Prüfraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill für Antragspflicht-Prüfung und zu Fortbestehensprognose-Plugin.
+**Fokus:** Freistehende Liquiditaetsvorschau für Corporate M&A und Distressed M&A: Anwendungsfall Kaeufer Verkaeufer oder Vorstand braucht kurzfristige Zahlungsfähigkeits-Übersicht 3-Wochen bis 13-Wochen-Horizont. § 17 InsO Zahlungsunfähigkeit, § 19 InsO Überschuldung, § 1 StaRUG Sanierung. Prüfraster 3-Wochen-Liquiditaet, 13-Wochen-Cash-Bridge, Runway-Berechnung, OPOS offene Posten, Bankdaten Kreditlinien Insolvenzschwellen. Output Liquiditaetsplan mit Zeitreihe Ampelstatus und Handlungsempfehlungen. Abgrenzung zu Insolvenzreife-Skill für Antragspflicht-Prüfung und zu Fortbestehensprognose-Plugin.
 
 # Freistehende Liquiditätsvorschau
 
@@ -1014,7 +1014,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-ma-schreibcanvas`
 
-**Frühere Beschreibung:** Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Prüfraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel für Ausgabeformat und zu Vertragsmarkup-Key-Issues.
+**Fokus:** Freistehender Corporate-Schreibcanvas für SPA Board Paper und DD-Report: Anwendungsfall Anwalt entwirft SPA-Klausel Markup-Antwort DD-Report oder Mandatsvereinbarung und braucht substanzorientierten Schreibbegleiter der unsubstantiierte Aussagen erkennt. §§ 433 ff. BGB Vertragsrecht, § 93 AktG Organpflichten, BRAO Berufsrecht. Prüfraster unsubstantiierte Behauptungen markieren, fehlende Belege benennen, zu scharfe oder weiche Formulierungen korrigieren. Output kommentierter Entwurf mit konkreten Verbesserungsvorschlaegen. Abgrenzung zu Look-and-Feel für Ausgabeformat und zu Vertragsmarkup-Key-Issues.
 
 # Freistehender Corporate-Schreibcanvas
 
@@ -1185,7 +1185,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-ma-tabellenreview`
 
-**Frühere Beschreibung:** Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Prüfraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI.
+**Fokus:** Freistehender Tabellenreview für Corporate M&A-Dokumente Datenpunkte und Perspektiven: Anwendungsfall Tabellen Formeln Excel-Modelle oder Dokumentenmatrizen in Transaktionen muessen auf Formelbrueche widersprüchliche Zahlen und Inkonsistenzen geprüft werden. SPA Financial Statements, DD-Modelle. Prüfraster Formel-Integritaet prüfen, Dokumenten-Cluster als Zeilen, Workstream-Perspektiven Legal/Tax/Finance als Blaetter, Querverweise prüfen. Output Review-Matrix mit Befunden Ampelstatus und Korrekturbedarf. Abgrenzung zum 3D-Tabellenreview-Datenraum-Skill und zu Datenqualitaet-XAI.
 
 # Freistehender Tabellenreview
 
@@ -1424,7 +1424,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `ki-einsatz-bei-gutachten-mandatsseite`
 
-**Frühere Beschreibung:** Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstufen, Anhörungs- und Aktenherausgabeanträge, Hinweise für Privatgutachten und Schiedsverfahren mit AI-Disclosure-Klauseln.
+**Fokus:** Großkanzlei-Mandatsseite bei KI-Verdacht gegenüber gerichtlichen oder vorgerichtlichen Sachverständigengutachten in Corporate-, M&A- und Schiedsverfahren. Strategische Prüfung der höchstpersönlichen Erstellungspflicht nach § 407a Abs. 1 ZPO, JVEG-Vergütungsmechanismen § 8a Abs. 2, Eskalationsstufen, Anhörungs- und Aktenherausgabeanträge, Hinweise für Privatgutachten und Schiedsverfahren mit AI-Disclosure-Klauseln.
 
 # KI-Einsatz bei Gutachten — Mandatsseite (Großkanzlei)
 

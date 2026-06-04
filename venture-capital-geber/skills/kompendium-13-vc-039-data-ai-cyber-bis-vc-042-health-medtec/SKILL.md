@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-vc-039-data-ai-cyber-bis-vc-042-health-medtec
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (vc-039-data-ai-cyber-dd, vc-040-open-source-software-dd, vc-041-fintech-crypto-regulated-target, vc-042-health-medtech-biotech) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 039 Data Ai Cyber Dd, Vc 040 Open Source Software Dd, Vc 041 Fintech Crypto Regulated Target, Vc 042 Health Medtech Biotech; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - venture-capital-geber
+# Arbeitsbereich - Vc 039 Data Ai Cyber Dd bis Vc 042 Health Medtech Biotech
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-039-data-ai-cyber-dd` | Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten. |
 | `vc-040-open-source-software-dd` | Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-039-data-ai-cyber-dd`
 
-**Frühere Beschreibung:** Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten.
+**Fokus:** Prüft Datenschutz, AI-Act-Risiko, Trainingsdaten, Cybervorfälle, NIS2-Schnittstelle, DPA/AVV und SaaS-Abhängigkeiten.
 
 # Data, AI und Cyber DD
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-040-open-source-software-dd`
 
-**Frühere Beschreibung:** Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow.
+**Fokus:** Prüft OSS-Komponenten, Copyleft, Lizenzverstöße, Code Ownership, Repos, Freelancer und Escrow.
 
 # Open Source und Software-DD
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-041-fintech-crypto-regulated-target`
 
-**Frühere Beschreibung:** Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets.
+**Fokus:** Prüft KWG, ZAG, WpIG, MiCAR, eWpG, Kryptoverwahrung, Outsourcing und BaFin-Kommunikation bei VC-Targets.
 
 # FinTech, Crypto und regulierte Targets
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-042-health-medtech-biotech`
 
-**Frühere Beschreibung:** Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erstattung, IP und Haftung bei Health-Startups.
+**Fokus:** Prüft Medizinprodukte, Studien, Zulassung, Datenschutz, GOÄ/Erstattung, IP und Haftung bei Health-Startups.
 
 # Health, MedTech und Biotech
 

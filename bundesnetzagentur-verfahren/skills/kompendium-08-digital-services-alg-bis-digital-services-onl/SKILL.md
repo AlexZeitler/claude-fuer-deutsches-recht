@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-digital-services-alg-bis-digital-services-onl
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 08; bündelt 8 frühere Spezialskills (digital-services-algorithmen-empfehlungssysteme-dsa, digital-services-aussergerichtliche-streitbeilegungsstelle-dsa, digital-services-dark-patterns-dsa-schnittstelle, digital-services-datenzugang-forscher-dsa, digital-services-digital-services-coordinator-ddg und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Digital Services Algorithmen Empfehlungssysteme Dsa, Digital Services Aussergerichtliche Streitbeilegungsstelle Dsa, Digital Services Dark Patterns Dsa Schnittstelle, Digital Services Datenzugang Forscher Dsa und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Digital Services Algorithmen Empfehlungssysteme Dsa bis Digital Services Online Werbung Transparenz Dsa
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `digital-services-algorithmen-empfehlungssysteme-dsa` | Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
 | `digital-services-aussergerichtliche-streitbeilegungsstelle-dsa` | Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `digital-services-algorithmen-empfehlungssysteme-dsa`
 
-**Frühere Beschreibung:** Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Algorithmen Empfehlungssysteme DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Algorithmen und Empfehlungssysteme nach dem Digital Services Act
 
@@ -153,7 +153,7 @@ Vor Versand prüfen:
 
 ## 2. `digital-services-aussergerichtliche-streitbeilegungsstelle-dsa`
 
-**Frühere Beschreibung:** Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Außergerichtliche Streitbeilegungsstelle DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA
 
@@ -271,7 +271,7 @@ Vor Antragstellung prüfen:
 
 ## 3. `digital-services-dark-patterns-dsa-schnittstelle`
 
-**Frühere Beschreibung:** Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Dark Patterns DSA Schnittstelle: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Dark Patterns: DSA-, UWG- und DSGVO-Schnittstelle
 
@@ -330,7 +330,7 @@ Screenshots datiert? URL und Zeitpunkt sicher? Vergleichsmaßstab benannt? Paral
 
 ## 4. `digital-services-datenzugang-forscher-dsa`
 
-**Frühere Beschreibung:** Digital Services / Datenzugang Forscher DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Datenzugang Forscher DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Datenzugang für Forschung nach Art. 40 DSA
 
@@ -389,7 +389,7 @@ Akkreditierung sichergestellt? Bezug zu Art. 34 DSA explizit? Datenschutzfolgena
 
 ## 5. `digital-services-digital-services-coordinator-ddg`
 
-**Frühere Beschreibung:** Digital Services / Digital Services Coordinator DDG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Digital Services Coordinator DDG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Digital Services Coordinator nach DDG: Behördenstruktur und Verfahren
 
@@ -452,7 +452,7 @@ Zuständigkeit DSC vs. Kommission geklärt? Nationale Behördenbeteiligung berü
 
 ## 6. `digital-services-dsa-beschwerde-plattform`
 
-**Frühere Beschreibung:** Digital Services / DSA Beschwerde Plattform: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / DSA Beschwerde Plattform: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # DSA-Beschwerde gegen eine Online-Plattform
 
@@ -514,7 +514,7 @@ Aktivlegitimation tragfähig? Pflichtenzuordnung präzise (genaue DSA-Artikel)? 
 
 ## 7. `digital-services-nationale-koordinierung-dsa-behoerden`
 
-**Frühere Beschreibung:** Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Nationale Koordinierung DSA Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Nationale Koordinierung der DSA-Behörden in Deutschland
 
@@ -573,7 +573,7 @@ Zuständigkeitsmatrix vollständig? § 17 DDG-Beteiligungsrechte gewahrt? Parall
 
 ## 8. `digital-services-online-werbung-transparenz-dsa`
 
-**Frühere Beschreibung:** Digital Services / Online-Werbung Transparenz DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Online-Werbung Transparenz DSA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Online-Werbung Transparenz nach Art. 26 und Art. 39 DSA
 

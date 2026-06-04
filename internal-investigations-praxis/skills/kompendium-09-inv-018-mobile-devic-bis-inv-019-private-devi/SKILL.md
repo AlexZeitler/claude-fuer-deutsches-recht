@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-inv-018-mobile-devic-bis-inv-019-private-devi
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (inv-018-mobile-devices, inv-019-private-devices-byod) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 018 Mobile Devices, Inv 019 Private Devices Byod; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - internal-investigations-praxis
+# Arbeitsbereich - Inv 018 Mobile Devices, Inv 019 Private Devices Byod
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-018-mobile-devices` | Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO. |
 | `inv-019-private-devices-byod` | Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-018-mobile-devices`
 
-**Frühere Beschreibung:** Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO.
+**Fokus:** Sichert und wertet Mobile Devices (Smartphones, Tablets) forensisch aus – MDM, Passwortzugriff, BYOD-Grenzen, DSGVO.
 
 # Mobile-Device-Forensik in Internal Investigations
 
@@ -113,7 +113,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-019-private-devices-byod`
 
-**Frühere Beschreibung:** Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB.
+**Fokus:** Klärt die Grenzen des Arbeitgeberzugriffs auf private Geräte (BYOD) in Internal Investigations – Einwilligung, Verhältnismäßigkeit, § 202a StGB.
 
 # Private Geräte und BYOD in Internal Investigations
 

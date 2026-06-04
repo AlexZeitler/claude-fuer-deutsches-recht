@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-betriebsrat-mitbesti-bis-boesglaeubige-meldun
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (betriebsrat-mitbestimmung, beweislastumkehr, bewerber-ehemalige, boesglaeubige-meldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betriebsrat Mitbestimmung, Beweislastumkehr, Bewerber Ehemalige, Boesglaeubige Meldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Betriebsrat Mitbestimmung bis Boesglaeubige Meldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betriebsrat-mitbestimmung` | Prüft Mitbestimmung bei Meldesystem und Untersuchungen. |
 | `beweislastumkehr` | Prüft Beweislastumkehr nach Meldung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betriebsrat-mitbestimmung`
 
-**Frühere Beschreibung:** Prüft Mitbestimmung bei Meldesystem und Untersuchungen.
+**Fokus:** Prüft Mitbestimmung bei Meldesystem und Untersuchungen.
 
 # Betriebsrat Mitbestimmung
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `beweislastumkehr`
 
-**Frühere Beschreibung:** Prüft Beweislastumkehr nach Meldung.
+**Fokus:** Prüft Beweislastumkehr nach Meldung.
 
 # Beweislastumkehr
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `bewerber-ehemalige`
 
-**Frühere Beschreibung:** Prüft Bewerber und ehemalige Beschäftigte.
+**Fokus:** Prüft Bewerber und ehemalige Beschäftigte.
 
 # Bewerber Ehemalige
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `boesglaeubige-meldung`
 
-**Frühere Beschreibung:** Behandelt bewusst falsche oder missbräuchliche Meldungen.
+**Fokus:** Behandelt bewusst falsche oder missbräuchliche Meldungen.
 
 # Boesglaeubige Meldung
 

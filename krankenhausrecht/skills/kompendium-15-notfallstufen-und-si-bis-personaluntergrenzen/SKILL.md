@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-notfallstufen-und-si-bis-personaluntergrenzen
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (notfallstufen-und-sicherstellungszuschlaege, patientenbeschwerde-und-risikomanagement, personaluntergrenzen-pflege-ppugv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - krankenhausrecht
+# Arbeitsbereich - Notfallstufen Und Sicherstellungszuschlaege, Patientenbeschwerde Und Risikomanagement, Personaluntergrenzen Pflege Ppugv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notfallstufen-und-sicherstellungszuschlaege` | Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung. |
 | `patientenbeschwerde-und-risikomanagement` | Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notfallstufen-und-sicherstellungszuschlaege`
 
-**Frühere Beschreibung:** Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung.
+**Fokus:** Notfallversorgungsstufen nach G-BA-Notfallstufenkonzept und Sicherstellungszuschlaege nach KHEntgG: Eingruppierung, Strukturmerkmale, Vergueterelevanz, Verlust bei Strukturveraenderung.
 
 # Notfallstufen und Sicherstellungszuschlaege
 
@@ -110,7 +110,7 @@ Die G-BA-Regelung zur Notfallversorgung (Notfallstufen-RL) teilt Krankenhaeuser 
 
 ## 2. `patientenbeschwerde-und-risikomanagement`
 
-**Frühere Beschreibung:** Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Patientenbeschwerde und Risikomanagement: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Patientenbeschwerde und Risikomanagement
 
@@ -155,7 +155,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `personaluntergrenzen-pflege-ppugv`
 
-**Frühere Beschreibung:** Pflegepersonaluntergrenzen-Verordnung (PpUGV): pflegesensitive Bereiche, Quotenberechnung, Schichten, Meldepflicht, Sanktionen und Strukturpruefung.
+**Fokus:** Pflegepersonaluntergrenzen-Verordnung (PpUGV): pflegesensitive Bereiche, Quotenberechnung, Schichten, Meldepflicht, Sanktionen und Strukturpruefung.
 
 # Personaluntergrenzen Pflege PpUGV
 

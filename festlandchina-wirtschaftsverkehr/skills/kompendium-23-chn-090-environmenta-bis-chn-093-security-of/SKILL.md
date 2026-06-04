@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-chn-090-environmenta-bis-chn-093-security-of
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (chn-090-environmental-permits-factory, chn-091-workplace-safety-factory, chn-092-union-and-labour-touchpoints, chn-093-security-of-travel-and-devices) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 090 Environmental Permits Factory, Chn 091 Workplace Safety Factory, Chn 092 Union And Labour Touchpoints, Chn 093 Security Of Travel And Devices; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 090 Environmental Permits Factory bis Chn 093 Security Of Travel And Devices
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-090-environmental-permits-factory` | Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping. |
 | `chn-091-workplace-safety-factory` | Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-090-environmental-permits-factory`
 
-**Frühere Beschreibung:** Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping.
+**Fokus:** Umweltgenehmigungen für Fabriken in China: EIA (Environmental Impact Assessment) Pflicht, Emissionsgenehmigungen, Abwasser/Abfall-Entsorgungsvorschriften, MEE-Behördenstruktur, Genehmigungsrisiko bei Kapazitätserweiterung, Bußgeldrahmen CN-Umweltrecht, Verhältnis zu LkSG-Umweltpflichten. Output: Umwelt-Compliance-Checkliste China und Behörden-Mapping.
 
 # Umweltgenehmigungen China: EIA/MEE und LkSG-Schnittstelle
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-091-workplace-safety-factory`
 
-**Frühere Beschreibung:** Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China.
+**Fokus:** Arbeitssicherheit in Fabriken VR China: Work Safety Law (Anquan Shengchan Fa 2021), Unfallmeldepflichten, Sicherheitsbeauftragter (Anquan Guanliyuan), Inspektionsrisiken, Haftung Fabrikleiter bei Unfall, LkSG § 2 Abs. 2 Nr. 5 menschenwürdige Arbeitsbedingungen, OHSAS-18001/ISO-45001-Zertifizierung. Output: Arbeitssicherheits-Compliance-Plan China.
 
 # Arbeitssicherheit Fabriken China: Work Safety Law und LkSG
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-092-union-and-labour-touchpoints`
 
-**Frühere Beschreibung:** Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden.
+**Fokus:** Gewerkschaft und Arbeitsrecht in China: ACFTU (All-China Federation of Trade Unions) Pflichtgewerkschaft, Betriebsvereinbarungen (Collective Contracts), Mindestlohn CN je Provinz, Kündigungsschutz (Labor Contract Law 2008), Streikrecht faktisch eingeschränkt, LkSG-Indikator Vereinigungsfreiheit. Output: Arbeitsrechts-Compliance-Überblick China und Gewerkschafts-Management-Leitfaden.
 
 # Arbeitsrecht und Gewerkschaft China: ACFTU/LCA/LkSG
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-093-security-of-travel-and-devices`
 
-**Frühere Beschreibung:** Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie.
+**Fokus:** Reise- und Gerätesicherheit bei China-Reisen: Zollkontrolle Geräte Grenze CN (Durchsuchungsrisiken), Gerätesicherheitskonzept (Leihgeräte, Clean Phone), Exit-Ban-Risiko für Führungskräfte, Abhör-/Spionagerisiken in Hotelmeetings, sicherer Kommunikationskanal, Notfallprotokoll Geräteverlust. Output: China-Reise-Sicherheitskonzept und Geräterichtlinie.
 
 # Reise- und Gerätesicherheit China: Exit-Ban/Geräteprotokoll
 

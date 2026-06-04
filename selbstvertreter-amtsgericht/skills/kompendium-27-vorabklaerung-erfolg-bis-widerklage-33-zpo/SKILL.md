@@ -1,17 +1,17 @@
 ---
 name: kompendium-27-vorabklaerung-erfolg-bis-widerklage-33-zpo
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 27; bündelt 3 frühere Spezialskills (vorabklaerung-erfolgsaussichten-selbstcheck, wann-doch-anwalt-grenzfaelle, widerklage-33-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Vorabklaerung Erfolgsaussichten Selbstcheck, Wann Doch Anwalt Grenzfaelle, Widerklage 33 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vorabklaerung-erfolgsaussichten-selbstcheck` | Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor. |
 | `wann-doch-anwalt-grenzfaelle` | Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vorabklaerung-erfolgsaussichten-selbstcheck`
 
-**Frühere Beschreibung:** Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor.
+**Fokus:** Selbstcheck der Erfolgsaussichten einer Klage vor dem Amtsgericht. Klaert Anspruchsgrundlage Beweislage Verjährung Kostenrisiko Gegenseite und Alternative zur Klage. Vermeidet teure Klage ohne Substanz und nimmt strukturierte Selbstprüfung vor.
 
 # Sollten Sie wirklich klagen? Ein ehrlicher Selbstcheck
 
@@ -172,7 +172,7 @@ Stand: 05/2026. Praxis-Skill, keine spezifischen Reformen.
 
 ## 2. `wann-doch-anwalt-grenzfaelle`
 
-**Frühere Beschreibung:** Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat.
+**Fokus:** Grenzfaelle in denen Selbstvertretung nicht mehr sinnvoll ist und ein Anwalt eingeschaltet werden sollte. Hoher Streitwert komplexer Sachverhalt Berufung Familiensache Spezialmaterie. Kostenvergleich Selbstvertretung versus Anwalt-Mandat.
 
 # Wann ist es Zeit, doch einen Anwalt zu nehmen?
 
@@ -331,7 +331,7 @@ Stand: 05/2026. Praxis-Skill.
 
 ## 3. `widerklage-33-zpo`
 
-**Frühere Beschreibung:** Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen.
+**Fokus:** Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen.
 
 # Widerklage: Eigener Angriff gegen den Klaeger
 

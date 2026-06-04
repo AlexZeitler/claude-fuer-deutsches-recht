@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-knowledge-capture-bis-legal-ops-roadmap
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (knowledge-capture, law-firm-internal-language, legal-engineer-dashboard, legal-hold-dashboard, legal-ops-roadmap) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Knowledge Capture, Law Firm Internal Language, Legal Engineer Dashboard, Legal Hold Dashboard und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Knowledge Capture bis Legal Ops Roadmap
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `knowledge-capture` | Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `law-firm-internal-language` | Kanzlei-interne Sprache: steuert interne Tasknotizen, Reviewkommentare und Risikoformulierungen mandatsfest halten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `knowledge-capture`
 
-**Frühere Beschreibung:** Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Knowledge Capture: steuert Mandatswissen in Playbooks, Muster, Risikoentscheidungen und Lessons Learned überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Knowledge Capture
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `law-firm-internal-language`
 
-**Frühere Beschreibung:** Kanzlei-interne Sprache: steuert interne Tasknotizen, Reviewkommentare und Risikoformulierungen mandatsfest halten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Kanzlei-interne Sprache: steuert interne Tasknotizen, Reviewkommentare und Risikoformulierungen mandatsfest halten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Kanzlei-interne Sprache
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `legal-engineer-dashboard`
 
-**Frühere Beschreibung:** Legal Engineer Dashboard: steuert Automatisierung, Datenextraktion, KI-Nutzung, Datenschutz und Outputprüfung im Mandat zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Legal Engineer Dashboard: steuert Automatisierung, Datenextraktion, KI-Nutzung, Datenschutz und Outputprüfung im Mandat zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Legal Engineer Dashboard
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `legal-hold-dashboard`
 
-**Frühere Beschreibung:** Legal Hold Dashboard: steuert Legal Holds mit Custodians, Datenquellen, Bestätigung und Review-Fenstern führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Legal Hold Dashboard: steuert Legal Holds mit Custodians, Datenquellen, Bestätigung und Review-Fenstern führen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Legal Hold Dashboard
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `legal-ops-roadmap`
 
-**Frühere Beschreibung:** Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Legal Ops Roadmap: steuert von E-Mail-Chaos zu Matter-Management, eBilling, Dashboards und Wissensspeicher zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Legal Ops Roadmap
 

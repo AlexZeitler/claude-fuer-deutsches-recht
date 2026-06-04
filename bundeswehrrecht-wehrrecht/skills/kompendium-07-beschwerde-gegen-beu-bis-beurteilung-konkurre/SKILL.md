@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-beschwerde-gegen-beu-bis-beurteilung-konkurre
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (beschwerde-gegen-beurteilung-und-laufbahnentscheidung, besoldung-zulagen-auslandsverwendungszuschlag, beurteilung-konkurrentenstreit-auswahlentscheidung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahlentscheidung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Beschwerde Gegen Beurteilung Und Laufbahnentscheidung, Besoldung Zulagen Auslandsverwendungszuschlag, Beurteilung Konkurrentenstreit Auswahle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beschwerde-gegen-beurteilung-und-laufbahnentscheidung` | Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `besoldung-zulagen-auslandsverwendungszuschlag` | Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beschwerde-gegen-beurteilung-und-laufbahnentscheidung`
 
-**Frühere Beschreibung:** Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Beschwerde gegen Beurteilung und Laufbahnentscheidung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Beschwerde gegen Beurteilung und Laufbahnentscheidung
 
@@ -131,7 +131,7 @@ Die Beurteilung (planmäßig oder Anlassbeurteilung) und die darauf gestützte L
 
 ## 2. `besoldung-zulagen-auslandsverwendungszuschlag`
 
-**Frühere Beschreibung:** Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV.
+**Fokus:** Besoldung, Zulagen, AVZ: prüft BBesG, AVZ-Berechnung, Erschwernis- und Einsatzzulagen sowie Rückforderungen. Norm-/Quellenanker: BBesG §§ 56–58, EZulV, AuslVZV.
 
 # Besoldung, Zulagen und Auslandsverwendungszuschlag
 
@@ -250,7 +250,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `beurteilung-konkurrentenstreit-auswahlentscheidung`
 
-**Frühere Beschreibung:** Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50.
+**Fokus:** Beurteilung, Konkurrentenstreit, Auswahlentscheidung: prüft Beurteilungsfehlerlehre, Bestenauslese, Auswahlvermerk und einstweiligen Rechtsschutz. Norm-/Quellenanker: Art. 33 Abs. 2 GG, § 3 SG, ZDv A-1340/50.
 
 # Beurteilung, Konkurrentenstreit und Auswahlentscheidung
 

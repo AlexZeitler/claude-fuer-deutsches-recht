@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-joiner-mover-leaver-bis-klassifizierte-infor
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (joiner-mover-leaver, ki-incident-detection, ki-tools-shadow-it, klassifizierte-informationen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Joiner Mover Leaver, Ki Incident Detection, Ki Tools Shadow It, Klassifizierte Informationen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Joiner Mover Leaver bis Klassifizierte Informationen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `joiner-mover-leaver` | Baut Joiner-Mover-Leaver-Kontrollen. |
 | `ki-incident-detection` | Prüft KI-gestützte Incident Detection und ihre Grenzen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `joiner-mover-leaver`
 
-**Frühere Beschreibung:** Baut Joiner-Mover-Leaver-Kontrollen.
+**Fokus:** Baut Joiner-Mover-Leaver-Kontrollen.
 
 # Joiner Mover Leaver
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `ki-incident-detection`
 
-**Frühere Beschreibung:** Prüft KI-gestützte Incident Detection und ihre Grenzen.
+**Fokus:** Prüft KI-gestützte Incident Detection und ihre Grenzen.
 
 # KI Incident Detection
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `ki-tools-shadow-it`
 
-**Frühere Beschreibung:** Prüft Shadow-IT durch KI-Tools und Browser-Plugins.
+**Fokus:** Prüft Shadow-IT durch KI-Tools und Browser-Plugins.
 
 # KI Tools Shadow It
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `klassifizierte-informationen`
 
-**Frühere Beschreibung:** Prüft Umgang mit vertraulichen oder behördlich sensiblen Informationen.
+**Fokus:** Prüft Umgang mit vertraulichen oder behördlich sensiblen Informationen.
 
 # Klassifizierte Informationen
 

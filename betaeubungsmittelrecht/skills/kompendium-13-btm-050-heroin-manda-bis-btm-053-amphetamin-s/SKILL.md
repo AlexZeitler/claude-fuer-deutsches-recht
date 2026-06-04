@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-btm-050-heroin-manda-bis-btm-053-amphetamin-s
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (btm-050-heroin-mandantenbrief-schreiben, btm-051-amphetamin-stoff-pruefen, btm-052-amphetamin-menge-einordnen, btm-053-amphetamin-strafrahmen-routen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 050 Heroin Mandantenbrief Schreiben, Btm 051 Amphetamin Stoff Pruefen, Btm 052 Amphetamin Menge Einordnen, Btm 053 Amphetamin Strafrahmen Routen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 050 Heroin Mandantenbrief Schreiben bis Btm 053 Amphetamin Strafrahmen Routen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-050-heroin-mandantenbrief-schreiben` | Betäubungsmittelrecht: Heroin: Mandantenbrief schreiben. Mandantenbrief schreiben für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-051-amphetamin-stoff-pruefen` | Betäubungsmittelrecht: Amphetamin: Stoff prüfen. Stoff prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-050-heroin-mandantenbrief-schreiben`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Heroin: Mandantenbrief schreiben. Mandantenbrief schreiben für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Heroin: Mandantenbrief schreiben. Mandantenbrief schreiben für Heroin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Heroin Mandantenbrief Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-051-amphetamin-stoff-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Stoff prüfen. Stoff prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Stoff prüfen. Stoff prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Stoff Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-052-amphetamin-menge-einordnen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Menge einordnen. Menge einordnen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Menge einordnen. Menge einordnen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Menge Einordnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-053-amphetamin-strafrahmen-routen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Strafrahmen routen. Strafrahmen routen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Strafrahmen routen. Strafrahmen routen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Strafrahmen Routen
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-aufgeschobene-bekann-bis-automotive-design-un
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (aufgeschobene-bekanntmachung, automotive-design-und-ersatzteile) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufgeschobene Bekanntmachung, Automotive Design Und Ersatzteile; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Aufgeschobene Bekanntmachung, Automotive Design Und Ersatzteile
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aufgeschobene-bekanntmachung` | Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe. |
 | `automotive-design-und-ersatzteile` | Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aufgeschobene-bekanntmachung`
 
-**Frühere Beschreibung:** Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe.
+**Fokus:** Aufgeschobene Bekanntmachung strategisch prüfen: Geheimhaltung, Launch-Timing, 30-Monats-Fenster, Nachholung, Gebühren und Verletzungsrisiko bei noch nicht veröffentlichter Wiedergabe.
 
 # Aufgeschobene Bekanntmachung
 
@@ -59,7 +59,7 @@ Entscheidungsvorlage Aufschiebung ja/nein.
 
 ## 2. `automotive-design-und-ersatzteile`
 
-**Frühere Beschreibung:** Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb.
+**Fokus:** Automotive-Design und Ersatzteile prüfen: sichtbare Bauteile, Felgen, Leuchten, Karosserieteile, Reparaturklausel, Tuning und Aftermarket-Vertrieb.
 
 # Automotive Design Und Ersatzteile
 

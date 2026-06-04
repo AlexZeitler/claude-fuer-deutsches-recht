@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-fristen-berechnung-p-bis-ergaenzende-vertrags
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (fristen-berechnung-paragraphen-186-193, cic-vorvertragliche-pflichten-schnittstelle, ergaenzende-vertragsauslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen Berechnung Paragraphen 186 193, Cic Vorvertragliche Pflichten Schnittstelle, Ergaenzende Vertragsauslegung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - bgb-at-pruefer
+# Arbeitsbereich - Fristen Berechnung Paragraphen 186 193, Cic Vorvertragliche Pflichten Schnittstelle, Ergaenzende Vertragsauslegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fristen-berechnung-paragraphen-186-193` | Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen. |
 | `cic-vorvertragliche-pflichten-schnittstelle` | Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fristen-berechnung-paragraphen-186-193`
 
-**Frühere Beschreibung:** Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen.
+**Fokus:** Klausurfall zur Fristenberechnung nach §§ 186 bis 193 BGB: Beginn einer Frist, Ereignisfrist und Kalenderfrist, Fristablauf am letzten Tag, Verlängerung bei Sonn- und Feiertagen nach § 193 BGB und Berechnung von Anfechtungs- und Verjährungsfristen.
 
 # Fristenberechnung — §§ 186 bis 193 BGB
 
@@ -114,7 +114,7 @@ Der Tag des Ereignisses (Beendigungsdatum) zählt nicht, die Frist zählt rückw
 
 ## 2. `cic-vorvertragliche-pflichten-schnittstelle`
 
-**Frühere Beschreibung:** Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung.
+**Fokus:** Klausurfall zu culpa in contrahendo nach §§ 280 Abs. 1 und 311 Abs. 2 BGB: Aufnahme von Vertragsverhandlungen, vorvertragliche Aufklärungs- und Schutzpflichten, Verschulden bei Vertragsschluss und Schadensersatz bei Abbruch oder Täuschung.
 
 # Culpa in contrahendo — Vorvertragliche Pflichten §§ 280 und 311 BGB
 
@@ -198,7 +198,7 @@ Vertragsanbahnung, entsteht ein Schadensersatzanspruch nach § 280 Abs. 1 BGB.
 
 ## 3. `ergaenzende-vertragsauslegung`
 
-**Frühere Beschreibung:** Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Rechtsfortbildung.
+**Fokus:** Klausurfall zur ergänzenden Vertragsauslegung nach §§ 133 und 157 BGB: planwidrige Regelungslücke feststellen, hypothetischen Parteiwillen ermitteln, Abgrenzung zu dispositiven Gesetzesnormen und Grenze der Auslegung zur richterlichen Rechtsfortbildung.
 
 # Ergänzende Vertragsauslegung — §§ 133 und 157 BGB
 

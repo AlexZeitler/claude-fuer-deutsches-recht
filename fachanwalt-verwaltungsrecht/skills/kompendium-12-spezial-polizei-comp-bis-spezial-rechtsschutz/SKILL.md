@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-polizei-comp-bis-spezial-rechtsschutz
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-polizei-compliance-dokumentation-und-akte, spezial-polizei-filmen-von-einsaetzen-kug-201-stgb, spezial-rechtsschutz-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Polizei Compliance Dokumentation Und Akte, Polizei Filmen Von Einsaetzen Kug 201 Stgb, Rechtsschutz Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Polizei Compliance Dokumentation Und Akte, Polizei Filmen Von Einsaetzen Kug 201 Stgb, Rechtsschutz Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-polizei-compliance-dokumentation-und-akte` | Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb` | Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-polizei-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Polizei: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Polizei: Compliance-Dokumentation und Aktenvermerk
 
@@ -79,7 +79,7 @@ Wenn die Akte Film-, Foto- oder Audioaufnahmen polizeilicher Maßnahmen enthält
 
 ## 2. `spezial-polizei-filmen-von-einsaetzen-kug-201-stgb`
 
-**Frühere Beschreibung:** Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr.
+**Fokus:** Polizeirecht: Filmen, Fotografieren und Tonaufnahmen von Polizeieinsätzen prüfen; trennt Anfertigung, Veröffentlichung, KUG/KunstUrhG, § 201 StGB, § 201a StGB, Versammlungsfreiheit, Pressefreiheit, Beweissicherung, Identitätsfeststellung, Beschlagnahme und verwaltungsgerichtliche Abwehr.
 
 # Polizeieinsätze Filmen Und Beweissichernd Dokumentieren
 
@@ -151,7 +151,7 @@ Ein pauschales Einschreiten gegen das Anfertigen von Bild- oder Videoaufnahmen t
 
 ## 3. `spezial-rechtsschutz-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsschutz: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechtsschutz: Beweislast, Darlegungslast und Substantiierung
 

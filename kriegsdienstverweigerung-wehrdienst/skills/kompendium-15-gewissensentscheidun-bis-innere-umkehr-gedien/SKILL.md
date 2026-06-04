@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-gewissensentscheidun-bis-innere-umkehr-gedien
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (gewissensentscheidung-massstab, glossar-kdv, grundrecht-art-4-abs-3, humanistische-pazifistische-gruende, innere-umkehr-gediente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gewissensentscheidung Massstab, Glossar Kdv, Grundrecht Art 4 Abs 3, Humanistische Pazifistische Gruende und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Gewissensentscheidung Massstab bis Innere Umkehr Gediente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gewissensentscheidung-massstab` | Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg. |
 | `glossar-kdv` | Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gewissensentscheidung-massstab`
 
-**Frühere Beschreibung:** Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg.
+**Fokus:** Prüft schwere Gewissensnot, unbedingte Bindung und Entscheidung gegen Töten im Krieg.
 
 # Maßstab der Gewissensentscheidung
 
@@ -85,7 +85,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 2. `glossar-kdv`
 
-**Frühere Beschreibung:** Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA.
+**Fokus:** Erklärt Wehrpflicht, Musterung, Anerkennung, Ersatzdienst, BAPersBw und BAFzA.
 
 # Glossar KDV Wehrdienst
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `grundrecht-art-4-abs-3`
 
-**Frühere Beschreibung:** Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung.
+**Fokus:** Rahmt KDV als staatstreue Grundrechtsausübung statt Staatsablehnung.
 
 # Art. 4 Abs. 3 GG loyal nutzen
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `humanistische-pazifistische-gruende`
 
-**Frühere Beschreibung:** Formt säkulare Ethik in eine persönliche KDV-Begründung.
+**Fokus:** Formt säkulare Ethik in eine persönliche KDV-Begründung.
 
 # Humanistische pazifistische Gründe
 
@@ -250,7 +250,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 5. `innere-umkehr-gediente`
 
-**Frühere Beschreibung:** Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft.
+**Fokus:** Erarbeitet bei Gedienten den grundlegenden Wandel seit früherer Dienstbereitschaft.
 
 # Innere Umkehr bei Gedienten
 

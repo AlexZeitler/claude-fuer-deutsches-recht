@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-oew-053-stadtwerke-b-bis-oew-057-stadtwerke-k
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (oew-053-stadtwerke-beihilfe-markieren, oew-054-stadtwerke-wirtschaftlichkeit-rechnen, oew-055-stadtwerke-risiko-verteilen, oew-057-stadtwerke-kontrolle-sichern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 053 Stadtwerke Beihilfe Markieren, Oew 054 Stadtwerke Wirtschaftlichkeit Rechnen, Oew 055 Stadtwerke Risiko Verteilen, Oew 057 Stadtwerke Kontrolle Sichern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 053 Stadtwerke Beihilfe Markieren bis Oew 057 Stadtwerke Kontrolle Sichern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-053-stadtwerke-beihilfe-markieren` | Öffentliches Wirtschaftsrecht: Stadtwerke: Beihilfe markieren. Beihilfe markieren für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-054-stadtwerke-wirtschaftlichkeit-rechnen` | Öffentliches Wirtschaftsrecht: Stadtwerke: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-053-stadtwerke-beihilfe-markieren`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Beihilfe markieren. Beihilfe markieren für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Beihilfe markieren. Beihilfe markieren für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Beihilfe Markieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-054-stadtwerke-wirtschaftlichkeit-rechnen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Wirtschaftlichkeit Rechnen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-055-stadtwerke-risiko-verteilen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Risiko verteilen. Risiko verteilen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Risiko verteilen. Risiko verteilen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Risiko Verteilen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-057-stadtwerke-kontrolle-sichern`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Kontrolle sichern. Kontrolle sichern für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Kontrolle sichern. Kontrolle sichern für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Kontrolle Sichern
 

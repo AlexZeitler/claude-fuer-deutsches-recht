@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-corporate-kanzlei-ve-bis-corporate-kanzlei-ag
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (corporate-kanzlei-vertragsmarkup-key-issues, corporate-kanzlei-agio-und-kapitalerhoehungsstruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Vertragsmarkup Key Issues, Corporate Kanzlei Agio Und Kapitalerhoehungsstruktur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-vertragsmarkup-key-issues` | Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Prüfung allgemein siehe Vertragsrecht-Plugin. |
 | `corporate-kanzlei-agio-und-kapitalerhoehungsstruktur` | Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrecht). Differenzierung echtes vs. unechtes Agio. Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG. Eintragungshindernisse beim Handelsregister vermeiden. Schnittstellen zu Notar Steuerberater Investor Counsel. Lädt bei VC-Runden Series A/B/C Anteilstauschen Bridge-Finanzierungen und Convertible-Wandlungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-vertragsmarkup-key-issues`
 
-**Frühere Beschreibung:** Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Prüfung allgemein siehe Vertragsrecht-Plugin.
+**Fokus:** Juristischen Markup für M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Prüfraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Prüfung allgemein siehe Vertragsrecht-Plugin.
 
 # Vertragsmarkup und Key Issues
 
@@ -260,7 +260,7 @@ NAECHSTE SCHRITTE
 
 ## 2. `corporate-kanzlei-agio-und-kapitalerhoehungsstruktur`
 
-**Frühere Beschreibung:** Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrecht). Differenzierung echtes vs. unechtes Agio. Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG. Eintragungshindernisse beim Handelsregister vermeiden. Schnittstellen zu Notar Steuerberater Investor Counsel. Lädt bei VC-Runden Series A/B/C Anteilstauschen Bridge-Finanzierungen und Convertible-Wandlungen.
+**Fokus:** Strukturierung von Kapitalerhöhungen mit Agio bei VC-Finanzierungsrunden Holding-Aufbauten und M&A-Sekundärfinanzierungen. Übersetzung US-Term-Sheet-Begriffe (Original Purchase Price Par Value APIC Liquidation Preference) in deutsche Kategorien (Ausgabebetrag Nennbetrag Kapitalrücklage Vorzugsrecht). Differenzierung echtes vs. unechtes Agio. Sachagio im Rahmen des qualifizierten Anteilstauschs § 21 UmwStG. Eintragungshindernisse beim Handelsregister vermeiden. Schnittstellen zu Notar Steuerberater Investor Counsel. Lädt bei VC-Runden Series A/B/C Anteilstauschen Bridge-Finanzierungen und Convertible-Wandlungen.
 
 # Agio und Kapitalerhöhungsstruktur in der Corporate-Praxis
 

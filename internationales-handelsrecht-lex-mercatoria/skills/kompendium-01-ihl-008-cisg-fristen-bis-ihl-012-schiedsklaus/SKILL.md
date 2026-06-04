@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-ihl-008-cisg-fristen-bis-ihl-012-schiedsklaus
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (ihl-008-cisg-fristen-und-notices, ihl-004-cisg-vertragsschluss, ihl-005-cisg-wesentliche-vertragsverletzung, ihl-012-schiedsklausel-icc-dis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 008 Cisg Fristen Und Notices, Ihl 004 Cisg Vertragsschluss, Ihl 005 Cisg Wesentliche Vertragsverletzung, Ihl 012 Schiedsklausel Icc Dis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 008 Cisg Fristen Und Notices bis Ihl 012 Schiedsklausel Icc Dis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-008-cisg-fristen-und-notices` | Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44. |
 | `ihl-004-cisg-vertragsschluss` | Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-008-cisg-fristen-und-notices`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44.
+**Fokus:** Internationales Handelsrecht: Untersuchungs- und Rügepflicht nach CISG Art. 38-39 und Art. 43. Beginn der Prüffrist, Anforderungen an die Rüge (Spezifizierungspflicht), Zwei-Jahres-Frist Art. 39 Abs. 2 und Entschuldigungsgründe Art. 44.
 
 # Fristen und Notices: Untersuchung und Rüge (CISG Art. 38-44)
 
@@ -81,7 +81,7 @@ CISG Art. 38-44: uncitral.un.org. CISG-Rspr.: CISG-online.ch (Art. 38 >200 Entsc
 
 ## 2. `ihl-004-cisg-vertragsschluss`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19).
+**Fokus:** Internationales Handelsrecht: Vertragsschluss nach CISG Art. 14-24. Angebot (Bestimmtheit nach Art. 14), Annahme (Art. 18-22), Widerruflichkeit (Art. 16), Verspätung (Art. 21) und Mirror-Image-Rule vs. modifizierte Annahme (Art. 19).
 
 # CISG Vertragsschluss (Art. 14-24)
 
@@ -134,7 +134,7 @@ CISG Art. 14-24: uncitral.un.org. CISG-Rspr.: CISG-online.ch, jusmundi.com. Schr
 
 ## 3. `ihl-005-cisg-wesentliche-vertragsverletzung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Wesentliche Vertragsverletzung nach CISG Art. 25. Vorhersehbarkeitstest, Erheblichkeit des Nachteils und Rechtsfolge (Vertragsaufhebung Art. 49/64 CISG). Abgrenzung zur unwesentlichen Verletzung und Nacherfüllungsrecht.
+**Fokus:** Internationales Handelsrecht: Wesentliche Vertragsverletzung nach CISG Art. 25. Vorhersehbarkeitstest, Erheblichkeit des Nachteils und Rechtsfolge (Vertragsaufhebung Art. 49/64 CISG). Abgrenzung zur unwesentlichen Verletzung und Nacherfüllungsrecht.
 
 # Wesentliche Vertragsverletzung (CISG Art. 25)
 
@@ -186,7 +186,7 @@ CISG Art. 25: uncitral.un.org. CISG Advisory Council Opinions: cisgac.com. Recht
 
 ## 4. `ihl-012-schiedsklausel-icc-dis`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsregeln 2021 und DIS-Schiedsregeln 2018. Musterklauseln, Sitzwahl, Anzahl Schiedsrichter, Verfahrenssprache, Schnellverfahren (Expedited Procedure) und pathologische Klauseln.
+**Fokus:** Internationales Handelsrecht: Schiedsklauseln nach ICC-Schiedsregeln 2021 und DIS-Schiedsregeln 2018. Musterklauseln, Sitzwahl, Anzahl Schiedsrichter, Verfahrenssprache, Schnellverfahren (Expedited Procedure) und pathologische Klauseln.
 
 # Schiedsklauseln: ICC und DIS
 

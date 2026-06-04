@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-space-022-raumstatio-bis-space-027-sachenrech
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und, space-024-suborbitalflug-luftrecht-oder-weltraumrecht, space-026-space-mining-ressourcenrechte-eigentum-und-sicherheite, space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und, Space 024 Suborbitalflug Luftrecht Oder Weltraumrecht, Space 026 Space Mining Ressourcenrechte Eigentum Und Sicherheite, Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - weltraumrecht
+# Arbeitsbereich - Space 022 Raumstation Recht An Bord Strafrecht Arbeitsrecht Und bis Space 027 Sachenrecht Des Weltraums Register Pfandrecht Und Sich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und` | Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle. |
 | `space-024-suborbitalflug-luftrecht-oder-weltraumrecht` | Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-022-raumstation-recht-an-bord-strafrecht-arbeitsrecht-und`
 
-**Frühere Beschreibung:** Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle.
+**Fokus:** Recht an Bord der Raumstation – Jurisdiktion, Strafrecht, Arbeitsrecht, medizinische Notfälle.
 
 # Weltraumrecht: Raumstation: Recht an Bord, Strafrecht, Arbeitsrecht, Medizin
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: ISS-Jurisdiktion, Strafrecht an B
 
 ## 2. `space-024-suborbitalflug-luftrecht-oder-weltraumrecht`
 
-**Frühere Beschreibung:** Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht.
+**Fokus:** Suborbitalflug – Abgrenzung Luftraum/Weltraum, Kármán-Linie, FAA AST, EU-Recht.
 
 # Weltraumrecht: Suborbitalflug: Luftrecht oder Weltraumrecht?
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Suborbitalflug, Kármán-Linie, F
 
 ## 3. `space-026-space-mining-ressourcenrechte-eigentum-und-sicherheite`
 
-**Frühere Beschreibung:** Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten.
+**Fokus:** Asteroiden- und Mondbergbau – Ressourceneigentumsrecht, OST Art. II, Finanzierungssicherheiten.
 
 # Weltraumrecht: Space Mining: Ressourcenrechte, Eigentum und Sicherheiten
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Space Mining, Ressourceneigentum,
 
 ## 4. `space-027-sachenrecht-des-weltraums-register-pfandrecht-und-sich`
 
-**Frühere Beschreibung:** Sachenrecht für Satelliten – nationales Register, Pfandrechte, Cape-Town-Protokoll, Sicherungsübereignung.
+**Fokus:** Sachenrecht für Satelliten – nationales Register, Pfandrechte, Cape-Town-Protokoll, Sicherungsübereignung.
 
 # Weltraumrecht: Sachenrecht des Weltraums: Register, Pfandrecht, Sicherungsübereignung
 

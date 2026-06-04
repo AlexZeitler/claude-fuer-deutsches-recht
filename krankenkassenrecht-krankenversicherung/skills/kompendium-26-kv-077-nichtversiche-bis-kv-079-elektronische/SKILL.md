@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-kv-077-nichtversiche-bis-kv-079-elektronische
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 26; bündelt 3 frühere Spezialskills (kv-077-nichtversicherte-auffangpflichtversicherung, kv-078-krankenkasse-und-insolvenz-beitragsschuld, kv-079-elektronische-patientenakte-zugriffsrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugriffsrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 077 Nichtversicherte Auffangpflichtversicherung, Kv 078 Krankenkasse Und Insolvenz Beitragsschuld, Kv 079 Elektronische Patientenakte Zugr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-077-nichtversicherte-auffangpflichtversicherung` | Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik. |
 | `kv-078-krankenkasse-und-insolvenz-beitragsschuld` | Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-077-nichtversicherte-auffangpflichtversicherung`
 
-**Frühere Beschreibung:** Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik.
+**Fokus:** Krankenversicherungsschutz für Personen ohne anderweitigen KV-Schutz: Auffangpflichtversicherung nach § 5 Abs. 1 Nr. 13 SGB V, Beiträge und Schuldenproblematik.
 
 # Nichtversicherte: Auffangpflichtversicherung
 
@@ -109,7 +109,7 @@ Wer zuletzt gesetzlich versichert war und keinen anderen KV-Schutz hat, wird üb
 
 ## 2. `kv-078-krankenkasse-und-insolvenz-beitragsschuld`
 
-**Frühere Beschreibung:** Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse.
+**Fokus:** Beitragsschulden gegenüber GKV und PKV in der Insolvenz: Insolvenzforderungen, Masseverbindlichkeiten, Restschuldbefreiung und Verhalten der Kasse.
 
 # Krankenkasse und Insolvenz: Beitragsschuld
 
@@ -190,7 +190,7 @@ Beitragsschulden bei der Krankenversicherung können erheblich sein. In der Inso
 
 ## 3. `kv-079-elektronische-patientenakte-zugriffsrechte`
 
-**Frühere Beschreibung:** ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen.
+**Fokus:** ePA nach § 341 SGB V: Zugriffsrechte der Versicherten und Leistungserbringer, Datenschutzkontrolle, opt-out-Regelung und Pflichten der Kassen.
 
 # Elektronische Patientenakte: Zugriffsrechte
 

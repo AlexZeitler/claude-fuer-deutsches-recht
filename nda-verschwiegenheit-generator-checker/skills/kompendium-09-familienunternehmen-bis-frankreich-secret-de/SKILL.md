@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-familienunternehmen-bis-frankreich-secret-de
-description: "nda-verschwiegenheit-generator-checker: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (familienunternehmen-und-nachfolge, forensik-und-logfiles, forschung-entwicklung-kooperation, frankreich-secret-des-affaires) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-verschwiegenheit-generator-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienunternehmen Und Nachfolge, Forensik Und Logfiles, Forschung Entwicklung Kooperation, Frankreich Secret Des Affaires; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - nda-verschwiegenheit-generator-checker
+# Arbeitsbereich - Familienunternehmen Und Nachfolge bis Frankreich Secret Des Affaires
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `familienunternehmen-und-nachfolge` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `forensik-und-logfiles` | NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `familienunternehmen-und-nachfolge`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Familienunternehmen Und Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Familienunternehmen Und Nachfolge
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `forensik-und-logfiles`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forensik Und Logfiles; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Forensik Und Logfiles
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `forschung-entwicklung-kooperation`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Forschung Entwicklung Kooperation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Forschung Entwicklung Kooperation
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `frankreich-secret-des-affaires`
 
-**Frühere Beschreibung:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** NDA-Generator und Verschwiegenheitsvereinbarungs-Checker: Frankreich Secret Des Affaires; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Frankreich Secret Des Affaires
 

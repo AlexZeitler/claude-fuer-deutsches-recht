@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-post-postlizenz-anze-bis-telekommunikation-en
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 23; bündelt 8 frühere Spezialskills (post-postlizenz-anzeige, post-postmarktregulierung, post-postuniversaldienst, post-zugang-postfachanlage, stellungnahme-und-compliance-aktionsplan und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Post Postlizenz Anzeige, Post Postmarktregulierung, Post Postuniversaldienst, Post Zugang Postfachanlage und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Post Postlizenz Anzeige bis Telekommunikation Entgeltgenehmigung Telekommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `post-postlizenz-anzeige` | Post / Postlizenz Anzeige: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO. |
 | `post-postmarktregulierung` | Post / Postmarktregulierung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `post-postlizenz-anzeige`
 
-**Frühere Beschreibung:** Post / Postlizenz Anzeige: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
+**Fokus:** Post / Postlizenz Anzeige: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
 
 # Post: Postlizenz Anzeige
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `post-postmarktregulierung`
 
-**Frühere Beschreibung:** Post / Postmarktregulierung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
+**Fokus:** Post / Postmarktregulierung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
 
 # Post: Postmarktregulierung
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `post-postuniversaldienst`
 
-**Frühere Beschreibung:** Post / Postuniversaldienst: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
+**Fokus:** Post / Postuniversaldienst: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
 
 # Post: Postuniversaldienst
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `post-zugang-postfachanlage`
 
-**Frühere Beschreibung:** Post / Zugang Postfachanlage: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
+**Fokus:** Post / Zugang Postfachanlage: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: PostG, PUDLV/aktuelle Postreform, EU-PaketVO.
 
 # Post: Zugang Postfachanlage
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `stellungnahme-und-compliance-aktionsplan`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Stellungnahme und Compliance-Aktionsplan.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Stellungnahme und Compliance-Aktionsplan.
 
 # Stellungnahme und Compliance-Aktionsplan
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `telekommunikation-campusnetze-5g`
 
-**Frühere Beschreibung:** Telekommunikation / Campusnetze 5G: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Campusnetze 5G: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Campusnetze 5G
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `telekommunikation-datenuebermittlung-auskunft-behoerden`
 
-**Frühere Beschreibung:** Telekommunikation / Datenübermittlung Auskunft Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Datenübermittlung Auskunft Behörden: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Datenübermittlung Auskunft Behörden
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `telekommunikation-entgeltgenehmigung-telekommunikation`
 
-**Frühere Beschreibung:** Telekommunikation / Entgeltgenehmigung Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Entgeltgenehmigung Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Entgeltgenehmigung Telekommunikation
 

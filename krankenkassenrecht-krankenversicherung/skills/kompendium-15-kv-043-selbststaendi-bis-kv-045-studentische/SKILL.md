@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kv-043-selbststaendi-bis-kv-045-studentische
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei, kv-044-kuenstlersozialkasse-und-krankenversicherung, kv-045-studentische-krankenversicherung-altersgrenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Krankenversicherung Altersgrenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 043 Selbststaendige Mindestbeitrag Und Einkommensteuerbeschei, Kv 044 Kuenstlersozialkasse Und Krankenversicherung, Kv 045 Studentische Kr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei` | Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen. |
 | `kv-044-kuenstlersozialkasse-und-krankenversicherung` | Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-043-selbststaendige-mindestbeitrag-und-einkommensteuerbeschei`
 
-**Frühere Beschreibung:** Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen.
+**Fokus:** Krankenversicherungsbeitrag für freiwillig versicherte Selbstständige: Mindestbeitrag, Einkommensnachweise, Spitzabrechnung und Widerspruch bei überhöhten Beiträgen.
 
 # Selbstständige: Mindestbeitrag und Einkommensteuerbescheid
 
@@ -110,7 +110,7 @@ Selbstständige sind in der GKV freiwillig versichert. Dieser Skill klärt **Bei
 
 ## 2. `kv-044-kuenstlersozialkasse-und-krankenversicherung`
 
-**Frühere Beschreibung:** Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung.
+**Fokus:** Kranken- und Rentenversicherung über die KSK (KSVG): Versicherungspflicht, Beitragsbemessung, Einkünftemeldepflicht und Prüfungen durch KSK/Rentenversicherung.
 
 # Künstlersozialkasse und Krankenversicherung
 
@@ -191,7 +191,7 @@ Die Künstlersozialkasse (KSK) ermöglicht selbstständigen Künstlern und Publi
 
 ## 3. `kv-045-studentische-krankenversicherung-altersgrenzen`
 
-**Frühere Beschreibung:** Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen.
+**Fokus:** Pflichtversicherung Studierender (§ 5 Abs. 1 Nr. 9 SGB V): Altersgrenze 25 Jahre, Fachsemesterlimit, Urlaubssemester, Ende der Versicherung und Übergangsoptionen.
 
 # Studentische Krankenversicherung: Altersgrenzen
 

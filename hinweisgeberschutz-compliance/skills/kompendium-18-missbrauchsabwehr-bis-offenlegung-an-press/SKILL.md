@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-missbrauchsabwehr-bis-offenlegung-an-press
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (missbrauchsabwehr, mobbing-retaliation, nda-konflikt, offenlegung-an-presse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Missbrauchsabwehr, Mobbing Retaliation, Nda Konflikt, Offenlegung An Presse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Missbrauchsabwehr bis Offenlegung An Presse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `missbrauchsabwehr` | Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise. |
 | `mobbing-retaliation` | Erkennt informelle Repressalien und Mobbing. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `missbrauchsabwehr`
 
-**Frühere Beschreibung:** Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise.
+**Fokus:** Baut Missbrauchsabwehr ohne Abschreckung echter Hinweise.
 
 # Missbrauchsabwehr
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `mobbing-retaliation`
 
-**Frühere Beschreibung:** Erkennt informelle Repressalien und Mobbing.
+**Fokus:** Erkennt informelle Repressalien und Mobbing.
 
 # Mobbing Retaliation
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `nda-konflikt`
 
-**Frühere Beschreibung:** Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz.
+**Fokus:** Löst Konflikt zwischen NDA, Verschwiegenheit und Hinweisgeberschutz.
 
 # NDA Konflikt
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `offenlegung-an-presse`
 
-**Frühere Beschreibung:** Prüft Offenlegung an Öffentlichkeit oder Presse.
+**Fokus:** Prüft Offenlegung an Öffentlichkeit oder Presse.
 
 # Offenlegung An Presse
 

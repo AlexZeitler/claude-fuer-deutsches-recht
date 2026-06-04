@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (gesellschaftsgruender-se-und-crossborder, gesellschaftsgruender-sha-satzung-stimmverpflichtung, gesellschaftsgruender-stammkapital-einzahlung, gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg, gesellschaftsgruender-transparenzregister) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Se Und Crossborder, Gesellschaftsgruender Sha Satzung Stimmverpflichtung, Gesellschaftsgruender Stammkapital Einzahlung, Gesellschaftsgruender Stammkapitalverlust Paragraf 49 Gmbhg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Se Und Crossborder bis Gesellschaftsgruender Transparenzregister
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-se-und-crossborder` | Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene. |
 | `gesellschaftsgruender-sha-satzung-stimmverpflichtung` | Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-se-und-crossborder`
 
-**Frühere Beschreibung:** Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene.
+**Fokus:** Prüft SE und grenzüberschreitende Gründungs-/Holdingfragen auf Einstiegsebene.
 
 # SE und grenzüberschreitende Struktur
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-sha-satzung-stimmverpflichtung`
 
-**Frühere Beschreibung:** Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag.
+**Fokus:** Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag.
 
 # Stimmverpflichtung SHA <-> Satzung
 
@@ -325,7 +325,7 @@ gemaess § [X] Satzung).
 
 ## 3. `gesellschaftsgruender-stammkapital-einzahlung`
 
-**Frühere Beschreibung:** Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Prüfraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlageprüfung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gründung.
+**Fokus:** Stammkapitaleinzahlung bei GmbH-Gründung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Prüfraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlageprüfung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gründung.
 
 # Stammkapital-Einzahlung
 
@@ -578,7 +578,7 @@ EINGEREICHT AN NOTAR: Ja / Nein | Datum: [DATUM]
 
 ## 4. `gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg`
 
-**Frühere Beschreibung:** Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und Insolvenzprüfung. Normen: §§ 49 Abs. 3 64 GmbHG, § 15a InsO. Prüfraster: Bilanzkennzahlen, Einberufungspflicht, Haftungsrisiken GF. Output: Stellungnahme Stammkapitalverlust und Einberufungsschreiben. Abgrenzung: nicht § 64 GmbHG Zahlungsverbot bei Insolvenzreife.
+**Fokus:** Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und Insolvenzprüfung. Normen: §§ 49 Abs. 3 64 GmbHG, § 15a InsO. Prüfraster: Bilanzkennzahlen, Einberufungspflicht, Haftungsrisiken GF. Output: Stellungnahme Stammkapitalverlust und Einberufungsschreiben. Abgrenzung: nicht § 64 GmbHG Zahlungsverbot bei Insolvenzreife.
 
 # Pflichtversammlung bei Stammkapital-Verlust (§ 49 Abs. 3 GmbHG)
 
@@ -751,7 +751,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 5. `gesellschaftsgruender-transparenzregister`
 
-**Frühere Beschreibung:** Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, GeldwäscheG. Prüfraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwäsche-Beratung.
+**Fokus:** Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, GeldwäscheG. Prüfraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwäsche-Beratung.
 
 # Transparenzregister
 

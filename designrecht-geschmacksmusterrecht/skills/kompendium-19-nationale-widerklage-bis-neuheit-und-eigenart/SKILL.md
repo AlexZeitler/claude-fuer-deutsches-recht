@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-nationale-widerklage-bis-neuheit-und-eigenart
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (nationale-widerklage-nichtigkeit, neuheit-und-eigenart) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Nationale Widerklage Nichtigkeit, Neuheit Und Eigenart
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nationale-widerklage-nichtigkeit` | Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast. |
 | `neuheit-und-eigenart` | Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nationale-widerklage-nichtigkeit`
 
-**Frühere Beschreibung:** Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast.
+**Fokus:** Nichtigkeit als Einwand oder Widerklage im Verletzungsverfahren prüfen: Zuständigkeit, Timing, Registerwirkung, Aussetzung und Beweislast.
 
 # Nationale Widerklage Nichtigkeit
 
@@ -59,7 +59,7 @@ Prozessstrategie-Vermerk.
 
 ## 2. `neuheit-und-eigenart`
 
-**Frühere Beschreibung:** Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte.
+**Fokus:** Neuheit und Eigenart nach DesignG und EU-Designrecht prüfen: identische Offenbarung, Gesamteindruck, informierter Benutzer, Gestaltungsfreiheit und Entwerferdichte.
 
 # Neuheit Und Eigenart
 

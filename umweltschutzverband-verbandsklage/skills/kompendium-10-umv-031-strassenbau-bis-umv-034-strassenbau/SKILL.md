@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-umv-031-strassenbau-bis-umv-034-strassenbau
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (umv-031-strassenbau-beteiligung-pruefen, umv-032-strassenbau-einwendung-bauen, umv-033-strassenbau-akteneinsicht-erzwingen, umv-034-strassenbau-gutachten-zerlegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 031 Strassenbau Beteiligung Pruefen, Umv 032 Strassenbau Einwendung Bauen, Umv 033 Strassenbau Akteneinsicht Erzwingen, Umv 034 Strassenbau Gutachten Zerlegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 031 Strassenbau Beteiligung Pruefen bis Umv 034 Strassenbau Gutachten Zerlegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-031-strassenbau-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-032-strassenbau-einwendung-bauen` | Umweltschutzverband Verbandsklage: Straßenbau: Einwendung bauen. Einwendung bauen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-031-strassenbau-beteiligung-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Straßenbau: Beteiligung prüfen. Beteiligung prüfen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenbau Beteiligung Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-032-strassenbau-einwendung-bauen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Straßenbau: Einwendung bauen. Einwendung bauen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Straßenbau: Einwendung bauen. Einwendung bauen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenbau Einwendung Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-033-strassenbau-akteneinsicht-erzwingen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Straßenbau: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Straßenbau: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenbau Akteneinsicht Erzwingen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-034-strassenbau-gutachten-zerlegen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Straßenbau: Gutachten zerlegen. Gutachten zerlegen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Straßenbau: Gutachten zerlegen. Gutachten zerlegen für Straßenbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenbau Gutachten Zerlegen
 

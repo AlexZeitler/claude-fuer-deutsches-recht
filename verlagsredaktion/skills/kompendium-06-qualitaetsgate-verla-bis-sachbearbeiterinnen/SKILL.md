@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-qualitaetsgate-verla-bis-sachbearbeiterinnen
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (qualitaetsgate-verlag, quellen-zitate-fundstellencheck, rechtecheck-urhg-verlg, rohmanuskript-anschubhilfe, sachbearbeiterinnen-cockpit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Qualitaetsgate Verlag, Quellen Zitate Fundstellencheck, Rechtecheck Urhg Verlg, Rohmanuskript Anschubhilfe und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verlagsredaktion
+# Arbeitsbereich - Qualitaetsgate Verlag bis Sachbearbeiterinnen Cockpit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `qualitaetsgate-verlag` | Schlusspruefung fuer Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel. |
 | `quellen-zitate-fundstellencheck` | Prueft Quellen, Zitate, Randnummern, Fundstellen, Rechtsprechung und Literaturstatus mit strenger Regel gegen erfundene oder paywallige Blindzitate. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `qualitaetsgate-verlag`
 
-**Frühere Beschreibung:** Schlusspruefung fuer Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel.
+**Fokus:** Schlusspruefung fuer Verlagsoutputs vor Autor:innenversand, Satz, Onlinegang oder Druck mit Rechte-, Quellen-, Stil-, Fristen- und Produktionsampel.
 
 # Qualitätstor Verlag
 
@@ -78,7 +78,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `quellen-zitate-fundstellencheck`
 
-**Frühere Beschreibung:** Prueft Quellen, Zitate, Randnummern, Fundstellen, Rechtsprechung und Literaturstatus mit strenger Regel gegen erfundene oder paywallige Blindzitate.
+**Fokus:** Prueft Quellen, Zitate, Randnummern, Fundstellen, Rechtsprechung und Literaturstatus mit strenger Regel gegen erfundene oder paywallige Blindzitate.
 
 # Quellen-, Zitate- und Fundstellencheck
 
@@ -117,7 +117,7 @@ Keine Kommentar-, Handbuch-, Aufsatz- oder Datenbankfundstellen aus Modellwissen
 
 ## 3. `rechtecheck-urhg-verlg`
 
-**Frühere Beschreibung:** Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nutzungsrechten, Zitatrecht, Bearbeitung, Zweitveroeffentlichung und Freigaben.
+**Fokus:** Erstellt eine redaktionelle Rechteampel zu UrhG, Verlagsgesetz, Nutzungsrechten, Zitatrecht, Bearbeitung, Zweitveroeffentlichung und Freigaben.
 
 # Rechtecheck UrhG und Verlagsgesetz
 
@@ -170,7 +170,7 @@ UrhG §§ 31 ff., § 38, § 39, § 51, § 63; Verlagsgesetz; vertragliche Verein
 
 ## 4. `rohmanuskript-anschubhilfe`
 
-**Frühere Beschreibung:** Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autor:innenstimme und Redaktion zu vermischen.
+**Fokus:** Baut aus Diktaten, Folien, Notizen und E-Mails ein klar markiertes Rohmanuskript als Anschubhilfe, ohne Autor:innenstimme und Redaktion zu vermischen.
 
 # Rohmanuskript-Anschubhilfe
 
@@ -226,7 +226,7 @@ Das Ergebnis ist ein Arbeitsentwurf, kein stillschweigend fertiger Autor:innente
 
 ## 5. `sachbearbeiterinnen-cockpit`
 
-**Frühere Beschreibung:** Persoenliches Verlagscockpit fuer Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autor:innen, Rechteampel, Produktionsstand und naechste Aktionen.
+**Fokus:** Persoenliches Verlagscockpit fuer Sachbearbeitung und Redaktion: Tageslage, Prioritaeten, Fristen, Autor:innen, Rechteampel, Produktionsstand und naechste Aktionen.
 
 # Sachbearbeiterinnen-Cockpit
 

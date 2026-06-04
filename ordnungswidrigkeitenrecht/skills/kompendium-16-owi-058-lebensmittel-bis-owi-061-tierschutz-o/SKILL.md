@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-owi-058-lebensmittel-bis-owi-061-tierschutz-o
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (owi-058-lebensmittelrecht-gerichtstermin-vorbe, owi-059-lebensmittelrecht-rechtsbeschwerde-pru, owi-060-lebensmittelrecht-mandantenbrief-schre, owi-061-tierschutz-owi-tatbestand-zerlegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 058 Lebensmittelrecht Gerichtstermin Vorbe, Owi 059 Lebensmittelrecht Rechtsbeschwerde Pru, Owi 060 Lebensmittelrecht Mandantenbrief Schre, Owi 061 Tierschutz Owi Tatbestand Zerlegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 058 Lebensmittelrecht Gerichtstermin Vorbe bis Owi 061 Tierschutz Owi Tatbestand Zerlegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-058-lebensmittelrecht-gerichtstermin-vorbe` | Ordnungswidrigkeitenrecht: Lebensmittelrecht: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-059-lebensmittelrecht-rechtsbeschwerde-pru` | Ordnungswidrigkeitenrecht: Lebensmittelrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-058-lebensmittelrecht-gerichtstermin-vorbe`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lebensmittelrecht Gerichtstermin Vorbe
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-059-lebensmittelrecht-rechtsbeschwerde-pru`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lebensmittelrecht Rechtsbeschwerde Pru
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-060-lebensmittelrecht-mandantenbrief-schre`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Lebensmittelrecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Lebensmittelrecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lebensmittelrecht Mandantenbrief Schre
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-061-tierschutz-owi-tatbestand-zerlegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Tatbestand zerlegen. Tatbestand zerlegen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Tatbestand zerlegen. Tatbestand zerlegen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Tatbestand Zerlegen
 

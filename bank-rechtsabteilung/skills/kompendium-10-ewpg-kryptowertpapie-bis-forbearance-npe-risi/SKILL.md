@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-ewpg-kryptowertpapie-bis-forbearance-npe-risi
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (ewpg-kryptowertpapierregister-erlaubnis, ewpg-registerwechsel-registerfehler, fit-proper-eignungsmatrix-deep-dive, fit-proper-organe-mitarbeiter, forbearance-npe-risikoklassifizierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ewpg Kryptowertpapierregister Erlaubnis, Ewpg Registerwechsel Registerfehler, Fit Proper Eignungsmatrix Deep Dive, Fit Proper Organe Mitarbeiter und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - bank-rechtsabteilung
+# Arbeitsbereich - Ewpg Kryptowertpapierregister Erlaubnis bis Forbearance Npe Risikoklassifizierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ewpg-kryptowertpapierregister-erlaubnis` | Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt. |
 | `ewpg-registerwechsel-registerfehler` | Registerwechsel, Registerfehler und Anlegerrechte bei elektronischen Wertpapieren prüfen: Berichtigung, Übertragung, Funktionsstörung, Kündigungsrechte, Haftung und Kommunikationspflichten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ewpg-kryptowertpapierregister-erlaubnis`
 
-**Frühere Beschreibung:** Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt.
+**Fokus:** Kryptowertpapierregisterführung nach eWpG und KWG prüfen: Finanzdienstleistung, § 32 KWG-Erlaubnis, Registerfunktion, Betreiberrolle, Geschäftsleiter, IT, DORA und BaFin-Merkblatt.
 
 # Kryptowertpapierregister Erlaubnis
 
@@ -129,7 +129,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `ewpg-registerwechsel-registerfehler`
 
-**Frühere Beschreibung:** Registerwechsel, Registerfehler und Anlegerrechte bei elektronischen Wertpapieren prüfen: Berichtigung, Übertragung, Funktionsstörung, Kündigungsrechte, Haftung und Kommunikationspflichten.
+**Fokus:** Registerwechsel, Registerfehler und Anlegerrechte bei elektronischen Wertpapieren prüfen: Berichtigung, Übertragung, Funktionsstörung, Kündigungsrechte, Haftung und Kommunikationspflichten.
 
 # eWpG Registerfehler
 
@@ -228,7 +228,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `fit-proper-eignungsmatrix-deep-dive`
 
-**Frühere Beschreibung:** Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung.
+**Fokus:** Fit-and-Proper-Eignungsmatrix für Geschäftsleiter, Aufsichtsräte und Schlüsselfunktionen vertiefen: fachliche Eignung, Zuverlässigkeit, Kollektiveignung, Diversität, Interessenkonflikte und Fortbildung.
 
 # Fit-and-Proper Eignungsmatrix
 
@@ -327,7 +327,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `fit-proper-organe-mitarbeiter`
 
-**Frühere Beschreibung:** Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten.
+**Fokus:** Fit-and-Proper für Geschäftsleiter, Aufsichtsrat und Schlüsselfunktionen: Sachkunde, Zuverlässigkeit, Zeitbudget, Interessenkonflikte, Anzeigen und Nachweise vorbereiten.
 
 # Fit and Proper
 
@@ -442,7 +442,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `forbearance-npe-risikoklassifizierung`
 
-**Frühere Beschreibung:** Forbearance, NPE und Risikoklassifizierung juristisch begleiten: Zugeständnisse, Ausfallnähe, Melde- und Dokumentationsfolgen, Kreditakte und Kommunikation mit Risk sauber halten.
+**Fokus:** Forbearance, NPE und Risikoklassifizierung juristisch begleiten: Zugeständnisse, Ausfallnähe, Melde- und Dokumentationsfolgen, Kreditakte und Kommunikation mit Risk sauber halten.
 
 # Forbearance und NPE
 

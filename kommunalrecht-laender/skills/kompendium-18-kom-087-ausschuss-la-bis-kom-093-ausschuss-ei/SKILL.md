@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-kom-087-ausschuss-la-bis-kom-093-ausschuss-ei
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 18; bündelt 6 frühere Spezialskills (kom-087-ausschuss-landesrecht-routen, kom-089-ausschuss-beschluss-bauen, kom-090-ausschuss-satzung-redlinen, kom-091-ausschuss-gebuehr-kalkulieren, kom-092-ausschuss-aufsichtsbeschwerde-schreibe und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 087 Ausschuss Landesrecht Routen, Kom 089 Ausschuss Beschluss Bauen, Kom 090 Ausschuss Satzung Redlinen, Kom 091 Ausschuss Gebuehr Kalkulieren und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - kommunalrecht-laender
+# Arbeitsbereich - Kom 087 Ausschuss Landesrecht Routen bis Kom 093 Ausschuss Eilantrag Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-087-ausschuss-landesrecht-routen` | Kommunalrecht der Länder: Ausschuss: Landesrecht routen. Landesrecht routen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-089-ausschuss-beschluss-bauen` | Kommunalrecht der Länder: Ausschuss: Beschluss bauen. Beschluss bauen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-087-ausschuss-landesrecht-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Landesrecht routen. Landesrecht routen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Landesrecht routen. Landesrecht routen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Landesrecht Routen
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-089-ausschuss-beschluss-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Beschluss bauen. Beschluss bauen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Beschluss bauen. Beschluss bauen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Beschluss Bauen
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-090-ausschuss-satzung-redlinen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Satzung redlinen. Satzung redlinen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Satzung redlinen. Satzung redlinen für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Satzung Redlinen
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-091-ausschuss-gebuehr-kalkulieren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Gebühr kalkulieren. Gebühr kalkulieren für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Gebühr kalkulieren. Gebühr kalkulieren für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Gebuehr Kalkulieren
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-092-ausschuss-aufsichtsbeschwerde-schreibe`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Aufsichtsbeschwerde Schreibe
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-093-ausschuss-eilantrag-vorbereiten`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Ausschuss: Eilantrag vorbereiten. Eilantrag vorbereiten für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Ausschuss: Eilantrag vorbereiten. Eilantrag vorbereiten für Ausschuss im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ausschuss Eilantrag Vorbereiten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-vergleich-koexistenz-bis-wortmarke-anmeldung
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (vergleich-koexistenz-abgrenzungsvereinbarung, vertikale-preisbindung-vbe-vo, waren-dienstleistungen-ekdb-tmclass-nizza, wortmarke-anmeldung-dpma) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich Koexistenz Abgrenzungsvereinbarung, Vertikale Preisbindung Vbe Vo, Waren Dienstleistungen Ekdb Tmclass Nizza, Wortmarke Anmeldung Dpma; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - markenrecht-fashion-luxus
+# Arbeitsbereich - Vergleich Koexistenz Abgrenzungsvereinbarung bis Wortmarke Anmeldung Dpma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich-koexistenz-abgrenzungsvereinbarung` | Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken. |
 | `vertikale-preisbindung-vbe-vo` | Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Prüfraster: Verbotene Mindestpreise, zulässige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich-koexistenz-abgrenzungsvereinbarung`
 
-**Frühere Beschreibung:** Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken.
+**Fokus:** Koexistenz-, Abgrenzungs- und Vergleichsvereinbarungen im Markenrecht entwerfen: Zeichenabstand, Warenabgrenzung, Territorium, Online-Nutzung, Vertragsstrafe, Registermaßnahmen und Zukunftsmarken.
 
 # Koexistenz und Abgrenzungsvereinbarung
 
@@ -82,7 +82,7 @@ Koexistenz ist kein bloßer Waffenstillstand. Sie muss operativ, registerfest un
 
 ## 2. `vertikale-preisbindung-vbe-vo`
 
-**Frühere Beschreibung:** Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Prüfraster: Verbotene Mindestpreise, zulässige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus.
+**Fokus:** Vertikale Preisbindung und Vertikal-GVO-Compliance für Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Prüfraster: Verbotene Mindestpreise, zulässige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus.
 
 # Vertikale Preisbindung und Vertikal-GVO
 
@@ -219,7 +219,7 @@ Bevor die Preisklauseln in Händlerverträgen verabschiedet werden, klaere:
 
 ## 3. `waren-dienstleistungen-ekdb-tmclass-nizza`
 
-**Frühere Beschreibung:** Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie.
+**Fokus:** Waren- und Dienstleistungsverzeichnis für DPMA, EUIPO und Madrid sauber entwerfen: Nizza-Klassen, eKDB/TMclass, Oberbegriffe, Klarheit, Schutzumfang, Benutzungsrisiko und Kostenstrategie.
 
 # Waren- und Dienstleistungsverzeichnis
 
@@ -263,7 +263,7 @@ TMclass, DPMA-eKDB, EUIPO Guidelines und aktuelle Gebührenhinweise live prüfen
 
 ## 4. `wortmarke-anmeldung-dpma`
 
-**Frühere Beschreibung:** DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angaben). Prüfraster: Unterscheidungskraft, Freihaltebedürftigkeit, Erinnerung gegen Zurückweisung, BPatG-Beschwerde § 66 MarkenG. Output Anmeldeunterlagen, Waren-/Dienstleistungsverzeichnis, Prüfungsbescheid-Antwort-Entwurf. Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild.
+**Fokus:** DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schützen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebedürftigkeit, beschreibende Angaben). Prüfraster: Unterscheidungskraft, Freihaltebedürftigkeit, Erinnerung gegen Zurückweisung, BPatG-Beschwerde § 66 MarkenG. Output Anmeldeunterlagen, Waren-/Dienstleistungsverzeichnis, Prüfungsbescheid-Antwort-Entwurf. Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild.
 
 # Wortmarken-Anmeldung beim DPMA
 

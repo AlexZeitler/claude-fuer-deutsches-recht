@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-rechtsabteilung-ki-c-bis-license-scanner-reme
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag, saas-vertrag-b2b, werkvertrag-dienstvertrag-software, license-scanner-remediation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Code Und Trainingsdaten Im Lizenzvertrag, Saas Vertrag B2b, Werkvertrag Dienstvertrag Software, License Scanner Remediation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - softwarerecht-de-eu-us
+# Arbeitsbereich - Ki Code Und Trainingsdaten Im Lizenzvertrag bis License Scanner Remediation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag` | Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `saas-vertrag-b2b` | Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-ki-code-und-trainingsdaten-im-lizenzvertrag`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für KI-Code und Trainingsdaten im Lizenzvertrag: AI-assisted coding wird mit Warranty, Audit, Indemnity und Source-Hygiene geregelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: KI-Code und Trainingsdaten im Lizenzvertrag
 
@@ -76,7 +76,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `saas-vertrag-b2b`
 
-**Frühere Beschreibung:** Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung.
+**Fokus:** Entwirft und prüft B2B-SaaS-Verträge mit Zugriffslizenz, Verfügbarkeit, Datenschutz, Exit, Security und Haftung.
 
 # SaaS-Vertrag B2B
 
@@ -134,7 +134,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `werkvertrag-dienstvertrag-software`
 
-**Frühere Beschreibung:** Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang.
+**Fokus:** Prüft die Einordnung von Softwareleistungen als Werkvertrag, Dienstvertrag, Typenmischung oder SaaS-Zugang.
 
 # Werkvertrag oder Dienstvertrag Software
 
@@ -191,7 +191,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `license-scanner-remediation`
 
-**Frühere Beschreibung:** Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail.
+**Fokus:** Steuert OSS-License-Scanner-Befunde, False Positives, Legal Review, Remediation und Audit-Trail.
 
 # License Scanner Remediation
 

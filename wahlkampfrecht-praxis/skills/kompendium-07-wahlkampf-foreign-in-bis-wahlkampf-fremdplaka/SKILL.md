@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-wahlkampf-foreign-in-bis-wahlkampf-fremdplaka
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (wahlkampf-foreign-interference-lage, wahlkampf-foto-im-wahlraum-und-stimmzettel, wahlkampf-fraktion-partei-trennung, wahlkampf-freiwillige-und-aufwandsersatz, wahlkampf-fremdplakate-nicht-anruehren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Foreign Interference Lage, Wahlkampf Foto Im Wahlraum Und Stimmzettel, Wahlkampf Fraktion Partei Trennung, Wahlkampf Freiwillige Und Aufwandsersatz und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Foreign Interference Lage bis Wahlkampf Fremdplakate Nicht Anruehren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-foreign-interference-lage` | Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten. |
 | `wahlkampf-foto-im-wahlraum-und-stimmzettel` | Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-foreign-interference-lage`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten.
+**Fokus:** Wahlkampfrecht Praxis: Anzeichen auslaendischer Einflussnahme bewerten.
 
 # Foreign Interference Lage
 
@@ -91,7 +91,7 @@ Erzeuge: **Foreign-Interference-Notiz**. Wenn Informationen fehlen, stelle höch
 
 ## 2. `wahlkampf-foto-im-wahlraum-und-stimmzettel`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Selfies, Stimmzettelfotos und Wahlgeheimnisrisiken pruefen.
 
 # Foto Im Wahlraum Und Stimmzettel
 
@@ -144,7 +144,7 @@ Erzeuge: **Wahlgeheimnis-Hinweis**. Wenn Informationen fehlen, stelle höchstens
 
 ## 3. `wahlkampf-fraktion-partei-trennung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen.
+**Fokus:** Wahlkampfrecht Praxis: Fraktions-, Amts- und Parteimittel sauber trennen.
 
 # Fraktion Partei Trennung
 
@@ -197,7 +197,7 @@ Erzeuge: **Ressourcentrennungs-Memo**. Wenn Informationen fehlen, stelle höchst
 
 ## 4. `wahlkampf-freiwillige-und-aufwandsersatz`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile fuer Helfer pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Aufwandsersatz, Reisekosten und geldwerte Vorteile fuer Helfer pruefen.
 
 # Freiwillige Und Aufwandsersatz
 
@@ -250,7 +250,7 @@ Erzeuge: **Volunteer-Kostenvermerk**. Wenn Informationen fehlen, stelle höchste
 
 ## 5. `wahlkampf-fremdplakate-nicht-anruehren`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben.
+**Fokus:** Wahlkampfrecht Praxis: Teams briefen, fremde Plakate weder abzuhaengen noch zu ueberkleben.
 
 # Fremdplakate Nicht Anruehren
 

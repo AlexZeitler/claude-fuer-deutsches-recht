@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fran-014-kuendigung-bis-fran-017-abwicklung
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fran-014-kuendigung-aus-wichtigem-grund, fran-015-ordentliche-kuendigung-laufzeit-verlaengerung, fran-017-abwicklung-rueckbau-schilder-warenbestand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 014 Kuendigung Aus Wichtigem Grund, Fran 015 Ordentliche Kuendigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenbestand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - franchiserecht-praxis
+# Arbeitsbereich - Fran 014 Kuendigung Aus Wichtigem Grund, Fran 015 Ordentliche Kuendigung Laufzeit Verlaengerung, Fran 017 Abwicklung Rueckbau Schilder Warenb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-014-kuendigung-aus-wichtigem-grund` | Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive. |
 | `fran-015-ordentliche-kuendigung-laufzeit-verlaengerung` | Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-014-kuendigung-aus-wichtigem-grund`
 
-**Frühere Beschreibung:** Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive.
+**Fokus:** Ausserordentliche Kündigung eines Franchisevertrags prüfen: wichtiger Grund nach § 314 BGB, Abmahnungserfordernis, Beweisanforderungen und Rechtsfolgen. Typische Kündigungsgründe im Franchiserecht aus Franchisegeber- und Franchisenehmerperspektive.
 
 # Franchiserecht: Kündigung aus wichtigem Grund
 
@@ -107,7 +107,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-015-ordentliche-kuendigung-laufzeit-verlaengerung`
 
-**Frühere Beschreibung:** Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung.
+**Fokus:** Ordentliche Kündigung und automatische Verlängerung von Franchiseverträgen prüfen: Laufzeitklauseln, Kündigungsfristen, AGB-Kontrolle nach § 307 BGB, Verlängerungsoptionen und Investitionsschutz des Franchisenehmers bei Nichtverlängerung.
 
 # Franchiserecht: Ordentliche Kündigung, Laufzeit und Verlängerung
 
@@ -185,7 +185,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-017-abwicklung-rueckbau-schilder-warenbestand`
 
-**Frühere Beschreibung:** Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB.
+**Fokus:** Abwicklung und Rückbau nach Beendigung eines Franchisevertrags: Herausgabe des Systemhandbuchs, Abbau von CI-Schildern, Verarbeitung des Warenbestands, Schlussabrechnung und Abwicklungspflichten beider Parteien nach §§ 242 und 280 BGB.
 
 # Franchiserecht: Abwicklung, Rückbau und Warenbestand nach Vertragsende
 

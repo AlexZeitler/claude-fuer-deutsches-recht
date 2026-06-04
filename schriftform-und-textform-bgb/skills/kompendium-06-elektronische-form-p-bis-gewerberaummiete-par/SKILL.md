@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-elektronische-form-p-bis-gewerberaummiete-par
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (elektronische-form-paragraph-126a-bgb-qes, formerfordernisse-im-bgb-ueberblick, gewerberaummiete-paragraph-550-bgb-langzeitform) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elektronische Form Paragraph 126a Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - schriftform-und-textform-bgb
+# Arbeitsbereich - Elektronische Form Paragraph 126a Bgb Qes, Formerfordernisse Im Bgb Ueberblick, Gewerberaummiete Paragraph 550 Bgb Langzeitform
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elektronische-form-paragraph-126a-bgb-qes` | Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `formerfordernisse-im-bgb-ueberblick` | Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elektronische-form-paragraph-126a-bgb-qes`
 
-**Frühere Beschreibung:** Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu elektronische form paragraph 126a bgb qes. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Elektronische Form § 126a BGB — Qualifizierte elektronische Signatur
 
@@ -164,7 +164,7 @@ Gesetzliche Formfiktionen bleiben unberührt.
 
 ## 2. `formerfordernisse-im-bgb-ueberblick`
 
-**Frühere Beschreibung:** Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis.
+**Fokus:** Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und Überblick für die Kanzleipraxis.
 
 # Formerfordernisse im BGB — Überblick
 
@@ -255,7 +255,7 @@ Die Berufung auf einen Formmangel kann nach § 242 BGB treuwidrig sein, wenn:
 
 ## 3. `gewerberaummiete-paragraph-550-bgb-langzeitform`
 
-**Frühere Beschreibung:** Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen.
+**Fokus:** Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster: Schriftformerfordernis Mietvertraege über 1 Jahr Folge Verstoß ordentliche Kündigung möglich Heilung durch Nachholung Teilnichtigkeit Auflockerungsrechtsprechung. Reformdiskussionen 2025 und 2026. Output: Schriftform-Analyse und Kündigungsrisiko-Einschaetzung. Abgrenzung zu wohnraummiete-kündigung-paragraph-568-bgb (Wohnraum) und kündigung-per-schriftsatz-zustellung-formfragen.
 
 # Gewerberaummiete § 550 BGB — Langzeitform
 

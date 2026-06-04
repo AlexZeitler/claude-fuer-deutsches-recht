@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-luft-095-acc3-genehm-bis-luft-099-acc3-dashbo
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (luft-095-acc3-genehmigung-pruefen, luft-096-acc3-sicherheitsauflage-bewerten, luft-097-acc3-insolvenzrisiko-markieren, luft-098-acc3-local-counsel-briefen, luft-099-acc3-dashboard-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 095 Acc3 Genehmigung Pruefen, Luft 096 Acc3 Sicherheitsauflage Bewerten, Luft 097 Acc3 Insolvenzrisiko Markieren, Luft 098 Acc3 Local Counsel Briefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 095 Acc3 Genehmigung Pruefen bis Luft 099 Acc3 Dashboard Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-095-acc3-genehmigung-pruefen` | ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk. |
 | `luft-096-acc3-sicherheitsauflage-bewerten` | ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan fuer ACC3-Betrieb. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-095-acc3-genehmigung-pruefen`
 
-**Frühere Beschreibung:** ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk.
+**Fokus:** ACC3-Carrier prueft Designierungsstatus und ob alle erforderlichen Genehmigungen fuer Drittland-Fracht-Betrieb vorliegen. Prueft EU-DVO 2015/1998 EU-VO 300/2008 Validierungsgueltigkeit und LuftVG-Betriebsgenehmigung und liefert Genehmigungsstatus-Vermerk.
 
 # ACC3 – Genehmigung prüfen
 
@@ -125,7 +125,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 2. `luft-096-acc3-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan fuer ACC3-Betrieb.
+**Fokus:** ACC3-Carrier erhaelt Sicherheitsauflage nach EU-Luftsicherheits-Inspektion. Prueft EU-DVO 2015/1998 Findings-Kategorien EU-VO 300/2008 LuftSiG § 9 Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan fuer ACC3-Betrieb.
 
 # ACC3 – Sicherheitsauflage bewerten
 
@@ -220,7 +220,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 3. `luft-097-acc3-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers.
+**Fokus:** ACC3-Carrier zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 EU-VO 1008/2008 Art. 9 Betriebsgenehmigung Cape-Town-Remedies und liefert Risikoampel fuer Glaeubiger und Geschaeftspartner des ACC3-Carriers.
 
 # ACC3 – Insolvenzrisiko markieren
 
@@ -316,7 +316,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 4. `luft-098-acc3-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer ACC3-Mandat briefen: Designierungsverlust Sicherheitsauflage oder Carrier-Insolvenz. Skill erstellt englisches Briefing-Memo mit EU-Sicherheitsrecht und konkreten Fragen.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer ACC3-Mandat briefen: Designierungsverlust Sicherheitsauflage oder Carrier-Insolvenz. Skill erstellt englisches Briefing-Memo mit EU-Sicherheitsrecht und konkreten Fragen.
 
 # ACC3 – Local Counsel briefen
 
@@ -411,7 +411,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 5. `luft-099-acc3-dashboard-bauen`
 
-**Frühere Beschreibung:** ACC3-Carrier braucht Compliance-Dashboard: Designierungsstatus Validierungsgueltigkeit RA3/KC3-Datenbank Sicherheitsfindings. Skill strukturiert Datenquellen EU-Datenbanken EU-DVO 2015/1998 und liefert befuellbares Compliance-Dashboard.
+**Fokus:** ACC3-Carrier braucht Compliance-Dashboard: Designierungsstatus Validierungsgueltigkeit RA3/KC3-Datenbank Sicherheitsfindings. Skill strukturiert Datenquellen EU-Datenbanken EU-DVO 2015/1998 und liefert befuellbares Compliance-Dashboard.
 
 # ACC3 – Dashboard bauen
 

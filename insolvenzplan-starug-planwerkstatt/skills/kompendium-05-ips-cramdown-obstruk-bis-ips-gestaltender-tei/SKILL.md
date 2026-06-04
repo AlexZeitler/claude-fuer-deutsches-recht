@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ips-cramdown-obstruk-bis-ips-gestaltender-tei
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (ips-cramdown-obstruktion, ips-datenraum-register, ips-gestaltender-teil) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Cramdown Obstruktion, Ips Datenraum Register, Ips Gestaltender Teil; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Cramdown Obstruktion, Ips Datenraum Register, Ips Gestaltender Teil
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung Gegenargumente. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz Einzelner (ips-minderheitenschutz). |
 | `ips-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht für Anlagenpaket (ips-anlagenpaket). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-cramdown-obstruktion`
 
-**Frühere Beschreibung:** Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung Gegenargumente. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz Einzelner (ips-minderheitenschutz).
+**Fokus:** Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung Gegenargumente. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz Einzelner (ips-minderheitenschutz).
 
 # Cram-down und Obstruktion
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-datenraum-register`
 
-**Frühere Beschreibung:** Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht für Anlagenpaket (ips-anlagenpaket).
+**Fokus:** Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht für Anlagenpaket (ips-anlagenpaket).
 
 # Datenraum und Dokumentenregister
 
@@ -184,7 +184,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-gestaltender-teil`
 
-**Frühere Beschreibung:** Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit Pauschalklauseln. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht für darstellenden Teil (ips-darstellender-teil).
+**Fokus:** Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit Pauschalklauseln. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht für darstellenden Teil (ips-darstellender-teil).
 
 # Gestaltender Teil
 

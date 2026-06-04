@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-service-level-agreem-bis-stakeholder-map
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (service-level-agreement, settlement-authority, settlement-implementation, staffing-pyramide, stakeholder-map) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Service Level Agreement, Settlement Authority, Settlement Implementation, Staffing Pyramide und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Service Level Agreement bis Stakeholder Map
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `service-level-agreement` | Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `settlement-authority` | Settlement Authority: steuert Vergleichsvollmacht, wirtschaftliche Untergrenzen, Eskalationsleiter und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `service-level-agreement`
 
-**Frühere Beschreibung:** Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Service Level Agreement: steuert Antwortzeiten, Eskalationswege, Freigaben, Wochenberichte und Notfallkontakte vereinbaren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Service Level Agreement
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `settlement-authority`
 
-**Frühere Beschreibung:** Settlement Authority: steuert Vergleichsvollmacht, wirtschaftliche Untergrenzen, Eskalationsleiter und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Settlement Authority: steuert Vergleichsvollmacht, wirtschaftliche Untergrenzen, Eskalationsleiter und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Settlement Authority
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `settlement-implementation`
 
-**Frühere Beschreibung:** Settlement Implementation: steuert Vergleich umgesetzt bekommen: Zahlung, Verpflichtungen, Kommunikation, Monitoring und Closeout zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Settlement Implementation: steuert Vergleich umgesetzt bekommen: Zahlung, Verpflichtungen, Kommunikation, Monitoring und Closeout zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Settlement Implementation
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `staffing-pyramide`
 
-**Frühere Beschreibung:** Staffing Pyramide: steuert Partner, Counsel, Associate, Legal Engineer und Paralegal sinnvoll einsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Staffing Pyramide: steuert Partner, Counsel, Associate, Legal Engineer und Paralegal sinnvoll einsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Staffing Pyramide
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `stakeholder-map`
 
-**Frühere Beschreibung:** Stakeholder Map: steuert GC, Legal Ops, CFO, Fachbereich, Vorstand, Kanzleipartner und Gericht/Behörde abbilden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Stakeholder Map: steuert GC, Legal Ops, CFO, Fachbereich, Vorstand, Kanzleipartner und Gericht/Behörde abbilden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Stakeholder Map
 

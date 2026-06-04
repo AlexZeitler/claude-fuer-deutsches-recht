@@ -1,39 +1,36 @@
 ---
 name: kompendium-01-anhoerung-auskunftsb-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 01; bündelt 8 frühere Spezialskills (anhoerung-auskunftsbeschluss-fristenplan, digital-services-melde-und-abhilfeverfahren-notice-and-action, eilverfahren-verwaltungsgericht-strategie, energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc, energie-regulierungsakte-bilanzkreis-gas-fristen-und-bescheidana und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Anhoerung Auskunftsbeschluss Fristenplan, Digital Services Melde Und Abhilfeverfahren Notice And Action, Eilverfahren Verwaltungsgericht Strategie, Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Anhoerung Auskunftsbeschluss Fristenplan bis Energie Regulierungsakte Bbplg Leitungsvorhaben Fristen Und Besc
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anhoerung-auskunftsbeschluss-fristenplan` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan. |
 | `digital-services-melde-und-abhilfeverfahren-notice-and-action` | Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
 | `eilverfahren-verwaltungsgericht-strategie` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie. |
 | `energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc` | BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
-| `energie-regulierungsakte-bilanzkreis-gas-fristen-und-bescheidana` | Bilanzkreis Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
-| `energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida` | Bilanzkreis Strom: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
-| `energie-regulierungsakte-grosshandelsdaten-transparenz-fristen-u` | Großhandelsdaten Transparenz: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
-| `energie-regulierungsakte-kapazitaetsvergabe-gas-fristen-und-besc` | Kapazitätsvergabe Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anhoerung-auskunftsbeschluss-fristenplan`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Anhörung Auskunftsbeschluss Fristenplan.
+
 
 # Anhörung, Auskunftsbeschluss, Fristenplan
 
@@ -154,7 +151,8 @@ Vor Absendung prüfen:
 
 ## 2. `digital-services-melde-und-abhilfeverfahren-notice-and-action`
 
-**Frühere Beschreibung:** Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Melde- und Abhilfeverfahren Notice and Action: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+
 
 # Melde- und Abhilfeverfahren ("Notice and Action") nach Art. 16 DSA
 
@@ -216,7 +214,8 @@ Meldung enthält alle Art. 16 Abs. 2-Bestandteile? Begründung der Illegalität 
 
 ## 3. `eilverfahren-verwaltungsgericht-strategie`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Eilverfahren Verwaltungsgericht Strategie.
+
 
 # Eilverfahren beim Verwaltungsgericht in BNetzA-Sachen
 
@@ -275,172 +274,13 @@ Antragsart begründet gewählt? Zuständigkeit beim richtigen Gericht? Sofortige
 
 ## 4. `energie-regulierungsakte-bbplg-leitungsvorhaben-fristen-und-besc`
 
-**Frühere Beschreibung:** BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** BBPlG Leitungsvorhaben: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse
 
 ## Fachkern: Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse
 - **Spezialgegenstand:** Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Fristen- und Bescheidanalyse - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
-- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
-- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
-- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
-- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
-
-## Fachliche Weichenfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 5. `energie-regulierungsakte-bilanzkreis-gas-fristen-und-bescheidana`
-
-**Frühere Beschreibung:** Bilanzkreis Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
-
-# Energie-Regulierungsakte: Bilanzkreis Gas — Fristen- und Bescheidanalyse
-
-## Fachkern: Energie-Regulierungsakte: Bilanzkreis Gas — Fristen- und Bescheidanalyse
-- **Spezialgegenstand:** Energie-Regulierungsakte: Bilanzkreis Gas — Fristen- und Bescheidanalyse - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
-- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
-- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
-- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
-- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
-
-## Fachliche Weichenfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 6. `energie-regulierungsakte-bilanzkreis-strom-fristen-und-bescheida`
-
-**Frühere Beschreibung:** Bilanzkreis Strom: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
-
-# Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse
-
-## Fachkern: Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse
-- **Spezialgegenstand:** Energie-Regulierungsakte: Bilanzkreis Strom — Fristen- und Bescheidanalyse - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
-- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
-- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
-- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
-- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
-
-## Fachliche Weichenfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 7. `energie-regulierungsakte-grosshandelsdaten-transparenz-fristen-u`
-
-**Frühere Beschreibung:** Großhandelsdaten Transparenz: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
-
-# Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse
-
-## Fachkern: Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse
-- **Spezialgegenstand:** Energie-Regulierungsakte: Großhandelsdaten Transparenz — Fristen- und Bescheidanalyse - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
-- **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
-- **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
-- **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.
-- **Taktischer Output:** Erzeuge nicht nur eine Checkliste, sondern eine Beschlusskammer-taugliche Kurzposition mit Antrag/Einwand, Beleganlage, offener Live-Quelle und nächstem Verfahrensschritt.
-
-## Fachliche Weichenfragen
-- Wer fragt in welcher Rolle und welches Arbeitsergebnis wird gebraucht?
-- Welche Frist, Zuständigkeit, Behörde, Gericht oder Vertragssituation ist erkennbar?
-- Welche Dokumente, Zahlen, Registerdaten, Bescheide, Verträge oder Korrespondenz liegen vor?
-- Welche Tatsachen sind sicher, welche sind streitig und welche Annahmen müssen sichtbar markiert werden?
-- Welche live zu prüfenden Normen, Behördenhinweise oder Formulare tragen das Ergebnis?
-
-## Prüf- und Arbeitslogik
-1. **Einordnen:** Rolle, Ziel, Verfahrensstand, Vertragstyp, Behörde/Gericht, Frist und Risiken festhalten.
-2. **Normen live prüfen:** Vor tragenden Aussagen den aktuellen Stand aus amtlichen oder frei zugänglichen Quellen kontrollieren. Besonders prüfen: die im Fachkern genannten Normen-/Quellenanker, aktuellen amtlichen oder frei zugänglichen Fachquellen und die für diese Speziallage tragenden Formulare/Behördenhinweise.
-3. **Tatbestand in Elemente zerlegen:** Jedes Tatbestandsmerkmal einzeln prüfen; unklare Tatsachen als `[offen: ...]` markieren.
-4. **Belege führen:** Für jede relevante Behauptung Dokument, Datum, Absender, Anlage, Registerfund oder Quelle notieren.
-5. **Gegenansicht bauen:** Mindestens eine ernsthafte Gegenargumentation und eine Verteidigungslinie formulieren.
-6. **Ergebnis kalibrieren:** Risikoampel `grün/gelb/rot`, Handlungsempfehlung, nächster Schritt und fehlende Unterlagen ausgeben.
-
-## Output
-Erzeuge je nach Auftrag eines oder mehrere dieser Arbeitsergebnisse: Kurzvermerk, Prüfschema, Risikoampel, Fragenliste, Dokumentenanforderung, Entwurfsbausteine und nächster Handlungsschritt. Wenn der Nutzer unsicher ist, schlage zuerst einen Minimalpfad vor: Frist sichern, Dokumente sortieren, Kernfrage beantworten, danach Spezialprüfung vertiefen.
-
-## Quellenhygiene
-- Keine BeckRS-, juris-, Kommentar- oder Aufsatzfundstellen aus Modellwissen erfinden.
-- Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei/amtlich prüfbarer Quelle nennen.
-- Bei EU-Recht den aktuellen EUR-Lex-Text und einschlägige Kommissions-/Agenturhinweise prüfen.
-- Bei Behördenverfahren aktuelle Formulare, Merkblätter, Konsultationen und Fristen der zuständigen Behörde prüfen.
-
-## Qualitätsgate
-Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast, Zahlen, Form und gewünschter Output vollständig? Ist erkennbar, was sicher ist und was noch Sachverhaltsarbeit braucht?
-
-## 8. `energie-regulierungsakte-kapazitaetsvergabe-gas-fristen-und-besc`
-
-**Frühere Beschreibung:** Kapazitätsvergabe Gas: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
-
-# Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse
-
-## Fachkern: Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse
-- **Spezialgegenstand:** Energie-Regulierungsakte: Kapazitätsvergabe Gas — Fristen- und Bescheidanalyse - genau diese Verfahrenslage wird als eigenes Mandat behandelt, nicht als allgemeiner BNetzA-Chat.
 - **Normen- und Behördenanker:** EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, REMIT, NABEG und die einschlägige Beschlusskammerpraxis der BNetzA.
 - **Spezifische Weiche:** Zerlege Netzbetreiberrolle, Erlösobergrenze/Kostenbasis, Regulierungskonto, Investitionsmaßnahme, Netzzugang, Anschlussbegehren, Bilanzkreis oder Marktmissbrauch; Zahlen müssen aus Bescheid, Datenmeldung oder Erhebungsbogen kommen.
 - **Beleglogik:** Jede Zahl, Schwelle, Netzkomponente, Frist oder technische Behauptung braucht Quelle: Bescheid, Konsultationsdokument, Erhebungsbogen, Registerauszug, Vertrag, Messdaten, Ticket oder Behördenmail.

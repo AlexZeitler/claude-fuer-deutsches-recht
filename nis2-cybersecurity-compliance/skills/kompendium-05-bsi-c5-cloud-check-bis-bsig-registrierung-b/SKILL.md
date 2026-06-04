@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bsi-c5-cloud-check-bis-bsig-registrierung-b
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (bsi-c5-cloud-check, bsi-grundschutz-schutzbedarf, bsi-meldestelle-formular, bsig-registrierung-bsi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bsi C5 Cloud Check, Bsi Grundschutz Schutzbedarf, Bsi Meldestelle Formular, Bsig Registrierung Bsi; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Bsi C5 Cloud Check bis Bsig Registrierung Bsi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bsi-c5-cloud-check` | Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette. |
 | `bsi-grundschutz-schutzbedarf` | Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bsi-c5-cloud-check`
 
-**Frühere Beschreibung:** Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette.
+**Fokus:** Prüft Cloudanbieter und SaaS nach BSI C5 und NIS-2-Lieferkette.
 
 # BSI C5 Cloud Check
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `bsi-grundschutz-schutzbedarf`
 
-**Frühere Beschreibung:** Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen.
+**Fokus:** Führt Schutzbedarfsfeststellung und Grundschutz-Bausteine praxisnah zusammen.
 
 # BSI Grundschutz Schutzbedarf
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `bsi-meldestelle-formular`
 
-**Frühere Beschreibung:** Bereitet Meldungen an BSI und parallele Stellen vor.
+**Fokus:** Bereitet Meldungen an BSI und parallele Stellen vor.
 
 # BSI Meldestelle Formular
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `bsig-registrierung-bsi`
 
-**Frühere Beschreibung:** Führt Registrierung und Kontaktdaten beim BSI sauber durch.
+**Fokus:** Führt Registrierung und Kontaktdaten beim BSI sauber durch.
 
 # Bsig Registrierung BSI
 

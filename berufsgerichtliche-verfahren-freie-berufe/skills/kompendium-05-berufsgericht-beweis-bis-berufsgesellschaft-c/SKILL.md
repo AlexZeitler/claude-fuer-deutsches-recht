@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-berufsgericht-beweis-bis-berufsgesellschaft-c
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (berufsgericht-beweisaufnahme-praevention, berufsgericht-beweisaufnahme-verteidigung, berufsgesellschaft-compliance-praevention, berufsgesellschaft-compliance-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufsgericht Beweisaufnahme Praevention, Berufsgericht Beweisaufnahme Verteidigung, Berufsgesellschaft Compliance Praevention, Berufsgesellschaft Compliance Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Berufsgericht Beweisaufnahme Praevention bis Berufsgesellschaft Compliance Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufsgericht-beweisaufnahme-praevention` | Berufsgericht Beweisaufnahme (Präventions- und Organisationspaket): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `berufsgericht-beweisaufnahme-verteidigung` | Berufsgericht Beweisaufnahme (Verteidigungs- und Kammerantwort): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufsgericht-beweisaufnahme-praevention`
 
-**Frühere Beschreibung:** Berufsgericht Beweisaufnahme (Präventions- und Organisationspaket): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgericht Beweisaufnahme (Präventions- und Organisationspaket): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgericht Beweisaufnahme: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `berufsgericht-beweisaufnahme-verteidigung`
 
-**Frühere Beschreibung:** Berufsgericht Beweisaufnahme (Verteidigungs- und Kammerantwort): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgericht Beweisaufnahme (Verteidigungs- und Kammerantwort): steuert Zeugen, Urkunden, Mandatsgeheimnis, Kammerakte und Beweisanträge im Berufsverfahren mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgericht Beweisaufnahme: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `berufsgesellschaft-compliance-praevention`
 
-**Frühere Beschreibung:** Berufsgesellschaft Compliance (Präventions- und Organisationspaket): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgesellschaft Compliance (Präventions- und Organisationspaket): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgesellschaft Compliance: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `berufsgesellschaft-compliance-verteidigung`
 
-**Frühere Beschreibung:** Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgesellschaft Compliance (Verteidigungs- und Kammerantwort): steuert Berufsausübungsgesellschaft, Compliance-System, Organpflichten, Zulassung und Aufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgesellschaft Compliance: Verteidigungs- und Kammerantwort
 

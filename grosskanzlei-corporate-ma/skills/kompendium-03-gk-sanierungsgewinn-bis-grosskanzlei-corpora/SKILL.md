@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-gk-sanierungsgewinn-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 03; bündelt 7 frühere Spezialskills (gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess, grosskanzlei-corporate-ma-deal-os-orchestrator, grosskanzlei-corporate-ma-kg-personengesellschaften, grosskanzlei-corporate-ma-matter-file, grosskanzlei-corporate-ma-qa-information-requests und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess, Grosskanzlei Corporate Ma Deal Os Orchestrator, Grosskanzlei Corporate Ma Kg Personengesellschaften, Grosskanzlei Corporate Ma Matter File und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Gk Sanierungsgewinn Verlustvortraege Sanity Im Dd Prozess bis Grosskanzlei Corporate Ma Tabellenreview 3d Datenraum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess` | Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026. |
 | `grosskanzlei-corporate-ma-deal-os-orchestrator` | Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gk-sanierungsgewinn-verlustvortraege-sanity-im-dd-prozess`
 
-**Frühere Beschreibung:** Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026.
+**Fokus:** Sanity-Check der Verlustvorträge im Distressed-Due-Diligence-Prozess. Modelliert den Verbrauch von körperschaft- und gewerbesteuerlichen Verlustvorträgen, Zinsvorträgen und EBITDA-Vorträgen durch einen prognostizierten Sanierungsertrag (§ 3a Abs. 3 EStG / § 7b GewStG). Liefert ein DD-Modul mit Verlustvortrag-Inventur, Verbrauchssimulation und Red-Flag-Liste für SPA-Verhandlung. Adressat ist das M&A-Team der Großkanzlei in Buy-side und Sell-side. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Verlustvorträge Sanity im DD-Prozess
 
@@ -158,7 +158,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-deal-os-orchestrator`
 
-**Frühere Beschreibung:** Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand.
+**Fokus:** Deal-OS-Orchestrator fuer grosse Corporate- und M&A-Mandate: steuert Deal-Phase, Rolle, Fristen, Workstreams, Risikoampeln, Padlet-Canvas, Tabellenmatrix, Junior-Fuehrung und naechste Deliverables aus einer Hand.
 
 # Deal-OS Orchestrator
 
@@ -248,7 +248,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-kg-personengesellschaften`
 
-**Frühere Beschreibung:** KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Prüfraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht für Formwechsel und zu Transaktionsstruktur für Gesamtstruktur.
+**Fokus:** KG und Personengesellschaften in M&A-Transaktionen: Anwendungsfall Mandat betrifft Kommanditanteilsuebertragung, Fondsvehikel-Struktur, Kommanditistenwechsel oder Einbringung in KG. §§ 161-177 HGB, MoPeG, §§ 20-24 UmwStG Einbringung. Prüfraster Anteilsuebertragung-Modalitaeten, Haftsumme Registeranpassung, Einlagen-Nachweis, Komplementaer-Haftung, steuerliche Transparenz. Output KG-spezifische Transaktionscheckliste mit Registerschritten und steuerlichen Hinweisen. Abgrenzung zu Umwandlungsrecht für Formwechsel und zu Transaktionsstruktur für Gesamtstruktur.
 
 # KG und Personengesellschaften
 
@@ -467,7 +467,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-matter-file`
 
-**Frühere Beschreibung:** Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a BRAO Aktenführung, GoBD Aufbewahrung. Prüfraster Ordnerstruktur 00-90-Archive, Deal-Code, Gegenparteien, Notar, Steuerberater, W&I-Versicherer. Output vollständig strukturierter Matter-Workspace mit Aktenzeichen, Parteienregister und Workstream-Übersicht. Abgrenzung zu Deal-Intake für erste Erfassung und zu Aktenanlage für freistehende Version.
+**Fokus:** Deal-Akte und Matter-Workspace anlegen: Anwendungsfall bei Mandatsannahme wird strukturierter Matter-Workspace benoetigt mit allen Workstreams, Datenraumspiegel, Register-Links, Q&A-Tracker und Closing-Archiv. § 43a BRAO Aktenführung, GoBD Aufbewahrung. Prüfraster Ordnerstruktur 00-90-Archive, Deal-Code, Gegenparteien, Notar, Steuerberater, W&I-Versicherer. Output vollständig strukturierter Matter-Workspace mit Aktenzeichen, Parteienregister und Workstream-Übersicht. Abgrenzung zu Deal-Intake für erste Erfassung und zu Aktenanlage für freistehende Version.
 
 # Deal-Akte
 
@@ -645,7 +645,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-qa-information-requests`
 
-**Frühere Beschreibung:** Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege prüfen. SPA Due Diligence Prozess, MAR Vertraulichkeit. Prüfraster Fragen nach Workstream und Prioritaet kategorisieren, Antworten-Qualitaet bewerten, unzureichende Antworten nachfassen, Strategieschutz bei Frageformulierung. Output Q&A-Tracker mit offenen, beantworteten und eskalationsbedürftigen Fragen. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Reporting.
+**Fokus:** Q&A-Prozess und Information Requests in der Due Diligence steuern: Anwendungsfall Deal-Team muss aus DD-Analyse gezielte Fragen an Verkaeufer formulieren, priorisieren und Antworten gegen Datenraum-Belege prüfen. SPA Due Diligence Prozess, MAR Vertraulichkeit. Prüfraster Fragen nach Workstream und Prioritaet kategorisieren, Antworten-Qualitaet bewerten, unzureichende Antworten nachfassen, Strategieschutz bei Frageformulierung. Output Q&A-Tracker mit offenen, beantworteten und eskalationsbedürftigen Fragen. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Reporting.
 
 # Q&A und Information Requests
 
@@ -822,7 +822,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-simulation-bidder-process`
 
-**Frühere Beschreibung:** M&A-Bieterprozess simulieren für Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Szenario Seller-side/Buy-side, Deal-Ereignisse simulieren, Entscheidungspunkte steuern, Lessons Learned dokumentieren. Output simulierter Deal-Tag mit Entscheidungsprotokoll und Nachbereitung. Abgrenzung zu freundlichem Copilot für Echtzeit-Begleitung und zu Kommandocenter für echte Mandate.
+**Fokus:** M&A-Bieterprozess simulieren für Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Szenario Seller-side/Buy-side, Deal-Ereignisse simulieren, Entscheidungspunkte steuern, Lessons Learned dokumentieren. Output simulierter Deal-Tag mit Entscheidungsprotokoll und Nachbereitung. Abgrenzung zu freundlichem Copilot für Echtzeit-Begleitung und zu Kommandocenter für echte Mandate.
 
 # Bieterprozess-Simulation
 
@@ -999,7 +999,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-tabellenreview-3d-datenraum`
 
-**Frühere Beschreibung:** 3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prüft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren Workstream-Perspektiven. SPA Due Diligence. Prüfraster Spaltenprompts für Datenpunkte, Zeilendefinition als Dokumente oder Cluster, Blaetter für Legal/Tax/Finance-Perspektive. Output 3D-Review-Matrix mit workstreamspezifischen Befunden und Luecken. Abgrenzung zum freistehenden Tabellenreview-Skill und zu DD-Reporting.
+**Fokus:** 3D-Tabellenreview M&A-Datenraum: Dokumente Datenpunkte und Perspektiven Recht/Steuer/Wirtschaft verbinden: Anwendungsfall Deal-Team prüft Datenraum-Dokumente systematisch mit internem Review-Cube nach mehreren Workstream-Perspektiven. SPA Due Diligence. Prüfraster Spaltenprompts für Datenpunkte, Zeilendefinition als Dokumente oder Cluster, Blaetter für Legal/Tax/Finance-Perspektive. Output 3D-Review-Matrix mit workstreamspezifischen Befunden und Luecken. Abgrenzung zum freistehenden Tabellenreview-Skill und zu DD-Reporting.
 
 # 3D-Tabellenreview im Datenraum
 

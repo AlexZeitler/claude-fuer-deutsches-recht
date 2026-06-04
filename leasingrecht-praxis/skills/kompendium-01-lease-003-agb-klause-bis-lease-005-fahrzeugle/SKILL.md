@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-lease-003-agb-klause-bis-lease-005-fahrzeugle
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (lease-003-agb-klauseln-im-leasingvertrag-pruefen, lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel, lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 003 Agb Klauseln Im Leasingvertrag Pruefen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing Kilometervertrag Restwertvertrag Rueck; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - leasingrecht-praxis
+# Arbeitsbereich - Lease 003 Agb Klauseln Im Leasingvertrag Pruefen, Lease 004 Restwertgarantie Andienungsrecht Und Mehrerloesklausel, Lease 005 Fahrzeugleasing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-003-agb-klauseln-im-leasingvertrag-pruefen` | AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing. |
 | `lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel` | Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-003-agb-klauseln-im-leasingvertrag-pruefen`
 
-**Frühere Beschreibung:** AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing.
+**Fokus:** AGB-Kontrolle im Leasingvertrag: Einbeziehung, Inhaltskontrolle nach §§ 305–310 BGB, BGH-Kernklauseln, Klauselkatalog für Verbraucher- und Unternehmerleasing.
 
 # AGB-Kontrolle im Leasingvertrag
 
@@ -124,7 +124,7 @@ Bei Verbrauchern (B2C) strenge Anforderungen. Bei Unternehmern (B2B, § 310 I BG
 
 ## 2. `lease-004-restwertgarantie-andienungsrecht-und-mehrerloesklausel`
 
-**Frühere Beschreibung:** Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit.
+**Fokus:** Restwertgarantie, Andienungsrecht und Mehrerlösklausel: Konstruktionen, AGB-Wirksamkeit, steuerliche Zurechnung und Abrechnungsstreit.
 
 # Restwertgarantie, Andienungsrecht und Mehrerlösklausel
 
@@ -218,7 +218,7 @@ BFH IX R 14/15: Leasingerlass und wirtschaftliches Eigentum; Andienungsrecht all
 
 ## 3. `lease-005-fahrzeugleasing-kilometervertrag-restwertvertrag-rueck`
 
-**Frühere Beschreibung:** Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit.
+**Fokus:** Kfz-Leasing: Kilometervertrag vs. Restwertvertrag, Rückgabe, Minderwert, Mehrkilometer, Gutachten und Abrechnungsstreit.
 
 # Kfz-Leasing: Kilometervertrag, Restwertvertrag, Rückgabe
 

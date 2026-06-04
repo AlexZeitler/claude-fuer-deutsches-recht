@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-rentenversic-bis-spezial-schnittstell
-description: "fachanwalt-versicherungsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine, spezial-sachversicherung-verhandlung-vergleich-und-eskalation, spezial-schnittstelle-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rentenversicherung Schriftsatz Brief Und Memo Bausteine, Sachversicherung Verhandlung Vergleich Und Eskalation, Schnittstelle Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-versicherungsrecht
+# Arbeitsbereich - Rentenversicherung Schriftsatz Brief Und Memo Bausteine, Sachversicherung Verhandlung Vergleich Und Eskalation, Schnittstelle Zahlen Schwelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine` | Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-sachversicherung-verhandlung-vergleich-und-eskalation` | Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-rentenversicherung-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rentenversicherung: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-sachversicherung-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sachversicherung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sachversicherung: Verhandlung, Vergleich und Eskalation
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schnittstelle-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstelle: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt versicherungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schnittstelle: Zahlen, Schwellenwerte und Berechnung
 

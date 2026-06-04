@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-esg-greenwashing-csr-bis-lksg-csddd-lieferket
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (esg-greenwashing-csrd, klimaklagen-verbandsklage-umwrg, lksg-csddd-lieferkettensorgfalt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - umweltrecht
+# Arbeitsbereich - Esg Greenwashing Csrd, Klimaklagen Verbandsklage Umwrg, Lksg Csddd Lieferkettensorgfalt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `esg-greenwashing-csrd` | Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `klimaklagen-verbandsklage-umwrg` | Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `esg-greenwashing-csrd`
 
-**Frühere Beschreibung:** Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu esg greenwashing csrd. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # ESG, CSRD und Greenwashing-Verteidigung
 
@@ -356,7 +356,7 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 
 ## 2. `klimaklagen-verbandsklage-umwrg`
 
-**Frühere Beschreibung:** Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu klimaklagen verbandsklage umwrg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Klimaklagen und Verbandsklagen nach UmwRG
 
@@ -669,7 +669,7 @@ Es wird beantragt:
 
 ## 3. `lksg-csddd-lieferkettensorgfalt`
 
-**Frühere Beschreibung:** Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A).
+**Fokus:** Unternehmen ab 1000 Mitarbeitern muss Lieferketten-Sorgfaltspflichten nach LkSG und kuenftig CSDDD erfuellen. LkSG seit 1.1.2023 CSDDD Richtlinie 2024/1760 Phasing ab 2027. Normen LkSG §§ 3 4 8 11 24 CSDDD Art. 1 ff. Prüfraster Anwendungsbereich Sorgfaltspflichten Risikoanalyse Beschwerdemechanismus BAFA-Aufsicht. Output Risikoanalyse-Template Grundsatzerklärung Beschwerdeverfahren. Abgrenzung zu esg-greenwashing-csrd (Berichtspflicht) und umweltrecht-transaktionen-dd (M&A).
 
 # LkSG und CSDDD — Lieferkettensorgfalt
 

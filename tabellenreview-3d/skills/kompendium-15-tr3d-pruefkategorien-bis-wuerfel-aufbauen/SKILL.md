@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-tr3d-pruefkategorien-bis-wuerfel-aufbauen
-description: "tabellenreview-3d: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (tr3d-pruefkategorien-bauleiter, vorlage-vendor-onboarding-3d, wuerfel-aufbauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tabellenreview-3d: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tr3d Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3d, Wuerfel Aufbauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - tabellenreview-3d
+# Arbeitsbereich - Tr3d Pruefkategorien Bauleiter, Vorlage Vendor Onboarding 3d, Wuerfel Aufbauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tr3d-pruefkategorien-bauleiter` | Bauleiter Pruefkategorien fuer Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Pruefraster fuer drei-dimensionalen Aufbau. |
 | `vorlage-vendor-onboarding-3d` | Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenzung: nicht allgemeine Vertragsprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tr3d-pruefkategorien-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Pruefkategorien fuer Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Pruefraster fuer drei-dimensionalen Aufbau.
+**Fokus:** Bauleiter Pruefkategorien fuer Insolvenztabellenreview: Forderungsgrund, Bewertung, Bestreitenshistorie, Verteilungsquote. Pruefraster fuer drei-dimensionalen Aufbau.
 
 # TR3D: Pruefkategorien Bauleiter
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `tabellenreview-3d`. Er ergaenzt die uebrigen Sk
 
 ## 2. `vorlage-vendor-onboarding-3d`
 
-**Frühere Beschreibung:** Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenzung: nicht allgemeine Vertragsprüfung.
+**Fokus:** Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenzung: nicht allgemeine Vertragsprüfung.
 
 # /tabellenreview-3d:vorlage-vendor-onboarding-3d
 
@@ -186,7 +186,7 @@ Würfel-Schema fix und fertig. Direkt einsatzbereit.
 
 ## 3. `wuerfel-aufbauen`
 
-**Frühere Beschreibung:** 3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Abgrenzung: nicht Prüfungsdurchführung.
+**Fokus:** 3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Abgrenzung: nicht Prüfungsdurchführung.
 
 # /tabellenreview-3d:würfel-aufbauen
 

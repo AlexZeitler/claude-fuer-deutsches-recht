@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-europarecht-national-bis-spezial-denkfehler-f
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (europarecht-nationales-verfahren-effektivitaet, europarecht-vorlageverfahren-art-267, spezial-denkfehler-fristen-form-und-zustaendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Nationales Verfahren Effektivitaet, Europarecht Vorlageverfahren Art 267, Denkfehler Fristen Form Und Zustaendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - europarecht-kompass
+# Arbeitsbereich - Europarecht Nationales Verfahren Effektivitaet, Europarecht Vorlageverfahren Art 267, Denkfehler Fristen Form Und Zustaendigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-nationales-verfahren-effektivitaet` | EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht. |
 | `europarecht-vorlageverfahren-art-267` | Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-nationales-verfahren-effektivitaet`
 
-**Frühere Beschreibung:** EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht.
+**Fokus:** EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz prüfen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Prüfraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Prüfmemo Klageoptionen. Abgrenzung: nicht für allgemeines Verfahrensrecht.
 
 # Nationales Verfahren und Effektivität
 
@@ -127,7 +127,7 @@ EuGH an. Vorlagefrage: [FORMULIERUNG]
 
 ## 2. `europarecht-vorlageverfahren-art-267`
 
-**Frühere Beschreibung:** Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh).
+**Fokus:** Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts prüfen. Art. 267 AEUV Vorabentscheidungsverfahren. Prüfraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht für Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh).
 
 # Vorlageverfahren Art. 267 AEUV
 
@@ -243,7 +243,7 @@ klaert die Frage nicht vollstaendig fuer den vorliegenden Sachverhalt.
 
 ## 3. `spezial-denkfehler-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Denkfehler: Fristen, Form, Zuständigkeit und Rechtsweg
 

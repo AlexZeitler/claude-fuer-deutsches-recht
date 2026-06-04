@@ -1,35 +1,35 @@
 ---
 name: kompendium-16-schulgesetz-baden-wu-bis-schulgesetz-brandenb
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (schulgesetz-baden-wuerttemberg, schulgesetz-bayern, schulgesetz-berlin, schulgesetz-brandenburg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulgesetz Baden Wuerttemberg, Schulgesetz Bayern, Schulgesetz Berlin, Schulgesetz Brandenburg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - schulrecht-laender
+# Arbeitsbereich - Schulgesetz Baden Wuerttemberg bis Schulgesetz Brandenburg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
-| `schulgesetz-baden-wuerttemberg` | Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-bayern` | Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-berlin` | Prüft Schulrecht in Berlin mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-brandenburg` | Prüft Schulrecht in Brandenburg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
+| `schulgesetz-baden-wuerttemberg` | Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-bayern` | Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-berlin` | Prüft Schulrecht in Berlin mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-brandenburg` | Prüft Schulrecht in Brandenburg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulgesetz-baden-wuerttemberg`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Baden-Württemberg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Baden Wuerttemberg
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 2. `schulgesetz-bayern`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Bayern mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Bayern
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `schulgesetz-berlin`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Berlin mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Berlin mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Berlin
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 4. `schulgesetz-brandenburg`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Brandenburg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Brandenburg mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Brandenburg
 

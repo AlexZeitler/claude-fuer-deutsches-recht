@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-tier-089-tiertranspo-bis-tier-092-schlachthof
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tier-089-tiertransport-eilantrag-bauen, tier-090-tiertransport-vergleich-suchen, tier-091-schlachthof-schutzbedarf-pruefen, tier-092-schlachthof-behoerdenantrag-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 089 Tiertransport Eilantrag Bauen, Tier 090 Tiertransport Vergleich Suchen, Tier 091 Schlachthof Schutzbedarf Pruefen, Tier 092 Schlachthof Behoerdenantrag Schreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - tierschutzrecht
+# Arbeitsbereich - Tier 089 Tiertransport Eilantrag Bauen bis Tier 092 Schlachthof Behoerdenantrag Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-089-tiertransport-eilantrag-bauen` | Tierschutzrecht: Tiertransport: Eilantrag bauen. Eilantrag bauen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-090-tiertransport-vergleich-suchen` | Tierschutzrecht: Tiertransport: Vergleich suchen. Vergleich suchen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-089-tiertransport-eilantrag-bauen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tiertransport: Eilantrag bauen. Eilantrag bauen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Tiertransport: Eilantrag bauen. Eilantrag bauen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tiertransport Eilantrag Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-090-tiertransport-vergleich-suchen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tiertransport: Vergleich suchen. Vergleich suchen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Tiertransport: Vergleich suchen. Vergleich suchen für Tiertransport im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tiertransport Vergleich Suchen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-091-schlachthof-schutzbedarf-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schlachthof: Schutzbedarf prüfen. Schutzbedarf prüfen für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schlachthof: Schutzbedarf prüfen. Schutzbedarf prüfen für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schlachthof Schutzbedarf Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-092-schlachthof-behoerdenantrag-schreiben`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schlachthof: Behördenantrag schreiben. Behördenantrag schreiben für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schlachthof: Behördenantrag schreiben. Behördenantrag schreiben für Schlachthof im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schlachthof Behoerdenantrag Schreiben
 

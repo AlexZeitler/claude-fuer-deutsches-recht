@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-widerspruch-fristen-bis-akte-fuer-gericht-au
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (widerspruch-fristen-sonderlagen, ablehnungsbescheid-analyse, ablehnungsgruende-kdvg-7, adressat-und-versandwege, akte-fuer-gericht-aufbauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Widerspruch Fristen Sonderlagen, Ablehnungsbescheid Analyse, Ablehnungsgruende Kdvg 7, Adressat Und Versandwege und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Widerspruch Fristen Sonderlagen bis Akte Fuer Gericht Aufbauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `widerspruch-fristen-sonderlagen` | Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG. |
 | `ablehnungsbescheid-analyse` | Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnungsbescheids. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `widerspruch-fristen-sonderlagen`
 
-**Frühere Beschreibung:** Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG.
+**Fokus:** Prüft normale und verkürzte Widerspruchsfristen, insbesondere § 11 KDVG.
 
 # Widerspruchsfristen Sonderlagen
 
@@ -85,7 +85,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 2. `ablehnungsbescheid-analyse`
 
-**Frühere Beschreibung:** Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnungsbescheids.
+**Fokus:** Analysiert Tenor, Begründung, Rechtsbehelfsbelehrung und Fehler eines Ablehnungsbescheids.
 
 # Ablehnungsbescheid analysieren
 
@@ -140,7 +140,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 3. `ablehnungsgruende-kdvg-7`
 
-**Frühere Beschreibung:** Zerlegt Ablehnungen wegen Musterungsverweigerung, Unvollständigkeit, ungeeigneter Gründe oder Zweifel.
+**Fokus:** Zerlegt Ablehnungen wegen Musterungsverweigerung, Unvollständigkeit, ungeeigneter Gründe oder Zweifel.
 
 # Ablehnungsgründe § 7 KDVG
 
@@ -195,7 +195,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 4. `adressat-und-versandwege`
 
-**Frühere Beschreibung:** Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis.
+**Fokus:** Prüft Post, Fax, E-Mail, Unterschrift und Zugangsnachweis.
 
 # Adressat und Versandwege
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `akte-fuer-gericht-aufbauen`
 
-**Frühere Beschreibung:** Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest.
+**Fokus:** Ordnet Tatsachen, Gewissen, Belege und Verfahrensfehler gerichtsfest.
 
 # Gerichtsakte aufbauen
 

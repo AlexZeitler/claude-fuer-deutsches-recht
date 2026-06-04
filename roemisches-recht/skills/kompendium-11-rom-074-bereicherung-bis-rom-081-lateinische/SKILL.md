@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-rom-074-bereicherung-bis-rom-081-lateinische
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 11; bündelt 8 frühere Spezialskills (rom-074-bereicherungsrecht-vergleich, rom-075-goa-vergleich, rom-076-deliktsrecht-vergleich, rom-077-servituten-vergleich, rom-078-hypothek-vergleich und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 074 Bereicherungsrecht Vergleich, Rom 075 Goa Vergleich, Rom 076 Deliktsrecht Vergleich, Rom 077 Servituten Vergleich und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - roemisches-recht
+# Arbeitsbereich - Rom 074 Bereicherungsrecht Vergleich bis Rom 081 Lateinische Rechtsmaximen Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-074-bereicherungsrecht-vergleich` | Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre. |
 | `rom-075-goa-vergleich` | Römisches Recht: Geschäftsführung ohne Auftrag (GoA) im Vergleich - röm. negotiorum gestio (D. 3.5) vs. BGB §§ 677-687 (Aufwendungsersatz, Haftung, berechtigte vs. unberechtigte GoA). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-074-bereicherungsrecht-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre.
+**Fokus:** Römisches Recht: Bereicherungsrecht im Vergleich - röm. condictiones (D. 12, condictio indebiti, ob causam, sine causa) vs. BGB §§ 812-822 und Einheitslehre vs. Trennungslehre.
 
 # Bereicherungsrecht im Vergleich
 
@@ -87,7 +87,7 @@ D. 12 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Zimmermann Law of Obligati
 
 ## 2. `rom-075-goa-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Geschäftsführung ohne Auftrag (GoA) im Vergleich - röm. negotiorum gestio (D. 3.5) vs. BGB §§ 677-687 (Aufwendungsersatz, Haftung, berechtigte vs. unberechtigte GoA).
+**Fokus:** Römisches Recht: Geschäftsführung ohne Auftrag (GoA) im Vergleich - röm. negotiorum gestio (D. 3.5) vs. BGB §§ 677-687 (Aufwendungsersatz, Haftung, berechtigte vs. unberechtigte GoA).
 
 # GoA im Vergleich: negotiorum gestio vs. BGB
 
@@ -141,7 +141,7 @@ D. 3.5 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. Zimmermann.
 
 ## 3. `rom-076-deliktsrecht-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Deliktsrecht im Vergleich - röm. Hauptdelikte (furtum, damnum iniuria datum, iniuria, rapina) vs. BGB §§ 823-826 und die Transformation der culpa Aquiliana in das moderne Verschuldensprinzip.
+**Fokus:** Römisches Recht: Deliktsrecht im Vergleich - röm. Hauptdelikte (furtum, damnum iniuria datum, iniuria, rapina) vs. BGB §§ 823-826 und die Transformation der culpa Aquiliana in das moderne Verschuldensprinzip.
 
 # Deliktsrecht im Vergleich
 
@@ -194,7 +194,7 @@ D. 9.2; D. 47.2; D. 47.10 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Zimmer
 
 ## 4. `rom-077-servituten-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Servituten im Vergleich - röm. praediale Servituten (D. 8) und usus fructus (D. 7) vs. BGB §§ 1018ff. (Grunddienstbarkeit) und §§ 1030ff. (Nießbrauch) - Gemeinsamkeiten und Unterschiede.
+**Fokus:** Römisches Recht: Servituten im Vergleich - röm. praediale Servituten (D. 8) und usus fructus (D. 7) vs. BGB §§ 1018ff. (Grunddienstbarkeit) und §§ 1030ff. (Nießbrauch) - Gemeinsamkeiten und Unterschiede.
 
 # Servituten im Vergleich
 
@@ -248,7 +248,7 @@ D. 8; D. 7 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I.
 
 ## 5. `rom-078-hypothek-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Hypothek im Vergleich - röm. hypotheca (D. 20) vs. BGB §§ 1113ff. (Hypothek) und §§ 1191ff. (Grundschuld) - Akzessorietät, prior tempore-Grundsatz und Unterschiede.
+**Fokus:** Römisches Recht: Hypothek im Vergleich - röm. hypotheca (D. 20) vs. BGB §§ 1113ff. (Hypothek) und §§ 1191ff. (Grundschuld) - Akzessorietät, prior tempore-Grundsatz und Unterschiede.
 
 # Hypothek im Vergleich
 
@@ -302,7 +302,7 @@ D. 20 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. MüKo-BGB.
 
 ## 6. `rom-079-gesellschaftsrecht-vergleich`
 
-**Frühere Beschreibung:** Römisches Recht: Gesellschaftsrecht im Vergleich - röm. societas (D. 17.2) vs. BGB-GbR (§§ 705ff.), OHG (HGB) und juristische Person - Fehlen der juristischen Person im röm. Recht und die collegium-Diskussion.
+**Fokus:** Römisches Recht: Gesellschaftsrecht im Vergleich - röm. societas (D. 17.2) vs. BGB-GbR (§§ 705ff.), OHG (HGB) und juristische Person - Fehlen der juristischen Person im röm. Recht und die collegium-Diskussion.
 
 # Gesellschaftsrecht im Vergleich
 
@@ -356,7 +356,7 @@ D. 17.2; D. 3.4 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Kaser RP I. Wiea
 
 ## 7. `rom-080-kaufrecht-vergleich-cisg-bgb`
 
-**Frühere Beschreibung:** Römisches Recht: Kaufrecht im dreifachen Vergleich - röm. emptio venditio (D. 18-19) vs. BGB §§ 433ff. vs. CISG - Gefahrtragung, Gewährleistung, Sachmangelbegriff und historische Kontinuität.
+**Fokus:** Römisches Recht: Kaufrecht im dreifachen Vergleich - röm. emptio venditio (D. 18-19) vs. BGB §§ 433ff. vs. CISG - Gefahrtragung, Gewährleistung, Sachmangelbegriff und historische Kontinuität.
 
 # Kaufrecht im Vergleich: röm. Recht, BGB und CISG
 
@@ -411,7 +411,7 @@ D. 18.6; D. 21.1-2 (Mommsen-Krüger). BGB: gesetze-im-internet.de. CISG: uncitra
 
 ## 8. `rom-081-lateinische-rechtsmaximen-pruefen`
 
-**Frühere Beschreibung:** Römisches Recht: Lateinische Rechtsmaximen prüfen - D. 50.17 (De diversis regulis iuris antiqui), Liebs Lateinische Rechtsregeln, Herkunft, korrekte Zitation und Grenzen der Maximen.
+**Fokus:** Römisches Recht: Lateinische Rechtsmaximen prüfen - D. 50.17 (De diversis regulis iuris antiqui), Liebs Lateinische Rechtsregeln, Herkunft, korrekte Zitation und Grenzen der Maximen.
 
 # Lateinische Rechtsmaximen prüfen
 

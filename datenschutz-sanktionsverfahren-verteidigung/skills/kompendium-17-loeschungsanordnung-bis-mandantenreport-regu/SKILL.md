@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-loeschungsanordnung-bis-mandantenreport-regu
-description: "datenschutz-sanktionsverfahren-verteidigung: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (loeschungsanordnung-und-datenbestand, logfiles-und-technische-beweise, mandanteninterview-ohne-selbstbelastung, mandantenreport-regulatorische-risikolage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutz-sanktionsverfahren-verteidigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Loeschungsanordnung Und Datenbestand, Logfiles Und Technische Beweise, Mandanteninterview Ohne Selbstbelastung, Mandantenreport Regulatorische Risikolage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - datenschutz-sanktionsverfahren-verteidigung
+# Arbeitsbereich - Loeschungsanordnung Und Datenbestand bis Mandantenreport Regulatorische Risikolage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `loeschungsanordnung-und-datenbestand` | Löschungsanordnung und Datenbestand: Löschungsanordnung, Aufbewahrungspflichten, Litigation Hold, Backups und technische Machbarkeit lösen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `logfiles-und-technische-beweise` | Logfiles und technische Beweise: SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `loeschungsanordnung-und-datenbestand`
 
-**Frühere Beschreibung:** Löschungsanordnung und Datenbestand: Löschungsanordnung, Aufbewahrungspflichten, Litigation Hold, Backups und technische Machbarkeit lösen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Löschungsanordnung und Datenbestand: Löschungsanordnung, Aufbewahrungspflichten, Litigation Hold, Backups und technische Machbarkeit lösen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Löschungsanordnung und Datenbestand
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 2. `logfiles-und-technische-beweise`
 
-**Frühere Beschreibung:** Logfiles und technische Beweise: SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Logfiles und technische Beweise: SIEM, Access Logs, Admin-Aktivitäten, Zeitstempel, Retention und Integrität als Beweise bewerten. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Logfiles und technische Beweise
 
@@ -153,7 +153,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 3. `mandanteninterview-ohne-selbstbelastung`
 
-**Frühere Beschreibung:** Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Mandanteninterview ohne Selbstbelastung: Fakten sammeln, ohne neue Eingeständnisse, überschießende Datenoffenlegung oder unkluge Wertungen zu produzieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Mandanteninterview ohne Selbstbelastung
 
@@ -215,7 +215,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 4. `mandantenreport-regulatorische-risikolage`
 
-**Frühere Beschreibung:** Mandantenreport regulatorische Risikolage: Aus Bußgeld- und Anordnungsrisiken einen entscheidungsfähigen Monats- oder Krisenreport bauen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Mandantenreport regulatorische Risikolage: Aus Bußgeld- und Anordnungsrisiken einen entscheidungsfähigen Monats- oder Krisenreport bauen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Mandantenreport regulatorische Risikolage
 

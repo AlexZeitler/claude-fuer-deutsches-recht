@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-mediation-settlement-bis-pacer-ecf-confidenti
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (mediation-settlement-9019, meeting-creditors-341, nondischargeability-523, pacer-ecf-confidentiality) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mediation Settlement 9019, Meeting Creditors 341, Nondischargeability 523, Pacer Ecf Confidentiality; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - us-bankruptcy-code
+# Arbeitsbereich - Mediation Settlement 9019 bis Pacer Ecf Confidentiality
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mediation-settlement-9019` | Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements. |
 | `meeting-creditors-341` | Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mediation-settlement-9019`
 
-**Frühere Beschreibung:** Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements.
+**Fokus:** Prueft compromise approval, estate benefit, notice, fairness factors and structured settlements.
 
 # Settlement and Rule 9019
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `meeting-creditors-341`
 
-**Frühere Beschreibung:** Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor.
+**Fokus:** Bereitet § 341 meeting, debtor testimony, creditor questions, document issues and follow-up vor.
 
 # Meeting of Creditors § 341
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `nondischargeability-523`
 
-**Frühere Beschreibung:** Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans.
+**Fokus:** Prueft debts excepted from discharge: fraud, fiduciary defalcation, willful injury, taxes, domestic support, student loans.
 
 # Nondischargeability § 523
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `pacer-ecf-confidentiality`
 
-**Frühere Beschreibung:** Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations.
+**Fokus:** Prueft filing, public docket, sealing, redaction, confidential information and German data-room expectations.
 
 # PACER, ECF and Confidentiality
 

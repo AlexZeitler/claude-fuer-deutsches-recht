@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-inso-p260-uberwachun-bis-inso-p270e-aufhebung
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 21 frühere Spezialskills (inso-p260-uberwachung-der-planerfullung, inso-p261-aufgaben-und-befugnisse-des-insolvenzverwalters, inso-p262-anzeigepflicht-des-insolvenzverwalters, inso-p263-zustimmungsbedurftige-geschafte, inso-p264-kreditrahmen und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P260 Uberwachung Der Planerfullung, Inso P261 Aufgaben Und Befugnisse Des Insolvenzverwalters, Inso P262 Anzeigepflicht Des Insolvenzverwalters, Inso P263 Zustimmungsbedurftige Geschafte und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P260 Uberwachung Der Planerfullung bis Inso P270e Aufhebung Der Vorlaufigen Eigenverwaltung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p260-uberwachung-der-planerfullung` | § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p261-aufgaben-und-befugnisse-des-insolvenzverwalters` | § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p260-uberwachung-der-planerfullung`
 
-**Frühere Beschreibung:** § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 260 InsO (Überwachung der Planerfüllung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 260 InsO — Überwachung der Planerfüllung
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p261-aufgaben-und-befugnisse-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 261 InsO (Aufgaben und Befugnisse des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 261 InsO — Aufgaben und Befugnisse des Insolvenzverwalters
 
@@ -155,7 +155,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p262-anzeigepflicht-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 262 InsO (Anzeigepflicht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 262 InsO — Anzeigepflicht des Insolvenzverwalters
 
@@ -209,7 +209,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p263-zustimmungsbedurftige-geschafte`
 
-**Frühere Beschreibung:** § 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 263 InsO (Zustimmungsbedürftige Geschäfte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 263 InsO — Zustimmungsbedürftige Geschäfte
 
@@ -264,7 +264,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p264-kreditrahmen`
 
-**Frühere Beschreibung:** § 264 InsO (Kreditrahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 264 InsO (Kreditrahmen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 264 InsO — Kreditrahmen
 
@@ -319,7 +319,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p265-nachrang-von-neuglaubigern`
 
-**Frühere Beschreibung:** § 265 InsO (Nachrang von Neugläubigern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 265 InsO (Nachrang von Neugläubigern) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 265 InsO — Nachrang von Neugläubigern
 
@@ -374,7 +374,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p266-berucksichtigung-des-nachrangs`
 
-**Frühere Beschreibung:** § 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 266 InsO (Berücksichtigung des Nachrangs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 266 InsO — Berücksichtigung des Nachrangs
 
@@ -429,7 +429,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p267-bekanntmachung-der-uberwachung`
 
-**Frühere Beschreibung:** § 267 InsO (Bekanntmachung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 267 InsO (Bekanntmachung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 267 InsO — Bekanntmachung der Überwachung
 
@@ -484,7 +484,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p268-aufhebung-der-uberwachung`
 
-**Frühere Beschreibung:** § 268 InsO (Aufhebung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 268 InsO (Aufhebung der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 268 InsO — Aufhebung der Überwachung
 
@@ -539,7 +539,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p269-kosten-der-uberwachung`
 
-**Frühere Beschreibung:** § 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269 InsO (Kosten der Überwachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269 InsO — Kosten der Überwachung
 
@@ -594,7 +594,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p269a-zusammenarbeit-der-insolvenzverwalter`
 
-**Frühere Beschreibung:** § 269a InsO (Zusammenarbeit der Insolvenzverwalter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269a InsO (Zusammenarbeit der Insolvenzverwalter) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269a InsO — Zusammenarbeit der Insolvenzverwalter
 
@@ -648,7 +648,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p269b-zusammenarbeit-der-gerichte`
 
-**Frühere Beschreibung:** § 269b InsO (Zusammenarbeit der Gerichte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269b InsO (Zusammenarbeit der Gerichte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269b InsO — Zusammenarbeit der Gerichte
 
@@ -702,7 +702,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p269c-zusammenarbeit-der-glaubigerausschusse`
 
-**Frühere Beschreibung:** § 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269c InsO (Zusammenarbeit der Gläubigerausschüsse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269c InsO — Zusammenarbeit der Gläubigerausschüsse
 
@@ -755,7 +755,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p269d-koordinationsgericht`
 
-**Frühere Beschreibung:** § 269d InsO (Koordinationsgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269d InsO (Koordinationsgericht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269d InsO — Koordinationsgericht
 
@@ -809,7 +809,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p269h-koordinationsplan`
 
-**Frühere Beschreibung:** § 269h InsO (Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269h InsO (Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269h InsO — Koordinationsplan
 
@@ -864,7 +864,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p269i-abweichungen-vom-koordinationsplan`
 
-**Frühere Beschreibung:** § 269i InsO (Abweichungen vom Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269i InsO (Abweichungen vom Koordinationsplan) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269i InsO — Abweichungen vom Koordinationsplan
 
@@ -919,7 +919,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p270-grundsatz`
 
-**Frühere Beschreibung:** § 270 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270 InsO (Grundsatz) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270 InsO — Grundsatz
 
@@ -973,7 +973,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p270a-antrag-eigenverwaltungsplanung`
 
-**Frühere Beschreibung:** § 270a InsO (Antrag; Eigenverwaltungsplanung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270a InsO (Antrag; Eigenverwaltungsplanung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270a InsO — Antrag; Eigenverwaltungsplanung
 
@@ -1029,7 +1029,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p270b-anordnung-der-vorlaufigen-eigenverwaltung`
 
-**Frühere Beschreibung:** § 270b InsO (Anordnung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270b InsO (Anordnung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270b InsO — Anordnung der vorläufigen Eigenverwaltung
 
@@ -1083,7 +1083,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p270d-vorbereitung-einer-sanierung-schutzschirm`
 
-**Frühere Beschreibung:** § 270d InsO (Vorbereitung einer Sanierung; Schutzschirm) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270d InsO (Vorbereitung einer Sanierung; Schutzschirm) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270d InsO — Vorbereitung einer Sanierung; Schutzschirm
 
@@ -1137,7 +1137,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p270e-aufhebung-der-vorlaufigen-eigenverwaltung`
 
-**Frühere Beschreibung:** § 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270e InsO (Aufhebung der vorläufigen Eigenverwaltung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270e InsO — Aufhebung der vorläufigen Eigenverwaltung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-rechtshilfe-internat-bis-schoeffen-befangenhe
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (rechtshilfe-international, ristbv-finden-anwenden, ristbv-verfuegungstechnik-standard, sachverstaendige-beauftragen-und-befragen, schoeffen-befangenheit-und-mitwirkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtshilfe International, Ristbv Finden Anwenden, Ristbv Verfuegungstechnik Standard, Sachverstaendige Beauftragen Und Befragen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Rechtshilfe International bis Schoeffen Befangenheit Und Mitwirkung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtshilfe-international` | Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `ristbv-finden-anwenden` | RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtshilfe-international`
 
-**Frühere Beschreibung:** Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Internationale Rechtshilfe: Praxis-Skill für neue Staatsanwälte zu Ersuchen, Europäische Ermittlungsanordnung, MLAT, Auslieferung und Datenübermittlung in der Akte markieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Internationale Rechtshilfe
 
@@ -80,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `ristbv-finden-anwenden`
 
-**Frühere Beschreibung:** RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** RiStBV finden und anwenden: Praxis-Skill für neue Staatsanwälte zu Richtlinien für Straf- und Bußgeldverfahren als bundeseinheitliche Verwaltungsvorschrift finden, lesen und in Vermerken nutzbar machen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # RiStBV finden und anwenden
 
@@ -130,7 +130,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `ristbv-verfuegungstechnik-standard`
 
-**Frühere Beschreibung:** RiStBV-Verfügungstechnik und Dezernatsstandard: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** RiStBV-Verfügungstechnik und Dezernatsstandard: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # RiStBV-Verfügungstechnik und Dezernatsstandard
 
@@ -179,7 +179,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `sachverstaendige-beauftragen-und-befragen`
 
-**Frühere Beschreibung:** Sachverständige beauftragen und in der HV befragen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sachverständige beauftragen und in der HV befragen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Sachverständige beauftragen und in der HV befragen
 
@@ -228,7 +228,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `schoeffen-befangenheit-und-mitwirkung`
 
-**Frühere Beschreibung:** Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Schöffen: Befangenheit, Ausfall und Mitwirkung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Schöffen: Befangenheit, Ausfall und Mitwirkung
 

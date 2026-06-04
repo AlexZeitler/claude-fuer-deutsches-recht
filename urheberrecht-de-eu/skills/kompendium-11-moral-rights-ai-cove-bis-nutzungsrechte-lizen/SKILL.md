@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-moral-rights-ai-cove-bis-nutzungsrechte-lizen
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (moral-rights-ai-cover, musikwerk-melodie-harmonie-rhythmus, nutzungsrechte-lizenzkette) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - urheberrecht-de-eu
+# Arbeitsbereich - Moral Rights Ai Cover, Musikwerk Melodie Harmonie Rhythmus, Nutzungsrechte Lizenzkette
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `moral-rights-ai-cover` | Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen. |
 | `musikwerk-melodie-harmonie-rhythmus` | Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `moral-rights-ai-cover`
 
-**Frühere Beschreibung:** Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen.
+**Fokus:** Prueft KI-Coverversionen, Stimmenklon, Künstlerpersönlichkeit, Namensnennung, Entstellung und Plattformmaßnahmen.
 
 # AI-Cover, Voice Model und Entstellung
 
@@ -100,7 +100,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `musikwerk-melodie-harmonie-rhythmus`
 
-**Frühere Beschreibung:** Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe.
+**Fokus:** Prueft Musikwerke: Melodie, Motiv, Harmonie, Rhythmus, Arrangement, Hookline, Soundidee und Grenze zwischen Werk, Stil und bloßer Klangfarbe.
 
 # Musikwerk, Melodie, Harmonie und Rhythmus
 
@@ -173,7 +173,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `nutzungsrechte-lizenzkette`
 
-**Frühere Beschreibung:** Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette.
+**Fokus:** Prueft einfache und ausschließliche Nutzungsrechte, Zweckübertragung, Unterlizenzen, Territorium, Dauer, Medien und Rechtekette.
 
 # Nutzungsrechte und Lizenzkette
 

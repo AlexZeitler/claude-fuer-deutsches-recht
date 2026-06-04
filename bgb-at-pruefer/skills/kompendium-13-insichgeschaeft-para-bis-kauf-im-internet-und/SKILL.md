@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-insichgeschaeft-para-bis-kauf-im-internet-und
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (insichgeschaeft-paragraph-181, irrtumsanfechtung-paragraph-119-1, kauf-im-internet-und-auktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - bgb-at-pruefer
+# Arbeitsbereich - Insichgeschaeft Paragraph 181, Irrtumsanfechtung Paragraph 119 1, Kauf Im Internet Und Auktionen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insichgeschaeft-paragraph-181` | Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit. |
 | `irrtumsanfechtung-paragraph-119-1` | Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsirrtum versus Erklärungsirrtum, Motivirrtum als unbeachtlicher Irrtum, Kausalität und Unverzüglichkeit, Schadensersatz nach § 122 BGB. Prüfraster für Examens- und Anwaltsprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insichgeschaeft-paragraph-181`
 
-**Frühere Beschreibung:** Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit.
+**Fokus:** Klausurfall zum Insichgeschäft nach § 181 BGB: Selbstkontrahieren und Mehrfachvertretung, Ausnahmen bei lediglich rechtlich vorteilhaften Geschäften oder ausdrücklich gestatteten Insichgeschäften, BGH-Linie zur GmbH und schwebende Unwirksamkeit.
 
 # Insichgeschäft — § 181 BGB
 
@@ -111,7 +111,7 @@ Person für zwei Vertragsparteien gleichzeitig verhandelt. § 181 BGB erfasst be
 
 ## 2. `irrtumsanfechtung-paragraph-119-1`
 
-**Frühere Beschreibung:** Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsirrtum versus Erklärungsirrtum, Motivirrtum als unbeachtlicher Irrtum, Kausalität und Unverzüglichkeit, Schadensersatz nach § 122 BGB. Prüfraster für Examens- und Anwaltsprüfung.
+**Fokus:** Klausurfall zur Irrtumsanfechtung nach § 119 Abs. 1 BGB: Inhaltsirrtum versus Erklärungsirrtum, Motivirrtum als unbeachtlicher Irrtum, Kausalität und Unverzüglichkeit, Schadensersatz nach § 122 BGB. Prüfraster für Examens- und Anwaltsprüfung.
 
 # Irrtumsanfechtung — § 119 Abs. 1 BGB
 
@@ -198,7 +198,7 @@ Motivirrtum: Kauft Aktie in Erwartung steigender Kurse — Erwartung erfüllt si
 
 ## 3. `kauf-im-internet-und-auktionen`
 
-**Frühere Beschreibung:** Prüft Vertragsschluss beim Online-Kauf und Internet-Auktionen: invitatio ad offerendum vs. Angebot, automatisierte Annahmeerklärungen, eBay-Versteigerungsregeln nach § 156 BGB und BGH-Rechtsprechung zu Scheinversteigerungen, Fernabsatzrecht §§ 312b ff. BGB.
+**Fokus:** Prüft Vertragsschluss beim Online-Kauf und Internet-Auktionen: invitatio ad offerendum vs. Angebot, automatisierte Annahmeerklärungen, eBay-Versteigerungsregeln nach § 156 BGB und BGH-Rechtsprechung zu Scheinversteigerungen, Fernabsatzrecht §§ 312b ff. BGB.
 
 # Kauf im Internet und Auktionen — Vertragsschluss digital
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-bfsg-hausverwalter-w-bis-datenschutz-datenpan
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (bfsg-hausverwalter-website-portal-2025, datenschutz-betroffenenrechte-auskunft-loeschung-weg, datenschutz-datenpanne-meldung-72h) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Loeschung Weg, Datenschutz Datenpanne Meldung 72h; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - weg-hausverwaltung
+# Arbeitsbereich - Bfsg Hausverwalter Website Portal 2025, Datenschutz Betroffenenrechte Auskunft Loeschung Weg, Datenschutz Datenpanne Meldung 72h
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bfsg-hausverwalter-website-portal-2025` | Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung. |
 | `datenschutz-betroffenenrechte-auskunft-loeschung-weg` | Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bfsg-hausverwalter-website-portal-2025`
 
-**Frühere Beschreibung:** Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung.
+**Fokus:** Barrierefreiheitsstärkungsgesetz (BFSG) ab 28.06.2025 fuer Verwalter-Websites und Eigentuemer-Portale (Stand 06/2026): Anwendungsbereich, Kleinstunternehmen-Ausnahme, WCAG 2.1 AA, Bussgeld bis 100000 Euro, Pflicht-Erklaerung.
 
 # BFSG: Barrierefreiheitspflicht für Verwalter-Websites und Eigentümer-Portale
 
@@ -89,7 +89,7 @@ Casavi, Etg24, Vermieter-Cloud und Sander+Doll-Portal werden als Software-as-a-S
 
 ## 2. `datenschutz-betroffenenrechte-auskunft-loeschung-weg`
 
-**Frühere Beschreibung:** Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22.
+**Fokus:** Betroffenenrechte nach DSGVO Art. 15-21 im WEG-Alltag (Stand 06/2026): Auskunft, Loeschung, Einschraenkung, Widerspruch. Fristen, Abgrenzung Anspruchsberechtigte, zulaessige Verweigerungsgruende, EuGH C-307/22.
 
 # Datenschutz: Betroffenenrechte – Auskunft, Löschung, Widerspruch im WEG
 
@@ -157,7 +157,7 @@ Frist: 1 Monat ab Eingang (Art. 12 Abs. 3 DSGVO). Verlängerung um bis zu 2 Mona
 
 ## 3. `datenschutz-datenpanne-meldung-72h`
 
-**Frühere Beschreibung:** Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen.
+**Fokus:** Datenschutzverletzungen nach Art. 33/34 DSGVO melden (Stand 06/2026): 72-Stunden-Frist, Risikobewertung, Meldung an Aufsichtsbehoerde, Betroffenenbenachrichtigung. Typische Pannen in der Hausverwaltung mit Sofortmassnahmen.
 
 # Datenpanne: 72-Stunden-Meldepflicht für die Hausverwaltung
 

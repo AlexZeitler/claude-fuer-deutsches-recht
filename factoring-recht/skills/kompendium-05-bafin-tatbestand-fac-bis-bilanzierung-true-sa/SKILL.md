@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bafin-tatbestand-fac-bis-bilanzierung-true-sa
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert, beschwerde-und-anhoerung-bafin-factoring, bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung Wirtschaftliches Risiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - factoring-recht
+# Arbeitsbereich - Bafin Tatbestand Factoring Laufender Forderungsankauf Rahmenvert, Beschwerde Und Anhoerung Bafin Factoring, Bilanzierung True Sale Ausbuchung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert` | BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `beschwerde-und-anhoerung-bafin-factoring` | Beschwerde und Anhörung BaFin Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bafin-tatbestand-factoring-laufender-forderungsankauf-rahmenvert`
 
-**Frühere Beschreibung:** BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # BaFin Tatbestand Factoring laufender Forderungsankauf Rahmenvertrag
 
@@ -154,7 +154,7 @@ Fragen zum Einstieg:
 
 ## 2. `beschwerde-und-anhoerung-bafin-factoring`
 
-**Frühere Beschreibung:** Beschwerde und Anhörung BaFin Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Beschwerde und Anhörung BaFin Factoring: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Beschwerde und Anhörung BaFin Factoring
 
@@ -280,7 +280,7 @@ III. Anregung: Wir regen an, das Verfahren bei Erfüllung folgender Auflagen ein
 
 ## 3. `bilanzierung-true-sale-ausbuchung-wirtschaftliches-risiko`
 
-**Frühere Beschreibung:** Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Bilanzierung True Sale Ausbuchung wirtschaftliches Risiko
 

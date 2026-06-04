@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-chn-055-contract-lan-bis-chn-058-litigation-r
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (chn-055-contract-language-and-governing-law, chn-056-arbitration-hk-siac-ciamac, chn-057-enforcement-award-china, chn-058-litigation-risk-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 055 Contract Language And Governing Law, Chn 056 Arbitration Hk Siac Ciamac, Chn 057 Enforcement Award China, Chn 058 Litigation Risk China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 055 Contract Language And Governing Law bis Chn 058 Litigation Risk China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-055-contract-language-and-governing-law` | Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln. |
 | `chn-056-arbitration-hk-siac-ciamac` | Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-055-contract-language-and-governing-law`
 
-**Frühere Beschreibung:** Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln.
+**Fokus:** Vertragssprache und anwendbares Recht bei China-Verträgen: Chinesisch als maßgebliche Vertragssprache (Auslegungsrisiken), Rechtswahl (Rom I VO bei EU-Partei), chinesisches Vertragsrecht (Contract Law/Civil Code 2021), Mängelgewährleistung, Schadensersatz, Force Majeure CN-spezifisch, Schriftformerfordernis. Output: Vertragsstrukturierungs-Leitfaden und Musterklauseln.
 
 # Vertragsrecht China: Sprache/Rechtswahl/Civil Code 2021
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-056-arbitration-hk-siac-ciamac`
 
-**Frühere Beschreibung:** Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix.
+**Fokus:** Schiedsgerichtsbarkeit für China-Streitigkeiten: CIETAC (China Int'l Economic and Trade Arbitration Commission), ICC mit Sitz außerhalb CN, HKIAC Hongkong, SIAC Singapore, Vollstreckung New Yorker Übereinkommen in CN, Zwangsvollstreckung aus Schiedsspruch in der VR China, Anti-suit Injunctions. Output: Schiedsklausel-Empfehlung und Forum-Vergleichsmatrix.
 
 # Schiedsgerichtsbarkeit China: CIETAC/HKIAC/SIAC-Vergleich
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-057-enforcement-award-china`
 
-**Frühere Beschreibung:** Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan.
+**Fokus:** Vollstreckung von Schieds- und Gerichtsurteilen in VR China: New Yorker Übereinkommen (VR China Ratifizierung 1987), CIETAC-Vollstreckung, Anerkennung ausländischer Urteile (keine allg. DE-CN-Anerkennungsvereinbarung), Zwangsvollstreckung über chinesische Gerichte, Asset-Freezing-Orders CN, Durchsetzungspraxis. Output: Vollstreckungs-Strategie und Behörden-Routing-Plan.
 
 # Vollstreckung in China: Schiedssprüche und ausländische Urteile
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-058-litigation-risk-china`
 
-**Frühere Beschreibung:** Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie.
+**Fokus:** Prozessrisiken bei Rechtsstreitigkeiten in VR China: Zuständigkeit chinesischer Gerichte, Klageschrif-Zulassung, Beweissicherung (mangelhaft verglichen mit Common Law), Richterunabhängigkeit als Risikofaktor, Commercial Courts, IP-Kammern, Einstweiliger Rechtsschutz, Kosten und Dauer CN-Verfahren. Output: Litigation-Risk-Map China und Alternativstrategie.
 
 # Prozessrisiken China: Gerichte/Beweis/Vollstreckung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-solo-geschaeftskonto-bis-solo-handwerk-montag
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 8 frühere Spezialskills (solo-geschaeftskonto-und-zahlungsfluss, solo-geschaeftsmodell-drehen, solo-gesundheit-arbeitszeit-selbstschutz, solo-gewerbe-oder-freiberuf, solo-gewerbeanmeldung-paragraph-14-gewo und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Geschaeftskonto Und Zahlungsfluss, Solo Geschaeftsmodell Drehen, Solo Gesundheit Arbeitszeit Selbstschutz, Solo Gewerbe Oder Freiberuf und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Geschaeftskonto Und Zahlungsfluss bis Solo Handwerk Montage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-geschaeftskonto-und-zahlungsfluss` | Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-geschaeftsmodell-drehen` | Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-geschaeftskonto-und-zahlungsfluss`
 
-**Frühere Beschreibung:** Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: entscheidet Geschäftskonto, Privatkonto-Trennung, Belegverknüpfung und Zahlungsroutine; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Entscheidet geschäftskonto
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 2. `solo-geschaeftsmodell-drehen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bewertet Pivot, neue Leistung, Preismodell und alte Pflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Bewertet pivot
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 3. `solo-gesundheit-arbeitszeit-selbstschutz`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Arbeitslast, Krankheit, Urlaub und Lieferfähigkeit ohne Selbstausbeutung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Arbeitslast, Krankheit, Urlaub und Lieferfähigkeit ohne Selbstausbeutung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Plant arbeitslast
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 4. `solo-gewerbe-oder-freiberuf`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Gewerbe, freier Beruf, gemischte Tätigkeit und Finanzamtsargumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Gewerbe, freier Beruf, gemischte Tätigkeit und Finanzamtsargumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Prüft gewerbe
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 5. `solo-gewerbeanmeldung-paragraph-14-gewo`
 
-**Frühere Beschreibung:** Solo-Selbstständige: führt durch Anzeige nach § 14 GewO, Ummeldung und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: führt durch Anzeige nach § 14 GewO, Ummeldung und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Führt durch anzeige nach § 14 gewo
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 6. `solo-grafikdesign-agentur`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Designauftrag, Rechte, Referenzen, KSK und Kundenfreigaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Designauftrag, Rechte, Referenzen, KSK und Kundenfreigaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft designauftrag
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 7. `solo-grosskunde-bricht-weg`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Sofortplan Pipeline, Kosten, Forderungen und Finanzierung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Sofortplan Pipeline, Kosten, Forderungen und Finanzierung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Erstellt sofortplan pipeline
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 8. `solo-handwerk-montage`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mängel und Arbeitsschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Gewerbe, Handwerksrolle, VOB/B, Mängel und Arbeitsschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft gewerbe
 

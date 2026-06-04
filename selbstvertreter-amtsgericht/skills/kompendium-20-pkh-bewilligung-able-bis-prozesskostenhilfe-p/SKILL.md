@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pkh-bewilligung-able-bis-prozesskostenhilfe-p
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (pkh-bewilligung-ablehnung-folgen, pkh-ratenzahlung-bewilligung, prozesskostenhilfe-pkh-114-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Pkh Bewilligung Ablehnung Folgen, Pkh Ratenzahlung Bewilligung, Prozesskostenhilfe Pkh 114 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pkh-bewilligung-ablehnung-folgen` | Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde. |
 | `pkh-ratenzahlung-bewilligung` | Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pkh-bewilligung-ablehnung-folgen`
 
-**Frühere Beschreibung:** Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde.
+**Fokus:** Folgen der PKH-Entscheidung Bewilligung mit oder ohne Raten Beiordnung Anwalt Ablehnung wegen fehlender Erfolgsaussicht Bedürftigkeit oder Mutwilligkeit. Beschwerde gegen ablehnenden PKH-Beschluss nach § 127 ZPO und sofortige Beschwerde.
 
 # Wenn PKH bewilligt oder abgelehnt wird
 
@@ -169,7 +169,7 @@ Stand: 05/2026. §§ 119 ff. ZPO unveraendert.
 
 ## 2. `pkh-ratenzahlung-bewilligung`
 
-**Frühere Beschreibung:** Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten.
+**Fokus:** Ratenzahlung bei PKH-Bewilligung nach § 120 ZPO. Berechnung der monatlichen Rate nach einsetzbarem Einkommen Tabelle § 115 II ZPO. Maximale Laufzeit 48 Monate Aenderung Anpassung und vorzeitige Tilgung. Wirkung auf Gerichts- und Anwaltskosten.
 
 # PKH mit Ratenzahlung
 
@@ -273,7 +273,7 @@ Stand: 05/2026. § 120 ZPO unveraendert. Aktuelle PKH-Raten-Tabelle ueber justiz
 
 ## 3. `prozesskostenhilfe-pkh-114-zpo`
 
-**Frühere Beschreibung:** Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bedürftigkeit Erfolgsaussicht keine Mutwilligkeit. Antragsformular Belege Einkommensnachweise. Wirkung Befreiung von Gerichtskosten und Anwaltskosten. Hinweise für Selbstvertreter.
+**Fokus:** Antrag auf Prozesskostenhilfe nach § 114 ZPO. Voraussetzungen Bedürftigkeit Erfolgsaussicht keine Mutwilligkeit. Antragsformular Belege Einkommensnachweise. Wirkung Befreiung von Gerichtskosten und Anwaltskosten. Hinweise für Selbstvertreter.
 
 # Prozesskostenhilfe (PKH): Klage trotz Geldknappheit
 

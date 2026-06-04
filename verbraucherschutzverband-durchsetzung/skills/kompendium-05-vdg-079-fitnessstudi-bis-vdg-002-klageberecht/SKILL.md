@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vdg-079-fitnessstudi-bis-vdg-002-klageberecht
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (vdg-079-fitnessstudio-kommunikation-steuern, vdg-089-reiseveranstalter-kommunikation-steuer, vdg-099-flugportal-kommunikation-steuern, vdg-002-klageberechtigung-der-stelle-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 079 Fitnessstudio Kommunikation Steuern, Vdg 089 Reiseveranstalter Kommunikation Steuer, Vdg 099 Flugportal Kommunikation Steuern, Vdg 002 Klageberechtigung Der Stelle Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 079 Fitnessstudio Kommunikation Steuern bis Vdg 002 Klageberechtigung Der Stelle Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-079-fitnessstudio-kommunikation-steuern` | Verbraucherschutzverband Durchsetzung: Fitnessstudio: Kommunikation steuern. Kommunikation steuern für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-089-reiseveranstalter-kommunikation-steuer` | Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Kommunikation steuern. Kommunikation steuern für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-079-fitnessstudio-kommunikation-steuern`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Kommunikation steuern. Kommunikation steuern für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Kommunikation steuern. Kommunikation steuern für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Kommunikation Steuern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-089-reiseveranstalter-kommunikation-steuer`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Kommunikation steuern. Kommunikation steuern für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Kommunikation steuern. Kommunikation steuern für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reiseveranstalter Kommunikation Steuer
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-099-flugportal-kommunikation-steuern`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Kommunikation steuern. Kommunikation steuern für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Kommunikation steuern. Kommunikation steuern für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Kommunikation Steuern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-002-klageberechtigung-der-stelle-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Klageberechtigung der Stelle prüfen. Klageberechtigung der Stelle prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Klageberechtigung Der Stelle Pruefen
 

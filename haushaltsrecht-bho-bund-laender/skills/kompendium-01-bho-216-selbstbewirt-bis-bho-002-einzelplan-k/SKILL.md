@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-bho-216-selbstbewirt-bis-bho-002-einzelplan-k
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 01; bündelt 11 frühere Spezialskills (bho-216-selbstbewirtschaftungsmittel-titel-pru, bho-217-selbstbewirtschaftungsmittel-umschicht, bho-218-selbstbewirtschaftungsmittel-sperre-be, bho-219-selbstbewirtschaftungsmittel-deckung-f, bho-220-selbstbewirtschaftungsmittel-szenario und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 216 Selbstbewirtschaftungsmittel Titel Pru, Bho 217 Selbstbewirtschaftungsmittel Umschicht, Bho 218 Selbstbewirtschaftungsmittel Sperre Be, Bho 219 Selbstbewirtschaftungsmittel Deckung F und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 216 Selbstbewirtschaftungsmittel Titel Pru bis Bho 002 Einzelplan Kapitel Titel Lesen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-216-selbstbewirtschaftungsmittel-titel-pru` | Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Titel prüfen. Titel prüfen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-217-selbstbewirtschaftungsmittel-umschicht` | Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Umschichtung simulieren. Umschichtung simulieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-216-selbstbewirtschaftungsmittel-titel-pru`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Titel prüfen. Titel prüfen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Titel prüfen. Titel prüfen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Titel Pru
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-217-selbstbewirtschaftungsmittel-umschicht`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Umschichtung simulieren. Umschichtung simulieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Umschichtung simulieren. Umschichtung simulieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Umschicht
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-218-selbstbewirtschaftungsmittel-sperre-be`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Sperre bewerten. Sperre bewerten für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Sperre bewerten. Sperre bewerten für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Sperre Be
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-219-selbstbewirtschaftungsmittel-deckung-f`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Deckung finden. Deckung finden für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Deckung finden. Deckung finden für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Deckung F
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-220-selbstbewirtschaftungsmittel-szenario`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Szenario rechnen. Szenario rechnen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Szenario rechnen. Szenario rechnen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Szenario
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-221-selbstbewirtschaftungsmittel-dashboard`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Dashboard bauen. Dashboard bauen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Dashboard bauen. Dashboard bauen für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Dashboard
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-222-selbstbewirtschaftungsmittel-risiko-ma`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Risiko markieren. Risiko markieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Risiko markieren. Risiko markieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Risiko Ma
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-223-selbstbewirtschaftungsmittel-brh-frage`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: BRH-Frage formulieren. BRH-Frage formulieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: BRH-Frage formulieren. BRH-Frage formulieren für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Brh Frage
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-224-selbstbewirtschaftungsmittel-parlament`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Parlament
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-225-selbstbewirtschaftungsmittel-vollzug-t`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Vollzug tracken. Vollzug tracken für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Selbstbewirtschaftungsmittel: Vollzug tracken. Vollzug tracken für Selbstbewirtschaftungsmittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Selbstbewirtschaftungsmittel Vollzug T
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-002-einzelplan-kapitel-titel-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Einzelplan Kapitel Titel lesen. Einzelplan Kapitel Titel lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Einzelplan Kapitel Titel lesen. Einzelplan Kapitel Titel lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einzelplan Kapitel Titel Lesen
 

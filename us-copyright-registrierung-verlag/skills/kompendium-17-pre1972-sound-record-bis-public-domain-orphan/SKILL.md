@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-pre1972-sound-record-bis-public-domain-orphan
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (pre1972-sound-recordings-1401, preemption-301-state-law, privacy-pii-removal-public-records, public-domain-orphan-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pre1972 Sound Recordings 1401, Preemption 301 State Law, Privacy Pii Removal Public Records, Public Domain Orphan Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Pre1972 Sound Recordings 1401 bis Public Domain Orphan Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pre1972-sound-recordings-1401` | Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken. |
 | `preemption-301-state-law` | Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pre1972-sound-recordings-1401`
 
-**Frühere Beschreibung:** Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken.
+**Fokus:** Prueft Schutz alter Tonaufnahmen, Term, State-Law-Abloesung, Restoration, Remaster und Library/Archive-Risiken.
 
 # Pre-1972 Sound Recordings § 1401
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `preemption-301-state-law`
 
-**Frühere Beschreibung:** Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element.
+**Fokus:** Prueft Copyright-Preemption, contract claims, unfair competition, right of publicity, trade secrets und extra element.
 
 # Preemption § 301 und State Law
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `privacy-pii-removal-public-records`
 
-**Frühere Beschreibung:** PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren.
+**Fokus:** PII und Public Records: personenbezogene Daten in Anträgen begrenzen, spätere Removal Requests prüfen und interne Datenschutzfreigabe organisieren.
 
 # Privacy, PII Removal und Public Records
 
@@ -209,7 +209,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `public-domain-orphan-risk`
 
-**Frühere Beschreibung:** Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive.
+**Fokus:** Prueft Public-Domain-Behauptungen, orphan works, alte Formalitäten, renewals, restorations und Risiko bei Backlist/Archive.
 
 # Public Domain und Orphan Risk
 

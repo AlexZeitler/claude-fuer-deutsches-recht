@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-schnittmuster-und-te-bis-secondhand-resale-vi
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (schnittmuster-und-tech-pack, secondhand-resale-vintage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schnittmuster Und Tech Pack, Secondhand Resale Vintage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fashion-law-moderecht
+# Arbeitsbereich - Schnittmuster Und Tech Pack, Secondhand Resale Vintage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schnittmuster-und-tech-pack` | Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko. |
 | `secondhand-resale-vintage` | Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schnittmuster-und-tech-pack`
 
-**Frühere Beschreibung:** Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko.
+**Fokus:** Schnittmuster, Tech Pack und Produktentwicklung rechtlich einordnen: Rechteinhaber, Know-how, Geheimhaltung, Herstellerzugang und Kopierrisiko.
 
 # Schnittmuster Und Tech Pack
 
@@ -59,7 +59,7 @@ Tech-Pack-Rechtecheck.
 
 ## 2. `secondhand-resale-vintage`
 
-**Frühere Beschreibung:** Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz.
+**Fokus:** Secondhand, Resale und Vintage rechtlich prüfen: Erschöpfung, Authentizität, Reparatur, Markenimage, Plattformpflichten und Verbraucherschutz.
 
 # Secondhand Resale Vintage
 

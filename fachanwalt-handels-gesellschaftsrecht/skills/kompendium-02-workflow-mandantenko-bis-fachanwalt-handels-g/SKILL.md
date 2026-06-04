@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-mandantenko-bis-fachanwalt-handels-g
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-mandantenkommunikation, workflow-redteam-qualitygate, fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenkommunikation, Redteam Qualitygate, Handels Gesellschaftsrecht Squeeze Out Verfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Mandantenkommunikation, Redteam Qualitygate, Handels Gesellschaftsrecht Squeeze Out Verfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin fachanwalt-handels-gesellschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin fachanwalt-handels-gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
-**Frühere Beschreibung:** Mandantenkommunikation im Plugin fachanwalt-handels-gesellschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
+**Fokus:** Mandantenkommunikation im Plugin fachanwalt-handels-gesellschaftsrecht: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
 # Mandantenkommunikation
 
@@ -101,7 +101,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team Qualitygate im Plugin fachanwalt-handels-gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
+**Fokus:** Red-Team Qualitygate im Plugin fachanwalt-handels-gesellschaftsrecht: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 # Red-Team Qualitygate
 
@@ -145,7 +145,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren`
 
-**Frühere Beschreibung:** Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Prüfraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Übernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit.
+**Fokus:** Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Prüfraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Übernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit.
 
 # Squeeze-out Verfahren
 

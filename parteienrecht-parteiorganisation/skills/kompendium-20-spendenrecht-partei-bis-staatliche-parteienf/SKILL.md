@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spendenrecht-partei-bis-staatliche-parteienf
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (spendenrecht-partei, sponsoring-partei, staatliche-parteienfinanzierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Spendenrecht Partei, Sponsoring Partei, Staatliche Parteienfinanzierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spendenrecht-partei` | Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung. |
 | `sponsoring-partei` | Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spendenrecht-partei`
 
-**Frühere Beschreibung:** Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung.
+**Fokus:** Prüft Annahme, Verbotstatbestände, Identität, Bargeld, ausländische Spenden, Veröffentlichung und Weiterleitung.
 
 # Parteispende
 
@@ -113,7 +113,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `sponsoring-partei`
 
-**Frühere Beschreibung:** Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung.
+**Fokus:** Trennt Spende, Sponsoring, Eintritt, Tombola, Sachleistung, geldwerter Vorteil und Veröffentlichung.
 
 # Sponsoring und Veranstaltungen
 
@@ -154,7 +154,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `staatliche-parteienfinanzierung`
 
-**Frühere Beschreibung:** Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug.
+**Fokus:** Erklärt Anspruchslogik, Stimmen, Zuwendungen, absolute Obergrenze, Antrag und Rechenschaftsbezug.
 
 # Staatliche Parteienfinanzierung
 

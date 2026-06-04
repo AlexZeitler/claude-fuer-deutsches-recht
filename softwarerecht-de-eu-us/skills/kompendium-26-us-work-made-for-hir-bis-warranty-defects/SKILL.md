@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-us-work-made-for-hir-bis-warranty-defects
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 26; bündelt 3 frühere Spezialskills (us-work-made-for-hire-software, vulnerability-disclosure, warranty-defects) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Us Work Made For Hire Software, Vulnerability Disclosure, Warranty Defects; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - softwarerecht-de-eu-us
+# Arbeitsbereich - Us Work Made For Hire Software, Vulnerability Disclosure, Warranty Defects
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `us-work-made-for-hire-software` | Prüft US Work made for hire für Arbeitnehmer und die Grenzen bei Contractors, Software, assignments und state law. |
 | `vulnerability-disclosure` | Prüft Vulnerability Disclosure, Coordinated Disclosure, Bug Bounty, Security Advisories und rechtliche Schutzplanken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `us-work-made-for-hire-software`
 
-**Frühere Beschreibung:** Prüft US Work made for hire für Arbeitnehmer und die Grenzen bei Contractors, Software, assignments und state law.
+**Fokus:** Prüft US Work made for hire für Arbeitnehmer und die Grenzen bei Contractors, Software, assignments und state law.
 
 # US Work Made for Hire Software
 
@@ -84,7 +84,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `vulnerability-disclosure`
 
-**Frühere Beschreibung:** Prüft Vulnerability Disclosure, Coordinated Disclosure, Bug Bounty, Security Advisories und rechtliche Schutzplanken.
+**Fokus:** Prüft Vulnerability Disclosure, Coordinated Disclosure, Bug Bounty, Security Advisories und rechtliche Schutzplanken.
 
 # Vulnerability Disclosure
 
@@ -141,7 +141,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `warranty-defects`
 
-**Frühere Beschreibung:** Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität.
+**Fokus:** Prüft Mängelrechte bei Software, SaaS, Custom Code, Updates, Dokumentation und Interoperabilität.
 
 # Softwaremängel und Gewährleistung
 

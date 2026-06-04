@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-elektronische-form-b-bis-erklaerungsbewusstse
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (elektronische-form-bea-qes-formfiktion, elektronischer-zugang-und-plattformen, erklaerungsbewusstsein-und-potentielles-bewusstsein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - bgb-at-pruefer
+# Arbeitsbereich - Elektronische Form Bea Qes Formfiktion, Elektronischer Zugang Und Plattformen, Erklaerungsbewusstsein Und Potentielles Bewusstsein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elektronische-form-bea-qes-formfiktion` | Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `elektronischer-zugang-und-plattformen` | Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elektronische-form-bea-qes-formfiktion`
 
-**Frühere Beschreibung:** Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu elektronische form bea qes formfiktion. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Elektronische Form BeA QES Formfiktion
 
@@ -121,7 +121,7 @@ Ein aus dem eigenen beA versandter und einfach signierter Schriftsatz kann § 13
 
 ## 2. `elektronischer-zugang-und-plattformen`
 
-**Frühere Beschreibung:** Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich.
+**Fokus:** Prüft elektronischen Zugang von Willenserklärungen nach § 130 BGB: E-Mail-Postfach, Plattform-Postfächer, automatisierte Systeme, Zeitpunkt der Kenntnisnahmemöglichkeit und Empfangsbereitschaft im B2B- und B2C-Bereich.
 
 # Elektronischer Zugang und Plattformen — § 130 BGB digital
 
@@ -204,7 +204,7 @@ des Nutzers ist der gängige Ansatz.
 
 ## 3. `erklaerungsbewusstsein-und-potentielles-bewusstsein`
 
-**Frühere Beschreibung:** Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung.
+**Fokus:** Klausurfall zu Erklärungsbewusstsein und potentiellem Erklärungsbewusstsein: Mindestvoraussetzung des Willenserklärungstatbestands, h.M. und Mindermeinung zum potentiellen Bewusstsein, Trierer Weinversteigerungsfall und Konsequenzen für Anfechtung.
 
 # Erklärungsbewusstsein und Potentielles Bewusstsein — Willenserklärung
 

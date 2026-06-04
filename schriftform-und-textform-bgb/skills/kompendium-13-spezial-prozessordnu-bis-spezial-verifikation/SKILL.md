@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-prozessordnu-bis-spezial-verifikation
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-prozessordnungen-behoerden-gericht-und-registerweg, spezial-textform-dokumentenmatrix-und-lueckenliste, spezial-verifikation-compliance-dokumentation-und-akte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Prozessordnungen Behoerden Gericht Und Registerweg, Textform Dokumentenmatrix Und Lueckenliste, Verifikation Compliance Dokumentation Und Akte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - schriftform-und-textform-bgb
+# Arbeitsbereich - Prozessordnungen Behoerden Gericht Und Registerweg, Textform Dokumentenmatrix Und Lueckenliste, Verifikation Compliance Dokumentation Und Akt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-prozessordnungen-behoerden-gericht-und-registerweg` | Prozessordnungen: Behörden-, Gerichts- oder Registerweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-textform-dokumentenmatrix-und-lueckenliste` | Textform: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-prozessordnungen-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Prozessordnungen: Behörden-, Gerichts- oder Registerweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Prozessordnungen: Behörden-, Gerichts- oder Registerweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Prozessordnungen: Behörden-, Gerichts- oder Registerweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-textform-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Textform: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Textform: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Textform: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verifikation-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Verifikation: Compliance-Dokumentation und Aktenvermerk im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verifikation: Compliance-Dokumentation und Aktenvermerk im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verifikation: Compliance-Dokumentation und Aktenvermerk
 

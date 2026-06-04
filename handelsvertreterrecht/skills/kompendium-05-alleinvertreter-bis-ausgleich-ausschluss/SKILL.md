@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-alleinvertreter-bis-ausgleich-ausschluss
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (alleinvertreter, alters-krankheitskuendigung, arbeitnehmeraehnlichkeit, ausgleich-ausschlussgruende) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Alleinvertreter, Alters Krankheitskuendigung, Arbeitnehmeraehnlichkeit, Ausgleich Ausschlussgruende; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - handelsvertreterrecht
+# Arbeitsbereich - Alleinvertreter bis Ausgleich Ausschlussgruende
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `alleinvertreter` | Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede. |
 | `alters-krankheitskuendigung` | Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `alleinvertreter`
 
-**Frühere Beschreibung:** Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede.
+**Fokus:** Prüft Rechte und Pflichten des Alleinvertreters nach § 87 Abs. 2 HGB: Anspruch auf Bezirksprovision bei Direktabschlüssen des Unternehmers, Abgrenzung zum Alleinvertriebsrecht, Beweislast bei Bestellung eines weiteren Vertreters sowie Schadensersatz bei Verletzung der Alleinvertretungsabrede.
 
 # Alleinvertreter und Bezirksprovision nach § 87 Abs. 2 HGB
 
@@ -108,7 +108,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 2. `alters-krankheitskuendigung`
 
-**Frühere Beschreibung:** Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen.
+**Fokus:** Analysiert Sonderkündigungsrechte bei Alter oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB: außerordentliche Kündigung wegen dauerhafter Arbeitsunfähigkeit, angemessene Kündigungsfristen, Auswirkungen auf Ausgleichs- und Provisionsansprüche sowie Gestaltung von Aufhebungsvereinbarungen.
 
 # Kündigung wegen Alters oder Krankheit des Handelsvertreters nach § 89 Abs. 3 HGB
 
@@ -187,7 +187,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 3. `arbeitnehmeraehnlichkeit`
 
-**Frühere Beschreibung:** Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze.
+**Fokus:** Prüft arbeitnehmerähnliche Stellung des Handelsvertreters nach § 92a HGB: Mindestentgelt, Anwendung von Arbeitsschutzvorschriften, Abgrenzung zur echten Arbeitnehmerstellung, wirtschaftliche Abhängigkeit als Tatbestandsmerkmal und Sozialversicherungsrecht bei Einkommen unter der Grenze.
 
 # Arbeitnehmerähnlicher Handelsvertreter nach § 92a HGB
 
@@ -266,7 +266,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 4. `ausgleich-ausschlussgruende`
 
-**Frühere Beschreibung:** Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung aus Gesundheitsgründen nach Art. 18 RL 86/653/EWG.
+**Fokus:** Prüft Ausschlussgründe des Ausgleichsanspruchs nach § 89b Abs. 3 HGB: schuldhaftes Verhalten des Handelsvertreters als Kündigungsgrund, Eigenbeendigung ohne triftigen Grund und Vertragsübergang an Dritte; Abgrenzung zu Fällen des Anspruchserhalts bei Kündigung aus Gesundheitsgründen nach Art. 18 RL 86/653/EWG.
 
 # Ausschlussgründe für den Ausgleichsanspruch nach § 89b Abs. 3 HGB
 

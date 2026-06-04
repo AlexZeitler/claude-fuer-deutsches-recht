@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fto-triage-bis-gewerblicher-rechtss
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fto-triage, gewerblicher-rechtsschutz-anpassen, gewerblicher-rechtsschutz-mandat-arbeitsbereich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Fto Triage, Gewerblicher Rechtsschutz Anpassen, Gewerblicher Rechtsschutz Mandat Arbeitsbereich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fto-triage` | Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte). |
 | `gewerblicher-rechtsschutz-anpassen` | Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fto-triage`
 
-**Frühere Beschreibung:** Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte).
+**Fokus:** Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte).
 
 # Freedom-to-Operate-Triage (FTO)
 
@@ -171,7 +171,7 @@ Zitierweise nach `../references/zitierweise.md`.
 
 ## 2. `gewerblicher-rechtsschutz-anpassen`
 
-**Frühere Beschreibung:** Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen.
+**Fokus:** Anpassung und Konfiguration des Plugins gewerblicher-rechtsschutz: Mandatsprofil, Kanzleipräferenzen, Normenauswahl, Sprachstil und Outputformat an konkreten Bedarf anpassen. Skill für Kanzleien, die den Plugin-Rahmen ihrem Arbeitsalltag anpassen wollen.
 
 # Gewerblicher Rechtsschutz: Plugin anpassen
 
@@ -306,7 +306,7 @@ Basierend auf Profil empfehlen, welche Spezialskills bevorzugt genutzt werden so
 
 ## 3. `gewerblicher-rechtsschutz-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills.
+**Fokus:** Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills.
 
 # Mandatsarbeitsbereich
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-schwellen-ve-bis-spezial-vertreter-be
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-schwellen-verhandlung-vergleich-und-eskalation, spezial-sperre-formular-portal-und-einreichung, spezial-vertreter-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schwellen Verhandlung Vergleich Und Eskalation, Sperre Formular Portal Und Einreichung, Vertreter Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Schwellen Verhandlung Vergleich Und Eskalation, Sperre Formular Portal Und Einreichung, Vertreter Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-schwellen-verhandlung-vergleich-und-eskalation` | Schwellen: Verhandlung, Vergleich und Eskalation im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-sperre-formular-portal-und-einreichung` | Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-schwellen-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Schwellen: Verhandlung, Vergleich und Eskalation im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schwellen: Verhandlung, Vergleich und Eskalation im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schwellen: Verhandlung, Vergleich und Eskalation
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-sperre-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sperre: Formular, Portal und Einreichungslogik im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sperre: Formular, Portal und Einreichungslogik
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vertreter-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Vertreter: Beweislast, Darlegungslast und Substantiierung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertreter: Beweislast, Darlegungslast und Substantiierung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vertreter: Beweislast, Darlegungslast und Substantiierung
 

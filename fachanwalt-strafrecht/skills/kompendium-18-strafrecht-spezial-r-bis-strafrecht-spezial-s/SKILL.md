@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-strafrecht-spezial-r-bis-strafrecht-spezial-s
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 18; bündelt 10 frühere Spezialskills (strafrecht-spezial-raub-249-stgb, strafrecht-spezial-raub-mit-todesfolge-251-stgb, strafrecht-spezial-rechtsbeugung-339-stgb, strafrecht-spezial-schuldnerbeguenstigung-283d-stgb, strafrecht-spezial-schwere-koerperverletzung-226-stgb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Raub 249 Stgb, Strafrecht Spezial Raub Mit Todesfolge 251 Stgb, Strafrecht Spezial Rechtsbeugung 339 Stgb, Strafrecht Spezial Schuldnerbeguenstigung 283d Stgb und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Raub 249 Stgb bis Strafrecht Spezial Steuerstrafrecht 373 Ao Schmuggel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-raub-249-stgb` | Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB. |
 | `strafrecht-spezial-raub-mit-todesfolge-251-stgb` | Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-raub-249-stgb`
 
-**Frühere Beschreibung:** Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB.
+**Fokus:** Raub nach § 249 StGB. Grundtatbestand. Wegnahme einer fremden beweglichen Sache mit Gewalt gegen eine Person oder unter Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben. Zueignungsabsicht. Finalzusammenhang. Strafrahmen nicht unter einem Jahr. Abgrenzung zu Diebstahl § 242 und Erpressung § 253 StGB.
 
 # Raub § 249 StGB
 
@@ -146,7 +146,7 @@ In der Praxis ist die Abgrenzung **Raub vs. raeuberische Erpressung (§§ 253, 2
 
 ## 2. `strafrecht-spezial-raub-mit-todesfolge-251-stgb`
 
-**Frühere Beschreibung:** Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB.
+**Fokus:** Raub mit Todesfolge nach § 251 StGB. Erfolgsqualifikation. Grundtat § 249 oder § 250 StGB; Tod eines anderen Menschen; mindestens Leichtfertigkeit. Strafrahmen lebenslang oder Freiheitsstrafe nicht unter zehn Jahren. Abgrenzung zu Mord aus Habgier § 211 StGB und zu raeuberischer Erpressung mit Todesfolge § 255 StGB.
 
 # Raub mit Todesfolge § 251 StGB
 
@@ -245,7 +245,7 @@ Praktisch ist § 251 StGB das **Verteidigungsziel** bei Anklage wegen Mordes aus
 
 ## 3. `strafrecht-spezial-rechtsbeugung-339-stgb`
 
-**Frühere Beschreibung:** Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt fuer Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik.
+**Fokus:** Rechtsbeugung nach Paragraph 339 StGB. Sonderdelikt fuer Richter Schiedsrichter und sonstige Amtstraeger im Rechtsbeugungs-Sinne. Beugen des Rechts zugunsten oder zum Nachteil einer Partei. Sperrwirkung in der Praxis hohe Anforderungen an Vorsatz BGH staendige Rspr. Verteidigung bei Verfahrenstaktik.
 
 # Rechtsbeugung nach Paragraph 339 StGB
 
@@ -354,7 +354,7 @@ Die Rechtsbeugung muss eine konkrete Partei beguenstigen oder belasten. Bei "neu
 
 ## 4. `strafrecht-spezial-schuldnerbeguenstigung-283d-stgb`
 
-**Frühere Beschreibung:** Schuldnerbeguenstigung nach Paragraph 283d StGB. Strafbarkeit Dritter die in Kenntnis der drohenden Insolvenz Schuldnervermoegen beiseiteschaffen oder verheimlichen. Strohmann-Faelle Familienangehoerige Mitverantwortliche. Abgrenzung zur Teilnahme am Bankrott. Verteidigung mit Gutglaeubigkeit und Geschaeftsueblichkeit.
+**Fokus:** Schuldnerbeguenstigung nach Paragraph 283d StGB. Strafbarkeit Dritter die in Kenntnis der drohenden Insolvenz Schuldnervermoegen beiseiteschaffen oder verheimlichen. Strohmann-Faelle Familienangehoerige Mitverantwortliche. Abgrenzung zur Teilnahme am Bankrott. Verteidigung mit Gutglaeubigkeit und Geschaeftsueblichkeit.
 
 # Schuldnerbeguenstigung nach Paragraph 283d StGB
 
@@ -461,7 +461,7 @@ Wieder: Zahlungseinstellung, Insolvenzeroeffnung oder Mangelantrag muessen eintr
 
 ## 5. `strafrecht-spezial-schwere-koerperverletzung-226-stgb`
 
-**Frühere Beschreibung:** Schwere Koerperverletzung nach § 226 StGB. Erfolgsqualifikation mit schweren Folgen Verlust eines wichtigen Glieds; Sehfaehigkeit / Sprachvermoegen / Fortpflanzungsfaehigkeit; entstellender Schaden; Siechtum oder Laehmung; geistige Krankheit. Mit Absichtsvariante § 226 Abs. 2 StGB.
+**Fokus:** Schwere Koerperverletzung nach § 226 StGB. Erfolgsqualifikation mit schweren Folgen Verlust eines wichtigen Glieds; Sehfaehigkeit / Sprachvermoegen / Fortpflanzungsfaehigkeit; entstellender Schaden; Siechtum oder Laehmung; geistige Krankheit. Mit Absichtsvariante § 226 Abs. 2 StGB.
 
 # Schwere Koerperverletzung § 226 StGB
 
@@ -573,7 +573,7 @@ Wenn der Taeter die schwere Folge **vorsaetzlich** verursacht (mindestens dolus 
 
 ## 6. `strafrecht-spezial-schwerer-raub-250-stgb`
 
-**Frühere Beschreibung:** Schwerer Raub nach § 250 Abs. 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen Abs. 1 nicht unter drei Jahren; Abs. 2 nicht unter fuenf Jahren.
+**Fokus:** Schwerer Raub nach § 250 Abs. 1 und Abs. 2 StGB. Qualifikationen Mit-sich-Fuehren von Waffe; Bande; Lebensgefaehrdung; schwere koerperliche Misshandlung. Verwendungsvariante § 250 Abs. 2 StGB Verwenden einer Waffe. Strafrahmen Abs. 1 nicht unter drei Jahren; Abs. 2 nicht unter fuenf Jahren.
 
 # Schwerer Raub § 250 StGB
 
@@ -692,7 +692,7 @@ In der Praxis ist die Abgrenzung **Beisich-Fuehren vs. Verwenden** zentral: Bere
 
 ## 7. `strafrecht-spezial-sexueller-missbrauch-176-stgb`
 
-**Frühere Beschreibung:** Sexueller Missbrauch von Kindern nach § 176 StGB. Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleitfaden Glaubhaftigkeit der Kindesaussage und Aussagepsychologie.
+**Fokus:** Sexueller Missbrauch von Kindern nach § 176 StGB. Reform 2021 mit erhoehten Mindeststrafen. Strafrahmen ein bis 15 Jahre. Schutzobjekt Kind unter 14 Jahren. Qualifikationen §§ 176a 176c 176d StGB. Praxisleitfaden Glaubhaftigkeit der Kindesaussage und Aussagepsychologie.
 
 # Sexueller Missbrauch von Kindern § 176 StGB
 
@@ -817,7 +817,7 @@ Strafrahmen § 176a Abs. 1 StGB: Freiheitsstrafe nicht unter zwei Jahren.
 
 ## 8. `strafrecht-spezial-sexueller-uebergriff-177-i-stgb`
 
-**Frühere Beschreibung:** Sexueller Uebergriff nach § 177 Abs. 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Monate bis fuenf Jahre. Praxisleitfaden Erkennbarkeit und Tatbestandsirrtum § 16 StGB.
+**Fokus:** Sexueller Uebergriff nach § 177 Abs. 1 StGB. Reform 2016 Nein heisst Nein. Sexuelle Handlung gegen den erkennbaren Willen einer anderen Person ohne Erfordernis von Gewalt oder qualifizierter Drohung. Strafrahmen sechs Monate bis fuenf Jahre. Praxisleitfaden Erkennbarkeit und Tatbestandsirrtum § 16 StGB.
 
 # Sexueller Uebergriff § 177 Abs. 1 StGB – "Nein heisst Nein"
 
@@ -931,7 +931,7 @@ Reines Schweigen oder Erstarren ist nach staendiger BGH-Rechtsprechung **nicht**
 
 ## 9. `strafrecht-spezial-stalking-238-stgb`
 
-**Frühere Beschreibung:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps fuer die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte fuer Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
+**Fokus:** § 238 StGB Nachstellung (Stalking): Aufbau des Tatbestandes nach Reform 2017 und 2021 (geltendes Recht: wiederholte Nachstellungshandlung und Eignung zur nicht unerheblichen Beeintraechtigung der Lebensgestaltung), Regelbeispiele, besonders schwere Faelle, Todesfolge, Praktikertipps fuer die Verteidigung (Tatdokumentation, Affekt-/Schutzbehauptungen, GewSchG-Schnittstelle), Trade-offs Verteidigungsstrategie, Strafzumessung nach § 46 StGB, Mustertexte fuer Einlassung und Hilfsbeweisantrag, Verhaeltnis zu § 240 und § 241 StGB.
 
 # § 238 StGB — Nachstellung (Stalking)
 
@@ -1015,7 +1015,7 @@ Strafrahmen § 238 Abs. 1 StGB: Freiheitsstrafe bis 3 Jahre oder Geldstrafe.
 
 ## 10. `strafrecht-spezial-steuerstrafrecht-373-ao-schmuggel`
 
-**Frühere Beschreibung:** Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz.
+**Fokus:** Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO. Qualifikation des Schmuggels Paragraph 372 AO. Tatbestandsmerkmale Gewerbsmaessigkeit Bandenabrede. Strafrahmen 6 Monate bis 10 Jahre. Praxisrelevant bei Zollvergehen Zigarettenschmuggel Kfz-Verbringen. Verteidigungslinien Bande Gewerbsmaessigkeit Vorsatz.
 
 # Gewerbsmaessiger und bandenmaessiger Schmuggel nach Paragraph 373 AO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-methodenlehr-bis-spezial-referendaria
-description: "jurastudium: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-methodenlehre-behoerden-gericht-und-registerweg, spezial-rechtsgeschichte-zahlen-schwellen-und-berechnung, spezial-referendariat-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Methodenlehre Behoerden Gericht Und Registerweg, Rechtsgeschichte Zahlen Schwellen Und Berechnung, Referendariat Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - jurastudium
+# Arbeitsbereich - Methodenlehre Behoerden Gericht Und Registerweg, Rechtsgeschichte Zahlen Schwellen Und Berechnung, Referendariat Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-methodenlehre-behoerden-gericht-und-registerweg` | Methodenlehre: Behörden-, Gerichts- oder Registerweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rechtsgeschichte-zahlen-schwellen-und-berechnung` | Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-methodenlehre-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Methodenlehre: Behörden-, Gerichts- oder Registerweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Methodenlehre: Behörden-, Gerichts- oder Registerweg im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Methodenlehre: Behörden-, Gerichts- oder Registerweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-rechtsgeschichte-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechtsgeschichte: Zahlen, Schwellenwerte und Berechnung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-referendariat-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Referendariat: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

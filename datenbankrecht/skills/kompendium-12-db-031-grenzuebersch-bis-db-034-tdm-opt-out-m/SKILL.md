@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-db-031-grenzuebersch-bis-db-034-tdm-opt-out-m
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (db-031-grenzueberschreitende-datenbank-eu-uk-usa, db-033-datenbankrecht-und-text-and-data-mining-schranken, db-034-tdm-opt-out-maschinenlesbar-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesbar Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - datenbankrecht
+# Arbeitsbereich - Db 031 Grenzueberschreitende Datenbank Eu Uk Usa, Db 033 Datenbankrecht Und Text And Data Mining Schranken, Db 034 Tdm Opt Out Maschinenlesba
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-031-grenzueberschreitende-datenbank-eu-uk-usa` | Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen. |
 | `db-033-datenbankrecht-und-text-and-data-mining-schranken` | Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-031-grenzueberschreitende-datenbank-eu-uk-usa`
 
-**Frühere Beschreibung:** Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen.
+**Fokus:** Grenzüberschreitendes Datenbankrecht: EU-sui-generis-Schutz (RL 96/9/EG) ohne Äquivalent in den USA (kein sweat-of-the-brow copyright nach Feist), Post-Brexit-Lage in UK (CDPA s. 3A und Database Right), Kollisionsrecht nach Art. 8 Rom-II-VO, Gerichtsstand bei internationalen Verletzungen und DSGVO-Drittlandtransfer bei Datenbankübertragungen.
 
 # Grenzüberschreitende Datenbanken — EU, UK und USA im Vergleich
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-033-datenbankrecht-und-text-and-data-mining-schranken`
 
-**Frühere Beschreibung:** Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer.
+**Fokus:** Text-und-Data-Mining-Schranken im Datenbankrecht: §§ 44b und 60d UrhG als Schranken gegenüber § 87b UrhG (§ 87c Abs. 1 Nr. 4 UrhG), DSM-RL Art. 3-4 (2019/790), Abgrenzung kommerzielle vs. wissenschaftliche TDM-Nutzung, Opt-out-Anforderungen und Verhältnis zur RL 96/9/EG. Erstellt TDM-Compliance-Leitfaden für Datenbankbetreiber und Nutzer.
 
 # Text- und Data-Mining-Schranken im Datenbankrecht — §§ 44b und 60d UrhG
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-034-tdm-opt-out-maschinenlesbar-pruefen`
 
-**Frühere Beschreibung:** Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards.
+**Fokus:** Technische und rechtliche Prüfung des TDM-Opt-outs nach § 44b Abs. 3 UrhG und DSM-RL Art. 4 Abs. 3: Maschinenlesbarkeitsanforderungen für robots.txt, HTTP-Header (X-Robots-Tag), meta-Tags und strukturierte Metadaten. Bewertet Wirksamkeit von Opt-out-Erklärungen, deren Zeitpunkt und Reichweite sowie technische Implementierungsstandards.
 
 # TDM-Opt-out — Maschinenlesbarkeit prüfen und implementieren
 

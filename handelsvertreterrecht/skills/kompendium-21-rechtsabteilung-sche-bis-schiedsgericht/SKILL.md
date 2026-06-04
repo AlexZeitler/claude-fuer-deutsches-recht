@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-rechtsabteilung-sche-bis-schiedsgericht
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters, reporting-pflichten, retouren-reklamationen, schiedsgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Scheinselbststaendigkeit Des Handelsvertreters, Reporting Pflichten, Retouren Reklamationen, Schiedsgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - handelsvertreterrecht
+# Arbeitsbereich - Scheinselbststaendigkeit Des Handelsvertreters bis Schiedsgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters` | Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `reporting-pflichten` | Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-scheinselbststaendigkeit-des-handelsvertreters`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Scheinselbstständigkeit des Handelsvertreters: Vertriebsmacht, Weisungen, Eingliederung und Unternehmerrisiko werden DSV-fest aufbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Scheinselbstständigkeit des Handelsvertreters
 
@@ -69,7 +69,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `reporting-pflichten`
 
-**Frühere Beschreibung:** Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung.
+**Fokus:** Analysiert Berichts- und Informationspflichten des Handelsvertreters nach § 86 Abs. 2 HGB: Pflicht zur Mitteilung aller nützlichen Informationen, Kundenfeedback, Marktentwicklungen und Konkurrenzbeobachtung; Gegenleistungspflichten des Unternehmers nach § 86a HGB sowie Konsequenzen bei Verletzung.
 
 # Berichtspflichten des Handelsvertreters nach § 86 Abs. 2 HGB
 
@@ -148,7 +148,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `retouren-reklamationen`
 
-**Frühere Beschreibung:** Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer.
+**Fokus:** Prüft Auswirkungen von Retouren und Reklamationen auf den Provisionsanspruch: Kürzung der Provision bei Warenrücksendungen, Vertragliche Rücktrittsklauseln, Auswirkung auf den Buchauszug und Stornoreserven sowie Abgrenzung zwischen berechtigter und unberechtigter Provisionskürzung durch den Unternehmer.
 
 # Retouren und Reklamationen — Auswirkungen auf die Provision nach § 87a HGB
 
@@ -227,7 +227,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `schiedsgericht`
 
-**Frühere Beschreibung:** Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung.
+**Fokus:** Prüft Schiedsklauseln in Handelsvertreterverträgen: Wirksamkeit von Schiedsvereinbarungen nach §§ 1029 ff. ZPO, Verhältnis zu zwingenden Schutznormen des § 92c HGB, Vor- und Nachteile des Schiedsverfahrens, Anerkennung und Vollstreckung von Schiedssprüchen sowie Vorsorgemaßnahmen in der Vertragsgestaltung.
 
 # Schiedsklausel im Handelsvertretervertrag nach §§ 1029 ff. ZPO und § 92c HGB
 

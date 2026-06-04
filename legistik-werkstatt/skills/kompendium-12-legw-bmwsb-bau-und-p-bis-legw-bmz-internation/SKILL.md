@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-legw-bmwsb-bau-und-p-bis-legw-bmz-internation
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 12; bündelt 8 frühere Spezialskills (legw-bmwsb-bau-und-planungsrecht-baugb-baunvo, legw-bmwsb-bauproduktenrecht-und-technische-normen, legw-bmwsb-energetische-sanierung-und-geg, legw-bmwsb-mietrecht-und-wohnungspolitik, legw-bmwsb-stadtentwicklung-und-foerderprogramme und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo, Legw Bmwsb Bauproduktenrecht Und Technische Normen, Legw Bmwsb Energetische Sanierung Und Geg, Legw Bmwsb Mietrecht Und Wohnungspolitik und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmwsb Bau Und Planungsrecht Baugb Baunvo bis Legw Bmz Internationale Klimafinanzierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmwsb-bau-und-planungsrecht-baugb-baunvo` | Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Laender-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). |
 | `legw-bmwsb-bauproduktenrecht-und-technische-normen` | Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmwsb-bau-und-planungsrecht-baugb-baunvo`
 
-**Frühere Beschreibung:** Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Laender-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Sachbereich Bau- und Planungsrecht (BauGB; BauNVO) im Geschaeftsbereich BMWSB: Normbestand (BauGB; BauNVO; PlanZV; ROG; BNatSchG-Bezuege; UVPG.); Akteure (BMWSB; Laender-Bauaufsicht; Kommunen; OVG.); EU-Bezug (UVP-RL; SUP-RL; FFH-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Bau- und Planungsrecht (BauGB; BauNVO) (BMWSB)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmwsb-bauproduktenrecht-und-technische-normen`
 
-**Frühere Beschreibung:** Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Sachbereich Bauproduktenrecht und technische Normen im Geschaeftsbereich BMWSB: Normbestand (BauPG; BauPVO (EU); BauProdRiL; MBO; Landesbauordnungen.); Akteure (DIBt; BMWSB; Notified Bodies; Laender-Bauaufsicht.); EU-Bezug (BauPVO 305/2011; Aenderung BauPVO (CRR-Update).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Bauproduktenrecht und technische Normen (BMWSB)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmwsb-energetische-sanierung-und-geg`
 
-**Frühere Beschreibung:** Sachbereich Energetische Sanierung (GEG) im Geschaeftsbereich BMWSB: Normbestand (GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.); Akteure (BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.); EU-Bezug (EPBD; EU-Energieeffizienz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Sachbereich Energetische Sanierung (GEG) im Geschaeftsbereich BMWSB: Normbestand (GEG; EnEV (alt); BAFA-Foerderrichtlinien; KfW-Foerderbedingungen.); Akteure (BAFA; KfW; BMWSB; Bezirksregierungen; Schornsteinfeger.); EU-Bezug (EPBD; EU-Energieeffizienz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Energetische Sanierung (GEG) (BMWSB)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmwsb-mietrecht-und-wohnungspolitik`
 
-**Frühere Beschreibung:** Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Sachbereich Mietrecht und Wohnungspolitik im Geschaeftsbereich BMWSB: Normbestand (BGB Mietrecht; WoBindG; WoFG; MietPrG; MiSchG; Wohngeldgesetz.); Akteure (BMWSB; Justiz; Kommunen; Mieterbund; Wohnungswirtschaft.); EU-Bezug (EnergieefffizienzRL (EPBD) Schnittstelle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Mietrecht und Wohnungspolitik (BMWSB)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmwsb-stadtentwicklung-und-foerderprogramme`
 
-**Frühere Beschreibung:** Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Sachbereich Stadtentwicklung und Foerderprogramme im Geschaeftsbereich BMWSB: Normbestand (StaedteBauFoerdG; BauGB Saniserung; Konjunkturpaket; KfW-Foerderprogramme.); Akteure (BMWSB; KfW; Laender-Stadtentwicklung; Kommunen.); EU-Bezug (EFRE; URBACT; Leipzig-Charta.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwsb (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Stadtentwicklung und Foerderprogramme (BMWSB)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmz-entwicklungszusammenarbeit-und-bilaterale-abkommen`
 
-**Frühere Beschreibung:** Sachbereich Entwicklungszusammenarbeit und bilaterale Abkommen im Geschaeftsbereich BMZ: Normbestand (Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).); Akteure (BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.); EU-Bezug (Team Europe Initiatives; EU-Treuhandfonds; NDICI.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Sachbereich Entwicklungszusammenarbeit und bilaterale Abkommen im Geschaeftsbereich BMZ: Normbestand (Verwaltungsvereinbarungen; HG; BHO; Vertragsgesetze (BGBl II).); Akteure (BMZ; GIZ; KfW; Auslandshandelskammern; AA-Schnittstelle.); EU-Bezug (Team Europe Initiatives; EU-Treuhandfonds; NDICI.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Entwicklungszusammenarbeit und bilaterale Abkommen (BMZ)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmz-humanitaere-hilfe-und-krisenpraevention`
 
-**Frühere Beschreibung:** Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Sachbereich Humanitaere Hilfe und Krisenpraevention im Geschaeftsbereich BMZ: Normbestand (Internationaler Hilfsfonds; HG; HumanitaereLeitlinien.); Akteure (BMZ; AA (humanitaere Hilfe ueberlappend); GIZ; THW; nichtstaatliche Organisationen.); EU-Bezug (DG ECHO; HumDS-Pakt; Sphere-Standards.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Humanitaere Hilfe und Krisenpraevention (BMZ)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmz-internationale-klimafinanzierung`
 
-**Frühere Beschreibung:** Sachbereich Internationale Klimafinanzierung im Geschaeftsbereich BMZ: Normbestand (Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.); Akteure (BMZ; BMUKN; KfW; Green Climate Fund; AWB.); EU-Bezug (EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Sachbereich Internationale Klimafinanzierung im Geschaeftsbereich BMZ: Normbestand (Pariser Abkommen; KSG; HG; bilaterale Klimavereinbarungen.); Akteure (BMZ; BMUKN; KfW; Green Climate Fund; AWB.); EU-Bezug (EU-Klimafinanzierungsziele; Green Deal; CBAM (Schnittstelle).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Internationale Klimafinanzierung (BMZ)
 

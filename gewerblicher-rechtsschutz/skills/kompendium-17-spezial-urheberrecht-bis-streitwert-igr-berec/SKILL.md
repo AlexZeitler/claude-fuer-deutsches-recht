@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-urheberrecht-bis-streitwert-igr-berec
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-urheberrechts-zahlen-schwellen-und-berechnung, spezial-versand-mehrparteien-konflikt-und-interessen, streitwert-igr-berechnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Urheberrechts Zahlen Schwellen Und Berechnung, Versand Mehrparteien Konflikt Und Interessen, Streitwert Igr Berechnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-urheberrechts-zahlen-schwellen-und-berechnung` | Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung. |
 | `spezial-versand-mehrparteien-konflikt-und-interessen` | Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-urheberrechts-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung.
+**Fokus:** Urheberrecht: Zahlen, Schwellen und Berechnungen. Schöpfungshöhe, Schutzfristen (70 Jahre p.m.a.), Lizenzanalogie, Filesharing-Schadensersatz, Vergütungsansprüche nach VGG/GEMA und typische Streitwert- und Schadensberechnung.
 
 # Spezial: Urheberrecht – Zahlen, Schwellen und Berechnung
 
@@ -153,7 +153,7 @@ Mandatsbezug: Mandant fragt: Wie viel Schadensersatz kann ich verlangen? Oder: F
 
 ## 2. `spezial-versand-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen.
+**Fokus:** Mehrparteienkonstellationen im gewerblichen Rechtsschutz: Lizenzgeber/Lizenznehmer, Konzernstrukturen, Abnehmer-Klagen, Kettenverletzungen und Konflikt zwischen mehreren Schutzrechtsinhabern. Interessenkonflikte und Mandatsgrenzen.
 
 # Spezial: Mehrparteien-Konstellationen und Interessenkonflikte
 
@@ -283,7 +283,7 @@ Mandatsbezug: Lizenzgeber und Lizenznehmer streiten über Verletzung durch Dritt
 
 ## 3. `streitwert-igr-berechnen`
 
-**Frühere Beschreibung:** Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage.
+**Fokus:** Anwalt muss Streitwert für IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Prüfraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage.
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen
 

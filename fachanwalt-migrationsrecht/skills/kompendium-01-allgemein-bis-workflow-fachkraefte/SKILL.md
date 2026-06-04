@@ -1,48 +1,36 @@
 ---
 name: kompendium-01-allgemein-bis-workflow-fachkraefte
-description: "fachanwalt-migrationsrecht: Konsolidiertes Skill-Kompendium 01; bündelt 17 frühere Spezialskills (allgemein, workflow-abschiebungsabwehr-sofort, workflow-arbeitgeber-memo, workflow-arbeitsrecht-schnittstelle, workflow-asyl-start und 12 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-migrationsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Abschiebungsabwehr Sofort, Arbeitgeber Memo, Arbeitsrecht Schnittstelle und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - fachanwalt-migrationsrecht
+# Arbeitsbereich - Allgemein bis Asyl Start
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills. |
 | `workflow-abschiebungsabwehr-sofort` | Abschiebungsabwehr sofort: Workflow-Skill für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-arbeitgeber-memo` | Arbeitgeber-Memo: Workflow-Skill für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-arbeitsrecht-schnittstelle` | Arbeitsrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-asyl-start` | Asyl-Start: Workflow-Skill für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-aufenthaltstitel-router` | Aufenthaltstitel-Router: Workflow-Skill für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-ausweisung-start` | Ausweisung Start: Workflow-Skill für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-behoerdenkommunikation` | Behördenkommunikation: Workflow-Skill für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-bescheid-verstehen` | Bescheid verstehen: Workflow-Skill für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-blaue-karte-start` | Blaue Karte EU Start: Workflow-Skill für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-botschaft-visumtermin` | Botschaft/Visumtermin: Workflow-Skill für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
-| `workflow-dokumentenstapel-migration` | Dokumentenstapel Migration: Workflow-Skill für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-dublin-geas-start` | Dublin/GEAS Start: Workflow-Skill für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-duldung-spurwechsel` | Duldung/Spurwechsel: Workflow-Skill für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-einbuergerung-start` | Einbürgerung Start: Workflow-Skill für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
-| `workflow-fachkraefte-start` | Fachkräfte-Start: Workflow-Skill für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Migrationsrecht-Plugin: führt durch Aufenthaltstitel, Blaue Karte EU, Visum, Asyl, Dublin/GEAS, Familiennachzug, Einbürgerung, Abschiebungsabwehr, Ausweisung, Staaten-/Gebietsbezug, Sprache, Fristen und passende Anschluss-Skills.
 
 # Migrationsrecht-Kompass
 
@@ -87,7 +75,7 @@ Gib zuerst aus: `Ziel`, `aktueller Status`, `Frist`, `größtes Risiko`, `fehlen
 
 ## 2. `workflow-abschiebungsabwehr-sofort`
 
-**Frühere Beschreibung:** Abschiebungsabwehr sofort: Workflow-Skill für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Abschiebungsabwehr sofort: Workflow-Skill für Migrationsrecht; priorisiert Vollstreckungshindernis, Eilrechtsschutz, Atteste und Familie; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Abschiebungsabwehr sofort
 
@@ -134,7 +122,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-arbeitgeber-memo`
 
-**Frühere Beschreibung:** Arbeitgeber-Memo: Workflow-Skill für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitgeber-Memo: Workflow-Skill für Migrationsrecht; liefert HR-taugliche Prüfung zu Beschäftigung, Titel, Fristen und Compliance; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitgeber-Memo
 
@@ -168,7 +156,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-arbeitsrecht-schnittstelle`
 
-**Frühere Beschreibung:** Arbeitsrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Arbeitsrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vertrag, Gehalt, Tätigkeit, Kündigung, Arbeitgeberwechsel und Meldung; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Arbeitsrecht-Schnittstelle
 
@@ -202,7 +190,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-asyl-start`
 
-**Frühere Beschreibung:** Asyl-Start: Workflow-Skill für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Asyl-Start: Workflow-Skill für Migrationsrecht; klärt Schutzgrund, Verfolgungsakteur, Beweise, Anhörung, Dublin und Fristen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Asyl-Start
 
@@ -233,425 +221,6 @@ Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste We
 - **Frist-Knockout:** Klage 2 Wochen (§ 74 AsylG); bei offensichtlich unbegründet 1 Woche mit Eilantrag (§ 36 AsylG); Dublin-Bescheid 1 Woche (§ 34a Abs. 2 AsylG).
 - **Dublin-III (VO 604/2013) Fristen:** Übernahme-/Wiederaufnahmeersuchen i. d. R. 2–3 Monate; Überstellung 6 Monate (Art. 29), bei Untertauchen 18 Monate.
 - **GEAS-Reform 2024:** Grenzverfahren-VO, Asylverfahrens-VO, AMM-VO — Anwendungsstand kontinuierlich prüfen (BAMF, BMI, eur-lex).
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 6. `workflow-aufenthaltstitel-router`
-
-**Frühere Beschreibung:** Aufenthaltstitel-Router: Workflow-Skill für Migrationsrecht; wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Aufenthaltstitel-Router
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: wählt Visum, Aufenthaltserlaubnis, Blaue Karte, ICT, Chancenkarte, NE, Daueraufenthalt.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 7. `workflow-ausweisung-start`
-
-**Frühere Beschreibung:** Ausweisung Start: Workflow-Skill für Migrationsrecht; prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Ausweisung Start
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausweisungsinteresse, Bleibeinteresse, Verhältnismäßigkeit und EMRK.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 8. `workflow-behoerdenkommunikation`
-
-**Frühere Beschreibung:** Behördenkommunikation: Workflow-Skill für Migrationsrecht; formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Behördenkommunikation
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: formuliert knappe Schreiben an ABH, BAMF, Botschaft oder Gericht.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 9. `workflow-bescheid-verstehen`
-
-**Frühere Beschreibung:** Bescheid verstehen: Workflow-Skill für Migrationsrecht; erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Bescheid verstehen
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: erkennt aus Bescheid, Rechtsbehelfsbelehrung und Zustellung die nächsten Schritte.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Bescheid-Anatomie Migrationsrecht
-
-- **Bezeichnung:** BAMF-Bescheid (Asyl), Ausländerbehörde (Aufenthalt), Botschaft (Visum), Bundesverwaltungsamt (Einbürgerung).
-- **Tenor:** Ablehnung gesondert prüfen — als offensichtlich unbegründet (§ 30 AsylG) löst Wochen-Frist aus (§ 36 AsylG); als einfach unbegründet 2-Wochen-Frist (§ 74 AsylG).
-- **Rechtsbehelfsbelehrung:** Fehler oder fehlende RBB → 1-Jahres-Frist (§ 58 Abs. 2 VwGO); ABER Asyl-Sondervorschriften haben oft kürzere Fristen unabhängig (§ 74 AsylG, § 36 AsylG).
-- **Zustellung:** Datum maßgeblich nicht Bescheiddatum; Postzustellungsurkunde bzw. Zustellung an Bevollmächtigten (Vollmacht!) prüfen — § 41 VwVfG/§ 31 AsylG, § 7 VwZG.
-- **Abschiebungsandrohung:** Im Asylbescheid regelmäßig mit Ausreisefrist (i. d. R. 30 Tage, bei offensichtlich unbegründet 1 Woche, § 36 AsylG).
-- **Sofortvollzug § 80 Abs. 2 VwGO:** Bei Asyl-Bescheiden kraft Gesetzes; Eilantrag § 80 Abs. 5 VwGO i. V. m. § 36 Abs. 3 AsylG bzw. § 34a Abs. 2 AsylG.
-- **Einreise- und Aufenthaltsverbot § 11 AufenthG:** Befristung beachten — Antrag auf Verkürzung möglich.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 10. `workflow-blaue-karte-start`
-
-**Frühere Beschreibung:** Blaue Karte EU Start: Workflow-Skill für Migrationsrecht; prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Blaue Karte EU Start
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Gehalt, Abschluss, Beruf, Arbeitgeber, Mobilität und Familiennachzug.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 11. `workflow-botschaft-visumtermin`
-
-**Frühere Beschreibung:** Botschaft/Visumtermin: Workflow-Skill für Migrationsrecht; prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Botschaft/Visumtermin
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Termin, Unterlagen, Remonstration/Klage, Zuständigkeit und Wartezeiten.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 12. `workflow-chronologie-und-belegmatrix`
-
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
-
-# Chronologie und Belegmatrix
-
-## Aufgabe
-Dieser Workflow-Skill für `fachanwalt-migrationsrecht` Chronologie und Belegmatrix im Plugin fachanwalt-migrationsrecht: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.. Er ist dazu da, den Nutzer schneller und sicherer in die richtige Bearbeitung zu führen.
-
-## Kaltstart
-Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen, die für die nächste Weiche nötig sind:
-
-1. Wer fragt in welcher Rolle?
-2. Was ist das gewünschte Ergebnis?
-3. Gibt es Fristen, Termine, Zustellungen, Zahlungen oder Sanktionen?
-4. Welche Unterlagen, Daten oder Belege liegen bereits vor?
-
-## Arbeitsworkflow
-1. Rolle, Ziel, Frist und Unterlagenlage in höchstens fünf Fragen klären.
-2. Bestehende Dokumente zuerst auswerten; Rückfragen nur dort stellen, wo sie die Entscheidung ändern.
-3. Passende Spezialskills aus diesem Plugin vorschlagen und begründen.
-4. Ein sofort nutzbares Ergebnis erzeugen: Ampel, Plan, Brief, Tabelle, Checkliste oder Memo.
-
-## Output-Standard
-- Kurzbild: worum es geht, was gesichert ist, was offen ist.
-- Prüf- oder Bearbeitungsmatrix mit den entscheidenden Punkten.
-- Konkreter nächster Schritt mit Frist, Zuständigkeit und Unterlagen.
-- Bei Außenkommunikation: knapper, sachlicher Textbaustein ohne unnötige Nebenangaben.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Unsicherheiten und Annahmen ausdrücklich markieren.
-
-## 13. `workflow-dokumentenstapel-migration`
-
-**Frühere Beschreibung:** Dokumentenstapel Migration: Workflow-Skill für Migrationsrecht; sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Dokumentenstapel Migration
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: sortiert Pass, Titel, Bescheid, Urkunden, Arbeitsvertrag, Abschluss, Atteste.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 14. `workflow-dublin-geas-start`
-
-**Frühere Beschreibung:** Dublin/GEAS Start: Workflow-Skill für Migrationsrecht; prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Dublin/GEAS Start
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Eurodac, Zuständigkeit, Fristen, Vulnerabilität und Eilantrag.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 15. `workflow-duldung-spurwechsel`
-
-**Frühere Beschreibung:** Duldung/Spurwechsel: Workflow-Skill für Migrationsrecht; prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Duldung/Spurwechsel
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Ausbildungs-/Beschäftigungsduldung, Chancenaufenthalt, Identität.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 16. `workflow-einbuergerung-start`
-
-**Frühere Beschreibung:** Einbürgerung Start: Workflow-Skill für Migrationsrecht; prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Einbürgerung Start
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: prüft Zeiten, Titel, Lebensunterhalt, Sprache, Straftaten, Mehrstaatigkeit.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
-
-## Spanisch bei Bedarf
-Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.
-
-## Quellen- und Sicherheitsregel
-- Vor tragenden Aussagen den aktuellen Normtext und die aktuelle Behörden-/Gerichtspraxis prüfen; keine Scheingenauigkeit aus Modellwissen.
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Annahmen, fehlende Unterlagen, Beweisrisiken und Fristen ausdrücklich markieren.
-
-## 17. `workflow-fachkraefte-start`
-
-**Frühere Beschreibung:** Fachkräfte-Start: Workflow-Skill für Migrationsrecht; klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
-
-# Fachkräfte-Start
-
-## Aufgabe
-Workflow-Skill im Plugin `fachanwalt-migrationsrecht`. Schwerpunkt: klärt Anerkennung, Qualifikation, BA-Zustimmung, Berufsausübung und Visum.
-
-## Kaltstart
-Wenn Unterlagen vorhanden sind, zuerst auswerten. Frage nur, was die nächste Weiche verändert:
-1. Rolle, Ziel und gewünschte Sprache der Erklärung.
-2. Staatsangehörigkeit, Herkunfts-/Transitstaaten, aktueller Aufenthaltsort und Status.
-3. Frist, Zustellung, Termin, Ablaufdatum oder Abschiebungsrisiko.
-4. Vorhandene Dokumente und fehlende Nachweise.
-5. Gewünschter Output: einfache Erklärung, spanische Zusammenfassung, Antrag, Klage/Eilantrag, Behördenmail, Arbeitgebermemo oder Dokumentenliste.
-
-## Arbeitsworkflow
-1. **Statusmatrix:** Person, Staat/Gebiet, Dokumente, Aufenthaltsort, aktueller Status, Zielstatus.
-2. **Frist sichern:** Klage/Eilantrag, Dublin/GEAS, Fiktionswirkung, Visumtermin, Ausreisefrist, Abschiebung.
-3. **Rechtsgrundlage:** AufenthG, AsylG, StAG, FreizügG/EU, EU-Recht, GFK/EMRK und Verwaltungspraxis live prüfen.
-4. **Staatenbezug:** Bei Herkunfts-, Transit- oder Zielstaat passenden `staat-...-migrationscheck` ergänzen.
-5. **Belege:** Dokumente, Urkunden, Übersetzungen, Atteste, Arbeitsvertrag, Abschluss, Behördenpost in eine Lückenliste bringen.
-6. **Output:** Risikoampel, nächste Schritte, Entwurf und Anschluss-Skills.
 
 ## Spanisch bei Bedarf
 Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos necesarios`, `Próximo paso`. Normen bleiben deutsch mit kurzer Erklärung.

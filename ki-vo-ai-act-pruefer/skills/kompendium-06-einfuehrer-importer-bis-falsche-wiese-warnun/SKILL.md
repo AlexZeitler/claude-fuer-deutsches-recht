@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-einfuehrer-importer-bis-falsche-wiese-warnun
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (einfuehrer-importer-pflichten-art-23, eu-datenbank-registrierung-art-49-und-71, fallfremde-textbausteine-prozessrisiko, falsche-wiese-warnung-ki-vo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einfuehrer Importer Pflichten Art 23, Eu Datenbank Registrierung Art 49 Und 71, Fallfremde Textbausteine Prozessrisiko, Falsche Wiese Warnung Ki Vo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Einfuehrer Importer Pflichten Art 23 bis Falsche Wiese Warnung Ki Vo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einfuehrer-importer-pflichten-art-23` | Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel). |
 | `eu-datenbank-registrierung-art-49-und-71` | Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. öffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Konformitätsbewertung) und hochrisiko-bestätigt-end-to-end-roadmap (Gesamt-Roadmap). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einfuehrer-importer-pflichten-art-23`
 
-**Frühere Beschreibung:** Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel).
+**Fokus:** Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich prüfen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einführer-Pflichten. Prüfraster: Konformitätsbewertung durch Anbieter bereits durchgeführt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitätserklärung geprüft Bevollmaechtigter benannt. Wann wird Einführer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einführer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel).
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO
 
@@ -144,7 +144,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `eu-datenbank-registrierung-art-49-und-71`
 
-**Frühere Beschreibung:** Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. öffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Konformitätsbewertung) und hochrisiko-bestätigt-end-to-end-roadmap (Gesamt-Roadmap).
+**Fokus:** Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. öffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Konformitätsbewertung) und hochrisiko-bestätigt-end-to-end-roadmap (Gesamt-Roadmap).
 
 # EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO
 
@@ -263,7 +263,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `fallfremde-textbausteine-prozessrisiko`
 
-**Frühere Beschreibung:** Fallfremde KI-Textbausteine erkennen und entschärfen: Namen, Daten, Aktenzeichen, Tatvorwürfe, falsche Anlagen, fremde Prozessgeschichte und bewusst/unbewusst irreführender Vortrag in Schriftsatz, Einspruch, Klage oder Behördenantwort.
+**Fokus:** Fallfremde KI-Textbausteine erkennen und entschärfen: Namen, Daten, Aktenzeichen, Tatvorwürfe, falsche Anlagen, fremde Prozessgeschichte und bewusst/unbewusst irreführender Vortrag in Schriftsatz, Einspruch, Klage oder Behördenantwort.
 
 # Fallfremde Textbausteine
 
@@ -312,7 +312,7 @@ Wenn ein Satz wie "unstreitig" oder "nachweislich" auftaucht, muss ein Aktenbele
 
 ## 4. `falsche-wiese-warnung-ki-vo`
 
-**Frühere Beschreibung:** Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen KI-VO versus DSGVO versus Produkthaftungsrichtlinie versus Medizinprodukteverordnung versus Maschinenverordnung versus Cyber Resilience Act. Prüfraster: Schluesselmerkmale zur Abgrenzung der Regelwerke. Output: Orientierungsmemo mit konkretem Verweis auf das tatsaechlich einschlaegige Recht. Abgrenzung zu verhältnis-zu-anderen-unionsrechtsakten (systematische Kumulationsprüfung) und territorialer-anwendungsbereich-art-2.
+**Fokus:** Nutzer fragt eine KI-VO-Frage die eigentlich unter DSGVO Produkthaftung MDR oder Maschinenverordnung faellt. Warnt vor typischen Rechtsgebiets-Verwechslungen KI-VO versus DSGVO versus Produkthaftungsrichtlinie versus Medizinprodukteverordnung versus Maschinenverordnung versus Cyber Resilience Act. Prüfraster: Schluesselmerkmale zur Abgrenzung der Regelwerke. Output: Orientierungsmemo mit konkretem Verweis auf das tatsaechlich einschlaegige Recht. Abgrenzung zu verhältnis-zu-anderen-unionsrechtsakten (systematische Kumulationsprüfung) und territorialer-anwendungsbereich-art-2.
 
 # Warnung: Falsche Wiese — Verwechslung der Rechtsgebiete
 

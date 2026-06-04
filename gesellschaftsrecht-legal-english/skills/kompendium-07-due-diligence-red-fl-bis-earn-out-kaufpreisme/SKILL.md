@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-due-diligence-red-fl-bis-earn-out-kaufpreisme
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (due-diligence-red-flag-report, earn-out-kaufpreismechanik) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Due Diligence Red Flag Report, Earn Out Kaufpreismechanik; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Due Diligence Red Flag Report, Earn Out Kaufpreismechanik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `due-diligence-red-flag-report` | Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings. |
 | `earn-out-kaufpreismechanik` | Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `due-diligence-red-flag-report`
 
-**Frühere Beschreibung:** Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings.
+**Fokus:** Fuehrt durch Due Diligence, Red Flag Report, Legal Fact Book, Materiality, Disclosure Schedule, Q&A und quellenbelegte Findings.
 
 # Due Diligence und Red Flag Report
 
@@ -98,7 +98,7 @@ DD-Sprache in belastbare Arbeitsschritte übersetzen.
 
 ## 2. `earn-out-kaufpreismechanik`
 
-**Frühere Beschreibung:** Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen.
+**Fokus:** Fuehrt durch Earn-out, Milestones, Locked Box, Completion Accounts, Leakage, Kaufpreisanpassung und Streitmechanismen.
 
 # Earn-out und Kaufpreismechanik
 

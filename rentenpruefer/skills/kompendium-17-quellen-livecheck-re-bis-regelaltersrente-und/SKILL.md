@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-quellen-livecheck-re-bis-regelaltersrente-und
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (quellen-livecheck-rentenrecht, regelaltersrente-und-vorzeitige-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Quellen Livecheck Rentenrecht, Regelaltersrente Und Vorzeitige Rente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - rentenpruefer
+# Arbeitsbereich - Quellen Livecheck Rentenrecht, Regelaltersrente Und Vorzeitige Rente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `quellen-livecheck-rentenrecht` | Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern. |
 | `regelaltersrente-und-vorzeitige-rente` | Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `quellen-livecheck-rentenrecht`
 
-**Frühere Beschreibung:** Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern.
+**Fokus:** Quellen-Livecheck im Rentenrecht: Normtext, DRV-Praxis, Abkommen, Versorgungswerkssatzung und Rechtsprechung absichern.
 
 # quellen-livecheck-rentenrecht
 
@@ -67,7 +67,7 @@ Quellenliste mit geprüften und offenen Punkten.
 
 ## 2. `regelaltersrente-und-vorzeitige-rente`
 
-**Frühere Beschreibung:** Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand.
+**Fokus:** Prüfung von Regelaltersrente und vorzeitiger Altersrente nach SGB VI: Altersgrenzen, Wartezeiten, Abschläge, Antragstiming und Übergang in den Ruhestand.
 
 # regelaltersrente-und-vorzeitige-rente
 

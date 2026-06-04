@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-auslandseinsatz-mand-bis-befehl-verweigern-ge
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (auslandseinsatz-mandat-einsatzregeln, beamtenrecht-bundeswehrverwaltung-abgrenzung, befehl-verweigern-gewissensnot-rechtswidrigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Auslandseinsatz Mandat Einsatzregeln, Beamtenrecht Bundeswehrverwaltung Abgrenzung, Befehl Verweigern Gewissensnot Rechtswidrigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `auslandseinsatz-mandat-einsatzregeln` | Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `beamtenrecht-bundeswehrverwaltung-abgrenzung` | Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `auslandseinsatz-mandat-einsatzregeln`
 
-**Frühere Beschreibung:** Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Auslandseinsatz Mandat Einsatzregeln: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Auslandseinsatz – Mandat und Einsatzregeln
 
@@ -130,7 +130,7 @@ Bewaffnete Auslandseinsätze deutscher Streitkräfte unterliegen einem dreistufi
 
 ## 2. `beamtenrecht-bundeswehrverwaltung-abgrenzung`
 
-**Frühere Beschreibung:** Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60.
+**Fokus:** Beamtenrecht Bundeswehrverwaltung Abgrenzung: prüft Status, anwendbares Recht und Rechtsweg. Norm-/Quellenanker: BBG, SG, TVöD, GG Art. 60.
 
 # Beamtenrecht Bundeswehrverwaltung — Abgrenzung Soldat/Beamter/Arbeitnehmer
 
@@ -241,7 +241,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `befehl-verweigern-gewissensnot-rechtswidrigkeit`
 
-**Frühere Beschreibung:** Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04.
+**Fokus:** Befehlsverweigerung, Gewissensnot, Rechtswidrigkeit: prüft §§ 10–12 SG, § 22 WStG, Art. 4 GG, Strafbarkeit und disziplinarische Folgen. Norm-/Quellenanker: §§ 10–12 SG, §§ 19–22 WStG, BVerwG 2 WD 12/04.
 
 # Befehlsverweigerung, Gewissensnot und Rechtswidrigkeit
 

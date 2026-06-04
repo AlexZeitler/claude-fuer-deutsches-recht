@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-kanzlei-fris-bis-famr-trennungsjahr-p
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (spezial-kanzlei-fristennotiz-und-naechster-schritt, spezial-orientierung-fristen-form-und-zustaendigkeit, ehevertrag-scheidungsfolgenkontrolle, spezial-ehevertrag-red-team-und-qualitaetskontrolle, famr-trennungsjahr-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Fristennotiz Und Naechster Schritt, Orientierung Fristen Form Und Zustaendigkeit, Ehevertrag Scheidungsfolgenkontrolle, Ehevertrag Red Team Und Qualitaetskontrolle und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-familienrecht
+# Arbeitsbereich - Kanzlei Fristennotiz Und Naechster Schritt bis Famr Trennungsjahr Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-kanzlei-fristennotiz-und-naechster-schritt` | Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-orientierung-fristen-form-und-zustaendigkeit` | Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-kanzlei-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Kanzlei: Fristennotiz und nächster Schritt im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Kanzlei: Fristennotiz und nächster Schritt
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-orientierung-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Orientierung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `ehevertrag-scheidungsfolgenkontrolle`
 
-**Frühere Beschreibung:** Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.; Normanker: BGB §§ 138 und 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.; Normanker: BGB §§ 138 und 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Ehevertrag und Scheidungsfolgenkontrolle: Wirksamkeit, Ausübungskontrolle, Kernbereichslehre und Verhandlungsdokumentation.
 
@@ -168,7 +168,7 @@ BGB §§ 138, 242; Versorgungsausgleich, Unterhalt, Zugewinn; BGH live prüfen. 
 
 ## 4. `spezial-ehevertrag-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ehevertrag: Red-Team und Qualitätskontrolle im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ehevertrag: Red-Team und Qualitätskontrolle
 
@@ -218,7 +218,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `famr-trennungsjahr-praxis`
 
-**Frühere Beschreibung:** Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps fuer Beweissicherung, Schriftverkehr, Mandantenleitfaden. Schnittstelle Steuerrecht (Steuerklassenwechsel).
+**Fokus:** Trennungsjahr in der Praxis § 1565 BGB: Voraussetzungen, Beleg, Trennung innerhalb der Ehewohnung, Ausnahmen Haertefall. Praxistipps fuer Beweissicherung, Schriftverkehr, Mandantenleitfaden. Schnittstelle Steuerrecht (Steuerklassenwechsel).
 
 # Familienrecht: Trennungsjahr
 

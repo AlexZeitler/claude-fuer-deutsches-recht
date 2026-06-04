@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-arbeitsgericht-klage-bis-aufsichtsrat-reporti
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (arbeitsgericht-klage, arbeitsschutz, audit-nachweis, aufsichtsrat-reporting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsgericht Klage, Arbeitsschutz, Audit Nachweis, Aufsichtsrat Reporting; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Arbeitsgericht Klage bis Aufsichtsrat Reporting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsgericht-klage` | Bereitet arbeitsgerichtliche Klage wegen Repressalie vor. |
 | `arbeitsschutz` | Prüft Arbeitsschutz-Hinweise und Eskalation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitsgericht-klage`
 
-**Frühere Beschreibung:** Bereitet arbeitsgerichtliche Klage wegen Repressalie vor.
+**Fokus:** Bereitet arbeitsgerichtliche Klage wegen Repressalie vor.
 
 # Arbeitsgericht Klage
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `arbeitsschutz`
 
-**Frühere Beschreibung:** Prüft Arbeitsschutz-Hinweise und Eskalation.
+**Fokus:** Prüft Arbeitsschutz-Hinweise und Eskalation.
 
 # Arbeitsschutz
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `audit-nachweis`
 
-**Frühere Beschreibung:** Baut Audit-Nachweis für das Hinweisgebersystem.
+**Fokus:** Baut Audit-Nachweis für das Hinweisgebersystem.
 
 # Audit Nachweis
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `aufsichtsrat-reporting`
 
-**Frühere Beschreibung:** Berichtet Hinweisfälle an Aufsichtsrat oder Beirat.
+**Fokus:** Berichtet Hinweisfälle an Aufsichtsrat oder Beirat.
 
 # Aufsichtsrat Reporting
 

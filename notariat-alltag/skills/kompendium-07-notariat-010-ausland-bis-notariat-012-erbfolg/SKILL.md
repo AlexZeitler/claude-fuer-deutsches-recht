@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-notariat-010-ausland-bis-notariat-012-erbfolg
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung, notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und, notariat-012-erbfolge-erbschein-europaeisches-nachlasszeugnis-un) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 010 Auslandsurkunde Apostille Legalisation Uebersetzung, Notariat 011 Vollmacht Genehmigung Vollmachtloser Vertreter Und, Notariat 012 Erbfolge Erbschein Europaeisches Nachlasszeugnis Un; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - notariat-alltag
+# Arbeitsbereich - Notariat 010 Auslandsurkunde Apostille Legalisation Uebersetzung, Notariat 011 Vollmacht Genehmigung Vollmachtloser Vertreter Und, Notariat 0
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung` | Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register. |
 | `notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und` | Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-010-auslandsurkunde-apostille-legalisation-uebersetzung`
 
-**Frühere Beschreibung:** Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register.
+**Fokus:** Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung und Registertauglichkeit. Prüfprogramm für ausländische Urkunden, Haager Apostillekonvention, konsularische Legalisation und Anforderungen der deutschen Register.
 
 # Notariat im Alltag: Auslandsurkunde – Apostille, Legalisation, Übersetzung, Registertauglichkeit
 
@@ -111,7 +111,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-011-vollmacht-genehmigung-vollmachtloser-vertreter-und`
 
-**Frühere Beschreibung:** Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB.
+**Fokus:** Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter und Nachgenehmigung. Formvoraussetzungen, Prüfung der Vertretungsmacht, Wirkung der Genehmigung und Schwebende Unwirksamkeit nach § 177 BGB.
 
 # Notariat im Alltag: Vollmacht, Genehmigung, vollmachtloser Vertreter, Nachgenehmigung
 
@@ -192,7 +192,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-012-erbfolge-erbschein-europaeisches-nachlasszeugnis-un`
 
-**Frühere Beschreibung:** Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO.
+**Fokus:** Notariat im Alltag: Erbfolge – Erbschein, Europäisches Nachlasszeugnis und Grundbuchberichtigung. Gesetzliche und gewillkürte Erbfolge, Erbscheinsantrag beim Nachlassgericht, ENZ nach EuErbVO und Grundbuchberichtigung nach § 35 GBO.
 
 # Notariat im Alltag: Erbfolge – Erbschein, ENZ, Grundbuchberichtigung
 

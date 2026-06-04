@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-karrierecenter-und-b-bis-klage-ohne-berufung
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (karrierecenter-und-bapersbw, kdvg-13-neun-monate, kein-totalverweigerungs-tool, ki-nutzung-gewissensbegruendung, klage-ohne-berufung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Karrierecenter Und Bapersbw, Kdvg 13 Neun Monate, Kein Totalverweigerungs Tool, Ki Nutzung Gewissensbegruendung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Karrierecenter Und Bapersbw bis Klage Ohne Berufung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `karrierecenter-und-bapersbw` | Erklärt Behördennamen, Wehrersatzbehörde und frühere Kreiswehrersatzamt-Begriffe. |
 | `kdvg-13-neun-monate` | Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `karrierecenter-und-bapersbw`
 
-**Frühere Beschreibung:** Erklärt Behördennamen, Wehrersatzbehörde und frühere Kreiswehrersatzamt-Begriffe.
+**Fokus:** Erklärt Behördennamen, Wehrersatzbehörde und frühere Kreiswehrersatzamt-Begriffe.
 
 # Karrierecenter und BAPersBw
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `kdvg-13-neun-monate`
 
-**Frühere Beschreibung:** Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen.
+**Fokus:** Nutzt § 13 Abs. 2 KDVG als Argument gegen unbegrenztes Liegenlassen.
 
 # Neunmonats-Sollfrist § 13
 
@@ -140,7 +140,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 3. `kein-totalverweigerungs-tool`
 
-**Frühere Beschreibung:** Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab.
+**Fokus:** Grenzt KDV vom bewussten Bruch mit jeder Dienst- oder Ersatzdienstpflicht ab.
 
 # Keine Totalverweigerung
 
@@ -195,7 +195,7 @@ Keine Totalverweigerung, Dienstflucht oder bloße politische Situationsverweiger
 
 ## 4. `ki-nutzung-gewissensbegruendung`
 
-**Frühere Beschreibung:** Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein.
+**Fokus:** Setzt Grenzen für KI-Hilfe: strukturieren ja, fremde Begründung nein.
 
 # KI bei Gewissensbegründung
 
@@ -250,7 +250,7 @@ Keine vollständigen Personal-, Gesundheits- oder Gewissensakten in ungeprüfte 
 
 ## 5. `klage-ohne-berufung`
 
-**Frühere Beschreibung:** Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist.
+**Fokus:** Erklärt § 10 KDVG und warum erstinstanzliche Sorgfalt besonders wichtig ist.
 
 # Klage ohne normale Berufung
 

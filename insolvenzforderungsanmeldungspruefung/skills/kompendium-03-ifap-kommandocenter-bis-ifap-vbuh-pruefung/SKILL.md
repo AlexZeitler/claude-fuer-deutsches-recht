@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ifap-kommandocenter-bis-ifap-vbuh-pruefung
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (ifap-kommandocenter, ifap-pruefentscheidung, ifap-vbuh-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Kommandocenter, Ifap Pruefentscheidung, Ifap Vbuh Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-kommandocenter` | Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle. |
 | `ifap-pruefentscheidung` | Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-kommandocenter`
 
-**Frühere Beschreibung:** Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle.
+**Fokus:** Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle.
 
 # Kommandocenter für die Forderungsprüfung
 
@@ -102,7 +102,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-pruefentscheidung`
 
-**Frühere Beschreibung:** Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176.
+**Fokus:** Prüfentscheidung Forderung festzustellen oder zu bestreiten: Anwendungsfall nach abgeschlossener Prüfung trifft Insolvenzverwalter Entscheidung über Feststellung Teilfeststellung Bestreiten oder Rückstellung. § 176 InsO Prüfungstermin, § 178 InsO Feststellungswirkung Bestreiten Tabelle. Prüfraster alle Belege verarbeitet, Besteuerungsgrundlage, Rang, vbuH, plausible Bestreitungsgründe. Output Prüfentscheidungsprotokoll mit Begründung und tabellenreifer Status. Abgrenzung zu Quality-Gate für Vollständigkeitsprüfung und zu Prüfungstermin-176.
 
 # Prüfentscheidung treffen
 
@@ -175,7 +175,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-vbuh-pruefung`
 
-**Frühere Beschreibung:** Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO vbuH, § 850f Abs. 2 ZPO, §§ 174 InsO. Prüfraster Tatsachengrundlage vbuH prüfen, Streitigkeit vorbereiten, Restschuldbefreiungsrelevanz einordnen, Schuldnerwiderspruch antizipieren. Output vbuH-Prüfungsprotokoll mit Begründungsanforderungen. Abgrenzung zu Rang-Nachrang und zu Prüfentscheidung.
+**Fokus:** Vorsätzlich begangene unerlaubte Handlung und Steuerstraftat in Insolvenzanmeldung prüfen: Anwendungsfall Gläubiger meldet Forderung mit Kennzeichnung als vbuH vorsaetzliche unerlaubte Handlung Unterhaltspflichtverletzung oder Steuerstraftat an was Restschuldbefreiung blockiert. §§ 302 Nr. 1 InsO vbuH, § 850f Abs. 2 ZPO, §§ 174 InsO. Prüfraster Tatsachengrundlage vbuH prüfen, Streitigkeit vorbereiten, Restschuldbefreiungsrelevanz einordnen, Schuldnerwiderspruch antizipieren. Output vbuH-Prüfungsprotokoll mit Begründungsanforderungen. Abgrenzung zu Rang-Nachrang und zu Prüfentscheidung.
 
 # vbuH, Unterhalt und Steuerstraftat prüfen
 

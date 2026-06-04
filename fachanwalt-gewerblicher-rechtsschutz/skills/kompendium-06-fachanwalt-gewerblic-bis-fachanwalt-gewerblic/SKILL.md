@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fachanwalt-gewerblic-bis-fachanwalt-gewerblic
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fachanwalt-gewerblicher-rechtsschutz-designverletzung, fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch, fachanwalt-gewerblicher-rechtsschutz-markenanmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gewerblicher Rechtsschutz Designverletzung, Gewerblicher Rechtsschutz Marken Widerspruch, Gewerblicher Rechtsschutz Markenanmeldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Gewerblicher Rechtsschutz Designverletzung, Gewerblicher Rechtsschutz Marken Widerspruch, Gewerblicher Rechtsschutz Markenanmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-gewerblicher-rechtsschutz-designverletzung` | Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen. |
 | `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch` | Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-gewerblicher-rechtsschutz-designverletzung`
 
-**Frühere Beschreibung:** Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen.
+**Fokus:** Geschmacksmuster- oder Designverletzung prüfen und Ansprüche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprüche EU-Geschmacksmuster-VO. Prüfraster: Schutzfähigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprüche. Output: Verletzungsprüfmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht für Marken- oder Urheberrechtsverletzungen.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -330,7 +330,7 @@ Bevor das Designverletzungsverfahren eingeleitet wird, klaere:
 
 ## 2. `fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch`
 
-**Frühere Beschreibung:** Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG).
+**Fokus:** Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG).
 
 # Marken-Widerspruchsverfahren
 
@@ -523,7 +523,7 @@ Anlage W3: [Gebuehrenbeleg]
 
 ## 3. `fachanwalt-gewerblicher-rechtsschutz-markenanmeldung`
 
-**Frühere Beschreibung:** Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht für Markenrechtsverletzungen (§ 14 MarkenG).
+**Fokus:** Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht für Markenrechtsverletzungen (§ 14 MarkenG).
 
 ## Mandantenfragen beim Kaltstart
 

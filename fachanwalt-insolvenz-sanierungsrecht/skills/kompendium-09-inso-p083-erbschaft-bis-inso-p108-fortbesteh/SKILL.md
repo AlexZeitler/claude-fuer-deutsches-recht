@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-inso-p083-erbschaft-bis-inso-p108-fortbesteh
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 21 frühere Spezialskills (inso-p083-erbschaft-fortgesetzte-gutergemeinschaft, inso-p084-auseinandersetzung-einer-gesellschaft-oder-gemeinschaf, inso-p085-aufnahme-von-aktivprozessen, inso-p086-aufnahme-bestimmter-passivprozesse, inso-p087-forderungen-der-insolvenzglaubiger und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P083 Erbschaft Fortgesetzte Gutergemeinschaft, Inso P084 Auseinandersetzung Einer Gesellschaft Oder Gemeinschaf, Inso P085 Aufnahme Von Aktivprozessen, Inso P086 Aufnahme Bestimmter Passivprozesse und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P083 Erbschaft Fortgesetzte Gutergemeinschaft bis Inso P108 Fortbestehen Bestimmter Schuldverhaltnisse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p083-erbschaft-fortgesetzte-gutergemeinschaft` | § 83 InsO (Erbschaft. Fortgesetzte Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p084-auseinandersetzung-einer-gesellschaft-oder-gemeinschaf` | § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p083-erbschaft-fortgesetzte-gutergemeinschaft`
 
-**Frühere Beschreibung:** § 83 InsO (Erbschaft. Fortgesetzte Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 83 InsO (Erbschaft. Fortgesetzte Gütergemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 83 InsO — Erbschaft. Fortgesetzte Gütergemeinschaft
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p084-auseinandersetzung-einer-gesellschaft-oder-gemeinschaf`
 
-**Frühere Beschreibung:** § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 84 InsO (Auseinandersetzung einer Gesellschaft oder Gemeinschaft) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 84 InsO — Auseinandersetzung einer Gesellschaft oder Gemeinschaft
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p085-aufnahme-von-aktivprozessen`
 
-**Frühere Beschreibung:** § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 85 InsO (Aufnahme von Aktivprozessen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 85 InsO — Aufnahme von Aktivprozessen
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p086-aufnahme-bestimmter-passivprozesse`
 
-**Frühere Beschreibung:** § 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 86 InsO (Aufnahme bestimmter Passivprozesse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 86 InsO — Aufnahme bestimmter Passivprozesse
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p087-forderungen-der-insolvenzglaubiger`
 
-**Frühere Beschreibung:** § 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 87 InsO (Forderungen der Insolvenzgläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 87 InsO — Forderungen der Insolvenzgläubiger
 
@@ -322,7 +322,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p089-vollstreckungsverbot`
 
-**Frühere Beschreibung:** § 89 InsO (Vollstreckungsverbot) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 89 InsO (Vollstreckungsverbot) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 89 InsO — Vollstreckungsverbot
 
@@ -377,7 +377,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p090-vollstreckungsverbot-bei-masseverbindlichkeiten`
 
-**Frühere Beschreibung:** § 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 90 InsO (Vollstreckungsverbot bei Masseverbindlichkeiten) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 90 InsO — Vollstreckungsverbot bei Masseverbindlichkeiten
 
@@ -432,7 +432,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p091-ausschluss-sonstigen-rechtserwerbs`
 
-**Frühere Beschreibung:** § 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 91 InsO (Ausschluß sonstigen Rechtserwerbs) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 91 InsO — Ausschluß sonstigen Rechtserwerbs
 
@@ -487,7 +487,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p094-erhaltung-einer-aufrechnungslage`
 
-**Frühere Beschreibung:** § 94 InsO (Erhaltung einer Aufrechnungslage) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 94 InsO (Erhaltung einer Aufrechnungslage) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 94 InsO — Erhaltung einer Aufrechnungslage
 
@@ -542,7 +542,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p096-unzulassigkeit-der-aufrechnung`
 
-**Frühere Beschreibung:** § 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 96 InsO (Unzulässigkeit der Aufrechnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 96 InsO — Unzulässigkeit der Aufrechnung
 
@@ -597,7 +597,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p097-auskunfts-und-mitwirkungspflichten-des-schuldners`
 
-**Frühere Beschreibung:** § 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 97 InsO (Auskunfts- und Mitwirkungspflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 97 InsO — Auskunfts- und Mitwirkungspflichten des Schuldners
 
@@ -652,7 +652,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p098-durchsetzung-der-pflichten-des-schuldners`
 
-**Frühere Beschreibung:** § 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 98 InsO (Durchsetzung der Pflichten des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 98 InsO — Durchsetzung der Pflichten des Schuldners
 
@@ -707,7 +707,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p099-postsperre`
 
-**Frühere Beschreibung:** § 99 InsO (Postsperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 99 InsO (Postsperre) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 99 InsO — Postsperre
 
@@ -762,7 +762,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p100-unterhalt-aus-der-insolvenzmasse`
 
-**Frühere Beschreibung:** § 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 100 InsO (Unterhalt aus der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 100 InsO — Unterhalt aus der Insolvenzmasse
 
@@ -817,7 +817,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p101-organschaftliche-vertreter-angestellte`
 
-**Frühere Beschreibung:** § 101 InsO (Organschaftliche Vertreter. Angestellte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 101 InsO (Organschaftliche Vertreter. Angestellte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 101 InsO — Organschaftliche Vertreter. Angestellte
 
@@ -872,7 +872,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p102-einschrankung-eines-grundrechts`
 
-**Frühere Beschreibung:** § 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 102 InsO (Einschränkung eines Grundrechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 102 InsO — Einschränkung eines Grundrechts
 
@@ -927,7 +927,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p103-wahlrecht-des-insolvenzverwalters`
 
-**Frühere Beschreibung:** § 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 103 InsO (Wahlrecht des Insolvenzverwalters) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 103 InsO — Wahlrecht des Insolvenzverwalters
 
@@ -982,7 +982,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p105-teilbare-leistungen`
 
-**Frühere Beschreibung:** § 105 InsO (Teilbare Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 105 InsO (Teilbare Leistungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 105 InsO — Teilbare Leistungen
 
@@ -1037,7 +1037,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p106-vormerkung`
 
-**Frühere Beschreibung:** § 106 InsO (Vormerkung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 106 InsO (Vormerkung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 106 InsO — Vormerkung
 
@@ -1092,7 +1092,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p107-eigentumsvorbehalt`
 
-**Frühere Beschreibung:** § 107 InsO (Eigentumsvorbehalt) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 107 InsO (Eigentumsvorbehalt) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 107 InsO — Eigentumsvorbehalt
 
@@ -1147,7 +1147,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p108-fortbestehen-bestimmter-schuldverhaltnisse`
 
-**Frühere Beschreibung:** § 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 108 InsO (Fortbestehen bestimmter Schuldverhältnisse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 108 InsO — Fortbestehen bestimmter Schuldverhältnisse
 

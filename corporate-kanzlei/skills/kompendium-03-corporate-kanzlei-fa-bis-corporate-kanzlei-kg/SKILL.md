@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-corporate-kanzlei-fa-bis-corporate-kanzlei-kg
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (corporate-kanzlei-fair-disclosure-knowledge, corporate-kanzlei-kg-personengesellschaften) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Fair Disclosure Knowledge, Corporate Kanzlei Kg Personengesellschaften
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-fair-disclosure-knowledge` | Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall. |
 | `corporate-kanzlei-kg-personengesellschaften` | KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-fair-disclosure-knowledge`
 
-**Frühere Beschreibung:** Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall.
+**Fokus:** Fair Disclosure und Knowledge Management: Steuert Informationsfluss in M&A-Transaktionen nach MAR, Kartellrecht-Clean-Team und Insider-Regelungen. Normen: Art. 17-18 MAR, §§ 1 und 41 GWB, § 43a BRAO. Insider-Log, Need-to-know, Firewall.
 
 # Fair Disclosure und Knowledge Management
 
@@ -243,7 +243,7 @@ Ich bestatige die Kenntnis dieser Belehrung:
 
 ## 2. `corporate-kanzlei-kg-personengesellschaften`
 
-**Frühere Beschreibung:** KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht.
+**Fokus:** KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht.
 
 # KG und Personengesellschaften — Corporate/M&A
 

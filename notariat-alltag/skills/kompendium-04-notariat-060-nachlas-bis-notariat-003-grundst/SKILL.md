@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-notariat-060-nachlas-bis-notariat-003-grundst
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (notariat-060-nachlassauseinandersetzung-grundbuch-und-erbquoten, notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig, notariat-003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 003 Grundstueckskauf Vollzugsvoraussetzungen Kaufpreisf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - notariat-alltag
+# Arbeitsbereich - Notariat 060 Nachlassauseinandersetzung Grundbuch Und Erbquoten, Notariat 002 Beurkundung Oder Unterschriftsbeglaubigung Richtig, Notariat 00
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-060-nachlassauseinandersetzung-grundbuch-und-erbquoten` | Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen. |
 | `notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig` | Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-060-nachlassauseinandersetzung-grundbuch-und-erbquoten`
 
-**Frühere Beschreibung:** Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen.
+**Fokus:** Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch und Erbquoten. Auseinandersetzung der Erbengemeinschaft, Übertragung von Grundstücken auf einzelne Erben, Grundbuchberichtigung und Steuerfragen.
 
 # Notariat im Alltag: Nachlassauseinandersetzung – Grundbuch, Erbquoten
 
@@ -114,7 +114,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-002-beurkundung-oder-unterschriftsbeglaubigung-richtig`
 
-**Frühere Beschreibung:** Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit.
+**Fokus:** Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung richtig einordnen. Abgrenzung von Beurkundung (§§ 6–35 BeurkG) und Beglaubigung (§§ 39–44 BeurkG) mit Formzwang-Prüfung, Haftungsfolgen und Vollzugstauglichkeit.
 
 # Notariat im Alltag: Beurkundung oder Unterschriftsbeglaubigung – richtig einordnen
 
@@ -207,7 +207,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-003-grundstueckskauf-vollzugsvoraussetzungen-kaufpreisf`
 
-**Frühere Beschreibung:** Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung.
+**Fokus:** Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit und Auflassungsvormerkung. Strukturierter Vollzugsablauf von der Beurkundung bis zur Eigentumsumschreibung mit GrESt, GBO und Lastenfreistellung.
 
 # Notariat im Alltag: Grundstückskauf – Vollzugsvoraussetzungen, Kaufpreisfälligkeit, Auflassungsvormerkung
 

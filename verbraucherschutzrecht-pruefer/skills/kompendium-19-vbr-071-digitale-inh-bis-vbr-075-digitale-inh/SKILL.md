@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-vbr-071-digitale-inh-bis-vbr-075-digitale-inh
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (vbr-071-digitale-inhalte-anspruch-pruefen, vbr-072-digitale-inhalte-widerruf-formulieren, vbr-074-digitale-inhalte-beweise-sichern, vbr-075-digitale-inhalte-agb-redlinen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 071 Digitale Inhalte Anspruch Pruefen, Vbr 072 Digitale Inhalte Widerruf Formulieren, Vbr 074 Digitale Inhalte Beweise Sichern, Vbr 075 Digitale Inhalte Agb Redlinen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 071 Digitale Inhalte Anspruch Pruefen bis Vbr 075 Digitale Inhalte Agb Redlinen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-071-digitale-inhalte-anspruch-pruefen` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Anspruch prüfen. Anspruch prüfen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-072-digitale-inhalte-widerruf-formulieren` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Widerruf formulieren. Widerruf formulieren für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-071-digitale-inhalte-anspruch-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Anspruch prüfen. Anspruch prüfen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Anspruch prüfen. Anspruch prüfen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Anspruch Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-072-digitale-inhalte-widerruf-formulieren`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Widerruf formulieren. Widerruf formulieren für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Widerruf formulieren. Widerruf formulieren für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Widerruf Formulieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-074-digitale-inhalte-beweise-sichern`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Beweise sichern. Beweise sichern für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Beweise sichern. Beweise sichern für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Beweise Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-075-digitale-inhalte-agb-redlinen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: AGB redlinen. AGB redlinen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: AGB redlinen. AGB redlinen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Agb Redlinen
 

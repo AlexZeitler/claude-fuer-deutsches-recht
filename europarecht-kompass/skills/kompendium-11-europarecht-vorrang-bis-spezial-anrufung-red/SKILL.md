@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-europarecht-vorrang-bis-spezial-anrufung-red
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (europarecht-vorrang-unmittelbare-wirkung, europarecht-wettbewerb-kartell, spezial-anrufung-red-team-und-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Vorrang Unmittelbare Wirkung, Europarecht Wettbewerb Kartell, Anrufung Red Team Und Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - europarecht-kompass
+# Arbeitsbereich - Europarecht Vorrang Unmittelbare Wirkung, Europarecht Wettbewerb Kartell, Anrufung Red Team Und Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-vorrang-unmittelbare-wirkung` | Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung). |
 | `europarecht-wettbewerb-kartell` | Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-vorrang-unmittelbare-wirkung`
 
-**Frühere Beschreibung:** Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung).
+**Fokus:** Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung).
 
 # Vorrang und unmittelbare Wirkung
 
@@ -133,7 +133,7 @@ E. NAECHSTE SCHRITTE
 
 ## 2. `europarecht-wettbewerb-kartell`
 
-**Frühere Beschreibung:** Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben).
+**Fokus:** Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV prüfen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Prüfraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtsprüfmemo Risikoeinschaetzung. Abgrenzung: nicht für Beihilfenrecht (europarecht-beihilfen-vergaben).
 
 # EU-Wettbewerb und Kartellrecht
 
@@ -245,7 +245,7 @@ Klagefrist: § 33h GWB 5 Jahre (verjährt: [DATUM])
 
 ## 3. `spezial-anrufung-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Anrufung: Red-Team und Qualitätskontrolle im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anrufung: Red-Team und Qualitätskontrolle im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anrufung: Red-Team und Qualitätskontrolle
 

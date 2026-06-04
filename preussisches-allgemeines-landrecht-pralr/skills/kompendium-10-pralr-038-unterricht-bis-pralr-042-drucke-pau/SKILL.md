@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-pralr-038-unterricht-bis-pralr-042-drucke-pau
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (pralr-038-unterricht-und-seminar, pralr-039-mueller-arnold-fall-und-justizreform, pralr-040-carmer-svarez-klein-redaktion, pralr-041-1792-agb-vs-1794-pralr, pralr-042-drucke-pauli-decker-nauck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 038 Unterricht Und Seminar, Pralr 039 Mueller Arnold Fall Und Justizreform, Pralr 040 Carmer Svarez Klein Redaktion, Pralr 041 1792 Agb Vs 1794 Pralr und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 038 Unterricht Und Seminar bis Pralr 042 Drucke Pauli Decker Nauck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-038-unterricht-und-seminar` | PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen. |
 | `pralr-039-mueller-arnold-fall-und-justizreform` | PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-038-unterricht-und-seminar`
 
-**Frühere Beschreibung:** PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen.
+**Fokus:** PrALR: Unterrichts-, Seminar- und Vortragsmodule zum PrALR mit Quellenarbeit und Diskussionsfragen bauen.
 
 # Unterricht und Seminar
 
@@ -105,7 +105,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-039-mueller-arnold-fall-und-justizreform`
 
-**Frühere Beschreibung:** PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen.
+**Fokus:** PrALR: Müller-Arnold-Fall, Justizreform, Richterbild und Kodifikationsmotiv kritisch einordnen.
 
 # Müller-Arnold und Justizreform
 
@@ -163,7 +163,7 @@ Der Mueller-Arnold-Fall war der unmittelbare Anlass fuer die Justizreform unter 
 
 ## 3. `pralr-040-carmer-svarez-klein-redaktion`
 
-**Frühere Beschreibung:** PrALR: Carmer, Svarez, Klein, Redaktionsgeschichte und Arbeitsweise ohne Personenkult einordnen.
+**Fokus:** PrALR: Carmer, Svarez, Klein, Redaktionsgeschichte und Arbeitsweise ohne Personenkult einordnen.
 
 # Redaktionsgeschichte
 
@@ -200,7 +200,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-041-1792-agb-vs-1794-pralr`
 
-**Frühere Beschreibung:** PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen.
+**Fokus:** PrALR: Allgemeines Gesetzbuch 1792 und Allgemeines Landrecht 1794 unterscheiden, politische Nachschärfungen erkennen.
 
 # 1792 vs. 1794
 
@@ -237,7 +237,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 5. `pralr-042-drucke-pauli-decker-nauck`
 
-**Frühere Beschreibung:** PrALR: Drucke, Verleger, Schriftarten, Bandzählungen und bibliographische Identität vorsichtig unterscheiden.
+**Fokus:** PrALR: Drucke, Verleger, Schriftarten, Bandzählungen und bibliographische Identität vorsichtig unterscheiden.
 
 # Drucke und Verleger
 

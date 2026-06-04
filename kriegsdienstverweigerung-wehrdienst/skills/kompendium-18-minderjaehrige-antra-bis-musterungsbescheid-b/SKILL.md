@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-minderjaehrige-antra-bis-musterungsbescheid-b
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (minderjaehrige-antragstellung, muendliche-anhoerung-vorbereitung, musterung-verweigert-ablehnung, musterungen-und-eignung, musterungsbescheid-bestandskraft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Minderjaehrige Antragstellung, Muendliche Anhoerung Vorbereitung, Musterung Verweigert Ablehnung, Musterungen Und Eignung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Minderjaehrige Antragstellung bis Musterungsbescheid Bestandskraft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `minderjaehrige-antragstellung` | Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen. |
 | `muendliche-anhoerung-vorbereitung` | Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `minderjaehrige-antragstellung`
 
-**Frühere Beschreibung:** Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen.
+**Fokus:** Prüft Antrag sechs Monate vor 18 oder vor 17 unter Sondervoraussetzungen.
 
 # Minderjährige Antragstellung
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `muendliche-anhoerung-vorbereitung`
 
-**Frühere Beschreibung:** Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor.
+**Fokus:** Bereitet nichtöffentliche mündliche Anhörung ohne auswendig gelernte Musterantworten vor.
 
 # Mündliche Anhörung
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `musterung-verweigert-ablehnung`
 
-**Frühere Beschreibung:** Erklärt Ablehnungsrisiko bei Musterungsverweigerung.
+**Fokus:** Erklärt Ablehnungsrisiko bei Musterungsverweigerung.
 
 # Musterung verweigert Risiko
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `musterungen-und-eignung`
 
-**Frühere Beschreibung:** Erklärt, warum KDV-Antrag Musterung grundsätzlich nicht ersetzt und wie § 13 wirkt.
+**Fokus:** Erklärt, warum KDV-Antrag Musterung grundsätzlich nicht ersetzt und wie § 13 wirkt.
 
 # Musterung und Eignung
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `musterungsbescheid-bestandskraft`
 
-**Frühere Beschreibung:** Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung.
+**Fokus:** Prüft Bedeutung des Musterungsbescheids für Zuleitung und Entscheidung.
 
 # Bestandskräftiger Musterungsbescheid
 

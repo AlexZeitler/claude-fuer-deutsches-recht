@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-corporate-kanzlei-si-bis-corporate-kanzlei-st
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (corporate-kanzlei-simulation-bidder-process, corporate-kanzlei-steps-plan-pmo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Simulation Bidder Process, Corporate Kanzlei Steps Plan Pmo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-simulation-bidder-process` | Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar. |
 | `corporate-kanzlei-steps-plan-pmo` | Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-simulation-bidder-process`
 
-**Frühere Beschreibung:** Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar.
+**Fokus:** Auktionsprozess und Bieter-Perspektive in M&A-Transaktionen simulieren: Verkaeufer-Kanzlei plant Bieter-Prozess oder Kaeufer bereitet NBO/BO vor. Normen: SPA, WpueG (Public M&A), Marktstandard M&A-Auktion. Prüfraster: Process Letter, Bieteranforderungen, NBO-Vergleich, Final Bid Instructions, Exklusivitaet. Output Process-Letter-Entwurf, Bieter-Vergleichsmatrix, NBO-Template. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; Public M&A siehe public-ma-kapitalmarkt-mar.
 
 # Simulation Bieter-Prozess
 
@@ -263,7 +263,7 @@ EMPFEHLUNG: [Bieter X auf die Shortlist; Begruendung]
 
 ## 2. `corporate-kanzlei-steps-plan-pmo`
 
-**Frühere Beschreibung:** Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions.
+**Fokus:** Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions.
 
 # Steps Plan und Deal-PMO
 

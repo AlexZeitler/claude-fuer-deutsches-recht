@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-drg-026-staatsrecht-bis-drg-031-wiedergutmac
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 06; bündelt 6 frühere Spezialskills (drg-026-staatsrecht-des-kaiserreichs, drg-027-weimarer-reichsverfassung, drg-028-notverordnung-und-demokratiekrise, drg-029-ns-unrecht-und-rechtsperversion, drg-030-sondergerichte-und-justizgeschichte und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 026 Staatsrecht Des Kaiserreichs, Drg 027 Weimarer Reichsverfassung, Drg 028 Notverordnung Und Demokratiekrise, Drg 029 Ns Unrecht Und Rechtsperversion und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 026 Staatsrecht Des Kaiserreichs bis Drg 031 Wiedergutmachung Und Restitution
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-026-staatsrecht-des-kaiserreichs` | Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule. |
 | `drg-027-weimarer-reichsverfassung` | Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-026-staatsrecht-des-kaiserreichs`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule.
+**Fokus:** Deutsche Rechtsgeschichte: Staatsrecht des Deutschen Kaiserreichs (1871-1918). Bismarckverfassung, Bundesstaat, Reichstag, Reichsleitung, Dualistischer Konstitutionalismus und Laband-Jellinek-Schule.
 
 # Staatsrecht des Deutschen Kaiserreichs
 
@@ -81,7 +81,7 @@ Reichsverfassung 1871: ALEX/OeNB und documentArchiv.de. Laband Staatsrecht: hist
 
 ## 2. `drg-027-weimarer-reichsverfassung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern.
+**Fokus:** Deutsche Rechtsgeschichte: Weimarer Reichsverfassung vom 11. August 1919 - Reichspraesident, Reichstag, Notverordnungsrecht des Art. 48 WRV, Grundrechtsteil Art. 109-165 WRV und Lehren aus dem Scheitern.
 
 # Weimarer Reichsverfassung (WRV, 11. August 1919)
 
@@ -133,7 +133,7 @@ Nur frei pruefbare Quellen: documentArchiv.de fuer WRV-Text, Reichsgesetzblatt v
 
 ## 3. `drg-028-notverordnung-und-demokratiekrise`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung.
+**Fokus:** Deutsche Rechtsgeschichte: Notverordnungen und Demokratiekrise 1930-1933. Art. 48 WRV in der Praxis, Praesidialkabinette Bruening, Papen, Schleicher, Notverordnungsflut und legaler Weg zur NS-Machtergreifung.
 
 # Notverordnung und Demokratiekrise (1930-1933)
 
@@ -184,7 +184,7 @@ Notverordnungen: RGBl. I 1930-1933 via ALEX/OeNB. Ermächtigungsgesetz: document
 
 ## 4. `drg-029-ns-unrecht-und-rechtsperversion`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945.
+**Fokus:** Deutsche Rechtsgeschichte: NS-Unrecht und Rechtsperversion. Rassegesetze, Nuernberger Gesetze 1935, Enteignungsrecht im NS, Radbruch-Formel und Aufarbeitung nach 1945.
 
 # NS-Unrecht und Rechtsperversion
 
@@ -234,7 +234,7 @@ Nuernberger Gesetze: RGBl. I 1935 via ALEX/OeNB. Ermächtigungsgesetz 1933: ALEX
 
 ## 5. `drg-030-sondergerichte-und-justizgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller.
+**Fokus:** Deutsche Rechtsgeschichte: Sondergerichte und NS-Justizgeschichte. Volksgerichtshof, Sondergerichte 1933, Kriegsgerichtsbarkeit, NS-Richter nach 1945 und Aufarbeitung durch Ingo Mueller.
 
 # Sondergerichte und NS-Justizgeschichte
 
@@ -284,7 +284,7 @@ RGBl. NS-Sondergerichte: ALEX/OeNB. VGH-Akten: Bundesarchiv Berlin (Bestand R 30
 
 ## 6. `drg-031-wiedergutmachung-und-restitution`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung.
+**Fokus:** Deutsche Rechtsgeschichte: Wiedergutmachung und Restitution nach NS-Unrecht. Bundesentschaedigungsgesetz 1953, Bundesrueckerstattungsgesetz 1957, Globalabkommen und Grenzen der Wiedergutmachung.
 
 # Wiedergutmachung und Restitution (NS-Unrecht)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-berufungsfest-pruefe-bis-beweisbeschluss-vorb
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (berufungsfest-pruefen, beschluss-bauen-zpo, beweisbeschluss-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufungsfest Pruefen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Berufungsfest Pruefen, Beschluss Bauen Zpo, Beweisbeschluss Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufungsfest-pruefen` | Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil. |
 | `beschluss-bauen-zpo` | Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufungsfest-pruefen`
 
-**Frühere Beschreibung:** Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil.
+**Fokus:** Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil.
 
 # Berufungsfestigkeit prüfen
 
@@ -82,7 +82,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `beschluss-bauen-zpo`
 
-**Frühere Beschreibung:** Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit.
+**Fokus:** Zivilrechtliche Beschluesse erstellen: PKH, Streitwert, Beweis, Hinweis nach § 139 ZPO, Kostenfestsetzung, Versaeumnis, Erledigung. Normen: §§ 127 und 329 und 358 ff. sowie 139 und 103 ff. ZPO. Prüfraster: Unterschied Beschluss/Urteil (Begründungstiefe, Rechtsmittel), Tenor-Klarheit, Rechtsmittelbelehrung, Zustellung. Output Beschluss-Entwurf mit Tenor, Begründung, Rechtsmittelbelehrung. Abgrenzung: Urteil siehe entscheidungsgründe-zivil-schreiben; Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit.
 
 # Beschluss bauen — Zivilprozess
 
@@ -296,7 +296,7 @@ gegeben.
 
 ## 3. `beweisbeschluss-vorbereiten`
 
-**Frühere Beschreibung:** Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel, Beweislast, Reihenfolge Beweisaufnahme. Output Beweisbeschluss-Entwurf mit Beweisthemen-Tabelle. Abgrenzung: Beweiswürdigung danach siehe beweiswürdigung-mit-richter-input; Beschluss-Bau allgemein siehe beschluss-bauen-zpo.
+**Fokus:** Beweisbeschluss nach § 359 ZPO vorbereiten: Richter bestimmt Beweisaufnahme nach muendlicher Verhandlung. Normen: § 359 ZPO (Inhalt Beweisbeschluss), § 286 ZPO (Beweislast), §§ 373 ff. ZPO (Zeugen), §§ 402 ff. ZPO (Sachverständige). Prüfraster: streitige Beweistatsachen, Beweisthema, Beweismittel, Beweislast, Reihenfolge Beweisaufnahme. Output Beweisbeschluss-Entwurf mit Beweisthemen-Tabelle. Abgrenzung: Beweiswürdigung danach siehe beweiswürdigung-mit-richter-input; Beschluss-Bau allgemein siehe beschluss-bauen-zpo.
 
 # Beweisbeschluss vorbereiten
 

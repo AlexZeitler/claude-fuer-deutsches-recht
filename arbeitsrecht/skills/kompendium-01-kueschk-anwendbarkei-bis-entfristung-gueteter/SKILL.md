@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-kueschk-anwendbarkei-bis-entfristung-gueteter
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (kueschk-anwendbarkeit-kschg-pruefen, entfristung-elektronische-signatur-vorsicht, entfristung-grundwarnung-drei-wochen-frist, entfristung-guetetermin-und-kammertermin-sprechzettel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kueschk Anwendbarkeit Kschg Pruefen, Entfristung Elektronische Signatur Vorsicht, Entfristung Grundwarnung Drei Wochen Frist, Entfristung Guetetermin Und Kammertermin Sprechzettel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - arbeitsrecht
+# Arbeitsbereich - Kueschk Anwendbarkeit Kschg Pruefen bis Entfristung Guetetermin Und Kammertermin Sprechzettel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kueschk-anwendbarkeit-kschg-pruefen` | Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit. |
 | `entfristung-elektronische-signatur-vorsicht` | Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kueschk-anwendbarkeit-kschg-pruefen`
 
-**Frühere Beschreibung:** Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit.
+**Fokus:** Prüft Anwendbarkeit des Kündigungsschutzgesetzes: Wartezeit sechs Monate nach § 1 Abs. 1 KSchG; Schwellenwert zehn Arbeitnehmer nach § 23 KSchG; Berechnung von Teilzeitkraeften und Auszubildenden; allgemeiner Kündigungsschutz bei Nichtanwendbarkeit.
 
 # KSchG-Anwendbarkeit prüfen
 
@@ -144,7 +144,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 2. `entfristung-elektronische-signatur-vorsicht`
 
-**Frühere Beschreibung:** Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG.
+**Fokus:** Elektronische Signaturen und Befristungsabreden: einfache Signatur, Scan und fortgeschrittene Signatur genuegen nicht; echte qualifizierte elektronische Signatur nach § 126a BGB kann die Schriftform ersetzen. Prüft DocuSign Adobe Sign HelloSign Zertifikate, beide Parteien, Timing, Zugang und Rechtsfolge § 16 Satz 1 TzBfG.
 
 # Vorsicht: Elektronische Signaturen bei Befristungsabreden
 
@@ -234,7 +234,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `entfristung-grundwarnung-drei-wochen-frist`
 
-**Frühere Beschreibung:** Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
+**Fokus:** Grundwarnung Entfristungsklage: § 17 TzBfG drei Wochen ab vereinbartem Vertragsende; absolute Ausschlussfrist; § 17 Satz 2 TzBfG i.V.m. § 7 KSchG Fiktion Wirksamkeit der Befristung bei Fristversaeumnis; Fristberechnung; nachtraegliche Zulassung.
 
 # Grundwarnung: Dreiwochenfrist § 17 TzBfG
 
@@ -349,7 +349,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 4. `entfristung-guetetermin-und-kammertermin-sprechzettel`
 
-**Frühere Beschreibung:** Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG.
+**Fokus:** Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG.
 
 # Gütetermin und Kammertermin: Sprechzettel Entfristungsklage
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-gc-dashboard-bis-injunction-sprint
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (gc-dashboard, handover-kanzleiwechsel, inhouse-counsel-ethics, inhouse-legal-triage, injunction-sprint) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gc Dashboard, Handover Kanzleiwechsel, Inhouse Counsel Ethics, Inhouse Legal Triage und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Gc Dashboard bis Injunction Sprint
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gc-dashboard` | General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `handover-kanzleiwechsel` | Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gc-dashboard`
 
-**Frühere Beschreibung:** General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** General Counsel Dashboard: steuert GC sieht Matter-Portfolio, Budget, Risiko, Fristen, Board-Entscheidungen und Kanzleileistung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # General Counsel Dashboard
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `handover-kanzleiwechsel`
 
-**Frühere Beschreibung:** Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Handover Kanzleiwechsel: steuert Kanzleiwechsel, Aktenherausgabe, offene Fristen, Datenraum und Rechnungsabschluss zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Handover Kanzleiwechsel
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `inhouse-counsel-ethics`
 
-**Frühere Beschreibung:** Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Inhouse Counsel Ethics: steuert Rechtsabteilung zwischen Vorstandsdruck, Fachbereich, Compliance und externer Kanzlei zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Inhouse Counsel Ethics
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `inhouse-legal-triage`
 
-**Frühere Beschreibung:** Inhouse Legal Triage: steuert Rechtsabteilung priorisiert Anfragen, externe Kanzleien, Risiko und Budget zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Inhouse Legal Triage: steuert Rechtsabteilung priorisiert Anfragen, externe Kanzleien, Risiko und Budget zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Inhouse Legal Triage
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `injunction-sprint`
 
-**Frühere Beschreibung:** Einstweiliger-Rechtsschutz Sprint: steuert 48-Stunden-Mandat mit Fakten, Eidesstattlichen Versicherungen, Anlagen und Budget steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Einstweiliger-Rechtsschutz Sprint: steuert 48-Stunden-Mandat mit Fakten, Eidesstattlichen Versicherungen, Anlagen und Budget steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Einstweiliger-Rechtsschutz Sprint
 

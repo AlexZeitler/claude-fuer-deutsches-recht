@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-corporate-kanzlei-pu-bis-corporate-kanzlei-qa
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (corporate-kanzlei-public-ma-kapitalmarkt-mar, corporate-kanzlei-qa-information-requests) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Public Ma Kapitalmarkt Mar, Corporate Kanzlei Qa Information Requests
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-public-ma-kapitalmarkt-mar` | Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis. |
 | `corporate-kanzlei-qa-information-requests` | Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-public-ma-kapitalmarkt-mar`
 
-**Frühere Beschreibung:** Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis.
+**Fokus:** Public M&A und Kapitalmarkt: Begleitet Öffentliche Angebote (WpueG), Pflichtangebote, Squeeze-Out und Delisting. Normen: WpueG, AktG §§ 327a-f, WpHG/MAR Ad-hoc, §§ 39a-c WpueG. Leitsaetze BGH und BaFin-Praxis.
 
 # Public M&A und Kapitalmarkt / MAR
 
@@ -195,7 +195,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `corporate-kanzlei-qa-information-requests`
 
-**Frühere Beschreibung:** Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules.
+**Fokus:** Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules.
 
 # Q&A und Information Requests
 

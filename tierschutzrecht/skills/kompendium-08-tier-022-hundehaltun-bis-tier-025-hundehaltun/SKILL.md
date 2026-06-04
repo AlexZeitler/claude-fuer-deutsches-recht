@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-tier-022-hundehaltun-bis-tier-025-hundehaltun
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (tier-022-hundehaltung-behoerdenantrag-schreiben, tier-023-hundehaltung-anordnung-angreifen, tier-024-hundehaltung-beweise-sichern, tier-025-hundehaltung-strafrisiko-bewerten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 022 Hundehaltung Behoerdenantrag Schreiben, Tier 023 Hundehaltung Anordnung Angreifen, Tier 024 Hundehaltung Beweise Sichern, Tier 025 Hundehaltung Strafrisiko Bewerten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - tierschutzrecht
+# Arbeitsbereich - Tier 022 Hundehaltung Behoerdenantrag Schreiben bis Tier 025 Hundehaltung Strafrisiko Bewerten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-022-hundehaltung-behoerdenantrag-schreiben` | Tierschutzrecht: Hundehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-023-hundehaltung-anordnung-angreifen` | Tierschutzrecht: Hundehaltung: Anordnung angreifen. Anordnung angreifen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-022-hundehaltung-behoerdenantrag-schreiben`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Behoerdenantrag Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-023-hundehaltung-anordnung-angreifen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Anordnung angreifen. Anordnung angreifen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Anordnung angreifen. Anordnung angreifen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Anordnung Angreifen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-024-hundehaltung-beweise-sichern`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Beweise sichern. Beweise sichern für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Beweise sichern. Beweise sichern für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Beweise Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-025-hundehaltung-strafrisiko-bewerten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Strafrisiko bewerten. Strafrisiko bewerten für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Strafrisiko bewerten. Strafrisiko bewerten für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Strafrisiko Bewerten
 

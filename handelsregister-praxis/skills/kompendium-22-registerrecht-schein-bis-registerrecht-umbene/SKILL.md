@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-registerrecht-schein-bis-registerrecht-umbene
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (registerrecht-scheinloeschung-und-nachtragsliquidation, registerrecht-se-und-europaeische-gesellschaft, registerrecht-umbenennung-rebranding) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Registerrecht Scheinloeschung Und Nachtragsliquidation, Registerrecht Se Und Europaeische Gesellschaft, Registerrecht Umbenennung Rebranding; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - handelsregister-praxis
+# Arbeitsbereich - Registerrecht Scheinloeschung Und Nachtragsliquidation, Registerrecht Se Und Europaeische Gesellschaft, Registerrecht Umbenennung Rebranding
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `registerrecht-scheinloeschung-und-nachtragsliquidation` | Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung. |
 | `registerrecht-se-und-europaeische-gesellschaft` | Prüft SE-Firma, Sitz, monistisches/dualistisches System, Leitung, Verwaltungsrat und grenzüberschreitende Bezüge. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `registerrecht-scheinloeschung-und-nachtragsliquidation`
 
-**Frühere Beschreibung:** Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung.
+**Fokus:** Prüft Restvermögen, Prozessfähigkeit, Bestellung Nachtragsliquidator und Registereintragung.
 
 # Nachtragsliquidation
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `registerrecht-se-und-europaeische-gesellschaft`
 
-**Frühere Beschreibung:** Prüft SE-Firma, Sitz, monistisches/dualistisches System, Leitung, Verwaltungsrat und grenzüberschreitende Bezüge.
+**Fokus:** Prüft SE-Firma, Sitz, monistisches/dualistisches System, Leitung, Verwaltungsrat und grenzüberschreitende Bezüge.
 
 # SE Registervollzug
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `registerrecht-umbenennung-rebranding`
 
-**Frühere Beschreibung:** Prüft Firmenänderung, Satzung, IHK, Marken-/Domainkonflikte, Bekanntmachung und Mandantenkommunikation.
+**Fokus:** Prüft Firmenänderung, Satzung, IHK, Marken-/Domainkonflikte, Bekanntmachung und Mandantenkommunikation.
 
 # Rebranding im Register
 

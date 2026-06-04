@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anspruchsformulierun-bis-dokumentations-und-b
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (anspruchsformulierungen-bei-formverstoss, buergschaft-verbraucherdarlehen-und-andere-strenge-formen, dokumentations-und-beweisarchitektur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - schriftform-und-textform-bgb
+# Arbeitsbereich - Anspruchsformulierungen Bei Formverstoss, Buergschaft Verbraucherdarlehen Und Andere Strenge Formen, Dokumentations Und Beweisarchitektur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anspruchsformulierungen-bei-formverstoss` | Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` | Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anspruchsformulierungen-bei-formverstoss`
 
-**Frühere Beschreibung:** Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anspruchsformulierungen bei formverstoss. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Anspruchsformulierungen bei Formverstoß
 
@@ -174,7 +174,7 @@ Wir bitten um Rückantwort bis zum genannten Termin.
 
 ## 2. `buergschaft-verbraucherdarlehen-und-andere-strenge-formen`
 
-**Frühere Beschreibung:** Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen).
+**Fokus:** Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmöglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-öffentliche-beglaubigung (Notarfragen).
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen
 
@@ -339,7 +339,7 @@ Befund: GELOESCHT. Skill hatte falsches Datum (07.03.2013; korrekt: 16.05.2013) 
 
 ## 3. `dokumentations-und-beweisarchitektur`
 
-**Frühere Beschreibung:** Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes.
+**Fokus:** Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste für formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbedürftiger-willenserklärung-paragraph-130-bgb (Zugangsprüfung) und elektronische-form-paragraph-126a-bgb-qes.
 
 # Dokumentations- und Beweisarchitektur
 

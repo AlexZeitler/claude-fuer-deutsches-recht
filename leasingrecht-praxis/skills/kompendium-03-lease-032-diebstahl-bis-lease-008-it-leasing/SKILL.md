@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-lease-032-diebstahl-bis-lease-008-it-leasing
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (lease-032-diebstahl-totalschaden-und-gefahrtragung, lease-002-finanzierungsleasing-oder-operating-lease-einordnen, lease-008-it-leasing-hardware-software-cloud-bundle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardware Software Cloud Bundle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - leasingrecht-praxis
+# Arbeitsbereich - Lease 032 Diebstahl Totalschaden Und Gefahrtragung, Lease 002 Finanzierungsleasing Oder Operating Lease Einordnen, Lease 008 It Leasing Hardw
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-032-diebstahl-totalschaden-und-gefahrtragung` | Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht nach Untergang, Versicherungsabwicklung, Anzeigeobliegenheiten und Sorgfaltspflichten. |
 | `lease-002-finanzierungsleasing-oder-operating-lease-einordnen` | Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-032-diebstahl-totalschaden-und-gefahrtragung`
 
-**Frühere Beschreibung:** Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht nach Untergang, Versicherungsabwicklung, Anzeigeobliegenheiten und Sorgfaltspflichten.
+**Fokus:** Diebstahl und Totalschaden im Leasing: Gefahrtragung, Ratenpflicht nach Untergang, Versicherungsabwicklung, Anzeigeobliegenheiten und Sorgfaltspflichten.
 
 # Diebstahl und Totalschaden: Gefahrtragung im Leasingrecht
 
@@ -131,7 +131,7 @@ Diebstahl und Totalschaden sind im Leasingrecht besonders heikel: Der Leasingneh
 
 ## 2. `lease-002-finanzierungsleasing-oder-operating-lease-einordnen`
 
-**Frühere Beschreibung:** Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen.
+**Fokus:** Systematische Einordnung: Finanzierungsleasing vs. Operating-Lease anhand BGH-Kriterien, BMF-Leasingerlass, steuerlicher und bilanzieller Folgen.
 
 # Finanzierungsleasing oder Operating-Lease: Systematische Einordnung
 
@@ -213,7 +213,7 @@ Beim **Leasinggeber** bleibt die Unterscheidung erhalten (IAS 17 für LG transfo
 
 ## 3. `lease-008-it-leasing-hardware-software-cloud-bundle`
 
-**Frühere Beschreibung:** IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung.
+**Fokus:** IT-Leasing: Hardware, Software und Cloud-Bundles; Abgrenzung, Lizenzrecht, Datenschutz, End-of-Life, Rückgabe und steuerliche Behandlung.
 
 # IT-Leasing: Hardware, Software und Cloud-Bundle
 

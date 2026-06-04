@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-kodifikationsalterun-bis-legalitaetsqualitaet
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (kodifikationsalterung-und-lueckendisziplin, konservative-methodenkritik-gesetzesbindung, kontrolle-abwaegungsentscheidungen, legal-realism-und-critical-legal-studies, legalitaetsqualitaet-der-auslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kodifikationsalterung Und Lueckendisziplin, Konservative Methodenkritik Gesetzesbindung, Kontrolle Abwaegungsentscheidungen, Legal Realism Und Critical Legal Studies und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Kodifikationsalterung Und Lueckendisziplin bis Legalitaetsqualitaet Der Auslegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kodifikationsalterung-und-lueckendisziplin` | Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist. |
 | `konservative-methodenkritik-gesetzesbindung` | Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kodifikationsalterung-und-lueckendisziplin`
 
-**Frühere Beschreibung:** Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist.
+**Fokus:** Behandelt die methodische Frage, wie mit gealtertem Gesetzesrecht umzugehen ist, wenn Kodifikationen auf neue gesellschaftliche, technische oder wirtschaftliche Realitäten treffen, die der Gesetzgeber nicht vorhergesehen hat. Das Skill zeigt, wann Alterungslücken methodisch durch Analogie und Rechtsfortbildung geschlossen werden dürfen und wann der Gesetzgeber zur Reform aufgefordert ist.
 
 # Kodifikationsalterung und Lückendisziplin
 
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `konservative-methodenkritik-gesetzesbindung`
 
-**Frühere Beschreibung:** Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen.
+**Fokus:** Analysiert die konservative Methodenkritik an einer als zu weitgehend empfundenen richterlichen Rechtsfortbildung und Abkehr von der Gesetzesbindung. Das Skill systematisiert die Argumente für eine strikte Rückbindung an den Normtext und den Gesetzgeberwillen, bewertet ihre methodische Tragfähigkeit und hilft, konservative Methodenpositionen präzise zu verstehen und kritisch zu prüfen.
 
 # Konservative Methodenkritik: Gesetzesbindung und Texttreue
 
@@ -209,7 +209,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `kontrolle-abwaegungsentscheidungen`
 
-**Frühere Beschreibung:** Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie die Grenze zwischen zulässiger Überprüfung und unzulässiger Ersatzabwägung verläuft.
+**Fokus:** Systematisiert die methodischen Anforderungen an die gerichtliche und behördliche Kontrolle von Abwägungsentscheidungen im Zivilrecht und öffentlichen Recht. Das Skill zeigt, wie die Kontrolldichte bei Abwägungsentscheidungen bestimmt wird, welche Fehlertypen bei Abwägungen rügbar sind und wie die Grenze zwischen zulässiger Überprüfung und unzulässiger Ersatzabwägung verläuft.
 
 # Kontrolle von Abwägungsentscheidungen
 
@@ -298,7 +298,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `legal-realism-und-critical-legal-studies`
 
-**Frühere Beschreibung:** American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Systemdenken. Recht als Politik mit anderen Mitteln. Anwendung als kritische Aussensicht auf das deutsche Zivilrecht und seine Wertungsjurisprudenz. Vergleich mit deutscher Tradition.
+**Fokus:** American Legal Realism und Critical Legal Studies (CLS). Oliver Wendell Holmes, The Path of the Law 1897. Karl Llewellyn, Jerome Frank. CLS-Bewegung: Roberto Mangabeira Unger, Duncan Kennedy. Kritik an Neutralitaet, Objektivitaet und Systemdenken. Recht als Politik mit anderen Mitteln. Anwendung als kritische Aussensicht auf das deutsche Zivilrecht und seine Wertungsjurisprudenz. Vergleich mit deutscher Tradition.
 
 # American Legal Realism und Critical Legal Studies
 
@@ -445,7 +445,7 @@ Stand: Mai 2026.
 
 ## 5. `legalitaetsqualitaet-der-auslegung`
 
-**Frühere Beschreibung:** Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent.
+**Fokus:** Prueft, ob eine zivilrechtliche Auslegung rechtsstaatlich tragfaehig bleibt: klar, allgemein, vorhersehbar, widerspruchsfrei, befolgbar, stabil und mit Normtext und Praxis kongruent.
 
 # Legalitätsqualität der Auslegung
 

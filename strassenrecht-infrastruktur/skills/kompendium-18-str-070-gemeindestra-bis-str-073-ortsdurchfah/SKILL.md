@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-str-070-gemeindestra-bis-str-073-ortsdurchfah
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (str-070-gemeindestrasse-dashboard-erstellen, str-071-ortsdurchfahrt-baulast-pruefen, str-072-ortsdurchfahrt-widmung-lesen, str-073-ortsdurchfahrt-planrecht-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 070 Gemeindestrasse Dashboard Erstellen, Str 071 Ortsdurchfahrt Baulast Pruefen, Str 072 Ortsdurchfahrt Widmung Lesen, Str 073 Ortsdurchfahrt Planrecht Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 070 Gemeindestrasse Dashboard Erstellen bis Str 073 Ortsdurchfahrt Planrecht Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-070-gemeindestrasse-dashboard-erstellen` | Straßenrecht und Infrastruktur: Gemeindestraße: Dashboard erstellen. Dashboard erstellen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-071-ortsdurchfahrt-baulast-pruefen` | Straßenrecht und Infrastruktur: Ortsdurchfahrt: Baulast prüfen. Baulast prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-070-gemeindestrasse-dashboard-erstellen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Gemeindestraße: Dashboard erstellen. Dashboard erstellen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Gemeindestraße: Dashboard erstellen. Dashboard erstellen für Gemeindestraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Gemeindestrasse Dashboard Erstellen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-071-ortsdurchfahrt-baulast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Baulast prüfen. Baulast prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Baulast prüfen. Baulast prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Baulast Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-072-ortsdurchfahrt-widmung-lesen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Widmung lesen. Widmung lesen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Widmung lesen. Widmung lesen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Widmung Lesen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-073-ortsdurchfahrt-planrecht-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Planrecht prüfen. Planrecht prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Planrecht prüfen. Planrecht prüfen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Planrecht Pruefen
 

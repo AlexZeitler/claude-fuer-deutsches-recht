@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bafoeg-bescheide-wid-bis-berufung-zulassung-b
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (bafoeg-bescheide-widerspruch, beratungshilfe-vor-widerspruch-brh, berufskrankheit-bk-meldung-bkv, berufung-lsg-144-sgg-wertgrenze-750, berufung-zulassung-besondere-bedeutung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bafoeg Bescheide Widerspruch, Beratungshilfe Vor Widerspruch Brh, Berufskrankheit Bk Meldung Bkv, Berufung Lsg 144 Sgg Wertgrenze 750 und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Bafoeg Bescheide Widerspruch bis Berufung Zulassung Besondere Bedeutung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bafoeg-bescheide-widerspruch` | BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage. |
 | `beratungshilfe-vor-widerspruch-brh` | Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bafoeg-bescheide-widerspruch`
 
-**Frühere Beschreibung:** BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage.
+**Fokus:** BAfoeG-Bescheide und Widerspruch. Skill klaert die Foerderung nach Bundesausbildungsfoerderungsgesetz Voraussetzungen Bedarfssatz Einkommen Eltern Aenderungs- und Wiederholungsantraege und das Widerspruchsverfahren. Liefert Vorlage.
 
 # Bafoeg Bescheide Widerspruch
 
@@ -106,7 +106,7 @@ BAfoeG: Bundesausbildungsfoerderungsgesetz.
 
 ## 2. `beratungshilfe-vor-widerspruch-brh`
 
-**Frühere Beschreibung:** Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil.
+**Fokus:** Beratungshilfe nach BerHG für kostenlose Anwaltsberatung VOR Widerspruch und Klage. Antrag beim Amtsgericht Berechtigungsschein 15 EUR Eigenanteil.
 
 # Beratungshilfe — Anwalt vor dem Widerspruch
 
@@ -236,7 +236,7 @@ Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktue
 
 ## 3. `berufskrankheit-bk-meldung-bkv`
 
-**Frühere Beschreibung:** Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage.
+**Fokus:** Berufskrankheit: Meldung und Anerkennung. Skill klaert die BK-Liste der Berufskrankheitenverordnung (BKV) typische BK (Larmschwerhoerigkeit Asbestose Hauterkrankungen) den Wie-Tatbestand (§ 9 Abs. 2 SGB VII) und das aufwendige Anerkennungsverfahren. Liefert Vorlage.
 
 # Berufskrankheit Bk Meldung Bkv
 
@@ -295,7 +295,7 @@ Stand: 05/2026. BerHG aktuell. Eigenanteil seit Jahren 15 EUR. Pruefen Sie aktue
 
 ## 4. `berufung-lsg-144-sgg-wertgrenze-750`
 
-**Frühere Beschreibung:** Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung.
+**Fokus:** Berufung zum LSG nach § 144 SGG. Wertgrenze 750 EUR und laufende Leistungen über 1 Jahr. Mustertext für Buerger ohne Anwalt mit Hinweis auf Anwaltsempfehlung.
 
 # Berufung zum LSG — § 144 SGG
 
@@ -460,7 +460,7 @@ Stand: 05/2026. § 144 SGG aktuell. Wertgrenze 750 EUR.
 
 ## 5. `berufung-zulassung-besondere-bedeutung`
 
-**Frühere Beschreibung:** Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt.
+**Fokus:** Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt.
 
 # Wenn die Wertgrenze nicht erreicht ist — Zulassung?
 

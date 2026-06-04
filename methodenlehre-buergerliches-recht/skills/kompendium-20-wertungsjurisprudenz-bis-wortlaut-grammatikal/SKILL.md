@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-wertungsjurisprudenz-bis-wortlaut-grammatikal
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (wertungsjurisprudenz-larenz-canaris, wortlaut-grammatikalische-auslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wertungsjurisprudenz Larenz Canaris, Wortlaut Grammatikalische Auslegung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Wertungsjurisprudenz Larenz Canaris, Wortlaut Grammatikalische Auslegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wertungsjurisprudenz-larenz-canaris` | Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB. |
 | `wortlaut-grammatikalische-auslegung` | Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wertungsjurisprudenz-larenz-canaris`
 
-**Frühere Beschreibung:** Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB.
+**Fokus:** Wertungsjurisprudenz nach Karl Larenz und Claus-Wilhelm Canaris. Methodische Hauptstroemung der deutschen Privatrechtslehre seit der Nachkriegszeit. Larenz, Methodenlehre der Rechtswissenschaft 1960 (6. Aufl. 1991). Canaris, Systemdenken und Systembegriff in der Jurisprudenz 1969. Objektive Wertungen statt subjektiver Interessen. Rueckbindung an Grundrechte und Rechtssystem. Methodisches Pruefraster und Anwendung im BGB.
 
 # Wertungsjurisprudenz nach Larenz und Canaris
 
@@ -140,7 +140,7 @@ Stand: Mai 2026.
 
 ## 2. `wortlaut-grammatikalische-auslegung`
 
-**Frühere Beschreibung:** Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung.
+**Fokus:** Grammatikalische Auslegung im deutschen Zivilrecht. Bedeutung im allgemeinen Sprachgebrauch vs. juristischer Fachsprache. Wortlaut-Grenze als aeussere Grenze jeder Auslegung (jenseits davon: Rechtsfortbildung). Umgang mit Legaldefinitionen, mehrdeutigen Begriffen, Begriffen aus Verkehrskreisen, Fremdworten und unbestimmten Rechtsbegriffen. Konkrete Beispiele aus BGB und HGB. Liefert ein praezises Pruefraster fuer den Wortlaut-Schritt jeder Auslegung.
 
 # Wortlaut / grammatikalische Auslegung
 

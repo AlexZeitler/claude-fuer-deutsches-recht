@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-vc-030-board-observe-bis-vc-033-mfn-side-lett
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (vc-030-board-observer-beirat, vc-031-founder-vesting-leaver, vc-032-drag-tag-rofr-transfer, vc-033-mfn-side-letter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 030 Board Observer Beirat, Vc 031 Founder Vesting Leaver, Vc 032 Drag Tag Rofr Transfer, Vc 033 Mfn Side Letter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - venture-capital-geber
+# Arbeitsbereich - Vc 030 Board Observer Beirat bis Vc 033 Mfn Side Letter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-030-board-observer-beirat` | Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung. |
 | `vc-031-founder-vesting-leaver` | Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-030-board-observer-beirat`
 
-**Frühere Beschreibung:** Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung.
+**Fokus:** Strukturiert Beirat, Board Observer, Informationsfluss, Vertraulichkeit, Konflikte und Protokollierung.
 
 # Board Observer und Beirat
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-031-founder-vesting-leaver`
 
-**Frühere Beschreibung:** Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit.
+**Fokus:** Prüft Founder Vesting, Good/Bad Leaver, Cliff, Acceleration, Call Rights und Vesting-Streit.
 
 # Founder Vesting und Leaver
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-032-drag-tag-rofr-transfer`
 
-**Frühere Beschreibung:** Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrechte, Transferbeschränkungen und Secondary-Optionen.
+**Fokus:** Prüft Mitverkaufspflichten, Mitveräußerungsrechte, Vorkaufsrechte, Transferbeschränkungen und Secondary-Optionen.
 
 # Drag, Tag, ROFR und Transfers
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-033-mfn-side-letter`
 
-**Frühere Beschreibung:** Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren.
+**Fokus:** Prüft Nebenabreden, MFN, Informationsrechte, Reporting, Gebühren, Sonderrechte und Konflikte zwischen Investoren.
 
 # MFN und Side Letter
 

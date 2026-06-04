@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-geldwaeschepflicht-k-bis-honorarvereinbarung
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (geldwaeschepflicht-kanzlei-praevention, geldwaeschepflicht-kanzlei-verteidigung, honorarvereinbarung-erfolgshonorar-praevention, honorarvereinbarung-erfolgshonorar-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaeschepflicht Kanzlei Praevention, Geldwaeschepflicht Kanzlei Verteidigung, Honorarvereinbarung Erfolgshonorar Praevention, Honorarvereinbarung Erfolgshonorar Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Geldwaeschepflicht Kanzlei Praevention bis Honorarvereinbarung Erfolgshonorar Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaeschepflicht-kanzlei-praevention` | Geldwäschepflichten der Kanzlei (Präventions- und Organisationspaket): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `geldwaeschepflicht-kanzlei-verteidigung` | Geldwäschepflichten der Kanzlei (Verteidigungs- und Kammerantwort): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaeschepflicht-kanzlei-praevention`
 
-**Frühere Beschreibung:** Geldwäschepflichten der Kanzlei (Präventions- und Organisationspaket): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Geldwäschepflichten der Kanzlei (Präventions- und Organisationspaket): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Geldwäschepflichten der Kanzlei: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `geldwaeschepflicht-kanzlei-verteidigung`
 
-**Frühere Beschreibung:** Geldwäschepflichten der Kanzlei (Verteidigungs- und Kammerantwort): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Geldwäschepflichten der Kanzlei (Verteidigungs- und Kammerantwort): steuert GwG-Pflichten bei Immobilie, Gesellschaftsrecht, Treuhand und Verdachtsmeldung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Geldwäschepflichten der Kanzlei: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `honorarvereinbarung-erfolgshonorar-praevention`
 
-**Frühere Beschreibung:** Honorarvereinbarung und Erfolgshonorar (Präventions- und Organisationspaket): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Honorarvereinbarung und Erfolgshonorar (Präventions- und Organisationspaket): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Honorarvereinbarung und Erfolgshonorar: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `honorarvereinbarung-erfolgshonorar-verteidigung`
 
-**Frühere Beschreibung:** Honorarvereinbarung und Erfolgshonorar (Verteidigungs- und Kammerantwort): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Honorarvereinbarung und Erfolgshonorar (Verteidigungs- und Kammerantwort): steuert Vergütungsvereinbarung, Erfolgshonorar, Transparenz, RVG-Abweichung und Rückforderung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Honorarvereinbarung und Erfolgshonorar: Verteidigungs- und Kammerantwort
 

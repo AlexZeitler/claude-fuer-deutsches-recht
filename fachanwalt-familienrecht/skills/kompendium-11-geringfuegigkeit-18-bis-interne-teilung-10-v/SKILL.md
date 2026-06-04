@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-geringfuegigkeit-18-bis-interne-teilung-10-v
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (geringfuegigkeit-18-versausglg, gesetzliche-rentenversicherung-entgeltpunkte, gewaltschutz-und-umgang-schnittstelle, grundprinzip-versorgungsausgleich-halbteilung-1-versausglg, interne-teilung-10-versausglg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geringfuegigkeit 18 Versausglg, Gesetzliche Rentenversicherung Entgeltpunkte, Gewaltschutz Und Umgang Schnittstelle, Grundprinzip Versorgungsausgleich Halbteilung 1 Versausglg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-familienrecht
+# Arbeitsbereich - Geringfuegigkeit 18 Versausglg bis Interne Teilung 10 Versausglg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geringfuegigkeit-18-versausglg` | Geringfügigkeit § 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `gesetzliche-rentenversicherung-entgeltpunkte` | Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geringfuegigkeit-18-versausglg`
 
-**Frühere Beschreibung:** Geringfügigkeit § 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Geringfügigkeit § 18 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Geringfügigkeit § 18 VersAusglG
 
@@ -84,7 +84,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `gesetzliche-rentenversicherung-entgeltpunkte`
 
-**Frühere Beschreibung:** Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Gesetzliche Rentenversicherung Entgeltpunkte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Gesetzliche Rentenversicherung Entgeltpunkte
 
@@ -138,7 +138,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `gewaltschutz-und-umgang-schnittstelle`
 
-**Frühere Beschreibung:** Gewaltschutz und Umgang: Schutzanordnung, Näherungsverbot, Umgangsausschluss, begleiteter Umgang und Beweisführung.; Normanker: GewSchG; BGB § 1684; FamFG Eilrechtsschutz; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Gewaltschutz und Umgang: Schutzanordnung, Näherungsverbot, Umgangsausschluss, begleiteter Umgang und Beweisführung.; Normanker: GewSchG; BGB § 1684; FamFG Eilrechtsschutz; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Gewaltschutz und Umgang: Schutzanordnung, Näherungsverbot, Umgangsausschluss, begleiteter Umgang und Beweisführung.
 
@@ -176,7 +176,7 @@ GewSchG; BGB § 1684; FamFG Eilrechtsschutz. Rechtsprechung wird nur mit Gericht
 
 ## 4. `grundprinzip-versorgungsausgleich-halbteilung-1-versausglg`
 
-**Frühere Beschreibung:** Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Grundprinzip Versorgungsausgleich Halbteilung § 1 VersAusglG
 
@@ -230,7 +230,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `interne-teilung-10-versausglg`
 
-**Frühere Beschreibung:** Interne Teilung § 10 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Interne Teilung § 10 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Interne Teilung § 10 VersAusglG
 

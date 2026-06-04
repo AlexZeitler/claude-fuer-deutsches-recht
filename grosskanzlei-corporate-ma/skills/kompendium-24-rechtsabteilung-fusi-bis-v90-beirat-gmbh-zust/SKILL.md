@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-rechtsabteilung-fusi-bis-v90-beirat-gmbh-zust
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 24; bündelt 5 frühere Spezialskills (rechtsabteilung-fusionskontrolle-als-closing-condition, rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz, rechtsabteilung-locked-box-leakage-aus-konzerncashpool, rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall, v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fusionskontrolle Als Closing Condition, Legal Tech Dd Mit Halluzinationsschutz, Locked Box Leakage Aus Konzerncashpool, Warranty And Indemnity Versicherung Im Claimfall und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Fusionskontrolle Als Closing Condition bis V90 Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-fusionskontrolle-als-closing-condition` | Rechtsabteilungs-Spezialskill für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz` | Rechtsabteilungs-Spezialskill für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-fusionskontrolle-als-closing-condition`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Fusionskontrolle als Closing Condition: Regulatory Timetable, Hell-or-High-Water und Long Stop Date werden verknüpft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Fusionskontrolle als Closing Condition
 
@@ -86,7 +86,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-legal-tech-dd-mit-halluzinationsschutz`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Legal Tech DD mit Halluzinationsschutz: AI-gestützte DD wird mit Quellenregister, Privilege-Log und Red-Flag-Audit kontrolliert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Legal Tech DD mit Halluzinationsschutz
 
@@ -142,7 +142,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-locked-box-leakage-aus-konzerncashpool`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Locked Box Leakage aus Konzerncashpool: Leakage wird aus Zahlungsflüssen, Cashpool, Management Fees und Related-Party-Deals herausgezogen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Locked Box Leakage aus Konzerncashpool
 
@@ -198,7 +198,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-warranty-and-indemnity-versicherung-im-claimfall`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Warranty-and-Indemnity-Versicherung im Claimfall: Notice-Fristen, Knowledge Scrape, Exclusions und Claim Preservation werden als Workflow geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Warranty-and-Indemnity-Versicherung im Claimfall
 
@@ -254,7 +254,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
 
-**Frühere Beschreibung:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+**Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 

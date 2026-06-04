@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-db-051-datenbankrech-bis-db-053-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (db-051-datenbankrecht-fuer-behoerden, db-052-datenbankrecht-und-informationsfreiheit, db-053-datenbankrechte-bei-schul-und-hochschuldaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 051 Datenbankrecht Fuer Behoerden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - datenbankrecht
+# Arbeitsbereich - Db 051 Datenbankrecht Fuer Behoerden, Db 052 Datenbankrecht Und Informationsfreiheit, Db 053 Datenbankrechte Bei Schul Und Hochschuldaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-051-datenbankrecht-fuer-behoerden` | Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche. |
 | `db-052-datenbankrecht-und-informationsfreiheit` | Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-051-datenbankrecht-fuer-behoerden`
 
-**Frühere Beschreibung:** Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche.
+**Fokus:** Datenbankrecht für Behörden und öffentliche Stellen: Behörden als Datenbankherstellerinnen nach § 87a UrhG, Verhältnis zu § 5 UrhG (amtliche Werke), IWG-Weiterverwendungspflichten, Open-Data-RL 2019/1024 und DSGVO-Anforderungen für Behördendatenbanken. Erstellt Datenbankrechte-Konzept für öffentliche Verwaltungen und bewertet Weiterverwendungsansprüche.
 
 # Datenbankrecht für Behörden — Herstellerrecht und Weiterverwendungspflichten
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-052-datenbankrecht-und-informationsfreiheit`
 
-**Frühere Beschreibung:** Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller.
+**Fokus:** Datenbankrecht im Verhältnis zu Informationsfreiheitsgesetzen (IFG): Spannungsfeld zwischen Datenbankherstellerrecht (§ 87a UrhG) und IFG-Auskunftsansprüchen, Reichweite von Datenbankschutz gegenüber IFG-Ansprüchen, Grenzen des IFG bei Betriebs- und Geschäftsgeheimnissen sowie Schutzrechten Dritter. Erstellt Abgrenzungsanalyse für Behörden und IFG-Antragsteller.
 
 # Datenbankrecht und Informationsfreiheit — IFG versus Herstellerrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-053-datenbankrechte-bei-schul-und-hochschuldaten`
 
-**Frühere Beschreibung:** Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen.
+**Fokus:** Datenbankrecht für Bildungsdatenbanken: §§ 87a-87e UrhG für Lehrmaterialdatenbanken und Hochschularchive, Schranken nach § 60a UrhG (Bildung und Unterricht), Herstellerrecht bei Lernmanagementsystemen und DSGVO-Anforderungen für Schüler- und Studierendendaten. Erstellt Lizenzkonzept und Compliance-Leitfaden für Bildungseinrichtungen.
 
 # Datenbankrechte bei Schul- und Hochschuldaten — Bildungseinrichtungen
 

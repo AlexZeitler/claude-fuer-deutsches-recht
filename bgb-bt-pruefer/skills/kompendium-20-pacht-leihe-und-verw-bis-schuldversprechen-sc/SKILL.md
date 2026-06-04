@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pacht-leihe-und-verw-bis-schuldversprechen-sc
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (pacht-leihe-und-verwahrung, schnittstelle-bgb-at-methodenlehre-agb, schuldversprechen-schuldanerkenntnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - bgb-bt-pruefer
+# Arbeitsbereich - Pacht Leihe Und Verwahrung, Schnittstelle Bgb At Methodenlehre Agb, Schuldversprechen Schuldanerkenntnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pacht-leihe-und-verwahrung` | Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung. |
 | `schnittstelle-bgb-at-methodenlehre-agb` | Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pacht-leihe-und-verwahrung`
 
-**Frühere Beschreibung:** Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung.
+**Fokus:** Pacht §§ 581 ff., Leihe §§ 598 ff. und Verwahrung §§ 688 ff. BGB: Pflichten, Haftung und Abgrenzung.
 
 # Pacht, Leihe und Verwahrung BGB
 
@@ -119,7 +119,7 @@ Pachtverhältnisse (§§ 581 ff. BGB), Leihe (§§ 598 ff. BGB) und Verwahrung (
 
 ## 2. `schnittstelle-bgb-at-methodenlehre-agb`
 
-**Frühere Beschreibung:** Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz.
+**Fokus:** Schnittstelle BGB-AT, Methodenlehre und AGB-Recht §§ 305-310 BGB: Einbeziehung, Inhaltskontrolle, Transparenz.
 
 # Schnittstelle BGB-AT, Methodenlehre und AGB §§ 305-310 BGB
 
@@ -212,7 +212,7 @@ AGB-Recht nach §§ 305-310 BGB mit BGB-AT-Methodenlehre verknüpfen: Einbeziehu
 
 ## 3. `schuldversprechen-schuldanerkenntnis`
 
-**Frühere Beschreibung:** Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Form, Wirkung und Abgrenzung.
+**Fokus:** Schuldversprechen § 780 BGB und Schuldanerkenntnis § 781 BGB: Form, Wirkung und Abgrenzung.
 
 # Schuldversprechen und Schuldanerkenntnis §§ 780 und 781 BGB
 

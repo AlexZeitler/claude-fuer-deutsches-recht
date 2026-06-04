@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-versicherung-lehnt-a-bis-zahnarzt-kostenvoran
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (versicherung-lehnt-ab, vorladung-polizei-zeuge-beschuldigter, zahnarzt-kostenvoranschlag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Versicherung Lehnt Ab, Vorladung Polizei Zeuge Beschuldigter, Zahnarzt Kostenvoranschlag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versicherung-lehnt-ab` | Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `vorladung-polizei-zeuge-beschuldigter` | Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versicherung-lehnt-ab`
 
-**Frühere Beschreibung:** Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Versicherung lehnt ab: führt Laien durch Ablehnung von Hausrat, Haftpflicht, Rechtsschutz oder Berufsunfähigkeit im Alltag. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Versicherung lehnt ab
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `vorladung-polizei-zeuge-beschuldigter`
 
-**Frühere Beschreibung:** Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Vorladung Polizei: Zeuge oder Beschuldigter: führt Laien durch Polizeipost verstehen, Rollenwechselrisiko, Aussagepflicht und sichere Reaktion. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Vorladung Polizei: Zeuge oder Beschuldigter
 
@@ -135,7 +135,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `zahnarzt-kostenvoranschlag`
 
-**Frühere Beschreibung:** Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Zahnarzt Kostenvoranschlag: führt Laien durch Heil- und Kostenplan, Mehrkosten, Material, Abbruch und Erstattung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Zahnarzt Kostenvoranschlag
 

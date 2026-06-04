@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-kegelclub-und-freize-bis-kulturverein
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (kegelclub-und-freizeitverein, konflikt-im-verein, kulturverein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Kegelclub Und Freizeitverein, Konflikt Im Verein, Kulturverein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kegelclub-und-freizeitverein` | Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung. |
 | `konflikt-im-verein` | Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kegelclub-und-freizeitverein`
 
-**Frühere Beschreibung:** Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung.
+**Fokus:** Minimalregeln für kleine Freizeitvereine: Kasse, Beiträge, Protokoll, Haftung, Austritt und Streitvermeidung.
 
 # Kegelclub/Freizeitverein
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `konflikt-im-verein`
 
-**Frühere Beschreibung:** Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich.
+**Fokus:** Moderiert Streit: Vorstand vs. Mitglieder, Akteneinsicht, Sonderversammlung, Abwahl, Ausschluss und Vergleich.
 
 # Konflikt im Verein
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `kulturverein`
 
-**Frühere Beschreibung:** Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit.
+**Fokus:** Spezialfragen Kultur: Veranstaltungen, Künstlerverträge, GEMA, Fördermittel, Spenden, Gemeinnützigkeit.
 
 # Kulturverein
 

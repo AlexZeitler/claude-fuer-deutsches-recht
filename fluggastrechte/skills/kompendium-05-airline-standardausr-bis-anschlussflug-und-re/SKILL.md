@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-airline-standardausr-bis-anschlussflug-und-re
-description: "fluggastrechte: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (airline-standardausreden-pruefen, annullierung-oder-verspaetung-einordnen, anschlussflug-und-reiseplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fluggastrechte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Airline Standardausreden Pruefen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fluggastrechte
+# Arbeitsbereich - Airline Standardausreden Pruefen, Annullierung Oder Verspaetung Einordnen, Anschlussflug Und Reiseplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `airline-standardausreden-pruefen` | Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage. |
 | `annullierung-oder-verspaetung-einordnen` | Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `airline-standardausreden-pruefen`
 
-**Frühere Beschreibung:** Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage.
+**Fokus:** Katalog typischer Standardausreden der Fluggesellschaften mit Gegenargumenten und Pinpoint auf EuGH-Rechtsprechung. Behandelt technischer Defekt wilder Streik Streik der Gewerkschaft Crew-Engpass verdeckter Konstruktionsfehler vorheriger Flugausfall Wetter Slot-Verschiebung Vogelschlag Versaeumung der Meldefrist Akzeptanz der Umbuchung Voucher als Erfuellung Zuständigkeitseinrede. Für Reaktion auf Airline-Ablehnungsschreiben in Skill `forderungsschreiben-mahnung` oder Klage.
 
 # Airline-Standardausreden — Katalog und Gegenargumente
 
@@ -163,7 +163,7 @@ Diesen Katalog vor jedem Mahnungsschreiben durchgehen — Standardausreden mit P
 
 ## 2. `annullierung-oder-verspaetung-einordnen`
 
-**Frühere Beschreibung:** Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu annullierung oder verspaetung einordnen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Annullierung Verspätung oder Nichtbeförderung einordnen
 
@@ -263,7 +263,7 @@ Wenn der **erste Flug innerhalb der EU mit derselben Buchung** verspätet ist un
 
 ## 3. `anschlussflug-und-reiseplan`
 
-**Frühere Beschreibung:** Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anschlussflug und reiseplan. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Anschlussflug und Reiseplan
 

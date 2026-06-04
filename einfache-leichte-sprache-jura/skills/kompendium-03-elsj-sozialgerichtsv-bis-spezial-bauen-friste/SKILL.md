@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-elsj-sozialgerichtsv-bis-spezial-bauen-friste
-description: "einfache-leichte-sprache-jura: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (elsj-sozialgerichtsverfahren, elsj-strafverfahren-beschuldigter, spezial-bauen-fristennotiz-und-naechster-schritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einfache-leichte-sprache-jura: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - einfache-leichte-sprache-jura
+# Arbeitsbereich - Elsj Sozialgerichtsverfahren, Elsj Strafverfahren Beschuldigter, Bauen Fristennotiz Und Naechster Schritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elsj-sozialgerichtsverfahren` | Sozialgerichtsverfahren in Einfacher Sprache: Klageeinreichung Niederschrift § 90 SGG, kein Anwaltszwang, ehrenamtliche Richter. Vorlage Mandanteninformation 'Was passiert vor dem Sozialgericht'. |
 | `elsj-strafverfahren-beschuldigter` | Strafverfahren in Einfacher Sprache fuer Beschuldigte: Belehrung § 136 StPO, Rechte des Beschuldigten, Akteneinsicht, Wahlverteidiger/Pflichtverteidiger. Pflichtbelehrung in einfacher Sprache (BVerfG 2 BvR 1568/19). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elsj-sozialgerichtsverfahren`
 
-**Frühere Beschreibung:** Sozialgerichtsverfahren in Einfacher Sprache: Klageeinreichung Niederschrift § 90 SGG, kein Anwaltszwang, ehrenamtliche Richter. Vorlage Mandanteninformation 'Was passiert vor dem Sozialgericht'.
+**Fokus:** Sozialgerichtsverfahren in Einfacher Sprache: Klageeinreichung Niederschrift § 90 SGG, kein Anwaltszwang, ehrenamtliche Richter. Vorlage Mandanteninformation 'Was passiert vor dem Sozialgericht'.
 
 # ELS-J Sozialgerichtsverfahren
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `einfache-leichte-sprache-jura`. Er ergaenzt die
 
 ## 2. `elsj-strafverfahren-beschuldigter`
 
-**Frühere Beschreibung:** Strafverfahren in Einfacher Sprache fuer Beschuldigte: Belehrung § 136 StPO, Rechte des Beschuldigten, Akteneinsicht, Wahlverteidiger/Pflichtverteidiger. Pflichtbelehrung in einfacher Sprache (BVerfG 2 BvR 1568/19).
+**Fokus:** Strafverfahren in Einfacher Sprache fuer Beschuldigte: Belehrung § 136 StPO, Rechte des Beschuldigten, Akteneinsicht, Wahlverteidiger/Pflichtverteidiger. Pflichtbelehrung in einfacher Sprache (BVerfG 2 BvR 1568/19).
 
 # ELS-J im Strafverfahren
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `einfache-leichte-sprache-jura`. Er ergaenzt die
 
 ## 3. `spezial-bauen-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Bauen: Fristennotiz und nächster Schritt im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bauen: Fristennotiz und nächster Schritt im Plugin einfache leichte sprache jura; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bauen: Fristennotiz und nächster Schritt
 

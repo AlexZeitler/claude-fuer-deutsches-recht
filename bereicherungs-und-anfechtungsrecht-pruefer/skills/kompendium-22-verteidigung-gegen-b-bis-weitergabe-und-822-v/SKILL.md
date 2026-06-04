@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-verteidigung-gegen-b-bis-weitergabe-und-822-v
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (verteidigung-gegen-bereicherungsklage, verwendungen-auf-das-erlangte, weichenstellung-bereicherung-oder-anfechtung, weitergabe-und-822-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verteidigung Gegen Bereicherungsklage, Verwendungen Auf Das Erlangte, Weichenstellung Bereicherung Oder Anfechtung, Weitergabe Und 822 Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Verteidigung Gegen Bereicherungsklage bis Weitergabe Und 822 Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verteidigung-gegen-bereicherungsklage` | Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst. |
 | `verwendungen-auf-das-erlangte` | Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verteidigung-gegen-bereicherungsklage`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst.
+**Fokus:** Nutze diesen Skill, wenn eine Bereicherungsklage systematisch abgewehrt werden soll. Normen: §§ 814 und 815 BGB; § 817 BGB; § 818 Abs. 3 BGB; § 819 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Verteidigungsschriftsatz-Bausteine mit Einreden-Reihenfolge. Abgrenzung: nicht aktive Bereicherungsklage selbst.
 
 # Verteidigung gegen Bereicherungsklage
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `verwendungen-auf-das-erlangte`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug.
+**Fokus:** Nutze diesen Skill, wenn Aufwendungen auf den erhaltenen Gegenstand als Abzug oder Gegenrecht auftauchen. Normen: §§ 994 bis 1003 BGB; § 818 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Verwendungs-Berechnung mit notwendigen, nützlichen und Luxusverwendungen. Abgrenzung: nicht EBV-Verwendungsersatz §§ 994 ff. BGB ohne Bereicherungsbezug.
 
 # Verwendungen auf das Erlangte
 
@@ -196,7 +196,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `weichenstellung-bereicherung-oder-anfechtung`
 
-**Frühere Beschreibung:** Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeröffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsgutachter.
+**Fokus:** Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeröffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsgutachter.
 
 # Weichenstellung: Bereicherung oder Anfechtung?
 
@@ -303,7 +303,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `weitergabe-und-822-verteidigung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB.
+**Fokus:** Nutze diesen Skill, wenn ein erlangter Vorteil unentgeltlich an Dritte weitergegeben wurde. Normen: § 822 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Prüfergebnis § 822 BGB mit Subsidiaritätsanalyse und Verteidigungsbausteinen. Abgrenzung: nicht Direktanspruch gegen Erstempfänger § 812 BGB.
 
 # Weitergabe und § 822 BGB Verteidigung
 

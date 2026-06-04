@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-spezial-eingangskorb-bis-spezial-rechtecheck
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (spezial-eingangskorb-risikoampel-und-gegenargumente, spezial-heftplanung-mehrparteien-konflikt-und-interessen, spezial-juristische-tatbestand-beweis-und-belege, spezial-manuskript-behoerden-gericht-und-registerweg, spezial-rechtecheck-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eingangskorb Risikoampel Und Gegenargumente, Heftplanung Mehrparteien Konflikt Und Interessen, Juristische Tatbestand Beweis Und Belege, Manuskript Behoerden Gericht Und Registerweg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - verlagsredaktion
+# Arbeitsbereich - Eingangskorb Risikoampel Und Gegenargumente bis Rechtecheck Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-eingangskorb-risikoampel-und-gegenargumente` | Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-heftplanung-mehrparteien-konflikt-und-interessen` | Heftplanung: Mehrparteienkonflikt und Interessenmatrix im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-eingangskorb-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Eingangskorb: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-heftplanung-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Heftplanung: Mehrparteienkonflikt und Interessenmatrix im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Heftplanung: Mehrparteienkonflikt und Interessenmatrix im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Heftplanung: Mehrparteienkonflikt und Interessenmatrix
 
@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-juristische-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Juristische: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -153,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-manuskript-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Manuskript: Behörden-, Gerichts- oder Registerweg im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Manuskript: Behörden-, Gerichts- oder Registerweg im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Manuskript: Behörden-, Gerichts- oder Registerweg
 
@@ -194,7 +194,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-rechtecheck-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Rechtecheck: Verhandlung, Vergleich und Eskalation im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtecheck: Verhandlung, Vergleich und Eskalation im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechtecheck: Verhandlung, Vergleich und Eskalation
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-strafz-strafzumessun-bis-tagessatzhoehe-40-ii
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (strafz-strafzumessungstatsachen-bauleiter, strafzumessungs-tatsachen-46-ii-stgb, tagessatzhoehe-40-ii-stgb-nettotagesverdienst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - strafzumessung
+# Arbeitsbereich - Strafz Strafzumessungstatsachen Bauleiter, Strafzumessungs Tatsachen 46 Ii Stgb, Tagessatzhoehe 40 Ii Stgb Nettotagesverdienst
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafz-strafzumessungstatsachen-bauleiter` | Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster fuer Plaedoyer und Urteil. |
 | `strafzumessungs-tatsachen-46-ii-stgb` | Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafz-strafzumessungstatsachen-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster fuer Plaedoyer und Urteil.
+**Fokus:** Bauleiter Strafzumessungstatsachen § 46 StGB: Schwere der Tat, Schuld, Vorleben, Nachtatverhalten. Pruefraster fuer Plaedoyer und Urteil.
 
 # StrafZ: Tatsachen Bauleiter
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `strafzumessung`. Er ergaenzt die uebrigen Skill
 
 ## 2. `strafzumessungs-tatsachen-46-ii-stgb`
 
-**Frühere Beschreibung:** Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege.
+**Fokus:** Katalog der Strafzumessungstatsachen § 46 Abs. 2 StGB. Beweggruende und Ziele (auch menschenverachtende), Gesinnung und Wille, Mass der Pflichtwidrigkeit, Art der Ausfuehrung und verschuldete Auswirkungen, Vorleben, persoenliche und wirtschaftliche Verhaeltnisse, Nachtatverhalten und Wiedergutmachungsbemuehen. Anwendung in Plaedoyer, Urteilsbegruendung und Strafzumessungsruege.
 
 # Strafzumessungstatsachen — § 46 Abs. 2 StGB
 
@@ -200,7 +200,7 @@ Jede der genannten Tatsachen ist nur insoweit beachtlich, als sie die **Schuld**
 
 ## 3. `tagessatzhoehe-40-ii-stgb-nettotagesverdienst`
 
-**Frühere Beschreibung:** Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB.
+**Fokus:** Bestimmung der Tagessatzhoehe nach § 40 Abs. 2 StGB. Hoehe richtet sich nach Nettoeinkommen geteilt durch 30; Mindesthoehe 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Sonderfaelle Arbeitslose, Buergergeld-Empfaenger, Studierende, Selbststaendige, Unterhaltspflichtige, Rentner. Antrag auf Ratenzahlung § 42 StGB, Ersatzfreiheitsstrafe § 43 StGB.
 
 # Tagessatzhoehe — § 40 Abs. 2 StGB
 

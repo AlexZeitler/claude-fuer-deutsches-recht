@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-umv-010-naturschutz-bis-umv-013-klimaschutz
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (umv-010-naturschutz-und-ffh, umv-011-artenschutz-fachbeitrag-lesen, umv-012-wasserrecht-und-wrrl, umv-013-klimaschutz-und-abwaegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 010 Naturschutz Und Ffh, Umv 011 Artenschutz Fachbeitrag Lesen, Umv 012 Wasserrecht Und Wrrl, Umv 013 Klimaschutz Und Abwaegung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 010 Naturschutz Und Ffh bis Umv 013 Klimaschutz Und Abwaegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-010-naturschutz-und-ffh` | Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `umv-011-artenschutz-fachbeitrag-lesen` | Umweltschutzverband Verbandsklage: Artenschutz-Fachbeitrag lesen. Artenschutz-Fachbeitrag lesen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-010-naturschutz-und-ffh`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Naturschutz und FFH. Naturschutz und FFH im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Naturschutz Und Ffh
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-011-artenschutz-fachbeitrag-lesen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Artenschutz-Fachbeitrag lesen. Artenschutz-Fachbeitrag lesen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Artenschutz-Fachbeitrag lesen. Artenschutz-Fachbeitrag lesen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Artenschutz Fachbeitrag Lesen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-012-wasserrecht-und-wrrl`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserrecht und WRRL. Wasserrecht und WRRL im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Wasserrecht Und Wrrl
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-013-klimaschutz-und-abwaegung`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klimaschutz und Abwägung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Klimaschutz und Abwägung. Klimaschutz und Abwägung im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Klimaschutz Und Abwaegung
 

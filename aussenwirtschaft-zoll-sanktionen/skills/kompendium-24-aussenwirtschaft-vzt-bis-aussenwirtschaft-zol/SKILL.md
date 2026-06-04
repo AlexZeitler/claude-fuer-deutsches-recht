@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-aussenwirtschaft-vzt-bis-aussenwirtschaft-zol
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (aussenwirtschaft-vzta-antrag-qualitaetsgate, aussenwirtschaft-warennummer-hs-cn-taric-einreihung, aussenwirtschaft-wto-handelspolitik, aussenwirtschaft-zollpruefung-aussenpruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Vzta Antrag Qualitaetsgate, Aussenwirtschaft Warennummer Hs Cn Taric Einreihung, Aussenwirtschaft Wto Handelspolitik, Aussenwirtschaft Zollpruefung Aussenpruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Vzta Antrag Qualitaetsgate bis Aussenwirtschaft Zollpruefung Aussenpruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-vzta-antrag-qualitaetsgate` | Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung. |
 | `aussenwirtschaft-warennummer-hs-cn-taric-einreihung` | Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomenklatur (KN) und TARIC: Anwendung der Allgemeinen Vorschriften (AV 1-6) ErlBem und Einreihungsverordnungen. Typische Problemfelder wie Sets Teile Zubehoer Konfektionierung und Mischprodukte. Output: Einreihungsvermerk mit Normbegründung und TARIC-Abfrage-Dokumentation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-vzta-antrag-qualitaetsgate`
 
-**Frühere Beschreibung:** Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung.
+**Fokus:** Verbindliche Zolltarifauskunft (vZTA) nach UZK Art. 33 ff.: Antragsqualitaet Warenbezeichnung technische Unterlagen Muster und Lieferfrist. Behoerdliche Bindungswirkung und Rechtschutz gegen ablehnenden Bescheid oder abweichende Einreihung. Qualitaetsgate vor Antragsstellung. Output: vZTA-Antragsmappe mit Sachverhaltsbeschreibung und Einreihungsbegruendung.
 
 # vZTA-Antrag: Qualitaetsgate fuer verbindliche Zolltarifauskuenfte
 
@@ -115,7 +115,7 @@ vZTA-Antragsmappe mit technischer Warenbe schreibung, Einreihungsbegruendung, Mu
 
 ## 2. `aussenwirtschaft-warennummer-hs-cn-taric-einreihung`
 
-**Frühere Beschreibung:** Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomenklatur (KN) und TARIC: Anwendung der Allgemeinen Vorschriften (AV 1-6) ErlBem und Einreihungsverordnungen. Typische Problemfelder wie Sets Teile Zubehoer Konfektionierung und Mischprodukte. Output: Einreihungsvermerk mit Normbegründung und TARIC-Abfrage-Dokumentation.
+**Fokus:** Wareneinreihung nach Harmonisiertem System (HS) Kombinierter Nomenklatur (KN) und TARIC: Anwendung der Allgemeinen Vorschriften (AV 1-6) ErlBem und Einreihungsverordnungen. Typische Problemfelder wie Sets Teile Zubehoer Konfektionierung und Mischprodukte. Output: Einreihungsvermerk mit Normbegründung und TARIC-Abfrage-Dokumentation.
 
 # Wareneinreihung HS/KN/TARIC: Allgemeine Vorschriften und Problemfelder
 
@@ -202,7 +202,7 @@ Einreihungsvermerk mit AV-Begruendung, TARIC-Abfrage-Dokumentation mit Datum, Em
 
 ## 3. `aussenwirtschaft-wto-handelspolitik`
 
-**Frühere Beschreibung:** WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung fuer Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar.
+**Fokus:** WTO-Handelspolitik und Schutzmassnahmenrecht als Kontext fuer Importzuschlaege Antidumping und Ausgleichszoelle: GATT Art. VI XIX XX WTO-ADA (Antidumping-Abkommen) SCM-Abkommen und SG-Abkommen. Bedeutung fuer Unternehmen bei EU-Massnahmen und Streitbeilegungsverfahren. Output: WTO-Kontext-Vermerk und handelspolitisches Risikoradar.
 
 # WTO-Handelspolitik: GATT Schutzmassnahmen und EU-Handelsverteidigung
 
@@ -289,7 +289,7 @@ WTO-Kontext-Vermerk mit Massnahmen-Analyse, Verfahrensrechte-Checkliste und hand
 
 ## 4. `aussenwirtschaft-zollpruefung-aussenpruefung`
 
-**Frühere Beschreibung:** Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvorbereitungs-Checkliste und Risikobewertungsmatrix.
+**Fokus:** Zollaußenpruefung nach §§ 196 ff. AO und UZK Art. 48: Vorbereitung auf Pruefungsankuendigung Prueferempfang Dokumentenvorlage und Nacherhebungsrisiko. Unterschied Zollaußenpruefung und BAFA-Pruefung. Typische Pruefungsschwerpunkte Zollwert Praeferenz und Verfahrens-Compliance. Output: Pruefungsvorbereitungs-Checkliste und Risikobewertungsmatrix.
 
 # Zollaußenpruefung: Vorbereitung Prueferempfang und Risikobegrenzung
 

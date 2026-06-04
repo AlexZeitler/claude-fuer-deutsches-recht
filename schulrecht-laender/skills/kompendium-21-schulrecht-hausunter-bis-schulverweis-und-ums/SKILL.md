@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-schulrecht-hausunter-bis-schulverweis-und-ums
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (schulrecht-hausunterricht-schulverweigerung, schulsozialarbeit-jugendamt, schultraeger-gebaeude-und-ausstattung, schulverweis-und-umschulung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulrecht Hausunterricht Schulverweigerung, Schulsozialarbeit Jugendamt, Schultraeger Gebaeude Und Ausstattung, Schulverweis Und Umschulung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - schulrecht-laender
+# Arbeitsbereich - Schulrecht Hausunterricht Schulverweigerung bis Schulverweis Und Umschulung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schulrecht-hausunterricht-schulverweigerung` | Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation. |
 | `schulsozialarbeit-jugendamt` | Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulrecht-hausunterricht-schulverweigerung`
 
-**Frühere Beschreibung:** Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation.
+**Fokus:** Prüft häuslichen Unterricht, Ruhen der Schulpflicht, Schulverweigerung und behördliche Eskalation.
 
 # Hausunterricht, Ruhen der Schulpflicht und Schulverweigerung
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `schulsozialarbeit-jugendamt`
 
-**Frühere Beschreibung:** Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl.
+**Fokus:** Prüft Schnittstelle Schulsozialarbeit, Jugendamt und Kindeswohl.
 
 # Schulsozialarbeit Jugendamt
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Jugendamt-Routing. Am Ende immer drei Zeilen: **Frist**, **fe
 
 ## 3. `schultraeger-gebaeude-und-ausstattung`
 
-**Frühere Beschreibung:** Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit.
+**Fokus:** Prüft Schulträgerpflichten für Gebäude, Ausstattung und Barrierefreiheit.
 
 # Schultraeger Gebaeude Und Ausstattung
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Schulträger-Memo. Am Ende immer drei Zeilen: **Frist**, **fe
 
 ## 4. `schulverweis-und-umschulung`
 
-**Frühere Beschreibung:** Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion.
+**Fokus:** Prüft Schulverweis, Umsetzung und Schulwechsel als Sanktion.
 
 # Schulverweis Und Umschulung
 

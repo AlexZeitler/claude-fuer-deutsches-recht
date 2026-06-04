@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-ins-003-ad-hoc-art17-bis-ins-005-insiderliste
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (ins-003-ad-hoc-art17, ins-005-insiderliste-art18) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - insiderrecht-compliance
+# Arbeitsbereich - Ins 003 Ad Hoc Art17, Ins 005 Insiderliste Art18
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-003-ad-hoc-art17` | Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation. |
 | `ins-005-insiderliste-art18` | Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-003-ad-hoc-art17`
 
-**Frühere Beschreibung:** Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation.
+**Fokus:** Fuehrt durch die vollstaendige Ad-hoc-Pflicht nach Art. 17 MAR: Zeitpunkt, Inhalt, Verbreitung, Website, Sprachfassung, BaFin-Meldung und Dokumentation.
 
 # Ad-hoc-Publizität nach Art. 17 MAR
 
@@ -125,7 +125,7 @@ curia.europa.eu, bgh.de, dejure.org, openjur.de.
 
 ## 2. `ins-005-insiderliste-art18`
 
-**Frühere Beschreibung:** Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung.
+**Fokus:** Erstellt und pflegt Insiderlisten nach Art. 18 MAR inklusive Format, Inhalt, Aktualisierungspflichten und BaFin-Uebermittlung.
 
 # Insiderliste nach Art. 18 MAR
 

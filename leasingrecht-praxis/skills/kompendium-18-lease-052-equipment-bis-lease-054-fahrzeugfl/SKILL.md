@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-lease-052-equipment-bis-lease-054-fahrzeugfl
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (lease-052-equipment-finance-term-sheet, lease-053-cnc-maschine-abnahme-maengel, lease-054-fahrzeugflotte-telematik) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Maengel, Lease 054 Fahrzeugflotte Telematik; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - leasingrecht-praxis
+# Arbeitsbereich - Lease 052 Equipment Finance Term Sheet, Lease 053 Cnc Maschine Abnahme Maengel, Lease 054 Fahrzeugflotte Telematik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-052-equipment-finance-term-sheet` | Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss. |
 | `lease-053-cnc-maschine-abnahme-maengel` | CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-052-equipment-finance-term-sheet`
 
-**Frühere Beschreibung:** Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss.
+**Fokus:** Equipment Finance Term Sheet: Strukturierung, Kernparameter, Verhandlungspunkte, Due-Diligence-Vorbedingungen und Abschluss.
 
 # Equipment Finance Term Sheet
 
@@ -145,7 +145,7 @@ Vor Auszahlung/Aktivierung:
 
 ## 2. `lease-053-cnc-maschine-abnahme-maengel`
 
-**Frühere Beschreibung:** CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe.
+**Fokus:** CNC-Maschine Leasing: Technische Abnahme, Mängelrecht, Präzisionsanforderungen, Wartungsklauseln und Rückgabe.
 
 # CNC-Maschinen-Leasing: Abnahme, Mängel und Wartung
 
@@ -250,7 +250,7 @@ CNC-Maschinen (Computer Numerical Control) sind hochpräzise Fertigungsanlagen m
 
 ## 3. `lease-054-fahrzeugflotte-telematik`
 
-**Frühere Beschreibung:** Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung.
+**Fokus:** Fahrzeugflotte und Telematik: Datenstrategie, Telematik-Vertragsklauseln, Datenschutz-Compliance, Betriebsvereinbarung und Flottenauswertung.
 
 # Fahrzeugflotte und Telematik: Datenstrategie und Compliance
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-anlagen-haftpflicht-bis-anlagen-prozessual-p
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (anlagen-haftpflicht-versicherer, anlagen-konvention-k-b-erlaeutert, anlagen-konvention-mandantenfreundlich, anlagen-prozessual-pruefung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagen Haftpflicht Versicherer, Anlagen Konvention K B Erlaeutert, Anlagen Konvention Mandantenfreundlich, Anlagen Prozessual Pruefung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Anlagen Haftpflicht Versicherer bis Anlagen Prozessual Pruefung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagen-haftpflicht-versicherer` | Anlagen-Pflicht gegenueber Haftpflichtversicherer (Berufshaftpflicht, Hausratversicherung, KFZ): welche Anlagen muessen mit Schadenanzeige eingereicht werden, was der Versicherer im Regulierungsverfahren erwartet. Pruefraster aus § 31 VVG (Auskuenfte). Beispiele Personenschaden, Sachschaden, Vermoegensschaden. |
 | `anlagen-konvention-k-b-erlaeutert` | Konvention erklaert und korrekt eingesetzt: K-Anlagen Klaeger, B-Anlagen Beklagter, ZN-Anlagen Zeugen, GA-Anlagen Gutachten, AS-Anlagen Anlagenband. Wann Klein-/Grosschreibung, wann Bindestrich. Wechselt sauber, wenn der Mandant im Vorprozess Beklagter war und in der Berufung Klaeger wird. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagen-haftpflicht-versicherer`
 
-**Frühere Beschreibung:** Anlagen-Pflicht gegenueber Haftpflichtversicherer (Berufshaftpflicht, Hausratversicherung, KFZ): welche Anlagen muessen mit Schadenanzeige eingereicht werden, was der Versicherer im Regulierungsverfahren erwartet. Pruefraster aus § 31 VVG (Auskuenfte). Beispiele Personenschaden, Sachschaden, Vermoegensschaden.
+**Fokus:** Anlagen-Pflicht gegenueber Haftpflichtversicherer (Berufshaftpflicht, Hausratversicherung, KFZ): welche Anlagen muessen mit Schadenanzeige eingereicht werden, was der Versicherer im Regulierungsverfahren erwartet. Pruefraster aus § 31 VVG (Auskuenfte). Beispiele Personenschaden, Sachschaden, Vermoegensschaden.
 
 # Anlagen fuer Haftpflichtversicherer
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 2. `anlagen-konvention-k-b-erlaeutert`
 
-**Frühere Beschreibung:** Konvention erklaert und korrekt eingesetzt: K-Anlagen Klaeger, B-Anlagen Beklagter, ZN-Anlagen Zeugen, GA-Anlagen Gutachten, AS-Anlagen Anlagenband. Wann Klein-/Grosschreibung, wann Bindestrich. Wechselt sauber, wenn der Mandant im Vorprozess Beklagter war und in der Berufung Klaeger wird.
+**Fokus:** Konvention erklaert und korrekt eingesetzt: K-Anlagen Klaeger, B-Anlagen Beklagter, ZN-Anlagen Zeugen, GA-Anlagen Gutachten, AS-Anlagen Anlagenband. Wann Klein-/Grosschreibung, wann Bindestrich. Wechselt sauber, wenn der Mandant im Vorprozess Beklagter war und in der Berufung Klaeger wird.
 
 # K/B-Konvention erlaeutert
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 3. `anlagen-konvention-mandantenfreundlich`
 
-**Frühere Beschreibung:** Anlagen-Konvention mandantenfreundlich: durchlaufende Nummerierung K1 / K2 / K3 ff. fuer Klaegerseite, B1 / B2 / B3 ff. fuer Beklagtenseite, Anlagenbaender, Inhaltsverzeichnis, beA-konforme PDF-Bezeichnung. Mustertext fuer Anlagenverzeichnis.
+**Fokus:** Anlagen-Konvention mandantenfreundlich: durchlaufende Nummerierung K1 / K2 / K3 ff. fuer Klaegerseite, B1 / B2 / B3 ff. fuer Beklagtenseite, Anlagenbaender, Inhaltsverzeichnis, beA-konforme PDF-Bezeichnung. Mustertext fuer Anlagenverzeichnis.
 
 # Anlagen: Konvention mandantenfreundlich
 
@@ -186,7 +186,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 4. `anlagen-prozessual-pruefung-spezial`
 
-**Frühere Beschreibung:** Spezialfall prozessuale Anlagenpruefung: keine Substantiierung durch blossen Anlagenverweis (BGH-Linie), eigener Vortrag noch im Schriftsatz erforderlich, Tatsachenkern aus Anlage in den Text uebernehmen. Pruefraster und Korrektur-Bausteine.
+**Fokus:** Spezialfall prozessuale Anlagenpruefung: keine Substantiierung durch blossen Anlagenverweis (BGH-Linie), eigener Vortrag noch im Schriftsatz erforderlich, Tatsachenkern aus Anlage in den Text uebernehmen. Pruefraster und Korrektur-Bausteine.
 
 # Anlagen: Substantiierung BGH
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-workflow-ki-vo-integ-bis-workflow-normen-und
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 03; bündelt 6 frühere Spezialskills (workflow-ki-vo-integrationscheck, workflow-laienmodus-robotikrecht, workflow-litigation-vorbereitung, workflow-marktueberwachung-dialog, workflow-mdr-und-gesundheitsrobotik und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Vo Integrationscheck, Laienmodus Robotikrecht, Litigation Vorbereitung, Marktueberwachung Dialog und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - robotik-recht
+# Arbeitsbereich - Ki Vo Integrationscheck bis Normen Und Standardrecherche
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-ki-vo-integrationscheck` | Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen. |
 | `workflow-laienmodus-robotikrecht` | Erklärt Robotik-Recht in verständlicher Sprache für Gründer, Ingenieurinnen, Betreiber, Versicherer und Behörden, ohne juristische Genauigkeit zu verlieren. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-ki-vo-integrationscheck`
 
-**Frühere Beschreibung:** Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen.
+**Fokus:** Prüft integrierte KI-Systeme, Sicherheitskomponenten, Anhang III, Hochrisiko-Nähe, Anbieter-/Betreiberpflichten und Zweckänderungen.
 
 # KI-VO Integrationscheck
 
@@ -82,7 +82,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `workflow-laienmodus-robotikrecht`
 
-**Frühere Beschreibung:** Erklärt Robotik-Recht in verständlicher Sprache für Gründer, Ingenieurinnen, Betreiber, Versicherer und Behörden, ohne juristische Genauigkeit zu verlieren.
+**Fokus:** Erklärt Robotik-Recht in verständlicher Sprache für Gründer, Ingenieurinnen, Betreiber, Versicherer und Behörden, ohne juristische Genauigkeit zu verlieren.
 
 # Laienmodus Robotikrecht
 
@@ -133,7 +133,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `workflow-litigation-vorbereitung`
 
-**Frühere Beschreibung:** Bereitet Robotikstreit vor: Anspruchsgrundlagen, Beweislast, Sachverständige, Besichtigung, Geheimnisschutz, Produktakte und Vergleichsoptionen.
+**Fokus:** Bereitet Robotikstreit vor: Anspruchsgrundlagen, Beweislast, Sachverständige, Besichtigung, Geheimnisschutz, Produktakte und Vergleichsoptionen.
 
 # Litigation-Vorbereitung
 
@@ -184,7 +184,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `workflow-marktueberwachung-dialog`
 
-**Frühere Beschreibung:** Bereitet Antworten an Marktüberwachung, BAuA-/Landesbehörden, Safety-Gate-Meldungen, Unterlagenvorlage, Korrekturmaßnahmen und Rückrufkommunikation vor.
+**Fokus:** Bereitet Antworten an Marktüberwachung, BAuA-/Landesbehörden, Safety-Gate-Meldungen, Unterlagenvorlage, Korrekturmaßnahmen und Rückrufkommunikation vor.
 
 # Marktüberwachung Dialog
 
@@ -235,7 +235,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 5. `workflow-mdr-und-gesundheitsrobotik`
 
-**Frühere Beschreibung:** Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen.
+**Fokus:** Routet Gesundheits-, Pflege-, Reha- und OP-Robotik nach MDR, MPDG, Datenschutz, Haftung und klinischen/produktbezogenen Nachweisen.
 
 # MDR und Gesundheitsrobotik
 
@@ -286,7 +286,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 6. `workflow-normen-und-standardrecherche`
 
-**Frühere Beschreibung:** Plant Recherche nach harmonisierten Normen, ISO/IEC-Standards, C-Normen, Stand der Technik und behördlichen Leitlinien ohne Normenblindflug.
+**Fokus:** Plant Recherche nach harmonisierten Normen, ISO/IEC-Standards, C-Normen, Stand der Technik und behördlichen Leitlinien ohne Normenblindflug.
 
 # Normen- und Standardrecherche
 

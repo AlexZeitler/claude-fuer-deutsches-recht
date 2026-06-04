@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-fachanwalt-handels-g-bis-hgesr-grenzueberschr
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (fachanwalt-handels-gesellschaftsrecht-orientierung, fachanwalt-hgr-dlt-pilotregime-token, hgesr-grenzueberschreitende-formwechsel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handels Gesellschaftsrecht Orientierung, Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Handels Gesellschaftsrecht Orientierung, Hgr Dlt Pilotregime Token, Hgesr Grenzueberschreitende Formwechsel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-handels-gesellschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung. |
 | `fachanwalt-hgr-dlt-pilotregime-token` | EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-orientierung`
 
-**Frühere Beschreibung:** Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung.
+**Fokus:** Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gründung Satzungsaenderung Geschäftsführerhaftung M&A Beschlussanfechtung Umwandlung. verifizierbare Quellen; Literatur nur bei Nutzerquelle oder lizenziertem Live-Zugriff. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung.
 
 # Orientierung Handels- und Gesellschaftsrecht
 
@@ -105,7 +105,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-hgr-dlt-pilotregime-token`
 
-**Frühere Beschreibung:** EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste.
+**Fokus:** EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapierinfrastruktur. Tokenisierte Aktien und elektronische Wertpapiere (eWpG). Plattformtypen DLT-MTF (500 Mio. EUR) / DLT-TSS (6 Mrd. EUR) / DLT-SS. BaFin-Lizenzverfahren. Krypto-Wertpapierregister § 16 eWpG. Schwellenwerte, Compliance-Workflow, Risikomatrix, DORA-Schnittstelle, MiCA-Abgrenzung. Schriftsatzvorlagen BaFin-Antrag, Smart-Contract-Checkliste.
 
 ## V90 Fachkern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `EU-DLT-Pilotregime VO 2022/858 (anwendbar 23.3.2023, verlängert voraussichtlich bis 23.3.2029) für DLT-basierte Wertpapi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -369,7 +369,7 @@ Pflicht-Felder im Krypto-Wertpapierregister:
 
 ## 3. `hgesr-grenzueberschreitende-formwechsel`
 
-**Frühere Beschreibung:** Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap fuer typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud.
+**Fokus:** Grenzueberschreitende Formwechsel und Sitzverlegung nach EU-Mobilitaetsrichtlinie und UmwG: Verfahrensschritte, Schutz Glaeubiger, Minderheitsgesellschafter, Arbeitnehmer. Mustertexte und Roadmap fuer typischen Wechsel DE nach AT oder NL. Praxis nach EuGH-Polbud.
 
 # Grenzueberschreitender Formwechsel
 

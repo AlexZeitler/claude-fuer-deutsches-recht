@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-bereicherungsrecht-l-bis-buergschaft-einreden
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (bereicherungsrecht-leistungskondiktion, bereicherungsrecht-nichtleistungskondiktion, buergschaft-einreden-und-akzessorietaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bereicherungsrecht Leistungskondiktion, Bereicherungsrecht Nichtleistungskondiktion, Buergschaft Einreden Und Akzessorietaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - bgb-bt-pruefer
+# Arbeitsbereich - Bereicherungsrecht Leistungskondiktion, Bereicherungsrecht Nichtleistungskondiktion, Buergschaft Einreden Und Akzessorietaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bereicherungsrecht-leistungskondiktion` | Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität. |
 | `bereicherungsrecht-nichtleistungskondiktion` | Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bereicherungsrecht-leistungskondiktion`
 
-**Frühere Beschreibung:** Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität.
+**Fokus:** Prüft Leistungskondiktion §§ 812 ff. BGB: Kondiktionstypen, Leistungsbegriff, Rechtsgrund und Subsidiarität.
 
 # Bereicherungsrecht: Leistungskondiktion
 
@@ -116,7 +116,7 @@ Leistungskondiktionen nach § 812 Abs. 1 BGB systematisch prüfen: condictio ind
 
 ## 2. `bereicherungsrecht-nichtleistungskondiktion`
 
-**Frühere Beschreibung:** Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion.
+**Fokus:** Prüft Nichtleistungskondiktion §§ 812 ff. BGB: Eingriffskondiktion, Rückgriffskondiktion und Verwendungskondiktion.
 
 # Bereicherungsrecht: Nichtleistungskondiktion
 
@@ -208,7 +208,7 @@ Nichtleistungskondiktionen systematisch prüfen: Eingriffskondiktion bei unbefug
 
 ## 3. `buergschaft-einreden-und-akzessorietaet`
 
-**Frühere Beschreibung:** Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen.
+**Fokus:** Prüft Akzessorietät der Bürgschaft, Einreden des Bürgen §§ 768–770 BGB und Auswirkungen von Hauptschuld-Veränderungen.
 
 # Bürgschaft: Einreden und Akzessorietät
 

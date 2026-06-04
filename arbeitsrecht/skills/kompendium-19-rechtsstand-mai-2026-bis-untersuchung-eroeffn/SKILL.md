@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-rechtsstand-mai-2026-bis-untersuchung-eroeffn
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (rechtsstand-mai-2026-faktenbank, untersuchung-abfrage, untersuchung-ergaenzen, untersuchung-eroeffnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsstand Mai 2026 Faktenbank, Untersuchung Abfrage, Untersuchung Ergaenzen, Untersuchung Eroeffnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - arbeitsrecht
+# Arbeitsbereich - Rechtsstand Mai 2026 Faktenbank bis Untersuchung Eroeffnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsstand-mai-2026-faktenbank` | Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle. |
 | `untersuchung-abfrage` | Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsstand-mai-2026-faktenbank`
 
-**Frühere Beschreibung:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
+**Fokus:** Faktenbank und Quellen-Gate für aktuelle arbeitsrechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu BAG-/BSG-Rechtsprechung, Statusfeststellung, AGG/Equal Pay, Urlaub, Freistellung, Kündigung, Arbeitszeit und Lohn/SV. Zitiert nur Gericht, Entscheidungsform, Datum, Aktenzeichen und frei prüfbare Quelle.
 
 # Rechtsstand Mai 2026 — Faktenbank Arbeitsrecht
 
@@ -86,7 +86,7 @@ Jede aktuelle arbeitsrechtliche Antwort enthält am Ende kurz:
 
 ## 2. `untersuchung-abfrage`
 
-**Frühere Beschreibung:** Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen.
+**Fokus:** Beantwortet Fragen gegen ein laufendes Untersuchungsprotokoll — was Zeugen gesagt haben, wo Schilderungen im Widerspruch stehen, welche Lücken bestehen, was die stärksten Belege zu jeder Frage sind. Lädt, wenn der Anwalt das Untersuchungsprotokoll abfragen möchte, ohne jeden Eintrag einzeln durchlesen zu müssen.
 
 # Untersuchungsprotokoll-Abfrage (Arbeitsrecht)
 
@@ -284,7 +284,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `untersuchung-ergaenzen`
 
-**Frühere Beschreibung:** Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und protokolliert alles Gesichtete zur Deckungsverifikation. Lädt, wenn neue Beweise, Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung eingehen.
+**Fokus:** Fügt einer laufenden internen Untersuchung neue Daten hinzu — Dokumente, Befragungsnotizen oder Beobachtungen. Verarbeitet Dokumentenpakete anhand dokumentierter Auswahlkriterien, markiert relevante Funde und protokolliert alles Gesichtete zur Deckungsverifikation. Lädt, wenn neue Beweise, Befragungsnotizen oder Dokumentenlieferungen für eine laufende Untersuchung eingehen.
 
 # Untersuchungs-Datenpflege (Arbeitsrecht)
 
@@ -482,7 +482,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 4. `untersuchung-eroeffnen`
 
-**Frühere Beschreibung:** Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
+**Fokus:** Eröffnet eine neue interne Untersuchungssache — führt die Sachverhaltserfassung durch, generiert die Quellencheckliste und legt das persistente Untersuchungsprotokoll an. Lädt, wenn eine Beschwerde oder ein Hinweis eingeht und ein vertraulicher Untersuchungsarbeitsbereich eingerichtet werden soll.
 
 # Untersuchungseröffnung (Arbeitsrecht)
 

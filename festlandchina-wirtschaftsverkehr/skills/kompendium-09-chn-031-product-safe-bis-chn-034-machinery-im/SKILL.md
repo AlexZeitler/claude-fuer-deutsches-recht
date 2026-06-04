@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-chn-031-product-safe-bis-chn-034-machinery-im
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (chn-031-product-safety-and-ce-import, chn-032-market-surveillance-eu-import, chn-033-battery-ev-solar-supply-chain, chn-034-machinery-import-and-factory-equipment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 031 Product Safety And Ce Import, Chn 032 Market Surveillance Eu Import, Chn 033 Battery Ev Solar Supply Chain, Chn 034 Machinery Import And Factory Equipment; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 031 Product Safety And Ce Import bis Chn 034 Machinery Import And Factory Equipment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-031-product-safety-and-ce-import` | CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix. |
 | `chn-032-market-surveillance-eu-import` | EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-031-product-safety-and-ce-import`
 
-**Frühere Beschreibung:** CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix.
+**Fokus:** CE-Kennzeichnung und Produktsicherheit für China-Importe: EU-VO 2023/988 Produktsicherheits-VO Importeurspflichten, Konformitätsbewertung, Technische Dokumentation, Marktüberwachung (EU-VO 2019/1020), Produkthaftung § 823 BGB und ProdHaftG, Rückrufmanagement. Output: CE-Compliance-Handbuch China-Import und Haftungsmatrix.
 
 # CE-Kennzeichnung und Produktsicherheit: China-Import-Compliance
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-032-market-surveillance-eu-import`
 
-**Frühere Beschreibung:** EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis.
+**Fokus:** EU-Marktüberwachung bei China-Importen: EU-VO 2019/1020 Pflichten der Wirtschaftsakteure, RAPEX-Meldepflichten, ICSMS-Datenbank, Behördliche Maßnahmen (Rückruf, Verkaufsverbot), Produktregulierungen nach Sektoren (LVD, RED, Toys Directive), nationale Zuständigkeiten (BAuA, BNetzA). Output: Marktüberwachungs-Compliance-Matrix und Behördenverzeichnis.
 
 # EU-Marktüberwachung China-Import: Pflichten und Behörden
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-033-battery-ev-solar-supply-chain`
 
-**Frühere Beschreibung:** Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel.
+**Fokus:** Batterie-, EV- und Solarlieferketten aus China: EU-Batterie-VO 2023/1542 Sorgfaltspflichten, Carbon-Footprint-Deklaration, Recycling-Quoten, Solar-Anti-Dumping-Maßnahmen EU, XUAR-Bezug Polysilizium, Critical Raw Materials Act Lithium/Kobalt, LkSG-Risikoanalyse Bergbau. Output: Supply-Chain-Compliance-Paket Batterie/Solar und Risikoampel.
 
 # Batterie/EV/Solar-Lieferkette China: Regulierung und Compliance
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-034-machinery-import-and-factory-equipment`
 
-**Frühere Beschreibung:** Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen.
+**Fokus:** Maschinenbau-Import und Fabrikausrüstung aus China: EU-Maschinenrichtlinie 2023/1230, CE-Pflichten, Sicherheitsabnahme, Verwenderschutz, BAFA-Prüfpflicht bei Dual-Use-Maschinen, LkSG Lieferkettenprüfung Maschinenhersteller CN, Serviceverträge und Ersatzteilversorgung. Output: Import-Compliance-Checkliste Maschinenbau und Vertragsrahmen.
 
 # Maschinenbau-Import China: CE, Dual-Use und Lieferkette
 

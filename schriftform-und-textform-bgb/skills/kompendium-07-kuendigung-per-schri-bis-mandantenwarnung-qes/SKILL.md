@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kuendigung-per-schri-bis-mandantenwarnung-qes
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (kuendigung-per-schriftsatz-zustellung-formfragen, mandantenkorrespondenz-form-und-zugang-templates, mandantenwarnung-qes-per-email-whatsapp-und-zugang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kuendigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp Und Zugang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - schriftform-und-textform-bgb
+# Arbeitsbereich - Kuendigung Per Schriftsatz Zustellung Formfragen, Mandantenkorrespondenz Form Und Zugang Templates, Mandantenwarnung Qes Per Email Whatsapp U
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung. |
 | `mandantenkorrespondenz-form-und-zugang-templates` | Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kuendigung-per-schriftsatz-zustellung-formfragen`
 
-**Frühere Beschreibung:** Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung.
+**Fokus:** Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. Output: Form- und Zugangsmatrix mit Zustellungsweg, Vollmachtsrisiko und Empfehlung.
 
 # Kündigung per Schriftsatz — Zustellung und Formfragen
 
@@ -194,7 +194,7 @@ Vollmachtsurkunde im Original vorgelegt wurde (§ 174 Satz 1 BGB).
 
 ## 2. `mandantenkorrespondenz-form-und-zugang-templates`
 
-**Frühere Beschreibung:** Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu mandantenkorrespondenz form und zugang templates. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Mandantenkorrespondenz — Form und Zugang: Templates
 
@@ -431,7 +431,7 @@ Mit freundlichen Grüßen
 
 ## 3. `mandantenwarnung-qes-per-email-whatsapp-und-zugang`
 
-**Frühere Beschreibung:** Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu mandantenwarnung qes per email whatsapp und zugang. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Mandantenwarnung: qES per E-Mail und WhatsApp — Zugang im Mietverhältnis
 

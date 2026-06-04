@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-umv-049-bebauungspla-bis-umv-052-industrieanl
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (umv-049-bebauungsplan-monitoring-planen, umv-050-bebauungsplan-kommunikation-schaerfen, umv-051-industrieanlage-beteiligung-pruefen, umv-052-industrieanlage-einwendung-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 049 Bebauungsplan Monitoring Planen, Umv 050 Bebauungsplan Kommunikation Schaerfen, Umv 051 Industrieanlage Beteiligung Pruefen, Umv 052 Industrieanlage Einwendung Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 049 Bebauungsplan Monitoring Planen bis Umv 052 Industrieanlage Einwendung Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-049-bebauungsplan-monitoring-planen` | Umweltschutzverband Verbandsklage: Bebauungsplan: Monitoring planen. Monitoring planen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-050-bebauungsplan-kommunikation-schaerfen` | Umweltschutzverband Verbandsklage: Bebauungsplan: Kommunikation schärfen. Kommunikation schärfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-049-bebauungsplan-monitoring-planen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Bebauungsplan: Monitoring planen. Monitoring planen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Bebauungsplan: Monitoring planen. Monitoring planen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bebauungsplan Monitoring Planen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-050-bebauungsplan-kommunikation-schaerfen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Bebauungsplan: Kommunikation schärfen. Kommunikation schärfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Bebauungsplan: Kommunikation schärfen. Kommunikation schärfen für Bebauungsplan im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bebauungsplan Kommunikation Schaerfen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-051-industrieanlage-beteiligung-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Industrieanlage: Beteiligung prüfen. Beteiligung prüfen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Industrieanlage: Beteiligung prüfen. Beteiligung prüfen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Industrieanlage Beteiligung Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-052-industrieanlage-einwendung-bauen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Industrieanlage: Einwendung bauen. Einwendung bauen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Industrieanlage: Einwendung bauen. Einwendung bauen für Industrieanlage im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Industrieanlage Einwendung Bauen
 

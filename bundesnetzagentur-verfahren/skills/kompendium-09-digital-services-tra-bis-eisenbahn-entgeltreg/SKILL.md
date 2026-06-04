@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-digital-services-tra-bis-eisenbahn-entgeltreg
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 09; bündelt 8 frühere Spezialskills (digital-services-transparenzberichte-online-plattformen, digital-services-trusted-flagger-anerkennung, digital-services-vlop-vlose-koordination-eu-kommission, eisenbahn-anreizsetzung-schiene, eisenbahn-baumassnahmen-und-sperrpausen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Digital Services Transparenzberichte Online Plattformen, Digital Services Trusted Flagger Anerkennung, Digital Services Vlop Vlose Koordination Eu Kommission, Eisenbahn Anreizsetzung Schiene und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Digital Services Transparenzberichte Online Plattformen bis Eisenbahn Entgeltregulierung Schiene
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `digital-services-transparenzberichte-online-plattformen` | Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
 | `digital-services-trusted-flagger-anerkennung` | Digital Services / Trusted Flagger Anerkennung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `digital-services-transparenzberichte-online-plattformen`
 
-**Frühere Beschreibung:** Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Transparenzberichte Online-Plattformen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Transparenzberichte nach DSA: Art. 15, 24, 42
 
@@ -92,7 +92,7 @@ Klassifizierung verifiziert? Datenquellen vollständig? Schwellenwerte korrekt b
 
 ## 2. `digital-services-trusted-flagger-anerkennung`
 
-**Frühere Beschreibung:** Digital Services / Trusted Flagger Anerkennung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / Trusted Flagger Anerkennung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # Trusted Flagger: Anerkennung nach Art. 22 DSA
 
@@ -152,7 +152,7 @@ Sachkundenachweis konkret (nicht nur abstrakt)? Unabhängigkeit von Plattformen 
 
 ## 3. `digital-services-vlop-vlose-koordination-eu-kommission`
 
-**Frühere Beschreibung:** Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
+**Fokus:** Digital Services / VLOP VLOSE Koordination EU-Kommission: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: DDG, DSA VO (EU) 2022/2065.
 
 # VLOP/VLOSE-Koordination zwischen EU-Kommission und BNetzA
 
@@ -211,7 +211,7 @@ VLOP/VLOSE-Status verifiziert? Zuständigkeitskaskade (Kommission vs. DSC) korre
 
 ## 4. `eisenbahn-anreizsetzung-schiene`
 
-**Frühere Beschreibung:** Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Anreizsetzung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Anreizsetzungssystem im Eisenbahnverkehr (ASS) nach § 39 ERegG
 
@@ -272,7 +272,7 @@ ASS-Definition und Verspätungs-Schwellen klar? Datenbasis vor Streitwert genau 
 
 ## 5. `eisenbahn-baumassnahmen-und-sperrpausen`
 
-**Frühere Beschreibung:** Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Baumaßnahmen und Sperrpausen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Baumaßnahmen und Sperrpausen im Schienennetz
 
@@ -334,7 +334,7 @@ TCR-Anmeldung fristgemäß? Vorrangkriterien § 51 ERegG bewertet? Eilbedürftig
 
 ## 6. `eisenbahn-beschwerde-evu-gegen-infrastrukturbetreiber`
 
-**Frühere Beschreibung:** Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Beschwerde EVU gegen Infrastrukturbetreiber: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Beschwerde eines EVU gegen den Infrastrukturbetreiber nach § 66 ERegG
 
@@ -398,7 +398,7 @@ Aktivlegitimation tragfähig? Streitgegenstand präzise eingegrenzt? Diskriminie
 
 ## 7. `eisenbahn-eisenbahnregulierung-eregg`
 
-**Frühere Beschreibung:** Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Eisenbahnregulierung ERegG: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahnregulierung nach dem ERegG: Überblick und anwaltlicher Einstieg
 
@@ -457,7 +457,7 @@ Mandantenrolle eindeutig? Spezialskill-Routing klar? Frist sofort kalendarisiert
 
 ## 8. `eisenbahn-entgeltregulierung-schiene`
 
-**Frühere Beschreibung:** Eisenbahn / Entgeltregulierung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
+**Fokus:** Eisenbahn / Entgeltregulierung Schiene: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: ERegG, AEG, EU-Eisenbahnrecht.
 
 # Eisenbahn: Entgeltregulierung Schiene
 

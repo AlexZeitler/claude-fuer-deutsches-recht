@@ -1,41 +1,36 @@
 ---
 name: kompendium-02-agb-im-leasingvertra-bis-klausel-entwerfen-ag
-description: "agb-recht-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 10 frühere Spezialskills (agb-im-leasingvertrag-fortwirkung, agb-schiedsklausel-opt-out-deutsches-recht, agb-vertragsstrafe-309-nr-6, ergaenzende-vertragsauslegung-bei-agb-luecken, erganzende-vertragsauslegung-agb-luecke und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "agb-recht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agb Im Leasingvertrag Fortwirkung, Agb Schiedsklausel Opt Out Deutsches Recht, Agb Vertragsstrafe 309 Nr 6, Ergaenzende Vertragsauslegung Bei Agb Luecken und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - agb-recht-pruefer
+# Arbeitsbereich - Agb Im Leasingvertrag Fortwirkung bis Erganzende Vertragsauslegung Agb Luecke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agb-im-leasingvertrag-fortwirkung` | AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf. |
 | `agb-schiedsklausel-opt-out-deutsches-recht` | Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen fuer den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell. |
 | `agb-vertragsstrafe-309-nr-6` | AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klaert Hoechstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag (§ 310 Abs. 4 BGB) sowie Wechselwirkung mit Schadenspauschalierung. BGH-Linien. Liefert Klauselentwurf. |
 | `ergaenzende-vertragsauslegung-bei-agb-luecken` | Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BGH-Linie zur Lueckenfuellung wenn AGB-Klauseln unwirksam sind. Behandelt das Verhaeltnis von § 306 Abs. 2 BGB Gesetzesrecht und ergaenzender Vertragsauslegung sowie die Grenzen der Modifikation. Behandelt typische Fallgruppen. |
 | `erganzende-vertragsauslegung-agb-luecke` | Norm- und Dogmatik-Skill für Erganzende Vertragsauslegung AGB Lücke: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `formulararbeitsvertrag` | Branchen-Spezialskill für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `haendlervertrag-agb` | Branchen-Spezialskill für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `inhaltskontrolle-307-generalklausel` | Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `klausel-checkliste-self-service` | Output- und Streit-Skill für Klausel Checkliste Self Service: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `klausel-entwerfen-aggressiv` | Output- und Streit-Skill für Klausel Entwerfen Aggressiv: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agb-im-leasingvertrag-fortwirkung`
 
-**Frühere Beschreibung:** AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf.
+**Fokus:** AGB im Leasingvertrag. Skill klaert AGB-Klauseln in Operating- und Finance-Leasing Verteilung der Sach- und Rechtsgefahr Maengelhaftungs-Drittinanspruchnahme (Drittabtretungsmodell BGH) Restwertabrechnung Andienung Mehrkilometerregelung. Liefert Klauselentwurf.
 
 # Agb Im Leasingvertrag Fortwirkung
 
@@ -84,7 +79,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `agb-schiedsklausel-opt-out-deutsches-recht`
 
-**Frühere Beschreibung:** Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen fuer den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell.
+**Fokus:** Schiedsklausel als Opt-out aus dem deutschen AGB-Recht: BGH-Linie zur Wirksamkeit von Schiedsvereinbarungen in AGB. Pruefraster: § 1031 ZPO Schriftform New York Convention 1958 Bruessel-Ia-VO 1215/2012 Art. 25 sowie ordre-public-Vorbehalt. Klaert ob das Schiedsgericht deutsches AGB-Recht zwingend anwenden muss oder ob es eine inhaltliche Loesung am Verbraucherschutz vorbei eroeffnet. Behandelt Tipps zur AGB-konformen Schiedsklausel und die Konsequenzen fuer den Verwender. Verweist auf das AGB-im-Schiedsverfahren-Modell.
 
 # Agb Schiedsklausel Opt Out Deutsches Recht
 
@@ -142,7 +137,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `agb-vertragsstrafe-309-nr-6`
 
-**Frühere Beschreibung:** AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klaert Hoechstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag (§ 310 Abs. 4 BGB) sowie Wechselwirkung mit Schadenspauschalierung. BGH-Linien. Liefert Klauselentwurf.
+**Fokus:** AGB-Vertragsstrafe nach § 309 Nr. 6 BGB. Skill vertieft die AGB-rechtliche Behandlung von Vertragsstrafen im B2C und B2B. Klaert Hoechstgrenzen Abgrenzung zu pauschalierten Schadensersatz Sondervorschriften im Arbeitsvertrag (§ 310 Abs. 4 BGB) sowie Wechselwirkung mit Schadenspauschalierung. BGH-Linien. Liefert Klauselentwurf.
 
 # Agb Vertragsstrafe 309 Nr 6
 
@@ -189,7 +184,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `ergaenzende-vertragsauslegung-bei-agb-luecken`
 
-**Frühere Beschreibung:** Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BGH-Linie zur Lueckenfuellung wenn AGB-Klauseln unwirksam sind. Behandelt das Verhaeltnis von § 306 Abs. 2 BGB Gesetzesrecht und ergaenzender Vertragsauslegung sowie die Grenzen der Modifikation. Behandelt typische Fallgruppen.
+**Fokus:** Ergaenzende Vertragsauslegung bei AGB-Luecken. Skill klaert die BGH-Linie zur Lueckenfuellung wenn AGB-Klauseln unwirksam sind. Behandelt das Verhaeltnis von § 306 Abs. 2 BGB Gesetzesrecht und ergaenzender Vertragsauslegung sowie die Grenzen der Modifikation. Behandelt typische Fallgruppen.
 
 # Ergaenzende Vertragsauslegung Bei Agb Luecken
 
@@ -246,7 +241,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 5. `erganzende-vertragsauslegung-agb-luecke`
 
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Erganzende Vertragsauslegung AGB Lücke: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+**Fokus:** Norm- und Dogmatik-Skill für Erganzende Vertragsauslegung AGB Lücke: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
 
 # Erganzende Vertragsauslegung AGB Lücke
 
@@ -272,296 +267,6 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus:** Bei Erganzende Vertragsauslegung AGB Lücke besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 6. `formulararbeitsvertrag`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Formulararbeitsvertrag: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Formulararbeitsvertrag
-
-## Fachkern: Formulararbeitsvertrag
-
-- **Klauselproblem (Formulararbeitsvertrag):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Formulararbeitsvertrag besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 7. `haendlervertrag-agb`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Haendlervertrag AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Haendlervertrag AGB
-
-## Fachkern: Haendlervertrag AGB
-
-- **Klauselproblem (Haendlervertrag AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Haendlervertrag AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 8. `inhaltskontrolle-307-generalklausel`
-
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Inhaltskontrolle 307 Generalklausel: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-
-# Inhaltskontrolle 307 Generalklausel
-
-## Fachkern: Inhaltskontrolle 307 Generalklausel
-
-- **Klauselproblem (Inhaltskontrolle 307 Generalklausel):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus § 307 BGB als Generalklausel und Auffangtatbestand:**
-   - **Prüfungsreihenfolge:** Erst § 309 BGB (absolute Klauselverbote, B2C), dann § 308 BGB (Klauselverbote mit Wertungsmöglichkeit, B2C), dann § 307 BGB. Im B2B nur § 307 BGB unter Berücksichtigung der Klauselverbote als Wertungsmaßstab.
-   - **Tatbestand § 307 Abs. 1 S. 1 BGB:** Unangemessene Benachteiligung entgegen Treu und Glauben. Indizien: Abweichung von dispositivem Recht zulasten des Kunden, Risikoverlagerung, einseitige Bestimmungsrechte des Verwenders, fehlende Reziprozität.
-   - **Auslegungshilfen § 307 Abs. 2 BGB:**
-     - **Nr. 1:** Abweichung von wesentlichen Grundgedanken der gesetzlichen Regelung (Leitbildwiderspruch). Beispiel: Verschuldensunabhängige Schadensregeln statt § 280 Abs. 1 S. 2 BGB.
-     - **Nr. 2:** Einschränkung wesentlicher Rechte oder Pflichten, die sich aus der Natur des Vertrages ergeben, sodass Vertragszweck gefährdet wird (Kardinalpflichtenrechtsprechung).
-   - **§ 307 Abs. 3 BGB:** Klauseln, die nur die Hauptleistung oder das Entgelt regeln, unterliegen nur der Transparenzkontrolle (Abs. 1 S. 2 BGB). Aber: Nebenabreden über Hauptleistung (Preisnebenabreden, Zusatzentgelte) sind voll kontrollfähig.
-   - **B2B (§ 310 Abs. 1 BGB):** § 307 BGB gilt voll; §§ 308, 309 BGB nur als Wertungsmaßstab. BGH-Linie: Die Wertungen der §§ 308, 309 BGB strahlen ausstrahlend ins B2B aus, soweit keine Geschäftsgebräuche oder typische Risikoallokationen abweichen rechtfertigen (ständige Rechtsprechung).
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-### Prüfschema § 307 BGB im Quick-Check
-
-> 1. Ist die Klausel eine Hauptleistungsbestimmung (§ 307 Abs. 3 BGB)? Wenn ja: nur Transparenz prüfen.
-> 2. Weicht sie von dispositivem Recht zulasten des Kunden ab? Wenn ja: § 307 Abs. 2 Nr. 1 BGB greift Indiz.
-> 3. Werden wesentliche Vertragspflichten eingeschränkt? Wenn ja: § 307 Abs. 2 Nr. 2 BGB.
-> 4. Strahlt ein Klauselverbot der §§ 308, 309 BGB aus? Im B2C greift es direkt; im B2B als Wertungsmaßstab.
-> 5. Wenn unwirksam: § 306 BGB Folge - kein Inhaltsabschluss, keine Reduktion.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 9. `klausel-checkliste-self-service`
-
-**Frühere Beschreibung:** Output- und Streit-Skill für Klausel Checkliste Self Service: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
-
-# Klausel Checkliste Self Service
-
-## Fachkern: Klausel Checkliste Self Service
-
-- **Klauselproblem (Klausel Checkliste Self Service):** macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Klausel Checkliste Self Service besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 10. `klausel-entwerfen-aggressiv`
-
-**Frühere Beschreibung:** Output- und Streit-Skill für Klausel Entwerfen Aggressiv: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
-
-# Klausel Entwerfen Aggressiv
-
-## Fachkern: Klausel Entwerfen Aggressiv
-
-- **Klauselproblem (Klausel Entwerfen Aggressiv):** macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Klausel Entwerfen Aggressiv besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

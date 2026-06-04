@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-deliktsrecht-paragra-bis-deliktsrecht-schutzg
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (deliktsrecht-paragraph-823-1, deliktsrecht-paragraph-826-sittenwidrige-schaedigung, deliktsrecht-schutzgesetz-paragraph-823-2) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - bgb-bt-pruefer
+# Arbeitsbereich - Deliktsrecht Paragraph 823 1, Deliktsrecht Paragraph 826 Sittenwidrige Schaedigung, Deliktsrecht Schutzgesetz Paragraph 823 2
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `deliktsrecht-paragraph-823-1` | Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB. |
 | `deliktsrecht-paragraph-826-sittenwidrige-schaedigung` | Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `deliktsrecht-paragraph-823-1`
 
-**Frühere Beschreibung:** Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB.
+**Fokus:** Prüft Rechtsgutsverletzung, Handlung, Kausalität, Rechtswidrigkeit, Verschulden und Schaden nach § 823 Abs. 1 BGB.
 
 # Deliktsrecht § 823 Abs. 1 BGB
 
@@ -121,7 +121,7 @@ Den Grundtatbestand des Deliktsrechts nach § 823 Abs. 1 BGB vollständig prüfe
 
 ## 2. `deliktsrecht-paragraph-826-sittenwidrige-schaedigung`
 
-**Frühere Beschreibung:** Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden.
+**Fokus:** Prüft sittenwidrige vorsätzliche Schädigung § 826 BGB: Sittenwidrigkeit, Vorsatz und Vermögensschaden.
 
 # Deliktsrecht § 826 BGB: Sittenwidrige Schädigung
 
@@ -212,7 +212,7 @@ Den Grundtatbestand des Deliktsrechts nach § 823 Abs. 1 BGB vollständig prüfe
 
 ## 3. `deliktsrecht-schutzgesetz-paragraph-823-2`
 
-**Frühere Beschreibung:** Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eigenschaft, Tatbestand und Schutzzweck.
+**Fokus:** Prüft Schutzgesetzverletzung § 823 Abs. 2 BGB: Schutzgesetz-Eigenschaft, Tatbestand und Schutzzweck.
 
 # Deliktsrecht: Schutzgesetz § 823 Abs. 2 BGB
 

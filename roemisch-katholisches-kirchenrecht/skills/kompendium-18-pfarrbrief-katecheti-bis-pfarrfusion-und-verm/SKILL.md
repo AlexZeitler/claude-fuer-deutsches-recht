@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-pfarrbrief-katecheti-bis-pfarrfusion-und-verm
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (pfarrbrief-katechetisch-und-lehrtreu, pfarrei-pfarrer-und-gremien, pfarrer-versetzung-und-amtsenthebung, pfarrfusion-und-vermogensubergang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pfarrbrief Katechetisch Und Lehrtreu, Pfarrei Pfarrer Und Gremien, Pfarrer Versetzung Und Amtsenthebung, Pfarrfusion Und Vermogensubergang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Pfarrbrief Katechetisch Und Lehrtreu bis Pfarrfusion Und Vermogensubergang
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pfarrbrief-katechetisch-und-lehrtreu` | Pfarrbrief katechetisch und lehrtreu: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `pfarrei-pfarrer-und-gremien` | Pfarrei, Pfarrer und Gremien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pfarrbrief-katechetisch-und-lehrtreu`
 
-**Frühere Beschreibung:** Pfarrbrief katechetisch und lehrtreu: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrbrief katechetisch und lehrtreu: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrbrief katechetisch und lehrtreu
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `pfarrei-pfarrer-und-gremien`
 
-**Frühere Beschreibung:** Pfarrei, Pfarrer und Gremien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrei, Pfarrer und Gremien: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrei, Pfarrer und Gremien
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `pfarrer-versetzung-und-amtsenthebung`
 
-**Frühere Beschreibung:** Pfarrer: Versetzung und Amtsenthebung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrer: Versetzung und Amtsenthebung: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrer: Versetzung und Amtsenthebung
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `pfarrfusion-und-vermogensubergang`
 
-**Frühere Beschreibung:** Pfarrfusion und Vermögensübergang: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Pfarrfusion und Vermögensübergang: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Pfarrfusion und Vermögensübergang
 

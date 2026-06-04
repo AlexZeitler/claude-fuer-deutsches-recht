@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-iap-anmeldepruefung-bis-iap-konzernforderung
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (iap-anmeldepruefung-bauleiter, iap-aussonderung-absonderung-spezial, iap-konzernforderungen-anfechtung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iap Anmeldepruefung Bauleiter, Iap Aussonderung Absonderung Spezial, Iap Konzernforderungen Anfechtung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Iap Anmeldepruefung Bauleiter, Iap Aussonderung Absonderung Spezial, Iap Konzernforderungen Anfechtung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iap-anmeldepruefung-bauleiter` | Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster fuer Insolvenzverwalter. |
 | `iap-aussonderung-absonderung-spezial` | Spezialfall Aussonderung und Absonderung §§ 47 sowie 49 ff. InsO: Eigentumsvorbehalt, Sicherungseigentum, Forderungsabtretung, Grundpfandrecht. Pruefraster fuer Insolvenzverwalter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iap-anmeldepruefung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster fuer Insolvenzverwalter.
+**Fokus:** Bauleiter Pruefung von Insolvenzforderungsanmeldungen: Grund, Hoehe, Rang, Bestreiten. Pruefraster fuer Insolvenzverwalter.
 
 # IAP: Anmeldepruefung Bauleiter
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `insolvenzforderungsanmeldungspruefung`. Er erga
 
 ## 2. `iap-aussonderung-absonderung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Aussonderung und Absonderung §§ 47 sowie 49 ff. InsO: Eigentumsvorbehalt, Sicherungseigentum, Forderungsabtretung, Grundpfandrecht. Pruefraster fuer Insolvenzverwalter.
+**Fokus:** Spezialfall Aussonderung und Absonderung §§ 47 sowie 49 ff. InsO: Eigentumsvorbehalt, Sicherungseigentum, Forderungsabtretung, Grundpfandrecht. Pruefraster fuer Insolvenzverwalter.
 
 # IAP: Aussonderung Absonderung
 
@@ -152,7 +152,7 @@ Dieser Skill gehoert zum Plugin `insolvenzforderungsanmeldungspruefung`. Er erga
 
 ## 3. `iap-konzernforderungen-anfechtung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Konzernforderungen und Anfechtung im Konzern: Cash-Pool, Konzernverrechnung, Bargeschaeftsausnahme, BGH-Rechtsprechung. Pruefraster fuer Konzernverwalter.
+**Fokus:** Spezialfall Konzernforderungen und Anfechtung im Konzern: Cash-Pool, Konzernverrechnung, Bargeschaeftsausnahme, BGH-Rechtsprechung. Pruefraster fuer Konzernverwalter.
 
 # IAP: Konzernforderungen Anfechtung
 

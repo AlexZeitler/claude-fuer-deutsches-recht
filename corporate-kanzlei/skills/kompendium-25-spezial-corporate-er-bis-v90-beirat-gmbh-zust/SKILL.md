@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-spezial-corporate-er-bis-v90-beirat-gmbh-zust
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (spezial-corporate-erstpruefung-und-mandatsziel, v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Erstpruefung Und Mandatsziel, V90 Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - corporate-kanzlei
+# Arbeitsbereich - Corporate Erstpruefung Und Mandatsziel, V90 Beirat Gmbh Zustimmungskatalog Und Konfliktmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-corporate-erstpruefung-und-mandatsziel` | Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix` | Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-corporate-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Corporate: Erstprüfung, Rollenklärung und Mandatsziel im Corporate Law: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/M&A), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Corporate: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -93,7 +93,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `v90-beirat-gmbh-zustimmungskatalog-und-konfliktmatrix`
 
-**Frühere Beschreibung:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
+**Fokus:** Prüft und entwirft GmbH-Beiratsregeln für mittelständische und Corporate-Mandate: Vetorechte, Investorenschutz, Haftung, Protokoll, Deadlock und Geschäftsführerautonomie.
 
 # GmbH-Beirat: Zustimmungskatalog, Konfliktmatrix und Satzungslogik
 

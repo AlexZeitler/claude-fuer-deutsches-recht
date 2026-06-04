@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-owi-094-aussenwirtsc-bis-owi-097-aussenwirtsc
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (owi-094-aussenwirtschaft-einspruch-begruenden, owi-095-aussenwirtschaft-einstellung-anregen, owi-096-aussenwirtschaft-beweis-ruegen, owi-097-aussenwirtschaft-verjaehrung-berechnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 094 Aussenwirtschaft Einspruch Begruenden, Owi 095 Aussenwirtschaft Einstellung Anregen, Owi 096 Aussenwirtschaft Beweis Ruegen, Owi 097 Aussenwirtschaft Verjaehrung Berechnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 094 Aussenwirtschaft Einspruch Begruenden bis Owi 097 Aussenwirtschaft Verjaehrung Berechnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-094-aussenwirtschaft-einspruch-begruenden` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Einspruch begründen. Einspruch begründen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-095-aussenwirtschaft-einstellung-anregen` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Einstellung anregen. Einstellung anregen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-094-aussenwirtschaft-einspruch-begruenden`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Einspruch begründen. Einspruch begründen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Einspruch begründen. Einspruch begründen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Einspruch Begruenden
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-095-aussenwirtschaft-einstellung-anregen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Einstellung anregen. Einstellung anregen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Einstellung anregen. Einstellung anregen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Einstellung Anregen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-096-aussenwirtschaft-beweis-ruegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Beweis rügen. Beweis rügen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Beweis rügen. Beweis rügen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Beweis Ruegen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-097-aussenwirtschaft-verjaehrung-berechnen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Verjährung berechnen. Verjährung berechnen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Verjährung berechnen. Verjährung berechnen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Verjaehrung Berechnen
 

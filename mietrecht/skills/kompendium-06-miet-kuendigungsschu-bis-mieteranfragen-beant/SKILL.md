@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-miet-kuendigungsschu-bis-mieteranfragen-beant
-description: "mietrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (miet-kuendigungsschutz-checkliste, miet-mietminderung-mangel-spezial, mieteranfragen-beantworten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Miet Kuendigungsschutz Checkliste, Miet Mietminderung Mangel Spezial, Mieteranfragen Beantworten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - mietrecht
+# Arbeitsbereich - Miet Kuendigungsschutz Checkliste, Miet Mietminderung Mangel Spezial, Mieteranfragen Beantworten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `miet-kuendigungsschutz-checkliste` | Checkliste Kuendigungsschutz Wohnraum §§ 573 ff. BGB: Eigenbedarf, Vertragsverletzung, Zahlungsverzug, Sozialklausel § 574 BGB. Pruefraster fuer Mieter und Vermieter. |
 | `miet-mietminderung-mangel-spezial` | Spezialfall Mietminderung bei Mangel § 536 BGB: Erheblichkeit, Mangelanzeige, Hoehe der Minderung, Beweislast. Pruefraster fuer Mietminderungsbescheid und Klage. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `miet-kuendigungsschutz-checkliste`
 
-**Frühere Beschreibung:** Checkliste Kuendigungsschutz Wohnraum §§ 573 ff. BGB: Eigenbedarf, Vertragsverletzung, Zahlungsverzug, Sozialklausel § 574 BGB. Pruefraster fuer Mieter und Vermieter.
+**Fokus:** Checkliste Kuendigungsschutz Wohnraum §§ 573 ff. BGB: Eigenbedarf, Vertragsverletzung, Zahlungsverzug, Sozialklausel § 574 BGB. Pruefraster fuer Mieter und Vermieter.
 
 # Miet: Kuendigungsschutz
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `mietrecht`. Er ergaenzt die uebrigen Skills des
 
 ## 2. `miet-mietminderung-mangel-spezial`
 
-**Frühere Beschreibung:** Spezialfall Mietminderung bei Mangel § 536 BGB: Erheblichkeit, Mangelanzeige, Hoehe der Minderung, Beweislast. Pruefraster fuer Mietminderungsbescheid und Klage.
+**Fokus:** Spezialfall Mietminderung bei Mangel § 536 BGB: Erheblichkeit, Mangelanzeige, Hoehe der Minderung, Beweislast. Pruefraster fuer Mietminderungsbescheid und Klage.
 
 # Miet: Mietminderung Mangel
 
@@ -152,7 +152,7 @@ Dieser Skill gehoert zum Plugin `mietrecht`. Er ergaenzt die uebrigen Skills des
 
 ## 3. `mieteranfragen-beantworten`
 
-**Frühere Beschreibung:** Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Lösungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang.
+**Fokus:** Vermieter- und Hausverwaltungssicht — beantworte Mieteranfragen sachlich und ehrlich. Deckt typische Themen ab (Mietminderung Mangelanzeige Modernisierungsankündigung Schoenheitsreparaturen Hausordnung Kaution Eigenbedarfskündigung Belegeinsicht zur Nebenkostenabrechnung). Anweisung — nicht abwimmeln sondern Rechtslage transparent darstellen und Lösungsoptionen anbieten. Strikt sachlich keine Drohgebaerden. Disclaimer am Anfang.
 
 # Mieteranfragen beantworten (Vermieter / Hausverwaltung)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-space-006-mondvertra-bis-space-038-dlr-projek
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (space-006-mondvertrag-ressourcen-governance-und-politische-akzep, space-023-astronautenausbildung-vertrag-haftung-versicherung-und, space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfl, space-038-dlr-projekt-vertrag-ip-und-haftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep, Space 023 Astronautenausbildung Vertrag Haftung Versicherung Und, Space 037 Esa Vertrag Programmbeitraege Und Industrielle Rueckfl, Space 038 Dlr Projekt Vertrag Ip Und Haftung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - weltraumrecht
+# Arbeitsbereich - Space 006 Mondvertrag Ressourcen Governance Und Politische Akzep bis Space 038 Dlr Projekt Vertrag Ip Und Haftung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-006-mondvertrag-ressourcen-governance-und-politische-akzep` | Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen. |
 | `space-023-astronautenausbildung-vertrag-haftung-versicherung-und` | Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-006-mondvertrag-ressourcen-governance-und-politische-akzep`
 
-**Frühere Beschreibung:** Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen.
+**Fokus:** Moon Agreement 1979 – Gemeinsames Erbe der Menschheit, gescheitertes Ressourcenregime, keine Ratifikation durch Raumfahrtnationen.
 
 # Weltraumrecht: Mondvertrag: Ressourcen-Governance und politische Akzeptanz
 
@@ -131,7 +131,7 @@ Dieser Skill bearbeitet **Mondvertrag: Ressourcen-Governance und politische Akze
 
 ## 2. `space-023-astronautenausbildung-vertrag-haftung-versicherung-und`
 
-**Frühere Beschreibung:** Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge.
+**Fokus:** Astronautenausbildungsverträge – Arbeitsrecht, Haftung für Ausbildungsunfälle, Versicherung, Fürsorge.
 
 # Weltraumrecht: Astronautenausbildung: Vertrag, Haftung, Versicherung, Fürsorge
 
@@ -236,7 +236,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Astronautenausbildung, Arbeitsver
 
 ## 3. `space-037-esa-vertrag-programmbeitraege-und-industrielle-rueckfl`
 
-**Frühere Beschreibung:** ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen.
+**Fokus:** ESA-Vertragsrecht – Programmbeiträge, Juste Retour, industrielle Rückflüsse, IP-Regelungen.
 
 # Weltraumrecht: ESA-Vertrag: Programmbeiträge und industrielle Rückflüsse
 
@@ -341,7 +341,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: ESA-Programmbeiträge, Juste Reto
 
 ## 4. `space-038-dlr-projekt-vertrag-ip-und-haftung`
 
-**Frühere Beschreibung:** DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten.
+**Fokus:** DLR-Forschungsverträge – IP-Eigentumsregelung, Haftungsbegrenzung, Publikationspflichten.
 
 # Weltraumrecht: DLR-Projektvertrag: IP und Haftung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-grad-der-behinderung-bis-kindergeld-familienk
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (grad-der-behinderung-gdb-sgb-ix, grundsicherung-alter-sgb-xii-41, grundsicherung-sgb-xii, hilfe-zum-lebensunterhalt-27-sgb-xii, kindergeld-familienkasse-einspruch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grad Der Behinderung Gdb Sgb Ix, Grundsicherung Alter Sgb Xii 41, Grundsicherung Sgb Xii, Hilfe Zum Lebensunterhalt 27 Sgb Xii und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Grad Der Behinderung Gdb Sgb Ix bis Kindergeld Familienkasse Einspruch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grad-der-behinderung-gdb-sgb-ix` | Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger. |
 | `grundsicherung-alter-sgb-xii-41` | Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grad-der-behinderung-gdb-sgb-ix`
 
-**Frühere Beschreibung:** Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger.
+**Fokus:** Grad der Behinderung (GdB) Streit nach SGB IX. Versorgungsamt VMG Tabellen Merkzeichen G aG B H Bl Gl. Schwerbehindertenausweis ab GdB 50. Mustertext für Buerger.
 
 # Grad der Behinderung (GdB) — Streit mit dem Versorgungsamt
 
@@ -197,7 +197,7 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 
 ## 2. `grundsicherung-alter-sgb-xii-41`
 
-**Frühere Beschreibung:** Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage.
+**Fokus:** Grundsicherung im Alter und bei Erwerbsminderung nach §§ 41 ff. SGB XII. Skill klaert den Anspruch ab Erreichen der Regelaltersgrenze oder bei dauerhafter EM die Bedarfspruefung und die Berechnung. Liefert Antragsvorlage.
 
 # Grundsicherung Alter Sgb Xii 41
 
@@ -244,7 +244,7 @@ Stand: 05/2026. SGB IX aktuell. VMG-Tabellen Beck-Online / VersMedV online. Vers
 
 ## 3. `grundsicherung-sgb-xii`
 
-**Frühere Beschreibung:** Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger.
+**Fokus:** Grundsicherung im Alter und bei Erwerbsminderung nach SGB XII. Sozialamt Antrag Bedarfsberechnung Vermögen. Abgrenzung zum Buergergeld für Buerger.
 
 # Grundsicherung im Alter und bei Erwerbsminderung — SGB XII
 
@@ -408,7 +408,7 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 ## 4. `hilfe-zum-lebensunterhalt-27-sgb-xii`
 
-**Frühere Beschreibung:** Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe fuer Erwerbsfaehige ohne Anspruch auf Buergergeld und fuer voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster.
+**Fokus:** Hilfe zum Lebensunterhalt nach §§ 27 ff. SGB XII. Skill klaert die Sozialhilfe fuer Erwerbsfaehige ohne Anspruch auf Buergergeld und fuer voll Erwerbsgeminderte unter 65 Jahre. Verhaeltnis zu Krankenkasse Pflegekasse Rentenversicherung. Liefert Pruefraster.
 
 # Hilfe Zum Lebensunterhalt 27 Sgb Xii
 
@@ -458,7 +458,7 @@ Stand: 05/2026. SGB XII aktuell. Schongrenze und Regelbedarf jaehrlich angepasst
 
 ## 5. `kindergeld-familienkasse-einspruch`
 
-**Frühere Beschreibung:** Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster.
+**Fokus:** Kindergeld und Einspruch bei der Familienkasse. Skill erklaert das duale Kindergeldsystem nach EStG und BKGG Anspruch ab Geburt Verlaengerungen bei Ausbildung Behinderung Auslandskinder Hartz-IV-Bezuge und das Einspruchsverfahren nach AO. Liefert Pruefraster.
 
 # Kindergeld Familienkasse Einspruch
 

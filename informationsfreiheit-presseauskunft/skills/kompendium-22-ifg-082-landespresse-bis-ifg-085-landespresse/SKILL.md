@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-ifg-082-landespresse-bis-ifg-085-landespresse
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (ifg-082-landespressegesetz-drittanhoerung-begl, ifg-083-landespressegesetz-widerspruch-bauen, ifg-084-landespressegesetz-klage-vorbereiten, ifg-085-landespressegesetz-presseantwort-nachf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 082 Landespressegesetz Drittanhoerung Begl, Ifg 083 Landespressegesetz Widerspruch Bauen, Ifg 084 Landespressegesetz Klage Vorbereiten, Ifg 085 Landespressegesetz Presseantwort Nachf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 082 Landespressegesetz Drittanhoerung Begl bis Ifg 085 Landespressegesetz Presseantwort Nachf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-082-landespressegesetz-drittanhoerung-begl` | Informationsfreiheit und Presseauskunft: Landespressegesetz: Drittanhörung begleiten. Drittanhörung begleiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-083-landespressegesetz-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: Landespressegesetz: Widerspruch bauen. Widerspruch bauen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-082-landespressegesetz-drittanhoerung-begl`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Drittanhörung begleiten. Drittanhörung begleiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Drittanhörung begleiten. Drittanhörung begleiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landespressegesetz Drittanhoerung Begl
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-083-landespressegesetz-widerspruch-bauen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Widerspruch bauen. Widerspruch bauen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Widerspruch bauen. Widerspruch bauen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landespressegesetz Widerspruch Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-084-landespressegesetz-klage-vorbereiten`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Klage vorbereiten. Klage vorbereiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Klage vorbereiten. Klage vorbereiten für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landespressegesetz Klage Vorbereiten
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-085-landespressegesetz-presseantwort-nachf`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Presseantwort nachfassen. Presseantwort nachfassen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Landespressegesetz: Presseantwort nachfassen. Presseantwort nachfassen für Landespressegesetz im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landespressegesetz Presseantwort Nachf
 

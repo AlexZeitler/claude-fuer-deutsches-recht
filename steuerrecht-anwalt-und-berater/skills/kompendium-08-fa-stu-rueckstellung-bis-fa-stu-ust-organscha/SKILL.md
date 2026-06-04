@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fa-stu-rueckstellung-bis-fa-stu-ust-organscha
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 08; bündelt 9 frühere Spezialskills (fa-stu-rueckstellungen-249-hgb, fa-stu-rvg-steuerstreit, fa-stu-selbstanzeige-371-ao, fa-stu-stberg-vereinbare-taetigkeit, fa-stu-steuerhinterziehung-370-ao und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fa Stu Rueckstellungen 249 Hgb, Fa Stu Rvg Steuerstreit, Fa Stu Selbstanzeige 371 Ao, Fa Stu Stberg Vereinbare Taetigkeit und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Fa Stu Rueckstellungen 249 Hgb bis Fa Stu Ust Organschaft 2 Abs 2 Ustg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fa-stu-rueckstellungen-249-hgb` | Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz. |
 | `fa-stu-rvg-steuerstreit` | Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fa-stu-rueckstellungen-249-hgb`
 
-**Frühere Beschreibung:** Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz.
+**Fokus:** Vollstaendige Pruefung von Rueckstellungen handels- und steuerrechtlich — Verbindlichkeitsrueckstellungen Aufwandsrueckstellungen Drohverlustrueckstellungen Garantierueckstellungen und steuerliche Abwertungen nach § 6 Abs. 1 Nr. 3a EStG. Anwendungsfall Aussenpruefung kuerzt eine vom Mandanten gebildete Rueckstellung oder versagt sie. Behandelt Passivierungspflicht versus Passivierungsverbot Bewertung und Abzinsung. Output Pruefraster und Kuerzungsrechner. Abgrenzung zu fa-stu-handels-vs-steuerbilanz.
 
 # Rueckstellungen — § 249 HGB und steuerliche Vorgaben § 6 Abs. 1 Nr. 3a EStG
 
@@ -85,7 +85,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-stu-rvg-steuerstreit`
 
-**Frühere Beschreibung:** Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme.
+**Fokus:** Vergueterungsskill fuer steuerrechtliche Mandate — Abgrenzung RVG zu StBVV gesetzliche Gebuehren Verhandlungsspielraum und Honorarvereinbarung. Anwendungsfall Anwalt und Steuerberater fragen welche Gebuehrentabelle anzuwenden ist und wie eine Mischmandatierung honoriert wird. Behandelt Geschaeftsgebuehr Verfahrensgebuehr Terminsgebuehr Streitwert nach Anlage 2 RVG sowie Pauschalvereinbarungen und Erfolgshonorar § 4a RVG. Output Tabellenrechner und Honorarvereinbarungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme.
 
 # Anwaltsgebuehren im Steuerstreit — RVG StBVV Verhaeltnis
 
@@ -137,7 +137,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fa-stu-selbstanzeige-371-ao`
 
-**Frühere Beschreibung:** Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend Unrichtigkeiten in Steuererklaerungen und moechte vor Bekanntwerden Strafbefreiung erlangen. Behandelt Anforderungen an Vollstaendigkeit Sperrwirkung durch Pruefungsanordnung und § 398a AO ab 25 000 Euro Hinterziehungsbetrag. Output Pruefraster und Selbstanzeigemuster. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao.
+**Fokus:** Detail-Skill zur strafbefreienden Selbstanzeige § 371 AO — Vollstaendigkeitsgebot Berichtigung von zehn Jahren Sperrgruende § 371 Abs. 2 AO und Zahlung des Hinterziehungsbetrags nebst Zinsen. Anwendungsfall Mandant erkennt rueckwirkend Unrichtigkeiten in Steuererklaerungen und moechte vor Bekanntwerden Strafbefreiung erlangen. Behandelt Anforderungen an Vollstaendigkeit Sperrwirkung durch Pruefungsanordnung und § 398a AO ab 25 000 Euro Hinterziehungsbetrag. Output Pruefraster und Selbstanzeigemuster. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao.
 
 # Selbstanzeige — § 371 AO Wirksamkeit Sperrgruende und Strafmilderung
 
@@ -216,7 +216,7 @@ Es wird gebeten von der Einleitung eines Strafverfahrens abzusehen.
 
 ## 4. `fa-stu-stberg-vereinbare-taetigkeit`
 
-**Frühere Beschreibung:** Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligung an Beratungsgesellschaft oder Tax-Tech-Start-up und prueft Zulaessigkeit. Behandelt § 57 Abs. 3 StBerG Negativkatalog § 57 Abs. 4 StBerG und Werberecht § 57a StBerG. Output Pruefraster und Aktenvermerkmuster. Abgrenzung zu fa-stu-vorbehaltsaufgaben-stberg und fa-stu-rvg-steuerstreit.
+**Fokus:** Berufsrechtlicher Skill zu vereinbaren Taetigkeiten und Berufsausuebung des Steuerberaters — was ist mit dem Beruf vereinbar was widerspricht der Berufsethik. Anwendungsfall Steuerberater plant Treuhandtaetigkeit Hausverwaltung Beteiligung an Beratungsgesellschaft oder Tax-Tech-Start-up und prueft Zulaessigkeit. Behandelt § 57 Abs. 3 StBerG Negativkatalog § 57 Abs. 4 StBerG und Werberecht § 57a StBerG. Output Pruefraster und Aktenvermerkmuster. Abgrenzung zu fa-stu-vorbehaltsaufgaben-stberg und fa-stu-rvg-steuerstreit.
 
 # Vereinbare Taetigkeiten Steuerberater — § 57 Abs. 3 StBerG
 
@@ -266,7 +266,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `fa-stu-steuerhinterziehung-370-ao`
 
-**Frühere Beschreibung:** Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen Steuerhinterziehung. Behandelt Tathandlungen § 370 Abs. 1 Nr. 1-3 AO Schaetzungsproblematik im Strafverfahren und das Verhaeltnis zum Besteuerungsverfahren. Output Verteidigungsstrategie-Raster und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-selbstanzeige-371-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao.
+**Fokus:** Strafrechtlicher Skill zu § 370 AO — Tatbestand Vorsatz Steuerverkuerzung Steuervorteil Konkurrenzen Versuchsstrafbarkeit und besonders schwere Faelle. Anwendungsfall Mandant erhaelt Vorladung Durchsuchungsbeschluss oder Anklage wegen Steuerhinterziehung. Behandelt Tathandlungen § 370 Abs. 1 Nr. 1-3 AO Schaetzungsproblematik im Strafverfahren und das Verhaeltnis zum Besteuerungsverfahren. Output Verteidigungsstrategie-Raster und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-selbstanzeige-371-ao und fa-stu-leichtfertige-steuerverkuerzung-378-ao.
 
 # Steuerhinterziehung — § 370 AO Tatbestand und Verteidigung
 
@@ -318,7 +318,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 6. `fa-stu-stundung-erlass-227-ao`
 
-**Frühere Beschreibung:** Praxis-Skill fuer Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persoenliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO Stundung § 226 AO Aufrechnung § 227 AO Erlass und Billigkeitsmassnahmen im Festsetzungs- und Erhebungsverfahren. Output Antragsmuster mit Liquiditaetsanlage. Abgrenzung zu fa-stu-onboarding-verzinsung und anw-aussetzung-vollziehung.
+**Fokus:** Praxis-Skill fuer Stundungs- Niederschlagungs- und Erlassantraege — von der sachlichen Unbilligkeit ueber persoenliche Haerte bis zur Liquiditaetsanalyse. Anwendungsfall Mandant kann faellige Steuer nicht zahlen oder die Festsetzung enthaelt einen sachlichen Unbilligkeitsgrund. Behandelt § 222 AO Stundung § 226 AO Aufrechnung § 227 AO Erlass und Billigkeitsmassnahmen im Festsetzungs- und Erhebungsverfahren. Output Antragsmuster mit Liquiditaetsanlage. Abgrenzung zu fa-stu-onboarding-verzinsung und anw-aussetzung-vollziehung.
 
 # Stundung Niederschlagung Erlass — §§ 222 226 227 AO
 
@@ -369,7 +369,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 7. `fa-stu-umwandlung-formwechsel-umwstg`
 
-**Frühere Beschreibung:** Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel Einbringung mit den Rechtsfolgen Buchwert Zwischenwert oder gemeiner Wert. Anwendungsfall Konzern oder Familie strukturiert um — Mandant braucht Klarheit zu Steuerfolgen Sperrfristen und Antragsregelungen § 20 § 24 UmwStG. Behandelt Wertansatzwahl Sperrfristen rueckwirkende Steuerwirkung § 2 UmwStG Veraeusserungsbesteuerung und Verlustabzug § 12 Abs. 3 UmwStG. Output Pruefraster und Strategiematrix. Abgrenzung zu fa-stu-anteilstausch-21-umwstg.
+**Fokus:** Systematische Einordnung von Umwandlungsvorgaengen nach Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel Einbringung mit den Rechtsfolgen Buchwert Zwischenwert oder gemeiner Wert. Anwendungsfall Konzern oder Familie strukturiert um — Mandant braucht Klarheit zu Steuerfolgen Sperrfristen und Antragsregelungen § 20 § 24 UmwStG. Behandelt Wertansatzwahl Sperrfristen rueckwirkende Steuerwirkung § 2 UmwStG Veraeusserungsbesteuerung und Verlustabzug § 12 Abs. 3 UmwStG. Output Pruefraster und Strategiematrix. Abgrenzung zu fa-stu-anteilstausch-21-umwstg.
 
 # Umwandlungssteuerrecht — Verschmelzung Spaltung Formwechsel nach UmwStG
 
@@ -423,7 +423,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 8. `fa-stu-ust-innergemeinschaftlich-6a-ustg`
 
-**Frühere Beschreibung:** Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg.
+**Fokus:** Praxispruefung der Steuerbefreiung fuer innergemeinschaftliche Lieferungen — Tatbestandsvoraussetzungen Quick-Fixes Beleg- und Buchnachweis Gelangensbestaetigung und Verschaerfungen seit 2020. Anwendungsfall Aussenpruefung versagt die Steuerbefreiung wegen fehlender USt-IdNr fehlender Gelangensbestaetigung oder Verdacht auf Reihengeschaeft. Behandelt § 6a UStG iVm § 17a UStDV gueltige USt-IdNr Abgleich VIES Sammelmeldung. Output Pruefraster mit Nachweismatrix. Abgrenzung zu fa-stu-ust-vorsteuerabzug-15-ustg.
 
 # Innergemeinschaftliche Lieferung — § 6a UStG und Beleg- und Buchnachweis
 
@@ -475,7 +475,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 9. `fa-stu-ust-organschaft-2-abs-2-ustg`
 
-**Frühere Beschreibung:** Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder verneint sie nach EuGH-Rechtsprechung — Mandant braucht Strategie und ggf. Aenderung der Verhaeltnisse. Behandelt EuGH-Praejudiz zur Organtraeger-Stellung von Personengesellschaften die Wirkungen von Insolvenz der Organgesellschaft und § 73 AO Haftung. Output Pruefraster und Schaubild Innenumsatzgrenzen. Abgrenzung zu fa-stu-kst-organschaft-14-kstg.
+**Fokus:** Pruefung und Verteidigung einer umsatzsteuerlichen Organschaft — finanzielle wirtschaftliche und organisatorische Eingliederung Folgen Steuerschuldnerschaft Innenumsaetze und Folgen bei Insolvenz der Organgesellschaft. Anwendungsfall Aussenpruefung erkennt eine bestehende Organschaft an oder verneint sie nach EuGH-Rechtsprechung — Mandant braucht Strategie und ggf. Aenderung der Verhaeltnisse. Behandelt EuGH-Praejudiz zur Organtraeger-Stellung von Personengesellschaften die Wirkungen von Insolvenz der Organgesellschaft und § 73 AO Haftung. Output Pruefraster und Schaubild Innenumsatzgrenzen. Abgrenzung zu fa-stu-kst-organschaft-14-kstg.
 
 # Umsatzsteuerliche Organschaft — § 2 Abs. 2 Nr. 2 UStG
 

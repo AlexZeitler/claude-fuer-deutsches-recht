@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-geldwaesche-meldung-bis-hinweis-von-externer
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (geldwaesche-meldung, geschaeftsgeheimnis-geschgehg, geschuetzte-verstoesse-paragraf2, hinweis-von-externer-person) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Meldung, Geschaeftsgeheimnis Geschgehg, Geschuetzte Verstoesse Paragraf2, Hinweis Von Externer Person; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Geldwaesche Meldung bis Hinweis Von Externer Person
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-meldung` | Verbindet Hinweis mit GwG/FIU-Pflichten. |
 | `geschaeftsgeheimnis-geschgehg` | Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-meldung`
 
-**Frühere Beschreibung:** Verbindet Hinweis mit GwG/FIU-Pflichten.
+**Fokus:** Verbindet Hinweis mit GwG/FIU-Pflichten.
 
 # Geldwaesche Meldung
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `geschaeftsgeheimnis-geschgehg`
 
-**Frühere Beschreibung:** Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen.
+**Fokus:** Prüft Geschäftsgeheimnisse in Meldungen und Offenlegungen.
 
 # Geschaeftsgeheimnis Geschgehg
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `geschuetzte-verstoesse-paragraf2`
 
-**Frühere Beschreibung:** Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein.
+**Fokus:** Ordnet gemeldete Verstöße in den sachlichen Anwendungsbereich ein.
 
 # Geschuetzte Verstoesse Paragraf2
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `hinweis-von-externer-person`
 
-**Frühere Beschreibung:** Prüft Meldungen von Lieferanten, Kunden oder Dritten.
+**Fokus:** Prüft Meldungen von Lieferanten, Kunden oder Dritten.
 
 # Hinweis Von Externer Person
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-strafrecht-spezial-s-bis-strafrecht-spezial-u
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 19; bündelt 10 frühere Spezialskills (strafrecht-spezial-subventionsbetrug-264-stgb, strafrecht-spezial-toetung-auf-verlangen-216-stgb, strafrecht-spezial-totschlag-212-stgb, strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser, strafrecht-spezial-umweltstrafrecht-326-stgb-abfall und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Subventionsbetrug 264 Stgb, Strafrecht Spezial Toetung Auf Verlangen 216 Stgb, Strafrecht Spezial Totschlag 212 Stgb, Strafrecht Spezial Umweltstrafrecht 324 Stgb Gewaesser und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Subventionsbetrug 264 Stgb bis Strafrecht Spezial Urheberrecht 106 Urhg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-subventionsbetrug-264-stgb` | Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen. |
 | `strafrecht-spezial-toetung-auf-verlangen-216-stgb` | Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-subventionsbetrug-264-stgb`
 
-**Frühere Beschreibung:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
+**Fokus:** Subventionsbetrug § 264 StGB: Anwendungsfall Verteidigung bei unrichtigen Angaben zur Erlangung einer Subvention. Pruefraster Subventionsbegriff § 264 Abs. 8 StGB, Subventionserheblichkeit § 264 Abs. 9 StGB, Tathandlungen unrichtige Angaben Subventionsgeber verwenden Subventionsgegenstand entgegen Verwendungsbeschraenkung. Trade-offs zwischen Selbstanzeige nach § 264 Abs. 6 StGB und Verteidigung im laufenden Verfahren. Output Verteidigungsstrategie mit Subsumtionsraster fuer Corona-Soforthilfen, EU-Foerdermittel und Forschungssubventionen.
 
 # Subventionsbetrug § 264 StGB
 
@@ -140,7 +140,7 @@ Spezial-Mandat: Vorwurf Subventionsbetrug. Praxistypisch nach Corona-Soforthilfe
 
 ## 2. `strafrecht-spezial-toetung-auf-verlangen-216-stgb`
 
-**Frühere Beschreibung:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
+**Fokus:** Toetung auf Verlangen nach § 216 StGB. Privilegierter Tatbestand bei ausdruecklichem und ernstlichem Verlangen des Opfers. Abgrenzung zur straflosen Beihilfe zum Suizid sowie zu § 217 StGB (geschaeftsmaessige Foerderung der Selbsttoetung, BVerfG-Nichtigkeit 2020). Strafrahmen sechs Monate bis fuenf Jahre.
 
 # Toetung auf Verlangen § 216 StGB
 
@@ -241,7 +241,7 @@ Praktische Relevanz hat § 216 StGB in der Sterbehilfe-Konstellation und in der 
 
 ## 3. `strafrecht-spezial-totschlag-212-stgb`
 
-**Frühere Beschreibung:** Totschlag nach § 212 StGB. Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH-Rechtsprechung. Versuch § 22 / § 23 StGB. Minder schwerer Fall § 213 StGB.
+**Fokus:** Totschlag nach § 212 StGB. Grundtatbestand der vorsaetzlichen Toetung. Abgrenzung zu Mord § 211 StGB und zur fahrlaessigen Toetung § 222 StGB. Vorsatzformen (dolus directus / eventualis) und Hemmschwellentheorie der staendigen BGH-Rechtsprechung. Versuch § 22 / § 23 StGB. Minder schwerer Fall § 213 StGB.
 
 # Totschlag § 212 StGB
 
@@ -344,7 +344,7 @@ In der Strafverteidigung ist § 212 StGB regelmaessig das **Verteidigungsziel** 
 
 ## 4. `strafrecht-spezial-umweltstrafrecht-324-stgb-gewaesser`
 
-**Frühere Beschreibung:** Gewaesserverunreinigung nach Paragraph 324 StGB. Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fahrlaessigkeit Absatz 3. Verteidigungslinien Verursachungsbeitrag Stoff-Mengen-Schwelle wasserrechtliche Erlaubnis.
+**Fokus:** Gewaesserverunreinigung nach Paragraph 324 StGB. Schutzgut Beschaffenheit eines Gewaessers. Tathandlung Veraenderung verschlechterung der Wasserqualitaet. Verwaltungsakzessorietaet Genehmigung. Vorsatz und Fahrlaessigkeit Absatz 3. Verteidigungslinien Verursachungsbeitrag Stoff-Mengen-Schwelle wasserrechtliche Erlaubnis.
 
 # Gewaesserverunreinigung nach Paragraph 324 StGB
 
@@ -450,7 +450,7 @@ Strafbar ist auch das fahrlaessige Begehen. Strafrahmen bis drei Jahre oder Geld
 
 ## 5. `strafrecht-spezial-umweltstrafrecht-326-stgb-abfall`
 
-**Frühere Beschreibung:** Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB. Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Nummer 1 bis 4. Absatz 2 grenzueberschreitendes Verbringen. Verwaltungsakzessorietaet KrWG. Verteidigung Abfallbegriff Vorsatz.
+**Fokus:** Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB. Schutzgut Boden und Gewaesserumwelt vor gefaehrlichen Abfaellen. Tathandlungen Behandeln Lagern Befoerdern Verbringen. Katalog Absatz 1 Nummer 1 bis 4. Absatz 2 grenzueberschreitendes Verbringen. Verwaltungsakzessorietaet KrWG. Verteidigung Abfallbegriff Vorsatz.
 
 # Unerlaubter Umgang mit Abfaellen nach Paragraph 326 StGB
 
@@ -564,7 +564,7 @@ Vorsatz hinsichtlich aller objektiven Merkmale, einschliesslich des Fehlens der 
 
 ## 6. `strafrecht-spezial-umweltstrafrecht-327-stgb-anlagen`
 
-**Frühere Beschreibung:** Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB. Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehmigungsbeduerftige Anlagen. Verwaltungsakzessorietaet BImSchG. Strafbarkeit Anlagenbetrieb ohne Genehmigung wesentliche Abweichung.
+**Fokus:** Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB. Schutzgut Genehmigungsvorbehalt im immissionsschutzrechtlichen Verfahren. Absatz 1 Nuklearanlagen Absatz 2 immissionsschutzrechtlich genehmigungsbeduerftige Anlagen. Verwaltungsakzessorietaet BImSchG. Strafbarkeit Anlagenbetrieb ohne Genehmigung wesentliche Abweichung.
 
 # Unerlaubtes Betreiben von Anlagen nach Paragraph 327 StGB
 
@@ -672,7 +672,7 @@ Auch fahrlaessiges Handeln strafbar; Strafrahmen bis 2 Jahre oder Geldstrafe.
 
 ## 7. `strafrecht-spezial-untreue-266-stgb-grundtatbestand`
 
-**Frühere Beschreibung:** Untreue nach Paragraph 266 StGB Grundtatbestand. Missbrauchstatbestand und Treubruchstatbestand. Vermoegensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermoegensschaden mit BGH-Stufenmodell. Verteidigungslinien bei Wirtschaftsstraftaten und GmbH-Geschaeftsfuehrung.
+**Fokus:** Untreue nach Paragraph 266 StGB Grundtatbestand. Missbrauchstatbestand und Treubruchstatbestand. Vermoegensbetreuungspflicht aufgrund Gesetz Rechtsgeschaeft oder Treueverhaeltnis. Vermoegensschaden mit BGH-Stufenmodell. Verteidigungslinien bei Wirtschaftsstraftaten und GmbH-Geschaeftsfuehrung.
 
 # Untreue nach Paragraph 266 StGB Grundtatbestand
 
@@ -776,7 +776,7 @@ BGH-Linie unterscheidet zwischen *Schaden* (definitiv) und *schadensgleicher Ver
 
 ## 8. `strafrecht-spezial-untreue-aktiengesellschaft-aktg-93`
 
-**Frühere Beschreibung:** Untreue im Aktienrecht. Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsoring Risikomanagement. Aufsichtsrat-Verantwortung Paragraph 116 AktG.
+**Fokus:** Untreue im Aktienrecht. Paragraph 266 StGB iVm Paragraph 93 AktG Sorgfaltspflicht des Vorstands. Business Judgment Rule Paragraph 93 Abs 1 Satz 2 AktG. Pflichtverletzung bei riskanten Unternehmensentscheidungen. Spendenpraxis Sponsoring Risikomanagement. Aufsichtsrat-Verantwortung Paragraph 116 AktG.
 
 # Untreue im Aktienrecht und Paragraph 93 AktG
 
@@ -884,7 +884,7 @@ Vorsatz im Sinne Paragraph 266 StGB: Eventualvorsatz reicht. Aber: Wer Business 
 
 ## 9. `strafrecht-spezial-untreue-mosaiksteine-treubruchstatbestand`
 
-**Frühere Beschreibung:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster fuer Mitarbeiter Treuhaender Verwalter.
+**Fokus:** Treubruchstatbestand der Untreue nach Paragraph 266 Abs 1 Alt 2 StGB. Voraussetzung der Vermoegensbetreuungspflicht. Qualifikation Pflichtgeber Auftrag Treueverhaeltnis. BGH-Linie zur Hauptsaechlichkeit. Abgrenzung zum Missbrauchstatbestand. Praktische Pruefraster fuer Mitarbeiter Treuhaender Verwalter.
 
 # Treubruchstatbestand Paragraph 266 Abs 1 Alt 2 StGB und Vermoegensbetreuungspflicht
 
@@ -987,7 +987,7 @@ Vorsatz erforderlich, dolus eventualis genuegt. Pflichtenkenntnis kann via Verbo
 
 ## 10. `strafrecht-spezial-urheberrecht-106-urhg`
 
-**Frühere Beschreibung:** Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten oeffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB.
+**Fokus:** Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG. Tatbestand Vervielfaeltigen Verbreiten oeffentliche Wiedergabe ohne Einwilligung. Strafrahmen bis 3 Jahre Freiheitsstrafe. Antragsdelikt Paragraph 109 UrhG mit Ausnahme besonderes oeffentliches Interesse. Filesharing Bootlegs Streaming-Portale Software-Raubkopien. Verteidigungsstrategien Vorsatzpruefung Strafantragsfrist Paragraph 77b StGB.
 
 # Unerlaubte Verwertung urheberrechtlich geschuetzter Werke nach Paragraph 106 UrhG
 

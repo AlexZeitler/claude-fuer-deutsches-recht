@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-verl-038-auslandsrec-bis-verl-030-rezensionse
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (verl-038-auslandsrechte-sanktionen-exportkontrolle, verl-030-rezensionsexemplar-influencer-und-steuer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 038 Auslandsrechte Sanktionen Exportkontrolle, Verl 030 Rezensionsexemplar Influencer Und Steuer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-038-auslandsrechte-sanktionen-exportkontrolle` | Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge. |
 | `verl-030-rezensionsexemplar-influencer-und-steuer` | Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-038-auslandsrechte-sanktionen-exportkontrolle`
 
-**Frühere Beschreibung:** Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge.
+**Fokus:** Verlagsrecht: Auslandsrechte, Sanktionsregimes und Exportkontrolle — EU-Sanktionen, US-OFAC, verbotene Lizenznehmer, Due Diligence und Compliance-Anforderungen für internationale Lizenzverträge.
 
 # Verl-038 · Auslandsrechte, Sanktionen und Exportkontrolle
 
@@ -145,7 +145,7 @@ Verlage, die Lizenzen an ausländische Verlage vergeben, müssen **Sanktionsrech
 
 ## 2. `verl-030-rezensionsexemplar-influencer-und-steuer`
 
-**Frühere Beschreibung:** Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG).
+**Fokus:** Verlagsrecht: Rezensionsexemplare, Influencer-Kooperationen und steuerliche Behandlung — BuchPrG § 6, Einkommensteuer, Umsatzsteuer, Kennzeichnungspflichten (UWG, TMG).
 
 # Verl-030 · Rezensionsexemplare, Influencer und Steuer
 

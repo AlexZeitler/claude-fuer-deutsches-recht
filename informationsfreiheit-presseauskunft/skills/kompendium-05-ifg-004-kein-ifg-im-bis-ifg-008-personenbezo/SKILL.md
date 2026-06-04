@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ifg-004-kein-ifg-im-bis-ifg-008-personenbezo
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (ifg-004-kein-ifg-im-land-ersatzwege-finden, ifg-005-kostenrisiko-und-gebuehrenankuendigung, ifg-007-drittbeteiligung-bei-betriebsgeheimnis, ifg-008-personenbezogene-daten-und-schwaerzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 004 Kein Ifg Im Land Ersatzwege Finden, Ifg 005 Kostenrisiko Und Gebuehrenankuendigung, Ifg 007 Drittbeteiligung Bei Betriebsgeheimnis, Ifg 008 Personenbezogene Daten Und Schwaerzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 004 Kein Ifg Im Land Ersatzwege Finden bis Ifg 008 Personenbezogene Daten Und Schwaerzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-004-kein-ifg-im-land-ersatzwege-finden` | Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-005-kostenrisiko-und-gebuehrenankuendigung` | Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-004-kein-ifg-im-land-ersatzwege-finden`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Kein IFG im Land: Ersatzwege finden. Kein IFG im Land: Ersatzwege finden im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kein Ifg Im Land Ersatzwege Finden
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-005-kostenrisiko-und-gebuehrenankuendigung`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Kostenrisiko und Gebührenankündigung prüfen. Kostenrisiko und Gebührenankündigung prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kostenrisiko Und Gebuehrenankuendigung
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-007-drittbeteiligung-bei-betriebsgeheimnis`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Drittbeteiligung bei Betriebsgeheimnissen. Drittbeteiligung bei Betriebsgeheimnissen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Drittbeteiligung bei Betriebsgeheimnissen. Drittbeteiligung bei Betriebsgeheimnissen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Drittbeteiligung Bei Betriebsgeheimnis
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-008-personenbezogene-daten-und-schwaerzung`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Personenbezogene Daten und Schwärzung. Personenbezogene Daten und Schwärzung im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Personenbezogene Daten und Schwärzung. Personenbezogene Daten und Schwärzung im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Personenbezogene Daten Und Schwaerzung
 

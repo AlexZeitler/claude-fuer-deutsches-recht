@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-dritte-anwohner-laer-bis-eilversammlung
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (dritte-anwohner-laerm-geschaeft, eilversammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dritte Anwohner Laerm Geschaeft, Eilversammlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - versammlungsrecht
+# Arbeitsbereich - Dritte Anwohner Laerm Geschaeft, Eilversammlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dritte-anwohner-laerm-geschaeft` | Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten. |
 | `eilversammlung` | Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dritte-anwohner-laerm-geschaeft`
 
-**Frühere Beschreibung:** Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten.
+**Fokus:** Bearbeitet Konflikte mit Anwohnern, Geschäften, Schulen, Kirchen, Kliniken, Botschaften oder sensiblen Orten.
 
 # Drittrechte ernst nehmen ohne Verdrängung
 
@@ -69,7 +69,7 @@ Output: Interessenmatrix und Auflagenvorschläge.
 
 ## 2. `eilversammlung`
 
-**Frühere Beschreibung:** Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde.
+**Fokus:** Prüft Eilversammlungen, bei denen ein Veranstalter existiert, der Zweck aber bei voller Fristeinhaltung vereitelt würde.
 
 # Eilversammlung: anzeigen sobald es geht
 

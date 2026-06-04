@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-fz-insolvenz-verlust-bis-forsch-projektbeschr
-description: "forschungszulage-antragstellung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fz-insolvenz-verlust-liquiditaet, forsch-konzernverbund-forschung-spezial, forsch-projektbeschreibung-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forschungszulage-antragstellung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fz Insolvenz Verlust Liquiditaet, Forsch Konzernverbund Forschung Spezial, Forsch Projektbeschreibung Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - forschungszulage-antragstellung
+# Arbeitsbereich - Fz Insolvenz Verlust Liquiditaet, Forsch Konzernverbund Forschung Spezial, Forsch Projektbeschreibung Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fz-insolvenz-verlust-liquiditaet` | Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO. |
 | `forsch-konzernverbund-forschung-spezial` | Spezialfall Konzernverbundforschung und verbundene Unternehmen: § 3 Abs. 1 FZulG, Auftragsforschung, KMU-Status, Beihilfen-Kumulation. Pruefraster fuer Konzerntochter und Forschungs-GmbH. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fz-insolvenz-verlust-liquiditaet`
 
-**Frühere Beschreibung:** Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO.
+**Fokus:** Forschungszulage in Verlust-, Krisen- und Insolvenzlagen als Liquiditätshebel nutzen: Auszahlung statt bloßer Steuerersparnis, Vorauszahlungssenkung, Massezugehörigkeit, Antragsbefugnis Geschäftsleitung oder Insolvenzverwaltung, Aufrechnung, Abtretung, Sicherungsrechte. Mit Liquiditätszeitachse, Fortbestehensprognose-Bezug und Hinweisen zu § 15a InsO und § 15b InsO.
 
 # Verlust, Krise und Insolvenz — die Forschungszulage als Liquiditätshebel
 
@@ -173,7 +173,7 @@ Praktisch wertvoll wird die Auszahlung bei:
 
 ## 2. `forsch-konzernverbund-forschung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Konzernverbundforschung und verbundene Unternehmen: § 3 Abs. 1 FZulG, Auftragsforschung, KMU-Status, Beihilfen-Kumulation. Pruefraster fuer Konzerntochter und Forschungs-GmbH.
+**Fokus:** Spezialfall Konzernverbundforschung und verbundene Unternehmen: § 3 Abs. 1 FZulG, Auftragsforschung, KMU-Status, Beihilfen-Kumulation. Pruefraster fuer Konzerntochter und Forschungs-GmbH.
 
 # Forsch: Konzernverbund Forschung
 
@@ -226,7 +226,7 @@ Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt d
 
 ## 3. `forsch-projektbeschreibung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Projektbeschreibung FZulG: FuE-Definition Frascati, Neuheit, technologisches Risiko, systematische Vorgehensweise. Pruefraster fuer schluessige Darstellung gegenueber BSFZ.
+**Fokus:** Bauleiter Projektbeschreibung FZulG: FuE-Definition Frascati, Neuheit, technologisches Risiko, systematische Vorgehensweise. Pruefraster fuer schluessige Darstellung gegenueber BSFZ.
 
 # Forsch: Projektbeschreibung Bauleiter
 

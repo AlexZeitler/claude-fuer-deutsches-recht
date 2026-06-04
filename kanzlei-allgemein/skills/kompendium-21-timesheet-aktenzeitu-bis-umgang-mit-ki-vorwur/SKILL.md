@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-timesheet-aktenzeitu-bis-umgang-mit-ki-vorwur
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (timesheet-aktenzeitung, umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - kanzlei-allgemein
+# Arbeitsbereich - Timesheet Aktenzeitung, Umgang Mit Ki Vorwurf Bei Sachverstaendigengutachten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `timesheet-aktenzeitung` | Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative. |
 | `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten` | Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `timesheet-aktenzeitung`
 
-**Frühere Beschreibung:** Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
+**Fokus:** Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
 
 # Timesheet und Aktenzeitung
 
@@ -133,7 +133,7 @@ Bei Mandatsende oder Zwischenrechnung:
 
 ## 2. `umgang-mit-ki-vorwurf-bei-sachverstaendigengutachten`
 
-**Frühere Beschreibung:** Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise.
+**Fokus:** Anwaltliche Strategie bei dem Vorwurf, ein gerichtliches Sachverständigengutachten sei unter Einsatz künstlicher Intelligenz erstellt worden. Höchstpersönliche Erstellungspflicht (§ 407a Abs. 1 ZPO), keine generelle KI-Kennzeichnungspflicht im Zivilprozess, JVEG-Vergütungsmechanismen § 8a Abs. 2, Workflow für die vier zentralen Fragen, Schriftsatzbausteine und taktische Hinweise.
 
 # Umgang mit dem KI-Vorwurf bei Sachverständigengutachten
 

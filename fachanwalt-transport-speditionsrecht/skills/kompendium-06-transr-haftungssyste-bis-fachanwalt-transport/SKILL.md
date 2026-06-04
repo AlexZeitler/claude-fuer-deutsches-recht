@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-transr-haftungssyste-bis-fachanwalt-transport
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (transr-haftungssystem-grundzuege, erstgespraech-mandatsannahme, fachanwalt-transport-adr-gefahrgut) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Transport Adr Gefahrgut; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Transr Haftungssystem Grundzuege, Erstgespraech Mandatsannahme, Transport Adr Gefahrgut
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `transr-haftungssystem-grundzuege` | Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff. HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schadensermittlung und Anspruchsberechnung. |
 | `erstgespraech-mandatsannahme` | Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `transr-haftungssystem-grundzuege`
 
-**Frühere Beschreibung:** Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff. HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schadensermittlung und Anspruchsberechnung.
+**Fokus:** Haftungssystem Grundzuege: Obhutshaftung Frachtfuehrer §§ 425 ff. HGB, Hoechstgrenze 8.33 SZR pro Kilogramm, qualifiziertes Verschulden § 435 HGB durchbricht Hoechstgrenze. Pruefraster Schadensermittlung und Anspruchsberechnung.
 
 # Transport: Haftungssystem
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-transport-speditionsrecht`. Er ergae
 
 ## 2. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift.
+**Fokus:** Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift.
 
 # Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht
 
@@ -245,7 +245,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## 3. `fachanwalt-transport-adr-gefahrgut`
 
-**Frühere Beschreibung:** Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Prüfraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtführerhaftung HGB.
+**Fokus:** Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Prüfraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtführerhaftung HGB.
 
 # ADR-Gefahrgut-Transport
 

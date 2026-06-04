@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-criminal-copyright-5-bis-derivative-right-ada
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (criminal-copyright-506, customs-border-copyright, database-collections-us-law, derivative-right-adaptations) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Criminal Copyright 506, Customs Border Copyright, Database Collections Us Law, Derivative Right Adaptations; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Criminal Copyright 506 bis Derivative Right Adaptations
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `criminal-copyright-506` | Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319. |
 | `customs-border-copyright` | Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `criminal-copyright-506`
 
-**Frühere Beschreibung:** Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319.
+**Fokus:** Prueft strafrechtliche Copyright-Risiken, willfulness, commercial advantage, prerelease works und Schnittstelle zu 18 USC 2319.
 
 # Criminal Copyright § 506
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `customs-border-copyright`
 
-**Frühere Beschreibung:** Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border.
+**Fokus:** Prueft Grenzschutz, CBP recordation, infringing imports, counterfeit-adjacent goods and takedown at border.
 
 # Customs and Border Copyright
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `database-collections-us-law`
 
-**Frühere Beschreibung:** Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse.
+**Fokus:** Prueft Datensammlungen, Auswahl/Anordnung, factual data, database licensing und EU/US-Missverständnisse.
 
 # Databases und Collections US Law
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `derivative-right-adaptations`
 
-**Frühere Beschreibung:** Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works.
+**Fokus:** Prueft Adaption, Translation, Sequel, Audiobook, Film, Game, Remix und andere derivative works.
 
 # Derivative Right und Adaptations
 

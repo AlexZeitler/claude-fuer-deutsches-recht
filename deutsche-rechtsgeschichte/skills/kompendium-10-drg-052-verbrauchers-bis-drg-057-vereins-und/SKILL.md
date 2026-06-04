@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-drg-052-verbrauchers-bis-drg-057-vereins-und
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 10; bündelt 6 frühere Spezialskills (drg-052-verbraucherschutzgeschichte, drg-053-datenschutz-und-informationelle-selbstbestimmung, drg-054-umweltrechtliche-modernisierung, drg-055-medizinrecht-und-patientenrechte, drg-056-presserecht-und-meinungsfreiheit-historisch und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 052 Verbraucherschutzgeschichte, Drg 053 Datenschutz Und Informationelle Selbstbestimmung, Drg 054 Umweltrechtliche Modernisierung, Drg 055 Medizinrecht Und Patientenrechte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 052 Verbraucherschutzgeschichte bis Drg 057 Vereins Und Parteienrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-052-verbraucherschutzgeschichte` | Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien. |
 | `drg-053-datenschutz-und-informationelle-selbstbestimmung` | Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-052-verbraucherschutzgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte des Verbraucherschutzrechts. AGBG 1976, Haustuerwiderrufsgesetz 1986, Verbraucherkreditgesetz 1990, Schuldrechtsreform 2002 und EU-Verbraucherrichtlinien.
 
 # Verbraucherschutzgeschichte
 
@@ -81,7 +81,7 @@ AGBG 1976: BGBl. I 1976, 3317. BGB: gesetze-im-internet.de. BGH: bgh.de. EU-Rich
 
 ## 2. `drg-053-datenschutz-und-informationelle-selbstbestimmung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018.
+**Fokus:** Deutsche Rechtsgeschichte: Datenschutz und informationelle Selbstbestimmung. BDSG 1977, BVerfGE 65-1 Volkszaehlungsurteil 1983, informationelle Selbstbestimmung als Grundrecht und DSGVO 2018.
 
 # Datenschutz und informationelle Selbstbestimmung
 
@@ -131,7 +131,7 @@ BDSG 1977: BGBl. I 1977, 201. BVerfGE 65, 1: bverfg.de. DSGVO: eur-lex.europa.eu
 
 ## 3. `drg-054-umweltrechtliche-modernisierung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste Umweltschutzgesetze 1970er, BImSchG 1974, WHG 1957, Umweltschutz im GG (Art. 20a seit 1994) und EU-Umweltrecht.
+**Fokus:** Deutsche Rechtsgeschichte: Umweltrechtliche Modernisierung. Erste Umweltschutzgesetze 1970er, BImSchG 1974, WHG 1957, Umweltschutz im GG (Art. 20a seit 1994) und EU-Umweltrecht.
 
 # Umweltrechtliche Modernisierung
 
@@ -181,7 +181,7 @@ BImSchG und WHG: gesetze-im-internet.de. GG Art. 20a: gesetze-im-internet.de. BV
 
 ## 4. `drg-055-medizinrecht-und-patientenrechte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion.
+**Fokus:** Deutsche Rechtsgeschichte: Medizinrecht und Patientenrechte. Aerztliche Aufklaerungspflicht (RG-Rspr. 1894), Nuerenberger Kodex 1947, Patientenrechtegesetz 2013 und Sterbehilfe-Diskussion.
 
 # Medizinrecht und Patientenrechte
 
@@ -231,7 +231,7 @@ BGB: gesetze-im-internet.de. BVerfGE 153, 182: bverfg.de. RGZ 39, 127: historisc
 
 ## 5. `drg-056-presserecht-und-meinungsfreiheit-historisch`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5.
+**Fokus:** Deutsche Rechtsgeschichte: Presserecht und Meinungsfreiheit historisch. Pressezensur im Deutschen Bund, Reichspressegesetz 1874, Weimarer Presserecht, NS-Schriftleitergesetz 1933 und GG Art. 5.
 
 # Presserecht und Meinungsfreiheit historisch
 
@@ -282,7 +282,7 @@ Reichspressegesetz 1874: ALEX/OeNB. NS-Schriftleitergesetz 1933: ALEX/OeNB. GG A
 
 ## 6. `drg-057-vereins-und-parteienrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967.
+**Fokus:** Deutsche Rechtsgeschichte: Vereins- und Parteienrecht. BGB-Vereinsrecht, Sozialistengesetz 1878, Weimarer Koalitionsfreiheit, GG Art. 21 und Parteiengesetz 1967.
 
 # Vereins- und Parteienrecht
 

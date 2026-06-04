@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-corporate-kanzlei-sc-bis-corporate-kanzlei-si
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (corporate-kanzlei-schuldschein-darlehen-transfer, corporate-kanzlei-signing-closing-conditions) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Schuldschein Darlehen Transfer, Corporate Kanzlei Signing Closing Conditions
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-schuldschein-darlehen-transfer` | Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades: Darlehensgeberregister, Zahlstelle, Abtretung, Zustimmung, Sicherheiten und Notice. |
 | `corporate-kanzlei-signing-closing-conditions` | Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-schuldschein-darlehen-transfer`
 
-**Frühere Beschreibung:** Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades: Darlehensgeberregister, Zahlstelle, Abtretung, Zustimmung, Sicherheiten und Notice.
+**Fokus:** Prüft Schuldscheindarlehen in Corporate/M&A, Refinanzierung und Secondary Trades: Darlehensgeberregister, Zahlstelle, Abtretung, Zustimmung, Sicherheiten und Notice.
 
 # Corporate: Schuldscheindarlehen und Übertragung
 
@@ -70,7 +70,7 @@ BGB §§ 398 ff., § 399, Darlehensrecht, Schuldscheinbedingungen Upload, Sicher
 
 ## 2. `corporate-kanzlei-signing-closing-conditions`
 
-**Frühere Beschreibung:** Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv.
+**Fokus:** Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Prüfraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv.
 
 # Signing und Closing Conditions
 

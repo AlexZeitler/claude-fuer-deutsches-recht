@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-lehramtspruefung-bis-medizinisches-staats
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (lehramtspruefung, lrs-hochschule, masterarbeit-betreuung, medizinisches-staatsexamen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lehramtspruefung, Lrs Hochschule, Masterarbeit Betreuung, Medizinisches Staatsexamen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - pruefungsrecht-hochschule
+# Arbeitsbereich - Lehramtspruefung bis Medizinisches Staatsexamen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lehramtspruefung` | Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung. |
 | `lrs-hochschule` | Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lehramtspruefung`
 
-**Frühere Beschreibung:** Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung.
+**Fokus:** Prüft Modulprüfung, Staatsprüfung, Praxisphase, Unterrichtsbesuch und Wiederholung.
 
 # Lehramtsprüfung
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 2. `lrs-hochschule`
 
-**Frühere Beschreibung:** Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck.
+**Fokus:** Prüft LRS, Schreibzeitverlängerung, Hilfsmittel, Notenschutz und Prüfungszweck.
 
 # LRS in Hochschulprüfungen
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `masterarbeit-betreuung`
 
-**Frühere Beschreibung:** Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur.
+**Fokus:** Prüft Betreuungsdefizite, Themenänderung, Fristen, Bewertungsmaßstab und Zweitkorrektur.
 
 # Masterarbeit und Betreuung
 
@@ -212,7 +212,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `medizinisches-staatsexamen`
 
-**Frühere Beschreibung:** Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide.
+**Fokus:** Prüft M1/M2/M3, IMPP, Prüfungsrücktritt, Nachteilsausgleich und Bescheide.
 
 # Medizinisches Staatsexamen
 

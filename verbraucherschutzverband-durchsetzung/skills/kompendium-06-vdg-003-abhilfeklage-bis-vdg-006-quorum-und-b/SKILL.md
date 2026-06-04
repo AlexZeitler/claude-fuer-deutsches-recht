@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-vdg-003-abhilfeklage-bis-vdg-006-quorum-und-b
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (vdg-003-abhilfeklage-oder-musterfeststellung-w, vdg-004-uklag-unterlassung-gegen-agb, vdg-005-uwg-verbraucherinteressen-pruefen, vdg-006-quorum-und-betroffenengruppe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 003 Abhilfeklage Oder Musterfeststellung W, Vdg 004 Uklag Unterlassung Gegen Agb, Vdg 005 Uwg Verbraucherinteressen Pruefen, Vdg 006 Quorum Und Betroffenengruppe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 003 Abhilfeklage Oder Musterfeststellung W bis Vdg 006 Quorum Und Betroffenengruppe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-003-abhilfeklage-oder-musterfeststellung-w` | Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-004-uklag-unterlassung-gegen-agb` | Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-003-abhilfeklage-oder-musterfeststellung-w`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abhilfeklage oder Musterfeststellung wählen. Abhilfeklage oder Musterfeststellung wählen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Abhilfeklage Oder Musterfeststellung W
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-004-uklag-unterlassung-gegen-agb`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: UKlaG-Unterlassung gegen AGB. UKlaG-Unterlassung gegen AGB im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uklag Unterlassung Gegen Agb
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-005-uwg-verbraucherinteressen-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: UWG-Verbraucherinteressen prüfen. UWG-Verbraucherinteressen prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uwg Verbraucherinteressen Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-006-quorum-und-betroffenengruppe`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Quorum und Betroffenengruppe. Quorum und Betroffenengruppe im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Quorum und Betroffenengruppe. Quorum und Betroffenengruppe im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Quorum Und Betroffenengruppe
 

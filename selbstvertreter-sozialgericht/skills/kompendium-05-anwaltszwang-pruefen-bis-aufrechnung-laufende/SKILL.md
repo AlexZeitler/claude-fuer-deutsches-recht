@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anwaltszwang-pruefen-bis-aufrechnung-laufende
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (anwaltszwang-pruefen-73-sgg, arbeitslosengeld-i-sgb-iii, arbeitsunfall-bg-anerkennung-anzeige, arztberichte-vorlegen-laien-leitfaden, aufrechnung-laufende-leistungen-51-sgb-i) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaltszwang Pruefen 73 Sgg, Arbeitslosengeld I Sgb Iii, Arbeitsunfall Bg Anerkennung Anzeige, Arztberichte Vorlegen Laien Leitfaden und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Anwaltszwang Pruefen 73 Sgg bis Aufrechnung Laufende Leistungen 51 Sgb I
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaltszwang-pruefen-73-sgg` | Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen. |
 | `arbeitslosengeld-i-sgb-iii` | Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaltszwang-pruefen-73-sgg`
 
-**Frühere Beschreibung:** Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen.
+**Fokus:** Brauchen Sie einen Anwalt vor dem Sozialgericht? § 73 SGG erklärt. Vor SG und LSG kein Anwaltszwang. Vor dem BSG aber schon. Was Sie als Buerger selbst machen koennen.
 
 # Brauchen Sie einen Anwalt? Der § 73 SGG
 
@@ -149,7 +149,7 @@ Stand: 05/2026. § 73 SGG seit langem unveraendert. BSG-Liste der zugelassenen A
 
 ## 2. `arbeitslosengeld-i-sgb-iii`
 
-**Frühere Beschreibung:** Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt.
+**Fokus:** Arbeitslosengeld I nach SGB III. Anspruch Sperrzeit Hoehe Wartezeit Arbeitsagentur. Streit um Sperrzeit oder Hoehe ALG I für Buerger ohne Anwalt.
 
 # Arbeitslosengeld I — Streit mit der Arbeitsagentur
 
@@ -287,7 +287,7 @@ Stand: 05/2026. SGB III aktuell. BSG-Linie zu wichtigem Grund Eigenkuendigung pr
 
 ## 3. `arbeitsunfall-bg-anerkennung-anzeige`
 
-**Frühere Beschreibung:** Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage.
+**Fokus:** Arbeitsunfall: Anerkennung durch Berufsgenossenschaft. Skill klaert den Unfallbegriff Wegeunfall meldepflichtige Unfaelle Frist der Unfallanzeige durch Arbeitgeber innerhalb 3 Tagen und das Verfahren der Anerkennung. Liefert Vorlage.
 
 # Arbeitsunfall Bg Anerkennung Anzeige
 
@@ -342,7 +342,7 @@ Plotzlich von aussen einwirkendes Ereignis das zu einem Gesundheitsschaden oder 
 
 ## 4. `arztberichte-vorlegen-laien-leitfaden`
 
-**Frühere Beschreibung:** Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext.
+**Fokus:** Arzt-Atteste und Befundberichte gezielt einholen und vorlegen. Was Sie vom Arzt erbitten und wie. Konkrete Formulierungen für Laien Mustertext.
 
 # Arzt-Atteste richtig nutzen
 
@@ -501,7 +501,7 @@ Stand: 05/2026. Atteste-Kosten ca. 25 bis 75 EUR (GOAe). Aerzte muessen liefern,
 
 ## 5. `aufrechnung-laufende-leistungen-51-sgb-i`
 
-**Frühere Beschreibung:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine.
+**Fokus:** Aufrechnung mit laufenden Sozialleistungen nach § 51 SGB I. Skill klaert wann der Sozialleistungstraeger eine Rueckforderung mit laufenden Leistungen aufrechnen darf Grenzen Pfaendungsfreigrenze Anhoerung. Liefert Verteidigungsbausteine.
 
 # Aufrechnung Laufende Leistungen 51 Sgb I
 

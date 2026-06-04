@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-solo-steuerluecke-er-bis-solo-agenturmodell
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 8 frühere Spezialskills (solo-steuerluecke-erkennen, solo-steuernummer-und-ust-id, solo-stundensatz-kalkulation, solo-ug-oder-gmbh-wechsel, solo-abmahnung-erhalten und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Steuerluecke Erkennen, Solo Steuernummer Und Ust Id, Solo Stundensatz Kalkulation, Solo Ug Oder Gmbh Wechsel und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Steuerluecke Erkennen bis Solo Agenturmodell
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-steuerluecke-erkennen` | Solo-Selbstständige: ordnet Steuerschulden, Stundung, Vollstreckung und Kommunikation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-steuernummer-und-ust-id` | Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-steuerluecke-erkennen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Steuerschulden, Stundung, Vollstreckung und Kommunikation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Steuerschulden, Stundung, Vollstreckung und Kommunikation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Ordnet steuerschulden
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 2. `solo-steuernummer-und-ust-id`
 
-**Frühere Beschreibung:** Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: klärt Steuernummer, USt-IdNr., Auslandskunden und Rechnungsstart; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Klärt steuernummer
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 3. `solo-stundensatz-kalkulation`
 
-**Frühere Beschreibung:** Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: berechnet Stundensatz aus Kosten, Auslastung, Steuer, Urlaub und Risiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Berechnet stundensatz aus kosten
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 4. `solo-ug-oder-gmbh-wechsel`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bewertet Haftung, Kosten, Steuern, Register und Außenwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bewertet Haftung, Kosten, Steuern, Register und Außenwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Bewertet haftung
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 5. `solo-abmahnung-erhalten`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sortiert UWG/Urheber/Marke/DSGVO-Abmahnung und Fristen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sortiert UWG/Urheber/Marke/DSGVO-Abmahnung und Fristen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Sortiert uwg/urheber/marke/dsgvo-abmahnung und fristen
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 6. `solo-abschluss-vor-abgabe`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht den finalen Selbstcheck vor Vertrag, Rechnung, Behördenantwort oder Upload; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht den finalen Selbstcheck vor Vertrag, Rechnung, Behördenantwort oder Upload; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Macht den finalen selbstcheck vor vertrag
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 7. `solo-agb-fuer-kleine-selbststaendige`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überdehnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt schlanke AGB ohne unwirksame Überdehnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Erstellt schlanke agb ohne unwirksame überdehnung
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 8. `solo-agenturmodell`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Leadagentur, Durchreichen, Marge, Haftung und Subunternehmer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Leadagentur, Durchreichen, Marge, Haftung und Subunternehmer; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft leadagentur
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-infl-049-creator-nac-bis-infl-051-politische
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (infl-049-creator-nachlass-und-accountzugang, infl-050-kooperation-mit-oeffentlichen-stellen, infl-051-politische-werbung-und-transparenz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 049 Creator Nachlass Und Accountzugang, Infl 050 Kooperation Mit Oeffentlichen Stellen, Infl 051 Politische Werbung Und Transparenz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - influencer-recht
+# Arbeitsbereich - Infl 049 Creator Nachlass Und Accountzugang, Infl 050 Kooperation Mit Oeffentlichen Stellen, Infl 051 Politische Werbung Und Transparenz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-049-creator-nachlass-und-accountzugang` | Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge. |
 | `infl-050-kooperation-mit-oeffentlichen-stellen` | Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-049-creator-nachlass-und-accountzugang`
 
-**Frühere Beschreibung:** Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge.
+**Fokus:** Influencer-Recht: Creator-Nachlass und Account-Zugang – Erbrecht, digitaler Nachlass, Plattform-AGB, postmortales Persönlichkeitsrecht und Vorsorge.
 
 # Influencer-Recht: Creator-Nachlass und Account-Zugang
 
@@ -94,7 +94,7 @@ Der digitale Nachlass eines Creators ist rechtlich und wirtschaftlich bedeutsam:
 
 ## 2. `infl-050-kooperation-mit-oeffentlichen-stellen`
 
-**Frühere Beschreibung:** Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht.
+**Fokus:** Influencer-Recht: Kooperation mit Behörden und öffentlichen Stellen – Vergaberecht, Transparenzgebot, Kennzeichnung und Haushaltsrecht.
 
 # Influencer-Recht: Kooperation mit öffentlichen Stellen
 
@@ -160,7 +160,7 @@ Staatliche Institutionen als Auftraggeber für Creator unterliegen besonderen Re
 
 ## 3. `infl-051-politische-werbung-und-transparenz`
 
-**Frühere Beschreibung:** Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz.
+**Fokus:** Influencer-Recht: Politische Werbung durch Creator – Kennzeichnungspflichten, EU Digital Services Act, Parteienfinanzierung und Transparenz.
 
 # Influencer-Recht: Politische Werbung und Transparenz
 

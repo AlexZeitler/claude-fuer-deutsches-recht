@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-triage-ki-vo-vorprue-bis-verhaeltnis-zu-ander
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (triage-ki-vo-vorpruefung, vendor-due-diligence-ai-act-beschaffung, verbotene-praktiken-art-5, verhaeltnis-zu-anderen-unionsrechtsakten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Triage Ki Vo Vorpruefung, Vendor Due Diligence Ai Act Beschaffung, Verbotene Praktiken Art 5, Verhaeltnis Zu Anderen Unionsrechtsakten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Triage Ki Vo Vorpruefung bis Verhaeltnis Zu Anderen Unionsrechtsakten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `triage-ki-vo-vorpruefung` | Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition). |
 | `vendor-due-diligence-ai-act-beschaffung` | KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `triage-ki-vo-vorpruefung`
 
-**Frühere Beschreibung:** Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition).
+**Fokus:** Nutzer kommt mit unklarer KI-VO-Frage oder möglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Prüfung? Eingangs-Triage-Skill. Prüfraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollprüfung KI-System-Definition).
 
 # Triage: KI-VO-Vorprüfung — Was prüft der Nutzer?
 
@@ -135,7 +135,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `vendor-due-diligence-ai-act-beschaffung`
 
-**Frühere Beschreibung:** KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal.
+**Fokus:** KI-Beschaffung und Vendor Due Diligence: Anbieterrolle, Hochrisiko, GPAI, Datenschutz, Urheberrecht, Security, Unterauftragnehmer, Audit-Rechte, Exit, Incident-Meldung und Vertragsanlagen fuer Einkauf und Legal.
 
 # KI-Beschaffung: Vendor Due Diligence
 
@@ -170,7 +170,7 @@ Ein Einkaufsvermerk mit Go/No-Go, Nachforderungen und Redlines.
 
 ## 3. `verbotene-praktiken-art-5`
 
-**Frühere Beschreibung:** Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI öffentlicher Raum Emotionserkennung Arbeitsplatz Untargeted Scraping Gesichtsdatenbanken. Output: Entscheidungsbaum je Verbotspraktik mit Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Hochrisiko nicht verboten aber reguliert) und sachlicher-ausschluss-art-2-abs-3-bis-12.
+**Fokus:** Unternehmen prüft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Prüfraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI öffentlicher Raum Emotionserkennung Arbeitsplatz Untargeted Scraping Gesichtsdatenbanken. Output: Entscheidungsbaum je Verbotspraktik mit Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Hochrisiko nicht verboten aber reguliert) und sachlicher-ausschluss-art-2-abs-3-bis-12.
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)
 
@@ -311,7 +311,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `verhaeltnis-zu-anderen-unionsrechtsakten`
 
-**Frühere Beschreibung:** Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience Act Kumulationseffekte Spezialitaet Verweisregelungen Doppelpflichten. Output: Normen-Konflikt-Matrix und Handlungsempfehlung. Abgrenzung zu falsche-wiese-warnung-ki-vo (Abgrenzung bei klaren Verwechslungen) und territorialer-anwendungsbereich-art-2.
+**Fokus:** Anwalt oder Compliance-Beauftragter fragt: Gilt neben der KI-VO noch ein anderes EU-Gesetz für das gleiche System und wie interagieren die Pflichten? Art. 2 Abs. 2 KI-VO Verhältnis zu anderen Rechtsakten. Prüfraster: DSGVO Maschinenverordnung Produktsicherheits-VO MDR IVDR NIS-2 Cyber Resilience Act Kumulationseffekte Spezialitaet Verweisregelungen Doppelpflichten. Output: Normen-Konflikt-Matrix und Handlungsempfehlung. Abgrenzung zu falsche-wiese-warnung-ki-vo (Abgrenzung bei klaren Verwechslungen) und territorialer-anwendungsbereich-art-2.
 
 # Verhältnis zu anderen Unionsrechtsakten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-vdg-078-fitnessstudi-bis-vdg-082-reiseveranst
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (vdg-078-fitnessstudio-umsetzung-ueberwachen, vdg-080-fitnessstudio-risiko-rot-markieren, vdg-081-reiseveranstalter-sammelfaehigkeit-pru, vdg-082-reiseveranstalter-klageschrift-struktu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 078 Fitnessstudio Umsetzung Ueberwachen, Vdg 080 Fitnessstudio Risiko Rot Markieren, Vdg 081 Reiseveranstalter Sammelfaehigkeit Pru, Vdg 082 Reiseveranstalter Klageschrift Struktu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 078 Fitnessstudio Umsetzung Ueberwachen bis Vdg 082 Reiseveranstalter Klageschrift Struktu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-078-fitnessstudio-umsetzung-ueberwachen` | Verbraucherschutzverband Durchsetzung: Fitnessstudio: Umsetzung überwachen. Umsetzung überwachen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-080-fitnessstudio-risiko-rot-markieren` | Verbraucherschutzverband Durchsetzung: Fitnessstudio: Risiko rot markieren. Risiko rot markieren für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-078-fitnessstudio-umsetzung-ueberwachen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Umsetzung überwachen. Umsetzung überwachen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Umsetzung überwachen. Umsetzung überwachen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Umsetzung Ueberwachen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-080-fitnessstudio-risiko-rot-markieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Risiko rot markieren. Risiko rot markieren für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Risiko rot markieren. Risiko rot markieren für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Risiko Rot Markieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-081-reiseveranstalter-sammelfaehigkeit-pru`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reiseveranstalter Sammelfaehigkeit Pru
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-082-reiseveranstalter-klageschrift-struktu`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Klageschrift strukturieren. Klageschrift strukturieren für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Reiseveranstalter: Klageschrift strukturieren. Klageschrift strukturieren für Reiseveranstalter im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reiseveranstalter Klageschrift Struktu
 

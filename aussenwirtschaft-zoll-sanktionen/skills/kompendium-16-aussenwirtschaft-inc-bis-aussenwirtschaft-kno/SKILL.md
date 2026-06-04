@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-aussenwirtschaft-inc-bis-aussenwirtschaft-kno
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (aussenwirtschaft-incoterms-exportkontrolle, aussenwirtschaft-internal-investigation-aussenwirtschaft, aussenwirtschaft-investitionspruefung-bmwk, aussenwirtschaft-know-your-customer-exportkontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Incoterms Exportkontrolle, Aussenwirtschaft Internal Investigation Aussenwirtschaft, Aussenwirtschaft Investitionspruefung Bmwk, Aussenwirtschaft Know Your Customer Exportkontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Incoterms Exportkontrolle bis Aussenwirtschaft Know Your Customer Exportkontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-incoterms-exportkontrolle` | Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung fuer Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung. |
 | `aussenwirtschaft-internal-investigation-aussenwirtschaft` | Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung fuer freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-incoterms-exportkontrolle`
 
-**Frühere Beschreibung:** Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung fuer Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung.
+**Fokus:** Schnittstelle zwischen Incoterms 2020 und Exportkontrollverantwortung: Bestimmung des Ausfuehrers bei EXW (Abholklausel), Pflichtenuebertragung und Haftungsluecken bei DDP, Verantwortung fuer Ausfuhranmeldung und Exportkontroll-Compliance je Klausel. Output: Incoterms-Exportkontroll-Matrix und Vertragsempfehlung.
 
 # Incoterms und Exportkontrolle: Verantwortung und Haftungsluecken
 
@@ -116,7 +116,7 @@ Incoterms-Exportkontroll-Matrix mit Verantwortungszuordnung je Klausel, Vertrags
 
 ## 2. `aussenwirtschaft-internal-investigation-aussenwirtschaft`
 
-**Frühere Beschreibung:** Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung fuer freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung.
+**Fokus:** Interne Ermittlung bei Verdacht auf Verstoss gegen Exportkontroll- oder Sanktionsrecht: Sicherung digitaler und physischer Beweise (Legal Hold), Mitarbeiterbefragungen, Compliance-Bericht, Schadensquantifizierung und Weichenstellung fuer freiwillige Offenlegung oder Verteidigung. Output: Investigation-Protokoll und Abschlussberichtsgliederung.
 
 # Interne Ermittlung bei Exportkontroll- und Sanktionsverstoss
 
@@ -204,7 +204,7 @@ Legal-Hold-Anordnung, Investigation-Protokoll mit Befragungsprotokollen, Schaden
 
 ## 3. `aussenwirtschaft-investitionspruefung-bmwk`
 
-**Frühere Beschreibung:** Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pruefcheckliste.
+**Fokus:** Investitionspruefung durch das BMWK nach AWG §§ 55 ff. und AWV §§ 55 ff.: sektorspezifische Pruefung (KRITIS) und allgemeine Pruefung, Anteilsschwellen (10/20/25 Prozent), Vollzugsverbot, Freigabe und Untersagung. Drittstaatsinvestoren und inlaendische Erwerber. Output: Anmeldeformular und M&A-Pruefcheckliste.
 
 # Investitionspruefung BMWK: AWG-Verfahren bei auslaendischen Unternehmenserwerben
 
@@ -291,7 +291,7 @@ BMWK-Anmeldeformular, M&A-Pruefcheckliste fuer Investitionspruefung, Risikoklass
 
 ## 4. `aussenwirtschaft-know-your-customer-exportkontrolle`
 
-**Frühere Beschreibung:** KYC-Prozess fuer Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung.
+**Fokus:** KYC-Prozess fuer Exportkontrollzwecke: Kundenidentifizierung, Endverwender-Screening, UBO-Ermittlung nach VO (EU) 2021/821 und BAFA-Anforderungen, Red-Flag-Analyse bei verdaechtigen Bestellmuster und Sanktionslistenabgleich. Output: KYC-Kundenprofil und Freigabe-/Sperrentscheidung.
 
 # Know Your Customer im Exportkontrollkontext: Kundenscreening und Endverwenderidentifizierung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-erwerbsminderungsren-bis-gerichtskostenfreihe
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (erwerbsminderungsrente-belegfuehrung, fahrtkosten-zeugen-pkh-erstattung, feststellungsklage-55-sgg, gdb-feststellung-versorgungsamt-sgb-ix, gerichtskostenfreiheit-183-sgg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erwerbsminderungsrente Belegfuehrung, Fahrtkosten Zeugen Pkh Erstattung, Feststellungsklage 55 Sgg, Gdb Feststellung Versorgungsamt Sgb Ix und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Erwerbsminderungsrente Belegfuehrung bis Gerichtskostenfreiheit 183 Sgg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erwerbsminderungsrente-belegfuehrung` | Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie. |
 | `fahrtkosten-zeugen-pkh-erstattung` | Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erwerbsminderungsrente-belegfuehrung`
 
-**Frühere Beschreibung:** Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie.
+**Fokus:** Erwerbsminderungsrente Belegfuehrung. Skill erklaert wie Selbstvertreter im EM-Rentenstreit medizinische Belege sammeln und gewichten Arztberichte Klinikberichte Reha-Berichte Privatgutachten Pflegegrad-Bezuege. Liefert Strategie.
 
 # Erwerbsminderungsrente Belegfuehrung
 
@@ -96,7 +96,7 @@ EM-Rente steht und faellt mit der medizinischen Beweisfuehrung. Selbstvertreter 
 
 ## 2. `fahrtkosten-zeugen-pkh-erstattung`
 
-**Frühere Beschreibung:** Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden.
+**Fokus:** Fahrtkosten Zeugenauslagen und Erstattungen im SG-Verfahren. JVEG für Zeugen Sachverständige und Sie selbst. Praktischer Leitfaden.
 
 # Fahrtkosten und Zeugen-Auslagen erstatten
 
@@ -230,7 +230,7 @@ Stand: 05/2026. JVEG aktuell. Konkrete Saetze pruefen.
 
 ## 3. `feststellungsklage-55-sgg`
 
-**Frühere Beschreibung:** Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext.
+**Fokus:** Die Feststellungsklage nach § 55 SGG. Wenn ein Rechtsverhältnis geklaert werden muss. Versicherungspflicht Versicherungsstatus berechtigtes Interesse Mustertext.
 
 # Die Feststellungsklage — § 55 SGG
 
@@ -368,7 +368,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 ## 4. `gdb-feststellung-versorgungsamt-sgb-ix`
 
-**Frühere Beschreibung:** GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften fuer chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage.
+**Fokus:** GdB-Feststellung beim Versorgungsamt nach § 152 SGB IX. Skill klaert das Verfahren beim Versorgungsamt Sachverstandigengutachten GdB-Tabelle Versorgungsmedizinverordnung Sondervorschriften fuer chronische Krankheiten und psychische Erkrankungen. Liefert Antragsvorlage.
 
 # Gdb Feststellung Versorgungsamt Sgb Ix
 
@@ -433,7 +433,7 @@ Stand: 05/2026. § 55 SGG aktuell.
 
 ## 5. `gerichtskostenfreiheit-183-sgg`
 
-**Frühere Beschreibung:** Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen.
+**Fokus:** Kein Geld für das Gericht. § 183 SGG erklärt die Kostenfreiheit für Versicherte Leistungsempfaenger und Behinderte. Wer zahlt was und was nicht. Anwaltskosten Fahrtkosten Auslagen.
 
 # Das Gericht ist fuer Sie kostenfrei — § 183 SGG
 

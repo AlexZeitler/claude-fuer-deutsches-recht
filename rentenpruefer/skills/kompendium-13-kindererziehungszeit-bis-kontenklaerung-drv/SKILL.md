@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-kindererziehungszeit-bis-kontenklaerung-drv
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (kindererziehungszeiten-und-beruecksichtigungszeiten, kontenklaerung-drv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - rentenpruefer
+# Arbeitsbereich - Kindererziehungszeiten Und Beruecksichtigungszeiten, Kontenklaerung Drv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kindererziehungszeiten-und-beruecksichtigungszeiten` | Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise. |
 | `kontenklaerung-drv` | Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kindererziehungszeiten-und-beruecksichtigungszeiten`
 
-**Frühere Beschreibung:** Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise.
+**Fokus:** Kindererziehungszeiten und Berücksichtigungszeiten: Zuordnung, Antrag, Streit zwischen Elternteilen, Ausland und Nachweise.
 
 # kindererziehungszeiten-und-beruecksichtigungszeiten
 
@@ -67,7 +67,7 @@ Antrags- und Nachweisplan.
 
 ## 2. `kontenklaerung-drv`
 
-**Frühere Beschreibung:** Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten.
+**Fokus:** Kontenklärung bei der Deutschen Rentenversicherung: Versicherungsverlauf lesen, Lücken erkennen, Nachweise anfordern und Antragsschreiben vorbereiten.
 
 # kontenklaerung-drv
 

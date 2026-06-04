@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-solo-altersvorsorge-bis-solo-avv-mit-tools
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 8 frühere Spezialskills (solo-altersvorsorge-mindestplan, solo-angebot-in-auftrag-verwandeln, solo-anlagevermoegen-abschreibung, solo-anwalt-freier-mitarbeiter, solo-arbeitnehmeraehnliche-selbstaendige und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Altersvorsorge Mindestplan, Solo Angebot In Auftrag Verwandeln, Solo Anlagevermoegen Abschreibung, Solo Anwalt Freier Mitarbeiter und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Altersvorsorge Mindestplan bis Solo Avv Mit Tools
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-altersvorsorge-mindestplan` | Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-angebot-in-auftrag-verwandeln` | Solo-Selbstständige: macht aus WhatsApp, Telefonat oder E-Mail ein belastbares Angebot mit Scope; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-altersvorsorge-mindestplan`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Vorsorgeplan für Solo-Einkommen mit Liquiditätsrealismus; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Erstellt vorsorgeplan für solo-einkommen mit liquiditätsrealismus
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 2. `solo-angebot-in-auftrag-verwandeln`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht aus WhatsApp, Telefonat oder E-Mail ein belastbares Angebot mit Scope; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht aus WhatsApp, Telefonat oder E-Mail ein belastbares Angebot mit Scope; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Macht aus whatsapp
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 3. `solo-anlagevermoegen-abschreibung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Laptop, Kamera, Werkzeug, Software, GWG und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Laptop, Kamera, Werkzeug, Software, GWG und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Ordnet laptop
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 4. `solo-anwalt-freier-mitarbeiter`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet freie Mitarbeit, Kanzleieingliederung und Berufsrecht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet freie Mitarbeit, Kanzleieingliederung und Berufsrecht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Ordnet freie mitarbeit
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 5. `solo-arbeitnehmeraehnliche-selbstaendige`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft im DRV-Raster Auftraggeberkonzentration und Mitarbeitende; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft im DRV-Raster Auftraggeberkonzentration und Mitarbeitende; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft im drv-raster auftraggeberkonzentration und mitarbeitende
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 6. `solo-archiv-und-aufbewahrung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Aufbewahrung, Export und Löschung beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Aufbewahrung, Export und Löschung beim Toolwechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Plant aufbewahrung
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 7. `solo-auftrag-kuendigen-in-krise`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft faire Beendigung ohne Folgeschaden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft faire Beendigung ohne Folgeschaden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Prüft faire beendigung ohne folgeschaden
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 8. `solo-avv-mit-tools`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Auftragsverarbeitung mit Cloud, Kalender, CRM, Projekttools und KI; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Auftragsverarbeitung mit Cloud, Kalender, CRM, Projekttools und KI; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Prüft auftragsverarbeitung mit cloud
 

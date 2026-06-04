@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-kom-074-buergermeist-bis-kom-080-landrat-satz
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 16; bündelt 6 frühere Spezialskills (kom-074-buergermeister-finanzierung-erklaeren, kom-075-buergermeister-dashboard-bauen, kom-076-buergermeister-beteiligung-planen, kom-077-landrat-landesrecht-routen, kom-079-landrat-beschluss-bauen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 074 Buergermeister Finanzierung Erklaeren, Kom 075 Buergermeister Dashboard Bauen, Kom 076 Buergermeister Beteiligung Planen, Kom 077 Landrat Landesrecht Routen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - kommunalrecht-laender
+# Arbeitsbereich - Kom 074 Buergermeister Finanzierung Erklaeren bis Kom 080 Landrat Satzung Redlinen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-074-buergermeister-finanzierung-erklaeren` | Kommunalrecht der Länder: Bürgermeister: Finanzierung erklären. Finanzierung erklären für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-075-buergermeister-dashboard-bauen` | Kommunalrecht der Länder: Bürgermeister: Dashboard bauen. Dashboard bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-074-buergermeister-finanzierung-erklaeren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Finanzierung erklären. Finanzierung erklären für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Finanzierung erklären. Finanzierung erklären für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Finanzierung Erklaeren
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-075-buergermeister-dashboard-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Dashboard bauen. Dashboard bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Dashboard bauen. Dashboard bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Dashboard Bauen
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-076-buergermeister-beteiligung-planen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Beteiligung planen. Beteiligung planen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Beteiligung planen. Beteiligung planen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Beteiligung Planen
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-077-landrat-landesrecht-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Landesrecht routen. Landesrecht routen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Landesrecht routen. Landesrecht routen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Landesrecht Routen
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-079-landrat-beschluss-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Beschluss bauen. Beschluss bauen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Beschluss bauen. Beschluss bauen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Beschluss Bauen
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-080-landrat-satzung-redlinen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Satzung redlinen. Satzung redlinen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Satzung redlinen. Satzung redlinen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Satzung Redlinen
 

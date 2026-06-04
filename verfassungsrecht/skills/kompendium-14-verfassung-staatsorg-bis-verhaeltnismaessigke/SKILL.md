@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-verfassung-staatsorg-bis-verhaeltnismaessigke
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (verfassung-staatsorganisation, verfassungsrechtliche-pruefung, verhaeltnismaessigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfassung Staatsorganisation, Verfassungsrechtliche Pruefung, Verhaeltnismaessigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verfassungsrecht
+# Arbeitsbereich - Verfassung Staatsorganisation, Verfassungsrechtliche Pruefung, Verhaeltnismaessigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verfassung-staatsorganisation` | Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen. |
 | `verfassungsrechtliche-pruefung` | Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verfassung-staatsorganisation`
 
-**Frühere Beschreibung:** Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen.
+**Fokus:** Staatsorganisation des GG: Demokratieprinzip Art. 20, Rechtsstaatsprinzip, Bundesstaatsprinzip, Sozialstaatsprinzip, Republikprinzip. Bundesorgane: BT, BR, BReg, BPraes, BVerfG. Pruefraster Staatsfunktionen.
 
 # Staatsorganisation GG
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 
 ## 2. `verfassungsrechtliche-pruefung`
 
-**Frühere Beschreibung:** Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit.
+**Fokus:** Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit.
 
 # Verfassungsrechtliche Prüfung — Master-Workflow
 
@@ -208,7 +208,7 @@ Diese Prüfung ist eine strukturierte Modellauswertung und **kein Ersatz** für 
 
 ## 3. `verhaeltnismaessigkeit`
 
-**Frühere Beschreibung:** Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegung. Output: Verhältnismäßigkeitsprüfschema Ergebnis Argumentationshilfe. Abgrenzung: nicht für Grundrechtsprüfung insgesamt (grundrechtsprüfung) sondern Baustein.
+**Fokus:** Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegung. Output: Verhältnismäßigkeitsprüfschema Ergebnis Argumentationshilfe. Abgrenzung: nicht für Grundrechtsprüfung insgesamt (grundrechtsprüfung) sondern Baustein.
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)
 

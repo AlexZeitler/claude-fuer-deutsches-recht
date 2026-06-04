@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-bussgeld-zah-bis-vkr-totalschaden-fik
-description: "fachanwalt-verkehrsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-bussgeld-zahlen-schwellen-und-berechnung, unfall-haftungsquote-berechnen, vkr-totalschaden-fiktiv-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verkehrsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-verkehrsrecht
+# Arbeitsbereich - Bussgeld Zahlen Schwellen Und Berechnung, Unfall Haftungsquote Berechnen, Vkr Totalschaden Fiktiv Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bussgeld-zahlen-schwellen-und-berechnung` | Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `unfall-haftungsquote-berechnen` | Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bussgeld-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bussgeld: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt verkehrsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bussgeld: Zahlen, Schwellenwerte und Berechnung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `unfall-haftungsquote-berechnen`
 
-**Frühere Beschreibung:** Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
+**Fokus:** Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
 
 # Unfall-Haftungsquote berechnen
 
@@ -347,7 +347,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `vkr-totalschaden-fiktiv-spezial`
 
-**Frühere Beschreibung:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Pruefraster fuer Mandantenberatung.
+**Fokus:** Spezialfall fiktive Abrechnung beim Totalschaden: Wiederbeschaffungswert minus Restwert, 130-Prozent-Grenze BGH, Verweisung auf guenstigere Reparaturen (BGH-Verweisrechtsprechung). Pruefraster fuer Mandantenberatung.
 
 # Verkehrsrecht: Totalschaden
 

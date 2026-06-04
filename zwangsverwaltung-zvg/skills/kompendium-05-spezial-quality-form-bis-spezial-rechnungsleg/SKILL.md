@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-quality-form-bis-spezial-rechnungsleg
-description: "zwangsverwaltung-zvg: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-quality-formular-portal-und-einreichung, spezial-recherche-zahlen-schwellen-und-berechnung, spezial-rechnungslegung-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsverwaltung-zvg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - zwangsverwaltung-zvg
+# Arbeitsbereich - Quality Formular Portal Und Einreichung, Recherche Zahlen Schwellen Und Berechnung, Rechnungslegung Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-quality-formular-portal-und-einreichung` | Quality: Formular, Portal und Einreichungslogik im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-recherche-zahlen-schwellen-und-berechnung` | Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-quality-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Quality: Formular, Portal und Einreichungslogik im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Quality: Formular, Portal und Einreichungslogik im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Quality: Formular, Portal und Einreichungslogik
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-recherche-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Recherche: Zahlen, Schwellenwerte und Berechnung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Recherche: Zahlen, Schwellenwerte und Berechnung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rechnungslegung-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Rechnungslegung: Internationaler Bezug und Schnittstellen im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechnungslegung: Internationaler Bezug und Schnittstellen im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechnungslegung: Internationaler Bezug und Schnittstellen
 

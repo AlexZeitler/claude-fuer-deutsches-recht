@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-kurzfristige-beschae-bis-paragraf-7a-statusve
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (kurzfristige-beschaeftigung, obligatorisches-statusverfahren-gf, optionales-anfrageverfahren, paragraf-7a-statusverfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kurzfristige Beschaeftigung, Obligatorisches Statusverfahren Gf, Optionales Anfrageverfahren, Paragraf 7a Statusverfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Kurzfristige Beschaeftigung bis Paragraf 7a Statusverfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kurzfristige-beschaeftigung` | Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit. |
 | `obligatorisches-statusverfahren-gf` | Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kurzfristige-beschaeftigung`
 
-**Frühere Beschreibung:** Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit.
+**Fokus:** Prüft kurzfristige Beschäftigung bei Projekten, Veranstaltungen, Unterrichtsblöcken und Saisonarbeit.
 
 # Kurzfristige Beschäftigung
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `obligatorisches-statusverfahren-gf`
 
-**Frühere Beschreibung:** Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen.
+**Fokus:** Prüft obligatorische Statusfeststellung bei Geschäftsführern und verwandten Konstellationen.
 
 # Obligatorisches Statusverfahren Geschäftsführer
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `optionales-anfrageverfahren`
 
-**Frühere Beschreibung:** Prüft, wann freiwillige Statusfeststellung sinnvoll ist und wann sie strategisch nachteilig sein kann.
+**Fokus:** Prüft, wann freiwillige Statusfeststellung sinnvoll ist und wann sie strategisch nachteilig sein kann.
 
 # Optionales Anfrageverfahren
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `paragraf-7a-statusverfahren`
 
-**Frühere Beschreibung:** Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf.
+**Fokus:** Führt durch das Anfrageverfahren nach § 7a SGB IV mit Antrag, Beteiligten, Anhörung, Bescheid und Rechtsbehelf.
 
 # § 7a SGB IV Statusfeststellung
 

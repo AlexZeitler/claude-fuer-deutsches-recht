@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-community-fr-bis-automatischer-aktual
-description: "kanzlei-builder-hub: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-community-fristen-form-und-zustaendigkeit, spezial-leistungsmatrix-fristennotiz-und-naechster-schritt, automatischer-aktualisierer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-builder-hub: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - kanzlei-builder-hub
+# Arbeitsbereich - Community Fristen Form Und Zustaendigkeit, Leistungsmatrix Fristennotiz Und Naechster Schritt, Automatischer Aktualisierer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-community-fristen-form-und-zustaendigkeit` | Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-leistungsmatrix-fristennotiz-und-naechster-schritt` | Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-community-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Community: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Community: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-leistungsmatrix-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Leistungsmatrix: Fristennotiz und nächster Schritt im Plugin kanzlei builder hub; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Leistungsmatrix: Fristennotiz und nächster Schritt
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `automatischer-aktualisierer`
 
-**Frühere Beschreibung:** Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung.
+**Fokus:** Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung.
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review
 

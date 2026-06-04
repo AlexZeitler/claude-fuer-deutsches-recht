@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-vergleich-bis-versicherungsvermitt
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (vergleich, verjaehrung, vermittlungsvertreter, versicherungsvermittler-abgrenzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich, Verjaehrung, Vermittlungsvertreter, Versicherungsvermittler Abgrenzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - handelsvertreterrecht
+# Arbeitsbereich - Vergleich bis Versicherungsvermittler Abgrenzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich` | Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen. |
 | `verjaehrung` | Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich`
 
-**Frühere Beschreibung:** Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen.
+**Fokus:** Unterstützt bei der Aushandlung und Gestaltung von außergerichtlichen Vergleichen im Handelsvertreterrecht: Ausgleich nach § 89b HGB, Provisionsstreitigkeiten nach § 87 HGB, Wettbewerbsverbote nach § 90a HGB, Abfindungsvereinbarungen sowie Vollständigkeitsklauseln und Verzichtsregelungen in Vergleichsverträgen.
 
 # Vergleich und außergerichtliche Einigung im Handelsvertreterstreit
 
@@ -108,7 +108,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 2. `verjaehrung`
 
-**Frühere Beschreibung:** Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf.
+**Fokus:** Prüft Verjährungsfristen im Handelsvertreterrecht: regelmäßige Verjährung nach § 195 BGB für Provisionsansprüche und Ausgleich nach § 89b HGB, Beginn der Verjährungsfrist nach § 199 BGB, Hemmung und Unterbrechung sowie Fristwahrungsmaßnahmen vor Ablauf.
 
 # Verjährung von Handelsvertreter-Ansprüchen nach § 195 ff. BGB
 
@@ -187,7 +187,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `vermittlungsvertreter`
 
-**Frühere Beschreibung:** Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB.
+**Fokus:** Analysiert die Rechtsstellung des reinen Vermittlungsvertreters nach § 84 Abs. 1 HGB ohne Abschlussvollmacht: Entstehung des Provisionsanspruchs nach § 87 HGB bei reiner Vermittlungstätigkeit, Abgrenzung zum Abschlussvertreter mit Vollmacht sowie Konsequenzen für Haftung und Ausgleich nach § 89b HGB.
 
 # Reiner Vermittlungsvertreter nach § 84 HGB — Provision und Rechtsstellung
 
@@ -266,7 +266,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `versicherungsvermittler-abgrenzung`
 
-**Frühere Beschreibung:** Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO.
+**Fokus:** Prüft die Abgrenzung zwischen Handelsvertreter nach HGB und Versicherungsvermittler nach § 59 VVG und GewO: Anwendbarkeit des HGB auf Versicherungsvertreter, Sonderregeln nach §§ 59 ff. VVG, Provisions- und Ausgleichsansprüche sowie berufsrechtliche Anforderungen nach § 34d GewO.
 
 # Versicherungsvermittler: Abgrenzung HGB-Handelsvertreter zu § 59 ff. VVG
 

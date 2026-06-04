@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-onboarding-bis-plattform-vertrieb
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (onboarding, online-vertrieb-konflikt, pharma-medtech, plattform-vertrieb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Onboarding, Online Vertrieb Konflikt, Pharma Medtech, Plattform Vertrieb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - handelsvertreterrecht
+# Arbeitsbereich - Onboarding bis Plattform Vertrieb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `onboarding` | Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn. |
 | `online-vertrieb-konflikt` | Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `onboarding`
 
-**Frühere Beschreibung:** Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn.
+**Fokus:** Unterstützt beim Start einer Handelsvertretung: Vertragsabschluss, Vollmachtserteilung, erste Pflichten des Handelsvertreters nach § 86 HGB, Einrichtung von Berichts- und Abrechnungssystemen, Einarbeitung in das Produktsortiment sowie Klärung von Provisionssatz, Bezirk und Berichtspflichten zu Vertragsbeginn.
 
 # Onboarding eines neuen Handelsvertreters — Vertragsstart und erste Pflichten nach § 86 HGB
 
@@ -108,7 +108,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 2. `online-vertrieb-konflikt`
 
-**Frühere Beschreibung:** Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung.
+**Fokus:** Prüft Konflikte zwischen stationärem Handelsvertreter-Vertrieb und Online-Direktvertrieb des Unternehmers: Provisionsanspruch bei Online-Bestellungen aus dem Vertretergebiet nach § 87 Abs. 2 HGB, AGB-Kontrolle von Online-Kanal-Ausnahmen, Bezirksschutz im digitalen Zeitalter und Ausgleich bei Online-bedingter Marktverdrängung.
 
 # Online-Vertriebskonflikt — Bezirksschutz vs. E-Commerce nach § 87 HGB
 
@@ -187,7 +187,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 3. `pharma-medtech`
 
-**Frühere Beschreibung:** Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforderungen für Medizinproduktevertreter.
+**Fokus:** Analysiert Besonderheiten des Handelsvertreterrechts in der Pharma- und Medtech-Branche: Regulatorische Anforderungen (AMG, MPG), Compliance-Pflichten bei Ärztebesuchen, Provisionsabrechnungen bei regulierten Produkten, Ausgleichsansprüche im regulierten Markt und besondere Qualifikationsanforderungen für Medizinproduktevertreter.
 
 # Handelsvertreterrecht in Pharma und Medtech — Regulierung und §§ 84 ff. HGB
 
@@ -266,7 +266,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 4. `plattform-vertrieb`
 
-**Frühere Beschreibung:** Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act.
+**Fokus:** Analysiert die Einordnung von Plattformvermittlern und Agenturen digitaler Marktplätze als Handelsvertreter nach § 84 HGB: Dauerhaftigkeit der Beauftragung, Vollmacht, Provision und Ausgleich bei Vertragsbeendigung sowie regulatorische Anforderungen der P2B-Verordnung und des Digital Markets Act.
 
 # Plattformvermittler als Handelsvertreter — § 84 HGB und P2B-Verordnung
 

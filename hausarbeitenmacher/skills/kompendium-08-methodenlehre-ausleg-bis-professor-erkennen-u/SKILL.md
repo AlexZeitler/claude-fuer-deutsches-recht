@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-methodenlehre-ausleg-bis-professor-erkennen-u
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (methodenlehre-auslegung, oeffentliches-recht-statthaft-zulaessig-begruendet, professor-erkennen-und-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - hausarbeitenmacher
+# Arbeitsbereich - Methodenlehre Auslegung, Oeffentliches Recht Statthaft Zulaessig Begruendet, Professor Erkennen Und Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `methodenlehre-auslegung` | Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation). |
 | `oeffentliches-recht-statthaft-zulaessig-begruendet` | Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `methodenlehre-auslegung`
 
-**Frühere Beschreibung:** Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation).
+**Fokus:** Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation).
 
 # Methodenlehre und Auslegung
 
@@ -243,7 +243,7 @@ geschützt.
 
 ## 2. `oeffentliches-recht-statthaft-zulaessig-begruendet`
 
-**Frühere Beschreibung:** Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl).
+**Fokus:** Student bearbeitet öffentlich-rechtliche Klage in der Hausarbeit: Statthaftigkeit Zulässigkeit Begründetheit. VwGO §§ 40 42 47 113 BVerfGG Verfassungsbeschwerde Normenkontrolle. Prüfraster Klagearten Anfechtungs- Verpflichtungs- Leistungsklage einstweiliger Rechtsschutz. Output prüfungsschema öffentliches Recht Statthaftigkeits-Prüfung. Abgrenzung zu verfassungsrecht-grundrechtsprüfung (Grundrechte) und fachgebiet-routing (Fachgebiet-Wahl).
 
 # Öffentliches Recht — Statthaftigkeit, Zulässigkeit, Begründetheit
 
@@ -512,7 +512,7 @@ B. Begründetheit
 
 ## 3. `professor-erkennen-und-strategie`
 
-**Frühere Beschreibung:** Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master).
+**Fokus:** Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master).
 
 # Professor erkennen und Strategie wählen
 

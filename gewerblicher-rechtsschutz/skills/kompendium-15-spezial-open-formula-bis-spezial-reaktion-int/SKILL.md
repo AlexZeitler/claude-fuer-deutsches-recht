@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-open-formula-bis-spezial-reaktion-int
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-open-formular-portal-und-einreichung, spezial-operate-verhandlung-vergleich-und-eskalation, spezial-reaktion-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Open Formular Portal Und Einreichung, Operate Verhandlung Vergleich Und Eskalation, Reaktion Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-open-formular-portal-und-einreichung` | Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung. |
 | `spezial-operate-verhandlung-vergleich-und-eskalation` | Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-open-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung.
+**Fokus:** Formulare und Portale im gewerblichen Rechtsschutz: Welches Formular wird für welches Verfahren bei DPMA, EUIPO, EPA, BPatG und Gerichten benötigt? Einreichungswege, technische Voraussetzungen und Fehlervermeidung.
 
 # Spezial: Formulare, Portale und Einreichungswege
 
@@ -208,7 +208,7 @@ Mandatsbezug: Anwalt fragt: Welches Formular verwende ich für den DPMA-Widerspr
 
 ## 2. `spezial-operate-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung.
+**Fokus:** Verhandlung, Vergleich und Eskalation im gewerblichen Rechtsschutz: Strategien für außergerichtliche Einigung, Vergleichsverhandlung, gerichtlichen Vergleich und Eskalation bei Scheitern. Vertragsstrafen, Abschlussvereinbarungen und Hauptsache-Entscheidung.
 
 # Spezial: Verhandlung, Vergleich und Eskalation
 
@@ -353,7 +353,7 @@ Die Kosten des Eilverfahrens trägt [Partei].
 
 ## 3. `spezial-reaktion-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten.
+**Fokus:** Internationaler Bezug im gewerblichen Rechtsschutz: Zuständigkeit, anwendbares Recht, Enforcement im Ausland, Unionsmarke und -patent, WIPO-UDRP, grenzüberschreitende Abmahnung und Koordination mit ausländischen Anwälten.
 
 # Spezial: Internationaler Bezug und Schnittstellen
 

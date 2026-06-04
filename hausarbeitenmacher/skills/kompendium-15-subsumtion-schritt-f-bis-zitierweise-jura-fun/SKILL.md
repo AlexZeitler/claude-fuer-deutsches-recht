@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-subsumtion-schritt-f-bis-zitierweise-jura-fun
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (subsumtion-schritt-fuer-schritt, verfassungsrecht-grundrechtspruefung, zitierweise-jura-fundstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Subsumtion Schritt Fuer Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - hausarbeitenmacher
+# Arbeitsbereich - Subsumtion Schritt Fuer Schritt, Verfassungsrecht Grundrechtspruefung, Zitierweise Jura Fundstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `subsumtion-schritt-fuer-schritt` | Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung). |
 | `verfassungsrecht-grundrechtspruefung` | Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `subsumtion-schritt-fuer-schritt`
 
-**Frühere Beschreibung:** Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung).
+**Fokus:** Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung).
 
 # Subsumtion Schritt für Schritt
 
@@ -258,7 +258,7 @@ Das Plugin steht an Deiner Seite. Wenn etwas schiefgeht: Atme durch, lies die No
 
 ## 2. `verfassungsrecht-grundrechtspruefung`
 
-**Frühere Beschreibung:** Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden).
+**Fokus:** Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden).
 
 # Verfassungsrecht — Grundrechts-Prüfung
 
@@ -515,7 +515,7 @@ C. Verfassungs-rechtliche Rechtfertigung
 
 ## 3. `zitierweise-jura-fundstellen`
 
-**Frühere Beschreibung:** Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen.
+**Fokus:** Zitierweise für juristische Hausarbeiten mit strikter Quellenprüfung. Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und verifizierbarer Quelle. Literatur, Kommentare, Lehrbücher und Aufsätze nur, wenn der Student die Quelle selbst gelesen und bereitgestellt hat oder Zugriff in der Uni-Datenbank besteht. Keine erfundenen BeckRS-, Kommentar- oder Aufsatzfundstellen.
 
 # Zitierweise in der juristischen Hausarbeit
 

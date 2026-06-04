@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-rechtsabteilung-kauf-bis-rechtsabteilung-komm
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer, rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kaufmaennisches Bestaetigungsschreiben Im Konzer, Kommissionsgeschaeft Und Plattformhaendler; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - handelsrecht-hgb
+# Arbeitsbereich - Kaufmaennisches Bestaetigungsschreiben Im Konzer, Kommissionsgeschaeft Und Plattformhaendler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer` | Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler` | Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-kaufmaennisches-bestaetigungsschreiben-im-konzer`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Kaufmännisches Bestätigungsschreiben im Konzernalltag: Schweigen, E-Mail-Thread und Bestellplattform werden auf Bindungswirkung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kaufmännisches Bestätigungsschreiben im Konzernalltag
 
@@ -74,7 +74,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kommissionsgeschaeft-und-plattformhaendler`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Kommissionsgeschäft und Plattformhändler: Kommission, Eigenhandel und Marktplatzrolle werden rechtlich sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kommissionsgeschäft und Plattformhändler
 

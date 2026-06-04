@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-luft-012-luftsicherh-bis-luft-016-passagierre
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (luft-012-luftsicherheit-luftsig, luft-013-zuverlaessigkeitsueberpruefung, luft-014-drohnen-uas-betrieb, luft-015-gefahrgut-luftfracht, luft-016-passagierrechte-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 012 Luftsicherheit Luftsig, Luft 013 Zuverlaessigkeitsueberpruefung, Luft 014 Drohnen Uas Betrieb, Luft 015 Gefahrgut Luftfracht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 012 Luftsicherheit Luftsig bis Luft 016 Passagierrechte Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-012-luftsicherheit-luftsig` | Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prueft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Check-Vermerk und Widerspruchs-Baustein. |
 | `luft-013-zuverlaessigkeitsueberpruefung` | Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhoerungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-012-luftsicherheit-luftsig`
 
-**Frühere Beschreibung:** Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prueft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Check-Vermerk und Widerspruchs-Baustein.
+**Fokus:** Flughafen oder Airline klaert Sicherheitspflichten oder fechtet LuftSiG-Bescheid an. Prueft LuftSiG §§ 1-9 Sicherheitsplan Kontrollpflichten EU-DVO 2015/1998 Sicherheitsprogramm und Rechtsschutz gegen Auflagen und liefert Compliance-Check-Vermerk und Widerspruchs-Baustein.
 
 # Luftsicherheit nach LuftSiG – Compliance und Rechtsschutz
 
@@ -108,7 +108,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 2. `luft-013-zuverlaessigkeitsueberpruefung`
 
-**Frühere Beschreibung:** Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhoerungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein.
+**Fokus:** Person wurde Zuverlässigkeit nach LuftSiG § 7 versagt oder widerrufen. Prueft Versagungsgruende Vorstrafen Verfassungsschutz-Erkenntnisse Gesamtwürdigung Anhoerungspflicht Rechtsschutz vor VG und BVerfG 2 BvL 8/07 Grundrechtskonformitaet und liefert Widerspruchs-Schriftsatz-Baustein.
 
 # Zuverlässigkeitsüberprüfung LuftSiG § 7 – Versagung, Widerruf und Rechtsschutz
 
@@ -186,7 +186,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 3. `luft-014-drohnen-uas-betrieb`
 
-**Frühere Beschreibung:** Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk.
+**Fokus:** Drohnenbetreiber braucht Betriebsgenehmigung oder Mandant ist nach Drohnenflug-Unfall in Haftungsfragen verwickelt. Prueft EU-VO 2019/947 Betriebskategorien Open/Specific/Certified LuftVG § 21a Registrierungspflicht LBA Versicherungspflicht EU-VO 785/2004 und liefert Genehmigungs-Checkliste und Haftungs-Vermerk.
 
 # Drohnen und UAS-Betrieb – Genehmigung, Registrierung und Haftung
 
@@ -268,7 +268,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 4. `luft-015-gefahrgut-luftfracht`
 
-**Frühere Beschreibung:** Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behoerdenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein.
+**Fokus:** Absender Spedition oder Airline hat Gefahrgut-Luftfrachtproblem: fehlerhafte Deklaration Versand verbotener Gueter oder Behoerdenuntersuchung. Prueft ICAO TI Doc 9284 IATA DGR LuftVG § 27 Gefahrgutbeauftragter und Strafbarkeit nach LuftVG § 58 und liefert Compliance-Check und Stellungnahme-Baustein.
 
 # Gefahrgut-Luftfracht – Klassifizierung, Compliance und Haftung
 
@@ -350,7 +350,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 5. `luft-016-passagierrechte-schnittstelle`
 
-**Frühere Beschreibung:** Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein.
+**Fokus:** Passagier fordert Entschaedigung nach Flugumsetzung Annullierung oder Verspaetung. Prueft EU-VO 261/2004 Art. 5-7 Entschaedigungshoehe 250-600 EUR aussergewoehnliche Umstaende EuGH Sturgeon C-402/07 und Nelson C-581/10 Verbindungsflug-Rechtsprechung und liefert Klageschriftsatz-Baustein.
 
 # Passagierrechte – EU 261/2004 Entschädigung und Durchsetzung
 

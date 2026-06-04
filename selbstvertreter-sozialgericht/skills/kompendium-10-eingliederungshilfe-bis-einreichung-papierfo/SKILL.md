@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-eingliederungshilfe-bis-einreichung-papierfo
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (eingliederungshilfe-sgb-ix-rehabilitation, eingliederungsvereinbarung-15-sgb-ii, einreichung-fax-und-grenzen-sozialgericht, einreichung-mein-justizpostfach-mjp-sozialgericht, einreichung-papierform-sozialgericht-mit-abschriften) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eingliederungshilfe Sgb Ix Rehabilitation, Eingliederungsvereinbarung 15 Sgb Ii, Einreichung Fax Und Grenzen Sozialgericht, Einreichung Mein Justizpostfach Mjp Sozialgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Eingliederungshilfe Sgb Ix Rehabilitation bis Einreichung Papierform Sozialgericht Mit Abschriften
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eingliederungshilfe-sgb-ix-rehabilitation` | Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster. |
 | `eingliederungsvereinbarung-15-sgb-ii` | Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eingliederungshilfe-sgb-ix-rehabilitation`
 
-**Frühere Beschreibung:** Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster.
+**Fokus:** Eingliederungshilfe nach SGB IX Teil 2. Skill klaert die Leistungen zur Teilhabe am Arbeitsleben (Reha) zur sozialen Teilhabe und zur Bildung Antragsverfahren beim zustaendigen Reha-Traeger. Liefert Pruefraster.
 
 # Eingliederungshilfe Sgb Ix Rehabilitation
 
@@ -87,7 +87,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `eingliederungsvereinbarung-15-sgb-ii`
 
-**Frühere Beschreibung:** Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster.
+**Fokus:** Eingliederungsvereinbarung nach § 15 SGB II / nach Reform 2023 Kooperationsplan. Skill erklaert den Kooperationsplan zwischen Buergergeldbeziehenden und Jobcenter Vorgehen Pflichten Verhandlungsmoeglichkeiten und Verweigerungsfolgen. Liefert Pruefraster.
 
 # Eingliederungsvereinbarung 15 Sgb Ii
 
@@ -144,7 +144,7 @@ Kooperationsplan-Redline, Gesprächsvorbereitung, Nachweisliste, Änderungswunsc
 
 ## 3. `einreichung-fax-und-grenzen-sozialgericht`
 
-**Frühere Beschreibung:** Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden.
+**Fokus:** Fax beim SG einreichen Vorteile und Grenzen. Sendebericht als Beweis Telefax-Nummer prüfen Frist halten. Hinweis Fax wird abgeschafft Alternativen vorhanden.
 
 # Klage per Fax beim SG — Grenzen und Tipps
 
@@ -258,7 +258,7 @@ Stand: 05/2026. BGH und BSG haben Fax-Schriftform vielfach bestaetigt. Fax in de
 
 ## 4. `einreichung-mein-justizpostfach-mjp-sozialgericht`
 
-**Frühere Beschreibung:** Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit.
+**Fokus:** Mein Justizpostfach (MJP) für Buerger seit 2024. Online-Einreichung von Klagen und Schriftsaetzen beim Sozialgericht. Anmeldung Identifikation PDF-Anlagen Sicherheit.
 
 # Mein Justizpostfach — digitale Einreichung beim SG
 
@@ -388,7 +388,7 @@ Stand: 05/2026. MJP seit 2024 fuer alle Buerger oeffentlich. § 65a SGG fuer ele
 
 ## 5. `einreichung-papierform-sozialgericht-mit-abschriften`
 
-**Frühere Beschreibung:** Klage und Schriftsatz per Post beim SG einreichen. Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger.
+**Fokus:** Klage und Schriftsatz per Post beim SG einreichen. Abschriften für Gegner und Akte. Adressierung Einschreiben Empfangsbestätigung. Praktischer Versandweg für Buerger.
 
 # Klage per Post einreichen — mit Abschriften
 

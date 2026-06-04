@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-lease-013-unternehme-bis-lease-015-mangel-am
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (lease-013-unternehmerleasing-gewaehrleistung-durchgriff, lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn, lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel Am Leasingobjekt Rechte Gegen Lieferant; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - leasingrecht-praxis
+# Arbeitsbereich - Lease 013 Unternehmerleasing Gewaehrleistung Durchgriff, Lease 014 Lieferant Leasinggeber Leasingnehmer Dreiecksverhaeltn, Lease 015 Mangel A
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-013-unternehmerleasing-gewaehrleistung-durchgriff` | Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit. |
 | `lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn` | Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-013-unternehmerleasing-gewaehrleistung-durchgriff`
 
-**Frühere Beschreibung:** Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit.
+**Fokus:** Unternehmerleasing: Gewährleistungsabtretung, Durchgriff gegen Lieferant, AGB-Besonderheiten B2B, HGB-Handelskauf und Rügeobliegenheit.
 
 # Unternehmerleasing: Gewährleistung und Lieferantendurchgriff
 
@@ -121,7 +121,7 @@ Im B2B-Bereich gelten §§ 308, 309 BGB nicht direkt. Trotzdem:
 
 ## 2. `lease-014-lieferant-leasinggeber-leasingnehmer-dreiecksverhaeltn`
 
-**Frühere Beschreibung:** Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten.
+**Fokus:** Leasingdreieck: Rechtsverhältnisse Lieferant/Leasinggeber/Leasingnehmer, Abtretungskonstruktion, Kollisionsprobleme und Insolvenz eines Beteiligten.
 
 # Das Leasingdreieck: Lieferant, Leasinggeber, Leasingnehmer
 
@@ -221,7 +221,7 @@ Das Finanzierungsleasing ist typischerweise ein Dreiecksgeschäft. Die drei Rech
 
 ## 3. `lease-015-mangel-am-leasingobjekt-rechte-gegen-lieferant`
 
-**Frühere Beschreibung:** Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast.
+**Fokus:** Mangel am Leasingobjekt: Sachmängelrecht, abgetretene Ansprüche gegen Lieferant, Nacherfüllung, Rücktritt, Schadensersatz, Fristen und Beweislast.
 
 # Mangel am Leasingobjekt: Rechte gegen den Lieferanten
 

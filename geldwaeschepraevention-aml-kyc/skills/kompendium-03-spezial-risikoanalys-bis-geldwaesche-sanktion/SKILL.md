@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-risikoanalys-bis-geldwaesche-sanktion
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-risikoanalyse-fristen-form-und-zustaendigkeit, geldwaesche-bussgeld-reputation, geldwaesche-sanktionsscreening) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Risikoanalyse Fristen Form Und Zustaendigkeit, Geldwaesche Bussgeld Reputation, Geldwaesche Sanktionsscreening; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Risikoanalyse Fristen Form Und Zustaendigkeit, Geldwaesche Bussgeld Reputation, Geldwaesche Sanktionsscreening
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-risikoanalyse-fristen-form-und-zustaendigkeit` | Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `geldwaesche-bussgeld-reputation` | Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bußgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Prüfraster Bußgeldrisko Geschäftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwäsche-behoerdenverfahren und geldwäsche-audit-internal-revision. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-risikoanalyse-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Risikoanalyse: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `geldwaesche-bussgeld-reputation`
 
-**Frühere Beschreibung:** Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bußgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Prüfraster Bußgeldrisko Geschäftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwäsche-behoerdenverfahren und geldwäsche-audit-internal-revision.
+**Fokus:** Strukturierung von Bußgeldriskien Geschäftsleiterhaftung und Reputationsschaeden bei GwG-Verstoessen. Anwendungsfall Bußgeldbescheid nach GwG ist eingegangen oder negative Berichterstattung droht. Normen § 52 GwG Bußgelder bis 5 Mio EUR oder 10 Prozent Jahresumsatz § 130 OWiG Aufsichtspflichtverletzung. Prüfraster Bußgeldrisko Geschäftsleitungsverantwortung Pressekommunikation Kundenkommunikation Remediation Schadensbegrenzung. Output Massnahmenplan mit Widerspruchsstrategie PR-Linie Remediation-Nachweis und Haftungsabsicherung. Abgrenzung zu geldwäsche-behoerdenverfahren und geldwäsche-audit-internal-revision.
 
 # Bußgeld, Haftung und Reputation
 
@@ -138,7 +138,7 @@ Dieser Skill verbindet Recht, Compliance, Kommunikation und Nachbesserung in kri
 
 ## 3. `geldwaesche-sanktionsscreening`
 
-**Frühere Beschreibung:** Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschäft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Prüfraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begründung Freigabe oder Meldepflicht. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-transaktionsmonitoring.
+**Fokus:** Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschäft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Prüfraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begründung Freigabe oder Meldepflicht. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-transaktionsmonitoring.
 
 # Sanktionslistenprüfung und Embargoabgleich
 

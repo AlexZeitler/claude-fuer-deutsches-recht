@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-schule-ordnungsmassn-bis-sprach-und-verstehen
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (schule-ordnungsmassnahme, schwerbehinderung-gdb, sozialamt-grundsicherung, sprach-und-verstehensprofil) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schule Ordnungsmassnahme, Schwerbehinderung Gdb, Sozialamt Grundsicherung, Sprach Und Verstehensprofil; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Schule Ordnungsmassnahme bis Sprach Und Verstehensprofil
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schule-ordnungsmassnahme` | Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme. |
 | `schwerbehinderung-gdb` | Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schule-ordnungsmassnahme`
 
-**Frühere Beschreibung:** Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme.
+**Fokus:** Hilft bei Verweis, Unterrichtsausschluss, Schulwechselandrohung, Anhörung und Elternstellungnahme.
 
 # Schule Ordnungsmaßnahme
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `schwerbehinderung-gdb`
 
-**Frühere Beschreibung:** Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung.
+**Fokus:** Hilft bei Antrag, Befundberichten, Bescheid, Merkzeichen, Widerspruch und Neufeststellung.
 
 # Schwerbehinderung / GdB
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `sozialamt-grundsicherung`
 
-**Frühere Beschreibung:** Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch.
+**Fokus:** Hilft bei Grundsicherung, Hilfe zum Lebensunterhalt, Mehrbedarf, Unterkunft, Rückforderung und Widerspruch.
 
 # Sozialamt / Grundsicherung
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `sprach-und-verstehensprofil`
 
-**Frühere Beschreibung:** Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden.
+**Fokus:** Fragt zu Beginn respektvoll, in welcher Sprache, Detailtiefe und Tonalität erklärt werden soll; berücksichtigt Deutsch als Zweitsprache und Juristendeutsch-Hürden.
 
 # Sprache und Verstehensprofil
 

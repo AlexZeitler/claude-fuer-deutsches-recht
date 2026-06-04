@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-kommissionsv-bis-europarecht-vertrags
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-kommissionsverfahren-formular-portal-und-einreichung, spezial-vorlageverfahren-mehrparteien-konflikt-und-interessen, europarecht-vertragsverletzung-durchsetzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung Durchsetzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - europarecht-kompass
+# Arbeitsbereich - Kommissionsverfahren Formular Portal Und Einreichung, Vorlageverfahren Mehrparteien Konflikt Und Interessen, Europarecht Vertragsverletzung D
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-kommissionsverfahren-formular-portal-und-einreichung` | Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vorlageverfahren-mehrparteien-konflikt-und-interessen` | Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-kommissionsverfahren-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kommissionsverfahren: Formular, Portal und Einreichungslogik im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kommissionsverfahren: Formular, Portal und Einreichungslogik
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vorlageverfahren-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vorlageverfahren: Mehrparteienkonflikt und Interessenmatrix
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `europarecht-vertragsverletzung-durchsetzung`
 
-**Frühere Beschreibung:** Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht für Nichtigkeitsklage (europarecht-klagearten-eugh).
+**Fokus:** Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht für Nichtigkeitsklage (europarecht-klagearten-eugh).
 
 # Vertragsverletzung und Durchsetzung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anlagen-elektronisch-bis-anlagen-fuer-glaubha
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (anlagen-elektronische-dokumente-spezial, anlagen-format-und-dateinamen, anlagen-fuer-bea-versand, anlagen-fuer-glaubhaftmachung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagen Elektronische Dokumente Spezial, Anlagen Format Und Dateinamen, Anlagen Fuer Bea Versand, Anlagen Fuer Glaubhaftmachung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Anlagen Elektronische Dokumente Spezial bis Anlagen Fuer Glaubhaftmachung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagen-elektronische-dokumente-spezial` | Spezialfall elektronische Dokumente als Anlage: ERVV-Vorgaben, qualifizierte elektronische Signatur, Datei-Format-Whitelist nach ERVV, maximale Groesse, beA-Vorgaben, Container-PDF. Pruefraster und Mustertexte fuer Eingang bei Gericht. |
 | `anlagen-format-und-dateinamen` | Format und Dateinamen fuer Anlagen: K-01_2024-03-12_Mietvertrag.pdf. Maschinenlesbar, sortierbar, beA-kompatibel. Maximal 3 Ebenen Unterordner, keine Sonderzeichen, keine Umlaute in Dateinamen, durchgehend kleingeschrieben. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagen-elektronische-dokumente-spezial`
 
-**Frühere Beschreibung:** Spezialfall elektronische Dokumente als Anlage: ERVV-Vorgaben, qualifizierte elektronische Signatur, Datei-Format-Whitelist nach ERVV, maximale Groesse, beA-Vorgaben, Container-PDF. Pruefraster und Mustertexte fuer Eingang bei Gericht.
+**Fokus:** Spezialfall elektronische Dokumente als Anlage: ERVV-Vorgaben, qualifizierte elektronische Signatur, Datei-Format-Whitelist nach ERVV, maximale Groesse, beA-Vorgaben, Container-PDF. Pruefraster und Mustertexte fuer Eingang bei Gericht.
 
 # Anlagen: elektronische Dokumente
 
@@ -82,7 +82,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 2. `anlagen-format-und-dateinamen`
 
-**Frühere Beschreibung:** Format und Dateinamen fuer Anlagen: K-01_2024-03-12_Mietvertrag.pdf. Maschinenlesbar, sortierbar, beA-kompatibel. Maximal 3 Ebenen Unterordner, keine Sonderzeichen, keine Umlaute in Dateinamen, durchgehend kleingeschrieben.
+**Fokus:** Format und Dateinamen fuer Anlagen: K-01_2024-03-12_Mietvertrag.pdf. Maschinenlesbar, sortierbar, beA-kompatibel. Maximal 3 Ebenen Unterordner, keine Sonderzeichen, keine Umlaute in Dateinamen, durchgehend kleingeschrieben.
 
 # Anlagen: Format und Dateinamen
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 3. `anlagen-fuer-bea-versand`
 
-**Frühere Beschreibung:** Anlagen fuer beA-Versand vorbereiten: PDF/A-konform, max. zulaessige Dateigroesse beachten, OCR ueber Scans laufen lassen, korrekt strukturiertes XJustiz-Begleitformular. Liste der Anlagen pro Schriftsatz mit Pruefsumme. Verhindert wiederholte Zurueckweisung.
+**Fokus:** Anlagen fuer beA-Versand vorbereiten: PDF/A-konform, max. zulaessige Dateigroesse beachten, OCR ueber Scans laufen lassen, korrekt strukturiertes XJustiz-Begleitformular. Liste der Anlagen pro Schriftsatz mit Pruefsumme. Verhindert wiederholte Zurueckweisung.
 
 # Anlagen fuer beA-Versand
 
@@ -186,7 +186,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 4. `anlagen-fuer-glaubhaftmachung`
 
-**Frühere Beschreibung:** Spezialworkflow für Eilverfahren: Anlagen, eidesstattliche Versicherung, Screenshots, E-Mails, Fotos und Glaubhaftmachungsdichte nach § 294 ZPO ordnen.
+**Fokus:** Spezialworkflow für Eilverfahren: Anlagen, eidesstattliche Versicherung, Screenshots, E-Mails, Fotos und Glaubhaftmachungsdichte nach § 294 ZPO ordnen.
 
 # Anlagen für Glaubhaftmachung
 

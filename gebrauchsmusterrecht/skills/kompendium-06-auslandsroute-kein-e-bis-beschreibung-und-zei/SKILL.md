@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-auslandsroute-kein-e-bis-beschreibung-und-zei
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (auslandsroute-kein-eu-gebrauchsmuster, beschreibung-und-zeichnungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - gebrauchsmusterrecht
+# Arbeitsbereich - Auslandsroute Kein Eu Gebrauchsmuster, Beschreibung Und Zeichnungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `auslandsroute-kein-eu-gebrauchsmuster` | Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing. |
 | `beschreibung-und-zeichnungen` | Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `auslandsroute-kein-eu-gebrauchsmuster`
 
-**Frühere Beschreibung:** Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing.
+**Fokus:** Auslandsroute erklären: kein einheitliches EU-Gebrauchsmuster, nationale Utility Models, Patent/PCT, lokale Besonderheiten und Counsel-Briefing.
 
 # Auslandsroute Kein Eu Gebrauchsmuster
 
@@ -59,7 +59,7 @@ Internationales Route-Memo.
 
 ## 2. `beschreibung-und-zeichnungen`
 
-**Frühere Beschreibung:** Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen.
+**Fokus:** Beschreibung und Zeichnungen prüfen: Offenbarung, Bezugszeichen, Ausführungsbeispiele, Varianten, technische Wirkung und Konsistenz mit Ansprüchen.
 
 # Beschreibung Und Zeichnungen
 

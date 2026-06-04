@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kennzeichnungspflich-bis-ki-vo-betreiber-pfli
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (kennzeichnungspflichten-veroeffentlichungen, ki-kompetenz-erwerb-plan, ki-vo-betreiber-pflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Kennzeichnungspflichten Veroeffentlichungen, Ki Kompetenz Erwerb Plan, Ki Vo Betreiber Pflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kennzeichnungspflichten-veroeffentlichungen` | Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Prüfraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden für unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten. |
 | `ki-kompetenz-erwerb-plan` | KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kennzeichnungspflichten-veroeffentlichungen`
 
-**Frühere Beschreibung:** Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Prüfraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden für unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten.
+**Fokus:** Kennzeichnungspflichten für KI-generierte Inhalte in Kanzlei-Veröffentlichungen prüfen: Anwendungsfall Kanzlei veröffentlicht KI-unterstuetzte Artikel Blog-Posts Pressemitteilungen oder Mandantenbriefe und muss Kennzeichnungspflichten einhalten. Art. 50 Abs. 4 KI-VO Kennzeichnungspflicht, § 43 BRAO Sorgfaltspflicht, UrhG Urheberrecht KI-Content. Prüfraster Anwendungsbereich Art. 50 Abs. 4, redaktionelle Verantwortung als Ausnahme, Best-Practice-Hinweise transparente Kommunikation. Output Kennzeichnungs-Leitfaden für unterschiedliche Content-Typen. Abgrenzung zu Urheberrecht-Bausteine und zu Transparenz-Mandanten.
 
 # Kennzeichnungspflichten für Veröffentlichungen
 
@@ -140,7 +140,7 @@ Internes Kennzeichnungs-Symbol: [SYMBOL / TAG z.B. [KI-draft]]
 
 ## 2. `ki-kompetenz-erwerb-plan`
 
-**Frühere Beschreibung:** KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz.
+**Fokus:** KI-Kompetenz-Schulungsplan für Kanzleien nach Art. 4 KI-VO erstellen: Anwendungsfall Kanzlei muss seit 2. Februar 2025 sicherstellen dass Personal ausreichend KI-Kompetenz hat. Art. 4 KI-VO KI-Kompetenz-Pflicht Betreiber, EU-FAQ KI-Kompetenz. Prüfraster technisches Grundwissen, praktische Anwendung in Sandbox, strukturierte bedarfsgerechte Schulungsmodule, Dokumentation Schulungsteilnahme, jaehrliche Aktualisierung. Output Schulungsplan-Vorlage mit Modulen, Zeitplan und Dokumentations-Nachweis. Abgrenzung zu Richtlinien-Skelett und zu Compliance-Regelsatz.
 
 # KI-Kompetenz Erwerb Plan
 
@@ -224,7 +224,7 @@ NAECHSTE ÜBERPRÜFUNG: [DATUM]
 
 ## 3. `ki-vo-betreiber-pflichten`
 
-**Frühere Beschreibung:** KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Prüfraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Übersicht mit Textbausteinen für KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz.
+**Fokus:** KI-VO Betreiber-Pflichten für Kanzleien erlaeutern und umsetzen: Anwendungsfall Kanzlei als Betreiber von KI-Diensten muss Pflichten nach EU AI Act kennen und in Richtlinie umsetzen. Art. 3 Nr. 4 KI-VO Betreiber-Definition, Art. 4 KI-VO KI-Kompetenz-Pflicht, Art. 6 KI-VO Hochrisiko-Abgrenzung, Art. 50 Abs. 4 KI-VO Kennzeichnung. Prüfraster Betreiber-Eigenschaft prüfen, Hochrisiko-Klassifizierung Anhang III, Pflichten-Katalog zusammenstellen, Umsetzungsfristen. Output Betreiber-Pflichten-Übersicht mit Textbausteinen für KI-Richtlinie. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz.
 
 # KI-VO Betreiber-Pflichten
 

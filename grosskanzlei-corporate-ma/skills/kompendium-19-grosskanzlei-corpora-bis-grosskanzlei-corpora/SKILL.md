@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 19; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-negotiation-strategy-battlecards, grosskanzlei-corporate-ma-notar-vollmachten-signaturmechanik, grosskanzlei-corporate-ma-outside-in-target-screening, grosskanzlei-corporate-ma-padlet-deal-canvas, grosskanzlei-corporate-ma-pension-bav-liabilities und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Negotiation Strategy Battlecards, Grosskanzlei Corporate Ma Notar Vollmachten Signaturmechanik, Grosskanzlei Corporate Ma Outside In Target Screening, Grosskanzlei Corporate Ma Padlet Deal Canvas und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Negotiation Strategy Battlecards bis Grosskanzlei Corporate Ma Public Ma Kapitalmarkt Mar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-negotiation-strategy-battlecards` | Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege. |
 | `grosskanzlei-corporate-ma-notar-vollmachten-signaturmechanik` | Notar-, Vollmachts- und Signaturmechanik fuer Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-negotiation-strategy-battlecards`
 
-**Frühere Beschreibung:** Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege.
+**Fokus:** Verhandlungsstrategie und Battlecards fuer SPA, APA, Term Sheet, W&I, CPs und Disclosure: erstellt Position, Fallbacks, rote Linien, Gegenargumente und Formulierungsvorschlaege.
 
 # Negotiation Strategy Battlecards
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-notar-vollmachten-signaturmechanik`
 
-**Frühere Beschreibung:** Notar-, Vollmachts- und Signaturmechanik fuer Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik.
+**Fokus:** Notar-, Vollmachts- und Signaturmechanik fuer Corporate/M&A: plant Beurkundung, notarielle Vollmachten, Legalisation/Apostille, elektronische Signatur und Closing-Mechanik.
 
 # Notar Vollmachten Signaturmechanik
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-outside-in-target-screening`
 
-**Frühere Beschreibung:** Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und Branchenhinweisen erstellen. §§ 14-17 GWB Marktabgrenzung, MAR Insiderinformationen. Prüfraster Anforderungsprofil, Markt-Fit, IP-Status, Compliance-Risiken, Synergien, Warnsignale. Output Ziel-Screening-Report mit Scorecard, Pipeline-Rangliste und DD-Vorabhinweisen. Abgrenzung zu DD-Legal/Commercial für formale Due Diligence und zu Transaktionsstruktur.
+**Fokus:** Zielobjekt-Screening und Pipeline-Analyse aus öffentlichen Quellen: Anwendungsfall Mandant oder Deal-Team sucht geeignete Akquisitionsziele und muss fruehe Analyse aus Registern, Finanzdaten, Nachrichten und Branchenhinweisen erstellen. §§ 14-17 GWB Marktabgrenzung, MAR Insiderinformationen. Prüfraster Anforderungsprofil, Markt-Fit, IP-Status, Compliance-Risiken, Synergien, Warnsignale. Output Ziel-Screening-Report mit Scorecard, Pipeline-Rangliste und DD-Vorabhinweisen. Abgrenzung zu DD-Legal/Commercial für formale Due Diligence und zu Transaktionsstruktur.
 
 # Outside-in Target Screening
 
@@ -389,7 +389,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-padlet-deal-canvas`
 
-**Frühere Beschreibung:** Interaktiver Deal-Padlet-Canvas fuer Corporate/M&A: visualisiert Parteien, Struktur, Dokumente, Risiken, Q&A, CPs, Gremien, Register, To-dos und Entscheidungspunkte als bewegliches Arbeitsboard.
+**Fokus:** Interaktiver Deal-Padlet-Canvas fuer Corporate/M&A: visualisiert Parteien, Struktur, Dokumente, Risiken, Q&A, CPs, Gremien, Register, To-dos und Entscheidungspunkte als bewegliches Arbeitsboard.
 
 # Padlet Deal Canvas
 
@@ -479,7 +479,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-pension-bav-liabilities`
 
-**Frühere Beschreibung:** Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
+**Fokus:** Pension und bAV Liabilities in M&A: prueft Pensionszusagen, CTA, PSV, Bilanzierung, Change of Control, Versorgungssysteme und SPA-Risikoallokation.
 
 # Pension bAV Liabilities
 
@@ -569,7 +569,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-post-closing-integration`
 
-**Frühere Beschreibung:** Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs.
+**Fokus:** Post-Merger-Integration planen und begleiten: Anwendungsfall nach Closing muessen DD-Findings, SPA-Pflichten und Earn-Out-Mechanismen in PMI-Plan uebersetzt und Betriebsuebergang sowie Registeranmeldungen abgewickelt werden. § 613a BGB Betriebsuebergang, §§ 321 ff. HGB Completion-Accounts-Pflichten, SPA Post-Closing-Obligations. Prüfraster PMI-Aufgaben aus DD-Findings, Earn-Out-Berechnungsmechanismus, Betriebsuebergangspflichten, Register- und Behoeranmeldungen. Output PMI-Plan mit Owner-Matrix, Earn-Out-Monitoring und offenen SPA-Pflichten. Abgrenzung zu Steps-Plan-PMO für Pre-Signing-Phasen und zu Signing-Closing-CPs.
 
 # Post-Closing Integration
 
@@ -781,7 +781,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-public-ma-kapitalmarkt-mar`
 
-**Frühere Beschreibung:** Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüfraster WpUEG-Schwellen, Ad-hoc-Prüfung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Übersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf.
+**Fokus:** Public M&A und Kapitalmarkt-Compliance bei boersennotierten Transaktionen: Anwendungsfall Anwalt begleitet Übernahmeangebot, Pflichtangebot oder Squeeze-Out § 327a AktG bei boersennotierter Zielgesellschaft. WpUEG Angebotsunterlage, MAR VO 596/2014 Ad-hoc-Pflicht Art. 17, WpHG Insiderlisten. Prüfraster WpUEG-Schwellen, Ad-hoc-Prüfung, Insiderlisten-Verwaltung, Stellungnahme Zielgesellschaft, Marktgeruecht-Reaktion. Output Compliance-Landkarte Public M&A mit Zeitplan und Meldepflichten-Übersicht. Abgrenzung zu Regulatory-FDI-Merger-Control und zu SPA/APA-Entwurf.
 
 # Public M&A, Kapitalmarkt und MAR
 

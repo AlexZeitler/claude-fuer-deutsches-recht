@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-versr-bu-anerkennt-w-bis-versr-bu-nachpruefun
-description: "fachanwalt-versicherungsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (versr-bu-anerkennt-was-spezial, versr-bu-leistungspruefung-spezial, versr-bu-nachpruefung-anerkenntnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versr Bu Anerkennt Was Spezial, Versr Bu Leistungspruefung Spezial, Versr Bu Nachpruefung Anerkenntnis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-versicherungsrecht
+# Arbeitsbereich - Versr Bu Anerkennt Was Spezial, Versr Bu Leistungspruefung Spezial, Versr Bu Nachpruefung Anerkenntnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versr-bu-anerkennt-was-spezial` | Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit ueber Anerkenntnis und Wiedereinsetzung der Leistung. |
 | `versr-bu-leistungspruefung-spezial` | Spezialfall BU-Leistungspruefung: Berufsbeschreibung, 50-Prozent-Grenze, Mitwirkungspflichten, Nachpruefungsverfahren. Pruefraster fuer Versicherungsnehmer mit psychischer und somatischer Erkrankung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versr-bu-anerkennt-was-spezial`
 
-**Frühere Beschreibung:** Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit ueber Anerkenntnis und Wiedereinsetzung der Leistung.
+**Fokus:** Spezialfall Berufsunfaehigkeitsversicherung: Anerkennungsfaktum aktive Versicherung gegen Nachpruefung, konkrete und abstrakte Verweisung, 50-Prozent-BU. Beispielfall Streit ueber Anerkenntnis und Wiedereinsetzung der Leistung.
 
 # Versr: BU-Anerkennt
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-versicherungsrecht`. Er ergaenzt die
 
 ## 2. `versr-bu-leistungspruefung-spezial`
 
-**Frühere Beschreibung:** Spezialfall BU-Leistungspruefung: Berufsbeschreibung, 50-Prozent-Grenze, Mitwirkungspflichten, Nachpruefungsverfahren. Pruefraster fuer Versicherungsnehmer mit psychischer und somatischer Erkrankung.
+**Fokus:** Spezialfall BU-Leistungspruefung: Berufsbeschreibung, 50-Prozent-Grenze, Mitwirkungspflichten, Nachpruefungsverfahren. Pruefraster fuer Versicherungsnehmer mit psychischer und somatischer Erkrankung.
 
 # VersR: BU-Leistungspruefung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-versicherungsrecht`. Er ergaenzt die
 
 ## 3. `versr-bu-nachpruefung-anerkenntnis`
 
-**Frühere Beschreibung:** BU-Anerkenntnis, Nachprüfung und Leistungseinstellung: Vergleichszustand, Gesundheitsverbesserung, Berufswechsel, Mitwirkung und Prozessstrategie.
+**Fokus:** BU-Anerkenntnis, Nachprüfung und Leistungseinstellung: Vergleichszustand, Gesundheitsverbesserung, Berufswechsel, Mitwirkung und Prozessstrategie.
 
 # FA Versicherungsrecht: BU-Nachprüfung
 

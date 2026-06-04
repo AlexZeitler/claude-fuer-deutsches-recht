@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-spezial-vermoegensve-bis-aufgabenkreise-festl
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit, kontodaten-vertragsverdacht-pruefung, aufgabenkreise-festlegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vermoegensverzeichnis Fristen Form Und Zustaendigkeit, Kontodaten Vertragsverdacht Pruefung, Aufgabenkreise Festlegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - betreuungsrecht
+# Arbeitsbereich - Vermoegensverzeichnis Fristen Form Und Zustaendigkeit, Kontodaten Vertragsverdacht Pruefung, Aufgabenkreise Festlegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit` | Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BGB), Vermögensverzeichnis (§ 1835 BGB), Trennungsgebot (§ 1836 BGB), Rechnungslegung/Vermögensübersicht und gerichtliche Berichtspflichten. Output: forensisches Prüfprotokoll mit Ampel, Belegen, Rückholungs-/Kündigungsoptionen und Gerichtskommunikation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-vermoegensverzeichnis-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vermoegensverzeichnis: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `kontodaten-vertragsverdacht-pruefung`
 
-**Frühere Beschreibung:** Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BGB), Vermögensverzeichnis (§ 1835 BGB), Trennungsgebot (§ 1836 BGB), Rechnungslegung/Vermögensübersicht und gerichtliche Berichtspflichten. Output: forensisches Prüfprotokoll mit Ampel, Belegen, Rückholungs-/Kündigungsoptionen und Gerichtskommunikation.
+**Fokus:** Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: ungewöhnliche Zahlungen, verdächtige Dauerverträge, Fernwartung, Telefonbetrug, riskante Anlagen, Angehörigendruck und Auslandsüberweisungen zum Nachteil der betreuten Person. Prüft Aufgabenkreis, Wunschlage (§ 1821 BGB), Vermögensverzeichnis (§ 1835 BGB), Trennungsgebot (§ 1836 BGB), Rechnungslegung/Vermögensübersicht und gerichtliche Berichtspflichten. Output: forensisches Prüfprotokoll mit Ampel, Belegen, Rückholungs-/Kündigungsoptionen und Gerichtskommunikation.
 
 # Kontodaten- und Vertragsverdacht-Prüfung
 
@@ -258,7 +258,7 @@ python betreuungsrecht/scripts/betreuung_konto_vertragscheck.py \
 
 ## 3. `aufgabenkreise-festlegen`
 
-**Frühere Beschreibung:** Aufgabenkreise einer Betreuung festlegen: Vermoegensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB).
+**Fokus:** Aufgabenkreise einer Betreuung festlegen: Vermoegensvorsorge, Gesundheitsvorsorge, Aufenthaltsbestimmung, Postangelegenheiten, Wohnungsangelegenheiten. Empfehlung: nur erforderliche Kreise (Erforderlichkeitsgrundsatz § 1814 BGB).
 
 # Aufgabenkreise festlegen
 

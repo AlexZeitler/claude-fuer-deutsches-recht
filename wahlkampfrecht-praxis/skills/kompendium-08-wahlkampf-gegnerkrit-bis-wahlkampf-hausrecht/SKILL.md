@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-wahlkampf-gegnerkrit-bis-wahlkampf-hausrecht
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (wahlkampf-gegnerkritik-meinungsfreiheit, wahlkampf-gewerkschaften-verbaende-kirchen, wahlkampf-giveaways-waehlerbestechung, wahlkampf-grossspenden-sofortmeldung, wahlkampf-hausrecht-privatraeume) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Gegnerkritik Meinungsfreiheit, Wahlkampf Gewerkschaften Verbaende Kirchen, Wahlkampf Giveaways Waehlerbestechung, Wahlkampf Grossspenden Sofortmeldung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Gegnerkritik Meinungsfreiheit bis Wahlkampf Hausrecht Privatraeume
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-gegnerkritik-meinungsfreiheit` | Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen. |
 | `wahlkampf-gewerkschaften-verbaende-kirchen` | Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-gegnerkritik-meinungsfreiheit`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen.
+**Fokus:** Wahlkampfrecht Praxis: scharfe Kritik an Gegnern ohne Beleidigungs- oder Falschtatsachenrisiko pruefen.
 
 # Gegnerkritik Meinungsfreiheit
 
@@ -83,7 +83,7 @@ Erzeuge: **Aeusserungsrechtliche Ampel**. Wenn Informationen fehlen, stelle höc
 
 ## 2. `wahlkampf-gewerkschaften-verbaende-kirchen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Zusammenarbeit mit Verbaenden, Gewerkschaften, Kirchen und Initiativen pruefen.
 
 # Gewerkschaften Verbaende Kirchen
 
@@ -136,7 +136,7 @@ Erzeuge: **Kooperationsvermerk**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 3. `wahlkampf-giveaways-waehlerbestechung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Geschenke, Gewinnspiele, Essen, Getraenke und Rabatte im Wahlkampf pruefen.
 
 # Giveaways Waehlerbestechung
 
@@ -189,7 +189,7 @@ Erzeuge: **Giveaway-Freigabe**. Wenn Informationen fehlen, stelle höchstens ach
 
 ## 4. `wahlkampf-grossspenden-sofortmeldung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Grossspenden ueber der aktuellen Sofortmeldeschwelle pruefen.
 
 # Grossspenden Sofortmeldung
 
@@ -250,7 +250,7 @@ Erzeuge: **Grossspenden-Alarm**. Wenn Informationen fehlen, stelle höchstens ac
 
 ## 5. `wahlkampf-hausrecht-privatraeume`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlkampftermine in privaten Hallen, Vereinen und Betrieben pruefen.
 
 # Hausrecht Privatraeume
 

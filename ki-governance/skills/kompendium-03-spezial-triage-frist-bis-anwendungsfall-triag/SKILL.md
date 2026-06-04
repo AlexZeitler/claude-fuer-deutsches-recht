@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-triage-frist-bis-anwendungsfall-triag
-description: "ki-governance: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-triage-fristen-form-und-zustaendigkeit, ki-haftung-und-versicherung, anwendungsfall-triage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - ki-governance
+# Arbeitsbereich - Triage Fristen Form Und Zustaendigkeit, Ki Haftung Und Versicherung, Anwendungsfall Triage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-triage-fristen-form-und-zustaendigkeit` | Triage: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `ki-haftung-und-versicherung` | Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster fuer Versicherungsmakler und Risikomanagement. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-triage-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Triage: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Triage: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Triage: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `ki-haftung-und-versicherung`
 
-**Frühere Beschreibung:** Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster fuer Versicherungsmakler und Risikomanagement.
+**Fokus:** Haftung beim Einsatz von KI: Anbieter- und Betreiberhaftung KI-VO, Produkthaftungsgesetz neu nach RL EU 2024 2853, ueberschiessende KI-Haftungs-RL (Entwurf), Vertragshaftung. Versicherbarkeit (D and O, Cyber, KI-spezifisch). Pruefraster fuer Versicherungsmakler und Risikomanagement.
 
 # KI-Haftung und Versicherung
 
@@ -121,7 +121,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 3. `anwendungsfall-triage`
 
-**Frühere Beschreibung:** Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer "KI-Anwendungsfall triage", "dürfen wir KI für X einsetzen", "ist das freigegeben" oder "Hochrisiko-KI klassifizieren" sagt.
+**Fokus:** Klassifiziert einen vorgeschlagenen KI-Anwendungsfall gegen das Unternehmensregister — freigegeben, bedingt oder nicht freigegeben — und erstellt Auflagenliste und nächste Schritte. Prüft gegen verbotene Praktiken (Art. 5 KI-VO) und Hochrisiko-Kategorien (Anhang III KI-VO). Lädt, wenn der Nutzer "KI-Anwendungsfall triage", "dürfen wir KI für X einsetzen", "ist das freigegeben" oder "Hochrisiko-KI klassifizieren" sagt.
 
 # KI-Anwendungsfall-Triage
 

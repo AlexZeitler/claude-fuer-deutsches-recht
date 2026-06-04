@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-versr-lebensversiche-bis-versr-obliegenheitsv
-description: "fachanwalt-versicherungsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (versr-lebensversicherung-bezugsrecht-bewertungsreserven, versr-obliegenheit-28-quotelung-kausalitaet, versr-obliegenheitsverletzung-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versr Lebensversicherung Bezugsrecht Bewertungsreserven, Versr Obliegenheit 28 Quotelung Kausalitaet, Versr Obliegenheitsverletzung Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-versicherungsrecht
+# Arbeitsbereich - Versr Lebensversicherung Bezugsrecht Bewertungsreserven, Versr Obliegenheit 28 Quotelung Kausalitaet, Versr Obliegenheitsverletzung Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versr-lebensversicherung-bezugsrecht-bewertungsreserven` | Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven. |
 | `versr-obliegenheit-28-quotelung-kausalitaet` | Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versr-lebensversicherung-bezugsrecht-bewertungsreserven`
 
-**Frühere Beschreibung:** Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven.
+**Fokus:** Lebensversicherung: Bezugsrecht, Erbfall, Scheidung, Sicherungsabtretung, Rückkaufswert, Überschüsse und Bewertungsreserven.
 
 # FA Versicherungsrecht: Lebensversicherung Auszahlung
 
@@ -62,7 +62,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 2. `versr-obliegenheit-28-quotelung-kausalitaet`
 
-**Frühere Beschreibung:** Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote.
+**Fokus:** Obliegenheitsverletzung nach § 28 VVG mit Vorsatz/grober Fahrlässigkeit, Rechtsfolgenbelehrung, Kausalitätsgegenbeweis und Quote.
 
 # FA Versicherungsrecht: § 28 VVG Quotierung
 
@@ -96,7 +96,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 3. `versr-obliegenheitsverletzung-praxis`
 
-**Frühere Beschreibung:** Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht. Folgen Leistungsfreiheit bei Vorsatz, Quotelung bei grober Fahrlaessigkeit, Kausalitaetsgegenbeweis Versicherungsnehmer. Pruefraster Mandant.
+**Fokus:** Obliegenheitsverletzung in der Praxis: § 28 VVG, Aufklaerungspflicht, Anzeigepflicht. Folgen Leistungsfreiheit bei Vorsatz, Quotelung bei grober Fahrlaessigkeit, Kausalitaetsgegenbeweis Versicherungsnehmer. Pruefraster Mandant.
 
 # Versr: Obliegenheitsverletzung
 

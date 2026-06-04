@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-solo-risikomemo-auft-bis-solo-sozialrechtlich
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 8 frühere Spezialskills (solo-risikomemo-auftraggeber, solo-risikoregister, solo-ruecklagen-steuern-versicherung, solo-screenshots-fotos-rechte-daten, solo-skalierung-ohne-chaos und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Risikomemo Auftraggeber, Solo Risikoregister, Solo Ruecklagen Steuern Versicherung, Solo Screenshots Fotos Rechte Daten und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Risikomemo Auftraggeber bis Solo Sozialrechtlicher Bescheid Widerspruch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-risikomemo-auftraggeber` | Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-risikoregister` | Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-risikomemo-auftraggeber`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt ein Memo für Kunden, warum die Zusammenarbeit sauber selbstständig ist oder nicht; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Erstellt ein memo für kunden
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 2. `solo-risikoregister`
 
-**Frühere Beschreibung:** Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: baut ein lebendes Risikoregister mit Eintritt, Schaden, Gegenmaßnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Baut ein lebendes risikoregister mit eintritt
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 3. `solo-ruecklagen-steuern-versicherung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Rücklagen für ESt, USt, Krankenversicherung und Rentenvorsorge; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Plant rücklagen für est
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 4. `solo-screenshots-fotos-rechte-daten`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Fotos, Screenshots, Chatverläufe und personenbezogene Daten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Fotos, Screenshots, Chatverläufe und personenbezogene Daten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Prüft fotos
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 5. `solo-skalierung-ohne-chaos`
 
-**Frühere Beschreibung:** Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: entscheidet zwischen mehr Preis, mehr Prozesse, Subunternehmer oder GmbH; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Entscheidet zwischen mehr preis
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 6. `solo-social-media-werbung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Werbung, Testimonials, Influencer-Hinweise und Irreführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft werbung
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 7. `solo-software-code-freelancer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: regelt Softwareurheberrecht, Open Source, Repos und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: regelt Softwareurheberrecht, Open Source, Repos und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Regelt softwareurheberrecht
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 8. `solo-sozialrechtlicher-bescheid-widerspruch`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht aus Kasse/DRV/KSK-Bescheid eine verständliche Widerspruchsstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Macht aus kasse/drv/ksk-bescheid eine verständliche widerspruchsstrategie
 

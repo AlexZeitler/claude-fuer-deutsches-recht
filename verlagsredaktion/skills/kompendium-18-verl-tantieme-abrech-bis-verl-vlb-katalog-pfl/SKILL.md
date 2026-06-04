@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-verl-tantieme-abrech-bis-verl-vlb-katalog-pfl
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (verl-tantieme-abrechnung-jaehrlich, verl-themenscout-rechtsentwicklung, verl-trend-radar-rechtsgebiete, verl-vergleichsverhandlung-mit-autor, verl-vlb-katalog-pflege-jur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Tantieme Abrechnung Jaehrlich, Verl Themenscout Rechtsentwicklung, Verl Trend Radar Rechtsgebiete, Verl Vergleichsverhandlung Mit Autor und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - verlagsredaktion
+# Arbeitsbereich - Verl Tantieme Abrechnung Jaehrlich bis Verl Vlb Katalog Pflege Jur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-tantieme-abrechnung-jaehrlich` | Jaehrliche Tantieme-Abrechnung fuer Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d. |
 | `verl-themenscout-rechtsentwicklung` | Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten fuer Aufsaetze und Heftaufmacher. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-tantieme-abrechnung-jaehrlich`
 
-**Frühere Beschreibung:** Jaehrliche Tantieme-Abrechnung fuer Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d.
+**Fokus:** Jaehrliche Tantieme-Abrechnung fuer Autoren juristischer Werke: Stueck- und Umsatzbeteiligung, Loseblatt-Ergaenzungslieferungen, Online-Nutzung, Verrechnung mit Vorschuss, Pflichten nach UrhG § 32d.
 
 # Tantieme jaehrlich abrechnen
 
@@ -179,7 +179,7 @@ Mit freundlichen Gruessen
 
 ## 2. `verl-themenscout-rechtsentwicklung`
 
-**Frühere Beschreibung:** Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten fuer Aufsaetze und Heftaufmacher.
+**Fokus:** Identifiziert Trends in BGH-/EuGH-/BVerfG-/BMF-Rechtsprechung und Gesetzgebungsverfahren als Themenkandidaten fuer Aufsaetze und Heftaufmacher.
 
 # Themenscout Rechtsentwicklung
 
@@ -287,7 +287,7 @@ Quellen-URL: https://www.bundesgerichtshof.de/...
 
 ## 3. `verl-trend-radar-rechtsgebiete`
 
-**Frühere Beschreibung:** Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung fuer mehrere Zeitschriften und Reihen.
+**Fokus:** Beobachtet rechtsgebietsuebergreifende Trends (Digitalisierung, ESG, KI-Recht, EU-Reformen) als Themen-Frueherkennung fuer mehrere Zeitschriften und Reihen.
 
 # Trend-Radar Rechtsgebiete
 
@@ -391,7 +391,7 @@ Programm-Empfehlung:
 
 ## 4. `verl-vergleichsverhandlung-mit-autor`
 
-**Frühere Beschreibung:** Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie bei Honorar-, Tantieme- oder Rueckforderungsstreit, BATNA, Eskalationsstufen, schriftlicher Vergleich und Abgeltungsklausel.
+**Fokus:** Vergleichsverhandlung mit Autor: Aufbau einer Verhandlungslinie bei Honorar-, Tantieme- oder Rueckforderungsstreit, BATNA, Eskalationsstufen, schriftlicher Vergleich und Abgeltungsklausel.
 
 # Vergleichsverhandlung mit Autor
 
@@ -550,7 +550,7 @@ Verlag                              Autor
 
 ## 5. `verl-vlb-katalog-pflege-jur`
 
-**Frühere Beschreibung:** VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metadaten, Schlagworte, Klappentext, Reihen, Preisbindung, Erscheinungstermin-Pflege. Konsistenz mit Webshop, beck-online und Buchhandel.
+**Fokus:** VLB-Katalog (Verzeichnis lieferbarer Buecher) pflegen: ONIX-Metadaten, Schlagworte, Klappentext, Reihen, Preisbindung, Erscheinungstermin-Pflege. Konsistenz mit Webshop, beck-online und Buchhandel.
 
 # VLB-Katalog (Verzeichnis lieferbarer Buecher)
 

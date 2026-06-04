@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-ihl-057-esg-and-lksg-bis-ihl-060-digital-prod
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (ihl-057-esg-and-lksg-csddd, ihl-058-data-transfer-in-trade, ihl-059-e-commerce-crossborder-b2b, ihl-060-digital-products-international) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 057 Esg And Lksg Csddd, Ihl 058 Data Transfer In Trade, Ihl 059 E Commerce Crossborder B2b, Ihl 060 Digital Products International; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 057 Esg And Lksg Csddd bis Ihl 060 Digital Products International
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-057-esg-and-lksg-csddd` | Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken. |
 | `ihl-058-data-transfer-in-trade` | Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-057-esg-and-lksg-csddd`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken.
+**Fokus:** Internationales Handelsrecht: ESG in der Lieferkette — LkSG 2023, EU CSDDD 2024 und EU-Taxonomie-VO (EU) 2020/852. Umwelt-, Sozial- und Governance-Pflichten, Berichterstattung (CSRD), Lieferkettenklauseln und Greenwashing-Risiken.
 
 # ESG, LkSG und CSDDD in der Lieferkette
 
@@ -81,7 +81,7 @@ LkSG: gesetze-im-internet.de. CSDDD RL 2024/1760: eur-lex.europa.eu. CSRD RL 202
 
 ## 2. `ihl-058-data-transfer-in-trade`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen.
+**Fokus:** Internationales Handelsrecht: Datentransfer in der internationalen Handelspraxis. DSGVO Art. 44-49 (Drittlandübermittlung), Standardvertragsklauseln (SCC), EU-US Data Privacy Framework (2023) und Datenschutz in Handelsverträgen.
 
 # Datentransfer im internationalen Handel
 
@@ -133,7 +133,7 @@ DSGVO: eur-lex.europa.eu (32016R0679). SCC 2021: eur-lex.europa.eu. DPF-Beschlus
 
 ## 3. `ihl-059-e-commerce-crossborder-b2b`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung.
+**Fokus:** Internationales Handelsrecht: Grenzüberschreitender B2B-E-Commerce. EU-E-Commerce-RL 2000/31/EG (Herkunftslandprinzip), Vertragsschluss online (CISG Art. 14-24), elektronische Signaturen (eIDAS-VO), Digital Markets Act und Plattformhaftung.
 
 # Grenzüberschreitender B2B-E-Commerce
 
@@ -185,7 +185,7 @@ E-Commerce-RL 2000/31/EG: eur-lex.europa.eu. eIDAS-VO 910/2014: eur-lex.europa.e
 
 ## 4. `ihl-060-digital-products-international`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen.
+**Fokus:** Internationales Handelsrecht: Digitale Produkte im internationalen Handel. EU-Richtlinie 2019/770 (Digitale Inhalte), CISG-Anwendbarkeit auf Software-Verkauf, Lizenzrecht, AI-Act (EU) 2024/1689 und grenzüberschreitende Softwarelizenzen.
 
 # Digitale Produkte im internationalen Handel
 

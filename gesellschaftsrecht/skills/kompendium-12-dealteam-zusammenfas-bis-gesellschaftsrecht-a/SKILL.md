@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-dealteam-zusammenfas-bis-gesellschaftsrecht-a
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (dealteam-zusammenfassung, gesellschafterbeschluss, gesellschafterstreit-loesungsstrategie, gesellschafts-compliance, gesellschaftsrecht-anpassen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dealteam Zusammenfassung, Gesellschafterbeschluss, Gesellschafterstreit Loesungsstrategie, Gesellschafts Compliance und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - gesellschaftsrecht
+# Arbeitsbereich - Dealteam Zusammenfassung bis Gesellschaftsrecht Anpassen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dealteam-zusammenfassung` | Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update, Deal-Team-Summary. |
 | `gesellschafterbeschluss` | Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dealteam-zusammenfassung`
 
-**Frühere Beschreibung:** Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update, Deal-Team-Summary.
+**Fokus:** Erstellt gestaffelte Deal-Briefings für Geschäftsführung, Deal-Lead und Arbeitsteam aus DD-Findings und Vollzugscheckliste. Trigger: Deal-Briefing, Deal-Zusammenfassung, Status für Geschäftsführung, Team-Update, Deal-Team-Summary.
 
 # Deal-Team-Zusammenfassung
 
@@ -198,7 +198,7 @@ Maßnahme: Beide Nennungen entfernt (Rechtsprechungsabschnitt und Quellenabschni
 
 ## 2. `gesellschafterbeschluss`
 
-**Frühere Beschreibung:** Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung.
+**Fokus:** Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung.
 
 # Gesellschafterbeschluss – GmbH und AG
 
@@ -355,7 +355,7 @@ Maßnahme: Zitat entfernt. Kein Ersatz eingefügt; die gesetzliche Regelung (§ 
 
 ## 3. `gesellschafterstreit-loesungsstrategie`
 
-**Frühere Beschreibung:** Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Prüfraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss für Beschlussfassung mandat-triage für Erst-Abfrage.
+**Fokus:** Gesellschafter sind zerstritten Patt-Situation oder Mehrheits-Gesellschafter droht Hinaus-Kündigung. Strategie bei GmbH-Konflikten: Mediation Beschluss-Anfechtungsklage § 246 AktG analog Abberufung Geschäftsführer § 38 GmbHG. Normen § 34 GmbHG Einziehung § 140 HGB analog Ausschluss-Klage § 48 GmbHG Gesellschafterversammlung. Prüfraster Wertbestimmungs-Verfahren Abfindungsberechnung BGH Verkehrswert Schiedsklausel DIS. Output Konflikt-Strategie-Memo mit Verhandlungskonzept Klageoption und Kostenfolge. Abgrenzung: gesellschafterbeschluss für Beschlussfassung mandat-triage für Erst-Abfrage.
 
 # Gesellschafterstreit — Lösungsstrategie
 
@@ -505,7 +505,7 @@ Maßnahme: Beide Nennungen entfernt. Kein Ersatz eingefuegt; der Ausschlussklage
 
 ## 4. `gesellschafts-compliance`
 
-**Frühere Beschreibung:** Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen fällig ist. Trigger: "Gesellschafts-Compliance", "Einreichungsfristen", "Bilanzpublizität", "Transparenzregister", "Jahresabschluss einreichen", "was ist fällig".
+**Fokus:** Gesellschafts-Compliance-Tracker – Initialisierung, Fälligkeitsbericht, Status-Update, Gesundheits-Audit, Export. Pflegt eine compliance-tracker.yaml aus der Gesellschaftstabelle, berechnet Einreichungsfristen nach Rechtsträger und Rechtsordnung und zeigt auf, was in den nächsten 30/60/90 Tagen fällig ist. Trigger: "Gesellschafts-Compliance", "Einreichungsfristen", "Bilanzpublizität", "Transparenzregister", "Jahresabschluss einreichen", "was ist fällig".
 
 # Gesellschafts-Compliance (§ 325 HGB Bilanzpublizität; § 20 GwG Transparenzregister)
 
@@ -1072,7 +1072,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `gesellschaftsrecht-anpassen`
 
-**Frühere Beschreibung:** Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer "Profil ändern", "Konfiguration aktualisieren", "Einstellung anpassen" oder vergleichbare Formulierungen verwendet.
+**Fokus:** Geführte Anpassung des gesellschaftsrechtlichen Praxisprofils — einzelne Einstellung ändern, ohne das vollständige Ersteinrichtungs-Interview neu durchzuführen. Risikoprofil, Eskalationskontakte, aktive Module (M&A / Governance / Kapitalmarkt / Gesellschaftsverwaltung), Wesentlichkeitsschwellen, Beschlussformat oder Mandatsworkspace-Pfade anpassen. Lädt, wenn der Nutzer "Profil ändern", "Konfiguration aktualisieren", "Einstellung anpassen" oder vergleichbare Formulierungen verwendet.
 
 # Praxisprofil anpassen
 

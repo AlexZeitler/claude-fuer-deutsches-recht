@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-rom-024-leihe-commod-bis-rom-031-innominatkon
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 05; bündelt 8 frühere Spezialskills (rom-024-leihe-commodatum, rom-025-verwahrung-depositum, rom-026-auftrag-mandatum, rom-027-gesellschaft-societas, rom-028-buergschaft-und-sicherheiten und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 024 Leihe Commodatum, Rom 025 Verwahrung Depositum, Rom 026 Auftrag Mandatum, Rom 027 Gesellschaft Societas und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - roemisches-recht
+# Arbeitsbereich - Rom 024 Leihe Commodatum bis Rom 031 Innominatkontrakte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-024-leihe-commodatum` | Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa). |
 | `rom-025-verwahrung-depositum` | Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-024-leihe-commodatum`
 
-**Frühere Beschreibung:** Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa).
+**Fokus:** Römisches Recht: Commodatum (Leihe) als Realkontrakt nach D. 13.6 und Gaius Inst. 3.196 - unentgeltliche Gebrauchsüberlassung, actio commodati (directa/contraria), Haftungsmaßstab (custodia oder culpa).
 
 # Leihe (commodatum)
 
@@ -86,7 +86,7 @@ D. 13.6 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14. Kaser RP I. Zimmerma
 
 ## 2. `rom-025-verwahrung-depositum`
 
-**Frühere Beschreibung:** Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile.
+**Fokus:** Römisches Recht: Depositum (Verwahrung) nach D. 16.3 und Gaius Inst. 3.196 - unentgeltliche Aufbewahrung fremder Sache, actio depositi directa/contraria, dolus-Haftung, depositum miserabile.
 
 # Verwahrung (depositum)
 
@@ -139,7 +139,7 @@ D. 16.3 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.14.3. Kaser RP I. Zimmer
 
 ## 3. `rom-026-auftrag-mandatum`
 
-**Frühere Beschreibung:** Römisches Recht: Mandatum (Auftrag) als Konsensualkontrakt nach D. 17.1 und Gaius Inst. 3.155-162 - Unentgeltlichkeit, actio mandati directa/contraria, mandatum post mortem und Widerruf.
+**Fokus:** Römisches Recht: Mandatum (Auftrag) als Konsensualkontrakt nach D. 17.1 und Gaius Inst. 3.155-162 - Unentgeltlichkeit, actio mandati directa/contraria, mandatum post mortem und Widerruf.
 
 # Auftrag (mandatum)
 
@@ -193,7 +193,7 @@ D. 17.1 (Mommsen-Krüger). Gaius Inst. 3.155-162. Iust. Inst. 3.26. Kaser RP I. 
 
 ## 4. `rom-027-gesellschaft-societas`
 
-**Frühere Beschreibung:** Römisches Recht: Societas (Gesellschaft) als Konsensualkontrakt nach D. 17.2 und Gaius Inst. 3.148-154 - societas omnium bonorum, quaestus, Haftung (diligentia quam in suis), actio pro socio.
+**Fokus:** Römisches Recht: Societas (Gesellschaft) als Konsensualkontrakt nach D. 17.2 und Gaius Inst. 3.148-154 - societas omnium bonorum, quaestus, Haftung (diligentia quam in suis), actio pro socio.
 
 # Gesellschaft (societas)
 
@@ -246,7 +246,7 @@ D. 17.2 (Mommsen-Krüger). Gaius Inst. 3.148-154. Iust. Inst. 3.25. Kaser RP I. 
 
 ## 5. `rom-028-buergschaft-und-sicherheiten`
 
-**Frühere Beschreibung:** Römisches Recht: Bürgschaft und persönliche Sicherheiten - sponsio, fidepromissio, fideiussio nach Gaius Inst. 3.115-127, D. 46.1 (Ulpian) und SC Velleianum (Haftungsausschluss für Frauen).
+**Fokus:** Römisches Recht: Bürgschaft und persönliche Sicherheiten - sponsio, fidepromissio, fideiussio nach Gaius Inst. 3.115-127, D. 46.1 (Ulpian) und SC Velleianum (Haftungsausschluss für Frauen).
 
 # Bürgschaft und persönliche Sicherheiten
 
@@ -300,7 +300,7 @@ Gaius Inst. 3.115-127; D. 46.1; D. 16.1 (Mommsen-Krüger). Kaser RP I. Zimmerman
 
 ## 6. `rom-029-realvertraege-system`
 
-**Frühere Beschreibung:** Römisches Recht: Realkontrakte nach Gaius Inst. 3.90 - mutuum, commodatum, depositum, pignus als durch Hingabe der Sache (re) entstehende Verträge und ihre systematische Stellung im Obligationenrecht.
+**Fokus:** Römisches Recht: Realkontrakte nach Gaius Inst. 3.90 - mutuum, commodatum, depositum, pignus als durch Hingabe der Sache (re) entstehende Verträge und ihre systematische Stellung im Obligationenrecht.
 
 # Realverträge - System
 
@@ -354,7 +354,7 @@ Gaius Inst. 3; Iust. Inst. 3.14; D. 44.7; D. 12.1 (Mommsen-Krüger). Kaser RP I.
 
 ## 7. `rom-030-konsensualvertraege-system`
 
-**Frühere Beschreibung:** Römisches Recht: Konsensualkontrakte (consensu contrahitur) nach Gaius Inst. 3.135 - emptio venditio, locatio conductio, mandatum, societas und die Bedeutung des bloßen Konsenses für die obligatio.
+**Fokus:** Römisches Recht: Konsensualkontrakte (consensu contrahitur) nach Gaius Inst. 3.135 - emptio venditio, locatio conductio, mandatum, societas und die Bedeutung des bloßen Konsenses für die obligatio.
 
 # Konsensualverträge - System
 
@@ -408,7 +408,7 @@ Gaius Inst. 3.135-162; Iust. Inst. 3.22-26; D. 2.14 (Mommsen-Krüger). Kaser RP 
 
 ## 8. `rom-031-innominatkontrakte`
 
-**Frühere Beschreibung:** Römisches Recht: Innominatkontrakte (contractus innominati) nach D. 19.5 und D. 2.14 - Vier-Typen-Schema (do ut des etc.), actio praescriptis verbis und Abgrenzung zu Nominalkontrakten.
+**Fokus:** Römisches Recht: Innominatkontrakte (contractus innominati) nach D. 19.5 und D. 2.14 - Vier-Typen-Schema (do ut des etc.), actio praescriptis verbis und Abgrenzung zu Nominalkontrakten.
 
 # Innominatkontrakte (contractus innominati)
 

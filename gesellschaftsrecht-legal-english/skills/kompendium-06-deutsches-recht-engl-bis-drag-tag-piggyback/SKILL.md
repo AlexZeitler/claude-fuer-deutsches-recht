@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-deutsches-recht-engl-bis-drag-tag-piggyback
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (deutsches-recht-englische-vertraege, drag-tag-piggyback) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Deutsches Recht Englische Vertraege, Drag Tag Piggyback; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Deutsches Recht Englische Vertraege, Drag Tag Piggyback
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `deutsches-recht-englische-vertraege` | Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends. |
 | `drag-tag-piggyback` | Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `deutsches-recht-englische-vertraege`
 
-**Frühere Beschreibung:** Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends.
+**Fokus:** Prueft englische Vertragssprache bei deutschem Recht, Gerichtssprache, Commercial Courts, Uebersetzungsregeln, Auslegung und False Friends.
 
 # Deutsches Recht, englische Vertragssprache
 
@@ -104,7 +104,7 @@ Ist Englisch nur Arbeitssprache, verbindliche Vertragssprache oder Prozesssprach
 
 ## 2. `drag-tag-piggyback`
 
-**Frühere Beschreibung:** Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik.
+**Fokus:** Unterscheidet Drag-along, Tag-along und Piggyback Rights mit Triggern, Mehrheiten, Minderheitenschutz, Vollzug und deutscher Dokumentenlogik.
 
 # Drag, Tag und Piggyback
 

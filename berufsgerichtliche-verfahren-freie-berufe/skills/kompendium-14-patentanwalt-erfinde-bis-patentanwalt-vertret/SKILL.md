@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-patentanwalt-erfinde-bis-patentanwalt-vertret
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (patentanwalt-erfinderkonflikt-praevention, patentanwalt-erfinderkonflikt-verteidigung, patentanwalt-vertretungsbefugnis-grenze-praevention, patentanwalt-vertretungsbefugnis-grenze-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patentanwalt Erfinderkonflikt Praevention, Patentanwalt Erfinderkonflikt Verteidigung, Patentanwalt Vertretungsbefugnis Grenze Praevention, Patentanwalt Vertretungsbefugnis Grenze Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Patentanwalt Erfinderkonflikt Praevention bis Patentanwalt Vertretungsbefugnis Grenze Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patentanwalt-erfinderkonflikt-praevention` | Patentanwalt Erfinderkonflikt (Präventions- und Organisationspaket): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `patentanwalt-erfinderkonflikt-verteidigung` | Patentanwalt Erfinderkonflikt (Verteidigungs- und Kammerantwort): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patentanwalt-erfinderkonflikt-praevention`
 
-**Frühere Beschreibung:** Patentanwalt Erfinderkonflikt (Präventions- und Organisationspaket): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Erfinderkonflikt (Präventions- und Organisationspaket): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Erfinderkonflikt: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `patentanwalt-erfinderkonflikt-verteidigung`
 
-**Frühere Beschreibung:** Patentanwalt Erfinderkonflikt (Verteidigungs- und Kammerantwort): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Erfinderkonflikt (Verteidigungs- und Kammerantwort): steuert Konflikt zwischen Erfinder, Arbeitgeber, Anmelder, Investor und mehreren Schutzrechtsinhabern mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Erfinderkonflikt: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `patentanwalt-vertretungsbefugnis-grenze-praevention`
 
-**Frühere Beschreibung:** Patentanwalt Vertretungsbefugnis Grenze (Präventions- und Organisationspaket): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Vertretungsbefugnis Grenze (Präventions- und Organisationspaket): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Vertretungsbefugnis Grenze: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `patentanwalt-vertretungsbefugnis-grenze-verteidigung`
 
-**Frühere Beschreibung:** Patentanwalt Vertretungsbefugnis Grenze (Verteidigungs- und Kammerantwort): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Patentanwalt Vertretungsbefugnis Grenze (Verteidigungs- und Kammerantwort): steuert Grenzen patentanwaltlicher Beratung, Rechtsdienstleistung, Prozessvertretung und Kooperation mit Rechtsanwälten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Patentanwalt Vertretungsbefugnis Grenze: Verteidigungs- und Kammerantwort
 

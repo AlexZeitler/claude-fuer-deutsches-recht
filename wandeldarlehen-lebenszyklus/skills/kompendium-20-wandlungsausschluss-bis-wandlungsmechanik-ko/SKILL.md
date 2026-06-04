@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-wandlungsausschluss-bis-wandlungsmechanik-ko
-description: "wandeldarlehen-lebenszyklus: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (wandlungsausschluss-pruefung, wandlungsmechanik-konzipieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wandeldarlehen-lebenszyklus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wandlungsausschluss Pruefung, Wandlungsmechanik Konzipieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - wandeldarlehen-lebenszyklus
+# Arbeitsbereich - Wandlungsausschluss Pruefung, Wandlungsmechanik Konzipieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wandlungsausschluss-pruefung` | Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren). |
 | `wandlungsmechanik-konzipieren` | Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wandlungsausschluss-pruefung`
 
-**Frühere Beschreibung:** Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren).
+**Fokus:** Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren).
 
 # Wandlungsausschluss-Prüfung
 
@@ -119,7 +119,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `wandlungsmechanik-konzipieren`
 
-**Frühere Beschreibung:** Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung).
+**Fokus:** Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Prüfraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht für konkrete Wandlungsberechnung (wandlungspreis-berechnung).
 
 # Wandlungsmechanik konzipieren
 

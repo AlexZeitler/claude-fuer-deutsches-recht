@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-widerspruch-bis-weg-beschluss-anfech
-description: "mietrecht: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (spezial-widerspruch-mehrparteien-konflikt-und-interessen, v90-betriebskostenabrechnung-belege-und-formelpruefer, weg-beschluss-anfechten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Widerspruch Mehrparteien Konflikt Und Interessen, V90 Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - mietrecht
+# Arbeitsbereich - Widerspruch Mehrparteien Konflikt Und Interessen, V90 Betriebskostenabrechnung Belege Und Formelpruefer, Weg Beschluss Anfechten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-widerspruch-mehrparteien-konflikt-und-interessen` | Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `v90-betriebskostenabrechnung-belege-und-formelpruefer` | Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-widerspruch-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Widerspruch: Mehrparteienkonflikt und Interessenmatrix im Mietrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/BetrKV/HeizkostenV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Widerspruch: Mehrparteienkonflikt und Interessenmatrix
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `v90-betriebskostenabrechnung-belege-und-formelpruefer`
 
-**Frühere Beschreibung:** Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen.
+**Fokus:** Prüft und erstellt Betriebskostenabrechnungen mit BGH-Linie zu formeller Ordnungsgemäßheit, Belegeinsicht, Umlageschlüsseln, Vorwegabzug, HeizkostenV und Einwendungsfristen.
 
 # Betriebskostenabrechnung: Belege, Umlageschlüssel, Abflussprinzip und Fristen
 
@@ -98,7 +98,7 @@ Erstelle eine Excel-taugliche Tabelle `Kostenart / Betrag gesamt / Abzug / Umlag
 
 ## 3. `weg-beschluss-anfechten`
 
-**Frühere Beschreibung:** Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmäßige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Prüfung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG.
+**Fokus:** Prüfraster für die Beschlussanfechtung in der Wohnungseigentuemergemeinschaft nach §§ 44 ff. WEG-Reform 2020. Beschlussklage Anfechtungsklage Nichtigkeitsklage Feststellungsklage. Prüfung formelle Maengel (Ladung Tagesordnung Beschlussfähigkeit Mehrheit Stimmrechtsausschluesse) und materielle Maengel (kein Beschlusszustand ordnungsmäßige Verwaltung Treu und Glauben). Klagefrist ein Monat ab Beschluss § 45 WEG. Verwaltungsbeirats-Prüfung Verwaltervertrag Sondereigentum vs. Gemeinschaftseigentum Bauliche Veraenderung § 20 WEG Hausgeld § 16 Abs. 2 WEG.
 
 # WEG-Beschluss anfechten
 

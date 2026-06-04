@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-er-bess-vergabe-komm-bis-er-fusion-bauleitpla
-description: "energierecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (er-bess-vergabe-kommunale-stadtwerke, er-bess-wasser-awsv-und-boden, er-einfuehrung-system, er-fusion-bauleitplanung-starnberger-see) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Vergabe Kommunale Stadtwerke, Er Bess Wasser Awsv Und Boden, Er Einfuehrung System, Er Fusion Bauleitplanung Starnberger See; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - energierecht
+# Arbeitsbereich - Er Bess Vergabe Kommunale Stadtwerke bis Er Fusion Bauleitplanung Starnberger See
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-vergabe-kommunale-stadtwerke` | Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss. |
 | `er-bess-wasser-awsv-und-boden` | Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-vergabe-kommunale-stadtwerke`
 
-**Frühere Beschreibung:** Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss.
+**Fokus:** Prüft, ob Stadtwerk, Kommune oder öffentlich beherrschte Gesellschaft Vergaberecht und Beihilfe beachten muss.
 
 # Kommunale Stadtwerke, Vergabe und Beihilfe
 
@@ -62,7 +62,7 @@ GWB/VgV/SektVO, EU-Beihilferecht, Kommunalrecht, Konzernrecht.
 
 ## 2. `er-bess-wasser-awsv-und-boden`
 
-**Frühere Beschreibung:** Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz.
+**Fokus:** Prüft Kühlmittel, Transformatorenöl, Löschwasser, Bodenversiegelung, Havariebecken und Grundwasserschutz.
 
 # Wasser, AwSV, Boden und Havarie
 
@@ -95,7 +95,7 @@ WHG, AwSV, BauGB Umweltprüfung, Landeswasserrecht, Brandschutzkonzept.
 
 ## 3. `er-einfuehrung-system`
 
-**Frühere Beschreibung:** Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise.
+**Fokus:** Energierecht einfuehrend: Saeulen Strom, Gas, Waerme. Erzeugung, Netz, Vertrieb, Speicher. Kernnormen EnWG, EEG, KWKG, GEG, EnEfG, StromNZV, GasNZV, KraftNAV. Akteure BNetzA, Landesregulierer, Uebertragungsnetzbetreiber, Verteilnetzbetreiber. Schaubild und Verweise.
 
 # Energierecht: System einfuehrend
 
@@ -147,7 +147,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 4. `er-fusion-bauleitplanung-starnberger-see`
 
-**Frühere Beschreibung:** Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte.
+**Fokus:** Prüft Raumordnung, Bauleitplanung, Landschaftsschutz, Wasserrecht, Seenschutz und Nachbarrechte.
 
 # Fusion: Bauleitplanung am Starnberger See
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-bho-201-verpflichtun-bis-bho-211-reste-und-ue
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 20; bündelt 11 frühere Spezialskills (bho-201-verpflichtungsermaechtigung-dashboard, bho-202-verpflichtungsermaechtigung-risiko-mar, bho-203-verpflichtungsermaechtigung-brh-frage, bho-204-verpflichtungsermaechtigung-parlaments, bho-205-verpflichtungsermaechtigung-vollzug-tr und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 201 Verpflichtungsermaechtigung Dashboard, Bho 202 Verpflichtungsermaechtigung Risiko Mar, Bho 203 Verpflichtungsermaechtigung Brh Frage, Bho 204 Verpflichtungsermaechtigung Parlaments und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 201 Verpflichtungsermaechtigung Dashboard bis Bho 211 Reste Und Uebertragbarkeit Dashboard B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-201-verpflichtungsermaechtigung-dashboard` | Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Dashboard bauen. Dashboard bauen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-202-verpflichtungsermaechtigung-risiko-mar` | Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren. Risiko markieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-201-verpflichtungsermaechtigung-dashboard`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Dashboard bauen. Dashboard bauen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Dashboard bauen. Dashboard bauen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Dashboard
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-202-verpflichtungsermaechtigung-risiko-mar`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren. Risiko markieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Risiko markieren. Risiko markieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Risiko Mar
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-203-verpflichtungsermaechtigung-brh-frage`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: BRH-Frage formulieren. BRH-Frage formulieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: BRH-Frage formulieren. BRH-Frage formulieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Brh Frage
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-204-verpflichtungsermaechtigung-parlaments`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Parlaments
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-205-verpflichtungsermaechtigung-vollzug-tr`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Vollzug tracken. Vollzug tracken für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Vollzug tracken. Vollzug tracken für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Vollzug Tr
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-206-reste-und-uebertragbarkeit-titel-pruef`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Titel prüfen. Titel prüfen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Titel prüfen. Titel prüfen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Titel Pruef
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-207-reste-und-uebertragbarkeit-umschichtun`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Umschichtung simulieren. Umschichtung simulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Umschichtung simulieren. Umschichtung simulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Umschichtun
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-208-reste-und-uebertragbarkeit-sperre-bewe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Sperre bewerten. Sperre bewerten für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Sperre bewerten. Sperre bewerten für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Sperre Bewe
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-209-reste-und-uebertragbarkeit-deckung-fin`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Deckung finden. Deckung finden für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Deckung finden. Deckung finden für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Deckung Fin
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-210-reste-und-uebertragbarkeit-szenario-re`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Szenario rechnen. Szenario rechnen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Szenario rechnen. Szenario rechnen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Szenario Re
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-211-reste-und-uebertragbarkeit-dashboard-b`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Dashboard bauen. Dashboard bauen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Dashboard bauen. Dashboard bauen für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Dashboard B
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-abmahnung-urheberrec-bis-evvollzug-neu-002-ur
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (abmahnung-urheberrecht, erfindungsmeldung-aufnahme, evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Neu 002 Urteilsverfuegung Beschlussverfuegung Und Zust; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Abmahnung Urheberrecht, Erfindungsmeldung Aufnahme, Evvollzug Neu 002 Urteilsverfuegung Beschlussverfuegung Und Zust
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abmahnung-urheberrecht` | Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung). |
 | `erfindungsmeldung-aufnahme` | Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abmahnung-urheberrecht`
 
-**Frühere Beschreibung:** Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung).
+**Fokus:** Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Prüfraster: modifizierte Unterlassungserklärung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung).
 
 # Urheberrechtliche Abmahnung – § 97a UrhG
 
@@ -248,7 +248,7 @@ Korrektur: GRUR 2016, 176 → GRUR 2016, 191 (alle 3 Fundstellen). Verifiziert v
 
 ## 2. `erfindungsmeldung-aufnahme`
 
-**Frühere Beschreibung:** Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung).
+**Fokus:** Mitarbeiter meldet eine Erfindung oder Unternehmen prüft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Prüfraster: Neuheit erfinderische Tätigkeit technischer Charakter EPUe Schutzfähigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung).
 
 # Erfindungseingang — Erstprüfung
 
@@ -505,7 +505,7 @@ Korrektur: Zitat aus "Aktuelle Rechtsprechung"-Block entfernt (bei Zweifel loesc
 
 ## 3. `evvollzug-neu-002-urteilsverfuegung-beschlussverfuegung-und-zust`
 
-**Frühere Beschreibung:** EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle.
+**Fokus:** EV-Vollzug: Unterschied Urteilsverfügung und Beschlussverfügung, Zustellwege und Vollziehungsmodalitäten im gewerblichen Rechtsschutz. Amts- vs. Parteizustellung, Fristfolgen, Strategiewahl für Marken-, Patent- und UWG-Fälle.
 
 # EV-Vollzug 002: Urteilsverfügung, Beschlussverfügung und Zustellweg
 

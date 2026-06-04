@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-verkehr-infrastruktu-bis-verkehr-infrastruktu
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (verkehr-infrastrukturrecht-foerderung-vergabe, verkehr-infrastrukturrecht-ladeinfrastruktur, verkehr-infrastrukturrecht-planfeststellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Verkehr Infrastrukturrecht Foerderung Vergabe, Verkehr Infrastrukturrecht Ladeinfrastruktur, Verkehr Infrastrukturrecht Planfeststellung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehr-infrastrukturrecht-foerderung-vergabe` | Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin. |
 | `verkehr-infrastrukturrecht-ladeinfrastruktur` | Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehr-infrastrukturrecht-foerderung-vergabe`
 
-**Frühere Beschreibung:** Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin.
+**Fokus:** Foerderrecht und Vergabe für Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt öffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Prüfraster: Foerderfähigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Prüfung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin.
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur
 
@@ -84,7 +84,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `verkehr-infrastrukturrecht-ladeinfrastruktur`
 
-**Frühere Beschreibung:** Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe.
+**Fokus:** Ladeinfrastruktur für Elektromobilitaet rechtlich begleiten: Betreiber plant Ladepunkte oder Netzanschluss wird verweigert. Normen: AFIR-VO (EU) 2023/1804 (Mindestanforderungen Ladeinfrastruktur), Ladesaeulenverordnung LSV, § 8 EnWG (Netzanschlusspflicht), LBO (Genehmigungspflicht). Prüfraster: Genehmigungspflichten LBO, Netzanschlusspflicht EnWG, Betreibermodelle öffentliche/private Flaechen, Foerderung BAFA/KfW, WEG/Mietrecht. Output Rechts-Memo Genehmigungsweg, Netzanschluss-Anspruch, Foerder-Check. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe verkehr-infrastrukturrecht-foerderung-vergabe.
 
 # Ladeinfrastruktur Elektromobilitaet
 
@@ -140,7 +140,7 @@ Standort der Ladeinfrastruktur?
 
 ## 3. `verkehr-infrastrukturrecht-planfeststellung`
 
-**Frühere Beschreibung:** Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Prüfraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz.
+**Fokus:** Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Prüfraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz.
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur
 

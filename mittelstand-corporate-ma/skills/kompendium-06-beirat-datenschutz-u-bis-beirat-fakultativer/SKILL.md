@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-beirat-datenschutz-u-bis-beirat-fakultativer
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (beirat-datenschutz-und-ki, beirat-deadlock-mechanik, beirat-entscheidungsbefugnisse, beirat-fakultativer-aufsichtsrat-52-gmbhg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Datenschutz Und Ki, Beirat Deadlock Mechanik, Beirat Entscheidungsbefugnisse, Beirat Fakultativer Aufsichtsrat 52 Gmbhg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - mittelstand-corporate-ma
+# Arbeitsbereich - Beirat Datenschutz Und Ki bis Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-datenschutz-und-ki` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-deadlock-mechanik` | GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-datenschutz-und-ki`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Datenschutz Und KI; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Datenschutz Und KI
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-deadlock-mechanik`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Deadlock Mechanik; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Deadlock Mechanik
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-entscheidungsbefugnisse`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Entscheidungsbefugnisse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Entscheidungsbefugnisse
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-fakultativer-aufsichtsrat-52-gmbhg`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Fakultativer Aufsichtsrat 52 Gmbhg; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Fakultativer Aufsichtsrat 52 Gmbhg
 

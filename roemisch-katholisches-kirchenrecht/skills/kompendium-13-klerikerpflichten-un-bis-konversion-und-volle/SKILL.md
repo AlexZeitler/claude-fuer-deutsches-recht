@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-klerikerpflichten-un-bis-konversion-und-volle
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (klerikerpflichten-und-disziplin, kommunikation-bei-kirchlichem-skandal, konvalidation-und-sanatio-in-radice, konversion-und-volle-gemeinschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klerikerpflichten Und Disziplin, Kommunikation Bei Kirchlichem Skandal, Konvalidation Und Sanatio In Radice, Konversion Und Volle Gemeinschaft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Klerikerpflichten Und Disziplin bis Konversion Und Volle Gemeinschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klerikerpflichten-und-disziplin` | Klerikerpflichten und Disziplin: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `kommunikation-bei-kirchlichem-skandal` | Kommunikation bei kirchlichem Skandal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klerikerpflichten-und-disziplin`
 
-**Frühere Beschreibung:** Klerikerpflichten und Disziplin: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Klerikerpflichten und Disziplin: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Klerikerpflichten und Disziplin
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `kommunikation-bei-kirchlichem-skandal`
 
-**Frühere Beschreibung:** Kommunikation bei kirchlichem Skandal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kommunikation bei kirchlichem Skandal: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kommunikation bei kirchlichem Skandal
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `konvalidation-und-sanatio-in-radice`
 
-**Frühere Beschreibung:** Konvalidation und sanatio in radice: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Konvalidation und sanatio in radice: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Konvalidation und sanatio in radice
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `konversion-und-volle-gemeinschaft`
 
-**Frühere Beschreibung:** Konversion und volle Gemeinschaft: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Konversion und volle Gemeinschaft: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Konversion und volle Gemeinschaft
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-rentenantrag-fristen-bis-auswanderung-rente-i
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (rentenantrag-fristen-und-startdatum, auswanderung-rente-ins-ausland-zahlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rentenantrag Fristen Und Startdatum, Auswanderung Rente Ins Ausland Zahlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - rentenpruefer
+# Arbeitsbereich - Rentenantrag Fristen Und Startdatum, Auswanderung Rente Ins Ausland Zahlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rentenantrag-fristen-und-startdatum` | Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen. |
 | `auswanderung-rente-ins-ausland-zahlung` | Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rentenantrag-fristen-und-startdatum`
 
-**Frühere Beschreibung:** Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen.
+**Fokus:** Rentenantrag, Fristen und Startdatum: Antragstellung, Rückwirkung, fehlende Unterlagen, Online-/Papierweg und Zuständigkeitsfragen.
 
 # rentenantrag-fristen-und-startdatum
 
@@ -67,7 +67,7 @@ Antragsfahrplan mit Fristen und Anlagen.
 
 ## 2. `auswanderung-rente-ins-ausland-zahlung`
 
-**Frühere Beschreibung:** Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen.
+**Fokus:** Rente bei Umzug ins Ausland: Zahlung, Abkommensstaaten, vertragslose Staaten, Bankverbindung, Steuer, KV und Einschränkungen.
 
 # auswanderung-rente-ins-ausland-zahlung
 

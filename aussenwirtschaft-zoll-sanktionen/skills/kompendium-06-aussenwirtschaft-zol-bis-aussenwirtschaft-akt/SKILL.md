@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-aussenwirtschaft-zol-bis-aussenwirtschaft-akt
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (aussenwirtschaft-zolllager-freilager, aussenwirtschaft-abfallverbringung, aussenwirtschaft-aeo-bewilligung-monitoring, aussenwirtschaft-aktive-veredelung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Zolllager Freilager, Aussenwirtschaft Abfallverbringung, Aussenwirtschaft Aeo Bewilligung Monitoring, Aussenwirtschaft Aktive Veredelung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Zolllager Freilager bis Aussenwirtschaft Aktive Veredelung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-zolllager-freilager` | Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied oeffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage. |
 | `aussenwirtschaft-abfallverbringung` | Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren fuer Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-zolllager-freilager`
 
-**Frühere Beschreibung:** Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied oeffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage.
+**Fokus:** Zolllager und Freilager nach UZK Art. 240 ff.: Bewilligungsvoraussetzungen Lagerhalterpflichten Bestandsbuchfuehrung Abgabenaussetzung und Aufforderungsverfahren bei Fehlmengen. Unterschied oeffentliches und privates Zolllager und Sonderform Freilager. AEO-Erleichterungen. Output: Bewilligungsantrag und Lagerbuch-Vorlage.
 
 # Zolllager und Freilager: Bewilligung Lagerhalterpflichten und Bestandskontrolle
 
@@ -115,7 +115,7 @@ Bewilligungsantrag-Vorlage fuer Hauptzollamt, Lagerbuch-Vorlage mit Pflichtfelde
 
 ## 2. `aussenwirtschaft-abfallverbringung`
 
-**Frühere Beschreibung:** Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren fuer Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben.
+**Fokus:** Grenzueberschreitende Abfallverbringung nach EU-AbfVerbrV (VO 1013/2006 bzw. VO 1418/2007) und KrWG: Notifizierungsverfahren fuer Abfaelle der Gruenen/Gelben/Roten Liste, Genehmigungspflichten beim Hauptzollamt und Bundesumweltamt, AVV-Schluessel-Pruefung, Kontrolle von Empfaengerlandzustimmungen. Output: Verbringungsantrag mit Begleitdokumenten und Behordenschreiben.
 
 # Abfallverbringung: Grenzueberschreitende Entsorgung und Notifizierungsverfahren
 
@@ -205,7 +205,7 @@ Verbringungsantrag mit ausgefuelltem Notifizierungsdokument (Anhang IA/IB), Begl
 
 ## 3. `aussenwirtschaft-aeo-bewilligung-monitoring`
 
-**Frühere Beschreibung:** AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmaessige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation.
+**Fokus:** AEO-Zugelassener-Wirtschaftsbeteiligter-Bewilligung (Customs Simplification/Security/Full): Monitoring laufender Bewilligungsbedingungen nach Art. 38-39 UZK und AEOC/AEOS/AEOF. Prueft regelmaessige Selbstevaluation, Ereignismeldepflichten an Hauptzollamt, Aenderungen in Haftungsverhaeltnissen, Compliance-Systemen und Sicherheitsstandards. Output: Monitoring-Checkliste und Meldedokumentation.
 
 # AEO-Bewilligung: Monitoring laufender Bedingungen und Meldepflichten
 
@@ -292,7 +292,7 @@ Monitoring-Checkliste mit Bewertung jedes Kriteriums, Meldedokument an Hauptzoll
 
 ## 4. `aussenwirtschaft-aktive-veredelung`
 
-**Frühere Beschreibung:** Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzungen und Rueckgabefristen. Output: Antragsunterlagen und Abschlussabrechnung.
+**Fokus:** Zollverfahren aktive Veredelung nach Art. 256-258 UZK und Art. 240-262 UZK-DA: Beantragung und Nutzung der Bewilligung beim Hauptzollamt, Mengenueberwachung (INF-Blatt), Ausbeute- und Aequivalenzwarensystem, Gesamtabrechnung und Ausfuhr veredelter Erzeugnisse. Prueft wirtschaftliche Voraussetzungen und Rueckgabefristen. Output: Antragsunterlagen und Abschlussabrechnung.
 
 # Aktive Veredelung: Bewilligung, Mengenueberwachung und Abschlussabrechnung
 

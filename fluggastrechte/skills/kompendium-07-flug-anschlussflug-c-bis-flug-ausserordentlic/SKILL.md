@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-flug-anschlussflug-c-bis-flug-ausserordentlic
-description: "fluggastrechte: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (flug-anschlussflug-codeshare-spezial, flug-anspruch-uebersicht, flug-ausserordentlicher-umstand-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fluggastrechte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Flug Anschlussflug Codeshare Spezial, Flug Anspruch Uebersicht, Flug Ausserordentlicher Umstand Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fluggastrechte
+# Arbeitsbereich - Flug Anschlussflug Codeshare Spezial, Flug Anspruch Uebersicht, Flug Ausserordentlicher Umstand Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `flug-anschlussflug-codeshare-spezial` | Spezialfall Anschlussflug und Codeshare: einheitliche Buchung, ausfuehrendes Luftfahrtunternehmen, Drittland-Strecken nach EuGH wegfin. Pruefraster fuer Klagezustaendigkeit. |
 | `flug-anspruch-uebersicht` | Uebersicht Fluggastrechte VO 261 / 2004: Annullierung, grosse Verspaetung ab drei Stunden, Nichtbefoerderung, Pauschalentschaedigung 250 Euro / 400 Euro / 600 Euro je nach Distanz. Pruefraster Anspruchsgrundlage. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `flug-anschlussflug-codeshare-spezial`
 
-**Frühere Beschreibung:** Spezialfall Anschlussflug und Codeshare: einheitliche Buchung, ausfuehrendes Luftfahrtunternehmen, Drittland-Strecken nach EuGH wegfin. Pruefraster fuer Klagezustaendigkeit.
+**Fokus:** Spezialfall Anschlussflug und Codeshare: einheitliche Buchung, ausfuehrendes Luftfahrtunternehmen, Drittland-Strecken nach EuGH wegfin. Pruefraster fuer Klagezustaendigkeit.
 
 # Flug: Anschlussflug Codeshare
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 
 ## 2. `flug-anspruch-uebersicht`
 
-**Frühere Beschreibung:** Uebersicht Fluggastrechte VO 261 / 2004: Annullierung, grosse Verspaetung ab drei Stunden, Nichtbefoerderung, Pauschalentschaedigung 250 Euro / 400 Euro / 600 Euro je nach Distanz. Pruefraster Anspruchsgrundlage.
+**Fokus:** Uebersicht Fluggastrechte VO 261 / 2004: Annullierung, grosse Verspaetung ab drei Stunden, Nichtbefoerderung, Pauschalentschaedigung 250 Euro / 400 Euro / 600 Euro je nach Distanz. Pruefraster Anspruchsgrundlage.
 
 # Flug: Anspruch-Uebersicht
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 
 ## 3. `flug-ausserordentlicher-umstand-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden ausserordentlicher Umstand: EuGH-Kasuistik Streik / Wetter / technischer Defekt, Beweislast Airline, zumutbare Massnahmen. Pruefraster fuer Klaegeranwalt.
+**Fokus:** Leitfaden ausserordentlicher Umstand: EuGH-Kasuistik Streik / Wetter / technischer Defekt, Beweislast Airline, zumutbare Massnahmen. Pruefraster fuer Klaegeranwalt.
 
 # Flug: ausserordentlicher Umstand
 

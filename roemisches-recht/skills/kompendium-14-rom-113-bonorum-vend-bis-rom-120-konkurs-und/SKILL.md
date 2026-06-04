@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-rom-113-bonorum-vend-bis-rom-120-konkurs-und
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 14; bündelt 8 frühere Spezialskills (rom-113-bonorum-venditio-versteigerung-und-bonorum-emptor, rom-114-bonorum-distractio-vermoegenseinzelverkauf, rom-115-actio-pauliana-glaeubigeranfechtung, rom-116-actio-pauliana-voraussetzungen-und-beweisrecht, rom-117-interdictum-fraudatorium-und-restitutio-in-integrum und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor, Rom 114 Bonorum Distractio Vermoegenseinzelverkauf, Rom 115 Actio Pauliana Glaeubigeranfechtung, Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - roemisches-recht
+# Arbeitsbereich - Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor bis Rom 120 Konkurs Und Glaeubigerquoten Rangfolge
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-113-bonorum-venditio-versteigerung-und-bonorum-emptor` | Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix. |
 | `rom-114-bonorum-distractio-vermoegenseinzelverkauf` | Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-113-bonorum-venditio-versteigerung-und-bonorum-emptor`
 
-**Frühere Beschreibung:** Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix.
+**Fokus:** Bonorum venditio: Versteigerung des Schuldnervermoegens als universitas an einen einzelnen Erwerber (bonorum emptor). Skill klaert das Verfahren die Rolle des bonorum emptor als Gesamtrechtsnachfolger und die infamia-Wirkung fuer den Schuldner. Liefert Quellenmatrix.
 
 # Rom 113 Bonorum Venditio Versteigerung Und Bonorum Emptor
 
@@ -85,7 +85,7 @@ Skill fuer die bonorum venditio.
 
 ## 2. `rom-114-bonorum-distractio-vermoegenseinzelverkauf`
 
-**Frühere Beschreibung:** Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix.
+**Fokus:** Bonorum distractio: spaeter eingefuehrter Einzelverkauf der Vermoegensgegenstaende anstelle der Gesamtversteigerung. Skill behandelt die Voraussetzungen das Schonungsprivileg fuer Senatoren und die Entwicklung zum modernen Einzelvollstreckungsmodus. Liefert Quellenmatrix.
 
 # Rom 114 Bonorum Distractio Vermoegenseinzelverkauf
 
@@ -135,7 +135,7 @@ Skill fuer die bonorum distractio.
 
 ## 3. `rom-115-actio-pauliana-glaeubigeranfechtung`
 
-**Frühere Beschreibung:** Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 BGB und §§ 129 ff. InsO sowie AnfG. Liefert Quellenmatrix und Pruefraster.
+**Fokus:** Actio Pauliana: praetorische Gläubigeranfechtungsklage zur Rueckgaengigmachung gläubigerbenachteiligender Vermögensverschiebungen des Schuldners. Skill behandelt die Tatbestaende (consilium fraudis eventus damni scientia des Dritten) den Klagegegenstand und die Restitution. Vorlaeufer von § 138 BGB und §§ 129 ff. InsO sowie AnfG. Liefert Quellenmatrix und Pruefraster.
 
 # Rom 115 Actio Pauliana Glaeubigeranfechtung
 
@@ -214,7 +214,7 @@ Skill fuer die actio Pauliana als historisches Pendant zur modernen Insolvenzanf
 
 ## 4. `rom-116-actio-pauliana-voraussetzungen-und-beweisrecht`
 
-**Frühere Beschreibung:** Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften fuer Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster.
+**Fokus:** Actio Pauliana — Voraussetzungen und Beweisrecht im Detail. Skill vertieft die Beweislastfragen bei consilium fraudis Wissensanrechnung und Indizienlehre Pflichten des Glaeubigers und Mitwirkung des Dritten. Behandelt die Sondervorschriften fuer Vermoegensverschleierung waehrend laufender Vollstreckung. Liefert Pruefraster.
 
 # Rom 116 Actio Pauliana Voraussetzungen Und Beweisrecht
 
@@ -266,7 +266,7 @@ Skill fuer die Beweislastfragen bei der actio Pauliana.
 
 ## 5. `rom-117-interdictum-fraudatorium-und-restitutio-in-integrum`
 
-**Frühere Beschreibung:** Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix.
+**Fokus:** Interdictum fraudatorium und restitutio in integrum: weitere praetorische Schutzinstrumente gegen Glaeubigerschaedigung. Skill behandelt die Voraussetzungen den Eilcharakter des interdictum und die Verzahnung mit der actio Pauliana. Liefert Quellenmatrix.
 
 # Rom 117 Interdictum Fraudatorium Und Restitutio In Integrum
 
@@ -312,7 +312,7 @@ Skill fuer interdictum fraudatorium und restitutio in integrum.
 
 ## 6. `rom-118-paulianische-anfechtung-fortwirkung-anfg-inso`
 
-**Frühere Beschreibung:** Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster.
+**Fokus:** Fortwirkung der paulianischen Anfechtung in AnfG und InsO. Skill behandelt die dogmengeschichtliche Linie von der actio Pauliana ueber das BGB-AnfG (1879/1994) bis zu den §§ 129 ff. InsO. Klaert die Strukturparallelen und Abweichungen bei Vorsatzanfechtung Inkongruenz und unentgeltlichen Leistungen. Liefert Synopse und Pruefraster.
 
 # Rom 118 Paulianische Anfechtung Fortwirkung Anfg Inso
 
@@ -368,7 +368,7 @@ Skill fuer die rechtshistorische und dogmengeschichtliche Vergleichung.
 
 ## 7. `rom-119-konkursrechtliche-stellung-des-magister-bonorum`
 
-**Frühere Beschreibung:** Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix.
+**Fokus:** Konkursrechtliche Stellung des magister bonorum und des curator bonorum. Skill behandelt die Bestellung Aufgaben Vertretungsbefugnisse Klagebefugnisse und das Verhaeltnis zum modernen Insolvenzverwalter. Liefert Quellenmatrix.
 
 # Rom 119 Konkursrechtliche Stellung Des Magister Bonorum
 
@@ -416,7 +416,7 @@ Skill fuer die Stellung des magister bonorum und curator bonorum als historische
 
 ## 8. `rom-120-konkurs-und-glaeubigerquoten-rangfolge`
 
-**Frühere Beschreibung:** Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Pruefraster.
+**Fokus:** Konkurs und Glaeubigerquoten im roemischen Recht. Skill behandelt die Rangfolge der Glaeubiger Pfandglaeubiger (creditores pignoraticii) bevorrechtigte Glaeubiger (privilegium personae) und die quotale Befriedigung. Vergleicht mit moderner InsO-Rangordnung. Liefert Pruefraster.
 
 # Rom 120 Konkurs Und Glaeubigerquoten Rangfolge
 

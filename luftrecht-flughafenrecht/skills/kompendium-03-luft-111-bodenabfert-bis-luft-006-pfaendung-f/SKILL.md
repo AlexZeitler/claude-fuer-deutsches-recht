@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-luft-111-bodenabfert-bis-luft-006-pfaendung-f
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (luft-111-bodenabfertigung-zustaendigkeit-pruefe, luft-002-luftvg-anwendungsbereich, luft-004-flugzeugrolle-und-register, luft-005-luftfahrzeugpfandrecht, luft-006-pfaendung-flugzeug-deutschland) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 111 Bodenabfertigung Zustaendigkeit Pruefe, Luft 002 Luftvg Anwendungsbereich, Luft 004 Flugzeugrolle Und Register, Luft 005 Luftfahrzeugpfandrecht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 111 Bodenabfertigung Zustaendigkeit Pruefe bis Luft 006 Pfaendung Flugzeug Deutschland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-111-bodenabfertigung-zustaendigkeit-pruefe` | Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zustaendigkeits-Vermerk fuer Bodenabfertigungs-Streit. |
 | `luft-002-luftvg-anwendungsbereich` | Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Vermerk. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-111-bodenabfertigung-zustaendigkeit-pruefe`
 
-**Frühere Beschreibung:** Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zustaendigkeits-Vermerk fuer Bodenabfertigungs-Streit.
+**Fokus:** Bodenabfertigungs-Mandat: unklar welche Behoerde zustaendig ist Landesluftfahrtbehoerde Wettbewerbsbehoerde oder Flughafenbetreiber. Prueft BADV EU-RL 96/67 EG LuftVG § 6 und Ausschreibungsrecht und liefert Zustaendigkeits-Vermerk fuer Bodenabfertigungs-Streit.
 
 # Bodenabfertigung – Zuständigkeit prüfen
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 
 ## 2. `luft-002-luftvg-anwendungsbereich`
 
-**Frühere Beschreibung:** Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Vermerk.
+**Fokus:** Mandant fragt ob LuftVG gilt: Drohnenflug im Ausland Segelflug auf Privatgelände auslaendische Airline auf deutschem Flughafen. Prueft §§ 1 und 6 LuftVG Hoheitsgebiet/Luftfahrzeugbegriff Chicagoer Abkommen Art. 1 sowie EASA Basic Regulation Anwendungsausnahmen und liefert Normanwendbarkeits-Vermerk.
 
 # LuftVG Anwendungsbereich – Normanwendbarkeit im Einzelfall
 
@@ -209,7 +209,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 3. `luft-004-flugzeugrolle-und-register`
 
-**Frühere Beschreibung:** Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen.
+**Fokus:** Mandant will Luftfahrzeugrolle abfragen Eigentuemer klaeren oder Halteraenderung eintragen. Prueft LuftVG §§ 64-65 LuftVZO §§ 14-24 Rollenanforderungen Datenabruf LBA Braunschweig Pfandrechtsregister AG Braunschweig und Cape-Town-ICAO-Register und liefert Registerauszugs-Auswertung mit Handlungsoptionen.
 
 # Luftfahrzeugrolle und Register – Registerabfrage und Eintragsänderung
 
@@ -297,7 +297,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 4. `luft-005-luftfahrzeugpfandrecht`
 
-**Frühere Beschreibung:** Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste.
+**Fokus:** Kreditgeber sichert Flugzeugfinanzierung durch Pfandrecht oder Pfandrechtsinhaber will vollstrecken. Prueft LuftFzgG §§ 1-28 Entstehung Rang Durchsetzung Eintragung AG Braunschweig und Abgrenzung zu Cape Town Convention International Interest und liefert Sicherungsstrategie-Vermerk und Vollstreckungs-Checkliste.
 
 # Luftfahrzeugpfandrecht – Bestellung, Rang und Vollstreckung
 
@@ -383,7 +383,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 5. `luft-006-pfaendung-flugzeug-deutschland`
 
-**Frühere Beschreibung:** Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein.
+**Fokus:** Glaeubiger will inlaendisches Flugzeug pfaenden oder Schuldner wehrt Pfaendung ab. Prueft ZPO §§ 808 864-871 Mobiliarpfaendung vs. Luftfahrzeug-Zwangsversteigerung LuftFzgG Pfandrechtsregister AG Braunschweig Arrestgrund ZPO § 917 und liefert Pfaendungsstrategie oder Abwehr-Schriftsatz-Baustein.
 
 # Pfändung Flugzeug Deutschland – Zwangsvollstreckung und Gegenargumentation
 

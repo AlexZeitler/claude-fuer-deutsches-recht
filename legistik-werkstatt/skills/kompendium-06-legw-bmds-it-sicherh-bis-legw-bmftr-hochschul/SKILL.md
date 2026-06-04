@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-legw-bmds-it-sicherh-bis-legw-bmftr-hochschul
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 06; bündelt 8 frühere Spezialskills (legw-bmds-it-sicherheit-und-bsig, legw-bmds-ki-verordnung-und-aufsichtsstruktur, legw-bmds-verwaltungsdigitalisierung-und-registermodernisierung, legw-bmf-finanzmarktaufsicht-bafin-kwg-wpig, legw-bmf-haushalts-und-zuwendungsrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmds It Sicherheit Und Bsig, Legw Bmds Ki Verordnung Und Aufsichtsstruktur, Legw Bmds Verwaltungsdigitalisierung Und Registermodernisierung, Legw Bmf Finanzmarktaufsicht Bafin Kwg Wpig und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmds It Sicherheit Und Bsig bis Legw Bmftr Hochschul Und Wissenschaftsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmds-it-sicherheit-und-bsig` | Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). |
 | `legw-bmds-ki-verordnung-und-aufsichtsstruktur` | Sachbereich KI-Verordnung und Aufsichtsstruktur im Geschaeftsbereich BMDS: Normbestand (KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.); Akteure (BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.); EU-Bezug (KI-VO; AI Office; AI Liability Directive (Entwurf).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmds-it-sicherheit-und-bsig`
 
-**Frühere Beschreibung:** Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
+**Fokus:** Sachbereich IT-Sicherheit (BSIG) im Geschaeftsbereich BMDS: Normbestand (BSIG; KritisDachG; SGRichtlinien; NIS2-UmsG; CER-UmsG.); Akteure (BSI; Bundesnetzagentur; BBK; Laender-Aufsichten.); EU-Bezug (NIS2-RL; CER-RL; Cyber Resilience Act.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
 
 # IT-Sicherheit (BSIG) (BMDS)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmds-ki-verordnung-und-aufsichtsstruktur`
 
-**Frühere Beschreibung:** Sachbereich KI-Verordnung und Aufsichtsstruktur im Geschaeftsbereich BMDS: Normbestand (KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.); Akteure (BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.); EU-Bezug (KI-VO; AI Office; AI Liability Directive (Entwurf).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
+**Fokus:** Sachbereich KI-Verordnung und Aufsichtsstruktur im Geschaeftsbereich BMDS: Normbestand (KI-VO (EU); BDSG; ProdSG; ProdHaftG; einschlaegige Sektorgesetze.); Akteure (BMDS; BNetzA (Marktaufsicht KI; geplant); BSI; BfDI; Laenderbehoerden.); EU-Bezug (KI-VO; AI Office; AI Liability Directive (Entwurf).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
 
 # KI-Verordnung und Aufsichtsstruktur (BMDS)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmds-verwaltungsdigitalisierung-und-registermodernisierung`
 
-**Frühere Beschreibung:** Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
+**Fokus:** Sachbereich Verwaltungsdigitalisierung und Registermodernisierung im Geschaeftsbereich BMDS: Normbestand (RegMoG; IDNrG; OZG; XOeV; Personenstandsrecht.); Akteure (BMDS; BMI (Personenstand); Bundesverwaltungsamt; Laender.); EU-Bezug (Single Digital Gateway; Once-Only-Prinzip.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
 
 # Verwaltungsdigitalisierung und Registermodernisierung (BMDS)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmf-finanzmarktaufsicht-bafin-kwg-wpig`
 
-**Frühere Beschreibung:** Sachbereich Finanzmarktaufsicht (BaFin; KWG; WpIG) im Geschaeftsbereich BMF: Normbestand (KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.); Akteure (BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.); EU-Bezug (CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
+**Fokus:** Sachbereich Finanzmarktaufsicht (BaFin; KWG; WpIG) im Geschaeftsbereich BMF: Normbestand (KWG; ZAG; WpIG; WpHG; KAGB; VAG; FinDAG; FinStabG; SAG; BörsG.); Akteure (BaFin; Deutsche Bundesbank; ESMA; EBA; EIOPA; FSB.); EU-Bezug (CRR; CRD; MiFID II; AIFMD; UCITS; PSD2 und PSD3; DORA; MiCA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
 
 # Finanzmarktaufsicht (BaFin; KWG; WpIG) (BMF)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmf-haushalts-und-zuwendungsrecht`
 
-**Frühere Beschreibung:** Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
+**Fokus:** Sachbereich Haushaltsrecht und Zuwendungen im Geschaeftsbereich BMF: Normbestand (BHO; HG; VV-BHO; HGrG; ANBest-P; ANBest-I; Zuwendungsbescheid-Muster; SubvG.); Akteure (BMF Z-Abteilung; Bundesrechnungshof; zuwendende Bundesressorts; juris-Finanzrechtsprechung.); EU-Bezug (EU-Beihilferecht; AGVO; De-minimis; Notifizierung; ETZ-Programme.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
 
 # Haushaltsrecht und Zuwendungen (BMF)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmftr-biotechnologie-und-laborsicherheit`
 
-**Frühere Beschreibung:** Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
+**Fokus:** Sachbereich Biotechnologie und Laborsicherheit im Geschaeftsbereich BMFTR: Normbestand (GenTG; GenTSV; GenTAufzV; ChemG; ArbSchG; BiostoffV; PflSchG.); Akteure (Zentrale Kommission fuer die Biologische Sicherheit (ZKBS); BVL; BfR; Laender-Genehmigungen.); EU-Bezug (RL 2009/41/EG; RL 2001/18/EG; geplante Aenderung NGT-Regeln.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
 
 # Biotechnologie und Laborsicherheit (BMFTR)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmftr-forschungsfoerderung-und-ressortforschung`
 
-**Frühere Beschreibung:** Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
+**Fokus:** Sachbereich Forschungsfoerderung und Ressortforschung im Geschaeftsbereich BMFTR: Normbestand (BHO; ANBest-P; SubvG; AGVO (Forschung); AGVO; Rahmenprogramm.); Akteure (BMFTR; Projekttraeger (PT; PT-DLR; PT Juelich); Ressortforschungseinrichtungen.); EU-Bezug (Horizon Europe; ERC; EIC; AGVO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
 
 # Forschungsfoerderung und Ressortforschung (BMFTR)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmftr-hochschul-und-wissenschaftsrecht`
 
-**Frühere Beschreibung:** Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
+**Fokus:** Sachbereich Hochschulrecht und Wissenschaftsrecht im Geschaeftsbereich BMFTR: Normbestand (HRG; WissZeitVG; LHGs der Laender; WHG (Wissenschaft); ProfBesG.); Akteure (BMFTR; Wissenschaftsrat; DFG; HRK; Laenderministerien.); EU-Bezug (ERA; Horizon Europe; Mobilitaetsregeln; Anerkennung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
 
 # Hochschulrecht und Wissenschaftsrecht (BMFTR)
 

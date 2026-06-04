@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-provisionsmodelle-ve-bis-psd3-psr-vorschau-ga
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (provisionsmodelle-vertrieb-compliance, psd2-fraud-refund-unauthorised-payment, psd2-open-banking-api-xs2a, psd2-sca-strong-customer-authentication, psd3-psr-vorschau-gap-analysis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Provisionsmodelle Vertrieb Compliance, Psd2 Fraud Refund Unauthorised Payment, Psd2 Open Banking Api Xs2a, Psd2 Sca Strong Customer Authentication und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - bank-rechtsabteilung
+# Arbeitsbereich - Provisionsmodelle Vertrieb Compliance bis Psd3 Psr Vorschau Gap Analysis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `provisionsmodelle-vertrieb-compliance` | Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb. |
 | `psd2-fraud-refund-unauthorised-payment` | Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `provisionsmodelle-vertrieb-compliance`
 
-**Frühere Beschreibung:** Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb.
+**Fokus:** Provisionsmodelle und Vertriebscompliance prüfen: Zuwendungen, Interessenkonflikte, MiFID, Verbraucherschutz, Vergütungsrichtlinien, Zielvorgaben und Vorstandsvorlage für Produktvertrieb.
 
 # Provision und Vertriebscompliance
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `psd2-fraud-refund-unauthorised-payment`
 
-**Frühere Beschreibung:** Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie.
+**Fokus:** Unautorisierte Zahlung und Refund nach PSD2/BGB prüfen: § 675u BGB, § 675v BGB, grobe Fahrlässigkeit, Social Engineering, Beweislast, SCA-Logs und Vergleichsstrategie.
 
 # Unautorisierte Zahlung und Fraud
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `psd2-open-banking-api-xs2a`
 
-**Frühere Beschreibung:** Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde.
+**Fokus:** Open-Banking- und XS2A-Schnittstellen prüfen: Zugang zu Zahlungskonten, API-Verfügbarkeit, Fallback, TPP-Kommunikation, Consent, Sicherheit, Haftung und Aufsichtsbeschwerde.
 
 # PSD2 Open Banking API
 
@@ -343,7 +343,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `psd2-sca-strong-customer-authentication`
 
-**Frühere Beschreibung:** Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation.
+**Fokus:** Starke Kundenauthentifizierung nach PSD2 prüfen: Zwei-Faktor-Logik, Ausnahmen, Transaktionsrisikoanalyse, App-Freigabe, Delegation, Betrugsfall und Kundenkommunikation.
 
 # PSD2 SCA
 
@@ -449,7 +449,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `psd3-psr-vorschau-gap-analysis`
 
-**Frühere Beschreibung:** PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten.
+**Fokus:** PSD3- und PSR-Vorschau für Banken: geplantes EU-Zahlungsdienste-Paket gegen bestehende PSD2/ZAG-Prozesse mappen, Fraud, Open Banking, Transparenz und organisatorische Gaps vorbereiten.
 
 # PSD3/PSR Vorschau
 

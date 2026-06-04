@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-persoenlicher-anwend-bis-rechtsabteilung-gene
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (persoenlicher-anwendungsbereich-rollen-art-3, polizeiliche-ki-vertrauenswuerdigkeit-din-spec, public-sector-ai-procurement-ausschreibung, rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Persoenlicher Anwendungsbereich Rollen Art 3, Polizeiliche Ki Vertrauenswuerdigkeit Din Spec, Public Sector Ai Procurement Ausschreibung, General Purpose Ai Im Konzern Und Zweckbestimmun; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Persoenlicher Anwendungsbereich Rollen Art 3 bis General Purpose Ai Im Konzern Und Zweckbestimmun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `persoenlicher-anwendungsbereich-rollen-art-3` | Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume). |
 | `polizeiliche-ki-vertrauenswuerdigkeit-din-spec` | Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `persoenlicher-anwendungsbereich-rollen-art-3`
 
-**Frühere Beschreibung:** Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume).
+**Fokus:** Erster Schritt der KI-VO-Prüfung: Wer ist betroffen? Unternehmen fragt welche Rolle es in der KI-VO einnimmt. Art. 3 KI-VO Rollendefinitionen. Prüfraster: Anbieter Art. 3 Nr. 3 Betreiber Art. 3 Nr. 4 Einführer Art. 3 Nr. 6 Haendler Art. 3 Nr. 7 Produkthersteller Art. 25 Bevollmaechtigter Art. 22. Output: Rollenzuordnungsentscheidung als Einstieg für alle weiteren Pflichten-Skills. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und rolle-betreiber-prüfen-art-3-nr-4 (detaillierte Rollenentscheidungsbaeume).
 
 # Persönlicher Anwendungsbereich — Rollen nach Art. 3 KI-VO
 
@@ -144,7 +144,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `polizeiliche-ki-vertrauenswuerdigkeit-din-spec`
 
-**Frühere Beschreibung:** Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz.
+**Fokus:** Polizeiliche KI-Anwendungen: Vertrauenswuerdigkeit, Datenqualitaet, Bias, Auditierbarkeit, menschliche Kontrolle, Grundrechtsschutz, Zweckbindung, Beschaffung und Dokumentation fuer Predictive Policing, Bildanalyse, Lagezentren und Ermittlungsassistenz.
 
 # Polizeiliche KI: Vertrauenswürdigkeit und Auditierbarkeit
 
@@ -185,7 +185,7 @@ Bei Polizei-KI ist "Treffer" nur ein Hinweis. Er darf nicht unbemerkt zum Beweis
 
 ## 3. `public-sector-ai-procurement-ausschreibung`
 
-**Frühere Beschreibung:** KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme.
+**Fokus:** KI-Beschaffung der oeffentlichen Hand: Leistungsbeschreibung, KI-VO-Hochrisiko, Datenschutz, Vergaberecht, Transparenz, Open-Source/Lock-in, Audit, Grundrechte-Folgenabschaetzung, Testbetrieb und Abnahme.
 
 # Öffentliche KI-Beschaffung
 
@@ -244,7 +244,7 @@ Der öffentliche Auftraggeber beschafft nicht nur Software, sondern Verwaltungsm
 
 ## 4. `rechtsabteilung-general-purpose-ai-im-konzern-und-zweckbestimmun`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für General Purpose AI im Konzern und Zweckbestimmung: Chatbots werden nicht pauschal Hochrisiko, sondern nach Zweckbestimmung, Einsatzkontext und Fehlgebrauch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: General Purpose AI im Konzern und Zweckbestimmung
 

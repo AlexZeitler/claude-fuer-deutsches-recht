@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-tier-040-katzenkolon-bis-tier-043-pferdestall
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (tier-040-katzenkolonie-vergleich-suchen, tier-041-pferdestall-schutzbedarf-pruefen, tier-042-pferdestall-behoerdenantrag-schreiben, tier-043-pferdestall-anordnung-angreifen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 040 Katzenkolonie Vergleich Suchen, Tier 041 Pferdestall Schutzbedarf Pruefen, Tier 042 Pferdestall Behoerdenantrag Schreiben, Tier 043 Pferdestall Anordnung Angreifen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - tierschutzrecht
+# Arbeitsbereich - Tier 040 Katzenkolonie Vergleich Suchen bis Tier 043 Pferdestall Anordnung Angreifen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-040-katzenkolonie-vergleich-suchen` | Tierschutzrecht: Katzenkolonie: Vergleich suchen. Vergleich suchen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-041-pferdestall-schutzbedarf-pruefen` | Tierschutzrecht: Pferdestall: Schutzbedarf prüfen. Schutzbedarf prüfen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-040-katzenkolonie-vergleich-suchen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Katzenkolonie: Vergleich suchen. Vergleich suchen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Katzenkolonie: Vergleich suchen. Vergleich suchen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Katzenkolonie Vergleich Suchen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-041-pferdestall-schutzbedarf-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Pferdestall: Schutzbedarf prüfen. Schutzbedarf prüfen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Pferdestall: Schutzbedarf prüfen. Schutzbedarf prüfen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Pferdestall Schutzbedarf Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-042-pferdestall-behoerdenantrag-schreiben`
 
-**Frühere Beschreibung:** Tierschutzrecht: Pferdestall: Behördenantrag schreiben. Behördenantrag schreiben für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Pferdestall: Behördenantrag schreiben. Behördenantrag schreiben für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Pferdestall Behoerdenantrag Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-043-pferdestall-anordnung-angreifen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Pferdestall: Anordnung angreifen. Anordnung angreifen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Pferdestall: Anordnung angreifen. Anordnung angreifen für Pferdestall im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Pferdestall Anordnung Angreifen
 

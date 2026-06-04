@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-zvg-portal-recherche-bis-zvg-raeumung-kuendig
-description: "zwangsverwaltung-zvg: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (zvg-portal-recherche, zvg-quality-gate, zvg-raeumung-kuendigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsverwaltung-zvg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kuendigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - zwangsverwaltung-zvg
+# Arbeitsbereich - Zvg Portal Recherche, Zvg Quality Gate, Zvg Raeumung Kuendigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zvg-portal-recherche` | Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme. |
 | `zvg-quality-gate` | Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zvg-portal-recherche`
 
-**Frühere Beschreibung:** Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme.
+**Fokus:** Recherche von Zwangsversteigerungsterminen im amtlichen ZVG-Portal für Investoren und Gläubiger. Anwendungsfall Mandant sucht Versteigerungsobjekte oder Gläubiger will Terminuebersicht. Normen §§ 87 ff. ZVG Versteigerungstermin § 74a ZVG Verkehrswert. Prüfraster Suchparameter Treffer Gutachten-Downloads Exposee Terminangaben Mindestgebot. Output Recherchebericht mit Trefferprotokoll Gutachten-Links Terminliste und Recherchegrenzen. Abgrenzung zu zvg-bieterangebot-bewertung (Investorenbewertung) und zvg-versteigerungsteilnahme.
 
 # ZVG-Portal-Recherche
 
@@ -105,7 +105,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `zvg-quality-gate`
 
-**Frühere Beschreibung:** Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht.
+**Fokus:** Quality Gate für Zwangsverwaltung vor Versand oder Rechnungslegung. Anwendungsfall Bericht Rechnungslegung oder Verteilungsplan soll ans Gericht versandt werden und muss vorher geprüft werden. Normen § 161 ZVG Rechnungslegung § 155 ZVG Einnahmen Ausgaben § 154 ZVG Pflichten. Prüfraster Beschluss Objekt Konto Rent-Roll Berichte Rechnungslegung Verteilung Belege Rollen Risiken. Output Quality-Gate-Bericht mit Ampelstatus offenen Punkten und Freigabeentscheidung. Abgrenzung zu zvg-rechnungslegung und zvg-berichtswesen-gericht.
 
 # Quality Gate für Zwangsverwaltung
 
@@ -189,7 +189,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `zvg-raeumung-kuendigung`
 
-**Frühere Beschreibung:** Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kündigung § 573 BGB ordentliche Kündigung § 721 ZPO Räumungsfrist. Prüfraster Schuldnerwohnrechte Mieterrechte Kündigungsgründe Zutrittsrechte gerichtlicher Klageweg Räumungsantrag. Output Kündigungsschreiben und Räumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-gläubiger-schuldner-kommunikation.
+**Fokus:** Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kündigung § 573 BGB ordentliche Kündigung § 721 ZPO Räumungsfrist. Prüfraster Schuldnerwohnrechte Mieterrechte Kündigungsgründe Zutrittsrechte gerichtlicher Klageweg Räumungsantrag. Output Kündigungsschreiben und Räumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-gläubiger-schuldner-kommunikation.
 
 # Räumung, Kündigung und Besitzkonflikte
 

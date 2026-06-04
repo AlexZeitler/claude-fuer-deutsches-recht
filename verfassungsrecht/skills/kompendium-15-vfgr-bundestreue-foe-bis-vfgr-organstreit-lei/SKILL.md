@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vfgr-bundestreue-foe-bis-vfgr-organstreit-lei
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (vfgr-bundestreue-foederalismus-spezial, vfgr-grundrechtspruefung-bauleiter, vfgr-organstreit-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verfassungsrecht
+# Arbeitsbereich - Vfgr Bundestreue Foederalismus Spezial, Vfgr Grundrechtspruefung Bauleiter, Vfgr Organstreit Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vfgr-bundestreue-foederalismus-spezial` | Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Ruecksicht. Pruefraster fuer Bund-Laender-Konflikte und Klagen Karlsruhe. |
 | `vfgr-grundrechtspruefung-bauleiter` | Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster fuer Klausur und Schriftsatz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vfgr-bundestreue-foederalismus-spezial`
 
-**Frühere Beschreibung:** Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Ruecksicht. Pruefraster fuer Bund-Laender-Konflikte und Klagen Karlsruhe.
+**Fokus:** Spezialfall Bundestreue und Foederalismus: ungeschriebener Verfassungsgrundsatz, Pflicht zur Ruecksicht. Pruefraster fuer Bund-Laender-Konflikte und Klagen Karlsruhe.
 
 # VfgR: Bundestreue Foederalismus
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 
 ## 2. `vfgr-grundrechtspruefung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster fuer Klausur und Schriftsatz.
+**Fokus:** Bauleiter Grundrechtspruefung: Schutzbereich, Eingriff, Rechtfertigung, Verhaeltnismaessigkeit. Pruefraster fuer Klausur und Schriftsatz.
 
 # VfgR: Grundrechtspruefung
 
@@ -145,7 +145,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 
 ## 3. `vfgr-organstreit-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster fuer Bundestagsfraktionen und Abgeordnete.
+**Fokus:** Leitfaden Organstreit Art. 93 Abs. 1 Nr. 1 GG: Beteiligtenfaehigkeit, Antragsgegenstand, Antragsbefugnis. Pruefraster fuer Bundestagsfraktionen und Abgeordnete.
 
 # VfgR: Organstreit
 

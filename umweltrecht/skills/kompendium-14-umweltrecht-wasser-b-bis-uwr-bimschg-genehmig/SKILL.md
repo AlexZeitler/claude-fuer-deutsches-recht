@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-umweltrecht-wasser-b-bis-uwr-bimschg-genehmig
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (umweltrecht-wasser-bodenschutz, uwr-altlasten-pruefung-spezial, uwr-bimschg-genehmigung-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umweltrecht Wasser Bodenschutz, Uwr Altlasten Pruefung Spezial, Uwr Bimschg Genehmigung Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - umweltrecht
+# Arbeitsbereich - Umweltrecht Wasser Bodenschutz, Uwr Altlasten Pruefung Spezial, Uwr Bimschg Genehmigung Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umweltrecht-wasser-bodenschutz` | Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A). |
 | `uwr-altlasten-pruefung-spezial` | Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umweltrecht-wasser-bodenschutz`
 
-**Frühere Beschreibung:** Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A).
+**Fokus:** Unternehmen beantragt WHG-Erlaubnis oder hat Altlastenverantwortung oder Bodenverunreinigung. Normen WHG §§ 8 9 10 12 57 BBodSchG §§ 4 9 10 12 24 BodSchV. Prüfraster Erlaubnis-Voraussetzungen Altlasten-Haftungskette Sanierungsverantwortliche Kostenerstattung. Output Erlaubnisantrag Sanierungsplan Klagestrategie. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-transaktionen-dd (M&A).
 
 # Wasser- und Bodenschutzrecht
 
@@ -185,7 +185,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `uwr-altlasten-pruefung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung.
+**Fokus:** Spezialfall Altlastenpruefung: BBodSchG, Sanierungs- und Untersuchungsanordnung, Sicherungsverantwortlicher, Zustandsstoerer, Verhaltensstoerer, Eigentuemer-Haftung. Pruefraster und Mustertexte fuer Bescheid-Anfechtung.
 
 # Umwelt: Altlastenpruefung
 
@@ -237,7 +237,7 @@ Dieser Skill gehoert zum Plugin `umweltrecht`. Er ergaenzt die uebrigen Skills d
 
 ## 3. `uwr-bimschg-genehmigung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender.
+**Fokus:** Bauleiter BImSchG-Genehmigung: Verfahrensarten foermlich und vereinfacht, oeffentliche Auslegung, Nebenbestimmungen. Pruefraster fuer Antragsteller und Einwender.
 
 # UwR: BImSchG-Genehmigung
 

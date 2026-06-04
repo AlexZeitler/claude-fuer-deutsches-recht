@@ -1,32 +1,32 @@
 ---
 name: kompendium-27-kv-080-qualitaetsgat-bis-kv-080-qualitaetsgat
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 27; bündelt 1 frühere Spezialskills (kv-080-qualitaetsgate-krankenversicherungsakte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill zu Kv 080 Qualitaetsgate Krankenversicherungsakte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 080 Qualitaetsgate Krankenversicherungsakte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-080-qualitaetsgate-krankenversicherungsakte` | Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-080-qualitaetsgate-krankenversicherungsakte`
 
-**Frühere Beschreibung:** Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen.
+**Fokus:** Qualitätssicherung und Schlusscheck für Krankenversicherungsakte: vollständige Unterlagenprüfung, Fristen, Rechtswegerklärung, Dokumentationslücken und Handlungsempfehlungen.
 
 # Qualitätsgate: Krankenversicherungsakte
 

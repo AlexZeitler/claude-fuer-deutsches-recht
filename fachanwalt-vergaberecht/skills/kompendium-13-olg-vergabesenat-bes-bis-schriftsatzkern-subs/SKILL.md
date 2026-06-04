@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-olg-vergabesenat-bes-bis-schriftsatzkern-subs
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (olg-vergabesenat-beschwerdebriefing, resilienz-sicherheit-kritische-infrastruktur, ruegeschriftsatz-erstellen, schriftsatzkern-substantiierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Olg Vergabesenat Beschwerdebriefing, Resilienz Sicherheit Kritische Infrastruktur, Ruegeschriftsatz Erstellen, Schriftsatzkern Substantiierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-vergaberecht
+# Arbeitsbereich - Olg Vergabesenat Beschwerdebriefing bis Schriftsatzkern Substantiierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `olg-vergabesenat-beschwerdebriefing` | OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten. |
 | `resilienz-sicherheit-kritische-infrastruktur` | Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `olg-vergabesenat-beschwerdebriefing`
 
-**Frühere Beschreibung:** OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten.
+**Fokus:** OLG-Vergabesenat und sofortige Beschwerde strategisch vorbereiten: Beschwerdefrist, Begruendung, Eilantraege, Aktenauszug, Angriff/Verteidigung und Kosten.
 
 # OLG-Vergabesenat Briefing
 
@@ -93,7 +93,7 @@ Beschwerdebriefing, Fristenplan, Argumentmatrix, Entwurfsgliederung.
 
 ## 2. `resilienz-sicherheit-kritische-infrastruktur`
 
-**Frühere Beschreibung:** Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe.
+**Fokus:** Resilienz-, Sicherheits- und KRITIS-Beschaffung pruefen: Versorgungssicherheit, Geheimschutz, NIS2/KRITIS-Schnittstellen, Lieferkettenrisiko und Sektorenvergabe.
 
 # Resilienz und kritische Infrastruktur
 
@@ -157,7 +157,7 @@ Risikomatrix, Sicherheitsanforderungen, Beleglogik, Ruge-/Verteidigungslinien.
 
 ## 3. `ruegeschriftsatz-erstellen`
 
-**Frühere Beschreibung:** Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten.
+**Fokus:** Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten.
 
 # Rügeschriftsatz nach § 160 Abs. 3 GWB
 
@@ -596,7 +596,7 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 4. `schriftsatzkern-substantiierung`
 
-**Frühere Beschreibung:** Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
+**Fokus:** Substantiierter Schriftsatzkern für Nachprüfungsantrag VK, Sofortige Beschwerde OLG, Schadensersatzklage § 181 GWB: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
 # Schriftsatzkern und Substantiierung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-zugang-neu-006-kuend-bis-zugang-neu-007-mehrf
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall, zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - arbeitsrecht
+# Arbeitsbereich - Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall, Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall` | Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept` | Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zugang-neu-006-kuendigung-per-bea-e-mail-fax-und-schriftformfall`
 
-**Frühere Beschreibung:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Kündigung per beA E-Mail Fax und Schriftformfallen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 006 Kuendigung Per Bea E Mail Fax Und Schriftformfall
 
@@ -79,7 +79,7 @@ Skill fuer Kuendigung per beA / E-Mail / Fax — und der Schriftformfalle § 623
 
 ## 2. `zugang-neu-007-mehrfachzustellung-kuendigung-sicherheitskonzept`
 
-**Frühere Beschreibung:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Mehrfachzustellung Kündigung Sicherheitskonzept mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 007 Mehrfachzustellung Kuendigung Sicherheitskonzept
 

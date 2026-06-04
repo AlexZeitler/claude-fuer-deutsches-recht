@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-livecheck-re-bis-spezial-simulation-m
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-livecheck-red-team-und-qualitaetskontrolle, spezial-risikoanalyse-und-verdachtsmeldeweiche, spezial-simulation-mandantenkommunikation-entscheidungsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Livecheck Red Team Und Qualitaetskontrolle, Risikoanalyse Und Verdachtsmeldeweiche, Simulation Mandantenkommunikation Entscheidungsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-livecheck-red-team-und-qualitaetskontrolle` | Livecheck: Red-Team und Qualitätskontrolle im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-risikoanalyse-und-verdachtsmeldeweiche` | GwG-Risikoanalyse und Verdachtsmeldeweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-livecheck-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Livecheck: Red-Team und Qualitätskontrolle im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Red-Team und Qualitätskontrolle im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Livecheck: Red-Team und Qualitätskontrolle
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-risikoanalyse-und-verdachtsmeldeweiche`
 
-**Frühere Beschreibung:** GwG-Risikoanalyse und Verdachtsmeldeweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** GwG-Risikoanalyse und Verdachtsmeldeweiche: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # GwG-Risikoanalyse und Verdachtsmeldeweiche
 
@@ -108,7 +108,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-simulation-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Simulation: Mandantenkommunikation und Entscheidungsvorlage im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Simulation: Mandantenkommunikation und Entscheidungsvorlage im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Simulation: Mandantenkommunikation und Entscheidungsvorlage
 

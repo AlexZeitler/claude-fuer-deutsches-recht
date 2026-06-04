@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-tax-claims-bis-turnover-542
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tax-claims, title11-map-chapters, trustee-us-trustee-roles, turnover-542) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tax Claims, Title11 Map Chapters, Trustee Us Trustee Roles, Turnover 542; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - us-bankruptcy-code
+# Arbeitsbereich - Tax Claims bis Turnover 542
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tax-claims` | Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds. |
 | `title11-map-chapters` | Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tax-claims`
 
-**Frühere Beschreibung:** Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds.
+**Fokus:** Prueft tax claims, priority, secured tax liens, dischargeability, returns, plan treatment and refunds.
 
 # Tax Claims in Bankruptcy
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `title11-map-chapters`
 
-**Frühere Beschreibung:** Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen.
+**Fokus:** Kartiert Title 11 Chapters 1/3/5/7/9/11/12/13/15 mit Rollen, Zielen und Schnittstellen.
 
 # Title 11 Chapters Map
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `trustee-us-trustee-roles`
 
-**Frühere Beschreibung:** Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions.
+**Fokus:** Erklaert Chapter trustee, U.S. Trustee, bankruptcy administrator, DIP, examiner and oversight functions.
 
 # Trustee and U.S. Trustee Roles
 
@@ -231,7 +231,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `turnover-542`
 
-**Frühere Beschreibung:** Prueft turnover of estate property, records, account funds, collateral and foreign holder issues.
+**Fokus:** Prueft turnover of estate property, records, account funds, collateral and foreign holder issues.
 
 # Turnover § 542
 

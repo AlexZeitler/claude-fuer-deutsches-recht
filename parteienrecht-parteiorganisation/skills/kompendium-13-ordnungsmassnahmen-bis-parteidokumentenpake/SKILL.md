@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-ordnungsmassnahmen-bis-parteidokumentenpake
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (ordnungsmassnahmen, parteiausschluss, parteidokumentenpaket) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ordnungsmassnahmen, Parteiausschluss, Parteidokumentenpaket; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Ordnungsmassnahmen, Parteiausschluss, Parteidokumentenpaket
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ordnungsmassnahmen` | Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage. |
 | `parteiausschluss` | Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ordnungsmassnahmen`
 
-**Frühere Beschreibung:** Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage.
+**Fokus:** Routet Rüge, Amtsenthebung, Ruhen von Rechten, Eilmaßnahme und satzungsrechtliche Grundlage.
 
 # Ordnungsmaßnahmen
 
@@ -76,7 +76,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `parteiausschluss`
 
-**Frühere Beschreibung:** Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit.
+**Fokus:** Prüft Parteiausschluss, schwerer Schaden, Anhörung, Vorstandsantrag, Schiedsgericht und Verhältnismäßigkeit.
 
 # Parteiausschluss
 
@@ -124,7 +124,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `parteidokumentenpaket`
 
-**Frühere Beschreibung:** Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben.
+**Fokus:** Erzeugt komplette Pakete: Einladung, TO, Wahlordnung, Stimmzettel, Niederschrift, Versicherungen, Wahlleiteranschreiben.
 
 # Parteidokumentenpaket
 

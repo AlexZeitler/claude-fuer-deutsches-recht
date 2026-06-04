@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-strafbarkeit-266a-st-bis-uebergangsregelung-1
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (strafbarkeit-266a-stgb, teammeetings-agile, uebergang-beitragsschuld, uebergangsregelung-127-sgbiv-lehrtaetigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbarkeit 266a Stgb, Teammeetings Agile, Uebergang Beitragsschuld, Uebergangsregelung 127 Sgbiv Lehrtaetigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Strafbarkeit 266a Stgb bis Uebergangsregelung 127 Sgbiv Lehrtaetigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbarkeit-266a-stgb` | Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit. |
 | `teammeetings-agile` | Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbarkeit-266a-stgb`
 
-**Frühere Beschreibung:** Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit.
+**Fokus:** Prüft strafrechtliches Risiko wegen Vorenthaltens von Sozialversicherungsbeiträgen bei Scheinselbständigkeit.
 
 # § 266a StGB Risiko
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `teammeetings-agile`
 
-**Frühere Beschreibung:** Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien.
+**Fokus:** Prüft Dailies, Sprint Planning, Retros, Jour Fixes und Projektmeetings als Statusindizien.
 
 # Teammeetings und agile Steuerung
 
@@ -159,7 +159,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `uebergang-beitragsschuld`
 
-**Frühere Beschreibung:** Prüft, wer Beiträge schuldet, wann Ansprüche entstehen und wie Umstellung operativ gelingt.
+**Fokus:** Prüft, wer Beiträge schuldet, wann Ansprüche entstehen und wie Umstellung operativ gelingt.
 
 # Übergang und Beitragsschuld
 
@@ -224,7 +224,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `uebergangsregelung-127-sgbiv-lehrtaetigkeit`
 
-**Frühere Beschreibung:** Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen.
+**Fokus:** Prüft die befristete Übergangsregelung für Lehrtätigkeiten und ihre engen Voraussetzungen.
 
 # Übergangsregelung § 127 SGB IV Lehrkräfte
 

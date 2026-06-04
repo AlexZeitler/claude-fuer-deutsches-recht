@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-fachanwalt-arbeitsre-bis-fachanwalt-arbeitsre
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie, fachanwalt-arbeitsrecht-kuendigungsschutzklage, fachanwalt-arbeitsrecht-massenentlassung-17-kschg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsrecht Hinschg Whistleblower Repressalie, Arbeitsrecht Kuendigungsschutzklage, Arbeitsrecht Massenentlassung 17 Kschg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Arbeitsrecht Hinschg Whistleblower Repressalie, Arbeitsrecht Kuendigungsschutzklage, Arbeitsrecht Massenentlassung 17 Kschg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie` | Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren. |
 | `fachanwalt-arbeitsrecht-kuendigungsschutzklage` | Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-hinschg-whistleblower-repressalie`
 
-**Frühere Beschreibung:** Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren.
+**Fokus:** Verteidigung von Hinweisgebern nach HinSchG gegen Repressalien durch Arbeitgeber. Anwendungsfall Arbeitnehmer hat intern oder extern Hinweis gegeben und wurde daraufhin gekündigt versetzt oder gemobbt. Normen §§ 35-37 HinSchG Verbot der Repressalie Beweislastumkehr Schadensersatz EU-Whistleblower-RL 2019/1937. Prüfraster Hinweisgebertatbestand geschützte Meldung Repressalie-Kausalität Beweissicherung Schadensersatz Schmerzensgeld. Output Klageschrift-Baustein mit HinSchG-Ansprüchen Eilantrag bei Kündigung und Beweissicherungsprotokoll. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-bem-verfahren.
 
 # HinSchG-Whistleblower-Schutz gegen Repressalie
 
@@ -299,7 +299,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-kuendigungsschutzklage`
 
-**Frühere Beschreibung:** Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
+**Fokus:** Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg.
 
 # Kündigungsschutzklage (§ 4 KSchG)
 
@@ -560,7 +560,7 @@ rechtlichen Möglichkeiten konsequent ausgeschöpft.
 
 ## 3. `fachanwalt-arbeitsrecht-massenentlassung-17-kschg`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt arbeitsrecht massenentlassung 17 kschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Massenentlassung § 17 KSchG
 

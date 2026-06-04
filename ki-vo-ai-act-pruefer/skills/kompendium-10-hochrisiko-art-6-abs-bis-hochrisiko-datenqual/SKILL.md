@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-hochrisiko-art-6-abs-bis-hochrisiko-datenqual
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (hochrisiko-art-6-abs-2-anhang-iii, hochrisiko-aufzeichnungspflichten-logging-art-12, hochrisiko-bestaetigt-end-to-end-roadmap, hochrisiko-datenqualitaet-und-data-governance-art-10) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hochrisiko Art 6 Abs 2 Anhang Iii, Hochrisiko Aufzeichnungspflichten Logging Art 12, Hochrisiko Bestaetigt End To End Roadmap, Hochrisiko Datenqualitaet Und Data Governance Art 10; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Hochrisiko Art 6 Abs 2 Anhang Iii bis Hochrisiko Datenqualitaet Und Data Governance Art 10
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hochrisiko-art-6-abs-2-anhang-iii` | Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen. |
 | `hochrisiko-aufzeichnungspflichten-logging-art-12` | Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hochrisiko-art-6-abs-2-anhang-iii`
 
-**Frühere Beschreibung:** Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen.
+**Fokus:** Vertiefter Hochrisiko-Checker fuer Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. Prueft alle acht Anhang-III-Bereiche mit Untertatbestaenden, Zweckbestimmung, konkretem Einsatzkontext, GPAI/Chatbot-Abgrenzung und Mitarbeitenden-Fehlgebrauch. Erklaert, warum ein allgemeiner Chatbot nicht automatisch Hochrisiko ist, aber bei intendiertem Einsatz in Justiz, Personal, Bildung, Kredit, Migration usw. Hochrisiko werden kann. Output: dokumentierte Zuordnungsentscheidung mit Bereichsmatrix, Art. 6 Abs. 3-Routing und Governance-Massnahmen.
 
 # Hochrisiko-KI nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO
 
@@ -290,7 +290,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 12, Nr. 13 und Nr. 23, Art. 6 Abs. 2
 
 ## 2. `hochrisiko-aufzeichnungspflichten-logging-art-12`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26.
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26.
 
 # Aufzeichnungspflichten und Logging — Art. 12 KI-VO
 
@@ -396,7 +396,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `hochrisiko-bestaetigt-end-to-end-roadmap`
 
-**Frühere Beschreibung:** Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Prüfraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 technische Dokumentation Art. 11 Logging Art. 12 Transparenz Art. 13 menschliche Aufsicht Art. 14 Genauigkeit Art. 15 Konformitätsbewertung Art. 43 CE-Kennzeichnung Art. 47 EU-Datenbank Art. 49 Marktbeobachtung. Output: Projektplan mit Aufwandsschaetzung Akteuren und Fristen.
+**Fokus:** Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestätigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Prüfraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 technische Dokumentation Art. 11 Logging Art. 12 Transparenz Art. 13 menschliche Aufsicht Art. 14 Genauigkeit Art. 15 Konformitätsbewertung Art. 43 CE-Kennzeichnung Art. 47 EU-Datenbank Art. 49 Marktbeobachtung. Output: Projektplan mit Aufwandsschaetzung Akteuren und Fristen.
 
 # Hochrisiko-KI bestätigt — die End-to-End-Roadmap
 
@@ -787,7 +787,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `hochrisiko-datenqualitaet-und-data-governance-art-10`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance. Prüfraster: Relevanz Repraesentativitaet Vollständigkeit Fehlerfreiheit Bias-Minderung Ausnahme besondere Datenkategorien Art. 10 Abs. 5. Output: Data-Governance-Checkliste und Vorlage Trainingsdaten-Dokumentation. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Gesamtdokumentation) und hochrisiko-risikomanagementsystem-art-9 (Risikobewertung).
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten für unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance. Prüfraster: Relevanz Repraesentativitaet Vollständigkeit Fehlerfreiheit Bias-Minderung Ausnahme besondere Datenkategorien Art. 10 Abs. 5. Output: Data-Governance-Checkliste und Vorlage Trainingsdaten-Dokumentation. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Gesamtdokumentation) und hochrisiko-risikomanagementsystem-art-9 (Risikobewertung).
 
 # Datenqualität und Data Governance — Art. 10 KI-VO
 

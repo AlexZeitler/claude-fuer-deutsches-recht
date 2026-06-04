@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-anlagenband-struktur-bis-anlagenmatrix-csv-xl
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (anlagenband-strukturieren, anlagenbezug-im-schriftsatz, anlagenkonvolut-konsolidieren, anlagenmatrix-csv-xlsx-aufbau) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagenband Strukturieren, Anlagenbezug Im Schriftsatz, Anlagenkonvolut Konsolidieren, Anlagenmatrix Csv Xlsx Aufbau; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Anlagenband Strukturieren bis Anlagenmatrix Csv Xlsx Aufbau
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagenband-strukturieren` | Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung fuer Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein durchsuchbares PDF mit Lesezeichen. |
 | `anlagenbezug-im-schriftsatz` | Wie Anlagen im Schriftsatz richtig eingefuehrt werden: 'Beweis: Vorlage der Anlage K1' oder 'wie sich aus Anlage K3 ergibt'. Erste Erwaehnung mit Kurztitel und Datum, danach nur K1, K2 ... Vermeidet sprachliche Fehler bei mehrfachem Bezug. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagenband-strukturieren`
 
-**Frühere Beschreibung:** Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung fuer Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein durchsuchbares PDF mit Lesezeichen.
+**Fokus:** Anlagenband strukturieren: Trennblaetter, Inhaltsverzeichnis, Reihenfolge nach Schriftsatzbezug, durchgehende Foliierung. Anweisung fuer Kanzleimitarbeiter zur physischen oder elektronischen Erstellung. Fuer beA-Versand zusaetzlich ein durchsuchbares PDF mit Lesezeichen.
 
 # Anlagenband strukturieren
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 2. `anlagenbezug-im-schriftsatz`
 
-**Frühere Beschreibung:** Wie Anlagen im Schriftsatz richtig eingefuehrt werden: 'Beweis: Vorlage der Anlage K1' oder 'wie sich aus Anlage K3 ergibt'. Erste Erwaehnung mit Kurztitel und Datum, danach nur K1, K2 ... Vermeidet sprachliche Fehler bei mehrfachem Bezug.
+**Fokus:** Wie Anlagen im Schriftsatz richtig eingefuehrt werden: 'Beweis: Vorlage der Anlage K1' oder 'wie sich aus Anlage K3 ergibt'. Erste Erwaehnung mit Kurztitel und Datum, danach nur K1, K2 ... Vermeidet sprachliche Fehler bei mehrfachem Bezug.
 
 # Anlagenbezug im Schriftsatz
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 3. `anlagenkonvolut-konsolidieren`
 
-**Frühere Beschreibung:** Anlagenkonvolut aus Mandanten-ZIP konsolidieren: Duplikate ueber Hashvergleich erkennen, gleiche Vertraege in unterschiedlichen Fassungen identifizieren, sortieren nach Datum und Thema, Lueckenanalyse (welcher Vertrag wird im Schriftsatz erwaehnt, fehlt aber im Konvolut). Output: bereinigtes Konvolut + Differenzbericht.
+**Fokus:** Anlagenkonvolut aus Mandanten-ZIP konsolidieren: Duplikate ueber Hashvergleich erkennen, gleiche Vertraege in unterschiedlichen Fassungen identifizieren, sortieren nach Datum und Thema, Lueckenanalyse (welcher Vertrag wird im Schriftsatz erwaehnt, fehlt aber im Konvolut). Output: bereinigtes Konvolut + Differenzbericht.
 
 # Anlagenkonvolut konsolidieren
 
@@ -185,7 +185,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 4. `anlagenmatrix-csv-xlsx-aufbau`
 
-**Frühere Beschreibung:** Entwirft eine robuste Anlagenmatrix für große Verfahren mit Dok-ID, Nummernkreisen, Schriftsatzstelle, Beweiszweck, Quelle, Hash, Status, Datenschutz und Nachreichung.
+**Fokus:** Entwirft eine robuste Anlagenmatrix für große Verfahren mit Dok-ID, Nummernkreisen, Schriftsatzstelle, Beweiszweck, Quelle, Hash, Status, Datenschutz und Nachreichung.
 
 # Anlagenmatrix CSV/XLSX Aufbau
 

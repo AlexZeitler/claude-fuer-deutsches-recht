@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-iv-plan-cramdown-obs-bis-iv-plan-datenraum-re
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (iv-plan-cramdown-obstruktion, iv-plan-datenraum-register) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Cramdown Obstruktion, Iv Plan Datenraum Register
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-cramdown-obstruktion` | Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz einzelner Beteiligter (iv-plan-minderheitenschutz). |
 | `iv-plan-datenraum-register` | Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle. Output: Datenraumregister Lueckenliste Beweiswertdokumentation. Abgrenzung: nicht für Anlagenpaket-Zusammenstellung (iv-plan-anlagenpaket). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-cramdown-obstruktion`
 
-**Frühere Beschreibung:** Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz einzelner Beteiligter (iv-plan-minderheitenschutz).
+**Fokus:** Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung prüfen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Prüfraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht für Minderheitenschutz einzelner Beteiligter (iv-plan-minderheitenschutz).
 
 # IV-integrierte Cram-down und Obstruktion
 
@@ -112,7 +112,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-datenraum-register`
 
-**Frühere Beschreibung:** Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle. Output: Datenraumregister Lueckenliste Beweiswertdokumentation. Abgrenzung: nicht für Anlagenpaket-Zusammenstellung (iv-plan-anlagenpaket).
+**Fokus:** Planbegleitenden Datenraum aufbauen und Dokumentenregister führen wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle. Output: Datenraumregister Lueckenliste Beweiswertdokumentation. Abgrenzung: nicht für Anlagenpaket-Zusammenstellung (iv-plan-anlagenpaket).
 
 # IV-integrierte Datenraum und Dokumentenregister
 

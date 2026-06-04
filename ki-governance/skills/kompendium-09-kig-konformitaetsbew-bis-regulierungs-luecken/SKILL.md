@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-kig-konformitaetsbew-bis-regulierungs-luecken
-description: "ki-governance: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (kig-konformitaetsbewertung-spezial, kig-risikobewertung-hochrisiko-leitfaden, regulierungs-luecken-analyse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - ki-governance
+# Arbeitsbereich - Kig Konformitaetsbewertung Spezial, Kig Risikobewertung Hochrisiko Leitfaden, Regulierungs Luecken Analyse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kig-konformitaetsbewertung-spezial` | Spezialfall Konformitaetsbewertungsverfahren Hochrisiko-KI Art. 43 AI Act: interne Kontrolle, benannte Stelle, EU-Konformitaetserklaerung, CE-Kennzeichnung. Pruefraster fuer Anbieter. |
 | `kig-risikobewertung-hochrisiko-leitfaden` | Leitfaden Risikobewertung Hochrisiko-KI Anhang III AI Act: Bereiche Bildung / Beschaeftigung / Kreditscoring / Migration. Pruefraster fuer Klassifizierung und Ausnahme. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kig-konformitaetsbewertung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Konformitaetsbewertungsverfahren Hochrisiko-KI Art. 43 AI Act: interne Kontrolle, benannte Stelle, EU-Konformitaetserklaerung, CE-Kennzeichnung. Pruefraster fuer Anbieter.
+**Fokus:** Spezialfall Konformitaetsbewertungsverfahren Hochrisiko-KI Art. 43 AI Act: interne Kontrolle, benannte Stelle, EU-Konformitaetserklaerung, CE-Kennzeichnung. Pruefraster fuer Anbieter.
 
 # KIG: Konformitaetsbewertung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 2. `kig-risikobewertung-hochrisiko-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Risikobewertung Hochrisiko-KI Anhang III AI Act: Bereiche Bildung / Beschaeftigung / Kreditscoring / Migration. Pruefraster fuer Klassifizierung und Ausnahme.
+**Fokus:** Leitfaden Risikobewertung Hochrisiko-KI Anhang III AI Act: Bereiche Bildung / Beschaeftigung / Kreditscoring / Migration. Pruefraster fuer Klassifizierung und Ausnahme.
 
 # KIG: Risikobewertung Hochrisiko
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 3. `regulierungs-luecken-analyse`
 
-**Frühere Beschreibung:** Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt.
+**Fokus:** Gleicht eine neue KI-Regulierung oder Behördenleitlinie mit der aktuellen Governance-Position ab — identifiziert Lücken, Prioritäten und einen Maßnahmenplan mit Verantwortlichen und Fristen. Lädt, wenn der Nutzer "Lückenanalyse AI Act", "gilt der AI Act für uns", "Compliance-Prüfung KI", "neue KI-Verordnung prüfen" oder Regelungstext eingibt.
 
 # KI-Regulierungs-Lückenanalyse
 

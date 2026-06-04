@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-db-054-metadaten-kat-bis-db-056-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (db-054-metadaten-katalog-und-thesaurus, db-055-datenbankrecht-und-machine-learning-features, db-056-datenbankrecht-im-verlag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - datenbankrecht
+# Arbeitsbereich - Db 054 Metadaten Katalog Und Thesaurus, Db 055 Datenbankrecht Und Machine Learning Features, Db 056 Datenbankrecht Im Verlag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-054-metadaten-katalog-und-thesaurus` | Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten. |
 | `db-055-datenbankrecht-und-machine-learning-features` | Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-054-metadaten-katalog-und-thesaurus`
 
-**Frühere Beschreibung:** Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten.
+**Fokus:** Datenbankrecht für Metadatenkataloge und Thesauri: § 4 Abs. 2 UrhG (Datenbankwerk durch schöpferische Taxonomie) und §§ 87a-87e UrhG (Herstellerrecht für Metadaten-Infrastruktur), Schutz von kontrollierten Vokabularen und Ontologien, Lizenzmodelle für Metadaten-Feeds und Verhältnis zur DSGVO bei personenbezogenen Metadaten. Erstellt Schutzstrategie für Informationsarchitekten.
 
 # Metadatenkataloge und Thesauri — Datenbankschutz für Informationsstrukturen
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-055-datenbankrecht-und-machine-learning-features`
 
-**Frühere Beschreibung:** Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams.
+**Fokus:** Datenbankrecht für ML-Feature-Stores und Trainingsdatensätze: §§ 87a-87e UrhG für Feature-Stores als Datenbankherstellerrecht, TDM-Schranken (§§ 44b 60d UrhG) für ML-Training, Schutz aggregierter Feature-Vektoren und abgeleiteter Datensätze sowie DSGVO-Anforderungen bei personenbezogenen Feature-Daten. Erstellt Compliance-Konzept für MLOps-Teams.
 
 # Datenbankrecht und Machine-Learning-Features — Feature Stores und Trainingsdaten
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-056-datenbankrecht-im-verlag`
 
-**Frühere Beschreibung:** Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage.
+**Fokus:** Datenbankrecht für Verlage: §§ 87a-87e UrhG für Volltextdatenbanken und digitale Verlagsarchive, Verhältnis zu Verlegerbeteiligungsrecht (§ 87k UrhG neu), TDM-Opt-out für Verlagswerke (§ 44b Abs. 3 UrhG), Datenbanklizenzen für Aggregatoren und Bibliotheken sowie EuGH-relevante Fälle. Erstellt Schutzstrategie und Lizenzmodell für Fach- und Wissenschaftsverlage.
 
 # Datenbankrecht im Verlag — Volltextdatenbanken und digitale Archive
 

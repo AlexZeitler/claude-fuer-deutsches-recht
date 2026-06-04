@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-schwerpunktthemen-id-bis-spezial-aktenauszug
-description: "aktenauszug-gerichtsverfahren: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (schwerpunktthemen-identifikation, spezial-akten-mandantenkommunikation-entscheidungsvorlage, spezial-aktenauszug-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenauszug-gerichtsverfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - aktenauszug-gerichtsverfahren
+# Arbeitsbereich - Schwerpunktthemen Identifikation, Akten Mandantenkommunikation Entscheidungsvorlage, Aktenauszug Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schwerpunktthemen-identifikation` | Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente). |
 | `spezial-akten-mandantenkommunikation-entscheidungsvorlage` | Akten: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schwerpunktthemen-identifikation`
 
-**Frühere Beschreibung:** Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente).
+**Fokus:** Anwalt braucht schnellen Überblick über drei bis fuenf rechtliche Hauptstreitpunkte des Verfahrens mit Pinpoint-Zitaten ohne Erfolgsprognose. Normen §§ 139 286 ZPO BGH-Leitsaetze. Prüfraster Streitpunkt-Relevanzbewertung Rechtsprechungs-Verankerung Fundstellen-Praezision. Output Streitpunkt-Liste Relevanz-Einschaetzung Leitsatz-Referenzen. Abgrenzung zu verfahrenszusammenfassung-absatz (Überblick) und rechtsargumente-gegenüberstellung (alle Argumente).
 
 # Schwerpunktthemen-Identifikation
 
@@ -130,7 +130,7 @@ Quellen: dejure.org (https://dejure.org/2016,13484 ; https://dejure.org/2019,475
 
 ## 2. `spezial-akten-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Akten: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Akten: Mandantenkommunikation und Entscheidungsvorlage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Akten: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -171,7 +171,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-aktenauszug-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin aktenauszug gerichtsverfahren; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Aktenauszug: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

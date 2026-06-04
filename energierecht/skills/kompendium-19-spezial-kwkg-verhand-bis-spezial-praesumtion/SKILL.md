@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-kwkg-verhand-bis-spezial-praesumtion
-description: "energierecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (spezial-kwkg-verhandlung-vergleich-und-eskalation, spezial-netzanschluss-formular-portal-und-einreichung, spezial-netze-risikoampel-und-gegenargumente, spezial-praesumtion-red-team-und-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kwkg Verhandlung Vergleich Und Eskalation, Netzanschluss Formular Portal Und Einreichung, Netze Risikoampel Und Gegenargumente, Praesumtion Red Team Und Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - energierecht
+# Arbeitsbereich - Kwkg Verhandlung Vergleich Und Eskalation bis Praesumtion Red Team Und Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-kwkg-verhandlung-vergleich-und-eskalation` | Kwkg: Verhandlung, Vergleich und Eskalation im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-netzanschluss-formular-portal-und-einreichung` | Netzanschluss: Formular, Portal und Einreichungslogik im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-kwkg-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Kwkg: Verhandlung, Vergleich und Eskalation im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kwkg: Verhandlung, Vergleich und Eskalation im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kwkg: Verhandlung, Vergleich und Eskalation
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-netzanschluss-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Netzanschluss: Formular, Portal und Einreichungslogik im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Netzanschluss: Formular, Portal und Einreichungslogik im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Netzanschluss: Formular, Portal und Einreichungslogik
 
@@ -131,7 +131,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-netze-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Netze: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Netze: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -172,7 +172,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-praesumtion-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Praesumtion: Red-Team und Qualitätskontrolle im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Praesumtion: Red-Team und Qualitätskontrolle im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Praesumtion: Red-Team und Qualitätskontrolle
 

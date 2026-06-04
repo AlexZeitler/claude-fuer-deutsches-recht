@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-hausausweis-und-anho-bis-interessen-und-vorha
-description: "lobbyregister-bundestag: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (hausausweis-und-anhoerung, interessen-und-vorhabenbereiche) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "lobbyregister-bundestag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hausausweis Und Anhoerung, Interessen Und Vorhabenbereiche; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - lobbyregister-bundestag
+# Arbeitsbereich - Hausausweis Und Anhoerung, Interessen Und Vorhabenbereiche
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hausausweis-und-anhoerung` | Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck. |
 | `interessen-und-vorhabenbereiche` | Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hausausweis-und-anhoerung`
 
-**Frühere Beschreibung:** Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck.
+**Fokus:** Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck.
 
 # Hausausweis und Anhoerung
 
@@ -77,7 +77,7 @@ Zutrittscheck mit Voraussetzungen, Nachweisen, Formularbedarf und Eskalationshin
 
 ## 2. `interessen-und-vorhabenbereiche`
 
-**Frühere Beschreibung:** Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix.
+**Fokus:** Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix.
 
 # Interessen- und Vorhabenbereiche
 

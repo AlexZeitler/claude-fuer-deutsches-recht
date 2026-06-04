@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-us-trade-dress-und-s-bis-verfall-nichtigkeit
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (us-trade-dress-und-secondary-meaning, uspto-anmeldung-und-lanham-act, uspto-office-actions-und-tess-tsdr, verfall-nichtigkeit-und-loeschungsantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Us Trade Dress Und Secondary Meaning, Uspto Anmeldung Und Lanham Act, Uspto Office Actions Und Tess Tsdr, Verfall Nichtigkeit Und Loeschungsantrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - markenrecht-fashion-luxus
+# Arbeitsbereich - Us Trade Dress Und Secondary Meaning bis Verfall Nichtigkeit Und Loeschungsantrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `us-trade-dress-und-secondary-meaning` | US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke. |
 | `uspto-anmeldung-und-lanham-act` | USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `us-trade-dress-und-secondary-meaning`
 
-**Frühere Beschreibung:** US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke.
+**Fokus:** US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke.
 
 # US Trade Dress und Secondary Meaning
 
@@ -191,7 +191,7 @@ Bevor der Trade-Dress-Schutz beansprucht wird, klaere:
 
 ## 2. `uspto-anmeldung-und-lanham-act`
 
-**Frühere Beschreibung:** USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check.
+**Fokus:** USPTO-Markenanmeldung nach Lanham Act durchführen: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Prüfraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check.
 
 # USPTO-Anmeldung und Lanham Act
 
@@ -365,7 +365,7 @@ Bevor die TEAS-Anmeldung eingereicht wird, klaere:
 
 ## 3. `uspto-office-actions-und-tess-tsdr`
 
-**Frühere Beschreibung:** USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
+**Fokus:** USPTO Office Actions beantworten und TESS/TSDR-Datenbankrecherche: Prüfungsbescheid des USPTO nach Markenanmeldung erhalten. Normen: 15 U.S.C. § 1052 (Section 2-Versagungsgründe), In re E.I. DuPont 476 F.2d 1357 (DuPont Factors Likelihood of Confusion). Prüfraster: Section 2(d) Verwechslungsgefahr (DuPont-Analyse), Section 2(e)(1) Merely Descriptive, Section 2(e)(4) Surname, Section 2(a) Deceptiveness. Output Office-Action-Response mit DuPont-Analyse oder Anspruchseinschraenkung. Abgrenzung: Neue USPTO-Anmeldung siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
 
 # USPTO Office Actions und TESS/TSDR-Recherche
 
@@ -542,7 +542,7 @@ Bevor die Response verfasst wird, klaere:
 
 ## 4. `verfall-nichtigkeit-und-loeschungsantrag`
 
-**Frühere Beschreibung:** Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen.
+**Fokus:** Verfall, Nichtigkeit und Löschungsanträge gegen Marken strukturieren: Nichtbenutzung, absolute Schutzhindernisse, ältere Rechte, Bösgläubigkeit, DPMA/EUIPO-Verfahren, Fristen, Belege und Vergleichsoptionen.
 
 # Verfall, Nichtigkeit und Löschung
 

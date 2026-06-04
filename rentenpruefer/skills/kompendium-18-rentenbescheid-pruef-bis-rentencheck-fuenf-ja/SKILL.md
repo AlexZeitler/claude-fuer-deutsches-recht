@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-rentenbescheid-pruef-bis-rentencheck-fuenf-ja
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (rentenbescheid-pruefen-widerspruch, rentencheck-fuenf-jahre-vorher) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rentenbescheid Pruefen Widerspruch, Rentencheck Fuenf Jahre Vorher; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - rentenpruefer
+# Arbeitsbereich - Rentenbescheid Pruefen Widerspruch, Rentencheck Fuenf Jahre Vorher
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rentenbescheid-pruefen-widerspruch` | Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung. |
 | `rentencheck-fuenf-jahre-vorher` | Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rentenbescheid-pruefen-widerspruch`
 
-**Frühere Beschreibung:** Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung.
+**Fokus:** Rentenbescheid prüfen und Widerspruch vorbereiten: Berechnung, Zeiten, Abschläge, Kranken-/Pflegeversicherung, Rechtsbehelfsfrist und Begründung.
 
 # rentenbescheid-pruefen-widerspruch
 
@@ -67,7 +67,7 @@ Fehlerliste, Fristnotiz, Widerspruchsentwurf.
 
 ## 2. `rentencheck-fuenf-jahre-vorher`
 
-**Frühere Beschreibung:** Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn.
+**Fokus:** Rentencheck fünf Jahre vorher: strategische Vorprüfung für Lücken, Nachweise, Auslandszeiten, Versorgungswerk, BAV und Rentenbeginn.
 
 # rentencheck-fuenf-jahre-vorher
 

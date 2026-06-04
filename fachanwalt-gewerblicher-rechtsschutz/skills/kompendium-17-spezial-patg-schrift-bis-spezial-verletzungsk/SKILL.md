@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-patg-schrift-bis-spezial-verletzungsk
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-patg-schriftsatz-brief-und-memo-bausteine, spezial-verfuegung-beweislast-und-darlegungslast, spezial-verletzungsklage-sonderfall-und-edge-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Patg Schriftsatz Brief Und Memo Bausteine, Verfuegung Beweislast Und Darlegungslast, Verletzungsklage Sonderfall Und Edge Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-patg-schriftsatz-brief-und-memo-bausteine` | PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ. |
 | `spezial-verfuegung-beweislast-und-darlegungslast` | Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-patg-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ.
+**Fokus:** PatG: Schriftsatz-, Brief- und Memo-Bausteine für Patentverletzungsklagen, Nichtigkeitsklagen BPatG, UPC-Verfahren, Berechtigungsanfragen, Lizenzverhandlungen und EPA-Einspruch. Normen §§ 9 und 139 ff. PatG, EPÜ, EPGÜ.
 
 # PatG: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -193,7 +193,7 @@ VI. Empfehlung
 
 ## 2. `spezial-verfuegung-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren.
+**Fokus:** Einstweilige Verfügung: Beweislast und Darlegungslast. Glaubhaftmachung § 294 ZPO, Verfügungsanspruch und Verfügungsgrund, eidesstattliche Versicherung, Gegenglaubhaftmachung, sekundäre Darlegungslast, Beweismittel im Eilverfahren.
 
 # Einstweilige Verfügung: Beweislast und Darlegungslast
 
@@ -325,7 +325,7 @@ Bei bestimmten Sachverhalten (Verletzungsumfang, Herstellungsprozesse, Lieferket
 
 ## 3. `spezial-verletzungsklage-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Verletzungsklage: Sonderfälle und Edge Cases. Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzrechts-Übertragung, Designverletzung bei must-fit, Parallelimport.
+**Fokus:** Verletzungsklage: Sonderfälle und Edge Cases. Mittelbare Patentverletzung § 10 PatG, Erschöpfungseinwand § 24 MarkenG, Vorbenutzungsrecht § 12 PatG, Markenrechtliche Erschöpfung bei Reimport, fehlerhafte Schutzrechts-Übertragung, Designverletzung bei must-fit, Parallelimport.
 
 # Verletzungsklage: Sonderfälle und Edge Cases
 

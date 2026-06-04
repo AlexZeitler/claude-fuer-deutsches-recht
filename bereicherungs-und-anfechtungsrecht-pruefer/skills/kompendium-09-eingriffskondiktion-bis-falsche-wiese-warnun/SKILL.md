@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-eingriffskondiktion-bis-falsche-wiese-warnun
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (eingriffskondiktion-zuweisungsgehalt, entreicherung-beweislast-und-substantiierung, ersparte-aufwendungen-und-lebenshaltung, falsche-wiese-warnung-bereicherung-anfechtung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eingriffskondiktion Zuweisungsgehalt, Entreicherung Beweislast Und Substantiierung, Ersparte Aufwendungen Und Lebenshaltung, Falsche Wiese Warnung Bereicherung Anfechtung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Eingriffskondiktion Zuweisungsgehalt bis Falsche Wiese Warnung Bereicherung Anfechtung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eingriffskondiktion-zuweisungsgehalt` | Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden). |
 | `entreicherung-beweislast-und-substantiierung` | Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eingriffskondiktion-zuweisungsgehalt`
 
-**Frühere Beschreibung:** Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden).
+**Fokus:** Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klären: Immaterialgüterrechte, Persönlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden).
 
 # Eingriffskondiktion — Zuweisungsgehalt
 
@@ -144,7 +144,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entreicherung-beweislast-und-substantiierung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB.
+**Fokus:** Nutze diesen Skill, wenn § 818 Abs. 3 BGB konkret behauptet oder angegriffen werden muss. Normen: § 818 Abs. 3 BGB; §§ 138 und 286 ZPO. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Entreicherungs-Substantiierung mit Beweisplan und Saldobetrachtung. Abgrenzung: nicht verschärfte Haftung § 819 BGB.
 
 # Entreicherung: Beweislast und Substantiierung
 
@@ -248,7 +248,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `ersparte-aufwendungen-und-lebenshaltung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich.
+**Fokus:** Nutze diesen Skill, wenn Verbrauch des Erlangten mit ersparten eigenen Ausgaben kollidiert. Normen: § 818 Abs. 2 und Abs. 3 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt ersparte Aufwendungen mit Lebenshaltungs-Abgrenzung. Abgrenzung: nicht volle Wertersatzhaftung ohne Vermögensvergleich.
 
 # Ersparte Aufwendungen und Lebenshaltung
 
@@ -341,7 +341,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `falsche-wiese-warnung-bereicherung-anfechtung`
 
-**Frühere Beschreibung:** Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsgutachter, nur Navigationshilfe.
+**Fokus:** Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Abgrenzungsmatrix, häufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsgutachter, nur Navigationshilfe.
 
 # Falsche-Wiese-Warnung: Bereicherung und Anfechtung
 

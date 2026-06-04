@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-german-insolvency-co-bis-involuntary-petition
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (german-insolvency-comparison, healthcare-bankruptcy, insurance-dno, involuntary-petition-303) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu German Insolvency Comparison, Healthcare Bankruptcy, Insurance Dno, Involuntary Petition 303; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - us-bankruptcy-code
+# Arbeitsbereich - German Insolvency Comparison bis Involuntary Petition 303
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `german-insolvency-comparison` | Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich. |
 | `healthcare-bankruptcy` | Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `german-insolvency-comparison`
 
-**Frühere Beschreibung:** Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich.
+**Fokus:** Erklaert US Bankruptcy fuer deutsche Juristen: stay, estate, DIP, trustee, plan, 363 sale, claims and discharge im Vergleich.
 
 # German Insolvency Comparison
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `healthcare-bankruptcy`
 
-**Frühere Beschreibung:** Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues.
+**Fokus:** Prueft health care business cases, patient care ombudsman, records, regulatory licenses and sale/closure issues.
 
 # Health Care Business Bankruptcy
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `insurance-dno`
 
-**Frühere Beschreibung:** Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance.
+**Fokus:** Prueft estate interest in policies, D&O proceeds, coverage disputes, stay, settlements and mass tort insurance.
 
 # Insurance and D&O in Bankruptcy
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `involuntary-petition-303`
 
-**Frühere Beschreibung:** Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk.
+**Fokus:** Prueft creditor-filed involuntary bankruptcy, creditor numerosity, bona fide dispute, gap period and damages risk.
 
 # Involuntary Petition § 303
 

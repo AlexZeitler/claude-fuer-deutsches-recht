@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-db-063-datenbankrech-bis-db-064-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (db-063-datenbankrecht-compliance-policy, db-064-datenbankrecht-abschlussmemo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - datenbankrecht
+# Arbeitsbereich - Db 063 Datenbankrecht Compliance Policy, Db 064 Datenbankrecht Abschlussmemo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-063-datenbankrecht-compliance-policy` | Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT. |
 | `db-064-datenbankrecht-abschlussmemo` | Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-063-datenbankrecht-compliance-policy`
 
-**Frühere Beschreibung:** Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT.
+**Fokus:** Erstellung und Prüfung unternehmensinterner Compliance-Richtlinien für den Umgang mit fremden und eigenen Datenbanken: §§ 87a-87e UrhG (Herstellerrecht), § 4 UrhG (Datenbankwerk), RL 96/9/EG, TDM-Schranken §§ 44b, 60d UrhG, Data Act 2023/2854. Mandant benötigt eine rechtssichere Data-Governance-Policy, Nutzungsgenehmigungsverfahren, Schulungskonzept und internes Audit-Framework. Output: Policy-Entwurf, Freigabe-Workflow, Checkliste für Einkauf und IT.
 
 # Datenbankrecht Compliance-Policy: Data Governance, Freigabeverfahren, Schulung
 
@@ -94,7 +94,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-064-datenbankrecht-abschlussmemo`
 
-**Frühere Beschreibung:** Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen.
+**Fokus:** Erstellung eines strukturierten Abschlussmemos nach Abschluss einer datenbankrechlichen Beratung: Zusammenfassung der Rechtslage nach §§ 87a-87e UrhG und § 4 UrhG, RL 96/9/EG, relevanter EuGH-Urteile (BHB/William Hill C-203/02, Apis/Lakorda C-545/07, Innoweb/Wegener C-202/12), getroffener Maßnahmen, offener Risiken und Empfehlungen. Output: mandantenfähiges Abschlussmemo mit Risikomatrix, Handlungsempfehlungen, Monitoring-Plan und Wiedervorlageterminen.
 
 # Datenbankrecht Abschlussmemo: Rechtslage, Maßnahmen, offene Risiken
 

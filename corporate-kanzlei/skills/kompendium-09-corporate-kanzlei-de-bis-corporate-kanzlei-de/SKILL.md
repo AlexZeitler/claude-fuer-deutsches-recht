@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-corporate-kanzlei-de-bis-corporate-kanzlei-de
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (corporate-kanzlei-deal-intake, corporate-kanzlei-deal-team-staffing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Deal Intake, Corporate Kanzlei Deal Team Staffing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-deal-intake` | Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter. |
 | `corporate-kanzlei-deal-team-staffing` | Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-deal-intake`
 
-**Frühere Beschreibung:** Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter.
+**Fokus:** Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Prüfraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); für laufendes Mandat siehe kommandocenter.
 
 # Deal-Intake
 
@@ -259,7 +259,7 @@ NAECHSTE AKTION: [TODO mit Datum und Owner]
 
 ## 2. `corporate-kanzlei-deal-team-staffing`
 
-**Frühere Beschreibung:** Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions.
+**Fokus:** Transaktionsteam zusammenstellen und Workstreams verteilen für M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberprüfen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Prüfraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions.
 
 # Deal-Team-Staffing
 

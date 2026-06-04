@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-solo-coach-trainer-bis-solo-datev-lohnbuchh
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 8 frühere Spezialskills (solo-coach-trainer, solo-controlling-dashboard, solo-cookie-consent-realistisch, solo-crm-fuer-kleine, solo-cyberversicherung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Coach Trainer, Solo Controlling Dashboard, Solo Cookie Consent Realistisch, Solo Crm Fuer Kleine und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Coach Trainer bis Solo Datev Lohnbuchhaltung Briefing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-coach-trainer` | Solo-Selbstständige: prüft B2C/B2B, Widerruf, Haftung, Datenschutz und Zertifikatsversprechen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-controlling-dashboard` | Solo-Selbstständige: baut Monatsdashboard mit Umsatz, Marge, OPOS, Pipeline und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-coach-trainer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft B2C/B2B, Widerruf, Haftung, Datenschutz und Zertifikatsversprechen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft B2C/B2B, Widerruf, Haftung, Datenschutz und Zertifikatsversprechen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft b2c/b2b
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 2. `solo-controlling-dashboard`
 
-**Frühere Beschreibung:** Solo-Selbstständige: baut Monatsdashboard mit Umsatz, Marge, OPOS, Pipeline und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: baut Monatsdashboard mit Umsatz, Marge, OPOS, Pipeline und Risiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Baut monatsdashboard mit umsatz
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 3. `solo-cookie-consent-realistisch`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Tracking, Consent-Banner, Matomo/GA und Einwilligungsnachweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Tracking, Consent-Banner, Matomo/GA und Einwilligungsnachweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Prüft tracking
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 4. `solo-crm-fuer-kleine`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen und Datenschutz im Mini-CRM; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Leads, Kundenstatus, Folgeaktionen und Datenschutz im Mini-CRM; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Ordnet leads
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 5. `solo-cyberversicherung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Cyberrisiko, Datenpanne, Betriebsunterbrechung und Obliegenheiten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Cyberrisiko, Datenpanne, Betriebsunterbrechung und Obliegenheiten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Prüft cyberrisiko
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 6. `solo-d-and-o-fuer-einzelne`
 
-**Frühere Beschreibung:** Solo-Selbstständige: klärt wann D&O/Managementhaftung bei UG/GmbH sinnvoll wird; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: klärt wann D&O/Managementhaftung bei UG/GmbH sinnvoll wird; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Klärt wann d&o/managementhaftung bei ug/gmbh sinnvoll wird
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 7. `solo-datenpanne-kleinbetrieb`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Datenpanne, Meldefrist, Kundeninformation und Schadensminderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Datenpanne, Meldefrist, Kundeninformation und Schadensminderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Ordnet datenpanne
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 8. `solo-datev-lohnbuchhaltung-briefing`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Übergabepaket für Lohnbüro; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Übergabepaket für Lohnbüro; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt übergabepaket für lohnbüro
 

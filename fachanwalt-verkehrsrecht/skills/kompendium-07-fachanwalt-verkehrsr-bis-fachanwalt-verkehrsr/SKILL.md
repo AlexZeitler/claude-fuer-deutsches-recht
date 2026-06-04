@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fachanwalt-verkehrsr-bis-fachanwalt-verkehrsr
-description: "fachanwalt-verkehrsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (fachanwalt-verkehrsrecht-mpu-vorbereitung, fachanwalt-verkehrsrecht-orientierung, fachanwalt-verkehrsrecht-regulierungsanforderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verkehrsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsrecht Mpu Vorbereitung, Verkehrsrecht Orientierung, Verkehrsrecht Regulierungsanforderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-verkehrsrecht
+# Arbeitsbereich - Verkehrsrecht Mpu Vorbereitung, Verkehrsrecht Orientierung, Verkehrsrecht Regulierungsanforderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-verkehrsrecht-mpu-vorbereitung` | Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht. |
 | `fachanwalt-verkehrsrecht-orientierung` | Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-mpu-vorbereitung`
 
-**Frühere Beschreibung:** Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht.
+**Fokus:** Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Prüfraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht.
 
 # MPU-Vorbereitung
 
@@ -186,7 +186,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-verkehrsrecht-orientierung`
 
-**Frühere Beschreibung:** Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage).
+**Fokus:** Einstieg in den Skill-Verbund Verkehrsrecht. Orientierung im Verkehrsrecht FAO Voraussetzungen §§ 14g bis 14i FAO Verkehrsrecht. Typische Mandate Verkehrsunfall Schadensregulierung OWi-Bußgeld Fahrerlaubnis MPU Verkehrsstrafrecht §§ 315c 316 StGB. Normen StVO StVG OWiG StGB VVG. verifizierbare Quellen. Schnittstellen zu fachanwalt-versicherungsrecht und fachanwalt-strafrecht. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-verkehrsrecht (konkrete Falltriage).
 
 # Fachanwalt für Verkehrsrecht — Orientierung
 
@@ -253,7 +253,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fachanwalt-verkehrsrecht-regulierungsanforderung`
 
-**Frühere Beschreibung:** Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Prüfraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverständigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen.
+**Fokus:** Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Prüfraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverständigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen.
 
 # Regulierungsanforderung
 

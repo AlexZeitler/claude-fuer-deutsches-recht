@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-aufsatz-mehr-bis-spezial-blindzitate
-description: "zitierweise-deutsches-recht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-aufsatz-mehrparteien-konflikt-und-interessen, spezial-beckrs-zahlen-schwellen-und-berechnung, spezial-blindzitate-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zitierweise-deutsches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufsatz Mehrparteien Konflikt Und Interessen, Beckrs Zahlen Schwellen Und Berechnung, Blindzitate Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - zitierweise-deutsches-recht
+# Arbeitsbereich - Aufsatz Mehrparteien Konflikt Und Interessen, Beckrs Zahlen Schwellen Und Berechnung, Blindzitate Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-aufsatz-mehrparteien-konflikt-und-interessen` | Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-beckrs-zahlen-schwellen-und-berechnung` | Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-aufsatz-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aufsatz: Mehrparteienkonflikt und Interessenmatrix im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Aufsatz: Mehrparteienkonflikt und Interessenmatrix
 
@@ -76,7 +76,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-beckrs-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Beckrs: Zahlen, Schwellenwerte und Berechnung im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Beckrs: Zahlen, Schwellenwerte und Berechnung
 
@@ -124,7 +124,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-blindzitate-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Blindzitate: Internationaler Bezug und Schnittstellen im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Blindzitate: Internationaler Bezug und Schnittstellen im Plugin zitierweise deutsches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Blindzitate: Internationaler Bezug und Schnittstellen
 

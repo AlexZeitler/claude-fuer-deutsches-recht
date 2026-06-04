@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-fazugang-neu-007-arb-bis-kuendigung-per-einsc
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne, fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc, kuendigung-per-einschreiben-risiken) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kuendigung Original Und Elektronisc, Kuendigung Per Einschreiben Risiken; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Fazugang Neu 007 Arbeitnehmerverteidigung Zugang Bestreiten Ohne, Fazugang Neu 008 Schriftform Kuendigung Original Und Elektronisc, Kuendigun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne` | Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG. |
 | `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc` | Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fazugang-neu-007-arbeitnehmerverteidigung-zugang-bestreiten-ohne`
 
-**Frühere Beschreibung:** Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG.
+**Fokus:** Arbeitnehmerverteidigung: Zugang bestreiten ohne unwahre Behauptungen — zulässige Einwände, Beweislastverteilung, § 138 ZPO-Wahrheitspflicht, Strategie für Fristverteidigung, nachträgliche Zulassung § 5 KSchG.
 
 # Arbeitnehmerverteidigung — Zugang bestreiten ohne Unwahrheit
 
@@ -137,7 +137,7 @@ Der Anwalt ist verpflichtet, den Mandanten über die Wahrheitspflicht im Prozess
 
 ## 2. `fazugang-neu-008-schriftform-kuendigung-original-und-elektronisc`
 
-**Frühere Beschreibung:** Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung.
+**Fokus:** Schriftform Kündigung § 623 BGB: Originalunterschrift zwingend, Faksimile unzulässig, elektronische Kommunikation (E-Mail, WhatsApp, Fax, Teams) genügt nicht. Vollmachtsrüge § 174 BGB, Konsequenzen und Heilung.
 
 # Schriftform der Kündigung — Original und elektronische Kommunikation
 
@@ -256,7 +256,7 @@ Eine nichtige Kündigung kann nicht geheilt werden. Der Arbeitgeber muss eine ne
 
 ## 3. `kuendigung-per-einschreiben-risiken`
 
-**Frühere Beschreibung:** Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.; Normanker: BGB § 130; KSchG § 4; ZPO Zeugenbeweis; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.; Normanker: BGB § 130; KSchG § 4; ZPO Zeugenbeweis; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Einschreiben, Post und Zugang: warum Einwurf-/Übergabe-Einschreiben oft nicht genügt und wie man Beweis sauber führt.
 

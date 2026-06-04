@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-vdg-092-flugportal-k-bis-vdg-095-flugportal-b
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (vdg-092-flugportal-klageschrift-strukturieren, vdg-093-flugportal-anspruchsgruppen-bilden, vdg-094-flugportal-registertext-schreiben, vdg-095-flugportal-betroffenenformular-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 092 Flugportal Klageschrift Strukturieren, Vdg 093 Flugportal Anspruchsgruppen Bilden, Vdg 094 Flugportal Registertext Schreiben, Vdg 095 Flugportal Betroffenenformular Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 092 Flugportal Klageschrift Strukturieren bis Vdg 095 Flugportal Betroffenenformular Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-092-flugportal-klageschrift-strukturieren` | Verbraucherschutzverband Durchsetzung: Flugportal: Klageschrift strukturieren. Klageschrift strukturieren für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-093-flugportal-anspruchsgruppen-bilden` | Verbraucherschutzverband Durchsetzung: Flugportal: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-092-flugportal-klageschrift-strukturieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Klageschrift strukturieren. Klageschrift strukturieren für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Klageschrift strukturieren. Klageschrift strukturieren für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Klageschrift Strukturieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-093-flugportal-anspruchsgruppen-bilden`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Anspruchsgruppen Bilden
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-094-flugportal-registertext-schreiben`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Registertext schreiben. Registertext schreiben für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Registertext schreiben. Registertext schreiben für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Registertext Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-095-flugportal-betroffenenformular-bauen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Betroffenenformular bauen. Betroffenenformular bauen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Betroffenenformular bauen. Betroffenenformular bauen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Betroffenenformular Bauen
 

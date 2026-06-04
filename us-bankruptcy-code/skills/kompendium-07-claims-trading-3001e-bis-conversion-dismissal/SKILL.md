@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-claims-trading-3001e-bis-conversion-dismissal
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (claims-trading-3001e, confirmation-1129, contested-matters, conversion-dismissal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Claims Trading 3001e, Confirmation 1129, Contested Matters, Conversion Dismissal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - us-bankruptcy-code
+# Arbeitsbereich - Claims Trading 3001e bis Conversion Dismissal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `claims-trading-3001e` | Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy. |
 | `confirmation-1129` | Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `claims-trading-3001e`
 
-**Frühere Beschreibung:** Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy.
+**Fokus:** Prueft assignment/transfer of claims, notice, evidence, objections, trading restrictions and plan voting strategy.
 
 # Claims Trading Rule 3001(e)
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `confirmation-1129`
 
-**Frühere Beschreibung:** Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance.
+**Fokus:** Prueft Chapter 11 confirmation requirements: good faith, feasibility, best interests, priority, treatment and compliance.
 
 # Confirmation § 1129
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `contested-matters`
 
-**Frühere Beschreibung:** Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters.
+**Fokus:** Prueft motion practice, objections, evidentiary hearings, discovery and orders in contested matters.
 
 # Contested Matters
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `conversion-dismissal`
 
-**Frühere Beschreibung:** Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences.
+**Fokus:** Prueft conversion/dismissal across chapters, cause, best interests, bad faith and tactical consequences.
 
 # Conversion and Dismissal
 

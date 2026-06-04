@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-meth-auslegung-vertr-bis-abwaegung-gewichtung
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (meth-auslegung-vertrag-leitfaden, analogie-und-teleologische-reduktion, methodenehrlichkeit-ideologiekritik-check, systemwechsel-und-methodenakrobatik, abwaegung-gewichtung-intensitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Meth Auslegung Vertrag Leitfaden, Analogie Und Teleologische Reduktion, Methodenehrlichkeit Ideologiekritik Check, Systemwechsel Und Methodenakrobatik und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Meth Auslegung Vertrag Leitfaden bis Abwaegung Gewichtung Intensitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `meth-auslegung-vertrag-leitfaden` | Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden. |
 | `analogie-und-teleologische-reduktion` | Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `meth-auslegung-vertrag-leitfaden`
 
-**Frühere Beschreibung:** Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden.
+**Fokus:** Bietet einen vollständigen methodischen Leitfaden für die Auslegung von Verträgen im deutschen Zivilrecht. Das Skill führt sequenziell durch alle Auslegungsstufen von der Ermittlung des übereinstimmenden wirklichen Willens bis zur normativen und ergänzenden Vertragsauslegung. Es hilft Anwälten und Richtern, Vertragsstreitigkeiten methodisch korrekt aufzubereiten und Auslegungsfehler zu vermeiden.
 
 # Vertragsauslegung: Vollständiger Methodenleitfaden
 
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `analogie-und-teleologische-reduktion`
 
-**Frühere Beschreibung:** Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht.
+**Fokus:** Rechtsfortbildung im deutschen Zivilrecht jenseits der Wortlaut-Grenze. Voraussetzungen der Analogie (planwidrige Regelungsluecke, vergleichbare Interessenlage). Teleologische Reduktion bei zu weitem Wortlaut. Gesetzes- vs. Rechtsanalogie. Abgrenzung zur Auslegung. Praezise BGB-Beispiele (Drittschadensliquidation, Vertrag mit Schutzwirkung Dritter, § 906 II 2 BGB analog). Verbot der Analogie zulasten Privater im Strafrecht (Art. 103 II GG) und im Steuerrecht.
 
 # Analogie und teleologische Reduktion (Rechtsfortbildung)
 
@@ -255,7 +255,7 @@ Stand: Mai 2026.
 
 ## 3. `methodenehrlichkeit-ideologiekritik-check`
 
-**Frühere Beschreibung:** Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächliche Überzeugungskraft zu überprüfen. Geeignet für wissenschaftliche Urteilskritik und anwaltliche Gegenargumentation.
+**Fokus:** Prüft zivilrechtliche Urteile, Gutachten und Schriftsätze auf methodische Ehrlichkeit und verdeckte ideologische Vorannahmen. Das Skill hilft, versteckte Ergebnissteuerung durch selektive Methodenwahl zu identifizieren, Scheinneutralität zu entlarven und methodische Begründungen auf ihre tatsächliche Überzeugungskraft zu überprüfen. Geeignet für wissenschaftliche Urteilskritik und anwaltliche Gegenargumentation.
 
 # Methodenehrlichkeit und Ideologiekritik: Analyse-Check
 
@@ -345,7 +345,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `systemwechsel-und-methodenakrobatik`
 
-**Frühere Beschreibung:** Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen.
+**Fokus:** Dieses Skill behandelt die methodisch riskante Praxis des Systemwechsels und der Methodenakrobatik in der juristischen Argumentation. Es zeigt, wann ein Wechsel zwischen Auslegungsmethoden (von Wortlaut zu Telos, von historisch zu systematisch) methodisch gerechtfertigt ist und wann er als verdeckte Ergebnissteuerung zu qualifizieren ist. Das Skill schärft das Bewusstsein für methodische Disziplin und stärkt die Fähigkeit, Methodenwechsel in der Argumentation des Gegners zu erkennen und kritisch zu hinterfragen.
 
 # Systemwechsel und Methodenakrobatik in der Rechtsanwendung
 
@@ -436,7 +436,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `abwaegung-gewichtung-intensitaet`
 
-**Frühere Beschreibung:** Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollziehbar zu machen. Geeignet für Gutachten, Schriftsätze und Risikoprüfungen mit Grundrechts- oder Verfassungsbezug.
+**Fokus:** Unterstützt die methodisch saubere Gewichtung kollidierender Rechtspositionen nach Intensität, Rang, Normzweck und Eingriffstiefe. Das Skill führt durch die Schritte der Abwägungsjurisprudenz im Zivilrecht und hilft dabei, Schutzwürdigkeit, Verhältnismäßigkeit und praktische Konkordanz nachvollziehbar zu machen. Geeignet für Gutachten, Schriftsätze und Risikoprüfungen mit Grundrechts- oder Verfassungsbezug.
 
 # Abwägung: Gewichtung und Intensität kollidierender Rechtspositionen
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-lernmodus-juristende-bis-mehrsprachige-glossa
-description: "juristische-sprache-deutsch-als-zweitsprache: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (lernmodus-juristendeutsch, mehrsprachige-glossarhilfe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "juristische-sprache-deutsch-als-zweitsprache: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - juristische-sprache-deutsch-als-zweitsprache
+# Arbeitsbereich - Lernmodus Juristendeutsch, Mehrsprachige Glossarhilfe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lernmodus-juristendeutsch` | Hilft bei Lernmodus Juristendeutsch fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 | `mehrsprachige-glossarhilfe` | Hilft bei Mehrsprachige Glossarhilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lernmodus-juristendeutsch`
 
-**Frühere Beschreibung:** Hilft bei Lernmodus Juristendeutsch fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+**Fokus:** Hilft bei Lernmodus Juristendeutsch fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
 # Lernmodus Juristendeutsch
 
@@ -82,7 +82,7 @@ Keine herablassende Sprache. Keine falsche Vereinfachung. Keine erfundenen Tatsa
 
 ## 2. `mehrsprachige-glossarhilfe`
 
-**Frühere Beschreibung:** Hilft bei Mehrsprachige Glossarhilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
+**Fokus:** Hilft bei Mehrsprachige Glossarhilfe fuer Menschen mit Deutsch als Zweitsprache. Erklaert Juristendeutsch, klaert Risiko, Frist und naechste Handlung, und formuliert respektvoll in einfachem oder formalem Deutsch.
 
 # Mehrsprachige Glossarhilfe
 

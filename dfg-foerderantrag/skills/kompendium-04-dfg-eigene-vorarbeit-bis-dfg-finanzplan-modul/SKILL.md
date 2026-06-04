@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-dfg-eigene-vorarbeit-bis-dfg-finanzplan-modul
-description: "dfg-foerderantrag: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (dfg-eigene-vorarbeiten-darstellen, dfg-erstantragsteller-besondere-checks, dfg-finanzplan-module-personal-geraete) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dfg-foerderantrag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dfg Eigene Vorarbeiten Darstellen, Dfg Erstantragsteller Besondere Checks, Dfg Finanzplan Module Personal Geraete; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - dfg-foerderantrag
+# Arbeitsbereich - Dfg Eigene Vorarbeiten Darstellen, Dfg Erstantragsteller Besondere Checks, Dfg Finanzplan Module Personal Geraete
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dfg-eigene-vorarbeiten-darstellen` | Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit pruefen, keine Selbstplagiat-Pruefung. Mustertext fuer 2-Seiten-Kapitel. |
 | `dfg-erstantragsteller-besondere-checks` | Erstantragsteller-Spezialcheck: Promotion abgeschlossen, gute eigene Vorarbeit (Publikationen Erst- und Letztautor), Anbindung an erfahrene Person ohne Co-Antragstellung wenn moeglich, Lebenslauf mit Eltern- und Pflegezeiten transparent, Track-Record auch ohne Drittmittelhistorie. Pruefraster und Eigentest auf Reviewer-Plausibilitaet. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dfg-eigene-vorarbeiten-darstellen`
 
-**Frühere Beschreibung:** Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit pruefen, keine Selbstplagiat-Pruefung. Mustertext fuer 2-Seiten-Kapitel.
+**Fokus:** Eigene Vorarbeiten in DFG-Antrag richtig darstellen: bisher publizierte Ergebnisse, eigene Methodik-Beitraege, Pilotdaten. Reviewer-Perspektive: Anknuepfungsfaehigkeit pruefen, keine Selbstplagiat-Pruefung. Mustertext fuer 2-Seiten-Kapitel.
 
 # DFG: Eigene Vorarbeiten
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `dfg-foerderantrag`. Er ergaenzt die uebrigen Sk
 
 ## 2. `dfg-erstantragsteller-besondere-checks`
 
-**Frühere Beschreibung:** Erstantragsteller-Spezialcheck: Promotion abgeschlossen, gute eigene Vorarbeit (Publikationen Erst- und Letztautor), Anbindung an erfahrene Person ohne Co-Antragstellung wenn moeglich, Lebenslauf mit Eltern- und Pflegezeiten transparent, Track-Record auch ohne Drittmittelhistorie. Pruefraster und Eigentest auf Reviewer-Plausibilitaet.
+**Fokus:** Erstantragsteller-Spezialcheck: Promotion abgeschlossen, gute eigene Vorarbeit (Publikationen Erst- und Letztautor), Anbindung an erfahrene Person ohne Co-Antragstellung wenn moeglich, Lebenslauf mit Eltern- und Pflegezeiten transparent, Track-Record auch ohne Drittmittelhistorie. Pruefraster und Eigentest auf Reviewer-Plausibilitaet.
 
 # Erstantragsteller-Sondercheck
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `dfg-foerderantrag`. Er ergaenzt die uebrigen Sk
 
 ## 3. `dfg-finanzplan-module-personal-geraete`
 
-**Frühere Beschreibung:** DFG-Finanzplan und Modulbegründung erstellen: Personal, Geräte, Verbrauchsmittel, Reisen, Workshops, Mercator Fellow, Chancengleichheit, Öffentlichkeitsarbeit, Kostenlogik und Kürzungsabwehr.
+**Fokus:** DFG-Finanzplan und Modulbegründung erstellen: Personal, Geräte, Verbrauchsmittel, Reisen, Workshops, Mercator Fellow, Chancengleichheit, Öffentlichkeitsarbeit, Kostenlogik und Kürzungsabwehr.
 
 # Finanzplan und Module
 

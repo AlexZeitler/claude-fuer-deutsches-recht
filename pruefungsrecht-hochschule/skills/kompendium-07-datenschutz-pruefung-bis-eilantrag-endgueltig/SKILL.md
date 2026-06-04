@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-datenschutz-pruefung-bis-eilantrag-endgueltig
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (datenschutz-pruefungsdaten, drittversuch-und-haertefall, ects-leistungspunkte, eilantrag-endgueltig-nicht-bestanden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Datenschutz Pruefungsdaten, Drittversuch Und Haertefall, Ects Leistungspunkte, Eilantrag Endgueltig Nicht Bestanden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - pruefungsrecht-hochschule
+# Arbeitsbereich - Datenschutz Pruefungsdaten bis Eilantrag Endgueltig Nicht Bestanden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `datenschutz-pruefungsdaten` | Prüft Datenschutz bei Prüfungsdaten. |
 | `drittversuch-und-haertefall` | Prüft Drittversuch, Härtefall und zusätzliche Wiederholung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `datenschutz-pruefungsdaten`
 
-**Frühere Beschreibung:** Prüft Datenschutz bei Prüfungsdaten.
+**Fokus:** Prüft Datenschutz bei Prüfungsdaten.
 
 # Datenschutz Pruefungsdaten
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Datenschutzmemo. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 2. `drittversuch-und-haertefall`
 
-**Frühere Beschreibung:** Prüft Drittversuch, Härtefall und zusätzliche Wiederholung.
+**Fokus:** Prüft Drittversuch, Härtefall und zusätzliche Wiederholung.
 
 # Drittversuch Und Haertefall
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Härtefallantrag. Am Ende immer drei Zeilen: **Frist**, **feh
 
 ## 3. `ects-leistungspunkte`
 
-**Frühere Beschreibung:** Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt.
+**Fokus:** Prüft ECTS, Workload, Anerkennung, Fehlverbuchung und Studienfortschritt.
 
 # ECTS und Leistungspunkte
 
@@ -224,7 +224,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `eilantrag-endgueltig-nicht-bestanden`
 
-**Frühere Beschreibung:** Prüft Eilrechtsschutz bei endgültigem Nichtbestehen.
+**Fokus:** Prüft Eilrechtsschutz bei endgültigem Nichtbestehen.
 
 # Eilantrag Endgueltig Nicht Bestanden
 

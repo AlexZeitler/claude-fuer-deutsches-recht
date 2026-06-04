@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-owi-085-strassenverk-bis-owi-088-strassenverk
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (owi-085-strassenverkehr-einstellung-anregen, owi-086-strassenverkehr-beweis-ruegen, owi-087-strassenverkehr-verjaehrung-berechnen, owi-088-strassenverkehr-gerichtstermin-vorbere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 085 Strassenverkehr Einstellung Anregen, Owi 086 Strassenverkehr Beweis Ruegen, Owi 087 Strassenverkehr Verjaehrung Berechnen, Owi 088 Strassenverkehr Gerichtstermin Vorbere; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 085 Strassenverkehr Einstellung Anregen bis Owi 088 Strassenverkehr Gerichtstermin Vorbere
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-085-strassenverkehr-einstellung-anregen` | Ordnungswidrigkeitenrecht: Straßenverkehr: Einstellung anregen. Einstellung anregen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-086-strassenverkehr-beweis-ruegen` | Ordnungswidrigkeitenrecht: Straßenverkehr: Beweis rügen. Beweis rügen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-085-strassenverkehr-einstellung-anregen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Einstellung anregen. Einstellung anregen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Einstellung anregen. Einstellung anregen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Einstellung Anregen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-086-strassenverkehr-beweis-ruegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Beweis rügen. Beweis rügen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Beweis rügen. Beweis rügen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Beweis Ruegen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-087-strassenverkehr-verjaehrung-berechnen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Verjährung berechnen. Verjährung berechnen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Verjährung berechnen. Verjährung berechnen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Verjaehrung Berechnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-088-strassenverkehr-gerichtstermin-vorbere`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Gerichtstermin Vorbere
 

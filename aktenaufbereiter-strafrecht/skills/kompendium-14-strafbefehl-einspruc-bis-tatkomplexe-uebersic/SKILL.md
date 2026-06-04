@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-strafbefehl-einspruc-bis-tatkomplexe-uebersic
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (strafbefehl-einspruchsstrategie, strafzumessung-deutsches-strafrecht, tatkomplexe-uebersicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbefehl Einspruchsstrategie, Strafzumessung Deutsches Strafrecht, Tatkomplexe Uebersicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Strafbefehl Einspruchsstrategie, Strafzumessung Deutsches Strafrecht, Tatkomplexe Uebersicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbefehl-einspruchsstrategie` | Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk. |
 | `strafzumessung-deutsches-strafrecht` | Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbefehl-einspruchsstrategie`
 
-**Frühere Beschreibung:** Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk.
+**Fokus:** Strafbefehl § 410 StPO: Einspruchsstrategie pruefen. 2-Wochen-Frist, vollstaendiger oder beschraenkter Einspruch (nur Rechtsfolgenausspruch), Folge: Hauptverhandlung. Pruefraster: Beweislage, Verschlechterungsverbot § 411 Abs. 4 StPO greift nicht bei vollstaendigem Einspruch, mit Verteidiger trotzdem riskant. Output Einspruchsschriftsatz und strategischer Vermerk.
 
 # Strafbefehl: Einspruchsstrategie
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 2. `strafzumessung-deutsches-strafrecht`
 
-**Frühere Beschreibung:** Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung.
+**Fokus:** Strafzumessung § 46 StGB systematisch: Schuld, Strafmilderungs- und Strafschaerfungsgruende, § 46a StGB Taeter-Opfer-Ausgleich, § 46b StGB Aufklaerungshilfe, § 49 StGB besondere gesetzliche Milderungsgruende, Verhaeltnis Geld-/Freiheitsstrafe § 40 und § 47 StGB. Ausgabe: strukturierte Strafzumessungsuebersicht und Verteidiger-Anregung.
 
 # Strafzumessung-Werkstatt
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `tatkomplexe-uebersicht`
 
-**Frühere Beschreibung:** Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-Ueberschneidungen und gemeinsame Beteiligte.
+**Fokus:** Tatkomplexe einer Strafakte gliedern: bei mehreren Taten oder Serienvorwurf jede Tat als eigenen Komplex mit Tatzeit, Tatort, Tathandlung, beteiligten Personen, Beweismitteln, Verfahrensstand. Fuer eine Anklageschrift werden die Anklagepunkte 1 / 2 / 3 ff. in Komplexe uebertragen. Zeigt Tatzeit-Ueberschneidungen und gemeinsame Beteiligte.
 
 # Tatkomplexe-Uebersicht
 

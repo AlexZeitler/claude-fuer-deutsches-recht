@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-workflow-fristen-und-bis-bedingungen-aufschie
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (workflow-fristen-und-risikoampel, bedingungen-aufschiebend-aufloesend-fristen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Fristen Und Risikoampel, Bedingungen Aufschiebend Aufloesend Fristen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `bedingungen-aufschiebend-aufloesend-fristen` | Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 # Fristen- und Risikoampel
 
@@ -75,7 +75,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `bedingungen-aufschiebend-aufloesend-fristen`
 
-**Frühere Beschreibung:** Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen.
+**Fokus:** Konditionalstruktur in Vertraegen sauber bauen. § 158 BGB: aufschiebende Bedingung (Eintritt bei Eintritt) vs aufloesende Bedingung (Wegfall bei Eintritt). Potestativbedingung. Closing Conditions in M&A mit Signing/Closing-Logik. Long Stop Date. Fristberechnung nach §§ 187-193 BGB. Mit Tabelle Bedingungstyp zu Beispielklausel und Pitfall doppelt-negative Formulierungen.
 
 # Bedingungen aufschiebend, aufloesend, Fristen
 

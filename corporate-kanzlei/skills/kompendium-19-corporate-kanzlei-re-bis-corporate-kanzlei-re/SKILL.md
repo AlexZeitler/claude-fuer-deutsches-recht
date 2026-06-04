@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-corporate-kanzlei-re-bis-corporate-kanzlei-re
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (corporate-kanzlei-regulatory-fdi-merger-control, corporate-kanzlei-restructuring-starug-insolvenzplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Regulatory Fdi Merger Control, Corporate Kanzlei Restructuring Starug Insolvenzplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-regulatory-fdi-merger-control` | Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions. |
 | `corporate-kanzlei-restructuring-starug-insolvenzplan` | StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-regulatory-fdi-merger-control`
 
-**Frühere Beschreibung:** Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions.
+**Fokus:** Anmeldepflichten Fusionskontrolle und FDI prüfen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionsprüfung), SektSchV (Sektorschutz), TKG, EnWG. Prüfraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions.
 
 # Regulatory, FDI und Fusionskontrolle
 
@@ -260,7 +260,7 @@ Datum: [DATUM]
 
 ## 2. `corporate-kanzlei-restructuring-starug-insolvenzplan`
 
-**Frühere Beschreibung:** StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma.
+**Fokus:** StaRUG-Restrukturierungsplan und Insolvenzplan für distressed Unternehmen: Schuldner oder Berater plant außergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Prüfraster: Gläubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma.
 
 # StaRUG und Insolvenzplan
 

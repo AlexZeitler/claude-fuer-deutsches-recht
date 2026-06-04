@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-bautraeger-weg-insta-bis-fachanwalt-bau-archi
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (bautraeger-weg-instandhaltungsruecklage-uebergabe, bautraeger-weg-teilungserklaerung-pruefen, erstgespraech-mandatsannahme, fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Weg Instandhaltungsruecklage Uebergabe, Bautraeger Weg Teilungserklaerung Pruefen, Erstgespraech Mandatsannahme, Bau Architektenrecht Abnahme Mit Vorbehalt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Weg Instandhaltungsruecklage Uebergabe bis Bau Architektenrecht Abnahme Mit Vorbehalt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-weg-instandhaltungsruecklage-uebergabe` | WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster. |
 | `bautraeger-weg-teilungserklaerung-pruefen` | WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-weg-instandhaltungsruecklage-uebergabe`
 
-**Frühere Beschreibung:** WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster.
+**Fokus:** WEG-Instandhaltungsruecklage zur Uebergabe. Skill klaert wie die Instandhaltungsruecklage bei der WEG-Gruendung dotiert wird welche Pflichten Bautraeger hat und welche Klauseln problematisch sind. Liefert Pruefraster.
 
 # Bautraeger Weg Instandhaltungsruecklage Uebergabe
 
@@ -66,7 +66,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-weg-teilungserklaerung-pruefen`
 
-**Frühere Beschreibung:** WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster.
+**Fokus:** WEG-Teilungserklaerung beim Bautraegervertrag pruefen. Skill klaert was in der Teilungserklaerung steht (Sondereigentum Gemeinschaftseigentum) wie sie gepruef wird und welche Klauseln problematisch sind. Liefert Pruefraster.
 
 # Bautraeger Weg Teilungserklaerung Pruefen
 
@@ -110,7 +110,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Prüfraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten.
+**Fokus:** Erstgespraeches-Aufnahme im Bau- und Architektenrecht: Sachverhalt, Vertragstyp, Mangelbild. Normen: §§ 631 633 650a ff. BGB, VOB/B. Prüfraster: Werkvertrag vs. Bauvertrag, Mangelkatalog, Fristen, Interessenlage. Output: Erstgespraeches-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Klageschrift oder Gutachten.
 
 # Erstgespraech und Mandatsannahme im Privates Baurecht, Architekten- und Ingenieurrecht
 
@@ -272,7 +272,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## 4. `fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt`
 
-**Frühere Beschreibung:** Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklärung mit Maengelvorbehalt. Abgrenzung: nicht vollständige Abnahmeverweigerung.
+**Fokus:** Abnahme des Bauwerks unter Vorbehalt von Maengeln erklären: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Prüfraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklärung mit Maengelvorbehalt. Abgrenzung: nicht vollständige Abnahmeverweigerung.
 
 # Abnahme mit Vorbehalt
 

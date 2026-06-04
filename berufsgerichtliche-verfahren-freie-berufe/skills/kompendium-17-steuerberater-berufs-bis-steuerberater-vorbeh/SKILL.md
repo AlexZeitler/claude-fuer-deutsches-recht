@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-steuerberater-berufs-bis-steuerberater-vorbeh
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (steuerberater-berufsgericht-stberg, steuerberater-unterlagenherausgabe-praevention, steuerberater-unterlagenherausgabe-verteidigung, steuerberater-vorbehaltsaufgabe-praevention) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerberater Berufsgericht Stberg, Steuerberater Unterlagenherausgabe Praevention, Steuerberater Unterlagenherausgabe Verteidigung, Steuerberater Vorbehaltsaufgabe Praevention; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Steuerberater Berufsgericht Stberg bis Steuerberater Vorbehaltsaufgabe Praevention
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-berufsgericht-stberg` | Steuerberater Berufsgericht StBerG: prüft Warnung, Verweis, Geldbuße, Berufsverbot und Ausschließung nach StBerG in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
 | `steuerberater-unterlagenherausgabe-praevention` | Steuerberater Unterlagenherausgabe (Präventions- und Organisationspaket): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerberater-berufsgericht-stberg`
 
-**Frühere Beschreibung:** Steuerberater Berufsgericht StBerG: prüft Warnung, Verweis, Geldbuße, Berufsverbot und Ausschließung nach StBerG in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Steuerberater Berufsgericht StBerG: prüft Warnung, Verweis, Geldbuße, Berufsverbot und Ausschließung nach StBerG in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Steuerberater Berufsgericht StBerG
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `steuerberater-unterlagenherausgabe-praevention`
 
-**Frühere Beschreibung:** Steuerberater Unterlagenherausgabe (Präventions- und Organisationspaket): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater Unterlagenherausgabe (Präventions- und Organisationspaket): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater Unterlagenherausgabe: Präventions- und Organisationspaket
 
@@ -133,7 +133,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `steuerberater-unterlagenherausgabe-verteidigung`
 
-**Frühere Beschreibung:** Steuerberater Unterlagenherausgabe (Verteidigungs- und Kammerantwort): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater Unterlagenherausgabe (Verteidigungs- und Kammerantwort): steuert Herausgabe von Buchhaltungsdaten, DATEV-Bestand, Zurückbehaltungsrecht und Mandatswechsel mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater Unterlagenherausgabe: Verteidigungs- und Kammerantwort
 
@@ -187,7 +187,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `steuerberater-vorbehaltsaufgabe-praevention`
 
-**Frühere Beschreibung:** Steuerberater Vorbehaltsaufgabe (Präventions- und Organisationspaket): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater Vorbehaltsaufgabe (Präventions- und Organisationspaket): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater Vorbehaltsaufgabe: Präventions- und Organisationspaket
 

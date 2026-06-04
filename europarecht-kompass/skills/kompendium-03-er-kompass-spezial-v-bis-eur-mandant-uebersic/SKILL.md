@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-er-kompass-spezial-v-bis-eur-mandant-uebersic
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (er-kompass-spezial-vorlageverfahren, eur-kommissionsverfahren-art-258-spezial, eur-mandant-uebersicht-zustaendigkeiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Kompass Spezial Vorlageverfahren, Eur Kommissionsverfahren Art 258 Spezial, Eur Mandant Uebersicht Zustaendigkeiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - europarecht-kompass
+# Arbeitsbereich - Er Kompass Spezial Vorlageverfahren, Eur Kommissionsverfahren Art 258 Spezial, Eur Mandant Uebersicht Zustaendigkeiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-kompass-spezial-vorlageverfahren` | Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Pruefraster und Mustertext fuer Vorlagebeschluss. |
 | `eur-kommissionsverfahren-art-258-spezial` | Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster fuer Beschwerdefuehrer und Mitgliedstaat. Mustertexte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-kompass-spezial-vorlageverfahren`
 
-**Frühere Beschreibung:** Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Pruefraster und Mustertext fuer Vorlagebeschluss.
+**Fokus:** Spezialfall Vorlageverfahren Art. 267 AEUV: Voraussetzungen, letztinstanzliche Vorlagepflicht, Cilfit-Kriterien, acte clair und acte eclaire, Folgen Verstoss (Staatshaftung Koebler). Pruefraster und Mustertext fuer Vorlagebeschluss.
 
 # Europarecht: Vorlageverfahren Art. 267
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `europarecht-kompass`. Er ergaenzt die uebrigen 
 
 ## 2. `eur-kommissionsverfahren-art-258-spezial`
 
-**Frühere Beschreibung:** Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster fuer Beschwerdefuehrer und Mitgliedstaat. Mustertexte.
+**Fokus:** Spezialfall Vertragsverletzungsverfahren Art. 258 AEUV: Pilotphase, Mahnschreiben, mit Gruenden versehene Stellungnahme, Klage, Zwangsgeld Art. 260 AEUV. Pruefraster fuer Beschwerdefuehrer und Mitgliedstaat. Mustertexte.
 
 # EU: Vertragsverletzung Art. 258
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `europarecht-kompass`. Er ergaenzt die uebrigen 
 
 ## 3. `eur-mandant-uebersicht-zustaendigkeiten`
 
-**Frühere Beschreibung:** Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen.
+**Fokus:** Mandantenuebersicht EU-Zustaendigkeiten: Kommission, Rat, Parlament, EuGH, EUG, EuRH, EZB. Pro Organ Aufgabe, Verfahrensbeteiligung, Klagewege. Routing-Tabelle fuer typische Mandantenanliegen.
 
 # EU: Zustaendigkeiten
 

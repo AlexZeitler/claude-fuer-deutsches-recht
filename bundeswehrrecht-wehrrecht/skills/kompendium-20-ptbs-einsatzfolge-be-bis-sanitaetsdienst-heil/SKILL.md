@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-ptbs-einsatzfolge-be-bis-sanitaetsdienst-heil
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (ptbs-einsatzfolge-beweisfuehrung, reservistendienst-dienstleistungspflicht, sanitaetsdienst-heilfuersorge) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Ptbs Einsatzfolge Beweisfuehrung, Reservistendienst Dienstleistungspflicht, Sanitaetsdienst Heilfuersorge
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ptbs-einsatzfolge-beweisfuehrung` | PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `reservistendienst-dienstleistungspflicht` | Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ptbs-einsatzfolge-beweisfuehrung`
 
-**Frühere Beschreibung:** PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** PTBS Einsatzfolge Beweisführung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # PTBS als Einsatzfolge – Beweisführung
 
@@ -128,7 +128,7 @@ Die posttraumatische Belastungsstörung (PTBS) ist eine anerkannte psychische Er
 
 ## 2. `reservistendienst-dienstleistungspflicht`
 
-**Frühere Beschreibung:** Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG.
+**Fokus:** Reservistendienst und Dienstleistungspflicht: prüft SG §§ 60–69, Heranziehungsbescheid, Freistellung und Rechtsbehelfe. Norm-/Quellenanker: SG §§ 60–69, WPflG, UhSiG.
 
 # Reservistendienst und Dienstleistungspflicht
 
@@ -238,7 +238,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `sanitaetsdienst-heilfuersorge`
 
-**Frühere Beschreibung:** Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30.
+**Fokus:** Sanitätsdienst und Heilfürsorge: prüft truppenärztliche Versorgung, Leistungsumfang, Ablehnung und Rechtsbehelfe. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, SG § 30.
 
 # Sanitätsdienst und Heilfürsorge
 

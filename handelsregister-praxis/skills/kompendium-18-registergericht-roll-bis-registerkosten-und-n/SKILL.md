@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-registergericht-roll-bis-registerkosten-und-n
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (registergericht-rollen-rechtspfleger-registerrichter, registergericht-und-datenschutz, registerkosten-und-notarkosten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Registergericht Rollen Rechtspfleger Registerrichter, Registergericht Und Datenschutz, Registerkosten Und Notarkosten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - handelsregister-praxis
+# Arbeitsbereich - Registergericht Rollen Rechtspfleger Registerrichter, Registergericht Und Datenschutz, Registerkosten Und Notarkosten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `registergericht-rollen-rechtspfleger-registerrichter` | Klärt Zuständigkeiten, Kommunikationsstil, Entscheidungswege und wann eine Sache richterlich, rechtspflegerisch oder rein vollzugstechnisch hängt. |
 | `registergericht-und-datenschutz` | Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `registergericht-rollen-rechtspfleger-registerrichter`
 
-**Frühere Beschreibung:** Klärt Zuständigkeiten, Kommunikationsstil, Entscheidungswege und wann eine Sache richterlich, rechtspflegerisch oder rein vollzugstechnisch hängt.
+**Fokus:** Klärt Zuständigkeiten, Kommunikationsstil, Entscheidungswege und wann eine Sache richterlich, rechtspflegerisch oder rein vollzugstechnisch hängt.
 
 # Rechtspfleger, Registerrichter, Geschäftsstelle
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `registergericht-und-datenschutz`
 
-**Frühere Beschreibung:** Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche.
+**Fokus:** Klärt öffentliche Registerdaten, sensible Anlagen, Schwärzungen, Anschriften und Löschungswünsche.
 
 # Datenschutz im Registerverfahren
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `registerkosten-und-notarkosten`
 
-**Frühere Beschreibung:** Ordnet Register- und Notarkosten grob, vermeidet Doppelvollzug und erklärt Mandanten die Kostenlogik.
+**Fokus:** Ordnet Register- und Notarkosten grob, vermeidet Doppelvollzug und erklärt Mandanten die Kostenlogik.
 
 # Kosten und Gebühren antizipieren
 

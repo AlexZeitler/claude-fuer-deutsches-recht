@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-insolvenzeroeffnung-bis-konto-sperre-und-soz
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (insolvenzeroeffnung-wirkungen, kommunikation-mit-glaeubigern, konto-sperre-und-sozialleistungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Insolvenzeroeffnung Wirkungen, Kommunikation Mit Glaeubigern, Konto Sperre Und Sozialleistungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insolvenzeroeffnung-wirkungen` | Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `kommunikation-mit-glaeubigern` | Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insolvenzeroeffnung-wirkungen`
 
-**Frühere Beschreibung:** Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.; Normanker: InsO §§ 27 und 35 und 36 und 80 und 89; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Eröffnung des Insolvenzverfahrens: Beschlag, Treuhänder, Vollstreckungsverbot, Masse und pfändbares Einkommen.
 
@@ -69,7 +69,7 @@ InsO §§ 27, 35, 36, 80, 89. Entscheidend ist immer der aktuelle Normstand der 
 
 ## 2. `kommunikation-mit-glaeubigern`
 
-**Frühere Beschreibung:** Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.; Normanker: InsO §§ 305 und 307; BGB Anerkenntnisrisiken; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gläubigerkommunikation: keine unnötigen Schuldanerkenntnisse, Zustellnachweis, Antworttabellen und Planbegleitschreiben.
 
@@ -110,7 +110,7 @@ InsO §§ 305, 307; BGB Anerkenntnisrisiken. Entscheidend ist immer der aktuelle
 
 ## 3. `konto-sperre-und-sozialleistungen`
 
-**Frühere Beschreibung:** Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.; Normanker: ZPO §§ 850k ff.; SGB I, II, XII Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Kontosperre und Sozialleistungen: Bürgergeld, Kindergeld, Nachzahlung, Miete und Existenzminimum sichern.
 

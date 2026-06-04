@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-solo-neustart-checkl-bis-solo-passwortmanager
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 8 frühere Spezialskills (solo-neustart-checkliste, solo-newsletter-und-mailingliste, solo-notfallmodus-es-brennt, solo-online-shop-kleinstart, solo-opos-liste und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Neustart Checkliste, Solo Newsletter Und Mailingliste, Solo Notfallmodus Es Brennt, Solo Online Shop Kleinstart und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Neustart Checkliste bis Solo Passwortmanager Und Zwei Faktor
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-neustart-checkliste` | Solo-Selbstständige: ordnet Re-Start mit sauberer Anmeldung, Finanzen und Verträgen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-newsletter-und-mailingliste` | Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-neustart-checkliste`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Re-Start mit sauberer Anmeldung, Finanzen und Verträgen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Re-Start mit sauberer Anmeldung, Finanzen und Verträgen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Ordnet re-start mit sauberer anmeldung
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 2. `solo-newsletter-und-mailingliste`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Einwilligung, Double-Opt-In, Nachweis und Abmeldung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Prüft einwilligung
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 3. `solo-notfallmodus-es-brennt`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Mahnung, Behördenbrief, Kunde droht, Konto leer oder Frist läuft; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Mahnung, Behördenbrief, Kunde droht, Konto leer oder Frist läuft; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Ordnet mahnung
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 4. `solo-online-shop-kleinstart`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Shop-Pflichten, Widerruf, Preisangaben, Versand und Zahlungsarten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Shop-Pflichten, Widerruf, Preisangaben, Versand und Zahlungsarten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft shop-pflichten
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 5. `solo-opos-liste`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt offene-Posten-Liste mit Fälligkeit, Kunde, Beleg, Eskalation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt offene-Posten-Liste mit Fälligkeit, Kunde, Beleg, Eskalation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Erstellt offene-posten-liste mit fälligkeit
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 6. `solo-papierpost-scannen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht aus Papierpost scanbare Aufgaben mit Frist, Quelle und Ablageort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Macht aus papierpost scanbare aufgaben mit frist
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 7. `solo-partnernetzwerk`
 
-**Frühere Beschreibung:** Solo-Selbstständige: regelt Kooperation, Provision, Kundenschutz und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: regelt Kooperation, Provision, Kundenschutz und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Regelt kooperation
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 8. `solo-passwortmanager-und-zwei-faktor`
 
-**Frühere Beschreibung:** Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: führt durch Passwortmanager, 2FA, Recovery-Codes und Gerätewechsel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Führt durch passwortmanager
 

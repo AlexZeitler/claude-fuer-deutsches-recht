@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-verjaehrung-pruefen-bis-zahlungsklage-erstel
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (verjaehrung-pruefen, vollstreckungsbescheid-und-folgen, zahlungsklage-erstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verjaehrung Pruefen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Verjaehrung Pruefen, Vollstreckungsbescheid Und Folgen, Zahlungsklage Erstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verjaehrung-pruefen` | Verjaehrung pruefen: Regelverjaehrung § 195 BGB drei Jahre ab Schluss des Jahres, in dem Forderung entstanden ist. Sonderverjaehrungen (Werklohn 3 J., Kaufpreis 3 J., Schadensersatz §§ 199 ff. BGB). Hemmung § 203 BGB, Neubeginn § 212 BGB. |
 | `vollstreckungsbescheid-und-folgen` | Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verjaehrung-pruefen`
 
-**Frühere Beschreibung:** Verjaehrung pruefen: Regelverjaehrung § 195 BGB drei Jahre ab Schluss des Jahres, in dem Forderung entstanden ist. Sonderverjaehrungen (Werklohn 3 J., Kaufpreis 3 J., Schadensersatz §§ 199 ff. BGB). Hemmung § 203 BGB, Neubeginn § 212 BGB.
+**Fokus:** Verjaehrung pruefen: Regelverjaehrung § 195 BGB drei Jahre ab Schluss des Jahres, in dem Forderung entstanden ist. Sonderverjaehrungen (Werklohn 3 J., Kaufpreis 3 J., Schadensersatz §§ 199 ff. BGB). Hemmung § 203 BGB, Neubeginn § 212 BGB.
 
 # Verjaehrungspruefung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `vollstreckungsbescheid-und-folgen`
 
-**Frühere Beschreibung:** Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise.
+**Fokus:** Vollstreckungsbescheid §§ 699 und 700 ZPO: Voraussetzung kein Widerspruch innerhalb 2 Wochen, Vollstreckungstitel fuer 30 Jahre, Einspruch noch moeglich (gleicher Fristrahmen wie Widerspruch nach Zustellung). Strategische Hinweise.
 
 # Vollstreckungsbescheid
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `zahlungsklage-erstellen`
 
-**Frühere Beschreibung:** Zahlungsklage erstellen: Klageschrift §§ 253 ff. ZPO, Klageantrag, Tatbestand, Beweismittel, Anlagenverzeichnis. Streitwertangabe, Belehrung Rechtsanwaltszwang, Anschrift Schuldner. Output: Klageschrift-Geruest fuer das LG/AG.
+**Fokus:** Zahlungsklage erstellen: Klageschrift §§ 253 ff. ZPO, Klageantrag, Tatbestand, Beweismittel, Anlagenverzeichnis. Streitwertangabe, Belehrung Rechtsanwaltszwang, Anschrift Schuldner. Output: Klageschrift-Geruest fuer das LG/AG.
 
 # Zahlungsklage erstellen
 

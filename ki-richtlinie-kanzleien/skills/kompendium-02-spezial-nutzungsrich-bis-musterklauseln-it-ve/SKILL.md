@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-spezial-nutzungsrich-bis-musterklauseln-it-ve
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (spezial-nutzungsrichtlinie-fristen-form-und-zustaendigkeit, auftragsverarbeitungsvertrag-pruefen, musterklauseln-it-vertrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nutzungsrichtlinie Fristen Form Und Zustaendigkeit, Auftragsverarbeitungsvertrag Pruefen, Musterklauseln It Vertrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Nutzungsrichtlinie Fristen Form Und Zustaendigkeit, Auftragsverarbeitungsvertrag Pruefen, Musterklauseln It Vertrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-nutzungsrichtlinie-fristen-form-und-zustaendigkeit` | Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `auftragsverarbeitungsvertrag-pruefen` | Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung, technisch-organisatorische Massnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Löschpflichten, Training-Opt-out. Output AVV-Prüfprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-nutzungsrichtlinie-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Nutzungsrichtlinie: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -100,7 +100,7 @@ Verbotsorientierte Richtlinie ("Keine ChatGPT-Nutzung") ist klar, wird aber umga
 
 ## 2. `auftragsverarbeitungsvertrag-pruefen`
 
-**Frühere Beschreibung:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung, technisch-organisatorische Massnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Löschpflichten, Training-Opt-out. Output AVV-Prüfprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence.
+**Fokus:** Auftragsverarbeitungsvertrag nach Art. 28 DSGVO bei KI-Anbietern prüfen: Anwendungsfall Kanzlei schließt Vertrag mit KI-Dienstleister und muss AVV auf DSGVO-Konformität prüfen. Art. 28 DSGVO AVV-Pflicht, § 43e BRAO IT-Dienstleister, AI Act Betreiberpflichten. Prüfraster Subprozessoren-Genehmigung, technisch-organisatorische Massnahmen TOMs, Drittlandtransfer SCC, Auditrrechte, Löschpflichten, Training-Opt-out. Output AVV-Prüfprotokoll mit Lueckenliste und Nachverhandlungsbedarf. Abgrenzung zu Musterklauseln-IT-Vertrag und zu Dienstleister-Due-Diligence.
 
 # Auftragsverarbeitungsvertrag prüfen
 
@@ -189,7 +189,7 @@ Geprueft von: [NAME]
 
 ## 3. `musterklauseln-it-vertrag`
 
-**Frühere Beschreibung:** Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence.
+**Fokus:** Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence.
 
 # Musterklauseln IT-Vertrag
 

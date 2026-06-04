@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-tisax-iso-hinweisgeb-bis-umweltverstoss
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tisax-iso-hinweisgeber, triage-strafrecht, uk-whistleblowing-abgrenzung, umweltverstoss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tisax Iso Hinweisgeber, Triage Strafrecht, Uk Whistleblowing Abgrenzung, Umweltverstoss; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Tisax Iso Hinweisgeber bis Umweltverstoss
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tisax-iso-hinweisgeber` | Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem. |
 | `triage-strafrecht` | Routet Hinweise mit Strafrechtsbezug. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tisax-iso-hinweisgeber`
 
-**Frühere Beschreibung:** Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem.
+**Fokus:** Verknüpft TISAX/ISO-Compliance mit Hinweisgebersystem.
 
 # Tisax Iso Hinweisgeber
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `triage-strafrecht`
 
-**Frühere Beschreibung:** Routet Hinweise mit Strafrechtsbezug.
+**Fokus:** Routet Hinweise mit Strafrechtsbezug.
 
 # Triage Strafrecht
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `uk-whistleblowing-abgrenzung`
 
-**Frühere Beschreibung:** Grenzt UK Whistleblowing bei Niederlassungen ab.
+**Fokus:** Grenzt UK Whistleblowing bei Niederlassungen ab.
 
 # Uk Whistleblowing Abgrenzung
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `umweltverstoss`
 
-**Frühere Beschreibung:** Prüft Umweltverstöße im Hinweisgebersystem.
+**Fokus:** Prüft Umweltverstöße im Hinweisgebersystem.
 
 # Umweltverstoss
 

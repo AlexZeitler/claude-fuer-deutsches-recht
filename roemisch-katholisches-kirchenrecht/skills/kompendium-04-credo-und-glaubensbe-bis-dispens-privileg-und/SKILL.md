@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-credo-und-glaubensbe-bis-dispens-privileg-und
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (credo-und-glaubensbekenntnis, diakonat-und-dienst, diozesanbischof-visitation-und-leitung, dispens-privileg-und-indult) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Credo Und Glaubensbekenntnis, Diakonat Und Dienst, Diozesanbischof Visitation Und Leitung, Dispens Privileg Und Indult; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Credo Und Glaubensbekenntnis bis Dispens Privileg Und Indult
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `credo-und-glaubensbekenntnis` | Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `diakonat-und-dienst` | Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `credo-und-glaubensbekenntnis`
 
-**Frühere Beschreibung:** Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Credo und Glaubensbekenntnis: Glaubensartikel und Gehorsamspflicht; CIC can. 750-754; KKK 185-1065; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Credo und Glaubensbekenntnis
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `diakonat-und-dienst`
 
-**Frühere Beschreibung:** Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Diakonat und Dienst: Dienst des Diakons, Liturgie, Verkündigung und Caritas; CIC can. 1008-1009 und 1031; KKK 1569-1571; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Diakonat und Dienst
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `diozesanbischof-visitation-und-leitung`
 
-**Frühere Beschreibung:** Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Diözesanbischof, Visitation und Leitung: bischöfliche Leitung, Verwaltung, Visitation und Delegation; CIC can. 381-402 und 469-494; KKK 886-896; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Diözesanbischof, Visitation und Leitung
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `dispens-privileg-und-indult`
 
-**Frühere Beschreibung:** Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Dispens, Privileg und Indult: Ausnahmeinstrumente, Zuständigkeit, Grund, Form und Widerruf; CIC can. 76-93 und 85-93; KKK 2036-2040; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Dispens, Privileg und Indult
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-garantie-vs-gewaehrl-bis-gerichtlicher-mahnbe
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (garantie-vs-gewaehrleistung, gebrauchtkauf-privat-maengel, gerichtlicher-mahnbescheid-laie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Garantie Vs Gewaehrleistung, Gebrauchtkauf Privat Maengel, Gerichtlicher Mahnbescheid Laie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Garantie Vs Gewaehrleistung, Gebrauchtkauf Privat Maengel, Gerichtlicher Mahnbescheid Laie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `garantie-vs-gewaehrleistung` | Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `gebrauchtkauf-privat-maengel` | Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `garantie-vs-gewaehrleistung`
 
-**Frühere Beschreibung:** Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Garantie versus Gewährleistung: führt Laien durch Herstellergarantie, gesetzliche Mängelrechte, Fristen und richtige Anspruchsgegner. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Garantie versus Gewährleistung
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `gebrauchtkauf-privat-maengel`
 
-**Frühere Beschreibung:** Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Gebrauchtkauf privat mit Mängeln: führt Laien durch Privater Gebrauchtkauf, Gewährleistungsausschluss, arglistiges Verschweigen und Beweisprobleme. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Gebrauchtkauf privat mit Mängeln
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `gerichtlicher-mahnbescheid-laie`
 
-**Frühere Beschreibung:** Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Gerichtlicher Mahnbescheid für Laien: führt Laien durch Mahnbescheid, Vollstreckungsbescheid, Widerspruch, Einspruch und Kostenrisiko. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Gerichtlicher Mahnbescheid für Laien
 

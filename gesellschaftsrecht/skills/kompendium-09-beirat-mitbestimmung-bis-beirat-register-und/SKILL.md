@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-beirat-mitbestimmung-bis-beirat-register-und
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (beirat-mitbestimmung-abgrenzung, beirat-nachfolge, beirat-private-equity-investor, beirat-red-team-satzung, beirat-register-und-notar) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Mitbestimmung Abgrenzung, Beirat Nachfolge, Beirat Private Equity Investor, Beirat Red Team Satzung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - gesellschaftsrecht
+# Arbeitsbereich - Beirat Mitbestimmung Abgrenzung bis Beirat Register Und Notar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-mitbestimmung-abgrenzung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-nachfolge` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-mitbestimmung-abgrenzung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Mitbestimmung Abgrenzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Mitbestimmung Abgrenzung
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-nachfolge`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Nachfolge; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Nachfolge
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-private-equity-investor`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Private Equity Investor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Private Equity Investor
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-red-team-satzung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Red Team Satzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Red Team Satzung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Red Team Satzung
 
@@ -294,7 +294,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-register-und-notar`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Register Und Notar; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Register Und Notar
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-arbeitsberei-bis-spezial-diligence-do
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (spezial-arbeitsbereich-mandantenentscheidung, spezial-checklists-zahlen-schwellen-und-berechnung, spezial-compliance-compliance-dokumentation-und-akte, spezial-datenraum-behoerden-gericht-und-registerweg, spezial-diligence-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsbereich Mandantenentscheidung, Checklists Zahlen Schwellen Und Berechnung, Compliance Compliance Dokumentation Und Akte, Datenraum Behoerden Gericht Und Registerweg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - gesellschaftsrecht
+# Arbeitsbereich - Arbeitsbereich Mandantenentscheidung bis Diligence Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-arbeitsbereich-mandantenentscheidung` | Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-checklists-zahlen-schwellen-und-berechnung` | Checklists: Zahlen, Schwellenwerte und Berechnung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-arbeitsbereich-mandantenentscheidung`
 
-**Frühere Beschreibung:** Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Arbeitsbereich: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-checklists-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Checklists: Zahlen, Schwellenwerte und Berechnung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Checklists: Zahlen, Schwellenwerte und Berechnung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Checklists: Zahlen, Schwellenwerte und Berechnung
 
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-compliance-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Compliance: Compliance-Dokumentation und Aktenvermerk im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Compliance: Compliance-Dokumentation und Aktenvermerk im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Compliance: Compliance-Dokumentation und Aktenvermerk
 
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-datenraum-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Datenraum: Behörden-, Gerichts- oder Registerweg im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Datenraum: Behörden-, Gerichts- oder Registerweg im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Datenraum: Behörden-, Gerichts- oder Registerweg
 
@@ -230,7 +230,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-diligence-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Diligence: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Diligence: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Diligence: Dokumentenmatrix, Lückenliste und Nachforderung
 

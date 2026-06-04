@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-spezial-bgb-dokument-bis-spezial-einzelabrufe
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (spezial-bgb-dokumentenmatrix-und-lueckenliste, spezial-business-compliance-dokumentation-und-akte, spezial-einzelabrufe-sonderfall-und-edge-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bgb Dokumentenmatrix Und Lueckenliste, Business Compliance Dokumentation Und Akte, Einzelabrufe Sonderfall Und Edge Case; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - vertragsrecht
+# Arbeitsbereich - Bgb Dokumentenmatrix Und Lueckenliste, Business Compliance Dokumentation Und Akte, Einzelabrufe Sonderfall Und Edge Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bgb-dokumentenmatrix-und-lueckenliste` | BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-business-compliance-dokumentation-und-akte` | Business: Compliance-Dokumentation und Aktenvermerk im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bgb-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # BGB: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-business-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Business: Compliance-Dokumentation und Aktenvermerk im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Business: Compliance-Dokumentation und Aktenvermerk im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Business: Compliance-Dokumentation und Aktenvermerk
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-einzelabrufe-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einzelabrufe: Sonderfall und Edge-Case-Prüfung im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Einzelabrufe: Sonderfall und Edge-Case-Prüfung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-antragspflic-bis-spezial-einfuehrung
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (spezial-antragspflicht-dokumentenmatrix-und-lueckenliste, spezial-belegmatrix-formular-portal-und-einreichung, spezial-chronologie-internationaler-bezug-und-schnittstellen, spezial-einfuehrung-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Antragspflicht Dokumentenmatrix Und Lueckenliste, Belegmatrix Formular Portal Und Einreichung, Chronologie Internationaler Bezug Und Schnittstellen, Einfuehrung Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - insolvenzrecht
+# Arbeitsbereich - Antragspflicht Dokumentenmatrix Und Lueckenliste bis Einfuehrung Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste` | Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-belegmatrix-formular-portal-und-einreichung` | Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-antragspflicht-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Antragspflicht: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -88,7 +88,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-belegmatrix-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Belegmatrix: Formular, Portal und Einreichungslogik im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Belegmatrix: Formular, Portal und Einreichungslogik
 
@@ -147,7 +147,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-chronologie-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Chronologie: Internationaler Bezug und Schnittstellen im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Chronologie: Internationaler Bezug und Schnittstellen
 
@@ -209,7 +209,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-einfuehrung-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Einfuehrung: Verhandlung, Vergleich und Eskalation im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Einfuehrung: Verhandlung, Vergleich und Eskalation
 

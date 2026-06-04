@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-vergleich-koexistenz-bis-verpackungsdesign-un
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (vergleich-koexistenz-design, verpackungsdesign-und-produktauftritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Vergleich Koexistenz Design, Verpackungsdesign Und Produktauftritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich-koexistenz-design` | Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases. |
 | `verpackungsdesign-und-produktauftritt` | Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich-koexistenz-design`
 
-**Frühere Beschreibung:** Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases.
+**Fokus:** Vergleich, Abgrenzung und Koexistenz im Designrecht gestalten: Produktänderung, Auslauf, Restbestand, Vertragsstrafe, Monitoring und internationale Releases.
 
 # Vergleich Koexistenz Design
 
@@ -59,7 +59,7 @@ Settlement-Term-Sheet.
 
 ## 2. `verpackungsdesign-und-produktauftritt`
 
-**Frühere Beschreibung:** Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung.
+**Fokus:** Verpackungsdesign und Produktauftritt prüfen: Design, Marke, Ausstattung, UWG, Produktbild, Regalwirkung und Nachahmung.
 
 # Verpackungsdesign Und Produktauftritt
 

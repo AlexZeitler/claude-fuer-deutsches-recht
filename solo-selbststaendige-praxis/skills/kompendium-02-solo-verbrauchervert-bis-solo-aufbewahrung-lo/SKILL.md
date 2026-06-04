@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-solo-verbrauchervert-bis-solo-aufbewahrung-lo
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 8 frühere Spezialskills (solo-verbrauchervertrag-b2c, solo-vertragsdurchsetzung-ausland, solo-beratungshaftung, solo-geldwaesche-und-sanktionen-mini, solo-produkthaftung-kleinhersteller und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Verbrauchervertrag B2c, Solo Vertragsdurchsetzung Ausland, Solo Beratungshaftung, Solo Geldwaesche Und Sanktionen Mini und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Verbrauchervertrag B2c bis Solo Aufbewahrung Loeschung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-verbrauchervertrag-b2c` | Solo-Selbstständige: prüft Widerruf, Fernabsatz, Informationspflichten und Preisangaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-vertragsdurchsetzung-ausland` | Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-verbrauchervertrag-b2c`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Widerruf, Fernabsatz, Informationspflichten und Preisangaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Widerruf, Fernabsatz, Informationspflichten und Preisangaben; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Prüft widerruf
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 2. `solo-vertragsdurchsetzung-ausland`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Inkasso, Gerichtsstand, Mahnverfahren und Beweis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft inkasso
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 3. `solo-beratungshaftung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Erwartung, Dokumentation, Disclaimer und Grenzen der Beratung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Erwartung, Dokumentation, Disclaimer und Grenzen der Beratung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Prüft erwartung
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 4. `solo-geldwaesche-und-sanktionen-mini`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sensibilisiert bei ungewöhnlichen Zahlungen, Auslandskunden und Sanktionsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sensibilisiert bei ungewöhnlichen Zahlungen, Auslandskunden und Sanktionsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Sensibilisiert bei ungewöhnlichen zahlungen
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 5. `solo-produkthaftung-kleinhersteller`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Produkt, CE, Warnhinweise, Rückruf und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Produkt, CE, Warnhinweise, Rückruf und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Prüft produkt
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 6. `solo-13-wochen-liquiditaetsplan`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt realistischen Cashplan mit Steuern, Versicherungen und Zahlungslücken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt realistischen Cashplan mit Steuern, Versicherungen und Zahlungslücken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Erstellt realistischen cashplan mit steuern
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 7. `solo-anfaenger-modus`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erklärt Begriffe wie Freiberuf, Gewerbe, Rechnung, Umsatzsteuer und Gewinn ohne Fachnebel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erklärt Begriffe wie Freiberuf, Gewerbe, Rechnung, Umsatzsteuer und Gewinn ohne Fachnebel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Erklärt begriffe wie freiberuf
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 8. `solo-aufbewahrung-loeschung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant handels-/steuerliche Aufbewahrung und datenschutzrechtliche Löschung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant handels-/steuerliche Aufbewahrung und datenschutzrechtliche Löschung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Plant handels-/steuerliche aufbewahrung und datenschutzrechtliche löschung
 

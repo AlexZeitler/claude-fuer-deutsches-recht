@@ -1,33 +1,33 @@
 ---
 name: kompendium-24-technik-lautsprecher-bis-untatigkeit-und-schw
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (technik-lautsprecher-musik, untatigkeit-und-schweigen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Technik Lautsprecher Musik, Untatigkeit Und Schweigen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - versammlungsrecht
+# Arbeitsbereich - Technik Lautsprecher Musik, Untatigkeit Und Schweigen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `technik-lautsprecher-musik` | Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz. |
 | `untatigkeit-und-schweigen` | Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `technik-lautsprecher-musik`
 
-**Frühere Beschreibung:** Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz.
+**Fokus:** Prüft Lautsprecher, Megaphon, Bühne, Strom, Fahrzeuge, Musik, Projektionen und Lärmschutz.
 
 # Technik dient der Kommunikation
 
@@ -69,7 +69,7 @@ Output: Technikblatt und Auflagenvorschlag.
 
 ## 2. `untatigkeit-und-schweigen`
 
-**Frühere Beschreibung:** Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt.
+**Fokus:** Reagiert, wenn Behörde auf Anzeige oder Rückfrage nicht antwortet und der Termin näher rückt.
 
 # Schweigen ist kein Plan
 

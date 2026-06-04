@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-confidentiality-desi-bis-counterfeit-investig
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (confidentiality-design-leak, counterfeit-investigation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Confidentiality Design Leak, Counterfeit Investigation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fashion-law-moderecht
+# Arbeitsbereich - Confidentiality Design Leak, Counterfeit Investigation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `confidentiality-design-leak` | Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung. |
 | `counterfeit-investigation` | Counterfeit Investigation für Fashion Brands: Testkauf, Lieferkette, Plattform, Zoll, Zahlungsströme, Belege und Eskalation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `confidentiality-design-leak`
 
-**Frühere Beschreibung:** Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung.
+**Fokus:** Design-Leak und Geheimhaltung in Modeprojekten behandeln: NDA, interne Zugriffe, Freelancer, Supplier, Presse, Social Media und Beweissicherung.
 
 # Confidentiality Design Leak
 
@@ -59,7 +59,7 @@ Leak-Response-Plan.
 
 ## 2. `counterfeit-investigation`
 
-**Frühere Beschreibung:** Counterfeit Investigation für Fashion Brands: Testkauf, Lieferkette, Plattform, Zoll, Zahlungsströme, Belege und Eskalation.
+**Fokus:** Counterfeit Investigation für Fashion Brands: Testkauf, Lieferkette, Plattform, Zoll, Zahlungsströme, Belege und Eskalation.
 
 # Counterfeit Investigation
 

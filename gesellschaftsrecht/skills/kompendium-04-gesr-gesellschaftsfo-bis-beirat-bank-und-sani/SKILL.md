@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-gesr-gesellschaftsfo-bis-beirat-bank-und-sani
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (gesr-gesellschaftsformwahl-bauleiter, aufsichtsrat-protokoll, beirat-abgrenzung-aufsichtsrat, beirat-amtszeit-und-rotation, beirat-bank-und-sanierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesr Gesellschaftsformwahl Bauleiter, Aufsichtsrat Protokoll, Beirat Abgrenzung Aufsichtsrat, Beirat Amtszeit Und Rotation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - gesellschaftsrecht
+# Arbeitsbereich - Gesr Gesellschaftsformwahl Bauleiter bis Beirat Bank Und Sanierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesr-gesellschaftsformwahl-bauleiter` | Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Pruefraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle. |
 | `aufsichtsrat-protokoll` | Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll", "Vorstandssitzung", "Aufsichtsratssitzung", "Gesellschafterversammlung", "Protokollentwurf", "Sitzungsprotokoll". |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesr-gesellschaftsformwahl-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Pruefraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle.
+**Fokus:** Bauleiter Gesellschaftsformwahl: GmbH, UG, GmbH und Co. KG, AG, eG, Stiftung. Pruefraster Haftung, Steuern, Mitbestimmung, Publizitaet. Entscheidungstabelle.
 
 # GesR: Gesellschaftsformwahl
 
@@ -92,7 +92,7 @@ Dieser Skill gehoert zum Plugin `gesellschaftsrecht`. Er ergaenzt die uebrigen S
 
 ## 2. `aufsichtsrat-protokoll`
 
-**Frühere Beschreibung:** Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll", "Vorstandssitzung", "Aufsichtsratssitzung", "Gesellschafterversammlung", "Protokollentwurf", "Sitzungsprotokoll".
+**Fokus:** Erstellt Protokolle von Vorstandssitzungen (AG), Aufsichtsratssitzungen (AG, § 107 AktG) und Gesellschafterversammlungen (GmbH, § 48 GmbHG) im Hausformat. Erkennt bevorstehende Organsitzungen aus dem Kalender, fragt nach Tagesordnung und Materialien und erstellt einen vollständigen Entwurf. Trigger: "Protokoll", "Vorstandssitzung", "Aufsichtsratssitzung", "Gesellschafterversammlung", "Protokollentwurf", "Sitzungsprotokoll".
 
 # Vorstands- und Aufsichtsratsprotokoll (AG: § 107 AktG; GmbH: § 48 GmbHG)
 
@@ -673,7 +673,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `beirat-abgrenzung-aufsichtsrat`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Abgrenzung Aufsichtsrat
 
@@ -739,7 +739,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-amtszeit-und-rotation`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Amtszeit Und Rotation
 
@@ -805,7 +805,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-bank-und-sanierung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bank Und Sanierung
 

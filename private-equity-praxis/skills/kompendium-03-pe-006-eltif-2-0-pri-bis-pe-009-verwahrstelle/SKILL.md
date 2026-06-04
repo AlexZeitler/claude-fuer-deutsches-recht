@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-pe-006-eltif-2-0-pri-bis-pe-009-verwahrstelle
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (pe-006-eltif-2-0-private-markets, pe-007-euveca-und-vc-fonds, pe-008-kvg-erlaubnis-registrierung-auslagerung, pe-009-verwahrstelle-und-admin-funktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 006 Eltif 2 0 Private Markets, Pe 007 Euveca Und Vc Fonds, Pe 008 Kvg Erlaubnis Registrierung Auslagerung, Pe 009 Verwahrstelle Und Admin Funktionen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - private-equity-praxis
+# Arbeitsbereich - Pe 006 Eltif 2 0 Private Markets bis Pe 009 Verwahrstelle Und Admin Funktionen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-006-eltif-2-0-private-markets` | Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist. |
 | `pe-007-euveca-und-vc-fonds` | Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-006-eltif-2-0-private-markets`
 
-**Frühere Beschreibung:** Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist.
+**Fokus:** Prüft, wann ein ELTIF als reguliertes Vehikel für Private Equity, Infrastruktur oder Private Debt sinnvoll ist.
 
 # ELTIF 2.0: europäischer Long-Term-Fund für Private Markets
 
@@ -125,7 +125,7 @@ Redemption-Gate-Klausel:
 
 ## 2. `pe-007-euveca-und-vc-fonds`
 
-**Frühere Beschreibung:** Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets.
+**Fokus:** Prüft EuVECA-Label, Venture-Capital-Fonds, Start-up-Portfolios, Minderheitsbeteiligungen und zulässige Assets.
 
 # EuVECA und VC-Fonds: Wagniskapital richtig etikettieren
 
@@ -219,7 +219,7 @@ Founder Vesting (EN/DE):
 
 ## 3. `pe-008-kvg-erlaubnis-registrierung-auslagerung`
 
-**Frühere Beschreibung:** Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist.
+**Fokus:** Ermittelt, ob eine KVG-Erlaubnis, Registrierung oder Auslagerungsstruktur erforderlich ist.
 
 # KVG: Erlaubnis, Registrierung und Auslagerung
 
@@ -313,7 +313,7 @@ Auslagerungsregister (Pflichtfeld):
 
 ## 4. `pe-009-verwahrstelle-und-admin-funktionen`
 
-**Frühere Beschreibung:** Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette.
+**Fokus:** Prüft Verwahrstelle, Fondsadministration, Bewertung, NAV, Capital Calls, Reporting und Kontrollkette.
 
 # Verwahrstelle, Administrator und Backoffice
 

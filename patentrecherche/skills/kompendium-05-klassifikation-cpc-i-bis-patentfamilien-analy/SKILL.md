@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-klassifikation-cpc-i-bis-patentfamilien-analy
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (klassifikation-cpc-ipc, neuheit-pruefen, patentfamilien-analyse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klassifikation Cpc Ipc, Neuheit Pruefen, Patentfamilien Analyse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - patentrecherche
+# Arbeitsbereich - Klassifikation Cpc Ipc, Neuheit Pruefen, Patentfamilien Analyse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klassifikation-cpc-ipc` | CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Prüfraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begründung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche. |
 | `neuheit-pruefen` | Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollständige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Berücksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulässige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Prüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klassifikation-cpc-ipc`
 
-**Frühere Beschreibung:** CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Prüfraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begründung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche.
+**Fokus:** CPC- und IPC-Klassifikation für Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen für Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Prüfraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begründung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche.
 
 # klassifikation-cpc-ipc
 
@@ -146,7 +146,7 @@ Bevor die CPC/IPC-Klassen festgelegt werden, klaere:
 
 ## 2. `neuheit-pruefen`
 
-**Frühere Beschreibung:** Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollständige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Berücksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulässige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Prüfung.
+**Fokus:** Prüft Neuheit nach § 3 PatG und Art. 54 EPUe. Methodisches Schema: ein Anspruch wird in seine Merkmale zerlegt und Merkmal-fuer-Merkmal gegen genau eine Entgegenhaltung verglichen. Neuheitsschaedlich ist nur die vollständige Vorwegnahme aller Merkmale in einer einzigen Entgegenhaltung (kein Mosaik). Berücksichtigt die EPA-Konzepte unmittelbare und eindeutige Offenbarung implizite Offenbarung und unzulässige Auswahlerfindungen. Erzeugt Merkmalsanalyse-Tabelle pro Entgegenhaltung. Bewertet jedes Merkmal als offenbart nicht offenbart oder implizit offenbart mit Pinpoint. Gibt Gesamtergebnis und Empfehlung an die Patentanwaeltin. Disclaimer keine amtliche Prüfung.
 
 # neuheit-prüfen
 
@@ -244,7 +244,7 @@ Bevor die Neuheitspruefung beginnt, klaere:
 
 ## 3. `patentfamilien-analyse`
 
-**Frühere Beschreibung:** Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine Familientabelle pro Familienmitglied mit Veröffentlichungsnummer Anmeldetag Prioritaetstag Status Klassifikation Validierungsstaaten Anmelder Link. Erlaeutert den Unterschied zwischen INPADOC-Familie (gleicher Prioritaetstag) und Domestic Patent Family (gleicher Anmelder und enge technische Verwandtschaft). Markiert wann die Familie in welchem Staat noch geschützt ist und wann ein Mitglied bereits abgelaufen ist. Disclaimer Familiendaten koennen luekenhaft sein nicht alle Aemter melden vollständig.
+**Fokus:** Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine Familientabelle pro Familienmitglied mit Veröffentlichungsnummer Anmeldetag Prioritaetstag Status Klassifikation Validierungsstaaten Anmelder Link. Erlaeutert den Unterschied zwischen INPADOC-Familie (gleicher Prioritaetstag) und Domestic Patent Family (gleicher Anmelder und enge technische Verwandtschaft). Markiert wann die Familie in welchem Staat noch geschützt ist und wann ein Mitglied bereits abgelaufen ist. Disclaimer Familiendaten koennen luekenhaft sein nicht alle Aemter melden vollständig.
 
 # patentfamilien-analyse
 

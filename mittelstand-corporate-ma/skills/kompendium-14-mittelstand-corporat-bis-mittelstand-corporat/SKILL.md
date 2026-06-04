@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-datenraum-aufbau, mittelstand-corporate-ma-datenraum-gap-clean-room, mittelstand-corporate-ma-deal-intake, mittelstand-corporate-ma-deal-team-staffing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Datenraum Aufbau, Mittelstand Corporate Ma Datenraum Gap Clean Room, Mittelstand Corporate Ma Deal Intake, Mittelstand Corporate Ma Deal Team Staffing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Datenraum Aufbau bis Mittelstand Corporate Ma Deal Team Staffing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-datenraum-aufbau` | Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse. |
 | `mittelstand-corporate-ma-datenraum-gap-clean-room` | Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-datenraum-aufbau`
 
-**Frühere Beschreibung:** Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse.
+**Fokus:** Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenräume für Private M&A, Public M&A, Carve-out und Distressed-Prozesse.
 
 # Datenraum-Aufbau
 
@@ -210,7 +210,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mittelstand-corporate-ma-datenraum-gap-clean-room`
 
-**Frühere Beschreibung:** Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf.
+**Fokus:** Datenraum-Gap-Analyse und Clean Room: Prüft Datenraum, Teaser, IM, IRL und Disclosure-Konzept auf Luecken, Widersprueche, Dubletten und Clean-Room-Bedarf.
 
 # Datenraum-Gap-Analyse und Clean Room
 
@@ -390,7 +390,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mittelstand-corporate-ma-deal-intake`
 
-**Frühere Beschreibung:** Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message, Screenshot oder Datenraum-Einladung.
+**Fokus:** Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message, Screenshot oder Datenraum-Einladung.
 
 # Deal-Intake
 
@@ -573,7 +573,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `mittelstand-corporate-ma-deal-team-staffing`
 
-**Frühere Beschreibung:** Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur).
+**Fokus:** Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur).
 
 # Deal-Team und Staffing
 

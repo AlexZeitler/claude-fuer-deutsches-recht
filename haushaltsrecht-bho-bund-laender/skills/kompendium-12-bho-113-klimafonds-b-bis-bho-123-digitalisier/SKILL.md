@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-bho-113-klimafonds-b-bis-bho-123-digitalisier
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 12; bündelt 11 frühere Spezialskills (bho-113-klimafonds-brh-frage-formulieren, bho-114-klimafonds-parlamentsfrage-vorbereiten, bho-115-klimafonds-vollzug-tracken, bho-116-digitalisierungstitel-titel-pruefen, bho-117-digitalisierungstitel-umschichtung-sim und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 113 Klimafonds Brh Frage Formulieren, Bho 114 Klimafonds Parlamentsfrage Vorbereiten, Bho 115 Klimafonds Vollzug Tracken, Bho 116 Digitalisierungstitel Titel Pruefen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 113 Klimafonds Brh Frage Formulieren bis Bho 123 Digitalisierungstitel Brh Frage Formul
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-113-klimafonds-brh-frage-formulieren` | Haushaltsrecht BHO Bund und Länder: Klimafonds: BRH-Frage formulieren. BRH-Frage formulieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-114-klimafonds-parlamentsfrage-vorbereiten` | Haushaltsrecht BHO Bund und Länder: Klimafonds: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-113-klimafonds-brh-frage-formulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: BRH-Frage formulieren. BRH-Frage formulieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: BRH-Frage formulieren. BRH-Frage formulieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Brh Frage Formulieren
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-114-klimafonds-parlamentsfrage-vorbereiten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Parlamentsfrage Vorbereiten
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-115-klimafonds-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Vollzug tracken. Vollzug tracken für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Vollzug tracken. Vollzug tracken für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Vollzug Tracken
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-116-digitalisierungstitel-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel prüfen. Titel prüfen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Titel prüfen. Titel prüfen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Titel Pruefen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-117-digitalisierungstitel-umschichtung-sim`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Umschichtung simulieren. Umschichtung simulieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Umschichtung simulieren. Umschichtung simulieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Umschichtung Sim
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-118-digitalisierungstitel-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Sperre bewerten. Sperre bewerten für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Sperre bewerten. Sperre bewerten für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Sperre Bewerten
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-119-digitalisierungstitel-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Deckung finden. Deckung finden für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Deckung finden. Deckung finden für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Deckung Finden
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-120-digitalisierungstitel-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Szenario rechnen. Szenario rechnen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Szenario rechnen. Szenario rechnen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Szenario Rechnen
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-121-digitalisierungstitel-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Dashboard bauen. Dashboard bauen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Dashboard bauen. Dashboard bauen für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Dashboard Bauen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-122-digitalisierungstitel-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Risiko markieren. Risiko markieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: Risiko markieren. Risiko markieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Risiko Markieren
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-123-digitalisierungstitel-brh-frage-formul`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: BRH-Frage formulieren. BRH-Frage formulieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Digitalisierungstitel: BRH-Frage formulieren. BRH-Frage formulieren für Digitalisierungstitel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitalisierungstitel Brh Frage Formul
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-drg-104-ddr-unrechts-bis-drg-110-rechtshistor
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 18; bündelt 6 frühere Spezialskills (drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung, drg-105-schweigespirale-fakultaeten-und-justiz, drg-106-nuernberger-prozesse-und-dokumentenbasis, drg-108-rechtsperversion-ohne-gesetzesaenderung, drg-109-entnazifizierung-warteschleifen-und-rueckkehr und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung, Drg 105 Schweigespirale Fakultaeten Und Justiz, Drg 106 Nuernberger Prozesse Und Dokumentenbasis, Drg 108 Rechtsperversion Ohne Gesetzesaenderung und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 104 Ddr Unrechtsstaat Und Juristische Aufarbeitung bis Drg 110 Rechtshistorische Biografiekritik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung` | Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht. |
 | `drg-105-schweigespirale-fakultaeten-und-justiz` | Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-104-ddr-unrechtsstaat-und-juristische-aufarbeitung`
 
-**Frühere Beschreibung:** Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht.
+**Fokus:** Prüft sozialistische Gesetzlichkeit, Justizbindung an Parteiziele, Nachwenderecht, Einigungsvertrag, Rehabilitierung und Erinnerungskonflikte ohne schematische Gleichsetzung mit NS-Unrecht.
 
 # DDR-Recht und juristische Aufarbeitung
 
@@ -61,7 +61,7 @@ DDR-Aufarbeitungs-Memo mit Quellenmatrix, Rechtsfolgenpfad und sensibler Begriff
 
 ## 2. `drg-105-schweigespirale-fakultaeten-und-justiz`
 
-**Frühere Beschreibung:** Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit.
+**Fokus:** Untersucht Tabuisierung, Giftschrank-Logik, Schülerloyalität, Festschriftenkultur und verspätete Aufarbeitung der Rechtswissenschaft in NS-Zeit und Nachkriegszeit.
 
 # Schweigespirale in Fakultäten und Justiz
 
@@ -91,7 +91,7 @@ Schweigespiral-Audit mit Zeitleiste, Institutionenkarte und didaktischem Baustei
 
 ## 3. `drg-106-nuernberger-prozesse-und-dokumentenbasis`
 
-**Frühere Beschreibung:** Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht.
+**Fokus:** Nutzt Nürnberger Verfahren und Folgeprozesse als Quellenscharnier für Rechtsgeschichte: Dokumentensicherung, Verantwortlichkeit staatlicher Akteure, Einsatzgruppen, Juristenrollen und Völkerstrafrecht.
 
 # Nürnberger Prozesse als Dokumentenbasis
 
@@ -121,7 +121,7 @@ Quellenvermerk mit Prozessbezug, Dokumententyp, Aussagekraft, Grenzen und Anschl
 
 ## 4. `drg-108-rechtsperversion-ohne-gesetzesaenderung`
 
-**Frühere Beschreibung:** Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können.
+**Fokus:** Zeigt, wie fortgeltende Gesetze durch Auslegung, neue Rechtsquellenlehren, Verwaltungspraxis und Richterrecht in autoritären Systemen inhaltlich umcodiert werden können.
 
 # Rechtsperversion ohne Gesetzesänderung
 
@@ -151,7 +151,7 @@ Umcodierungsanalyse mit Textkontinuität, Bedeutungsbruch und Belegmatrix.
 
 ## 5. `drg-109-entnazifizierung-warteschleifen-und-rueckkehr`
 
-**Frühere Beschreibung:** Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur.
+**Fokus:** Prüft Entnazifizierung, Berufsverbote, Rückkehr in Fakultäten und Justiz, wirtschaftliche Ersatzkarrieren und die Folgen für demokratische Rechtskultur.
 
 # Entnazifizierung, Warteschleifen und Rückkehr
 
@@ -181,7 +181,7 @@ Nachkriegsstatus-Matrix mit Verantwortungsgrad und institutioneller Folgewirkung
 
 ## 6. `drg-110-rechtshistorische-biografiekritik`
 
-**Frühere Beschreibung:** Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade.
+**Fokus:** Erstellt eine nüchterne Biografieprüfung juristischer Akteure: Werk, Amt, Netzwerk, Zeitkontext, Selbstzeugnisse, Fremdzuschreibungen und belastbare Verantwortungsgrade.
 
 # Rechtshistorische Biografiekritik
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-produktsicherheit-gp-bis-reach-chemikalien-te
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (produktsicherheit-gpsr-fashion, reach-chemikalien-textilien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produktsicherheit Gpsr Fashion, Reach Chemikalien Textilien; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fashion-law-moderecht
+# Arbeitsbereich - Produktsicherheit Gpsr Fashion, Reach Chemikalien Textilien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produktsicherheit-gpsr-fashion` | Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate. |
 | `reach-chemikalien-textilien` | REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produktsicherheit-gpsr-fashion`
 
-**Frühere Beschreibung:** Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate.
+**Fokus:** Produktsicherheit nach GPSR für Modeartikel prüfen: verantwortlicher Wirtschaftsakteur, Warnhinweise, Rückverfolgbarkeit, Online-Angebot, Kinderprodukte und Safety Gate.
 
 # Produktsicherheit Gpsr Fashion
 
@@ -59,7 +59,7 @@ GPSR-Compliance-Check.
 
 ## 2. `reach-chemikalien-textilien`
 
-**Frühere Beschreibung:** REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen.
+**Fokus:** REACH, Chemikalien und Materialrisiken bei Textilien prüfen: Farbstoffe, Nickel, Formaldehyd, PFAS-Risiken, Prüfberichte und Supplier-Erklärungen.
 
 # Reach Chemikalien Textilien
 

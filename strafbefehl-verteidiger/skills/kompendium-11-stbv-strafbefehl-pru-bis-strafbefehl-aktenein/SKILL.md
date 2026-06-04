@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-stbv-strafbefehl-pru-bis-strafbefehl-aktenein
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (stbv-strafbefehl-pruefung-bauleiter, strafbefehl-abwesenheit-vertretung, strafbefehl-akteneinsicht-147) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stbv Strafbefehl Pruefung Bauleiter, Strafbefehl Abwesenheit Vertretung, Strafbefehl Akteneinsicht 147; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - strafbefehl-verteidiger
+# Arbeitsbereich - Stbv Strafbefehl Pruefung Bauleiter, Strafbefehl Abwesenheit Vertretung, Strafbefehl Akteneinsicht 147
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stbv-strafbefehl-pruefung-bauleiter` | Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech. |
 | `strafbefehl-abwesenheit-vertretung` | Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stbv-strafbefehl-pruefung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech.
+**Fokus:** Bauleiter Pruefung Strafbefehl § 407 StPO: Tatvorwurf, Strafhoehe, Folgen, Einspruchsfrist. Pruefraster fuer Verteidiger Erstgespraech.
 
 # StBV: Strafbefehl-Pruefung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `strafbefehl-verteidiger`. Er ergaenzt die uebri
 
 ## 2. `strafbefehl-abwesenheit-vertretung`
 
-**Frühere Beschreibung:** Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung.
+**Fokus:** Mandant kann oder will zur Hauptverhandlung nach Strafbefehl-Einspruch nicht erscheinen und Verteidiger soll ihn vertreten. Prüfraster Entbindung von Erscheinungspflicht § 411 Abs. 2 StPO Voraussetzungen und Antrag. Verwerfung des Einspruchs § 412 StPO bei unentschuldigtem Ausbleiben Folgen. Wiedereinsetzung nach Verwerfung § 44 StPO. Output Entbindungsantrag Vertretungsvollmacht Muster-Sprechzettel für Verhandlung ohne Mandant. Abgrenzung: strafbefehl-hauptverhandlung-vorbereitung für allgemeine HV-Vorbereitung.
 
 # Abwesenheit in der Hauptverhandlung — § 411 Abs. 2 StPO
 
@@ -154,7 +154,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 3. `strafbefehl-akteneinsicht-147`
 
-**Frühere Beschreibung:** Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO.
+**Fokus:** Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO.
 
 # Akteneinsicht im Strafbefehlsverfahren — § 147 StPO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-board-duties-zone-bis-chapter7-liquidation
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (board-duties-zone, cash-collateral-363, chapter7-asset-distribution, chapter7-liquidation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Board Duties Zone, Cash Collateral 363, Chapter7 Asset Distribution, Chapter7 Liquidation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - us-bankruptcy-code
+# Arbeitsbereich - Board Duties Zone bis Chapter7 Liquidation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `board-duties-zone` | Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives. |
 | `cash-collateral-363` | Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `board-duties-zone`
 
-**Frühere Beschreibung:** Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives.
+**Fokus:** Prueft US board duties near insolvency, fiduciary risk, filing decision, lender pressure and restructuring alternatives.
 
 # Board Duties and Zone of Insolvency
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `cash-collateral-363`
 
-**Frühere Beschreibung:** Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders.
+**Fokus:** Prueft cash collateral, lender consent, adequate protection, budget, reporting and interim/final orders.
 
 # Cash Collateral § 363
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `chapter7-asset-distribution`
 
-**Frühere Beschreibung:** Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing.
+**Fokus:** Prueft asset liquidation, sale, abandoned property, claims waterfall, trustee commissions and closing.
 
 # Chapter 7 Assets and Distribution
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `chapter7-liquidation`
 
-**Frühere Beschreibung:** Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution.
+**Fokus:** Fuehrt durch Chapter 7 liquidation: trustee, estate, assets, claims, exemptions, discharge and distribution.
 
 # Chapter 7 Liquidation Workflow
 

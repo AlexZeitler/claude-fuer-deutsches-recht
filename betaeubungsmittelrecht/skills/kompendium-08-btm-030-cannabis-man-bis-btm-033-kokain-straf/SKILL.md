@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-btm-030-cannabis-man-bis-btm-033-kokain-straf
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (btm-030-cannabis-mandantenbrief-schreiben, btm-031-kokain-stoff-pruefen, btm-032-kokain-menge-einordnen, btm-033-kokain-strafrahmen-routen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 030 Cannabis Mandantenbrief Schreiben, Btm 031 Kokain Stoff Pruefen, Btm 032 Kokain Menge Einordnen, Btm 033 Kokain Strafrahmen Routen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 030 Cannabis Mandantenbrief Schreiben bis Btm 033 Kokain Strafrahmen Routen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-030-cannabis-mandantenbrief-schreiben` | Betäubungsmittelrecht: Cannabis: Mandantenbrief schreiben. Mandantenbrief schreiben für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-031-kokain-stoff-pruefen` | Betäubungsmittelrecht: Kokain: Stoff prüfen. Stoff prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-030-cannabis-mandantenbrief-schreiben`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Cannabis: Mandantenbrief schreiben. Mandantenbrief schreiben für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Cannabis: Mandantenbrief schreiben. Mandantenbrief schreiben für Cannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Cannabis Mandantenbrief Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-031-kokain-stoff-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Stoff prüfen. Stoff prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Stoff prüfen. Stoff prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Stoff Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-032-kokain-menge-einordnen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Menge einordnen. Menge einordnen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Menge einordnen. Menge einordnen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Menge Einordnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-033-kokain-strafrahmen-routen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Strafrahmen routen. Strafrahmen routen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Strafrahmen routen. Strafrahmen routen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Strafrahmen Routen
 

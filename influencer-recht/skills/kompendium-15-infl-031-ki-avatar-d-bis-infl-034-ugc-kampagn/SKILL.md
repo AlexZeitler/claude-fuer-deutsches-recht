@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-infl-031-ki-avatar-d-bis-infl-034-ugc-kampagn
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (infl-031-ki-avatar-deepfake-und-einwilligung, infl-032-virtueller-influencer-rechte-und-kennzeichnung, infl-034-ugc-kampagne-rechte-der-follower) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 031 Ki Avatar Deepfake Und Einwilligung, Infl 032 Virtueller Influencer Rechte Und Kennzeichnung, Infl 034 Ugc Kampagne Rechte Der Follower; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - influencer-recht
+# Arbeitsbereich - Infl 031 Ki Avatar Deepfake Und Einwilligung, Infl 032 Virtueller Influencer Rechte Und Kennzeichnung, Infl 034 Ugc Kampagne Rechte Der Follo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-031-ki-avatar-deepfake-und-einwilligung` | Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act. |
 | `infl-032-virtueller-influencer-rechte-und-kennzeichnung` | Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-031-ki-avatar-deepfake-und-einwilligung`
 
-**Frühere Beschreibung:** Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act.
+**Fokus:** Influencer-Recht: KI-Avatar und Deepfakes – Einwilligung, Persönlichkeitsrecht, KUG, strafrechtliche Risiken und EU AI Act.
 
 # Influencer-Recht: KI-Avatar, Deepfake und Einwilligung
 
@@ -96,7 +96,7 @@ KI-generierte Abbilder von Personen sind ein wachsendes Rechtsfeld:
 
 ## 2. `infl-032-virtueller-influencer-rechte-und-kennzeichnung`
 
-**Frühere Beschreibung:** Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act.
+**Fokus:** Influencer-Recht: Virtuelle Influencer – Urheberrecht, Kennzeichnungspflicht, Haftung und EU AI Act.
 
 # Influencer-Recht: Virtueller Influencer – Rechte und Kennzeichnung
 
@@ -163,7 +163,7 @@ Virtuelle Influencer (KI-Charaktere ohne reale Person dahinter) stellen neue Rec
 
 ## 3. `infl-034-ugc-kampagne-rechte-der-follower`
 
-**Frühere Beschreibung:** Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung.
+**Fokus:** Influencer-Recht: UGC-Kampagnen – Rechte der Follower, Einwilligung, Nutzungsrechtserwerb, DSGVO und Kennzeichnung.
 
 # Influencer-Recht: UGC-Kampagne – Rechte der Follower
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-mittelstand-corporat-bis-beirat-abgrenzung-au
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-umwandlungssteuerrecht, mittelstand-ma-tabellenreview, rechtsabteilung-earn-out-bei-mittelstandsverkauf, beirat-abgrenzung-aufsichtsrat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Umwandlungssteuerrecht, Mittelstand Ma Tabellenreview, Earn Out Bei Mittelstandsverkauf, Beirat Abgrenzung Aufsichtsrat; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Umwandlungssteuerrecht bis Beirat Abgrenzung Aufsichtsrat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-umwandlungssteuerrecht` | Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG. |
 | `mittelstand-ma-tabellenreview` | Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-umwandlungssteuerrecht`
 
-**Frühere Beschreibung:** Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG.
+**Fokus:** Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG.
 
 # Umwandlungssteuerrecht
 
@@ -228,7 +228,7 @@ Offene Fragen an Steuerteam: [TODO Owner Datum]
 
 ## 2. `mittelstand-ma-tabellenreview`
 
-**Frühere Beschreibung:** Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet).
+**Fokus:** Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet).
 
 # Freistehender Tabellenreview (Mittelstand)
 
@@ -424,7 +424,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `rechtsabteilung-earn-out-bei-mittelstandsverkauf`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Earn-out bei Mittelstandsverkauf: Earn-out-KPIs, Manipulationsschutz und Post-Closing-Steuerung werden für Verkäufer und Käufer geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Earn-out bei Mittelstandsverkauf
 
@@ -480,7 +480,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `beirat-abgrenzung-aufsichtsrat`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Abgrenzung Aufsichtsrat
 

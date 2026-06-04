@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-nkr-stellungnahme-ev-bis-nkr-stellungnahme-fo
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (nkr-stellungnahme-evaluationsklausel-vorschlag, nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Stellungnahme Evaluationsklausel Vorschlag, Nkr Stellungnahme Formulierungshilfe Vs Referentenentwurf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-stellungnahme-evaluationsklausel-vorschlag` | Spezialskill fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme. |
 | `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf` | Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-stellungnahme-evaluationsklausel-vorschlag`
 
-**Frühere Beschreibung:** Spezialskill fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme.
+**Fokus:** Spezialskill fuer den NKR-Empfehlungs-Baustein Evaluierungsklausel. Liefert Vorlage Klausel-Text Indikatorliste Frist-Vorschlag Berichtsadressat Konkretisierung der Pflichten und Standard-Argumentation warum die Klausel noetig ist. Mit konkreten Bausteinen fuer die Stellungnahme.
 
 # NKR-Stellungnahme — Vorschlag einer Evaluationsklausel
 
@@ -142,7 +142,7 @@ Keine Rueckfrage noetig, wenn Vorhaben vorliegt.
 
 ## 2. `nkr-stellungnahme-formulierungshilfe-vs-referentenentwurf`
 
-**Frühere Beschreibung:** Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung.
+**Fokus:** Behandlung von Formulierungshilfen der Bundesregierung an Koalitionsfraktionen im Vergleich zu Referentenentwuerfen. Beschreibt die Umgehungsproblematik die faktische NKR-Befassung die methodischen Besonderheiten der Formulierungshilfe (oft kein vollstaendiger Begruendungstext) und die Stellungnahme-Konsequenzen. Mit Mahntexten und konstruktiver Vorgehensbeschreibung.
 
 # NKR-Formulierungshilfe vs. Referentenentwurf
 

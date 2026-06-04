@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-erfolgsmessung-kpi-bis-executive-summary-ge
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (erfolgsmessung-kpi, escalation-ladder, evidence-gap-dashboard, evidence-request-pack, executive-summary-generator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erfolgsmessung Kpi, Escalation Ladder, Evidence Gap Dashboard, Evidence Request Pack und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Erfolgsmessung Kpi bis Executive Summary Generator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erfolgsmessung-kpi` | Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `escalation-ladder` | Escalation Ladder: steuert wer wann wen anruft: Associate, Partner, GC, CFO, Vorstand, Fachabteilung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erfolgsmessung-kpi`
 
-**Frühere Beschreibung:** Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Erfolgsmessung KPI: steuert KPIs jenseits Sieg/Niederlage: Tempo, Budgettreue, Prävention, Business Impact zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Erfolgsmessung KPI
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `escalation-ladder`
 
-**Frühere Beschreibung:** Escalation Ladder: steuert wer wann wen anruft: Associate, Partner, GC, CFO, Vorstand, Fachabteilung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Escalation Ladder: steuert wer wann wen anruft: Associate, Partner, GC, CFO, Vorstand, Fachabteilung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Escalation Ladder
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `evidence-gap-dashboard`
 
-**Frühere Beschreibung:** Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, Frist und Risiko in einer Lückenmatrix steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Evidence Gap Dashboard: steuert fehlende Beweise, Owner, Quelle, Frist und Risiko in einer Lückenmatrix steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Evidence Gap Dashboard
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `evidence-request-pack`
 
-**Frühere Beschreibung:** Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Evidence Request Pack: steuert Belege vom Mandanten so anfordern, dass sie wirklich kommen und verwendbar sind zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Evidence Request Pack
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `executive-summary-generator`
 
-**Frühere Beschreibung:** Executive Summary Generator: steuert eine Seite für GC/Vorstand: Lage, Risiko, Entscheidung, Kosten, Timing zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Executive Summary Generator: steuert eine Seite für GC/Vorstand: Lage, Risiko, Entscheidung, Kosten, Timing zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Executive Summary Generator
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-anspruchsgrundlage-u-bis-b2b-vs-b2c-klausel-s
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (anspruchsgrundlage-und-rechtsfolgen-klauseln, b2b-vs-b2c-klausel-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2b Vs B2c Klausel Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Anspruchsgrundlage Und Rechtsfolgen Klauseln, B2b Vs B2c Klausel Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anspruchsgrundlage-und-rechtsfolgen-klauseln` | Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist. |
 | `b2b-vs-b2c-klausel-strategie` | Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anspruchsgrundlage-und-rechtsfolgen-klauseln`
 
-**Frühere Beschreibung:** Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist.
+**Fokus:** Vertragliche Klauseln nach der Wenn-Dann-Architektur bauen. Klare Trennung von Tatbestand (Wenn-Teil mit Voraussetzungen) und Rechtsfolge (Dann-Teil mit Pflichten und Fristen). Anwendungsbeispiele: Maengelhaftung Verzugsklausel Kuendigungsfolgenklausel. Anti-Pattern Mantelklausel mit verschachtelten Wenn-Tatbestaenden vermeiden. Mit Tabelle Tatbestand zu Rechtsfolge zu Frist.
 
 # Anspruchsgrundlage und Rechtsfolgen-Klauseln
 
@@ -214,7 +214,7 @@ Mit Zugang der Kuendigung endet der Vertrag. § 9 Abs. 3 (Folgen) gilt.
 
 ## 2. `b2b-vs-b2c-klausel-strategie`
 
-**Frühere Beschreibung:** Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten.
+**Fokus:** Strategisches Drafting in zwei Vertragswelten. B2C unter strengem Verbraucherschutz (§§ 13 und 14 BGB sowie § 305 II BGB und §§ 308 und 309 BGB direkt anwendbar). B2B im Geschäftsverkehr nach § 310 I BGB erleichtert, aber mit Ausstrahlungswirkung der Klauselverbote über § 307 BGB. Ein einziges Klauselwerk für beide Welten ist effizient, aber risikobehaftet; Alternative sind getrennte AGB-Sätze. Liefert Tabelle Klauseltyp/B2C-Risiko/B2B-Risiko/Empfehlung und Mustertexte für haftungsbegrenzte Klauseln im Vergleich beider Welten.
 
 # B2B vs. B2C Klauselstrategie
 

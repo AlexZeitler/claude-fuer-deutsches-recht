@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-verschaerfte-haftung-bis-anfg-anfechtungsklag
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit, abgetretene-forderung-und-zession, anfechtung-142-und-rueckabwicklung, anfg-anfechtungsklage-prozessuales) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit, Abgetretene Forderung Und Zession, Anfechtung 142 Und Rueckabwicklung, Anfg Anfechtungsklage Prozessuales; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Verschaerfte Haftung 819 Bgb Bei Bosglaeubigkeit bis Anfg Anfechtungsklage Prozessuales
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit` | Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB. |
 | `abgetretene-forderung-und-zession` | Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit`
 
-**Frühere Beschreibung:** Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB.
+**Fokus:** Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB.
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit
 
@@ -134,7 +134,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `abgetretene-forderung-und-zession`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
+**Fokus:** Nutze diesen Skill, wenn Abtretung, Zahlung und Forderungsbestand auseinandergehalten werden müssen. Normen: §§ 398-413 BGB sowie §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zessionsmatrix mit Deckungs- und Valutaverhältnis, Anspruchsgegner und Belegbedarf. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
 
 # Abgetretene Forderung und Zession
 
@@ -223,7 +223,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anfechtung-142-und-rueckabwicklung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB.
+**Fokus:** Nutze diesen Skill, wenn eine wirksame Anfechtung den Rechtsgrund rückwirkend beseitigt. Normen: §§ 119 bis 124 BGB sowie §§ 142 und 812 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Anfechtungs- und Rückabwicklungsmatrix mit Anspruchszielen. Abgrenzung: nicht Rücktritt §§ 346 ff. BGB.
 
 # Anfechtung nach § 142 BGB und Rückabwicklung
 
@@ -327,7 +327,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `anfg-anfechtungsklage-prozessuales`
 
-**Frühere Beschreibung:** Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersatzantrag, sachliche Zuständigkeit AG/LG, örtliche Zuständigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter.
+**Fokus:** Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersatzantrag, sachliche Zuständigkeit AG/LG, örtliche Zuständigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter.
 
 # Anfechtungsklage AnfG — Prozessuales
 

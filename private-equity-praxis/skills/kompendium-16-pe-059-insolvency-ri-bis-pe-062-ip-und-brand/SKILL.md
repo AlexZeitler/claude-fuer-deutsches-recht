@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-pe-059-insolvency-ri-bis-pe-062-ip-und-brand
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (pe-059-insolvency-risk-pe-sponsor, pe-060-competition-clean-team, pe-061-data-cyber-ai-dd, pe-062-ip-und-brand-dd-pe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 059 Insolvency Risk Pe Sponsor, Pe 060 Competition Clean Team, Pe 061 Data Cyber Ai Dd, Pe 062 Ip Und Brand Dd Pe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - private-equity-praxis
+# Arbeitsbereich - Pe 059 Insolvency Risk Pe Sponsor bis Pe 062 Ip Und Brand Dd Pe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-059-insolvency-risk-pe-sponsor` | Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt. |
 | `pe-060-competition-clean-team` | Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-059-insolvency-risk-pe-sponsor`
 
-**Frühere Beschreibung:** Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt.
+**Fokus:** Prüft Sponsor-Haftung, faktische Geschäftsführung, Cash Pool, Sanierungspflichten, Anfechtung und Rangrücktritt.
 
 # Insolvenzrisiko für PE-Sponsor
 
@@ -70,7 +70,7 @@ InsO §§ 17-19, 39, 135, 129 ff., GmbHG/AktG, StaRUG.
 
 ## 2. `pe-060-competition-clean-team`
 
-**Frühere Beschreibung:** Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess.
+**Fokus:** Strukturiert Wettbewerberdaten, Preislisten, Kundenlisten, Management Calls und Austausch im Bieterprozess.
 
 # Clean Team und Kartellrecht im PE-Prozess
 
@@ -111,7 +111,7 @@ GWB, Art. 101/102 AEUV, Fusionskontrolle, Clean-Team-Protokoll, NDA.
 
 ## 3. `pe-061-data-cyber-ai-dd`
 
-**Frühere Beschreibung:** Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten.
+**Fokus:** Prüft personenbezogene Daten, Cybervorfälle, KI-Systeme, SaaS-Verträge, Open Source und IT-Abhängigkeiten.
 
 # Data, Cyber und AI Due Diligence
 
@@ -152,7 +152,7 @@ DSGVO, NIS2/BSIG, AI Act, IT-Verträge, Open-Source-Lizenzen.
 
 ## 4. `pe-062-ip-und-brand-dd-pe`
 
-**Frühere Beschreibung:** Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten.
+**Fokus:** Prüft Marken, Patente, Software, Domains, Lizenzen, Arbeitnehmererfindungen und Rechteketten.
 
 # IP und Brand DD im PE-Deal
 

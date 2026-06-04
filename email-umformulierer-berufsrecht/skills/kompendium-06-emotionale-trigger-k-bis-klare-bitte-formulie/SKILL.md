@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-emotionale-trigger-k-bis-klare-bitte-formulie
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (emotionale-trigger-katalog, ironie-und-sarkasmus-eliminieren, klare-bitte-formulieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Emotionale Trigger Katalog, Ironie Und Sarkasmus Eliminieren, Klare Bitte Formulieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `emotionale-trigger-katalog` | Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz). |
 | `ironie-und-sarkasmus-eliminieren` | Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `emotionale-trigger-katalog`
 
-**Frühere Beschreibung:** Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz).
+**Fokus:** Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Prüfraster: aggressive Formulierungen persoenliche Angriffe emotionale Übertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht für vollständige Umformulierung (allgemeine-berufliche-korrespondenz).
 
 # Emotionaler Trigger-Katalog
 
@@ -110,7 +110,7 @@ Der Skill gibt für jeden identifizierten Trigger aus: Originalformulierung, Tri
 
 ## 2. `ironie-und-sarkasmus-eliminieren`
 
-**Frühere Beschreibung:** Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen).
+**Fokus:** Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Prüfraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklärung der Aenderungen. Abgrenzung: nicht für offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen).
 
 # Ironie und Sarkasmus eliminieren
 
@@ -187,7 +187,7 @@ Der Skill gibt aus: (1) Identifizierte ironische/sarkastische Stellen mit Zitat.
 
 ## 3. `klare-bitte-formulieren`
 
-**Frühere Beschreibung:** Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für Mahnungen mit Fristsetzung (frist-und-mahnung-hoeflich).
+**Fokus:** Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklärung. Abgrenzung: nicht für Mahnungen mit Fristsetzung (frist-und-mahnung-hoeflich).
 
 # Klare Bitten formulieren
 

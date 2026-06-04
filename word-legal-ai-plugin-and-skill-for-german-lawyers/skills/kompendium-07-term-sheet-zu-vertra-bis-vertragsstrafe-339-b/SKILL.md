@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-term-sheet-zu-vertra-bis-vertragsstrafe-339-b
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (term-sheet-zu-vertrag-uebersetzung, vertragsstrafe-339-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Term Sheet Zu Vertrag Uebersetzung, Vertragsstrafe 339 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `term-sheet-zu-vertrag-uebersetzung` | Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jeden Punkt auf einen Vertragsabschnitt, fuegt notwendige Boilerplate-Klauseln hinzu, schliesst typische Term-Sheet-Luecken (Definitionen Verzug Force Majeure Datenschutz IP Aenderungen) und liefert einen vollstaendigen Vertragsentwurf inklusive Mandantenmemo zu offenen Punkten. |
 | `vertragsstrafe-339-bgb` | Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `term-sheet-zu-vertrag-uebersetzung`
 
-**Frühere Beschreibung:** Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jeden Punkt auf einen Vertragsabschnitt, fuegt notwendige Boilerplate-Klauseln hinzu, schliesst typische Term-Sheet-Luecken (Definitionen Verzug Force Majeure Datenschutz IP Aenderungen) und liefert einen vollstaendigen Vertragsentwurf inklusive Mandantenmemo zu offenen Punkten.
+**Fokus:** Uebersetzung eines Term Sheets oder Letter of Intent in einen ausgearbeiteten Vertrag. Identifiziert die typischen Term-Sheet-Punkte (Parteien Praeambel Leistung Verguetung Laufzeit Kuendigung Gewaehrleistung Haftung Geheimhaltung Recht Gericht Schiedsklausel Schriftform Salvatorisch), mappt jeden Punkt auf einen Vertragsabschnitt, fuegt notwendige Boilerplate-Klauseln hinzu, schliesst typische Term-Sheet-Luecken (Definitionen Verzug Force Majeure Datenschutz IP Aenderungen) und liefert einen vollstaendigen Vertragsentwurf inklusive Mandantenmemo zu offenen Punkten.
 
 # Term Sheet zu Vertrag
 
@@ -185,7 +185,7 @@ Der ausgearbeitete Vertrag hat den Term-Sheet-Punkt nicht veraendert (EUR 500.00
 
 ## 2. `vertragsstrafe-339-bgb`
 
-**Frühere Beschreibung:** Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel.
+**Fokus:** Drafting und Prüfung von Vertragsstrafeklauseln nach §§ 339-345 BGB. Klärt Bestimmtheit der zu sichernden Hauptverbindlichkeit, Verschuldenserfordernis, Höhe und Verhältnismäßigkeit, Verhältnis zum Schadensersatz (§ 340 BGB Erfüllung statt vs. § 341 BGB neben Erfüllung), richterliche Herabsetzung nach § 343 BGB und deren Ausschluss bei Vollkaufleuten gem. § 348 HGB sowie die AGB-rechtlichen Grenzen nach § 309 Nr. 6 BGB. Liefert Mustertext mit Strafhöhe, Verfallsregelung und Anrechnungsregel.
 
 # Vertragsstrafe nach §§ 339-345 BGB
 

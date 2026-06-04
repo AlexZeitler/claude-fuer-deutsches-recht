@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-rom-neu-006-etruskis-bis-rom-neu-013-basilike
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 20; bündelt 8 frühere Spezialskills (rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr, rom-neu-007-faliskische-spuren-sprache-siedlung-und-rechtskontak, rom-neu-008-oskisches-recht-tabula-bantina-und-volksrecht, rom-neu-009-samnitische-rechtskultur-bundesgenossen-und-militaer, rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom Neu 006 Etruskische Rechtsvorformen Quellenarmut Und Ritualr, Rom Neu 007 Faliskische Spuren Sprache Siedlung Und Rechtskontak, Rom Neu 008 Oskisches Recht Tabula Bantina Und Volksrecht, Rom Neu 009 Samnitische Rechtskultur Bundesgenossen Und Militaer und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätsc"
 ---
 
-# Kompendium 20 - roemisches-recht
+# Arbeitsbereich - Rom Neu 006 Etruskische Rechtsvorformen Quellenarmut Und Ritualr bis Rom Neu 013 Basiliken Prochiron Epanagoge Und Spaetere Rezeption
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr` | Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `rom-neu-007-faliskische-spuren-sprache-siedlung-und-rechtskontak` | Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-neu-006-etruskische-rechtsvorformen-quellenarmut-und-ritualr`
 
-**Frühere Beschreibung:** Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Etruskische Rechtsvorformen Quellenarmut und Ritualrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 006 Etruskische Rechtsvorformen Quellenarmut Und Ritualr
 
@@ -77,7 +77,7 @@ Etruskische Rechtsvorformen — Quellenarmut und Ritualrecht.
 
 ## 2. `rom-neu-007-faliskische-spuren-sprache-siedlung-und-rechtskontak`
 
-**Frühere Beschreibung:** Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Faliskische Spuren Sprache Siedlung und Rechtskontakt mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 007 Faliskische Spuren Sprache Siedlung Und Rechtskontak
 
@@ -119,7 +119,7 @@ Faliskische Spuren — Sprache, Siedlung, Rechtskontakt mit Rom.
 
 ## 3. `rom-neu-008-oskisches-recht-tabula-bantina-und-volksrecht`
 
-**Frühere Beschreibung:** Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Oskisches Recht Tabula Bantina und Volksrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 008 Oskisches Recht Tabula Bantina Und Volksrecht
 
@@ -157,7 +157,7 @@ Oskisches Recht — Tabula Bantina und das Recht der Bundesgenossen.
 
 ## 4. `rom-neu-009-samnitische-rechtskultur-bundesgenossen-und-militaer`
 
-**Frühere Beschreibung:** Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Samnitische Rechtskultur Bundesgenossen und Militärordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 009 Samnitische Rechtskultur Bundesgenossen Und Militaer
 
@@ -198,7 +198,7 @@ Samnitische Rechtskultur — Bundesgenossen und Militaerordnung.
 
 ## 5. `rom-neu-010-pompeji-inschriften-wahlaufrufe-geschaeftspraxis-und`
 
-**Frühere Beschreibung:** Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Pompeji Inschriften Wahlaufrufe Geschäftspraxis und Alltagsnormen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 010 Pompeji Inschriften Wahlaufrufe Geschaeftspraxis Und
 
@@ -242,7 +242,7 @@ Auktion von Pferd 50 n. Chr.
 
 ## 6. `rom-neu-011-pompeji-graffiti-als-rechts-und-sozialquelle`
 
-**Frühere Beschreibung:** Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Pompeji Graffiti als Rechts- und Sozialquelle mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 011 Pompeji Graffiti Als Rechts Und Sozialquelle
 
@@ -282,7 +282,7 @@ Pompeji-Graffiti als Rechts- und Sozialquelle.
 
 ## 7. `rom-neu-012-byzantinisches-recht-theodosianus-justinian-und-basi`
 
-**Frühere Beschreibung:** Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Byzantinisches Recht Theodosianus Justinian und Basiliken mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 012 Byzantinisches Recht Theodosianus Justinian Und Basi
 
@@ -326,7 +326,7 @@ Byzantinisches Recht: Codex Theodosianus, Justinianus, Basiliken.
 
 ## 8. `rom-neu-013-basiliken-prochiron-epanagoge-und-spaetere-rezeption`
 
-**Frühere Beschreibung:** Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Basiliken Prochiron Epanagoge und spätere Rezeption mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 013 Basiliken Prochiron Epanagoge Und Spaetere Rezeption
 

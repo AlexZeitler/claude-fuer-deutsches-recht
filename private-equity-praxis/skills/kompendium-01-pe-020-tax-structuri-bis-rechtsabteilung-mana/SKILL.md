@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-pe-020-tax-structuri-bis-rechtsabteilung-mana
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (pe-020-tax-structuring-pe-deutschland, pe-068-tax-audit-post-closing, pe-090-debt-equity-swap-pe, rechtsabteilung-management-participation-sweet-equity) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 020 Tax Structuring Pe Deutschland, Pe 068 Tax Audit Post Closing, Pe 090 Debt Equity Swap Pe, Management Participation Sweet Equity; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - private-equity-praxis
+# Arbeitsbereich - Pe 020 Tax Structuring Pe Deutschland bis Management Participation Sweet Equity
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-020-tax-structuring-pe-deutschland` | Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit. |
 | `pe-068-tax-audit-post-closing` | Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-020-tax-structuring-pe-deutschland`
 
-**Frühere Beschreibung:** Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit.
+**Fokus:** Ordnet steuerliche Strukturthemen für Fonds, BidCo, Erwerbsfinanzierung, Zinsschranke, GrESt, Management und Exit.
 
 # Tax Structuring: Deutschland-Fokus
 
@@ -128,7 +128,7 @@ Tax Indemnity (Auszug):
 
 ## 2. `pe-068-tax-audit-post-closing`
 
-**Frühere Beschreibung:** Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess.
+**Fokus:** Prüft Betriebsprüfung, Steuerfreistellung, Escrow, Limitation, Cooperation Covenant und Claims-Prozess.
 
 # Tax Audit und Post-Closing Tax Claims
 
@@ -169,7 +169,7 @@ AO, KStG/GewStG/UStG, SPA Tax Covenant, Verjährung, Mitwirkungspflichten.
 
 ## 3. `pe-090-debt-equity-swap-pe`
 
-**Frühere Beschreibung:** Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance.
+**Fokus:** Prüft Forderungsumwandlung in Eigenkapital, Bewertung, Rang, Planverfahren, Steuer und Governance.
 
 # Debt-Equity-Swap
 
@@ -210,7 +210,7 @@ InsO/StaRUG, GmbHG/AktG, Steuer, BGB Abtretung, Gläubigerrechte.
 
 ## 4. `rechtsabteilung-management-participation-sweet-equity`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Management Participation Sweet Equity: Sweet Equity wird steuerlich, arbeitsrechtlich und vesting-seitig in eine Risikoampel übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Management Participation Sweet Equity
 

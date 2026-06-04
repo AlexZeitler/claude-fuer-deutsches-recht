@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-stb-bwa-aufbau-grund-bis-stb-jahresabschluss
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 10; bündelt 9 frühere Spezialskills (stb-bwa-aufbau-grundlagen, stb-bwa-mandantengespraech-uebergabe, stb-bwa-monatsabschluss-routine, stb-bwa-soll-ist-vergleich, stb-drv-sozialversicherungspruefung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Bwa Aufbau Grundlagen, Stb Bwa Mandantengespraech Uebergabe, Stb Bwa Monatsabschluss Routine, Stb Bwa Soll Ist Vergleich und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Bwa Aufbau Grundlagen bis Stb Jahresabschluss Rueckstellungen Bewertung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-bwa-aufbau-grundlagen` | Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant. |
 | `stb-bwa-mandantengespraech-uebergabe` | BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-bwa-aufbau-grundlagen`
 
-**Frühere Beschreibung:** Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant.
+**Fokus:** Aufbau der Standard-BWA für Steuerberater erlaeutern und konfigurieren. Anwendungsfall monatliche oder quartalsweise BWA-Erstellung für GmbH oder Personenunternehmen mit SKR 03 oder SKR 04. Struktur Umsatzerlöse Material Personal sonstige betriebliche Aufwendungen Abschreibungen Zinsergebnis Steuern. Output strukturierter BWA-Bericht mit Erlaeuterung der einzelnen Positionen Querverweis stb-bwa-kontenrahmen-skr03-skr04 und stb-bwa-erlaeuterungstext-mandant.
 
 # Aufbau der Standard-BWA — Grundlagen fuer Steuerberater
 
@@ -171,7 +171,7 @@ Stand: 05/2026.
 
 ## 2. `stb-bwa-mandantengespraech-uebergabe`
 
-**Frühere Beschreibung:** BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste.
+**Fokus:** BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste.
 
 # BWA-Uebergabegespraech mit dem Mandanten
 
@@ -328,7 +328,7 @@ Stand: 05/2026.
 
 ## 3. `stb-bwa-monatsabschluss-routine`
 
-**Frühere Beschreibung:** Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus.
+**Fokus:** Routine für den Monatsabschluss in der Steuerberater-Kanzlei. Anwendungsfall monatliche BWA-Erstellung in einem standardisierten 30-Tage-Zyklus mit Belegabgabe Buchung Abstimmung BWA-Versand. Schritte Belegannahme Buchung GoBD-konform OPOS-Pflege Lohnbuchung-Integration Bestand-Schaetzung Periodenabgrenzung Auswertung. Output Monatsendreport Termincontrolling Querverweis stb-routine-monatsabschluss-30-tage-zyklus.
 
 # Monatsabschluss-Routine fuer den Steuerberater
 
@@ -468,7 +468,7 @@ Stand: 05/2026.
 
 ## 4. `stb-bwa-soll-ist-vergleich`
 
-**Frühere Beschreibung:** Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-mandantenreport-monatlich.
+**Fokus:** Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-mandantenreport-monatlich.
 
 # Soll-Ist-Vergleich in der BWA
 
@@ -605,7 +605,7 @@ Stand: 05/2026.
 
 ## 5. `stb-drv-sozialversicherungspruefung`
 
-**Frühere Beschreibung:** Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenprüfung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgeführte-steuern GF-Haftung Steuer.
+**Fokus:** Steuerberater-Begleitung der DRV-Sozialversicherungsprüfung nach § 28p SGB IV. Anwendungsfall Mandant-GmbH erhaelt DRV-Prüfankündigung oder Prüfung laeuft bereits. Prüfungsschwerpunkte Statusfeststellung GF Scheinselbstständigkeit Mini- und Midijobs Phantomlohn Mindestlohn BAGB. Strafbarkeit § 266a StGB vorenthaltene Arbeitnehmer-Beitraege Haftungsrisiko GF § 69 AO Lohnsteuer-Aussenprüfung Verknuepfung. Output Mitwirkungsdokumentation Anhoerungsschreiben Widerspruchsvorlage. Abgrenzung zu anw-gf-haftung-69-ao-nicht-abgeführte-steuern GF-Haftung Steuer.
 
 # DRV-Sozialversicherungsprüfung — Steuerberater-Begleitung
 
@@ -759,7 +759,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 6. `stb-jahresabschluss-abgrenzungen-rap-rai`
 
-**Frühere Beschreibung:** Rechnungsabgrenzungsposten RAP aktiv und passiv. Anwendungsfall Jahresabschluss-Buchung Versicherung Miete Kfz-Steuer Vorauszahlungen periodengerechte Zuordnung. Methodik Identifikation Berechnung Buchung. Output Periodengerechte JA-Bestaende.
+**Fokus:** Rechnungsabgrenzungsposten RAP aktiv und passiv. Anwendungsfall Jahresabschluss-Buchung Versicherung Miete Kfz-Steuer Vorauszahlungen periodengerechte Zuordnung. Methodik Identifikation Berechnung Buchung. Output Periodengerechte JA-Bestaende.
 
 # Rechnungsabgrenzungsposten (RAP) aktiv und passiv
 
@@ -886,7 +886,7 @@ Stand: 05/2026.
 
 ## 7. `stb-jahresabschluss-elektronische-uebermittlung-ebilanz`
 
-**Frühere Beschreibung:** E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bilanzierer Pflicht zur elektronischen Übermittlung der Steuerbilanz an FA Taxonomie-Standard. Methodik DATEV-E-Bilanz Modul. Output E-Bilanz uebermittelt.
+**Fokus:** E-Bilanz § 5b EStG elektronische Übermittlung. Anwendungsfall Bilanzierer Pflicht zur elektronischen Übermittlung der Steuerbilanz an FA Taxonomie-Standard. Methodik DATEV-E-Bilanz Modul. Output E-Bilanz uebermittelt.
 
 # E-Bilanz — § 5b EStG elektronische Uebermittlung
 
@@ -1011,7 +1011,7 @@ Stand: 05/2026.
 
 ## 8. `stb-jahresabschluss-handels-vs-steuerbilanz`
 
-**Frühere Beschreibung:** Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Prüfung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Überleitungsrechnung.
+**Fokus:** Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Prüfung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Überleitungsrechnung.
 
 # Handelsbilanz vs. Steuerbilanz — Massgeblichkeit § 5 EStG
 
@@ -1157,7 +1157,7 @@ Stand: 05/2026.
 
 ## 9. `stb-jahresabschluss-rueckstellungen-bewertung`
 
-**Frühere Beschreibung:** Rückstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschluss Bildung Rückstellungen Garantie drohende Verluste Tantieme Urlaub Steuern Prozesskosten. Methodik Prüfung Anlass Quantifizierung Auflösung. Output Rückstellungs-Aufstellung.
+**Fokus:** Rückstellungen Bewertung § 249 HGB. Anwendungsfall Jahresabschluss Bildung Rückstellungen Garantie drohende Verluste Tantieme Urlaub Steuern Prozesskosten. Methodik Prüfung Anlass Quantifizierung Auflösung. Output Rückstellungs-Aufstellung.
 
 # Rueckstellungen — Bildung und Bewertung § 249 HGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-inso-p139-berechnung-bis-inso-p356-sekundarin
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 21 frühere Spezialskills (inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag, inso-p147-rechtshandlungen-nach-verfahrenseroffnung, inso-p157-entscheidung-uber-den-fortgang-des-verfahrens, inso-p200-aufhebung-des-insolvenzverfahrens, inso-p201-rechte-der-insolvenzglaubiger-nach-verfahrensaufhebung und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P139 Berechnung Der Fristen Vor Dem Eroffnungsantrag, Inso P147 Rechtshandlungen Nach Verfahrenseroffnung, Inso P157 Entscheidung Uber Den Fortgang Des Verfahrens, Inso P200 Aufhebung Des Insolvenzverfahrens und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P139 Berechnung Der Fristen Vor Dem Eroffnungsantrag bis Inso P356 Sekundarinsolvenzverfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag` | § 139 InsO (Berechnung der Fristen vor dem Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p147-rechtshandlungen-nach-verfahrenseroffnung` | § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p139-berechnung-der-fristen-vor-dem-eroffnungsantrag`
 
-**Frühere Beschreibung:** § 139 InsO (Berechnung der Fristen vor dem Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 139 InsO (Berechnung der Fristen vor dem Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 139 InsO — Berechnung der Fristen vor dem Eröffnungsantrag
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p147-rechtshandlungen-nach-verfahrenseroffnung`
 
-**Frühere Beschreibung:** § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 147 InsO (Rechtshandlungen nach Verfahrenseröffnung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 147 InsO — Rechtshandlungen nach Verfahrenseröffnung
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p157-entscheidung-uber-den-fortgang-des-verfahrens`
 
-**Frühere Beschreibung:** § 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 157 InsO (Entscheidung über den Fortgang des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 157 InsO — Entscheidung über den Fortgang des Verfahrens
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p200-aufhebung-des-insolvenzverfahrens`
 
-**Frühere Beschreibung:** § 200 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 200 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 200 InsO — Aufhebung des Insolvenzverfahrens
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p201-rechte-der-insolvenzglaubiger-nach-verfahrensaufhebung`
 
-**Frühere Beschreibung:** § 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 201 InsO (Rechte der Insolvenzgläubiger nach Verfahrensaufhebung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 201 InsO — Rechte der Insolvenzgläubiger nach Verfahrensaufhebung
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p214-verfahren-bei-der-einstellung`
 
-**Frühere Beschreibung:** § 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 214 InsO (Verfahren bei der Einstellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 214 InsO — Verfahren bei der Einstellung
 
@@ -376,7 +376,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p250-verstoss-gegen-verfahrensvorschriften`
 
-**Frühere Beschreibung:** § 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 250 InsO (Verstoß gegen Verfahrensvorschriften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 250 InsO — Verstoß gegen Verfahrensvorschriften
 
@@ -431,7 +431,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p258-aufhebung-des-insolvenzverfahrens`
 
-**Frühere Beschreibung:** § 258 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 258 InsO (Aufhebung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 258 InsO — Aufhebung des Insolvenzverfahrens
 
@@ -486,7 +486,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p259b-besondere-verjahrungsfrist`
 
-**Frühere Beschreibung:** § 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 259b InsO (Besondere Verjährungsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 259b InsO — Besondere Verjährungsfrist
 
@@ -541,7 +541,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p269e-verfahrenskoordinator`
 
-**Frühere Beschreibung:** § 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269e InsO (Verfahrenskoordinator) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269e InsO — Verfahrenskoordinator
 
@@ -594,7 +594,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p269f-aufgaben-und-rechtsstellung-des-verfahrenskoordinator`
 
-**Frühere Beschreibung:** § 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269f InsO (Aufgaben und Rechtsstellung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269f InsO — Aufgaben und Rechtsstellung des Verfahrenskoordinators
 
@@ -647,7 +647,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p269g-vergutung-des-verfahrenskoordinators`
 
-**Frühere Beschreibung:** § 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 269g InsO (Vergütung des Verfahrenskoordinators) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 269g InsO — Vergütung des Verfahrenskoordinators
 
@@ -700,7 +700,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p270c-vorlaufiges-eigenverwaltungsverfahren`
 
-**Frühere Beschreibung:** § 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 270c InsO (Vorläufiges Eigenverwaltungsverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 270c InsO — Vorläufiges Eigenverwaltungsverfahren
 
@@ -754,7 +754,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p289-einstellung-des-insolvenzverfahrens`
 
-**Frühere Beschreibung:** § 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 289 InsO (Einstellung des Insolvenzverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 289 InsO — Einstellung des Insolvenzverfahrens
 
@@ -808,7 +808,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p300a-neuerwerb-im-laufenden-insolvenzverfahren`
 
-**Frühere Beschreibung:** § 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 300a InsO (Neuerwerb im laufenden Insolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 300a InsO — Neuerwerb im laufenden Insolvenzverfahren
 
@@ -862,7 +862,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p306-ruhen-des-verfahrens`
 
-**Frühere Beschreibung:** § 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 306 InsO (Ruhen des Verfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 306 InsO — Ruhen des Verfahrens
 
@@ -916,7 +916,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p311-aufnahme-des-verfahrens-uber-den-eroffnungsantrag`
 
-**Frühere Beschreibung:** § 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 311 InsO (Aufnahme des Verfahrens über den Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 311 InsO — Aufnahme des Verfahrens über den Eröffnungsantrag
 
@@ -971,7 +971,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p319-antragsfrist`
 
-**Frühere Beschreibung:** § 319 InsO (Antragsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 319 InsO (Antragsfrist) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 319 InsO — Antragsfrist
 
@@ -1026,7 +1026,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p332-verweisung-auf-das-nachlassinsolvenzverfahren`
 
-**Frühere Beschreibung:** § 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 332 InsO (Verweisung auf das Nachlaßinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 332 InsO — Verweisung auf das Nachlaßinsolvenzverfahren
 
@@ -1079,7 +1079,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p354-voraussetzungen-des-partikularverfahrens`
 
-**Frühere Beschreibung:** § 354 InsO (Voraussetzungen des Partikularverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 354 InsO (Voraussetzungen des Partikularverfahrens) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 354 InsO — Voraussetzungen des Partikularverfahrens
 
@@ -1134,7 +1134,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p356-sekundarinsolvenzverfahren`
 
-**Frühere Beschreibung:** § 356 InsO (Sekundärinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 356 InsO (Sekundärinsolvenzverfahren) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 356 InsO — Sekundärinsolvenzverfahren
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-internationales-priv-bis-kostenentscheidung-b
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (internationales-privatrecht, kollidierende-agb-pruefen, kostenentscheidung-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationales Privatrecht, Kollidierende Agb Pruefen, Kostenentscheidung Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Internationales Privatrecht, Kollidierende Agb Pruefen, Kostenentscheidung Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `internationales-privatrecht` | Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen. |
 | `kollidierende-agb-pruefen` | Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Prüfraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Lösungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-prüfen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `internationales-privatrecht`
 
-**Frühere Beschreibung:** Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen.
+**Fokus:** Anwendbares Recht bei grenzüberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Prüfung. Normen: Rom-I-VO (vertragliche Schuldverhältnisse), Rom-II-VO (außervertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Prüfraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhältnis zu CISG. Output IPR-Prüfschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-prüfen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zuständigkeit siehe zulässigkeit-prüfen.
 
 # Internationales Privatrecht
 
@@ -115,7 +115,7 @@ DSGVO Artikel 3 (raeumlicher Anwendungsbereich) ist Eingriffsnorm. Das deutsche 
 
 ## 2. `kollidierende-agb-pruefen`
 
-**Frühere Beschreibung:** Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Prüfraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Lösungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-prüfen.
+**Fokus:** Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Prüfraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Lösungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-prüfen.
 
 # Kollidierende AGB
 
@@ -226,7 +226,7 @@ Im Tatbestand: Inhalt der streitigen AGB-Klauseln knapp zitieren, Verweis auf di
 
 ## 3. `kostenentscheidung-bauen`
 
-**Frühere Beschreibung:** Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollständiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Prüfraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil.
+**Fokus:** Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollständiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Prüfraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil.
 
 # Kostenentscheidung
 

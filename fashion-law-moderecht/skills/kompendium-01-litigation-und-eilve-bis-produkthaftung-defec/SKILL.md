@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-litigation-und-eilve-bis-produkthaftung-defec
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (litigation-und-eilverfahren-fashion, produkthaftung-defective-garment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - fashion-law-moderecht
+# Arbeitsbereich - Litigation Und Eilverfahren Fashion, Produkthaftung Defective Garment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `litigation-und-eilverfahren-fashion` | Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich. |
 | `produkthaftung-defective-garment` | Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `litigation-und-eilverfahren-fashion`
 
-**Frühere Beschreibung:** Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich.
+**Fokus:** Litigation und Eilverfahren im Fashion-Bereich: Dringlichkeit, Saisonware, Messe, Plattformlisting, Designvergleich, Glaubhaftmachung und Vergleich.
 
 # Litigation Und Eilverfahren Fashion
 
@@ -59,7 +59,7 @@ Litigation-Plan.
 
 ## 2. `produkthaftung-defective-garment`
 
-**Frühere Beschreibung:** Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung.
+**Fokus:** Produkthaftung und Haftung für mangelhafte Modeartikel prüfen: Verletzungsrisiken, Kinderkleidung, Accessoires, Warnhinweise, Rückruf und Versicherung.
 
 # Produkt Haftung Defective Garment
 

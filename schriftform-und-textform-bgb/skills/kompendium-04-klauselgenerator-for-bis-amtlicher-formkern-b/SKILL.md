@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-klauselgenerator-for-bis-amtlicher-formkern-b
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (klauselgenerator-formvorbehalt-und-aenderungsvorbehalt, maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25, amtlicher-formkern-bgb-zpo-check) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656a Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo Check; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - schriftform-und-textform-bgb
+# Arbeitsbereich - Klauselgenerator Formvorbehalt Und Aenderungsvorbehalt, Maklervertrag Paragraph 656a Bgb Textform Bgh I Zr 202 25, Amtlicher Formkern Bgb Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt`
 
-**Frühere Beschreibung:** Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu klauselgenerator formvorbehalt und aenderungsvorbehalt. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt
 
@@ -178,7 +178,7 @@ benennen.
 
 ## 2. `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25`
 
-**Frühere Beschreibung:** Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren.
+**Fokus:** Workflow-Skill zu Maklervertrag, § 656a BGB und Textform. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; behauptete Rechtsprechung zu I ZR 202/25 nie ohne Live-Pruefung zitieren.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 
@@ -402,7 +402,7 @@ abschliessen lassen.
 
 ## 3. `amtlicher-formkern-bgb-zpo-check`
 
-**Frühere Beschreibung:** Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, § 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente.
+**Fokus:** Amtlicher Formkern-Check für BGB und ZPO: trennt Schriftform, Textform, elektronische Form, qES, beA/EGVP, § 130e ZPO, Zustellung, Zugang und Beweiskraft elektronischer Dokumente.
 
 # Amtlicher Formkern BGB/ZPO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-laienhilfe-kita-inte-bis-laienhilfe-krankenge
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (laienhilfe-kita-integration, laienhilfe-klage-sozialgericht-einfach, laienhilfe-konto-pfaendung-sozialleistungen, laienhilfe-krankengeld-ablauf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laienhilfe Kita Integration, Laienhilfe Klage Sozialgericht Einfach, Laienhilfe Konto Pfaendung Sozialleistungen, Laienhilfe Krankengeld Ablauf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-sozialrecht
+# Arbeitsbereich - Laienhilfe Kita Integration bis Laienhilfe Krankengeld Ablauf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `laienhilfe-kita-integration` | Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-klage-sozialgericht-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `laienhilfe-kita-integration`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Kita Integration. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Kita Integration
 
@@ -100,7 +100,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-klage-sozialgericht-einfach`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Klage Sozialgericht Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Klage Sozialgericht Einfach
 
@@ -181,7 +181,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-konto-pfaendung-sozialleistungen`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Konto Pfaendung Sozialleistungen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Konto Pfaendung Sozialleistungen
 
@@ -252,7 +252,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-krankengeld-ablauf`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Krankengeld Ablauf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Krankengeld Ablauf
 

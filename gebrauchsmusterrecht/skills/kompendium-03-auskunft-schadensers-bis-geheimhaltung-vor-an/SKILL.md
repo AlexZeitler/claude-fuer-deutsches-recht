@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-auskunft-schadensers-bis-geheimhaltung-vor-an
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (auskunft-schadensersatz-und-rechnungslegung, geheimhaltung-vor-anmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Auskunft Schadensersatz Und Rechnungslegung, Geheimhaltung Vor Anmeldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - gebrauchsmusterrecht
+# Arbeitsbereich - Auskunft Schadensersatz Und Rechnungslegung, Geheimhaltung Vor Anmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `auskunft-schadensersatz-und-rechnungslegung` | Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang. |
 | `geheimhaltung-vor-anmeldung` | Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `auskunft-schadensersatz-und-rechnungslegung`
 
-**Frühere Beschreibung:** Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang.
+**Fokus:** Auskunft, Schadensersatz und Rechnungslegung nach Gebrauchsmusterverletzung prüfen: Verletzergewinn, Lizenzanalogie, konkreter Schaden und Datenumfang.
 
 # Auskunft Schadensersatz Und Rechnungslegung
 
@@ -59,7 +59,7 @@ Anspruchsmatrix.
 
 ## 2. `geheimhaltung-vor-anmeldung`
 
-**Frühere Beschreibung:** Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo.
+**Fokus:** Geheimhaltung vor Anmeldung steuern: NDA, interne Freigabe, Pitchdeck, Förderantrag, Lieferant, Messe und Open-Source-Repo.
 
 # Geheimhaltung Vor Anmeldung
 

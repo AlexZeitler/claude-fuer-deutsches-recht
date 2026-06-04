@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-handelsvertreterausg-bis-handlungsgehilfen-un
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (handelsvertreterausgleich-paragraph-89b, handlungsgehilfen-und-wettbewerbsverbot) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - handelsrecht-hgb
+# Arbeitsbereich - Handelsvertreterausgleich Paragraph 89b, Handlungsgehilfen Und Wettbewerbsverbot
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsvertreterausgleich-paragraph-89b` | Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse. |
 | `handlungsgehilfen-und-wettbewerbsverbot` | Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsvertreterausgleich-paragraph-89b`
 
-**Frühere Beschreibung:** Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse.
+**Fokus:** Prüft Ausgleichsanspruch, Unternehmervorteile, Billigkeit, Höchstgrenze und Ausschlüsse.
 
 # Handelsvertreterausgleich § 89b HGB
 
@@ -79,7 +79,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `handlungsgehilfen-und-wettbewerbsverbot`
 
-**Frühere Beschreibung:** Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen.
+**Fokus:** Prüft Handlungsgehilfe, Wettbewerbsverbot, Karenz und arbeitsrechtliche Schnittstellen.
 
 # Handlungsgehilfen und Wettbewerbsverbot
 

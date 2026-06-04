@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ki-governance-rollen-bis-ki-incident-manageme
-description: "ki-governance: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ki-governance-rollen-rasci, ki-hochrisiko-anhang-iii-pruefen, ki-incident-management-art-73) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Pruefen, Ki Incident Management Art 73; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - ki-governance
+# Arbeitsbereich - Ki Governance Rollen Rasci, Ki Hochrisiko Anhang Iii Pruefen, Ki Incident Management Art 73
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-governance-rollen-rasci` | Rollen-Modell RASCI fuer KI-Governance: KI-Beauftragte, IT-Sicherheit, Datenschutzbeauftragte, Compliance, Fachbereiche, Geschaeftsfuehrung, Betriebsrat. Pro Rolle: Responsibility, Accountability, Support, Consulted, Informed. Vorlage fuer Konzern und KMU. |
 | `ki-hochrisiko-anhang-iii-pruefen` | Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt fuer Schritt mit Belegen aus dem konkreten Einsatzfall. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-governance-rollen-rasci`
 
-**Frühere Beschreibung:** Rollen-Modell RASCI fuer KI-Governance: KI-Beauftragte, IT-Sicherheit, Datenschutzbeauftragte, Compliance, Fachbereiche, Geschaeftsfuehrung, Betriebsrat. Pro Rolle: Responsibility, Accountability, Support, Consulted, Informed. Vorlage fuer Konzern und KMU.
+**Fokus:** Rollen-Modell RASCI fuer KI-Governance: KI-Beauftragte, IT-Sicherheit, Datenschutzbeauftragte, Compliance, Fachbereiche, Geschaeftsfuehrung, Betriebsrat. Pro Rolle: Responsibility, Accountability, Support, Consulted, Informed. Vorlage fuer Konzern und KMU.
 
 # KI-Governance Rollen-Modell
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 2. `ki-hochrisiko-anhang-iii-pruefen`
 
-**Frühere Beschreibung:** Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt fuer Schritt mit Belegen aus dem konkreten Einsatzfall.
+**Fokus:** Hochrisiko-KI nach Anhang III KI-VO pruefen: Biometrie, kritische Infrastruktur, Bildung, Beschaeftigung, Zugang zu Diensten, Strafverfolgung, Migration, Justiz, demokratische Prozesse. Pruefraster Schritt fuer Schritt mit Belegen aus dem konkreten Einsatzfall.
 
 # Hochrisiko-KI Anhang III
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 3. `ki-incident-management-art-73`
 
-**Frühere Beschreibung:** Incident-Management nach Art. 73 KI-VO: ernsthafte Vorfaelle melden binnen 15 Tagen, bei Tod oder schwerer Gesundheit binnen 10 Tagen. Pflicht zur Ursachenanalyse, Korrekturmassnahmen. Datenbank der Marktueberwachungsbehoerden. Playbook und Mustermeldung.
+**Fokus:** Incident-Management nach Art. 73 KI-VO: ernsthafte Vorfaelle melden binnen 15 Tagen, bei Tod oder schwerer Gesundheit binnen 10 Tagen. Pflicht zur Ursachenanalyse, Korrekturmassnahmen. Datenbank der Marktueberwachungsbehoerden. Playbook und Mustermeldung.
 
 # KI Incident-Management
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-jus-referendariat-st-bis-jus-studienplan-baul
-description: "jurastudium: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (jus-referendariat-stationen-spezial, jus-staatsexamen-vorbereitung-spezial, jus-studienplan-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - jurastudium
+# Arbeitsbereich - Jus Referendariat Stationen Spezial, Jus Staatsexamen Vorbereitung Spezial, Jus Studienplan Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `jus-referendariat-stationen-spezial` | Spezialfall Referendariatsstationen Strafrecht / Zivilrecht / Verwaltung / Anwalt / Wahl: Aufgaben, Beurteilung, Aktenvortrag. Pruefraster fuer Referendar. |
 | `jus-staatsexamen-vorbereitung-spezial` | Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Pruefraster fuer Examenskandidaten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `jus-referendariat-stationen-spezial`
 
-**Frühere Beschreibung:** Spezialfall Referendariatsstationen Strafrecht / Zivilrecht / Verwaltung / Anwalt / Wahl: Aufgaben, Beurteilung, Aktenvortrag. Pruefraster fuer Referendar.
+**Fokus:** Spezialfall Referendariatsstationen Strafrecht / Zivilrecht / Verwaltung / Anwalt / Wahl: Aufgaben, Beurteilung, Aktenvortrag. Pruefraster fuer Referendar.
 
 # JuS: Referendariat-Stationen
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `jurastudium`. Er ergaenzt die uebrigen Skills d
 
 ## 2. `jus-staatsexamen-vorbereitung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Pruefraster fuer Examenskandidaten.
+**Fokus:** Spezialfall Staatsexamensvorbereitung: Lernplan zwoelf Monate, Karteikartensystem, Probeklausuren, gesundheitliche Aspekte. Pruefraster fuer Examenskandidaten.
 
 # JuS: Staatsexamen-Vorbereitung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `jurastudium`. Er ergaenzt die uebrigen Skills d
 
 ## 3. `jus-studienplan-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster fuer typische Pruefungsordnungen.
+**Fokus:** Bauleiter Studienplan Jura: Pflichtfaecher, Schwerpunktbereich, Examensvorbereitung, Auslandssemester. Pruefraster fuer typische Pruefungsordnungen.
 
 # JuS: Studienplan Bauleiter
 

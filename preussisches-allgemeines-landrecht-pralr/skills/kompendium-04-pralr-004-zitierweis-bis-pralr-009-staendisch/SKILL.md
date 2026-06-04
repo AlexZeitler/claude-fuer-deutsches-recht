@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-pralr-004-zitierweis-bis-pralr-009-staendisch
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (pralr-004-zitierweise-und-fundstellen, pralr-005-historische-anwendung-vs-heutiges-recht, pralr-006-systematik-einleitung-teile-titel, pralr-008-naturrecht-und-aufklaerung, pralr-009-staendische-ordnung-und-gutsuntertaenigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 004 Zitierweise Und Fundstellen, Pralr 005 Historische Anwendung Vs Heutiges Recht, Pralr 006 Systematik Einleitung Teile Titel, Pralr 008 Naturrecht Und Aufklaerung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 004 Zitierweise Und Fundstellen bis Pralr 009 Staendische Ordnung Und Gutsuntertaenigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-004-zitierweise-und-fundstellen` | PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen. |
 | `pralr-005-historische-anwendung-vs-heutiges-recht` | PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-004-zitierweise-und-fundstellen`
 
-**Frühere Beschreibung:** PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen.
+**Fokus:** PrALR: Zitierweise nach Teil, Titel, Paragraph, Einleitung und historischer Ausgabe sauber aufbauen.
 
 # Zitierweise
 
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-005-historische-anwendung-vs-heutiges-recht`
 
-**Frühere Beschreibung:** PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen.
+**Fokus:** PrALR: historische Anwendung, heutige Fortwirkung und bloße Argumentationsgeschichte strikt trennen.
 
 # Historisch oder heute?
 
@@ -104,7 +104,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 3. `pralr-006-systematik-einleitung-teile-titel`
 
-**Frühere Beschreibung:** PrALR: Systematik von Einleitung, Erstem und Zweitem Teil, Titeln, Ständelogik und Kodifikationsarchitektur.
+**Fokus:** PrALR: Systematik von Einleitung, Erstem und Zweitem Teil, Titeln, Ständelogik und Kodifikationsarchitektur.
 
 # Systematik
 
@@ -141,7 +141,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-008-naturrecht-und-aufklaerung`
 
-**Frühere Beschreibung:** PrALR: vernunftrechtliche und aufklärerische Elemente neben ständischer Ordnung und monarchischer Herrschaft einordnen.
+**Fokus:** PrALR: vernunftrechtliche und aufklärerische Elemente neben ständischer Ordnung und monarchischer Herrschaft einordnen.
 
 # Naturrecht und Aufklärung
 
@@ -178,7 +178,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 5. `pralr-009-staendische-ordnung-und-gutsuntertaenigkeit`
 
-**Frühere Beschreibung:** PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen.
+**Fokus:** PrALR: ständische Ordnung, Adel, Bauern, Gutsuntertänigkeit, Zunft- und Statuslogik quellenkritisch prüfen.
 
 # Ständische Ordnung
 

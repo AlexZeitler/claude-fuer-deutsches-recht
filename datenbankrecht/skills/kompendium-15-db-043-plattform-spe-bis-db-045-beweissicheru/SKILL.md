@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-db-043-plattform-spe-bis-db-045-beweissicheru
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (db-043-plattform-sperre-wegen-data-extraction, db-044-datenbankherstellerrecht-gegen-ex-mitarbeiter, db-045-beweissicherung-durch-testcrawler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - datenbankrecht
+# Arbeitsbereich - Db 043 Plattform Sperre Wegen Data Extraction, Db 044 Datenbankherstellerrecht Gegen Ex Mitarbeiter, Db 045 Beweissicherung Durch Testcrawler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-043-plattform-sperre-wegen-data-extraction` | Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag. |
 | `db-044-datenbankherstellerrecht-gegen-ex-mitarbeiter` | Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-043-plattform-sperre-wegen-data-extraction`
 
-**Frühere Beschreibung:** Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag.
+**Fokus:** Rechtliche Bewertung von Plattformsperren wegen Data Extraction: Berechtigung zur IP-Sperre und Account-Kündigung bei Datenbankrechts-Verletzungen (§§ 87a-87e UrhG), AGB-Grundlage, Kartellrechtliche Grenzen bei marktbeherrschenden Plattformen (Art. 102 AEUV) und Abwehr gegen unberechtigte Sperren. Erstellt Sperre-Dokumentation und Wiederherstellungsantrag.
 
 # Plattformsperre wegen Data Extraction — Berechtigung und Rechtsschutz
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-044-datenbankherstellerrecht-gegen-ex-mitarbeiter`
 
-**Frühere Beschreibung:** Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss.
+**Fokus:** Datenbankherstellerrecht und arbeitsrechtliche Ansprüche gegen ausscheidende Mitarbeiter: § 87b UrhG bei Datenexport, GeschGehG § 4 bei Geheimnisverrat, nachvertragliches Wettbewerbsverbot (§ 74 HGB), Herausgabe- und Unterlassungsansprüche sowie Kündigung und Schadensersatz. Erstellt Präventionsplan und Sofortmaßnahmen-Checkliste bei vermutetem Datenabfluss.
 
 # Datenbankherstellerrecht gegen Ex-Mitarbeiter — Datenexport und Wettbewerbsverbot
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-045-beweissicherung-durch-testcrawler`
 
-**Frühere Beschreibung:** Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode.
+**Fokus:** Rechtssichere Beweissicherung durch Testcrawler bei Datenbankrechts-Verletzungen: Aufbau und Betrieb eines eigenen Testcrawlers zur Verletzungsdokumentation, Verwertbarkeit der Ergebnisse als Beweismittel, notarielle Begleitung und Verhältnis zu § 202a StGB und DSGVO. Erstellt Testcrawler-Protokoll und rechtliche Bewertung der Zulässigkeit dieser Beweismethode.
 
 # Beweissicherung durch Testcrawler — Zulässigkeit und Verwertbarkeit
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-str-034-bundesstrass-bis-str-037-bundesstrass
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (str-034-bundesstrasse-sondernutzung-formuliere, str-035-bundesstrasse-einwendung-bauen, str-036-bundesstrasse-eilantrag-skizzieren, str-037-bundesstrasse-kostenlast-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 034 Bundesstrasse Sondernutzung Formuliere, Str 035 Bundesstrasse Einwendung Bauen, Str 036 Bundesstrasse Eilantrag Skizzieren, Str 037 Bundesstrasse Kostenlast Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 034 Bundesstrasse Sondernutzung Formuliere bis Str 037 Bundesstrasse Kostenlast Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-034-bundesstrasse-sondernutzung-formuliere` | Straßenrecht und Infrastruktur: Bundesstraße: Sondernutzung formulieren. Sondernutzung formulieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-035-bundesstrasse-einwendung-bauen` | Straßenrecht und Infrastruktur: Bundesstraße: Einwendung bauen. Einwendung bauen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-034-bundesstrasse-sondernutzung-formuliere`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Sondernutzung formulieren. Sondernutzung formulieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Sondernutzung formulieren. Sondernutzung formulieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Sondernutzung Formuliere
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-035-bundesstrasse-einwendung-bauen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Einwendung bauen. Einwendung bauen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Einwendung bauen. Einwendung bauen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Einwendung Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-036-bundesstrasse-eilantrag-skizzieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Eilantrag skizzieren. Eilantrag skizzieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Eilantrag skizzieren. Eilantrag skizzieren für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Eilantrag Skizzieren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-037-bundesstrasse-kostenlast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Bundesstraße: Kostenlast prüfen. Kostenlast prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Bundesstraße: Kostenlast prüfen. Kostenlast prüfen für Bundesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bundesstrasse Kostenlast Pruefen
 

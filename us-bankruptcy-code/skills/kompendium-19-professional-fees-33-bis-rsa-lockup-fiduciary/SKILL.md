@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-professional-fees-33-bis-rsa-lockup-fiduciary
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (professional-fees-330, professionals-retention-327, real-property-leases-365, rsa-lockup-fiduciary-out) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Professional Fees 330, Professionals Retention 327, Real Property Leases 365, Rsa Lockup Fiduciary Out; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - us-bankruptcy-code
+# Arbeitsbereich - Professional Fees 330 bis Rsa Lockup Fiduciary Out
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `professional-fees-330` | Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures. |
 | `professionals-retention-327` | Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `professional-fees-330`
 
-**Frühere Beschreibung:** Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures.
+**Fokus:** Prueft fee applications, reasonableness, lodestar, expense reimbursement, interim/final fee procedures.
 
 # Professional Fees § 330
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `professionals-retention-327`
 
-**Frühere Beschreibung:** Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts.
+**Fokus:** Prueft retention of attorneys, financial advisors, investment bankers, disinterestedness and conflicts.
 
 # Professionals Retention § 327
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `real-property-leases-365`
 
-**Frühere Beschreibung:** Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender.
+**Fokus:** Prueft commercial leases, assumption/rejection deadlines, cure, shopping-center rules, landlord claims and surrender.
 
 # Real Property Leases § 365
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `rsa-lockup-fiduciary-out`
 
-**Frühere Beschreibung:** Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility.
+**Fokus:** Vertieft lock-up clauses, support obligations, board duties, superior proposal and plan-change flexibility.
 
 # Lock-Up and Fiduciary Out
 

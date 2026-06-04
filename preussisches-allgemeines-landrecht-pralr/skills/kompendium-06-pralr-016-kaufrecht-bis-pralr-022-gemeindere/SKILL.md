@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-pralr-016-kaufrecht-bis-pralr-022-gemeindere
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (pralr-016-kaufrecht-miete-gefahrtragung, pralr-019-polizeirecht-und-wohlfahrtsstaat, pralr-020-staatsrecht-monarchie-und-selbstbindung, pralr-021-kirchenrecht-und-schule, pralr-022-gemeinderecht-und-kommunale-ordnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 016 Kaufrecht Miete Gefahrtragung, Pralr 019 Polizeirecht Und Wohlfahrtsstaat, Pralr 020 Staatsrecht Monarchie Und Selbstbindung, Pralr 021 Kirchenrecht Und Schule und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 016 Kaufrecht Miete Gefahrtragung bis Pralr 022 Gemeinderecht Und Kommunale Ordnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-016-kaufrecht-miete-gefahrtragung` | PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten. |
 | `pralr-019-polizeirecht-und-wohlfahrtsstaat` | PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-016-kaufrecht-miete-gefahrtragung`
 
-**Frühere Beschreibung:** PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten.
+**Fokus:** PrALR: Kauf, Miete, Gefahrtragung, Kauf bricht Miete und historische Modernisierungslinien aufarbeiten.
 
 # Kauf und Miete
 
@@ -91,7 +91,7 @@ ALR-Loesung: ALR I 21 — anders als roemisches Recht ("emptio tollit locatum") 
 
 ## 2. `pralr-019-polizeirecht-und-wohlfahrtsstaat`
 
-**Frühere Beschreibung:** PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen.
+**Fokus:** PrALR: Polizeirecht, Wohlfahrt, Gefahrenabwehr, Staatszweck und Verwaltungsmacht historisch einordnen.
 
 # Polizeirecht
 
@@ -147,7 +147,7 @@ ALR-Loesung: ALR II 17 — Gefahrenabwehr; rechtmaessig; aber Aufopferungsanspru
 
 ## 3. `pralr-020-staatsrecht-monarchie-und-selbstbindung`
 
-**Frühere Beschreibung:** PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären.
+**Fokus:** PrALR: monarchische Selbstbindung, Machtspruchproblem, Staatsorganisation und Grenzen der Kodifikation erklären.
 
 # Staatsrecht
 
@@ -184,7 +184,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-021-kirchenrecht-und-schule`
 
-**Frühere Beschreibung:** PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Aufsicht im PrALR systematisch prüfen.
+**Fokus:** PrALR: Kirchenrecht, Schule, Religion, Gemeinde und staatliche Aufsicht im PrALR systematisch prüfen.
 
 # Kirche und Schule
 
@@ -243,7 +243,7 @@ ALR-Loesung: ALR II 12 — Schulpflicht; Sanktionen ueber Polizei. Heute durchge
 
 ## 5. `pralr-022-gemeinderecht-und-kommunale-ordnung`
 
-**Frühere Beschreibung:** PrALR: Gemeinderecht, lokale Ordnung, Städte, Dörfer und subsidiäre Rechtsquellen im preußischen Raum analysieren.
+**Fokus:** PrALR: Gemeinderecht, lokale Ordnung, Städte, Dörfer und subsidiäre Rechtsquellen im preußischen Raum analysieren.
 
 # Gemeinderecht
 

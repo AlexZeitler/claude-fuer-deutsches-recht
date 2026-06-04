@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-space-073-raumstatio-bis-space-076-konstellat
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim, space-074-orbit-slot-verwertung-sicherheiten-und-streit, space-075-satellitenabschaltung-deorbit-und-end-of-life-plan, space-076-konstellation-und-lichtverschmutzung-astronomie-einwen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim, Space 074 Orbit Slot Verwertung Sicherheiten Und Streit, Space 075 Satellitenabschaltung Deorbit Und End Of Life Plan, Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - weltraumrecht
+# Arbeitsbereich - Space 073 Raumstation Miet Und Nutzungsvertraege Module Rack Tim bis Space 076 Konstellation Und Lichtverschmutzung Astronomie Einwen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim` | Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren. |
 | `space-074-orbit-slot-verwertung-sicherheiten-und-streit` | Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-073-raumstation-miet-und-nutzungsvertraege-module-rack-tim`
 
-**Frühere Beschreibung:** Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren.
+**Fokus:** Nutzungsverträge für Raumstationsmodule – Jurisdiktion, Mietrecht, Nutzungsgebühren.
 
 # Weltraumrecht: Raumstation: Miet- und Nutzungsverträge, Module, Rack Time
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Raumstation Nutzungsvertrag, Modu
 
 ## 2. `space-074-orbit-slot-verwertung-sicherheiten-und-streit`
 
-**Frühere Beschreibung:** Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit.
+**Fokus:** Orbitpositionen als Vermögenswert – ITU-Prioritätsrecht, Verwertung, Kreditsicherheiten, ITU-Streit.
 
 # Weltraumrecht: Orbit-Slot: Verwertung, Sicherheiten und Streit
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Orbit Slot Verwertung, Frequenzpr
 
 ## 3. `space-075-satellitenabschaltung-deorbit-und-end-of-life-plan`
 
-**Frühere Beschreibung:** End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung.
+**Fokus:** End-of-Life-Planung für Satelliten – Deorbit-Pflicht, IADC 25-Jahres-Regel, Passivierung.
 
 # Weltraumrecht: Satellitenabschaltung: Deorbit und End-of-Life-Plan
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Deorbit Pflicht, IADC 25-Jahres-R
 
 ## 4. `space-076-konstellation-und-lichtverschmutzung-astronomie-einwen`
 
-**Frühere Beschreibung:** Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe.
+**Fokus:** Lichtverschmutzung durch Mega-Konstellationen – Astronomie-Einwendungen, Rechtslage, Abhilfe.
 
 # Weltraumrecht: Konstellation und Lichtverschmutzung: Astronomie-Einwendungen
 

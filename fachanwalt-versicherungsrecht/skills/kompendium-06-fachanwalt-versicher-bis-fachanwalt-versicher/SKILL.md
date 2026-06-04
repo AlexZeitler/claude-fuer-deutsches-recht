@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fachanwalt-versicher-bis-fachanwalt-versicher
-description: "fachanwalt-versicherungsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fachanwalt-versicherungsrecht-do-deckungsabwehr, fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf, fachanwalt-versicherungsrecht-leistungsablehnung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versicherungsrecht Do Deckungsabwehr, Versicherungsrecht Lebensversicherung Rueckkauf, Versicherungsrecht Leistungsablehnung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-versicherungsrecht
+# Arbeitsbereich - Versicherungsrecht Do Deckungsabwehr, Versicherungsrecht Lebensversicherung Rueckkauf, Versicherungsrecht Leistungsablehnung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-versicherungsrecht-do-deckungsabwehr` | D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen. |
 | `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf` | Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-versicherungsrecht-do-deckungsabwehr`
 
-**Frühere Beschreibung:** D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen.
+**Fokus:** D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen.
 
 # D&O-Deckungsabwehr
 
@@ -283,7 +283,7 @@ BGH VI ZR 318/08 (13.10.2009): WRONG_TOPIC; tatsaechliches Thema ist Restwert be
 
 ## 2. `fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt versicherungsrecht lebensversicherung rueckkauf. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Lebensversicherung Rückkauf
 
@@ -483,7 +483,7 @@ Anlage: Vollmacht
 
 ## 3. `fachanwalt-versicherungsrecht-leistungsablehnung-pruefen`
 
-**Frühere Beschreibung:** Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage.
+**Fokus:** Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage.
 
 # Leistungsablehnung prüfen
 

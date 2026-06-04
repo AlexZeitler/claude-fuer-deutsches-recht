@@ -1,33 +1,33 @@
 ---
 name: kompendium-24-rechtsabteilung-prok-bis-registerbeanstandung
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (rechtsabteilung-prokura-und-grundstuecksgeschaeft, registerbeanstandung-und-beschwerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - handelsrecht-hgb
+# Arbeitsbereich - Prokura Und Grundstuecksgeschaeft, Registerbeanstandung Und Beschwerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-prokura-und-grundstuecksgeschaeft` | Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `registerbeanstandung-und-beschwerde` | Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-prokura-und-grundstuecksgeschaeft`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Prokura und Grundstücksgeschäft: Registerlage, Spezialvollmacht und Gutglaubensschutz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Prokura und Grundstücksgeschäft
 
@@ -74,7 +74,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `registerbeanstandung-und-beschwerde`
 
-**Frühere Beschreibung:** Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht.
+**Fokus:** Prüft Zwischenverfügung, Beanstandung, Nachbesserung und Beschwerde gegen Registergericht.
 
 # Registerbeanstandung und Beschwerde
 

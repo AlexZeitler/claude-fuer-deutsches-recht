@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-akkreditierung-progr-bis-anerkennung-ects-und
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (akkreditierung-programm-system, akkreditierung-und-qualitaet, alumni-stiftung-spenden-compliance, anerkennung-ects-und-ausland) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akkreditierung Programm System, Akkreditierung Und Qualitaet, Alumni Stiftung Spenden Compliance, Anerkennung Ects Und Ausland; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - hochschulrecht-laender
+# Arbeitsbereich - Akkreditierung Programm System bis Anerkennung Ects Und Ausland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akkreditierung-programm-system` | Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen. |
 | `akkreditierung-und-qualitaet` | Prüft Akkreditierung und Qualitätssicherung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akkreditierung-programm-system`
 
-**Frühere Beschreibung:** Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen.
+**Fokus:** Prüft Programm-/Systemakkreditierung, Auflagen, Studiengangsqualität und Gremienfolgen.
 
 # Akkreditierung: Programm und System
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `akkreditierung-und-qualitaet`
 
-**Frühere Beschreibung:** Prüft Akkreditierung und Qualitätssicherung.
+**Fokus:** Prüft Akkreditierung und Qualitätssicherung.
 
 # Akkreditierung Und Qualitaet
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Akkreditierungscheck. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 3. `alumni-stiftung-spenden-compliance`
 
-**Frühere Beschreibung:** Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung.
+**Fokus:** Prüft Hochschulstiftungen, Spenden, Sponsoring, Transparenz und Zweckbindung.
 
 # Alumni, Stiftung und Spenden-Compliance
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 4. `anerkennung-ects-und-ausland`
 
-**Frühere Beschreibung:** Prüft Anerkennung von Leistungen und ECTS.
+**Fokus:** Prüft Anerkennung von Leistungen und ECTS.
 
 # Anerkennung ECTS Und Ausland
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-bericht-mand-bis-spezial-betreuerpfli
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (spezial-bericht-mandantenkommunikation-entscheidungsvorlage, spezial-betreuer-zahlen-schwellen-und-berechnung, spezial-betreuerpflichten-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - betreuungsrecht
+# Arbeitsbereich - Bericht Mandantenkommunikation Entscheidungsvorlage, Betreuer Zahlen Schwellen Und Berechnung, Betreuerpflichten Formular Portal Und Einreich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bericht-mandantenkommunikation-entscheidungsvorlage` | Bericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-betreuer-zahlen-schwellen-und-berechnung` | Betreuer: Zahlen, Schwellenwerte und Berechnung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bericht-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Bericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bericht: Mandantenkommunikation und Entscheidungsvorlage im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bericht: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-betreuer-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Betreuer: Zahlen, Schwellenwerte und Berechnung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Betreuer: Zahlen, Schwellenwerte und Berechnung im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Betreuer: Zahlen, Schwellenwerte und Berechnung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-betreuerpflichten-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Betreuerpflichten: Formular, Portal und Einreichungslogik im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Betreuerpflichten: Formular, Portal und Einreichungslogik im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Betreuerpflichten: Formular, Portal und Einreichungslogik
 

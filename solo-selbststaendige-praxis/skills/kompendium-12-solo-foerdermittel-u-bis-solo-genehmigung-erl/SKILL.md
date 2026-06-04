@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-solo-foerdermittel-u-bis-solo-genehmigung-erl
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 8 frühere Spezialskills (solo-foerdermittel-und-zuschuesse, solo-food-catering, solo-fotograf-videograf, solo-freelancer-einkaufen, solo-fremdmaterial-check und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Foerdermittel Und Zuschuesse, Solo Food Catering, Solo Fotograf Videograf, Solo Freelancer Einkaufen und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Foerdermittel Und Zuschuesse bis Solo Genehmigung Erlaubnis Zulassung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-foerdermittel-und-zuschuesse` | Solo-Selbstständige: prüft Gründungszuschuss, Landesprogramme, KfW und Beratungsförderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-food-catering` | Solo-Selbstständige: prüft Hygiene, Genehmigung, Veranstaltung, AGB und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-foerdermittel-und-zuschuesse`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Gründungszuschuss, Landesprogramme, KfW und Beratungsförderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Gründungszuschuss, Landesprogramme, KfW und Beratungsförderung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Prüft gründungszuschuss
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 2. `solo-food-catering`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Hygiene, Genehmigung, Veranstaltung, AGB und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Hygiene, Genehmigung, Veranstaltung, AGB und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft hygiene
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 3. `solo-fotograf-videograf`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Model Releases, Bildrechte, Drohne, Datenschutz und Nutzungsumfang; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Model Releases, Bildrechte, Drohne, Datenschutz und Nutzungsumfang; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft model releases
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 4. `solo-freelancer-einkaufen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Subunternehmer-Check mit Rechtekette und Statusrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Erstellt subunternehmer-check mit rechtekette und statusrisiko
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 5. `solo-fremdmaterial-check`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Zitate, Screenshots, Stock, Open Source und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Zitate, Screenshots, Stock, Open Source und Belege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Prüft zitate
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 6. `solo-freundliche-zahlungserinnerung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: formuliert freundlich, bestimmt und beziehungswahrend; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Formuliert freundlich
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 7. `solo-gbr-mit-anderen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft GbR, Außenhaftung, Gesellschaftsvertrag und eGbR-Frage; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft GbR, Außenhaftung, Gesellschaftsvertrag und eGbR-Frage; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft gbr
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 8. `solo-genehmigung-erlaubnis-zulassung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft erlaubnispflichtige Tätigkeiten wie Makler, Bewachung, Gesundheit, Pflege, Finanzdienstleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Prüft erlaubnispflichtige tätigkeiten wie makler
 

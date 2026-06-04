@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-interne-untersuchung-bis-minijob-werkstudent
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (interne-untersuchung-hr-light, ip-rechte-software-und-erfindungen, krankmeldung-efzg-au-bescheinigung, lohnpfaendung-unterhalt-pfaendungsfreigrenzen, minijob-werkstudent-praktikum-payroll) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Interne Untersuchung Hr Light, Ip Rechte Software Und Erfindungen, Krankmeldung Efzg Au Bescheinigung, Lohnpfaendung Unterhalt Pfaendungsfreigrenzen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Interne Untersuchung Hr Light bis Minijob Werkstudent Praktikum Payroll
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `interne-untersuchung-hr-light` | Berliner Start-up-HR: Interne HR-Untersuchung light: Scope, Interviews, Dokumente, Schutz Beteiligter, Privilegiengrenzen und Abschlussmemo. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `ip-rechte-software-und-erfindungen` | Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `interne-untersuchung-hr-light`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Interne HR-Untersuchung light: Scope, Interviews, Dokumente, Schutz Beteiligter, Privilegiengrenzen und Abschlussmemo. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Interne HR-Untersuchung light: Scope, Interviews, Dokumente, Schutz Beteiligter, Privilegiengrenzen und Abschlussmemo. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Interne Untersuchung HR Light
 
@@ -88,7 +88,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `ip-rechte-software-und-erfindungen`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: IP, Software, Arbeitnehmererfindungen und Open Source in Start-up-Arbeitsverträgen sauber führen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # IP Rechte Software Und Erfindungen
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `krankmeldung-efzg-au-bescheinigung`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Krankmeldung und Entgeltfortzahlung: eAU, Anzeige, Nachweis, Zweifel, BEM-Trigger und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Krankmeldung und Entgeltfortzahlung: eAU, Anzeige, Nachweis, Zweifel, BEM-Trigger und Datenschutz. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Krankmeldung EFZG Au Bescheinigung
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `lohnpfaendung-unterhalt-pfaendungsfreigrenzen`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Lohnpfändung und Unterhaltspfändung intern richtig routen: Vertraulichkeit, Rang, Drittschuldnererklärung und Payroll. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Lohnpfändung und Unterhaltspfändung intern richtig routen: Vertraulichkeit, Rang, Drittschuldnererklärung und Payroll. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Lohnpfaendung Unterhalt Pfaendungsfreigrenzen
 
@@ -262,7 +262,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `minijob-werkstudent-praktikum-payroll`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Minijob, Werkstudent, Praktikum und Pflichtpraktikum für Payroll und Status sauber unterscheiden. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Minijob, Werkstudent, Praktikum und Pflichtpraktikum für Payroll und Status sauber unterscheiden. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Minijob Werkstudent Praktikum Payroll
 

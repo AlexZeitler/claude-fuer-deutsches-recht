@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-wehrbeschwerdeordnun-bis-aerztliche-begutacht
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (wehrbeschwerdeordnung-beschwerde-frist-form, schadenersatz-regress-dienstunfall-material, aerztliche-begutachtung-dienstfaehigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Wehrbeschwerdeordnung Beschwerde Frist Form, Schadenersatz Regress Dienstunfall Material, Aerztliche Begutachtung Dienstfaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wehrbeschwerdeordnung-beschwerde-frist-form` | Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `schadenersatz-regress-dienstunfall-material` | Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO § 59, Regress gegen Soldaten und Haftungsrecht. Norm-/Quellenanker: SVG, SG § 24, BHO, BGB §§ 249 ff. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wehrbeschwerdeordnung-beschwerde-frist-form`
 
-**Frühere Beschreibung:** Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Wehrbeschwerdeordnung Beschwerde Frist Form: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Wehrbeschwerdeordnung – Beschwerde, Frist und Form
 
@@ -131,7 +131,7 @@ Die Wehrbeschwerdeordnung (WBO) ist der zentrale Rechtsschutzweg des Soldaten ge
 
 ## 2. `schadenersatz-regress-dienstunfall-material`
 
-**Frühere Beschreibung:** Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO § 59, Regress gegen Soldaten und Haftungsrecht. Norm-/Quellenanker: SVG, SG § 24, BHO, BGB §§ 249 ff.
+**Fokus:** Schadensersatz, Regress, Dienstunfall, Materialschäden: prüft SVG, BHO § 59, Regress gegen Soldaten und Haftungsrecht. Norm-/Quellenanker: SVG, SG § 24, BHO, BGB §§ 249 ff.
 
 # Schadensersatz, Regress, Dienstunfall und Materialschäden
 
@@ -240,7 +240,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `aerztliche-begutachtung-dienstfaehigkeit`
 
-**Frühere Beschreibung:** Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungsverfahren, Tauglichkeitsstufen, Rechtsbehelfe und Versorgungsfolgen. Norm-/Quellenanker: §§ 44–45 SG, SVG, DV 46/1.
+**Fokus:** Ärztliche Begutachtung und Dienstfähigkeit: prüft Begutachtungsverfahren, Tauglichkeitsstufen, Rechtsbehelfe und Versorgungsfolgen. Norm-/Quellenanker: §§ 44–45 SG, SVG, DV 46/1.
 
 # Ärztliche Begutachtung und Dienstfähigkeit
 

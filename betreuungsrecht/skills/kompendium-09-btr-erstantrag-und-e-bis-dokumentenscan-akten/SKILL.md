@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-btr-erstantrag-und-e-bis-dokumentenscan-akten
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (btr-erstantrag-und-eilantrag, btr-zwangsmedikation-genehmigung-spezial, dokumentenscan-aktenablage-und-belegmappe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - betreuungsrecht
+# Arbeitsbereich - Btr Erstantrag Und Eilantrag, Btr Zwangsmedikation Genehmigung Spezial, Dokumentenscan Aktenablage Und Belegmappe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btr-erstantrag-und-eilantrag` | Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten. |
 | `btr-zwangsmedikation-genehmigung-spezial` | Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhoerung Betroffener, Verfahrenspflegerbestellung. Pruefraster und Mustertexte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btr-erstantrag-und-eilantrag`
 
-**Frühere Beschreibung:** Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten.
+**Fokus:** Erstantrag auf Betreuung beim Amtsgericht: § 1814 BGB Voraussetzungen seit Reform 2023, Eilantrag bei Gefahr im Verzug, einstweilige Anordnung § 300 FamFG. Strukturierte Antragsvorlage und Erfordernisse Sachverstaendigengutachten.
 
 # Btr: Erst- und Eilantrag
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 2. `btr-zwangsmedikation-genehmigung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhoerung Betroffener, Verfahrenspflegerbestellung. Pruefraster und Mustertexte.
+**Fokus:** Spezialfall Genehmigung Zwangsmedikation § 1832 BGB nach Reform: enge Voraussetzungen, Erforderlichkeit, weniger eingreifende Mittel, gerichtliche Anhoerung Betroffener, Verfahrenspflegerbestellung. Pruefraster und Mustertexte.
 
 # Btr: Zwangsmedikation
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 3. `dokumentenscan-aktenablage-und-belegmappe`
 
-**Frühere Beschreibung:** Scan- und Ablageworkflow für Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste.
+**Fokus:** Scan- und Ablageworkflow für Betreuungsakten: sortiert Fotos, PDFs, E-Mails, Bescheide, Kontoauszüge, Heim- und Arztunterlagen in eine gerichtstaugliche Belegmappe mit Fristen, Belegnummern, Datenschutzmarkierung und Lückenliste.
 
 # Dokumentenscan, Aktenablage und Belegmappe
 

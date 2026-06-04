@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-ins-011-leak-respons-bis-ins-018-krisenfall-p
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (ins-011-leak-response, ins-018-krisenfall-profit-warning) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - insiderrecht-compliance
+# Arbeitsbereich - Ins 011 Leak Response, Ins 018 Krisenfall Profit Warning
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-011-leak-response` | Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation. |
 | `ins-018-krisenfall-profit-warning` | Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-011-leak-response`
 
-**Frühere Beschreibung:** Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation.
+**Fokus:** Steuert die Sofortreaktion auf einen Informationsleck: Veroeffentlichungspflicht, BaFin-Meldung, Medienmanagement und forensische Dokumentation.
 
 # Leak Response – Reaktion auf Informationslecks
 
@@ -111,7 +111,7 @@ Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de,
 
 ## 2. `ins-018-krisenfall-profit-warning`
 
-**Frühere Beschreibung:** Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates.
+**Fokus:** Steuert den Compliance-Prozess bei einer Profit Warning: Insiderinformations-Entstehungszeitpunkt, Ad-hoc-Pflicht, Inhalt und Koordination mit Konsensus-Updates.
 
 # Krisenfall Profit Warning – Ad-hoc und Insiderrecht
 

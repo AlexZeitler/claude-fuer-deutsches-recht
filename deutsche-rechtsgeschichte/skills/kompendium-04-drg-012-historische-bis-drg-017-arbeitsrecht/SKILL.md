@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-drg-012-historische-bis-drg-017-arbeitsrecht
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 04; bündelt 6 frühere Spezialskills (drg-012-historische-schule-und-pandekten, drg-013-bgb-entstehung-und-materialien, drg-014-bgb-1900-und-soziale-frage, drg-015-handelsrecht-und-hgb-geschichte, drg-016-genossenschaft-und-vereinsrecht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 012 Historische Schule Und Pandekten, Drg 013 Bgb Entstehung Und Materialien, Drg 014 Bgb 1900 Und Soziale Frage, Drg 015 Handelsrecht Und Hgb Geschichte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 012 Historische Schule Und Pandekten bis Drg 017 Arbeitsrecht Von Gewerbeordnung Bis Betrvg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-012-historische-schule-und-pandekten` | Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900. |
 | `drg-013-bgb-entstehung-und-materialien` | Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-012-historische-schule-und-pandekten`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900.
+**Fokus:** Deutsche Rechtsgeschichte: Historische Rechtsschule und Pandektistik. Savigny, Puchta, Windscheid, Jhering und die Pandektenwissenschaft als Grundlage des BGB 1900.
 
 # Historische Rechtsschule und Pandektistik
 
@@ -81,7 +81,7 @@ Savigny 1814: Erstausgabe. Windscheid Pandekten: Erstausgabe 1862-70 (Band und S
 
 ## 2. `drg-013-bgb-entstehung-und-materialien`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB.
+**Fokus:** Deutsche Rechtsgeschichte: Entstehung des BGB 1900 und seine Materialien. Erste und Zweite Kommission, Mugdan-Materialien, Motive und Protokolle als Schluessel zur historischen Auslegung des BGB.
 
 # BGB Entstehung und Materialien (1874-1900)
 
@@ -131,7 +131,7 @@ Mugdan 6 Bde. (1899): Bandangabe und Seite. BGB-Text: gesetze-im-internet.de. RG
 
 ## 3. `drg-014-bgb-1900-und-soziale-frage`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze.
+**Fokus:** Deutsche Rechtsgeschichte: BGB 1900 und die soziale Frage. Kritik von Anton Menger und Otto von Gierke, fehlender Arbeitnehmerschutz im BGB, Mieterrecht und spaetere soziale Ausformung durch Rechtsprechung und Sondergesetze.
 
 # BGB 1900 und die soziale Frage
 
@@ -181,7 +181,7 @@ Menger Das buergerliche Recht 1890: historische Erstausgabe. Mugdan: Bd. II (Sch
 
 ## 4. `drg-015-handelsrecht-und-hgb-geschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte des Handelsrechts und des HGB. ADHGB 1861, Einheitsrecht im Kaiserreich, HGB 1897, Handelsstand, Handelsregister und Reformgeschichte des 20. Jahrhunderts.
 
 # Handelsrecht und HGB Geschichte
 
@@ -233,7 +233,7 @@ ADHGB: historische Edition. HGB: gesetze-im-internet.de. RGBl. 1897, 219: ALEX/O
 
 ## 5. `drg-016-genossenschaft-und-vereinsrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte des Genossenschafts- und Vereinsrechts. Schulze-Delitzsch und Raiffeisen, Genossenschaftsgesetz 1867 und 1889, BGB-Vereinsrecht und Gewerkschaftsrecht.
 
 # Genossenschaft und Vereinsrecht
 
@@ -283,7 +283,7 @@ GenG 1889: RGBl. 1889, 55 via ALEX/OeNB. GenG aktuell: gesetze-im-internet.de. B
 
 ## 6. `drg-017-arbeitsrecht-von-gewerbeordnung-bis-betrvg`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts.
+**Fokus:** Deutsche Rechtsgeschichte: Arbeitsrecht von der Gewerbeordnung 1869 bis zum BetrVG 1972. Koalitionsfreiheit, Arbeitsschutzgesetze, Tarifvertrag, Betriebsrat und die Entstehung des kollektiven Arbeitsrechts.
 
 # Arbeitsrecht: Von der Gewerbeordnung bis zum BetrVG
 

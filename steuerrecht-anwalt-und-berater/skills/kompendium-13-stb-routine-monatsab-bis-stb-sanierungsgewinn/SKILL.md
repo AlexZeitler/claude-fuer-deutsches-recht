@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-stb-routine-monatsab-bis-stb-sanierungsgewinn
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 13; bündelt 9 frühere Spezialskills (stb-routine-monatsabschluss-30-tage-zyklus, stb-routine-quartalsabschluss-prozess, stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge, stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel, stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Routine Monatsabschluss 30 Tage Zyklus, Stb Routine Quartalsabschluss Prozess, Stb Sanierungsgewinn 3c Iv Estg Verlustreihenfolge, Stb Sanierungsgewinn 7b Gewstg Gewerbesteuer Parallel und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Routine Monatsabschluss 30 Tage Zyklus bis Stb Sanierungsgewinn Liquidation Nachrang Fg Koeln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-routine-monatsabschluss-30-tage-zyklus` | Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan. |
 | `stb-routine-quartalsabschluss-prozess` | Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Gespraech. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-routine-monatsabschluss-30-tage-zyklus`
 
-**Frühere Beschreibung:** Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan.
+**Fokus:** Routine Monatsabschluss im 30-Tage-Zyklus. Anwendungsfall systematische Steuerung der Monatsabschluss-Routine in der Kanzlei mit klaren Deadlines Belegabgabe Buchung BWA-Versand USt-VA. Methodik Termin-Controlling. Output 30-Tage-Plan.
 
 # 30-Tage-Zyklus Monatsabschluss
 
@@ -191,7 +191,7 @@ Stand: 05/2026.
 
 ## 2. `stb-routine-quartalsabschluss-prozess`
 
-**Frühere Beschreibung:** Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Gespraech.
+**Fokus:** Routine Quartalsabschluss-Prozess. Anwendungsfall vierteljaehrlicher Quartalsabschluss mit Periodenabgrenzung Quartals-BWA Mandantengespraech und Steuerthemen. Methodik strukturierter Quartals-Plan. Output Quartals-BWA Quartalsbericht Gespraech.
 
 # Quartalsabschluss-Prozess
 
@@ -330,7 +330,7 @@ Stand: 05/2026.
 
 ## 3. `stb-sanierungsgewinn-3c-iv-estg-verlustreihenfolge`
 
-**Frühere Beschreibung:** § 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung.
+**Fokus:** § 3c Absatz 4 EStG Verlustreihenfolge: bestehende Verlustvorträge mindern den Sanierungsertrag, bevor die Steuerbefreiung nach § 3a EStG greift. Folge: Verlustvortrag wird verbraucht, mindestens aber bis Mindestbesteuerung.
 
 # § 3c Abs. 4 EStG — Verlustreihenfolge bei Sanierung
 
@@ -509,7 +509,7 @@ Anlage zur Steuererklärung Sanierungsjahr:
 
 ## 4. `stb-sanierungsgewinn-7b-gewstg-gewerbesteuer-parallel`
 
-**Frühere Beschreibung:** § 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken.
+**Fokus:** § 7b GewStG befreit den Sanierungsertrag parallel zur ESt/KSt von der Gewerbesteuer. Eigener Antrag mit Gewerbesteuererklärung erforderlich; nicht automatisch aus § 3a EStG-Antrag mit zu erstrecken.
 
 # § 7b GewStG — Gewerbesteuer-Befreiung Sanierung
 
@@ -682,7 +682,7 @@ Gewerbeverlust verbraucht
 
 ## 5. `stb-sanierungsgewinn-10a-s-1-gewstg-gewerbeverlust`
 
-**Frühere Beschreibung:** § 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG.
+**Fokus:** § 10a Satz 1 GewStG Gewerbeverlust-Verbrauch im Sanierungskontext. Reihenfolge und Mindestbesteuerung bei der Gewerbesteuer; Parallele zu § 3c Absatz 4 EStG.
 
 # § 10a Satz 1 GewStG — Gewerbeverlust bei Sanierung
 
@@ -833,7 +833,7 @@ IV. Folge
 
 ## 6. `stb-sanierungsgewinn-betriebsstaette-und-international`
 
-**Frühere Beschreibung:** Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung.
+**Fokus:** Internationale Aspekte des Sanierungsertrags: Betriebsstätten-Zuordnung, DBA-Behandlung, Sanierungsforderungsverzicht durch ausländische Gläubiger. § 3a EStG gilt nur für die deutsche Besteuerung.
 
 # Sanierungsgewinn — Betriebsstätte und international
 
@@ -989,7 +989,7 @@ the German tax authorities.
 
 ## 7. `stb-sanierungsgewinn-debt-equity-swap-statt-verzicht`
 
-**Frühere Beschreibung:** Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten.
+**Fokus:** Debt-Equity-Swap als Alternative zum Forderungsverzicht: Umwandlung der Forderung in Eigenkapital. Sanierungssteuerlich oft günstiger; aber gesellschaftsrechtliche Hürden und Werthaltigkeits-Problem zu beachten.
 
 # Debt-Equity-Swap statt Forderungsverzicht
 
@@ -1181,7 +1181,7 @@ nerin gem. § 364 BGB durch Konfusion.
 
 ## 8. `stb-sanierungsgewinn-koerperschaftsteuer-vs-einkommensteuer`
 
-**Frühere Beschreibung:** Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur.
+**Fokus:** Unterschiede in der Sanierungsertragsbehandlung zwischen Körperschaftsteuer und Einkommensteuer. KSt geht über § 8 Absatz 1 KStG auf § 3a EStG; ESt direkt; unterschiedliche Verlustverrechnung und Antragsstruktur.
 
 # Sanierungsgewinn — KSt vs. ESt
 
@@ -1349,7 +1349,7 @@ Bindungswirkung nach Feststellung: EUR ...
 
 ## 9. `stb-sanierungsgewinn-liquidation-nachrang-fg-koeln`
 
-**Frühere Beschreibung:** Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwaiger Sanierungsgewinn mangels Koerperschaftsteuersubjekt noch festsetzbar ist. Adressat ist der Steuerberater oder Rechtsanwalt, der eine GmbH ohne Insolvenz nur per Liquidation abwickeln will und ein hohes Gesellschafterdarlehen mit qualifiziertem Rangruecktritt im Bestand hat.
+**Fokus:** Solvente GmbH-Liquidation mit nachrangigem Gesellschafterdarlehen. Klaert mit der verifizierten FG-Koeln-Linie (Urteil v. 06.03.2012 — 13 K 3006/11, GmbHR 2012 Seite 977; vorgehend zu BFH I R 34/12) und mit BFH II R 19/01 die Frage, wann die Verbindlichkeit ausgebucht werden muss und ob ein etwaiger Sanierungsgewinn mangels Koerperschaftsteuersubjekt noch festsetzbar ist. Adressat ist der Steuerberater oder Rechtsanwalt, der eine GmbH ohne Insolvenz nur per Liquidation abwickeln will und ein hohes Gesellschafterdarlehen mit qualifiziertem Rangruecktritt im Bestand hat.
 
 # Sanierungsgewinn — Liquidation, Nachrang und die FG-Koeln-Linie
 

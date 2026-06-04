@@ -1,32 +1,32 @@
 ---
 name: kompendium-16-wcag-vs-en-301-549-m-bis-wcag-vs-en-301-549-m
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 16; bündelt 1 frühere Spezialskills (wcag-vs-en-301-549-mapping) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill zu Wcag Vs En 301 549 Mapping; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - barrierefreiheit-web-checker
+# Arbeitsbereich - Wcag Vs En 301 549 Mapping
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wcag-vs-en-301-549-mapping` | Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle. Pruefraster welche Anforderung welche Norm bedient, wo die EN ueber WCAG hinausgeht (mobile, biometrische, mehrteilige Inhalte). Tooling-Auswahl je Norm. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wcag-vs-en-301-549-mapping`
 
-**Frühere Beschreibung:** Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle. Pruefraster welche Anforderung welche Norm bedient, wo die EN ueber WCAG hinausgeht (mobile, biometrische, mehrteilige Inhalte). Tooling-Auswahl je Norm.
+**Fokus:** Mapping WCAG 2.2 zu EN 301 549 V 3.2.1: WCAG-Erfolgskriterien, EN-Klauseln, BITV-Anforderungen in Tabelle. Pruefraster welche Anforderung welche Norm bedient, wo die EN ueber WCAG hinausgeht (mobile, biometrische, mehrteilige Inhalte). Tooling-Auswahl je Norm.
 
 # WCAG- und EN 301 549-Mapping
 

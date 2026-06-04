@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-bilingual-drafting-d-bis-cowork-cloud-kollabo
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (bilingual-drafting-deutsch-englisch, cowork-cloud-kollaboration-drafting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Bilingual Drafting Deutsch Englisch, Cowork Cloud Kollaboration Drafting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bilingual-drafting-deutsch-englisch` | Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz. |
 | `cowork-cloud-kollaboration-drafting` | Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bilingual-drafting-deutsch-englisch`
 
-**Frühere Beschreibung:** Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz.
+**Fokus:** Drafting deutsch-englischer Vertraege in Side-by-Side- oder Stacked-Layout. Bestimmt den Anwendungsfall (true bilingual, sovereign language, courtesy translation), waehlt das Layout (Tabelle zweispaltig oder gestapelte Saetze), klaert die Sprachklausel (welche Fassung verbindlich), uebersetzt Boilerplate-Klauseln in beiden Richtungen, vermeidet False Friends (Indemnify, Reasonable, Consequential Damages, Best Efforts, Force Majeure, Severability, Schiedsklausel, Hauptleistung), waehlt Word-Tabellenformat oder gestapeltes Layout, behaelt Definitionen synchron und liefert eine Pruefcheckliste fuer Konsistenz.
 
 # Bilinguales Drafting Deutsch-Englisch
 
@@ -207,7 +207,7 @@ Diese Begriffe werden im deutschen Anwaltsbuero regelmaessig falsch uebersetzt. 
 
 ## 2. `cowork-cloud-kollaboration-drafting`
 
-**Frühere Beschreibung:** Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag.
+**Fokus:** Mandantengeheimnis-konformes Drafting in der Cloud (Claude Cowork; Office 365; Google Workspace). Rechtlicher Rahmen § 43a Abs. 2 BRAO; § 203 StGB; § 26 BORA und Art. 28 DSGVO. Auftragsverarbeitungsvertrag ist Voraussetzung. Sensible Daten: Mandantenname; Aktenzeichen; Sachverhalt. Pseudonymisierung im Entwurf; Mandantendaten erst in finaler Fassung. Versionierung. Zwei-Faktor-Authentifizierung. Mit Pitfall-Liste zu WhatsApp; E-Mail und Cloud ohne Auftragsverarbeitungsvertrag.
 
 # Cowork und Cloud-Kollaboration im Drafting
 

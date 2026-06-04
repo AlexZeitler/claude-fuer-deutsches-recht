@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-saeumnis-im-termin-3-bis-sanity-check-selbstv
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (saeumnis-im-termin-330-zpo, saeumnis-vermeiden-330-ff-zpo, sanity-check-selbstvertretung-amtsgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Saeumnis Im Termin 330 Zpo, Saeumnis Vermeiden 330 Ff Zpo, Sanity Check Selbstvertretung Amtsgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `saeumnis-im-termin-330-zpo` | Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis. |
 | `saeumnis-vermeiden-330-ff-zpo` | Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `saeumnis-im-termin-330-zpo`
 
-**Frühere Beschreibung:** Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis.
+**Fokus:** Saeumnis im Termin und Versaeumnisurteil nach §§ 330 331 ZPO. Wenn Sie nicht erscheinen oder nicht verhandeln Folgen Versaeumnisurteil Einspruch und Wiedereinsetzung bei unverschuldetem Versaeumnis.
 
 # Saeumnis im Termin: Konsequenzen und was Sie tun koennen
 
@@ -178,7 +178,7 @@ Stand: 05/2026. §§ 330, 331, 338 ZPO unveraendert.
 
 ## 2. `saeumnis-vermeiden-330-ff-zpo`
 
-**Frühere Beschreibung:** Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO.
+**Fokus:** Versaeumnisurteil verhindern §§ 330 ff. ZPO. Folgen des Schweigens als Beklagter Verteidigungsanzeige Klageerwiderung Termin-Erscheinung Einspruch gegen Versaeumnisurteil mit 2-Wochen-Frist § 339 ZPO.
 
 # Versaeumnisurteil verhindern und ggf. einlegen
 
@@ -331,7 +331,7 @@ Stand: 05/2026. §§ 330 ff. ZPO unveraendert.
 
 ## 3. `sanity-check-selbstvertretung-amtsgericht`
 
-**Frühere Beschreibung:** Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale.
+**Fokus:** Letzter Sanity-Check vor Klage, Klageerwiderung, Replik, Termin, Vergleich oder Rechtsmittel beim Amtsgericht. Prüft Fristen, Zuständigkeit, Anwaltszwang, Streitwert, Antrag, Tatsachenvortrag, Beweise, Anlagen, Kosten, Zustellung und rote Warnsignale.
 
 # Sanity-Check Selbstvertretung Amtsgericht
 

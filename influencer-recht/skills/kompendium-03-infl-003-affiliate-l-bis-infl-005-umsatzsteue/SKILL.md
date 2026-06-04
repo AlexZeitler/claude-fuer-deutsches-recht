@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-infl-003-affiliate-l-bis-infl-005-umsatzsteue
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (infl-003-affiliate-link-rabattcode-und-provision, infl-004-geschenk-pr-sample-sachleistung-und-steuer, infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal Und Auslandsbrand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - influencer-recht
+# Arbeitsbereich - Infl 003 Affiliate Link Rabattcode Und Provision, Infl 004 Geschenk Pr Sample Sachleistung Und Steuer, Infl 005 Umsatzsteuer Bei Barter Deal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-003-affiliate-link-rabattcode-und-provision` | Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV. |
 | `infl-004-geschenk-pr-sample-sachleistung-und-steuer` | Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-003-affiliate-link-rabattcode-und-provision`
 
-**Frühere Beschreibung:** Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV.
+**Fokus:** Influencer-Recht: Affiliate-Links und Rabattcodes – Kennzeichnungspflicht, Provisionsbesteuerung, Transparenzanforderungen nach UWG und MStV.
 
 # Influencer-Recht: Affiliate-Link, Rabattcode und Provision
 
@@ -95,7 +95,7 @@ Affiliate-Links und Rabattcodes sind wirtschaftliche Gegenleistungen – auch we
 
 ## 2. `infl-004-geschenk-pr-sample-sachleistung-und-steuer`
 
-**Frühere Beschreibung:** Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung.
+**Fokus:** Influencer-Recht: PR-Samples, Geschenke und Sachleistungen – steuerliche Bewertung, Kennzeichnungspflicht, Abgrenzung Schenkung vs. Gegenleistung.
 
 # Influencer-Recht: Geschenk, PR-Sample, Sachleistung und Steuer
 
@@ -159,7 +159,7 @@ Zugesendete Produkte ohne Vergütungsvereinbarung sind rechtlich vielschichtig:
 
 ## 3. `infl-005-umsatzsteuer-bei-barter-deal-und-auslandsbrand`
 
-**Frühere Beschreibung:** Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen mit ausländischen Brands – Leistungsaustausch, Reverse Charge, OSS.
+**Fokus:** Influencer-Recht: Umsatzsteuer bei Barter Deals und Kooperationen mit ausländischen Brands – Leistungsaustausch, Reverse Charge, OSS.
 
 # Influencer-Recht: Umsatzsteuer – Barter Deal und Auslands-Brand
 

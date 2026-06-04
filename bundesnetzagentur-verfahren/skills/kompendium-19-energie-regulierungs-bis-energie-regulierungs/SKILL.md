@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-energie-regulierungs-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 19; bündelt 8 frühere Spezialskills (energie-regulierungsakte-offshore-netzanbindung-rechtsmittel-che, energie-regulierungsakte-offshore-netzanbindung-stellungnahme-en, energie-regulierungsakte-offshore-netzanbindung-unterlagenanford, energie-regulierungsakte-redispatch-2-0-rechtsmittel-check, energie-regulierungsakte-redispatch-2-0-unterlagenanforderung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Regulierungsakte Offshore Netzanbindung Rechtsmittel Che, Energie Regulierungsakte Offshore Netzanbindung Stellungnahme En, Energie Regulierungsakte Offshore Netzanbindung Unterlagenanford, Energie Regulierungsakte Redispatch 2 0 Rechtsmittel Check und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster un"
 ---
 
-# Kompendium 19 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Regulierungsakte Offshore Netzanbindung Rechtsmittel Che bis Energie Regulierungsakte Remit Marktmissbrauch Energie Rechtsmit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-regulierungsakte-offshore-netzanbindung-rechtsmittel-che` | Offshore-Netzanbindung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-offshore-netzanbindung-stellungnahme-en` | Offshore-Netzanbindung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-regulierungsakte-offshore-netzanbindung-rechtsmittel-che`
 
-**Frühere Beschreibung:** Offshore-Netzanbindung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Offshore-Netzanbindung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Rechtsmittel-Check
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-regulierungsakte-offshore-netzanbindung-stellungnahme-en`
 
-**Frühere Beschreibung:** Offshore-Netzanbindung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Offshore-Netzanbindung: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Stellungnahme-Entwurf
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-regulierungsakte-offshore-netzanbindung-unterlagenanford`
 
-**Frühere Beschreibung:** Offshore-Netzanbindung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Offshore-Netzanbindung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Offshore-Netzanbindung — Unterlagenanforderung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-redispatch-2-0-rechtsmittel-check`
 
-**Frühere Beschreibung:** Redispatch 2.0: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Redispatch 2.0: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Redispatch 2.0 — Rechtsmittel-Check
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-redispatch-2-0-unterlagenanforderung`
 
-**Frühere Beschreibung:** Redispatch 2.0: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Redispatch 2.0: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Redispatch 2.0 — Unterlagenanforderung
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-regelenergie-rechtsmittel-check`
 
-**Frühere Beschreibung:** Regelenergie: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Regelenergie: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Regelenergie — Rechtsmittel-Check
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-regelenergie-unterlagenanforderung`
 
-**Frühere Beschreibung:** Regelenergie: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Regelenergie: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Regelenergie — Unterlagenanforderung
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-remit-marktmissbrauch-energie-rechtsmit`
 
-**Frühere Beschreibung:** REMIT Marktmissbrauch Energie: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** REMIT Marktmissbrauch Energie: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: REMIT Marktmissbrauch Energie — Rechtsmittel-Check
 

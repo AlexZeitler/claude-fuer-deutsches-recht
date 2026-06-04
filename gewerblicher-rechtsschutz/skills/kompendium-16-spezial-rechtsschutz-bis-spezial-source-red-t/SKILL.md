@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-rechtsschutz-bis-spezial-source-red-t
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (spezial-rechtsschutz-tatbestand-beweis-und-belege, spezial-review-sonderfall-und-edge-case, spezial-source-red-team-und-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Rechtsschutz Tatbestand Beweis Und Belege, Review Sonderfall Und Edge Case, Source Red Team Und Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-rechtsschutz-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht. |
 | `spezial-review-sonderfall-und-edge-case` | Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-rechtsschutz-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht.
+**Fokus:** Tatbestand, Beweis und Belegaufbau im gewerblichen Rechtsschutz: Wie IP-Verletzungen tatbestandsmäßig erfasst, Beweise gesichert und Belege für Abmahnung, EV und Klage aufbereitet werden. Checklisten für Marke, Patent, UWG und Urheberrecht.
 
 # Spezial: Tatbestand, Beweis und Belegaufbau im IP-Recht
 
@@ -170,7 +170,7 @@ Jede IP-Verletzung folgt demselben Grundschema:
 
 ## 2. `spezial-review-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle.
+**Fokus:** Sonderfälle und Edge Cases im gewerblichen Rechtsschutz: atypische Konstellationen bei Marke, Patent, Design, Urheberrecht und UWG. Erschöpfung, Verwirkung, FRAND, KI-generierte Inhalte, Open Source, Parallelimporte und weitere Grenzfälle.
 
 # Spezial: Sonderfälle und Edge Cases im Gewerblichen Rechtsschutz
 
@@ -306,7 +306,7 @@ Dritter hat Domain registriert, die Marke des Mandanten enthält.
 
 ## 3. `spezial-source-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung.
+**Fokus:** Red-Team und Qualitätskontrolle im gewerblichen Rechtsschutz: Systematische Überprüfung von Schriftsätzen, Memos und Rechtsanalysen auf Fehler, Quellenschwächen, Gegenargumente und blinde Flecken. Checkliste für interne Qualitätssicherung.
 
 # Spezial: Red-Team und Qualitätskontrolle
 

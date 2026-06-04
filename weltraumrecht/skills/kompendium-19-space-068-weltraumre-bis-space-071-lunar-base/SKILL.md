@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-space-068-weltraumre-bis-space-071-lunar-base
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung, space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe, space-070-national-appropriation-versus-resource-extraction, space-071-lunar-base-governance-safety-zones-und-interoperabilit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 068 Weltraumrecht Fuer Kommunen Bei Startplatzwerbung, Space 069 Bergung Fremder Weltraumgegenstaende Fundrecht Und Voe, Space 070 National Appropriation Versus Resource Extraction, Space 071 Lunar Base Governance Safety Zones Und Interoperabilit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - weltraumrecht
+# Arbeitsbereich - Space 068 Weltraumrecht Fuer Kommunen Bei Startplatzwerbung bis Space 071 Lunar Base Governance Safety Zones Und Interoperabilit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung` | Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen. |
 | `space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe` | Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-068-weltraumrecht-fuer-kommunen-bei-startplatzwerbung`
 
-**Frühere Beschreibung:** Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen.
+**Fokus:** Kommunale Startplatz-Akquise – Planungsrecht, Förderanträge, Umweltrecht, öffentliche Beihilfen.
 
 # Weltraumrecht: Weltraumrecht für Kommunen bei Startplatzwerbung
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Kommunaler Startplatz, Bebauungsp
 
 ## 2. `space-069-bergung-fremder-weltraumgegenstaende-fundrecht-und-voe`
 
-**Frühere Beschreibung:** Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht.
+**Fokus:** Bergung von Weltraumobjekten – BGB-Fundrecht, ARRA Rückgabepflicht, LIAB, Strafrecht.
 
 # Weltraumrecht: Bergung fremder Weltraumgegenstände: Fundrecht und Völkerrecht
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Bergung Weltraumobjekt, Fundrecht
 
 ## 3. `space-070-national-appropriation-versus-resource-extraction`
 
-**Frühere Beschreibung:** Nationale Aneignung vs. Ressourcenextraktion – OST Art. II, US SPACE Act, Luxemburger Recht, Praxisfälle.
+**Fokus:** Nationale Aneignung vs. Ressourcenextraktion – OST Art. II, US SPACE Act, Luxemburger Recht, Praxisfälle.
 
 # Weltraumrecht: National Appropriation vs. Resource Extraction
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Nichtaneignung Ressourcenextrakti
 
 ## 4. `space-071-lunar-base-governance-safety-zones-und-interoperabilit`
 
-**Frühere Beschreibung:** Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke.
+**Fokus:** Mondbasislegal-Rahmen – Governance, Safety Zones, Interoperabilität, ISS-analoge Regelwerke.
 
 # Weltraumrecht: Lunar Base Governance: Safety Zones und Interoperabilität
 

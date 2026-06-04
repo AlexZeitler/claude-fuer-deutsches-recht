@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-rom-131-seeunglueck-bis-rom-140-tutela-fiduc
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 16; bündelt 8 frühere Spezialskills (rom-131-seeunglueck-versicherung-und-risiko, rom-132-actio-tributoria-handelssklave-sondervermoegen, rom-134-buergschaftstypen-sponsio-fidepromissio-fideiussio, rom-135-beneficium-divisionis-und-excussionis, rom-136-intercessio-frauen-senatusconsultum-velleianum und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 131 Seeunglueck Versicherung Und Risiko, Rom 132 Actio Tributoria Handelssklave Sondervermoegen, Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio, Rom 135 Beneficium Divisionis Und Excussionis und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - roemisches-recht
+# Arbeitsbereich - Rom 131 Seeunglueck Versicherung Und Risiko bis Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-131-seeunglueck-versicherung-und-risiko` | Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster. |
 | `rom-132-actio-tributoria-handelssklave-sondervermoegen` | Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-131-seeunglueck-versicherung-und-risiko`
 
-**Frühere Beschreibung:** Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster.
+**Fokus:** Seeunglueck Versicherung und Risiko im roemischen Seerecht. Skill behandelt die Risikoverteilung bei Seetransporten lex Rhodia fenus nauticum receptum nautarum und die Frage was bei Untergang oder Verlust geschuldet ist. Liefert Pruefraster.
 
 # Rom 131 Seeunglueck Versicherung Und Risiko
 
@@ -81,7 +81,7 @@ Skill fuer die Risikoverteilung bei Seeunfaellen.
 
 ## 2. `rom-132-actio-tributoria-handelssklave-sondervermoegen`
 
-**Frühere Beschreibung:** Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix.
+**Fokus:** Actio tributoria: Klage gegen den dominus fuer Verbindlichkeiten aus Handelsgeschaeften seines Sklaven (servus negotiator) der mit peculium und Wissen des dominus Handel trieb. Skill behandelt das Verhaeltnis zu actio de peculio und actio institoria. Liefert Quellenmatrix.
 
 # Rom 132 Actio Tributoria Handelssklave Sondervermoegen
 
@@ -129,7 +129,7 @@ Skill fuer die actio tributoria als praetorische Sonderaktion.
 
 ## 3. `rom-134-buergschaftstypen-sponsio-fidepromissio-fideiussio`
 
-**Frühere Beschreibung:** Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio fuer Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix.
+**Fokus:** Buergschaftstypen im roemischen Recht: sponsio fidepromissio und fideiussio. Skill behandelt die historische Entwicklung von der altzivilen sponsio ueber die fidepromissio fuer Peregrini bis zur klassischen fideiussio Justinians. Liefert Quellenmatrix.
 
 # Rom 134 Buergschaftstypen Sponsio Fidepromissio Fideiussio
 
@@ -189,7 +189,7 @@ Skill fuer die drei Hauptformen der roemischen Buergschaft.
 
 ## 4. `rom-135-beneficium-divisionis-und-excussionis`
 
-**Frühere Beschreibung:** Beneficium divisionis und beneficium excussionis: Buergenprivilegien im roemischen Recht. Skill behandelt die Aufteilungsbefugnis bei mehreren Buergen (divisionis) und das Vorausklagebefugnis gegen den Hauptschuldner (excussionis). Liefert Quellenmatrix.
+**Fokus:** Beneficium divisionis und beneficium excussionis: Buergenprivilegien im roemischen Recht. Skill behandelt die Aufteilungsbefugnis bei mehreren Buergen (divisionis) und das Vorausklagebefugnis gegen den Hauptschuldner (excussionis). Liefert Quellenmatrix.
 
 # Rom 135 Beneficium Divisionis Und Excussionis
 
@@ -231,7 +231,7 @@ Skill fuer die zwei klassischen Buergenprivilegien.
 
 ## 5. `rom-136-intercessio-frauen-senatusconsultum-velleianum`
 
-**Frühere Beschreibung:** Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix.
+**Fokus:** Intercessio der Frauen und das Senatusconsultum Velleianum: Verbot der Buergschaft durch Frauen fuer fremde Schulden. Skill behandelt das senatusconsultum von ca. 46 n. Chr. die Schutzfunktion und die Umgehung. Liefert Quellenmatrix.
 
 # Rom 136 Intercessio Frauen Senatusconsultum Velleianum
 
@@ -278,7 +278,7 @@ Skill fuer das SC Velleianum.
 
 ## 6. `rom-137-pignus-conventum-hypotheca-praxisfaelle`
 
-**Frühere Beschreibung:** Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix.
+**Fokus:** Pignus conventum und hypotheca: dingliche Sicherheiten im roemischen Recht. Skill behandelt die Unterschiede zwischen pignus mit Besitzuebergabe und hypotheca ohne Besitzuebergabe sowie typische Praxisfaelle landwirtschaftliche Geraete (invecta et illata). Liefert Quellenmatrix.
 
 # Rom 137 Pignus Conventum Hypotheca Praxisfaelle
 
@@ -328,7 +328,7 @@ Skill fuer pignus und hypotheca als dingliche Sicherungsrechte.
 
 ## 7. `rom-139-versicherung-und-risiko-im-roemischen-recht`
 
-**Frühere Beschreibung:** Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft.
+**Fokus:** Versicherung und Risikoverteilung im roemischen Recht. Skill behandelt das Fehlen einer eigenstaendigen Versicherungslehre und die funktionalen Ersatzinstrumente fenus nauticum lex Rhodia receptum nautarum gemeinsame Gefahrtragung. Liefert Synopse zur heutigen Versicherungslandschaft.
 
 # Rom 139 Versicherung Und Risiko Im Roemischen Recht
 
@@ -375,7 +375,7 @@ Skill fuer Versicherungsersatz im roemischen Recht.
 
 ## 8. `rom-140-tutela-fiduciaria-und-pflegevormundschaft-vermoegen`
 
-**Frühere Beschreibung:** Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix.
+**Fokus:** Tutela fiduciaria und Pflegevormundschaft: Vermoegensverwaltung fuer Minderjaehrige und Frauen im roemischen Recht. Skill behandelt die Stellung des Tutor die actio tutelae direkter und konträrer Klage Schutzbestimmungen gegen Untreue des Tutors. Liefert Quellenmatrix.
 
 # Rom 140 Tutela Fiduciaria Und Pflegevormundschaft Vermoegen
 

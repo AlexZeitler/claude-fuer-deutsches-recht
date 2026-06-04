@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-ladung-erhalten-erst-bis-protokoll-und-nachbe
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (ladung-erhalten-erste-orientierung-sitzung, mandanten-oder-beteiligtenkommunikation, protokoll-und-nachbereitung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Ladung Erhalten Erste Orientierung Sitzung, Mandanten Oder Beteiligtenkommunikation, Protokoll Und Nachbereitung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ladung-erhalten-erste-orientierung-sitzung` | Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `mandanten-oder-beteiligtenkommunikation` | Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ladung-erhalten-erste-orientierung-sitzung`
 
-**Frühere Beschreibung:** Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ladung erhalten: erste Orientierung (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei erste Ladung, Ort, Zeit, Entschuldigung, Verdienstausfall und Vorbereitung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ladung erhalten: erste Orientierung: Sitzungspraxis
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `mandanten-oder-beteiligtenkommunikation`
 
-**Frühere Beschreibung:** Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Beteiligtenkommunikation
 
@@ -132,7 +132,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `protokoll-und-nachbereitung`
 
-**Frühere Beschreibung:** Protokoll und Nachbereitung: erklärt sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Protokoll und Nachbereitung: erklärt sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Protokoll und Nachbereitung
 

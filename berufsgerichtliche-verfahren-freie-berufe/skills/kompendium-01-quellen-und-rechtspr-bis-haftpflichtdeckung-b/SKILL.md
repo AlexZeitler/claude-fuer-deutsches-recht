@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-quellen-und-rechtspr-bis-haftpflichtdeckung-b
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (quellen-und-rechtsprechungscheck, frist-und-zustaendigkeit-cockpit, haftpflichtdeckung-berufsverfahren-praevention, haftpflichtdeckung-berufsverfahren-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Quellen Und Rechtsprechungscheck, Frist Und Zustaendigkeit Cockpit, Haftpflichtdeckung Berufsverfahren Praevention, Haftpflichtdeckung Berufsverfahren Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Quellen Und Rechtsprechungscheck bis Haftpflichtdeckung Berufsverfahren Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `quellen-und-rechtsprechungscheck` | Quellen- und Rechtsprechungscheck: prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
 | `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `quellen-und-rechtsprechungscheck`
 
-**Frühere Beschreibung:** Quellen- und Rechtsprechungscheck: prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Quellen- und Rechtsprechungscheck: prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Quellen- und Rechtsprechungscheck
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `frist-und-zustaendigkeit-cockpit`
 
-**Frühere Beschreibung:** Fristen- und Zuständigkeitscockpit: prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Fristen- und Zuständigkeitscockpit: prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Fristen- und Zuständigkeitscockpit
 
@@ -129,7 +129,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `haftpflichtdeckung-berufsverfahren-praevention`
 
-**Frühere Beschreibung:** Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisationspaket): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Haftpflichtdeckung im Berufsverfahren (Präventions- und Organisationspaket): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Haftpflichtdeckung im Berufsverfahren: Präventions- und Organisationspaket
 
@@ -183,7 +183,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `haftpflichtdeckung-berufsverfahren-verteidigung`
 
-**Frühere Beschreibung:** Haftpflichtdeckung im Berufsverfahren (Verteidigungs- und Kammerantwort): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Haftpflichtdeckung im Berufsverfahren (Verteidigungs- und Kammerantwort): steuert Berufshaftpflicht, Deckungsanzeige, Ausschluss, Selbstbehalt und Interessenkonflikt mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Haftpflichtdeckung im Berufsverfahren: Verteidigungs- und Kammerantwort
 

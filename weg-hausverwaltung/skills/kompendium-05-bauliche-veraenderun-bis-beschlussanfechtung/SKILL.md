@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bauliche-veraenderun-bis-beschlussanfechtung
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bauliche-veraenderungen-20-weg, beirat-controlling-verwalter, beschlussanfechtung-risiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - weg-hausverwaltung
+# Arbeitsbereich - Bauliche Veraenderungen 20 Weg, Beirat Controlling Verwalter, Beschlussanfechtung Risiko
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bauliche-veraenderungen-20-weg` | Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitgeräten, Fassadendurchbrüchen und Mieterhandeln. |
 | `beirat-controlling-verwalter` | Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bauliche-veraenderungen-20-weg`
 
-**Frühere Beschreibung:** Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitgeräten, Fassadendurchbrüchen und Mieterhandeln.
+**Fokus:** Prüft bauliche Veränderungen nach §§ 20 und 21 WEG (Stand 05/2026): Anspruch, Gestattung, Grenzen, Kostenfolge, Gebrauch, Auflagen, Rückbau, Beschlussvorschlag und Anfechtungsrisiko, einschließlich der BGH-Linie 2024-2025 zu Klimasplitgeräten, Fassadendurchbrüchen und Mieterhandeln.
 
 # Bauliche Veränderungen nach § 20 WEG
 
@@ -128,7 +128,7 @@ Bauliche Veränderungen so prüfen, dass Anspruch, Gestattung und Kostenfolge ni
 
 ## 2. `beirat-controlling-verwalter`
 
-**Frühere Beschreibung:** Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
+**Fokus:** Unterstützt Verwaltungsbeiräte bei Rechnungsprüfung, Angebotskontrolle, Beschlussvorbereitung, Protokollcheck, Verwalterkommunikation und Eskalationsnotizen (Stand 05/2026); berücksichtigt BGH V ZR 34/24 (Schadensersatzweg über GdWE) und V ZR 167/23 (Abrechnungsanspruch gegen GdWE).
 
 # Beirat: Controlling und Verwalterbegleitung
 
@@ -229,7 +229,7 @@ Der Beirat bekommt eine strukturierte, nicht übergriffige Kontroll- und Unterst
 
 ## 3. `beschlussanfechtung-risiko`
 
-**Frühere Beschreibung:** Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung (V ZR 102/23) und Erkundigungsobliegenheit (V ZR 17/24).
+**Fokus:** Prüft Beschlüsse auf Anfechtungs- und Nichtigkeitsrisiken nach §§ 44 und 45 WEG (Stand 05/2026): Frist, Beschlusskompetenz, Einladung, Tagesordnung, Mehrheit, Kostenfolge, Bestimmtheit, ordnungsmäßige Verwaltung sowie BGH-Linie zu Schlüsseländerung (V ZR 236/23, V ZR 128/23), Abrechnungsauslegung (V ZR 102/23) und Erkundigungsobliegenheit (V ZR 17/24).
 
 # Beschlussanfechtung Risiko
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-board-paper-business-judgment, mittelstand-corporate-ma-closing-bible-archiv, mittelstand-corporate-ma-conflict-gwg-sanctions, mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Board Paper Business Judgment, Mittelstand Corporate Ma Closing Bible Archiv, Mittelstand Corporate Ma Conflict Gwg Sanctions, Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Board Paper Business Judgment bis Mittelstand Corporate Ma Datenqualitaet Xai Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-board-paper-business-judgment` | Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht). |
 | `mittelstand-corporate-ma-closing-bible-archiv` | Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-board-paper-business-judgment`
 
-**Frühere Beschreibung:** Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht).
+**Fokus:** Vorstand GF oder Aufsichtsrat braucht Entscheidungsunterlage für M&A-Beschluss: Board Paper Business-Judgment-Dokumentation KI-Einsatztransparenz. Normen §§ 93 AktG 43 GmbHG Business-Judgment Rule ARAG/Garmenbeck. Prüfraster Informationsgrundlage Alternativen-Abwaegung Risikodokumentation KI-Disclosure Protokollierungspflicht. Output Board-Paper-Entwurf Beschluss-Template Risikomatrix. Abgrenzung zu deal-team-staffing (Rollen) und ki-governance-berufsrecht (KI-Recht).
 
 # Board Paper und Business Judgment
 
@@ -196,7 +196,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mittelstand-corporate-ma-closing-bible-archiv`
 
-**Frühere Beschreibung:** Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess).
+**Fokus:** Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess).
 
 # Closing Bible und Archiv
 
@@ -405,7 +405,7 @@ TAB D — POST-CLOSING OBLIGATIONS
 
 ## 3. `mittelstand-corporate-ma-conflict-gwg-sanctions`
 
-**Frühere Beschreibung:** Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektorrisiken, BRAO 43a.
+**Fokus:** Konflikt- GwG- und Sanktionscheck: Annahmeprüfung Corporate/M&A: Interessenkonflikte, wirtschaftlich Berechtigte, Sanktionen, PEP, Mittelherkunft, Sektorrisiken, BRAO 43a.
 
 # Konflikt-, GwG- und Sanktionscheck
 
@@ -618,7 +618,7 @@ Freigabe: [PARTNER] am [DATUM]
 
 ## 4. `mittelstand-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab.
+**Fokus:** Datenqualität und XAI-Qualitätskontrolle: Sichert KI-gestuetzte M&A-Arbeit gegen Halluzination, Bias, Black-Box-Probleme und schlechte Datenqualität ab.
 
 # Datenqualität und XAI-Qualitätskontrolle
 

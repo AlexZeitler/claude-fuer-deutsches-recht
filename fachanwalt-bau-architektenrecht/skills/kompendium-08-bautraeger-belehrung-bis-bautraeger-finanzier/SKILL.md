@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bautraeger-belehrung-bis-bautraeger-finanzier
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (bautraeger-belehrungspflicht-17-beurkg, bautraeger-bonitaetspruefung-warnsignale, bautraeger-elektronische-notarverkuendung-2023, bautraeger-finanzierungsgrundschuld-belastungsfolge) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Belehrungspflicht 17 Beurkg, Bautraeger Bonitaetspruefung Warnsignale, Bautraeger Elektronische Notarverkuendung 2023, Bautraeger Finanzierungsgrundschuld Belastungsfolge; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Belehrungspflicht 17 Beurkg bis Bautraeger Finanzierungsgrundschuld Belastungsfolge
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-belehrungspflicht-17-beurkg` | Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss. |
 | `bautraeger-bonitaetspruefung-warnsignale` | Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-belehrungspflicht-17-beurkg`
 
-**Frühere Beschreibung:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss.
+**Fokus:** Notar-Belehrungspflicht nach § 17 BeurkG beim Bautraegervertrag. Skill klaert den Umfang die Pflicht zur Erlaeuterung der wirtschaftlichen Bedeutung und die Vorlauffrist von zwei Wochen nach § 17 Abs. 2a BeurkG fuer Verbraucher. Folgen bei Verstoss.
 
 # Bautraeger Belehrungspflicht 17 Beurkg
 
@@ -71,7 +71,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-bonitaetspruefung-warnsignale`
 
-**Frühere Beschreibung:** Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit.
+**Fokus:** Bautraeger-Bonitaetspruefung Warnsignale. Skill listet typische Warnsignale Mangelbild im Bau Verzoegerungen Personalfluktuation und gibt strategische Empfehlungen ob mit Vertrag fortzufahren. Liefert Risiko-Cockpit.
 
 # Bautraeger Bonitaetspruefung Warnsignale
 
@@ -109,7 +109,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `bautraeger-elektronische-notarverkuendung-2023`
 
-**Frühere Beschreibung:** Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster.
+**Fokus:** Elektronische notarielle Verkuendung beim Bautraegervertrag. Skill klaert die Reform 2022/2023 zum elektronischen Notariat die Online-Beurkundung und ihre Anwendbarkeit auf Bautraegervertraege. Stand und Grenzen. Liefert Pruefraster.
 
 # Bautraeger Elektronische Notarverkuendung 2023
 
@@ -141,7 +141,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `bautraeger-finanzierungsgrundschuld-belastungsfolge`
 
-**Frühere Beschreibung:** Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster.
+**Fokus:** Bautraeger-Finanzierungsgrundschuld und Belastungsfolge. Skill klaert wie die Bautraegerfinanzierung mit der Erwerberzahlung verzahnt ist und welche Rolle die Globalgrundschuld spielt. Liefert Pruefraster.
 
 # Bautraeger Finanzierungsgrundschuld Belastungsfolge
 

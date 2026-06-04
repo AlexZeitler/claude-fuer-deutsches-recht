@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-pruefung-rechenschaf-bis-satzung-partei
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (pruefung-rechenschaft, rechenschaftsbericht, satzung-partei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pruefung Rechenschaft, Rechenschaftsbericht, Satzung Partei; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Pruefung Rechenschaft, Rechenschaftsbericht, Satzung Partei
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pruefung-rechenschaft` | Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor. |
 | `rechenschaftsbericht` | Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pruefung-rechenschaft`
 
-**Frühere Beschreibung:** Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor.
+**Fokus:** Bereitet interne/gesetzliche Prüfung, Vorstandserklärung, Nachweise, Stichproben und Fehlerkorrektur vor.
 
 # Prüfung Rechenschaft
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `rechenschaftsbericht`
 
-**Frühere Beschreibung:** Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung.
+**Fokus:** Strukturiert Einnahmen-/Ausgabenrechnung, Vermögensbilanz, Erläuterung, Gebietsverbände und Aufbewahrung.
 
 # Rechenschaftsbericht
 
@@ -168,7 +168,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `satzung-partei`
 
-**Frühere Beschreibung:** Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen.
+**Fokus:** Prüft Satzung gegen Parteiengesetz: Organe, Gebietsverbände, Mitgliedschaft, Beitragsordnung, Schiedsgericht, Kandidatenaufstellung, Finanzen.
 
 # Parteissatzung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-pe-010-fundraising-u-bis-pe-013-capital-calls
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (pe-010-fundraising-und-vertrieb, pe-011-subscription-package-und-side-letter, pe-012-lp-transfer-und-secondary, pe-013-capital-calls-und-defaulting-lp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 010 Fundraising Und Vertrieb, Pe 011 Subscription Package Und Side Letter, Pe 012 Lp Transfer Und Secondary, Pe 013 Capital Calls Und Defaulting Lp; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - private-equity-praxis
+# Arbeitsbereich - Pe 010 Fundraising Und Vertrieb bis Pe 013 Capital Calls Und Defaulting Lp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-010-fundraising-und-vertrieb` | Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation. |
 | `pe-011-subscription-package-und-side-letter` | Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-010-fundraising-und-vertrieb`
 
-**Frühere Beschreibung:** Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation.
+**Fokus:** Prüft Pitch Deck, PPM, Zeichnungsschein, Vertriebsanzeige, Reverse Solicitation und Anlegerkommunikation.
 
 # Fundraising und Vertrieb: Teaser bis Subscription
 
@@ -124,7 +124,7 @@ Marketing-Disclaimer (PPM):
 
 ## 2. `pe-011-subscription-package-und-side-letter`
 
-**Frühere Beschreibung:** Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation.
+**Fokus:** Prüft Beitrittserklärung, KYC, Tax Forms, MFN, Reporting, No-Fault-Divorce, Key-Person und Most-Favoured-Nation.
 
 # Subscription Package und Side Letter
 
@@ -217,7 +217,7 @@ Key Person Suspension (LPA):
 
 ## 3. `pe-012-lp-transfer-und-secondary`
 
-**Frühere Beschreibung:** Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD.
+**Fokus:** Begleitet die Übertragung von Fondsanteilen, Zustimmungserfordernisse, KYC-Neuaufnahme und Käufer-DD.
 
 # LP-Transfer und Secondary Interest Sale
 
@@ -311,7 +311,7 @@ Apportionment of Distributions / Capital Calls (Secondary SPA):
 
 ## 4. `pe-013-capital-calls-und-defaulting-lp`
 
-**Frühere Beschreibung:** Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger.
+**Fokus:** Prüft Kapitalabrufe, Säumnisfolgen, Verwässerung, Verzugszinsen, Ausschluss und Enforcement gegen Anleger.
 
 # Capital Calls und Defaulting LP
 

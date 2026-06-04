@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-legw-ressort-bmvg-bis-legw-ressortaufgaben
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 15; bündelt 8 frühere Spezialskills (legw-ressort-bmvg, legw-ressort-bmwe, legw-ressort-bmwsb, legw-ressort-bmz, legw-ressort-router und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Ressort Bmvg, Legw Ressort Bmwe, Legw Ressort Bmwsb, Legw Ressort Bmz und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - legistik-werkstatt
+# Arbeitsbereich - Legw Ressort Bmvg bis Legw Ressortaufgaben Bmbfsfj
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-ressort-bmvg` | Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug. |
 | `legw-ressort-bmwe` | Heranfuehrung Ressort BMWE (Bundesministerium fuer Wirtschaft und Energie). Schwerpunkt: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV. Fuenf Spezialfelder: energie-und-netzregulierung-enwg; erneuerbare-energien-eeg-windbg; industriepolitik-foerderrecht-und-beihilfen; aussenwirtschaft-und-investitionspruefung; wettbewerb-und-kartellrecht-gwb. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwe und legw-bmwe-Themenslug. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-ressort-bmvg`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMVg (Bundesministerium der Verteidigung). Schwerpunkt: Wehrrecht; militaerische Beschaffung; NATO-Bezuege; Verteidigungstechnologie; Reserve. Kernnormen: SG; WStG; UZwGBw; BwBeschG; NATO-Truppenstatut; AWG; KrWaffKG; ResG. Fuenf Spezialfelder: wehrrecht-und-soldatenstatus; militaerische-beschaffung-und-vergaberecht; nato-und-stationierungsrecht; verteidigungstechnologie-export; reservisten-und-zivilschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmvg und legw-bmvg-Themenslug.
 
 # Ressort-Heranfuehrung BMVg
 
@@ -161,7 +161,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-ressort-bmwe`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMWE (Bundesministerium fuer Wirtschaft und Energie). Schwerpunkt: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV. Fuenf Spezialfelder: energie-und-netzregulierung-enwg; erneuerbare-energien-eeg-windbg; industriepolitik-foerderrecht-und-beihilfen; aussenwirtschaft-und-investitionspruefung; wettbewerb-und-kartellrecht-gwb. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwe und legw-bmwe-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMWE (Bundesministerium fuer Wirtschaft und Energie). Schwerpunkt: Energie und Netze; Erneuerbare; Industriepolitik; Aussenwirtschaft; Wettbewerb. Kernnormen: EnWG; EEG; WindBG; KWKG; BEHG; AWG; AWV; GWB; UStG; ARegV. Fuenf Spezialfelder: energie-und-netzregulierung-enwg; erneuerbare-energien-eeg-windbg; industriepolitik-foerderrecht-und-beihilfen; aussenwirtschaft-und-investitionspruefung; wettbewerb-und-kartellrecht-gwb. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwe und legw-bmwe-Themenslug.
 
 # Ressort-Heranfuehrung BMWE
 
@@ -289,7 +289,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-ressort-bmwsb`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMWSB (Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-planungsrecht-baugb-baunvo; mietrecht-und-wohnungspolitik; stadtentwicklung-und-foerderprogramme; bauproduktenrecht-und-technische-normen; energetische-sanierung-und-geg. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwsb und legw-bmwsb-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMWSB (Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen). Schwerpunkt: Bauplanung; Mietrecht; Stadtentwicklung; Bauprodukte; energetische Sanierung. Kernnormen: BauGB; BauNVO; BGB Mietrecht; StaedtebauFoerdG; BauPG; BauPVO; GEG; WoFG. Fuenf Spezialfelder: bau-und-planungsrecht-baugb-baunvo; mietrecht-und-wohnungspolitik; stadtentwicklung-und-foerderprogramme; bauproduktenrecht-und-technische-normen; energetische-sanierung-und-geg. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmwsb und legw-bmwsb-Themenslug.
 
 # Ressort-Heranfuehrung BMWSB
 
@@ -417,7 +417,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-ressort-bmz`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMZ (Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf Spezialfelder: entwicklungszusammenarbeit-und-bilaterale-abkommen; humanitaere-hilfe-und-krisenpraevention; internationale-klimafinanzierung; menschenrechte-in-lieferketten-lksg; multilaterale-zusammenarbeit-und-eu. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmz und legw-bmz-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMZ (Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung). Schwerpunkt: Entwicklungszusammenarbeit; humanitaere Hilfe; Klimafinanzierung; Lieferketten; Multilaterales. Kernnormen: Bilaterale Abkommen; LkSG; KSG; Pariser Abkommen (BGBl); EUZBLG; HBKG. Fuenf Spezialfelder: entwicklungszusammenarbeit-und-bilaterale-abkommen; humanitaere-hilfe-und-krisenpraevention; internationale-klimafinanzierung; menschenrechte-in-lieferketten-lksg; multilaterale-zusammenarbeit-und-eu. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmz und legw-bmz-Themenslug.
 
 # Ressort-Heranfuehrung BMZ
 
@@ -545,7 +545,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-ressort-router`
 
-**Frühere Beschreibung:** Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahme in das richtige Bundes-Ressort. Klaert Ressort-Kuerzel BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ; BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ und BMWSB. Pro Ressort: Heranfuehrung; Ressortaufgaben; fuenf Spezialfelder. Output: gewaehltes Ressort plus Skill-Empfehlungskette. Abgrenzung: legistik-auftragsaufnahme (vorher); normhierarchie-routing (Normwahl); normenkartierung (Bestandskartierung).
+**Fokus:** Ressort-Router der Legistik-Werkstatt: leitet nach Auftragsaufnahme in das richtige Bundes-Ressort. Klaert Ressort-Kuerzel BMF; BMI; AA; BMVg; BMWE; BMFTR; BMJV; BMBFSFJ; BMAS; BMDS; BMV; BMUKN; BMG; BMLEH; BMZ und BMWSB. Pro Ressort: Heranfuehrung; Ressortaufgaben; fuenf Spezialfelder. Output: gewaehltes Ressort plus Skill-Empfehlungskette. Abgrenzung: legistik-auftragsaufnahme (vorher); normhierarchie-routing (Normwahl); normenkartierung (Bestandskartierung).
 
 # Legistik-Werkstatt - Ressort-Router
 
@@ -644,7 +644,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-ressortaufgaben-aa`
 
-**Frühere Beschreibung:** Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereich Auswaertiges Amt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-aa-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-aa (Heranfuehrung).
+**Fokus:** Ressortaufgaben AA: typische Legistik-Aufgaben im Geschaeftsbereich Auswaertiges Amt. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-aa-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-aa (Heranfuehrung).
 
 # Ressortaufgaben AA
 
@@ -748,7 +748,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-ressortaufgaben-bmas`
 
-**Frühere Beschreibung:** Ressortaufgaben BMAS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Arbeit und Soziales. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmas-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMAS: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Arbeit und Soziales. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmas-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
 
 # Ressortaufgaben BMAS
 
@@ -852,7 +852,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-ressortaufgaben-bmbfsfj`
 
-**Frühere Beschreibung:** Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmbfsfj-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMBFSFJ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmbfsfj-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Ressortaufgaben BMBFSFJ
 

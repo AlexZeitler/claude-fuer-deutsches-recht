@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-laienhilfe-bescheid-bis-laienhilfe-checklist
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (laienhilfe-bescheid-verstehen, laienhilfe-beweise-atteste, laienhilfe-buergergeld-bedarf, laienhilfe-checkliste-vor-absenden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laienhilfe Bescheid Verstehen, Laienhilfe Beweise Atteste, Laienhilfe Buergergeld Bedarf, Laienhilfe Checkliste Vor Absenden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-sozialrecht
+# Arbeitsbereich - Laienhilfe Bescheid Verstehen bis Laienhilfe Checkliste Vor Absenden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `laienhilfe-bescheid-verstehen` | Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-beweise-atteste` | Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `laienhilfe-bescheid-verstehen`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Bescheid Verstehen. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Bescheid Verstehen
 
@@ -110,7 +110,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-beweise-atteste`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Beweise Atteste. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Beweise Atteste
 
@@ -200,7 +200,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-buergergeld-bedarf`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Buergergeld Bedarf. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Buergergeld Bedarf
 
@@ -281,7 +281,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-checkliste-vor-absenden`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Checkliste Vor Absenden. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Checkliste Vor Absenden
 

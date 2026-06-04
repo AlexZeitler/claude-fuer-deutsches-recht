@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-see-073-offshore-sch-bis-see-113-charterparty
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (see-073-offshore-schiff-kaufvertrag-scopen, see-083-binnenschiff-kaufvertrag-scopen, see-093-kreuzfahrtschiff-kaufvertrag-scopen, see-103-konnossement-kaufvertrag-scopen, see-113-charterparty-kaufvertrag-scopen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 073 Offshore Schiff Kaufvertrag Scopen, See 083 Binnenschiff Kaufvertrag Scopen, See 093 Kreuzfahrtschiff Kaufvertrag Scopen, See 103 Konnossement Kaufvertrag Scopen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 073 Offshore Schiff Kaufvertrag Scopen bis See 113 Charterparty Kaufvertrag Scopen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-073-offshore-schiff-kaufvertrag-scopen` | Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag fuer Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. |
 | `see-083-binnenschiff-kaufvertrag-scopen` | Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-073-offshore-schiff-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag fuer Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren scopet Kaufvertrag fuer Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Offshore-Schiff – Kaufvertrag scopen
 
@@ -110,7 +110,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 2. `see-083-binnenschiff-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut scopet Kaufvertrag fuer Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Binnenschiff – Kaufvertrag scopen
 
@@ -190,7 +190,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 3. `see-093-kreuzfahrtschiff-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag fuer Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger scopet Kaufvertrag fuer Kreuzfahrtschiff oder grosses Fahrgastschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Kreuzfahrtschiff – Kaufvertrag scopen
 
@@ -270,7 +270,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 4. `see-103-konnossement-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag fuer Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Konnossement: Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank scopet Kaufvertrag fuer Konnossements-Transaktion (Bill of Lading): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Konnossement – Kaufvertrag scopen
 
@@ -350,7 +350,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 5. `see-113-charterparty-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer scopet Kaufvertrag fuer Gechartertes Seeschiff unter Charterparty: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Charterparty: Reeder; Time Charterer; Voyage Charterer; Bareboat Charterer scopet Kaufvertrag fuer Gechartertes Seeschiff unter Charterparty: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 527-569 Reise- und Zeitfrachtvertrag; NYPE 2015; Baltime 2001. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Charterparty – Kaufvertrag scopen
 

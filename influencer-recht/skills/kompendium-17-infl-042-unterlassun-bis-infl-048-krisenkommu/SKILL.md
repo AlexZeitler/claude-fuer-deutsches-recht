@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-infl-042-unterlassun-bis-infl-048-krisenkommu
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (infl-042-unterlassungserklaerung-influencer-pruefen, infl-047-plattform-analytics-als-beweis, infl-048-krisenkommunikation-shitstorm-und-richtigstellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 042 Unterlassungserklaerung Influencer Pruefen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Richtigstellung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - influencer-recht
+# Arbeitsbereich - Infl 042 Unterlassungserklaerung Influencer Pruefen, Infl 047 Plattform Analytics Als Beweis, Infl 048 Krisenkommunikation Shitstorm Und Rich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-042-unterlassungserklaerung-influencer-pruefen` | Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß. |
 | `infl-047-plattform-analytics-als-beweis` | Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-042-unterlassungserklaerung-influencer-pruefen`
 
-**Frühere Beschreibung:** Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß.
+**Fokus:** Influencer-Recht: Unterlassungserklärung prüfen und gestalten – Reichweite, Vertragsstrafe, Modifikation und Folgen bei Verstoß.
 
 # Influencer-Recht: Unterlassungserklärung prüfen
 
@@ -96,7 +96,7 @@ Die Unterlassungserklärung ist ein rechtlich bindender Vertrag mit erheblichen 
 
 ## 2. `infl-047-plattform-analytics-als-beweis`
 
-**Frühere Beschreibung:** Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung.
+**Fokus:** Influencer-Recht: Plattform-Analytics als Beweismittel – Reichweite, Impressions, Abrechnung, Streit mit Brand und Prozessführung.
 
 # Influencer-Recht: Plattform-Analytics als Beweis
 
@@ -161,7 +161,7 @@ Analytics-Daten sind in Streitigkeiten zwischen Creator und Brand oft entscheide
 
 ## 3. `infl-048-krisenkommunikation-shitstorm-und-richtigstellung`
 
-**Frühere Beschreibung:** Influencer-Recht: Krisenkommunikation bei Shitstorm – rechtliche Grenzen, Richtigstellung, Löschpflichten, Widerruf und Persönlichkeitsrecht.
+**Fokus:** Influencer-Recht: Krisenkommunikation bei Shitstorm – rechtliche Grenzen, Richtigstellung, Löschpflichten, Widerruf und Persönlichkeitsrecht.
 
 # Influencer-Recht: Krisenkommunikation – Shitstorm und Richtigstellung
 

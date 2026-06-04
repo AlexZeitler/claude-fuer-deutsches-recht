@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vermoegensabschoepfu-bis-verstaendigung-deal
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (vermoegensabschoepfung-dritt-arrest, vermoegensabschoepfung-einziehung, verstaendigung-deal-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vermoegensabschoepfung Dritt Arrest, Vermoegensabschoepfung Einziehung, Verstaendigung Deal Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Vermoegensabschoepfung Dritt Arrest, Vermoegensabschoepfung Einziehung, Verstaendigung Deal Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vermoegensabschoepfung-dritt-arrest` | Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine fuer Aufhebung. |
 | `vermoegensabschoepfung-einziehung` | Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vermoegensabschoepfung-dritt-arrest`
 
-**Frühere Beschreibung:** Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine fuer Aufhebung.
+**Fokus:** Spezialfall Dritt-Arrest in der Vermoegensabschoepfung §§ 111e ff. StPO: Arrest gegen Konten Dritter (Ehepartner, Briefkasten-Gesellschaft), Glaubhaftmachung, Verhaeltnismaessigkeit, einstweilige Beschwerde § 304 StPO. Pruefraster und Schriftsatzbausteine fuer Aufhebung.
 
 # Strafrecht: Dritt-Arrest
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 2. `vermoegensabschoepfung-einziehung`
 
-**Frühere Beschreibung:** Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO).
+**Fokus:** Vermoegensabschoepfung §§ 73 ff. StGB pruefen und angreifen: Brutto-Prinzip, erweiterte Einziehung § 73a StGB, Wertersatzeinziehung § 73c StGB, gutglaeubige Dritte § 73e StGB. Pruefraster, Antragsentwurf gegen Einziehung, Saemtliche Sicherstellungen pruefen (§§ 111b ff. StPO).
 
 # Vermoegensabschoepfung/Einziehung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `verstaendigung-deal-strategie`
 
-**Frühere Beschreibung:** Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden.
+**Fokus:** Verstaendigung im Strafverfahren § 257c StPO vorbereiten: Anregung an das Gericht, Ober- und Untergrenze Strafe, Gestaendnis-Inhalt, kein Geschaeft ueber Schuldspruch. Pruefraster: BGH 1 StR 70/13 und BVerfG 2 BvR 2628/10. Output Verstaendigungs-Memo und Mandantengespraechs-Leitfaden.
 
 # Verstaendigung (Deal) Strategie
 

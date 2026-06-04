@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-beweismittel-vorab-s-bis-dolmetscher-185-gvg
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (beweismittel-vorab-sammeln-checkliste, dokumenten-erzeugung-pdf-laien-amtsgericht, dolmetscher-185-gvg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Beweismittel Vorab Sammeln Checkliste, Dokumenten Erzeugung Pdf Laien Amtsgericht, Dolmetscher 185 Gvg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beweismittel-vorab-sammeln-checkliste` | Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist. |
 | `dokumenten-erzeugung-pdf-laien-amtsgericht` | PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beweismittel-vorab-sammeln-checkliste`
 
-**Frühere Beschreibung:** Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist.
+**Fokus:** Checkliste für die Sammlung von Beweismitteln vor Klage. Vertrag E-Mail Rechnung Zahlung Lieferschein Foto Zeugen Chronologie. Wie Sie systematisch das Beweismaterial ordnen bevor Sie zur Klage greifen und was bei jedem Beweismittel zu beachten ist.
 
 # Sammeln Sie Beweise — bevor Sie klagen
 
@@ -191,7 +191,7 @@ Stand: 05/2026. ZPO-Beweisrecht stabil. Praxis-Tipp.
 
 ## 2. `dokumenten-erzeugung-pdf-laien-amtsgericht`
 
-**Frühere Beschreibung:** PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools.
+**Fokus:** PDF-Erstellung für Klage Klageerwiderung Replik Anlagen am Amtsgericht. Word LibreOffice direkter PDF-Export. Scanner-App Handy. OCR für durchsuchbaren Text. Dateinamen-Konvention. Komprimieren bei MJP-Obergrenze 60 MB. Datenschutz bei Online-Tools.
 
 # PDF-Erzeugung fuer Ihre Klage — von Word bis Scanner-App
 
@@ -351,7 +351,7 @@ Stand: 05/2026. Mein Justizpostfach (MJP) seit 2024 in Betrieb. PDF/A ist das vo
 
 ## 3. `dolmetscher-185-gvg`
 
-**Frühere Beschreibung:** Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden für Selbstvertreter mit nicht-Deutsch als Muttersprache.
+**Fokus:** Dolmetscher im Zivilprozess nach § 185 GVG. Wann hat man Anspruch auf Dolmetscher Verfahrenssprache deutsch Kosten Eil-Antrag bei Sprachbarriere. Praktischer Leitfaden für Selbstvertreter mit nicht-Deutsch als Muttersprache.
 
 # Dolmetscher im Verfahren
 

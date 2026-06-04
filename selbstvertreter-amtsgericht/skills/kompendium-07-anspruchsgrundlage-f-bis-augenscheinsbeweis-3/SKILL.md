@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-anspruchsgrundlage-f-bis-augenscheinsbeweis-3
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (anspruchsgrundlage-finden-laienhilfe, anwaltszwang-pruefen-78-zpo, augenscheinsbeweis-371-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anspruchsgrundlage Finden Laienhilfe, Anwaltszwang Pruefen 78 Zpo, Augenscheinsbeweis 371 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Anspruchsgrundlage Finden Laienhilfe, Anwaltszwang Pruefen 78 Zpo, Augenscheinsbeweis 371 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anspruchsgrundlage-finden-laienhilfe` | Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag. |
 | `anwaltszwang-pruefen-78-zpo` | Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anspruchsgrundlage-finden-laienhilfe`
 
-**Frühere Beschreibung:** Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag.
+**Fokus:** Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag.
 
 # Welche Norm traegt Ihren Anspruch?
 
@@ -167,7 +167,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `anwaltszwang-pruefen-78-zpo`
 
-**Frühere Beschreibung:** Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen.
+**Fokus:** Prüfung des Anwaltszwangs nach § 78 ZPO. Vor dem Amtsgericht im Zivilprozess besteht grundsaetzlich kein Anwaltszwang. Klaert Ausnahmen Familiensachen ZPO-Spezialverfahren und die Folge für Buerger die sich selbst vertreten wollen.
 
 # Brauche ich vor dem Amtsgericht einen Anwalt?
 
@@ -270,7 +270,7 @@ Stand: 05/2026. § 78 ZPO und § 114 FamFG unveraendert. Achtung beim Arbeitsger
 
 ## 3. `augenscheinsbeweis-371-zpo`
 
-**Frühere Beschreibung:** Augenscheinsbeweis nach § 371 ZPO. Inaugenscheinnahme von Sachen am Ort oder im Gericht Fotos Videos als Augenscheins-Objekte. Wann Augenschein sinnvoll ist Bezeichnung im Beweisantrag und Sicherung von veraenderlichen Objekten.
+**Fokus:** Augenscheinsbeweis nach § 371 ZPO. Inaugenscheinnahme von Sachen am Ort oder im Gericht Fotos Videos als Augenscheins-Objekte. Wann Augenschein sinnvoll ist Bezeichnung im Beweisantrag und Sicherung von veraenderlichen Objekten.
 
 # Augenscheinsbeweis: Wenn das Gericht selbst sehen muss
 

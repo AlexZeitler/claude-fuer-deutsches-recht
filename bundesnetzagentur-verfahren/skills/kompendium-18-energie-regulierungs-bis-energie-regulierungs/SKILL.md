@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-energie-regulierungs-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 18; bündelt 8 frühere Spezialskills (energie-regulierungsakte-netzanschluss-strom-rechtsmittel-check, energie-regulierungsakte-netzanschluss-strom-stellungnahme-entwu, energie-regulierungsakte-netzanschluss-strom-unterlagenanforderu, energie-regulierungsakte-netzentgelte-gas-rechtsmittel-check, energie-regulierungsakte-netzentgelte-gas-unterlagenanforderung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Regulierungsakte Netzanschluss Strom Rechtsmittel Check, Energie Regulierungsakte Netzanschluss Strom Stellungnahme Entwu, Energie Regulierungsakte Netzanschluss Strom Unterlagenanforderu, Energie Regulierungsakte Netzentgelte Gas Rechtsmittel Check und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster u"
 ---
 
-# Kompendium 18 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Regulierungsakte Netzanschluss Strom Rechtsmittel Check bis Energie Regulierungsakte Netzentgelte Strom Unterlagenanforderun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-regulierungsakte-netzanschluss-strom-rechtsmittel-check` | Netzanschluss Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-netzanschluss-strom-stellungnahme-entwu` | Netzanschluss Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-regulierungsakte-netzanschluss-strom-rechtsmittel-check`
 
-**Frühere Beschreibung:** Netzanschluss Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzanschluss Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Rechtsmittel-Check
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-regulierungsakte-netzanschluss-strom-stellungnahme-entwu`
 
-**Frühere Beschreibung:** Netzanschluss Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzanschluss Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Stellungnahme-Entwurf
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-regulierungsakte-netzanschluss-strom-unterlagenanforderu`
 
-**Frühere Beschreibung:** Netzanschluss Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzanschluss Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzanschluss Strom — Unterlagenanforderung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-netzentgelte-gas-rechtsmittel-check`
 
-**Frühere Beschreibung:** Netzentgelte Gas: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Gas: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Gas — Rechtsmittel-Check
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-netzentgelte-gas-unterlagenanforderung`
 
-**Frühere Beschreibung:** Netzentgelte Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Gas — Unterlagenanforderung
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-netzentgelte-strom-rechtsmittel-check`
 
-**Frühere Beschreibung:** Netzentgelte Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Rechtsmittel-Check
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-netzentgelte-strom-stellungnahme-entwur`
 
-**Frühere Beschreibung:** Netzentgelte Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Stellungnahme-Entwurf
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-netzentgelte-strom-unterlagenanforderun`
 
-**Frühere Beschreibung:** Netzentgelte Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Strom — Unterlagenanforderung
 

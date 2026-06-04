@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-aufsichtsrat-kartell-bis-aufsichtsrat-meldepf
-description: "aufsichtsrat-ag-se-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (aufsichtsrat-kartellrecht-red-flags, aufsichtsrat-ki-einsatz-und-governance, aufsichtsrat-krisenkommunikation, aufsichtsrat-meldepflichten-bafin) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aufsichtsrat-ag-se-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufsichtsrat Kartellrecht Red Flags, Aufsichtsrat Ki Einsatz Und Governance, Aufsichtsrat Krisenkommunikation, Aufsichtsrat Meldepflichten Bafin; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - aufsichtsrat-ag-se-praxis
+# Arbeitsbereich - Aufsichtsrat Kartellrecht Red Flags bis Aufsichtsrat Meldepflichten Bafin
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aufsichtsrat-kartellrecht-red-flags` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Kartellrecht Red Flags; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `aufsichtsrat-ki-einsatz-und-governance` | AG/SE-Aufsichtsrat Praxis: Aufsichtsrat KI Einsatz Und Governance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aufsichtsrat-kartellrecht-red-flags`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Kartellrecht Red Flags; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Kartellrecht Red Flags; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Kartellrecht Red Flags
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `aufsichtsrat-ki-einsatz-und-governance`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat KI Einsatz Und Governance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat KI Einsatz Und Governance; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat KI Einsatz Und Governance
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `aufsichtsrat-krisenkommunikation`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Krisenkommunikation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Krisenkommunikation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Krisenkommunikation
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `aufsichtsrat-meldepflichten-bafin`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Meldepflichten Bafin; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Aufsichtsrat Meldepflichten Bafin; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Aufsichtsrat Meldepflichten Bafin
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-umweltrecht-bussgeld-bis-uwr-emissionshandel
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (umweltrecht-bussgeld-sanktionen, umweltrecht-emissionshandel-tehg, uwr-emissionshandel-ets-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - umweltrecht
+# Arbeitsbereich - Umweltrecht Bussgeld Sanktionen, Umweltrecht Emissionshandel Tehg, Uwr Emissionshandel Ets Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umweltrecht-bussgeld-sanktionen` | Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung). |
 | `umweltrecht-emissionshandel-tehg` | Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umweltrecht-bussgeld-sanktionen`
 
-**Frühere Beschreibung:** Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung).
+**Fokus:** Unternehmen erhaelt Anhoerung oder Bußgeld-Bescheid wegen Umwelt-Ordnungswidrigkeit und will sich verteidigen. Normen OWiG §§ 55 67 68 BImSchG §§ 62 64 KrWG §§ 69 70 WHG § 103 BNatSchG §§ 69 71a Bußgeld bis 100000 EUR. Prüfraster Tatbestandsprüfung Verjährung Verwertungsverbote Verteidigungsargumente. Output Verteidigungsschrift Widerspruch Akteneinsicht-Antrag. Abgrenzung zu umweltrecht-verfahren (Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (Genehmigung).
 
 # Bussgeld, Sanktionen und Anhoerung im Umweltrecht
 
@@ -172,7 +172,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `umweltrecht-emissionshandel-tehg`
 
-**Frühere Beschreibung:** Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht).
+**Fokus:** Anlagenbetreiber begutachtet Zuteilungsantrag Monitoring Abgabepflicht oder wehrt DEHSt-Sanktion ab. TEHG §§ 4 5 7 8 9 26 ZuV 2020 BEHG. Abgabe bis 30. April Sanktion 100 EUR je fehlende Tonne CO2. Prüfraster Zuteilungs-Berechnung Monitoring-Pflichten Abgabe-Frist DEHSt-Anordnung. Output Zuteilungsantrag-Entwurf Monitoring-Konzept Klagestrategie. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und esg-greenwashing-csrd (ESG-Berichtspflicht).
 
 # Emissionshandel und TEHG
 
@@ -289,7 +289,7 @@ Anlagen: Produktionsdaten, Pruefstellen-Bericht, Benchmark-Berechnung
 
 ## 3. `uwr-emissionshandel-ets-spezial`
 
-**Frühere Beschreibung:** Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 fuer Importe. Pruefraster fuer Industriebetriebe und Sanktionen bei Verstoss.
+**Fokus:** Spezialfall EU-Emissionshandel ETS: Anwendungsbereich, Zuteilung kostenloser Zertifikate, Berichts- und Abgabepflicht, CBAM seit 2026 fuer Importe. Pruefraster fuer Industriebetriebe und Sanktionen bei Verstoss.
 
 # Umwelt: ETS und CBAM
 

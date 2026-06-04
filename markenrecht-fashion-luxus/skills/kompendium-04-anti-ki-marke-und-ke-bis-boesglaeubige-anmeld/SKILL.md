@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anti-ki-marke-und-ke-bis-boesglaeubige-anmeld
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anti-ki-marke-und-kennzeichen, beweissicherung-testkauf-screenshot-chain, bildmarke-und-wort-bild, boesglaeubige-anmeldung-und-sperrmarke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anti Ki Marke Und Kennzeichen, Beweissicherung Testkauf Screenshot Chain, Bildmarke Und Wort Bild, Boesglaeubige Anmeldung Und Sperrmarke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - markenrecht-fashion-luxus
+# Arbeitsbereich - Anti Ki Marke Und Kennzeichen bis Boesglaeubige Anmeldung Und Sperrmarke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anti-ki-marke-und-kennzeichen` | Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill. |
 | `beweissicherung-testkauf-screenshot-chain` | Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anti-ki-marke-und-kennzeichen`
 
-**Frühere Beschreibung:** Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill.
+**Fokus:** Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill.
 
 # Anti-KI-Marken und Authentizitätskennzeichen
 
@@ -176,7 +176,7 @@ Bevor das Anti-KI-Label entwickelt wird, kläre:
 
 ## 2. `beweissicherung-testkauf-screenshot-chain`
 
-**Frühere Beschreibung:** Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen.
+**Fokus:** Beweissicherung im Markenrecht organisieren: Testkauf, Screenshot-Protokoll, Hashwerte, Zeugen, Produktvergleich, Chain of Custody, Plattformdaten, Messefund und gerichtsfeste Anlagen.
 
 # Beweissicherung, Testkauf und Screenshot
 
@@ -228,7 +228,7 @@ Keine heimlichen oder rechtswidrigen Methoden vorschlagen. Beweissicherung bleib
 
 ## 3. `bildmarke-und-wort-bild`
 
-**Frühere Beschreibung:** Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Prüfraster: Bildbestandteil-Schutzumfang, Farbansprüche RGB/Pantone/HKS, Unterscheidungskraft des Logos, Kollisions-Vorrecherche. Output Anmelde-Strategie für Bild-/Wort-Bild-Marke, Farbanspruch-Formulierung, Vienna-Class-Empfehlung. Abgrenzung: Wort-Element siehe wortmarke-anmeldung-dpma; 3D-Marke siehe dreidimensionale-marke.
+**Fokus:** Bildmarke und Wort-Bild-Marke für Couture-Logos beim DPMA und EUIPO anmelden: Modehaus will Logo grafisch schützen einschließlich Farbansprüchen. Normen: §§ 3 und 8 MarkenG sowie Art. 4 UMV, Vienna Classification (EUIPO-Bilddatenbank). Prüfraster: Bildbestandteil-Schutzumfang, Farbansprüche RGB/Pantone/HKS, Unterscheidungskraft des Logos, Kollisions-Vorrecherche. Output Anmelde-Strategie für Bild-/Wort-Bild-Marke, Farbanspruch-Formulierung, Vienna-Class-Empfehlung. Abgrenzung: Wort-Element siehe wortmarke-anmeldung-dpma; 3D-Marke siehe dreidimensionale-marke.
 
 # Bildmarke und Wort-Bild-Marke für Couture-Logos
 
@@ -347,7 +347,7 @@ Bevor die Bildmarke eingereicht wird, klaere:
 
 ## 4. `boesglaeubige-anmeldung-und-sperrmarke`
 
-**Frühere Beschreibung:** Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung.
+**Fokus:** Bösgläubige Markenanmeldung, Sperrmarke und Trittbrettfahrer prüfen: Kenntnis älterer Benutzung, Behinderungsabsicht, Serienanmeldungen, Abmahnmodell, Nichtigkeit, Gegenabmahnung und Beweisführung.
 
 # Bösgläubige Anmeldung und Sperrmarke
 

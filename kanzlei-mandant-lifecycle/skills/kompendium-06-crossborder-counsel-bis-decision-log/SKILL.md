@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-crossborder-counsel-bis-decision-log
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (crossborder-counsel-sync, dashboard-matter-status, data-room-for-board, datenschutz-avv-legalops, decision-log) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Crossborder Counsel Sync, Dashboard Matter Status, Data Room For Board, Datenschutz Avv Legalops und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Crossborder Counsel Sync bis Decision Log
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `crossborder-counsel-sync` | Cross-Border Counsel Sync: steuert ausländische Kanzleien, Privilege, Budget, Zeitzonen und konsolidierte Strategie verbinden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `dashboard-matter-status` | Matter Status Dashboard: steuert Ampel zu Fortschritt, Budget, Frist, Erfolgsaussicht, Blockern und Entscheiderfragen erzeugen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `crossborder-counsel-sync`
 
-**Frühere Beschreibung:** Cross-Border Counsel Sync: steuert ausländische Kanzleien, Privilege, Budget, Zeitzonen und konsolidierte Strategie verbinden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Cross-Border Counsel Sync: steuert ausländische Kanzleien, Privilege, Budget, Zeitzonen und konsolidierte Strategie verbinden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Cross-Border Counsel Sync
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `dashboard-matter-status`
 
-**Frühere Beschreibung:** Matter Status Dashboard: steuert Ampel zu Fortschritt, Budget, Frist, Erfolgsaussicht, Blockern und Entscheiderfragen erzeugen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Matter Status Dashboard: steuert Ampel zu Fortschritt, Budget, Frist, Erfolgsaussicht, Blockern und Entscheiderfragen erzeugen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Matter Status Dashboard
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `data-room-for-board`
 
-**Frühere Beschreibung:** Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Datenraum für Board/Gremien: steuert Gremienunterlagen, Rechte, Versionen, Beschlüsse und Kanzleiinput sicher teilen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Datenraum für Board/Gremien
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `datenschutz-avv-legalops`
 
-**Frühere Beschreibung:** Datenschutz bei Legal-Ops-Tools: steuert Matter-Management, eBilling, KI-Tool, DMS und gemeinsame Dashboards datenschutz- und berufsrechtsfest machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Datenschutz bei Legal-Ops-Tools: steuert Matter-Management, eBilling, KI-Tool, DMS und gemeinsame Dashboards datenschutz- und berufsrechtsfest machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Datenschutz bei Legal-Ops-Tools
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `decision-log`
 
-**Frühere Beschreibung:** Decision Log: steuert Mandantenentscheidungen, Optionen, Warnungen, Freigaben und Nichtentscheidungen beweisbar dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Decision Log: steuert Mandantenentscheidungen, Optionen, Warnungen, Freigaben und Nichtentscheidungen beweisbar dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Decision Log
 

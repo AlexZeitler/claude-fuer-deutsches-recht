@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-b2b-shop-und-unterne-bis-barrierefreiheitssta
-description: "ecommerce-recht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (b2b-shop-und-unternehmernachweis, b2c-b2b-plattform-marktplatz-routing, barrierefreiheitsstaerkungsgesetz-ab-2025) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ecommerce-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu B2b Shop Und Unternehmernachweis, B2c B2b Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - ecommerce-recht
+# Arbeitsbereich - B2b Shop Und Unternehmernachweis, B2c B2b Plattform Marktplatz Routing, Barrierefreiheitsstaerkungsgesetz Ab 2025
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `b2b-shop-und-unternehmernachweis` | B2B-Shop und Unternehmernachweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG. |
 | `b2c-b2b-plattform-marktplatz-routing` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `b2b-shop-und-unternehmernachweis`
 
-**Frühere Beschreibung:** B2B-Shop und Unternehmernachweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG.
+**Fokus:** B2B-Shop und Unternehmernachweis: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG.
 
 # B2B-Shop und Unternehmernachweis
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `b2c-b2b-plattform-marktplatz-routing`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema B2C B2B Plattform Marktplatz Routing.
 
 # B2C B2B Plattform Marktplatz Routing
 
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `barrierefreiheitsstaerkungsgesetz-ab-2025`
 
-**Frühere Beschreibung:** Barrierefreiheitsstärkungsgesetz ab 2025: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG.
+**Fokus:** Barrierefreiheitsstärkungsgesetz ab 2025: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: BGB §§ 312 ff., 355 und 327 ff., 434 ff.; EGBGB Informationspflichten; PAngV; UWG; DDG; DSA; DSGVO; BFSG; GPSR; ElektroG/VerpackG/BattG.
 
 # Barrierefreiheitsstärkungsgesetz ab 2025
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kueschk-klageschrift-bis-kueschk-paragraph-12
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (kueschk-klageschrift-laie-baustein, kueschk-kuendigungsgrund-personen-verhalten-betrieb, kueschk-muendliche-verhandlung-praxistipps-laie, kueschk-paragraph-12-kschg-neuer-job-einseitig) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kueschk Klageschrift Laie Baustein, Kueschk Kuendigungsgrund Personen Verhalten Betrieb, Kueschk Muendliche Verhandlung Praxistipps Laie, Kueschk Paragraph 12 Kschg Neuer Job Einseitig; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - arbeitsrecht
+# Arbeitsbereich - Kueschk Klageschrift Laie Baustein bis Kueschk Paragraph 12 Kschg Neuer Job Einseitig
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kueschk-klageschrift-laie-baustein` | Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf. |
 | `kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kueschk-klageschrift-laie-baustein`
 
-**Frühere Beschreibung:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf.
+**Fokus:** Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf.
 
 # Klageschrift für Laien — Baustein
 
@@ -186,7 +186,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 2. `kueschk-kuendigungsgrund-personen-verhalten-betrieb`
 
-**Frühere Beschreibung:** Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts.
+**Fokus:** Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts.
 
 # Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt
 
@@ -284,7 +284,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `kueschk-muendliche-verhandlung-praxistipps-laie`
 
-**Frühere Beschreibung:** Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation.
+**Fokus:** Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation.
 
 # Mündliche Verhandlung: Praxistipps für Laien
 
@@ -397,7 +397,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 4. `kueschk-paragraph-12-kschg-neuer-job-einseitig`
 
-**Frühere Beschreibung:** § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung.
+**Fokus:** § 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung.
 
 # § 12 KSchG: Einseitige Lösung nach neuem Job
 

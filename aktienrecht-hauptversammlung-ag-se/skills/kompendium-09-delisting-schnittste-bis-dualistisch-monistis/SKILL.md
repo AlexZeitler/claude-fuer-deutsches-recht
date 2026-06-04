@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-delisting-schnittste-bis-dualistisch-monistis
-description: "aktienrecht-hauptversammlung-ag-se: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (delisting-schnittstelle, dienstleister-briefing, dividendenstreit, dualistisch-monistisch-se) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktienrecht-hauptversammlung-ag-se: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Delisting Schnittstelle, Dienstleister Briefing, Dividendenstreit, Dualistisch Monistisch Se; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - aktienrecht-hauptversammlung-ag-se
+# Arbeitsbereich - Delisting Schnittstelle bis Dualistisch Monistisch Se
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `delisting-schnittstelle` | Hauptversammlung AG und SE: Delisting Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `dienstleister-briefing` | Hauptversammlung AG und SE: Dienstleister Briefing; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `delisting-schnittstelle`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Delisting Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Delisting Schnittstelle; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Delisting Schnittstelle
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `dienstleister-briefing`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Dienstleister Briefing; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Dienstleister Briefing; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dienstleister Briefing
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `dividendenstreit`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Dividendenstreit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Dividendenstreit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dividendenstreit
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dualistisch-monistisch-se`
 
-**Frühere Beschreibung:** Hauptversammlung AG und SE: Dualistisch Monistisch SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Hauptversammlung AG und SE: Dualistisch Monistisch SE; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dualistisch Monistisch SE
 

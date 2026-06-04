@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-selbststaendige-lehr-bis-stellungnahme-drv
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (selbststaendige-lehrer-sgbvi2, sozialgericht-klage, statusbescheid-bestandskraft, stellungnahme-drv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Selbststaendige Lehrer Sgbvi2, Sozialgericht Klage, Statusbescheid Bestandskraft, Stellungnahme Drv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Selbststaendige Lehrer Sgbvi2 bis Stellungnahme Drv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `selbststaendige-lehrer-sgbvi2` | Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus. |
 | `sozialgericht-klage` | Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `selbststaendige-lehrer-sgbvi2`
 
-**Frühere Beschreibung:** Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus.
+**Fokus:** Prüft rentenversicherungspflichtige selbständige Lehrer und Erzieher nach § 2 SGB VI unabhängig vom Beschäftigungsstatus.
 
 # Selbständige Lehrer § 2 SGB VI
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `sozialgericht-klage`
 
-**Frühere Beschreibung:** Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie.
+**Fokus:** Führt Statusstreit vor Sozialgericht mit Klagebegründung, Beweisanträgen und Vergleichsstrategie.
 
 # Sozialgerichtliche Klage
 
@@ -159,7 +159,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `statusbescheid-bestandskraft`
 
-**Frühere Beschreibung:** Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz.
+**Fokus:** Prüft Statusbescheide, Bindungswirkung, Änderungsbescheide, neue Tätigkeit und Vertrauensschutz.
 
 # Statusbescheid und Bestandskraft
 
@@ -224,7 +224,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `stellungnahme-drv`
 
-**Frühere Beschreibung:** Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen.
+**Fokus:** Erstellt eine sachliche Stellungnahme im DRV-Statusverfahren mit Tatsachen, Indizien und Belegen.
 
 # Stellungnahme an DRV
 

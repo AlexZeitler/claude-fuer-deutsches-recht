@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-vdg-065-abo-modell-b-bis-vdg-068-abo-modell-u
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (vdg-065-abo-modell-betroffenenformular-bauen, vdg-066-abo-modell-beweisplan-erstellen, vdg-067-abo-modell-vergleich-pruefen, vdg-068-abo-modell-umsetzung-ueberwachen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 065 Abo Modell Betroffenenformular Bauen, Vdg 066 Abo Modell Beweisplan Erstellen, Vdg 067 Abo Modell Vergleich Pruefen, Vdg 068 Abo Modell Umsetzung Ueberwachen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 065 Abo Modell Betroffenenformular Bauen bis Vdg 068 Abo Modell Umsetzung Ueberwachen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-065-abo-modell-betroffenenformular-bauen` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Betroffenenformular bauen. Betroffenenformular bauen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-066-abo-modell-beweisplan-erstellen` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Beweisplan erstellen. Beweisplan erstellen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-065-abo-modell-betroffenenformular-bauen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Betroffenenformular bauen. Betroffenenformular bauen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Betroffenenformular bauen. Betroffenenformular bauen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Betroffenenformular Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-066-abo-modell-beweisplan-erstellen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Beweisplan erstellen. Beweisplan erstellen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Beweisplan erstellen. Beweisplan erstellen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Beweisplan Erstellen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-067-abo-modell-vergleich-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Vergleich prüfen. Vergleich prüfen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Vergleich prüfen. Vergleich prüfen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Vergleich Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-068-abo-modell-umsetzung-ueberwachen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Umsetzung überwachen. Umsetzung überwachen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Umsetzung überwachen. Umsetzung überwachen für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Umsetzung Ueberwachen
 

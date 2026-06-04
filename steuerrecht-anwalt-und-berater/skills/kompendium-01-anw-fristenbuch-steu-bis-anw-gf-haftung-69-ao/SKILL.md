@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-anw-fristenbuch-steu-bis-anw-gf-haftung-69-ao
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 01; bündelt 9 frühere Spezialskills (anw-fristenbuch-steuerrecht, fa-stu-onboarding-fristen-uebersicht, fa-stu-schenkung-zehnjahresfrist, stb-mandantenanfrage-reaktion-frist-laufend, stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Fristenbuch Steuerrecht, Fa Stu Onboarding Fristen Uebersicht, Fa Stu Schenkung Zehnjahresfrist, Stb Mandantenanfrage Reaktion Frist Laufend und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Fristenbuch Steuerrecht bis Anw Gf Haftung 69 Ao Nicht Abgefuehrte Steuern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-fristenbuch-steuerrecht` | Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegründung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen. |
 | `fa-stu-onboarding-fristen-uebersicht` | Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-fristenbuch-steuerrecht`
 
-**Frühere Beschreibung:** Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegründung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen.
+**Fokus:** Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen Einspruch § 355 AO ein Monat fehlende Belehrung § 356 AO ein Jahr FG-Klage § 47 FGO ein Monat Nichtzulassungsbeschwerde § 116 FGO ein Monat Revisionsbegründung § 120 FGO zwei Monate. Berechnung Fristbeginn § 122 Abs. 2 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG Fristberechnung § 108 AO. Vorfristen fuenf Tage vor Hauptfrist. Output strukturierte Fristentabelle mit Haupt- und Vorfristen.
 
 # Fristenbuch Steuerrecht
 
@@ -158,7 +158,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-stu-onboarding-fristen-uebersicht`
 
-**Frühere Beschreibung:** Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme.
+**Fokus:** Systematische Uebersicht aller wesentlichen Steuerrechts-Fristen — Einspruch Klage Revision Beschwerde Wiedereinsetzung Verjaehrung Festsetzungsfrist Zahlungsverjaehrung Aussenpruefung Selbstanzeige. Anwendungsfall Anwalt oder Steuerberater muss bei Mandatsuebernahme in Minuten klaeren welche Frist laeuft welche bereits versaeumt ist und ob Wiedereinsetzung moeglich ist. Behandelt Berechnungsregeln §§ 108 AO 222 BGB Zustellungsfiktion § 122 AO ELSTER-/beA-Zugang Fristbeginn bei Sammel- und Aenderungsbescheiden. Output Fristenmatrix mit Ampel-Logik und Berechnungsbeispiel. Abgrenzung zu anw-fristenbuch-steuerrecht (Kanzleisoftware) und fa-stu-onboarding-mandatsannahme.
 
 # Steuerrechtliche Fristen — der Ueberblick
 
@@ -227,7 +227,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fa-stu-schenkung-zehnjahresfrist`
 
-**Frühere Beschreibung:** Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und dabei Freibetraege optimal ausschoepfen. Behandelt Zusammenrechnung mehrerer Erwerbe von derselben Person Steuerwert versus Verkehrswert und Sonderfaelle mittelbare Schenkung und Schenkung unter Auflage. Output Berechnungsmatrix Schenkungsplan ueber 30 Jahre. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg.
+**Fokus:** Strategie der Schenkungsplanung unter Beruecksichtigung der Zehnjahresfrist § 14 ErbStG — Freibetragsplanung Kettenschenkung und mehrfache Inanspruchnahme. Anwendungsfall Eltern wollen Vermoegen schrittweise auf Kinder uebertragen und dabei Freibetraege optimal ausschoepfen. Behandelt Zusammenrechnung mehrerer Erwerbe von derselben Person Steuerwert versus Verkehrswert und Sonderfaelle mittelbare Schenkung und Schenkung unter Auflage. Output Berechnungsmatrix Schenkungsplan ueber 30 Jahre. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg.
 
 # Schenkungen und Zehnjahresfrist — § 14 ErbStG Strategie der Generationenfolge
 
@@ -279,7 +279,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `stb-mandantenanfrage-reaktion-frist-laufend`
 
-**Frühere Beschreibung:** Mandantenanfragen Reaktionsfristen Servicelevel. Anwendungsfall Standardisierte Reaktion auf Mandantenanfragen klare Service-Versprechen Eskalation. Methodik SLA-Festlegung. Output Service-Standard-Dokument.
+**Fokus:** Mandantenanfragen Reaktionsfristen Servicelevel. Anwendungsfall Standardisierte Reaktion auf Mandantenanfragen klare Service-Versprechen Eskalation. Methodik SLA-Festlegung. Output Service-Standard-Dokument.
 
 # Reaktionsfristen fuer Mandantenanfragen — Servicelevel
 
@@ -412,7 +412,7 @@ Stand: 05/2026.
 
 ## 5. `stb-sanierungsgewinn-zustaendigkeiten-fa-betriebspruefung`
 
-**Frühere Beschreibung:** Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte.
+**Fokus:** Zuständigkeiten und Praxis von Finanzamt und Betriebsprüfung bei Sanierungsanträgen. Sachgebietsleiter, Großbetriebsprüfung, BMF-Erlass-Bindung, Einspruchsverfahren und mögliche Streitpunkte.
 
 # Sanierungsgewinn — Zuständigkeiten FA und Betriebsprüfung
 
@@ -616,7 +616,7 @@ Mit freundlichen Grüßen
 
 ## 6. `anw-grest-asset-deal-kaufvertrag`
 
-**Frühere Beschreibung:** Grunderwerbsteuer beim Asset Deal pruefen: Grundstückskauf, Gegenleistung, Kaufpreisbestandteile, einheitlicher Erwerbsgegenstand, Bauerrichtung, Inventar, Umsatzsteueroption, Bundesland-Steuersatz, Notar- und Anzeigeablauf.
+**Fokus:** Grunderwerbsteuer beim Asset Deal pruefen: Grundstückskauf, Gegenleistung, Kaufpreisbestandteile, einheitlicher Erwerbsgegenstand, Bauerrichtung, Inventar, Umsatzsteueroption, Bundesland-Steuersatz, Notar- und Anzeigeablauf.
 
 # GrESt: Asset Deal und Kaufvertrag
 
@@ -695,7 +695,7 @@ Prüfe den direkten Grundstückserwerb. Der Skill hilft bei Kaufvertrag, Bemessu
 
 ## 7. `anw-grest-konzernklausel-6a`
 
-**Frühere Beschreibung:** § 6a GrEStG Konzernklausel prüfen: Umwandlung, Einbringung, herrschendes Unternehmen, abhaengige Gesellschaft, 95-Prozent-Beteiligung, Vor- und Nachbehaltensfrist, BFH-Rechtsprechung und Risiken bei Umstrukturierungen.
+**Fokus:** § 6a GrEStG Konzernklausel prüfen: Umwandlung, Einbringung, herrschendes Unternehmen, abhaengige Gesellschaft, 95-Prozent-Beteiligung, Vor- und Nachbehaltensfrist, BFH-Rechtsprechung und Risiken bei Umstrukturierungen.
 
 # GrESt: Konzernklausel § 6a
 
@@ -773,7 +773,7 @@ Empfehlung: Bei Werten über 5 Mio. EUR Bemessungsgrundlage immer verbindliche A
 
 ## 8. `stb-lohn-arbeitsvertrag-pruefung-lohn-relevant`
 
-**Frühere Beschreibung:** Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz Empfehlung.
+**Fokus:** Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz Empfehlung.
 
 # Arbeitsvertrag aus lohnrelevanter Sicht pruefen
 
@@ -937,7 +937,7 @@ Stand: 05/2026.
 
 ## 9. `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`
 
-**Frühere Beschreibung:** Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige Pflichtverletzung Kausalität Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente.
+**Fokus:** Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für Steuerschulden der Gesellschaft in der Krise. Prüfung vorsaetzliche oder grob fahrlässige Pflichtverletzung Kausalität Mitverschulden FA Verwirkung Grundsatz anteilige Tilgung bei Liquiditaetskrise. Abgrenzung zu § 42d EStG Arbeitgeber-Haftung und § 266a StGB Beitragsvorenthaltung. Output Einspruch und Klage gegen Haftungsbescheid Beratungsmemo Haftungsausschluss-Argumente.
 
 # GF-Haftung § 69 AO für nicht abgeführte Lohn-/Umsatzsteuer
 

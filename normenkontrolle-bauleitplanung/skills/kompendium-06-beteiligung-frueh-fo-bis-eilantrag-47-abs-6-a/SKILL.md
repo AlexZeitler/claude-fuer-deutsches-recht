@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-beteiligung-frueh-fo-bis-eilantrag-47-abs-6-a
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (beteiligung-frueh-foermlich, buergerversammlung-protokoll-audit, eilantrag-47-abs-6-ausserhalb-baurecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beteiligung Frueh Foermlich, Buergerversammlung Protokoll Audit, Eilantrag 47 Abs 6 Ausserhalb Baurecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Beteiligung Frueh Foermlich, Buergerversammlung Protokoll Audit, Eilantrag 47 Abs 6 Ausserhalb Baurecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beteiligung-frueh-foermlich` | Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behoerdenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behoerdenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aenderung § 4a Abs. 3 Online-Pflicht § 4a Abs. 4. Output: Beteiligungsfehler-Prüfprotokoll und Angriffspunkte. Abgrenzung zu aufstellungsbeschluss-bekanntmachung (formelle Verfahrenskette) und planerhaltung-214-215-baugb. |
 | `buergerversammlung-protokoll-audit` | Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beteiligung-frueh-foermlich`
 
-**Frühere Beschreibung:** Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behoerdenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behoerdenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aenderung § 4a Abs. 3 Online-Pflicht § 4a Abs. 4. Output: Beteiligungsfehler-Prüfprotokoll und Angriffspunkte. Abgrenzung zu aufstellungsbeschluss-bekanntmachung (formelle Verfahrenskette) und planerhaltung-214-215-baugb.
+**Fokus:** Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behoerdenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Prüfraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behoerdenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aenderung § 4a Abs. 3 Online-Pflicht § 4a Abs. 4. Output: Beteiligungsfehler-Prüfprotokoll und Angriffspunkte. Abgrenzung zu aufstellungsbeschluss-bekanntmachung (formelle Verfahrenskette) und planerhaltung-214-215-baugb.
 
 # Beteiligung — frühzeitig und förmlich
 
@@ -185,7 +185,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `buergerversammlung-protokoll-audit`
 
-**Frühere Beschreibung:** Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz.
+**Fokus:** Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz.
 
 # Bürgerversammlung — Protokoll-Audit
 
@@ -334,7 +334,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `eilantrag-47-abs-6-ausserhalb-baurecht`
 
-**Frühere Beschreibung:** Eilantrag nach § 47 Abs. 6 VwGO außerhalb des Baurechts: schwere Nachteile, wichtige Gründe, Vollzugsfolgen und Antragsstrategie.; Normanker: VwGO § 47 Abs. 6; Grundrechtsbezug; Folgenabwägung; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
+**Fokus:** Eilantrag nach § 47 Abs. 6 VwGO außerhalb des Baurechts: schwere Nachteile, wichtige Gründe, Vollzugsfolgen und Antragsstrategie.; Normanker: VwGO § 47 Abs. 6; Grundrechtsbezug; Folgenabwägung; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
 
 # Eilantrag nach § 47 Abs. 6 VwGO außerhalb des Baurechts: schwere Nachteile, wichtige Gründe, Vollzugsfolgen und Antragsstrategie.
 

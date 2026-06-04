@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-inv-026-sexual-haras-bis-inv-027-bribery-red
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (inv-026-sexual-harassment, inv-027-bribery-red-flags) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - internal-investigations-praxis
+# Arbeitsbereich - Inv 026 Sexual Harassment, Inv 027 Bribery Red Flags
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-026-sexual-harassment` | Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen. |
 | `inv-027-bribery-red-flags` | Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-026-sexual-harassment`
 
-**Frühere Beschreibung:** Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen.
+**Fokus:** Leitet Untersuchungen bei sexueller Belästigung am Arbeitsplatz – AGG, Schutzpflichten des Arbeitgebers, Beweiserhebung, arbeitsrechtliche Konsequenzen.
 
 # Sexuelle Belästigung am Arbeitsplatz – Untersuchung und Maßnahmen
 
@@ -116,7 +116,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-027-bribery-red-flags`
 
-**Frühere Beschreibung:** Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB.
+**Fokus:** Identifiziert Bestechungs-Red-Flags in Transaktionen, Zahlungen, Vergabeverfahren und Drittparteienbeziehungen – FCPA, UK Bribery Act, § 299 StGB.
 
 # Bestechungs-Red-Flags und Korruptionsermittlung
 

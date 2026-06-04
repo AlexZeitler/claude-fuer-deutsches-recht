@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-verl-034-hoerbuch-sp-bis-verl-029-fachzeitsch
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (verl-034-hoerbuch-sprechervertrag-leistungsschutzrechte, verl-029-fachzeitschrift-peer-review-und-haftung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 034 Hoerbuch Sprechervertrag Leistungsschutzrechte, Verl 029 Fachzeitschrift Peer Review Und Haftung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-034-hoerbuch-sprechervertrag-leistungsschutzrechte` | Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG §§ 73–83), GEMA, Preisbindung und Plattformverträge. |
 | `verl-029-fachzeitschrift-peer-review-und-haftung` | Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG §§ 38 und 32d, wissenschaftliche Publikationsstandards. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-034-hoerbuch-sprechervertrag-leistungsschutzrechte`
 
-**Frühere Beschreibung:** Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG §§ 73–83), GEMA, Preisbindung und Plattformverträge.
+**Fokus:** Verlagsrecht: Hörbuch-Produktion — Sprechervertrag, Leistungsschutzrechte des ausübenden Künstlers (UrhG §§ 73–83), GEMA, Preisbindung und Plattformverträge.
 
 # Verl-034 · Hörbuch, Sprechervertrag und Leistungsschutzrechte
 
@@ -142,7 +142,7 @@ Hörbücher sind urheberrechtlich komplexe Produkte: Sie kombinieren das Urheber
 
 ## 2. `verl-029-fachzeitschrift-peer-review-und-haftung`
 
-**Frühere Beschreibung:** Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG §§ 38 und 32d, wissenschaftliche Publikationsstandards.
+**Fokus:** Verlagsrecht: Fachzeitschriften, Peer-Review-Verfahren, Haftung für fehlerhafte Fachinformation und Autorenrechte — UrhG §§ 38 und 32d, wissenschaftliche Publikationsstandards.
 
 # Verl-029 · Fachzeitschrift, Peer Review und Haftung
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-hauptfinanzierungsqu-bis-hauptstadtrepraesent
-description: "lobbyregister-bundestag: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (hauptfinanzierungsquellen, hauptstadtrepraesentanz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "lobbyregister-bundestag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hauptfinanzierungsquellen, Hauptstadtrepraesentanz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - lobbyregister-bundestag
+# Arbeitsbereich - Hauptfinanzierungsquellen, Hauptstadtrepraesentanz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hauptfinanzierungsquellen` | Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix. |
 | `hauptstadtrepraesentanz` | Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hauptfinanzierungsquellen`
 
-**Frühere Beschreibung:** Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix.
+**Fokus:** Strukturiert Hauptfinanzierungsquellen nach § 3 LobbyRG und grenzt Umsaetze, Beitraege, Zuwendungen, Schenkungen und sonstige Einnahmen ab. Output Finanzquellenmatrix.
 
 # Hauptfinanzierungsquellen
 
@@ -77,7 +77,7 @@ Finanzquellenmatrix mit Kategorie, Betrag/Stufe, Quelle, Beleg und Plausibilitae
 
 ## 2. `hauptstadtrepraesentanz`
 
-**Frühere Beschreibung:** Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check.
+**Fokus:** Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check.
 
 # Hauptstadtrepraesentanz
 

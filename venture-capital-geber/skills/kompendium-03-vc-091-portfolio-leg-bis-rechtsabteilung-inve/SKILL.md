@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-vc-091-portfolio-leg-bis-rechtsabteilung-inve
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (vc-091-portfolio-legal-calendar, rechtsabteilung-data-room-update-und-insider-governance, rechtsabteilung-down-round-und-anti-dilution, rechtsabteilung-investor-consent-matters-ohne-organblockade) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 091 Portfolio Legal Calendar, Data Room Update Und Insider Governance, Down Round Und Anti Dilution, Investor Consent Matters Ohne Organblockade; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - venture-capital-geber
+# Arbeitsbereich - Vc 091 Portfolio Legal Calendar bis Investor Consent Matters Ohne Organblockade
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-091-portfolio-legal-calendar` | Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden. |
 | `rechtsabteilung-data-room-update-und-insider-governance` | Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-091-portfolio-legal-calendar`
 
-**Frühere Beschreibung:** Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden.
+**Fokus:** Baut Kalender für Gesellschafterversammlungen, Zustimmungen, Reports, Steuer, Fristen, Optionsausübungen und Runden.
 
 # Portfolio Legal Calendar
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `rechtsabteilung-data-room-update-und-insider-governance`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Data Room Update und Insider-Governance: Updates, Privilege, Confidentiality und Follow-on-Risiko werden getrackt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Data Room Update und Insider-Governance
 
@@ -115,7 +115,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-down-round-und-anti-dilution`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Down Round und Anti-Dilution: Weighted Average, Full Ratchet und Cap Table werden rechtlich und wirtschaftlich übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Down Round und Anti-Dilution
 
@@ -155,7 +155,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-investor-consent-matters-ohne-organblockade`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Investor Consent Matters ohne Organblockade: Zustimmungskataloge werden zwischen Schutzrecht und faktischer Geschäftsführung austariert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Investor Consent Matters ohne Organblockade
 

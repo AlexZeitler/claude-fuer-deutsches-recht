@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-str-094-tunnel-sonde-bis-str-097-tunnel-koste
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (str-094-tunnel-sondernutzung-formulieren, str-095-tunnel-einwendung-bauen, str-096-tunnel-eilantrag-skizzieren, str-097-tunnel-kostenlast-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 094 Tunnel Sondernutzung Formulieren, Str 095 Tunnel Einwendung Bauen, Str 096 Tunnel Eilantrag Skizzieren, Str 097 Tunnel Kostenlast Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 094 Tunnel Sondernutzung Formulieren bis Str 097 Tunnel Kostenlast Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-094-tunnel-sondernutzung-formulieren` | Straßenrecht und Infrastruktur: Tunnel: Sondernutzung formulieren. Sondernutzung formulieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-095-tunnel-einwendung-bauen` | Straßenrecht und Infrastruktur: Tunnel: Einwendung bauen. Einwendung bauen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-094-tunnel-sondernutzung-formulieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Tunnel: Sondernutzung formulieren. Sondernutzung formulieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Tunnel: Sondernutzung formulieren. Sondernutzung formulieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tunnel Sondernutzung Formulieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-095-tunnel-einwendung-bauen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Tunnel: Einwendung bauen. Einwendung bauen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Tunnel: Einwendung bauen. Einwendung bauen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tunnel Einwendung Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-096-tunnel-eilantrag-skizzieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Tunnel: Eilantrag skizzieren. Eilantrag skizzieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Tunnel: Eilantrag skizzieren. Eilantrag skizzieren für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tunnel Eilantrag Skizzieren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-097-tunnel-kostenlast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Tunnel: Kostenlast prüfen. Kostenlast prüfen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Tunnel: Kostenlast prüfen. Kostenlast prüfen für Tunnel im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tunnel Kostenlast Pruefen
 

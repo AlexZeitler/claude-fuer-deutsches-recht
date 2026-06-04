@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bankaufsichtsrecht-k-bis-betriebsrat-change-p
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (bankaufsichtsrecht-kwg-marisk-triage, bankgeheimnis-auskunftsersuchen, banking-as-a-service-white-label, beteiligungserwerb-bank-ma, betriebsrat-change-projekte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bankaufsichtsrecht Kwg Marisk Triage, Bankgeheimnis Auskunftsersuchen, Banking As A Service White Label, Beteiligungserwerb Bank Ma und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bank-rechtsabteilung
+# Arbeitsbereich - Bankaufsichtsrecht Kwg Marisk Triage bis Betriebsrat Change Projekte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bankaufsichtsrecht-kwg-marisk-triage` | Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen. |
 | `bankgeheimnis-auskunftsersuchen` | Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bankaufsichtsrecht-kwg-marisk-triage`
 
-**Frühere Beschreibung:** Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen.
+**Fokus:** Bankaufsichtsrechtliche Ersttriage nach KWG und MaRisk: Geschäftsorganisation, Risikomanagement, Compliance, Revision, Risikocontrolling, Leitungsbefassung und Dokumentationsbedarf für interne Vermerke prüfen.
 
 # Bankaufsichtsrecht KWG/MaRisk-Triage
 
@@ -81,7 +81,7 @@ Primärquellen: gesetze-im-internet.de (KWG, AnzV), bafin.de (MaRisk aktuelle Fa
 
 ## 2. `bankgeheimnis-auskunftsersuchen`
 
-**Frühere Beschreibung:** Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten.
+**Fokus:** Auskunftsersuchen an Banken prüfen: Polizei, Staatsanwaltschaft, Gericht, Finanzamt, Insolvenzverwalter, Betreuer, Erben, Anwälte und Privatpersonen sicher auseinanderhalten.
 
 # Auskunftsersuchen
 
@@ -196,7 +196,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `banking-as-a-service-white-label`
 
-**Frühere Beschreibung:** White-Label-Banking juristisch strukturieren: Bankrolle sichtbar machen, Partnerpflichten, Kundenschutz, AGB, Datenschutz, Auslagerung, Beschwerden, Vertriebsrecht und Reputationsrisiko.
+**Fokus:** White-Label-Banking juristisch strukturieren: Bankrolle sichtbar machen, Partnerpflichten, Kundenschutz, AGB, Datenschutz, Auslagerung, Beschwerden, Vertriebsrecht und Reputationsrisiko.
 
 # White-Label-Banking
 
@@ -295,7 +295,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `beteiligungserwerb-bank-ma`
 
-**Frühere Beschreibung:** Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien.
+**Fokus:** Beteiligungserwerb, M&A und strategische Kooperation einer Bank prüfen: Erlaubnisse, Inhaberkontrolle, Beteiligungsgrenzen, Due Diligence, Kartell, Datenschutz, Sanierung und Gremien.
 
 # Beteiligung und M&A
 
@@ -410,7 +410,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `betriebsrat-change-projekte`
 
-**Frühere Beschreibung:** Betriebsrat und arbeitsrechtliche Schnittstellen bei Bankprojekten: Restrukturierung, IT-Einführung, Monitoring, variable Vergütung, Auslagerung, Filialschließung und Betriebsänderung prüfen.
+**Fokus:** Betriebsrat und arbeitsrechtliche Schnittstellen bei Bankprojekten: Restrukturierung, IT-Einführung, Monitoring, variable Vergütung, Auslagerung, Filialschließung und Betriebsänderung prüfen.
 
 # Arbeitsrechtliche Bankprojekte
 

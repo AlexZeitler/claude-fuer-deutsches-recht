@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-spezial-redaktion-sc-bis-sprachlektorat-stil
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (spezial-redaktion-schriftsatz-brief-und-memo-bausteine, spezial-satzfahnen-formular-portal-und-einreichung, spezial-verlage-dokumentenmatrix-und-lueckenliste, spezial-verlagsdesk-erstpruefung-und-mandatsziel, sprachlektorat-stil-tonalitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Redaktion Schriftsatz Brief Und Memo Bausteine, Satzfahnen Formular Portal Und Einreichung, Verlage Dokumentenmatrix Und Lueckenliste, Verlagsdesk Erstpruefung Und Mandatsziel und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - verlagsredaktion
+# Arbeitsbereich - Redaktion Schriftsatz Brief Und Memo Bausteine bis Sprachlektorat Stil Tonalitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-redaktion-schriftsatz-brief-und-memo-bausteine` | Redaktion: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-satzfahnen-formular-portal-und-einreichung` | Satzfahnen: Formular, Portal und Einreichungslogik im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-redaktion-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Redaktion: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Redaktion: Schriftsatz-, Brief- und Memo-Bausteine im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Redaktion: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -71,7 +71,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-satzfahnen-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Satzfahnen: Formular, Portal und Einreichungslogik im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Satzfahnen: Formular, Portal und Einreichungslogik im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Satzfahnen: Formular, Portal und Einreichungslogik
 
@@ -112,7 +112,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verlage-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Verlage: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verlage: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verlage: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -153,7 +153,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-verlagsdesk-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verlagsdesk: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -194,7 +194,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `sprachlektorat-stil-tonalitaet`
 
-**Frühere Beschreibung:** Verbessert Sprache, Stil, Tonalitaet, Satzbau, Lesbarkeit, Gender- und Hausstilfragen fuer juristische und fachliche Verlagstexte.
+**Fokus:** Verbessert Sprache, Stil, Tonalitaet, Satzbau, Lesbarkeit, Gender- und Hausstilfragen fuer juristische und fachliche Verlagstexte.
 
 # Sprachlektorat und Stil
 

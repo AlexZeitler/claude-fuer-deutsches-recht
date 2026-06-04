@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-wahlkampf-plattformm-bis-wahlkampf-presserech
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (wahlkampf-plattformmeldung-dsa, wahlkampf-podium-teilnahmeentscheidung, wahlkampf-polizei-und-ordnungsamt-kommunikation, wahlkampf-presseanfrage-antwortleiter, wahlkampf-presserecht-richtigstellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Plattformmeldung Dsa, Wahlkampf Podium Teilnahmeentscheidung, Wahlkampf Polizei Und Ordnungsamt Kommunikation, Wahlkampf Presseanfrage Antwortleiter und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Plattformmeldung Dsa bis Wahlkampf Presserecht Richtigstellung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-plattformmeldung-dsa` | Wahlkampfrecht Praxis: Plattformmeldewege und DSA-Mechanismen bei rechtswidrigen Inhalten nutzen. |
 | `wahlkampf-podium-teilnahmeentscheidung` | Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-plattformmeldung-dsa`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Plattformmeldewege und DSA-Mechanismen bei rechtswidrigen Inhalten nutzen.
+**Fokus:** Wahlkampfrecht Praxis: Plattformmeldewege und DSA-Mechanismen bei rechtswidrigen Inhalten nutzen.
 
 # Plattformmeldung Dsa
 
@@ -91,7 +91,7 @@ Erzeuge: **Plattform-Notice-Paket**. Wenn Informationen fehlen, stelle höchsten
 
 ## 2. `wahlkampf-podium-teilnahmeentscheidung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden.
+**Fokus:** Wahlkampfrecht Praxis: Teilnahme an Podien mit problematischen Mitbewerbern entscheiden.
 
 # Podium Teilnahmeentscheidung
 
@@ -152,7 +152,7 @@ Erzeuge: **Teilnahme- oder Absagevermerk**. Wenn Informationen fehlen, stelle h�
 
 ## 3. `wahlkampf-polizei-und-ordnungsamt-kommunikation`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: robuste und freundliche Behoerdenkommunikation formulieren.
+**Fokus:** Wahlkampfrecht Praxis: robuste und freundliche Behoerdenkommunikation formulieren.
 
 # Polizei Und Ordnungsamt Kommunikation
 
@@ -205,7 +205,7 @@ Erzeuge: **Behoerdenkommunikationslog**. Wenn Informationen fehlen, stelle höch
 
 ## 4. `wahlkampf-presseanfrage-antwortleiter`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren.
+**Fokus:** Wahlkampfrecht Praxis: Presseanfragen in Sofortantwort, Hintergrund, Kein-Kommentar und Rechtspruefung sortieren.
 
 # Presseanfrage Antwortleiter
 
@@ -258,7 +258,7 @@ Erzeuge: **Presseantwort und Freigabelog**. Wenn Informationen fehlen, stelle h�
 
 ## 5. `wahlkampf-presserecht-richtigstellung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Richtigstellung, Gegendarstellung und Unterlassung im Wahlkampf einordnen.
+**Fokus:** Wahlkampfrecht Praxis: Richtigstellung, Gegendarstellung und Unterlassung im Wahlkampf einordnen.
 
 # Presserecht Richtigstellung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-btm-002-stoff-und-an-bis-btm-005-einfuhr-ausf
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (btm-002-stoff-und-anlage-pruefen, btm-003-nicht-geringe-menge-livecheck, btm-004-handeltreiben-oder-besitz, btm-005-einfuhr-ausfuhr-durchfuhr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 002 Stoff Und Anlage Pruefen, Btm 003 Nicht Geringe Menge Livecheck, Btm 004 Handeltreiben Oder Besitz, Btm 005 Einfuhr Ausfuhr Durchfuhr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 002 Stoff Und Anlage Pruefen bis Btm 005 Einfuhr Ausfuhr Durchfuhr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-002-stoff-und-anlage-pruefen` | Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `btm-003-nicht-geringe-menge-livecheck` | Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-002-stoff-und-anlage-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Stoff und Anlage prüfen. Stoff und Anlage prüfen im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Stoff Und Anlage Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-003-nicht-geringe-menge-livecheck`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Nicht geringe Menge Livecheck. Nicht geringe Menge Livecheck im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Nicht Geringe Menge Livecheck
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-004-handeltreiben-oder-besitz`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Handeltreiben oder Besitz. Handeltreiben oder Besitz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Handeltreiben oder Besitz. Handeltreiben oder Besitz im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Handeltreiben Oder Besitz
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-005-einfuhr-ausfuhr-durchfuhr`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Einfuhr Ausfuhr Durchfuhr. Einfuhr Ausfuhr Durchfuhr im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Betäubungsmittelrecht: Einfuhr Ausfuhr Durchfuhr. Einfuhr Ausfuhr Durchfuhr im Fachgebiet Betäubungsmittelrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einfuhr Ausfuhr Durchfuhr
 

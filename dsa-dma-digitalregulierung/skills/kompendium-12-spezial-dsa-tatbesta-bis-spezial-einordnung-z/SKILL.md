@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-dsa-tatbesta-bis-spezial-einordnung-z
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-dsa-tatbestand-beweis-und-belege, spezial-eidas-behoerden-gericht-und-registerweg, spezial-einordnung-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsa Tatbestand Beweis Und Belege, Eidas Behoerden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dsa Tatbestand Beweis Und Belege, Eidas Behoerden Gericht Und Registerweg, Einordnung Zahlen Schwellen Und Berechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-dsa-tatbestand-beweis-und-belege` | DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-eidas-behoerden-gericht-und-registerweg` | Eidas: Behörden-, Gerichts- oder Registerweg im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-dsa-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DSA: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -92,7 +92,7 @@ Schnelle Entfernung mindert Haftungsrisiko, kann aber gegen Art. 17 (Begründung
 
 ## 2. `spezial-eidas-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Eidas: Behörden-, Gerichts- oder Registerweg im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Eidas: Behörden-, Gerichts- oder Registerweg im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Eidas: Behörden-, Gerichts- oder Registerweg
 
@@ -148,7 +148,7 @@ QES (qualifizierte elektronische Signatur) hat nach § 126a BGB die Funktion der
 
 ## 3. `spezial-einordnung-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einordnung: Zahlen, Schwellenwerte und Berechnung im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Einordnung: Zahlen, Schwellenwerte und Berechnung
 

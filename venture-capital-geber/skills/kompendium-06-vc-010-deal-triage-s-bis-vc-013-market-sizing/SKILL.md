@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-vc-010-deal-triage-s-bis-vc-013-market-sizing
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (vc-010-deal-triage-score, vc-011-nda-und-confidentiality-vc, vc-012-pitchdeck-und-teaser-analyse, vc-013-market-sizing-commercial-thesis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 010 Deal Triage Score, Vc 011 Nda Und Confidentiality Vc, Vc 012 Pitchdeck Und Teaser Analyse, Vc 013 Market Sizing Commercial Thesis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - venture-capital-geber
+# Arbeitsbereich - Vc 010 Deal Triage Score bis Vc 013 Market Sizing Commercial Thesis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-010-deal-triage-score` | Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit. |
 | `vc-011-nda-und-confidentiality-vc` | Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-010-deal-triage-score`
 
-**Frühere Beschreibung:** Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit.
+**Fokus:** Bewertet frühe Deals nach Team, Markt, Traktion, Timing, Deal Terms, Recht, Kapitalbedarf, Signalqualität und VC-Fit.
 
 # Deal-Triage-Score
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-011-nda-und-confidentiality-vc`
 
-**Frühere Beschreibung:** Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert.
+**Fokus:** Prüft, wann ein VC ein NDA akzeptieren sollte, welche Informationen vertraulich bleiben und wann ein NDA den Dealfluss unnötig blockiert.
 
 # NDA und Vertraulichkeit im VC-Deal
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-012-pitchdeck-und-teaser-analyse`
 
-**Frühere Beschreibung:** Zerlegt Pitchdeck, Teaser oder Notion-Deck in These, Zahlen, Claims, Risiken, Auslassungen und Follow-up-Fragen.
+**Fokus:** Zerlegt Pitchdeck, Teaser oder Notion-Deck in These, Zahlen, Claims, Risiken, Auslassungen und Follow-up-Fragen.
 
 # Pitchdeck- und Teaser-Analyse
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-013-market-sizing-commercial-thesis`
 
-**Frühere Beschreibung:** Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik.
+**Fokus:** Prüft TAM/SAM/SOM, Pricing, Go-to-Market, Wettbewerb, Churn, Vertriebskanal und Exit-Logik.
 
 # Market Sizing und Commercial Thesis
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-vdg-096-flugportal-b-bis-vdg-101-bankentgelte
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (vdg-096-flugportal-beweisplan-erstellen, vdg-097-flugportal-vergleich-pruefen, vdg-098-flugportal-umsetzung-ueberwachen, vdg-101-bankentgelte-zustimmungsfiktion-serie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 096 Flugportal Beweisplan Erstellen, Vdg 097 Flugportal Vergleich Pruefen, Vdg 098 Flugportal Umsetzung Ueberwachen, Vdg 101 Bankentgelte Zustimmungsfiktion Serie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 096 Flugportal Beweisplan Erstellen bis Vdg 101 Bankentgelte Zustimmungsfiktion Serie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-096-flugportal-beweisplan-erstellen` | Verbraucherschutzverband Durchsetzung: Flugportal: Beweisplan erstellen. Beweisplan erstellen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-097-flugportal-vergleich-pruefen` | Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen. Vergleich prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-096-flugportal-beweisplan-erstellen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Beweisplan erstellen. Beweisplan erstellen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Beweisplan erstellen. Beweisplan erstellen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Beweisplan Erstellen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-097-flugportal-vergleich-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen. Vergleich prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Vergleich prüfen. Vergleich prüfen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Vergleich Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-098-flugportal-umsetzung-ueberwachen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Flugportal: Umsetzung überwachen. Umsetzung überwachen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Flugportal: Umsetzung überwachen. Umsetzung überwachen für Flugportal im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flugportal Umsetzung Ueberwachen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-101-bankentgelte-zustimmungsfiktion-serie`
 
-**Frühere Beschreibung:** Verbraucherzentrale: Bankentgelte nach Zustimmungsfiktion als Serienfall prüfen; BGH XI ZR 26/20, XI ZR 139/23, XI ZR 45/24, Anspruchsgruppen, Verjährung, Registertext, Rückzahlungsmatrix und Vergleichskontrolle.
+**Fokus:** Verbraucherzentrale: Bankentgelte nach Zustimmungsfiktion als Serienfall prüfen; BGH XI ZR 26/20, XI ZR 139/23, XI ZR 45/24, Anspruchsgruppen, Verjährung, Registertext, Rückzahlungsmatrix und Vergleichskontrolle.
 
 # VDG 101 Bankentgelte Zustimmungsfiktion Serie
 

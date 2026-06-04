@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-fran-028-mystery-sho-bis-fran-030-bau-und-lad
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (fran-028-mystery-shopping-beweis-und-datenschutz, fran-029-standortmiete-und-vermieterzustimmung, fran-030-bau-und-ladenbau-pflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 028 Mystery Shopping Beweis Und Datenschutz, Fran 029 Standortmiete Und Vermieterzustimmung, Fran 030 Bau Und Ladenbau Pflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - franchiserecht-praxis
+# Arbeitsbereich - Fran 028 Mystery Shopping Beweis Und Datenschutz, Fran 029 Standortmiete Und Vermieterzustimmung, Fran 030 Bau Und Ladenbau Pflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-028-mystery-shopping-beweis-und-datenschutz` | Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage. |
 | `fran-029-standortmiete-und-vermieterzustimmung` | Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-028-mystery-shopping-beweis-und-datenschutz`
 
-**Frühere Beschreibung:** Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage.
+**Fokus:** Mystery-Shopping im Franchisesystem rechtlich absichern: Beweisverwertung von Testkäufen, Datenschutzkonformität nach DSGVO und BDSG, Offenbarungspflicht gegenüber dem Franchisenehmer und Einsatz als Kündigungsgrundlage.
 
 # Franchiserecht: Mystery Shopping – Beweis und Datenschutz
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-029-standortmiete-und-vermieterzustimmung`
 
-**Frühere Beschreibung:** Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht.
+**Fokus:** Standortmietvertrag im Franchiserecht absichern: Vermieterzustimmung zur Untermiete oder Nutzungsüberlassung, Mietvertragslaufzeit passend zur Franchisevertragslaufzeit, Eintrittsrechte des Franchisegebers und Betriebspflichten im Mietrecht.
 
 # Franchiserecht: Standortmiete und Vermieterzustimmung
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-030-bau-und-ladenbau-pflichten`
 
-**Frühere Beschreibung:** Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen.
+**Fokus:** Bau- und Ladenbau-Pflichten im Franchisesystem regeln: Pflichtausstattung nach Systemhandbuch, Kostenverteilung zwischen Franchisegeber und Franchisenehmer, Baugenehmigungsrisiken, Gewährleistungsrecht und Investitionsschutz bei Systemänderungen.
 
 # Franchiserecht: Bau- und Ladenbau-Pflichten
 

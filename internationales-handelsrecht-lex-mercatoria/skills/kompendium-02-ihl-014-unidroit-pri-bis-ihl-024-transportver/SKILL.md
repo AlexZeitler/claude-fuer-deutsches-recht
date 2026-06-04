@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-ihl-014-unidroit-pri-bis-ihl-024-transportver
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (ihl-014-unidroit-principles-als-vertragsrecht, ihl-022-transportvertrag-see, ihl-023-transportvertrag-luft, ihl-024-transportvertrag-strasse-cmr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 014 Unidroit Principles Als Vertragsrecht, Ihl 022 Transportvertrag See, Ihl 023 Transportvertrag Luft, Ihl 024 Transportvertrag Strasse Cmr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 014 Unidroit Principles Als Vertragsrecht bis Ihl 024 Transportvertrag Strasse Cmr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-014-unidroit-principles-als-vertragsrecht` | Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht. |
 | `ihl-022-transportvertrag-see` | Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-014-unidroit-principles-als-vertragsrecht`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht.
+**Fokus:** Internationales Handelsrecht: UNIDROIT Principles of International Commercial Contracts 2016. Anwendungsfälle nach der Präambel, Art. 1.1 Vertragsfreiheit, Art. 1.7 Treu und Glauben, Art. 1.8 Widerspruchsverbot und Verhältnis zu CISG und nationalem Recht.
 
 # UNIDROIT Principles 2016 als Vertragsrecht
 
@@ -81,7 +81,7 @@ PICC 2016 Text: unidroit.org. CENTRAL: trans-lex.org. Schrifttum: Vogenauer/Klei
 
 ## 2. `ihl-022-transportvertrag-see`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat.
+**Fokus:** Internationales Handelsrecht: Seetransportrecht — Haager-Visby-Regeln (HVR), Hamburger Regeln 1978 und Rotterdamer Regeln 2009. Haftungsregime des Reeders, Seefrachtbrief vs. Konnossement, Haftungsgrenzen und Anwendbarkeit nach Staat.
 
 # Seetransportrecht: Haag-Visby, Hamburg, Rotterdam
 
@@ -133,7 +133,7 @@ HVR: uncitral.un.org (Text). Hamburger Regeln: uncitral.un.org. Rotterdamer Rege
 
 ## 3. `ihl-023-transportvertrag-luft`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System.
+**Fokus:** Internationales Handelsrecht: Lufttransportrecht nach Montrealer Übereinkommen 1999 (MÜ). Haftung des Luftfrachtführers, Haftungsgrenzen (SDR-Beträge), AWB als Beförderungsdokument, Reklamationsfristen und Abgrenzung zum Warschauer System.
 
 # Lufttransportrecht: Montrealer Übereinkommen 1999
 
@@ -185,7 +185,7 @@ MÜ 1999: icao.int (Doc 9740). IATA: iata.org. UCP 600 Art. 23: iccwbo.org. VO (
 
 ## 4. `ihl-024-transportvertrag-strasse-cmr`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Strassengütertransportrecht nach CMR-Übereinkommen 1956. Haftung des Strassenfrachtführers (Art. 17-29 CMR), Haftungsgrenzen (8.33 SZR/kg), CMR-Frachtbrief, Reklamationsfristen und Kombination mit Incoterms.
+**Fokus:** Internationales Handelsrecht: Strassengütertransportrecht nach CMR-Übereinkommen 1956. Haftung des Strassenfrachtführers (Art. 17-29 CMR), Haftungsgrenzen (8.33 SZR/kg), CMR-Frachtbrief, Reklamationsfristen und Kombination mit Incoterms.
 
 # CMR: Straßengütertransport international
 

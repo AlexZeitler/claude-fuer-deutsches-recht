@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-db-038-m-a-datenraum-bis-db-040-kollektive-da
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (db-038-m-a-datenraum-datenbankrechte, db-039-open-source-datenbank-und-open-data-commons, db-040-kollektive-datensammlung-und-miturheberschaftsfallen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaftsfallen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - datenbankrecht
+# Arbeitsbereich - Db 038 M A Datenraum Datenbankrechte, Db 039 Open Source Datenbank Und Open Data Commons, Db 040 Kollektive Datensammlung Und Miturheberschaf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-038-m-a-datenraum-datenbankrechte` | Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix. |
 | `db-039-open-source-datenbank-und-open-data-commons` | Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-038-m-a-datenraum-datenbankrechte`
 
-**Frühere Beschreibung:** Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix.
+**Fokus:** Datenbankrecht bei M&A-Transaktionen und virtuellen Datenräumen: Due-Diligence-Prüfung von Datenbankherstellerrechten (§§ 87a-87e UrhG) als Zielunternehmensvermögen, Übertragung im Asset- und Share-Deal, Datenbankrechte im virtuellen Datenraum als Verhandlungsunterlage und DSGVO-Compliance bei Due-Diligence-Datenbankzugang. Erstellt IP-Asset-Bewertungsmatrix.
 
 # M&A-Datenraum und Datenbankrechte — Due Diligence und Transaktion
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-039-open-source-datenbank-und-open-data-commons`
 
-**Frühere Beschreibung:** Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan.
+**Fokus:** Datenbankrecht für Open-Source-Datenbanken und Open-Data-Commons-Lizenzen: ODbL (Open Database Licence), PDDL (Public Domain Dedication and Licence) und CC0 im Verhältnis zu §§ 87a-87e UrhG, Sharealike-Copyleft-Wirkung auf abgeleitete Datenbanken, Attribution-Pflichten und Kompatibilitätsfragen bei Kombinationslizenzen. Erstellt Lizenzwahlberatung und Compliance-Plan.
 
 # Open-Source-Datenbanken und Open-Data-Commons-Lizenzen
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-040-kollektive-datensammlung-und-miturheberschaftsfallen`
 
-**Frühere Beschreibung:** Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner.
+**Fokus:** Datenbankrecht bei kollektiven und arbeitsteilig erstellten Datenbanken: Miturheberschaft (§ 8 UrhG) am Datenbankwerk, geteilte Herstellereigenschaft (§ 87a Abs. 2 UrhG), Konsortiumsdatenbanken und User-Generated-Content-Datenbanken. Analysiert Rechte- und Vergütungsverteilung unter Mithersteller sowie Ansprüche bei Verletzung durch einen Konsortiums-Partner.
 
 # Kollektive Datensammlungen und Miturheberschaftsfallen
 

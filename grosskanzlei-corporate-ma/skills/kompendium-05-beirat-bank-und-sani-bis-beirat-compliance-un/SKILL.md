@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-beirat-bank-und-sani-bis-beirat-compliance-un
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 05; bündelt 7 frühere Spezialskills (beirat-bank-und-sanierung, beirat-beratungsfunktion, beirat-beschlussfassung, beirat-beschlussmaengel, beirat-bestellung-und-abberufung und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Bank Und Sanierung, Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Beirat Bank Und Sanierung bis Beirat Compliance Und Internal Investigation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-bank-und-sanierung` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-beratungsfunktion` | GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-bank-und-sanierung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bank Und Sanierung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bank Und Sanierung
 
@@ -98,7 +98,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-beratungsfunktion`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beratungsfunktion
 
@@ -164,7 +164,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-beschlussfassung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussfassung
 
@@ -230,7 +230,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-beschlussmaengel`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussmaengel
 
@@ -296,7 +296,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-bestellung-und-abberufung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bestellung Und Abberufung
 
@@ -362,7 +362,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 6. `beirat-budget-und-businessplan`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Budget Und Businessplan
 
@@ -428,7 +428,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 7. `beirat-compliance-und-internal-investigation`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Compliance Und Internal Investigation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Compliance Und Internal Investigation
 

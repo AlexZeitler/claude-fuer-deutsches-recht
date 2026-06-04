@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-familiengeri-bis-spezial-mandate-risi
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (spezial-familiengericht-verhandlung-vergleich-und-eskalation, spezial-familienrecht-tatbestand-beweis-und-belege, spezial-lebenspartnerschaft-beweislast-und-darlegungslast, spezial-literatur-schriftsatz-brief-und-memo-bausteine, spezial-mandate-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familiengericht Verhandlung Vergleich Und Eskalation, Familienrecht Tatbestand Beweis Und Belege, Lebenspartnerschaft Beweislast Und Darlegungslast, Literatur Schriftsatz Brief Und Memo Bausteine und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-familienrecht
+# Arbeitsbereich - Familiengericht Verhandlung Vergleich Und Eskalation bis Mandate Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-familiengericht-verhandlung-vergleich-und-eskalation` | Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-familienrecht-tatbestand-beweis-und-belege` | Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-familiengericht-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Familiengericht: Verhandlung, Vergleich und Eskalation im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Familiengericht: Verhandlung, Vergleich und Eskalation
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-familienrecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Familienrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-lebenspartnerschaft-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Lebenspartnerschaft: Beweislast, Darlegungslast und Substantiierung
 
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-literatur-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Literatur: Schriftsatz-, Brief- und Memo-Bausteine im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Literatur: Schriftsatz-, Brief- und Memo-Bausteine im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Literatur: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -230,7 +230,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-mandate-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mandate: Risikoampel, Gegenargumente und Verteidigungslinien im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mandate: Risikoampel, Gegenargumente und Verteidigungslinien
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-gesellschaftsrecht-m-bis-gmbh-gruendung
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (gesellschaftsrecht-mandat-arbeitsbereich, gesr-corporate-governance-kodex-spezial, gesr-gesellschafterversammlung-protokoll-leitfaden, gesr-kgaa-und-se-spezial, gmbh-gruendung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsrecht Mandat Arbeitsbereich, Gesr Corporate Governance Kodex Spezial, Gesr Gesellschafterversammlung Protokoll Leitfaden, Gesr Kgaa Und Se Spezial und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - gesellschaftsrecht
+# Arbeitsbereich - Gesellschaftsrecht Mandat Arbeitsbereich bis Gmbh Gruendung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsrecht-mandat-arbeitsbereich` | Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte. |
 | `gesr-corporate-governance-kodex-spezial` | Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster fuer boersennotierten Vorstand und Aufsichtsrat. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsrecht-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte.
+**Fokus:** Mandats-Workspaces verwalten — anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen, damit Mehrfachmandatsanwälte den Kontext eines Mandats sauber von jedem anderen trennen. Wird von allen inhaltlichen Skills gelesen, die wissen müssen, in welchem Mandat sie arbeiten. Lädt bei "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn der Nutzer nur auf Praxisebene arbeiten möchte.
 
 # Mandats-Workspace
 
@@ -441,7 +441,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 2. `gesr-corporate-governance-kodex-spezial`
 
-**Frühere Beschreibung:** Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster fuer boersennotierten Vorstand und Aufsichtsrat.
+**Fokus:** Spezialfall Corporate-Governance-Kodex: Empfehlungen, Anregungen, Entsprechenserklaerung § 161 AktG. Pruefraster fuer boersennotierten Vorstand und Aufsichtsrat.
 
 # GesR: Corporate-Governance-Kodex
 
@@ -503,7 +503,7 @@ Dieser Skill gehoert zum Plugin `gesellschaftsrecht`. Er ergaenzt die uebrigen S
 
 ## 3. `gesr-gesellschafterversammlung-protokoll-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Protokoll Gesellschafterversammlung GmbH: Einberufung, Tagesordnung, Beschluesse, Anfechtung. Pruefraster fuer Geschaeftsfuehrer und Berater.
+**Fokus:** Leitfaden Protokoll Gesellschafterversammlung GmbH: Einberufung, Tagesordnung, Beschluesse, Anfechtung. Pruefraster fuer Geschaeftsfuehrer und Berater.
 
 # GesR: Gesellschafterversammlung
 
@@ -565,7 +565,7 @@ Dieser Skill gehoert zum Plugin `gesellschaftsrecht`. Er ergaenzt die uebrigen S
 
 ## 4. `gesr-kgaa-und-se-spezial`
 
-**Frühere Beschreibung:** Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Pruefraster fuer Family Office und boersennotierte Gruppe.
+**Fokus:** Spezialfall KGaA und SE: Hybridform, Vorstandsbestellung, Mitbestimmungsfreiheit der SE. Pruefraster fuer Family Office und boersennotierte Gruppe.
 
 # GesR: KGaA SE Spezial
 
@@ -627,7 +627,7 @@ Dieser Skill gehoert zum Plugin `gesellschaftsrecht`. Er ergaenzt die uebrigen S
 
 ## 5. `gmbh-gruendung`
 
-**Frühere Beschreibung:** Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag.
+**Fokus:** Begleitung der GmbH-Gründung von der Satzungserstellung (§ 2 GmbHG) bis zur Eintragung ins Handelsregister (§ 7 GmbHG) einschließlich UG-Variante (§ 5a GmbHG), Gewerbeanmeldung und Transparenzregister. Lädt bei Mandaten zur Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag.
 
 # GmbH-Gründung – Von der Satzung bis zum Handelsregistereintrag
 

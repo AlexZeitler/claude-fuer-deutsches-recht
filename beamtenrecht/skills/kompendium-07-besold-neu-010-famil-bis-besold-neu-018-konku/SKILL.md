@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-besold-neu-010-famil-bis-besold-neu-018-konku
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 07; bündelt 7 frühere Spezialskills (besold-neu-010-familienzuschlag-kinder-ehe-lebenspartnerschaft, besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege, besold-neu-012-richterbesoldung-r-besoldung-und-unabhaengigkeit, besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei, besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft, Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege, Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit, Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätsc"
 ---
 
-# Kompendium 07 - beamtenrecht
+# Arbeitsbereich - Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft bis Besold Neu 018 Konkurrentenschutz Eilrechtsschutz Ernennungssper
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `besold-neu-010-familienzuschlag-kinder-ehe-lebenspartnerschaft` | Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege` | Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `besold-neu-010-familienzuschlag-kinder-ehe-lebenspartnerschaft`
 
-**Frühere Beschreibung:** Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Familienzuschlag Kinder Ehe Lebenspartnerschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 010 Familienzuschlag Kinder Ehe Lebenspartnerschaft
 
@@ -85,7 +85,7 @@ Skill fuer Familienzuschlag — Stufen, Berechnung, eingetragene Lebenspartnersc
 
 ## 2. `besold-neu-011-professorenbesoldung-w-besoldung-leistungsbezuege`
 
-**Frühere Beschreibung:** Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Professorenbesoldung W-Besoldung Leistungsbezüge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 011 Professorenbesoldung W Besoldung Leistungsbezuege
 
@@ -124,7 +124,7 @@ Skill fuer Professorenbesoldung — W-Besoldung und Leistungsbezuege.
 
 ## 3. `besold-neu-012-richterbesoldung-r-besoldung-und-unabhaengigkeit`
 
-**Frühere Beschreibung:** Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Richterbesoldung R-Besoldung und Unabhängigkeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 012 Richterbesoldung R Besoldung Und Unabhaengigkeit
 
@@ -167,7 +167,7 @@ Skill fuer Richterbesoldung — R-Besoldung und richterliche Unabhaengigkeit Art
 
 ## 4. `besold-neu-013-versorgung-ruhegehalt-ruhegehaltfaehige-dienstzei`
 
-**Frühere Beschreibung:** Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Versorgung Ruhegehalt ruhegehaltfähige Dienstzeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 013 Versorgung Ruhegehalt Ruhegehaltfaehige Dienstzei
 
@@ -217,7 +217,7 @@ Skill fuer Versorgung im Ruhestand — Ruhegehalt nach BeamtVG.
 
 ## 5. `besold-neu-015-beihilfe-pkv-restkosten-und-kostendaempfung`
 
-**Frühere Beschreibung:** Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Beihilfe PKV Restkosten und Kostendämpfung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 015 Beihilfe Pkv Restkosten Und Kostendaempfung
 
@@ -269,7 +269,7 @@ Skill fuer Beihilfe und PKV-Erstattung bei Beamten — Restkosten und Kostendaem
 
 ## 6. `besold-neu-016-besoldungswiderspruch-zeitnahe-geltendmachung`
 
-**Frühere Beschreibung:** Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Besoldungswiderspruch zeitnahe Geltendmachung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 016 Besoldungswiderspruch Zeitnahe Geltendmachung
 
@@ -314,7 +314,7 @@ Skill fuer Besoldungswiderspruch und zeitnahe Geltendmachung.
 
 ## 7. `besold-neu-018-konkurrentenschutz-eilrechtsschutz-ernennungssper`
 
-**Frühere Beschreibung:** Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Konkurrentenschutz Eilrechtsschutz Ernennungssperre mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 018 Konkurrentenschutz Eilrechtsschutz Ernennungssper
 

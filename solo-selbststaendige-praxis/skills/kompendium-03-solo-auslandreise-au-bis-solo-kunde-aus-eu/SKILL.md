@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-solo-auslandreise-au-bis-solo-kunde-aus-eu
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 8 frühere Spezialskills (solo-auslandreise-auftrag, solo-cloud-ordner-und-dateinamen, solo-digital-nomad-risiko, solo-entscheidungsvermerk, solo-gewerbesteuer-freibetrag-und-messbetrag und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Auslandreise Auftrag, Solo Cloud Ordner Und Dateinamen, Solo Digital Nomad Risiko, Solo Entscheidungsvermerk und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Auslandreise Auftrag bis Solo Kunde Aus Eu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-auslandreise-auftrag` | Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-cloud-ordner-und-dateinamen` | Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-auslandreise-auftrag`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Reisekosten, Arbeitsmittel, Steuer und Versicherung im Ausland; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft reisekosten
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 2. `solo-cloud-ordner-und-dateinamen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: baut eine belastbare Ordner- und Dateinamenlogik für Kunden, Steuern und Streit; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Büro Alltag und Tools: Baut eine belastbare ordner- und dateinamenlogik für kunden
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Büro Alltag und Tool
 
 ## 3. `solo-digital-nomad-risiko`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft gewöhnlichen Aufenthalt, Betriebsstätte, Steuer und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft gewöhnlichen aufenthalt
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 4. `solo-entscheidungsvermerk`
 
-**Frühere Beschreibung:** Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: dokumentiert warum Kleinunternehmer, Regelbesteuerung, Vertrag oder Kündigung gewählt wurde; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Dokumentiert warum kleinunternehmer
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 5. `solo-gewerbesteuer-freibetrag-und-messbetrag`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erklärt Gewerbesteuerlogik für Einzelunternehmen und Gemeindehebesatz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Erklärt gewerbesteuerlogik für einzelunternehmen und gemeindehebesatz
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 6. `solo-krisenampel`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erkennt Warnzeichen: Steuerlücke, OPOS, Großkundenausfall, Krankheit, Forderungsausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Erkennt warnzeichen: steuerlücke
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 7. `solo-kunde-aus-drittland`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Rechnung, Quellensteuer, Exportkontrolle und Datenschutz; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Ordnet rechnung
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 8. `solo-kunde-aus-eu`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Umsatzsteuer, Vertragssprache, Gerichtsstand und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft umsatzsteuer
 

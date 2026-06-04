@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-inv-024-audit-commit-bis-inv-025-hr-misconduc
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (inv-024-audit-committee, inv-025-hr-misconduct) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 024 Audit Committee, Inv 025 Hr Misconduct; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - internal-investigations-praxis
+# Arbeitsbereich - Inv 024 Audit Committee, Inv 025 Hr Misconduct
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-024-audit-committee` | Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit. |
 | `inv-025-hr-misconduct` | Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-024-audit-committee`
 
-**Frühere Beschreibung:** Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit.
+**Fokus:** Definiert Rolle und Pflichten des Audit Committee bei Internal Investigations – § 107 AktG, Berichtspflichten, Unabhängigkeit.
 
 # Audit Committee in Internal Investigations
 
@@ -112,7 +112,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-025-hr-misconduct`
 
-**Frühere Beschreibung:** Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung.
+**Fokus:** Behandelt arbeitsrechtliche Maßnahmen bei Fehlverhalten (Misconduct) – Abmahnung, Kündigung, Verdachtskündigung, Tatkündigung.
 
 # HR Misconduct und Arbeitsrechtliche Maßnahmen
 

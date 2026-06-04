@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-wirtschaftspruefer-h-bis-wirtschaftspruefer-i
-description: "berufsrecht-wirtschaftspruefer: Konsolidiertes Skill-Kompendium 15; bündelt 9 frühere Spezialskills (wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-3, wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-4, wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-services, wirtschaftspruefer-honorarstreit-und-unabhaengigkeit-kammerantw, wirtschaftspruefer-honorarstreit-und-unabhaengigkeit-organisati und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-wirtschaftspruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 4, Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Services, Wirtschaftspruefer Honorarstreit Und Unabhaengigkeit Kammerantw und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuste"
 ---
 
-# Kompendium 15 - berufsrecht-wirtschaftspruefer
+# Arbeitsbereich - Wirtschaftspruefer Honorarabhaengigkeit Und Non Audit Service 3 bis Wirtschaftspruefer Interessenkollision Beratung Und Pruefung Or
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-3` | Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-4` | Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-3`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-service-4`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `wirtschaftspruefer-honorarabhaengigkeit-und-non-audit-services`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarabhaengigkeit und non audit services - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
@@ -163,7 +163,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `wirtschaftspruefer-honorarstreit-und-unabhaengigkeit-kammerantw`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -206,7 +206,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `wirtschaftspruefer-honorarstreit-und-unabhaengigkeit-organisati`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -249,7 +249,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `wirtschaftspruefer-honorarstreit-und-unabhaengigkeit-rechtsprec`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: honorarstreit und unabhaengigkeit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -292,7 +292,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `wirtschaftspruefer-interessenkollision-beratung-und-pruefung-2`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -336,7 +336,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 8. `wirtschaftspruefer-interessenkollision-beratung-und-pruefung-ka`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
@@ -380,7 +380,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 9. `wirtschaftspruefer-interessenkollision-beratung-und-pruefung-or`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: interessenkollision beratung und pruefung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 

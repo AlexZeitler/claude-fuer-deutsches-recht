@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-zv-pfueb-mieter-fina-bis-spezial-arbeit-schri
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (zv-pfueb-mieter-finanzamt, spezial-802l-verhandlung-vergleich-und-eskalation, spezial-arbeit-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Pfueb Mieter Finanzamt, 802l Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - zwangsvollstreckung
+# Arbeitsbereich - Zv Pfueb Mieter Finanzamt, 802l Verhandlung Vergleich Und Eskalation, Arbeit Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-pfueb-mieter-finanzamt` | Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn). |
 | `spezial-802l-verhandlung-vergleich-und-eskalation` | 802L: Verhandlung, Vergleich und Eskalation im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-pfueb-mieter-finanzamt`
 
-**Frühere Beschreibung:** Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn).
+**Fokus:** Gläubiger will Mietforderung Steuererstattung oder Forderung gegen sonstigen Drittschuldner pfaenden. §§ 829 835 851 850b ZPO sonstige Drittschuldner. Prüfraster: Mieter Mietzinsforderung Finanzamt Steuererstattung Kranken-kasse Krankengeld Versicherung Rückkaufswert Geschäftspartner Rechnungen. § 851 ZPO Unuebertragbarkeit § 850b ZPO bedingt pfaendbar. Output: PfUeB-Antrag sonstiger Drittschuldner. Abgrenzung zu zv-pfueb-bank (Bank) und zv-pfueb-arbeitsentgelt (Lohn).
 
 # PfÜB Mieter, Finanzamt, sonstige Drittschuldner
 
@@ -127,7 +127,7 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 ## 2. `spezial-802l-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** 802L: Verhandlung, Vergleich und Eskalation im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** 802L: Verhandlung, Vergleich und Eskalation im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # 802L: Verhandlung, Vergleich und Eskalation
 
@@ -168,7 +168,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-arbeit-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Arbeit: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Arbeit: Schriftsatz-, Brief- und Memo-Bausteine
 

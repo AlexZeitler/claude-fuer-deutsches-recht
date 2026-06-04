@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-verl-033-bibliotheks-bis-verl-003-autor-herau
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (verl-033-bibliothekslizenz-e-lending-und-zugriff, verl-003-autor-herausgeber-mitwirkende-rechtekette) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 033 Bibliothekslizenz E Lending Und Zugriff, Verl 003 Autor Herausgeber Mitwirkende Rechtekette
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-033-bibliothekslizenz-e-lending-und-zugriff` | Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung. |
 | `verl-003-autor-herausgeber-mitwirkende-rechtekette` | Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-033-bibliothekslizenz-e-lending-und-zugriff`
 
-**Frühere Beschreibung:** Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung.
+**Fokus:** Verlagsrecht: Bibliothekslizenzen für E-Books und E-Lending — UrhG § 27, Onleihe, OverDrive, Lizenzmodelle, EuGH Volksbank-Entscheidung und Zugangssteuerung.
 
 # Verl-033 · Bibliothekslizenz, E-Lending und Zugriff
 
@@ -136,7 +136,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `verl-003-autor-herausgeber-mitwirkende-rechtekette`
 
-**Frühere Beschreibung:** Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG.
+**Fokus:** Verlagsrecht: Rechtekette bei Sammelwerken — Autor, Herausgeber, Mitwirkende, Übersetzer und Verlag; Klärung von Urheber-, Nutzungs- und Vergütungsrechten nach UrhG und VerlG.
 
 # Verl-003 · Autor, Herausgeber, Mitwirkende: Rechtekette im Sammelwerk
 

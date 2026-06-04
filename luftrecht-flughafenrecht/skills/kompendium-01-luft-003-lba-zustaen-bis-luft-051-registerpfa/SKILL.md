@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-luft-003-lba-zustaen-bis-luft-051-registerpfa
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (luft-003-lba-zustaendigkeit-pruefen, luft-021-airline-zustaendigkeit-pruefen, luft-031-flughafen-zustaendigkeit-pruefen, luft-041-flugzeugleasing-zustaendigkeit-pruefen, luft-051-registerpfandrecht-zustaendigkeit-prue) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 003 Lba Zustaendigkeit Pruefen, Luft 021 Airline Zustaendigkeit Pruefen, Luft 031 Flughafen Zustaendigkeit Pruefen, Luft 041 Flugzeugleasing Zustaendigkeit Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 003 Lba Zustaendigkeit Pruefen bis Luft 051 Registerpfandrecht Zustaendigkeit Prue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-003-lba-zustaendigkeit-pruefen` | Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage. |
 | `luft-021-airline-zustaendigkeit-pruefen` | Airline-Mandat: unklar welche Behoerde zustaendig ist LBA EU-Behoerde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zustaendigkeits-Vermerk mit korrektem Antragsadressaten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-003-lba-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage.
+**Fokus:** Mandant erhaelt LBA-Bescheid oder fragt ob LBA oder Landesbehoerde zustaendig ist. Prueft §§ 29 31 LuftVG Zustaendigkeitsabgrenzung LBA vs. Landesluftfahrtbehoerde EU-VO 1008/2008 Art. 4 Aufsichtsstaat und liefert Zustaendigkeitsvermerk mit richtigem Adressaten fuer Widerspruch oder Klage.
 
 # LBA-Zuständigkeit prüfen – Behörde korrekt adressieren
 
@@ -115,7 +115,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 2. `luft-021-airline-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Airline-Mandat: unklar welche Behoerde zustaendig ist LBA EU-Behoerde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zustaendigkeits-Vermerk mit korrektem Antragsadressaten.
+**Fokus:** Airline-Mandat: unklar welche Behoerde zustaendig ist LBA EU-Behoerde Landesbehoerde oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 4 Aufsichtsstaat LuftVG §§ 29-31 EASA und bilaterale Abkommen und liefert Zustaendigkeits-Vermerk mit korrektem Antragsadressaten.
 
 # Airline – Zuständigkeit prüfen
 
@@ -207,7 +207,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 3. `luft-031-flughafen-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zustaendig. Prueft LuftVG §§ 6 8 29 Behoerdenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zustaendigkeits-Vermerk fuer Flughafen-Bescheid oder Planfeststellungsverfahren.
+**Fokus:** Flughafen-Mandat: unklar ob Landesluftfahrtbehoerde LBA oder Planfeststellungsbehoerde zustaendig. Prueft LuftVG §§ 6 8 29 Behoerdenabgrenzung Planfeststellungspflicht Landesrecht und liefert Zustaendigkeits-Vermerk fuer Flughafen-Bescheid oder Planfeststellungsverfahren.
 
 # Flughafen – Zuständigkeit prüfen
 
@@ -300,7 +300,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 4. `luft-041-flugzeugleasing-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Flugzeugleasing-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zustaendigkeits-Vermerk fuer Wet-Dry-Finance-Lease-Situationen.
+**Fokus:** Flugzeugleasing-Mandat: unklar welche Behoerde zustaendig ist LBA EASA Cape-Town-Registry oder auslaendische Luftfahrtbehoerde. Prueft EU-VO 1008/2008 Art. 13 LuftVG § 21a Cape-Town-Registrierung und liefert Zustaendigkeits-Vermerk fuer Wet-Dry-Finance-Lease-Situationen.
 
 # Flugzeugleasing – Zuständigkeit prüfen
 
@@ -393,7 +393,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 5. `luft-051-registerpfandrecht-zustaendigkeit-prue`
 
-**Frühere Beschreibung:** Pfandrecht an Luftfahrzeugen: Zustaendigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzustaendigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zustaendigkeits-Vermerk fuer nationales und internationales Pfandrecht.
+**Fokus:** Pfandrecht an Luftfahrzeugen: Zustaendigkeit AG Braunschweig vs. ICAO-Register vs. Cape-Town-Registry. Prueft LuftFzgG § 1 AG-Braunschweig-Registerzustaendigkeit Cape-Town-Convention Art. 16 und Kollisionsrecht und liefert Zustaendigkeits-Vermerk fuer nationales und internationales Pfandrecht.
 
 # Registerpfandrecht – Zuständigkeit prüfen
 

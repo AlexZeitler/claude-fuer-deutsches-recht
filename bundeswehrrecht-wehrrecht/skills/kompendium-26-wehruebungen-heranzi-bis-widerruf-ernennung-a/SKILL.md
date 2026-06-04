@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-wehruebungen-heranzi-bis-widerruf-ernennung-a
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 26; bündelt 3 frühere Spezialskills (wehruebungen-heranziehungsbescheid, weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht, widerruf-ernennung-arglistige-taeuschung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wehruebungen Heranziehungsbescheid, Weitere Beschwerde Und Gerichtlicher Antrag Wehrdienstgericht, Widerruf Ernennung Arglistige Taeuschung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Wehruebungen Heranziehungsbescheid, Weitere Beschwerde Und Gerichtlicher Antrag Wehrdienstgericht, Widerruf Ernennung Arglistige Taeuschung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wehruebungen-heranziehungsbescheid` | Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraussetzungen, Rechtsbehelf, Härtegründe und Freistellungsverfahren. Norm-/Quellenanker: SG §§ 60–69, WBO. |
 | `weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht` | Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wehruebungen-heranziehungsbescheid`
 
-**Frühere Beschreibung:** Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraussetzungen, Rechtsbehelf, Härtegründe und Freistellungsverfahren. Norm-/Quellenanker: SG §§ 60–69, WBO.
+**Fokus:** Wehrübungen und Heranziehungsbescheid: prüft Heranziehungsvoraussetzungen, Rechtsbehelf, Härtegründe und Freistellungsverfahren. Norm-/Quellenanker: SG §§ 60–69, WBO.
 
 # Wehrübungen und Heranziehungsbescheid
 
@@ -139,7 +139,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `weitere-beschwerde-und-gerichtlicher-antrag-wehrdienstgericht`
 
-**Frühere Beschreibung:** Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG.
+**Fokus:** Weitere Beschwerde und gerichtlicher Antrag TDG: prüft § 16 WBO, § 17 WBO, TDG-Verfahren und BVerwG-Berufung. Norm-/Quellenanker: §§ 16–22a WBO, TDG.
 
 # Weitere Beschwerde und gerichtlicher Antrag beim Wehrdienstgericht
 
@@ -249,7 +249,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `widerruf-ernennung-arglistige-taeuschung`
 
-**Frühere Beschreibung:** Widerruf Ernennung arglistige Täuschung: prüft SG §§ 43–44, Widerrufstatbestand, Folgen und Rechtsbehelfe. Norm-/Quellenanker: §§ 43–44 SG, VwVfG § 48.
+**Fokus:** Widerruf Ernennung arglistige Täuschung: prüft SG §§ 43–44, Widerrufstatbestand, Folgen und Rechtsbehelfe. Norm-/Quellenanker: §§ 43–44 SG, VwVfG § 48.
 
 # Widerruf der Ernennung wegen arglistiger Täuschung
 

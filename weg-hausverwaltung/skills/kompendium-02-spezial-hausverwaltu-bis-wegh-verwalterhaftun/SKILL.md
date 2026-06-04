@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-spezial-hausverwaltu-bis-wegh-verwalterhaftun
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (spezial-hausverwaltungs-fristen-form-und-zustaendigkeit, heizung-schaden-versicherung-notmassnahme, wegh-verwalterhaftung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - weg-hausverwaltung
+# Arbeitsbereich - Hausverwaltungs Fristen Form Und Zustaendigkeit, Heizung Schaden Versicherung Notmassnahme, Wegh Verwalterhaftung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit` | Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `heizung-schaden-versicherung-notmassnahme` | Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-hausverwaltungs-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Hausverwaltungs: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -85,7 +85,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `heizung-schaden-versicherung-notmassnahme`
 
-**Frühere Beschreibung:** Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan.
+**Fokus:** Bearbeitet Heizungsstörungen, Wasserschäden, Feuchtigkeit, Frost, Versicherung und Notmaßnahmen in WEG-Anlagen. Prüft Zuständigkeit, Sofortmaßnahmen, Beweise, Handwerker, Beschlussbedarf, Umlage und Mieterkommunikation. Output: Maßnahmenplan.
 
 # Heizung, Schaden, Versicherung, Notmaßnahme
 
@@ -153,7 +153,7 @@ Die Gemeinschaft beschließt, die Verwaltung zu beauftragen und zu bevollmächti
 
 ## 3. `wegh-verwalterhaftung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O fuer Verwalter, Haftung fuer Beschlussumsetzung. Pruefraster fuer Verwalter.
+**Fokus:** Spezialfall Verwalterhaftung WEG §§ 26 ff. WEG nach Reform 2020: Innen- und Aussenhaftung, D-and-O fuer Verwalter, Haftung fuer Beschlussumsetzung. Pruefraster fuer Verwalter.
 
 # WEGh: Verwalterhaftung
 

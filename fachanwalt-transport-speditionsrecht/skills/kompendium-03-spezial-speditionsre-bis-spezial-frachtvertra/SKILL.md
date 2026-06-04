@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-speditionsre-bis-spezial-frachtvertra
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-speditionsrecht-fristen-form-und-zustaendigkeit, fachanwalt-transport-tio-schiedsgericht-adsp-klauseln, spezial-frachtvertrag-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Speditionsrecht Fristen Form Und Zustaendigkeit, Transport Tio Schiedsgericht Adsp Klauseln, Frachtvertrag Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Speditionsrecht Fristen Form Und Zustaendigkeit, Transport Tio Schiedsgericht Adsp Klauseln, Frachtvertrag Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-speditionsrecht-fristen-form-und-zustaendigkeit` | Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-transport-tio-schiedsgericht-adsp-klauseln` | TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-speditionsrecht-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Speditionsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-transport-tio-schiedsgericht-adsp-klauseln`
 
-**Frühere Beschreibung:** TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren.
+**Fokus:** TIO-Schiedsgerichtsklauseln und ADSP-Bedingungen im Transport- und Speditionsrecht prüfen. Normen: ADSP 2017, §§ 1025 ff. ZPO. Prüfraster: Schiedsklausel-Wirksamkeit, AGB-Kontrolle, TIO-Schiedsprozess. Output: Klauselprüfung ADSP. Abgrenzung: nicht staatliches Gerichtsverfahren.
 
 # Transport-Recht — TIO / ADSp-Schiedsklauseln
 
@@ -183,7 +183,7 @@ Stand: 05/2026. ADSp 2017 weiterhin als Branchenstandard. CMR 1956. Montrealer �
 
 ## 3. `spezial-frachtvertrag-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Frachtvertrag: Risikoampel, Gegenargumente und Verteidigungslinien
 

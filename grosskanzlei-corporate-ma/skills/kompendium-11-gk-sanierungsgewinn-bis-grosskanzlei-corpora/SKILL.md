@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-gk-sanierungsgewinn-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 11; bündelt 7 frühere Spezialskills (gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna, gk-sanierungsgewinn-tax-step-plan-restrukturierung, gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft, grosskanzlei-corporate-ma-ai-vdr-classifier, grosskanzlei-corporate-ma-ancillary-documents-tsa-sla und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna, Gk Sanierungsgewinn Tax Step Plan Restrukturierung, Gk Sanierungsgewinn Vorbescheid Und Verbindliche Auskunft, Grosskanzlei Corporate Ma Ai Vdr Classifier und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Gk Sanierungsgewinn Tax Due Diligence Im Distressed Mna bis Grosskanzlei Corporate Ma Antitrust Gun Jumping Clean Team
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna` | Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026. |
 | `gk-sanierungsgewinn-tax-step-plan-restrukturierung` | Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gk-sanierungsgewinn-tax-due-diligence-im-distressed-mna`
 
-**Frühere Beschreibung:** Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026.
+**Fokus:** Tax Due Diligence Modul für Distressed-M&A-Transaktionen mit Sanierungsgewinn-Bezug. Geht über die Standard-Tax-DD hinaus und prüft Verlustvorträge, Zinsvortrag, EBITDA-Vortrag, schwebende Außenprüfungen, vorhandene oder fehlende verbindliche Auskünfte und die strukturellen Voraussetzungen für § 3a EStG. Liefert DD-Bericht-Struktur, Q-und-A-Liste für den Datenraum und Red-Flag-Katalog. Adressat ist das Tax-und-M&A-Team der Großkanzlei. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Tax Due Diligence im Distressed M&A
 
@@ -169,7 +169,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `gk-sanierungsgewinn-tax-step-plan-restrukturierung`
 
-**Frühere Beschreibung:** Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026.
+**Fokus:** Tax Step Plan für komplexe Restrukturierungen mit Sanierungsgewinn-Bezug. Reihenfolge der Strukturschritte zwischen Kapitalmaßnahmen, Forderungsverzicht, Debt-Equity-Swap, Anteilsübertragung und Antragstellung nach § 3a EStG. Modelliert die Wechselwirkung mit § 8c KStG, § 8d KStG, § 4h EStG und § 10d EStG. Liefert Tax-Step-Plan-Template, Risiko-Marker und Checkliste der Antragsfristen. Adressat ist das Steps-Plan-Team in der Großkanzlei. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Tax Step Plan in der Restrukturierung
 
@@ -328,7 +328,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `gk-sanierungsgewinn-vorbescheid-und-verbindliche-auskunft`
 
-**Frühere Beschreibung:** Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adressat ist das Tax- und Restrukturierungsteam der Großkanzlei in der Vorbereitung der Sanierungsmaßnahme. Quellen Stand 06/2026.
+**Fokus:** Verbindliche Auskunft nach § 89 AO im Sanierungskontext. Beschreibt Antragsstruktur, Sachverhaltsdarstellung, Tatsachen- und Rechtsfragen, Bindungswirkung und Reichweite. Liefert Antrags-Template, Sachverhalts-Dossier-Struktur, Kommunikationsstrategie mit dem Finanzamt und Timeline-Planung. Adressat ist das Tax- und Restrukturierungsteam der Großkanzlei in der Vorbereitung der Sanierungsmaßnahme. Quellen Stand 06/2026.
 
 # Sanierungsgewinn – Vorbescheid und verbindliche Auskunft
 
@@ -487,7 +487,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-ai-vdr-classifier`
 
-**Frühere Beschreibung:** AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Pruefprioritaeten.
+**Fokus:** AI VDR Classifier: klassifiziert Datenraumdokumente, erkennt Dokumentfamilien, fehlende Anlagen, Widersprueche, Dubletten, Clean-Room-Bedarf und Pruefprioritaeten.
 
 # AI VDR Classifier
 
@@ -577,7 +577,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-ancillary-documents-tsa-sla`
 
-**Frühere Beschreibung:** Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft fuer M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements.
+**Fokus:** Ancillary Documents, TSA und SLA Skill: baut Nebenvertragslandschaft fuer M&A, einschliesslich Transitional Services, IP-License, Supply, Lease, Escrow und Management Agreements.
 
 # Ancillary Documents TSA SLA
 
@@ -667,7 +667,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-anfaenger-modus`
 
-**Frühere Beschreibung:** Anfänger- und First-Year-Associate-Modus für Großkanzlei Corporate/M&A: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist, Unterlagen und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, schlägt passende Plugin-Skills vor und baut Review-Gates für Senior Review.
+**Fokus:** Anfänger- und First-Year-Associate-Modus für Großkanzlei Corporate/M&A: fragt Erfahrungslevel, Deal-Phase, Aufgabe, Frist, Unterlagen und gewünschte Führung ab; erklärt Begriffe, zerlegt Aufgaben in kleine Schritte, schlägt passende Plugin-Skills vor und baut Review-Gates für Senior Review.
 
 # Anfänger-Modus / First-Year-Associate
 
@@ -924,7 +924,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-antitrust-gun-jumping-clean-team`
 
-**Frühere Beschreibung:** Antitrust, Gun-Jumping und Clean-Team Spezialist: prueft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design.
+**Fokus:** Antitrust, Gun-Jumping und Clean-Team Spezialist: prueft Wettbewerberkontakte, Informationsaustausch, Vollzugsverbot, Integration Planning und Clean-Team-Design.
 
 # Antitrust Gun Jumping Clean Team
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-regr-dora-resilienz-bis-regr-mica-kryptoasse
-description: "regulatorisches-recht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (regr-dora-resilienz-spezial, regr-finanzdienstleistungsregulierung-bauleiter, regr-mica-kryptoassets-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "regulatorisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - regulatorisches-recht
+# Arbeitsbereich - Regr Dora Resilienz Spezial, Regr Finanzdienstleistungsregulierung Bauleiter, Regr Mica Kryptoassets Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `regr-dora-resilienz-spezial` | Spezialfall DORA Digital Operational Resilience Act: IKT-Risikomanagement, Drittparteienrisiko, TLPT-Tests. Pruefraster fuer Finanzunternehmen und IKT-Dienstleister. |
 | `regr-finanzdienstleistungsregulierung-bauleiter` | Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen. Pruefraster fuer Lizenz- und Erlaubnistatbestaende. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `regr-dora-resilienz-spezial`
 
-**Frühere Beschreibung:** Spezialfall DORA Digital Operational Resilience Act: IKT-Risikomanagement, Drittparteienrisiko, TLPT-Tests. Pruefraster fuer Finanzunternehmen und IKT-Dienstleister.
+**Fokus:** Spezialfall DORA Digital Operational Resilience Act: IKT-Risikomanagement, Drittparteienrisiko, TLPT-Tests. Pruefraster fuer Finanzunternehmen und IKT-Dienstleister.
 
 # RegR: DORA-Resilienz
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 
 ## 2. `regr-finanzdienstleistungsregulierung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen. Pruefraster fuer Lizenz- und Erlaubnistatbestaende.
+**Fokus:** Bauleiter Finanzdienstleistungsregulierung: KWG, ZAG, KAGB, WpHG, BaFin-Mitteilungen. Pruefraster fuer Lizenz- und Erlaubnistatbestaende.
 
 # RegR: FDL-Regulierung Bauleiter
 
@@ -174,7 +174,7 @@ Dieser Skill gehoert zum Plugin `regulatorisches-recht`. Er ergaenzt die uebrige
 
 ## 3. `regr-mica-kryptoassets-spezial`
 
-**Frühere Beschreibung:** Spezialfall MiCA-Verordnung Kryptoassets: Asset-Referenced-Tokens, E-Money-Tokens, andere Kryptowerte. Pruefraster fuer Emittent, CASP, Vertrieb.
+**Fokus:** Spezialfall MiCA-Verordnung Kryptoassets: Asset-Referenced-Tokens, E-Money-Tokens, andere Kryptowerte. Pruefraster fuer Emittent, CASP, Vertrieb.
 
 # RegR: MiCA Kryptoassets
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-entgtranspg-bis-spezial-kschg-risiko
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-entgtranspg-verhandlung-vergleich-und-eskalation, spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-kschg-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Entgtranspg Verhandlung Vergleich Und Eskalation, Fachanwalt Erstpruefung Und Mandatsziel, Kschg Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-entgtranspg-verhandlung-vergleich-und-eskalation` | EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970. |
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-entgtranspg-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
+**Fokus:** EntgTranspG Entgelttransparenzgesetz: Auskunftsanspruch § 10, Verfahren, Fristen, Verhandlungsstrategie bei Lohnlücke, Eskalation zu AGG-Klage §§ 15 und 22 AGG, Paarvergleich BAG 8 AZR 300/24, EU-Lohntransparenz-RL 2023/970.
 
 # Spezial: EntgTranspG — Verhandlung, Vergleich und Eskalation
 
@@ -134,7 +134,7 @@ Das BAG hat in BAG 8 AZR 300/24 (23.10.2025) entschieden: **Ein einziger Verglei
 
 ## 2. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel.
+**Fokus:** Fachanwalt Erstprüfung und Mandatsziel: systematische Erstaufnahme im arbeitsrechtlichen Mandat, Rollenklärung, Zielformulierung, Interessenkonflikt-Check, Mandatsumfang, Kostenhinweis RVG, erste Risikoampel.
 
 # Spezial: Fachanwalt Erstprüfung und Mandatsziel
 
@@ -259,7 +259,7 @@ Falls RSV vorhanden: Deckungsanfrage sofort stellen; RSV-Selbstbehalt klären; R
 
 ## 3. `spezial-kschg-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff.
+**Fokus:** KSchG Risikoampel: systematische Bewertung der Kündigung nach betriebsbedingten, personenbedingten und verhaltensbedingten Gründen, Sozialauswahl, BR-Anhörung, Massenentlassung — Grün/Gelb/Rot mit Gegenargumenten und nächstem Handgriff.
 
 # Spezial: KSchG Risikoampel und Gegenargumente
 

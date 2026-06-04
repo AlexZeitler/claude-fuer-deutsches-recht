@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-aussenwirtschaft-aml-bis-aussenwirtschaft-san
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (aussenwirtschaft-aml-kyc-sanktionen, aussenwirtschaft-finanzsanktionen-eigentum-kontrolle, aussenwirtschaft-sanktionen-embargos, aussenwirtschaft-sanktionsscreening-fuzzy-match) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Aml Kyc Sanktionen, Aussenwirtschaft Finanzsanktionen Eigentum Kontrolle, Aussenwirtschaft Sanktionen Embargos, Aussenwirtschaft Sanktionsscreening Fuzzy Match; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Aml Kyc Sanktionen bis Aussenwirtschaft Sanktionsscreening Fuzzy Match
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-aml-kyc-sanktionen` | Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Pruefung von PEP-Status und Hochrisikoindikatoren. Output: KYC-Dossier mit Sanktionsabklaerungsvermerk und Eskalationspfad. |
 | `aussenwirtschaft-finanzsanktionen-eigentum-kontrolle` | Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-aml-kyc-sanktionen`
 
-**Frühere Beschreibung:** Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Pruefung von PEP-Status und Hochrisikoindikatoren. Output: KYC-Dossier mit Sanktionsabklaerungsvermerk und Eskalationspfad.
+**Fokus:** Schnittstelle von AML/KYC-Pflichten und Sanktionsrecht: Risikobasierte Kundenpruefung nach GwG (§§ 10-17 GwG) kombiniert mit Sanktionsscreening nach EU-Finanzsanktionsrecht (VO 269/2014 und andere). Identifizierung wirtschaftlich Berechtigter (UBO), Pruefung von PEP-Status und Hochrisikoindikatoren. Output: KYC-Dossier mit Sanktionsabklaerungsvermerk und Eskalationspfad.
 
 # AML/KYC und Sanktionen: Risikobasierte Kundenpruefung und Sanktionsscreening
 
@@ -117,7 +117,7 @@ KYC-Dossier mit UBO-Mapping, Sanktions-Trefferlog, PEP-Klassifizierung, Risikoam
 
 ## 2. `aussenwirtschaft-finanzsanktionen-eigentum-kontrolle`
 
-**Frühere Beschreibung:** Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk.
+**Fokus:** Pruefung von Eigentum und Kontrolle sanktionierter Personen bei juristischen Personen nach Art. 2 Abs. 1 lit. a VO (EU) 269/2014 und EU-Leitlinien zur 50-%-Regel: Mehrheitsbesitz, mittelbare Kontrolle, Treuhandstrukturen. Umgehungsrisiken bei Tochtergesellschaften und Geschaeftspartnern. Output: UBO-Analysevermerk.
 
 # 50-Prozent-Regel bei Sanktionen: Eigentum, Kontrolle und Umgehungsrisiken
 
@@ -204,7 +204,7 @@ UBO-Analysevermerk mit Eigentumsdiagramm, 50-%-Regel-Pruefergebnis, Quellenproto
 
 ## 3. `aussenwirtschaft-sanktionen-embargos`
 
-**Frühere Beschreibung:** Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewertung.
+**Fokus:** Ueberblick und Triage ueber EU-Sanktionen und Embargos: Russland (VO 833/2014 und 269/2014), Iran (VO 267/2012), Belarus (VO 765/2006), Nordkorea, Myanmar, Syrien. Bereitstellungsverbote, Sektorensanktionen, Finanzsanktionen und Reisebeschraenkungen. Output: Sanktionslage-Uebersicht und Erstbewertung.
 
 # EU-Sanktionen und Embargos: Triage und Sanktionslage-Uebersicht
 
@@ -291,7 +291,7 @@ Sanktionslage-Uebersicht mit Verordnung, Listenstand und Erstbewertung; Screenin
 
 ## 4. `aussenwirtschaft-sanktionsscreening-fuzzy-match`
 
-**Frühere Beschreibung:** Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte fuer Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll.
+**Fokus:** Technische und rechtliche Anforderungen an Sanktionslistenscreening mit Fuzzy-Matching: Schwellenwerte fuer Namensaehnlichkeit, Algorithmen (Levenshtein, phonetisch), False-Positive-Management, Dokumentation und Validierungspflicht des Screening-Tools nach EU-Sanktionsrecht. Output: Screening-Methodikbeschreibung und Validierungsprotokoll.
 
 # Sanktionsscreening mit Fuzzy-Match: Methodik, Schwellenwerte und Validierung
 

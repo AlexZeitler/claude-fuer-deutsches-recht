@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-infl-018-finanzprodu-bis-infl-020-alkohol-tab
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko, infl-019-gluecksspiel-werbung-und-altersgrenzen, infl-020-alkohol-tabak-cannabis-werbung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 018 Finanzprodukte Krypto Affiliate Und Bafin Risiko, Infl 019 Gluecksspiel Werbung Und Altersgrenzen, Infl 020 Alkohol Tabak Cannabis Werbung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - influencer-recht
+# Arbeitsbereich - Infl 018 Finanzprodukte Krypto Affiliate Und Bafin Risiko, Infl 019 Gluecksspiel Werbung Und Altersgrenzen, Infl 020 Alkohol Tabak Cannabis W
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko` | Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken. |
 | `infl-019-gluecksspiel-werbung-und-altersgrenzen` | Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-018-finanzprodukte-krypto-affiliate-und-bafin-risiko`
 
-**Frühere Beschreibung:** Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken.
+**Fokus:** Influencer-Recht: Werbung für Finanzprodukte und Krypto – BaFin-Erlaubnispflicht, WpHG, Anlageberatung und Haftungsrisiken.
 
 # Influencer-Recht: Finanzprodukte, Krypto-Affiliate und BaFin-Risiko
 
@@ -96,7 +96,7 @@ Finanzprodukt-Werbung durch Creator ist eines der rechtlich gefährlichsten Bere
 
 ## 2. `infl-019-gluecksspiel-werbung-und-altersgrenzen`
 
-**Frühere Beschreibung:** Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator.
+**Fokus:** Influencer-Recht: Glücksspiel-Werbung – GlüStV 2021, Werbeverbote, Altersgrenzen, Sperrdatei und Haftungsrisiken für Creator.
 
 # Influencer-Recht: Glücksspiel-Werbung und Altersgrenzen
 
@@ -163,7 +163,7 @@ Glücksspiel-Werbung durch Influencer ist stark reguliert und teilweise verboten
 
 ## 3. `infl-020-alkohol-tabak-cannabis-werbung`
 
-**Frühere Beschreibung:** Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote.
+**Fokus:** Influencer-Recht: Werbung für Alkohol, Tabak und Cannabis – TabakerzG, JuSchG, LMIV, MStV und Werbeverbote.
 
 # Influencer-Recht: Alkohol, Tabak und Cannabis – Werberestriktionen
 

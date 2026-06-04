@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-rechtsabteilung-betr-bis-rechtsabteilung-idd
-description: "versicherungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall, rechtsabteilung-cyberversicherung-nach-ransomware, rechtsabteilung-idd-vertrieb-und-provisionskonflikt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betriebsunterbrechung Und Lieferkettenausfall, Cyberversicherung Nach Ransomware, Idd Vertrieb Und Provisionskonflikt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - versicherungsrecht
+# Arbeitsbereich - Betriebsunterbrechung Und Lieferkettenausfall, Cyberversicherung Nach Ransomware, Idd Vertrieb Und Provisionskonflikt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall` | Rechtsabteilungs-Spezialskill für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-cyberversicherung-nach-ransomware` | Rechtsabteilungs-Spezialskill für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-betriebsunterbrechung-und-lieferkettenausfall`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Betriebsunterbrechung und Lieferkettenausfall: Unterbrechungsschaden, Trigger, Wartezeit und Mitwirkung werden beweisbar gemacht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Betriebsunterbrechung und Lieferkettenausfall
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-cyberversicherung-nach-ransomware`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Cyberversicherung nach Ransomware: Deckung, Anzeige, Forensik und Lösegeldklauseln werden als Krisenfahrplan geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Cyberversicherung nach Ransomware
 
@@ -108,7 +108,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-idd-vertrieb-und-provisionskonflikt`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für IDD-Vertrieb und Provisionskonflikt: Produktvertrieb wird auf Interessenkonflikte, Dokumentation und Aufsicht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: IDD-Vertrieb und Provisionskonflikt
 

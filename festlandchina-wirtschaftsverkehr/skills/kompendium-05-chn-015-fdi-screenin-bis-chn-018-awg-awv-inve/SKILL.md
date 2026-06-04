@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-chn-015-fdi-screenin-bis-chn-018-awg-awv-inve
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (chn-015-fdi-screening-deutschland-eu, chn-016-chinesische-investoren-in-deutschland, chn-017-critical-infrastructure-risk, chn-018-awg-awv-investitionspruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 015 Fdi Screening Deutschland Eu, Chn 016 Chinesische Investoren In Deutschland, Chn 017 Critical Infrastructure Risk, Chn 018 Awg Awv Investitionspruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 015 Fdi Screening Deutschland Eu bis Chn 018 Awg Awv Investitionspruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-015-fdi-screening-deutschland-eu` | FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation. |
 | `chn-016-chinesische-investoren-in-deutschland` | Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-015-fdi-screening-deutschland-eu`
 
-**Frühere Beschreibung:** FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation.
+**Fokus:** FDI-Screening für chinesische Investitionen in Deutschland/EU: Sektorliste AWV Anlage, Schwellenwerte (10 Prozent/25 Prozent), Prüfverfahren BMWi/BMWK, Untersagungsvoraussetzungen §§ 55-62a AWV, EU-VO 2019/452 Kooperationsmechanismus, Verbotstatbestände, Auflagen. Output: FDI-Screening-Verfahrensplan und Behördenkommunikation.
 
 # FDI-Screening Deutschland/EU: Verfahren bei chinesischen Investitionen
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-016-chinesische-investoren-in-deutschland`
 
-**Frühere Beschreibung:** Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen.
+**Fokus:** Rechtliche Besonderheiten bei chinesischen Direktinvestitionen in Deutschland: AWV-Anmeldepflicht, Sektorenprüfung, staatliche Beteiligung des Investors (SASAC-Unternehmen), Transparenzanforderungen, politische-rechtliche Risiken, Auflagenkataloge BMWK, Parallele US-CFIUS-Prüfung bei US-Nexus. Output: Investoren-Compliance-Paket und Verhandlungsrahmen.
 
 # Chinesische Investoren in Deutschland: Compliance und Verfahren
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-017-critical-infrastructure-risk`
 
-**Frühere Beschreibung:** Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan.
+**Fokus:** Risikobewertung kritischer Infrastruktur (KRITIS) bei China-Beteiligung: BSI-KRITIS-Sektoren, IT-Sicherheitsgesetz 2.0 §§ 8a ff., AWV-Sektorenprüfung Telekommunikation/Energie/Wasser, NIS-2-Richtlinie, chinesisches National Security Law CN als Gegenrisiko, Sicherheitsüberprüfungen, Lieferantenausschluss. Output: KRITIS-Risikoanalyse und Schutzmaßnahmenplan.
 
 # Kritische Infrastruktur und China-Beteiligung: Risikobewertung
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-018-awg-awv-investitionspruefung`
 
-**Frühere Beschreibung:** Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst.
+**Fokus:** Investitionsprüfung nach AWG §§ 55 ff. und AWV §§ 55-62a: Sektorenüberblick, Erwerbsschwellen (10/25 Prozent Stimmrechte), Anmeldepflicht, Prüffristen, Untersagung, Auflagen, Kooperationspflichten mit EU-Partnern nach EU-VO 2019/452. Fallgruppen KRITIS/Technologie/Medien. Output: AWV-Prüfschema und Antragsunterlage-Gerüst.
 
 # AWG/AWV-Investitionsprüfung: Verfahren und Fallgruppen
 

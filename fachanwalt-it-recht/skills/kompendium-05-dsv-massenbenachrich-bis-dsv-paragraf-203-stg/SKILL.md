@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-dsv-massenbenachrich-bis-dsv-paragraf-203-stg
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (dsv-massenbenachrichtigung, dsv-meldekette-auftragsverarbeiter, dsv-meldung-grenzueberschreitend, dsv-meldung-kritis-sektoraufsicht, dsv-paragraf-203-stgb-berufsgeheimnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Massenbenachrichtigung, Dsv Meldekette Auftragsverarbeiter, Dsv Meldung Grenzueberschreitend, Dsv Meldung Kritis Sektoraufsicht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Massenbenachrichtigung bis Dsv Paragraf 203 Stgb Berufsgeheimnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-massenbenachrichtigung` | Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewelle; Hilfsdienste wie Schufa-Auskunft. Output: Versandplan, Skalierungsraster, Q&A-Matrix. Abgrenzung: keine individuelle Benachrichtigung; keine Behördenmeldung. |
 | `dsv-meldekette-auftragsverarbeiter` | Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-massenbenachrichtigung`
 
-**Frühere Beschreibung:** Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewelle; Hilfsdienste wie Schufa-Auskunft. Output: Versandplan, Skalierungsraster, Q&A-Matrix. Abgrenzung: keine individuelle Benachrichtigung; keine Behördenmeldung.
+**Fokus:** Steuert die Massenbenachrichtigung tausender oder Millionen Betroffener nach Art. 34 DSGVO. Behandelt: Versandlogistik E-Mail-Welle; Brief-Welle; Push und SMS; Adressqualität; Bounces; Sprachvarianten; Hotline-Dimensionierung; Pressewelle; Hilfsdienste wie Schufa-Auskunft. Output: Versandplan, Skalierungsraster, Q&A-Matrix. Abgrenzung: keine individuelle Benachrichtigung; keine Behördenmeldung.
 
 # Massenbenachrichtigung bei großem Datenschutzvorfall
 
@@ -86,7 +86,7 @@ Q&A-Matrix: 20-30 Fragen mit abgestimmten Antworten.
 
 ## 2. `dsv-meldekette-auftragsverarbeiter`
 
-**Frühere Beschreibung:** Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter.
+**Fokus:** Steuert die Meldekette in einer Auftragsverarbeiter-Konstellation nach Art. 33 Abs. 2 DSGVO. Behandelt: Meldung des Auftragsverarbeiters an den Verantwortlichen; Form, Frist, Inhalt; Eskalation bei Schweigen oder Verzögerung; AV-Vertragsklauseln nach Art. 28 Abs. 3 lit. f und h DSGVO; Unterauftragsverarbeiter; Vertragsstrafen; Beweissicherungspflichten beim Auftragsverarbeiter. Output: Mustermeldung Auftragsverarbeiter an Verantwortlichen plus Eskalationsschreiben. Abgrenzung: keine Behördenmeldung durch den Auftragsverarbeiter.
 
 # Meldekette Auftragsverarbeiter — Art. 33 Abs. 2 DSGVO
 
@@ -147,7 +147,7 @@ Eskalationsschreiben bei Schweigen: Fristsetzung 24 h; danach Vertragsstrafe und
 
 ## 3. `dsv-meldung-grenzueberschreitend`
 
-**Frühere Beschreibung:** Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Schnittstelle zu Art. 49 DSGVO-Übermittlungen; Hinweispflichten an US-Aufsichten bei BIPA, CCPA, GLBA. Output: Memo zur Meldelandkarte. Abgrenzung: keine vertiefte US-Beratung.
+**Fokus:** Steuert die Meldung eines Datenschutzvorfalls mit Bezug zu mehreren Mitgliedstaaten oder Drittstaaten. Behandelt: Lead-Authority-Verfahren Art. 56 DSGVO; parallele Meldung an betroffene Behörden; Sprache der Meldung; Drittstaaten-Aufsichten und ihre Meldepflichten (z.B. UK ICO, Schweiz EDÖB); Schnittstelle zu Art. 49 DSGVO-Übermittlungen; Hinweispflichten an US-Aufsichten bei BIPA, CCPA, GLBA. Output: Memo zur Meldelandkarte. Abgrenzung: keine vertiefte US-Beratung.
 
 # Meldung grenzüberschreitender Datenschutzvorfälle — EU und Drittstaaten
 
@@ -195,7 +195,7 @@ Spalte 1: Land; Spalte 2: Behörde; Spalte 3: Pflicht oder freiwillig; Spalte 4:
 
 ## 4. `dsv-meldung-kritis-sektoraufsicht`
 
-**Frühere Beschreibung:** Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht. Behandelt: § 8b BSIG für KRITIS; NIS-2-Umsetzung mit erweiterten Meldepflichten; BaFin BAIT/MaRisk für Finanzinstitute; BNetzA für TK- und Postdienste; Meldungen nach § 168 TKG; Konsistenz der Meldetexte; Datenschutzschnittstelle. Output: Memo zur Mehrfachmeldelandschaft. Abgrenzung: keine vertiefte BaFin-Beratung.
+**Fokus:** Steuert die parallele Meldung an Sektoraufsichten neben der Datenschutzaufsicht. Behandelt: § 8b BSIG für KRITIS; NIS-2-Umsetzung mit erweiterten Meldepflichten; BaFin BAIT/MaRisk für Finanzinstitute; BNetzA für TK- und Postdienste; Meldungen nach § 168 TKG; Konsistenz der Meldetexte; Datenschutzschnittstelle. Output: Memo zur Mehrfachmeldelandschaft. Abgrenzung: keine vertiefte BaFin-Beratung.
 
 # Parallele Meldung KRITIS und Sektoraufsicht — BSIG, BaFin, BNetzA, NIS-2
 
@@ -251,7 +251,7 @@ Texte synchronisiert; Aktenzeichen wechselseitig zitieren.
 
 ## 5. `dsv-paragraf-203-stgb-berufsgeheimnis`
 
-**Frühere Beschreibung:** Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige.
+**Fokus:** Bewertet einen Datenschutzvorfall bei Berufsgeheimnisträgern nach § 203 StGB. Behandelt: Ärzte; Rechtsanwälte; Steuerberater; Wirtschaftsprüfer; Psychotherapeuten; Sozialarbeiter; berufsmäßige Gehilfen; mitwirkende Personen nach § 203 Abs. 3 StGB; Reichweite der Schweigepflicht; Verhältnis zur DSGVO; Anzeige- und Benachrichtigungspflichten; Risiken bei Cloud-Auslagerung; berufsrechtliche Folgen. Output: Memo zu Strafbarkeitsrisiko und Pflichten. Abgrenzung: keine berufsrechtliche Verteidigung; keine Strafanzeige.
 
 # § 203 StGB Berufsgeheimnis im Datenschutzvorfall
 

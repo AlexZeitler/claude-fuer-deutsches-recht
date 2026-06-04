@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-wahlkampf-koalitions-bis-wahlkampf-lagebild-m
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (wahlkampf-koalitionssignale-und-rote-linien, wahlkampf-kommunalwahlkampf-groundgame, wahlkampf-kostenversprechen-und-finanzierbarkeit, wahlkampf-krisenstatement-fehler-eigener-leute, wahlkampf-lagebild-medienresonanz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Koalitionssignale Und Rote Linien, Wahlkampf Kommunalwahlkampf Groundgame, Wahlkampf Kostenversprechen Und Finanzierbarkeit, Wahlkampf Krisenstatement Fehler Eigener Leute und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Koalitionssignale Und Rote Linien bis Wahlkampf Lagebild Medienresonanz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-koalitionssignale-und-rote-linien` | Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren. |
 | `wahlkampf-kommunalwahlkampf-groundgame` | Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-koalitionssignale-und-rote-linien`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren.
+**Fokus:** Wahlkampfrecht Praxis: Koalitionssignale im Wahlkampf strategisch und rechtlich sauber formulieren.
 
 # Koalitionssignale Und Rote Linien
 
@@ -83,7 +83,7 @@ Erzeuge: **Koalitionssprechzettel**. Wenn Informationen fehlen, stelle höchsten
 
 ## 2. `wahlkampf-kommunalwahlkampf-groundgame`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen.
+**Fokus:** Wahlkampfrecht Praxis: Kommunalwahlkampf in Infostaende, Haustuer, Plakate, lokale Termine und Wahlvorschlaege uebersetzen.
 
 # Kommunalgroundgame
 
@@ -136,7 +136,7 @@ Erzeuge: **Kommunalwahlkampf-Checkliste**. Wenn Informationen fehlen, stelle hö
 
 ## 3. `wahlkampf-kostenversprechen-und-finanzierbarkeit`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kosten- und Finanzierungsversprechen kommunikativ und rechtlich absichern.
+**Fokus:** Wahlkampfrecht Praxis: Kosten- und Finanzierungsversprechen kommunikativ und rechtlich absichern.
 
 # Kostenversprechen Und Finanzierbarkeit
 
@@ -189,7 +189,7 @@ Erzeuge: **Finanzierungs-Sprechzettel**. Wenn Informationen fehlen, stelle höch
 
 ## 4. `wahlkampf-krisenstatement-fehler-eigener-leute`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren.
+**Fokus:** Wahlkampfrecht Praxis: auf Fehltritte eigener Kandidierender oder Helfer reagieren.
 
 # Krisenstatement Fehler Eigener Leute
 
@@ -242,7 +242,7 @@ Erzeuge: **Krisenstatement und Maßnahmenplan**. Wenn Informationen fehlen, stel
 
 ## 5. `wahlkampf-lagebild-medienresonanz`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten.
+**Fokus:** Wahlkampfrecht Praxis: Medien-, Social- und Vor-Ort-Lage ohne Panikmetriken verdichten.
 
 # Lagebild Medienresonanz
 

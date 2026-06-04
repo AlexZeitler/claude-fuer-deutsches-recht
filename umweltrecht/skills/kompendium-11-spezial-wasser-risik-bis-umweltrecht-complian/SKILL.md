@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-wasser-risik-bis-umweltrecht-complian
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-wasser-risikoampel-und-gegenargumente, umweltrecht-abfall-circular-economy, umweltrecht-compliance-schulung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - umweltrecht
+# Arbeitsbereich - Wasser Risikoampel Und Gegenargumente, Umweltrecht Abfall Circular Economy, Umweltrecht Compliance Schulung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-wasser-risikoampel-und-gegenargumente` | Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `umweltrecht-abfall-circular-economy` | Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-wasser-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wasser: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin umweltrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Wasser: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `umweltrecht-abfall-circular-economy`
 
-**Frühere Beschreibung:** Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht).
+**Fokus:** Unternehmen oder Anlagenbetreiber hat Abfall-Frage: Abfalleigenschaft Entsorgungspflichten Nebenprodukt-Einstufung Ende der Abfalleigenschaft. Normen KrWG §§ 3 4 5 7 14 17 EU-Abfallrahmenrichtlinie 2008/98/EG LAGA. Prüfraster Abfalleigenschaftsprüfung Entsorgungsnachweis Kreislaufwirtschafts-Anforderungen. Output Abfallstatus-Gutachten Entsorgungskonzept. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Anlagengenehmigung) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht).
 
 # Abfallrecht und Circular Economy
 
@@ -178,7 +178,7 @@ Anlagen: Liefervertrag, SDS-Datenblatt, Laboranalyse
 
 ## 3. `umweltrecht-compliance-schulung`
 
-**Frühere Beschreibung:** Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance).
+**Fokus:** Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance).
 
 # Compliance, Beauftragte und Schulung im Umweltrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-pralr-spez-gesindere-bis-pralr-003-quellenkri
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (pralr-spez-gesinderecht-zeugnis-und-haftung, pralr-spez-staatshaftung-im-alr-und-rechtsstaat, pralr-007-kodifikationstechnik-kasuistik, pralr-002-editionsvergleich-pdf-digitalisat, pralr-003-quellenkritik-fraktur-ocr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Gesinderecht Zeugnis Und Haftung, Pralr Spez Staatshaftung Im Alr Und Rechtsstaat, Pralr 007 Kodifikationstechnik Kasuistik, Pralr 002 Editionsvergleich Pdf Digitalisat und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Gesinderecht Zeugnis Und Haftung bis Pralr 003 Quellenkritik Fraktur Ocr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-gesinderecht-zeugnis-und-haftung` | Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster. |
 | `pralr-spez-staatshaftung-im-alr-und-rechtsstaat` | Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-gesinderecht-zeugnis-und-haftung`
 
-**Frühere Beschreibung:** Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster.
+**Fokus:** Gesinderecht Zeugnis und Haftungslagen. Skill behandelt das Dienstzeugnis (Vorlaeufer des heutigen Arbeitszeugnisses) Haftung des Gesindes fuer Schaeden Haftung der Herrschaft fuer Handlungen des Gesindes. Liefert Pruefraster.
 
 # Pralr Gesinderecht Zeugnis Und Haftung
 
@@ -68,7 +68,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-staatshaftung-im-alr-und-rechtsstaat`
 
-**Frühere Beschreibung:** Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix.
+**Fokus:** Staatshaftung im ALR und die Entwicklung zum Rechtsstaat. Skill behandelt die Staatshaftungsansaetze in der Einleitung des ALR die Stein-Hardenbergsche Reformphase und die spaetere Reichshaftung. Liefert Quellenmatrix.
 
 # Pralr Staatshaftung Im Alr Und Rechtsstaat
 
@@ -107,7 +107,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-007-kodifikationstechnik-kasuistik`
 
-**Frühere Beschreibung:** PrALR: kasuistische Regelungstechnik, Richterbindung, Lückensteuerung und Gesetzeskommissionslogik analysieren.
+**Fokus:** PrALR: kasuistische Regelungstechnik, Richterbindung, Lückensteuerung und Gesetzeskommissionslogik analysieren.
 
 # Kasuistik und Richterbindung
 
@@ -144,7 +144,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-002-editionsvergleich-pdf-digitalisat`
 
-**Frühere Beschreibung:** PrALR: Vergleich unterschiedlicher PDFs, Drucke, OCR-Fassungen und Digitalisate ohne vorschnelle Gleichsetzung.
+**Fokus:** PrALR: Vergleich unterschiedlicher PDFs, Drucke, OCR-Fassungen und Digitalisate ohne vorschnelle Gleichsetzung.
 
 # Editionsvergleich und Digitalisat
 
@@ -181,7 +181,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 5. `pralr-003-quellenkritik-fraktur-ocr`
 
-**Frühere Beschreibung:** PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen.
+**Fokus:** PrALR: Fraktur-, Antiqua-, OCR- und Transkriptionsfehler erkennen, protokollieren und entschärfen.
 
 # Fraktur und OCR
 

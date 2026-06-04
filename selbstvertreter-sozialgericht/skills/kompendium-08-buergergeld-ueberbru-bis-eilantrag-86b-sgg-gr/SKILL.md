@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-buergergeld-ueberbru-bis-eilantrag-86b-sgg-gr
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (buergergeld-ueberbrueckungsgeld, dokumenten-erzeugung-pdf-laien-sozialgericht, dolmetscher-beim-sozialgericht-laien, dsgvo-art-15-auskunft-sozialakte, eilantrag-86b-sgg-grundlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Buergergeld Ueberbrueckungsgeld, Dokumenten Erzeugung Pdf Laien Sozialgericht, Dolmetscher Beim Sozialgericht Laien, Dsgvo Art 15 Auskunft Sozialakte und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Buergergeld Ueberbrueckungsgeld bis Eilantrag 86b Sgg Grundlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `buergergeld-ueberbrueckungsgeld` | Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster. |
 | `dokumenten-erzeugung-pdf-laien-sozialgericht` | PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `buergergeld-ueberbrueckungsgeld`
 
-**Frühere Beschreibung:** Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster.
+**Fokus:** Buergergeld Ueberbrueckungsgeld bei Haftentlassung. Skill klaert die Sondervorschrift fuer Haftentlassene den Anspruch auf Soforthilfe Bedarfsfeststellung im JVA-Kontext und Schnittstelle zu Sozialamt. Liefert Pruefraster.
 
 # Buergergeld Ueberbrueckungsgeld
 
@@ -80,7 +80,7 @@ Haftentlassener hat unmittelbar nach Entlassung Anspruch auf Existenzsicherung.
 
 ## 2. `dokumenten-erzeugung-pdf-laien-sozialgericht`
 
-**Frühere Beschreibung:** PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse.
+**Fokus:** PDF-Dateien für SG-Klage erstellen. Word zu PDF Fotos zu PDF Scannen mit Smartphone gratis Tools. Praktischer Leitfaden für Buerger ohne EDV-Kenntnisse.
 
 # PDFs erzeugen — Schritt fuer Schritt
 
@@ -231,7 +231,7 @@ Stand: 05/2026. Apps und Tools veraendern sich. Bei Fragen: lokale Computer-Bera
 
 ## 3. `dolmetscher-beim-sozialgericht-laien`
 
-**Frühere Beschreibung:** Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache.
+**Fokus:** Dolmetscher beim SG nach § 185 GVG. Kostenfrei für Buerger mit Sprachschwierigkeiten. Antrag muendliche Verhandlung Gebaerdensprache.
 
 # Dolmetscher beim SG
 
@@ -358,7 +358,7 @@ Stand: 05/2026. § 185 GVG aktuell. Praxis-erprobt.
 
 ## 4. `dsgvo-art-15-auskunft-sozialakte`
 
-**Frühere Beschreibung:** DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhaeltnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage.
+**Fokus:** DSGVO Artikel 15 Auskunft zur Sozialakte. Skill erklaert das Auskunftsrecht ueber gespeicherte personenbezogene Daten beim Sozialleistungstraeger Verhaeltnis zu § 25 SGB X Akteneinsicht Frist Form Kostenfreiheit und Beschwerde bei Aufsichtsbehoerde. Liefert Vorlage.
 
 # Dsgvo Art 15 Auskunft Sozialakte
 
@@ -417,7 +417,7 @@ Art. 15 DSGVO: Recht auf Auskunft ueber verarbeitete personenbezogene Daten.
 
 ## 5. `eilantrag-86b-sgg-grundlagen`
 
-**Frühere Beschreibung:** Eilrechtsschutz nach § 86b SGG für Buerger. Aufschiebende Wirkung und einstweilige Anordnung. Anordnungsanspruch Anordnungsgrund existenzielle Leistungen Pflegegrad Buergergeld Krankenkasse.
+**Fokus:** Eilrechtsschutz nach § 86b SGG für Buerger. Aufschiebende Wirkung und einstweilige Anordnung. Anordnungsanspruch Anordnungsgrund existenzielle Leistungen Pflegegrad Buergergeld Krankenkasse.
 
 # Eilrechtsschutz beim Sozialgericht — § 86b SGG
 

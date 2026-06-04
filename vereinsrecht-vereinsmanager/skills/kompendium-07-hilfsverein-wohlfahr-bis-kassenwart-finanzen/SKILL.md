@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-hilfsverein-wohlfahr-bis-kassenwart-finanzen
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (hilfsverein-wohlfahrt, hybride-virtuelle-versammlung, kassenwart-finanzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Hilfsverein Wohlfahrt, Hybride Virtuelle Versammlung, Kassenwart Finanzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hilfsverein-wohlfahrt` | Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb. |
 | `hybride-virtuelle-versammlung` | Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hilfsverein-wohlfahrt`
 
-**Frühere Beschreibung:** Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb.
+**Fokus:** Prüft mildtätige Zwecke, Bedürftigkeitsnachweis, Hilfeleistungen, Datenschutz und Zweckbetrieb.
 
 # Hilfs- und Wohlfahrtsverein
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `hybride-virtuelle-versammlung`
 
-**Frühere Beschreibung:** Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll.
+**Fokus:** Prüft § 32 BGB, Satzung, Teilnahme-/Abstimmungsrechte, technische Hinweise, Identität und Protokoll.
 
 # Hybride und virtuelle Versammlung
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `kassenwart-finanzen`
 
-**Frühere Beschreibung:** Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht.
+**Fokus:** Strukturiert Kassenführung, Vier-Augen-Prinzip, Belege, Konten, Budget und Bericht.
 
 # Kassenwart und Finanzen
 

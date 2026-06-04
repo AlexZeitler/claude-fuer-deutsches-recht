@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-anwaltlicher-brief-a-bis-anzeige-unter-freiem
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (anwaltlicher-brief-an-behoerde, anzeige-unter-freiem-himmel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaltlicher Brief An Behoerde, Anzeige Unter Freiem Himmel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - versammlungsrecht
+# Arbeitsbereich - Anwaltlicher Brief An Behoerde, Anzeige Unter Freiem Himmel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaltlicher-brief-an-behoerde` | Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation. |
 | `anzeige-unter-freiem-himmel` | Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaltlicher-brief-an-behoerde`
 
-**Frühere Beschreibung:** Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation.
+**Fokus:** Entwirft einen anwaltlichen oder sehr sachlichen Laienbrief gegen problematische Behördenkommunikation.
 
 # Klar, fest, ohne Theater
 
@@ -69,7 +69,7 @@ Output: Kurzbrief, Langbrief und Telefon-Sprechzettel.
 
 ## 2. `anzeige-unter-freiem-himmel`
 
-**Frühere Beschreibung:** Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln.
+**Fokus:** Führt durch die Anzeige einer öffentlichen Versammlung unter freiem Himmel oder eines Aufzugs, ohne sie fälschlich als Genehmigungsantrag zu behandeln.
 
 # Anzeige, nicht Erlaubnis
 

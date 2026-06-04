@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-revision-bsg-160-sgg-bis-saeumnis-im-termin-s
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (revision-bsg-160-sgg, ruecknahme-48-sgb-x-aenderung, sachstandsanfrage-und-untaetigkeitsbeschwerde, sachverstaendigen-wahlrecht-109-sgg, saeumnis-im-termin-sozialgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Revision Bsg 160 Sgg, Ruecknahme 48 Sgb X Aenderung, Sachstandsanfrage Und Untaetigkeitsbeschwerde, Sachverstaendigen Wahlrecht 109 Sgg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Revision Bsg 160 Sgg bis Saeumnis Im Termin Sozialgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `revision-bsg-160-sgg` | Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil. |
 | `ruecknahme-48-sgb-x-aenderung` | Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `revision-bsg-160-sgg`
 
-**Frühere Beschreibung:** Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil.
+**Fokus:** Revision zum BSG § 160 SGG. Anwaltszwang Zulassung Grundsatzfrage. Wann lohnt das Verfahren. Hinweise für Buerger nach LSG-Urteil.
 
 # Revision zum BSG — § 160 SGG
 
@@ -138,7 +138,7 @@ Stand: 05/2026. § 160 SGG aktuell. BSG-Liste zugelassener Anwaelte auf www.bsg.
 
 ## 2. `ruecknahme-48-sgb-x-aenderung`
 
-**Frühere Beschreibung:** Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster.
+**Fokus:** Aenderung von Dauerverwaltungsakten bei wesentlicher Aenderung der Verhaeltnisse nach § 48 SGB X. Skill klaert die Voraussetzungen Vertrauensschutz Frist Aufhebung mit Wirkung fuer die Zukunft oder rueckwirkend. Liefert Pruefraster.
 
 # Ruecknahme 48 Sgb X Aenderung
 
@@ -189,7 +189,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 
 ## 3. `sachstandsanfrage-und-untaetigkeitsbeschwerde`
 
-**Frühere Beschreibung:** Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behoerde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage.
+**Fokus:** Sachstandsanfrage und Untaetigkeitsbeschwerde im Sozialverwaltungsverfahren. Skill klaert wie Selbstvertreter die Behoerde anhalten koennen wenn diese ueberhaupt nicht entscheidet — Sachstandsanfrage formelle Dienstaufsichtsbeschwerde Untaetigkeitsklage 88 SGG. Liefert Vorlage.
 
 # Sachstandsanfrage Und Untaetigkeitsbeschwerde
 
@@ -241,7 +241,7 @@ Der Buerger bezieht laufende Sozialleistung (Buergergeld Rente Krankengeld). Ver
 
 ## 4. `sachverstaendigen-wahlrecht-109-sgg`
 
-**Frühere Beschreibung:** Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag.
+**Fokus:** Eigenes Gutachten nach § 109 SGG. Versicherter kann eigenen Gutachter waehlen. Eigenkosten Erstattung Wann sinnvoll. Mustertext Antrag.
 
 # Eigenes Gutachten — § 109 SGG
 
@@ -402,7 +402,7 @@ Stand: 05/2026. § 109 SGG aktuell. Pruefen Sie aktuelle Gerichtskosten-Praxis b
 
 ## 5. `saeumnis-im-termin-sozialgericht`
 
-**Frühere Beschreibung:** Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger.
+**Fokus:** Wenn Sie zum SG-Termin nicht erscheinen koennen oder unterlassen haben. Folgen § 137 SGG Entschuldigung Wiedereinsetzung Verlegung. Tipps für Buerger.
 
 # Wenn Sie zum Termin nicht koennen oder es vergessen
 

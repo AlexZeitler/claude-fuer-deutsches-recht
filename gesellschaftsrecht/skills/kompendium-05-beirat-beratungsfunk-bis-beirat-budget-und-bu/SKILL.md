@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-beirat-beratungsfunk-bis-beirat-budget-und-bu
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (beirat-beratungsfunktion, beirat-beschlussfassung, beirat-beschlussmaengel, beirat-bestellung-und-abberufung, beirat-budget-und-businessplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Beratungsfunktion, Beirat Beschlussfassung, Beirat Beschlussmaengel, Beirat Bestellung Und Abberufung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - gesellschaftsrecht
+# Arbeitsbereich - Beirat Beratungsfunktion bis Beirat Budget Und Businessplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-beratungsfunktion` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-beschlussfassung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-beratungsfunktion`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beratungsfunktion; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beratungsfunktion
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-beschlussfassung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussfassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussfassung
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `beirat-beschlussmaengel`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Beschlussmaengel; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Beschlussmaengel
 
@@ -228,7 +228,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `beirat-bestellung-und-abberufung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Bestellung Und Abberufung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Bestellung Und Abberufung
 
@@ -294,7 +294,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `beirat-budget-und-businessplan`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Budget Und Businessplan; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Budget Und Businessplan
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-lieferkette-supplier-bis-mandantenakten-kanzl
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (lieferkette-supplier-security, logdaten-beschaeftigte, logging-siem-soc, mandantenakten-kanzlei) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lieferkette Supplier Security, Logdaten Beschaeftigte, Logging Siem Soc, Mandantenakten Kanzlei; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Lieferkette Supplier Security bis Mandantenakten Kanzlei
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lieferkette-supplier-security` | Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit. |
 | `logdaten-beschaeftigte` | Prüft Logdaten von Beschäftigten rechts- und beweissicher. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lieferkette-supplier-security`
 
-**Frühere Beschreibung:** Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit.
+**Fokus:** Prüft Lieferanten- und Dienstleister-Security von Einkauf bis Audit.
 
 # Lieferkette Supplier Security
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `logdaten-beschaeftigte`
 
-**Frühere Beschreibung:** Prüft Logdaten von Beschäftigten rechts- und beweissicher.
+**Fokus:** Prüft Logdaten von Beschäftigten rechts- und beweissicher.
 
 # Logdaten Beschaeftigte
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `logging-siem-soc`
 
-**Frühere Beschreibung:** Prüft Logging, SIEM und SOC-Betrieb.
+**Fokus:** Prüft Logging, SIEM und SOC-Betrieb.
 
 # Logging SIEM SOC
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `mandantenakten-kanzlei`
 
-**Frühere Beschreibung:** Prüft Cybersecurity für Kanzlei- und Mandatsakten.
+**Fokus:** Prüft Cybersecurity für Kanzlei- und Mandatsakten.
 
 # Mandantenakten Kanzlei
 

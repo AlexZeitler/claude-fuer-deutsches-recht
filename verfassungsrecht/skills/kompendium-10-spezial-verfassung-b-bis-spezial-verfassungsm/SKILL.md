@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-spezial-verfassung-b-bis-spezial-verfassungsm
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (spezial-verfassung-beweislast-und-darlegungslast, spezial-verfassungsbeschwerde-mandantenentscheidung, spezial-verfassungsmaessigkeit-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verfassungsrecht
+# Arbeitsbereich - Verfassung Beweislast Und Darlegungslast, Verfassungsbeschwerde Mandantenentscheidung, Verfassungsmaessigkeit Formular Portal Und Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verfassung-beweislast-und-darlegungslast` | Verfassung: Beweislast, Darlegungslast und Substantiierung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfassungsbeschwerde-mandantenentscheidung` | Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verfassung-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Verfassung: Beweislast, Darlegungslast und Substantiierung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verfassung: Beweislast, Darlegungslast und Substantiierung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verfassung: Beweislast, Darlegungslast und Substantiierung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verfassungsbeschwerde-mandantenentscheidung`
 
-**Frühere Beschreibung:** Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verfassungsbeschwerde: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-verfassungsmaessigkeit-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verfassungsmaessigkeit: Formular, Portal und Einreichungslogik
 

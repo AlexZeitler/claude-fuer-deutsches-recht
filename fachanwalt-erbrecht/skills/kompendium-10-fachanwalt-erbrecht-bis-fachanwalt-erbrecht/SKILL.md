@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-fachanwalt-erbrecht-bis-fachanwalt-erbrecht
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (fachanwalt-erbrecht-pflichtteilsergaenzung-2325, fachanwalt-erbrecht-testamentsvollstreckung, fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbrecht Pflichtteilsergaenzung 2325, Erbrecht Testamentsvollstreckung, Erbrecht Verhandlung Mediation Erbengemeinschaft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-erbrecht
+# Arbeitsbereich - Erbrecht Pflichtteilsergaenzung 2325, Erbrecht Testamentsvollstreckung, Erbrecht Verhandlung Mediation Erbengemeinschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-erbrecht-pflichtteilsergaenzung-2325` | Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung). |
 | `fachanwalt-erbrecht-testamentsvollstreckung` | Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-erbrecht-pflichtteilsergaenzung-2325`
 
-**Frühere Beschreibung:** Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung).
+**Fokus:** Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Prüfraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht für einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung).
 
 # Pflichtteilsergänzungsanspruch § 2325 BGB
 
@@ -168,7 +168,7 @@ Weitere Entscheidungen nicht aus Modellwissen zitieren; vor Ausgabe über bundes
 
 ## 2. `fachanwalt-erbrecht-testamentsvollstreckung`
 
-**Frühere Beschreibung:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
+**Fokus:** Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung.
 
 # Testamentsvollstreckung
 
@@ -539,7 +539,7 @@ Anlagen: Beweise für Pflichtverletzungen
 
 ## 3. `fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft`
 
-**Frühere Beschreibung:** Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Prüfraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
+**Fokus:** Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Prüfraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage.
 
 # Mediation / Vergleich bei Erbengemeinschaft
 

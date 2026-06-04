@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-vertraulichkeit-und-bis-beurkundungserforder
-description: "wandeldarlehen-lebenszyklus: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (vertraulichkeit-und-sprachklausel, beurkundungserfordernis-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wandeldarlehen-lebenszyklus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertraulichkeit Und Sprachklausel, Beurkundungserfordernis Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - wandeldarlehen-lebenszyklus
+# Arbeitsbereich - Vertraulichkeit Und Sprachklausel, Beurkundungserfordernis Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertraulichkeit-und-sprachklausel` | Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de). |
 | `beurkundungserfordernis-pruefung` | Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertraulichkeit-und-sprachklausel`
 
-**Frühere Beschreibung:** Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de).
+**Fokus:** Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de).
 
 # Vertraulichkeit und Sprachklausel
 
@@ -132,7 +132,7 @@ Quelle: https://dejure.org/2019,11230
 
 ## 2. `beurkundungserfordernis-pruefung`
 
-**Frühere Beschreibung:** Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell).
+**Fokus:** Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell).
 
 # Beurkundungserfordernis-Prüfung
 

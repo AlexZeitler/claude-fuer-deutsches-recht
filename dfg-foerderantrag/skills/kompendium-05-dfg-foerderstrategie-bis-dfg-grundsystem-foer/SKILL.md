@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-dfg-foerderstrategie-bis-dfg-grundsystem-foer
-description: "dfg-foerderantrag: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (dfg-foerderstrategie-schnell-oder-gross, dfg-grossgeraete-und-cluster-antrag, dfg-grundsystem-foerderlinien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dfg-foerderantrag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dfg Foerderstrategie Schnell Oder Gross, Dfg Grossgeraete Und Cluster Antrag, Dfg Grundsystem Foerderlinien; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - dfg-foerderantrag
+# Arbeitsbereich - Dfg Foerderstrategie Schnell Oder Gross, Dfg Grossgeraete Und Cluster Antrag, Dfg Grundsystem Foerderlinien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dfg-foerderstrategie-schnell-oder-gross` | Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte und Zeitstrategie. |
 | `dfg-grossgeraete-und-cluster-antrag` | Grossgeraete und Cluster-Geraete in DFG-Antrag: Geraete ab 50.000 Euro mit zusaetzlicher Wirtschaftlichkeit, Auslastungsplan, technische Anschlussbedingungen, Wartungsvertrag, Folgekosten. Eigene Geraetekommission der DFG. Pruefraster fuer Beschaffungsbegruendung und Marktrecherche. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dfg-foerderstrategie-schnell-oder-gross`
 
-**Frühere Beschreibung:** Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte und Zeitstrategie.
+**Fokus:** Strategischer DFG-Router: entscheidet zwischen kleiner schneller Sachbeihilfe, normalem Antrag über 200.000 Euro, Koselleck ab 500.000 Euro oder anderem DFG-Programm. Enthält Spatz-in-der-Hand-Logik, Kürzungsrisiko, Begutachtungsdichte und Zeitstrategie.
 
 # DFG-Förderstrategie: schnell, schlank oder groß?
 
@@ -181,7 +181,7 @@ Alle Schwellen und Programmregeln **live** an der DFG-Seite zum Einreichtag prü
 
 ## 2. `dfg-grossgeraete-und-cluster-antrag`
 
-**Frühere Beschreibung:** Grossgeraete und Cluster-Geraete in DFG-Antrag: Geraete ab 50.000 Euro mit zusaetzlicher Wirtschaftlichkeit, Auslastungsplan, technische Anschlussbedingungen, Wartungsvertrag, Folgekosten. Eigene Geraetekommission der DFG. Pruefraster fuer Beschaffungsbegruendung und Marktrecherche.
+**Fokus:** Grossgeraete und Cluster-Geraete in DFG-Antrag: Geraete ab 50.000 Euro mit zusaetzlicher Wirtschaftlichkeit, Auslastungsplan, technische Anschlussbedingungen, Wartungsvertrag, Folgekosten. Eigene Geraetekommission der DFG. Pruefraster fuer Beschaffungsbegruendung und Marktrecherche.
 
 # DFG: Grossgeraete und Cluster
 
@@ -233,7 +233,7 @@ Dieser Skill gehoert zum Plugin `dfg-foerderantrag`. Er ergaenzt die uebrigen Sk
 
 ## 3. `dfg-grundsystem-foerderlinien`
 
-**Frühere Beschreibung:** Grundsystem der DFG-Foerderlinien einfuehrend erklaeren: Sachbeihilfe (Einzelantrag), Emmy Noether, Heisenberg, Reinhart Koselleck, SFB, GRK, Forschergruppen, Schwerpunktprogramme. Pro Linie: Zielgruppe, Hoehe, Dauer, Antragsweg, Begutachtungsstil. Fuer Erstantragsteller mit Entscheidungshilfe zur passenden Linie. Routet in dfg-foerderstrategie-schnell-oder-gross fuer konkrete Auswahl.
+**Fokus:** Grundsystem der DFG-Foerderlinien einfuehrend erklaeren: Sachbeihilfe (Einzelantrag), Emmy Noether, Heisenberg, Reinhart Koselleck, SFB, GRK, Forschergruppen, Schwerpunktprogramme. Pro Linie: Zielgruppe, Hoehe, Dauer, Antragsweg, Begutachtungsstil. Fuer Erstantragsteller mit Entscheidungshilfe zur passenden Linie. Routet in dfg-foerderstrategie-schnell-oder-gross fuer konkrete Auswahl.
 
 # Grundsystem DFG-Foerderlinien
 

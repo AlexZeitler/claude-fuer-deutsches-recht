@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-systemdenken-kohaere-bis-unionsrecht-autonomi
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (systemdenken-kohaerenz-widerspruch, technokratie-industriegesellschaft-und-grundrechte, unionsrecht-autonomie-nationales-recht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Systemdenken Kohaerenz Widerspruch, Technokratie Industriegesellschaft Und Grundrechte, Unionsrecht Autonomie Nationales Recht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `systemdenken-kohaerenz-widerspruch` | Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen. |
 | `technokratie-industriegesellschaft-und-grundrechte` | Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `systemdenken-kohaerenz-widerspruch`
 
-**Frühere Beschreibung:** Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen.
+**Fokus:** Prueft, wann System, Kohärenz und Widerspruchsfreiheit gute Argumente sind und wann sie Rechtsfortbildung tarnen.
 
 # Systemdenken und Kohärenz
 
@@ -80,7 +80,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 2. `technokratie-industriegesellschaft-und-grundrechte`
 
-**Frühere Beschreibung:** Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.
+**Fokus:** Prueft Technik-, Industrie- und Infrastrukturargumente: Regulierung, Sachzwang, Expertenwissen, Risiko, Grundrechte, demokratische Kontrolle und die Grenze technokratischer Rechtsbegruendung.
 
 # Technokratie, Industriegesellschaft und Grundrechte
 
@@ -141,7 +141,7 @@ Erstelle einen Technik-Rechts-Vermerk:
 
 ## 3. `unionsrecht-autonomie-nationales-recht`
 
-**Frühere Beschreibung:** Prueft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit.
+**Fokus:** Prueft die rechtstheoretische Spannung zwischen autonomem Unionsrecht, nationaler Demokratie, Effektivität und loyaler Zusammenarbeit.
 
 # Unionsrecht und nationales Recht
 

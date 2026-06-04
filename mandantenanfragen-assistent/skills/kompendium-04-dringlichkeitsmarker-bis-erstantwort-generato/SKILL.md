@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-dringlichkeitsmarker-bis-erstantwort-generato
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (dringlichkeitsmarker, einwilligung-hinweis-datenschutz, erstantwort-generator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - mandantenanfragen-assistent
+# Arbeitsbereich - Dringlichkeitsmarker, Einwilligung Hinweis Datenschutz, Erstantwort Generator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dringlichkeitsmarker` | Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort). |
 | `einwilligung-hinweis-datenschutz` | Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dringlichkeitsmarker`
 
-**Frühere Beschreibung:** Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort).
+**Fokus:** Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort).
 
 # Dringlichkeitsmarker
 
@@ -176,7 +176,7 @@ Aktion: Eintrag geloescht.
 
 ## 2. `einwilligung-hinweis-datenschutz`
 
-**Frühere Beschreibung:** Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung.
+**Fokus:** Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Prüfraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhältnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel für Transkriptionsservice. Abgrenzung zu mandatsverhältnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung.
 
 # Einwilligung-Hinweis-Datenschutz
 
@@ -288,7 +288,7 @@ Ohne Bestätigung: keine Aufnahme. Kein Einverständnis — kein Transkript.
 
 ## 3. `erstantwort-generator`
 
-**Frühere Beschreibung:** Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-E-Mail. Prüfraster: Dank für Anfrage exakte Anrede Terminvergabe-Hinweis Transkriptionsservice mit DSGVO-Einwilligung Mandatsverhältnis-Disclaimer Schlussformel. Output: fertige Erstantwort-E-Mail mit allen Pflichthinweisen. Abgrenzung zu muster-erstantwort (Template-Vorlage) und anrede-uebernehmen.
+**Fokus:** Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-E-Mail. Prüfraster: Dank für Anfrage exakte Anrede Terminvergabe-Hinweis Transkriptionsservice mit DSGVO-Einwilligung Mandatsverhältnis-Disclaimer Schlussformel. Output: fertige Erstantwort-E-Mail mit allen Pflichthinweisen. Abgrenzung zu muster-erstantwort (Template-Vorlage) und anrede-uebernehmen.
 
 # Erstantwort-Generator
 

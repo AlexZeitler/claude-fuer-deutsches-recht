@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-bauordnungsr-bis-spezial-hoai-risikoa
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (spezial-bauordnungsrecht-behoerden-gericht-und-registerweg, spezial-einfuehrung-formular-portal-und-einreichung, spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-hoai-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bauordnungsrecht Behoerden Gericht Und Registerweg, Einfuehrung Formular Portal Und Einreichung, Fachanwalt Erstpruefung Und Mandatsziel, Hoai Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bauordnungsrecht Behoerden Gericht Und Registerweg bis Hoai Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg` | Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-einfuehrung-formular-portal-und-einreichung` | Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bauordnungsrecht-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bauordnungsrecht: Behörden-, Gerichts- oder Registerweg
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-einfuehrung-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einfuehrung: Formular, Portal und Einreichungslogik im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Einfuehrung: Formular, Portal und Einreichungslogik
 
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -152,7 +152,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-hoai-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Hoai: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Hoai: Risikoampel, Gegenargumente und Verteidigungslinien
 

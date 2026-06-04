@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-solo-erste-minijob-h-bis-solo-finanzamt-frage
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 8 frühere Spezialskills (solo-erste-minijob-hilfe, solo-ethik-und-reputation, solo-eu-oss-und-digitale-leistungen, solo-euer-starten, solo-event-dj-kuenstler und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Erste Minijob Hilfe, Solo Ethik Und Reputation, Solo Eu Oss Und Digitale Leistungen, Solo Euer Starten und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Erste Minijob Hilfe bis Solo Finanzamt Fragebogen Steuerliche Erfassung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-erste-minijob-hilfe` | Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-ethik-und-reputation` | Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-erste-minijob-hilfe`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Minijob, Anmeldung, BG, Lohnkonto und Weisungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft minijob
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 2. `solo-ethik-und-reputation`
 
-**Frühere Beschreibung:** Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: hilft bei Aufträgen, die zwar möglich, aber reputationsgefährlich sind; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Hilft bei aufträgen
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 3. `solo-eu-oss-und-digitale-leistungen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft OSS/MOSS-Logik bei digitalen Leistungen an Verbraucher; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft OSS/MOSS-Logik bei digitalen Leistungen an Verbraucher; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft oss/moss-logik bei digitalen leistungen an verbraucher
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 4. `solo-euer-starten`
 
-**Frühere Beschreibung:** Solo-Selbstständige: richtet Einnahmen-Überschuss-Rechnung, Kategorien und Beleglogik ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: richtet Einnahmen-Überschuss-Rechnung, Kategorien und Beleglogik ein; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Richtet einnahmen-überschuss-rechnung
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 5. `solo-event-dj-kuenstler`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft GEMA, KSK, Ausfallhonorar, Technik und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft GEMA, KSK, Ausfallhonorar, Technik und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft gema
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 6. `solo-fahrzeug-reisekosten-kilometer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Fahrtenbuch, Kilometerpauschale, gemischte Nutzung und Reisekosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Fahrtenbuch, Kilometerpauschale, gemischte Nutzung und Reisekosten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Prüft fahrtenbuch
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 7. `solo-familienversicherung-und-nebenjob`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Familienversicherung, Minijob, Teilzeitjob und Grenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Familienversicherung, Minijob, Teilzeitjob und Grenzen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft familienversicherung
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 8. `solo-finanzamt-fragebogen-steuerliche-erfassung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bereitet ELSTER-Fragebogen, Schätzwerte, Bankdaten und Tätigkeitsbeginn vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bereitet ELSTER-Fragebogen, Schätzwerte, Bankdaten und Tätigkeitsbeginn vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Bereitet elster-fragebogen
 

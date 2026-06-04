@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-regressklauseln-delk-bis-steuer-umsatzsteuer
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (regressklauseln-delkredererisiko-rueckbelastung, factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht, steuer-umsatzsteuer-factoringgebuehren-und-forderungsverkauf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Regressklauseln Delkredererisiko Rueckbelastung, Factoring Fuer Rechtsanwaelte Steuerberater Berufsrecht, Steuer Umsatzsteuer Factoringgebuehren Und Forderungsverkauf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - factoring-recht
+# Arbeitsbereich - Regressklauseln Delkredererisiko Rueckbelastung, Factoring Fuer Rechtsanwaelte Steuerberater Berufsrecht, Steuer Umsatzsteuer Factoringgebueh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `regressklauseln-delkredererisiko-rueckbelastung` | Regressklauseln Delkredererisiko Rückbelastung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
 | `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht` | Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `regressklauseln-delkredererisiko-rueckbelastung`
 
-**Frühere Beschreibung:** Regressklauseln Delkredererisiko Rückbelastung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Regressklauseln Delkredererisiko Rückbelastung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Regressklauseln Delkredererisiko Rückbelastung
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `factoring-fuer-rechtsanwaelte-steuerberater-berufsrecht`
 
-**Frühere Beschreibung:** Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Factoring für Rechtsanwälte Steuerberater Berufsrecht: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Factoring für Rechtsanwälte Steuerberater Berufsrecht
 
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `steuer-umsatzsteuer-factoringgebuehren-und-forderungsverkauf`
 
-**Frühere Beschreibung:** Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Steuer Umsatzsteuer Factoringgebühren und Forderungsverkauf
 

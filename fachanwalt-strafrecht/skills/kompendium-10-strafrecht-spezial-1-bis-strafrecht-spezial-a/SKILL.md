@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-strafrecht-spezial-1-bis-strafrecht-spezial-a
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 10; bündelt 10 frühere Spezialskills (strafrecht-spezial-188-stgb-easy-verteidigung, strafrecht-spezial-188-stgb-social-media-beweise, strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt, strafrecht-spezial-amtstraegerbestechung-332-334-stgb, strafrecht-spezial-arzneimittelstrafrecht-amg-95-96 und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial 188 Stgb Easy Verteidigung, Strafrecht Spezial 188 Stgb Social Media Beweise, Strafrecht Spezial Amtsdelikte 340 Stgb Koerperverletzung Im Amt, Strafrecht Spezial Amtstraegerbestechung 332 334 Stgb und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial 188 Stgb Easy Verteidigung bis Strafrecht Spezial Aussagepsy Mimik Emotionsbewertung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-188-stgb-easy-verteidigung` | Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie. |
 | `strafrecht-spezial-188-stgb-social-media-beweise` | Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-188-stgb-easy-verteidigung`
 
-**Frühere Beschreibung:** Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie.
+**Fokus:** Easy-Verteidigung gegen § 188 StGB: schneller Verteidigungsworkflow bei Anzeige, Strafbefehl oder Anklage wegen Beleidigung, übler Nachrede oder Verleumdung gegen Personen des politischen Lebens. Prüft Basisdelikt §§ 185-187 StGB, Öffentlichkeit, kommunale/politische Rolle, Motivzusammenhang, Eignung zur erheblichen Erschwerung öffentlichen Wirkens, Art. 5 GG, § 193 StGB, Strafantrag/besonderes öffentliches Interesse und sofortige Schriftsatzlinie.
 
 # § 188 StGB — Easy-Verteidigung
 
@@ -113,7 +113,7 @@ Erstelle immer:
 
 ## 2. `strafrecht-spezial-188-stgb-social-media-beweise`
 
-**Frühere Beschreibung:** Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge.
+**Fokus:** Beweis- und Kontextverteidigung bei § 188 StGB auf X, Facebook, Instagram, TikTok, Telegram, WhatsApp, Blogs, Kommentarspalten und Demonstrationsvideos. Prüft Account-Zuordnung, Öffentlichkeit, Verbreiten eines Inhalts (§ 11 Abs. 3 StGB), Screenshot-Fallen, Thread-Kontext, Reichweite, Bot-/Share-Dynamik, Löschung, Plattformauskunft und Beweisanträge.
 
 # § 188 StGB — Social Media, Screenshots und Kontext
 
@@ -183,7 +183,7 @@ Je nach Verfahrensstand:
 
 ## 3. `strafrecht-spezial-amtsdelikte-340-stgb-koerperverletzung-im-amt`
 
-**Frühere Beschreibung:** Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft.
+**Fokus:** Koerperverletzung im Amt nach Paragraph 340 StGB. Sonderdelikt fuer Amtstraeger insbesondere Polizeibeamte. Qualifikation der Paragraphen 223 224 226 StGB. In Ausuebung des Dienstes oder Beziehung darauf. Praktisch wichtige Fallgruppen polizeilicher Schlagstockeinsatz Fixierung Tasereinsatz. Konkurrenzen Strafrahmen verschaerft.
 
 # Koerperverletzung im Amt nach Paragraph 340 StGB
 
@@ -295,7 +295,7 @@ Versuch der Koerperverletzung im Amt nach Paragraph 223 StGB ist im Amt strafbar
 
 ## 4. `strafrecht-spezial-amtstraegerbestechung-332-334-stgb`
 
-**Frühere Beschreibung:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung.
+**Fokus:** Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern: Anwendungsfall Verteidigung bei Vorwurf pflichtwidriger Diensthandlung gegen Vorteil. Pruefraster Amtstraeger Vorteil Unrechtsvereinbarung pflichtwidrige Diensthandlung. Strafrahmen sechs Monate bis fuenf Jahre Grundtatbestand ein bis zehn Jahre Richter. Trade-offs Abgrenzung zu §§ 331 333 StGB Bestreiten Pflichtwidrigkeit Verstaendigung. Output Verteidigungsmemo fuer Vergabekorruption Amtstraegerbestechung Richterbestechung.
 
 # Bestechlichkeit § 332 StGB und Bestechung § 334 StGB von Amtstraegern
 
@@ -420,7 +420,7 @@ Spiegelbildlich zu § 332 StGB.
 
 ## 5. `strafrecht-spezial-arzneimittelstrafrecht-amg-95-96`
 
-**Frühere Beschreibung:** Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik.
+**Fokus:** Arzneimittelstrafrecht: § 95 sowie § 96 AMG Strafvorschriften, gefaelschte Arzneimittel, Inverkehrbringen ohne Zulassung. Abgrenzung zu BtMG, NpSG. § 95 AMG Doping-Bezug, AntiDopG. Praxis Online-Apotheken und Forensik.
 
 # AMG: Arzneimittelstrafrecht §§ 95, 96 AMG
 
@@ -536,7 +536,7 @@ AMG kennt keine "nicht geringe Menge" wie BtMG. Mengenfragen werden ueber § 96 
 
 ## 6. `strafrecht-spezial-aussagedelikte-153-stgb-uneidlich`
 
-**Frühere Beschreibung:** Falsche uneidliche Aussage nach Paragraph 153 StGB. Aussagedelikte vor Gericht und parlamentarischen Untersuchungsausschuessen. Zeugenstellung Vereidigung. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 154 StGB Meineid und Paragraph 156 StGB falsche Versicherung an Eides Statt.
+**Fokus:** Falsche uneidliche Aussage nach Paragraph 153 StGB. Aussagedelikte vor Gericht und parlamentarischen Untersuchungsausschuessen. Zeugenstellung Vereidigung. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 154 StGB Meineid und Paragraph 156 StGB falsche Versicherung an Eides Statt.
 
 # Falsche uneidliche Aussage nach Paragraph 153 StGB
 
@@ -647,7 +647,7 @@ Paragraph 153 StGB tritt subsidiaer zurueck, wenn die Aussage **vereidigt** war 
 
 ## 7. `strafrecht-spezial-aussagedelikte-154-stgb-meineid`
 
-**Frühere Beschreibung:** Meineid nach Paragraph 154 StGB. Vereidigung als Voraussetzung. Qualifikation der falschen uneidlichen Aussage Paragraph 153 StGB. Eidesformel und Versicherungsformeln. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 153 StGB Paragraph 156 StGB.
+**Fokus:** Meineid nach Paragraph 154 StGB. Vereidigung als Voraussetzung. Qualifikation der falschen uneidlichen Aussage Paragraph 153 StGB. Eidesformel und Versicherungsformeln. Subjektiver Tatbestand Vorsatz. Berichtigungsmoeglichkeit Paragraph 158 StGB. Konkurrenz zu Paragraph 153 StGB Paragraph 156 StGB.
 
 # Meineid nach Paragraph 154 StGB
 
@@ -755,7 +755,7 @@ Strafrahmen bis ein Jahr Freiheitsstrafe oder Geldstrafe. Voraussetzung ist **Fa
 
 ## 8. `strafrecht-spezial-aussagepsy-glaubhaftigkeit-glaubwuerdigkeit`
 
-**Frühere Beschreibung:** Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen fuer Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung.
+**Fokus:** Begriffsdifferenzierung: Glaubhaftigkeit bezieht sich auf die Aussage (Inhalt, Konstanz, Realkennzeichen). Glaubwuerdigkeit bezieht sich auf die Person des Zeugen (charakterliche Bewertung). Methodische Bedeutung der Trennung, Konsequenzen fuer Beweiswuerdigung, Verteidigerwerkzeug gegen die StA-Vermengung.
 
 # Glaubhaftigkeit der Aussage vs. Glaubwuerdigkeit der Person
 
@@ -837,7 +837,7 @@ Im Plaedoyer trennen Sie die Begriffe explizit: "Es ist zu unterscheiden zwische
 
 ## 9. `strafrecht-spezial-aussagepsy-identifizierung-wiedererkennen`
 
-**Frühere Beschreibung:** Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs. simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerquellen (cross-race-effect, unconscious transference, weapon focus). Verteidigerwerkzeug gegen Identifizierungsfehler in Strafverfahren.
+**Fokus:** Identifizierungsbeweis und Wiedererkennen: Wahllichtbildvorlage, sequenzielle vs. simultane Vorlage, Gegenueberstellung in vivo, Tatzeugenidentifizierung. Methodische Fehlerquellen (cross-race-effect, unconscious transference, weapon focus). Verteidigerwerkzeug gegen Identifizierungsfehler in Strafverfahren.
 
 # Identifizierungsbeweis und Wiedererkennen
 
@@ -920,7 +920,7 @@ Im Plaedoyer arbeiten Sie strukturiert: "Die Wiedererkennens-Aussage der Zeugin 
 
 ## 10. `strafrecht-spezial-aussagepsy-mimik-emotionsbewertung`
 
-**Frühere Beschreibung:** Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence. Wissenschaftlicher Forschungsstand zur Luegenerkennung durch Beobachtung. Verteidigerwerkzeug gegen die typische Tatrichter-Formel die Zeugin wirkte aufrichtig.
+**Fokus:** Emotionsbewertung in der Vernehmung und Hauptverhandlung: Gefahren der Mimik-Lese, micro expressions, demeanor evidence. Wissenschaftlicher Forschungsstand zur Luegenerkennung durch Beobachtung. Verteidigerwerkzeug gegen die typische Tatrichter-Formel die Zeugin wirkte aufrichtig.
 
 # Emotionsbewertung und die Gefahren der Mimik-Lese
 

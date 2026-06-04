@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-strafbefehl-rechtsmi-bis-strafbefehl-wiederei
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (strafbefehl-rechtsmittel-nach-urteil, strafbefehl-tagessaetze-geldstrafe, strafbefehl-wiedereinsetzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - strafbefehl-verteidiger
+# Arbeitsbereich - Strafbefehl Rechtsmittel Nach Urteil, Strafbefehl Tagessaetze Geldstrafe, Strafbefehl Wiedereinsetzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbefehl-rechtsmittel-nach-urteil` | Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe. |
 | `strafbefehl-tagessaetze-geldstrafe` | Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach Schuld. Tagessatzhoehe nach Nettoeinkommen Dreissigstel. Mindest-Tagessatz 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Einkommensnachweise. Ratenzahlungsantrag § 42 StGB. Ersatzfreiheitsstrafe § 43 StGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbefehl-rechtsmittel-nach-urteil`
 
-**Frühere Beschreibung:** Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe.
+**Fokus:** Rechtsmittel nach Urteil in der Hauptverhandlung nach Strafbefehl-Einspruch. Berufung § 312 StPO (Frist 1 Woche schriftlich). Revision § 333 StPO (Frist 1 Woche Rechtsfehler). Revisionsbegründung § 345 StPO 1 Monat. Absolute Revisionsgründe § 338 StPO. Beschränkung auf Strafe.
 
 # Rechtsmittel nach Urteil im Strafbefehlsverfahren
 
@@ -113,7 +113,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 2. `strafbefehl-tagessaetze-geldstrafe`
 
-**Frühere Beschreibung:** Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach Schuld. Tagessatzhoehe nach Nettoeinkommen Dreissigstel. Mindest-Tagessatz 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Einkommensnachweise. Ratenzahlungsantrag § 42 StGB. Ersatzfreiheitsstrafe § 43 StGB.
+**Fokus:** Berechnung Tagessaetze und Geldstrafe nach §§ 40 41 StGB. Tagessatzanzahl nach Schuld. Tagessatzhoehe nach Nettoeinkommen Dreissigstel. Mindest-Tagessatz 1 EUR. Schaetzungsrecht des Gerichts § 40 Abs. 3 StGB. Einkommensnachweise. Ratenzahlungsantrag § 42 StGB. Ersatzfreiheitsstrafe § 43 StGB.
 
 # Tagessaetze und Geldstrafe — §§ 40 bis 43 StGB
 
@@ -202,7 +202,7 @@ Anlage: Einkommensnachweis / Kontoauszug
 
 ## 3. `strafbefehl-wiedereinsetzung`
 
-**Frühere Beschreibung:** Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch.
+**Fokus:** Wiedereinsetzung in den vorigen Stand nach § 44 StPO bei versaeumter Einspruchsfrist. Voraussetzungen: kein Verschulden. Antragsfrist 1 Woche. Glaubhaftmachung § 45 StPO. Zustellungsfiktion entgegnen. Eidesstattliche Versicherung. Wiedereinsetzung und gleichzeitiger Einspruch.
 
 # Wiedereinsetzung nach versaeumter Einspruchsfrist — § 44 StPO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kredit-darlehen-und-bis-leistungszweck-bei-v
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (kredit-darlehen-und-zinsenrueckforderung, leistungsbegriff-bewusste-zweckgerichtete-mehrung, leistungskondiktion-grundtatbestand-812-i-1-alt-1, leistungszweck-bei-vorleistung-und-anzahlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kredit Darlehen Und Zinsenrueckforderung, Leistungsbegriff Bewusste Zweckgerichtete Mehrung, Leistungskondiktion Grundtatbestand 812 I 1 Alt 1, Leistungszweck Bei Vorleistung Und Anzahlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Kredit Darlehen Und Zinsenrueckforderung bis Leistungszweck Bei Vorleistung Und Anzahlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kredit-darlehen-und-zinsenrueckforderung` | Nutze diesen Skill, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug. |
 | `leistungsbegriff-bewusste-zweckgerichtete-mehrung` | Leistungsbegriff im Bereicherungsrecht bestimmen: bewusste zweckgerichtete Mehrung, Empfängerhorizont, Vermögenszuordnung und Mehrpersonenfälle. Output: Leistungskarte mit Abgrenzung zur Nichtleistungskondiktion. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kredit-darlehen-und-zinsenrueckforderung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug.
+**Fokus:** Nutze diesen Skill, wenn Darlehenszahlungen, Zinsen oder Entgelte positionengenau geprüft werden müssen. Normen: § 488 BGB; §§ 812 und 818 BGB; §§ 491 bis 505d BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Positionsweise Berechnung Zinsen und Entgelte mit AGB-Prüfung. Abgrenzung: nicht reine Verbrauchergeldrückforderung ohne Vertragsbezug.
 
 # Kredit, Darlehen und Zinsenrückforderung
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `leistungsbegriff-bewusste-zweckgerichtete-mehrung`
 
-**Frühere Beschreibung:** Leistungsbegriff im Bereicherungsrecht bestimmen: bewusste zweckgerichtete Mehrung, Empfängerhorizont, Vermögenszuordnung und Mehrpersonenfälle. Output: Leistungskarte mit Abgrenzung zur Nichtleistungskondiktion.
+**Fokus:** Leistungsbegriff im Bereicherungsrecht bestimmen: bewusste zweckgerichtete Mehrung, Empfängerhorizont, Vermögenszuordnung und Mehrpersonenfälle. Output: Leistungskarte mit Abgrenzung zur Nichtleistungskondiktion.
 
 # Leistungsbegriff: Bewusste und zweckgerichtete Mehrung
 
@@ -209,7 +209,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `leistungskondiktion-grundtatbestand-812-i-1-alt-1`
 
-**Frühere Beschreibung:** Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema prüfen: Erlangtes, Leistung, Rechtsgrund, Behaltensgrund, Ausschlussgründe und Umfang. Output: Bereicherungsanspruchs-Gutachten mit Abgrenzung zur Nichtleistungskondiktion.
+**Fokus:** Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema prüfen: Erlangtes, Leistung, Rechtsgrund, Behaltensgrund, Ausschlussgründe und Umfang. Output: Bereicherungsanspruchs-Gutachten mit Abgrenzung zur Nichtleistungskondiktion.
 
 # Leistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 1 BGB
 
@@ -326,7 +326,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `leistungszweck-bei-vorleistung-und-anzahlung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zweck-Analyse mit Rückforderungsbetrag und Risikozuordnung. Abgrenzung: nicht Schadensersatz wegen Nichterfüllung.
+**Fokus:** Nutze diesen Skill, wenn Anzahlungen, Vorschüsse oder Reservierungsentgelte rückabgewickelt werden sollen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 2 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zweck-Analyse mit Rückforderungsbetrag und Risikozuordnung. Abgrenzung: nicht Schadensersatz wegen Nichterfüllung.
 
 # Leistungszweck bei Vorleistung und Anzahlung
 

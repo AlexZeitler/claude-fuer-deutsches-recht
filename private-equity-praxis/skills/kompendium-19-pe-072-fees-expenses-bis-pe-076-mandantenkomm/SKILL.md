@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-pe-072-fees-expenses-bis-pe-076-mandantenkomm
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (pe-072-fees-expenses-und-billing, pe-073-broken-deal-und-abbruch, pe-075-ic-memo-und-entscheidungsvorlage, pe-076-mandantenkommunikation-pe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 072 Fees Expenses Und Billing, Pe 073 Broken Deal Und Abbruch, Pe 075 Ic Memo Und Entscheidungsvorlage, Pe 076 Mandantenkommunikation Pe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - private-equity-praxis
+# Arbeitsbereich - Pe 072 Fees Expenses Und Billing bis Pe 076 Mandantenkommunikation Pe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-072-fees-expenses-und-billing` | Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation. |
 | `pe-073-broken-deal-und-abbruch` | Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-072-fees-expenses-und-billing`
 
-**Frühere Beschreibung:** Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation.
+**Fokus:** Prüft Management Fee, Transaction Fee, Broken Deal Costs, Monitoring Fees, Counsel Costs und Allocation.
 
 # Fees, Expenses und Deal Costs
 
@@ -70,7 +70,7 @@ Fondsvertrag, Side Letter, KAGB, Steuer, Kanzlei-Billing.
 
 ## 2. `pe-073-broken-deal-und-abbruch`
 
-**Frühere Beschreibung:** Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung.
+**Fokus:** Prüft Deal-Abbruch, Exklusivität, Break Fee, Kostentragung, Vertraulichkeit und Datenlöschung.
 
 # Broken Deal: Abbruch, Kosten und Haftung
 
@@ -111,7 +111,7 @@ BGB c.i.c., NDA, Process Letter, Datenschutz, Kartellrecht.
 
 ## 3. `pe-075-ic-memo-und-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Erstellt IC-Memo mit Deal-These, Struktur, Risiken, Schutzmechanismen, offenen Punkten und Beschlussvorschlag.
+**Fokus:** Erstellt IC-Memo mit Deal-These, Struktur, Risiken, Schutzmechanismen, offenen Punkten und Beschlussvorschlag.
 
 # Investment Committee Memo
 
@@ -152,7 +152,7 @@ Business Judgment, Fondsvertrag, KAGB, SPA/Finanzierung, Compliance.
 
 ## 4. `pe-076-mandantenkommunikation-pe`
 
-**Frühere Beschreibung:** Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails.
+**Fokus:** Übersetzt komplexe PE-, Credit- und Regulatory-Findings in klare Partner-/Mandantenmails.
 
 # Mandantenkommunikation im PE-Deal
 

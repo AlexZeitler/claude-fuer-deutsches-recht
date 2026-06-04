@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-gewr-einstweilige-ve-bis-spezial-fristen-absc
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (gewr-einstweilige-verfuegung-eilverfahren-spezial, spezial-dpma-fristen-form-und-zustaendigkeit, spezial-fristen-abschlussprodukt-und-uebergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Uebergabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Gewr Einstweilige Verfuegung Eilverfahren Spezial, Dpma Fristen Form Und Zustaendigkeit, Fristen Abschlussprodukt Und Uebergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gewr-einstweilige-verfuegung-eilverfahren-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner. |
 | `spezial-dpma-fristen-form-und-zustaendigkeit` | DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gewr-einstweilige-verfuegung-eilverfahren-spezial`
 
-**Frühere Beschreibung:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner.
+**Fokus:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Verfügungsanspruch, Verfügungsgrund, Dringlichkeit, Glaubhaftmachung und Antragsgestaltung bei Marke, Patent, UWG und Urheberrecht. Praxisworkflow für Antragsteller und Antragsgegner.
 
 # GewR: Einstweilige Verfügung – Eilverfahren Spezial
 
@@ -166,7 +166,7 @@ Mandatsbezug: Markeninhaber entdeckt Verletzung und will sofort handeln; Patenti
 
 ## 2. `spezial-dpma-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen.
+**Fokus:** DPMA-Verfahren im Detail: Fristen, Formvoraussetzungen und Zuständigkeiten für Marken-, Patent-, Gebrauchsmuster- und Designanmeldung sowie Widerspruchs- und Löschungsverfahren. Einreichungswege, Gebühren und Fehlerquellen.
 
 # Spezial: DPMA – Fristen, Form und Zuständigkeit
 
@@ -308,7 +308,7 @@ Mandatsbezug: Anwalt fragt: Wann muss ich Widerspruch einlegen? Was ist die korr
 
 ## 3. `spezial-fristen-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen.
+**Fokus:** Fristenverwaltung im gewerblichen Rechtsschutz: Abschlussprodukte rechtzeitig fertigstellen, Übergabe an Mandanten und Behörden sichern. Fristenmatrix für DPMA, EUIPO, EPA, Gerichtsverfahren, EV-Vollzug und Abmahnfristen.
 
 # Spezial: Fristen – Abschlussprodukt und Übergabe
 

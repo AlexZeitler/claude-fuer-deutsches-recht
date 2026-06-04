@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-vergleich-und-pruefu-bis-wiederholungspruefun
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (vergleich-und-pruefungsrecht, vorlaeufige-zulassung-eilrechtsschutz, widerspruch-und-remonstration, wiederholungspruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich Und Pruefungsrecht, Vorlaeufige Zulassung Eilrechtsschutz, Widerspruch Und Remonstration, Wiederholungspruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - pruefungsrecht-hochschule
+# Arbeitsbereich - Vergleich Und Pruefungsrecht bis Wiederholungspruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich-und-pruefungsrecht` | Prüft Vergleichslösungen im Prüfungsrecht. |
 | `vorlaeufige-zulassung-eilrechtsschutz` | Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich-und-pruefungsrecht`
 
-**Frühere Beschreibung:** Prüft Vergleichslösungen im Prüfungsrecht.
+**Fokus:** Prüft Vergleichslösungen im Prüfungsrecht.
 
 # Vergleich Und Pruefungsrecht
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Vergleichsvorschlag. Am Ende immer drei Zeilen: **Frist**, **
 
 ## 2. `vorlaeufige-zulassung-eilrechtsschutz`
 
-**Frühere Beschreibung:** Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen.
+**Fokus:** Prüft Eilantrag auf Zulassung zu Prüfung, Folgemodul, Master oder Staatsexamen.
 
 # Vorläufige Zulassung im Eilrechtsschutz
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `widerspruch-und-remonstration`
 
-**Frühere Beschreibung:** Baut Widerspruch, Remonstration oder Gegenvorstellung.
+**Fokus:** Baut Widerspruch, Remonstration oder Gegenvorstellung.
 
 # Widerspruch Und Remonstration
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Rechtsbehelfsentwurf. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 4. `wiederholungspruefung`
 
-**Frühere Beschreibung:** Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht.
+**Fokus:** Prüft Wiederholungsversuch, Freiversuch, Verbesserungsversuch und Übergangsrecht.
 
 # Wiederholungsprüfung
 

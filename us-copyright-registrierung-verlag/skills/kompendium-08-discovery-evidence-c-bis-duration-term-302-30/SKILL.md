@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-discovery-evidence-c-bis-duration-term-302-30
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (discovery-evidence-copyright, distribution-first-sale-109, dmca-safe-harbor-512-notice, duration-term-302-305) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Discovery Evidence Copyright, Distribution First Sale 109, Dmca Safe Harbor 512 Notice, Duration Term 302 305; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Discovery Evidence Copyright bis Duration Term 302 305
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `discovery-evidence-copyright` | Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege. |
 | `distribution-first-sale-109` | Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `discovery-evidence-copyright`
 
-**Frühere Beschreibung:** Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege.
+**Fokus:** Organisiert US-Discovery-relevante Beweise: source files, metadata, access, sales, logs, takedown records and privilege.
 
 # Discovery and Evidence Copyright
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `distribution-first-sale-109`
 
-**Frühere Beschreibung:** Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen.
+**Fokus:** Prueft Verbreitung, Import, Recommerce, gebrauchte Bücher, Softwarekopien, E-Books und first-sale-Grenzen.
 
 # Distribution Right und First Sale
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `dmca-safe-harbor-512-notice`
 
-**Frühere Beschreibung:** Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor.
+**Fokus:** Prueft Notice-and-Takedown, designated agent, expeditious removal, counter notification und OSP-Safe-Harbor.
 
 # DMCA Safe Harbor § 512 Notice
 
@@ -234,7 +234,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `duration-term-302-305`
 
-**Frühere Beschreibung:** Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration.
+**Fokus:** Prueft Schutzdauer nach US-Recht: individual works, joint works, anonymous, pseudonymous, WMFH, pre-1978 und restoration.
 
 # Duration und Term
 

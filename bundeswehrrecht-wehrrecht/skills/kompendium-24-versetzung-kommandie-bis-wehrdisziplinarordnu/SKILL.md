@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-versetzung-kommandie-bis-wehrdisziplinarordnu
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (versetzung-kommandierung-abordnung, vorlaeufige-dienstenthebung-einbehaltung-bezuege, wehrdisziplinarordnung-einfache-disziplinarmassnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Versetzung Kommandierung Abordnung, Vorlaeufige Dienstenthebung Einbehaltung Bezuege, Wehrdisziplinarordnung Einfache Disziplinarmassnahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versetzung-kommandierung-abordnung` | Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV. |
 | `vorlaeufige-dienstenthebung-einbehaltung-bezuege` | Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versetzung-kommandierung-abordnung`
 
-**Frühere Beschreibung:** Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV.
+**Fokus:** Versetzung, Kommandierung, Abordnung: prüft SG §§ 22–27, Voraussetzungen, Rechtsbehelfe und Besoldungsfolgen. Norm-/Quellenanker: SG §§ 22–27, WBO, TGV.
 
 # Versetzung, Kommandierung und Abordnung
 
@@ -140,7 +140,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `vorlaeufige-dienstenthebung-einbehaltung-bezuege`
 
-**Frühere Beschreibung:** Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131.
+**Fokus:** Vorläufige Dienstenthebung und Einbehaltung Bezüge: prüft WDO §§ 126–131, Voraussetzungen, Rechtsbehelf und Vollzugsaussetzung. Norm-/Quellenanker: WDO §§ 126–131.
 
 # Vorläufige Dienstenthebung und Einbehaltung von Bezügen
 
@@ -251,7 +251,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `wehrdisziplinarordnung-einfache-disziplinarmassnahme`
 
-**Frühere Beschreibung:** Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Wehrdisziplinarordnung einfache Disziplinarmaßnahme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Wehrdisziplinarordnung – Einfache Disziplinarmaßnahme
 

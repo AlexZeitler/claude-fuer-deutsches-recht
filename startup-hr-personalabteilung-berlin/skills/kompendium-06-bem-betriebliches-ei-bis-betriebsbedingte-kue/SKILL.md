@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bem-betriebliches-ei-bis-betriebsbedingte-kue
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (bem-betriebliches-eingliederungsmanagement, benefits-policy-jobticket-urban-sports, berlin-bildungszeit-und-feiertage, besondere-kategorien-gesundheit-schwerbehinderung, betriebsbedingte-kuendigung-startup) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bem Betriebliches Eingliederungsmanagement, Benefits Policy Jobticket Urban Sports, Berlin Bildungszeit Und Feiertage, Besondere Kategorien Gesundheit Schwerbehinderung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Bem Betriebliches Eingliederungsmanagement bis Betriebsbedingte Kuendigung Startup
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bem-betriebliches-eingliederungsmanagement` | Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `benefits-policy-jobticket-urban-sports` | Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bem-betriebliches-eingliederungsmanagement`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: BEM nach längerer Krankheit: Einladung, Freiwilligkeit, Datenschutz, Beteiligte, Maßnahmen und Dokumentation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # BEM Betriebliches Eingliederungsmanagement
 
@@ -88,7 +88,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `benefits-policy-jobticket-urban-sports`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Benefits-Policy für Jobticket, Urban Sports, Lunch, Kita-Zuschuss, Learning Budget und Gleichbehandlung. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Benefits Policy Jobticket Urban Sports
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `berlin-bildungszeit-und-feiertage`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Berlin-spezifische HR-Punkte: Bildungszeit, Feiertage, lokale Behörden, Datenschutzaufsicht und Standortkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Berlin-spezifische HR-Punkte: Bildungszeit, Feiertage, lokale Behörden, Datenschutzaufsicht und Standortkommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Berlin Bildungszeit Und Feiertage
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `besondere-kategorien-gesundheit-schwerbehinderung`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Gesundheit, Schwerbehinderung, Schwangerschaft und andere besondere Kategorien nur erforderlichkeitsscharf verarbeiten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Gesundheit, Schwerbehinderung, Schwangerschaft und andere besondere Kategorien nur erforderlichkeitsscharf verarbeiten. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Besondere Kategorien Gesundheit Schwerbehinderung
 
@@ -262,7 +262,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `betriebsbedingte-kuendigung-startup`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Betriebsbedingte Kündigung im Start-up: Unternehmerentscheidung, Wegfall, Sozialauswahl, Weiterbeschäftigung und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Betriebsbedingte Kündigung im Start-up: Unternehmerentscheidung, Wegfall, Sozialauswahl, Weiterbeschäftigung und Kommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Betriebsbedingte Kuendigung Startup
 

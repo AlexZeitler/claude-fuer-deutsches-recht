@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-mutterrente-und-kind-bis-persoenliches-budget
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (mutterrente-und-kindererziehung-56-sgb-vi, nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x, nichtzulassungsbeschwerde-bsg-160a-sgg, orientierung-selbstvertreter-sozialgericht, persoenliches-budget-29-sgb-ix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mutterrente Und Kindererziehung 56 Sgb Vi, Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X, Nichtzulassungsbeschwerde Bsg 160a Sgg, Orientierung Selbstvertreter Sozialgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Mutterrente Und Kindererziehung 56 Sgb Vi bis Persoenliches Budget 29 Sgb Ix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mutterrente-und-kindererziehung-56-sgb-vi` | Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster. |
 | `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x` | Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mutterrente-und-kindererziehung-56-sgb-vi`
 
-**Frühere Beschreibung:** Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster.
+**Fokus:** Mutterrente und Kindererziehungszeiten nach § 56 SGB VI. Skill erklaert die Beruecksichtigung der Erziehungszeiten 1986-Stichtag spaetere Reformen (Mutterrente I II III) Aufteilung zwischen Eltern und die Geltendmachung. Liefert Pruefraster.
 
 # Mutterrente Und Kindererziehung 56 Sgb Vi
 
@@ -81,7 +81,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `nichtigkeit-und-rechtswidrigkeit-40-44-sgb-x`
 
-**Frühere Beschreibung:** Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster.
+**Fokus:** Nichtigkeit und Rechtswidrigkeit von Verwaltungsakten nach §§ 40-44 SGB X. Skill klaert wann ein Sozialbescheid nichtig ist und wann nur rechtswidrig. Sondertatbestaende. Bedeutung fuer Vollziehung und Vollstreckung. Liefert Pruefraster.
 
 # Nichtigkeit Und Rechtswidrigkeit 40 44 Sgb X
 
@@ -134,7 +134,7 @@ VA ist nichtig wenn besonders schwerer Fehler vorliegt und dieser Fehler bei ver
 
 ## 3. `nichtzulassungsbeschwerde-bsg-160a-sgg`
 
-**Frühere Beschreibung:** Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt.
+**Fokus:** Nichtzulassungsbeschwerde zum BSG nach § 160a SGG. Wenn LSG Revision nicht zugelassen hat. Grundsatzbedeutung Divergenz Verfahrensmangel mit Anwalt.
 
 # Nichtzulassungsbeschwerde — § 160a SGG
 
@@ -246,7 +246,7 @@ Stand: 05/2026. § 160a SGG aktuell. Sehr enges Verfahren.
 
 ## 4. `orientierung-selbstvertreter-sozialgericht`
 
-**Frühere Beschreibung:** Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG.
+**Fokus:** Einstieg für Bürger ohne Anwalt vor dem Sozialgericht. Überblick über Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, Erwerbsminderungsrente, GdB, Sanity-Check, Rechtsprechungschat, Rechtsmittelgrenzen und Grundregeln des SGG.
 
 # Orientierung — Sich selbst vertreten am Sozialgericht
 
@@ -377,7 +377,7 @@ Stand: 05/2026. SGG aktuell. Mein Justizpostfach (MJP) seit 2024 fuer Buerger. B
 
 ## 5. `persoenliches-budget-29-sgb-ix`
 
-**Frühere Beschreibung:** Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage.
+**Fokus:** Persoenliches Budget nach § 29 SGB IX. Skill klaert die Voraussetzungen das trager-uebergreifende Budget Verwaltung Beratungsanspruch und typische Anwendungsfaelle (Assistenz Mobilitaet Wohnen). Liefert Antragsvorlage.
 
 # Persoenliches Budget 29 Sgb Ix
 

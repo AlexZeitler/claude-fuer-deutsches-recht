@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-luft-056-registerpfa-bis-luft-060-registerpfa
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (luft-056-registerpfandrecht-sicherheitsauflage, luft-057-registerpfandrecht-insolvenzrisiko-mar, luft-058-registerpfandrecht-local-counsel-brief, luft-059-registerpfandrecht-dashboard-bauen, luft-060-registerpfandrecht-mandantenmemo-schre) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 056 Registerpfandrecht Sicherheitsauflage, Luft 057 Registerpfandrecht Insolvenzrisiko Mar, Luft 058 Registerpfandrecht Local Counsel Brief, Luft 059 Registerpfandrecht Dashboard Bauen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 056 Registerpfandrecht Sicherheitsauflage bis Luft 060 Registerpfandrecht Mandantenmemo Schre
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-056-registerpfandrecht-sicherheitsauflage` | Pfandrecht-Glaeubigers Sicherheiten werden durch LuftSiG-Auflagen oder EASA-Massnahmen beeintraechtigt. Skill prueft wie Sicherheitsauflagen den Wert des Pfandobjekts beeinflussen welche Handlungsoptionen bestehen und liefert Risikobewertung und Vertragsklausel-Empfehlung. |
 | `luft-057-registerpfandrecht-insolvenzrisiko-mar` | Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prueft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel fuer Pfandglaeubiger und Reaktionsplan. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-056-registerpfandrecht-sicherheitsauflage`
 
-**Frühere Beschreibung:** Pfandrecht-Glaeubigers Sicherheiten werden durch LuftSiG-Auflagen oder EASA-Massnahmen beeintraechtigt. Skill prueft wie Sicherheitsauflagen den Wert des Pfandobjekts beeinflussen welche Handlungsoptionen bestehen und liefert Risikobewertung und Vertragsklausel-Empfehlung.
+**Fokus:** Pfandrecht-Glaeubigers Sicherheiten werden durch LuftSiG-Auflagen oder EASA-Massnahmen beeintraechtigt. Skill prueft wie Sicherheitsauflagen den Wert des Pfandobjekts beeinflussen welche Handlungsoptionen bestehen und liefert Risikobewertung und Vertragsklausel-Empfehlung.
 
 # Registerpfandrecht – Sicherheitsauflage bewerten
 
@@ -124,7 +124,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 2. `luft-057-registerpfandrecht-insolvenzrisiko-mar`
 
-**Frühere Beschreibung:** Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prueft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel fuer Pfandglaeubiger und Reaktionsplan.
+**Fokus:** Schuldner zeigt Insolvenzzeichen; Pfandglaeubigerposition zu sichern. Prueft InsO §§ 21 50 89 Absonderungsrecht Vollstreckungssperre Cape-Town-Art. 30 Insolvenzschutz und liefert Risikoampel fuer Pfandglaeubiger und Reaktionsplan.
 
 # Registerpfandrecht – Insolvenzrisiko markieren
 
@@ -218,7 +218,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 3. `luft-058-registerpfandrecht-local-counsel-brief`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Pfandrechts-Vollstreckungs-Mandat briefen: Rang-Analyse AG-Braunschweig-Register Cape-Town-Eintrag IDERA-Status. Skill erstellt englisches Briefing-Memo mit deutschem Pfandrechtsrecht und konkreten Fragen an Local Counsel.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Pfandrechts-Vollstreckungs-Mandat briefen: Rang-Analyse AG-Braunschweig-Register Cape-Town-Eintrag IDERA-Status. Skill erstellt englisches Briefing-Memo mit deutschem Pfandrechtsrecht und konkreten Fragen an Local Counsel.
 
 # Registerpfandrecht – Local Counsel briefen
 
@@ -312,7 +312,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 4. `luft-059-registerpfandrecht-dashboard-bauen`
 
-**Frühere Beschreibung:** Pfandglaeubigerbank braucht Echtzeit-Dashboard fuer Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template.
+**Fokus:** Pfandglaeubigerbank braucht Echtzeit-Dashboard fuer Pfandrechts-Portfolio: AG-Braunschweig-Status Cape-Town-Eintrag IDERA Schuldner-Solvenz Flugzeugwert. Skill strukturiert Datenquellen und liefert befuellbares Portfolio-Dashboard-Template.
 
 # Registerpfandrecht – Dashboard bauen
 
@@ -406,7 +406,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 5. `luft-060-registerpfandrecht-mandantenmemo-schre`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Pfandglaeubiger zu komplexem Pfandrechts-Fall: Rang-Konflikt Insolvenz Cape-Town-Default-Remedies oder Vollstreckungs-Hindernis. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
 
 # Registerpfandrecht – Mandantenmemo schreiben
 

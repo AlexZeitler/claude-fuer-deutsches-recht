@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-unternehmensgruppe-u-bis-verhaeltnismaessigke
-description: "datenschutz-sanktionsverfahren-verteidigung: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (unternehmensgruppe-und-federfuehrende-aufsicht, untersagung-und-verarbeitungsstopp, unverhaeltnismaessigkeit-und-existenzgefahr, verhaeltnismaessigkeit-aufsichtsmassnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutz-sanktionsverfahren-verteidigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unternehmensgruppe Und Federfuehrende Aufsicht, Untersagung Und Verarbeitungsstopp, Unverhaeltnismaessigkeit Und Existenzgefahr, Verhaeltnismaessigkeit Aufsichtsmassnahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - datenschutz-sanktionsverfahren-verteidigung
+# Arbeitsbereich - Unternehmensgruppe Und Federfuehrende Aufsicht bis Verhaeltnismaessigkeit Aufsichtsmassnahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unternehmensgruppe-und-federfuehrende-aufsicht` | Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `untersagung-und-verarbeitungsstopp` | Untersagung und Verarbeitungsstopp: Vorläufige oder endgültige Beschränkung einer Verarbeitung mit Eilrechtsschutz und milderen Mitteln angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unternehmensgruppe-und-federfuehrende-aufsicht`
 
-**Frühere Beschreibung:** Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Unternehmensgruppe und federführende Aufsicht: Hauptniederlassung, One-Stop-Shop, gemeinsame Verantwortlichkeit und Konzernadressat prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Unternehmensgruppe und federführende Aufsicht
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 2. `untersagung-und-verarbeitungsstopp`
 
-**Frühere Beschreibung:** Untersagung und Verarbeitungsstopp: Vorläufige oder endgültige Beschränkung einer Verarbeitung mit Eilrechtsschutz und milderen Mitteln angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Untersagung und Verarbeitungsstopp: Vorläufige oder endgültige Beschränkung einer Verarbeitung mit Eilrechtsschutz und milderen Mitteln angreifen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Untersagung und Verarbeitungsstopp
 
@@ -153,7 +153,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 3. `unverhaeltnismaessigkeit-und-existenzgefahr`
 
-**Frühere Beschreibung:** Verhältnismäßigkeit und Existenzgefahr: Liquidität, Eigenkapital, Insolvenznähe, Arbeitsplätze und Ratenzahlung gegen Abschreckung abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Verhältnismäßigkeit und Existenzgefahr: Liquidität, Eigenkapital, Insolvenznähe, Arbeitsplätze und Ratenzahlung gegen Abschreckung abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Verhältnismäßigkeit und Existenzgefahr
 
@@ -215,7 +215,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 4. `verhaeltnismaessigkeit-aufsichtsmassnahme`
 
-**Frühere Beschreibung:** Verhältnismäßigkeit der Aufsichtsmaßnahme: Datenschutzgewinn, Betriebsfolgen, Grundrechte, mildere Mittel und Angemessenheit abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Verhältnismäßigkeit der Aufsichtsmaßnahme: Datenschutzgewinn, Betriebsfolgen, Grundrechte, mildere Mittel und Angemessenheit abwägen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Verhältnismäßigkeit der Aufsichtsmaßnahme
 

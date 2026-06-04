@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-konkurrentenstreit-p-bis-lehrbeauftragte-stat
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (konkurrentenstreit-professur, kunst-und-musikhochschulen, landeshochschulgesetz-router, lehrbeauftragte-status-und-verguetung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Konkurrentenstreit Professur, Kunst Und Musikhochschulen, Landeshochschulgesetz Router, Lehrbeauftragte Status Und Verguetung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - hochschulrecht-laender
+# Arbeitsbereich - Konkurrentenstreit Professur bis Lehrbeauftragte Status Und Verguetung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `konkurrentenstreit-professur` | Prüft Konkurrentenstreit im Hochschulbereich. |
 | `kunst-und-musikhochschulen` | Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `konkurrentenstreit-professur`
 
-**Frühere Beschreibung:** Prüft Konkurrentenstreit im Hochschulbereich.
+**Fokus:** Prüft Konkurrentenstreit im Hochschulbereich.
 
 # Konkurrentenstreit Professur
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Eilantragsgerüst. Am Ende immer drei Zeilen: **Frist**, **fe
 
 ## 2. `kunst-und-musikhochschulen`
 
-**Frühere Beschreibung:** Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen.
+**Fokus:** Prüft Kunst- und Musikhochschulen mit Eignungsprüfungen.
 
 # Kunst Und Musikhochschulen
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Eignungsprüfungscheck. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `landeshochschulgesetz-router`
 
-**Frühere Beschreibung:** Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung.
+**Fokus:** Routet Hochschulrecht in das richtige Bundesland, Hochschulgesetz und die passende Satzung.
 
 # Landeshochschulgesetz Router
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Normenkette Hochschule. Am Ende immer drei Zeilen: **Frist**,
 
 ## 4. `lehrbeauftragte-status-und-verguetung`
 
-**Frühere Beschreibung:** Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis.
+**Fokus:** Prüft Lehrbeauftragte, Vergütung, Status, Scheinselbständigkeit und Prüfungsbefugnis.
 
 # Lehrbeauftragte Status und Vergütung
 

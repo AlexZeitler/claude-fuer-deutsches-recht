@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-medienrecht-bis-urhmr-urhebervertrag
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-medienrecht-fristen-form-und-zustaendigkeit, fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung, urhmr-urhebervertrag-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Medienrecht Fristen Form Und Zustaendigkeit, Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Medienrecht Fristen Form Und Zustaendigkeit, Urheber Medienrecht Lizenzvertrag Verhandlung, Urhmr Urhebervertrag Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-medienrecht-fristen-form-und-zustaendigkeit` | Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung` | Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-medienrecht-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt urheber medienrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Medienrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung`
 
-**Frühere Beschreibung:** Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung.
+**Fokus:** Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung.
 
 # Lizenzvertrag-Verhandlung
 
@@ -230,7 +230,7 @@ Verhandlung Lizenz-Vertrag für urheberrechtlich geschuetzte Werke.
 
 ## 3. `urhmr-urhebervertrag-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer.
+**Fokus:** Bauleiter Urhebervertrag: Einraeumung von Nutzungsrechten §§ 31 ff. UrhG, Bestimmtheitsgrundsatz, angemessene Verguetung § 32 UrhG, Auskunftsrecht § 32d UrhG. Pruefraster fuer Urheber und Nutzer.
 
 # UrhMR: Urhebervertrag Bauleiter
 

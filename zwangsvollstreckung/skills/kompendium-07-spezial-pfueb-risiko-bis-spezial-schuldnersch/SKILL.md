@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-spezial-pfueb-risiko-bis-spezial-schuldnersch
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (spezial-pfueb-risikoampel-und-gegenargumente, spezial-raeumung-compliance-dokumentation-und-akte, spezial-schuldnerschutz-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - zwangsvollstreckung
+# Arbeitsbereich - Pfueb Risikoampel Und Gegenargumente, Raeumung Compliance Dokumentation Und Akte, Schuldnerschutz Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-pfueb-risikoampel-und-gegenargumente` | Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-raeumung-compliance-dokumentation-und-akte` | Raeumung: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-pfueb-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Pfueb: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-raeumung-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Raeumung: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Raeumung: Compliance-Dokumentation und Aktenvermerk im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Raeumung: Compliance-Dokumentation und Aktenvermerk
 
@@ -132,7 +132,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schuldnerschutz-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schuldnerschutz: Beweislast, Darlegungslast und Substantiierung
 

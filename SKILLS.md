@@ -1,6 +1,6 @@
 # Skill-Gesamtuebersicht
 
-Automatisch generierte Gesamtuebersicht aller **5629 Skills** in **209 Plugins**.
+Automatisch generierte Gesamtuebersicht aller **5951 Skills** in **209 Plugins**.
 
 Stand: `v100.0.0`.
 
@@ -34,7 +34,7 @@ So bekommt man die komplette Sammlung als ZIP:
 
 **Wichtig:** Wenn irgendwo im Repo ein neuer Skill angelegt wird (also ein neuer Ordner `<plugin>/skills/<skill>/SKILL.md`), erscheint er beim naechsten Lauf von `scripts/generate-skills-md.py` automatisch -- sowohl in dieser Liste als auch auf der jeweiligen Plugin-Detailseite. Es kann also nichts fehlen.
 
-Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 5629 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
+Die Detailseiten liegen unter [`skills-index/`](skills-index/) -- eine eigene `.md`-Datei pro Plugin. So bleibt diese Hauptseite klein und laedt schnell, statt mit 5951 Tabellenzeilen den Browser-Renderer von GitHub zu ueberfordern.
 
 ## Alle Plugins
 
@@ -42,7 +42,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 
 | Plugin | Skills | Detailseite | ZIP |
 | --- | ---: | --- | --- |
-| **agb-recht-pruefer** | 29 | [Skills ansehen](skills-index/agb-recht-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/agb-recht-pruefer.zip) |
+| **agb-recht-pruefer** | 54 | [Skills ansehen](skills-index/agb-recht-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/agb-recht-pruefer.zip) |
 | **aktenaufbereiter-strafrecht** | 24 | [Skills ansehen](skills-index/aktenaufbereiter-strafrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenaufbereiter-strafrecht.zip) |
 | **aktenauszug-gerichtsverfahren** | 24 | [Skills ansehen](skills-index/aktenauszug-gerichtsverfahren.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktenauszug-gerichtsverfahren.zip) |
 | **aktienrecht-hauptversammlung-ag-se** | 28 | [Skills ansehen](skills-index/aktienrecht-hauptversammlung-ag-se.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/aktienrecht-hauptversammlung-ag-se.zip) |
@@ -55,29 +55,29 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **bank-rechtsabteilung** | 27 | [Skills ansehen](skills-index/bank-rechtsabteilung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bank-rechtsabteilung.zip) |
 | **barrierefreiheit-web-checker** | 24 | [Skills ansehen](skills-index/barrierefreiheit-web-checker.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/barrierefreiheit-web-checker.zip) |
 | **bav-strategie-konzern** | 24 | [Skills ansehen](skills-index/bav-strategie-konzern.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bav-strategie-konzern.zip) |
-| **beamtenrecht** | 28 | [Skills ansehen](skills-index/beamtenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht.zip) |
+| **beamtenrecht** | 45 | [Skills ansehen](skills-index/beamtenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beamtenrecht.zip) |
 | **bereicherungs-und-anfechtungsrecht-pruefer** | 29 | [Skills ansehen](skills-index/bereicherungs-und-anfechtungsrecht-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bereicherungs-und-anfechtungsrecht-pruefer.zip) |
 | **berichtspflichten-erlediger** | 21 | [Skills ansehen](skills-index/berichtspflichten-erlediger.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berichtspflichten-erlediger.zip) |
 | **berufsgerichtliche-verfahren-freie-berufe** | 28 | [Skills ansehen](skills-index/berufsgerichtliche-verfahren-freie-berufe.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsgerichtliche-verfahren-freie-berufe.zip) |
-| **berufsrecht-anwaelte** | 30 | [Skills ansehen](skills-index/berufsrecht-anwaelte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-anwaelte.zip) |
+| **berufsrecht-anwaelte** | 51 | [Skills ansehen](skills-index/berufsrecht-anwaelte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-anwaelte.zip) |
 | **berufsrecht-ki-vertragspruefung** | 26 | [Skills ansehen](skills-index/berufsrecht-ki-vertragspruefung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-ki-vertragspruefung.zip) |
-| **berufsrecht-notare** | 30 | [Skills ansehen](skills-index/berufsrecht-notare.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare.zip) |
-| **berufsrecht-patentanwaelte** | 30 | [Skills ansehen](skills-index/berufsrecht-patentanwaelte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-patentanwaelte.zip) |
-| **berufsrecht-steuerberater** | 30 | [Skills ansehen](skills-index/berufsrecht-steuerberater.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater.zip) |
-| **berufsrecht-wirtschaftspruefer** | 30 | [Skills ansehen](skills-index/berufsrecht-wirtschaftspruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
+| **berufsrecht-notare** | 50 | [Skills ansehen](skills-index/berufsrecht-notare.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-notare.zip) |
+| **berufsrecht-patentanwaelte** | 50 | [Skills ansehen](skills-index/berufsrecht-patentanwaelte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-patentanwaelte.zip) |
+| **berufsrecht-steuerberater** | 50 | [Skills ansehen](skills-index/berufsrecht-steuerberater.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-steuerberater.zip) |
+| **berufsrecht-wirtschaftspruefer** | 50 | [Skills ansehen](skills-index/berufsrecht-wirtschaftspruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/berufsrecht-wirtschaftspruefer.zip) |
 | **betaeubungsmittelrecht** | 27 | [Skills ansehen](skills-index/betaeubungsmittelrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betaeubungsmittelrecht.zip) |
 | **betreuungsrecht** | 30 | [Skills ansehen](skills-index/betreuungsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/betreuungsrecht.zip) |
 | **bgb-at-pruefer** | 23 | [Skills ansehen](skills-index/bgb-at-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-at-pruefer.zip) |
 | **bgb-bt-pruefer** | 27 | [Skills ansehen](skills-index/bgb-bt-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bgb-bt-pruefer.zip) |
 | **buerokratieversteher-entbuerokratisierer** | 28 | [Skills ansehen](skills-index/buerokratieversteher-entbuerokratisierer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/buerokratieversteher-entbuerokratisierer.zip) |
-| **bundesnetzagentur-verfahren** | 30 | [Skills ansehen](skills-index/bundesnetzagentur-verfahren.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundesnetzagentur-verfahren.zip) |
+| **bundesnetzagentur-verfahren** | 32 | [Skills ansehen](skills-index/bundesnetzagentur-verfahren.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundesnetzagentur-verfahren.zip) |
 | **bundeswehrrecht-wehrrecht** | 30 | [Skills ansehen](skills-index/bundeswehrrecht-wehrrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/bundeswehrrecht-wehrrecht.zip) |
 | **commercial-courts-deutschland** | 30 | [Skills ansehen](skills-index/commercial-courts-deutschland.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/commercial-courts-deutschland.zip) |
 | **common-law-kompass** | 24 | [Skills ansehen](skills-index/common-law-kompass.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/common-law-kompass.zip) |
 | **corporate-kanzlei** | 29 | [Skills ansehen](skills-index/corporate-kanzlei.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/corporate-kanzlei.zip) |
 | **datenbankrecht** | 24 | [Skills ansehen](skills-index/datenbankrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenbankrecht.zip) |
 | **datenschutz-sanktionsverfahren-verteidigung** | 27 | [Skills ansehen](skills-index/datenschutz-sanktionsverfahren-verteidigung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutz-sanktionsverfahren-verteidigung.zip) |
-| **datenschutzrecht** | 30 | [Skills ansehen](skills-index/datenschutzrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
+| **datenschutzrecht** | 47 | [Skills ansehen](skills-index/datenschutzrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/datenschutzrecht.zip) |
 | **designrecht-geschmacksmusterrecht** | 27 | [Skills ansehen](skills-index/designrecht-geschmacksmusterrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/designrecht-geschmacksmusterrecht.zip) |
 | **deutsche-rechtsgeschichte** | 27 | [Skills ansehen](skills-index/deutsche-rechtsgeschichte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/deutsche-rechtsgeschichte.zip) |
 | **dfg-foerderantrag** | 24 | [Skills ansehen](skills-index/dfg-foerderantrag.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/dfg-foerderantrag.zip) |
@@ -97,15 +97,15 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **fachanwalt-familienrecht** | 30 | [Skills ansehen](skills-index/fachanwalt-familienrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-familienrecht.zip) |
 | **fachanwalt-gewerblicher-rechtsschutz** | 26 | [Skills ansehen](skills-index/fachanwalt-gewerblicher-rechtsschutz.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-gewerblicher-rechtsschutz.zip) |
 | **fachanwalt-handels-gesellschaftsrecht** | 24 | [Skills ansehen](skills-index/fachanwalt-handels-gesellschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-handels-gesellschaftsrecht.zip) |
-| **fachanwalt-insolvenz-sanierungsrecht** | 30 | [Skills ansehen](skills-index/fachanwalt-insolvenz-sanierungsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
+| **fachanwalt-insolvenz-sanierungsrecht** | 45 | [Skills ansehen](skills-index/fachanwalt-insolvenz-sanierungsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-insolvenz-sanierungsrecht.zip) |
 | **fachanwalt-internationales-wirtschaftsrecht** | 24 | [Skills ansehen](skills-index/fachanwalt-internationales-wirtschaftsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-internationales-wirtschaftsrecht.zip) |
 | **fachanwalt-it-recht** | 30 | [Skills ansehen](skills-index/fachanwalt-it-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-it-recht.zip) |
-| **fachanwalt-medizinrecht** | 30 | [Skills ansehen](skills-index/fachanwalt-medizinrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |
-| **fachanwalt-miet-wohnungseigentumsrecht** | 30 | [Skills ansehen](skills-index/fachanwalt-miet-wohnungseigentumsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
-| **fachanwalt-migrationsrecht** | 30 | [Skills ansehen](skills-index/fachanwalt-migrationsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
+| **fachanwalt-medizinrecht** | 46 | [Skills ansehen](skills-index/fachanwalt-medizinrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-medizinrecht.zip) |
+| **fachanwalt-miet-wohnungseigentumsrecht** | 49 | [Skills ansehen](skills-index/fachanwalt-miet-wohnungseigentumsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-miet-wohnungseigentumsrecht.zip) |
+| **fachanwalt-migrationsrecht** | 58 | [Skills ansehen](skills-index/fachanwalt-migrationsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-migrationsrecht.zip) |
 | **fachanwalt-sozialrecht** | 27 | [Skills ansehen](skills-index/fachanwalt-sozialrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sozialrecht.zip) |
 | **fachanwalt-sportrecht** | 24 | [Skills ansehen](skills-index/fachanwalt-sportrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-sportrecht.zip) |
-| **fachanwalt-strafrecht** | 29 | [Skills ansehen](skills-index/fachanwalt-strafrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht.zip) |
+| **fachanwalt-strafrecht** | 37 | [Skills ansehen](skills-index/fachanwalt-strafrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-strafrecht.zip) |
 | **fachanwalt-transport-speditionsrecht** | 24 | [Skills ansehen](skills-index/fachanwalt-transport-speditionsrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-transport-speditionsrecht.zip) |
 | **fachanwalt-urheber-medienrecht** | 24 | [Skills ansehen](skills-index/fachanwalt-urheber-medienrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-urheber-medienrecht.zip) |
 | **fachanwalt-vergaberecht** | 27 | [Skills ansehen](skills-index/fachanwalt-vergaberecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/fachanwalt-vergaberecht.zip) |
@@ -128,7 +128,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **gesellschaftsrechtliche-treuepflicht** | 27 | [Skills ansehen](skills-index/gesellschaftsrechtliche-treuepflicht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gesellschaftsrechtliche-treuepflicht.zip) |
 | **gewerblicher-rechtsschutz** | 26 | [Skills ansehen](skills-index/gewerblicher-rechtsschutz.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/gewerblicher-rechtsschutz.zip) |
 | **goae-gebuehrenordnung-aerzte** | 24 | [Skills ansehen](skills-index/goae-gebuehrenordnung-aerzte.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/goae-gebuehrenordnung-aerzte.zip) |
-| **grosskanzlei-corporate-ma** | 29 | [Skills ansehen](skills-index/grosskanzlei-corporate-ma.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
+| **grosskanzlei-corporate-ma** | 30 | [Skills ansehen](skills-index/grosskanzlei-corporate-ma.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grosskanzlei-corporate-ma.zip) |
 | **grundbuchamt-praxis** | 23 | [Skills ansehen](skills-index/grundbuchamt-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/grundbuchamt-praxis.zip) |
 | **handelsrecht-hgb** | 30 | [Skills ansehen](skills-index/handelsrecht-hgb.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsrecht-hgb.zip) |
 | **handelsregister-praxis** | 27 | [Skills ansehen](skills-index/handelsregister-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/handelsregister-praxis.zip) |
@@ -136,7 +136,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **hausarbeitenmacher** | 24 | [Skills ansehen](skills-index/hausarbeitenmacher.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hausarbeitenmacher.zip) |
 | **haushaltsrecht-bho-bund-laender** | 30 | [Skills ansehen](skills-index/haushaltsrecht-bho-bund-laender.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/haushaltsrecht-bho-bund-laender.zip) |
 | **hinweisgeberschutz-compliance** | 27 | [Skills ansehen](skills-index/hinweisgeberschutz-compliance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hinweisgeberschutz-compliance.zip) |
-| **hoai-leistungsphasen-praxis** | 29 | [Skills ansehen](skills-index/hoai-leistungsphasen-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis.zip) |
+| **hoai-leistungsphasen-praxis** | 50 | [Skills ansehen](skills-index/hoai-leistungsphasen-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hoai-leistungsphasen-praxis.zip) |
 | **hochschulrecht-laender** | 27 | [Skills ansehen](skills-index/hochschulrecht-laender.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/hochschulrecht-laender.zip) |
 | **immobilienrechtspraxis** | 25 | [Skills ansehen](skills-index/immobilienrechtspraxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/immobilienrechtspraxis.zip) |
 | **influencer-recht** | 25 | [Skills ansehen](skills-index/influencer-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/influencer-recht.zip) |
@@ -155,7 +155,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **kanzlei-builder-hub** | 27 | [Skills ansehen](skills-index/kanzlei-builder-hub.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-builder-hub.zip) |
 | **kanzlei-management** | 28 | [Skills ansehen](skills-index/kanzlei-management.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-management.zip) |
 | **kanzlei-mandant-lifecycle** | 27 | [Skills ansehen](skills-index/kanzlei-mandant-lifecycle.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kanzlei-mandant-lifecycle.zip) |
-| **kartellrecht-marktabgrenzung-pruefung** | 30 | [Skills ansehen](skills-index/kartellrecht-marktabgrenzung-pruefung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
+| **kartellrecht-marktabgrenzung-pruefung** | 59 | [Skills ansehen](skills-index/kartellrecht-marktabgrenzung-pruefung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kartellrecht-marktabgrenzung-pruefung.zip) |
 | **ki-governance** | 24 | [Skills ansehen](skills-index/ki-governance.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-governance.zip) |
 | **ki-richtlinie-kanzleien** | 24 | [Skills ansehen](skills-index/ki-richtlinie-kanzleien.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-richtlinie-kanzleien.zip) |
 | **ki-vo-ai-act-pruefer** | 29 | [Skills ansehen](skills-index/ki-vo-ai-act-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/ki-vo-ai-act-pruefer.zip) |
@@ -165,7 +165,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **kriegsdienstverweigerung-wehrdienst** | 29 | [Skills ansehen](skills-index/kriegsdienstverweigerung-wehrdienst.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/kriegsdienstverweigerung-wehrdienst.zip) |
 | **krisenfrueherkennung-starug** | 24 | [Skills ansehen](skills-index/krisenfrueherkennung-starug.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/krisenfrueherkennung-starug.zip) |
 | **leasingrecht-praxis** | 21 | [Skills ansehen](skills-index/leasingrecht-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/leasingrecht-praxis.zip) |
-| **legistik-werkstatt** | 30 | [Skills ansehen](skills-index/legistik-werkstatt.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt.zip) |
+| **legistik-werkstatt** | 35 | [Skills ansehen](skills-index/legistik-werkstatt.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/legistik-werkstatt.zip) |
 | **liquiditaetsplanung** | 26 | [Skills ansehen](skills-index/liquiditaetsplanung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
 | **lobbyregister-bundestag** | 26 | [Skills ansehen](skills-index/lobbyregister-bundestag.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/lobbyregister-bundestag.zip) |
 | **luftrecht-flughafenrecht** | 26 | [Skills ansehen](skills-index/luftrecht-flughafenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/luftrecht-flughafenrecht.zip) |
@@ -198,7 +198,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **rechtstheorie-rechtsphilosophie** | 24 | [Skills ansehen](skills-index/rechtstheorie-rechtsphilosophie.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rechtstheorie-rechtsphilosophie.zip) |
 | **regulatorisches-recht** | 26 | [Skills ansehen](skills-index/regulatorisches-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/regulatorisches-recht.zip) |
 | **rentenpruefer** | 27 | [Skills ansehen](skills-index/rentenpruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/rentenpruefer.zip) |
-| **robotik-recht** | 30 | [Skills ansehen](skills-index/robotik-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/robotik-recht.zip) |
+| **robotik-recht** | 46 | [Skills ansehen](skills-index/robotik-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/robotik-recht.zip) |
 | **roemisch-katholisches-kirchenrecht** | 28 | [Skills ansehen](skills-index/roemisch-katholisches-kirchenrecht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisch-katholisches-kirchenrecht.zip) |
 | **roemisches-recht** | 27 | [Skills ansehen](skills-index/roemisches-recht.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/roemisches-recht.zip) |
 | **schoeffen-handelsrichter-praxis** | 30 | [Skills ansehen](skills-index/schoeffen-handelsrichter-praxis.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/schoeffen-handelsrichter-praxis.zip) |
@@ -212,7 +212,7 @@ Pro Plugin: Klick auf den Namen oeffnet die Detailseite mit allen Skills, Beschr
 | **sozialversicherungsstatus-pruefer** | 28 | [Skills ansehen](skills-index/sozialversicherungsstatus-pruefer.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/sozialversicherungsstatus-pruefer.zip) |
 | **staatsanwaltschaft-praxis-einstieg** | 27 | [Skills ansehen](skills-index/staatsanwaltschaft-praxis-einstieg.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/staatsanwaltschaft-praxis-einstieg.zip) |
 | **startup-hr-personalabteilung-berlin** | 26 | [Skills ansehen](skills-index/startup-hr-personalabteilung-berlin.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/startup-hr-personalabteilung-berlin.zip) |
-| **steuerrecht-anwalt-und-berater** | 89 | [Skills ansehen](skills-index/steuerrecht-anwalt-und-berater.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
+| **steuerrecht-anwalt-und-berater** | 91 | [Skills ansehen](skills-index/steuerrecht-anwalt-und-berater.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerrecht-anwalt-und-berater.zip) |
 | **strafanzeige-vorbereiter** | 29 | [Skills ansehen](skills-index/strafanzeige-vorbereiter.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafanzeige-vorbereiter.zip) |
 | **strafbefehl-verteidiger** | 24 | [Skills ansehen](skills-index/strafbefehl-verteidiger.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafbefehl-verteidiger.zip) |
 | **strafzumessung** | 24 | [Skills ansehen](skills-index/strafzumessung.md) | [Download](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/strafzumessung.zip) |

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-verkehrsr-bis-fachanwalt-verkehrsr
-description: "fachanwalt-verkehrsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fachanwalt-verkehrsrecht-tempo-messung-beweis, fachanwalt-verkehrsrecht-unfallregulierung-quoten, fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verkehrsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsrecht Tempo Messung Beweis, Verkehrsrecht Unfallregulierung Quoten, Verkehrsrecht Versicherer Quotenverhandlung Vergleich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-verkehrsrecht
+# Arbeitsbereich - Verkehrsrecht Tempo Messung Beweis, Verkehrsrecht Unfallregulierung Quoten, Verkehrsrecht Versicherer Quotenverhandlung Vergleich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-verkehrsrecht-tempo-messung-beweis` | Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen. |
 | `fachanwalt-verkehrsrecht-unfallregulierung-quoten` | Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-verkehrsrecht-tempo-messung-beweis`
 
-**Frühere Beschreibung:** Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen.
+**Fokus:** Mandant bestreitet korrekte Geschwindigkeitsmessung in Bußgeldbescheid. Tempo-Messung Beweisanfechtung OWiG. Prüfraster: Standardmessgeräte PoliScan Speed Es 3.0 LeivTec XV-3 Multanova PTB-Zulassung Eichschein Messdokumentation Messverfahren-Verzeichnis. Output: Beweisanfechtungs-Strategie und Beweisantrag auf Sachverständigen. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Gesamtprüfung) und bußgeld-einspruch-prüfen.
 
 # Tempo-Messung Beweisanfechtung
 
@@ -186,7 +186,7 @@ Hinweis: Standardisierung nach BGH-Linie bedeutet nur eine Beweis-Erleichterung.
 
 ## 2. `fachanwalt-verkehrsrecht-unfallregulierung-quoten`
 
-**Frühere Beschreibung:** Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
+**Fokus:** Mandant hat Unfall mit Mitverschulden und fragt welche Schadensposten zu welcher Quote durchsetzbar sind. § 254 BGB Mitverschulden Quoten-Modelle. Prüfraster: Schadenstabellen Reparatur Mietwagen Wertminderung Nutzungsausfall Schmerzensgeld 130-Prozent-Grenze Reparaturkosten vs. Wiederbeschaffungswert. Output: Schadensquoten-Berechnung und Vergleichsangebot. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Erstforderung) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich.
 
 # Unfallregulierung — Quoten
 
@@ -324,7 +324,7 @@ Hinweis: Keine Kommentar-, Handbuch-, Aufsatz- oder Tabellenfundstellen aus Mode
 
 ## 3. `fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich`
 
-**Frühere Beschreibung:** Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie).
+**Fokus:** Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Prüfraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie).
 
 # Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht
 

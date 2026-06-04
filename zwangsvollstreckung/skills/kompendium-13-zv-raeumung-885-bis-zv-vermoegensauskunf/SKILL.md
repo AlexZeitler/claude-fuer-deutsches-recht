@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-zv-raeumung-885-bis-zv-vermoegensauskunf
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (zv-raeumung-885, zv-tabellenauszug-201-inso, zv-vermoegensauskunft-gv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - zwangsvollstreckung
+# Arbeitsbereich - Zv Raeumung 885, Zv Tabellenauszug 201 Inso, Zv Vermoegensauskunft Gv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-raeumung-885` | Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar). |
 | `zv-tabellenauszug-201-inso` | Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-raeumung-885`
 
-**Frühere Beschreibung:** Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar).
+**Fokus:** Vermieter hat Räumungsurteil und will Wohnung oder Gewerberaum räumen lassen. § 885 ZPO Räumungsvollstreckung. Prüfraster: Räumungstitel Klausel Zustellung Mitbewohner Kinder Untermieter Drittwiderspruch § 771 Vollstreckungsschutz § 765a ZPO Berliner Modell § 885a ZPO beschraenkter Räumungsauftrag. Output: Räumungsauftrag an GV und Strategie-Memo. Abgrenzung zu zv-abwehr-schuldner (Schuldnerseite) und zv-mobiliar-gv-auftrag (Mobiliar).
 
 # Räumung § 885 ZPO / Berliner Räumung § 885a ZPO
 
@@ -127,7 +127,7 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 ## 2. `zv-tabellenauszug-201-inso`
 
-**Frühere Beschreibung:** Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter.
+**Fokus:** Gläubiger hat Insolvenzforderung die im Verfahren festgestellt wurde und will nach Insolvenzende vollstrecken. § 201 Abs. 2 InsO Tabellenauszug als Titel. Prüfraster: Voraussetzungen festgestellt nicht bestritten kein RSB-Versagungsgrund Klausel und Zustellung 30-Jahres-Verjährung § 197 BGB Schranken Restschuldbefreiung § 301 InsO. Output: Vollstreckungsantrag aus Tabellenauszug. Abgrenzung zu zv-titel-klausel-zustellung (klassischer Titel) und zv-kommandocenter.
 
 # Vollstreckung aus Tabellenauszug § 201 InsO
 
@@ -218,7 +218,7 @@ NÄCHSTER SKILL:        [zv-pfueb-bank / zv-pfueb-arbeitsentgelt / ...]
 
 ## 3. `zv-vermoegensauskunft-gv`
 
-**Frühere Beschreibung:** Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung).
+**Fokus:** Gläubiger weiss nichts über Vermögen des Schuldners und will Auskunft erzwingen. § 802c ZPO Vermogensauskunft EV. Prüfraster: Antrag beim GV Sperrfrist 2 Jahre § 802d ZPO Eintragung Schuldnerverzeichnis § 882b ZPO Erzwingungshaft § 802g ZPO. Output: Auftrag Vermogensauskunft GV und Auswertungsprotokoll Vermogensverzeichnis. Abgrenzung zu zv-kontensuche-drittschuldner (Drittauskunfte) und zv-mobiliar-gv-auftrag (Pfaendung nach Ermittlung).
 
 # Vermögensauskunft
 

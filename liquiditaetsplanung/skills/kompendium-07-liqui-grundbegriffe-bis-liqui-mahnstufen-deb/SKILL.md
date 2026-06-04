@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-liqui-grundbegriffe-bis-liqui-mahnstufen-deb
-description: "liquiditaetsplanung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (liqui-grundbegriffe-cashflow, liqui-kreditlinien-pruefen, liqui-mahnstufen-debitoren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "liquiditaetsplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Liqui Grundbegriffe Cashflow, Liqui Kreditlinien Pruefen, Liqui Mahnstufen Debitoren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - liquiditaetsplanung
+# Arbeitsbereich - Liqui Grundbegriffe Cashflow, Liqui Kreditlinien Pruefen, Liqui Mahnstufen Debitoren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `liqui-grundbegriffe-cashflow` | Liquiditaetsplanung Grundbegriffe: Cashflow vs. Gewinn, indirekte vs. direkte Methode, Liquiditaet 1./2./3. Grades, Working Capital. Abgrenzung zur GuV-Planung. Empfehlung: direkte Methode fuer 13-Wochen-Forecast, indirekte fuer Jahresplanung. |
 | `liqui-kreditlinien-pruefen` | Kreditlinien pruefen: Kontokorrent, Investitionskredit, Avalkredit, Factoring-Linie, Lieferantenkredit. Ausnutzungsgrade, Tilgungsplaene, Sicherheiten, Covenants. Pruefraster fuer Bankgespraech. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `liqui-grundbegriffe-cashflow`
 
-**Frühere Beschreibung:** Liquiditaetsplanung Grundbegriffe: Cashflow vs. Gewinn, indirekte vs. direkte Methode, Liquiditaet 1./2./3. Grades, Working Capital. Abgrenzung zur GuV-Planung. Empfehlung: direkte Methode fuer 13-Wochen-Forecast, indirekte fuer Jahresplanung.
+**Fokus:** Liquiditaetsplanung Grundbegriffe: Cashflow vs. Gewinn, indirekte vs. direkte Methode, Liquiditaet 1./2./3. Grades, Working Capital. Abgrenzung zur GuV-Planung. Empfehlung: direkte Methode fuer 13-Wochen-Forecast, indirekte fuer Jahresplanung.
 
 # Liquiditaetsplanung: Grundbegriffe
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen 
 
 ## 2. `liqui-kreditlinien-pruefen`
 
-**Frühere Beschreibung:** Kreditlinien pruefen: Kontokorrent, Investitionskredit, Avalkredit, Factoring-Linie, Lieferantenkredit. Ausnutzungsgrade, Tilgungsplaene, Sicherheiten, Covenants. Pruefraster fuer Bankgespraech.
+**Fokus:** Kreditlinien pruefen: Kontokorrent, Investitionskredit, Avalkredit, Factoring-Linie, Lieferantenkredit. Ausnutzungsgrade, Tilgungsplaene, Sicherheiten, Covenants. Pruefraster fuer Bankgespraech.
 
 # Liqui: Kreditlinien
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `liquiditaetsplanung`. Er ergaenzt die uebrigen 
 
 ## 3. `liqui-mahnstufen-debitoren`
 
-**Frühere Beschreibung:** Debitorenseite optimieren: DSO-Kennzahl, Mahnstufen, Skontostrategie, Factoring-Optionen, Forderungsausfallversicherung. Empfehlung: 3-Wochen-Forecast getrennt nach Kategorie 'sicher / wahrscheinlich / fraglich'.
+**Fokus:** Debitorenseite optimieren: DSO-Kennzahl, Mahnstufen, Skontostrategie, Factoring-Optionen, Forderungsausfallversicherung. Empfehlung: 3-Wochen-Forecast getrennt nach Kategorie 'sicher / wahrscheinlich / fraglich'.
 
 # Liqui: Debitorenseite
 

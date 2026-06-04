@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-inso-gesellschafterd-bis-inso-ki-anfechtungsa
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (inso-gesellschafterdarlehen-135, inso-grundtatbestand-129-glaeubigerbenachteiligung, inso-inkongruente-deckung-131, inso-ki-anfechtungsansprueche-schuldnerakten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Gesellschafterdarlehen 135, Inso Grundtatbestand 129 Glaeubigerbenachteiligung, Inso Inkongruente Deckung 131, Inso Ki Anfechtungsansprueche Schuldnerakten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Inso Gesellschafterdarlehen 135 bis Inso Ki Anfechtungsansprueche Schuldnerakten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-gesellschafterdarlehen-135` | Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung. |
 | `inso-grundtatbestand-129-glaeubigerbenachteiligung` | Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Einstieg für §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeröffnung). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-gesellschafterdarlehen-135`
 
-**Frühere Beschreibung:** Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung.
+**Fokus:** Gesellschafterdarlehen und gleichgestellte Forderungen nach § 135 InsO prüfen: Sicherheiten zehn Jahre, Befriedigung ein Jahr, Drittdarlehen mit Gesellschaftersicherheit, Gebrauchsüberlassung, Sanierungsprivileg und Kleinbeteiligtenausnahme. Output: Anspruchsmatrix mit Rollenprüfung, Fristen, Rückgewähr und Verteidigung.
 
 # Gesellschafterdarlehen — § 135 InsO
 
@@ -111,7 +111,7 @@ Hinweis: Keine Rechtsberatung. § 135 InsO ist besonders anfällig für Rollen- 
 
 ## 2. `inso-grundtatbestand-129-glaeubigerbenachteiligung`
 
-**Frühere Beschreibung:** Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Einstieg für §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeröffnung).
+**Fokus:** Grundvoraussetzungen der Insolvenzanfechtung nach § 129 InsO klären: Rechtshandlung, objektive Gläubigerbenachteiligung, Kausalität. Normen: § 129 InsO. Prüfraster: Rechtshandlungsbegriff, unmittelbare vs. mittelbare Benachteiligung, Kausalitätsprüfung. Output: Checkliste Grundtatbestand als Einstieg für §§ 130 ff. InsO. Abgrenzung: nicht AnfG (ohne Insolvenzeröffnung).
 
 # Grundtatbestand Insolvenzanfechtung — § 129 InsO
 
@@ -210,7 +210,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `inso-inkongruente-deckung-131`
 
-**Frühere Beschreibung:** Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter Monat; Zahlungsunfähigkeit oder Kenntnis der Gläubigerbenachteiligung. Output: Normmatrix mit Abgrenzung zu § 130, § 133 und § 142.
+**Fokus:** Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die der Gläubiger nicht, nicht in der Art oder nicht zu der Zeit beanspruchen konnte. Fristen letzter Monat, zweiter oder dritter Monat; Zahlungsunfähigkeit oder Kenntnis der Gläubigerbenachteiligung. Output: Normmatrix mit Abgrenzung zu § 130, § 133 und § 142.
 
 # Inkongruente Deckung — § 131 InsO
 
@@ -294,7 +294,7 @@ Hinweis: Keine Rechtsberatung. Bei § 131 InsO ist die exakte Kongruenzprüfung 
 
 ## 4. `inso-ki-anfechtungsansprueche-schuldnerakten`
 
-**Frühere Beschreibung:** KI-gestütztes Screening von Schuldnerakten auf mögliche Insolvenzanfechtungsansprüche nach §§ 129-147 InsO. Prüft Zahlungsdaten, Kontoauszüge, OPOS, Verträge, Sicherheiten, Gesellschafterdarlehen und Kommunikation; erzeugt Kandidatenmatrix mit Belegen, Unsicherheiten und Human-Review-Grenzen. Schwerpunkt: § 133-Wertungen, Dreiecksverhältnisse, Bargeschäft und § 135.
+**Fokus:** KI-gestütztes Screening von Schuldnerakten auf mögliche Insolvenzanfechtungsansprüche nach §§ 129-147 InsO. Prüft Zahlungsdaten, Kontoauszüge, OPOS, Verträge, Sicherheiten, Gesellschafterdarlehen und Kommunikation; erzeugt Kandidatenmatrix mit Belegen, Unsicherheiten und Human-Review-Grenzen. Schwerpunkt: § 133-Wertungen, Dreiecksverhältnisse, Bargeschäft und § 135.
 
 # KI-Screening Schuldnerakten — mögliche Anfechtungsansprüche
 

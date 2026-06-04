@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-multiple-choice-und-bis-online-pruefung-iden
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (multiple-choice-und-antwortwahl, nachteilsausgleich-behinderung, nachteilsausgleich-hochschule, online-pruefung-identitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Multiple Choice Und Antwortwahl, Nachteilsausgleich Behinderung, Nachteilsausgleich Hochschule, Online Pruefung Identitaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - pruefungsrecht-hochschule
+# Arbeitsbereich - Multiple Choice Und Antwortwahl bis Online Pruefung Identitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `multiple-choice-und-antwortwahl` | Prüft Multiple-Choice- und Antwort-Wahl-Verfahren. |
 | `nachteilsausgleich-behinderung` | Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `multiple-choice-und-antwortwahl`
 
-**Frühere Beschreibung:** Prüft Multiple-Choice- und Antwort-Wahl-Verfahren.
+**Fokus:** Prüft Multiple-Choice- und Antwort-Wahl-Verfahren.
 
 # Multiple Choice Und Antwortwahl
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: MC-Review. Am Ende immer drei Zeilen: **Frist**, **fehlende Q
 
 ## 2. `nachteilsausgleich-behinderung`
 
-**Frühere Beschreibung:** Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck.
+**Fokus:** Prüft Nachteilsausgleich, Behinderung, chronische Krankheit, Datenschutz und Prüfungszweck.
 
 # Nachteilsausgleich Behinderung
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `nachteilsausgleich-hochschule`
 
-**Frühere Beschreibung:** Prüft Nachteilsausgleich an Hochschulen.
+**Fokus:** Prüft Nachteilsausgleich an Hochschulen.
 
 # Nachteilsausgleich Hochschule
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Nachteilsausgleichsantrag. Am Ende immer drei Zeilen: **Frist
 
 ## 4. `online-pruefung-identitaet`
 
-**Frühere Beschreibung:** Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage.
+**Fokus:** Prüft Online-Prüfung, Identitätskontrolle, Proctoring, Datenschutz und Satzungsgrundlage.
 
 # Online-Prüfung und Identität
 

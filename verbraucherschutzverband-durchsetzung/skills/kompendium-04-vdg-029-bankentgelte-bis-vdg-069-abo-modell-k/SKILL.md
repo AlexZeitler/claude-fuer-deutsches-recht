@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-vdg-029-bankentgelte-bis-vdg-069-abo-modell-k
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (vdg-029-bankentgelte-kommunikation-steuern, vdg-049-energiepreiserhoehung-kommunikation-st, vdg-059-plattform-sperre-kommunikation-steuern, vdg-069-abo-modell-kommunikation-steuern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 029 Bankentgelte Kommunikation Steuern, Vdg 049 Energiepreiserhoehung Kommunikation St, Vdg 059 Plattform Sperre Kommunikation Steuern, Vdg 069 Abo Modell Kommunikation Steuern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 029 Bankentgelte Kommunikation Steuern bis Vdg 069 Abo Modell Kommunikation Steuern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-029-bankentgelte-kommunikation-steuern` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Kommunikation steuern. Kommunikation steuern für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-049-energiepreiserhoehung-kommunikation-st` | Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Kommunikation steuern. Kommunikation steuern für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-029-bankentgelte-kommunikation-steuern`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Kommunikation steuern. Kommunikation steuern für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Kommunikation steuern. Kommunikation steuern für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Kommunikation Steuern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-049-energiepreiserhoehung-kommunikation-st`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Kommunikation steuern. Kommunikation steuern für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Energiepreiserhöhung: Kommunikation steuern. Kommunikation steuern für Energiepreiserhöhung im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Energiepreiserhoehung Kommunikation St
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-059-plattform-sperre-kommunikation-steuern`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Kommunikation steuern. Kommunikation steuern für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Kommunikation steuern. Kommunikation steuern für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Kommunikation Steuern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-069-abo-modell-kommunikation-steuern`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Kommunikation steuern. Kommunikation steuern für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Kommunikation steuern. Kommunikation steuern für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Kommunikation Steuern
 

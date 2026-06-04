@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-zugang-neu-008-kuend-bis-bag-freistellungskla
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga, aufhebungsvertrag, aufhebungsvertrag-sperrzeit-prognose, bag-freistellungsklausel-unwirksam-5azr10825) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga, Aufhebungsvertrag, Aufhebungsvertrag Sperrzeit Prognose, Bag Freistellungsklausel Unwirksam 5azr10825; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - arbeitsrecht
+# Arbeitsbereich - Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga bis Bag Freistellungsklausel Unwirksam 5azr10825
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga` | Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `aufhebungsvertrag` | Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zugang-neu-008-kuendigungsschutzklage-frist-nach-streitigem-zuga`
 
-**Frühere Beschreibung:** Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Kündigungsschutzklage Frist nach streitigem Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 008 Kuendigungsschutzklage Frist Nach Streitigem Zuga
 
@@ -88,7 +88,7 @@ Skill fuer Kuendigungsschutzklage § 4 KSchG bei streitigem Zugangsmoment.
 
 ## 2. `aufhebungsvertrag`
 
-**Frühere Beschreibung:** Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte.
+**Fokus:** Begleitet Entwurf, Prüfung und Verhandlung eines Aufhebungsvertrags. Lädt, wenn ein Arbeitsverhältnis einvernehmlich beendet werden soll – mit Fokus auf Schriftform (§ 623 BGB), Sperrzeit nach § 159 SGB III, Abfindung, Fünftelregelung (§ 34 EStG), Ausgleichsklausel und Widerrufsrechte.
 
 # Aufhebungsvertrag
 
@@ -266,7 +266,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 3. `aufhebungsvertrag-sperrzeit-prognose`
 
-**Frühere Beschreibung:** Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu aufhebungsvertrag sperrzeit prognose. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Aufhebungsvertrag — Sperrzeit-Prognose
 
@@ -618,7 +618,7 @@ und die Empfehlung verstanden habe."
 
 ## 4. `bag-freistellungsklausel-unwirksam-5azr10825`
 
-**Frühere Beschreibung:** Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu bag freistellungsklausel unwirksam 5azr10825. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Rechtsprechung live prüfen
 

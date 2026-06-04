@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-ueberstunden-und-kom-bis-vertraulichkeit-nda
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (ueberstunden-und-kompensation, urlaubskalender-und-burlg, variable-verguetung-bonus-commission, verhaltensbedingte-kuendigung, vertraulichkeit-nda-im-arbeitsverhaeltnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ueberstunden Und Kompensation, Urlaubskalender Und Burlg, Variable Verguetung Bonus Commission, Verhaltensbedingte Kuendigung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Ueberstunden Und Kompensation bis Vertraulichkeit Nda Im Arbeitsverhaeltnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ueberstunden-und-kompensation` | Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `urlaubskalender-und-burlg` | Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ueberstunden-und-kompensation`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Überstunden: Anordnung, Duldung, Erfassung, Vergütung, Freizeitausgleich und Führungskräftekommunikation. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Ueberstunden Und Kompensation
 
@@ -88,7 +88,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `urlaubskalender-und-burlg`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Urlaubsverwaltung nach BUrlG: Antrag, Genehmigung, Resturlaub, Verfallhinweis, Übertragung und Teamkonflikte. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Urlaubskalender Und BUrlG
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `variable-verguetung-bonus-commission`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Bonus, Provision und variable Vergütung: Anspruchsgrundlage, Zielvereinbarung, Stichtag, Widerruf, Transparenz und Payroll-Übergabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Bonus, Provision und variable Vergütung: Anspruchsgrundlage, Zielvereinbarung, Stichtag, Widerruf, Transparenz und Payroll-Übergabe. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Variable Verguetung Bonus Commission
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `verhaltensbedingte-kuendigung`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Verhaltensbedingte Kündigung: Abmahnung, Wiederholung, Interessenabwägung, Betriebsrat und Prozessrisiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Verhaltensbedingte Kündigung: Abmahnung, Wiederholung, Interessenabwägung, Betriebsrat und Prozessrisiko. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Verhaltensbedingte Kuendigung
 
@@ -262,7 +262,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `vertraulichkeit-nda-im-arbeitsverhaeltnis`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Verschwiegenheit im Arbeitsverhältnis: Geschäftsgeheimnisse konkretisieren, Catch-all vermeiden, HinSchG-Carve-out einbauen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Verschwiegenheit im Arbeitsverhältnis: Geschäftsgeheimnisse konkretisieren, Catch-all vermeiden, HinSchG-Carve-out einbauen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Vertraulichkeit Nda Im Arbeitsverhaeltnis
 

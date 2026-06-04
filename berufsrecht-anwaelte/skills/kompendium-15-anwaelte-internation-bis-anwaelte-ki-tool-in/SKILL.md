@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-anwaelte-internation-bis-anwaelte-ki-tool-in
-description: "berufsrecht-anwaelte: Konsolidiertes Skill-Kompendium 15; bündelt 9 frühere Spezialskills (anwaelte-internationales-mandat-und-geheimnisschutz-organisatio, anwaelte-internationales-mandat-und-geheimnisschutz-rechtsprech, anwaelte-kanzleinachfolge-und-aktenarchiv-kammerantwort-und-ver, anwaelte-kanzleinachfolge-und-aktenarchiv-organisationspflicht, anwaelte-kanzleisitz-und-zweigstelle-kammerantwort-und-verfahre und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-anwaelte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaelte Internationales Mandat Und Geheimnisschutz Organisatio, Anwaelte Internationales Mandat Und Geheimnisschutz Rechtsprech, Anwaelte Kanzleinachfolge Und Aktenarchiv Kammerantwort Und Ver, Anwaelte Kanzleinachfolge Und Aktenarchiv Organisationspflicht und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qual"
 ---
 
-# Kompendium 15 - berufsrecht-anwaelte
+# Arbeitsbereich - Anwaelte Internationales Mandat Und Geheimnisschutz Organisatio bis Anwaelte Ki Tool In Der Kanzlei Organisationspflicht Und Praeve
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaelte-internationales-mandat-und-geheimnisschutz-organisatio` | Anwälte: internationales mandat und geheimnisschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `anwaelte-internationales-mandat-und-geheimnisschutz-rechtsprech` | Anwälte: internationales mandat und geheimnisschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaelte-internationales-mandat-und-geheimnisschutz-organisatio`
 
-**Frühere Beschreibung:** Anwälte: internationales mandat und geheimnisschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: internationales mandat und geheimnisschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: internationales mandat und geheimnisschutz - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `anwaelte-internationales-mandat-und-geheimnisschutz-rechtsprech`
 
-**Frühere Beschreibung:** Anwälte: internationales mandat und geheimnisschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: internationales mandat und geheimnisschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: internationales mandat und geheimnisschutz - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `anwaelte-kanzleinachfolge-und-aktenarchiv-kammerantwort-und-ver`
 
-**Frühere Beschreibung:** Anwälte: kanzleinachfolge und aktenarchiv - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: kanzleinachfolge und aktenarchiv - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -163,7 +163,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `anwaelte-kanzleinachfolge-und-aktenarchiv-organisationspflicht`
 
-**Frühere Beschreibung:** Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: kanzleinachfolge und aktenarchiv - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -206,7 +206,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `anwaelte-kanzleisitz-und-zweigstelle-kammerantwort-und-verfahre`
 
-**Frühere Beschreibung:** Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: kanzleisitz und zweigstelle - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -249,7 +249,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `anwaelte-kanzleisitz-und-zweigstelle-organisationspflicht-und-p`
 
-**Frühere Beschreibung:** Anwälte: kanzleisitz und zweigstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: kanzleisitz und zweigstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: kanzleisitz und zweigstelle - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -292,7 +292,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `anwaelte-ki-dienstleister-43e-brao-praxis`
 
-**Frühere Beschreibung:** Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen.
+**Fokus:** Anwaltlicher KI-Dienstleister nach § 43e BRAO: Consumer-Tool, Enterprise-Tool, Kanzleiinfrastruktur und Einzelmandats-Tool trennen; Erforderlichkeit, Verschwiegenheit, § 203 StGB, No-Training, Drittstaat, Mandanteninformation und Kanzleivermerk praxisnah prüfen.
 
 # KI-Dienstleister nach § 43e BRAO in der Praxis
 
@@ -347,7 +347,7 @@ Schalte bei Vertragsdetails das Plugin `berufsrecht-ki-vertragspruefung` zu.
 
 ## 8. `anwaelte-ki-output-endkontrolle-und-signatur`
 
-**Frühere Beschreibung:** Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention.
+**Fokus:** Anwaltliche Endkontrolle von KI-Outputs prüfen: § 43 BRAO, § 43a BRAO, Mandatsvertrag, Halluzinationen, Quellenprüfung, Schriftsatzsignatur, keine ungeprüfte Übernahme, Mandantenwunsch nach Rohoutput, Qualitätsvermerk und Haftungsprävention.
 
 # KI-Output, anwaltliche Endkontrolle und Signatur
 
@@ -400,7 +400,7 @@ Erstelle einen **Endkontrollvermerk** mit Ampel:
 
 ## 9. `anwaelte-ki-tool-in-der-kanzlei-organisationspflicht-und-praeve`
 
-**Frühere Beschreibung:** Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Anwälte: ki tool in der kanzlei - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 

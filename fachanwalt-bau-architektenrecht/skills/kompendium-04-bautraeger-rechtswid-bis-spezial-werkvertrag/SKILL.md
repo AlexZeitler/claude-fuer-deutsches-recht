@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bautraeger-rechtswid-bis-spezial-werkvertrag
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (bautraeger-rechtswidrige-anpassungsklauseln, spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine, spezial-vertragstypen-red-team-und-qualitaetskontrolle, spezial-werkvertrag-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Rechtswidrige Anpassungsklauseln, Bauvertrag Schriftsatz Brief Und Memo Bausteine, Vertragstypen Red Team Und Qualitaetskontrolle, Werkvertrag Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Rechtswidrige Anpassungsklauseln bis Werkvertrag Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-rechtswidrige-anpassungsklauseln` | Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster. |
 | `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine` | Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-rechtswidrige-anpassungsklauseln`
 
-**Frühere Beschreibung:** Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster.
+**Fokus:** Rechtswidrige Anpassungsklauseln im Bautraegervertrag. Skill listet typische unwirksame Klauseln zur einseitigen Preisanpassung Bauzeitveraenderung Standardaenderung sowie BGH-Rechtsprechung dazu. Liefert Pruefraster.
 
 # Bautraeger Rechtswidrige Anpassungsklauseln
 
@@ -69,7 +69,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `spezial-bauvertrag-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bauvertrag: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vertragstypen-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertragstypen: Red-Team und Qualitätskontrolle im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vertragstypen: Red-Team und Qualitätskontrolle
 
@@ -151,7 +151,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-werkvertrag-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Werkvertrag: Dokumentenmatrix, Lückenliste und Nachforderung
 

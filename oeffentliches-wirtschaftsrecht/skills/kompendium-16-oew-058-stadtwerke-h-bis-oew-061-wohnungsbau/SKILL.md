@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-oew-058-stadtwerke-h-bis-oew-061-wohnungsbau
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (oew-058-stadtwerke-haushalt-anbinden, oew-059-stadtwerke-kommunikation-schreiben, oew-060-stadtwerke-red-flags-listen, oew-061-wohnungsbau-organisationsform-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 058 Stadtwerke Haushalt Anbinden, Oew 059 Stadtwerke Kommunikation Schreiben, Oew 060 Stadtwerke Red Flags Listen, Oew 061 Wohnungsbau Organisationsform Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 058 Stadtwerke Haushalt Anbinden bis Oew 061 Wohnungsbau Organisationsform Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-058-stadtwerke-haushalt-anbinden` | Öffentliches Wirtschaftsrecht: Stadtwerke: Haushalt anbinden. Haushalt anbinden für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-059-stadtwerke-kommunikation-schreiben` | Öffentliches Wirtschaftsrecht: Stadtwerke: Kommunikation schreiben. Kommunikation schreiben für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-058-stadtwerke-haushalt-anbinden`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Haushalt anbinden. Haushalt anbinden für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Haushalt anbinden. Haushalt anbinden für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Haushalt Anbinden
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-059-stadtwerke-kommunikation-schreiben`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Kommunikation schreiben. Kommunikation schreiben für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Kommunikation schreiben. Kommunikation schreiben für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Kommunikation Schreiben
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-060-stadtwerke-red-flags-listen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Stadtwerke: Red Flags listen. Red Flags listen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Stadtwerke: Red Flags listen. Red Flags listen für Stadtwerke im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Stadtwerke Red Flags Listen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-061-wohnungsbau-organisationsform-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform prüfen. Organisationsform prüfen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Wohnungsbau: Organisationsform prüfen. Organisationsform prüfen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnungsbau Organisationsform Pruefen
 

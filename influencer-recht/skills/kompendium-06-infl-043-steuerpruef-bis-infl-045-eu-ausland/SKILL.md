@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-infl-043-steuerpruef-bis-infl-045-eu-ausland
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (infl-043-steuerpruefung-creator-unterlagenpaket, infl-044-buchhaltung-datev-creator-kontenplan, infl-045-eu-ausland-brand-reverse-charge-und-oss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und Oss; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - influencer-recht
+# Arbeitsbereich - Infl 043 Steuerpruefung Creator Unterlagenpaket, Infl 044 Buchhaltung Datev Creator Kontenplan, Infl 045 Eu Ausland Brand Reverse Charge Und
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-043-steuerpruefung-creator-unterlagenpaket` | Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie. |
 | `infl-044-buchhaltung-datev-creator-kontenplan` | Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-043-steuerpruefung-creator-unterlagenpaket`
 
-**Frühere Beschreibung:** Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie.
+**Fokus:** Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator, Betriebsprüfungs-Vorbereitung, häufige Prüfungsfelder und Reaktionsstrategie.
 
 # Influencer-Recht: Steuerprüfung – Unterlagenpaket für Creator
 
@@ -97,7 +97,7 @@ Betriebsprüfungen bei Creator richten sich auf typische Schwachstellen:
 
 ## 2. `infl-044-buchhaltung-datev-creator-kontenplan`
 
-**Frühere Beschreibung:** Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle.
+**Fokus:** Influencer-Recht: Buchhaltung und DATEV für Creator – Kontenplan, EÜR-Struktur, digitale Belege und Steuerberaterschnittstelle.
 
 # Influencer-Recht: Buchhaltung, DATEV und Creator-Kontenplan
 
@@ -171,7 +171,7 @@ Korrekte Buchführung ist die Grundlage für Steuern und Betriebsprüfungen:
 
 ## 3. `infl-045-eu-ausland-brand-reverse-charge-und-oss`
 
-**Frühere Beschreibung:** Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration.
+**Fokus:** Influencer-Recht: Kooperationen mit EU-Auslands-Brands – Reverse Charge, OSS-Verfahren, Rechnungsstellung und Steuerdeklaration.
 
 # Influencer-Recht: EU-Ausland Brand – Reverse Charge und OSS
 

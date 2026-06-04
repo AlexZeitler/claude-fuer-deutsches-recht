@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-semesterticket-und-m-bis-studiengang-einstell
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (semesterticket-und-mobilitaetsbeitrag, senat-fakultaetsrat-gremien, senatswahl-statusgruppen, studiengang-einstellung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Semesterticket Und Mobilitaetsbeitrag, Senat Fakultaetsrat Gremien, Senatswahl Statusgruppen, Studiengang Einstellung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - hochschulrecht-laender
+# Arbeitsbereich - Semesterticket Und Mobilitaetsbeitrag bis Studiengang Einstellung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `semesterticket-und-mobilitaetsbeitrag` | Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell. |
 | `senat-fakultaetsrat-gremien` | Prüft Senat, Fakultätsrat und akademische Gremien. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `semesterticket-und-mobilitaetsbeitrag`
 
-**Frühere Beschreibung:** Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell.
+**Fokus:** Prüft Semesterticket, Opt-out, Sozialbeitrag und Vertragsmodell.
 
 # Semesterticket und Mobilitätsbeitrag
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `senat-fakultaetsrat-gremien`
 
-**Frühere Beschreibung:** Prüft Senat, Fakultätsrat und akademische Gremien.
+**Fokus:** Prüft Senat, Fakultätsrat und akademische Gremien.
 
 # Senat Fakultaetsrat Gremien
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Gremiencheck. Am Ende immer drei Zeilen: **Frist**, **fehlend
 
 ## 3. `senatswahl-statusgruppen`
 
-**Frühere Beschreibung:** Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung.
+**Fokus:** Prüft Senatswahl, Gruppenparität, Wahlordnung, Anfechtung und Mandatsverteilung.
 
 # Senatswahl und Statusgruppen
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 4. `studiengang-einstellung`
 
-**Frühere Beschreibung:** Prüft Einstellung, Änderung und Akkreditierung von Studiengängen.
+**Fokus:** Prüft Einstellung, Änderung und Akkreditierung von Studiengängen.
 
 # Studiengang Einstellung
 

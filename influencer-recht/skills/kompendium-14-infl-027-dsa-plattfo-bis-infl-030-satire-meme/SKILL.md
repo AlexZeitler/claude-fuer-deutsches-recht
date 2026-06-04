@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-infl-027-dsa-plattfo-bis-infl-030-satire-meme
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (infl-027-dsa-plattformbeschwerde-und-account-sperre, infl-029-persoenlichkeitsrechtsverletzung-durch-reaction-video, infl-030-satire-meme-und-zitatrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 027 Dsa Plattformbeschwerde Und Account Sperre, Infl 029 Persoenlichkeitsrechtsverletzung Durch Reaction Video, Infl 030 Satire Meme Und Zitatrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - influencer-recht
+# Arbeitsbereich - Infl 027 Dsa Plattformbeschwerde Und Account Sperre, Infl 029 Persoenlichkeitsrechtsverletzung Durch Reaction Video, Infl 030 Satire Meme Und
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-027-dsa-plattformbeschwerde-und-account-sperre` | Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act. |
 | `infl-029-persoenlichkeitsrechtsverletzung-durch-reaction-video` | Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-027-dsa-plattformbeschwerde-und-account-sperre`
 
-**Frühere Beschreibung:** Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act.
+**Fokus:** Influencer-Recht: DSA – Plattformbeschwerde, Account-Sperre, Wiederherstellungsanspruch und Rechtsdurchsetzung nach Digital Services Act.
 
 # Influencer-Recht: DSA – Plattformbeschwerde und Account-Sperre
 
@@ -91,7 +91,7 @@ Der Digital Services Act (DSA) stärkt Creator-Rechte gegenüber Plattformen erh
 
 ## 2. `infl-029-persoenlichkeitsrechtsverletzung-durch-reaction-video`
 
-**Frühere Beschreibung:** Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung.
+**Fokus:** Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Videos – allgemeines Persönlichkeitsrecht, KUG, Zitatrecht, UrhG und Haftung.
 
 # Influencer-Recht: Persönlichkeitsrechtsverletzung durch Reaction-Video
 
@@ -159,7 +159,7 @@ Reaction-Videos erzeugen mehrfache Rechtsfragen:
 
 ## 3. `infl-030-satire-meme-und-zitatrecht`
 
-**Frühere Beschreibung:** Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken.
+**Fokus:** Influencer-Recht: Satire, Memes und Zitatrecht – Kunstfreiheit, Grenzen, Markenparodie, UrhG und strafrechtliche Risiken.
 
 # Influencer-Recht: Satire, Memes und Zitatrecht
 

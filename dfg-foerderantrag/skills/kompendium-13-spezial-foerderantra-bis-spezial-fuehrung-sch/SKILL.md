@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-foerderantra-bis-spezial-fuehrung-sch
-description: "dfg-foerderantrag: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-foerderantragssteller-tatbestand-beweis-und-belege, spezial-formalia-red-team-und-qualitaetskontrolle, spezial-fuehrung-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dfg-foerderantrag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Foerderantragssteller Tatbestand Beweis Und Belege, Formalia Red Team Und Qualitaetskontrolle, Fuehrung Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - dfg-foerderantrag
+# Arbeitsbereich - Foerderantragssteller Tatbestand Beweis Und Belege, Formalia Red Team Und Qualitaetskontrolle, Fuehrung Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-foerderantragssteller-tatbestand-beweis-und-belege` | Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-formalia-red-team-und-qualitaetskontrolle` | Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-foerderantragssteller-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Foerderantragssteller: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -108,7 +108,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-formalia-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Formalia: Red-Team und Qualitätskontrolle im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Formalia: Red-Team und Qualitätskontrolle
 
@@ -149,7 +149,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fuehrung-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin dfg foerderantrag; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fuehrung: Schriftsatz-, Brief- und Memo-Bausteine
 

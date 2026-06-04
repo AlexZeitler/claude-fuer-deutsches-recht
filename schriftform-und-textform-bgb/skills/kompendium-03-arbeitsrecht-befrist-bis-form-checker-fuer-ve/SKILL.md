@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-arbeitsrecht-befrist-bis-form-checker-fuer-ve
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb, spezial-schriftform-fristen-form-und-zustaendigkeit, form-checker-fuer-vertrag-oder-willenserklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Fuer Vertrag Oder Willenserklaerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - schriftform-und-textform-bgb
+# Arbeitsbereich - Arbeitsrecht Befristung Und Aufhebung Paragraph 14 Tzbfg 623 Bgb, Schriftform Fristen Form Und Zustaendigkeit, Form Checker Fuer Vertrag Oder
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb` | Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie. |
 | `spezial-schriftform-fristen-form-und-zustaendigkeit` | Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitsrecht-befristung-und-aufhebung-paragraph-14-tzbfg-623-bgb`
 
-**Frühere Beschreibung:** Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie.
+**Fokus:** Arbeitgeber oder Arbeitnehmer fragt, ob Befristung, Kündigung oder Aufhebungsvertrag wegen Formverstoß unwirksam ist. Prüft § 14 Abs. 4 TzBfG, § 623 BGB, § 126 BGB, qES bei Befristung, direkte elektronische Form, § 46h ArbGG, § 174 BGB und Klage-/Widerspruchsstrategie.
 
 # Arbeitsrecht — Befristung und Aufhebung: §§ 14 TzBfG, 623 BGB
 
@@ -182,7 +182,7 @@ Ein qualifiziertes Arbeitszeugnis wird Ihnen rechtzeitig zugestellt.
 
 ## 2. `spezial-schriftform-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin schriftform und textform bgb; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schriftform: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -223,7 +223,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `form-checker-fuer-vertrag-oder-willenserklaerung`
 
-**Frühere Beschreibung:** Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt.
+**Fokus:** Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt.
 
 # Form-Checker — Vertrag oder Willenserklärung
 

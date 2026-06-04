@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-rentencheck-ein-jahr-bis-steuer-krankenversic
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (rentencheck-ein-jahr-vorher, steuer-krankenversicherung-pflegeversicherung-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - rentenpruefer
+# Arbeitsbereich - Rentencheck Ein Jahr Vorher, Steuer Krankenversicherung Pflegeversicherung Rente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rentencheck-ein-jahr-vorher` | Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung. |
 | `steuer-krankenversicherung-pflegeversicherung-rente` | Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rentencheck-ein-jahr-vorher`
 
-**Frühere Beschreibung:** Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung.
+**Fokus:** Rentencheck ein Jahr vorher: Antragstiming, letzte Korrekturen, Arbeitgeber, Krankenkasse, Steuer, Ausland und Auszahlung.
 
 # rentencheck-ein-jahr-vorher
 
@@ -67,7 +67,7 @@ Zwölf-Monats-Checkliste.
 
 ## 2. `steuer-krankenversicherung-pflegeversicherung-rente`
 
-**Frühere Beschreibung:** Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente.
+**Fokus:** Steuer, Kranken- und Pflegeversicherung der Rentner: KVdR, freiwillige Versicherung, PKV, Beitragszuschuss, Ausland und Nettorente.
 
 # steuer-krankenversicherung-pflegeversicherung-rente
 

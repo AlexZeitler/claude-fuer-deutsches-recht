@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-bho-135-zinsausgaben-bis-bho-145-personalhaus
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 14; bündelt 11 frühere Spezialskills (bho-135-zinsausgaben-vollzug-tracken, bho-136-personalhaushalt-titel-pruefen, bho-137-personalhaushalt-umschichtung-simulier, bho-138-personalhaushalt-sperre-bewerten, bho-139-personalhaushalt-deckung-finden und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 135 Zinsausgaben Vollzug Tracken, Bho 136 Personalhaushalt Titel Pruefen, Bho 137 Personalhaushalt Umschichtung Simulier, Bho 138 Personalhaushalt Sperre Bewerten und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 135 Zinsausgaben Vollzug Tracken bis Bho 145 Personalhaushalt Vollzug Tracken
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-135-zinsausgaben-vollzug-tracken` | Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Vollzug tracken. Vollzug tracken für Zinsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-136-personalhaushalt-titel-pruefen` | Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Titel prüfen. Titel prüfen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-135-zinsausgaben-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Vollzug tracken. Vollzug tracken für Zinsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zinsausgaben: Vollzug tracken. Vollzug tracken für Zinsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zinsausgaben Vollzug Tracken
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-136-personalhaushalt-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Titel prüfen. Titel prüfen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Titel prüfen. Titel prüfen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Titel Pruefen
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-137-personalhaushalt-umschichtung-simulier`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Umschichtung simulieren. Umschichtung simulieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Umschichtung simulieren. Umschichtung simulieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Umschichtung Simulier
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-138-personalhaushalt-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Sperre bewerten. Sperre bewerten für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Sperre bewerten. Sperre bewerten für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Sperre Bewerten
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-139-personalhaushalt-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Deckung finden. Deckung finden für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Deckung finden. Deckung finden für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Deckung Finden
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-140-personalhaushalt-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Szenario rechnen. Szenario rechnen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Szenario rechnen. Szenario rechnen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Szenario Rechnen
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-141-personalhaushalt-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Dashboard bauen. Dashboard bauen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Dashboard bauen. Dashboard bauen für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Dashboard Bauen
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-142-personalhaushalt-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Risiko markieren. Risiko markieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Risiko markieren. Risiko markieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Risiko Markieren
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-143-personalhaushalt-brh-frage-formulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: BRH-Frage formulieren. BRH-Frage formulieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: BRH-Frage formulieren. BRH-Frage formulieren für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Brh Frage Formulieren
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-144-personalhaushalt-parlamentsfrage-vorbe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Parlamentsfrage Vorbe
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-145-personalhaushalt-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Vollzug tracken. Vollzug tracken für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Personalhaushalt: Vollzug tracken. Vollzug tracken für Personalhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Personalhaushalt Vollzug Tracken
 

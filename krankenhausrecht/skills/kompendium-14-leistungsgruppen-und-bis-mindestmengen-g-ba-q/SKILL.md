@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-leistungsgruppen-und-bis-mindestmengen-g-ba-q
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (leistungsgruppen-und-qualitaetskriterien-reformlogik, medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv, mindestmengen-g-ba-qualitaetssicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssicherung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - krankenhausrecht
+# Arbeitsbereich - Leistungsgruppen Und Qualitaetskriterien Reformlogik, Medizinprodukterecht Betreiberpflichten Mdr Mpbetreibv, Mindestmengen G Ba Qualitaetssi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `leistungsgruppen-und-qualitaetskriterien-reformlogik` | Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten. |
 | `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv` | Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `leistungsgruppen-und-qualitaetskriterien-reformlogik`
 
-**Frühere Beschreibung:** Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten.
+**Fokus:** Leistungsgruppen und Qualitaetskriterien nach KHVVG: prueft Strukturmerkmale, Personal- und Geraeteanforderungen, OPS-Kodierlogik, Zuweisung durch das Land und Kooperationsmoeglichkeiten.
 
 # Leistungsgruppen und Qualitaetskriterien Reformlogik
 
@@ -111,7 +111,7 @@ Leistungsgruppen (LG) sind das neue Plan-Raster der Krankenhausreform: 65 Gruppe
 
 ## 2. `medizinprodukterecht-betreiberpflichten-mdr-mpbetreibv`
 
-**Frühere Beschreibung:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Medizinprodukterecht Betreiberpflichten MDR MPBetreibV: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Medizinprodukterecht Betreiberpflichten MDR MPBetreibV
 
@@ -156,7 +156,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `mindestmengen-g-ba-qualitaetssicherung`
 
-**Frühere Beschreibung:** Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung.
+**Fokus:** Mindestmengen nach § 136b SGB V und G-BA-Mm-R: Prognoseverfahren, Ausnahmen, Erbringungsverbote, Pruefung durch Land und Klage gegen Negativfeststellung.
 
 # Mindestmengen G-BA Qualitaetssicherung
 

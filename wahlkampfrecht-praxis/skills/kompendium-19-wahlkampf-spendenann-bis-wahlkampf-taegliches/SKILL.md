@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-wahlkampf-spendenann-bis-wahlkampf-taegliches
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (wahlkampf-spendenannahme-pruefung, wahlkampf-sponsoring-parteienrecht, wahlkampf-sprachregelung-schnellkarte, wahlkampf-staatliche-neutralitaet, wahlkampf-taegliches-briefing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Spendenannahme Pruefung, Wahlkampf Sponsoring Parteienrecht, Wahlkampf Sprachregelung Schnellkarte, Wahlkampf Staatliche Neutralitaet und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Spendenannahme Pruefung bis Wahlkampf Taegliches Briefing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-spendenannahme-pruefung` | Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen. |
 | `wahlkampf-sponsoring-parteienrecht` | Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-spendenannahme-pruefung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Parteispenden und Sachleistungen vor Annahme pruefen.
 
 # Spendenannahme Pruefung
 
@@ -91,7 +91,7 @@ Erzeuge: **Spendenpruefvermerk**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 2. `wahlkampf-sponsoring-parteienrecht`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Sponsoring, Anzeigen, Messestaende und geldwerte Vorteile pruefen.
 
 # Sponsoring Parteienrecht
 
@@ -144,7 +144,7 @@ Erzeuge: **Sponsoring-Check**. Wenn Informationen fehlen, stelle höchstens acht
 
 ## 3. `wahlkampf-sprachregelung-schnellkarte`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Sprachregelungen fuer Kandidierende, Presse und Ehrenamt erstellen.
+**Fokus:** Wahlkampfrecht Praxis: Sprachregelungen fuer Kandidierende, Presse und Ehrenamt erstellen.
 
 # Sprachregelung Schnellkarte
 
@@ -197,7 +197,7 @@ Erzeuge: **Sprechzettel und Q&A**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 4. `wahlkampf-staatliche-neutralitaet`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen.
+**Fokus:** Wahlkampfrecht Praxis: staatliche Neutralität bei Schulen, Rathäusern, Amtsinhabern, Behördenkanälen und öffentlichen Einrichtungen prüfen.
 
 # Staatliche Neutralitaet
 
@@ -258,7 +258,7 @@ Erzeuge: **Neutralitätsvermerk mit Rollenmatrix und zulässigen Alternativen**.
 
 ## 5. `wahlkampf-taegliches-briefing`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: taegliches Lagebriefing fuer Spitze, Stab und Kreisverbaende erstellen.
+**Fokus:** Wahlkampfrecht Praxis: taegliches Lagebriefing fuer Spitze, Stab und Kreisverbaende erstellen.
 
 # Taegliches Briefing
 

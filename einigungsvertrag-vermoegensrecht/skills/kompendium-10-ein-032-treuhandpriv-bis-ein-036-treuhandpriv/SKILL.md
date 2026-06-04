@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-ein-032-treuhandpriv-bis-ein-036-treuhandpriv
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (ein-032-treuhandprivatisierung-akte-anfordern, ein-033-treuhandprivatisierung-chronologie-bau, ein-034-treuhandprivatisierung-berechtigte-erm, ein-036-treuhandprivatisierung-grundbuch-auswe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 032 Treuhandprivatisierung Akte Anfordern, Ein 033 Treuhandprivatisierung Chronologie Bau, Ein 034 Treuhandprivatisierung Berechtigte Erm, Ein 036 Treuhandprivatisierung Grundbuch Auswe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 032 Treuhandprivatisierung Akte Anfordern bis Ein 036 Treuhandprivatisierung Grundbuch Auswe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-032-treuhandprivatisierung-akte-anfordern` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern. Akte anfordern für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-033-treuhandprivatisierung-chronologie-bau` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Chronologie bauen. Chronologie bauen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-032-treuhandprivatisierung-akte-anfordern`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern. Akte anfordern für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Akte anfordern. Akte anfordern für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Akte Anfordern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-033-treuhandprivatisierung-chronologie-bau`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Chronologie bauen. Chronologie bauen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Chronologie bauen. Chronologie bauen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Chronologie Bau
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-034-treuhandprivatisierung-berechtigte-erm`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Berechtigte ermitteln. Berechtigte ermitteln für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Berechtigte ermitteln. Berechtigte ermitteln für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Berechtigte Erm
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-036-treuhandprivatisierung-grundbuch-auswe`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Grundbuch auswerten. Grundbuch auswerten für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Grundbuch auswerten. Grundbuch auswerten für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Grundbuch Auswe
 

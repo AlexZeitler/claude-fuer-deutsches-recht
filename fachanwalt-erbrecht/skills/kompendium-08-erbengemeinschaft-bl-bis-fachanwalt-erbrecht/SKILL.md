@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-erbengemeinschaft-bl-bis-fachanwalt-erbrecht
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (erbengemeinschaft-blockade-auseinandersetzung, erstgespraech-mandatsannahme, fachanwalt-erbrecht-erbschaftsausschlagung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbengemeinschaft Blockade Auseinandersetzung, Erstgespraech Mandatsannahme, Erbrecht Erbschaftsausschlagung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-erbrecht
+# Arbeitsbereich - Erbengemeinschaft Blockade Auseinandersetzung, Erstgespraech Mandatsannahme, Erbrecht Erbschaftsausschlagung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbengemeinschaft-blockade-auseinandersetzung` | Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.; Normanker: BGB §§ 2032 ff., 2042; ZVG; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `erstgespraech-mandatsannahme` | Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbengemeinschaft-blockade-auseinandersetzung`
 
-**Frühere Beschreibung:** Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.; Normanker: BGB §§ 2032 ff., 2042; ZVG; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.; Normanker: BGB §§ 2032 ff., 2042; ZVG; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Erbengemeinschaft: Verwaltung, Blockade, Teilungsversteigerung, Nachlasskonto, Auskunft und Auseinandersetzungsplan.
 
@@ -61,7 +61,7 @@ BGB §§ 2032 ff., 2042; ZVG. Rechtsprechung wird nur mit Gericht, Datum, Aktenz
 
 ## 2. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
+**Fokus:** Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollständig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Prüfraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills.
 
 # Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht
 
@@ -236,7 +236,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## 3. `fachanwalt-erbrecht-erbschaftsausschlagung`
 
-**Frühere Beschreibung:** Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht.
+**Fokus:** Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht.
 
 # Erbschaftsausschlagung
 

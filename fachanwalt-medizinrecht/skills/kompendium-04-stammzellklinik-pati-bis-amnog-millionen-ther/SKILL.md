@@ -1,37 +1,36 @@
 ---
 name: kompendium-04-stammzellklinik-pati-bis-amnog-millionen-ther
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 04; bündelt 6 frühere Spezialskills (stammzellklinik-patientenschaden, telemedizin-standardhaftung, fachanwalt-medizinrecht-approbations-widerspruch, medr-mvz-strukturierung-spezial, aerztewerbung-innovative-therapie und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Stammzellklinik Patientenschaden, Telemedizin Standardhaftung, Fachanwalt Medizinrecht Approbations Widerspruch, Medr Mvz Strukturierung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-medizinrecht
+# Arbeitsbereich - Stammzellklinik Patientenschaden bis Medr Mvz Strukturierung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stammzellklinik-patientenschaden` | Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `telemedizin-standardhaftung` | Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `fachanwalt-medizinrecht-approbations-widerspruch` | Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht. |
 | `medr-mvz-strukturierung-spezial` | Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster. |
-| `aerztewerbung-innovative-therapie` | Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `amnog-millionen-therapie` | AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stammzellklinik-patientenschaden`
 
-**Frühere Beschreibung:** Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Stammzellklinik und Patientenschaden: moderner Medizinrechts-Skill für Haftung nach nicht zugelassener Zellbehandlung, Beweisführung, Aufklärung und deliktische Ansprüche. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Stammzellklinik und Patientenschaden
 
@@ -92,7 +91,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `telemedizin-standardhaftung`
 
-**Frühere Beschreibung:** Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Telemedizin Standardhaftung: moderner Medizinrechts-Skill für Fernbehandlung, Grenzen ohne körperliche Untersuchung, Triage, Videoausfall und Dokumentation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Telemedizin Standardhaftung
 
@@ -153,7 +153,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `fachanwalt-medizinrecht-approbations-widerspruch`
 
-**Frühere Beschreibung:** Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht.
+**Fokus:** Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht.
+
 
 # Approbations-Widerspruch
 
@@ -406,7 +407,8 @@ Anlagen: Widerrufsbescheid, Vollmacht, Therapienachweise
 
 ## 4. `medr-mvz-strukturierung-spezial`
 
-**Frühere Beschreibung:** Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster.
+**Fokus:** Spezialfall MVZ-Strukturierung: Traegerschaft GmbH, KH, Vertragsarzt, Genossenschaft. Investorenbeteiligung, fachuebergreifend, Spezialregelung Zahnarzt-MVZ, Zulassungsausschuss. Steuerliche Implikationen. Pruefraster.
+
 
 # Medizinrecht: MVZ-Strukturierung
 
@@ -455,116 +457,3 @@ Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebri
 - Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
 - Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
 - Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 5. `aerztewerbung-innovative-therapie`
-
-**Frühere Beschreibung:** Ärztewerbung innovative Therapie: moderner Medizinrechts-Skill für Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# Ärztewerbung innovative Therapie
-
-## Fachkern: Ärztewerbung innovative Therapie
-- **Spezialgegenstand:** Ärztewerbung innovative Therapie wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** Werbung mit innovativer Methode, Heilungsversprechen, Vorher-Nachher, Studienlage und Plattformen.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** HWG, UWG, Berufsrecht, AMG/MPDG, Social Media und Quellenbeleg.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- HWG: https://www.gesetze-im-internet.de/heilmwerbg/
-
-## 6. `amnog-millionen-therapie`
-
-**Frühere Beschreibung:** AMNOG und Millionen-Therapie: moderner Medizinrechts-Skill für Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# AMNOG und Millionen-Therapie
-
-## Fachkern: AMNOG und Millionen-Therapie
-- **Spezialgegenstand:** AMNOG und Millionen-Therapie wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** Einmaltherapie mit sehr hohem Preis, Budgetwirkung, Erstattungsbetrag, Outcome-Based-Modelle und Regressangst.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** SGB V, AMNOG, G-BA/IQWiG, Nutzenbewertung, Wirtschaftlichkeitsgebot und Vertragsarztrecht.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- EU HTA Regulation implementation: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment_en
-- Joint Clinical Assessments: https://health.ec.europa.eu/health-technology-assessment/implementation-regulation-health-technology-assessment/joint-clinical-assessments_en

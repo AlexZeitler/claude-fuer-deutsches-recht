@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-dsgvo-erstpr-bis-spezial-inventar-dok
-description: "ki-governance: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-dsgvo-erstpruefung-und-mandatsziel, spezial-governance-compliance-dokumentation-und-akte, spezial-inventar-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - ki-governance
+# Arbeitsbereich - Dsgvo Erstpruefung Und Mandatsziel, Governance Compliance Dokumentation Und Akte, Inventar Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-dsgvo-erstpruefung-und-mandatsziel` | DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-governance-compliance-dokumentation-und-akte` | Governance: Compliance-Dokumentation und Aktenvermerk im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-dsgvo-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** DSGVO: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # DSGVO: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -79,7 +79,7 @@ Einwilligung als Rechtsgrundlage für KI ist verlockend (klar und einfach), aber
 
 ## 2. `spezial-governance-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Governance: Compliance-Dokumentation und Aktenvermerk im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Governance: Compliance-Dokumentation und Aktenvermerk im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Governance: Compliance-Dokumentation und Aktenvermerk
 
@@ -120,7 +120,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-inventar-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Inventar: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Inventar: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin ki governance; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Inventar: Dokumentenmatrix, Lückenliste und Nachforderung
 

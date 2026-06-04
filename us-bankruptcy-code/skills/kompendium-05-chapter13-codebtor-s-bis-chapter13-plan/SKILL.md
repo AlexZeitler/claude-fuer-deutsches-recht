@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-chapter13-codebtor-s-bis-chapter13-plan
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (chapter13-codebtor-stay, chapter13-discharge, chapter13-eligibility, chapter13-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chapter13 Codebtor Stay, Chapter13 Discharge, Chapter13 Eligibility, Chapter13 Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - us-bankruptcy-code
+# Arbeitsbereich - Chapter13 Codebtor Stay bis Chapter13 Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chapter13-codebtor-stay` | Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy. |
 | `chapter13-discharge` | Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chapter13-codebtor-stay`
 
-**Frühere Beschreibung:** Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy.
+**Fokus:** Prueft co-debtor stay, consumer debts, relief motions and guarantor/co-signer strategy.
 
 # Chapter 13 Co-Debtor Stay
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `chapter13-discharge`
 
-**Frühere Beschreibung:** Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues.
+**Fokus:** Prueft Chapter 13 discharge, hardship discharge, exceptions, plan completion and post-discharge issues.
 
 # Chapter 13 Discharge
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `chapter13-eligibility`
 
-**Frühere Beschreibung:** Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues.
+**Fokus:** Prueft Chapter 13 debt limits, regular income, individual-only requirement and consumer/small-business owner issues.
 
 # Chapter 13 Eligibility
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `chapter13-plan`
 
-**Frühere Beschreibung:** Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility.
+**Fokus:** Prueft Chapter 13 plan, disposable income, best interests, secured claims, arrears, trustee payments and feasibility.
 
 # Chapter 13 Plan Confirmation
 

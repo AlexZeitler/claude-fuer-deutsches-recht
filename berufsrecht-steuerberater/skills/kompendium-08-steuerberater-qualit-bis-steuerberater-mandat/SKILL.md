@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-steuerberater-qualit-bis-steuerberater-mandat
-description: "berufsrecht-steuerberater: Konsolidiertes Skill-Kompendium 08; bündelt 9 frühere Spezialskills (steuerberater-qualitaetsmanagement-fristen-kammerantwort-und-ve, steuerberater-qualitaetsmanagement-fristen-organisationspflicht, steuerberater-werbung-und-siegel-kammerantwort-und-verfahrensst, steuerberater-haftpflichtversicherung-und-schadenmeldung-kaltst, steuerberater-haftpflichtversicherung-und-schadenmeldung-kammer und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-steuerberater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerberater Qualitaetsmanagement Fristen Kammerantwort Und Ve, Steuerberater Qualitaetsmanagement Fristen Organisationspflicht, Steuerberater Werbung Und Siegel Kammerantwort Und Verfahrensst, Steuerberater Haftpflichtversicherung Und Schadenmeldung Kaltst und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster un"
 ---
 
-# Kompendium 08 - berufsrecht-steuerberater
+# Arbeitsbereich - Steuerberater Qualitaetsmanagement Fristen Kammerantwort Und Ve bis Steuerberater Mandatsannahme Bei Sanktionen Organisationspflich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-qualitaetsmanagement-fristen-kammerantwort-und-ve` | Steuerberater: qualitaetsmanagement fristen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-qualitaetsmanagement-fristen-organisationspflicht` | Steuerberater: qualitaetsmanagement fristen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerberater-qualitaetsmanagement-fristen-kammerantwort-und-ve`
 
-**Frühere Beschreibung:** Steuerberater: qualitaetsmanagement fristen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: qualitaetsmanagement fristen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: qualitaetsmanagement fristen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `steuerberater-qualitaetsmanagement-fristen-organisationspflicht`
 
-**Frühere Beschreibung:** Steuerberater: qualitaetsmanagement fristen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: qualitaetsmanagement fristen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: qualitaetsmanagement fristen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `steuerberater-werbung-und-siegel-kammerantwort-und-verfahrensst`
 
-**Frühere Beschreibung:** Steuerberater: werbung und siegel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: werbung und siegel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: werbung und siegel - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -163,7 +163,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `steuerberater-haftpflichtversicherung-und-schadenmeldung-kaltst`
 
-**Frühere Beschreibung:** Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
@@ -206,7 +206,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `steuerberater-haftpflichtversicherung-und-schadenmeldung-kammer`
 
-**Frühere Beschreibung:** Steuerberater: haftpflichtversicherung und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: haftpflichtversicherung und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -249,7 +249,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `steuerberater-haftpflichtversicherung-und-schadenmeldung-organi`
 
-**Frühere Beschreibung:** Steuerberater: haftpflichtversicherung und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: haftpflichtversicherung und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -292,7 +292,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `steuerberater-haftpflichtversicherung-und-schadenmeldung-rechts`
 
-**Frühere Beschreibung:** Steuerberater: haftpflichtversicherung und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: haftpflichtversicherung und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: haftpflichtversicherung und schadenmeldung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -335,7 +335,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 8. `steuerberater-mandatsannahme-bei-sanktionen-kammerantwort-und-v`
 
-**Frühere Beschreibung:** Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: mandatsannahme bei sanktionen - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -378,7 +378,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 9. `steuerberater-mandatsannahme-bei-sanktionen-organisationspflich`
 
-**Frühere Beschreibung:** Steuerberater: mandatsannahme bei sanktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: mandatsannahme bei sanktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: mandatsannahme bei sanktionen - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-anfaenger-workflow-s-bis-fristenbuch-fuehren
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (anfaenger-workflow-sozialgericht, rechtsprechungschat-sozialgericht, anhoerung-im-sozialverwaltungsverfahren-24-sgb-x, fristen-berechnen-sgg-laien, fristenbuch-fuehren-laien-sozialgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfaenger Workflow Sozialgericht, Rechtsprechungschat Sozialgericht, Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X, Fristen Berechnen Sgg Laien und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Anfaenger Workflow Sozialgericht bis Fristenbuch Fuehren Laien Sozialgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfaenger-workflow-sozialgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills. |
 | `rechtsprechungschat-sozialgericht` | Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfaenger-workflow-sozialgericht`
 
-**Frühere Beschreibung:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills.
+**Fokus:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Sozialgericht: erklärt Bescheid, Widerspruch, Klage, Eilantrag, Amtsermittlung, Kostenfreiheit, Belege und Termin in einfacher Sprache und routet zu passenden Sozialgerichts-Skills.
 
 # Anfänger-Workflow Sozialgericht
 
@@ -153,7 +153,7 @@ Prüfen Sie:
 
 ## 2. `rechtsprechungschat-sozialgericht`
 
-**Frühere Beschreibung:** Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden.
+**Fokus:** Geführter Rechtsprechungschat für Selbstvertreter im Sozialgerichtsverfahren. Hilft, BSG-, LSG-, BVerfG- und EuGH-Rechtsprechung zu Sozialleistungen, Eilrechtsschutz, Amtsermittlung, Gutachten und Berufung zu finden, zu verstehen und laiengerecht zu verwenden.
 
 # Rechtsprechungschat Sozialgericht
 
@@ -238,7 +238,7 @@ Das ist hier relevant, weil [Tatsache].
 
 ## 3. `anhoerung-im-sozialverwaltungsverfahren-24-sgb-x`
 
-**Frühere Beschreibung:** Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
+**Fokus:** Anhoerung im sozialverwaltungsverfahren nach § 24 SGB X. Skill leitet Selbstvertreter durch das Anhoerungsrecht vor belastendem Verwaltungsakt: Inhalt der Anhoerungspflicht Ausnahmen Fristsetzung Stellungnahme Heilung im Widerspruchsverfahren. Liefert Vorlagentext und Pruefraster.
 
 # Anhoerung Im Sozialverwaltungsverfahren 24 Sgb X
 
@@ -293,7 +293,7 @@ Das ist hier relevant, weil [Tatsache].
 
 ## 4. `fristen-berechnen-sgg-laien`
 
-**Frühere Beschreibung:** Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt.
+**Fokus:** Alle wichtigen Fristen im SG-Verfahren ueberblicken. Widerspruch Klage Berufung Eilantrag Verlaengerung. Berechnungstipps für Buerger ohne Anwalt.
 
 # Die wichtigsten Fristen im SG-Verfahren
 
@@ -438,7 +438,7 @@ Stand: 05/2026. PostModG seit 1.1.2025 mit 4-Tage-Fiktion. Vor 2025: 3 Tage.
 
 ## 5. `fristenbuch-fuehren-laien-sozialgericht`
 
-**Frühere Beschreibung:** Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt.
+**Fokus:** Fristen sicher organisieren und nicht verpassen. Fristenkalender Erinnerungen Excel Papier Smartphone. Praktischer Leitfaden für Buerger ohne Anwalt.
 
 # Fristen sicher fuehren — fuer Buerger
 

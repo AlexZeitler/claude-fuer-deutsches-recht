@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-fachanwalt-e-bis-spezial-gebrmg-verha
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-fao-dokumentenmatrix-und-lueckenliste, spezial-gebrmg-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Fachanwalt Erstpruefung Und Mandatsziel, Fao Dokumentenmatrix Und Lueckenliste, Gebrmg Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-fachanwalt-erstpruefung-und-mandatsziel` | Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung. |
 | `spezial-fao-dokumentenmatrix-und-lueckenliste` | FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung.
+**Fokus:** Erstprüfung und Mandatsziel im gewerblichen Rechtsschutz: Erstgespräch-Systematik, Schutzrechts-Screening, Interessenabwägung, Mandatszieldefinition, Interessenkonfliktprüfung, Kostenaufklärung und strategische Weichenstellung.
 
 # Erstprüfung und Mandatsziel
 
@@ -155,7 +155,7 @@ Bitte geben Sie uns bis [Datum] Rückmeldung.
 
 ## 2. `spezial-fao-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler.
+**Fokus:** FAO-Dokumentenmatrix: Nachweise für Fachanwaltschaft gewerblicher Rechtsschutz § 14k FAO. Falllistenführung, Fallgruppen, qualifizierte Fälle, besondere praktische Erfahrungen, Lückenliste, Zulassungsantrag und häufige Fehler.
 
 # FAO-Dokumentenmatrix und Lückenliste
 
@@ -264,7 +264,7 @@ Dieser Skill unterstützt bei der Vorbereitung des Antrags auf Verleihung der Fa
 
 ## 3. `spezial-gebrmg-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung.
+**Fokus:** Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation. GebrMG §§ 1–25, Abgrenzung zum Patent, Schutzansprüche, Verletzungsklage, Löschungsverfahren DPMA, Vergleichsoptionen, Eskalationspfade und Kostenabwägung.
 
 # Gebrauchsmusterrecht: Verhandlung, Vergleich und Eskalation
 

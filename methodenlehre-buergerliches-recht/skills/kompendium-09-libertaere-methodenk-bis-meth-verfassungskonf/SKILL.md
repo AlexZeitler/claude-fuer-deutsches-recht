@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-libertaere-methodenk-bis-meth-verfassungskonf
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (libertaere-methodenkritik-privatautonomie, luecke-oder-gesetzesablehnung, meth-anspruchsgrundlage-pyramide-bauleiter, meth-richterrecht-rechtsfortbildung-spezial, meth-verfassungskonforme-auslegung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Libertaere Methodenkritik Privatautonomie, Luecke Oder Gesetzesablehnung, Meth Anspruchsgrundlage Pyramide Bauleiter, Meth Richterrecht Rechtsfortbildung Spezial und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Libertaere Methodenkritik Privatautonomie bis Meth Verfassungskonforme Auslegung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `libertaere-methodenkritik-privatautonomie` | Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen. |
 | `luecke-oder-gesetzesablehnung` | Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `libertaere-methodenkritik-privatautonomie`
 
-**Frühere Beschreibung:** Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen.
+**Fokus:** Analysiert die libertäre Methodenkritik an staatlichen und richterlichen Eingriffen in die Privatautonomie. Das Skill systematisiert die Argumente für maximale Vertragsfreiheit und minimale Inhaltskontrolle und prüft, wo libertäre Methodenpositionen methodisch tragfähig sind und wo sie die notwendige strukturelle Schutzbedürftigkeit von Vertragspartnern verkennen.
 
 # Libertäre Methodenkritik: Privatautonomie und minimale Inhaltskontrolle
 
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `luecke-oder-gesetzesablehnung`
 
-**Frühere Beschreibung:** Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet.
+**Fokus:** Klärt die methodisch entscheidende Unterscheidung zwischen einer planwidrigen Regelungslücke und einer bewussten Entscheidung des Gesetzgebers, einen Fall nicht zu regeln. Das Skill zeigt, wie diese Unterscheidung getroffen wird, welche Quellen zur Feststellung des Gesetzgeberwillens herangezogen werden und warum die Qualifikation als Lücke oder bewusste Nichtregelung über die Zulässigkeit von Analogien entscheidet.
 
 # Lücke oder Gesetzesablehnung: Methodische Unterscheidung
 
@@ -208,7 +208,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `meth-anspruchsgrundlage-pyramide-bauleiter`
 
-**Frühere Beschreibung:** Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und Subsidiarität zu ordnen. Geeignet für Mandate im Baurecht, Werkunternehmerhaftung und Projektleiterhaftung.
+**Fokus:** Leitet durch die methodisch korrekte Aufbereitung und Prüfung von Anspruchsgrundlagen im Bau- und Architektenrecht nach dem Pyramidenprinzip. Das Skill hilft, im komplexen Bauleitungsrecht vertragliche, deliktische und bereicherungsrechtliche Ansprüche systematisch zu entwickeln und nach Rang und Subsidiarität zu ordnen. Geeignet für Mandate im Baurecht, Werkunternehmerhaftung und Projektleiterhaftung.
 
 # Anspruchsgrundlagen-Pyramide im Bauleitungsrecht
 
@@ -298,7 +298,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `meth-richterrecht-rechtsfortbildung-spezial`
 
-**Frühere Beschreibung:** Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann richterrechtliche Regeln durch distinguishing oder overruling überwunden werden dürfen.
+**Fokus:** Analysiert das Richterrecht als Quelle des Zivilrechts und die methodischen Anforderungen an seine Entstehung, Fortgeltung und Überwindung. Das Skill zeigt, wie Richterrecht methodisch entsteht, welche demokratische Legitimation es beanspruchen kann, wie Präjudizien zu behandeln sind und wann richterrechtliche Regeln durch distinguishing oder overruling überwunden werden dürfen.
 
 # Richterrecht und Rechtsfortbildung: Spezialanalyse
 
@@ -387,7 +387,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `meth-verfassungskonforme-auslegung-spezial`
 
-**Frühere Beschreibung:** Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumdeutung übergeht. Geeignet für alle Fälle mit Grundrechtsbezug im Privatrecht.
+**Fokus:** Leitet durch die Methode der verfassungskonformen Auslegung als Spezialinstrument der Normerhaltung im Zivilrecht. Das Skill zeigt, wann und wie Zivilnormen verfassungskonform ausgelegt werden müssen, welche Grenzen das Instrument hat und wann verfassungskonforme Auslegung in unzulässige Normumdeutung übergeht. Geeignet für alle Fälle mit Grundrechtsbezug im Privatrecht.
 
 # Verfassungskonforme Auslegung: Methodik und Grenzen
 

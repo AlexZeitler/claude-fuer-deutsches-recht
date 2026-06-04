@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-medr-einfuehrung-the-bis-mindestmengen-zentru
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 14; bündelt 6 frühere Spezialskills (medr-einfuehrung-themen, medr-grundpfeiler-igel-und-aerztewerbung-spezial, medr-igel-leistung-spezial, medr-mvz-strukturwandel-spezial, minderjaehrige-einwilligung und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Medr Einfuehrung Themen, Medr Grundpfeiler Igel Und Aerztewerbung Spezial, Medr Igel Leistung Spezial, Medr Mvz Strukturwandel Spezial und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-medizinrecht
+# Arbeitsbereich - Medr Einfuehrung Themen bis Mindestmengen Zentrumsbildung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `medr-einfuehrung-themen` | Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills. |
 | `medr-grundpfeiler-igel-und-aerztewerbung-spezial` | Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `medr-einfuehrung-themen`
 
-**Frühere Beschreibung:** Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills.
+**Fokus:** Medizinrecht einfuehrend: Arzthaftung, Berufsrecht, Vertragsarztrecht, Krankenhausrecht, Arzneimittel- und Medizinprodukterecht, Heilmittelwerberecht, MVZ-Strukturen. Entscheidungstabelle und Verweis auf Detail-Skills.
 
 # Medizinrecht: Themen
 
@@ -83,7 +83,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebri
 
 ## 2. `medr-grundpfeiler-igel-und-aerztewerbung-spezial`
 
-**Frühere Beschreibung:** Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht.
+**Fokus:** Spezialfall IGeL-Leistungen und Aerztewerbung: § 18 MBO-Aerzte, sachliche berufsbezogene Information, unsachlich-anpreisende Werbung, Preisvergleichsportale (Jameda, Doctolib), Bewertungsplattformen-Recht.
 
 # Medizinrecht: IGeL und Werbung
 
@@ -135,7 +135,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebri
 
 ## 3. `medr-igel-leistung-spezial`
 
-**Frühere Beschreibung:** Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung. Pruefraster fuer KV-Pruefverfahren und Patientenklage.
+**Fokus:** Spezialfall IGeL Individuelle Gesundheitsleistung: GOAE Abrechnung, Aufklaerung wirtschaftlich, Schriftform der Vereinbarung, Werbung. Pruefraster fuer KV-Pruefverfahren und Patientenklage.
 
 # MedR: IGeL-Leistung
 
@@ -188,7 +188,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebri
 
 ## 4. `medr-mvz-strukturwandel-spezial`
 
-**Frühere Beschreibung:** Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot. Pruefraster Antrag bei KV und Zulassungsausschuss.
+**Fokus:** Spezialfall MVZ-Strukturwandel: § 95 SGB V, Investor-MVZ, Anstellungsgenehmigung, Versorgungsauftrag, Konzentrationsverbot. Pruefraster Antrag bei KV und Zulassungsausschuss.
 
 # MedR: MVZ-Strukturwandel
 
@@ -241,7 +241,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebri
 
 ## 5. `minderjaehrige-einwilligung`
 
-**Frühere Beschreibung:** Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Minderjährige und Einwilligung: moderner Medizinrechts-Skill für Einwilligungsfähigkeit Minderjähriger, Elternkonflikt, dringende Behandlung und Datenschutz. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
 # Minderjährige und Einwilligung
 
@@ -299,7 +299,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 6. `mindestmengen-zentrumsbildung`
 
-**Frühere Beschreibung:** Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Mindestmengen und Zentrumsbildung: moderner Medizinrechts-Skill für Komplexe Eingriffe, Mindestmengen, Zentrumsbildung, Verlegungspflicht und Patientensicherheit. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
 # Mindestmengen und Zentrumsbildung
 

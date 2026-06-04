@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-k1-anlagenpaket-aus-bis-mehrparteien-rollen
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (k1-anlagenpaket-aus-chaosordner, k1-sortierwerkstatt, massenanlagen-sampling-und-repraesentativitaet, mehrparteien-rollen-und-praefixe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu K1 Anlagenpaket Aus Chaosordner, K1 Sortierwerkstatt, Massenanlagen Sampling Und Repraesentativitaet, Mehrparteien Rollen Und Praefixe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - K1 Anlagenpaket Aus Chaosordner bis Mehrparteien Rollen Und Praefixe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `k1-anlagenpaket-aus-chaosordner` | Aus einem Mandantenordner mit beliebigen Dateinamen die erste Anlagenstaffel K1 bis K20 bilden: priorisieren, umbenennen, Lücken markieren, Rückfragen ausgeben. |
 | `k1-sortierwerkstatt` | K1-Leitanlage sortieren: Vertrag, Auftrag, Nachtrag, E-Mail-Anhang, Scan, OCR-Fassung und spätere Ergänzungen zu einer gerichtstauglichen Anlage K1 oder einem K1-Konvolut ordnen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `k1-anlagenpaket-aus-chaosordner`
 
-**Frühere Beschreibung:** Aus einem Mandantenordner mit beliebigen Dateinamen die erste Anlagenstaffel K1 bis K20 bilden: priorisieren, umbenennen, Lücken markieren, Rückfragen ausgeben.
+**Fokus:** Aus einem Mandantenordner mit beliebigen Dateinamen die erste Anlagenstaffel K1 bis K20 bilden: priorisieren, umbenennen, Lücken markieren, Rückfragen ausgeben.
 
 # K1 aus Chaosordner bauen
 
@@ -77,7 +77,7 @@ Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Ver
 
 ## 2. `k1-sortierwerkstatt`
 
-**Frühere Beschreibung:** K1-Leitanlage sortieren: Vertrag, Auftrag, Nachtrag, E-Mail-Anhang, Scan, OCR-Fassung und spätere Ergänzungen zu einer gerichtstauglichen Anlage K1 oder einem K1-Konvolut ordnen.
+**Fokus:** K1-Leitanlage sortieren: Vertrag, Auftrag, Nachtrag, E-Mail-Anhang, Scan, OCR-Fassung und spätere Ergänzungen zu einer gerichtstauglichen Anlage K1 oder einem K1-Konvolut ordnen.
 
 # K1-Sortierwerkstatt
 
@@ -126,7 +126,7 @@ Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Ver
 
 ## 3. `massenanlagen-sampling-und-repraesentativitaet`
 
-**Frühere Beschreibung:** Hilft bei Tausenden gleichartiger Dokumente: Auswahl, repräsentative Beispiele, Nachreichungsvorbehalt, Anlagenband und Substantiierungsgrenze.
+**Fokus:** Hilft bei Tausenden gleichartiger Dokumente: Auswahl, repräsentative Beispiele, Nachreichungsvorbehalt, Anlagenband und Substantiierungsgrenze.
 
 # Massenanlagen, Sampling und Repräsentativität
 
@@ -189,7 +189,7 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 
 ## 4. `mehrparteien-rollen-und-praefixe`
 
-**Frühere Beschreibung:** Entwirft Nummernkreise bei Streitgenossen, Nebenintervention, Widerklage, Drittwiderklage, selbständigem Beweisverfahren und parallelen Verfahren.
+**Fokus:** Entwirft Nummernkreise bei Streitgenossen, Nebenintervention, Widerklage, Drittwiderklage, selbständigem Beweisverfahren und parallelen Verfahren.
 
 # Mehrparteien, Rollen und Präfixe
 

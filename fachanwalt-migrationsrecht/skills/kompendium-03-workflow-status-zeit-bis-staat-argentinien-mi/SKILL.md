@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-workflow-status-zeit-bis-staat-argentinien-mi
-description: "fachanwalt-migrationsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 17 frühere Spezialskills (workflow-status-zeitachse, workflow-strafrecht-schnittstelle, workflow-studium-ausbildung-start, workflow-unternehmensgruendung-migration, workflow-urkundennachweis und 12 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-migrationsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Status Zeitachse, Strafrecht Schnittstelle, Studium Ausbildung Start, Unternehmensgruendung Migration und 13 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-migrationsrecht
+# Arbeitsbereich - Status Zeitachse bis Argentinien Migrationscheck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-status-zeitachse` | Status-Zeitachse: Workflow-Skill für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
 | `workflow-strafrecht-schnittstelle` | Strafrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output. |
@@ -33,16 +33,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-status-zeitachse`
 
-**Frühere Beschreibung:** Status-Zeitachse: Workflow-Skill für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Status-Zeitachse: Workflow-Skill für Migrationsrecht; rekonstruiert Einreise, Titel, Anträge, Fiktionen, Unterbrechungen und Zuständigkeiten; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Status-Zeitachse
 
@@ -76,7 +76,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 2. `workflow-strafrecht-schnittstelle`
 
-**Frühere Beschreibung:** Strafrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Strafrecht-Schnittstelle: Workflow-Skill für Migrationsrecht; prüft Vorstrafen, Ermittlungsverfahren, Ausweisung, Einbürgerung und Titel; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Strafrecht-Schnittstelle
 
@@ -110,7 +110,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 3. `workflow-studium-ausbildung-start`
 
-**Frühere Beschreibung:** Studium/Ausbildung Start: Workflow-Skill für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Studium/Ausbildung Start: Workflow-Skill für Migrationsrecht; prüft Zulassung, Finanzierung, Sprache, Wechsel, Erwerbstätigkeit; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Studium/Ausbildung Start
 
@@ -144,7 +144,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 4. `workflow-unternehmensgruendung-migration`
 
-**Frühere Beschreibung:** Unternehmensgründung Migration: Workflow-Skill für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Unternehmensgründung Migration: Workflow-Skill für Migrationsrecht; prüft Selbstständigkeit, Businessplan, Finanzierung, regionale Interessen; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Unternehmensgründung Migration
 
@@ -178,7 +178,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 5. `workflow-urkundennachweis`
 
-**Frühere Beschreibung:** Urkundennachweis: Workflow-Skill für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Urkundennachweis: Workflow-Skill für Migrationsrecht; prüft Legalisation, Apostille, Register, Übersetzung, Plausibilität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Urkundennachweis
 
@@ -212,7 +212,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 6. `workflow-vulnerabilitaet-atteste`
 
-**Frühere Beschreibung:** Vulnerabilität/Atteste: Workflow-Skill für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
+**Fokus:** Vulnerabilität/Atteste: Workflow-Skill für Migrationsrecht; prüft Trauma, Krankheit, Minderjährige, Schwangerschaft, Attestqualität; mit Statusmatrix, Fristenrettung, Staatenbezug, Quellencheck und nutzbarem Output.
 
 # Vulnerabilität/Atteste
 
@@ -246,7 +246,7 @@ Erkläre zusätzlich auf Spanisch: `Situación`, `Plazo`, `Riesgo`, `Documentos 
 
 ## 7. `staat-aegypten-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Ägypten: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Ägypten: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Ägypten
 
@@ -283,7 +283,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Ägypten**. Er is
 
 ## 8. `staat-aequatorialguinea-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Äquatorialguinea: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Äquatorialguinea: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Äquatorialguinea
 
@@ -320,7 +320,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äquatorialguinea
 
 ## 9. `staat-aethiopien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Äthiopien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Äthiopien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Äthiopien
 
@@ -357,7 +357,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Äthiopien**. Er 
 
 ## 10. `staat-afghanistan-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Afghanistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Afghanistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Afghanistan
 
@@ -394,7 +394,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Afghanistan**. Er
 
 ## 11. `staat-albanien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Albanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Albanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Albanien
 
@@ -431,7 +431,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Albanien**. Er is
 
 ## 12. `staat-algerien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Algerien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Algerien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Algerien
 
@@ -468,7 +468,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Algerien**. Er is
 
 ## 13. `staat-amerikanisch-samoa-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Amerikanisch-Samoa: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Amerikanisch-Samoa: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Amerikanisch-Samoa
 
@@ -505,7 +505,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Amerikanisch-Samo
 
 ## 14. `staat-andorra-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Andorra: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Andorra: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Andorra
 
@@ -542,7 +542,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Andorra**. Er ist
 
 ## 15. `staat-angola-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Angola: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Angola: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Angola
 
@@ -579,7 +579,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Angola**. Er ist 
 
 ## 16. `staat-antigua-und-barbuda-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Antigua und Barbuda: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Antigua und Barbuda: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Antigua und Barbuda
 
@@ -616,7 +616,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Antigua und Barbu
 
 ## 17. `staat-argentinien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Argentinien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Argentinien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Argentinien
 

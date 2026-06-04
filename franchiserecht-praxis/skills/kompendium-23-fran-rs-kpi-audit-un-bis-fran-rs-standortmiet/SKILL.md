@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-fran-rs-kpi-audit-un-bis-fran-rs-standortmiet
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 3 frühere Spezialskills (fran-rs-kpi-audit-und-kuendigungsreife, fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht, fran-rs-standortmiete-investitionsschutz-und-rueckbau) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rueckbau; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - franchiserecht-praxis
+# Arbeitsbereich - Fran Rs Kpi Audit Und Kuendigungsreife, Fran Rs Lieferbindung Eigenmarken Und Einkaufsmacht, Fran Rs Standortmiete Investitionsschutz Und Rue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-rs-kpi-audit-und-kuendigungsreife` | Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht` | Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-rs-kpi-audit-und-kuendigungsreife`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für KPI-Audit und Kündigungsreife: Umsatz, Mystery Shopping, Hygiene, Schulung und CI-Verstöße werden auf Beweisreife, Abmahnung und außerordentliche Kündigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: KPI-Audit und Kündigungsreife
 
@@ -72,7 +72,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-lieferbindung-eigenmarken-und-einkaufsmacht`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Lieferbindung, Eigenmarken und Einkaufsmacht: Bezugsbindungen, zentrale Einkaufsvergütungen, Kickbacks und Eigenmarken werden kartell-, AGB- und treuwidrigkeitsfest abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Lieferbindung, Eigenmarken und Einkaufsmacht
 
@@ -116,7 +116,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-standortmiete-investitionsschutz-und-rueckbau`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Standortmiete, Investitionsschutz und Rückbau: Der Franchisenehmer hängt oft am Mietvertrag; deshalb werden Laufzeiten, Eintrittsrechte, Umbaukosten, Rückbau und Sicherheiten zusammen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Standortmiete, Investitionsschutz und Rückbau
 

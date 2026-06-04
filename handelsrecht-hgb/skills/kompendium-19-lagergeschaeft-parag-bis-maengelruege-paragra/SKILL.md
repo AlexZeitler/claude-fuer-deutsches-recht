@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-lagergeschaeft-parag-bis-maengelruege-paragra
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (lagergeschaeft-paragraphen-467-475h, maengelruege-paragraph-377-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lagergeschaeft Paragraphen 467 475h, Maengelruege Paragraph 377 Hgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - handelsrecht-hgb
+# Arbeitsbereich - Lagergeschaeft Paragraphen 467 475h, Maengelruege Paragraph 377 Hgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lagergeschaeft-paragraphen-467-475h` | Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht. |
 | `maengelruege-paragraph-377-hgb` | Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lagergeschaeft-paragraphen-467-475h`
 
-**Frühere Beschreibung:** Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht.
+**Fokus:** Prüft Lagerhalter, Lagerschein, Haftung, Herausgabe und Pfandrecht.
 
 # Lagergeschäft §§ 467 ff. HGB
 
@@ -79,7 +79,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `maengelruege-paragraph-377-hgb`
 
-**Frühere Beschreibung:** Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust.
+**Fokus:** Prüft Untersuchungs- und Rügeobliegenheit, offene/verdeckte Mängel, Rechtzeitigkeit und Rechtsverlust.
 
 # Mängelrüge § 377 HGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-tatbestand-zivil-sch-bis-urb-mehrere-streitge
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (tatbestand-zivil-schreiben, tenor-bauen-zivil, urb-mehrere-streitgegenstaende-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Tatbestand Zivil Schreiben, Tenor Bauen Zivil, Urb Mehrere Streitgegenstaende Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tatbestand-zivil-schreiben` | Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Prüfraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil. |
 | `tenor-bauen-zivil` | Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Prüfraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollständig und vollstreckbar. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tatbestand-zivil-schreiben`
 
-**Frühere Beschreibung:** Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Prüfraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil.
+**Fokus:** Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Prüfraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil.
 
 # Tatbestand schreiben
 
@@ -143,7 +143,7 @@ Auf Anlagen, Schriftsätze, Protokolle nach Paragraf 313 Abs. 2 Satz 2 ZPO konkr
 
 ## 2. `tenor-bauen-zivil`
 
-**Frühere Beschreibung:** Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Prüfraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollständig und vollstreckbar. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen.
+**Fokus:** Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Prüfraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollständig und vollstreckbar. Abgrenzung: Entscheidungsgründe siehe entscheidungsgründe-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen.
 
 # Tenor bauen Zivilurteil
 
@@ -237,7 +237,7 @@ Im Repository werden Geldbetraege im Fliesstext mit Punkt geschrieben (Repo-Konv
 
 ## 3. `urb-mehrere-streitgegenstaende-spezial`
 
-**Frühere Beschreibung:** Spezialfall mehrere Streitgegenstaende und Eventualantraege: Reihenfolge der Pruefung, Tenor, Kostenverteilung. Pruefraster fuer komplexe Verfahren.
+**Fokus:** Spezialfall mehrere Streitgegenstaende und Eventualantraege: Reihenfolge der Pruefung, Tenor, Kostenverteilung. Pruefraster fuer komplexe Verfahren.
 
 # Urb: Mehrere Streitgegenstaende
 

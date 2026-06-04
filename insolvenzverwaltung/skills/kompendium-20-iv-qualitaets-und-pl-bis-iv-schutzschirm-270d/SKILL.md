@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-iv-qualitaets-und-pl-bis-iv-schutzschirm-270d
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (iv-qualitaets-und-plausibilitaetsgate, iv-schutzschirm-270d) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Qualitaets Und Plausibilitaetsgate, Iv Schutzschirm 270d; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - insolvenzverwaltung
+# Arbeitsbereich - Iv Qualitaets Und Plausibilitaetsgate, Iv Schutzschirm 270d
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-qualitaets-und-plausibilitaetsgate` | IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate für alle IV-Skills; nicht für eigenständige Sacharbeit. |
 | `iv-schutzschirm-270d` | Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfähigkeitsanzeige. Output: Verfahrensplan Fristenkalender Kommunikationsleitfaden. Abgrenzung: nicht für regulaere Eigenverwaltung (iv-eigenverwaltung-sachwaltung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-qualitaets-und-plausibilitaetsgate`
 
-**Frühere Beschreibung:** IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate für alle IV-Skills; nicht für eigenständige Sacharbeit.
+**Fokus:** IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate für alle IV-Skills; nicht für eigenständige Sacharbeit.
 
 # Qualitäts- und Plausibilitätsgate
 
@@ -115,7 +115,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `iv-schutzschirm-270d`
 
-**Frühere Beschreibung:** Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfähigkeitsanzeige. Output: Verfahrensplan Fristenkalender Kommunikationsleitfaden. Abgrenzung: nicht für regulaere Eigenverwaltung (iv-eigenverwaltung-sachwaltung).
+**Fokus:** Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfähigkeitsanzeige. Output: Verfahrensplan Fristenkalender Kommunikationsleitfaden. Abgrenzung: nicht für regulaere Eigenverwaltung (iv-eigenverwaltung-sachwaltung).
 
 # Schutzschirmverfahren § 270d InsO
 

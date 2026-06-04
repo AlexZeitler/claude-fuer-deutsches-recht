@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-iv-aktenanlage-verfa-bis-iv-plan-verfahrenswa
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (iv-aktenanlage-verfahrenscockpit, iv-plan-verfahrenswahl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Aktenanlage Verfahrenscockpit, Iv Plan Verfahrenswahl; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - insolvenzverwaltung
+# Arbeitsbereich - Iv Aktenanlage Verfahrenscockpit, Iv Plan Verfahrenswahl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-aktenanlage-verfahrenscockpit` | Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. §§ 56 80 InsO Verwalterbestellung und Verwaltungsbefugnis. Prüfraster: Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forderungstabelle Fristen Workstreams. Output: vollständiges Verfahrens-Cockpit mit Gliederung Rollenplan und Fristenliste. Abgrenzung: nicht für laufende Berichterstattung (iv-berichte) oder Forderungsprüfung (iv-forderungsanmeldung-prüfung). |
 | `iv-plan-verfahrenswahl` | Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Überschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht für Detailplanung der gewaehlten Route. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-aktenanlage-verfahrenscockpit`
 
-**Frühere Beschreibung:** Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. §§ 56 80 InsO Verwalterbestellung und Verwaltungsbefugnis. Prüfraster: Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forderungstabelle Fristen Workstreams. Output: vollständiges Verfahrens-Cockpit mit Gliederung Rollenplan und Fristenliste. Abgrenzung: nicht für laufende Berichterstattung (iv-berichte) oder Forderungsprüfung (iv-forderungsanmeldung-prüfung).
+**Fokus:** Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. §§ 56 80 InsO Verwalterbestellung und Verwaltungsbefugnis. Prüfraster: Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forderungstabelle Fristen Workstreams. Output: vollständiges Verfahrens-Cockpit mit Gliederung Rollenplan und Fristenliste. Abgrenzung: nicht für laufende Berichterstattung (iv-berichte) oder Forderungsprüfung (iv-forderungsanmeldung-prüfung).
 
 # Aktenanlage und Verfahrenscockpit
 
@@ -116,7 +116,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `iv-plan-verfahrenswahl`
 
-**Frühere Beschreibung:** Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Überschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht für Detailplanung der gewaehlten Route.
+**Fokus:** Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Überschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht für Detailplanung der gewaehlten Route.
 
 # IV-integrierte Verfahrenswahl und Routenentscheidung
 

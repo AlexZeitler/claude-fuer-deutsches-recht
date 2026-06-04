@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-quellen-und-rechtspr-bis-schoeffe-ermuedung-k
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (quellen-und-rechtsprechungscheck, frist-und-zustaendigkeit-cockpit, schoeffe-ermuedung-komplexverfahren-orientierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Quellen Und Rechtsprechungscheck, Frist Und Zustaendigkeit Cockpit, Schoeffe Ermuedung Komplexverfahren Orientierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Quellen Und Rechtsprechungscheck, Frist Und Zustaendigkeit Cockpit, Schoeffe Ermuedung Komplexverfahren Orientierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `quellen-und-rechtsprechungscheck` | Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `quellen-und-rechtsprechungscheck`
 
-**Frühere Beschreibung:** Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Quellen- und Rechtsprechungscheck: erklärt verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Quellen- und Rechtsprechungscheck
 
@@ -78,7 +78,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `frist-und-zustaendigkeit-cockpit`
 
-**Frühere Beschreibung:** Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Fristen- und Zuständigkeitscockpit: erklärt macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Fristen- und Zuständigkeitscockpit
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `schoeffe-ermuedung-komplexverfahren-orientierung`
 
-**Frühere Beschreibung:** Ermüdung im Komplexverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ermüdung im Komplexverfahren (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ermüdung im Komplexverfahren: Orientierung
 

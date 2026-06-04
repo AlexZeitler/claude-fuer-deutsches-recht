@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-delegierte-und-abtei-bis-foerdermittel-verein
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (delegierte-und-abteilungen, entlastung-vorstand, foerdermittel-verein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Delegierte Und Abteilungen, Entlastung Vorstand, Foerdermittel Verein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `delegierte-und-abteilungen` | Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen. |
 | `entlastung-vorstand` | Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `delegierte-und-abteilungen`
 
-**Frühere Beschreibung:** Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen.
+**Fokus:** Gestaltet Delegiertenversammlung, Sparten, Abteilungen, Jugendordnung und interne Kompetenzen.
 
 # Delegierte und Abteilungen
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `entlastung-vorstand`
 
-**Frühere Beschreibung:** Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung.
+**Fokus:** Erklärt Entlastung, Reichweite, Interessenkonflikte und Beschlussformulierung.
 
 # Entlastung Vorstand
 
@@ -120,7 +120,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `foerdermittel-verein`
 
-**Frühere Beschreibung:** Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck.
+**Fokus:** Prüft Zuwendungsbescheid, Eigenanteil, Vergabe, Verwendungsnachweis, Rückforderung und Satzungszweck.
 
 # Fördermittel Verein
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-wertersatz-bei-diens-bis-zahlung-auf-fremde-s
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (wertersatz-bei-dienstleistung-und-gebrauchsvorteil, wertveraenderung-und-stichtag, zahlstelle-bote-vertreter-und-treuhand, zahlung-auf-fremde-schuld-und-putativschuldner) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wertersatz Bei Dienstleistung Und Gebrauchsvorteil, Wertveraenderung Und Stichtag, Zahlstelle Bote Vertreter Und Treuhand, Zahlung Auf Fremde Schuld Und Putativschuldner; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Wertersatz Bei Dienstleistung Und Gebrauchsvorteil bis Zahlung Auf Fremde Schuld Und Putativschuldner
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wertersatz-bei-dienstleistung-und-gebrauchsvorteil` | Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB. |
 | `wertveraenderung-und-stichtag` | Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wertersatz-bei-dienstleistung-und-gebrauchsvorteil`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB.
+**Fokus:** Nutze diesen Skill, wenn eine nicht rückgabefähige Dienstleistung oder Nutzung bewertet werden muss. Normen: § 818 Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Wertersatzberechnung Dienstleistung mit Marktwert oder ersparten Aufwendungen. Abgrenzung: nicht Vergütungsanspruch § 612 BGB.
 
 # Wertersatz bei Dienstleistung und Gebrauchsvorteil
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `wertveraenderung-und-stichtag`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB.
+**Fokus:** Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB.
 
 # Wertveränderung und Bewertungsstichtag
 
@@ -197,7 +197,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `zahlstelle-bote-vertreter-und-treuhand`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson.
+**Fokus:** Nutze diesen Skill, wenn eine Zwischenperson im Zahlungsweg rechtlich richtig eingeordnet werden muss. Normen: §§ 164 ff. BGB; § 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Zurechnungsanalyse Bote/Vertreter/Treuhand mit Anspruchsgegner. Abgrenzung: nicht direkte Bereicherungsklage gegen Mittelsperson.
 
 # Zahlstelle, Bote, Vertreter und Treuhand
 
@@ -271,7 +271,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `zahlung-auf-fremde-schuld-und-putativschuldner`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden.
+**Fokus:** Nutze diesen Skill, wenn jemand irrtümlich als vermeintlicher Schuldner oder auf fremde Schuld zahlt. Normen: §§ 267 und 812 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Prüfergebnis Putativschuld mit Anspruchsgegner und Rückgriffsweg. Abgrenzung: nicht eigene Verbindlichkeit des Zahlenden.
 
 # Zahlung auf fremde Schuld und Putativschuldner
 

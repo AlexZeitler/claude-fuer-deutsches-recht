@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-freiwillige-beitraeg-bis-fremdrentengesetz-un
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (freiwillige-beitraege-und-rentenoptimierung, fremdrentengesetz-und-spaetaussiedler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - rentenpruefer
+# Arbeitsbereich - Freiwillige Beitraege Und Rentenoptimierung, Fremdrentengesetz Und Spaetaussiedler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `freiwillige-beitraege-und-rentenoptimierung` | Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung. |
 | `fremdrentengesetz-und-spaetaussiedler` | Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `freiwillige-beitraege-und-rentenoptimierung`
 
-**Frühere Beschreibung:** Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung.
+**Fokus:** Freiwillige Beiträge und Rentenoptimierung: Wartezeiten, Mindest-/Höchstbeiträge, Ausgleich von Abschlägen und Liquiditätsentscheidung.
 
 # freiwillige-beitraege-und-rentenoptimierung
 
@@ -67,7 +67,7 @@ Optionenpapier mit Entscheidungskriterien.
 
 ## 2. `fremdrentengesetz-und-spaetaussiedler`
 
-**Frühere Beschreibung:** Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger.
+**Fokus:** Fremdrentengesetz und Spätaussiedlerfälle: Anrechnungslogik, Nachweise, Kürzungen, Herkunftsgebiete und Streit mit dem Rententräger.
 
 # fremdrentengesetz-und-spaetaussiedler
 

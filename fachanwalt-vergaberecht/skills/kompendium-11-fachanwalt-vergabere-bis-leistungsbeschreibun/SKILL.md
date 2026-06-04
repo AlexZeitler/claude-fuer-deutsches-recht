@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-fachanwalt-vergabere-bis-leistungsbeschreibun
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema, foerdermittelvergabe-rueckforderung, ki-beschaffung-ai-act-daten-cloud, leistungsbeschreibung-neutralitaet-funktional) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergaberecht Zuschlagskriterien Wertungsschema, Foerdermittelvergabe Rueckforderung, Ki Beschaffung Ai Act Daten Cloud, Leistungsbeschreibung Neutralitaet Funktional; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergaberecht Zuschlagskriterien Wertungsschema bis Leistungsbeschreibung Neutralitaet Funktional
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema` | Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag. |
 | `foerdermittelvergabe-rueckforderung` | Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema`
 
-**Frühere Beschreibung:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Zuschlagskriterien und Wertungsschema im Vergabeverfahren ausarbeiten und angreifen: Auftraggeber will rechtsfeste Wertungsmatrix; Bieter will mangelhafte Wertung ruegen. Normen: § 127 GWB (Zuschlag), § 58 VgV (Wertung), § 31 SektVO, § 16 KonzVgV, VOB-A § 16d. Pruefraster: Auftragsbezug, Diskriminierungsverbot, Transparenz, Gewichtung, Unterkriterien, Punktevergabe, Preis-Leistungs-Relation, Lebenszykluskosten § 59 VgV. Output Wertungsmatrix-Entwurf, Pruefvermerk Wertungsruege. Abgrenzung: Eignungspruefung siehe fachanwalt-vergaberecht-eignungspruefung; Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 # Zuschlagskriterien und Wertungsschema
 
@@ -104,7 +104,7 @@ Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei pruefbarer Quelle a
 
 ## 2. `foerdermittelvergabe-rueckforderung`
 
-**Frühere Beschreibung:** Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern.
+**Fokus:** Foerdermittelvergaben und Rueckforderungsrisiken pruefen: Nebenbestimmungen, ANBest, Vergabeverstoesse, Dokumentation, Heilung und Kommunikation mit Zuwendungsgebern.
 
 # Foerdermittel und Rueckforderung
 
@@ -168,7 +168,7 @@ Foerdermittel-Risikomatrix, Heilungsplan, Aktenvermerk, Zuwendungsgeberbrief.
 
 ## 3. `ki-beschaffung-ai-act-daten-cloud`
 
-**Frühere Beschreibung:** KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung.
+**Fokus:** KI-, Cloud- und Datenbeschaffung vergaberechtlich strukturieren: Leistungsbeschreibung, Datenschutz, AI Act, IT-Sicherheit, Lock-in, Open-Source, Interoperabilitaet und Wertung.
 
 # KI-, Cloud- und Datenbeschaffung
 
@@ -232,7 +232,7 @@ Anforderungskatalog, Bewertungsmatrix, Risikoampel, Vertrags-/Vergabehinweise.
 
 ## 4. `leistungsbeschreibung-neutralitaet-funktional`
 
-**Frühere Beschreibung:** Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation.
+**Fokus:** Leistungsbeschreibung produktneutral, funktional oder konstruktiv erstellen und angreifen: Mindestanforderungen, Gleichwertigkeit, Leitfabrikate, Alleinstellungsmerkmale und Dokumentation.
 
 # Leistungsbeschreibung Neutralitaet
 

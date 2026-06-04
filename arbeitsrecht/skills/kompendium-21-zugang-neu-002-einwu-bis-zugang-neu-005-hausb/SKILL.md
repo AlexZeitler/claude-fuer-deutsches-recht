@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-zugang-neu-002-einwu-bis-zugang-neu-005-hausb
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal, zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb, zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z, zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal, Zugang Neu 003 Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb, Zugang Neu 004 Persoenliche Uebergabe Empfangsverweigerung Und Z, Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - arbeitsrecht
+# Arbeitsbereich - Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal bis Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal` | Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb` | Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zugang-neu-002-einwurf-einschreiben-auslieferungsbeleg-und-inhal`
 
-**Frühere Beschreibung:** Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Einwurf-Einschreiben Auslieferungsbeleg und Inhaltseinwand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 002 Einwurf Einschreiben Auslieferungsbeleg Und Inhal
 
@@ -78,7 +78,7 @@ Skill fuer Einwurfeinschreiben als Zustellnachweis bei Kuendigung — Beweiswert
 
 ## 2. `zugang-neu-003-bote-liest-kuendigung-inhalt-umschlag-und-zeugenb`
 
-**Frühere Beschreibung:** Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Bote liest Kündigung Inhalt Umschlag und Zeugenbeweis mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 003 Bote Liest Kuendigung Inhalt Umschlag Und Zeugenb
 
@@ -129,7 +129,7 @@ Arbeitgeber laesst die Kuendigung durch einen **Boten** uebergeben (interner Mit
 
 ## 3. `zugang-neu-004-persoenliche-uebergabe-empfangsverweigerung-und-z`
 
-**Frühere Beschreibung:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Persönliche Übergabe Empfangsverweigerung und Zeugen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 004 Persoenliche Uebergabe Empfangsverweigerung Und Z
 
@@ -177,7 +177,7 @@ Skill fuer persoenliche Uebergabe der Kuendigung und Behandlung der Empfangsverw
 
 ## 4. `zugang-neu-005-hausbriefkasten-leerungszeiten-und-zugang`
 
-**Frühere Beschreibung:** Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Hausbriefkasten Leerungszeiten und Zugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 005 Hausbriefkasten Leerungszeiten Und Zugang
 

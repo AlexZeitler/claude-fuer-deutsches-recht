@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-infl-062-finanzamt-a-bis-infl-068-qualitaetsg
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (infl-062-finanzamt-anfrage-beantworten, infl-066-creator-exit-agenturwechsel, infl-068-qualitaetsgate-veroeffentlichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 062 Finanzamt Anfrage Beantworten, Infl 066 Creator Exit Agenturwechsel, Infl 068 Qualitaetsgate Veroeffentlichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - influencer-recht
+# Arbeitsbereich - Infl 062 Finanzamt Anfrage Beantworten, Infl 066 Creator Exit Agenturwechsel, Infl 068 Qualitaetsgate Veroeffentlichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-062-finanzamt-anfrage-beantworten` | Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie. |
 | `infl-066-creator-exit-agenturwechsel` | Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-062-finanzamt-anfrage-beantworten`
 
-**Frühere Beschreibung:** Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie.
+**Fokus:** Influencer-Recht: Finanzamtsanfragen für Creator beantworten – Auskunftspflichten, Mitwirkung, AO-Fristen und Reaktionsstrategie.
 
 # Influencer-Recht: Finanzamt – Anfrage beantworten
 
@@ -97,7 +97,7 @@ Finanzamtsanfragen bei Creator richten sich meist auf Nebeneinnahmen und Sachlei
 
 ## 2. `infl-066-creator-exit-agenturwechsel`
 
-**Frühere Beschreibung:** Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme.
+**Fokus:** Influencer-Recht: Creator-Exit und Agenturwechsel – Vertragskündigung, Nachvertragliches Wettbewerbsverbot, Nutzungsrechte und Übergangsprobleme.
 
 # Influencer-Recht: Creator-Exit und Agenturwechsel
 
@@ -168,7 +168,7 @@ Ein Agenturwechsel ist oft rechtlich komplex – besonders bei Exklusivverträge
 
 ## 3. `infl-068-qualitaetsgate-veroeffentlichung`
 
-**Frühere Beschreibung:** Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post.
+**Fokus:** Influencer-Recht: Qualitätsgate vor Veröffentlichung – systematischer Freigabe-Check für alle rechtlichen Pflichten vor einem Creator-Post.
 
 # Influencer-Recht: Qualitätsgate – Freigabe vor Veröffentlichung
 

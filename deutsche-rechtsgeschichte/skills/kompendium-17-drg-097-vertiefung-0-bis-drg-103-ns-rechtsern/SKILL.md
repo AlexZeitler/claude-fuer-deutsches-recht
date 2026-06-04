@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-drg-097-vertiefung-0-bis-drg-103-ns-rechtsern
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 17; bündelt 6 frühere Spezialskills (drg-097-vertiefung-01-quellenmatrix, drg-098-vertiefung-01-streitstand-ohne-blindzitat, drg-100-erinnerungskultur-juristen-und-legendenbildung, drg-101-personelle-kontinuitaeten-nach-1945, drg-102-funktionseliten-und-juristische-karrieren und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 097 Vertiefung 01 Quellenmatrix, Drg 098 Vertiefung 01 Streitstand Ohne Blindzitat, Drg 100 Erinnerungskultur Juristen Und Legendenbildung, Drg 101 Personelle Kontinuitaeten Nach 1945 und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 097 Vertiefung 01 Quellenmatrix bis Drg 103 Ns Rechtserneuerung Methodeninstrumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-097-vertiefung-01-quellenmatrix` | Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema. |
 | `drg-098-vertiefung-01-streitstand-ohne-blindzitat` | Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-097-vertiefung-01-quellenmatrix`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema.
+**Fokus:** Deutsche Rechtsgeschichte Vertiefung: Quellenmatrix fuer ein konkretes rechtshistorisches Problem. Systematische Zusammenstellung von Primaerquellen, Sekundaerliteratur und Fundorten zu einem definierten Thema.
 
 # Vertiefung: Quellenmatrix
 
@@ -82,7 +82,7 @@ Alle Quellen mit Fundstelle, frei prüfbar. Primaerquellen: ALEX/ÖNB, gesetze-i
 
 ## 2. `drg-098-vertiefung-01-streitstand-ohne-blindzitat`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite.
+**Fokus:** Deutsche Rechtsgeschichte Vertiefung: Streitstand zu einem rechtshistorischen Problem dokumentieren ohne Blindzitate. Quellengestuetzte Darstellung von Forschungskontroversen mit Angabe von Werk, Auflage und Seite.
 
 # Vertiefung: Streitstand ohne Blindzitat
 
@@ -133,7 +133,7 @@ Kein Blindzitat. Savigny 1814 und Thibaut 1814: historische Erstausgaben. Radbru
 
 ## 3. `drg-100-erinnerungskultur-juristen-und-legendenbildung`
 
-**Frühere Beschreibung:** Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege.
+**Fokus:** Prüft geschönte juristische Geschichtsbilder, Nachrufe, Festschriften und Selbstzeugnisse auf Auslassungen, Rollenwechsel, Entlastungsnarrative und überprüfbare Gegenbelege.
 
 # Juristische Erinnerungskultur und Legendenbildung
 
@@ -163,7 +163,7 @@ Legendenbildungs-Audit mit Quellenmatrix, plausiblen und unplausiblen Entlastung
 
 ## 4. `drg-101-personelle-kontinuitaeten-nach-1945`
 
-**Frühere Beschreibung:** Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945.
+**Fokus:** Analysiert Rückkehr, Warteschleifen, Umdeutung und Verschweigen belasteter Juristen in Fakultäten, Justiz, Ministerien, Verbänden und Wirtschaft nach 1945.
 
 # Personelle Kontinuitäten nach 1945
 
@@ -193,7 +193,7 @@ Kontinuitätsvermerk mit Zeitachse, Akteursmatrix, institutionellem Risiko und o
 
 ## 5. `drg-102-funktionseliten-und-juristische-karrieren`
 
-**Frühere Beschreibung:** Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung.
+**Fokus:** Untersucht Karrieremuster juristischer Eliten in Diktaturen und Nachfolgestaaten: Examenselite, Verwaltungsmacht, Sicherheitsapparat, Wissenschaft, Wirtschaft und spätere Selbstbeschreibung.
 
 # Funktionseliten und juristische Karrieren
 
@@ -223,7 +223,7 @@ Karriere- und Verantwortungsmatrix mit Kategorien: Beobachter, Mitläufer, Nutzn
 
 ## 6. `drg-103-ns-rechtserneuerung-methodeninstrumente`
 
-**Frühere Beschreibung:** Erkennt historische Instrumente der Rechtsperversion: neue Rechtsidee, neue Rechtsquellen, objektive Auslegung, Generalklauseln, Wesensargumente, Führerwille und völkische Begriffe.
+**Fokus:** Erkennt historische Instrumente der Rechtsperversion: neue Rechtsidee, neue Rechtsquellen, objektive Auslegung, Generalklauseln, Wesensargumente, Führerwille und völkische Begriffe.
 
 # Methodeninstrumente der NS-Rechtserneuerung
 

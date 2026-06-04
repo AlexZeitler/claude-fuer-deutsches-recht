@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-vc-070-market-abuse-bis-vc-074-public-fundin
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (vc-070-market-abuse-inside-info, vc-071-kyc-aml-sanctions-investor, vc-073-grants-forschungszulage, vc-074-public-funding-state-aid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 070 Market Abuse Inside Info, Vc 071 Kyc Aml Sanctions Investor, Vc 073 Grants Forschungszulage, Vc 074 Public Funding State Aid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - venture-capital-geber
+# Arbeitsbereich - Vc 070 Market Abuse Inside Info bis Vc 074 Public Funding State Aid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-070-market-abuse-inside-info` | Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken. |
 | `vc-071-kyc-aml-sanctions-investor` | Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-070-market-abuse-inside-info`
 
-**Frühere Beschreibung:** Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken.
+**Fokus:** Warnt bei börsennahen Targets, Token, Secondaries, Corporate VC und vertraulichen Finanzierungsrunden vor Insider-/MAR-Risiken.
 
 # Inside Information und Marktmissbrauch
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-071-kyc-aml-sanctions-investor`
 
-**Frühere Beschreibung:** Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken.
+**Fokus:** Prüft UBO, Mittelherkunft, PEP, Sanktionen, russische/chinesische Bezüge, Wallets und Co-Investorenrisiken.
 
 # KYC, AML und Sanktionen
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-073-grants-forschungszulage`
 
-**Frühere Beschreibung:** Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann.
+**Fokus:** Prüft, ob Portfolio-Unternehmen Forschungszulage, Zuschüsse, EU-Förderung oder Investitionsprogramme nutzen kann.
 
 # Fördermittel und Forschungszulage
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-074-public-funding-state-aid`
 
-**Frühere Beschreibung:** Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups.
+**Fokus:** Prüft Beihilfe-, De-minimis-, EU- und Landesförderungsrisiken bei Deep-Tech- und Infrastruktur-Startups.
 
 # Public Funding und Beihilfe
 

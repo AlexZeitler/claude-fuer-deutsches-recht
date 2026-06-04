@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-geldwaesche-krypto-u-bis-hauptverhandlung-sta
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (geldwaesche-krypto-und-kontoarrest, haeusliche-gewalt-opferschutz-und-beweis, haftbefehl-und-u-haft-antrag, hasskriminalitaet-online-und-plattformdaten, hauptverhandlung-sta-vorbereitung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Krypto Und Kontoarrest, Haeusliche Gewalt Opferschutz Und Beweis, Haftbefehl Und U Haft Antrag, Hasskriminalitaet Online Und Plattformdaten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Geldwaesche Krypto Und Kontoarrest bis Hauptverhandlung Sta Vorbereitung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-krypto-und-kontoarrest` | Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `haeusliche-gewalt-opferschutz-und-beweis` | Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-krypto-und-kontoarrest`
 
-**Frühere Beschreibung:** Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Geldwäsche mit Krypto- oder Kontospuren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Geldwäsche mit Krypto- oder Kontospuren
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `haeusliche-gewalt-opferschutz-und-beweis`
 
-**Frühere Beschreibung:** Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Häusliche Gewalt: Opferschutz, Aussage und Beweis: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Häusliche Gewalt: Opferschutz, Aussage und Beweis
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `haftbefehl-und-u-haft-antrag`
 
-**Frühere Beschreibung:** Haftbefehl und Untersuchungshaft: Praxis-Skill für neue Staatsanwälte zu dringenden Tatverdacht, Haftgründe, Verhältnismäßigkeit und Beschleunigungsgebot für Haftanträge strukturieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Haftbefehl und Untersuchungshaft: Praxis-Skill für neue Staatsanwälte zu dringenden Tatverdacht, Haftgründe, Verhältnismäßigkeit und Beschleunigungsgebot für Haftanträge strukturieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Haftbefehl und Untersuchungshaft
 
@@ -178,7 +178,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `hasskriminalitaet-online-und-plattformdaten`
 
-**Frühere Beschreibung:** Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Hasskriminalität online: Plattformdaten und Kontext: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Hasskriminalität online: Plattformdaten und Kontext
 
@@ -227,7 +227,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `hauptverhandlung-sta-vorbereitung`
 
-**Frühere Beschreibung:** Hauptverhandlung vorbereiten: Praxis-Skill für neue Staatsanwälte zu Beweisthemen, Zeugen, Urkunden, Verständigung, Nebenklage und Reaktionsplan aus StA-Sicht ordnen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Hauptverhandlung vorbereiten: Praxis-Skill für neue Staatsanwälte zu Beweisthemen, Zeugen, Urkunden, Verständigung, Nebenklage und Reaktionsplan aus StA-Sicht ordnen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Hauptverhandlung vorbereiten
 

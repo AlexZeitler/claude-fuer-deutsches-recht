@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-abgabe-frist-upload-bis-korrekturfrist-und-v
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (abgabe-frist-upload, fristverlaengerung-pruefungsleistung, habilitation-verfahren, korrekturfrist-und-verzoegerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abgabe Frist Upload, Fristverlaengerung Pruefungsleistung, Habilitation Verfahren, Korrekturfrist Und Verzoegerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - pruefungsrecht-hochschule
+# Arbeitsbereich - Abgabe Frist Upload bis Korrekturfrist Und Verzoegerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abgabe-frist-upload` | Prüft Abgabe, Frist, Upload und Zugang. |
 | `fristverlaengerung-pruefungsleistung` | Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abgabe-frist-upload`
 
-**Frühere Beschreibung:** Prüft Abgabe, Frist, Upload und Zugang.
+**Fokus:** Prüft Abgabe, Frist, Upload und Zugang.
 
 # Abgabe Frist Upload
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Abgabecheck. Am Ende immer drei Zeilen: **Frist**, **fehlende
 
 ## 2. `fristverlaengerung-pruefungsleistung`
 
-**Frühere Beschreibung:** Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen.
+**Fokus:** Prüft Verlängerungsantrag, Krankheit, Betreuungsausfall, Nachweise und Ermessen.
 
 # Fristverlängerung Prüfungsleistung
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `habilitation-verfahren`
 
-**Frühere Beschreibung:** Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien.
+**Fokus:** Prüft Habilitationsverfahren, Gutachten, Lehrbefähigung, Fristen und Gremien.
 
 # Habilitation Verfahren
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `korrekturfrist-und-verzoegerung`
 
-**Frühere Beschreibung:** Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz.
+**Fokus:** Prüft überlange Korrektur, Folgeschäden, vorläufige Zulassung und Eilrechtsschutz.
 
 # Korrekturfrist und Verzögerung
 

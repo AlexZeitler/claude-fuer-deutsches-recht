@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-miturheber-mehrere-e-bis-nis2-software-vendor
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (miturheber-mehrere-entwickler, model-weights-software-license, nearshore-offshore-development, nis2-software-vendor) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Miturheber Mehrere Entwickler, Model Weights Software License, Nearshore Offshore Development, Nis2 Software Vendor; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - softwarerecht-de-eu-us
+# Arbeitsbereich - Miturheber Mehrere Entwickler bis Nis2 Software Vendor
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `miturheber-mehrere-entwickler` | Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung. |
 | `model-weights-software-license` | Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `miturheber-mehrere-entwickler`
 
-**Frühere Beschreibung:** Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung.
+**Fokus:** Prüft Teams, Co-Authors, Modulbeiträge, Joint Ownership und praktische Verwertung bei deutscher und US-Softwareentwicklung.
 
 # Mehrere Entwickler und Miturheberschaft
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `model-weights-software-license`
 
-**Frühere Beschreibung:** Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung.
+**Fokus:** Prüft Lizenzen für Modelle, Weights, Checkpoints, Inference-Code, Datasets und kommerzielle Nutzung.
 
 # Model Weights Software License
 
@@ -142,7 +142,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `nearshore-offshore-development`
 
-**Frühere Beschreibung:** Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle.
+**Fokus:** Prüft internationale Entwicklerteams, Subunternehmerketten, Arbeits-/IP-Flow-downs, Datenzugriff und Exportkontrolle.
 
 # Nearshore/Offshore Development
 
@@ -199,7 +199,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `nis2-software-vendor`
 
-**Frühere Beschreibung:** Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe.
+**Fokus:** Prüft NIS-2-Auswirkungen auf Softwareanbieter, Lieferketten, kritische Kunden, Incidentpflichten und Vertragsdurchgriffe.
 
 # NIS-2 Software Vendor
 

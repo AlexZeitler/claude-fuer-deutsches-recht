@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-lease-021-steuer-ums-bis-lease-027-grenzueber
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (lease-021-steuer-umsatzsteuer-leasingraten-sonderzahlung, lease-024-immobilienleasing-erbbaurecht-und-grundbuch, lease-027-grenzueberschreitendes-leasing-unidroit-und-rechtswahl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreitendes Leasing Unidroit Und Rechtswahl; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - leasingrecht-praxis
+# Arbeitsbereich - Lease 021 Steuer Umsatzsteuer Leasingraten Sonderzahlung, Lease 024 Immobilienleasing Erbbaurecht Und Grundbuch, Lease 027 Grenzueberschreite
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-021-steuer-umsatzsteuer-leasingraten-sonderzahlung` | Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben. |
 | `lease-024-immobilienleasing-erbbaurecht-und-grundbuch` | Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-021-steuer-umsatzsteuer-leasingraten-sonderzahlung`
 
-**Frühere Beschreibung:** Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben.
+**Fokus:** Umsatzsteuer im Leasingrecht: Lieferung vs. sonstige Leistung, Entstehungszeitpunkt, Vorsteuerabzug, Sonderzahlungen und USt-Pflichtangaben.
 
 # Umsatzsteuer im Leasingrecht
 
@@ -136,7 +136,7 @@ Wenn LN Gemischtverwender (unternehmerisch + privat): Vorsteuer aufteilen.
 
 ## 2. `lease-024-immobilienleasing-erbbaurecht-und-grundbuch`
 
-**Frühere Beschreibung:** Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf.
+**Fokus:** Immobilienleasing: Erbbaurecht, Grundbucheintragung, Bilanzierung, steuerliche Zurechnung und Besonderheiten gegenüber Mietkauf.
 
 # Immobilienleasing: Erbbaurecht und Grundbuch
 
@@ -241,7 +241,7 @@ Einschränkung: Wenn Refinanzierer Grundschuld oder Hypothek hat (§§ 1113 ff. 
 
 ## 3. `lease-027-grenzueberschreitendes-leasing-unidroit-und-rechtswahl`
 
-**Frühere Beschreibung:** Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen.
+**Fokus:** Grenzüberschreitendes Leasing: UNIDROIT-Übereinkommen, Rechtswahl (Rom I-VO), internationales Mobiliar-Leasingrecht, Steuerstrukturierung und Valutafragen.
 
 # Grenzüberschreitendes Leasing: UNIDROIT und Rechtswahl
 

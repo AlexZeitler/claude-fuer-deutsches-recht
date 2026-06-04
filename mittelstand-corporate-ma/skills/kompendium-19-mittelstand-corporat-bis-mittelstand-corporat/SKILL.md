@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-post-closing-integration, mittelstand-corporate-ma-public-ma-kapitalmarkt-mar, mittelstand-corporate-ma-qa-information-requests, mittelstand-corporate-ma-regulatory-fdi-merger-control) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Post Closing Integration, Mittelstand Corporate Ma Public Ma Kapitalmarkt Mar, Mittelstand Corporate Ma Qa Information Requests, Mittelstand Corporate Ma Regulatory Fdi Merger Control; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Post Closing Integration bis Mittelstand Corporate Ma Regulatory Fdi Merger Control
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-post-closing-integration` | Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB. |
 | `mittelstand-corporate-ma-public-ma-kapitalmarkt-mar` | Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-post-closing-integration`
 
-**Frühere Beschreibung:** Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB.
+**Fokus:** Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB.
 
 # Post-Closing Integration
 
@@ -227,7 +227,7 @@ PMI-MEILENSTEINE
 
 ## 2. `mittelstand-corporate-ma-public-ma-kapitalmarkt-mar`
 
-**Frühere Beschreibung:** Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG.
+**Fokus:** Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG.
 
 # Public M&A, Kapitalmarkt und MAR
 
@@ -452,7 +452,7 @@ Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=23.04.201
 
 ## 3. `mittelstand-corporate-ma-qa-information-requests`
 
-**Frühere Beschreibung:** DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung).
+**Fokus:** DD-Team verwaltet Q&A-Prozess im Datenraum: Information Request Lists Follow-ups Antwortqualitaets-Check. Normen §§ 311 241 BGB Offenbarungspflicht Disclosure-Prinzipien. Prüfraster IRL-Vollständigkeit Antwortprüfung Offene-Punkte-Tracking Status-Reporting. Output Q&A-Liste Information-Request-Log Statusbericht. Abgrenzung zu datenraum-gap-clean-room (Lueckenanalyse) und disclosure-schedules (SPA-Verankerung).
 
 # Q&A und Information Requests
 
@@ -621,7 +621,7 @@ Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=04.04.200
 
 ## 4. `mittelstand-corporate-ma-regulatory-fdi-merger-control`
 
-**Frühere Beschreibung:** Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Investitionsprüfung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO.
+**Fokus:** Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Investitionsprüfung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO.
 
 # Fusionskontrolle und Investitionskontrolle
 

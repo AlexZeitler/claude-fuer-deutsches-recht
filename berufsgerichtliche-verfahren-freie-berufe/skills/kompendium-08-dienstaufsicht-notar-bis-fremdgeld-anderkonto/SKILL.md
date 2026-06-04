@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-dienstaufsicht-notar-bis-fremdgeld-anderkonto
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (dienstaufsicht-notar-beschwerde-praevention, dienstaufsicht-notar-beschwerde-verteidigung, fremdgeld-anderkonto-pflicht-praevention, fremdgeld-anderkonto-pflicht-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dienstaufsicht Notar Beschwerde Praevention, Dienstaufsicht Notar Beschwerde Verteidigung, Fremdgeld Anderkonto Pflicht Praevention, Fremdgeld Anderkonto Pflicht Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Dienstaufsicht Notar Beschwerde Praevention bis Fremdgeld Anderkonto Pflicht Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dienstaufsicht-notar-beschwerde-praevention` | Dienstaufsicht Notar Beschwerde (Präventions- und Organisationspaket): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `dienstaufsicht-notar-beschwerde-verteidigung` | Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dienstaufsicht-notar-beschwerde-praevention`
 
-**Frühere Beschreibung:** Dienstaufsicht Notar Beschwerde (Präventions- und Organisationspaket): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Dienstaufsicht Notar Beschwerde (Präventions- und Organisationspaket): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Dienstaufsicht Notar Beschwerde: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `dienstaufsicht-notar-beschwerde-verteidigung`
 
-**Frühere Beschreibung:** Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Dienstaufsicht Notar Beschwerde (Verteidigungs- und Kammerantwort): steuert Dienstaufsichtsbeschwerde, Prüfungsmaßstab, Akteneinsicht, Stellungnahme und Rechtsbehelf mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Dienstaufsicht Notar Beschwerde: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `fremdgeld-anderkonto-pflicht-praevention`
 
-**Frühere Beschreibung:** Fremdgeld und Anderkonto (Präventions- und Organisationspaket): steuert Fremdgeldverwahrung, verspätete Auskehrung, Aufrechnung, Treuhandauflage und Kontenorganisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Fremdgeld und Anderkonto (Präventions- und Organisationspaket): steuert Fremdgeldverwahrung, verspätete Auskehrung, Aufrechnung, Treuhandauflage und Kontenorganisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Fremdgeld und Anderkonto: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `fremdgeld-anderkonto-pflicht-verteidigung`
 
-**Frühere Beschreibung:** Fremdgeld und Anderkonto (Verteidigungs- und Kammerantwort): steuert Fremdgeldverwahrung, verspätete Auskehrung, Aufrechnung, Treuhandauflage und Kontenorganisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Fremdgeld und Anderkonto (Verteidigungs- und Kammerantwort): steuert Fremdgeldverwahrung, verspätete Auskehrung, Aufrechnung, Treuhandauflage und Kontenorganisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Fremdgeld und Anderkonto: Verteidigungs- und Kammerantwort
 

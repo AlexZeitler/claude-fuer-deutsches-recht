@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-desinvestition-carve-bis-dokumentenliste
-description: "aufsichtsrat-ag-se-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (desinvestition-carve-out, distressed-und-insolvenznaehe, dokumentationsstandard, dokumentenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aufsichtsrat-ag-se-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Desinvestition Carve Out, Distressed Und Insolvenznaehe, Dokumentationsstandard, Dokumentenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - aufsichtsrat-ag-se-praxis
+# Arbeitsbereich - Desinvestition Carve Out bis Dokumentenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `desinvestition-carve-out` | AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `distressed-und-insolvenznaehe` | AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `desinvestition-carve-out`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Desinvestition Carve Out; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Desinvestition Carve Out
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `distressed-und-insolvenznaehe`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Distressed Und Insolvenznaehe; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Distressed Und Insolvenznaehe
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `dokumentationsstandard`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentationsstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dokumentationsstandard
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dokumentenliste`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dokumentenliste; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dokumentenliste
 

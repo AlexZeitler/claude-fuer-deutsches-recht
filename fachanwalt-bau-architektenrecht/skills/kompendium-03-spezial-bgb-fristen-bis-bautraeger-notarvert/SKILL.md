@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-bgb-fristen-bis-bautraeger-notarvert
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (spezial-bgb-fristen-form-und-zustaendigkeit, bau-einfuehrung-vertragstypen, bautraeger-eigenkapital-ueberpruefung-vor-vertrag, bautraeger-notarvertrag-grundlagen-pruefraster) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bgb Fristen Form Und Zustaendigkeit, Bau Einfuehrung Vertragstypen, Bautraeger Eigenkapital Ueberpruefung Vor Vertrag, Bautraeger Notarvertrag Grundlagen Pruefraster; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bgb Fristen Form Und Zustaendigkeit bis Bautraeger Notarvertrag Grundlagen Pruefraster
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-bgb-fristen-form-und-zustaendigkeit` | BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `bau-einfuehrung-vertragstypen` | Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag. Pro Typ Aufbau, Pflichten, Vergueng, Kuendigung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-bgb-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** BGB: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # BGB: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `bau-einfuehrung-vertragstypen`
 
-**Frühere Beschreibung:** Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag. Pro Typ Aufbau, Pflichten, Vergueng, Kuendigung.
+**Fokus:** Bau- und Architektenrecht einfuehrend: Bauvertrag § 650a BGB, Verbraucherbauvertrag § 650i BGB, Architektenvertrag § 650p BGB, Ingenieurvertrag, Bautraegervertrag § 650u BGB, VOB Bauvertrag. Pro Typ Aufbau, Pflichten, Vergueng, Kuendigung.
 
 # Bau: Vertragstypen einfuehrend
 
@@ -122,7 +122,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 3. `bautraeger-eigenkapital-ueberpruefung-vor-vertrag`
 
-**Frühere Beschreibung:** Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst pruefen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste.
+**Fokus:** Bautraeger-Eigenkapital-Ueberpruefung vor Vertragsabschluss. Skill klaert was Erwerber selbst pruefen koennen Handelsregister Bonitaetsauskuenfte Referenzen aktuelle Schlagzeilen sowie Warnsignale. Liefert Pruefliste.
 
 # Bautraeger Eigenkapital Ueberpruefung Vor Vertrag
 
@@ -160,7 +160,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 4. `bautraeger-notarvertrag-grundlagen-pruefraster`
 
-**Frühere Beschreibung:** Bautraegervertrag notarieller Pruefraster Grundlagen. Skill bietet das systematische Pruefraster fuer den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste.
+**Fokus:** Bautraegervertrag notarieller Pruefraster Grundlagen. Skill bietet das systematische Pruefraster fuer den notariellen Bautraegervertrag von Praeambel ueber Leistungsbeschreibung Zahlungsregelung Sicherheitsleistung Vormerkung Auflassung Abnahme Maengelhaftung Sonderwuensche. Liefert Checkliste.
 
 # Bautraeger Notarvertrag Grundlagen Pruefraster
 

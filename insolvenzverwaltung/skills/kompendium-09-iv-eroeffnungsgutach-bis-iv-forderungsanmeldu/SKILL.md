@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-iv-eroeffnungsgutach-bis-iv-forderungsanmeldu
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (iv-eroeffnungsgutachten, iv-forderungsanmeldung-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Eroeffnungsgutachten, Iv Forderungsanmeldung Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - insolvenzverwaltung
+# Arbeitsbereich - Iv Eroeffnungsgutachten, Iv Forderungsanmeldung Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-eroeffnungsgutachten` | Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Überschuldung Massekosten Sicherungsbedarf Fortführungsempfehlung. Output: Gutachtengliederung mit Sachverhalt Ergebnis Empfehlung. Abgrenzung: nicht für laufende Verwaltung nach Eroeffnung (iv-regelverfahren-eroeffnung). |
 | `iv-forderungsanmeldung-pruefung` | Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlung Nachrang. Output: Tabellenvermerke Bestreitenserklärungen Nachforderungen. Abgrenzung: nicht für Prüfungstermin selbst (iv-tabelle-prüfungstermin) oder allgemeine Masseeinsammlung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-eroeffnungsgutachten`
 
-**Frühere Beschreibung:** Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Überschuldung Massekosten Sicherungsbedarf Fortführungsempfehlung. Output: Gutachtengliederung mit Sachverhalt Ergebnis Empfehlung. Abgrenzung: nicht für laufende Verwaltung nach Eroeffnung (iv-regelverfahren-eroeffnung).
+**Fokus:** Eroeffnungsgutachten als Sachverständiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Prüfauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgründe §§ 26 54 InsO Massekostendeckung. Prüfraster: Zahlungsunfähigkeit drohende ZU Überschuldung Massekosten Sicherungsbedarf Fortführungsempfehlung. Output: Gutachtengliederung mit Sachverhalt Ergebnis Empfehlung. Abgrenzung: nicht für laufende Verwaltung nach Eroeffnung (iv-regelverfahren-eroeffnung).
 
 # Eröffnungsgutachten
 
@@ -117,7 +117,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `iv-forderungsanmeldung-pruefung`
 
-**Frühere Beschreibung:** Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlung Nachrang. Output: Tabellenvermerke Bestreitenserklärungen Nachforderungen. Abgrenzung: nicht für Prüfungstermin selbst (iv-tabelle-prüfungstermin) oder allgemeine Masseeinsammlung.
+**Fokus:** Eingehende Forderungsanmeldungen nach § 174 InsO prüfen und Tabelle für Prüfungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Prüfraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlung Nachrang. Output: Tabellenvermerke Bestreitenserklärungen Nachforderungen. Abgrenzung: nicht für Prüfungstermin selbst (iv-tabelle-prüfungstermin) oder allgemeine Masseeinsammlung.
 
 # Forderungsanmeldungen prüfen
 

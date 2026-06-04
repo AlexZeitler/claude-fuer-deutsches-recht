@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anlagen-bei-berufung-bis-anlagen-duplikate-ve
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anlagen-bei-berufung-revision, anlagen-bei-eilantrag-eu-arrest, anlagen-bilder-screenshots, anlagen-duplikate-versionen-hashlog) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagen Bei Berufung Revision, Anlagen Bei Eilantrag Eu Arrest, Anlagen Bilder Screenshots, Anlagen Duplikate Versionen Hashlog; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Anlagen Bei Berufung Revision bis Anlagen Duplikate Versionen Hashlog
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagen-bei-berufung-revision` | Anlagen in Berufung und Revision: bisheriges Anlagenverzeichnis uebernehmen oder neu nummerieren? Empfehlung: Berufungsklaegeranlagen als BK1, BK2 ..., Berufungsbeklagter BB1, BB2 ... Revisionsanlagen sind ueblich nur ergaenzend; Schwerpunkt liegt auf den vom Tatrichter festgestellten Tatsachen. |
 | `anlagen-bei-eilantrag-eu-arrest` | Anlagen fuer einstweilige Verfuegung und Arrest: Glaubhaftmachung § 294 ZPO durch Anlagen, eidesstattliche Versicherung als Anlage, parate Beweismittel. Hohe Anforderungen Vollstaendigkeit. Output Standard-Anlagensatz fuer wettbewerbsrechtliche EV, presserechtliche EV und Arrestantrag. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagen-bei-berufung-revision`
 
-**Frühere Beschreibung:** Anlagen in Berufung und Revision: bisheriges Anlagenverzeichnis uebernehmen oder neu nummerieren? Empfehlung: Berufungsklaegeranlagen als BK1, BK2 ..., Berufungsbeklagter BB1, BB2 ... Revisionsanlagen sind ueblich nur ergaenzend; Schwerpunkt liegt auf den vom Tatrichter festgestellten Tatsachen.
+**Fokus:** Anlagen in Berufung und Revision: bisheriges Anlagenverzeichnis uebernehmen oder neu nummerieren? Empfehlung: Berufungsklaegeranlagen als BK1, BK2 ..., Berufungsbeklagter BB1, BB2 ... Revisionsanlagen sind ueblich nur ergaenzend; Schwerpunkt liegt auf den vom Tatrichter festgestellten Tatsachen.
 
 # Anlagen in Berufung/Revision
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 2. `anlagen-bei-eilantrag-eu-arrest`
 
-**Frühere Beschreibung:** Anlagen fuer einstweilige Verfuegung und Arrest: Glaubhaftmachung § 294 ZPO durch Anlagen, eidesstattliche Versicherung als Anlage, parate Beweismittel. Hohe Anforderungen Vollstaendigkeit. Output Standard-Anlagensatz fuer wettbewerbsrechtliche EV, presserechtliche EV und Arrestantrag.
+**Fokus:** Anlagen fuer einstweilige Verfuegung und Arrest: Glaubhaftmachung § 294 ZPO durch Anlagen, eidesstattliche Versicherung als Anlage, parate Beweismittel. Hohe Anforderungen Vollstaendigkeit. Output Standard-Anlagensatz fuer wettbewerbsrechtliche EV, presserechtliche EV und Arrestantrag.
 
 # Anlagen bei Eilantrag und Arrest
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 3. `anlagen-bilder-screenshots`
 
-**Frühere Beschreibung:** Bilder und Screenshots als Anlagen: Beweiskraft, Manipulationsanfaelligkeit, EXIF-Daten, Metadaten. Empfehlung: Original und Vergroesserung beifuegen, EXIF-Export anhaengen, Standortdaten transparent machen. Bei Screenshots: voller Browser/App-Rahmen mit URL und Uhrzeit.
+**Fokus:** Bilder und Screenshots als Anlagen: Beweiskraft, Manipulationsanfaelligkeit, EXIF-Daten, Metadaten. Empfehlung: Original und Vergroesserung beifuegen, EXIF-Export anhaengen, Standortdaten transparent machen. Bei Screenshots: voller Browser/App-Rahmen mit URL und Uhrzeit.
 
 # Bilder/Screenshots als Anlagen
 
@@ -185,7 +185,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 4. `anlagen-duplikate-versionen-hashlog`
 
-**Frühere Beschreibung:** Erkennt doppelte Dateien, verschiedene Fassungen desselben Dokuments, OCR-Kopien, E-Mail-Anhänge und manipulativ wirkende Metadatenbrüche; erzeugt ein Hash- und Versionenprotokoll.
+**Fokus:** Erkennt doppelte Dateien, verschiedene Fassungen desselben Dokuments, OCR-Kopien, E-Mail-Anhänge und manipulativ wirkende Metadatenbrüche; erzeugt ein Hash- und Versionenprotokoll.
 
 # Duplikate, Fassungen und Hashlog
 

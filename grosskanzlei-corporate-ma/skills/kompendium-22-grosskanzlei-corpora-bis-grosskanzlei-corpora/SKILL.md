@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 22; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-teaser-im-processdocs, grosskanzlei-corporate-ma-term-sheet-to-spa-bridge, grosskanzlei-corporate-ma-translations-multijurisdictional, grosskanzlei-corporate-ma-transparenzregister-ubo-chain, grosskanzlei-corporate-ma-vendor-due-diligence-vdd und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Teaser Im Processdocs, Grosskanzlei Corporate Ma Term Sheet To Spa Bridge, Grosskanzlei Corporate Ma Translations Multijurisdictional, Grosskanzlei Corporate Ma Transparenzregister Ubo Chain und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Teaser Im Processdocs bis Grosskanzlei Corporate Ma Weakness Diagnostic Coach
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-teaser-im-processdocs` | Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation. |
 | `grosskanzlei-corporate-ma-term-sheet-to-spa-bridge` | Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-teaser-im-processdocs`
 
-**Frühere Beschreibung:** Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation.
+**Fokus:** Investment Teaser Information Memorandum und Prozessdokumente erstellen: Anwendungsfall Sell-side-Mandat braucht Teaser für erste Bieterkontakte, Information Memorandum und Process Letter für strukturierten Auktionsprozess. SPA M&A-Prozess, MAR Vertraulichkeit. Prüfraster Teaser-Inhalte aus Mandantendaten fuellen, IM-Struktur mit Finanzuebersicht und Unternehmensbeschreibung, Process-Letter-Timeline, NDA-Gate. Output Teaser, IM-Gliederung und Process Letter mit Bieterkommunikation. Abgrenzung zu SPA/APA-Entwurf und zu Bieterprozess-Simulation.
 
 # Teaser, IM und Prozessdokumente
 
@@ -209,7 +209,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-term-sheet-to-spa-bridge`
 
-**Frühere Beschreibung:** Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen.
+**Fokus:** Term-Sheet-to-SPA-Bridge: uebersetzt Term Sheet, LOI oder MoU in SPA-/APA-Struktur, Klauselarchitektur, offene Punkte und Drafting-Anweisungen.
 
 # Term Sheet To SPA Bridge
 
@@ -299,7 +299,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-translations-multijurisdictional`
 
-**Frühere Beschreibung:** Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Laendern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Übersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur.
+**Fokus:** Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Laendern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Übersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur.
 
 # Multi-Jurisdiction und Übersetzungen
 
@@ -476,7 +476,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-transparenzregister-ubo-chain`
 
-**Frühere Beschreibung:** Transparenzregister- und UBO-Chain-Check fuer M&A: prueft wirtschaftlich Berechtigte, Kontrollketten, PEP-/Sanktionsschnittstellen und Dokumentationsbedarf.
+**Fokus:** Transparenzregister- und UBO-Chain-Check fuer M&A: prueft wirtschaftlich Berechtigte, Kontrollketten, PEP-/Sanktionsschnittstellen und Dokumentationsbedarf.
 
 # Transparenzregister UBO Chain
 
@@ -566,7 +566,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-vendor-due-diligence-vdd`
 
-**Frühere Beschreibung:** Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation.
+**Fokus:** Vendor Due Diligence und Vendor Assistance: strukturiert Sell-side-Pruefung, Datenraumreife, Legal Fact Book, Issue Remediation und Bieterkommunikation.
 
 # Vendor Due Diligence VDD
 
@@ -656,7 +656,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-warranty-catalogue-negotiation`
 
-**Frühere Beschreibung:** Warranty Catalogue Negotiation: baut und prueft Garantiepakete fuer Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts.
+**Fokus:** Warranty Catalogue Negotiation: baut und prueft Garantiepakete fuer Corporate, Accounts, Tax, Employment, IP, IT, Data, Compliance, Real Estate und Material Contracts.
 
 # Warranty Catalogue Negotiation
 
@@ -746,7 +746,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-weakness-diagnostic-coach`
 
-**Frühere Beschreibung:** Schwaechen-Diagnose-Coach fuer Deal-Arbeit: erkennt juristisch duenne Argumente, fehlende Fakten, falsche Begriffe, zu schwache Klauseln, unklare Risiken und baut daraus einen konkreten Verbesserungsplan.
+**Fokus:** Schwaechen-Diagnose-Coach fuer Deal-Arbeit: erkennt juristisch duenne Argumente, fehlende Fakten, falsche Begriffe, zu schwache Klauseln, unklare Risiken und baut daraus einen konkreten Verbesserungsplan.
 
 # Weakness Diagnostic Coach
 

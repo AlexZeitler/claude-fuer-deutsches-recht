@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-schulung-urteilsbaue-bis-spezial-beschluss-ta
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (schulung-urteilsbauer, spezial-aktenintake-schriftsatz-brief-und-memo-bausteine, spezial-beschluss-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Schulung Urteilsbauer, Aktenintake Schriftsatz Brief Und Memo Bausteine, Beschluss Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schulung-urteilsbauer` | Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung. |
 | `spezial-aktenintake-schriftsatz-brief-und-memo-bausteine` | Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulung-urteilsbauer`
 
-**Frühere Beschreibung:** Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung.
+**Fokus:** Schulungs-Trainerleitfaden für Plugin urteilsbauer-relationsmacher: Ausbilder plant Schulungstag für Proberichter, Assessoren oder Rechtspfleger. Normen: §§ 313 und 286 und 529 ZPO (Lernziele). Prüfraster: Lernziele, Stundenplan (1 Tag oder 2 Tage), praktische Übungen anhand einer Arbeitsakte, Erwartungshorizont. Output Seminarplan, Arbeitsaufgaben, Bewertungsraster. Abgrenzung: Inhaltliche Arbeit mit Akten siehe relation-zivil, aktenintake-zivil; Prüfungsvorbereitung siehe vollrelation-langfassung.
 
 # Trainer-Leitfaden Schulung Urteilsbauer
 
@@ -152,7 +152,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 
 ## 2. `spezial-aktenintake-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Aktenintake: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -193,7 +193,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-beschluss-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Beschluss: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

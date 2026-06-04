@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-ifap-tabellenauszug-bis-ifap-verteilung-best
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (ifap-tabellenauszug-178, ifap-tabellenimport-175, ifap-verteilung-bestrittene-189) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Tabellenauszug 178, Ifap Tabellenimport 175, Ifap Verteilung Bestrittene 189; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Tabellenauszug 178, Ifap Tabellenimport 175, Ifap Verteilung Bestrittene 189
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-tabellenauszug-178` | Tabellenauszug und Feststellungswirkung nach § 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. § 178 InsO Feststellungswirkung, § 201 InsO Nachhaftung. Prüfraster Feststellungsstatus, Schuldnerwiderspruch abgrenzen, vollstreckbarer Auszug bei Schuldner-ohne-Widerspruch. Output Tabellenauszug mit Feststellungsprotokoll und Vollstreckungshinweis. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung. |
 | `ifap-tabellenimport-175` | Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, Inso-Table-Standard. Prüfraster Gläubiger Anspruchsgrund Betrag Rang vbuH Widerspruch Prüfstatus vollständig. Output tabellenfähige Ausgabe mit Import-Format und Prüfprotokoll. Abgrenzung zu Prüfentscheidung und zu Tabellenauszug-178. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-tabellenauszug-178`
 
-**Frühere Beschreibung:** Tabellenauszug und Feststellungswirkung nach § 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. § 178 InsO Feststellungswirkung, § 201 InsO Nachhaftung. Prüfraster Feststellungsstatus, Schuldnerwiderspruch abgrenzen, vollstreckbarer Auszug bei Schuldner-ohne-Widerspruch. Output Tabellenauszug mit Feststellungsprotokoll und Vollstreckungshinweis. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung.
+**Fokus:** Tabellenauszug und Feststellungswirkung nach § 178 InsO: Anwendungsfall Forderung ist festgestellt und Gläubiger fragt nach Status oder Insolvenzverwalter muss Tabellenauszug als vollstreckbaren Titel erstellen. § 178 InsO Feststellungswirkung, § 201 InsO Nachhaftung. Prüfraster Feststellungsstatus, Schuldnerwiderspruch abgrenzen, vollstreckbarer Auszug bei Schuldner-ohne-Widerspruch. Output Tabellenauszug mit Feststellungsprotokoll und Vollstreckungshinweis. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung.
 
 # Tabellenauszug und Feststellungswirkung
 
@@ -110,7 +110,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-tabellenimport-175`
 
-**Frühere Beschreibung:** Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, Inso-Table-Standard. Prüfraster Gläubiger Anspruchsgrund Betrag Rang vbuH Widerspruch Prüfstatus vollständig. Output tabellenfähige Ausgabe mit Import-Format und Prüfprotokoll. Abgrenzung zu Prüfentscheidung und zu Tabellenauszug-178.
+**Fokus:** Tabelleneintrag und Tabellenimport nach § 175 InsO: Anwendungsfall Forderungen sind geprüft und muessen in gerichtliche Tabelle überführt werden oder CSV-Import in Verwaltungssoftware vorbereitet werden. § 175 InsO Tabelle, § 176 InsO Prüfungstermin, Inso-Table-Standard. Prüfraster Gläubiger Anspruchsgrund Betrag Rang vbuH Widerspruch Prüfstatus vollständig. Output tabellenfähige Ausgabe mit Import-Format und Prüfprotokoll. Abgrenzung zu Prüfentscheidung und zu Tabellenauszug-178.
 
 # Tabellenimport nach § 175 InsO
 
@@ -183,7 +183,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-verteilung-bestrittene-189`
 
-**Frühere Beschreibung:** Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, § 188 InsO Abschlagsverteilung. Prüfraster Nachweiserbringung Gläubiger, Rückbehalt-Berechnung, Nichtberücksichtigung bei fehlendem Nachweis. Output Verteilungsprotokoll für bestrittene Forderungen mit Rückbehalt-Berechnung. Abgrenzung zu Tabellenauszug-178 und zu Streitige-Forderung-179-180.
+**Fokus:** Verteilung bei bestrittenen Forderungen nach § 189 InsO: Anwendungsfall Insolvenzverwalter bereitet Abschlags- oder Schlussverteilung vor und muss bestrittene Forderungen korrekt zurückbehalten oder ausklammern. § 189 InsO Berücksichtigung bestrittener Forderungen, § 196 InsO Schlussverteilung, § 188 InsO Abschlagsverteilung. Prüfraster Nachweiserbringung Gläubiger, Rückbehalt-Berechnung, Nichtberücksichtigung bei fehlendem Nachweis. Output Verteilungsprotokoll für bestrittene Forderungen mit Rückbehalt-Berechnung. Abgrenzung zu Tabellenauszug-178 und zu Streitige-Forderung-179-180.
 
 # Verteilung bei bestrittenen Forderungen
 

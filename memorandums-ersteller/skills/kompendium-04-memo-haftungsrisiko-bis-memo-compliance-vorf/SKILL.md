@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-memo-haftungsrisiko-bis-memo-compliance-vorf
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (memo-haftungsrisiko-rechtsanwalt, memo-board-pack-besondere-anlaesse-spezial, memo-compliance-vorfall-intern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Haftungsrisiko Rechtsanwalt, Memo Board Pack Besondere Anlaesse Spezial, Memo Compliance Vorfall Intern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - memorandums-ersteller
+# Arbeitsbereich - Memo Haftungsrisiko Rechtsanwalt, Memo Board Pack Besondere Anlaesse Spezial, Memo Compliance Vorfall Intern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-haftungsrisiko-rechtsanwalt` | Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjaehrung. Output: Haftungs-Memo fuer Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG). |
 | `memo-board-pack-besondere-anlaesse-spezial` | Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster fuer Vorstand und Generalsekretariat. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-haftungsrisiko-rechtsanwalt`
 
-**Frühere Beschreibung:** Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjaehrung. Output: Haftungs-Memo fuer Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG).
+**Fokus:** Internes Memo zur Haftungspruefung: Mandantenbeziehung, vereinbarte Leistung, denkbare Pflichtverletzung, Schaden, Kausalitaet, Verjaehrung. Output: Haftungs-Memo fuer Kanzleileitung und Berufshaftpflichtversicherer. Pflicht-Hinweise an Versicherer beachten (§ 31 VVG).
 
 # Haftungsrisiko-Memo
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-board-pack-besondere-anlaesse-spezial`
 
-**Frühere Beschreibung:** Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster fuer Vorstand und Generalsekretariat.
+**Fokus:** Spezialfall Memo als Bestandteil eines Board-Packs: Aufsichtsrat / Beirat, Eilfristen, vertrauliche Anlagen, Aktenzeichen. Pruefraster fuer Vorstand und Generalsekretariat.
 
 # Memo: Board-Pack Anlaesse
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memo-compliance-vorfall-intern`
 
-**Frühere Beschreibung:** Internes Compliance-Vorfall-Memo: Schwere des Vorfalls, betroffene Personen, betroffene Normen (KWG, MaRisk, GwG, DSGVO, KartellG), Meldepflichten, Sicherungsmassnahmen, Handlungsempfehlung. Speziell zu beachten: Self-Reporting-Linien (KWG, GwG, BKartA-Bonusregelung).
+**Fokus:** Internes Compliance-Vorfall-Memo: Schwere des Vorfalls, betroffene Personen, betroffene Normen (KWG, MaRisk, GwG, DSGVO, KartellG), Meldepflichten, Sicherungsmassnahmen, Handlungsempfehlung. Speziell zu beachten: Self-Reporting-Linien (KWG, GwG, BKartA-Bonusregelung).
 
 # Compliance-Vorfall-Memo
 

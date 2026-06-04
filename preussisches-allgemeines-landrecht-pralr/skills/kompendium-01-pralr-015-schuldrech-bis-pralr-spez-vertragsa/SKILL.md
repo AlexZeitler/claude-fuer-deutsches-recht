@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-pralr-015-schuldrech-bis-pralr-spez-vertragsa
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (pralr-015-schuldrecht-vertrag-und-form, pralr-017-deliktsrecht-generalklausel, pralr-neu-016-erster-teil-titel-13-miete-pacht-dienstvertrag, pralr-spez-aufwendungsersatz-im-vertrag, pralr-spez-vertragsaufhebung-ruecktritt-wandlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 015 Schuldrecht Vertrag Und Form, Pralr 017 Deliktsrecht Generalklausel, Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag, Pralr Spez Aufwendungsersatz Im Vertrag und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 015 Schuldrecht Vertrag Und Form bis Pralr Spez Vertragsaufhebung Ruecktritt Wandlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-015-schuldrecht-vertrag-und-form` | PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren. |
 | `pralr-017-deliktsrecht-generalklausel` | PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Versehen, Genugtuung und Schaden strukturieren. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-015-schuldrecht-vertrag-und-form`
 
-**Frühere Beschreibung:** PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren.
+**Fokus:** PrALR: Schuldrecht, Vertragsschluss, Formzwang, Schriftlichkeit und historische Verkehrssicherheit analysieren.
 
 # Vertrag und Form
 
@@ -89,7 +89,7 @@ ALR-Loesung: ALR I 5 §§ — Untergang ohne Verschulden = Befreiung von Leistun
 
 ## 2. `pralr-017-deliktsrecht-generalklausel`
 
-**Frühere Beschreibung:** PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Versehen, Genugtuung und Schaden strukturieren.
+**Fokus:** PrALR: deliktische Generalklausel, Vorsatz, grobes/mäßiges Versehen, Genugtuung und Schaden strukturieren.
 
 # Deliktsrecht
 
@@ -150,7 +150,7 @@ ALR-Loesung: ALR I 6 § — eigener Tatbestand fuer Brieftauben! Pflicht zur Rue
 
 ## 3. `pralr-neu-016-erster-teil-titel-13-miete-pacht-dienstvertrag`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 13 Miete Pacht Dienstvertrag mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 016 Erster Teil Titel 13 Miete Pacht Dienstvertrag
 
@@ -199,7 +199,7 @@ Mieter X zahlt 6 Monate nicht.
 
 ## 4. `pralr-spez-aufwendungsersatz-im-vertrag`
 
-**Frühere Beschreibung:** Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhaeltnis zur GoA. Liefert Pruefraster.
+**Fokus:** Aufwendungsersatz im Vertrag nach ALR. Skill behandelt typische Aufwendungsersatzlagen Auftrag (mandatum) Verwahrung (depositum) Vormundschaft (tutela) sowie das Verhaeltnis zur GoA. Liefert Pruefraster.
 
 # Pralr Aufwendungsersatz Im Vertrag
 
@@ -234,7 +234,7 @@ Mieter X zahlt 6 Monate nicht.
 
 ## 5. `pralr-spez-vertragsaufhebung-ruecktritt-wandlung`
 
-**Frühere Beschreibung:** Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschaeftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix.
+**Fokus:** Vertragsaufhebung Ruecktritt und Wandlung im ALR. Skill behandelt die Aufhebungsgruende einvernehmlich gesetzlich (Wegfall der Geschaeftsgrundlage Untergang) und die Ruecktrittstradition. Liefert Quellenmatrix.
 
 # Pralr Vertragsaufhebung Ruecktritt Wandlung
 

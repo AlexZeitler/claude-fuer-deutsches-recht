@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-jveg-sonstige-aufwen-bis-jveg-verdienstausfal
-description: "jveg-kostenpruefer: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (jveg-sonstige-aufwendungen-belege, jveg-uebernachtung-aufwand, jveg-verdienstausfall-haushalt-zeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jveg-kostenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Jveg Sonstige Aufwendungen Belege, Jveg Uebernachtung Aufwand, Jveg Verdienstausfall Haushalt Zeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - jveg-kostenpruefer
+# Arbeitsbereich - Jveg Sonstige Aufwendungen Belege, Jveg Uebernachtung Aufwand, Jveg Verdienstausfall Haushalt Zeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `jveg-sonstige-aufwendungen-belege` | Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, technische Geräte. Normen: § 7 JVEG. Prüfraster: Belegpflicht, angemessene Hoehe, Erstattungsfähigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Übernachtung. |
 | `jveg-uebernachtung-aufwand` | Übernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Prüfraster: Übernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Übernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `jveg-sonstige-aufwendungen-belege`
 
-**Frühere Beschreibung:** Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, technische Geräte. Normen: § 7 JVEG. Prüfraster: Belegpflicht, angemessene Hoehe, Erstattungsfähigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Übernachtung.
+**Fokus:** Sonstige Aufwendungen nach § 7 JVEG prüfen und belegen: Porto, Kopierkosten, technische Geräte. Normen: § 7 JVEG. Prüfraster: Belegpflicht, angemessene Hoehe, Erstattungsfähigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Übernachtung.
 
 # JVEG-Sonstige-Aufwendungen-Belege
 
@@ -93,7 +93,7 @@ Prüfergebnis für Sammelposition sonstige Aufwendungen mit Belegstatus.
 
 ## 2. `jveg-uebernachtung-aufwand`
 
-**Frühere Beschreibung:** Übernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Prüfraster: Übernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Übernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG.
+**Fokus:** Übernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Prüfraster: Übernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Übernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG.
 
 # JVEG-Uebernachtung-Aufwand
 
@@ -160,7 +160,7 @@ Prüfergebnis für Tagegeld und Übernachtung mit BRKG-Abgleich und Belegnachwei
 
 ## 3. `jveg-verdienstausfall-haushalt-zeit`
 
-**Frühere Beschreibung:** Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung.
+**Fokus:** Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG für Zeugen und Sachverständige berechnen. Normen: §§ 20 21 22 JVEG. Prüfraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsführung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverständigenverguetung.
 
 # JVEG-Verdienstausfall-Haushalt-Zeit
 

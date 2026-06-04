@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-design-und-patent-ge-bis-design-und-urheberre
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (design-und-patent-gebrauchsmuster-abgrenzung, design-und-urheberrecht-angewandte-kunst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Design Und Patent Gebrauchsmuster Abgrenzung, Design Und Urheberrecht Angewandte Kunst
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `design-und-patent-gebrauchsmuster-abgrenzung` | Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen. |
 | `design-und-urheberrecht-angewandte-kunst` | Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `design-und-patent-gebrauchsmuster-abgrenzung`
 
-**Frühere Beschreibung:** Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen.
+**Fokus:** Design, Patent und Gebrauchsmuster abgrenzen: sichtbare Gestaltung gegen technische Lehre, Kombination von Schutzrechten und Offenbarungsfallen.
 
 # Design Und Patent Gebrauchsmuster Abgrenzung
 
@@ -59,7 +59,7 @@ IP-Mix-Strategie.
 
 ## 2. `design-und-urheberrecht-angewandte-kunst`
 
-**Frühere Beschreibung:** Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile.
+**Fokus:** Schnittstelle Designrecht und Urheberrecht bei angewandter Kunst prüfen: Designschutz, Werkqualität, Doppelschutz, Schutzdauer und prozessuale Vorteile.
 
 # Design Und Urheberrecht Angewandte Kunst
 

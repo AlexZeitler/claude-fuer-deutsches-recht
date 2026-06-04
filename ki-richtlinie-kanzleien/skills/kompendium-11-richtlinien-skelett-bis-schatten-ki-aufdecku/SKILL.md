@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-richtlinien-skelett-bis-schatten-ki-aufdecku
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (richtlinien-skelett-erzeugen, richtlinien-update-zyklus, schatten-ki-aufdeckung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Richtlinien Skelett Erzeugen, Richtlinien Update Zyklus, Schatten Ki Aufdeckung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `richtlinien-skelett-erzeugen` | KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz. |
 | `richtlinien-update-zyklus` | KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `richtlinien-skelett-erzeugen`
 
-**Frühere Beschreibung:** KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz.
+**Fokus:** KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz.
 
 # Richtlinien-Skelett erzeugen
 
@@ -175,7 +175,7 @@ Genehmigt von: [UNTERSCHRIFT], [DATUM]
 
 ## 2. `richtlinien-update-zyklus`
 
-**Frühere Beschreibung:** KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen.
+**Fokus:** KI-Nutzungsrichtlinie regelmäßig prüfen und aktualisieren: Anwendungsfall bestehende KI-Richtlinie ist aelter als sechs Monate oder es gibt wesentliche neue Rechtsentwicklung. Art. 4 KI-VO KI-Kompetenz, KI-VO Durchführungsrechtsakte, neue BRAK- und DAV-Stellungnahmen. Prüfraster Prüfintervall alle sechs Monate, Triggerliste neue Rechtsprechung BRAK-Stellungnahmen KI-VO-Akte relevante Gerichtsentscheidungen. Output Richtlinien-Update-Protokoll mit Aenderungslog und naechstem Prüftermin. Abgrenzung zu Richtlinien-Skelett für Neuerstellung und zu Literatur-und-Quellen.
 
 # Richtlinien-Update-Zyklus
 
@@ -296,7 +296,7 @@ FREIGABE NACH UPDATE: [DATUM] durch [NAME]
 
 ## 3. `schatten-ki-aufdeckung`
 
-**Frühere Beschreibung:** Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett.
+**Fokus:** Schatten-KI in Kanzleien erkennen und konstruktiv umgehen: Anwendungsfall Kanzleiführung vermutet oder stellt fest dass Mitarbeitende nicht autorisierte KI-Dienste mit privaten Accounts nutzen. § 43a BRAO Verschwiegenheit, DSGVO Datenschutzverletzung, § 203 StGB Berufsgeheimnis. Prüfraster Stilanalyse von Arbeitsergebnissen, Browser-Logs, freiwillige Selbstauskunft, vertrauliche Anlaufstelle, konstruktiver Umgang. Output Aufdeckungs- und Praeventionstrategie mit Kommunikationsplan. Abgrenzung zu Compliance-Regelsatz und zu Richtlinien-Skelett.
 
 # Schatten-KI Aufdeckung
 

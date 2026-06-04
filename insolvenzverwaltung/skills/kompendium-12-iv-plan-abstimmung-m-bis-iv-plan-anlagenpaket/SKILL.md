@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-iv-plan-abstimmung-m-bis-iv-plan-anlagenpaket
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (iv-plan-abstimmung-mehrheiten, iv-plan-anlagenpaket) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Abstimmung Mehrheiten, Iv Plan Anlagenpaket; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Abstimmung Mehrheiten, Iv Plan Anlagenpaket
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-abstimmung-mehrheiten` | Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (iv-plan-gruppen-klassenbildung) oder Cramdown. |
 | `iv-plan-anlagenpaket` | Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (iv-plan-datenraum-register). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-abstimmung-mehrheiten`
 
-**Frühere Beschreibung:** Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (iv-plan-gruppen-klassenbildung) oder Cramdown.
+**Fokus:** Abstimmungsmehrheiten für Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (iv-plan-gruppen-klassenbildung) oder Cramdown.
 
 # IV-integrierte Abstimmung und Mehrheiten
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-anlagenpaket`
 
-**Frühere Beschreibung:** Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (iv-plan-datenraum-register).
+**Fokus:** Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (iv-plan-datenraum-register).
 
 # IV-integrierte Anlagenpaket
 

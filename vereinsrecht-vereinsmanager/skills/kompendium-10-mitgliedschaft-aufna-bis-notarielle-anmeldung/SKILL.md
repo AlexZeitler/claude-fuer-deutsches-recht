@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-mitgliedschaft-aufna-bis-notarielle-anmeldung
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (mitgliedschaft-aufnahme, mitgliedschaft-beendigung, notarielle-anmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mitgliedschaft Aufnahme, Mitgliedschaft Beendigung, Notarielle Anmeldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Mitgliedschaft Aufnahme, Mitgliedschaft Beendigung, Notarielle Anmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mitgliedschaft-aufnahme` | Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige. |
 | `mitgliedschaft-beendigung` | Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mitgliedschaft-aufnahme`
 
-**Frühere Beschreibung:** Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige.
+**Fokus:** Regelt Aufnahme, Ablehnung, Rechte, Pflichten, Beiträge, Datenschutz und Minderjährige.
 
 # Mitgliedschaft und Aufnahme
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `mitgliedschaft-beendigung`
 
-**Frühere Beschreibung:** Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation.
+**Fokus:** Prüft Austritt, Beitragsrückstand, Ausschlussverfahren, Anhörung, Fairness und Dokumentation.
 
 # Austritt, Streichung, Ausschluss
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `notarielle-anmeldung`
 
-**Frühere Beschreibung:** Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor.
+**Fokus:** Bereitet Notartermin und Registeranmeldung für Gründung, Vorstand, Satzungsänderung und Auflösung vor.
 
 # Notarielle Anmeldung
 

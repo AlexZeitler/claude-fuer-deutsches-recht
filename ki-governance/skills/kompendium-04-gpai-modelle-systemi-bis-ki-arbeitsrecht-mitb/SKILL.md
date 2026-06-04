@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-gpai-modelle-systemi-bis-ki-arbeitsrecht-mitb
-description: "ki-governance: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (gpai-modelle-systemic-risk, ki-anbieter-pruefung, ki-arbeitsrecht-mitbestimmung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gpai Modelle Systemic Risk, Ki Anbieter Pruefung, Ki Arbeitsrecht Mitbestimmung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - ki-governance
+# Arbeitsbereich - Gpai Modelle Systemic Risk, Ki Anbieter Pruefung, Ki Arbeitsrecht Mitbestimmung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gpai-modelle-systemic-risk` | General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten fuer Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap fuer Modellanbieter. |
 | `ki-anbieter-pruefung` | Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer "KI-Vertrag prüfen", "Anbietervertrag KI", "AI Act Art. 25 Vertragspflichten" oder "KI-AGB prüfen" sagt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gpai-modelle-systemic-risk`
 
-**Frühere Beschreibung:** General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten fuer Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap fuer Modellanbieter.
+**Fokus:** General-Purpose-AI-Modelle Art. 51 ff. KI-VO: Standardpflichten (Dokumentation, Trainingsdaten, Urheberrecht), zusaetzliche Pflichten fuer Modelle mit systemischem Risiko ab 10E25 FLOPs Trainingsrechenleistung. Verhaltenskodex und CE-Modell. Compliance-Roadmap fuer Modellanbieter.
 
 # GPAI: Systemic-Risk-Modelle
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 2. `ki-anbieter-pruefung`
 
-**Frühere Beschreibung:** Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer "KI-Vertrag prüfen", "Anbietervertrag KI", "AI Act Art. 25 Vertragspflichten" oder "KI-AGB prüfen" sagt.
+**Fokus:** Prüft KI-Anbieterverträge gegen die unternehmenseigenen Governance- Positionen; kennzeichnet Training auf Daten, Haftung, Modelländerungen und KI-Richtlinien-Konsistenz. Unterscheidet Anbieter/Betreiber-Rolle nach Art. 3 KI-VO; prüft Vertragspflichten nach Art. 25 KI-VO. Lädt, wenn der Nutzer "KI-Vertrag prüfen", "Anbietervertrag KI", "AI Act Art. 25 Vertragspflichten" oder "KI-AGB prüfen" sagt.
 
 # KI-Anbieterprüfung
 
@@ -308,7 +308,7 @@ Erstellt: [NAME], [DATUM] — Vor Unterzeichnung anwaltliche Pruefung einholen.
 
 ## 3. `ki-arbeitsrecht-mitbestimmung`
 
-**Frühere Beschreibung:** Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik.
+**Fokus:** Arbeitsrechtliche Folgen des KI-Einsatzes: Mitbestimmung des Betriebsrats § 87 Abs. 1 Nr. 6 BetrVG technische Einrichtung zur Verhaltens- und Leistungskontrolle, Betriebsvereinbarung KI, Datenschutz BDSG-neu und DSGVO. Bewerber-KI und Auswahl-Algorithmen. Mustertexte und Verhandlungstaktik.
 
 # KI: Arbeitsrecht und BR
 

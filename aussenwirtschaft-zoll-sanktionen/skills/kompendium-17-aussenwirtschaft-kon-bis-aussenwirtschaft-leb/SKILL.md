@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-aussenwirtschaft-kon-bis-aussenwirtschaft-leb
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (aussenwirtschaft-kontingente-lizenzen-trq, aussenwirtschaft-kritische-infrastruktur-investment, aussenwirtschaft-kulturgut-einfuhr-ausfuhr, aussenwirtschaft-lebensmittel-futtermittel-vub) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Kontingente Lizenzen Trq, Aussenwirtschaft Kritische Infrastruktur Investment, Aussenwirtschaft Kulturgut Einfuhr Ausfuhr, Aussenwirtschaft Lebensmittel Futtermittel Vub; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Kontingente Lizenzen Trq bis Aussenwirtschaft Lebensmittel Futtermittel Vub
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-kontingente-lizenzen-trq` | Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan. |
 | `aussenwirtschaft-kritische-infrastruktur-investment` | Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeldung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-kontingente-lizenzen-trq`
 
-**Frühere Beschreibung:** Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan.
+**Fokus:** Verwaltung von Zollkontingenten und Tariff-Rate-Quotas (TRQ) nach UZK Art. 56 Abs. 2 lit. b und VO (EU) 952/2013: Antragstellung, TARIC-Kontingentabruf, Kontingentschoepfung, kritische Kontingente und Kontingentlizenzen bei Agrarerzeugnissen. Output: Kontingentantrag und Lizenz-Management-Plan.
 
 # Zollkontingente und TRQ: Antragstellung und Lizenzmanagement
 
@@ -116,7 +116,7 @@ Kontingentantrag bei zustaendiger Stelle, Kontingent-Monitoring-Plan fuer TARIC-
 
 ## 2. `aussenwirtschaft-kritische-infrastruktur-investment`
 
-**Frühere Beschreibung:** Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeldung.
+**Fokus:** Investitionspruefung bei Erwerb kritischer Infrastruktur (KRITIS) durch Drittstaatsinvestoren nach AWV § 55a und Anhang A: Sektoren Energie, Wasser, Digitale Infrastruktur, Finanzmarkt. Anmeldeschwelle 10 Prozent, BMWK-Verfahren und Verbotstatbestaende. Output: KRITIS-Pruefbericht und BMWK-Anmeldung.
 
 # KRITIS-Investitionspruefung: Drittstaatserwerb in kritischer Infrastruktur
 
@@ -203,7 +203,7 @@ KRITIS-Pruefbericht mit Sektoranalyse und Schwellenberechnung, BMWK-Anmeldeformu
 
 ## 3. `aussenwirtschaft-kulturgut-einfuhr-ausfuhr`
 
-**Frühere Beschreibung:** Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz fuer archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Pruefbericht und Antrag.
+**Fokus:** Rechtliche Anforderungen bei grenzueberschreitender Bewegung von Kulturguetern nach VO (EU) 2019/880 und KGSG: Importlizenz fuer archaeologische Gegenstande und Kunstwerke ab Schwellenwert, Ausfuhrgenehmigung nach KGSG, UNESCO-Konvention-Sorgfaltspflichten. Output: Kulturgut-Compliance-Pruefbericht und Antrag.
 
 # Kulturgutschutz: Einfuhr- und Ausfuhranforderungen fuer Kunstwerke und Antiquitaeten
 
@@ -290,7 +290,7 @@ Kulturgut-Compliance-Pruefbericht, Importlizenzantrag, Provenienz-Dokumentations
 
 ## 4. `aussenwirtschaft-lebensmittel-futtermittel-vub`
 
-**Frühere Beschreibung:** Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen fuer Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste.
+**Fokus:** Verbote und Beschraenkungen (VuB) bei Einfuhr von Lebensmitteln und Futtermitteln: EU-Lebensmittelrecht VO (EG) 178/2002, Pflanzenschutzmittelrueckstaende, RASFF-Notifikationen, Grenzkontrolle und BVVG-Verfahren. Besondere Anforderungen fuer Tierprodukte, Pflanzen und Hochrisiko-Gueter. Output: Einfuhr-VuB-Checkliste.
 
 # Lebensmittel- und Futtermitteleinfuhr: Verbote, Beschraenkungen und Grenzkontrolle
 

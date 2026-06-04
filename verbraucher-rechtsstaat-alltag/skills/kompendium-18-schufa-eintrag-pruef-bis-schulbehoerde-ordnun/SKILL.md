@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-schufa-eintrag-pruef-bis-schulbehoerde-ordnun
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (schufa-eintrag-pruefen, schufa-scoring-negativeintrag-dsgvo, schulbehoerde-ordnungsmassnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schufa Eintrag Pruefen, Schufa Scoring Negativeintrag Dsgvo, Schulbehoerde Ordnungsmassnahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Schufa Eintrag Pruefen, Schufa Scoring Negativeintrag Dsgvo, Schulbehoerde Ordnungsmassnahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schufa-eintrag-pruefen` | SCHUFA-Eintrag prüfen: führt Laien durch Auskunftei, Negativeintrag, Forderungsstreit, Löschung und Datenschutzbeschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `schufa-scoring-negativeintrag-dsgvo` | SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schufa-eintrag-pruefen`
 
-**Frühere Beschreibung:** SCHUFA-Eintrag prüfen: führt Laien durch Auskunftei, Negativeintrag, Forderungsstreit, Löschung und Datenschutzbeschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** SCHUFA-Eintrag prüfen: führt Laien durch Auskunftei, Negativeintrag, Forderungsstreit, Löschung und Datenschutzbeschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # SCHUFA-Eintrag prüfen
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `schufa-scoring-negativeintrag-dsgvo`
 
-**Frühere Beschreibung:** SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg.
+**Fokus:** SCHUFA, Scoring und Negativeintrag: prüft DSGVO-Auskunft, Art. 15/17/21/22 DSGVO, EuGH C-634/21 und C-26/22/C-64/22, Restschuldbefreiung, Score-Nutzung durch Banken und Löschungs-/Beschwerdeweg.
 
 # SCHUFA Scoring Negativeintrag DSGVO
 
@@ -135,7 +135,7 @@ Keine pauschalen Löschungsversprechen. Bei titulierten Forderungen, laufenden I
 
 ## 3. `schulbehoerde-ordnungsmassnahme`
 
-**Frühere Beschreibung:** Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Schulbehörde Ordnungsmaßnahme: führt Laien durch Verweis, Ausschluss, Umsetzung, Klassenkonferenz, Anhörung und Rechtsschutz. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Schulbehörde Ordnungsmaßnahme
 

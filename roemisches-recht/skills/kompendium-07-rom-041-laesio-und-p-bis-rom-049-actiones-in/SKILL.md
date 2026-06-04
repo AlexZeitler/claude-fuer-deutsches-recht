@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-rom-041-laesio-und-p-bis-rom-049-actiones-in
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 07; bündelt 8 frühere Spezialskills (rom-041-laesio-und-preisgerechtigkeit, rom-042-bona-fides, rom-043-aequitas, rom-044-exceptio-doli, rom-045-prozess-legisaktionen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 041 Laesio Und Preisgerechtigkeit, Rom 042 Bona Fides, Rom 043 Aequitas, Rom 044 Exceptio Doli und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - roemisches-recht
+# Arbeitsbereich - Rom 041 Laesio Und Preisgerechtigkeit bis Rom 049 Actiones In Rem In Personam
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-041-laesio-und-preisgerechtigkeit` | Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht. |
 | `rom-042-bona-fides` | Römisches Recht: Bona fides als Rechtsprinzip - actiones bonae fidei nach D. 16.3.31 (Paulus), bonae fidei iudicium, objektive Redlichkeit und Verhältnis zu dolus (exceptio doli generalis). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-041-laesio-und-preisgerechtigkeit`
 
-**Frühere Beschreibung:** Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht.
+**Fokus:** Römisches Recht: Laesio enormis nach C. 4.44.2 (Diokletian 285 n.Chr.) - Anfechtung beim Immobilienkauf unter der Hälfte des wahren Werts, Verhältnis zu iustum pretium und späterem Recht.
 
 # Laesio enormis und Preisgerechtigkeit
 
@@ -86,7 +86,7 @@ C. 4.44 (Mommsen-Krüger Codex). D. 19.2.22.3. Kaser RP II. Zimmermann Law of Ob
 
 ## 2. `rom-042-bona-fides`
 
-**Frühere Beschreibung:** Römisches Recht: Bona fides als Rechtsprinzip - actiones bonae fidei nach D. 16.3.31 (Paulus), bonae fidei iudicium, objektive Redlichkeit und Verhältnis zu dolus (exceptio doli generalis).
+**Fokus:** Römisches Recht: Bona fides als Rechtsprinzip - actiones bonae fidei nach D. 16.3.31 (Paulus), bonae fidei iudicium, objektive Redlichkeit und Verhältnis zu dolus (exceptio doli generalis).
 
 # Bona fides - Treu und Glauben im römischen Recht
 
@@ -140,7 +140,7 @@ D. 16.3; D. 44.4; D. 50.17; Gaius Inst. 4.62 (Mommsen-Krüger). Kaser RP I. Zimm
 
 ## 3. `rom-043-aequitas`
 
-**Frühere Beschreibung:** Römisches Recht: Aequitas als Billigkeitsprinzip - Verhältnis zu ius strictum, prätorisches Recht als Korrektiv (D. 1.1.7.1 Papinian), aequitas und ius gentium nach D. 1.1.10 (Ulpian).
+**Fokus:** Römisches Recht: Aequitas als Billigkeitsprinzip - Verhältnis zu ius strictum, prätorisches Recht als Korrektiv (D. 1.1.7.1 Papinian), aequitas und ius gentium nach D. 1.1.10 (Ulpian).
 
 # Aequitas - Billigkeit im römischen Recht
 
@@ -193,7 +193,7 @@ D. 1.1 (Mommsen-Krüger). Papinian D. 1.1.7.1; Ulpian D. 1.1.10. Kaser RP I. Sch
 
 ## 4. `rom-044-exceptio-doli`
 
-**Frühere Beschreibung:** Römisches Recht: Exceptio doli (Arglisteinrede) nach D. 44.4 und Gaius Inst. 4.119 - exceptio doli specialis (quod dolo malo factum est) vs. exceptio doli generalis und ihre prozessuale Funktion.
+**Fokus:** Römisches Recht: Exceptio doli (Arglisteinrede) nach D. 44.4 und Gaius Inst. 4.119 - exceptio doli specialis (quod dolo malo factum est) vs. exceptio doli generalis und ihre prozessuale Funktion.
 
 # Exceptio doli - Arglisteinrede
 
@@ -247,7 +247,7 @@ D. 44.4; D. 4.3; Gaius Inst. 4.116-125 (Mommsen-Krüger). Kaser RP I. Kaser/Hack
 
 ## 5. `rom-045-prozess-legisaktionen`
 
-**Frühere Beschreibung:** Römisches Recht: Legisaktionenprozess nach Gaius Inst. 4.11-29 - fünf Legisaktionen (sacramento, iudicis postulatio, condictio, manus iniectio, pignoris capio), iudex und das bipartite Verfahren.
+**Fokus:** Römisches Recht: Legisaktionenprozess nach Gaius Inst. 4.11-29 - fünf Legisaktionen (sacramento, iudicis postulatio, condictio, manus iniectio, pignoris capio), iudex und das bipartite Verfahren.
 
 # Der Legisaktionenprozess
 
@@ -301,7 +301,7 @@ Gaius Inst. 4.11-29 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). K
 
 ## 6. `rom-046-formularprozess`
 
-**Frühere Beschreibung:** Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 als zweigeteiltes Verfahren in iure/apud iudicem - Formelbestandteile intentio, demonstratio, condemnatio, adiudicatio, exceptio, litiscontestatio und actio-Logik.
+**Fokus:** Römisches Recht: Formularprozess nach Gaius Inst. 4.30-180 als zweigeteiltes Verfahren in iure/apud iudicem - Formelbestandteile intentio, demonstratio, condemnatio, adiudicatio, exceptio, litiscontestatio und actio-Logik.
 
 # Formularprozess
 
@@ -363,7 +363,7 @@ Gaius Inst. 4; D. 5.1 und einschlägige Digestentitel. Formelrekonstruktionen al
 
 ## 7. `rom-048-praetorisches-edikt`
 
-**Frühere Beschreibung:** Römisches Recht: Prätorisches Edikt als Motor der Rechtsentwicklung - edictum perpetuum, ius honorarium nach D. 1.1.7, actiones utiles/ficticiae, exceptiones, interdicta, restitutio in integrum und Kodifikation unter Hadrian.
+**Fokus:** Römisches Recht: Prätorisches Edikt als Motor der Rechtsentwicklung - edictum perpetuum, ius honorarium nach D. 1.1.7, actiones utiles/ficticiae, exceptiones, interdicta, restitutio in integrum und Kodifikation unter Hadrian.
 
 # Das prätorische Edikt
 
@@ -421,7 +421,7 @@ D. 1.1-2; Gaius Inst. 1.6; Iust. Inst. 1.2. Ediktsrekonstruktionen als Rekonstru
 
 ## 8. `rom-049-actiones-in-rem-in-personam`
 
-**Frühere Beschreibung:** Römisches Recht: Actiones in rem (dingliche Klagen) vs. actiones in personam (persönliche Klagen) nach Gaius Inst. 4.1-3 und D. 44.7.25 - Eigentumsklage (rei vindicatio) vs. persönliche Obligationsklage.
+**Fokus:** Römisches Recht: Actiones in rem (dingliche Klagen) vs. actiones in personam (persönliche Klagen) nach Gaius Inst. 4.1-3 und D. 44.7.25 - Eigentumsklage (rei vindicatio) vs. persönliche Obligationsklage.
 
 # Actiones in rem und in personam
 

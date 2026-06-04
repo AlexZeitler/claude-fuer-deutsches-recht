@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-inso-p159-verwertung-bis-inso-p179-streitige
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 21 frühere Spezialskills (inso-p159-verwertung-der-insolvenzmasse, inso-p160-besonders-bedeutsame-rechtshandlungen, inso-p161-vorlaufige-untersagung-der-rechtshandlung, inso-p162-betriebsverausserung-an-besonders-interessierte, inso-p163-betriebsverausserung-unter-wert und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P159 Verwertung Der Insolvenzmasse, Inso P160 Besonders Bedeutsame Rechtshandlungen, Inso P161 Vorlaufige Untersagung Der Rechtshandlung, Inso P162 Betriebsverausserung An Besonders Interessierte und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P159 Verwertung Der Insolvenzmasse bis Inso P179 Streitige Forderungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p159-verwertung-der-insolvenzmasse` | § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p160-besonders-bedeutsame-rechtshandlungen` | § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p159-verwertung-der-insolvenzmasse`
 
-**Frühere Beschreibung:** § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 159 InsO (Verwertung der Insolvenzmasse) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 159 InsO — Verwertung der Insolvenzmasse
 
@@ -101,7 +101,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p160-besonders-bedeutsame-rechtshandlungen`
 
-**Frühere Beschreibung:** § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 160 InsO (Besonders bedeutsame Rechtshandlungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 160 InsO — Besonders bedeutsame Rechtshandlungen
 
@@ -156,7 +156,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p161-vorlaufige-untersagung-der-rechtshandlung`
 
-**Frühere Beschreibung:** § 161 InsO (Vorläufige Untersagung der Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 161 InsO (Vorläufige Untersagung der Rechtshandlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 161 InsO — Vorläufige Untersagung der Rechtshandlung
 
@@ -211,7 +211,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p162-betriebsverausserung-an-besonders-interessierte`
 
-**Frühere Beschreibung:** § 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 162 InsO (Betriebsveräußerung an besonders Interessierte) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 162 InsO — Betriebsveräußerung an besonders Interessierte
 
@@ -266,7 +266,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p163-betriebsverausserung-unter-wert`
 
-**Frühere Beschreibung:** § 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 163 InsO (Betriebsveräußerung unter Wert) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 163 InsO — Betriebsveräußerung unter Wert
 
@@ -321,7 +321,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p164-wirksamkeit-der-handlung`
 
-**Frühere Beschreibung:** § 164 InsO (Wirksamkeit der Handlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 164 InsO (Wirksamkeit der Handlung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 164 InsO — Wirksamkeit der Handlung
 
@@ -376,7 +376,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p165-verwertung-unbeweglicher-gegenstande`
 
-**Frühere Beschreibung:** § 165 InsO (Verwertung unbeweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 165 InsO (Verwertung unbeweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 165 InsO — Verwertung unbeweglicher Gegenstände
 
@@ -431,7 +431,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p166-verwertung-beweglicher-gegenstande`
 
-**Frühere Beschreibung:** § 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 166 InsO (Verwertung beweglicher Gegenstände) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 166 InsO — Verwertung beweglicher Gegenstände
 
@@ -486,7 +486,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p167-unterrichtung-des-glaubigers`
 
-**Frühere Beschreibung:** § 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 167 InsO (Unterrichtung des Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 167 InsO — Unterrichtung des Gläubigers
 
@@ -541,7 +541,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p168-mitteilung-der-verausserungsabsicht`
 
-**Frühere Beschreibung:** § 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 168 InsO (Mitteilung der Veräußerungsabsicht) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 168 InsO — Mitteilung der Veräußerungsabsicht
 
@@ -596,7 +596,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p169-schutz-des-glaubigers-vor-einer-verzogerung-der-verwer`
 
-**Frühere Beschreibung:** § 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 169 InsO (Schutz des Gläubigers vor einer Verzögerung der Verwertung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 169 InsO — Schutz des Gläubigers vor einer Verzögerung der Verwertung
 
@@ -651,7 +651,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p170-verteilung-des-erloses`
 
-**Frühere Beschreibung:** § 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 170 InsO (Verteilung des Erlöses) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 170 InsO — Verteilung des Erlöses
 
@@ -706,7 +706,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p171-berechnung-des-kostenbeitrags`
 
-**Frühere Beschreibung:** § 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 171 InsO (Berechnung des Kostenbeitrags) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 171 InsO — Berechnung des Kostenbeitrags
 
@@ -761,7 +761,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p172-sonstige-verwendung-beweglicher-sachen`
 
-**Frühere Beschreibung:** § 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 172 InsO (Sonstige Verwendung beweglicher Sachen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 172 InsO — Sonstige Verwendung beweglicher Sachen
 
@@ -816,7 +816,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p173-verwertung-durch-den-glaubiger`
 
-**Frühere Beschreibung:** § 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 173 InsO (Verwertung durch den Gläubiger) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 173 InsO — Verwertung durch den Gläubiger
 
@@ -871,7 +871,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p174-anmeldung-der-forderungen`
 
-**Frühere Beschreibung:** § 174 InsO (Anmeldung der Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 174 InsO (Anmeldung der Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 174 InsO — Anmeldung der Forderungen
 
@@ -926,7 +926,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p175-tabelle`
 
-**Frühere Beschreibung:** § 175 InsO (Tabelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 175 InsO (Tabelle) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 175 InsO — Tabelle
 
@@ -981,7 +981,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p176-verlauf-des-prufungstermins`
 
-**Frühere Beschreibung:** § 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 176 InsO (Verlauf des Prüfungstermins) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 176 InsO — Verlauf des Prüfungstermins
 
@@ -1036,7 +1036,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p177-nachtragliche-anmeldungen`
 
-**Frühere Beschreibung:** § 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 177 InsO (Nachträgliche Anmeldungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 177 InsO — Nachträgliche Anmeldungen
 
@@ -1091,7 +1091,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p178-voraussetzungen-und-wirkungen-der-feststellung`
 
-**Frühere Beschreibung:** § 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 178 InsO (Voraussetzungen und Wirkungen der Feststellung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 178 InsO — Voraussetzungen und Wirkungen der Feststellung
 
@@ -1146,7 +1146,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p179-streitige-forderungen`
 
-**Frühere Beschreibung:** § 179 InsO (Streitige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 179 InsO (Streitige Forderungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 179 InsO — Streitige Forderungen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-pe-018-esg-sfdr-und-bis-pe-022-loi-nbo-bindi
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (pe-018-esg-sfdr-und-lieferketten, pe-019-gwg-kyc-ubo-und-sanctions, pe-021-teaser-nda-process-letter, pe-022-loi-nbo-binding-offer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 018 Esg Sfdr Und Lieferketten, Pe 019 Gwg Kyc Ubo Und Sanctions, Pe 021 Teaser Nda Process Letter, Pe 022 Loi Nbo Binding Offer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - private-equity-praxis
+# Arbeitsbereich - Pe 018 Esg Sfdr Und Lieferketten bis Pe 022 Loi Nbo Binding Offer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-018-esg-sfdr-und-lieferketten` | Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten. |
 | `pe-019-gwg-kyc-ubo-und-sanctions` | Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-018-esg-sfdr-und-lieferketten`
 
-**Frühere Beschreibung:** Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten.
+**Fokus:** Prüft ESG-Klassifizierung, SFDR-Kommunikation, CSRD-Daten, LkSG/CSDDD-Schnittstellen und Portfolio-Pflichten.
 
 # ESG, SFDR und Lieferketten im PE-Mandat
 
@@ -126,7 +126,7 @@ PAI Excuse Right (Side Letter):
 
 ## 2. `pe-019-gwg-kyc-ubo-und-sanctions`
 
-**Frühere Beschreibung:** Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren.
+**Fokus:** Prüft wirtschaftlich Berechtigte, Mittelherkunft, PEP, Sanktionen, Russland-/China-/Dual-Use-Risiken und Transaktionssperren.
 
 # GwG, KYC, UBO und Sanktionen
 
@@ -229,7 +229,7 @@ UBO-Erklärung (KYC Form):
 
 ## 3. `pe-021-teaser-nda-process-letter`
 
-**Frühere Beschreibung:** Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit.
+**Fokus:** Prüft Verkäuferprozess von anonymisiertem Teaser bis Process Letter mit Fristen, Q&A, Datenraum und Vertraulichkeit.
 
 # Teaser, NDA und Process Letter
 
@@ -270,7 +270,7 @@ BGB culpa in contrahendo, GeschGehG, DSGVO, Kartellrecht Clean Team.
 
 ## 4. `pe-022-loi-nbo-binding-offer`
 
-**Frühere Beschreibung:** Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee.
+**Fokus:** Erstellt und prüft Non-Binding Offer, Letter of Intent und Binding Offer mit Bedingungen, Exklusivität und Break Fee.
 
 # LOI, NBO und Binding Offer
 

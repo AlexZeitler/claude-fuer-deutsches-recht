@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ma-einfuehrung-erstk-bis-ma-konfliktcheck-kon
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ma-einfuehrung-erstkontakt-typen, ma-erstvermerk-mandantenakte, ma-konfliktcheck-konzern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ma Einfuehrung Erstkontakt Typen, Ma Erstvermerk Mandantenakte, Ma Konfliktcheck Konzern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - mandantenanfragen-assistent
+# Arbeitsbereich - Ma Einfuehrung Erstkontakt Typen, Ma Erstvermerk Mandantenakte, Ma Konfliktcheck Konzern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ma-einfuehrung-erstkontakt-typen` | Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen. |
 | `ma-erstvermerk-mandantenakte` | Erstvermerk fuer die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ma-einfuehrung-erstkontakt-typen`
 
-**Frühere Beschreibung:** Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen.
+**Fokus:** Erstkontakt-Typen einfuehrend: Telefon, E-Mail, Webformular, Walk-in, Empfehlung. Pro Typ: Risiken, Dokumentation, Datenschutz, Naechster Schritt. Routing-Logik und Eskalation bei sensiblen Faellen.
 
 # Erstkontakt: Typen
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 2. `ma-erstvermerk-mandantenakte`
 
-**Frühere Beschreibung:** Erstvermerk fuer die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte.
+**Fokus:** Erstvermerk fuer die Mandantenakte: Pflichtangaben (Mandant, Sachverhalt, Eilbedarf, Ziel, Honorar, naechster Schritt), interne Hinweise (Konflikte, sensible Punkte). Format und Aufbewahrung in der Akte.
 
 # Erstvermerk Mandantenakte
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 3. `ma-konfliktcheck-konzern`
 
-**Frühere Beschreibung:** Spezialfall Konfliktcheck im Konzern: Mandat fuer Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte fuer Einwilligungen und Hinweis an Mandant.
+**Fokus:** Spezialfall Konfliktcheck im Konzern: Mandat fuer Tochter eines bestehenden Mandanten, gegenlaeufige Interessen, Chinese Walls, Information Barriers. Pruefraster und Mustertexte fuer Einwilligungen und Hinweis an Mandant.
 
 # Konfliktcheck im Konzern
 

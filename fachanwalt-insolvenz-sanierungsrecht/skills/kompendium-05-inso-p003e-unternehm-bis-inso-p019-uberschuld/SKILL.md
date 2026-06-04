@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-inso-p003e-unternehm-bis-inso-p019-uberschuld
-description: "fachanwalt-insolvenz-sanierungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 21 frühere Spezialskills (inso-p003e-unternehmensgruppe, inso-p004b-ruckzahlung-und-anpassung-der-gestundeten-betrage, inso-p004c-aufhebung-der-stundung, inso-p004d-rechtsmittel, inso-p006-sofortige-beschwerde und 16 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-insolvenz-sanierungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso P003e Unternehmensgruppe, Inso P004b Ruckzahlung Und Anpassung Der Gestundeten Betrage, Inso P004c Aufhebung Der Stundung, Inso P004d Rechtsmittel und 17 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-insolvenz-sanierungsrecht
+# Arbeitsbereich - Inso P003e Unternehmensgruppe bis Inso P019 Uberschuldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-p003e-unternehmensgruppe` | § 3e InsO (Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
 | `inso-p004b-ruckzahlung-und-anpassung-der-gestundeten-betrage` | § 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung. |
@@ -37,16 +37,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-p003e-unternehmensgruppe`
 
-**Frühere Beschreibung:** § 3e InsO (Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 3e InsO (Unternehmensgruppe) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 3e InsO — Unternehmensgruppe
 
@@ -99,7 +99,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 2. `inso-p004b-ruckzahlung-und-anpassung-der-gestundeten-betrage`
 
-**Frühere Beschreibung:** § 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 4b InsO (Rückzahlung und Anpassung der gestundeten Beträge) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 4b InsO — Rückzahlung und Anpassung der gestundeten Beträge
 
@@ -152,7 +152,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 3. `inso-p004c-aufhebung-der-stundung`
 
-**Frühere Beschreibung:** § 4c InsO (Aufhebung der Stundung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 4c InsO (Aufhebung der Stundung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 4c InsO — Aufhebung der Stundung
 
@@ -205,7 +205,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 4. `inso-p004d-rechtsmittel`
 
-**Frühere Beschreibung:** § 4d InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 4d InsO (Rechtsmittel) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 4d InsO — Rechtsmittel
 
@@ -260,7 +260,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 5. `inso-p006-sofortige-beschwerde`
 
-**Frühere Beschreibung:** § 6 InsO (Sofortige Beschwerde) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 6 InsO (Sofortige Beschwerde) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 6 InsO — Sofortige Beschwerde
 
@@ -315,7 +315,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 6. `inso-p007-weggefallen`
 
-**Frühere Beschreibung:** § 7 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen.
+**Fokus:** § 7 InsO ist im aktuellen Normtext weggefallen. Der Skill hilft, Altakten, Übergangsfälle und Nachfolgeregelungen ohne falsche Altfassungsübernahme einzuordnen.
 
 # § 7 InsO — (weggefallen)
 
@@ -368,7 +368,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 7. `inso-p008-zustellungen`
 
-**Frühere Beschreibung:** § 8 InsO (Zustellungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 8 InsO (Zustellungen) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 8 InsO — Zustellungen
 
@@ -423,7 +423,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 8. `inso-p009-offentliche-bekanntmachung`
 
-**Frühere Beschreibung:** § 9 InsO (Öffentliche Bekanntmachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 9 InsO (Öffentliche Bekanntmachung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 9 InsO — Öffentliche Bekanntmachung
 
@@ -478,7 +478,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 9. `inso-p010-anhorung-des-schuldners`
 
-**Frühere Beschreibung:** § 10 InsO (Anhörung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 10 InsO (Anhörung des Schuldners) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 10 InsO — Anhörung des Schuldners
 
@@ -533,7 +533,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 10. `inso-p010a-vorgesprach`
 
-**Frühere Beschreibung:** § 10a InsO (Vorgespräch) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 10a InsO (Vorgespräch) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 10a InsO — Vorgespräch
 
@@ -588,7 +588,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 11. `inso-p012-juristische-personen-des-offentlichen-rechts`
 
-**Frühere Beschreibung:** § 12 InsO (Juristische Personen des öffentlichen Rechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 12 InsO (Juristische Personen des öffentlichen Rechts) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 12 InsO — Juristische Personen des öffentlichen Rechts
 
@@ -643,7 +643,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 12. `inso-p013-eroffnungsantrag`
 
-**Frühere Beschreibung:** § 13 InsO (Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 13 InsO (Eröffnungsantrag) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 13 InsO — Eröffnungsantrag
 
@@ -698,7 +698,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 13. `inso-p013a-antrag-zur-begrundung-eines-gruppen-gerichtsstands`
 
-**Frühere Beschreibung:** § 13a InsO (Antrag zur Begründung eines Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 13a InsO (Antrag zur Begründung eines Gruppen-Gerichtsstands) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 13a InsO — Antrag zur Begründung eines Gruppen-Gerichtsstands
 
@@ -753,7 +753,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 14. `inso-p014-antrag-eines-glaubigers`
 
-**Frühere Beschreibung:** § 14 InsO (Antrag eines Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 14 InsO (Antrag eines Gläubigers) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 14 InsO — Antrag eines Gläubigers
 
@@ -809,7 +809,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 15. `inso-p015-antragsrecht-bei-juristischen-personen-und-rechtsfahig`
 
-**Frühere Beschreibung:** § 15 InsO (Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 15 InsO (Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 15 InsO — Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften
 
@@ -864,7 +864,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 16. `inso-p015a-antragspflicht-bei-juristischen-personen-und-rechtsfa`
 
-**Frühere Beschreibung:** § 15a InsO (Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 15a InsO (Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 15a InsO — Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften
 
@@ -919,7 +919,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 17. `inso-p015b-zahlungen-bei-zahlungsunfahigkeit-und-uberschuldung-v`
 
-**Frühere Beschreibung:** § 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 15b InsO (Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 15b InsO — Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung
 
@@ -974,7 +974,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 18. `inso-p016-eroffnungsgrund`
 
-**Frühere Beschreibung:** § 16 InsO (Eröffnungsgrund) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 16 InsO (Eröffnungsgrund) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 16 InsO — Eröffnungsgrund
 
@@ -1029,7 +1029,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 19. `inso-p017-zahlungsunfahigkeit`
 
-**Frühere Beschreibung:** § 17 InsO (Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 17 InsO (Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 17 InsO — Zahlungsunfähigkeit
 
@@ -1084,7 +1084,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 20. `inso-p018-drohende-zahlungsunfahigkeit`
 
-**Frühere Beschreibung:** § 18 InsO (Drohende Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 18 InsO (Drohende Zahlungsunfähigkeit) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 18 InsO — Drohende Zahlungsunfähigkeit
 
@@ -1139,7 +1139,7 @@ Zitiere Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und mö
 
 ## 21. `inso-p019-uberschuldung`
 
-**Frühere Beschreibung:** § 19 InsO (Überschuldung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
+**Fokus:** § 19 InsO (Überschuldung) im Mandat prüfen: Normzweck, Tatbestand, Belege, Rechtsfolge, Fristen, Schnittstellen und sichere Quellenprüfung.
 
 # § 19 InsO — Überschuldung
 

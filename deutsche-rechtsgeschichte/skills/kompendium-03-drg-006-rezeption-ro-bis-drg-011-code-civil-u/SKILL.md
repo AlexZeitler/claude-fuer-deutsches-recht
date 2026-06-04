@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-drg-006-rezeption-ro-bis-drg-011-code-civil-u
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 03; bündelt 6 frühere Spezialskills (drg-006-rezeption-roemischen-rechts, drg-007-reichskammergericht-und-reichshofrat, drg-008-gemeines-recht-und-partikularrecht, drg-009-naturrecht-und-vernunftrecht, drg-010-preussisches-allgemeines-landrecht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 006 Rezeption Roemischen Rechts, Drg 007 Reichskammergericht Und Reichshofrat, Drg 008 Gemeines Recht Und Partikularrecht, Drg 009 Naturrecht Und Vernunftrecht und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 006 Rezeption Roemischen Rechts bis Drg 011 Code Civil Und Rheinisches Recht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-006-rezeption-roemischen-rechts` | Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht. |
 | `drg-007-reichskammergericht-und-reichshofrat` | Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zustaendigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-006-rezeption-roemischen-rechts`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht.
+**Fokus:** Deutsche Rechtsgeschichte: Rezeption des roemischen Rechts in Deutschland. Glossatoren, Kommentatoren, Usus modernus Pandectarum, mos italicus vs. mos gallicus und das ius commune als gemeines Recht.
 
 # Rezeption des roemischen Rechts
 
@@ -80,7 +80,7 @@ Corpus Iuris Civilis: Mommsen-Krueger-Edition. Reichskammergerichtsordnung 1495:
 
 ## 2. `drg-007-reichskammergericht-und-reichshofrat`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zustaendigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte.
+**Fokus:** Deutsche Rechtsgeschichte: Reichskammergericht (1495-1806) und Reichshofrat (1497-1806). Aufbau, Zustaendigkeit, Rezeption des gelehrten Rechts, Konkurrenz beider Gerichte und Bedeutung als Vorlaeufer moderner Obergerichte.
 
 # Reichskammergericht und Reichshofrat
 
@@ -128,7 +128,7 @@ RKG-Ordnung 1495: historische Druckausgaben (Neue Sammlung der Reichsabschluesse
 
 ## 3. `drg-008-gemeines-recht-und-partikularrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation.
+**Fokus:** Deutsche Rechtsgeschichte: Gemeines Recht und Partikularrecht im 16.-19. Jahrhundert. Ius commune vs. Territorialrecht, Subsidiaritaet des roemischen Rechts, Preussens Sonderweg und Aufloesung durch die BGB-Kodifikation.
 
 # Gemeines Recht und Partikularrecht
 
@@ -177,7 +177,7 @@ ALR: ALEX/OeNB. EGBGB: gesetze-im-internet.de. Dernburg Pandekten: historische E
 
 ## 4. `drg-009-naturrecht-und-vernunftrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung.
+**Fokus:** Deutsche Rechtsgeschichte: Naturrecht und Vernunftrecht im 17. und 18. Jahrhundert. Grotius, Pufendorf, Wolff, Kant und der Einfluss auf ALR, Code Civil und fruehe Kodifikationsbewegung.
 
 # Naturrecht und Vernunftrecht
 
@@ -228,7 +228,7 @@ Grotius 1625, Pufendorf 1672, Wolff 1740-1748: historische Erstausgaben. Kant Me
 
 ## 5. `drg-010-preussisches-allgemeines-landrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht.
+**Fokus:** Deutsche Rechtsgeschichte: Preussisches Allgemeines Landrecht (ALR) von 1794. Entstehung unter Friedrich dem Grossen und Svarez, kasuistische Kodifikationstechnik, Inhalt und Scheitern als gesamtdeutsches Zivilrecht.
 
 # Preussisches Allgemeines Landrecht (ALR 1794)
 
@@ -279,7 +279,7 @@ ALR 1794: historische Druckausgaben oder ALEX/OeNB. Svarez Revisionsarbeiten: Ge
 
 ## 6. `drg-011-code-civil-und-rheinisches-recht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung.
+**Fokus:** Deutsche Rechtsgeschichte: Code Civil (1804) und rheinisches Recht. Napoleonische Kodifikation, Geltung in Deutschland, rheinisches Recht im 19. Jahrhundert und Nachwirkung auf BGB-Entstehung.
 
 # Code Civil und rheinisches Recht
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-iv-idw-s6-sanierungs-bis-iv-kommandocenter
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (iv-idw-s6-sanierungsfaehigkeit-gate, iv-kommandocenter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - insolvenzverwaltung
+# Arbeitsbereich - Iv Idw S6 Sanierungsfaehigkeit Gate, Iv Kommandocenter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-idw-s6-sanierungsfaehigkeit-gate` | Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel. |
 | `iv-kommandocenter` | Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-idw-s6-sanierungsfaehigkeit-gate`
 
-**Frühere Beschreibung:** Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel.
+**Fokus:** Prüft aus Insolvenzverwalter-, Sachwalter- oder vorläufiger Verwalterperspektive, ob ein Sanierungskonzept auf IDW-S-6-Niveau tragfähig ist. Kernbestandteile: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild des sanierten Unternehmens, Maßnahmenpaket, integrierte GuV-/Bilanz-/Liquiditätsplanung, Fortbestehensprognose, Dokumentation und Red-Team-Gaps. Output: Sanierungsfähigkeitsvermerk, Lückenliste, Datenanforderung und Go/No-go-Ampel.
 
 # Sanierungsfähigkeit-Gate für Insolvenzverwaltung
 
@@ -171,7 +171,7 @@ Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen. Rechtsprec
 
 ## 2. `iv-kommandocenter`
 
-**Frühere Beschreibung:** Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills.
+**Fokus:** Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills.
 
 # Insolvenzverwaltungs-Kommandocenter
 

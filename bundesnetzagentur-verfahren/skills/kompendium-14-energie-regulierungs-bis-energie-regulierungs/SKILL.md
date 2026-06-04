@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-energie-regulierungs-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 14; bündelt 8 frühere Spezialskills (energie-regulierungsakte-anreizregulierung-erloesobergrenze-unte, energie-regulierungsakte-bbplg-leitungsvorhaben-rechtsmittel-che, energie-regulierungsakte-bbplg-leitungsvorhaben-stellungnahme-en, energie-regulierungsakte-bbplg-leitungsvorhaben-unterlagenanford, energie-regulierungsakte-bilanzkreis-gas-rechtsmittel-check und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Regulierungsakte Anreizregulierung Erloesobergrenze Unte, Energie Regulierungsakte Bbplg Leitungsvorhaben Rechtsmittel Che, Energie Regulierungsakte Bbplg Leitungsvorhaben Stellungnahme En, Energie Regulierungsakte Bbplg Leitungsvorhaben Unterlagenanford und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmus"
 ---
 
-# Kompendium 14 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Regulierungsakte Anreizregulierung Erloesobergrenze Unte bis Energie Regulierungsakte Bilanzkreis Strom Unterlagenanforderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-regulierungsakte-anreizregulierung-erloesobergrenze-unte` | Anreizregulierung Erlösobergrenze: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
 | `energie-regulierungsakte-bbplg-leitungsvorhaben-rechtsmittel-che` | BBPlG Leitungsvorhaben: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-regulierungsakte-anreizregulierung-erloesobergrenze-unte`
 
-**Frühere Beschreibung:** Anreizregulierung Erlösobergrenze: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Anreizregulierung Erlösobergrenze: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Unterlagenanforderung
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-regulierungsakte-bbplg-leitungsvorhaben-rechtsmittel-che`
 
-**Frühere Beschreibung:** BBPlG Leitungsvorhaben: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** BBPlG Leitungsvorhaben: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Rechtsmittel-Check
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-regulierungsakte-bbplg-leitungsvorhaben-stellungnahme-en`
 
-**Frühere Beschreibung:** BBPlG Leitungsvorhaben: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** BBPlG Leitungsvorhaben: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Stellungnahme-Entwurf
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-bbplg-leitungsvorhaben-unterlagenanford`
 
-**Frühere Beschreibung:** BBPlG Leitungsvorhaben: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** BBPlG Leitungsvorhaben: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: BBPlG Leitungsvorhaben — Unterlagenanforderung
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-bilanzkreis-gas-rechtsmittel-check`
 
-**Frühere Beschreibung:** Bilanzkreis Gas: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Gas: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Gas — Rechtsmittel-Check
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-bilanzkreis-gas-unterlagenanforderung`
 
-**Frühere Beschreibung:** Bilanzkreis Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Gas: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Gas — Unterlagenanforderung
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-bilanzkreis-strom-rechtsmittel-check`
 
-**Frühere Beschreibung:** Bilanzkreis Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Strom: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Rechtsmittel-Check
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-bilanzkreis-strom-unterlagenanforderung`
 
-**Frühere Beschreibung:** Bilanzkreis Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Strom: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Unterlagenanforderung
 

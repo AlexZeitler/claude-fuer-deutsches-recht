@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-cramdown-1129b-bis-critical-vendors
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (cramdown-1129b, credit-bidding-363k, creditors-committee-1102, critical-vendors) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Cramdown 1129b, Credit Bidding 363k, Creditors Committee 1102, Critical Vendors; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - us-bankruptcy-code
+# Arbeitsbereich - Cramdown 1129b bis Critical Vendors
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `cramdown-1129b` | Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes. |
 | `credit-bidding-363k` | Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `cramdown-1129b`
 
-**Frühere Beschreibung:** Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes.
+**Fokus:** Prueft fair and equitable, no unfair discrimination, secured creditor treatment and impaired dissenting classes.
 
 # Cramdown § 1129(b)
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `credit-bidding-363k`
 
-**Frühere Beschreibung:** Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy.
+**Fokus:** Prueft secured creditor credit bid rights, cause to limit, lien disputes, plan sale and loan-to-own strategy.
 
 # Credit Bidding § 363(k)
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `creditors-committee-1102`
 
-**Frühere Beschreibung:** Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy.
+**Fokus:** Prueft official committee formation, membership, fiduciary role, professionals, information rights and strategy.
 
 # Creditors Committee § 1102
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `critical-vendors`
 
-**Frühere Beschreibung:** Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk.
+**Fokus:** Prueft critical-vendor payments, necessity doctrine, § 503(b)(9), trade leverage and first-day order risk.
 
 # Critical Vendors
 

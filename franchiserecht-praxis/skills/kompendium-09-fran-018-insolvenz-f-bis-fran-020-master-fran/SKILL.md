@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-fran-018-insolvenz-f-bis-fran-020-master-fran
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (fran-018-insolvenz-franchisenehmer-fortfuehrung-und-marke, fran-019-insolvenz-franchisegeber-systemhandbuch-und-lizenzen, fran-020-master-franchise-internationalisierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 018 Insolvenz Franchisenehmer Fortfuehrung Und Marke, Fran 019 Insolvenz Franchisegeber Systemhandbuch Und Lizenzen, Fran 020 Master Franchise Internationalisierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - franchiserecht-praxis
+# Arbeitsbereich - Fran 018 Insolvenz Franchisenehmer Fortfuehrung Und Marke, Fran 019 Insolvenz Franchisegeber Systemhandbuch Und Lizenzen, Fran 020 Master Fra
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-018-insolvenz-franchisenehmer-fortfuehrung-und-marke` | Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen. |
 | `fran-019-insolvenz-franchisegeber-systemhandbuch-und-lizenzen` | Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-018-insolvenz-franchisenehmer-fortfuehrung-und-marke`
 
-**Frühere Beschreibung:** Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen.
+**Fokus:** Insolvenz des Franchisenehmers: Fortführung des Franchisesystems durch den Insolvenzverwalter, Marken- und Know-how-Schutz des Franchisegebers, Sonderkündigungsrecht nach § 103 InsO und Rückforderung von Systemkennzeichen.
 
 # Franchiserecht: Insolvenz des Franchisenehmers – Fortführung und Markenschutz
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-019-insolvenz-franchisegeber-systemhandbuch-und-lizenzen`
 
-**Frühere Beschreibung:** Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer.
+**Fokus:** Insolvenz des Franchisegebers: Schicksal der Marken- und Know-how-Lizenzen, Systemhandbuch-Herausgabe, Fortführungsrechte der Franchisenehmer nach §§ 108a InsO und Schutz systemkritischer Investitionen der Franchisenehmer.
 
 # Franchiserecht: Insolvenz des Franchisegebers – Systemhandbuch und Lizenzen
 
@@ -186,7 +186,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-020-master-franchise-internationalisierung`
 
-**Frühere Beschreibung:** Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten.
+**Fokus:** Master-Franchise-Struktur für internationale Expansion prüfen: Mehrebenenverhältnis Franchisegeber/Master-Franchisenehmer/Sub-Franchisenehmer, Markenlizenzkette, Anwendbares Recht nach Rom-I-VO, Kartellrecht im Auslandsmarkt und Disclosure-Pflichten.
 
 # Franchiserecht: Master-Franchise und Internationalisierung
 

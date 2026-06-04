@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-evvollzug-neu-003-zu-bis-evvollzug-neu-005-or
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf, evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi, evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug Neu 005 Ordnungsmittelantrag Vollstreckung Unterlassun; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Evvollzug Neu 003 Zustellung Durch Gerichtsvollzieher Im Ip Verf, Evvollzug Neu 004 Bea Zustellung Einstweiliger Rechtsschutz Risi, Evvollzug
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf` | EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen. |
 | `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi` | EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `evvollzug-neu-003-zustellung-durch-gerichtsvollzieher-im-ip-verf`
 
-**Frühere Beschreibung:** EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen.
+**Fokus:** EV-Vollzug: Zustellung durch Gerichtsvollzieher (GV) bei einstweiligen Verfügungen im IP-Recht – Marke, Patent, UWG, Urheberrecht. Auftrag, Vorschuss, Zustellurkunde, Protokoll und Fehlerquellen bei natürlichen und juristischen Personen.
 
 # EV-Vollzug 003: Zustellung durch Gerichtsvollzieher im IP-Verfahren
 
@@ -153,7 +153,7 @@ Kostenvorschuss: [Betrag] anbei / per Überweisung
 
 ## 2. `evvollzug-neu-004-bea-zustellung-einstweiliger-rechtsschutz-risi`
 
-**Frühere Beschreibung:** EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden.
+**Fokus:** EV-Vollzug: beA-Zustellung bei einstweiligen Verfügungen im IP-Recht – Voraussetzungen, Risiken, Nachweisführung und Alternativen. Wann beA sicher ist, wann nicht, und wie Vollzugsrisiken minimiert werden.
 
 # EV-Vollzug 004: beA-Zustellung im Einstweiligen Rechtsschutz – Risiken und Praxis
 
@@ -271,7 +271,7 @@ Mandatsbezug: Anwalt erwägt, statt des Gerichtsvollziehers die beA-Zustellung z
 
 ## 3. `evvollzug-neu-005-ordnungsmittelantrag-vollstreckung-unterlassun`
 
-**Frühere Beschreibung:** EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners.
+**Fokus:** EV-Vollzug: Ordnungsmittelantrag nach § 890 ZPO bei Verstoß gegen Unterlassungstitel aus einstweiliger Verfügung. Tatbestandsvoraussetzungen, Antragsinhalt, Höhe Ordnungsgeld, Verschuldensmaßstab und typische Verteidigungsstrategien des Schuldners.
 
 # EV-Vollzug 005: Ordnungsmittelantrag (§ 890 ZPO) nach Unterlassungstitel
 

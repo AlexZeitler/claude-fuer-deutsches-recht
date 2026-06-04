@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-geschgehg-bausteine-bis-kanzlei-kontext-anal
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (geschgehg-bausteine, halluzinations-handhabung, kanzlei-kontext-analyse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Geschgehg Bausteine, Halluzinations Handhabung, Kanzlei Kontext Analyse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geschgehg-bausteine` | GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Prüfraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten für KI-Dienstleister. Output GeschGehG-Bausteine für KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT. |
 | `halluzinations-handhabung` | Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geschgehg-bausteine`
 
-**Frühere Beschreibung:** GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Prüfraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten für KI-Dienstleister. Output GeschGehG-Bausteine für KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT.
+**Fokus:** GeschGehG-Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei muss beim KI-Einsatz Geschäftsgeheimnisse von Mandanten und eigene Kanzleiinformationen schützen. § 1 Abs. 3 Nr. 1 GeschGehG angemessene Geheimhaltungsmassnahmen, § 203 StGB Berufsgeheimnis, §§ 43a und 43e BRAO. Prüfraster Geheimnisqualifikation der Mandatsinformationen, angemessene technische Massnahmen, Vertragspflichten für KI-Dienstleister. Output GeschGehG-Bausteine für KI-Richtlinie mit konkreten Formulierungen. Abgrenzung zu Berufsrecht-Bausteine und zu Musterklauseln-IT.
 
 # GeschGehG-Bausteine
 
@@ -102,7 +102,7 @@ abgeschlossen sein, der die Nutzung zur Modellverbesserung ausschliess.
 
 ## 2. `halluzinations-handhabung`
 
-**Frühere Beschreibung:** Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz.
+**Fokus:** Halluzinationen von KI in juristischer Arbeit erkennen und Prozessbetrug vermeiden: Anwendungsfall Anwalt nutzt KI für Rechtsprechungs-Recherche und muss sicherstellen dass keine falschen Fundstellen in Schriftsatz oder Gutachten einfliessen. OLG Koblenz Haftung Halluzination, AG Köln 02.07.2025, § 43 BRAO Sorgfaltspflicht. Prüfraster Pflicht zur Quellenverifizierung jedes KI-Zitats, Vier-Augen-Prinzip für Schriftsaetze, Dokumentation der Prüfung. Output Prüfprotokoll-Vorlage für KI-Zitate mit Verifikations-Checkliste. Abgrenzung zu Prompting-Leitfaden und zu Compliance-Regelsatz.
 
 # Halluzinations-Handhabung
 
@@ -206,7 +206,7 @@ Freigabe fuer Versand: [JA / NEIN — Korrekturbedarf: BESCHREIBUNG]
 
 ## 3. `kanzlei-kontext-analyse`
 
-**Frühere Beschreibung:** Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten des Mandanten analysiert werden. § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, DSGVO Datenschutzbeauftragter. Prüfraster Kanzleigroesse, Rechtsgebiete mit Hochrisiko-Potential, internationale Mandate, bestehende Tools, Tailoring-Bedarf. Output Kanzlei-Kontext-Profil als Grundlage für Richtlinien-Erstellung. Abgrenzung zu Richtlinien-Skelett-Erzeugen und zu Compliance-Regelsatz.
+**Fokus:** Kanzlei-Kontext erfassen für massgeschneiderte KI-Nutzungsrichtlinie: Anwendungsfall vor Erstellung einer KI-Richtlinie muss Groesse Rechtsgebiete Mandantenstruktur IT-Infrastruktur und Syndikus-Inhouse-Besonderheiten des Mandanten analysiert werden. § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, DSGVO Datenschutzbeauftragter. Prüfraster Kanzleigroesse, Rechtsgebiete mit Hochrisiko-Potential, internationale Mandate, bestehende Tools, Tailoring-Bedarf. Output Kanzlei-Kontext-Profil als Grundlage für Richtlinien-Erstellung. Abgrenzung zu Richtlinien-Skelett-Erzeugen und zu Compliance-Regelsatz.
 
 # Kanzlei-Kontext-Analyse
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-massnahmenplan-100-t-bis-mfa-passkeys
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (massnahmenplan-100-tage, maturity-assessment, messenger-collaboration-tool-check, mfa-passkeys) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Massnahmenplan 100 Tage, Maturity Assessment, Messenger Collaboration Tool Check, Mfa Passkeys; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Massnahmenplan 100 Tage bis Mfa Passkeys
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `massnahmenplan-100-tage` | Baut 100-Tage-Programm für Cyber-Compliance. |
 | `maturity-assessment` | Bewertet Reifegrad von IT-Sicherheit und digitaler Souveränität. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `massnahmenplan-100-tage`
 
-**Frühere Beschreibung:** Baut 100-Tage-Programm für Cyber-Compliance.
+**Fokus:** Baut 100-Tage-Programm für Cyber-Compliance.
 
 # Massnahmenplan 100 Tage
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `maturity-assessment`
 
-**Frühere Beschreibung:** Bewertet Reifegrad von IT-Sicherheit und digitaler Souveränität.
+**Fokus:** Bewertet Reifegrad von IT-Sicherheit und digitaler Souveränität.
 
 # Maturity Assessment
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `messenger-collaboration-tool-check`
 
-**Frühere Beschreibung:** Prüft Messenger und Chatkanäle für interne und externe Kommunikation.
+**Fokus:** Prüft Messenger und Chatkanäle für interne und externe Kommunikation.
 
 # Messenger Collaboration Tool Check
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `mfa-passkeys`
 
-**Frühere Beschreibung:** Prüft MFA, Passkeys und starke Authentisierung.
+**Fokus:** Prüft MFA, Passkeys und starke Authentisierung.
 
 # MFA Passkeys
 

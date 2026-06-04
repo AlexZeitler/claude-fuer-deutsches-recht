@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-ein-004-treuhand-zuo-bis-ein-007-mauergrundst
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (ein-004-treuhand-zuordnung-rekonstruieren, ein-005-parteivermoegen-pruefen, ein-006-vermoegensgesetz-anspruchspfad, ein-007-mauergrundstuecksgesetz-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 004 Treuhand Zuordnung Rekonstruieren, Ein 005 Parteivermoegen Pruefen, Ein 006 Vermoegensgesetz Anspruchspfad, Ein 007 Mauergrundstuecksgesetz Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 004 Treuhand Zuordnung Rekonstruieren bis Ein 007 Mauergrundstuecksgesetz Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-004-treuhand-zuordnung-rekonstruieren` | Einigungsvertrag und Vermögensrecht: Treuhand-Zuordnung rekonstruieren. Treuhand-Zuordnung rekonstruieren im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-005-parteivermoegen-pruefen` | Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-004-treuhand-zuordnung-rekonstruieren`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhand-Zuordnung rekonstruieren. Treuhand-Zuordnung rekonstruieren im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhand-Zuordnung rekonstruieren. Treuhand-Zuordnung rekonstruieren im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Treuhand Zuordnung Rekonstruieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-005-parteivermoegen-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Parteivermögen prüfen. Parteivermögen prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Parteivermoegen Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-006-vermoegensgesetz-anspruchspfad`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögensgesetz Anspruchspfad im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Vermögensgesetz Anspruchspfad. Vermögensgesetz Anspruchspfad im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vermoegensgesetz Anspruchspfad
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-007-mauergrundstuecksgesetz-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstücksgesetz prüfen. Mauergrundstücksgesetz prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstücksgesetz prüfen. Mauergrundstücksgesetz prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Mauergrundstuecksgesetz Pruefen
 

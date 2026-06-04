@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-akzg-zeitstrahl-chec-bis-anwaltsschriftsatz-s
-description: "aktenauszug-gerichtsverfahren: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (akzg-zeitstrahl-checkliste, anlagenverzeichnis-extrakt, anwaltsschriftsatz-stilrichtlinie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenauszug-gerichtsverfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - aktenauszug-gerichtsverfahren
+# Arbeitsbereich - Akzg Zeitstrahl Checkliste, Anlagenverzeichnis Extrakt, Anwaltsschriftsatz Stilrichtlinie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akzg-zeitstrahl-checkliste` | Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster fuer Rechtsmittelinstanz. |
 | `anlagenverzeichnis-extrakt` | Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akzg-zeitstrahl-checkliste`
 
-**Frühere Beschreibung:** Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster fuer Rechtsmittelinstanz.
+**Fokus:** Checkliste Zeitstrahl in Aktenauszug: Eingang Klage, Klageerwiderung, Beweisbeschluss, mundliche Verhandlung, Urteil. Pruefraster fuer Rechtsmittelinstanz.
 
 # AkzG: Zeitstrahl-Checkliste
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `aktenauszug-gerichtsverfahren`. Er ergaenzt die
 
 ## 2. `anlagenverzeichnis-extrakt`
 
-**Frühere Beschreibung:** Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht).
+**Fokus:** Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht).
 
 # Anlagenverzeichnis-Extrakt
 
@@ -193,7 +193,7 @@ Anlage ist im Schriftsatz bezeichnet aber fehlt körperlich in Akte?
 
 ## 3. `anwaltsschriftsatz-stilrichtlinie`
 
-**Frühere Beschreibung:** Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO.
+**Fokus:** Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO.
 
 # Anwaltsschriftsatz-Stilrichtlinie
 

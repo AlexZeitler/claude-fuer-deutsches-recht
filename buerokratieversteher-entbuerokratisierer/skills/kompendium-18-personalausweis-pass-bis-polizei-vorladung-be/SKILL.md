@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-personalausweis-pass-bis-polizei-vorladung-be
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (personalausweis-pass, petition-und-buergeranliegen, pflegegrad-md, polizei-vorladung-beschuldigter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Personalausweis Pass, Petition Und Buergeranliegen, Pflegegrad Md, Polizei Vorladung Beschuldigter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Personalausweis Pass bis Polizei Vorladung Beschuldigter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `personalausweis-pass` | Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit. |
 | `petition-und-buergeranliegen` | Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `personalausweis-pass`
 
-**Frühere Beschreibung:** Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit.
+**Fokus:** Erklärt Antrag, Verlust, Sperrung, vorläufige Dokumente, Reiseproblem und Zuständigkeit.
 
 # Personalausweis und Pass
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `petition-und-buergeranliegen`
 
-**Frühere Beschreibung:** Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung.
+**Fokus:** Erstellt Petition, Bürgeranfrage, Ratsanfrage oder Eingabe ohne falsche Rechtsmittel-Erwartung.
 
 # Petition und Bürgeranliegen
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `pflegegrad-md`
 
-**Frühere Beschreibung:** Erklärt Pflegegradbescheid, Begutachtung, Module, Pflegetagebuch, Widerspruch und Frist.
+**Fokus:** Erklärt Pflegegradbescheid, Begutachtung, Module, Pflegetagebuch, Widerspruch und Frist.
 
 # Pflegegrad / MD
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `polizei-vorladung-beschuldigter`
 
-**Frühere Beschreibung:** Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion.
+**Fokus:** Erklärt Beschuldigtenstatus, Schweigerecht, Akteneinsicht über Verteidigung und sichere erste Reaktion.
 
 # Polizei-Vorladung als Beschuldigter
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-humanstudie-ethik-un-bis-informationssicherhe
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (humanstudie-ethik-und-datenschutz, ifg-transparenz-hochschule, immatrikulation-und-rueckmeldung, informationssicherheit-hochschule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Humanstudie Ethik Und Datenschutz, Ifg Transparenz Hochschule, Immatrikulation Und Rueckmeldung, Informationssicherheit Hochschule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - hochschulrecht-laender
+# Arbeitsbereich - Humanstudie Ethik Und Datenschutz bis Informationssicherheit Hochschule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `humanstudie-ethik-und-datenschutz` | Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch. |
 | `ifg-transparenz-hochschule` | Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `humanstudie-ethik-und-datenschutz`
 
-**Frühere Beschreibung:** Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch.
+**Fokus:** Prüft Humanstudien, Einwilligung, Ethikvotum, Datenschutz und Studienabbruch.
 
 # Humanstudie Ethik und Datenschutz
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `ifg-transparenz-hochschule`
 
-**Frühere Beschreibung:** Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten.
+**Fokus:** Prüft Informationszugang, Drittmitteltransparenz, Geheimschutz und Forschungsdaten.
 
 # IFG und Transparenz Hochschule
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `immatrikulation-und-rueckmeldung`
 
-**Frühere Beschreibung:** Prüft Immatrikulation, Rückmeldung und Gebühren.
+**Fokus:** Prüft Immatrikulation, Rückmeldung und Gebühren.
 
 # Immatrikulation Und Rueckmeldung
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Immatrikulationscheck. Am Ende immer drei Zeilen: **Frist**, 
 
 ## 4. `informationssicherheit-hochschule`
 
-**Frühere Beschreibung:** Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten.
+**Fokus:** Prüft IT-Sicherheit, Forschungsdaten, Ransomware, Hochschul-CERT und Verantwortlichkeiten.
 
 # Informationssicherheit Hochschule
 

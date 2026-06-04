@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-drg-064-historische-bis-drg-069-materialiena
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 12; bündelt 6 frühere Spezialskills (drg-064-historische-synopse-erstellen, drg-065-rechtshistorische-gutachtenstruktur, drg-066-gegenwartsbezug-ohne-anachronismus, drg-067-kontinuitaet-und-bruch-pruefen, drg-068-normzweck-historisch-rekonstruieren und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 064 Historische Synopse Erstellen, Drg 065 Rechtshistorische Gutachtenstruktur, Drg 066 Gegenwartsbezug Ohne Anachronismus, Drg 067 Kontinuitaet Und Bruch Pruefen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 064 Historische Synopse Erstellen bis Drg 069 Materialienarbeit Ohne Blindzitat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-064-historische-synopse-erstellen` | Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002). |
 | `drg-065-rechtshistorische-gutachtenstruktur` | Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-064-historische-synopse-erstellen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002).
+**Fokus:** Deutsche Rechtsgeschichte: Historische Synopse erstellen. Methodische Anleitung zum parallelen Vergleich von Normtexten verschiedener Epochen (z. B. BGB 1900 vs. DDR-ZGB 1975 vs. BGB 2002).
 
 # Historische Synopse erstellen
 
@@ -80,7 +80,7 @@ BGB: gesetze-im-internet.de (historische Fassungen). DDR-ZGB: ALEX/OeNB. WRV und
 
 ## 2. `drg-065-rechtshistorische-gutachtenstruktur`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtshistorische Gutachtenstruktur. Aufbau eines rechtshistorischen Gutachtens mit Themenstellung, Quellenbasis, historischer Entwicklung, Streitstand und Fazit.
 
 # Rechtshistorische Gutachtenstruktur
 
@@ -129,7 +129,7 @@ Alle Quellen mit Fundstelle. Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, 
 
 ## 3. `drg-066-gegenwartsbezug-ohne-anachronismus`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe.
+**Fokus:** Deutsche Rechtsgeschichte: Gegenwartsbezug ohne Anachronismus. Methodisches Ruest-zeug um historische Argumente in heutige Rechtsdiskussion einzubringen ohne unzulaessige Zeitspringe.
 
 # Gegenwartsbezug ohne Anachronismus
 
@@ -178,7 +178,7 @@ Savigny System Bd. I (1840): historische Ausgabe. BVerfGE und BGH: bverfg.de und
 
 ## 4. `drg-067-kontinuitaet-und-bruch-pruefen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden.
+**Fokus:** Deutsche Rechtsgeschichte: Kontinuitaet und Bruch pruefen. Methodisches Werkzeug um echte Rechtsbrueche (NS-Machtuebernahme 1933 / Kriegsende 1945 / GG 1949 / Wiedervereinigung 1990) von Schein-Bruechen zu unterscheiden.
 
 # Kontinuitaet und Bruch pruefen
 
@@ -228,7 +228,7 @@ Ermächtigungsgesetz 1933: ALEX/OeNB. Kontrollratsgesetz Nr. 1: historische Edit
 
 ## 5. `drg-068-normzweck-historisch-rekonstruieren`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den historischen Regelungszweck einer Norm aus Materialien, Parlamentsdebatten und zeitgenoessischer Literatur erschliesst.
+**Fokus:** Deutsche Rechtsgeschichte: Normzweck historisch rekonstruieren. Wie man den historischen Regelungszweck einer Norm aus Materialien, Parlamentsdebatten und zeitgenoessischer Literatur erschliesst.
 
 # Normzweck historisch rekonstruieren
 
@@ -278,7 +278,7 @@ Mugdan Bde. I-VI: historische Ausgabe (1899) mit Band und Seite. Reichstagsproto
 
 ## 6. `drg-069-materialienarbeit-ohne-blindzitat`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion.
+**Fokus:** Deutsche Rechtsgeschichte: Materialienarbeit ohne Blindzitat. Korrekte Arbeit mit den Mugdan-Materialien, Reichstagsdebattenprotokollen und parlamentarischen Entwurfsbegruendungen ohne Quellenfiktion.
 
 # Materialienarbeit ohne Blindzitat
 

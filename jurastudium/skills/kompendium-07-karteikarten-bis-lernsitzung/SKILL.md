@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-karteikarten-bis-lernsitzung
-description: "jurastudium: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (karteikarten, lernplan, lernsitzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Karteikarten, Lernplan, Lernsitzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - jurastudium
+# Arbeitsbereich - Karteikarten, Lernplan, Lernsitzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `karteikarten` | Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen. |
 | `lernplan` | Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `karteikarten`
 
-**Frühere Beschreibung:** Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen.
+**Fokus:** Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen.
 
 # Karteikarten-Drill
 
@@ -178,7 +178,7 @@ Hinweis: Diese Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall.
 
 ## 2. `lernplan`
 
-**Frühere Beschreibung:** Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt.
+**Fokus:** Erstellt oder aktualisiert einen strukturierten Lernplan für das Erste Staatsexamen, das Referendariat oder das Zweite Staatsexamen — phasenbezogen, nach Schwächen gewichtet, adaptiv nach Lernverlauf. Berücksichtigt Repetitoriumskalender (Alpmann, Hemmer, Jura Intensiv, Kaiser-Skripten). Lädt, wenn der Nutzer "Lernplan erstellen", "Examensvorbereitung planen", "Stundenplan Staatsexamen" oder "wie soll ich für [Prüfung] lernen" sagt.
 
 # Staatsexamen-Lernplan
 
@@ -417,7 +417,7 @@ Hinweis: Dieser Lernplan ersetzt keine Beratung durch Seminarleiter, Repetitoren
 
 ## 3. `lernsitzung`
 
-**Frühere Beschreibung:** Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining.
+**Fokus:** Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining.
 
 # Lerneinheit
 

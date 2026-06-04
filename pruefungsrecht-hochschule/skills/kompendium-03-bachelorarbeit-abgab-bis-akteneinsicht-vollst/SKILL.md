@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-bachelorarbeit-abgab-bis-akteneinsicht-vollst
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (bachelorarbeit-abgabe, abschlussarbeit-betreuung, akteneinsicht-pruefungsakte, akteneinsicht-vollstaendig) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bachelorarbeit Abgabe, Abschlussarbeit Betreuung, Akteneinsicht Pruefungsakte, Akteneinsicht Vollstaendig; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - pruefungsrecht-hochschule
+# Arbeitsbereich - Bachelorarbeit Abgabe bis Akteneinsicht Vollstaendig
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bachelorarbeit-abgabe` | Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung. |
 | `abschlussarbeit-betreuung` | Prüft Bachelor-/Masterarbeit, Betreuung und Thema. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bachelorarbeit-abgabe`
 
-**Frühere Beschreibung:** Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung.
+**Fokus:** Prüft Abgabefrist, Upload, technische Störung, Posteingang und Formanforderung.
 
 # Bachelorarbeit Abgabe
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 2. `abschlussarbeit-betreuung`
 
-**Frühere Beschreibung:** Prüft Bachelor-/Masterarbeit, Betreuung und Thema.
+**Fokus:** Prüft Bachelor-/Masterarbeit, Betreuung und Thema.
 
 # Abschlussarbeit Betreuung
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Thesis-Fahrplan. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 3. `akteneinsicht-pruefungsakte`
 
-**Frühere Beschreibung:** Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen.
+**Fokus:** Prüft Akteneinsicht in Prüfungsakte und Bewertungsunterlagen.
 
 # Akteneinsicht Pruefungsakte
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Akteneinsichtsantrag. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 4. `akteneinsicht-vollstaendig`
 
-**Frühere Beschreibung:** Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien.
+**Fokus:** Prüft Umfang der Akteneinsicht, Bewertungsvermerke, Musterlösung, Protokolle und Kopien.
 
 # Vollständige Akteneinsicht
 

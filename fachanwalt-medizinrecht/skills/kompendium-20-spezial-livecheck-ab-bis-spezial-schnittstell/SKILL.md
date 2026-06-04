@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spezial-livecheck-ab-bis-spezial-schnittstell
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 20; bündelt 6 frühere Spezialskills (spezial-livecheck-abschlussprodukt-und-uebergabe, spezial-medizinrecht-tatbestand-beweis-und-belege, spezial-medr-mandantenkommunikation-entscheidungsvorlage, spezial-mpdg-compliance-dokumentation-und-akte, spezial-patientenrechte-behoerden-gericht-und-registerweg und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Livecheck Abschlussprodukt Und Uebergabe, Medizinrecht Tatbestand Beweis Und Belege, Medr Mandantenkommunikation Entscheidungsvorlage, Mpdg Compliance Dokumentation Und Akte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-medizinrecht
+# Arbeitsbereich - Livecheck Abschlussprodukt Und Uebergabe bis Schnittstellen Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-medizinrecht-tatbestand-beweis-und-belege` | Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Livecheck: Abschlussprodukt und Übergabe
 
@@ -72,7 +72,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-medizinrecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Medizinrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -113,7 +113,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-medr-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Medr: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Medr: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-mpdg-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mpdg: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mpdg: Compliance-Dokumentation und Aktenvermerk
 
@@ -195,7 +195,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-patientenrechte-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Patientenrechte: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Patientenrechte: Behörden-, Gerichts- oder Registerweg
 
@@ -236,7 +236,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 6. `spezial-schnittstellen-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schnittstellen: Internationaler Bezug und Schnittstellen im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schnittstellen: Internationaler Bezug und Schnittstellen
 

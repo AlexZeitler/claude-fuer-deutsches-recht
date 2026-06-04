@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-anlagenverzeichnis-g-bis-berufung-beschwerde
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (anlagenverzeichnis-gericht-kanzlei-und-intern, anlagenverzeichnis-grundaufbau, bea-paketierung-groessen-und-versandplan, berufung-beschwerde-und-neue-anlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlagenverzeichnis Gericht Kanzlei Und Intern, Anlagenverzeichnis Grundaufbau, Bea Paketierung Groessen Und Versandplan, Berufung Beschwerde Und Neue Anlagen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Anlagenverzeichnis Gericht Kanzlei Und Intern bis Berufung Beschwerde Und Neue Anlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlagenverzeichnis-gericht-kanzlei-und-intern` | Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus. |
 | `anlagenverzeichnis-grundaufbau` | Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... fuer Klaegerseite, B1, B2 ... fuer Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegenseite. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlagenverzeichnis-gericht-kanzlei-und-intern`
 
-**Frühere Beschreibung:** Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus.
+**Fokus:** Erstellt getrennte Anlagenverzeichnisse: schlank für Gericht, ausführlicher für Kanzlei und technisch mit Dateipfad, Hash, Quelle und Bearbeitungsstatus.
 
 # Anlagenverzeichnis für Gericht, Kanzlei und intern
 
@@ -93,7 +93,7 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 
 ## 2. `anlagenverzeichnis-grundaufbau`
 
-**Frühere Beschreibung:** Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... fuer Klaegerseite, B1, B2 ... fuer Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegenseite.
+**Fokus:** Anlagenverzeichnis nach deutscher Anwaltsuebung aufbauen: K1, K2, K3 ... fuer Klaegerseite, B1, B2 ... fuer Beklagtenseite. Kurztitel, Datum, Funktion (Beweismittel zu welcher Behauptung), Fundstelle im Schriftsatz. Loest Doppel-Nummerierung auf und uebernimmt vorhandene Bezeichnungen aus der Gegenseite.
 
 # Anlagenverzeichnis-Grundaufbau
 
@@ -145,7 +145,7 @@ Dieser Skill gehoert zum Plugin `anlagen-zu-schriftsaetzen`. Er ergaenzt die ueb
 
 ## 3. `bea-paketierung-groessen-und-versandplan`
 
-**Frühere Beschreibung:** Plant elektronische Anlagenpakete für beA/ERV: Dateinamen, Reihenfolge, Paketgrößen, PDF/OCR, Nachsendungen, Begleitvermerk und finaler Versandcheck.
+**Fokus:** Plant elektronische Anlagenpakete für beA/ERV: Dateinamen, Reihenfolge, Paketgrößen, PDF/OCR, Nachsendungen, Begleitvermerk und finaler Versandcheck.
 
 # beA-Paketierung und Versandplan
 
@@ -194,7 +194,7 @@ Bei tragenden Aussagen zu Form, elektronischer Einreichung oder prozessualer Ver
 
 ## 4. `berufung-beschwerde-und-neue-anlagen`
 
-**Frühere Beschreibung:** Prüft Anlagen in Rechtsmittelverfahren: Übernahme alter Nummern, neue Anlagen, § 531 ZPO-Risiken, Verweis auf Vorinstanz und Synchronisation.
+**Fokus:** Prüft Anlagen in Rechtsmittelverfahren: Übernahme alter Nummern, neue Anlagen, § 531 ZPO-Risiken, Verweis auf Vorinstanz und Synchronisation.
 
 # Berufung, Beschwerde und neue Anlagen
 

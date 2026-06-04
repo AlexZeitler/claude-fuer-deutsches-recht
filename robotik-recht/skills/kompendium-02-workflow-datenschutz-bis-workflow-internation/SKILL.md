@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-datenschutz-bis-workflow-internation
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 02; bündelt 6 frühere Spezialskills (workflow-datenschutz-cyber-intake, workflow-first-year-associate-robotik, workflow-fristen-und-uebergangsrecht, workflow-haftungsampel, workflow-ingenieur-rueckfragenliste und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Datenschutz Cyber Intake, First Year Associate Robotik, Fristen Und Uebergangsrecht, Haftungsampel und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - robotik-recht
+# Arbeitsbereich - Datenschutz Cyber Intake bis Internationaler Export
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-datenschutz-cyber-intake` | Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle. |
 | `workflow-first-year-associate-robotik` | Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-datenschutz-cyber-intake`
 
-**Frühere Beschreibung:** Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle.
+**Fokus:** Startet Datenschutz- und Cyberprüfung: Kameras, Mikrofone, Telemetrie, biometrische Daten, Beschäftigte, Patienten, DSFA, TOMs und CRA-Schnittstelle.
 
 # Datenschutz-Cyber-Intake
 
@@ -82,7 +82,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `workflow-first-year-associate-robotik`
 
-**Frühere Beschreibung:** Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team.
+**Fokus:** Führt junge Anwältinnen und Anwälte durch den ersten Robotikfall: Aktenaufnahme, Normenlandkarte, Rückfragen, Quellencheck, Memo und Red-Team.
 
 # First-Year-Associate-Modus
 
@@ -133,7 +133,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `workflow-fristen-und-uebergangsrecht`
 
-**Frühere Beschreibung:** Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen.
+**Fokus:** Erstellt Fristenplan für Maschinenverordnung, MaschinenDG, CRA, KI-VO, Produkthaftungsrichtlinie, Meldungen, Rückruf und Prozessfristen.
 
 # Fristen und Übergangsrecht
 
@@ -184,7 +184,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `workflow-haftungsampel`
 
-**Frühere Beschreibung:** Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte.
+**Fokus:** Erstellt Haftungsampel für Hersteller, Integrator, Betreiber, Händler, Wartung, KI-Anbieter, Versicherer und Geschädigte.
 
 # Haftungsampel
 
@@ -235,7 +235,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 5. `workflow-ingenieur-rueckfragenliste`
 
-**Frühere Beschreibung:** Erzeugt präzise Rückfragen an Technik, QM, Datenschutz, IT-Security, Vertrieb und Service, damit das Recht nicht im Nebel prüft.
+**Fokus:** Erzeugt präzise Rückfragen an Technik, QM, Datenschutz, IT-Security, Vertrieb und Service, damit das Recht nicht im Nebel prüft.
 
 # Ingenieur-Rückfragenliste
 
@@ -286,7 +286,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 6. `workflow-internationaler-export`
 
-**Frühere Beschreibung:** Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag.
+**Fokus:** Routet Robotikexport: EU-Markt, Drittstaat, Dual-Use, Sanktionen, Produktsicherheit, lokale Zulassung, Incoterms und Vertrag.
 
 # Internationaler Export
 

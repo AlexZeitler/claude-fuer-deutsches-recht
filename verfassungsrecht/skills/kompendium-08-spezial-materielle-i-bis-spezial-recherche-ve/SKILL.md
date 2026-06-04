@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-spezial-materielle-i-bis-spezial-recherche-ve
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (spezial-materielle-internationaler-bezug-und-schnittstellen, spezial-petition-sonderfall-und-edge-case, spezial-recherche-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Materielle Internationaler Bezug Und Schnittstellen, Petition Sonderfall Und Edge Case, Recherche Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - verfassungsrecht
+# Arbeitsbereich - Materielle Internationaler Bezug Und Schnittstellen, Petition Sonderfall Und Edge Case, Recherche Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-materielle-internationaler-bezug-und-schnittstellen` | Materielle: Internationaler Bezug und Schnittstellen im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-petition-sonderfall-und-edge-case` | Petition: Sonderfall und Edge-Case-Prüfung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-materielle-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Materielle: Internationaler Bezug und Schnittstellen im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Materielle: Internationaler Bezug und Schnittstellen im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Materielle: Internationaler Bezug und Schnittstellen
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-petition-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Petition: Sonderfall und Edge-Case-Prüfung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Petition: Sonderfall und Edge-Case-Prüfung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Petition: Sonderfall und Edge-Case-Prüfung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-recherche-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Recherche: Verhandlung, Vergleich und Eskalation im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Recherche: Verhandlung, Vergleich und Eskalation im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Recherche: Verhandlung, Vergleich und Eskalation
 

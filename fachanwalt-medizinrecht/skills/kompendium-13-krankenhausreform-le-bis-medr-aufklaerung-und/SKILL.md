@@ -1,37 +1,36 @@
 ---
 name: kompendium-13-krankenhausreform-le-bis-medr-aufklaerung-und
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 13; bündelt 6 frühere Spezialskills (krankenhausreform-leistungsgruppen, laborwert-alarmpflicht, mandat-triage-medizinrecht, medical-tourism-liability, medr-aufklaerung-einwilligung-leitfaden und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Krankenhausreform Leistungsgruppen, Laborwert Alarmpflicht, Mandat Triage Medizinrecht, Medical Tourism Liability; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-medizinrecht
+# Arbeitsbereich - Krankenhausreform Leistungsgruppen bis Medical Tourism Liability
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krankenhausreform-leistungsgruppen` | Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `laborwert-alarmpflicht` | Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `mandat-triage-medizinrecht` | Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen. |
 | `medical-tourism-liability` | Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `medr-aufklaerung-einwilligung-leitfaden` | Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster fuer Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen. |
-| `medr-aufklaerung-und-einwilligung-praxis` | Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme. Pruefraster fuer Klage des Patienten wegen Aufklaerungsmangel. Mustertexte fuer Dokumentation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krankenhausreform-leistungsgruppen`
 
-**Frühere Beschreibung:** Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Krankenhausreform Leistungsgruppen: moderner Medizinrechts-Skill für KHVVG/KHAG, Leistungsgruppen, Qualitätskriterien, Kooperation und Haftung bei Leistungsverschiebung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Krankenhausreform Leistungsgruppen
 
@@ -87,7 +86,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `laborwert-alarmpflicht`
 
-**Frühere Beschreibung:** Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Laborwert Alarmpflicht: moderner Medizinrechts-Skill für Kritischer Laborwert, Befundübermittlung, Praxisurlaub, Portalnachricht und verpasste Therapie. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Laborwert Alarmpflicht
 
@@ -145,7 +145,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `mandat-triage-medizinrecht`
 
-**Frühere Beschreibung:** Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen.
+**Fokus:** Strukturierte Eingangs-Abfrage für medizinrechtliche Mandate. Klaert Mandantenrolle (Patient Arzt Krankenhaus Heilberufler Pharma Krankenkasse) Sachgebiet (Behandlungsfehler Aufklärungspflicht-Verletzung Honorarstreit GOAe EBM Approbationsrecht Krankenhausrecht Heilmittelwerberecht Vertragsarztrecht KV-Recht Apotheken- und Arzneimittelrecht Pharmastrafrecht) Sofort-Fristen-Check Verjährung drei Jahre § 195 BGB ab Kenntnis Hoechstfrist dreissig Jahre Personenschaden § 199 Abs. 2 BGB Approbations-Widerruf-Verfahren Vorlaeufige Ruhensanordnung. Eskalation Telefon-Sofort bei Approbations-Verlust drohend. Routing zu behandlungsfehler-anspruch-prüfen.
+
 
 # Mandat-Triage Medizinrecht
 
@@ -309,7 +310,8 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `medical-tourism-liability`
 
-**Frühere Beschreibung:** Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Medical Tourism Liability: moderner Medizinrechts-Skill für Ästhetik-/Zahn-/Fertilitätsbehandlung im Ausland, Vermittler, Nachbehandlung und Gerichtsstand. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Medical Tourism Liability
 
@@ -364,108 +366,3 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 - BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
 - BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
 - Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
-
-## 5. `medr-aufklaerung-einwilligung-leitfaden`
-
-**Frühere Beschreibung:** Leitfaden Aufklaerung und Einwilligung §§ 630d und 630e BGB: Grundaufklaerung, Risikoaufklaerung, Verlaufsaufklaerung. Pruefraster fuer Eingriffe mit erhoehtem Risiko. Mustertext Aufklaerungsbogen.
-
-# MedR: Aufklaerung Einwilligung
-
-## Fachkern: MedR: Aufklaerung Einwilligung
-- **Spezialgegenstand:** MedR: Aufklaerung Einwilligung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, Rechtsprechung BGH/BVerfG/EuGH, Literatur.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link (`dejure.org`, `openjur.de`, `bundesgerichtshof.de`, `bundesverfassungsgericht.de`, `curia.europa.eu`).
-- Keine Zitate aus `anwalt24.de`. Keine `BeckRS` als alleinige Fundstelle bei tragenden Aussagen.
-- Aufsaetze mit Verfasser, Zeitschrift, Jahr, Heft (falls relevant) und Seite.
-- Kommentare mit Bearbeiter und Randnummer.
-- Annahmen explizit als solche kennzeichnen, keine Erfindungen.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.
-
-## 6. `medr-aufklaerung-und-einwilligung-praxis`
-
-**Frühere Beschreibung:** Aufklaerung und Einwilligung in der Praxis: § 630e BGB, Form, Zeitpunkt, Inhalt, Sprachbarrieren, Stellvertretung Minderjaehriger, Notfallausnahme. Pruefraster fuer Klage des Patienten wegen Aufklaerungsmangel. Mustertexte fuer Dokumentation.
-
-# Medizinrecht: Aufklaerung-Praxis
-
-## Fachkern: Medizinrecht: Aufklaerung-Praxis
-- **Spezialgegenstand:** Medizinrecht: Aufklaerung-Praxis wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Fallweichen
-Frage zu Beginn nur ab, was fuer den naechsten Schritt unverzichtbar ist. Wenn Material vorliegt, mit dem Material arbeiten und nur eine gezielte Rueckfrage stellen.
-
-1. **Rolle und Ziel:** Wer fragt, welche Rolle, welcher gewuenschte Output (Memo, Schriftsatz, Tabelle, Checkliste)?
-2. **Sachverhalt:** Welche unstreitigen Tatsachen liegen vor, was ist streitig, was fehlt noch?
-3. **Fristen:** Gibt es Termine, Fristen, eilbeduerftige Schritte?
-4. **Unterlagen:** Welche Dokumente, Bescheide, Vertraege, Auszuege liegen vor?
-5. **Format:** Wie ausfuehrlich, fuer wen, in welcher Tonalitaet?
-
-## Pruefraster
-
-Der Output muss als verwertbares Arbeitsprodukt aufgebaut sein:
-
-1. **Sachverhalt fixieren** - streitige und unstreitige Tatsachen trennen, Lueckentafel.
-2. **Rechtliche Einordnung** - einschlaegige Normen, zustaendige Stellen, Verfahrensart, Darlegungs-/Beweislast und nur verifizierte Rechtsprechung.
-3. **Pruefung im Gutachtenstil** - Obersatz, Definition, Subsumtion, Zwischenergebnis.
-4. **Handlungsempfehlung** - konkret, mit naechstem Schritt, verantwortlicher Person, Frist.
-
-## Plugin-Kontext
-Dieser Skill gehoert zum Plugin `fachanwalt-medizinrecht`. Er ergaenzt die uebrigen Skills des Plugins um einen vertieften Spezialfall oder eine systematische Einfuehrung. Bei Folgefragen werden andere Skills des Plugins als Anschluss vorgeschlagen.
-
-## Output-Module
-- Strukturierter Pruefvermerk im Gutachtenstil mit klaren Ueberschriften.
-- Tabellen und Checklisten, wo das die Lesbarkeit erhoeht.
-- Anschreiben-, Antrags- oder Klageschriftsatz-Geruest, wenn die Aufgabe das verlangt.
-- Quellenliste mit Gericht, Datum, Aktenzeichen, frei pruefbarem Link.
-
-## Quellenregel
-- Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei pruefbarem Link ausgeben; bei Unsicherheit erst verifizieren oder als zu pruefen markieren.
-- Keine Paywall-, Kommentar-, Aufsatz- oder Datenbankfundstelle als tragende Aussage verwenden, wenn sie nicht durch Nutzerquelle oder dokumentierten Live-Zugriff verifiziert ist.
-- Keine Kommentar-, Handbuch-, Aufsatz- oder BeckRS-/juris-Blindzitate aus Modellwissen. Literatur nur verwenden, wenn der Nutzer die Quelle bereitstellt oder ein lizenzierter Live-Zugriff im konkreten Arbeitskontext dokumentiert ist.
-- Annahmen explizit als solche kennzeichnen; keine erfundenen Fundstellen, keine erfundenen Tatsachen, keine erfundenen Behoerdenpraxis-Saetze.
-
-## Was dieser Skill nicht macht
-- Kein Ersatz fuer eine vollstaendige Mandantenberatung.
-- Keine Festlegung des Mandanten ohne dessen ausdrueckliche Entscheidung.
-- Keine Bewertung von Tatsachen, die nicht durch Unterlagen oder klare Mandantenangaben gedeckt sind.
-- Bei erkennbaren Interessenkonflikten oder Berufsrechtsfragen Hinweis an den fallfuehrenden Anwalt.

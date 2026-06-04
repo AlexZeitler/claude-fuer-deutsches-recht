@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-wahlkampf-rapid-resp-bis-wahlkampf-rumor-cont
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (wahlkampf-rapid-response-room, wahlkampf-rechenschaftsbericht-vorbereitung, wahlkampf-rechtsfreigabe-gate, wahlkampf-risiko-register, wahlkampf-rumor-control-center) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Rapid Response Room, Wahlkampf Rechenschaftsbericht Vorbereitung, Wahlkampf Rechtsfreigabe Gate, Wahlkampf Risiko Register und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Rapid Response Room bis Wahlkampf Rumor Control Center
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-rapid-response-room` | Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Response-Prozess übersetzen. |
 | `wahlkampf-rechenschaftsbericht-vorbereitung` | Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsbericht aufbereiten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-rapid-response-room`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Response-Prozess übersetzen.
+**Fokus:** Wahlkampfrecht Praxis: akute Wahlkampfkrisen in Social Media, Presse und vor Ort in einen handlungsfähigen Rapid-Response-Prozess übersetzen.
 
 # Rapid Response Room
 
@@ -91,7 +91,7 @@ Erzeuge: **Rapid-Response-Board mit Uhrzeiten, Ownern und Freigabestatus**. Wenn
 
 ## 2. `wahlkampf-rechenschaftsbericht-vorbereitung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsbericht aufbereiten.
+**Fokus:** Wahlkampfrecht Praxis: Wahlkampfbelege fuer den Rechenschaftsbericht aufbereiten.
 
 # Rechenschaftsbericht Vorbereitung
 
@@ -144,7 +144,7 @@ Erzeuge: **Rechenschafts-Belegmappe**. Wenn Informationen fehlen, stelle höchst
 
 ## 3. `wahlkampf-rechtsfreigabe-gate`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: schnellen Freigabeprozess fuer Plakate, Posts, Ads, Veranstaltungen und Spenden bauen.
+**Fokus:** Wahlkampfrecht Praxis: schnellen Freigabeprozess fuer Plakate, Posts, Ads, Veranstaltungen und Spenden bauen.
 
 # Rechtsfreigabe Gate
 
@@ -197,7 +197,7 @@ Erzeuge: **Freigabeampel und Pruefraster**. Wenn Informationen fehlen, stelle h�
 
 ## 4. `wahlkampf-risiko-register`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: lebendes Risiko-Register fuer Wahlkampfleitung und Rechtsberatung fuehren.
+**Fokus:** Wahlkampfrecht Praxis: lebendes Risiko-Register fuer Wahlkampfleitung und Rechtsberatung fuehren.
 
 # Risiko Register
 
@@ -250,7 +250,7 @@ Erzeuge: **Risiko-Register mit Ownern**. Wenn Informationen fehlen, stelle höch
 
 ## 5. `wahlkampf-rumor-control-center`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Geruechtekontrolle fuer Teams und Kandidierende einrichten.
+**Fokus:** Wahlkampfrecht Praxis: Geruechtekontrolle fuer Teams und Kandidierende einrichten.
 
 # Rumor Control Center
 

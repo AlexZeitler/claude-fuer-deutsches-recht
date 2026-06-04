@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-wahlkampf-satelliten-bis-wahlkampf-social-med
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (wahlkampf-satellitenkampagne-durch-verein, wahlkampf-schlachtenplan-ethik-und-taktik, wahlkampf-schulen-und-jugendformate, wahlkampf-sicherheitslage-kandidierende, wahlkampf-social-media-redaktionsplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Satellitenkampagne Durch Verein, Wahlkampf Schlachtenplan Ethik Und Taktik, Wahlkampf Schulen Und Jugendformate, Wahlkampf Sicherheitslage Kandidierende und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Satellitenkampagne Durch Verein bis Wahlkampf Social Media Redaktionsplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-satellitenkampagne-durch-verein` | Wahlkampfrecht Praxis: Satellitenkampagne eines Vereins oder Dritten auf Zurechnung und Spendenrecht prüfen. |
 | `wahlkampf-schlachtenplan-ethik-und-taktik` | Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-satellitenkampagne-durch-verein`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Satellitenkampagne eines Vereins oder Dritten auf Zurechnung und Spendenrecht prüfen.
+**Fokus:** Wahlkampfrecht Praxis: Satellitenkampagne eines Vereins oder Dritten auf Zurechnung und Spendenrecht prüfen.
 
 # Satellitenkampagne Durch Verein
 
@@ -83,7 +83,7 @@ Erzeuge: **Satellitenkampagnen-Vermerk**. Wenn Informationen fehlen, stelle höc
 
 ## 2. `wahlkampf-schlachtenplan-ethik-und-taktik`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln.
+**Fokus:** Wahlkampfrecht Praxis: harten, aber demokratisch sauberen Kampagnenplan entwickeln.
 
 # Schlachtenplan Ethik Und Taktik
 
@@ -144,7 +144,7 @@ Erzeuge: **Phasenplan mit roten Linien**. Wenn Informationen fehlen, stelle höc
 
 ## 3. `wahlkampf-schulen-und-jugendformate`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlkampfauftritte an Schulen, Jugendforen und Bildungseinrichtungen pruefen.
 
 # Schulen Und Jugendformate
 
@@ -205,7 +205,7 @@ Erzeuge: **Schulveranstaltungs-Check**. Wenn Informationen fehlen, stelle höchs
 
 ## 4. `wahlkampf-sicherheitslage-kandidierende`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Schutzkonzept fuer Kandidierende und Wahlkampfteams erstellen.
+**Fokus:** Wahlkampfrecht Praxis: Schutzkonzept fuer Kandidierende und Wahlkampfteams erstellen.
 
 # Sicherheitslage Kandidierende
 
@@ -258,7 +258,7 @@ Erzeuge: **Sicherheitslageplan**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 5. `wahlkampf-social-media-redaktionsplan`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan fuer Social Media bauen.
+**Fokus:** Wahlkampfrecht Praxis: rechtssicheren Redaktionsplan fuer Social Media bauen.
 
 # Social Media Redaktionsplan
 

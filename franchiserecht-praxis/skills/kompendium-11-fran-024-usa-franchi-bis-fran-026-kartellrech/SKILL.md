@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-fran-024-usa-franchi-bis-fran-026-kartellrech
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (fran-024-usa-franchise-disclosure-vergleich, fran-025-eu-vertikal-gvo-und-franchise, fran-026-kartellrechtlicher-informationsaustausch-im-system) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im System; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - franchiserecht-praxis
+# Arbeitsbereich - Fran 024 Usa Franchise Disclosure Vergleich, Fran 025 Eu Vertikal Gvo Und Franchise, Fran 026 Kartellrechtlicher Informationsaustausch Im Sys
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-024-usa-franchise-disclosure-vergleich` | US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme. |
 | `fran-025-eu-vertikal-gvo-und-franchise` | EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-024-usa-franchise-disclosure-vergleich`
 
-**Frühere Beschreibung:** US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme.
+**Fokus:** US-Franchise-Disclosure-Dokument (FDD) mit deutschem Aufklärungsstandard vergleichen: FTC-Rule-Items vs. DFV-Ethics-Standard, Haftungsunterschiede, Cooling-off-Perioden und Implikationen für deutsch-amerikanische Franchisesysteme.
 
 # Franchiserecht: USA-Franchise-Disclosure im Vergleich
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-025-eu-vertikal-gvo-und-franchise`
 
-**Frühere Beschreibung:** EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln.
+**Fokus:** EU-Vertikal-GVO 2022/720 im Franchisekontext anwenden: Gruppenfreistellung, Marktanteilsschwellen, Kernbeschränkungen, Online-Vertriebsregeln und Übergangszeitraum. Compliance-Check für Bezugsbindungen, Gebietsschutz und Preisregeln.
 
 # Franchiserecht: EU-Vertikal-GVO und Franchise
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-026-kartellrechtlicher-informationsaustausch-im-system`
 
-**Frühere Beschreibung:** Informationsaustausch im Franchisesystem kartellrechtlich prüfen: zulässiger Systemdatenaustausch vs. verbotene Koordination nach § 1 GWB und Art. 101 AEUV. Umsatzdaten, Preisinformationen, Kapazitätsdaten und Compliance-Konzepte für Franchisenehmer-Treffen.
+**Fokus:** Informationsaustausch im Franchisesystem kartellrechtlich prüfen: zulässiger Systemdatenaustausch vs. verbotene Koordination nach § 1 GWB und Art. 101 AEUV. Umsatzdaten, Preisinformationen, Kapazitätsdaten und Compliance-Konzepte für Franchisenehmer-Treffen.
 
 # Franchiserecht: Kartellrechtlicher Informationsaustausch im System
 

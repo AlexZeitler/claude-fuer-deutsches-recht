@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-equitable-subordinat-bis-exclusivity-1121
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (equitable-subordination-510, estate-property-541, examiner-1104, exclusivity-1121) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Equitable Subordination 510, Estate Property 541, Examiner 1104, Exclusivity 1121; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - us-bankruptcy-code
+# Arbeitsbereich - Equitable Subordination 510 bis Exclusivity 1121
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `equitable-subordination-510` | Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects. |
 | `estate-property-541` | Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `equitable-subordination-510`
 
-**Frühere Beschreibung:** Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects.
+**Fokus:** Prueft contractual subordination, equitable subordination, insider misconduct and plan distribution effects.
 
 # Subordination § 510
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `estate-property-541`
 
-**Frühere Beschreibung:** Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets.
+**Fokus:** Prueft estate property, causes of action, IP, proceeds, exclusions, trusts and foreign assets.
 
 # Property of the Estate § 541
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `examiner-1104`
 
-**Frühere Beschreibung:** Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage.
+**Fokus:** Prueft appointment of examiner, investigation scope, trustee alternative and litigation leverage.
 
 # Examiner § 1104
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `exclusivity-1121`
 
-**Frühere Beschreibung:** Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage.
+**Fokus:** Prueft debtor exclusivity, extension, termination, competing plans and negotiation leverage.
 
 # Exclusivity § 1121
 

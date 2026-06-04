@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-arbeitsrechtliche-ue-bis-bankueberweisung-feh
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (arbeitsrechtliche-ueberzahlung, ausschluss-814-bgb-kenntnis-der-nichtschuld, ausschluss-817-bgb-gesetzes-und-sittenverstoss, bankueberweisung-fehlbuchung-und-empfaengerhorizont) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsrechtliche Ueberzahlung, Ausschluss 814 Bgb Kenntnis Der Nichtschuld, Ausschluss 817 Bgb Gesetzes Und Sittenverstoss, Bankueberweisung Fehlbuchung Und Empfaengerhorizont; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Arbeitsrechtliche Ueberzahlung bis Bankueberweisung Fehlbuchung Und Empfaengerhorizont
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsrechtliche-ueberzahlung` | Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB. |
 | `ausschluss-814-bgb-kenntnis-der-nichtschuld` | Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitsrechtliche-ueberzahlung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB.
+**Fokus:** Nutze diesen Skill, wenn Arbeitsentgelt überzahlt wurde und Ausschlussfristen oder Entreicherung drohen. Normen: § 611a BGB; §§ 812 und 818 BGB; § 199 BGB; tarifliche Ausschlussfristen. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Berechnungsblatt Rückforderung mit Ausschlussfrist- und Entreicherungsprüfung. Abgrenzung: nicht Schadensersatz §§ 280 ff. BGB.
 
 # Arbeitsrechtliche Überzahlung
 
@@ -118,7 +118,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `ausschluss-814-bgb-kenntnis-der-nichtschuld`
 
-**Frühere Beschreibung:** Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß).
+**Fokus:** Bereicherungsanspruch scheitert an § 814 BGB wegen positiver Kenntnis des Leistenden von der Nichtschuld. Normen: § 814 BGB. Prüfraster: positive Kenntnis vs. bloss Zweifel, Zeitpunkt der Kenntnis, Abgrenzung zu condictio indebiti. Output: Prüfergebnis Ausschlussgrund § 814 BGB mit Begründung. Abgrenzung: nicht § 817 BGB (Gesetzes-/Sittenverstoß).
 
 # Ausschluss nach § 814 BGB — Kenntnis der Nichtschuld
 
@@ -207,7 +207,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `ausschluss-817-bgb-gesetzes-und-sittenverstoss`
 
-**Frühere Beschreibung:** Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
+**Fokus:** Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Prüfraster: beiderseitiger Verstoß, Sperrwirkung, enge Rückausnahmen nach h.M. Output: Prüfergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld).
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß
 
@@ -301,7 +301,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `bankueberweisung-fehlbuchung-und-empfaengerhorizont`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung.
+**Fokus:** Nutze diesen Skill, wenn eine Banküberweisung, Fehlbuchung oder Fehlleitung bereicherungsrechtlich zugeordnet werden muss. Normen: §§ 675 ff. BGB; § 675u BGB; §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Empfängerhorizont-Analyse mit Anspruch gegen Bank oder Endempfänger. Abgrenzung: nicht zivilrechtliche Schenkungsrückforderung.
 
 # Banküberweisung, Fehlbuchung und Empfängerhorizont
 

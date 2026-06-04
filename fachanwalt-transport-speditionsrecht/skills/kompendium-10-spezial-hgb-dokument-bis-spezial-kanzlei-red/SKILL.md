@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-spezial-hgb-dokument-bis-spezial-kanzlei-red
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (spezial-hgb-dokumentenmatrix-und-lueckenliste, spezial-kabotage-beweislast-und-darlegungslast, spezial-kanzlei-red-team-und-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hgb Dokumentenmatrix Und Lueckenliste, Kabotage Beweislast Und Darlegungslast, Kanzlei Red Team Und Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Hgb Dokumentenmatrix Und Lueckenliste, Kabotage Beweislast Und Darlegungslast, Kanzlei Red Team Und Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-hgb-dokumentenmatrix-und-lueckenliste` | HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-kabotage-beweislast-und-darlegungslast` | Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-hgb-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** HGB: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # HGB: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-kabotage-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kabotage: Beweislast, Darlegungslast und Substantiierung im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kabotage: Beweislast, Darlegungslast und Substantiierung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-kanzlei-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Red-Team und Qualitätskontrolle im Plugin fachanwalt transport speditionsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kanzlei: Red-Team und Qualitätskontrolle
 

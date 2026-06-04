@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-verl-035-podcast-und-bis-verl-036-onlineporta
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (verl-035-podcast-und-verlag-content-recycling, verl-036-onlineportal-paywall-datenbankrecht-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 035 Podcast Und Verlag Content Recycling, Verl 036 Onlineportal Paywall Datenbankrecht Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-035-podcast-und-verlag-content-recycling` | Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen. |
 | `verl-036-onlineportal-paywall-datenbankrecht-schnittstelle` | Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-035-podcast-und-verlag-content-recycling`
 
-**Frühere Beschreibung:** Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen.
+**Fokus:** Verlagsrecht: Podcast-Produktion aus Verlagsinhalten — Nutzungsrechte, GEMA, Sprecher-Leistungsschutz, Content-Recycling-Klauseln und medienrechtliche Anforderungen.
 
 # Verl-035 · Podcast und Verlag: Content-Recycling
 
@@ -144,7 +144,7 @@ Musterklausel:
 
 ## 2. `verl-036-onlineportal-paywall-datenbankrecht-schnittstelle`
 
-**Frühere Beschreibung:** Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken.
+**Fokus:** Verlagsrecht: Online-Portale, Paywalls, Datenbankrecht (UrhG §§ 87a ff.) und API-/Schnittstellen-Nutzung — Lizenzmodelle, API-Terms, Screen Scraping und TDM-Schranken.
 
 # Verl-036 · Online-Portal, Paywall, Datenbankrecht und Schnittstelle
 

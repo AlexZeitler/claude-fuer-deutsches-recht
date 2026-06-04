@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-see-106-konnossement-bis-see-110-konnossement
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (see-106-konnossement-versicherung-melden, see-107-konnossement-local-counsel-instruieren, see-108-konnossement-closing-planen, see-109-konnossement-klagepfad-waehlen, see-110-konnossement-risiko-memo-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 106 Konnossement Versicherung Melden, See 107 Konnossement Local Counsel Instruieren, See 108 Konnossement Closing Planen, See 109 Konnossement Klagepfad Waehlen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 106 Konnossement Versicherung Melden bis See 110 Konnossement Risiko Memo Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-106-konnossement-versicherung-melden` | Konnossement: Schadensereignis an Konnossements-Transaktion (Bill of Lading) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. |
 | `see-107-konnossement-local-counsel-instruieren` | Konnossement: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-106-konnossement-versicherung-melden`
 
-**Frühere Beschreibung:** Konnossement: Schadensereignis an Konnossements-Transaktion (Bill of Lading) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Konnossement: Schadensereignis an Konnossements-Transaktion (Bill of Lading) melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Konnossement – Schadensfall bei Versicherung melden
 
@@ -121,7 +121,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 2. `see-107-konnossement-local-counsel-instruieren`
 
-**Frühere Beschreibung:** Konnossement: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Konnossement: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Konnossements-Transaktion (Bill of Lading) im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Konnossement – Local Counsel instruieren
 
@@ -212,7 +212,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 3. `see-108-konnossement-closing-planen`
 
-**Frühere Beschreibung:** Konnossement: Closing eines Konnossements-Transaktion (Bill of Lading)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Konnossement: Closing eines Konnossements-Transaktion (Bill of Lading)-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Konnossement – Closing planen
 
@@ -305,7 +305,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 4. `see-109-konnossement-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Konnossement: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Konnossements-Transaktion (Bill of Lading): Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Konnossement – Klagepfad wählen
 
@@ -396,7 +396,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 5. `see-110-konnossement-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Konnossement: Gesamtrisikobewertung fuer Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Konnossement: Gesamtrisikobewertung fuer Verfrachter; Ablader; Konnossementsinhaber; finanzierende Bank bei Konnossements-Transaktion (Bill of Lading): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 513-525 Konnossement; HGB §§ 498-511 Verfrachter-Haftung; Hague-Visby Rules. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Konnossement – Risiko-Memo schreiben
 

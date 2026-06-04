@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-steuerberater-vorbeh-bis-vermoegensverfall-zu
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (steuerberater-vorbehaltsaufgabe-verteidigung, vergleich-mit-kammer-praevention, vergleich-mit-kammer-verteidigung, vermoegensverfall-zulassungswiderruf-praevention) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerberater Vorbehaltsaufgabe Verteidigung, Vergleich Mit Kammer Praevention, Vergleich Mit Kammer Verteidigung, Vermoegensverfall Zulassungswiderruf Praevention; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Steuerberater Vorbehaltsaufgabe Verteidigung bis Vermoegensverfall Zulassungswiderruf Praevention
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-vorbehaltsaufgabe-verteidigung` | Steuerberater Vorbehaltsaufgabe (Verteidigungs- und Kammerantwort): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `vergleich-mit-kammer-praevention` | Vergleich mit Kammer oder Aufsicht (Präventions- und Organisationspaket): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerberater-vorbehaltsaufgabe-verteidigung`
 
-**Frühere Beschreibung:** Steuerberater Vorbehaltsaufgabe (Verteidigungs- und Kammerantwort): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater Vorbehaltsaufgabe (Verteidigungs- und Kammerantwort): steuert Abgrenzung Steuerberatung, Rechtsdienstleistung, Lohnbuchhaltung, Förderantrag und betriebswirtschaftliche Beratung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater Vorbehaltsaufgabe: Verteidigungs- und Kammerantwort
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `vergleich-mit-kammer-praevention`
 
-**Frühere Beschreibung:** Vergleich mit Kammer oder Aufsicht (Präventions- und Organisationspaket): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Vergleich mit Kammer oder Aufsicht (Präventions- und Organisationspaket): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Vergleich mit Kammer oder Aufsicht: Präventions- und Organisationspaket
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `vergleich-mit-kammer-verteidigung`
 
-**Frühere Beschreibung:** Vergleich mit Kammer oder Aufsicht (Verteidigungs- und Kammerantwort): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Vergleich mit Kammer oder Aufsicht (Verteidigungs- und Kammerantwort): steuert informelle Erledigung, Auflagen, Rüge, Belehrung, Schulungsnachweis und Kosten mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Vergleich mit Kammer oder Aufsicht: Verteidigungs- und Kammerantwort
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `vermoegensverfall-zulassungswiderruf-praevention`
 
-**Frühere Beschreibung:** Vermögensverfall und Zulassungswiderruf (Präventions- und Organisationspaket): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Vermögensverfall und Zulassungswiderruf (Präventions- und Organisationspaket): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Vermögensverfall und Zulassungswiderruf: Präventions- und Organisationspaket
 

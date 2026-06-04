@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-petitionsaus-bis-spezial-unmittelbare
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-petitionsausschuss-mandantenentscheidung, spezial-richtlinien-schriftsatz-brief-und-memo-bausteine, spezial-unmittelbare-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Petitionsausschuss Mandantenentscheidung, Richtlinien Schriftsatz Brief Und Memo Bausteine, Unmittelbare Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - europarecht-kompass
+# Arbeitsbereich - Petitionsausschuss Mandantenentscheidung, Richtlinien Schriftsatz Brief Und Memo Bausteine, Unmittelbare Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-petitionsausschuss-mandantenentscheidung` | Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-richtlinien-schriftsatz-brief-und-memo-bausteine` | Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-petitionsausschuss-mandantenentscheidung`
 
-**Frühere Beschreibung:** Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Petitionsausschuss: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-richtlinien-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Richtlinien: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-unmittelbare-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin europarecht kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Unmittelbare: Risikoampel, Gegenargumente und Verteidigungslinien
 

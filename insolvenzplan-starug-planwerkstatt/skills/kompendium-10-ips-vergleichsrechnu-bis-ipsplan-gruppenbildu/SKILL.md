@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-ips-vergleichsrechnu-bis-ipsplan-gruppenbildu
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (ips-vergleichsrechnung, ipsplan-cram-down-spezial, ipsplan-gruppenbildung-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Vergleichsrechnung, Ipsplan Cram Down Spezial, Ipsplan Gruppenbildung Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Vergleichsrechnung, Ipsplan Cram Down Spezial, Ipsplan Gruppenbildung Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-vergleichsrechnung` | Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung. |
 | `ipsplan-cram-down-spezial` | Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster fuer Planersteller. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-vergleichsrechnung`
 
-**Frühere Beschreibung:** Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung.
+**Fokus:** Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung.
 
 # Vergleichsrechnung
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ipsplan-cram-down-spezial`
 
-**Frühere Beschreibung:** Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster fuer Planersteller.
+**Fokus:** Spezialfall gruppenuebergreifender Cram-Down: Voraussetzungen, faire Beteiligung am Planwert, Vergleichsrechnung. Pruefraster fuer Planersteller.
 
 # IPSPlan: Cram-Down
 
@@ -169,7 +169,7 @@ Dieser Skill gehoert zum Plugin `insolvenzplan-starug-planwerkstatt`. Er ergaenz
 
 ## 3. `ipsplan-gruppenbildung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Gruppenbildung im Insolvenz- und Restrukturierungsplan §§ 222 InsO, §§ 9 ff. StaRUG: sachgerechte Abgrenzung, Schlechterstellungsverbot. Pruefraster fuer Planersteller.
+**Fokus:** Leitfaden Gruppenbildung im Insolvenz- und Restrukturierungsplan §§ 222 InsO, §§ 9 ff. StaRUG: sachgerechte Abgrenzung, Schlechterstellungsverbot. Pruefraster fuer Planersteller.
 
 # IPSPlan: Gruppenbildung
 

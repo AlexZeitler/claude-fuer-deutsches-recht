@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-fachanwalt-familienr-bis-famr-kindeswohlgefae
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (fachanwalt-familienrecht-unterhaltsberechnung, fachanwalt-familienrecht-versorgungsausgleich, fachanwalt-familienrecht-zugewinnausgleich-berechnen, famr-einfuehrung-themen, famr-kindeswohlgefaehrdung-eilantrag-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienrecht Unterhaltsberechnung, Familienrecht Versorgungsausgleich, Familienrecht Zugewinnausgleich Berechnen, Famr Einfuehrung Themen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-familienrecht
+# Arbeitsbereich - Familienrecht Unterhaltsberechnung bis Famr Kindeswohlgefaehrdung Eilantrag Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-familienrecht-unterhaltsberechnung` | Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Prüfraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Übersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich. |
 | `fachanwalt-familienrecht-versorgungsausgleich` | Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-familienrecht-unterhaltsberechnung`
 
-**Frühere Beschreibung:** Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Prüfraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Übersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich.
+**Fokus:** Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Prüfraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Übersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich.
 
 # Unterhaltsberechnung
 
@@ -133,7 +133,7 @@ Mit kollegialen Gruessen
 
 ## 2. `fachanwalt-familienrecht-versorgungsausgleich`
 
-**Frühere Beschreibung:** Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen.
+**Fokus:** Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen.
 
 # Versorgungsausgleich
 
@@ -315,7 +315,7 @@ Maßnahme: Zeile aus BGH-Linien (Abschnitt 11) gelöscht.
 
 ## 3. `fachanwalt-familienrecht-zugewinnausgleich-berechnen`
 
-**Frühere Beschreibung:** Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermögen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Prüfraster: Anfangsvermögen/Endvermögen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermögen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjährung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen.
+**Fokus:** Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermögen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermögen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermögen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Prüfraster: Anfangsvermögen/Endvermögen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermögen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjährung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen.
 
 # Zugewinnausgleich berechnen
 
@@ -421,7 +421,7 @@ Mit kollegialen Gruessen
 
 ## 4. `famr-einfuehrung-themen`
 
-**Frühere Beschreibung:** Familienrecht einfuehrend: Ehe, Scheidung, Zugewinn, Versorgungsausgleich, Unterhalt (Trennungs-, Ehegatten-, Kindes-, Volljaehrigen-), Sorgerecht, Umgangsrecht, Vaterschaft, Adoption. Entscheidungstabelle fuer Mandantenanfragen und Verweis auf Detail-Skills.
+**Fokus:** Familienrecht einfuehrend: Ehe, Scheidung, Zugewinn, Versorgungsausgleich, Unterhalt (Trennungs-, Ehegatten-, Kindes-, Volljaehrigen-), Sorgerecht, Umgangsrecht, Vaterschaft, Adoption. Entscheidungstabelle fuer Mandantenanfragen und Verweis auf Detail-Skills.
 
 # Familienrecht: Themen-Map
 
@@ -482,7 +482,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-familienrecht`. Er ergaenzt die uebr
 
 ## 5. `famr-kindeswohlgefaehrdung-eilantrag-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kindeswohlgefaehrdung und Eilantrag: § 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung § 49 FamFG, Inobhutnahme Jugendamt § 42 SGB VIII. Pruefraster und Mustertexte fuer Eilantrag.
+**Fokus:** Spezialfall Kindeswohlgefaehrdung und Eilantrag: § 1666 BGB, Anordnungen Familiengericht, einstweilige Anordnung § 49 FamFG, Inobhutnahme Jugendamt § 42 SGB VIII. Pruefraster und Mustertexte fuer Eilantrag.
 
 # FamR: Kindeswohl-Eilantrag
 

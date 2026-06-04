@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-evvollzug-neu-006-au-bis-evvollzug-neu-008-sc
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung, evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache, evvollzug-neu-008-schutzschrift-register-und-forumstrategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Schutzschrift Register Und Forumstrategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Evvollzug Neu 006 Auslandszustellung Ev Und Uebersetzung, Evvollzug Neu 007 Abmahnung Abschlussschreiben Und Hauptsache, Evvollzug Neu 008 Sc
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung` | EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen. |
 | `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache` | EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `evvollzug-neu-006-auslandszustellung-ev-und-uebersetzung`
 
-**Frühere Beschreibung:** EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen.
+**Fokus:** EV-Vollzug: Auslandszustellung einstweiliger Verfügungen im IP-Recht nach EuZustVO, HZÜ und HCCH 2019. Übersetzungspflicht, Zustellwege EU/Nicht-EU, Vollziehungsfrist und praktische Fallstricke bei grenzüberschreitenden IP-Verfügungen.
 
 # EV-Vollzug 006: Auslandszustellung der EV und Übersetzungspflicht
 
@@ -145,7 +145,7 @@ Mandatsbezug: Deutsches Gericht erlässt EV gegen englischen Online-Händler ode
 
 ## 2. `evvollzug-neu-007-abmahnung-abschlussschreiben-und-hauptsache`
 
-**Frühere Beschreibung:** EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen.
+**Fokus:** EV-Vollzug: Abschlussschreiben nach einstweiliger Verfügung, Übergang in die Hauptsache und Verhältnis zur vorangegangenen Abmahnung. Wann Hauptsacheklage nötig, wann Abschlussvereinbarung ausreicht, Fristen und Kostenfallen.
 
 # EV-Vollzug 007: Abschlussschreiben und Übergang in die Hauptsache
 
@@ -254,7 +254,7 @@ Typischer Inhalt der Abschlussvereinbarung:
 
 ## 3. `evvollzug-neu-008-schutzschrift-register-und-forumstrategie`
 
-**Frühere Beschreibung:** EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz.
+**Fokus:** EV-Vollzug (Gegenseite): Schutzschrift im Schutzschriftenregister, Forumsstrategie des Antragsgegners und vorauseilende Rechtsverteidigung gegen einstweilige Verfügungen im gewerblichen Rechtsschutz.
 
 # EV-Vollzug 008: Schutzschrift, Register und Forumstrategie (Antragsgegnerperspektive)
 

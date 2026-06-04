@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-tod-erbe-behoerde-bis-anhoerung-vor-besche
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (tod-erbe-behoerde, vorlage-originale-kopien, aktenzeichen-und-vorgangsnummer, anhoerung-vor-bescheid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tod Erbe Behoerde, Vorlage Originale Kopien, Aktenzeichen Und Vorgangsnummer, Anhoerung Vor Bescheid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Tod Erbe Behoerde bis Anhoerung Vor Bescheid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tod-erbe-behoerde` | Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen. |
 | `vorlage-originale-kopien` | Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tod-erbe-behoerde`
 
-**Frühere Beschreibung:** Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen.
+**Fokus:** Erklärt Sterbefall, Erbschein, Nachlassgericht, Renten-/Kassen-/Steuerstellen und vorsichtige Erklärungen.
 
 # Tod, Erbe und Behörde
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `vorlage-originale-kopien`
 
-**Frühere Beschreibung:** Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk.
+**Fokus:** Warnt vor unnötiger Originalabgabe; erstellt Kopier-, Beglaubigungs- und Rückgabevermerk.
 
 # Originale und Kopien
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `aktenzeichen-und-vorgangsnummer`
 
-**Frühere Beschreibung:** Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz.
+**Fokus:** Findet und erklärt Aktenzeichen, Geschäftszeichen, Kundennummer, BG-Nummer, Kassenzeichen und Zahlungsreferenz.
 
 # Aktenzeichen und Vorgangsnummer
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `anhoerung-vor-bescheid`
 
-**Frühere Beschreibung:** Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung.
+**Fokus:** Anhoerung nach § 28 VwVfG: Bedeutung, Pflicht der Behoerde, Ausnahmen, Inhalt einer guten Stellungnahme, Heilung versaeumter Anhoerung und Sofortmassnahmen vor belastender Entscheidung.
 
 # Anhoerung vor Bescheid
 

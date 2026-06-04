@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-eu-design-anmeldung-bis-euipo-nichtigkeit-eu
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (eu-design-anmeldung-euipo, euipo-nichtigkeit-eu-design) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Eu Design Anmeldung Euipo, Euipo Nichtigkeit Eu Design
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eu-design-anmeldung-euipo` | EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024. |
 | `euipo-nichtigkeit-eu-design` | Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eu-design-anmeldung-euipo`
 
-**Frühere Beschreibung:** EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024.
+**Fokus:** EU-Design beim EUIPO anmelden: Einheitsrecht, Wiedergaben, Erzeugnisangabe, multiple designs, Gebühren, Priorität, Aufschiebung und EU-Designreform 2024.
 
 # Eu Design Anmeldung Euipo
 
@@ -59,7 +59,7 @@ EUIPO-Filing-Sheet und Fristenplan.
 
 ## 2. `euipo-nichtigkeit-eu-design`
 
-**Frühere Beschreibung:** Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute.
+**Fokus:** Nichtigkeitsantrag gegen ein EU-Design beim EUIPO: Grounds, Beweismittel, Sprache, Parallelverfahren, Vergleich und spätere Gerichtsroute.
 
 # Euipo Nichtigkeit Eu Design
 

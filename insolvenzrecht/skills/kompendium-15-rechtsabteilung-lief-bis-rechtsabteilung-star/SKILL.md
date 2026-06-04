@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-rechtsabteilung-lief-bis-rechtsabteilung-star
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt, rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall, rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung, rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lieferantenpool Und Eigentumsvorbehalt, Npl Kaeufer Im Schuldnerinsolvenzfall, Schufa Loeschung Nach Restschuldbefreiung, Starug Fruehwarnsystem Fuer Rechtsabteilung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - insolvenzrecht
+# Arbeitsbereich - Lieferantenpool Und Eigentumsvorbehalt bis Starug Fruehwarnsystem Fuer Rechtsabteilung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt` | Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall` | Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-lieferantenpool-und-eigentumsvorbehalt`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Lieferantenpool und Eigentumsvorbehalt: Aussonderung, Absonderung und Fortlieferung werden im Krisenfenster sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Lieferantenpool und Eigentumsvorbehalt
 
@@ -78,7 +78,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-npl-kaeufer-im-schuldnerinsolvenzfall`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für NPL-Käufer im Schuldnerinsolvenzfall: Forderungskauf, Sicherheiten und Tabellenanmeldung werden forensisch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: NPL-Käufer im Schuldnerinsolvenzfall
 
@@ -127,7 +127,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-schufa-loeschung-nach-restschuldbefreiung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Schufa-Löschung nach Restschuldbefreiung: Bonitätsdaten nach Insolvenz werden auf Speicherfrist und Löschungsanspruch geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Schufa-Löschung nach Restschuldbefreiung
 
@@ -176,7 +176,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-starug-fruehwarnsystem-fuer-rechtsabteilung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für StaRUG-Frühwarnsystem für Rechtsabteilung: Krisenfrüherkennung, Geschäftsleiterpflicht und Dokumentation werden aufgebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: StaRUG-Frühwarnsystem für Rechtsabteilung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-rechtsweg-und-gerich-bis-spezial-ausgleich-in
-description: "fluggastrechte: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (rechtsweg-und-gerichtsstand-fluggast, spezial-annullierung-schriftsatz-brief-und-memo-bausteine, spezial-ausgleich-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fluggastrechte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsweg Und Gerichtsstand Fluggast, Annullierung Schriftsatz Brief Und Memo Bausteine, Ausgleich Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fluggastrechte
+# Arbeitsbereich - Rechtsweg Und Gerichtsstand Fluggast, Annullierung Schriftsatz Brief Und Memo Bausteine, Ausgleich Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsweg-und-gerichtsstand-fluggast` | Rechtsweg und Gerichtsstand bei Flugverspaetung und Annullierung: Wohnsitz oder Flughafen Klaegerwahl nach EuGH Rehder. Amtsgericht bei bis 5000 Euro Streitwert. Zustaendige Schlichtungsstellen soep. Internationale Fragen Montrealer Uebereinkommen. |
 | `spezial-annullierung-schriftsatz-brief-und-memo-bausteine` | Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsweg-und-gerichtsstand-fluggast`
 
-**Frühere Beschreibung:** Rechtsweg und Gerichtsstand bei Flugverspaetung und Annullierung: Wohnsitz oder Flughafen Klaegerwahl nach EuGH Rehder. Amtsgericht bei bis 5000 Euro Streitwert. Zustaendige Schlichtungsstellen soep. Internationale Fragen Montrealer Uebereinkommen.
+**Fokus:** Rechtsweg und Gerichtsstand bei Flugverspaetung und Annullierung: Wohnsitz oder Flughafen Klaegerwahl nach EuGH Rehder. Amtsgericht bei bis 5000 Euro Streitwert. Zustaendige Schlichtungsstellen soep. Internationale Fragen Montrealer Uebereinkommen.
 
 # Rechtsweg und Gerichtsstand
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 
 ## 2. `spezial-annullierung-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Annullierung: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Annullierung: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -121,7 +121,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-ausgleich-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Ausgleich: Internationaler Bezug und Schnittstellen im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ausgleich: Internationaler Bezug und Schnittstellen im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ausgleich: Internationaler Bezug und Schnittstellen
 

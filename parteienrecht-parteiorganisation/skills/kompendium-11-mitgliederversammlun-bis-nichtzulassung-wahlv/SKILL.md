@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-mitgliederversammlun-bis-nichtzulassung-wahlv
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (mitgliederversammlung-kleine-partei, mitgliederversammlung-kreis, nichtzulassung-wahlvorschlag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Mitgliederversammlung Kleine Partei, Mitgliederversammlung Kreis, Nichtzulassung Wahlvorschlag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mitgliederversammlung-kleine-partei` | Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte. |
 | `mitgliederversammlung-kreis` | Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mitgliederversammlung-kleine-partei`
 
-**Frühere Beschreibung:** Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
+**Fokus:** Niedrigschwelliger Workflow für kleine Kreisverbände: Einladung, Beschlussfähigkeit, Protokoll, Wahlleiterkontakte.
 
 # Kleine Partei Praxis
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `mitgliederversammlung-kreis`
 
-**Frühere Beschreibung:** Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis.
+**Fokus:** Erstellt Einladung zur Kreis-/Mitgliederversammlung mit Frist, Tagesordnung, Satzungsgrundlage und Nachweis.
 
 # Kreisversammlung einberufen
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `nichtzulassung-wahlvorschlag`
 
-**Frühere Beschreibung:** Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht.
+**Fokus:** Routet Beschwerde/Einspruch gegen Nichtzulassung eines Wahlvorschlags nach jeweiligem Wahlrecht.
 
 # Nichtzulassung Wahlvorschlag
 

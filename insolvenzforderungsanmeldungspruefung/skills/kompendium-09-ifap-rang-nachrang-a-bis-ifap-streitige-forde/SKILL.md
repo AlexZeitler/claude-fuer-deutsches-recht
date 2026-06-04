@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-ifap-rang-nachrang-a-bis-ifap-streitige-forde
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (ifap-rang-nachrang-absonderung, ifap-schuldnerwiderspruch-184, ifap-streitige-forderung-179-180) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Rang Nachrang Absonderung, Ifap Schuldnerwiderspruch 184, Ifap Streitige Forderung 179 180; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Rang Nachrang Absonderung, Ifap Schuldnerwiderspruch 184, Ifap Streitige Forderung 179 180
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-rang-nachrang-absonderung` | Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungsrecht. Prüfraster einfache Insolvenzforderung vs. Nachrang vs. Absonderung, Glaubhaftmachung Sicherheitsrecht, Ausfallforderung nach Verwertung. Output Rang-Klassifizierungsprotokoll mit Begründung und Tabellenposition. Abgrenzung zu Formalprüfung und zu Prüfentscheidung. |
 | `ifap-schuldnerwiderspruch-184` | Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-rang-nachrang-absonderung`
 
-**Frühere Beschreibung:** Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungsrecht. Prüfraster einfache Insolvenzforderung vs. Nachrang vs. Absonderung, Glaubhaftmachung Sicherheitsrecht, Ausfallforderung nach Verwertung. Output Rang-Klassifizierungsprotokoll mit Begründung und Tabellenposition. Abgrenzung zu Formalprüfung und zu Prüfentscheidung.
+**Fokus:** Rang Nachrang Absonderung und Aussonderung bei Insolvenzforderungen prüfen: Anwendungsfall Gläubiger behauptet Sonderrechte wie Absonderungsrecht aus Sicherungsuebereignung oder Nachrang. §§ 38-39 InsO Insolvenzforderungen und Nachrang, §§ 49-51 InsO Absonderungsrecht, §§ 47-48 InsO Aussonderungsrecht. Prüfraster einfache Insolvenzforderung vs. Nachrang vs. Absonderung, Glaubhaftmachung Sicherheitsrecht, Ausfallforderung nach Verwertung. Output Rang-Klassifizierungsprotokoll mit Begründung und Tabellenposition. Abgrenzung zu Formalprüfung und zu Prüfentscheidung.
 
 # Rang, Nachrang und Sicherungsrechte
 
@@ -105,7 +105,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-schuldnerwiderspruch-184`
 
-**Frühere Beschreibung:** Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176.
+**Fokus:** Schuldnerwiderspruch nach § 184 InsO prüfen und Fristen einhalten: Anwendungsfall Schuldner widerspricht Forderung und bei titulierten Forderungen laeuft Monatsfrist für Aufnahme des Rechtsstreits. § 184 InsO Schuldnerwiderspruch, § 179 InsO Feststellungsklage, § 183 InsO Wirkung bei Schuldnerwiderspruch. Prüfraster titulierte vs. nichttitulierte Forderung, Monatsfrist ab Prüfungstermin, Aufnahme laufender Verfahren, Kommunikationsbedarf. Output Widerspruchsprotokoll mit Fristkalender und Handlungsempfehlung. Abgrenzung zu Streitige-Forderung-179-180 und zu Prüfungstermin-176.
 
 # Schuldnerwiderspruch nach § 184 InsO
 
@@ -179,7 +179,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-streitige-forderung-179-180`
 
-**Frühere Beschreibung:** Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Prüfraster Bestreitungsprotokoll, Klagefrist, Zuständiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll für bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189.
+**Fokus:** Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Prüfraster Bestreitungsprotokoll, Klagefrist, Zuständiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll für bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189.
 
 # Streitige Forderung und Feststellungsklage
 

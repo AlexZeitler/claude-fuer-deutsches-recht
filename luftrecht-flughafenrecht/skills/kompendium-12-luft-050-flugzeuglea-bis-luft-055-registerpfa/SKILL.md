@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-luft-050-flugzeuglea-bis-luft-055-registerpfa
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (luft-050-flugzeugleasing-mandantenmemo-schreibe, luft-052-registerpfandrecht-register-auswerten, luft-053-registerpfandrecht-pfandrecht-vorberei, luft-054-registerpfandrecht-pfaendung-planen, luft-055-registerpfandrecht-genehmigung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 050 Flugzeugleasing Mandantenmemo Schreibe, Luft 052 Registerpfandrecht Register Auswerten, Luft 053 Registerpfandrecht Pfandrecht Vorberei, Luft 054 Registerpfandrecht Pfaendung Planen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 050 Flugzeugleasing Mandantenmemo Schreibe bis Luft 055 Registerpfandrecht Genehmigung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-050-flugzeugleasing-mandantenmemo-schreibe` | Anwalt schreibt Mandantenmemo fuer Leasinggeber oder Leasingnehmer zu komplexem Flugzeugleasing-Fall: IDERA-Entregistrierung Insolvenz Cape-Town-Remedies oder Wet-Lease-Genehmigung. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung. |
 | `luft-052-registerpfandrecht-register-auswerten` | Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-050-flugzeugleasing-mandantenmemo-schreibe`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Leasinggeber oder Leasingnehmer zu komplexem Flugzeugleasing-Fall: IDERA-Entregistrierung Insolvenz Cape-Town-Remedies oder Wet-Lease-Genehmigung. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Leasinggeber oder Leasingnehmer zu komplexem Flugzeugleasing-Fall: IDERA-Entregistrierung Insolvenz Cape-Town-Remedies oder Wet-Lease-Genehmigung. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
 
 # Flugzeugleasing – Mandantenmemo schreiben
 
@@ -125,7 +125,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 2. `luft-052-registerpfandrecht-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen.
+**Fokus:** Mandant will Pfandrechtsregister AG Braunschweig und ICAO-Cape-Town-Register auswerten. Prueft LuftFzgG §§ 1-12 AG-Braunschweig-Registerauszug Cape-Town-Convention Art. 16 ICAO-Registerabfrage und liefert Ranganalyse-Bericht mit allen eingetragenen Belastungen.
 
 # Registerpfandrecht – Register auswerten
 
@@ -219,7 +219,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 3. `luft-053-registerpfandrecht-pfandrecht-vorberei`
 
-**Frühere Beschreibung:** Glaeubigerbank will Pfandrecht an Luftfahrzeug bestellen und gleichzeitig Cape-Town-Sicherungsinteresse eintragen. Prueft LuftFzgG §§ 1-12 Notarerfordernis Rangordnung AG-Braunschweig-Antrag Cape-Town-Prioritaet und liefert Bestellungs-Checkliste und Antragsentwurf.
+**Fokus:** Glaeubigerbank will Pfandrecht an Luftfahrzeug bestellen und gleichzeitig Cape-Town-Sicherungsinteresse eintragen. Prueft LuftFzgG §§ 1-12 Notarerfordernis Rangordnung AG-Braunschweig-Antrag Cape-Town-Prioritaet und liefert Bestellungs-Checkliste und Antragsentwurf.
 
 # Registerpfandrecht – Pfandrecht vorbereiten
 
@@ -313,7 +313,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 4. `luft-054-registerpfandrecht-pfaendung-planen`
 
-**Frühere Beschreibung:** Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prueft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan.
+**Fokus:** Pfandglaeubiger will aus eingetragenem Pfandrecht vollstrecken oder Neuglaeubigers will Pfandrecht pfaenden. Prueft LuftFzgG §§ 22-28 Zwangsversteigerungsrecht ZPO §§ 864-871 Cape-Town-Remedies Art. 8 InsO § 50 Absonderungsrecht und liefert Vollstreckungs-Plan.
 
 # Registerpfandrecht – Pfändung planen
 
@@ -407,7 +407,7 @@ Für Mandate im Bereich Luftfahrzeugpfandrecht und Register sind folgende Dokume
 
 ## 5. `luft-055-registerpfandrecht-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Pfandrecht an Luftfahrzeug soll bestellt werden; Prüfung ob Genehmigungen der Luftfahrtbehörde nötig sind. Prueft LuftFzgG LuftVG § 64 Cape-Town-Voraussetzungen und liefert Genehmigungs-Checkliste fuer Pfandrechtsbestellung an Luftfahrzeugen.
+**Fokus:** Pfandrecht an Luftfahrzeug soll bestellt werden; Prüfung ob Genehmigungen der Luftfahrtbehörde nötig sind. Prueft LuftFzgG LuftVG § 64 Cape-Town-Voraussetzungen und liefert Genehmigungs-Checkliste fuer Pfandrechtsbestellung an Luftfahrzeugen.
 
 # Registerpfandrecht – Genehmigung prüfen
 

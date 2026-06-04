@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-verein-dokumentenpak-bis-verein-und-social-me
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (verein-dokumentenpaket, verein-und-politik, verein-und-social-media) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Verein Dokumentenpaket, Verein Und Politik, Verein Und Social Media
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verein-dokumentenpaket` | Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste. |
 | `verein-und-politik` | Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verein-dokumentenpaket`
 
-**Frühere Beschreibung:** Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste.
+**Fokus:** Baut aus Auftrag komplette Dokumente: Einladung, Tagesordnung, Beschluss, Protokoll, Rundbrief und Anlagenliste.
 
 # Vereins-Dokumentenpaket
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `verein-und-politik`
 
-**Frühere Beschreibung:** Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe.
+**Fokus:** Warnt bei politischer Betätigung, Gemeinnützigkeit, Neutralität, Veranstaltungen und Parteispendennähe.
 
 # Verein und Politik
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `verein-und-social-media`
 
-**Frühere Beschreibung:** Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung.
+**Fokus:** Regelt Impressum, Bildrechte, Datenschutz, Adminrechte, Krisenpost und Löschung.
 
 # Social Media im Verein
 

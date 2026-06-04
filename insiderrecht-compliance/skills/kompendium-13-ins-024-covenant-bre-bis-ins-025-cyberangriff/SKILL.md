@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-ins-024-covenant-bre-bis-ins-025-cyberangriff
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (ins-024-covenant-breach, ins-025-cyberangriff) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 024 Covenant Breach, Ins 025 Cyberangriff; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - insiderrecht-compliance
+# Arbeitsbereich - Ins 024 Covenant Breach, Ins 025 Cyberangriff
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-024-covenant-breach` | Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation. |
 | `ins-025-cyberangriff` | Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-024-covenant-breach`
 
-**Frühere Beschreibung:** Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation.
+**Fokus:** Prueft Ad-hoc-Pflicht und Insiderrecht bei Covenant-Verletzungen in Kreditvertraegen: Wesentlichkeit, Kursrelevanz, Aufschub und Glaeubiger-Kommunikation.
 
 # Covenant Breach – Insiderrecht und Ad-hoc-Pflicht
 
@@ -118,7 +118,7 @@ Weitere Quellen:
 
 ## 2. `ins-025-cyberangriff`
 
-**Frühere Beschreibung:** Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik.
+**Fokus:** Prueft Insiderinformations-Qualitaet eines Cyberangriffs: Kursrelevanz, Ad-hoc-Pflicht, Aufschub wegen laufender Strafverfolgung und Koordination mit IT-Forensik.
 
 # Cyberangriff – Insiderrecht und Ad-hoc-Pflicht
 

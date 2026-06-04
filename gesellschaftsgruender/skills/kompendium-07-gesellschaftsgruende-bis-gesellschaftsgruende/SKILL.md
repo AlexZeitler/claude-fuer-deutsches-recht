@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (gesellschaftsgruender-cashburn-insolvenzfruehwarnung, gesellschaftsgruender-checkliste-vor-unterschrift, gesellschaftsgruender-daten-und-ki-compliance-start, gesellschaftsgruender-deadlock-und-mediation, gesellschaftsgruender-egbr-grundstueck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Cashburn Insolvenzfruehwarnung, Gesellschaftsgruender Checkliste Vor Unterschrift, Gesellschaftsgruender Daten Und Ki Compliance Start, Gesellschaftsgruender Deadlock Und Mediation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Cashburn Insolvenzfruehwarnung bis Gesellschaftsgruender Egbr Grundstueck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-cashburn-insolvenzfruehwarnung` | Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen. |
 | `gesellschaftsgruender-checkliste-vor-unterschrift` | Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-cashburn-insolvenzfruehwarnung`
 
-**Frühere Beschreibung:** Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen.
+**Fokus:** Prüft Liquiditätsreichweite, Stammkapitalverlust, Zahlungsunfähigkeit und Überschuldungswarnungen.
 
 # Cash Burn und Insolvenzfrühwarnung
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-checkliste-vor-unterschrift`
 
-**Frühere Beschreibung:** Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin.
+**Fokus:** Letztes Qualitygate vor Satzung, SHA, GF-Vertrag, Bankformular oder Notartermin.
 
 # Checkliste vor Unterschrift
 
@@ -156,7 +156,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 3. `gesellschaftsgruender-daten-und-ki-compliance-start`
 
-**Frühere Beschreibung:** Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium.
+**Fokus:** Prüft Datenschutz, KI-VO, Datenquellen und Modellnutzung im Gründungsstadium.
 
 # Daten- und KI-Compliance Start
 
@@ -219,7 +219,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-deadlock-und-mediation`
 
-**Frühere Beschreibung:** Entwirft Deadlock-Mechanismen, Eskalationsleitern und Mediationsklauseln.
+**Fokus:** Entwirft Deadlock-Mechanismen, Eskalationsleitern und Mediationsklauseln.
 
 # Deadlock und Mediation
 
@@ -282,7 +282,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-egbr-grundstueck`
 
-**Frühere Beschreibung:** Prüft eGbR bei Grundstückserwerb, Grundbuchfähigkeit, Register und Gesellschafterwechsel.
+**Fokus:** Prüft eGbR bei Grundstückserwerb, Grundbuchfähigkeit, Register und Gesellschafterwechsel.
 
 # eGbR und Grundstück
 

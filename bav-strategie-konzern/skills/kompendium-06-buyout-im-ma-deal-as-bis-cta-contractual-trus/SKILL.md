@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-buyout-im-ma-deal-as-bis-cta-contractual-trus
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (buyout-im-ma-deal-asset-vs-share, country-by-country-benefits-matrix-konzern, cta-contractual-trust-arrangement-strukturierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bav-strategie-konzern
+# Arbeitsbereich - Buyout Im Ma Deal Asset Vs Share, Country By Country Benefits Matrix Konzern, Cta Contractual Trust Arrangement Strukturierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `buyout-im-ma-deal-asset-vs-share` | Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung. |
 | `country-by-country-benefits-matrix-konzern` | Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `buyout-im-ma-deal-asset-vs-share`
 
-**Frühere Beschreibung:** Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung.
+**Fokus:** Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Prüfraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung.
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal
 
@@ -244,7 +244,7 @@ EMPFEHLUNG:
 
 ## 2. `country-by-country-benefits-matrix-konzern`
 
-**Frühere Beschreibung:** Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie.
+**Fokus:** Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie.
 
 # Country-by-Country Benefits-Matrix für Konzerne
 
@@ -446,7 +446,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `cta-contractual-trust-arrangement-strukturierung`
 
-**Frühere Beschreibung:** CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich).
+**Fokus:** CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich).
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation
 

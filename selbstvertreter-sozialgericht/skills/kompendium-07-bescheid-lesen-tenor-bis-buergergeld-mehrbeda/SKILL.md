@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-bescheid-lesen-tenor-bis-buergergeld-mehrbeda
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (bescheid-lesen-tenor-begruendung-belehrung, beweismittel-im-sozialgericht-uebersicht, buergergeld-jobcenter-sgb-ii, buergergeld-kosten-der-unterkunft-22-sgb-ii, buergergeld-mehrbedarf-21-sgb-ii) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bescheid Lesen Tenor Begruendung Belehrung, Beweismittel Im Sozialgericht Uebersicht, Buergergeld Jobcenter Sgb Ii, Buergergeld Kosten Der Unterkunft 22 Sgb Ii und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Bescheid Lesen Tenor Begruendung Belehrung bis Buergergeld Mehrbedarf 21 Sgb Ii
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bescheid-lesen-tenor-begruendung-belehrung` | Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster. |
 | `beweismittel-im-sozialgericht-uebersicht` | Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bescheid-lesen-tenor-begruendung-belehrung`
 
-**Frühere Beschreibung:** Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster.
+**Fokus:** Bescheid lesen: Selbstvertreter-Leitfaden zum Aufschluesseln eines Sozialleistungsbescheids. Skill behandelt Tenor (Entscheidungsformel) Begruendung (Sachverhalt rechtlich) Rechtsbehelfsbelehrung Anlagen und typische Fehler. Liefert Pruefraster.
 
 # Bescheid Lesen Tenor Begruendung Belehrung
 
@@ -95,7 +95,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `beweismittel-im-sozialgericht-uebersicht`
 
-**Frühere Beschreibung:** Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau.
+**Fokus:** Welche Beweismittel gelten am SG. Urkundenbeweis Zeugen Sachverständige Augenscheinsobjekte Parteivernehmung. Praktische Tipps für Laien zum Beweis-Aufbau.
 
 # Beweismittel am Sozialgericht — Ueberblick
 
@@ -253,7 +253,7 @@ Stand: 05/2026. Beweisrecht SGG i.V.m. ZPO klassisch.
 
 ## 3. `buergergeld-jobcenter-sgb-ii`
 
-**Frühere Beschreibung:** Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger.
+**Fokus:** Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger.
 
 # Buergergeld — Streit mit dem Jobcenter
 
@@ -402,7 +402,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 4. `buergergeld-kosten-der-unterkunft-22-sgb-ii`
 
-**Frühere Beschreibung:** Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster.
+**Fokus:** Buergergeld Kosten der Unterkunft (KdU) nach § 22 SGB II. Skill klaert die Uebernahme der KdU Angemessenheitspruefung Mietobergrenze regional Senkungsverfahren und Sondervorschriften bei Eigentum. Liefert Pruefraster.
 
 # Buergergeld Kosten Der Unterkunft 22 Sgb Ii
 
@@ -449,7 +449,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `buergergeld-mehrbedarf-21-sgb-ii`
 
-**Frühere Beschreibung:** Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe fuer werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster.
+**Fokus:** Buergergeld Mehrbedarf nach § 21 SGB II. Skill klaert die Mehrbedarfe fuer werdende Muetter Alleinerziehende Schwerbehinderte kostenaufwendige Ernaehrung. Hoehe Voraussetzungen und Antragsverfahren. Liefert Pruefraster.
 
 # Buergergeld Mehrbedarf 21 Sgb Ii
 

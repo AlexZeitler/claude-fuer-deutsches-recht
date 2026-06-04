@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-db-042-datenbankrech-bis-db-041-datenqualitae
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (db-042-datenbankrecht-in-agb-klauseln, db-029-auskunft-rechnungslegung-schadensschaetzung, db-041-datenqualitaet-haftung-und-gewaehrleistung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewaehrleistung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - datenbankrecht
+# Arbeitsbereich - Db 042 Datenbankrecht In Agb Klauseln, Db 029 Auskunft Rechnungslegung Schadensschaetzung, Db 041 Datenqualitaet Haftung Und Gewaehrleistung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-042-datenbankrecht-in-agb-klauseln` | Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber. |
 | `db-029-auskunft-rechnungslegung-schadensschaetzung` | Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-042-datenbankrecht-in-agb-klauseln`
 
-**Frühere Beschreibung:** Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber.
+**Fokus:** Gestaltung und Prüfung datenbankrechtsrelevanter AGB-Klauseln: § 307 BGB-Inhaltskontrolle für Nutzungsverbote, Scraping-Verbote, Datenbankrechts-Zuweisung, Haftungsausschlüsse und TDM-Opt-out-Klauseln. Analysiert Wirksamkeit von Standardklauseln gegenüber Verbrauchern und B2B-Kunden sowie Schranken nach §§ 87c 44b UrhG. Erstellt AGB-Muster für Datenbankbetreiber.
 
 # Datenbankrecht in AGB-Klauseln — Inhaltskontrolle und Gestaltung
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-029-auskunft-rechnungslegung-schadensschaetzung`
 
-**Frühere Beschreibung:** Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge.
+**Fokus:** Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht nach §§ 97 101 UrhG: Dreigliedrige Schadensberechnung (konkreter Schaden, Herausgabe Verletzergewinn, Lizenzanalogie), Auskunftsanspruch gegen Verletzer und ISP, Rechnungslegungsvollstreckung sowie Besonderheiten bei Datenbankschutz nach §§ 87a-87e UrhG. Erstellt Schadensberechnung und Klageanträge.
 
 # Auskunft, Rechnungslegung und Schadensschätzung im Datenbankrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-041-datenqualitaet-haftung-und-gewaehrleistung`
 
-**Frühere Beschreibung:** Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln.
+**Fokus:** Haftung und Gewährleistung für Datenbankqualität: §§ 434 437 BGB Sachmängelhaftung bei fehlerhaften Datenbankdaten, Deliktshaftung (§ 823 BGB) bei falschen Einträgen, DSGVO-Berichtigungspflichten (Art. 16 DSGVO) und vertragliche Haftungsbegrenzungen. Bewertet Schadensersatzansprüche bei Falschauskunft aus Datenbanken und Disclaimer-Klauseln.
 
 # Datenqualität, Haftung und Gewährleistung bei Datenbankfehlern
 

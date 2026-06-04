@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-infl-021-green-claim-bis-infl-023-schleichwer
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (infl-021-green-claims-nachhaltigkeitswerbung, infl-022-vergleichende-werbung-und-herabsetzung, infl-023-schleichwerbung-redaktionscontent-und-kooperation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und Kooperation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - influencer-recht
+# Arbeitsbereich - Infl 021 Green Claims Nachhaltigkeitswerbung, Infl 022 Vergleichende Werbung Und Herabsetzung, Infl 023 Schleichwerbung Redaktionscontent Und
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-021-green-claims-nachhaltigkeitswerbung` | Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance. |
 | `infl-022-vergleichende-werbung-und-herabsetzung` | Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-021-green-claims-nachhaltigkeitswerbung`
 
-**Frühere Beschreibung:** Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance.
+**Fokus:** Influencer-Recht: Green Claims und Nachhaltigkeitswerbung – EU Green Claims Directive, UWG, Greenwashing-Verbote und Compliance.
 
 # Influencer-Recht: Green Claims und Nachhaltigkeitswerbung
 
@@ -94,7 +94,7 @@ Nachhaltigkeitsaussagen in Creator-Content stehen unter verschärfter Prüfung:
 
 ## 2. `infl-022-vergleichende-werbung-und-herabsetzung`
 
-**Frühere Beschreibung:** Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken.
+**Fokus:** Influencer-Recht: Vergleichende Werbung und Herabsetzung von Mitbewerbern – § 6 UWG, Zulässigkeitsgrenzen und Abmahnrisiken.
 
 # Influencer-Recht: Vergleichende Werbung und Herabsetzung
 
@@ -161,7 +161,7 @@ Vergleichende Werbung ist in Grenzen erlaubt, Herabsetzung verboten:
 
 ## 3. `infl-023-schleichwerbung-redaktionscontent-und-kooperation`
 
-**Frühere Beschreibung:** Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung.
+**Fokus:** Influencer-Recht: Schleichwerbung und Redaktionsinhalt – § 5a UWG, §§ 138 und 826 BGB, Sittenwidrigkeit, Abgrenzung bezahlter Content vs. redaktionelle Empfehlung.
 
 # Influencer-Recht: Schleichwerbung – Redaktionscontent und Kooperation
 

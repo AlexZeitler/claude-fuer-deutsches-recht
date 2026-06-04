@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-erbschaft-schenkung-bis-formularcheck-insolv
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (erbschaft-schenkung-gewinn, familienbudget-und-haushaltsplan, formularcheck-insolvenzantrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Erbschaft Schenkung Gewinn, Familienbudget Und Haushaltsplan, Formularcheck Insolvenzantrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbschaft-schenkung-gewinn` | Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `familienbudget-und-haushaltsplan` | Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbschaft-schenkung-gewinn`
 
-**Frühere Beschreibung:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.; Normanker: InsO §§ 35 und 295; BGB Erbrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Erbschaft, Schenkung, Gewinn: was fällt in die Masse, was muss angezeigt werden, was bleibt frei.
 
@@ -69,7 +69,7 @@ InsO §§ 35, 295; BGB Erbrecht. Entscheidend ist immer der aktuelle Normstand d
 
 ## 2. `familienbudget-und-haushaltsplan`
 
-**Frühere Beschreibung:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.; Normanker: ZPO Pfändungsfreigrenzen; SGB-Schnittstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Familienbudget und Haushaltsplan: realistische Raten, Kinder, Unterhalt, Pflege, Krankheit und Nachweise.
 
@@ -110,7 +110,7 @@ ZPO Pfändungsfreigrenzen; SGB-Schnittstellen. Entscheidend ist immer der aktuel
 
 ## 3. `formularcheck-insolvenzantrag`
 
-**Frühere Beschreibung:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.; Normanker: InsO § 305; amtliche Formulare; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Formularcheck Insolvenzantrag: typische Fehler in Anlagen, Kreuzchen, Gläubigerliste und RSB-Antrag.
 

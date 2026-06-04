@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-communication-charte-bis-crisis-mode
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (communication-charter, conflict-after-mandate, court-deadline-dashboard, court-file-progress, crisis-mode) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Communication Charter, Conflict After Mandate, Court Deadline Dashboard, Court File Progress und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Communication Charter bis Crisis Mode
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `communication-charter` | Communication Charter: steuert Ton, Kanäle, Frequenz, Kürze, Eskalation und Dokumentationspflichten festlegen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `conflict-after-mandate` | Konflikt nach Mandat: steuert spätere Gegnermandate, Wissensschutz, Sozietätswechsel und Ethical Walls zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `communication-charter`
 
-**Frühere Beschreibung:** Communication Charter: steuert Ton, Kanäle, Frequenz, Kürze, Eskalation und Dokumentationspflichten festlegen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Communication Charter: steuert Ton, Kanäle, Frequenz, Kürze, Eskalation und Dokumentationspflichten festlegen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Communication Charter
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `conflict-after-mandate`
 
-**Frühere Beschreibung:** Konflikt nach Mandat: steuert spätere Gegnermandate, Wissensschutz, Sozietätswechsel und Ethical Walls zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Konflikt nach Mandat: steuert spätere Gegnermandate, Wissensschutz, Sozietätswechsel und Ethical Walls zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Konflikt nach Mandat
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `court-deadline-dashboard`
 
-**Frühere Beschreibung:** Court Deadline Dashboard: steuert gerichtliche Fristen, Vorfristen, Zustellungen und Mandantenfreigaben gemeinsam sehen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Court Deadline Dashboard: steuert gerichtliche Fristen, Vorfristen, Zustellungen und Mandantenfreigaben gemeinsam sehen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Court Deadline Dashboard
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `court-file-progress`
 
-**Frühere Beschreibung:** Gerichtsakten-Fortschritt: steuert Gerichtsakte, beA-Eingänge, Fristen, Schriftsätze, Anlagen und Mandantenfreigaben synchronisieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Gerichtsakten-Fortschritt: steuert Gerichtsakte, beA-Eingänge, Fristen, Schriftsätze, Anlagen und Mandantenfreigaben synchronisieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Gerichtsakten-Fortschritt
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `crisis-mode`
 
-**Frühere Beschreibung:** Crisis Mode: steuert Durchsuchung, Presse, Vorstand, Kunden, Behörden und Kanzlei in Stundenlogik koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Crisis Mode: steuert Durchsuchung, Presse, Vorstand, Kunden, Behörden und Kanzlei in Stundenlogik koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Crisis Mode
 

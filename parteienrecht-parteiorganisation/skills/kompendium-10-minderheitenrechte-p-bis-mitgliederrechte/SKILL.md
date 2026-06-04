@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-minderheitenrechte-p-bis-mitgliederrechte
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (minderheitenrechte-partei, mitgliederdaten-dsgvo, mitgliederrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Minderheitenrechte Partei, Mitgliederdaten Dsgvo, Mitgliederrechte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `minderheitenrechte-partei` | Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung. |
 | `mitgliederdaten-dsgvo` | Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `minderheitenrechte-partei`
 
-**Frühere Beschreibung:** Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung.
+**Fokus:** Prüft Antragsrechte, Sonderparteitag, Delegiertenprüfung, Informationsrechte und Gleichbehandlung.
 
 # Minderheitenrechte
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `mitgliederdaten-dsgvo`
 
-**Frühere Beschreibung:** Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit.
+**Fokus:** Regelt Mitgliederverzeichnis, Zugriff, Export, Wahlberechtigung, Löschung, Auskunft und Sicherheit.
 
 # Mitgliederdaten DSGVO
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `mitgliederrechte`
 
-**Frühere Beschreibung:** Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt.
+**Fokus:** Erklärt Aufnahme, Stimmrecht, Antragsrecht, Gleichbehandlung, Datenschutz, Mitgliedsbeiträge und Austritt.
 
 # Mitgliederrechte
 

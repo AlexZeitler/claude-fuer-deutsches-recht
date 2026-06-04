@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-legw-bmvg-reserviste-bis-legw-bmwe-wettbewerb
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 11; bündelt 8 frühere Spezialskills (legw-bmvg-reservisten-und-zivilschutzrecht, legw-bmvg-verteidigungstechnologie-export, legw-bmvg-wehrrecht-und-soldatenstatus, legw-bmwe-aussenwirtschaft-und-investitionspruefung, legw-bmwe-energie-und-netzregulierung-enwg und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmvg Reservisten Und Zivilschutzrecht, Legw Bmvg Verteidigungstechnologie Export, Legw Bmvg Wehrrecht Und Soldatenstatus, Legw Bmwe Aussenwirtschaft Und Investitionspruefung und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmvg Reservisten Und Zivilschutzrecht bis Legw Bmwe Wettbewerb Und Kartellrecht Gwb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmvg-reservisten-und-zivilschutzrecht` | Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). |
 | `legw-bmvg-verteidigungstechnologie-export` | Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmvg-reservisten-und-zivilschutzrecht`
 
-**Frühere Beschreibung:** Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Sachbereich Reservistenrecht und Zivilschutzrecht im Geschaeftsbereich BMVg: Normbestand (ResG; SG; ZSKG; KritisDachG; BBK-G.); Akteure (Kommando Territoriale Aufgaben; BBK; Verband der Reservisten.); EU-Bezug (EU-Katastrophenschutzmechanismus.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # Reservistenrecht und Zivilschutzrecht (BMVg)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmvg-verteidigungstechnologie-export`
 
-**Frühere Beschreibung:** Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Sachbereich Verteidigungstechnologie und Exportkontrolle im Geschaeftsbereich BMVg: Normbestand (KrWaffKG; AWG; AWV; Dual-Use-VO (EU); SicherungsG.); Akteure (BAFA; AA; BMVg; Bundessicherheitsrat; Bundeskanzleramt.); EU-Bezug (Common Position 2008/944/GASP; Wassenaar; MTCR.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # Verteidigungstechnologie und Exportkontrolle (BMVg)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmvg-wehrrecht-und-soldatenstatus`
 
-**Frühere Beschreibung:** Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Sachbereich Wehrrecht und Soldatenstatus im Geschaeftsbereich BMVg: Normbestand (SG; WStG; SUG; ResG; WPflG; WDO; UZwGBw.); Akteure (BMVg; Wehrdisziplinaranwaltschaft; Bundeswehrgerichtsbarkeit (BVerwG-Wehrdienstsenat); BAPersBw.); EU-Bezug (PESCO; EDF; EU-Verteidigungsbeschaffung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # Wehrrecht und Soldatenstatus (BMVg)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmwe-aussenwirtschaft-und-investitionspruefung`
 
-**Frühere Beschreibung:** Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Sachbereich Aussenwirtschaft und Investitionspruefung im Geschaeftsbereich BMWE: Normbestand (AWG; AWV (Abschnitt 5); FDI-Screening-VO (EU); KrWaffKG.); Akteure (BMWE; BMI; AA; BMF; Bundeskanzleramt.); EU-Bezug (FDI-Screening-VO; sektorale EU-Schwellen; Pruefberichte an EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Aussenwirtschaft und Investitionspruefung (BMWE)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmwe-energie-und-netzregulierung-enwg`
 
-**Frühere Beschreibung:** Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Sachbereich Energierecht und Netzregulierung (EnWG) im Geschaeftsbereich BMWE: Normbestand (EnWG; ARegV; NEV; NetzAusbBG; BBPlG; KOV.); Akteure (Bundesnetzagentur; Bundeskartellamt; Laender-Energieregulierer; BMWE Abteilung Energie.); EU-Bezug (Strom- und Gasbinnenmarktpakete; ACER; NetCode.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Energierecht und Netzregulierung (EnWG) (BMWE)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmwe-erneuerbare-energien-eeg-windbg`
 
-**Frühere Beschreibung:** Sachbereich Erneuerbare Energien (EEG; WindBG) im Geschaeftsbereich BMWE: Normbestand (EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.); Akteure (Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.); EU-Bezug (RED III; State Aid Guidelines for Energy and Environment.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Sachbereich Erneuerbare Energien (EEG; WindBG) im Geschaeftsbereich BMWE: Normbestand (EEG; WindBG; KWKG; SolarSpitzenG; BImSchG-Bezuege; ROG.); Akteure (Bundesnetzagentur; Bafa; Laenderbehoerden Genehmigung; Planungsbehoerden.); EU-Bezug (RED III; State Aid Guidelines for Energy and Environment.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Erneuerbare Energien (EEG; WindBG) (BMWE)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmwe-industriepolitik-foerderrecht-und-beihilfen`
 
-**Frühere Beschreibung:** Sachbereich Industriepolitik; Foerderrecht; EU-Beihilfen im Geschaeftsbereich BMWE: Normbestand (BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.); Akteure (BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.); EU-Bezug (AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Sachbereich Industriepolitik; Foerderrecht; EU-Beihilfen im Geschaeftsbereich BMWE: Normbestand (BHO; SubvG; AGVO; Notifizierungspflicht (Art. 108 AEUV); ggf. IPCEI-Regeln.); Akteure (BMWE; Bafa; Projekttraeger; EU-Kommission GD COMP.); EU-Bezug (AGVO; KMU-Definition; Klimaschutz-Beihilfeleitlinien; Chips Act; CRMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Industriepolitik; Foerderrecht; EU-Beihilfen (BMWE)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmwe-wettbewerb-und-kartellrecht-gwb`
 
-**Frühere Beschreibung:** Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Sachbereich Wettbewerbsrecht und Kartellrecht (GWB) im Geschaeftsbereich BMWE: Normbestand (GWB; UWG; FKVO (EU); EU-Wettbewerbsverfahrensregeln.); Akteure (Bundeskartellamt; Monopolkommission; OLG Duesseldorf; EU-Kommission GD COMP.); EU-Bezug (FKVO; Art. 101 und 102 AEUV; DMA (Digital Markets Act).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmwe (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Wettbewerbsrecht und Kartellrecht (GWB) (BMWE)
 

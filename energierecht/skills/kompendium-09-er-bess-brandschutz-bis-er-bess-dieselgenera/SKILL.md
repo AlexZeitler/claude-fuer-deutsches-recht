@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-er-bess-brandschutz-bis-er-bess-dieselgenera
-description: "energierecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (er-bess-brandschutz-lithium-ionen, er-bess-co-location-pv-wind, er-bess-datenschutz-video-leitwarte, er-bess-dieselgenerator-notstrom) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Brandschutz Lithium Ionen, Er Bess Co Location Pv Wind, Er Bess Datenschutz Video Leitwarte, Er Bess Dieselgenerator Notstrom; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - energierecht
+# Arbeitsbereich - Er Bess Brandschutz Lithium Ionen bis Er Bess Dieselgenerator Notstrom
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-brandschutz-lithium-ionen` | Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan. |
 | `er-bess-co-location-pv-wind` | Prüft Batteriespeicher neben Erneuerbaren: gemeinsame Messeinrichtung, Förderlogik, Netzanschluss, Direktleitung und Curtailment. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-brandschutz-lithium-ionen`
 
-**Frühere Beschreibung:** Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan.
+**Fokus:** Prüft Brandabschnitte, Abstände, Löschwasserkonzept, Thermal Runaway, Zufahrt, Evakuierung und Einsatzplan.
 
 # Brandschutz und Feuerwehrkonzept Lithium-Ionen-Speicher
 
@@ -62,7 +62,7 @@ Landesbauordnung, Sonderbau, Feuerwehr, DIN/VDE nur mit Nutzerquelle oder Livezu
 
 ## 2. `er-bess-co-location-pv-wind`
 
-**Frühere Beschreibung:** Prüft Batteriespeicher neben Erneuerbaren: gemeinsame Messeinrichtung, Förderlogik, Netzanschluss, Direktleitung und Curtailment.
+**Fokus:** Prüft Batteriespeicher neben Erneuerbaren: gemeinsame Messeinrichtung, Förderlogik, Netzanschluss, Direktleitung und Curtailment.
 
 # Co-Location mit Wind/PV
 
@@ -95,7 +95,7 @@ EEG, EnWG, Messstellenbetrieb, Netzanschluss, PPA/CPPA.
 
 ## 3. `er-bess-datenschutz-video-leitwarte`
 
-**Frühere Beschreibung:** Prüft Videoüberwachung, Zutrittslogs, Fernwartung, Auftragsverarbeitung und Drittlandzugriffe.
+**Fokus:** Prüft Videoüberwachung, Zutrittslogs, Fernwartung, Auftragsverarbeitung und Drittlandzugriffe.
 
 # Datenschutz: Video, Leitwarte und Fernwartung
 
@@ -128,7 +128,7 @@ DSGVO, BDSG, TDDDG, NIS2/BSIG-Schnittstelle, AVV.
 
 ## 4. `er-bess-dieselgenerator-notstrom`
 
-**Frühere Beschreibung:** Prüft, ob Dieselgeneratoren als Nebenanlage genehmigungspflichtig, emissionsrelevant oder sicherheitskritisch sind.
+**Fokus:** Prüft, ob Dieselgeneratoren als Nebenanlage genehmigungspflichtig, emissionsrelevant oder sicherheitskritisch sind.
 
 # Dieselgenerator, Notstrom und Schwarzstart
 

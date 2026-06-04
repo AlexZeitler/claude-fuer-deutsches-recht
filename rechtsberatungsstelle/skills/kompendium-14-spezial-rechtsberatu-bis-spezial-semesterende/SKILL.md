@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-rechtsberatu-bis-spezial-semesterende
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-rechtsberatungsstelle-compliance-dokumentation-und-akte, spezial-rechtsberatungsstellen-tatbestand-beweis-und-belege, spezial-semesterende-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsberatungsstelle Compliance Dokumentation Und Akte, Rechtsberatungsstellen Tatbestand Beweis Und Belege, Semesterende Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - rechtsberatungsstelle
+# Arbeitsbereich - Rechtsberatungsstelle Compliance Dokumentation Und Akte, Rechtsberatungsstellen Tatbestand Beweis Und Belege, Semesterende Verhandlung Vergle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-rechtsberatungsstelle-compliance-dokumentation-und-akte` | Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-rechtsberatungsstellen-tatbestand-beweis-und-belege` | Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-rechtsberatungsstelle-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechtsberatungsstelle: Compliance-Dokumentation und Aktenvermerk
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-rechtsberatungsstellen-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rechtsberatungsstellen: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-semesterende-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Semesterende: Verhandlung, Vergleich und Eskalation im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Semesterende: Verhandlung, Vergleich und Eskalation im Plugin rechtsberatungsstelle; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Semesterende: Verhandlung, Vergleich und Eskalation
 

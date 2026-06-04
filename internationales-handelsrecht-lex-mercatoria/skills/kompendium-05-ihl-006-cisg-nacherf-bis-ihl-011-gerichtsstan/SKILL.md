@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ihl-006-cisg-nacherf-bis-ihl-011-gerichtsstan
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (ihl-006-cisg-nacherfuellung-und-remedies, ihl-009-cisg-ware-dokumente-digitalisierung, ihl-010-rom-i-und-rechtswahl, ihl-011-gerichtsstand-brussels-ia-hague) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 006 Cisg Nacherfuellung Und Remedies, Ihl 009 Cisg Ware Dokumente Digitalisierung, Ihl 010 Rom I Und Rechtswahl, Ihl 011 Gerichtsstand Brussels Ia Hague; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 006 Cisg Nacherfuellung Und Remedies bis Ihl 011 Gerichtsstand Brussels Ia Hague
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-006-cisg-nacherfuellung-und-remedies` | Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe. |
 | `ihl-009-cisg-ware-dokumente-digitalisierung` | Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-006-cisg-nacherfuellung-und-remedies`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe.
+**Fokus:** Internationales Handelsrecht: Rechtsbehelfe des Käufers nach CISG Art. 45-52. Nacherfüllung (Art. 46), Nachfrist (Art. 47), Vertragsaufhebung (Art. 49), Minderung (Art. 50), Schadensersatz (Art. 74-77) und Zusammenspiel der Rechtsbehelfe.
 
 # Rechtsbehelfe des Käufers (CISG Art. 45-52)
 
@@ -81,7 +81,7 @@ CISG: uncitral.un.org. CISG Advisory Council Opinion No. 2 (Art. 46) und No. 9 (
 
 ## 2. `ihl-009-cisg-ware-dokumente-digitalisierung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente.
+**Fokus:** Internationales Handelsrecht: Vertragsmäßigkeit der Ware nach CISG Art. 35 und Dokumentenpflichten. Objektive und subjektive Anforderungen, Verpackung, Haltbarkeit, Eignung für besonderen Zweck und elektronische Handelsdokumente.
 
 # Ware, Dokumente und Digitalisierung (CISG Art. 34-35)
 
@@ -133,7 +133,7 @@ CISG Art. 34-35: uncitral.un.org. MLETR: uncitral.un.org/en/texts/ecommerce. eUC
 
 ## 3. `ihl-010-rom-i-und-rechtswahl`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts.
+**Fokus:** Internationales Handelsrecht: Vertragsstatut nach Rom I-VO (EG) 593/2008. Freie Rechtswahl (Art. 3), subsidiäre Anknüpfung (Art. 4), Eingriffsnormen (Art. 9), Verbraucherschutz (Art. 6) und Rechtswahl zugunsten nicht-staatlichen Rechts.
 
 # Rom I-VO und Rechtswahl im internationalen Handel
 
@@ -185,7 +185,7 @@ Rom I-VO: eur-lex.europa.eu (32008R0593). EuGH-Rspr.: curia.europa.eu. Schrifttu
 
 ## 4. `ihl-011-gerichtsstand-brussels-ia-hague`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile.
+**Fokus:** Internationales Handelsrecht: Gerichtsstand nach Brüssel Ia-VO (EU) 1215/2012 und Haager Gerichtsstandsübereinkommen 2005. Art. 25 Gerichtsstandsvereinbarung, ausschließlicher Gerichtsstand, Lis pendens und Anerkennung ausländischer Urteile.
 
 # Gerichtsstand: Brüssel Ia und Haager Übereinkommen
 

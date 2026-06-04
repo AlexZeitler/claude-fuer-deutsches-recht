@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-see-029-schiffshypot-bis-see-034-schiffbauwer
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (see-029-schiffshypothek-klagepfad-waehlen, see-030-schiffshypothek-risiko-memo-schreiben, see-031-schiffbauwerk-register-pruefen, see-032-schiffbauwerk-hypothek-bestellen, see-034-schiffbauwerk-arrest-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 029 Schiffshypothek Klagepfad Waehlen, See 030 Schiffshypothek Risiko Memo Schreiben, See 031 Schiffbauwerk Register Pruefen, See 032 Schiffbauwerk Hypothek Bestellen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 029 Schiffshypothek Klagepfad Waehlen bis See 034 Schiffbauwerk Arrest Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-029-schiffshypothek-klagepfad-waehlen` | Schiffshypothek: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um hypothekenbelastetes Seeschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
 | `see-030-schiffshypothek-risiko-memo-schreiben` | Schiffshypothek: Gesamtrisikobewertung fuer Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-029-schiffshypothek-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Schiffshypothek: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um hypothekenbelastetes Seeschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Schiffshypothek: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um hypothekenbelastetes Seeschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Schiffshypothek – Klagepfad wählen
 
@@ -121,7 +121,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 2. `see-030-schiffshypothek-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Schiffshypothek: Gesamtrisikobewertung fuer Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Schiffshypothek: Gesamtrisikobewertung fuer Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bei hypothekenbelastetes Seeschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Schiffshypothek – Risiko-Memo schreiben
 
@@ -214,7 +214,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 3. `see-031-schiffbauwerk-register-pruefen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank prueft Schiffbauwerksregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Schiffbauwerk – Registerprüfung
 
@@ -309,7 +309,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 4. `see-032-schiffbauwerk-hypothek-bestellen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Schiff im Bau (Schiffbauwerk). SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Schiffbauwerk – Schiffshypothek bestellen
 
@@ -388,7 +388,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 5. `see-034-schiffbauwerk-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Schiffbauwerk: Glaeubiger sichert Anspruch an Schiff im Bau (Schiffbauwerk) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Schiffbauwerk: Glaeubiger sichert Anspruch an Schiff im Bau (Schiffbauwerk) durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Schiffbauwerk – Arrest vorbereiten
 

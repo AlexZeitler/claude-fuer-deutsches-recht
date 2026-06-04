@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 15; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-due-diligence-commercial-contracts, grosskanzlei-corporate-ma-due-diligence-legal, grosskanzlei-corporate-ma-due-diligence-reporting, grosskanzlei-corporate-ma-employment-works-council-613a, grosskanzlei-corporate-ma-environmental-esg-compliance-dd und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Due Diligence Commercial Contracts, Grosskanzlei Corporate Ma Due Diligence Legal, Grosskanzlei Corporate Ma Due Diligence Reporting, Grosskanzlei Corporate Ma Employment Works Council 613a und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Due Diligence Commercial Contracts bis Grosskanzlei Corporate Ma Executive Summary Onepager
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules. |
 | `grosskanzlei-corporate-ma-due-diligence-legal` | Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-due-diligence-commercial-contracts`
 
-**Frühere Beschreibung:** Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules.
+**Fokus:** Commercial Contracts Due Diligence im M&A-Datenraum: Anwendungsfall Kaeufer-Anwalt prüft wesentliche Kundenvertraege, Lieferantenvertraege, IP-Lizenzen, Change-of-Control-Klauseln und Kündigungsrechte. §§ 433 ff. BGB SPA-Garantien, §§ 305 ff. BGB AGB-Recht. Prüfraster Change-of-Control-Klauseln, Kündigungsrechte, Vertragslaufzeiten, wesentliche Kunden-Konzentration, Material-Contracts-Schwelle. Output Commercial-Contracts-Review-Matrix mit Risikoampel und Deal-Auswirkungen. Abgrenzung zu DD-Legal und zu Disclosure-Schedules.
 
 # Kommerzielle Vertrags-DD
 
@@ -227,7 +227,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-due-diligence-legal`
 
-**Frühere Beschreibung:** Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting.
+**Fokus:** Legal Due Diligence im M&A-Prozess: Anwendungsfall Kaeufer-Anwalt prüft Corporate-Unterlagen, Rechtsstreitigkeiten, Regulatory-Status, Arbeitsrecht und IP der Zielgesellschaft. §§ 433 ff. BGB SPA-Garantien, § 93 AktG Organpflichten. Prüfraster Corporate-Status Gesellschafterliste Satzung, anhängige Rechtsstreitigkeiten, behördliche Genehmigungen, Arbeitsrechtsstatus, IP-Eigentumsnachweis. Output Legal-DD-Red-Flag-Report mit Risikokategorisierung und SPA-Garantie-Abgleich. Abgrenzung zu DD-Commercial und zu DD-Reporting.
 
 # Legal Due Diligence
 
@@ -448,7 +448,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-due-diligence-reporting`
 
-**Frühere Beschreibung:** Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial für Einzelanalysen.
+**Fokus:** Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial für Einzelanalysen.
 
 # DD Reporting und Legal Fact Book
 
@@ -640,7 +640,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-employment-works-council-613a`
 
-**Frühere Beschreibung:** Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
+**Fokus:** Employment, Works Council und Betriebsuebergang Skill: prueft Arbeitnehmer, Betriebsrat, Mitbestimmung, § 613a BGB, Retention, Bonus, Change of Control und Restrukturierung.
 
 # Employment Works Council 613a
 
@@ -730,7 +730,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-environmental-esg-compliance-dd`
 
-**Frühere Beschreibung:** Environmental, ESG und Compliance DD fuer M&A: prueft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken.
+**Fokus:** Environmental, ESG und Compliance DD fuer M&A: prueft Umweltgenehmigungen, Lieferketten, Sanktionen, Anti-Korruption, ESG-Offenlegung und Reputationsrisiken.
 
 # Environmental ESG Compliance DD
 
@@ -820,7 +820,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-exclusivity-no-shop-process-discipline`
 
-**Frühere Beschreibung:** Exclusivity, No-Shop und Prozessdisziplin Skill: entwirft und prueft Exklusivitaet, Break Fees, Fiduciary Out, Prozessverstoss und Kommunikationsregeln.
+**Fokus:** Exclusivity, No-Shop und Prozessdisziplin Skill: entwirft und prueft Exklusivitaet, Break Fees, Fiduciary Out, Prozessverstoss und Kommunikationsregeln.
 
 # Exclusivity No Shop Process Discipline
 
@@ -910,7 +910,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-executive-summary-onepager`
 
-**Frühere Beschreibung:** Executive Summary und Onepager fuer Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate.
+**Fokus:** Executive Summary und Onepager fuer Board, Investment Committee und Partner: verdichtet komplexe M&A-Befunde in klare, entscheidbare, nicht ueberverkaufte Kurzformate.
 
 # Executive Summary Onepager
 

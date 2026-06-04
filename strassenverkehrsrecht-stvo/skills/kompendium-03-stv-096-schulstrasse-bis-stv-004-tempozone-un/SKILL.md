@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-stv-096-schulstrasse-bis-stv-004-tempozone-un
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (stv-096-schulstrasse-bussgeld-abgrenzen, stv-002-verkehrszeichen-lesen, stv-003-verkehrsrechtliche-anordnung-pruefen, stv-004-tempozone-und-beschilderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 096 Schulstrasse Bussgeld Abgrenzen, Stv 002 Verkehrszeichen Lesen, Stv 003 Verkehrsrechtliche Anordnung Pruefen, Stv 004 Tempozone Und Beschilderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 096 Schulstrasse Bussgeld Abgrenzen bis Stv 004 Tempozone Und Beschilderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-096-schulstrasse-bussgeld-abgrenzen` | Straßenverkehrsrecht StVO: Schulstraße: Bußgeld abgrenzen. Bußgeld abgrenzen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-002-verkehrszeichen-lesen` | Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-096-schulstrasse-bussgeld-abgrenzen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Schulstraße: Bußgeld abgrenzen. Bußgeld abgrenzen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Schulstraße: Bußgeld abgrenzen. Bußgeld abgrenzen für Schulstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schulstrasse Bussgeld Abgrenzen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-002-verkehrszeichen-lesen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Verkehrszeichen lesen. Verkehrszeichen lesen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verkehrszeichen Lesen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-003-verkehrsrechtliche-anordnung-pruefen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Verkehrsrechtliche Anordnung prüfen. Verkehrsrechtliche Anordnung prüfen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Verkehrsrechtliche Anordnung prüfen. Verkehrsrechtliche Anordnung prüfen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verkehrsrechtliche Anordnung Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-004-tempozone-und-beschilderung`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempozone und Beschilderung. Tempozone und Beschilderung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Tempozone und Beschilderung. Tempozone und Beschilderung im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tempozone Und Beschilderung
 

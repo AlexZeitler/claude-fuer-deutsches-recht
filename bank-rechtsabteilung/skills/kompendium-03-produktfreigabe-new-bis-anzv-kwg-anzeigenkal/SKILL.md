@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-produktfreigabe-new-bis-anzv-kwg-anzeigenkal
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (produktfreigabe-new-product-process, restrukturierung-kreditengagement, anwaltliche-rechnungen-review, anzahlungs-gewaehrleistungs-und-erfuellungsgarantien, anzv-kwg-anzeigenkalender-bafin-bundesbank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produktfreigabe New Product Process, Restrukturierung Kreditengagement, Anwaltliche Rechnungen Review, Anzahlungs Gewaehrleistungs Und Erfuellungsgarantien und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bank-rechtsabteilung
+# Arbeitsbereich - Produktfreigabe New Product Process bis Anzv Kwg Anzeigenkalender Bafin Bundesbank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produktfreigabe-new-product-process` | New Product Process einer Bank: Produktidee, Zielmarkt, Recht, Aufsicht, Steuern, IT, Datenschutz, Vertrieb, Risiko, Operations und Vorstandfreigabe in einen sauberen NPP bringen. |
 | `restrukturierung-kreditengagement` | Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produktfreigabe-new-product-process`
 
-**Frühere Beschreibung:** New Product Process einer Bank: Produktidee, Zielmarkt, Recht, Aufsicht, Steuern, IT, Datenschutz, Vertrieb, Risiko, Operations und Vorstandfreigabe in einen sauberen NPP bringen.
+**Fokus:** New Product Process einer Bank: Produktidee, Zielmarkt, Recht, Aufsicht, Steuern, IT, Datenschutz, Vertrieb, Risiko, Operations und Vorstandfreigabe in einen sauberen NPP bringen.
 
 # Produktfreigabe NPP
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `restrukturierung-kreditengagement`
 
-**Frühere Beschreibung:** Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen.
+**Fokus:** Restrukturierung eines Kreditengagements steuern: Strategie, Sicherheiten, Pool, StaRUG-/InsO-Schnittstelle, Sanierungsbeiträge, Kommunikation und interne Kreditakte ordnen.
 
 # Kreditrestrukturierung
 
@@ -260,7 +260,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `anwaltliche-rechnungen-review`
 
-**Frühere Beschreibung:** Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag.
+**Fokus:** Anwaltliche Rechnungen und Kanzlei-Budgets reviewen: Scope-Abgleich, RVG oder Honorarvereinbarung, Zeitpositionen, Auslagen, USt, Doppelarbeit, Erfolg, Billing Guidelines und Kürzungsvorschlag.
 
 # Rechnungsreview Kanzlei
 
@@ -375,7 +375,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 4. `anzahlungs-gewaehrleistungs-und-erfuellungsgarantien`
 
-**Frühere Beschreibung:** Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt.
+**Fokus:** Anzahlungs-, Gewährleistungs- und Vertragserfüllungsgarantien für Bankkunden prüfen: Sicherungszweck, Abruftext, Laufzeit, Projekt-/Baurisiko, Rückgabe, Reduzierung, Avalrahmen und Liquiditätseffekt.
 
 # Anzahlungs-, Gewährleistungs- und Erfüllungsgarantien
 
@@ -448,7 +448,7 @@ Ergänze:
 
 ## 5. `anzv-kwg-anzeigenkalender-bafin-bundesbank`
 
-**Frühere Beschreibung:** AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-Workflow bringen.
+**Fokus:** AnzV-Anzeigenkalender für KWG-Institute: Organpersonen, LEI, Beteiligungen, enge Verbindungen, Auslandsbeziehungen, Auslagerungen, Vergütung, Einreichweg und BaFin-/Bundesbank-Nachweise in einen fristfesten Legal-Workflow bringen.
 
 # AnzV/KWG-Anzeigenkalender BaFin und Bundesbank
 

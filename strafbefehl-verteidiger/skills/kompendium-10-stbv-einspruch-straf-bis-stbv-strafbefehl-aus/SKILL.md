@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-stbv-einspruch-straf-bis-stbv-strafbefehl-aus
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (stbv-einspruch-strafbefehl-leitfaden, stbv-fahrerlaubnis-bei-strafbefehl-spezial, stbv-strafbefehl-auslaendischer-mandant-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stbv Einspruch Strafbefehl Leitfaden, Stbv Fahrerlaubnis Bei Strafbefehl Spezial, Stbv Strafbefehl Auslaendischer Mandant Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - strafbefehl-verteidiger
+# Arbeitsbereich - Stbv Einspruch Strafbefehl Leitfaden, Stbv Fahrerlaubnis Bei Strafbefehl Spezial, Stbv Strafbefehl Auslaendischer Mandant Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stbv-einspruch-strafbefehl-leitfaden` | Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Pruefraster fuer Verteidiger. |
 | `stbv-fahrerlaubnis-bei-strafbefehl-spezial` | Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stbv-einspruch-strafbefehl-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Pruefraster fuer Verteidiger.
+**Fokus:** Leitfaden Einspruch gegen Strafbefehl: Form, Frist, Beschraenkung auf Rechtsfolge, taktische Erwaegungen. Pruefraster fuer Verteidiger.
 
 # StBV: Einspruch Strafbefehl
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `strafbefehl-verteidiger`. Er ergaenzt die uebri
 
 ## 2. `stbv-fahrerlaubnis-bei-strafbefehl-spezial`
 
-**Frühere Beschreibung:** Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde.
+**Fokus:** Spezialfall Fahrerlaubnis bei Strafbefehl § 111a StPO und § 69 StGB: vorlaeufige Entziehung, Sperrfrist, Wiedererteilung. Pruefraster fuer Verteidiger und Fahrerlaubnisbehoerde.
 
 # StBV: Fahrerlaubnis Strafbefehl
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `strafbefehl-verteidiger`. Er ergaenzt die uebri
 
 ## 3. `stbv-strafbefehl-auslaendischer-mandant-spezial`
 
-**Frühere Beschreibung:** Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster fuer Verteidiger.
+**Fokus:** Spezialfall Strafbefehl gegen auslaendischen Mandanten: Uebersetzungspflicht, Auslieferung, Eintrag im Bundeszentralregister, Einreise. Pruefraster fuer Verteidiger.
 
 # StBV: Strafbefehl Auslaender
 

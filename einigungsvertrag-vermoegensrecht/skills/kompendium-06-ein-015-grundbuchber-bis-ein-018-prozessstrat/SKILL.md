@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ein-015-grundbuchber-bis-ein-018-prozessstrat
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (ein-015-grundbuchberichtigung-pruefen, ein-016-behoerde-und-archiv-finden, ein-017-historische-akte-quellenkritisch-lesen, ein-018-prozessstrategie-verwaltungsgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 015 Grundbuchberichtigung Pruefen, Ein 016 Behoerde Und Archiv Finden, Ein 017 Historische Akte Quellenkritisch Lesen, Ein 018 Prozessstrategie Verwaltungsgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 015 Grundbuchberichtigung Pruefen bis Ein 018 Prozessstrategie Verwaltungsgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-015-grundbuchberichtigung-pruefen` | Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-016-behoerde-und-archiv-finden` | Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-015-grundbuchberichtigung-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Grundbuchberichtigung prüfen. Grundbuchberichtigung prüfen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Grundbuchberichtigung Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-016-behoerde-und-archiv-finden`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Behörde und Archiv finden. Behörde und Archiv finden im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Behoerde Und Archiv Finden
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-017-historische-akte-quellenkritisch-lesen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. Historische Akte quellenkritisch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Historische Akte quellenkritisch lesen. Historische Akte quellenkritisch lesen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Historische Akte Quellenkritisch Lesen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-018-prozessstrategie-verwaltungsgericht`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Prozessstrategie Verwaltungsgericht. Prozessstrategie Verwaltungsgericht im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Prozessstrategie Verwaltungsgericht. Prozessstrategie Verwaltungsgericht im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Prozessstrategie Verwaltungsgericht
 

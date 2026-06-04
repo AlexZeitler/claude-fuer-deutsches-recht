@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-chn-075-investment-c-bis-chn-079-currency-ris
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (chn-075-investment-committee-memo, chn-076-exit-plan-china-operations, chn-078-capital-controls-and-payments, chn-079-currency-risk-cny-eur-usd) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 075 Investment Committee Memo, Chn 076 Exit Plan China Operations, Chn 078 Capital Controls And Payments, Chn 079 Currency Risk Cny Eur Usd; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 075 Investment Committee Memo bis Chn 079 Currency Risk Cny Eur Usd
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-075-investment-committee-memo` | Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix. |
 | `chn-076-exit-plan-china-operations` | Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-075-investment-committee-memo`
 
-**Frühere Beschreibung:** Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix.
+**Fokus:** Investment-Committee-Memo China: Entscheidungsvorlage für Investitionen in VR China nach AWV-Prüfstandard, FDI-Screening-Ergebnis, De-risking-Analyse, Ertragspotenzial vs. Risikoprofil, ESG-Score, Menschenrechts-Due-Diligence-Ergebnis, Exit-Szenarien, Finanzierungsstruktur. Output: IC-Memo-Vorlage China-Investition mit Scoring-Matrix.
 
 # Investment-Committee-Memo China: Struktur und Anforderungen
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-076-exit-plan-china-operations`
 
-**Frühere Beschreibung:** Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template.
+**Fokus:** Exit-Plan für China-Operationen: Stufenweiser Rückzug, rechtliche Anforderungen Deregistrierung WFOE/JV (Liquidation vs. Verkauf), Arbeitnehmer-Abfindungen CN-Arbeitsrecht, Kapitalrückführung (Devisenkontrollen SAFE), IP-Rückführung, Vertragsabwicklung, Reputationsmanagement Exit. Output: Exit-Checkliste und Zeitplan-Template.
 
 # Exit-Plan China: Deregistrierung/Kapitalrückführung/Abwicklung
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-078-capital-controls-and-payments`
 
-**Frühere Beschreibung:** Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen.
+**Fokus:** Kapitalverkehrskontrollen und Zahlungsverkehr VR China: SAFE-Devisenverwaltungsregeln, grenzüberschreitende Zahlungen in CNY, CIPS-System vs. SWIFT, Trade-Financing, L/C bei China-Handel, Zahlungsverzug-Risiken, Bankkorrespondenz-Probleme bei US-Sanktionen. Output: Zahlungsverkehrs-Compliance-Überblick und Finanzierungsalternativen.
 
 # Kapitalverkehrskontrollen China: SAFE/CIPS und Zahlungsrisiken
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-079-currency-risk-cny-eur-usd`
 
-**Frühere Beschreibung:** Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie.
+**Fokus:** Währungsrisiko CNY/EUR/USD im China-Handel: Wechselkursschwankungen, Absicherungsinstrumente (Forward, Option), SAFE-Grenzen für CNY-Absicherung, CNH vs. CNY (Offshore/Onshore-Markt), Zahlungswährungswahl im Vertrag, Einfluss chinesischer Geldpolitik auf EUR-Kurs. Output: Währungsrisiko-Analyse und Hedging-Strategie.
 
 # Währungsrisiko CNY/EUR/USD: Absicherung im China-Handel
 

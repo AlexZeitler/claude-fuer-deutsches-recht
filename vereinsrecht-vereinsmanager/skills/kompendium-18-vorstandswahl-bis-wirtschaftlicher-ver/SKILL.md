@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-vorstandswahl-bis-wirtschaftlicher-ver
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (vorstandswahl, vorstandswechsel-register, wirtschaftlicher-verein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorstandswahl, Vorstandswechsel Register, Wirtschaftlicher Verein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Vorstandswahl, Vorstandswechsel Register, Wirtschaftlicher Verein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vorstandswahl` | Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor. |
 | `vorstandswechsel-register` | Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vorstandswahl`
 
-**Frühere Beschreibung:** Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor.
+**Fokus:** Bereitet Wahlordnung, Kandidaturen, geheime/offene Abstimmung, Amtszeit, Annahme, Protokoll und Registeranmeldung vor.
 
 # Vorstandswahl
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `vorstandswechsel-register`
 
-**Frühere Beschreibung:** Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen.
+**Fokus:** Erstellt Registerpaket für Vorstandsänderung mit Protokollauszug, Anmeldung, Beglaubigung und Nachweisen.
 
 # Vorstandswechsel Register
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `wirtschaftlicher-verein`
 
-**Frühere Beschreibung:** Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken.
+**Fokus:** Prüft, ob der seltene wirtschaftliche Verein oder eine andere Rechtsform besser passt; warnt vor Register- und Genehmigungsrisiken.
 
 # Wirtschaftlicher Verein
 

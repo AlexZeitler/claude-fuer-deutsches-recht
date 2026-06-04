@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-chn-063-supplier-aud-bis-chn-066-lksg-complai
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (chn-063-supplier-audit-without-window-dressing, chn-064-forced-labour-risk-xinjiang, chn-065-human-rights-due-diligence, chn-066-lksg-complaints-procedure) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 063 Supplier Audit Without Window Dressing, Chn 064 Forced Labour Risk Xinjiang, Chn 065 Human Rights Due Diligence, Chn 066 Lksg Complaints Procedure; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 063 Supplier Audit Without Window Dressing bis Chn 066 Lksg Complaints Procedure
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-063-supplier-audit-without-window-dressing` | Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste. |
 | `chn-064-forced-labour-risk-xinjiang` | Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Diligence-Standard Lieferkette, Zertifizierungsgrenzen. Output: XUAR-Risikoanalyse und Maßnahmenplan mit Beweisdokumentation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-063-supplier-audit-without-window-dressing`
 
-**Frühere Beschreibung:** Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste.
+**Fokus:** Lieferantenaudit in China ohne Window Dressing: Ankündigungsfreie vs. angekündigte Audits, Umgehungsstrategien chinesischer Lieferanten erkennen, SMETA/SA8000-Standards, Dolmetscher-Neutralität, Vor-Ort-Beweissicherung, BAFA-Leitfaden Due Diligence, LkSG § 6 Präventionsmaßnahmen. Output: Audit-Protokoll und Red-Flag-Indikatoren-Liste.
 
 # Lieferantenaudit China: Methodik gegen Window Dressing
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-064-forced-labour-risk-xinjiang`
 
-**Frühere Beschreibung:** Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Diligence-Standard Lieferkette, Zertifizierungsgrenzen. Output: XUAR-Risikoanalyse und Maßnahmenplan mit Beweisdokumentation.
+**Fokus:** Zwangsarbeit-Risiko Xinjiang/XUAR: EU-Forced-Labour-VO 2024/3015 Marktverbot-Tatbestand, XUAR-Sektoren (Baumwolle/Polysilizium/Tomaten/Aluminium), Beweislastumkehr gem. VO 2024/3015 Art. 5, LkSG § 5 Risikoindikator Zwangsarbeit, Due-Diligence-Standard Lieferkette, Zertifizierungsgrenzen. Output: XUAR-Risikoanalyse und Maßnahmenplan mit Beweisdokumentation.
 
 # Zwangsarbeit Xinjiang: EU-Forced-Labour-VO und LkSG
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-065-human-rights-due-diligence`
 
-**Frühere Beschreibung:** Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan.
+**Fokus:** Menschenrechts-Due-Diligence für China-Lieferketten: LkSG §§ 2-10 Sorgfaltspflichten, OECD-Leitsätze für multinationale Unternehmen, UN Guiding Principles on Business and Human Rights, EU CSDDD 2024/1760, konkrete Indikatoren für VR China (Arbeitnehmerrechte, Minderheitenrechte, Redefreiheit). Output: MR-Due-Diligence-Bericht China und Maßnahmenplan.
 
 # Menschenrechts-Due-Diligence China: LkSG/CSDDD/UNGP
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-066-lksg-complaints-procedure`
 
-**Frühere Beschreibung:** LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular.
+**Fokus:** LkSG-Beschwerdeverfahren für China-Lieferketten: § 8 LkSG Beschwerdepflicht, Ausgestaltung internes Beschwerdesystem, Externe Ombudsstellen, Bearbeitung anonymer Hinweise, Schutz der Hinweisgeber (HinSchG), Bearbeitungsfristen, Dokumentations- und Berichtspflichten BAuA, Schnittstelle zu LkSG-Sorgfaltspflichten. Output: Beschwerdeverfahrens-Handbuch und Meldeformular.
 
 # LkSG-Beschwerdeverfahren China-Lieferkette: Gestaltung und Pflichten
 

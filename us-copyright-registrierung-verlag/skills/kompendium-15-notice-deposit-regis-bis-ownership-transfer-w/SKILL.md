@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-notice-deposit-regis-bis-ownership-transfer-w
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (notice-deposit-registration-ch4, office-action-rueckfragen-45-tage, online-subpoena-512h, ownership-transfer-writing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notice Deposit Registration Ch4, Office Action Rueckfragen 45 Tage, Online Subpoena 512h, Ownership Transfer Writing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Notice Deposit Registration Ch4 bis Ownership Transfer Writing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notice-deposit-registration-ch4` | Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4. |
 | `office-action-rueckfragen-45-tage` | Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notice-deposit-registration-ch4`
 
-**Frühere Beschreibung:** Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4.
+**Fokus:** Verbindet Notice, Deposit, Registration, Fehlerfolgen, Best Edition und Litigation Readiness in Chapter 4.
 
 # Notice, Deposit und Registration Chapter 4
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `office-action-rueckfragen-45-tage`
 
-**Frühere Beschreibung:** Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel.
+**Fokus:** Office Actions und Rückfragen: Monitoring, Antwortfristen, fehlende Angaben, Claim-Begrenzung, Nachlieferungen und Eskalation zu US-Counsel.
 
 # Office Actions und Rückfragen
 
@@ -149,7 +149,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `online-subpoena-512h`
 
-**Frühere Beschreibung:** Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen.
+**Fokus:** Prueft Subpoena zur Identifizierung mutmaßlicher Verletzer, Notice-Voraussetzungen, Provider-Rolle und Datenschutzfolgen.
 
 # DMCA Subpoena § 512h
 
@@ -217,7 +217,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `ownership-transfer-writing`
 
-**Frühere Beschreibung:** Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title.
+**Fokus:** Prueft Übertragung, exklusive Lizenz, nonexclusive license, writing requirement und chain of title.
 
 # Ownership, Assignment und Writing Requirement
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-conflict-of-interest-bis-dcgk-entsprechenserk
-description: "aufsichtsrat-ag-se-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (conflict-of-interest, cyber-incident-board, d-und-o-versicherung, dcgk-entsprechenserklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aufsichtsrat-ag-se-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Conflict Of Interest, Cyber Incident Board, D Und O Versicherung, Dcgk Entsprechenserklaerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - aufsichtsrat-ag-se-praxis
+# Arbeitsbereich - Conflict Of Interest bis Dcgk Entsprechenserklaerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `conflict-of-interest` | AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `cyber-incident-board` | AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `conflict-of-interest`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Conflict Of Interest; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Conflict Of Interest
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `cyber-incident-board`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Cyber Incident Board; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Cyber Incident Board
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `d-und-o-versicherung`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: D Und O Versicherung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # D Und O Versicherung
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `dcgk-entsprechenserklaerung`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Dcgk Entsprechenserklaerung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Dcgk Entsprechenserklaerung
 

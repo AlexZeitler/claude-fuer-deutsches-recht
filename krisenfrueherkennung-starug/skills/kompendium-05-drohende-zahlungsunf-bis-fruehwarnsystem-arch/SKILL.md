@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-drohende-zahlungsunf-bis-fruehwarnsystem-arch
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (drohende-zahlungsunfaehigkeit-paragraph-18-inso, fortbestehensprognose-zweistufig, fruehwarnsystem-architektur-zwei-jahres-horizont) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - krisenfrueherkennung-starug
+# Arbeitsbereich - Drohende Zahlungsunfaehigkeit Paragraph 18 Inso, Fortbestehensprognose Zweistufig, Fruehwarnsystem Architektur Zwei Jahres Horizont
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drohende-zahlungsunfaehigkeit-paragraph-18-inso` | Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung). Prüfraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmassstab ueberwiegend wahrscheinlich, Abgrenzung zu § 17 InsO. Output Prüf-Memo drohende ZU, StaRUG-Zugangsberechtigung-Nachweis. Abgrenzung: Fortbestehensprognose (§ 19 InsO) siehe fortbestehensprognose-zweistufig; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist. |
 | `fortbestehensprognose-zweistufig` | Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortführungsfähigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfähigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drohende-zahlungsunfaehigkeit-paragraph-18-inso`
 
-**Frühere Beschreibung:** Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung). Prüfraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmassstab ueberwiegend wahrscheinlich, Abgrenzung zu § 17 InsO. Output Prüf-Memo drohende ZU, StaRUG-Zugangsberechtigung-Nachweis. Abgrenzung: Fortbestehensprognose (§ 19 InsO) siehe fortbestehensprognose-zweistufig; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
+**Fokus:** Drohende Zahlungsunfähigkeit nach § 18 InsO feststellen: Berater oder GF prüft ob StaRUG-Zugangsberechtigung besteht. Normen: § 18 InsO (drohende ZU), § 17 InsO (aktuelle ZU), § 19 InsO (Überschuldung), § 1 StaRUG (Zugangsberechtigung). Prüfraster: Prognosezeitraum 24 Monate, Wahrscheinlichkeitsmassstab ueberwiegend wahrscheinlich, Abgrenzung zu § 17 InsO. Output Prüf-Memo drohende ZU, StaRUG-Zugangsberechtigung-Nachweis. Abgrenzung: Fortbestehensprognose (§ 19 InsO) siehe fortbestehensprognose-zweistufig; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
 
 # Drohende Zahlungsunfähigkeit — § 18 InsO
 
@@ -215,7 +215,7 @@ Bevor losgelegt wird, klaere:
 
 ## 2. `fortbestehensprognose-zweistufig`
 
-**Frühere Beschreibung:** Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortführungsfähigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfähigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow.
+**Fokus:** Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist möglicherweise ueberschuldet und braucht positive Fortführungsprognose. Normen: § 19 InsO (Überschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Prüfraster: Stufe 1 Fortführungswille, Stufe 2 Fortführungsfähigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfähigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow.
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11
 
@@ -424,7 +424,7 @@ Bevor losgelegt wird, klaere:
 
 ## 3. `fruehwarnsystem-architektur-zwei-jahres-horizont`
 
-**Frühere Beschreibung:** StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Prüfung). Prüfraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template.
+**Fokus:** StaRUG-konformes Fruehwarnsystem mit 24-Monats-Horizont architektieren: Unternehmen will § 1 StaRUG Krisenfrueherkennung implementieren. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW S 6 (Sanierungsstandard), IDW PS 340 n.F. (Risikomanagement-Prüfung). Prüfraster: Risiko-Inventar, KPI-Kaskade, Eskalationsstufen, Reporting-Frequenzen, Schwellenwerte, Organisationseinbettung. Output Fruehwarnsystem-Konzept, Implementierungsplan, Governance-Struktur. Abgrenzung: KPI-Set Ampelsystem siehe kennzahlenset-und-ampelsystem-starug-konform; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template.
 
 # Frühwarnsystem-Architektur mit Zwei-Jahres-Horizont
 

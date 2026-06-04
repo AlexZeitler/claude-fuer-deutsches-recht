@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-vc-083-scout-advisor-bis-vc-086-gwg-ubo-trans
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (vc-083-scout-advisor-agreements, vc-084-angelsyndikat-lead-investor, vc-085-corporate-vc-conflicts, vc-086-gwg-ubo-transparenzregister) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 083 Scout Advisor Agreements, Vc 084 Angelsyndikat Lead Investor, Vc 085 Corporate Vc Conflicts, Vc 086 Gwg Ubo Transparenzregister; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - venture-capital-geber
+# Arbeitsbereich - Vc 083 Scout Advisor Agreements bis Vc 086 Gwg Ubo Transparenzregister
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-083-scout-advisor-agreements` | Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation. |
 | `vc-084-angelsyndikat-lead-investor` | Strukturiert Lead-Rolle, Kosten, Informationsfluss, Abstimmung, Stimmrechtsausübung und Konflikte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-083-scout-advisor-agreements`
 
-**Frühere Beschreibung:** Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation.
+**Fokus:** Prüft Scout Fees, Finder, Advisory Shares, Interessenkonflikte, Datenschutz, BaFin-/Vermittlungsrisiken und Dokumentation.
 
 # Scout- und Advisor Agreements
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-084-angelsyndikat-lead-investor`
 
-**Frühere Beschreibung:** Strukturiert Lead-Rolle, Kosten, Informationsfluss, Abstimmung, Stimmrechtsausübung und Konflikte.
+**Fokus:** Strukturiert Lead-Rolle, Kosten, Informationsfluss, Abstimmung, Stimmrechtsausübung und Konflikte.
 
 # Angel-Syndikat und Lead Investor
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-085-corporate-vc-conflicts`
 
-**Frühere Beschreibung:** Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team.
+**Fokus:** Prüft strategische Investorenziele, Wettbewerbsdaten, Commercial Agreements, Exklusivität, IP und Clean Team.
 
 # Corporate VC und Konflikte
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-086-gwg-ubo-transparenzregister`
 
-**Frühere Beschreibung:** Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen.
+**Fokus:** Prüft wirtschaftlich Berechtigte, Beteiligungsketten, Registerangaben und KYC-Dokumentation rund um VC-Strukturen.
 
 # UBO und Transparenzregister
 

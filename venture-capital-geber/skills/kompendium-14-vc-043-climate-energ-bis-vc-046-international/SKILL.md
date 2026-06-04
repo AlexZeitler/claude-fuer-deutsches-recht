@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-vc-043-climate-energ-bis-vc-046-international
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (vc-043-climate-energy-deeptech, vc-044-defense-dual-use-fdi, vc-045-consumer-ecommerce-platform, vc-046-international-eu-schweiz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 043 Climate Energy Deeptech, Vc 044 Defense Dual Use Fdi, Vc 045 Consumer Ecommerce Platform, Vc 046 International Eu Schweiz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - venture-capital-geber
+# Arbeitsbereich - Vc 043 Climate Energy Deeptech bis Vc 046 International Eu Schweiz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-043-climate-energy-deeptech` | Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik. |
 | `vc-044-defense-dual-use-fdi` | Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-043-climate-energy-deeptech`
 
-**Frühere Beschreibung:** Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik.
+**Fokus:** Prüft Energie-, Speicher-, Wasserstoff-, Robotik- und Industrie-Startups mit Genehmigung, IP, Exportkontrolle und Förderlogik.
 
 # Climate, Energy und Deep Tech
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-044-defense-dual-use-fdi`
 
-**Frühere Beschreibung:** Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren.
+**Fokus:** Prüft AWG/AWV, Exportkontrolle, Sanktionen, Sicherheitsinteressen, ausländische Co-Investoren und Behördenverfahren.
 
 # Defense, Dual Use und FDI
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-045-consumer-ecommerce-platform`
 
-**Frühere Beschreibung:** Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark Patterns, Marketing und Produkthaftung.
+**Fokus:** Prüft Verbraucherrecht, AGB, Widerruf, Plattformregeln, DSA, Dark Patterns, Marketing und Produkthaftung.
 
 # Consumer, E-Commerce und Plattformen
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-046-international-eu-schweiz`
 
-**Frühere Beschreibung:** Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs.
+**Fokus:** Prüft deutsche Investoren in EU-/CH-Startups und Schweizer/Europäische Co-Investoren in deutsche GmbHs.
 
 # EU und Schweiz Cross-Border
 

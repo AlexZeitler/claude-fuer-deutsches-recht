@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-ifg-063-uig-umweltin-bis-ifg-066-uig-umweltin
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (ifg-063-uig-umweltinformation-widerspruch-baue, ifg-064-uig-umweltinformation-klage-vorbereite, ifg-065-uig-umweltinformation-presseantwort-na, ifg-066-uig-umweltinformation-tracking-aktuali) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 063 Uig Umweltinformation Widerspruch Baue, Ifg 064 Uig Umweltinformation Klage Vorbereite, Ifg 065 Uig Umweltinformation Presseantwort Na, Ifg 066 Uig Umweltinformation Tracking Aktuali; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 063 Uig Umweltinformation Widerspruch Baue bis Ifg 066 Uig Umweltinformation Tracking Aktuali
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-063-uig-umweltinformation-widerspruch-baue` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Widerspruch bauen. Widerspruch bauen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-064-uig-umweltinformation-klage-vorbereite` | Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Klage vorbereiten. Klage vorbereiten für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-063-uig-umweltinformation-widerspruch-baue`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Widerspruch bauen. Widerspruch bauen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Widerspruch bauen. Widerspruch bauen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Uig Umweltinformation Widerspruch Baue
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-064-uig-umweltinformation-klage-vorbereite`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Klage vorbereiten. Klage vorbereiten für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Klage vorbereiten. Klage vorbereiten für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Uig Umweltinformation Klage Vorbereite
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-065-uig-umweltinformation-presseantwort-na`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Presseantwort nachfassen. Presseantwort nachfassen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Presseantwort nachfassen. Presseantwort nachfassen für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Uig Umweltinformation Presseantwort Na
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-066-uig-umweltinformation-tracking-aktuali`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Tracking aktualisieren. Tracking aktualisieren für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: UIG Umweltinformation: Tracking aktualisieren. Tracking aktualisieren für UIG Umweltinformation im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Uig Umweltinformation Tracking Aktuali
 

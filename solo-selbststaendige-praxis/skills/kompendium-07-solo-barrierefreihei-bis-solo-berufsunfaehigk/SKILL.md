@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-solo-barrierefreihei-bis-solo-berufsunfaehigk
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 8 frühere Spezialskills (solo-barrierefreiheit-und-bfsg, solo-barzahlung-und-kassenrisiko, solo-behoerdenbrief-verstehen, solo-beleganforderung, solo-beratungsgrenze-keine-rechtsberatung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Barrierefreiheit Und Bfsg, Solo Barzahlung Und Kassenrisiko, Solo Behoerdenbrief Verstehen, Solo Beleganforderung und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Barrierefreiheit Und Bfsg bis Solo Berufsunfaehigkeit Und Krankheit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-barrierefreiheit-und-bfsg` | Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-barzahlung-und-kassenrisiko` | Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-barrierefreiheit-und-bfsg`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft, ob digitale Angebote ab 2025 barrierefrei sein müssen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 2. `solo-barzahlung-und-kassenrisiko`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Barzahlung, Quittung, Kassenpflicht und Geldwäsche-Bauchgefühl; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Prüft barzahlung
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 3. `solo-behoerdenbrief-verstehen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: übersetzt Finanzamt, Gewerbeamt, Krankenkasse oder DRV-Brief in To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: übersetzt Finanzamt, Gewerbeamt, Krankenkasse oder DRV-Brief in To-dos; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Übersetzt finanzamt
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 4. `solo-beleganforderung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: fordert fehlende Belege freundlich und vollständig an; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: fordert fehlende Belege freundlich und vollständig an; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Fordert fehlende belege freundlich und vollständig an
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 5. `solo-beratungsgrenze-keine-rechtsberatung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft RDG-/Berufsgrenzen, wenn Solo-Selbstständige anderen rechtlich helfen wollen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft RDG-/Berufsgrenzen, wenn Solo-Selbstständige anderen rechtlich helfen wollen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Prüft rdg-/berufsgrenzen
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 6. `solo-berufsgenossenschaft-anmeldung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft BG-Anmeldung, Unfallversicherung und Beschäftigtenrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft BG-Anmeldung, Unfallversicherung und Beschäftigtenrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Prüft bg-anmeldung
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 7. `solo-berufshaftpflicht`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Pflicht, Bedarf, Deckungssumme, Ausschlüsse und Projektanforderungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Pflicht, Bedarf, Deckungssumme, Ausschlüsse und Projektanforderungen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Prüft pflicht
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 8. `solo-berufsunfaehigkeit-und-krankheit`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Absicherung bei Krankheit, BU, Krankentagegeld und Ausfallhonorar; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Absicherung bei Krankheit, BU, Krankentagegeld und Ausfallhonorar; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Plant absicherung bei krankheit
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-familienbetreuer-ent-bis-familienbetreuer-jah
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (familienbetreuer-entlastung-verhinderung-wechsel, familienbetreuer-erste-48-stunden-notfallmappe, familienbetreuer-jahresbericht-aus-notizen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - betreuungsrecht
+# Arbeitsbereich - Familienbetreuer Entlastung Verhinderung Wechsel, Familienbetreuer Erste 48 Stunden Notfallmappe, Familienbetreuer Jahresbericht Aus Notizen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `familienbetreuer-entlastung-verhinderung-wechsel` | Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz. |
 | `familienbetreuer-erste-48-stunden-notfallmappe` | Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `familienbetreuer-entlastung-verhinderung-wechsel`
 
-**Frühere Beschreibung:** Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz.
+**Fokus:** Entlastung ehrenamtlicher Betreuer: Betreuungsverein, Verhinderungsbetreuung, Aufgabenkreisänderung, Betreuerwechsel und Selbstschutz.
 
 # Familienbetreuer: Entlastung, Verhinderung, Wechsel
 
@@ -62,7 +62,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 2. `familienbetreuer-erste-48-stunden-notfallmappe`
 
-**Frühere Beschreibung:** Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe.
+**Fokus:** Erste 48 Stunden nach Betreuerbestellung: Beschluss lesen, Aufgabenkreise, Eilrisiken, Banken, Heim, Ärzte, Post, Schlüssel, Betrugsstopp und Notfallmappe.
 
 # Familienbetreuer: erste 48 Stunden und Notfallmappe
 
@@ -96,7 +96,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 3. `familienbetreuer-jahresbericht-aus-notizen`
 
-**Frühere Beschreibung:** Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen.
+**Fokus:** Jahresbericht für das Betreuungsgericht aus Alltagsnotizen, Kontoübersicht, Wunschermittlung und wichtigen Entscheidungen erstellen.
 
 # Familienbetreuer: Jahresbericht aus Notizen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-space-086-raumfahrt-bis-space-002-outer-spac
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen, space-093-board-memo-raumfahrt-haftung-und-versicherung, space-101-space-weather-solarsturm-haftung-und-versicherung, space-002-outer-space-treaty-grundprinzipien-nichtaneignung-und) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen, Space 093 Board Memo Raumfahrt Haftung Und Versicherung, Space 101 Space Weather Solarsturm Haftung Und Versicherung, Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - weltraumrecht
+# Arbeitsbereich - Space 086 Raumfahrt Im Krieg Neutralitaet Und Sanktionen bis Space 002 Outer Space Treaty Grundprinzipien Nichtaneignung Und
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen` | Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use. |
 | `space-093-board-memo-raumfahrt-haftung-und-versicherung` | Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-086-raumfahrt-im-krieg-neutralitaet-und-sanktionen`
 
-**Frühere Beschreibung:** Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use.
+**Fokus:** Weltraumrecht im bewaffneten Konflikt – OST Art. IV, humanitäres Völkerrecht, Dual-Use.
 
 # Weltraumrecht: Raumfahrt im Krieg: Neutralität und Sanktionen
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Raumfahrt im Krieg, OST Art. IV, 
 
 ## 2. `space-093-board-memo-raumfahrt-haftung-und-versicherung`
 
-**Frühere Beschreibung:** Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance.
+**Fokus:** Board-Memo Raumfahrthaftung – D&O-Relevanz, Versicherungsdeckung, Governance.
 
 # Weltraumrecht: Board-Memo: Raumfahrt, Haftung und Versicherung
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Board-Memo Raumfahrthaftung, D&O,
 
 ## 3. `space-101-space-weather-solarsturm-haftung-und-versicherung`
 
-**Frühere Beschreibung:** Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit fuer Industrie und Versicherer.
+**Fokus:** Space Weather Solarsturm und geomagnetische Ereignisse: rechtliche Bewertung von Satellitenausfall Stromnetzausfall GPS-Stoerung und Funkausfall. Klaert das Verhaeltnis Force-Majeure zu Naturereignis-Klauseln in Versicherungs- und Lieferketten-Vertraegen NOAA SWPC und ESA SSA-Warnungen Pflicht zur Risikoabschaetzung KRITIS-Sektor Energie und Telekommunikation NIS2-Vorfallmeldung und versicherungsrechtliche Anzeigepflichten. Behandelt das Carrington-Szenario und den Solarsturm 1989 Quebec. Liefert Pruefraster und Cockpit fuer Industrie und Versicherer.
 
 # Space Weather: Solarsturm-Haftung und Versicherung
 
@@ -302,7 +302,7 @@ Skill fuer Mandate aus Branchen, die durch Space Weather betroffen sind: Satelli
 
 ## 4. `space-002-outer-space-treaty-grundprinzipien-nichtaneignung-und`
 
-**Frühere Beschreibung:** OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht.
+**Fokus:** OST 1967 – Art. I–IX: Nichtaneignungsprinzip, nationale Verantwortung nichtstaatlicher Akteure, Konsultationspflicht.
 
 # Weltraumrecht: Outer Space Treaty: Grundprinzipien, Nichtaneignung und nationale Verantwortung
 

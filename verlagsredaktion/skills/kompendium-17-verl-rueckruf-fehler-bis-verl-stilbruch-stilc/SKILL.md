@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-verl-rueckruf-fehler-bis-verl-stilbruch-stilc
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (verl-rueckruf-fehlerbeitrag-spaet-erkannt, verl-screenshot-pdf-ocr-redaktion, verl-social-media-rechtsfachzeitschrift, verl-statusbericht-an-verlagsleitung, verl-stilbruch-stilcheck-fachzeitschrift) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Rueckruf Fehlerbeitrag Spaet Erkannt, Verl Screenshot Pdf Ocr Redaktion, Verl Social Media Rechtsfachzeitschrift, Verl Statusbericht An Verlagsleitung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - verlagsredaktion
+# Arbeitsbereich - Verl Rueckruf Fehlerbeitrag Spaet Erkannt bis Verl Stilbruch Stilcheck Fachzeitschrift
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-rueckruf-fehlerbeitrag-spaet-erkannt` | Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung. |
 | `verl-screenshot-pdf-ocr-redaktion` | Fuehrt einen sauberen OCR-Workflow fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-rueckruf-fehlerbeitrag-spaet-erkannt`
 
-**Frühere Beschreibung:** Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung.
+**Fokus:** Rueckruf bei spaet erkanntem Fehlerbeitrag: Rechtsfolgenpruefung BGB § 824, UrhG § 14, Aeusserungsrecht. Eskalationsplan, Mustertexte fuer Print- und Online-Rueckruf, Kostenabwaegung.
 
 # Rueckruf bei spaet erkanntem Fehlerbeitrag
 
@@ -197,7 +197,7 @@ Mit freundlichen Gruessen
 
 ## 2. `verl-screenshot-pdf-ocr-redaktion`
 
-**Frühere Beschreibung:** Fuehrt einen sauberen OCR-Workflow fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt.
+**Fokus:** Fuehrt einen sauberen OCR-Workflow fuer gescannte PDFs und Screenshots zu redaktionellem Manuskript, mit Fehlerquoten-Stichprobe und Pinpoint-Erhalt.
 
 # Screenshot / PDF-OCR-Workflow
 
@@ -292,7 +292,7 @@ Status: redaktionsreif nach Lektoratspruefung
 
 ## 3. `verl-social-media-rechtsfachzeitschrift`
 
-**Frühere Beschreibung:** Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG.
+**Fokus:** Social-Media-Beitrag fuer juristische Fachzeitschrift: Konzept fuer LinkedIn, Bluesky, Mastodon. Texttemplates, Bildvorgaben, Disclaimer, Werbekennzeichnung nach UWG und DDG.
 
 # Social-Media-Beitrag fuer Fachzeitschrift
 
@@ -429,7 +429,7 @@ Pressekontakt: [Link]
 
 ## 4. `verl-statusbericht-an-verlagsleitung`
 
-**Frühere Beschreibung:** Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte fuer monatliches Reporting und Ad-hoc-Alarm.
+**Fokus:** Statusbericht an die Verlagsleitung: knappe Lagedarstellung zu Projekt, Frist, Kosten, Risiko und Eskalation. Mustertexte fuer monatliches Reporting und Ad-hoc-Alarm.
 
 # Statusbericht an die Verlagsleitung
 
@@ -555,7 +555,7 @@ Mit freundlichen Gruessen
 
 ## 5. `verl-stilbruch-stilcheck-fachzeitschrift`
 
-**Frühere Beschreibung:** Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte Stilebenen Ironie Umgangssprache Floskeln Marketingsprache und KI-typische Phrasen.
+**Fokus:** Spuert Stilbrueche im Fachzeitschriften-Manuskript auf: gemischte Stilebenen Ironie Umgangssprache Floskeln Marketingsprache und KI-typische Phrasen.
 
 # Stilbruch- und Stilcheck Fachzeitschrift
 

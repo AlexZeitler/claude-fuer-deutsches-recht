@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-arbeitnehmer-softwar-bis-bonus-equity-devs-no
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (arbeitnehmer-software-69b-urhg, beta-pilot-poc-termsheet, beweissicherung-code-repository, bonus-equity-devs-noncompete) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitnehmer Software 69b Urhg, Beta Pilot Poc Termsheet, Beweissicherung Code Repository, Bonus Equity Devs Noncompete; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - softwarerecht-de-eu-us
+# Arbeitsbereich - Arbeitnehmer Software 69b Urhg bis Bonus Equity Devs Noncompete
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitnehmer-software-69b-urhg` | Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln. |
 | `beta-pilot-poc-termsheet` | Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitnehmer-software-69b-urhg`
 
-**Frühere Beschreibung:** Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln.
+**Fokus:** Prüft deutsche Arbeitnehmer-Software, automatische ausschließliche Nutzungsrechte des Arbeitgebers und Vertragsklauseln.
 
 # Arbeitnehmer-Software § 69b UrhG
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `beta-pilot-poc-termsheet`
 
-**Frühere Beschreibung:** Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go.
+**Fokus:** Gestaltet Beta-, Pilot- und Proof-of-Concept-Terms mit Vertraulichkeit, Feedback, Daten, Haftung und Go/No-Go.
 
 # Beta Pilot PoC Termsheet
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `beweissicherung-code-repository`
 
-**Frühere Beschreibung:** Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit.
+**Fokus:** Sichert Git, Tickets, Commits, Builds, Artefakte, CI/CD und Zugriffslogs für IP, Mängel und Streit.
 
 # Beweissicherung Code Repository
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `bonus-equity-devs-noncompete`
 
-**Frühere Beschreibung:** Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams.
+**Fokus:** Prüft Bonus, VSOP, Equity, Retention, nachvertragliche Wettbewerbsverbote und IP-Retention bei Entwicklerteams.
 
 # Bonus Equity Devs Non-Compete
 

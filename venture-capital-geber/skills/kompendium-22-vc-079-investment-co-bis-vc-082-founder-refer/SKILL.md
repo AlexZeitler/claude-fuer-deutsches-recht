@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vc-079-investment-co-bis-vc-082-founder-refer
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (vc-079-investment-committee-minutes, vc-080-task-reminder-system, vc-081-relationship-map, vc-082-founder-reference-calls) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 079 Investment Committee Minutes, Vc 080 Task Reminder System, Vc 081 Relationship Map, Vc 082 Founder Reference Calls; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - venture-capital-geber
+# Arbeitsbereich - Vc 079 Investment Committee Minutes bis Vc 082 Founder Reference Calls
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-079-investment-committee-minutes` | Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat. |
 | `vc-080-task-reminder-system` | Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-079-investment-committee-minutes`
 
-**Frühere Beschreibung:** Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat.
+**Fokus:** Erstellt Sitzungsprotokoll für IC, Partnerkreis, Family Office oder Syndikat.
 
 # Investment Committee Minutes
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-080-task-reminder-system`
 
-**Frühere Beschreibung:** Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger.
+**Fokus:** Übersetzt Deals in Aufgaben, Wiedervorlagen, Fristen, Founder-Requests und Follow-on-Trigger.
 
 # Task- und Reminder-System
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-081-relationship-map`
 
-**Frühere Beschreibung:** Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte.
+**Fokus:** Kartiert Founder, Co-Investoren, Anwälte, Notar, Advisors, Scouts, Kunden, strategische Käufer und Konflikte.
 
 # Relationship Map
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-082-founder-reference-calls`
 
-**Frühere Beschreibung:** Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik.
+**Fokus:** Plant Reference Calls mit Kunden, Ex-Arbeitgebern, Co-Foundern, Angels und Experten mit rechtlich sauberer Fragelogik.
 
 # Founder Reference Calls
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vbr-008-waren-mit-di-bis-vbr-011-schlichtung
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (vbr-008-waren-mit-digitalen-elementen, vbr-009-preisangaben-und-dark-patterns, vbr-010-uwg-irrefuehrung-verbraucherbezug, vbr-011-schlichtung-und-vsbg-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 008 Waren Mit Digitalen Elementen, Vbr 009 Preisangaben Und Dark Patterns, Vbr 010 Uwg Irrefuehrung Verbraucherbezug, Vbr 011 Schlichtung Und Vsbg Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 008 Waren Mit Digitalen Elementen bis Vbr 011 Schlichtung Und Vsbg Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-008-waren-mit-digitalen-elementen` | Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-009-preisangaben-und-dark-patterns` | Verbraucherschutzrecht Prüfer: Preisangaben und Dark Patterns. Preisangaben und Dark Patterns im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-008-waren-mit-digitalen-elementen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Waren mit digitalen Elementen. Waren mit digitalen Elementen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Waren Mit Digitalen Elementen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-009-preisangaben-und-dark-patterns`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Preisangaben und Dark Patterns. Preisangaben und Dark Patterns im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Preisangaben und Dark Patterns. Preisangaben und Dark Patterns im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Preisangaben Und Dark Patterns
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-010-uwg-irrefuehrung-verbraucherbezug`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: UWG Irreführung Verbraucherbezug. UWG Irreführung Verbraucherbezug im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: UWG Irreführung Verbraucherbezug. UWG Irreführung Verbraucherbezug im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uwg Irrefuehrung Verbraucherbezug
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-011-schlichtung-und-vsbg-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Schlichtung und VSBG prüfen. Schlichtung und VSBG prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Schlichtung und VSBG prüfen. Schlichtung und VSBG prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Schlichtung Und Vsbg Pruefen
 

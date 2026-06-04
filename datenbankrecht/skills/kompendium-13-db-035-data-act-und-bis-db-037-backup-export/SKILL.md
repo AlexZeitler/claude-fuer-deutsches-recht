@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-db-035-data-act-und-bis-db-037-backup-export
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (db-035-data-act-und-zugang-zu-iot-daten, db-036-datenbankrecht-bei-saas-und-cloudmigration, db-037-backup-export-und-vendor-lock-in) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - datenbankrecht
+# Arbeitsbereich - Db 035 Data Act Und Zugang Zu Iot Daten, Db 036 Datenbankrecht Bei Saas Und Cloudmigration, Db 037 Backup Export Und Vendor Lock In
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-035-data-act-und-zugang-zu-iot-daten` | Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber. |
 | `db-036-datenbankrecht-bei-saas-und-cloudmigration` | Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-035-data-act-und-zugang-zu-iot-daten`
 
-**Frühere Beschreibung:** Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber.
+**Fokus:** Data Act (EU-VO 2023/2854) und Zugang zu IoT-Daten im Verhältnis zum Datenbankherstellerrecht: Art. 4-8 Data Act (Nutzerzugangsrechte), Art. 17 (Wechselrecht Cloud), Verhältnis zu §§ 87a-87e UrhG, Betriebs- und Geschäftsgeheimnisschutz als Grenze und DSGVO-Schnittmenge. Erstellt Compliance-Konzept für IoT-Hersteller und Dateninhaber.
 
 # Data Act und Zugang zu IoT-Daten — Verhältnis zum Datenbankherstellerrecht
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-036-datenbankrecht-bei-saas-und-cloudmigration`
 
-**Frühere Beschreibung:** Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden.
+**Fokus:** Datenbankrecht bei SaaS-Diensten und Cloud-Migrationen: Inhaberschaft am Datenbankherstellerrecht (§ 87a UrhG) bei SaaS-Betrieb, Datenmitnahme bei Anbieterwechsel (Data Act Art. 17), AGB-Klauseln zur Datenbankzuweisung, Auftragsverarbeitung nach Art. 28 DSGVO und Vendor-Lock-in-Risiken bei propriet­ären Datenbankformaten. Erstellt Vertragsklauseln für SaaS-Kunden.
 
 # Datenbankrecht bei SaaS und Cloud-Migration — Inhaberschaft und Datenmitnahme
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-037-backup-export-und-vendor-lock-in`
 
-**Frühere Beschreibung:** Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme.
+**Fokus:** Datenbankrecht bei Backup-Rechten, Datenexport und Vendor-Lock-in: § 87c UrhG erlaubte Entnahmen für rechtmäßige Nutzer, vertragliche Backup-Klauseln, Data Act Art. 17 Wechselrecht, Exportformat-Anforderungen und rechtliche Mittel gegen Lock-in-Strategien. Bewertet AGB-Wirksamkeit von Export-Verboten und erstellt Vertragsklauseln für Datenmitnahme.
 
 # Backup, Export und Vendor-Lock-in — Datenbankrecht und Datenmitnahme
 

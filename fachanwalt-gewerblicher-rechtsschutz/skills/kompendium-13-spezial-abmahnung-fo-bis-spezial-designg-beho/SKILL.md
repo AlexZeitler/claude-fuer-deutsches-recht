@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-abmahnung-fo-bis-spezial-designg-beho
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-abmahnung-formular-portal-und-einreichung, spezial-bezuege-zahlen-schwellen-und-berechnung, spezial-designg-behoerden-gericht-und-registerweg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behoerden Gericht Und Registerweg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Abmahnung Formular Portal Und Einreichung, Bezuege Zahlen Schwellen Und Berechnung, Designg Behoerden Gericht Und Registerweg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-abmahnung-formular-portal-und-einreichung` | Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung. |
 | `spezial-bezuege-zahlen-schwellen-und-berechnung` | Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-abmahnung-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung.
+**Fokus:** Abmahnung: Formularanforderungen, Einreichungsportale und Übermittlungswege im gewerblichen Rechtsschutz. § 13 UWG Formerfordernisse, DPMA-Online-Dienste, EUIPO-Portal, beA-Einreichung, Vollmachtsnachweis, Fehlerquellen und Heilung.
 
 # Abmahnung: Formular, Portal und Einreichungslogik
 
@@ -134,7 +134,7 @@ Keine spezifischen gesetzlichen Formerfordernisse wie § 13 UWG; aber Vollmachts
 
 ## 2. `spezial-bezuege-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe.
+**Fokus:** Streitwerte, Gebühren, Schwellenwerte und Berechnungen im gewerblichen Rechtsschutz: Streitwertrahmen Marke/Patent/Design/UWG, RVG-Gebühren, Gerichtskosten GKG, Schadensersatzberechnung (drei Methoden), DPMA/EUIPO-Gebührentabellen, Vertragsstrafe.
 
 # Bezüge, Zahlen, Schwellen und Berechnung
 
@@ -252,7 +252,7 @@ Entgangener Gewinn + nachgewiesener Schaden.
 
 ## 3. `spezial-designg-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege.
+**Fokus:** DesignG: Behörden, Gerichte und Registerwege. DPMA-Anmeldung, EUIPO-GGM, Nichtigkeitsverfahren, Registerrecherche, Zuständigkeitsverteilung zwischen DPMA und Designgerichten, Musterschutzklage, Rechtsmittelwege.
 
 # DesignG: Behörden, Gerichte und Registerweg
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-see-072-offshore-sch-bis-see-077-offshore-sch
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (see-072-offshore-schiff-hypothek-bestellen, see-074-offshore-schiff-arrest-vorbereiten, see-075-offshore-schiff-wrackpflicht-pruefen, see-076-offshore-schiff-versicherung-melden, see-077-offshore-schiff-local-counsel-instruie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 072 Offshore Schiff Hypothek Bestellen, See 074 Offshore Schiff Arrest Vorbereiten, See 075 Offshore Schiff Wrackpflicht Pruefen, See 076 Offshore Schiff Versicherung Melden und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 072 Offshore Schiff Hypothek Bestellen bis See 077 Offshore Schiff Local Counsel Instruie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-072-offshore-schiff-hypothek-bestellen` | Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. |
 | `see-074-offshore-schiff-arrest-vorbereiten` | Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-072-offshore-schiff-hypothek-bestellen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Offshore-Schiff – Schiffshypothek bestellen
 
@@ -109,7 +109,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 2. `see-074-offshore-schiff-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Offshore-Schiff: Glaeubiger sichert Anspruch an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Offshore-Schiff – Arrest vorbereiten
 
@@ -205,7 +205,7 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 
 ## 3. `see-075-offshore-schiff-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Offshore-Schiff – Wrackbeseitigungspflicht prüfen
 
@@ -297,7 +297,7 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 
 ## 4. `see-076-offshore-schiff-versicherung-melden`
 
-**Frühere Beschreibung:** Offshore-Schiff: Schadensereignis an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Offshore-Schiff: Schadensereignis an Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Offshore-Schiff – Schadensfall bei Versicherung melden
 
@@ -388,7 +388,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 5. `see-077-offshore-schiff-local-counsel-instruie`
 
-**Frühere Beschreibung:** Offshore-Schiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Offshore-Schiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Offshore-Schiff – Local Counsel instruieren
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-workflow-redteam-qua-bis-spezial-lizenzanalog
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (workflow-redteam-qualitygate, faevvollzug-neu-006-abschlussschreiben-kosten-und-frist, spezial-lizenzanaloger-fristennotiz-und-naechster-schritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Redteam Qualitygate, Faevvollzug Neu 006 Abschlussschreiben Kosten Und Frist, Lizenzanaloger Fristennotiz Und Naechster Schritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien. |
 | `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist` | Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien.
+**Fokus:** Red-Team und Qualitätsgate für alle Arbeitsprodukte im gewerblichen Rechtsschutz: Schwachstellenanalyse von Schriftsätzen, Memos, Abmahnungen, EV-Anträgen und Vergleichsentwürfen. Kritische Gegenfragen und Freigabekriterien.
 
 # Red-Team und Qualitätsgate
 
@@ -150,7 +150,7 @@ Ein Arbeitsprodukt wird freigegeben, wenn:
 
 ## 2. `faevvollzug-neu-006-abschlussschreiben-kosten-und-frist`
 
-**Frühere Beschreibung:** Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz.
+**Fokus:** Abschlussschreiben nach einstweiliger Verfügung: Frist, Kosten, Unterlassungserklärung als Abschlussregelung, Abschlussgebühr RVG, Übergang zu Hauptsacheklage oder endgültige Erledigung im gewerblichen Rechtsschutz.
 
 # Abschlussschreiben: Kosten, Frist und Abschlussregelung
 
@@ -264,7 +264,7 @@ Mit freundlichen Grüßen
 
 ## 3. `spezial-lizenzanaloger-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz.
+**Fokus:** Lizenzanaloger Schadensersatz: Berechnung, Marktrecherche für Lizenzsätze, Stufenklage, Fristen für Auskunft und Schadensersatz, nächster Handlungsschritt nach Unterlassungsurteil oder EV-Abschluss im gewerblichen Rechtsschutz.
 
 # Lizenzanaloger Schadensersatz: Berechnung und nächster Schritt
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-verdeckte-sacheinlag-bis-vesting-leaver-cliff
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (verdeckte-sacheinlage, vesting-leaver-cliff) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verdeckte Sacheinlage, Vesting Leaver Cliff; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Verdeckte Sacheinlage, Vesting Leaver Cliff
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verdeckte-sacheinlage` | Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen. |
 | `vesting-leaver-cliff` | Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verdeckte-sacheinlage`
 
-**Frühere Beschreibung:** Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen.
+**Fokus:** Erkennt und prueft verdeckte Sacheinlage und Hin-und-Her-Zahlung nach § 19 Abs. 4 und Abs. 5 GmbHG, einschließlich Anrechnungsloesung, Vorbelastungshaftung und der typischen M&A-Fallen bei Cash-Capitalization, Wandeldarlehen, Verrechnungsabreden und Gesellschafterdarlehen.
 
 # Verdeckte Sacheinlage und Hin-und-Her-Zahlung
 
@@ -95,7 +95,7 @@ Verdeckte Sacheinlage ist einer der am haeufigsten uebersehenen Basics im M&A- u
 
 ## 2. `vesting-leaver-cliff`
 
-**Frühere Beschreibung:** Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht.
+**Fokus:** Erklaert Vesting, Cliff, Good Leaver, Bad Leaver, Founder Lock-up, Call Options, Einziehung und Rueckuebertragung im deutschen Gesellschaftsrecht.
 
 # Vesting, Leaver und Cliff
 

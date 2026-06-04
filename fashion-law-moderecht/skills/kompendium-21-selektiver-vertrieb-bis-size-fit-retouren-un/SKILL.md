@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-selektiver-vertrieb-bis-size-fit-retouren-un
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (selektiver-vertrieb-luxus, size-fit-retouren-und-dark-patterns) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fashion-law-moderecht
+# Arbeitsbereich - Selektiver Vertrieb Luxus, Size Fit Retouren Und Dark Patterns
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `selektiver-vertrieb-luxus` | Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage. |
 | `size-fit-retouren-und-dark-patterns` | Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `selektiver-vertrieb-luxus`
 
-**Frühere Beschreibung:** Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage.
+**Fokus:** Selektiver Vertrieb für Luxus- und Premiumfashion gestalten: qualitative Kriterien, Plattformverbot, Händleraufnahme, Monitoring, Vertikal-GVO und Markenimage.
 
 # Selektiver Vertrieb Luxus
 
@@ -59,7 +59,7 @@ Selektivvertriebs-Memo.
 
 ## 2. `size-fit-retouren-und-dark-patterns`
 
-**Frühere Beschreibung:** Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden.
+**Fokus:** Size/Fit, Retouren und Dark Patterns im Fashion E-Commerce prüfen: Größentabellen, virtuelle Passformberatung, Widerruf, Retourenkommunikation, irreführende Knappheit, Checkout-Friktion und Verbraucherbeschwerden.
 
 # Size Fit Retouren Und Dark Patterns
 

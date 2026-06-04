@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-iv-plan-sanierungsko-bis-iv-plan-sicherheiten
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (iv-plan-sanierungskonzept, iv-plan-sicherheiten-drittsicherheiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Sanierungskonzept, Iv Plan Sicherheiten Drittsicherheiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-sanierungskonzept` | Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate. |
 | `iv-plan-sicherheiten-drittsicherheiten` | Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-sanierungskonzept`
 
-**Frühere Beschreibung:** Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate.
+**Fokus:** Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Unternehmenslage, Krisenstadium, Krisenursachen, Leitbild, Maßnahmenpakete, Stakeholderbeiträge, integrierte GuV-/Bilanz-/Liquiditätsplanung, Dokumentation und Plausibilitätsbrücken. Output: Sanierungskonzept-Gliederung, Maßnahmenplan, Lückenliste, Management Summary. Abgrenzung: Detailmodellierung in iv-plan-integrierte-planung; Sanierungsfähigkeits-Gate in iv-idw-s6-sanierungsfaehigkeit-gate.
 
 # Sanierungskonzept für Insolvenzplan und StaRUG
 
@@ -167,7 +167,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-sicherheiten-drittsicherheiten`
 
-**Frühere Beschreibung:** Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung.
+**Fokus:** Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung.
 
 # IV-integrierte Sicherheiten und Drittsicherheiten
 

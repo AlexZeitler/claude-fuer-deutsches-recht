@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-aufgabenstellung-erf-bis-gliederung-mit-tiefe
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (aufgabenstellung-erfassen, fachgebiet-routing-zivil-oeffentlich-straf, gliederung-mit-tiefenstruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Oeffentlich Straf, Gliederung Mit Tiefenstruktur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - hausarbeitenmacher
+# Arbeitsbereich - Aufgabenstellung Erfassen, Fachgebiet Routing Zivil Oeffentlich Straf, Gliederung Mit Tiefenstruktur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aufgabenstellung-erfassen` | Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow). |
 | `fachgebiet-routing-zivil-oeffentlich-straf` | Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu öffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aufgabenstellung-erfassen`
 
-**Frühere Beschreibung:** Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow).
+**Fokus:** Student erhaelt Hausarbeit-Aufgabenstellung und will den Sachverhalt strukturiert erfassen. Drei-Lese-Methode zerlegt Sachverhalt in wesentliche Tatsachen Beteiligte Zeitschiene. Bearbeitungsvermerk identifizieren wer fragt was wird geprüft. Normen §§ 133 157 BGB Auslegungsmethodik. Prüfraster Sachverhalts-Zerlegung Bearbeitungsvermerk-Analyse Schwerpunkt-Erkennung. Output strukturierte Sachverhaltskarte Bearbeitungshinweise. Abgrenzung zu bearbeitungsplan-erstellen (Zeitplan) und hausarbeit-workflow-start (Master-Workflow).
 
 # Aufgabenstellung erfassen
 
@@ -191,7 +191,7 @@ Wenn Du die Aufgabenstellung erfasst hast, gehe weiter zu
 
 ## 2. `fachgebiet-routing-zivil-oeffentlich-straf`
 
-**Frühere Beschreibung:** Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu öffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema).
+**Fokus:** Student weiss nicht in welches Fachgebiet die Hausarbeit faellt: Zivilrecht öffentliches Recht Strafrecht oder Mix. Routing-Skill klaert Fachgebiet anhand Indikatoren. Normen allgemein BGB HGB VwGO StGB je nach Gebiet. Prüfraster Fachgebiet-Indikatoren Mix-Konstellationen Anspruchsgrundlagen-Typ. Output Fachgebiet-Zuordnung Routing-Empfehlung Erlaeuterung. Abgrenzung zu öffentliches-recht-statthaft (Schema) strafrecht-tatbestand (Schema) zivilrecht-anspruchsgrundlagen (Schema).
 
 # Fachgebiet-Routing: Zivilrecht — Öffentliches Recht — Strafrecht
 
@@ -349,7 +349,7 @@ B. Strafrechtliche Verantwortlichkeit
 
 ## 3. `gliederung-mit-tiefenstruktur`
 
-**Frühere Beschreibung:** Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt).
+**Fokus:** Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt).
 
 # Gliederung mit Tiefen-Struktur
 

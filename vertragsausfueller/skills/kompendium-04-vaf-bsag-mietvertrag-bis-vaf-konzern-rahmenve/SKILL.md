@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-vaf-bsag-mietvertrag-bis-vaf-konzern-rahmenve
-description: "vertragsausfueller: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (vaf-bsag-mietvertrag, vaf-klauselentscheidung, vaf-konzern-rahmenvertrag-anpassen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsausfueller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vaf Bsag Mietvertrag, Vaf Klauselentscheidung, Vaf Konzern Rahmenvertrag Anpassen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - vertragsausfueller
+# Arbeitsbereich - Vaf Bsag Mietvertrag, Vaf Klauselentscheidung, Vaf Konzern Rahmenvertrag Anpassen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vaf-bsag-mietvertrag` | BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung. |
 | `vaf-klauselentscheidung` | Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vaf-bsag-mietvertrag`
 
-**Frühere Beschreibung:** BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung.
+**Fokus:** BSAG-Kiosk-Mietvertrag ausfüllen: Anwendungsfall BSAG-Term Sheet Huckelriede liegt vor und muss in Mietvertragsvorlage übertragen werden. §§ 535 ff. BGB Mietvertrag, § 9 UStG Umsatzsteueroption, § 550 BGB Schriftformerfordernis. Prüfraster BSAG-Handelsregisterprüfung, Term Sheet vollständig Fläche Nutzungsart Miete Laufzeit, USt-Option Vorsteuerabzug, Konkurrenzschutzklausel. Output ausgefüllter BSAG-Mietvertragsentwurf mit Lückenmarkierung und Klauselentscheidungen. Abgrenzung zu allgemeinem Kommandocenter und zu Template-Erkennung.
 
 # BSAG-Mietvertrag
 
@@ -90,7 +90,7 @@ Der Skill setzt den Huckelriede-Term-Sheet-Fall in die BSAG-Vorlage um. Er arbei
 
 ## 2. `vaf-klauselentscheidung`
 
-**Frühere Beschreibung:** Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck.
+**Fokus:** Wahlklauseln und Klauselalternativen im Vertrag entscheiden: Anwendungsfall Vertrag enthält optionale Klauseln wie Umsatzsteueroption Indexierung Konkurrenzschutz Rückbau oder Betriebspflicht die aktiv angekreuzt oder formuliert werden müssen. §§ 307-309 BGB AGB-Kontrolle, § 557b BGB Indexmiete, § 9 UStG USt-Option. Prüfraster B2B vs. B2C Kontrollintensität, AGB vs. Individualklausel, branchenspezifische Pflichtklauseln, Haftungsbeschränkungs-Grenzen. Output Klauselentscheidungs-Protokoll mit Optionsauswahl und Begründung. Abgrenzung zu Feldinventar und zu Plausibilitätscheck.
 
 # Klauselentscheidungen
 
@@ -160,7 +160,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 
 ## 3. `vaf-konzern-rahmenvertrag-anpassen`
 
-**Frühere Beschreibung:** Spezialfall Rahmenvertrag im Konzern anpassen ohne Aenderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Pruefraster fuer Aenderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte.
+**Fokus:** Spezialfall Rahmenvertrag im Konzern anpassen ohne Aenderung der Substanz: typische Stellen wie Vergueng, Laufzeit, Liefermenge. Pruefraster fuer Aenderungsfreigabe und Track-Changes-Diskussion mit Gegenseite. Mustertexte.
 
 # Rahmenvertrag-Anpassung
 

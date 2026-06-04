@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-verg-mehrpar-bis-spezial-vergaberecht
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (spezial-verg-mehrparteien-konflikt-und-interessen, spezial-vergabe-behoerden-gericht-und-registerweg, spezial-vergabekammer-verhandlung-vergleich-und-eskalation, spezial-vergaberecht-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verg Mehrparteien Konflikt Und Interessen, Vergabe Behoerden Gericht Und Registerweg, Vergabekammer Verhandlung Vergleich Und Eskalation, Vergaberecht Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-vergaberecht
+# Arbeitsbereich - Verg Mehrparteien Konflikt Und Interessen bis Vergaberecht Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verg-mehrparteien-konflikt-und-interessen` | Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vergabe-behoerden-gericht-und-registerweg` | Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verg-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verg: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verg: Mehrparteienkonflikt und Interessenmatrix
 
@@ -81,7 +81,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vergabe-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergabe: Behörden-, Gerichts- oder Registerweg im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vergabe: Behörden-, Gerichts- oder Registerweg
 
@@ -133,7 +133,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vergabekammer-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergabekammer: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vergabekammer: Verhandlung, Vergleich und Eskalation
 
@@ -185,7 +185,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-vergaberecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vergaberecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

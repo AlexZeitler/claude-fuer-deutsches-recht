@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-drafting-prinzipien-bis-finaler-writing-qual
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (drafting-prinzipien-klarheit-bestimmtheit-praezision, finaler-writing-quality-gate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Drafting Prinzipien Klarheit Bestimmtheit Praezision, Finaler Writing Quality Gate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drafting-prinzipien-klarheit-bestimmtheit-praezision` | Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise. |
 | `finaler-writing-quality-gate` | Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drafting-prinzipien-klarheit-bestimmtheit-praezision`
 
-**Frühere Beschreibung:** Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise.
+**Fokus:** Die drei Leitwerte juristischen Drafting sauber operationalisieren. Klarheit (Adressat versteht), Bestimmtheit (Subsumtion moeglich; § 253 Abs. 2 Nr. 2 ZPO; AGB-Transparenzgebot § 307 Abs. 1 Satz 2 BGB) und Praezision (kein ueberfluessiges Wort) als pruefbare Anforderungen umsetzen. Mit Anti-Beispielen aus typischen Klauselsuenden, Faustregel max 25 Woerter je Satz, Aktiv vor Passiv und einer Umformulierungstabelle schwammig zu praezise.
 
 # Drafting-Prinzipien: Klarheit, Bestimmtheit, Praezision
 
@@ -126,7 +126,7 @@ Jeder operative Satz traegt Antwort auf vier Fragen:
 
 ## 2. `finaler-writing-quality-gate`
 
-**Frühere Beschreibung:** Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste.
+**Fokus:** Finales Quality Gate für juristische Texte vor Versand. Prüft Rechtsfrage, Antrag oder Klauselzweck, Adressat, Stil, Zitate, Normen, Anlagen, Beweise, Fristen, Platzhalter, Zahlen, Namen, Datenschutz, Metadaten, Word-Hygiene und Versandfassung. Liefert Freigabeampel und letzte Reparaturliste.
 
 # Finaler Writing Quality Gate
 

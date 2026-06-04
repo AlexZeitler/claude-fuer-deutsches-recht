@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-strafverfolgung-bewe-bis-transparenz-deepfake
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (strafverfolgung-beweisbewertung-ki-anhang-iii, territorialer-anwendungsbereich-art-2, training-generativer-modelle-tdm-opt-out, transparenz-deepfake-synthetic-content-art-50) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafverfolgung Beweisbewertung Ki Anhang Iii, Territorialer Anwendungsbereich Art 2, Training Generativer Modelle Tdm Opt Out, Transparenz Deepfake Synthetic Content Art 50; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Strafverfolgung Beweisbewertung Ki Anhang Iii bis Transparenz Deepfake Synthetic Content Art 50
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafverfolgung-beweisbewertung-ki-anhang-iii` | KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance. |
 | `territorialer-anwendungsbereich-art-2` | Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb außerhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begründung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafverfolgung-beweisbewertung-ki-anhang-iii`
 
-**Frühere Beschreibung:** KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance.
+**Fokus:** KI in Strafverfolgung und Beweisbewertung: Anhang III, Verdachtsgenerierung, Datenanalyse, Encro-/Messenger-Auswertung, Bild-/Audioanalyse, Beweisverwertungsrisiken, Akteneinsicht, Verteidigungsangriffe und Behörden-Governance.
 
 # Strafverfolgung: KI und Beweisbewertung
 
@@ -72,7 +72,7 @@ KI-Auswertung ist nicht selbsterklärend. Wenn sie beweisrelevant wird, müssen 
 
 ## 2. `territorialer-anwendungsbereich-art-2`
 
-**Frühere Beschreibung:** Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb außerhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begründung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3.
+**Fokus:** Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch für uns obwohl wir außerhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Prüfraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb außerhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begründung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3.
 
 # Territorialer Anwendungsbereich — Art. 2 KI-VO
 
@@ -187,7 +187,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `training-generativer-modelle-tdm-opt-out`
 
-**Frühere Beschreibung:** Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk fuer Modellanbieter und Unternehmensnutzer.
+**Fokus:** Training generativer Modelle mit Text, Bild, Musik, Code und Datenbanken: Text-und-Data-Mining, Rechtevorbehalt/Opt-out, Webcrawl, Lizenzpool, Datenherkunft, Beweislast und Risikovermerk fuer Modellanbieter und Unternehmensnutzer.
 
 # Training generativer Modelle: TDM und Opt-out
 
@@ -226,7 +226,7 @@ Erstelle ein Memo mit:
 
 ## 4. `transparenz-deepfake-synthetic-content-art-50`
 
-**Frühere Beschreibung:** Art. 50 KI-VO fuer Chatbots, Deepfakes und synthetische Inhalte: Nutzerhinweis, Medien-/Kunst-/Satire-Ausnahmen, Wasserzeichen, interne Freigabe, Plattformkommunikation und Krisenreaktion bei falscher Kennzeichnung.
+**Fokus:** Art. 50 KI-VO fuer Chatbots, Deepfakes und synthetische Inhalte: Nutzerhinweis, Medien-/Kunst-/Satire-Ausnahmen, Wasserzeichen, interne Freigabe, Plattformkommunikation und Krisenreaktion bei falscher Kennzeichnung.
 
 # Art. 50 KI-VO: Transparenz, Deepfakes, synthetische Inhalte
 

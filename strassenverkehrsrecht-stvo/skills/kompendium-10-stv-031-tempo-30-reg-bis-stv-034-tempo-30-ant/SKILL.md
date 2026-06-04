@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-stv-031-tempo-30-reg-bis-stv-034-tempo-30-ant
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (stv-031-tempo-30-regel-pruefen, stv-032-tempo-30-zeichen-auslegen, stv-033-tempo-30-anordnung-angreifen, stv-034-tempo-30-antrag-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 031 Tempo 30 Regel Pruefen, Stv 032 Tempo 30 Zeichen Auslegen, Stv 033 Tempo 30 Anordnung Angreifen, Stv 034 Tempo 30 Antrag Schreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 031 Tempo 30 Regel Pruefen bis Stv 034 Tempo 30 Antrag Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-031-tempo-30-regel-pruefen` | Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-032-tempo-30-zeichen-auslegen` | Straßenverkehrsrecht StVO: Tempo 30: Zeichen auslegen. Zeichen auslegen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-031-tempo-30-regel-pruefen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Regel prüfen. Regel prüfen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Regel Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-032-tempo-30-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Zeichen auslegen. Zeichen auslegen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Zeichen auslegen. Zeichen auslegen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Zeichen Auslegen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-033-tempo-30-anordnung-angreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Anordnung angreifen. Anordnung angreifen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Anordnung angreifen. Anordnung angreifen für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Anordnung Angreifen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-034-tempo-30-antrag-schreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Antrag schreiben. Antrag schreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Antrag schreiben. Antrag schreiben für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Antrag Schreiben
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-ihl-052-sprachfassun-bis-ihl-056-human-rights
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (ihl-052-sprachfassung-und-auslegung, ihl-053-currency-risk-and-indexation, ihl-055-anti-corruption-fcpa-ukba, ihl-056-human-rights-supply-chain) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 052 Sprachfassung Und Auslegung, Ihl 053 Currency Risk And Indexation, Ihl 055 Anti Corruption Fcpa Ukba, Ihl 056 Human Rights Supply Chain; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 052 Sprachfassung Und Auslegung bis Ihl 056 Human Rights Supply Chain
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-052-sprachfassung-und-auslegung` | Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme. |
 | `ihl-053-currency-risk-and-indexation` | Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-052-sprachfassung-und-auslegung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme.
+**Fokus:** Internationales Handelsrecht: Mehrsprachige Verträge und Auslegung. Kollision zwischen Sprachfassungen, Maßgeblichkeitsklauseln, CISG Art. 7-8 Auslegungsregeln, Treu-und-Glauben-Maßstab und rechtsvergleichende Auslegungsprobleme.
 
 # Mehrsprachige Verträge und Auslegung
 
@@ -81,7 +81,7 @@ CISG Art. 7-8: uncitral.un.org. PICC Art. 4.1-4.7: unidroit.org. BGB § 305c Abs
 
 ## 2. `ihl-053-currency-risk-and-indexation`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung.
+**Fokus:** Internationales Handelsrecht: Währungsrisiko und Indexklauseln in internationalen Verträgen. Wechselkursrisiko-Allokation, Hard-Currency-Klauseln, Zahlungswährung vs. Rechnungswährung, CISG Art. 54 Zahlungspflicht und IWF-SZR-Referenzierung.
 
 # Währungsrisiko und Indexklauseln
 
@@ -133,7 +133,7 @@ CISG Art. 54, 74, 78: uncitral.un.org. PICC Art. 6.1.9: unidroit.org. Rom I Art.
 
 ## 3. `ihl-055-anti-corruption-fcpa-ukba`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements.
+**Fokus:** Internationales Handelsrecht: Anti-Korruption im internationalen Handel. US Foreign Corrupt Practices Act (FCPA 1977), UK Bribery Act 2010 (UKBA), OECD-Antikorruptionskonvention 1997, Compliance-Pflichten, Drittpartei-Risiko und Deferred Prosecution Agreements.
 
 # Anti-Korruption: FCPA und UK Bribery Act
 
@@ -185,7 +185,7 @@ FCPA: justice.gov/criminal-fraud/foreign-corrupt-practices-act. UKBA: legislatio
 
 ## 4. `ihl-056-human-rights-supply-chain`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken.
+**Fokus:** Internationales Handelsrecht: Menschenrechte in der Lieferkette. UN-Guiding Principles on Business and Human Rights (UNGP 2011), deutsches Lieferkettensorgfaltspflichtengesetz (LkSG 2023), EU CSDDD-RL 2024 und zivilrechtliche Haftungsrisiken.
 
 # Menschenrechte in der Lieferkette
 

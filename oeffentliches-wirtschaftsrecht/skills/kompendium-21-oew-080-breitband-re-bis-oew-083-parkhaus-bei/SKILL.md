@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-oew-080-breitband-re-bis-oew-083-parkhaus-bei
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (oew-080-breitband-red-flags-listen, oew-081-parkhaus-organisationsform-pruefen, oew-082-parkhaus-vergabeweg-waehlen, oew-083-parkhaus-beihilfe-markieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 080 Breitband Red Flags Listen, Oew 081 Parkhaus Organisationsform Pruefen, Oew 082 Parkhaus Vergabeweg Waehlen, Oew 083 Parkhaus Beihilfe Markieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 080 Breitband Red Flags Listen bis Oew 083 Parkhaus Beihilfe Markieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-080-breitband-red-flags-listen` | Öffentliches Wirtschaftsrecht: Breitband: Red Flags listen. Red Flags listen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-081-parkhaus-organisationsform-pruefen` | Öffentliches Wirtschaftsrecht: Parkhaus: Organisationsform prüfen. Organisationsform prüfen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-080-breitband-red-flags-listen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Red Flags listen. Red Flags listen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Red Flags listen. Red Flags listen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Red Flags Listen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-081-parkhaus-organisationsform-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Organisationsform prüfen. Organisationsform prüfen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Organisationsform prüfen. Organisationsform prüfen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Organisationsform Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-082-parkhaus-vergabeweg-waehlen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Vergabeweg wählen. Vergabeweg wählen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Vergabeweg wählen. Vergabeweg wählen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Vergabeweg Waehlen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-083-parkhaus-beihilfe-markieren`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Beihilfe markieren. Beihilfe markieren für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Beihilfe markieren. Beihilfe markieren für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Beihilfe Markieren
 

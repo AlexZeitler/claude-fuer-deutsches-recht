@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-legal-spend-accruals-bis-mandant-self-service
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (legal-spend-accruals, lessons-to-playbook, litigation-hold-client, litigation-roadmap-client, mandant-self-service) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legal Spend Accruals, Lessons To Playbook, Litigation Hold Client, Litigation Roadmap Client und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Legal Spend Accruals bis Mandant Self Service
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legal-spend-accruals` | Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `lessons-to-playbook` | Lessons to Playbook: steuert aus Mandatsschmerz ein besseres Playbook für nächste Fälle bauen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legal-spend-accruals`
 
-**Frühere Beschreibung:** Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Legal Spend und Accruals: steuert Rückstellungen, Forecasts, Monatsabschluss, Abgrenzung und Überraschungsrechnungen vermeiden zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Legal Spend und Accruals
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `lessons-to-playbook`
 
-**Frühere Beschreibung:** Lessons to Playbook: steuert aus Mandatsschmerz ein besseres Playbook für nächste Fälle bauen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Lessons to Playbook: steuert aus Mandatsschmerz ein besseres Playbook für nächste Fälle bauen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Lessons to Playbook
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `litigation-hold-client`
 
-**Frühere Beschreibung:** Litigation Hold beim Mandanten: steuert E-Mails, Chats, Dateien, Teams/Slack, Backups und Löschroutinen sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Litigation Hold beim Mandanten: steuert E-Mails, Chats, Dateien, Teams/Slack, Backups und Löschroutinen sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Litigation Hold beim Mandanten
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `litigation-roadmap-client`
 
-**Frühere Beschreibung:** Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Litigation Roadmap für Mandanten: steuert Gerichtsverfahren in Phasen, Schriftsatzkalender, Beweis, Vergleich und Kosten erklären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Litigation Roadmap für Mandanten
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `mandant-self-service`
 
-**Frühere Beschreibung:** Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Mandant Self Service: steuert Mandant lädt Dokumente, prüft Status, beantwortet Fragen und sieht nächste Entscheidungen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Mandant Self Service
 

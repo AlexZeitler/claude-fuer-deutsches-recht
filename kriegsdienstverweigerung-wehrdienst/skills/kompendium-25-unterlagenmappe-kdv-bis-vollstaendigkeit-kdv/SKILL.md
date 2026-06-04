@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-unterlagenmappe-kdv-bis-vollstaendigkeit-kdv
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 25; bündelt 5 frühere Spezialskills (unterlagenmappe-kdv, verwaltungsakt-oder-informelles-schreiben, verwaltungsgericht-kdvg-10, vollstaendiger-lebenslauf, vollstaendigkeit-kdvg-2) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unterlagenmappe Kdv, Verwaltungsakt Oder Informelles Schreiben, Verwaltungsgericht Kdvg 10, Vollstaendiger Lebenslauf und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Unterlagenmappe Kdv bis Vollstaendigkeit Kdvg 2
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unterlagenmappe-kdv` | Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide. |
 | `verwaltungsakt-oder-informelles-schreiben` | Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unterlagenmappe-kdv`
 
-**Frühere Beschreibung:** Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide.
+**Fokus:** Strukturiert Antrag, Lebenslauf, Begründung, Belege, Nachweise und Bescheide.
 
 # Unterlagenmappe KDV
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `verwaltungsakt-oder-informelles-schreiben`
 
-**Frühere Beschreibung:** Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail.
+**Fokus:** Unterscheidet Bescheid, Aufforderung, Sachstand und informelle E-Mail.
 
 # Verwaltungsakt oder Hinweis
 
@@ -140,7 +140,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 3. `verwaltungsgericht-kdvg-10`
 
-**Frühere Beschreibung:** Routet Klage und gerichtliche Besonderheiten in KDV-Sachen.
+**Fokus:** Routet Klage und gerichtliche Besonderheiten in KDV-Sachen.
 
 # Verwaltungsgericht § 10 KDVG
 
@@ -195,7 +195,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 4. `vollstaendiger-lebenslauf`
 
-**Frühere Beschreibung:** Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen.
+**Fokus:** Erstellt einen vollständigen, datensparsamen Lebenslauf mit gewissensrelevanten Stationen.
 
 # Tabellarischer Lebenslauf
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `vollstaendigkeit-kdvg-2`
 
-**Frühere Beschreibung:** Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung.
+**Fokus:** Prüft Anschreiben, Art.-4-Berufung, Lebenslauf und persönliche Begründung.
 
 # Vollständigkeit § 2 KDVG
 

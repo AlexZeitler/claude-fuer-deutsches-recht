@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-verfassung-grundgese-bis-gesetzentwurf-gg-kon
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (verfassung-grundgesetz-verfahren, verfassung-organstreitverfahren, gesetzentwurf-gg-konformitaet-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verfassungsrecht
+# Arbeitsbereich - Verfassung Grundgesetz Verfahren, Verfassung Organstreitverfahren, Gesetzentwurf Gg Konformitaet Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verfassung-grundgesetz-verfahren` | Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen. |
 | `verfassung-organstreitverfahren` | Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Massnahme Verfassungsorgan, Frist 6 Monate. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verfassung-grundgesetz-verfahren`
 
-**Frühere Beschreibung:** Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen.
+**Fokus:** Verfahren der Verfassungsaenderung Art. 79 GG: Zwei-Drittel-Mehrheit BT und BR, Ewigkeitsklausel Art. 79 Abs. 3 GG. Beispiele unzulaessiger Aenderungen.
 
 # GG-Aenderung Art. 79 GG
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 
 ## 2. `verfassung-organstreitverfahren`
 
-**Frühere Beschreibung:** Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Massnahme Verfassungsorgan, Frist 6 Monate. Pruefraster.
+**Fokus:** Organstreitverfahren Art. 93 Abs. 1 Nr. 1 GG, § 13 Nr. 5, §§ 63 ff. BVerfGG: Antragsteller (Verfassungsorgane, mit eigenen Rechten ausgestattete Teile), Antragsgegenstand Massnahme Verfassungsorgan, Frist 6 Monate. Pruefraster.
 
 # Organstreitverfahren
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `verfassungsrecht`. Er ergaenzt die uebrigen Ski
 
 ## 3. `gesetzentwurf-gg-konformitaet-pruefen`
 
-**Frühere Beschreibung:** Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin).
+**Fokus:** Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin).
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)
 

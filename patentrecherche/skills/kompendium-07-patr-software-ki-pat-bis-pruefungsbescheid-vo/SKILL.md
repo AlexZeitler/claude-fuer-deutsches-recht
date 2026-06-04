@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-patr-software-ki-pat-bis-pruefungsbescheid-vo
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (patr-software-ki-patentierbarkeit-spezial, pr-einfuehrung-recherchearten, pruefungsbescheid-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - patentrecherche
+# Arbeitsbereich - Patr Software Ki Patentierbarkeit Spezial, Pr Einfuehrung Recherchearten, Pruefungsbescheid Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patr-software-ki-patentierbarkeit-spezial` | Spezialfall Software- und KI-Patentierbarkeit EPA: Computer-implementierte Erfindung, technischer Beitrag, KI-spezifische Pruefrichtlinien. Pruefraster fuer Anmeldung. |
 | `pr-einfuehrung-recherchearten` | Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patr-software-ki-patentierbarkeit-spezial`
 
-**Frühere Beschreibung:** Spezialfall Software- und KI-Patentierbarkeit EPA: Computer-implementierte Erfindung, technischer Beitrag, KI-spezifische Pruefrichtlinien. Pruefraster fuer Anmeldung.
+**Fokus:** Spezialfall Software- und KI-Patentierbarkeit EPA: Computer-implementierte Erfindung, technischer Beitrag, KI-spezifische Pruefrichtlinien. Pruefraster fuer Anmeldung.
 
 # PatR: Software KI Patentierbarkeit
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## 2. `pr-einfuehrung-recherchearten`
 
-**Frühere Beschreibung:** Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix.
+**Fokus:** Einfuehrung Recherchearten Patent: Patentierbarkeitsrecherche, Freedom-to-Operate, State-of-the-Art, Familien-, Rechtsstand-, Konkurrenz-Monitoring. Pro Art: Ziel, Datenquellen (Espacenet, DEPATIS, USPTO, JPO, KIPO), Aufwand, Output. Entscheidungsmatrix.
 
 # Patentrecherche: Arten
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `patentrecherche`. Er ergaenzt die uebrigen Skil
 
 ## 3. `pruefungsbescheid-vorbereiten`
 
-**Frühere Beschreibung:** Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Tätigkeit Argument Anspruchsanpassung). Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden.
+**Fokus:** Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Tätigkeit Argument Anspruchsanpassung). Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden.
 
 # prüfungsbescheid-vorbereiten
 

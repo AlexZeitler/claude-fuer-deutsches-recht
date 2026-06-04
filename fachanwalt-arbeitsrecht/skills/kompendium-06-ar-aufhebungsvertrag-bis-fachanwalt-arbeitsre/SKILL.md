@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ar-aufhebungsvertrag-bis-fachanwalt-arbeitsre
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ar-aufhebungsvertrag-praxis, ar-konkurrenzklausel-spezial, fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Arbeitsrecht Aufhebungsvertrag Sperrzeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Ar Aufhebungsvertrag Praxis, Ar Konkurrenzklausel Spezial, Arbeitsrecht Aufhebungsvertrag Sperrzeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ar-aufhebungsvertrag-praxis` | Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden. |
 | `ar-konkurrenzklausel-spezial` | Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ar-aufhebungsvertrag-praxis`
 
-**Frühere Beschreibung:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
+**Fokus:** Aufhebungsvertrag in der Praxis: Sperrzeit ALG I § 159 SGB III, steuerliche Fünftelregelung § 34 EStG, AGB-Kontrolle von Klauseln §§ 305 ff. BGB, Widerrufsrecht, Verzicht auf KSchG-Klage, Klauselrisiken. Prüfraster für Verhandlung und Mandantenleitfaden.
 
 # AR: Aufhebungsvertrag in der Praxis
 
@@ -137,7 +137,7 @@ Zahlt der Arbeitgeber eine Abfindung und wird die ordentliche Kündigungsfrist n
 
 ## 2. `ar-konkurrenzklausel-spezial`
 
-**Frühere Beschreibung:** Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel.
+**Fokus:** Nachvertragliches Wettbewerbsverbot §§ 74–75d HGB analog: Karenzentschädigung ≥ 50 %, Schriftform, Verbindlichkeit, Freistellung durch Arbeitgeber, Verwirkung, Verstoß und Vertragsstrafe. Prüfraster und Musterklausel.
 
 # AR: Konkurrenzklausel / Nachvertragliches Wettbewerbsverbot (Spezial)
 
@@ -259,7 +259,7 @@ Klauseln mit Vertragsstrafe unterliegen § 307 BGB. Unangemessen hoch → Reduzi
 
 ## 3. `fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit`
 
-**Frühere Beschreibung:** Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg.
+**Fokus:** Aufhebungsvertrag mit Sperrzeit-Vermeidung nach § 159 SGB III bei Eigeninitiative oder drohender Kündigung. Anwendungsfall Arbeitgeber und Arbeitnehmer wollen Arbeitsverhältnis auflösen ohne Sperrzeit für Arbeitslosengeld. Normen § 159 SGB III wichtiger Grund Sperrzeitentscheidung § 623 BGB Schriftform § 14 KSchG Klagefrist. Prüfraster Initiativseite wichtiger Grund Abfindung Steuerpflicht Fuenftelregelung Krankenversicherung Wettbewerbsverbot Outplacement. Output Aufhebungsvertrags-Entwurf mit Sperrzeitlegitimerung Steuerklauseln und Verhandlungsstrategie. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg.
 
 # Aufhebungsvertrag mit Sperrzeit-Vermeidung
 

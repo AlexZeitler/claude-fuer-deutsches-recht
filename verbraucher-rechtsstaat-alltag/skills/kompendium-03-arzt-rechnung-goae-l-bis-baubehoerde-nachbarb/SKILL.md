@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-arzt-rechnung-goae-l-bis-baubehoerde-nachbarb
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (arzt-rechnung-goae-laie, bankentgelte-zustimmungsfiktion, baubehoerde-nachbarbrief) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arzt Rechnung Goae Laie, Bankentgelte Zustimmungsfiktion, Baubehoerde Nachbarbrief; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Arzt Rechnung Goae Laie, Bankentgelte Zustimmungsfiktion, Baubehoerde Nachbarbrief
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arzt-rechnung-goae-laie` | Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `bankentgelte-zustimmungsfiktion` | Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arzt-rechnung-goae-laie`
 
-**Frühere Beschreibung:** Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Arztrechnung GOÄ für Laien: führt Laien durch Privatrechnung, Steigerungssatz, Analogziffer, Erstattung und Einwendungen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Arztrechnung GOÄ für Laien
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `bankentgelte-zustimmungsfiktion`
 
-**Frühere Beschreibung:** Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad.
+**Fokus:** Bankentgelte und Zustimmungsfiktion: führt Verbraucher durch Rückforderung von Kontoentgelten nach BGH XI ZR 26/20, XI ZR 139/23 und XI ZR 45/24; mit Kontoauszugsmatrix, Verjährungscheck, Anspruchsschreiben und Ombudsmann-/Klagepfad.
 
 # Bankentgelte Und Zustimmungsfiktion
 
@@ -145,7 +145,7 @@ Erkläre: Schweigen ist im Verbraucherbankrecht nicht automatisch Zustimmung. Ab
 
 ## 3. `baubehoerde-nachbarbrief`
 
-**Frühere Beschreibung:** Baubehörde und Nachbarbrief: führt Laien durch Nachbaranhörung, Baugenehmigung, Einwendungen, Frist und Akteneinsicht. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Baubehörde und Nachbarbrief: führt Laien durch Nachbaranhörung, Baugenehmigung, Einwendungen, Frist und Akteneinsicht. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Baubehörde und Nachbarbrief
 

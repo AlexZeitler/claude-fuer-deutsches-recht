@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-open-source-ai-model-bis-patent-infringement
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (open-source-ai-models, open-source-in-saas, open-source-urheberrecht-und-lizenzkette, patent-infringement-software) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Open Source Ai Models, Open Source In Saas, Open Source Urheberrecht Und Lizenzkette, Patent Infringement Software; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - softwarerecht-de-eu-us
+# Arbeitsbereich - Open Source Ai Models bis Patent Infringement Software
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `open-source-ai-models` | Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte. |
 | `open-source-in-saas` | Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `open-source-ai-models`
 
-**Frühere Beschreibung:** Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte.
+**Fokus:** Prüft Open-Source-/Open-Weight-Modelle, Lizenzpflichten, Restriktionen, Datenherkunft und Integration in Softwareprodukte.
 
 # Open Source AI Models
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `open-source-in-saas`
 
-**Frühere Beschreibung:** Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge.
+**Fokus:** Prüft Open Source bei SaaS ohne klassische Distribution, AGPL, managed services und Kundenverträge.
 
 # Open Source in SaaS
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `open-source-urheberrecht-und-lizenzkette`
 
-**Frühere Beschreibung:** Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko.
+**Fokus:** Prüft Open-Source-Komponenten als Teil der Software-Rechtekette inklusive Copyleft, Notices, Source-Angebot und M&A-Risiko.
 
 # Open Source Rechtekette
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `patent-infringement-software`
 
-**Frühere Beschreibung:** Prüft Softwarepatentverletzung in US/EU, Claim Mapping, Indirect Infringement, Invalidity und Workarounds.
+**Fokus:** Prüft Softwarepatentverletzung in US/EU, Claim Mapping, Indirect Infringement, Invalidity und Workarounds.
 
 # Software Patent Infringement
 

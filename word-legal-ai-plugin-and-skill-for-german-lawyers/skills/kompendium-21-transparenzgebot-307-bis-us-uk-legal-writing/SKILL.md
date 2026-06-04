@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-transparenzgebot-307-bis-us-uk-legal-writing
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (transparenzgebot-307-bgb, us-uk-legal-writing-fuer-deutsche) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Transparenzgebot 307 Bgb, Us Uk Legal Writing Fuer Deutsche; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Transparenzgebot 307 Bgb, Us Uk Legal Writing Fuer Deutsche
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `transparenzgebot-307-bgb` | Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher. |
 | `us-uk-legal-writing-fuer-deutsche` | Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `transparenzgebot-307-bgb`
 
-**Frühere Beschreibung:** Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher.
+**Fokus:** Drafting nach dem Transparenzgebot des § 307 I S. 2 BGB. Eine inhaltlich zulässige Klausel ist gleichwohl unwirksam, wenn sie nicht klar und verständlich ist. Maßstab ist der durchschnittliche Vertragspartner ohne Spezialwissen. Indizien für Intransparenz sind kaskadierte Verweise auf Anlagen ohne Wiedergabe, doppelte Negationen, unerläuterte Fachsprache und überlange Schachtelsätze. Liefert Drafting-Checks zu Lesbarkeit, struktureller Klarheit und nachvollziehbaren Rechtsfolgen sowie Beispielklauseln in der Gegenüberstellung vorher und nachher.
 
 # Transparenzgebot nach § 307 I S. 2 BGB
 
@@ -118,7 +118,7 @@ Nachher (sachgerecht in Verbraucher-AGB):
 
 ## 2. `us-uk-legal-writing-fuer-deutsche`
 
-**Frühere Beschreibung:** Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel.
+**Fokus:** Hilft deutschen Anwälten, englische oder amerikanische Legal-Texte zu schreiben, ohne deutsch zu übersetzen. Klärt US/UK-Adressat, Common-Law-Erwartung, deutsches Recht als Inhalt, Local-Counsel-Rolle, Ton, Struktur, Risk Note, Clause Note und E-Mail an ausländische Counsel.
 
 # US/UK Legal Writing für Deutsche
 

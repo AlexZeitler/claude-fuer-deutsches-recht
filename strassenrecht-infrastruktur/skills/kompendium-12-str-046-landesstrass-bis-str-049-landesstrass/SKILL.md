@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-str-046-landesstrass-bis-str-049-landesstrass
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (str-046-landesstrasse-eilantrag-skizzieren, str-047-landesstrasse-kostenlast-pruefen, str-048-landesstrasse-unterhaltung-ruegen, str-049-landesstrasse-dokumente-sortieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 046 Landesstrasse Eilantrag Skizzieren, Str 047 Landesstrasse Kostenlast Pruefen, Str 048 Landesstrasse Unterhaltung Ruegen, Str 049 Landesstrasse Dokumente Sortieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 046 Landesstrasse Eilantrag Skizzieren bis Str 049 Landesstrasse Dokumente Sortieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-046-landesstrasse-eilantrag-skizzieren` | Straßenrecht und Infrastruktur: Landesstraße: Eilantrag skizzieren. Eilantrag skizzieren für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-047-landesstrasse-kostenlast-pruefen` | Straßenrecht und Infrastruktur: Landesstraße: Kostenlast prüfen. Kostenlast prüfen für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-046-landesstrasse-eilantrag-skizzieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Landesstraße: Eilantrag skizzieren. Eilantrag skizzieren für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Landesstraße: Eilantrag skizzieren. Eilantrag skizzieren für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landesstrasse Eilantrag Skizzieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-047-landesstrasse-kostenlast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Landesstraße: Kostenlast prüfen. Kostenlast prüfen für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Landesstraße: Kostenlast prüfen. Kostenlast prüfen für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landesstrasse Kostenlast Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-048-landesstrasse-unterhaltung-ruegen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Landesstraße: Unterhaltung rügen. Unterhaltung rügen für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Landesstraße: Unterhaltung rügen. Unterhaltung rügen für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landesstrasse Unterhaltung Ruegen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-049-landesstrasse-dokumente-sortieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Landesstraße: Dokumente sortieren. Dokumente sortieren für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Landesstraße: Dokumente sortieren. Dokumente sortieren für Landesstraße im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landesstrasse Dokumente Sortieren
 

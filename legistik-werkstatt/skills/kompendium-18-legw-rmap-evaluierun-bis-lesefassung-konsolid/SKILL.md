@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-legw-rmap-evaluierun-bis-lesefassung-konsolid
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 18; bündelt 8 frühere Spezialskills (legw-rmap-evaluierung-und-aenderung, legw-rmap-export-und-systemintegration, legw-rmap-grundlagen, legw-rmap-norm-zu-rulemap, legw-rmap-tatbestand-und-rechtsfolge und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Rmap Evaluierung Und Aenderung, Legw Rmap Export Und Systemintegration, Legw Rmap Grundlagen, Legw Rmap Norm Zu Rulemap und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - legistik-werkstatt
+# Arbeitsbereich - Legw Rmap Evaluierung Und Aenderung bis Lesefassung Konsolidiert
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-rmap-evaluierung-und-aenderung` | Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert. |
 | `legw-rmap-export-und-systemintegration` | Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw fuer die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-rmap-evaluierung-und-aenderung`
 
-**Frühere Beschreibung:** Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert.
+**Fokus:** Lebenszyklus einer Rulemap-Norm: Versionierung; Aenderung im Builder per Drag-and-Drop; Evaluation nach NKRG und GGO; Wirkungskontrolle; Rueckkopplung aus dem Vollzug. Output Aenderungs- und Evaluationsplan mit Zustaendigkeiten; Auslaufdaten und KPI. Anschluss legw-rechtsfolgenabschaetzung-leitfaden. Abgrenzung zur reinen Gesetzgebungstechnik; hier wird die Pflege im Zeitverlauf organisiert.
 
 # Evaluierung und Aenderung von Rulemap-Normen
 
@@ -80,7 +80,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 2. `legw-rmap-export-und-systemintegration`
 
-**Frühere Beschreibung:** Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw fuer die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration.
+**Fokus:** Export der Rulemap aus dem Builder; Integration in Fachverfahren; Schnittstellen zur eAkte; OZG-Service; Registerlandschaft. Output Integrations-blueprint mit Datenflussskizze und Pruefpunkten. Anschluss legw-rmap-anschluss-an-legw fuer die Rueckbindung an die uebrige Legistik-Werkstatt. Abgrenzung zur IT-Architektur im engeren Sinn; hier liegt der Schwerpunkt auf den juristischen Folgepflichten der Integration.
 
 # Export und Integration in Vollzugs-IT
 
@@ -127,7 +127,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 3. `legw-rmap-grundlagen`
 
-**Frühere Beschreibung:** Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Foerderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfen; Bruecke zwischen Gesetz und Verwaltungsvollzug. Output: Grundbegriffsglossar und Methoden-Steckbrief. Anschluss legw-rmap-norm-zu-rulemap fuer das konkrete Vorgehen. Abgrenzung zur klassischen Begruendung und Folgenabschaetzung.
+**Fokus:** Grundlagen der Rulemapping-Methode: Law as Code; Rulemap als visuelles Entscheidungsmodell; Wenn-Dann-Logik mit Tatbestand; Rechtsfolge; Ausnahme; Verweisung. Akteure (Rulemapping-Group; Prof. Breidenbach; SPRIN-D-Foerderung; BMJ als Anwender). Ziel: Norm parallel als Text und als Rulemap entwerfen; Bruecke zwischen Gesetz und Verwaltungsvollzug. Output: Grundbegriffsglossar und Methoden-Steckbrief. Anschluss legw-rmap-norm-zu-rulemap fuer das konkrete Vorgehen. Abgrenzung zur klassischen Begruendung und Folgenabschaetzung.
 
 # Rulemapping - Grundlagen und Begriffe
 
@@ -174,7 +174,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 4. `legw-rmap-norm-zu-rulemap`
 
-**Frühere Beschreibung:** Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (Workflow durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung.
+**Fokus:** Praxisleitfaden Norm in Rulemap ueberfuehren: Capture (Norm erfassen); Model (Logikmodell zeichnen); Simulate (Workflow durchspielen); Verify (Entscheidungen pruefen); Integrate (in System einbinden); Improve (weiterentwickeln). Liefert ein iteratives Vorgehensmodell mit Eingaben; Ausgaben und Pruefpunkten je Schritt. Anschluss legw-rmap-tatbestand-und-rechtsfolge fuer die feine Knotenmodellierung. Abgrenzung zur Textentwurfsarbeit; die Rulemap ist die parallel gepflegte Logikfassung.
 
 # Von der Norm zur Rulemap - Vorgehensmodell
 
@@ -222,7 +222,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 5. `legw-rmap-tatbestand-und-rechtsfolge`
 
-**Frühere Beschreibung:** Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-und-ausnahmen fuer Sonderkonstellationen und legw-rmap-entscheidungsbaum-validierung fuer die Pruefung der Pfade.
+**Fokus:** Knotenmodellierung in der Rulemap: jeden Tatbestand als pruefbare Bedingung; jede Rechtsfolge als Aktionsknoten. Konjunktion; Disjunktion; Negation; Schwellenwerte sauber abbilden. Output Tatbestands-Rechtsfolge-Liste mit Knoten-IDs; Datentypen und Pruefnotizen. Anschluss legw-rmap-verweisungen-und-ausnahmen fuer Sonderkonstellationen und legw-rmap-entscheidungsbaum-validierung fuer die Pruefung der Pfade.
 
 # Tatbestand und Rechtsfolge als Knoten modellieren
 
@@ -268,7 +268,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 6. `legw-rmap-verweisungen-und-ausnahmen`
 
-**Frühere Beschreibung:** Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen in der Rulemap sauber modellieren. Verkettung von Normen ueber Subrulemaps; Verweisungsketten dokumentieren; Ausnahmen als eigenstaendige Pfade. Output Verweisungs- und Ausnahmenkarte mit IDs und Pfadtiefen. Anschluss legw-rmap-entscheidungsbaum-validierung fuer die Pfadpruefung. Abgrenzung zur reinen Texterfassung; Verweisungen werden ausgerollt.
+**Fokus:** Verweisungen (statisch; dynamisch; Rueckverweisung) und Ausnahmen in der Rulemap sauber modellieren. Verkettung von Normen ueber Subrulemaps; Verweisungsketten dokumentieren; Ausnahmen als eigenstaendige Pfade. Output Verweisungs- und Ausnahmenkarte mit IDs und Pfadtiefen. Anschluss legw-rmap-entscheidungsbaum-validierung fuer die Pfadpruefung. Abgrenzung zur reinen Texterfassung; Verweisungen werden ausgerollt.
 
 # Verweisungen und Ausnahmen in der Rulemap
 
@@ -314,7 +314,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 7. `legw-rmap-vollzugstauglichkeit`
 
-**Frühere Beschreibung:** Bruecke von der Rulemap in den Verwaltungsvollzug: Antragsverfahren; Bescheidstruktur; Akteneinsicht; Widerspruch und Klage; Schnittstelle zu Fachverfahren (z.B. Genehmigungsverfahren mit mehreren Fachbehoerden). Output Vollzugskarte mit Akteuren; Schnittstellen; IT-Anforderungen. Anschluss legw-rmap-export-und-systemintegration. Abgrenzung zur reinen Gesetzgebungsarbeit; hier wird die Vollzugsperspektive zur Norm zurueckgespielt.
+**Fokus:** Bruecke von der Rulemap in den Verwaltungsvollzug: Antragsverfahren; Bescheidstruktur; Akteneinsicht; Widerspruch und Klage; Schnittstelle zu Fachverfahren (z.B. Genehmigungsverfahren mit mehreren Fachbehoerden). Output Vollzugskarte mit Akteuren; Schnittstellen; IT-Anforderungen. Anschluss legw-rmap-export-und-systemintegration. Abgrenzung zur reinen Gesetzgebungsarbeit; hier wird die Vollzugsperspektive zur Norm zurueckgespielt.
 
 # Vollzugstauglichkeit der Rulemap im Verwaltungsverfahren
 
@@ -360,7 +360,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 8. `lesefassung-konsolidiert`
 
-**Frühere Beschreibung:** Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenüberestellung alt und neu.
+**Fokus:** Konsolidierte Lesefassung des geaenderten Stammgesetzes nach Inkrafttreten erstellen. Anwendungsfall Fachreferat Vollzugsbehoerde oder Anwalt will wissen wie das Gesetz nach Aenderung aussieht ohne Aenderungsmarkierungen. Einheitlich lesbar ohne Aenderungsmarkierung Datierung Stand nach Inkrafttreten. Format-Konventionen Inkrafttretens-Handling Verweis-Pflege DOCX-Ausgabe. Output Lesefassung pro Stammgesetz bereinigt datiert. Abgrenzung zu synopse-erstellen Gegenüberestellung alt und neu.
 
 # Lesefassung konsolidiert
 

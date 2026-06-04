@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-zv-vollstreckungsbes-bis-zv-zvg-antrag-glaeub
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (zv-vollstreckungsbescheid-folge, zv-vollstreckungsschutz-haertefall-765a, zv-zvg-antrag-glaeubiger) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765a, Zv Zvg Antrag Glaeubiger; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - zwangsvollstreckung
+# Arbeitsbereich - Zv Vollstreckungsbescheid Folge, Zv Vollstreckungsschutz Haertefall 765a, Zv Zvg Antrag Glaeubiger
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-vollstreckungsbescheid-folge` | Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter. |
 | `zv-vollstreckungsschutz-haertefall-765a` | Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-vollstreckungsbescheid-folge`
 
-**Frühere Beschreibung:** Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter.
+**Fokus:** Mahnbescheid wurde erlassen und Gläubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Prüfraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Übergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter.
 
 # Vollstreckungsbescheid und Folgeverfahren
 
@@ -148,7 +148,7 @@ kein bekanntes BGH-AZ zu diesem Einzelpunkt verifizierbar auf dejure.org.
 
 ## 2. `zv-vollstreckungsschutz-haertefall-765a`
 
-**Frühere Beschreibung:** Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz).
+**Fokus:** Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz).
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall
 
@@ -346,7 +346,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 3. `zv-zvg-antrag-glaeubiger`
 
-**Frühere Beschreibung:** Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht.
+**Fokus:** Gläubiger hat Grundschuld oder Hypothek und will Immobilie des Schuldners versteigern lassen. ZVG Zwangsversteigerungsgesetz. Prüfraster: Antrag Anordnung §§ 15 ff. ZVG Beitritt § 27 ZVG geringstes Gebot Bargebot Verteilungstermin vorheriges Recht eintragen Zwangshypothek § 866 ZPO. Output: ZVG-Antrag Gläubiger und Versteigerungs-Strategie. Abgrenzung zu zv-notarielle-urkunde-grundschuld (Titelgrundlage) und zv-zvg als allgemeines Zwangsversteigerungsrecht.
 
 # ZVG-Antrag (Zwangsversteigerung / Zwangsverwaltung)
 

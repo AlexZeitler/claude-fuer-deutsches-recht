@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-patentprozess-negati-bis-patentsettlement-und
-description: "patentrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (patentprozess-negative-feststellungsklage, patentprozess-schutzschrift-und-caveat, patentsettlement-und-cross-license-litigation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patentprozess Negative Feststellungsklage, Patentprozess Schutzschrift Und Caveat, Patentsettlement Und Cross License Litigation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - patentrecht
+# Arbeitsbereich - Patentprozess Negative Feststellungsklage, Patentprozess Schutzschrift Und Caveat, Patentsettlement Und Cross License Litigation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patentprozess-negative-feststellungsklage` | Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken, Abmahnreaktionen und grenzüberschreitende Koordination bei Patentstreitigkeiten. |
 | `patentprozess-schutzschrift-und-caveat` | Erstellt Schutzschrift-/Protective-Letter-Strategien für deutsche Patentgerichte, UPC und ausländische Eilrisiken, inklusive Nichtverletzung, Rechtsbestand, Dringlichkeit und Geheimhaltungsanträgen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patentprozess-negative-feststellungsklage`
 
-**Frühere Beschreibung:** Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken, Abmahnreaktionen und grenzüberschreitende Koordination bei Patentstreitigkeiten.
+**Fokus:** Prüft negative Feststellungsklagen, Nichtverletzungserklärungen, Forum-Risiken, Abmahnreaktionen und grenzüberschreitende Koordination bei Patentstreitigkeiten.
 
 # Patentprozess: Negative Feststellung und Torpedo-Risiken
 
@@ -86,7 +86,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 ## 2. `patentprozess-schutzschrift-und-caveat`
 
-**Frühere Beschreibung:** Erstellt Schutzschrift-/Protective-Letter-Strategien für deutsche Patentgerichte, UPC und ausländische Eilrisiken, inklusive Nichtverletzung, Rechtsbestand, Dringlichkeit und Geheimhaltungsanträgen.
+**Fokus:** Erstellt Schutzschrift-/Protective-Letter-Strategien für deutsche Patentgerichte, UPC und ausländische Eilrisiken, inklusive Nichtverletzung, Rechtsbestand, Dringlichkeit und Geheimhaltungsanträgen.
 
 # Patentprozess: Schutzschrift und Protective Letter
 
@@ -144,7 +144,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 ## 3. `patentsettlement-und-cross-license-litigation`
 
-**Frühere Beschreibung:** Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit.
+**Fokus:** Unterstützt Patentvergleiche: Cross-License, Covenant not to sue, Territory, Field of Use, Release, Rückruf, Kosten, Kartellrecht, Geheimhaltung und Vollstreckbarkeit.
 
 # Patentvergleich und Cross-License im Streit
 

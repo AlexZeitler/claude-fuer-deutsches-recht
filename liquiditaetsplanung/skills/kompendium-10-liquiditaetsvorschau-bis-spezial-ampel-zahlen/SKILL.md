@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-liquiditaetsvorschau-bis-spezial-ampel-zahlen
-description: "liquiditaetsplanung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (liquiditaetsvorschau-3wochen, liquiditaetsvorschau-insolvenzrechtlich, spezial-ampel-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "liquiditaetsplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Liquiditaetsvorschau 3wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - liquiditaetsplanung
+# Arbeitsbereich - Liquiditaetsvorschau 3wochen, Liquiditaetsvorschau Insolvenzrechtlich, Ampel Zahlen Schwellen Und Berechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `liquiditaetsvorschau-3wochen` | Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung. |
 | `liquiditaetsvorschau-insolvenzrechtlich` | Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `liquiditaetsvorschau-3wochen`
 
-**Frühere Beschreibung:** Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung.
+**Fokus:** Drei-Wochen-Liquiditaetsvorschau nach § 17 InsO mit Wochenraster, Excel-Export, Quote/Luecken-Ampel und Dokumentation. Rechtsprechung nur nach Live-Pruefung.
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO, wochenaktuell)
 
@@ -235,7 +235,7 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 
 ## 2. `liquiditaetsvorschau-insolvenzrechtlich`
 
-**Frühere Beschreibung:** Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu liquiditaetsvorschau insolvenzrechtlich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Insolvenzrechtliche Liquiditätsbilanz und Liquiditätsvorschau
 
@@ -414,7 +414,7 @@ ANNAHMEN: [Auflistung der Schluesselannahmen]
 
 ## 3. `spezial-ampel-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ampel: Zahlen, Schwellenwerte und Berechnung im Plugin liquiditaetsplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ampel: Zahlen, Schwellenwerte und Berechnung
 

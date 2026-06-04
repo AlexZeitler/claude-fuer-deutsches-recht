@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-transparenz-mandante-bis-urheberrecht-baustei
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (transparenz-mandanten, urheberrecht-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Transparenz Mandanten, Urheberrecht Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Transparenz Mandanten, Urheberrecht Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `transparenz-mandanten` | Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine. |
 | `urheberrecht-bausteine` | Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `transparenz-mandanten`
 
-**Frühere Beschreibung:** Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine.
+**Fokus:** Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine.
 
 # Transparenz gegenüber Mandanten
 
@@ -104,7 +104,7 @@ Bei Fragen wenden Sie sich an: [ANSPRECHPARTNER], [EMAIL]
 
 ## 2. `urheberrecht-bausteine`
 
-**Frühere Beschreibung:** Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence.
+**Fokus:** Urheberrechtliche Bausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei will wissen ob KI-generierte Texte urheberrechtlich schützbar sind und welche Texte als Eingabe hochgeladen werden duerfen. § 2 Abs. 2 UrhG geistige Schoepfung, § 5 UrhG amtliche Werke, amtliche/freie Quellen oder lizenzierte Datenbanken Lizenzbedingungen. Prüfraster kein Urheberrechtsschutz für reine KI-Outputs, Upload-Verbote urheberrechtlich geschützter Texte, Trainer-Klauseln der Anbieter. Output Urheberrechts-Bausteine für Kanzlei-Richtlinie mit Upload-Verbotsliste. Abgrenzung zu Kennzeichnungspflichten und zu Dienstleister-Due-Diligence.
 
 # Urheberrecht-Bausteine
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-produkthaftung-grund-bis-produkthaftung-repar
-description: "produktrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (produkthaftung-grundlagen, produkthaftung-produktsicherheit-gpsr-korrektur, produkthaftung-reparatur-update-und-lifecycle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - produktrecht
+# Arbeitsbereich - Produkthaftung Grundlagen, Produkthaftung Produktsicherheit Gpsr Korrektur, Produkthaftung Reparatur Update Und Lifecycle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produkthaftung-grundlagen` | Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853. |
 | `produkthaftung-produktsicherheit-gpsr-korrektur` | Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produkthaftung-grundlagen`
 
-**Frühere Beschreibung:** Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853.
+**Fokus:** Grundlagen Produkthaftung: ProdHaftG und deliktische Produzentenhaftung, Fehlerbegriff, Anspruchsgegner, Beweislast, Haftungshöchstgrenzen, digitale Komponenten, Software, Updates, Reparatur und neue EU-Produkthaftungsrichtlinie 2024/2853.
 
 # Produkthaftung: Grundlagen, digitales Produkt und Lifecycle
 
@@ -74,7 +74,7 @@ EU- und Bundesrecht live prüfen. Keine alten Richtliniennummern ungeprüft verw
 
 ## 2. `produkthaftung-produktsicherheit-gpsr-korrektur`
 
-**Frühere Beschreibung:** Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung.
+**Fokus:** Korrigiert und prüft die Produktsicherheitsroute nach Verordnung (EU) 2023/988, Marktüberwachung, Safety Business Gateway, Rückruf, Warnung, Online-Marktplätze und Verhältnis zu Produkthaftung.
 
 # Produktsicherheit GPSR richtig routen
 
@@ -116,7 +116,7 @@ Nach der Erstprüfung je nach Schwerpunkt `produkthaftung-grundlagen`, `produktb
 
 ## 3. `produkthaftung-reparatur-update-und-lifecycle`
 
-**Frühere Beschreibung:** Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates.
+**Fokus:** Prüft, wie Reparaturen, Refurbishment, Updates, End-of-Support und Produktbeobachtung die Haftungslage verändern, insbesondere bei nachträglichen Softwarefehlern und Sicherheitsupdates.
 
 # Produkthaftung: Reparatur, Update und Lifecycle
 

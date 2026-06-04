@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-ein-090-landwirtscha-bis-ein-093-wohnhaus-ddr
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (ein-090-landwirtschaftliche-flaeche-vergleich, ein-091-wohnhaus-ddr-enteignung-anspruchspfad, ein-092-wohnhaus-ddr-enteignung-akte-anfordern, ein-093-wohnhaus-ddr-enteignung-chronologie-ba) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 090 Landwirtschaftliche Flaeche Vergleich, Ein 091 Wohnhaus Ddr Enteignung Anspruchspfad, Ein 092 Wohnhaus Ddr Enteignung Akte Anfordern, Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 090 Landwirtschaftliche Flaeche Vergleich bis Ein 093 Wohnhaus Ddr Enteignung Chronologie Ba
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-090-landwirtschaftliche-flaeche-vergleich` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Vergleich bewerten. Vergleich bewerten für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-091-wohnhaus-ddr-enteignung-anspruchspfad` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen. Anspruchspfad prüfen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-090-landwirtschaftliche-flaeche-vergleich`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Vergleich bewerten. Vergleich bewerten für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Vergleich bewerten. Vergleich bewerten für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landwirtschaftliche Flaeche Vergleich
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-091-wohnhaus-ddr-enteignung-anspruchspfad`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen. Anspruchspfad prüfen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Anspruchspfad prüfen. Anspruchspfad prüfen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnhaus Ddr Enteignung Anspruchspfad
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-092-wohnhaus-ddr-enteignung-akte-anfordern`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Akte anfordern. Akte anfordern für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Akte anfordern. Akte anfordern für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnhaus Ddr Enteignung Akte Anfordern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-093-wohnhaus-ddr-enteignung-chronologie-ba`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Chronologie bauen. Chronologie bauen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Chronologie bauen. Chronologie bauen für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnhaus Ddr Enteignung Chronologie Ba
 

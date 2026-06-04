@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-rechtsabteilung-deve-bis-repository-access-of
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (rechtsabteilung-developer-ip-bei-deutschen-angestellten, rechtsabteilung-open-source-copyleft-im-saas-stack, rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt, repository-access-offboarding) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Developer Ip Bei Deutschen Angestellten, Open Source Copyleft Im Saas Stack, Us Work Made For Hire Im Deutschen Projekt, Repository Access Offboarding; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - softwarerecht-de-eu-us
+# Arbeitsbereich - Developer Ip Bei Deutschen Angestellten bis Repository Access Offboarding
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-developer-ip-bei-deutschen-angestellten` | Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-open-source-copyleft-im-saas-stack` | Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-developer-ip-bei-deutschen-angestellten`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Developer-IP bei deutschen Angestellten: Code-Rechte, Nebenprojekte, Repos und Freelancer-Beiträge werden aufgeklärt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Developer-IP bei deutschen Angestellten
 
@@ -76,7 +76,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-open-source-copyleft-im-saas-stack`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Open-Source-Copyleft im SaaS-Stack: Komponenten werden in Copyleft, Notice, Patent Grant und SaaS-Trigger getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Open-Source-Copyleft im SaaS-Stack
 
@@ -123,7 +123,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-us-work-made-for-hire-im-deutschen-projekt`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für US Work Made for Hire im deutschen Projekt: US-Templates werden auf deutsche Rechteübertragung und moral rights angepasst. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: US Work Made for Hire im deutschen Projekt
 
@@ -170,7 +170,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `repository-access-offboarding`
 
-**Frühere Beschreibung:** Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung.
+**Fokus:** Prüft Repository-Zugänge, Schlüssel, Secrets, Adminrechte, Offboarding, BYOD und Beweissicherung.
 
 # Repository Access und Offboarding
 

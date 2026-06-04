@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-tier-004-veterinaera-bis-tier-026-hundehaltun
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (tier-004-veterinaeramt-zustaendigkeit, tier-008-bussgeldverfahren-tierschg, tier-014-tierheimvertrag-und-kosten, tier-026-hundehaltung-bussgeld-verteidigen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 004 Veterinaeramt Zustaendigkeit, Tier 008 Bussgeldverfahren Tierschg, Tier 014 Tierheimvertrag Und Kosten, Tier 026 Hundehaltung Bussgeld Verteidigen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - tierschutzrecht
+# Arbeitsbereich - Tier 004 Veterinaeramt Zustaendigkeit bis Tier 026 Hundehaltung Bussgeld Verteidigen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-004-veterinaeramt-zustaendigkeit` | Tierschutzrecht: Veterinäramt-Zuständigkeit. Veterinäramt-Zuständigkeit im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `tier-008-bussgeldverfahren-tierschg` | Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-004-veterinaeramt-zustaendigkeit`
 
-**Frühere Beschreibung:** Tierschutzrecht: Veterinäramt-Zuständigkeit. Veterinäramt-Zuständigkeit im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Veterinäramt-Zuständigkeit. Veterinäramt-Zuständigkeit im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Veterinaeramt Zustaendigkeit
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-008-bussgeldverfahren-tierschg`
 
-**Frühere Beschreibung:** Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Bußgeldverfahren TierSchG. Bußgeldverfahren TierSchG im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bussgeldverfahren Tierschg
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-014-tierheimvertrag-und-kosten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tierheimvertrag und Kosten. Tierheimvertrag und Kosten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Tierheimvertrag und Kosten. Tierheimvertrag und Kosten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierheimvertrag Und Kosten
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-026-hundehaltung-bussgeld-verteidigen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Bußgeld verteidigen. Bußgeld verteidigen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Bußgeld verteidigen. Bußgeld verteidigen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Bussgeld Verteidigen
 

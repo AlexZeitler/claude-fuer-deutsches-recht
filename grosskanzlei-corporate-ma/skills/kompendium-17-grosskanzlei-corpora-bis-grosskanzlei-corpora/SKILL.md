@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 17; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-insurance-risk-dd, grosskanzlei-corporate-ma-ip-it-data-assets-dd, grosskanzlei-corporate-ma-junior-mentor-training-loop, grosskanzlei-corporate-ma-ki-governance-berufsrecht, grosskanzlei-corporate-ma-kommandocenter und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Insurance Risk Dd, Grosskanzlei Corporate Ma Ip It Data Assets Dd, Grosskanzlei Corporate Ma Junior Mentor Training Loop, Grosskanzlei Corporate Ma Ki Governance Berufsrecht und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Insurance Risk Dd bis Grosskanzlei Corporate Ma Lessons Learned Post Mortem
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-insurance-risk-dd` | Insurance Risk DD und Policies Check: prueft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken. |
 | `grosskanzlei-corporate-ma-ip-it-data-assets-dd` | IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-insurance-risk-dd`
 
-**Frühere Beschreibung:** Insurance Risk DD und Policies Check: prueft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken.
+**Fokus:** Insurance Risk DD und Policies Check: prueft D&O, Cyber, Product Liability, Warranty, Property, Claims History und Versicherbarkeit von Risiken.
 
 # Insurance Risk DD
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-ip-it-data-assets-dd`
 
-**Frühere Beschreibung:** IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control.
+**Fokus:** IP, IT und Data Assets Due Diligence: prueft Rechteketten, Software, Open Source, Lizenzen, Datenrechte, KI-Assets, Cyberrisiken und Change-of-Control.
 
 # IP IT Data Assets DD
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-junior-mentor-training-loop`
 
-**Frühere Beschreibung:** Junior-Mentor fuer Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prueft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback.
+**Fokus:** Junior-Mentor fuer Corporate/M&A: erklaert Begriffe, zerlegt Aufgaben in First-Year-Schritte, prueft Entwuerfe freundlich, staerkt Schwachstellen und gibt Senior-Review-taugliches Feedback.
 
 # Junior Mentor Training Loop
 
@@ -302,7 +302,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-ki-governance-berufsrecht`
 
-**Frühere Beschreibung:** KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools für Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster Datenklassen-Kategorisierung, Need-to-know, Pseudonymisierung, AVV-Prüfung, Mandantenfreigabe, Halluzinations-Kontrolle. Output Berufsrechts-Compliance-Protokoll für KI-Nutzung im Mandat. Abgrenzung zu Datenqualitaet-XAI-Qualitaetskontrolle und zu Konflikt-GwG-Check.
+**Fokus:** KI-Einsatz im Transaktionsmandat berufsrechtlich absichern: Anwendungsfall Anwalt moechte KI-Tools für Datenraumanalyse oder Vertragsentwurf nutzen und muss Mandatsgeheimnis, Datenschutz und KI-VO-Betreiberpflichten einhalten. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster Datenklassen-Kategorisierung, Need-to-know, Pseudonymisierung, AVV-Prüfung, Mandantenfreigabe, Halluzinations-Kontrolle. Output Berufsrechts-Compliance-Protokoll für KI-Nutzung im Mandat. Abgrenzung zu Datenqualitaet-XAI-Qualitaetskontrolle und zu Konflikt-GwG-Check.
 
 # KI-Governance und Berufsrecht
 
@@ -508,7 +508,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-kommandocenter`
 
-**Frühere Beschreibung:** Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate.
+**Fokus:** Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate.
 
 # Deal-Kommandocenter
 
@@ -697,7 +697,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-legal-fact-book-generator`
 
-**Frühere Beschreibung:** Legal Fact Book Generator: erstellt ein sell-side-taugliches Faktenbuch mit Corporate, Material Contracts, Litigation, Employment, IP, Regulatory, Real Estate und Compliance.
+**Fokus:** Legal Fact Book Generator: erstellt ein sell-side-taugliches Faktenbuch mit Corporate, Material Contracts, Litigation, Employment, IP, Regulatory, Real Estate und Compliance.
 
 # Legal Fact Book Generator
 
@@ -787,7 +787,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-lessons-learned-post-mortem`
 
-**Frühere Beschreibung:** Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates.
+**Fokus:** Lessons Learned und Deal Post-Mortem Skill: analysiert abgeschlossene Deals, Fehler, Prozessbremsen, gute Klauseln, Knowledge-Management und Playbook-Updates.
 
 # Lessons Learned Post Mortem
 

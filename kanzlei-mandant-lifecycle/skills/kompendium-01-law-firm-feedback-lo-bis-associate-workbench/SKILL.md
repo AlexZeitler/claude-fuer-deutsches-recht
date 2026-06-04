@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-law-firm-feedback-lo-bis-associate-workbench
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (law-firm-feedback-loop, access-control-roles, action-item-owner-matrix, appeal-decision-gate, associate-workbench) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Law Firm Feedback Loop, Access Control Roles, Action Item Owner Matrix, Appeal Decision Gate und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Law Firm Feedback Loop bis Associate Workbench
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `law-firm-feedback-loop` | Law Firm Feedback Loop: steuert Mandant gibt Feedback ohne Gesichtsverlust; Kanzlei verbessert sich messbar zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `access-control-roles` | Access Control Roles: steuert Rollen, Berechtigungen, Need-to-know, externe Dienstleister und Austritt aus dem Matter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `law-firm-feedback-loop`
 
-**Frühere Beschreibung:** Law Firm Feedback Loop: steuert Mandant gibt Feedback ohne Gesichtsverlust; Kanzlei verbessert sich messbar zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Law Firm Feedback Loop: steuert Mandant gibt Feedback ohne Gesichtsverlust; Kanzlei verbessert sich messbar zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Law Firm Feedback Loop
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `access-control-roles`
 
-**Frühere Beschreibung:** Access Control Roles: steuert Rollen, Berechtigungen, Need-to-know, externe Dienstleister und Austritt aus dem Matter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Access Control Roles: steuert Rollen, Berechtigungen, Need-to-know, externe Dienstleister und Austritt aus dem Matter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Access Control Roles
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `action-item-owner-matrix`
 
-**Frühere Beschreibung:** Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Action-Item Owner Matrix: steuert Wer schuldet was bis wann: Kanzlei, Inhouse, Fachabteilung, Gericht, Gegner, Gutachter zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Action-Item Owner Matrix
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `appeal-decision-gate`
 
-**Frühere Beschreibung:** Rechtsmittel Decision Gate: steuert Berufung/Revision/Beschwerde: Frist, Kosten, Chancen, Business-Ziel und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Rechtsmittel Decision Gate: steuert Berufung/Revision/Beschwerde: Frist, Kosten, Chancen, Business-Ziel und Gremienfreigabe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Rechtsmittel Decision Gate
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `associate-workbench`
 
-**Frühere Beschreibung:** Associate Workbench: steuert Associate bekommt klare Aufgaben, Kontext, Deadline, Qualitätsmaßstab und Feedback zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Associate Workbench: steuert Associate bekommt klare Aufgaben, Kontext, Deadline, Qualitätsmaßstab und Feedback zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Associate Workbench
 

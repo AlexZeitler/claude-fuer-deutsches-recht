@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-werkdaten-standard-a-bis-zertifikat-archiv-re
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (werkdaten-standard-application, zertifikat-archiv-registrierungsdatum) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Werkdaten Standard Application, Zertifikat Archiv Registrierungsdatum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `werkdaten-standard-application` | Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen. |
 | `zertifikat-archiv-registrierungsdatum` | Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `werkdaten-standard-application`
 
-**Frühere Beschreibung:** Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen.
+**Fokus:** Werkdaten für die Standard Application: Titel, Autorenschaft, Claimant, Publication, Transfer Statement, Rights-and-Permissions und ausgeschlossene Inhalte präzise erfassen.
 
 # Werkdaten für die Standard Application
 
@@ -72,7 +72,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `zertifikat-archiv-registrierungsdatum`
 
-**Frühere Beschreibung:** Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report.
+**Fokus:** Certificate, Registrierungsdatum und Archiv: maßgeblicher Eingang von Antrag, Gebühr und Deposit, elektronische Ablage, Nachweise und Management-Report.
 
 # Zertifikat, Archiv und Registrierungsdatum
 

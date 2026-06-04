@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-manda-mandatsablehnu-bis-mandatsverhaeltnis-h
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (manda-mandatsablehnung-coi-spezial, manda-rechtsschutz-eintrittsanfrage-spezial, mandatsverhaeltnis-hinweis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Manda Mandatsablehnung Coi Spezial, Manda Rechtsschutz Eintrittsanfrage Spezial, Mandatsverhaeltnis Hinweis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - mandantenanfragen-assistent
+# Arbeitsbereich - Manda Mandatsablehnung Coi Spezial, Manda Rechtsschutz Eintrittsanfrage Spezial, Mandatsverhaeltnis Hinweis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `manda-mandatsablehnung-coi-spezial` | Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster fuer Risk-and-Compliance. |
 | `manda-rechtsschutz-eintrittsanfrage-spezial` | Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext fuer Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `manda-mandatsablehnung-coi-spezial`
 
-**Frühere Beschreibung:** Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster fuer Risk-and-Compliance.
+**Fokus:** Spezialfall Mandatsablehnung und COI-Kommunikation: berufsrechtliche Hinweise § 43a BRAO, Schweigepflicht, Ablehnungsschreiben ohne offene Konflikte. Pruefraster fuer Risk-and-Compliance.
 
 # Manda: Mandatsablehnung COI
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 2. `manda-rechtsschutz-eintrittsanfrage-spezial`
 
-**Frühere Beschreibung:** Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext fuer Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt.
+**Fokus:** Spezialfall Rechtsschutzversicherung-Eintrittsanfrage: Deckungsanfrage, Stichentscheid, Mustertext fuer Auseinandersetzung mit Rechtsschutzversicherer. Pruefraster Mandant und Anwalt.
 
 # Manda: RS-Eintrittsanfrage
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `mandantenanfragen-assistent`. Er ergaenzt die u
 
 ## 3. `mandatsverhaeltnis-hinweis`
 
-**Frühere Beschreibung:** Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator.
+**Fokus:** Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator.
 
 # Mandatsverhältnis-Hinweis
 

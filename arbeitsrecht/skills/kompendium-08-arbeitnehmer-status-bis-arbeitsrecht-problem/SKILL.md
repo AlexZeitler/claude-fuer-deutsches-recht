@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-arbeitnehmer-status-bis-arbeitsrecht-problem
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (arbeitnehmer-status, arbeitsrecht-anpassen, arbeitsrecht-mandat-arbeitsbereich, arbeitsrecht-problem-sortieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitnehmer Status, Arbeitsrecht Anpassen, Arbeitsrecht Mandat Arbeitsbereich, Arbeitsrecht Problem Sortieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - arbeitsrecht
+# Arbeitsbereich - Arbeitnehmer Status bis Arbeitsrecht Problem Sortieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitnehmer-status` | Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten. |
 | `arbeitsrecht-anpassen` | Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitnehmer-status`
 
-**Frühere Beschreibung:** Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
+**Fokus:** Statusfeststellung für eine geplante Beschaeftigung - Abgrenzung Arbeitnehmer/Selbständiger nach § 611a BGB, Scheinselbständigkeit, Clearingverfahren § 7a SGB IV, AUeG-Abgrenzung (Leiharbeit vs. Werkvertrag). Ausschließlich prospektiv - für bestehende Verhältnisse Aussenberater einschalten.
 
 # /arbeitsrecht:arbeitnehmer-status
 
@@ -228,7 +228,7 @@ Wesentliche Quellen:
 
 ## 2. `arbeitsrecht-anpassen`
 
-**Frühere Beschreibung:** Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen.
+**Fokus:** Gezielte Anpassung des Arbeitsrechts-Praxisprofils – Standort-Fußabdruck, Risikoeinstellung, Eskalationskontakte, Einstellungsregeln, Kündigungsregeln, Handbuchpositionen oder Untersuchungseinstellungen ändern, ohne das gesamte Kaltstart-Interview neu zu durchlaufen.
 
 # /arbeitsrecht:arbeitsrecht-anpassen
 
@@ -336,7 +336,7 @@ Wir sind seit Januar diesem Jahr an den Tarifvertrag Einzelhandel NRW gebunden.
 
 ## 3. `arbeitsrecht-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert.
+**Fokus:** Mandatsakten verwalten – neu anlegen, auflisten, wechseln, schließen oder vom aktiven Mandat trennen. Verhindert, dass Kontext von einem Mandat in ein anderes übergeht. Relevant für Kanzleien mit mehreren Mandanten; für Syndikusrechtsanwälte deaktiviert.
 
 # /arbeitsrecht:arbeitsrecht-mandat-arbeitsbereich
 
@@ -474,7 +474,7 @@ Kündigung wegen betriebsbedingter Restrukturierung, Sozialauswahl streitig.
 
 ## 4. `arbeitsrecht-problem-sortieren`
 
-**Frühere Beschreibung:** Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
+**Fokus:** Sehr allgemeiner Einstiegsskill fuer unklare arbeitsrechtliche Anliegen. Sortiert Gedanken, Rolle, Ziel, Dokumente, Fristen und Konfliktlage, bevor Spezialpruefungen beginnen. Output Problemkarte, Fristenampel, Arbeitsauftrag, passende Folge-Skills und eine entscheidende Rueckfrage.
 
 # Arbeitsrecht - Problem Sortieren
 

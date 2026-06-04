@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-videoueberwachung-un-bis-vorstands-und-gf-bri
-description: "datenschutz-sanktionsverfahren-verteidigung: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (videoueberwachung-und-biometrie, vorbelastungen-und-wiederholungstaeter, vorsatz-fahrlaessigkeit-unternehmen, vorstands-und-gf-briefing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutz-sanktionsverfahren-verteidigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Videoueberwachung Und Biometrie, Vorbelastungen Und Wiederholungstaeter, Vorsatz Fahrlaessigkeit Unternehmen, Vorstands Und Gf Briefing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - datenschutz-sanktionsverfahren-verteidigung
+# Arbeitsbereich - Videoueberwachung Und Biometrie bis Vorstands Und Gf Briefing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `videoueberwachung-und-biometrie` | Videoüberwachung und Biometrie: Videoüberwachung, biometrische Erkennung, Hinweisschilder, Speicherfrist und Interessenabwägung bußgeldfest prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `vorbelastungen-und-wiederholungstaeter` | Vorbelastungen und Wiederholungstäter: Frühere Auflagen, Verwarnungen oder Vorfälle auf Identität, Bestandskraft und Vergleichbarkeit prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `videoueberwachung-und-biometrie`
 
-**Frühere Beschreibung:** Videoüberwachung und Biometrie: Videoüberwachung, biometrische Erkennung, Hinweisschilder, Speicherfrist und Interessenabwägung bußgeldfest prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Videoüberwachung und Biometrie: Videoüberwachung, biometrische Erkennung, Hinweisschilder, Speicherfrist und Interessenabwägung bußgeldfest prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Videoüberwachung und Biometrie
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 2. `vorbelastungen-und-wiederholungstaeter`
 
-**Frühere Beschreibung:** Vorbelastungen und Wiederholungstäter: Frühere Auflagen, Verwarnungen oder Vorfälle auf Identität, Bestandskraft und Vergleichbarkeit prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Vorbelastungen und Wiederholungstäter: Frühere Auflagen, Verwarnungen oder Vorfälle auf Identität, Bestandskraft und Vergleichbarkeit prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Vorbelastungen und Wiederholungstäter
 
@@ -153,7 +153,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 3. `vorsatz-fahrlaessigkeit-unternehmen`
 
-**Frühere Beschreibung:** Vorsatz und Fahrlässigkeit des Unternehmens: Wissen, Organisation, TOMs, DSB-Hinweise und Eskalation als Schuld- oder Entlastungsmaterial nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Vorsatz und Fahrlässigkeit des Unternehmens: Wissen, Organisation, TOMs, DSB-Hinweise und Eskalation als Schuld- oder Entlastungsmaterial nutzen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Vorsatz und Fahrlässigkeit des Unternehmens
 
@@ -215,7 +215,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 4. `vorstands-und-gf-briefing`
 
-**Frühere Beschreibung:** Vorstands- und Geschäftsführungsbriefing: Geschäftsleitung knapp über Fristen, Optionen, Budget, Haftung, Presse und Entscheidungsbedarf informieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Vorstands- und Geschäftsführungsbriefing: Geschäftsleitung knapp über Fristen, Optionen, Budget, Haftung, Presse und Entscheidungsbedarf informieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Vorstands- und Geschäftsführungsbriefing
 

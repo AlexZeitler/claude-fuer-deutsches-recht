@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-notfallplan-und-bcm-bis-payment-fraud-bec
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (notfallplan-und-bcm, open-source-vulnerability, patch-management, payment-fraud-bec) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notfallplan Und Bcm, Open Source Vulnerability, Patch Management, Payment Fraud Bec; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Notfallplan Und Bcm bis Payment Fraud Bec
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notfallplan-und-bcm` | Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit. |
 | `open-source-vulnerability` | Prüft Open-Source-Sicherheitslücken in Produkten und internen Tools. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notfallplan-und-bcm`
 
-**Frühere Beschreibung:** Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit.
+**Fokus:** Prüft Notfallmanagement und Business Continuity für echte Betriebsfähigkeit.
 
 # Notfallplan Und Bcm
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `open-source-vulnerability`
 
-**Frühere Beschreibung:** Prüft Open-Source-Sicherheitslücken in Produkten und internen Tools.
+**Fokus:** Prüft Open-Source-Sicherheitslücken in Produkten und internen Tools.
 
 # Open Source Vulnerability
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `patch-management`
 
-**Frühere Beschreibung:** Prüft Patch-Management bei Servern, Clients, Cloud und OT.
+**Fokus:** Prüft Patch-Management bei Servern, Clients, Cloud und OT.
 
 # Patch Management
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `payment-fraud-bec`
 
-**Frühere Beschreibung:** Prüft Business Email Compromise und Zahlungsprozesskontrollen.
+**Fokus:** Prüft Business Email Compromise und Zahlungsprozesskontrollen.
 
 # Payment Fraud Bec
 

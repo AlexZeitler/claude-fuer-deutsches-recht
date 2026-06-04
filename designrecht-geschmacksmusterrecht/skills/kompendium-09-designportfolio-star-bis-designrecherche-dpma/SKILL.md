@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-designportfolio-star-bis-designrecherche-dpma
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (designportfolio-startup, designrecherche-dpmaregister-euipo-wipo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Designportfolio Startup, Designrecherche Dpmaregister Euipo Wipo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Designportfolio Startup, Designrecherche Dpmaregister Euipo Wipo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `designportfolio-startup` | Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring. |
 | `designrecherche-dpmaregister-euipo-wipo` | Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `designportfolio-startup`
 
-**Frühere Beschreibung:** Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring.
+**Fokus:** Designportfolio für Start-ups und KMU aufbauen: schnelle Anmeldung, Budget, Offenbarung, Investorenfähigkeit, Registerpflege und Copycat-Monitoring.
 
 # Designportfolio Startup
 
@@ -59,7 +59,7 @@ Portfolio-Roadmap.
 
 ## 2. `designrecherche-dpmaregister-euipo-wipo`
 
-**Frühere Beschreibung:** Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität.
+**Fokus:** Designrecherche in DPMAregister, EUIPO, WIPO und freien Quellen strukturieren: Bildsuche, Produktklasse, Wettbewerber, Offenbarung, Registerstand und Belegqualität.
 
 # Designrecherche Dpmaregister Euipo Wipo
 

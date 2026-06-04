@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-owi-067-tierschutz-o-bis-owi-070-tierschutz-o
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (owi-067-tierschutz-owi-verjaehrung-berechnen, owi-068-tierschutz-owi-gerichtstermin-vorberei, owi-069-tierschutz-owi-rechtsbeschwerde-pruefe, owi-070-tierschutz-owi-mandantenbrief-schreibe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 067 Tierschutz Owi Verjaehrung Berechnen, Owi 068 Tierschutz Owi Gerichtstermin Vorberei, Owi 069 Tierschutz Owi Rechtsbeschwerde Pruefe, Owi 070 Tierschutz Owi Mandantenbrief Schreibe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 067 Tierschutz Owi Verjaehrung Berechnen bis Owi 070 Tierschutz Owi Mandantenbrief Schreibe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-067-tierschutz-owi-verjaehrung-berechnen` | Ordnungswidrigkeitenrecht: Tierschutz-OWi: Verjährung berechnen. Verjährung berechnen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-068-tierschutz-owi-gerichtstermin-vorberei` | Ordnungswidrigkeitenrecht: Tierschutz-OWi: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-067-tierschutz-owi-verjaehrung-berechnen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Verjährung berechnen. Verjährung berechnen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Verjährung berechnen. Verjährung berechnen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Verjaehrung Berechnen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-068-tierschutz-owi-gerichtstermin-vorberei`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Gerichtstermin Vorberei
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-069-tierschutz-owi-rechtsbeschwerde-pruefe`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Rechtsbeschwerde Pruefe
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-070-tierschutz-owi-mandantenbrief-schreibe`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Mandantenbrief schreiben. Mandantenbrief schreiben für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Tierschutz-OWi: Mandantenbrief schreiben. Mandantenbrief schreiben für Tierschutz-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tierschutz Owi Mandantenbrief Schreibe
 

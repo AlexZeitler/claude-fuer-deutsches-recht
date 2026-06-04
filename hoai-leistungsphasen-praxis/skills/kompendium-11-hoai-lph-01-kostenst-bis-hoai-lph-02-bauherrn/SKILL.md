@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-hoai-lph-01-kostenst-bis-hoai-lph-02-bauherrn
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 18 frühere Spezialskills (hoai-lph-01-kostensteuerung, hoai-lph-01-mandantenbericht, hoai-lph-01-mangel-claim-vorsorge, hoai-lph-01-nachtrag-und-change-request, hoai-lph-01-oeffentlicher-auftraggeber und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 01 Kostensteuerung, Hoai Lph 01 Mandantenbericht, Hoai Lph 01 Mangel Claim Vorsorge, Hoai Lph 01 Nachtrag Und Change Request und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 01 Kostensteuerung bis Hoai Lph 02 Bauherrnfreigabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-01-kostensteuerung` | HOAI LPH 1 Grundlagenermittlung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
 | `hoai-lph-01-mandantenbericht` | HOAI LPH 1 Grundlagenermittlung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-01-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Prüft kostenermittlung
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 2. `hoai-lph-01-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 3. `hoai-lph-01-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Sichert spätere mängel-
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 4. `hoai-lph-01-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Erkennt planungsänderung
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 5. `hoai-lph-01-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Berücksichtigt vergabe
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 6. `hoai-lph-01-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Liefert alle dokumente
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 7. `hoai-lph-01-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Prüft planindex
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 8. `hoai-lph-01-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Erstellt ein qualitygate
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 9. `hoai-lph-01-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Prüft abschlag
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 10. `hoai-lph-01-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Baut risiko-
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 11. `hoai-lph-01-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 12. `hoai-lph-01-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Prüft vob/b
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 13. `hoai-lph-01-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 14. `hoai-lph-01-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Baut terminlog
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 15. `hoai-lph-01-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 1 Grundlagenermittlung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 1 Grundlagenermittlung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Aufgabenstellung klären, Ortsbesichtigung, Untersuchungsbedarf, Beteiligte auswählen, Ergebnisse dokumentieren und Bewertungsanteil 2 %.
 
 # LPH 1 Grundlagenermittlung: Erklärt pflichten
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 1 (Grundlagenermittlung)** gedacht. E
 
 ## 16. `hoai-lph-02-abnahme-und-teilabnahme`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Ordnet abnahme
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft o
 
 ## 17. `hoai-lph-02-anwaltlicher-pruefvermerk`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft e
 
 ## 18. `hoai-lph-02-bauherrnfreigabe`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Strukturiert freigabeentscheidung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-gesamtstrafenbildung-bis-haerteausgleich-bei
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (gesamtstrafenbildung-53-54-stgb-erste-instanz, gestaendnis-und-strafmilderung, haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - strafzumessung
+# Arbeitsbereich - Gesamtstrafenbildung 53 54 Stgb Erste Instanz, Gestaendnis Und Strafmilderung, Haerteausgleich Bei Nachtraeglicher Gesamtstrafenbildung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesamtstrafenbildung-53-54-stgb-erste-instanz` | Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil. |
 | `gestaendnis-und-strafmilderung` | Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit Verstaendigung vermeiden. Schweigen darf nicht schaerfend gewertet werden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesamtstrafenbildung-53-54-stgb-erste-instanz`
 
-**Frühere Beschreibung:** Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil.
+**Fokus:** Erstinstanzliche Gesamtstrafenbildung bei Realkonkurrenz §§ 53 und 54 StGB. Einzelstrafen werden zuerst gebildet; danach Gesamtstrafe aus der hoechsten Einzelstrafe (Einsatzstrafe) plus angemessener Erhoehung. Obergrenze § 54 Abs. 2 StGB. Sondergrenzen Geldstrafe vs. Freiheitsstrafe. Verhaeltnis zu Tateinheit § 52 StGB. Begruendungspflicht im Urteil.
 
 # Gesamtstrafenbildung — §§ 53 und 54 StGB
 
@@ -148,7 +148,7 @@ Schritt-fuer-Schritt:
 
 ## 2. `gestaendnis-und-strafmilderung`
 
-**Frühere Beschreibung:** Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit Verstaendigung vermeiden. Schweigen darf nicht schaerfend gewertet werden.
+**Fokus:** Gestaendnis als Strafmilderungsgrund. Umfang Reichweite Glaubhaftigkeit. Differenzierung schlankes Gestaendnis vs. qualifiziertes Gestaendnis. Verbindung zu Reue und Wiedergutmachung. Wirkung in der Strafzumessung praktisch 25 bis 33 Prozent Rabatt; orientierender Faustwert. Doppelverwertung mit Verstaendigung vermeiden. Schweigen darf nicht schaerfend gewertet werden.
 
 # Gestaendnis und Strafmilderung
 
@@ -277,7 +277,7 @@ Das Gestaendnis ist nach § 46 Abs. 2 StGB ein wesentliches Element des Nachtatv
 
 ## 3. `haerteausgleich-bei-nachtraeglicher-gesamtstrafenbildung`
 
-**Frühere Beschreibung:** Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht.
+**Fokus:** Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung wenn Einbeziehung nach § 55 StGB nicht moeglich ist (Strafe bereits vollstreckt, verjaehrt oder erlassen, Bewaehrung abgelaufen, Auslandsstrafen). BGH-staendige Linie: Schutzzweck des § 55 StGB rechtfertigt Strafabschlag als rechtspolitisches Ausgleichs-Element. Anwendung in Hauptverhandlung und Beschluss-Verfahren. Verteidigerantrag und Begruendungspflicht.
 
 # Haerteausgleich bei nachtraeglicher Gesamtstrafenbildung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-dokumentationspflich-bis-executive-summary-ba
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (dokumentationspflichten-protokoll, dsgvo-compliance-bausteine, executive-summary-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Dokumentationspflichten Protokoll, Dsgvo Compliance Bausteine, Executive Summary Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dokumentationspflichten-protokoll` | Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Prüfraster Prüfprotokoll-Standard, Versionsstand, Prüfer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage für KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus. |
 | `dsgvo-compliance-bausteine` | DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dokumentationspflichten-protokoll`
 
-**Frühere Beschreibung:** Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Prüfraster Prüfprotokoll-Standard, Versionsstand, Prüfer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage für KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus.
+**Fokus:** Dokumentationspflichten und beweissichere Protokollierung von KI-Nutzung in Kanzleien: Anwendungsfall Kanzlei muss KI-Inputs und KI-Outputs nachvollziehbar dokumentieren für Datenschutzbehörden, Mandanten-Beschwerden oder berufsrechtliche Verfahren. Art. 5 Abs. 2 DSGVO Rechenschaftspflicht, Art. 13 DSGVO Informationspflichten, § 43a BRAO Pflicht zur Aktenführung. Prüfraster Prüfprotokoll-Standard, Versionsstand, Prüfer und Freigabe, Aufbewahrungsfristen. Output Protokollvorlage für KI-Einsatz mit Pflichtfeldern und Aufbewahrungsplan. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Richtlinien-Update-Zyklus.
 
 # Dokumentationspflichten Protokoll
 
@@ -136,7 +136,7 @@ Aufbewahrung bis: [DATUM gemaess § 50 BRAO]
 
 ## 2. `dsgvo-compliance-bausteine`
 
-**Frühere Beschreibung:** DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung.
+**Fokus:** DSGVO-Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt oder aktualisiert KI-Richtlinie und benoetigt prazise datenschutzrechtliche Formulierungen. Art. 2 Abs. 1 DSGVO Anwendungsbereich, Art. 6 DSGVO Rechtsgrundlage, Art. 9 DSGVO besondere Kategorien, Art. 28 DSGVO AVV. Prüfraster Datenminimierung, Zweckbindung, Drittlandtransfer, Anonymisierung, AVV-Pflicht, Löschkonzept. Output DSGVO-Bausteine-Sammlung anpassbar für Kanzlei-Profil mit Normreferenzen. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Anonymisierung-Pseudonymisierung.
 
 # DSGVO-Compliance-Bausteine
 
@@ -222,7 +222,7 @@ Geprueft von: [NAME DSB], [DATUM]
 
 ## 3. `executive-summary-bausteine`
 
-**Frühere Beschreibung:** Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz.
+**Fokus:** Executive Summary der KI-Nutzungsrichtlinie für Kanzleien erstellen: Anwendungsfall Kanzleiführung will Mitarbeitenden die wichtigsten Kernpunkte in kurzem Executive Summary vermitteln. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz. Prüfraster sechs Kern-Eckpunkte Werkzeugcharakter, Verschwiegenheit, Datenschutz, Quellenprüfung, keine Privat-Accounts, Kennzeichnungspflichten. Output modularer Executive Summary anpassbar an Kanzlei-Groesse und Rechtsgebiete. Abgrenzung zu Richtlinien-Skelett für vollständige Richtlinie und zu Compliance-Regelsatz.
 
 # Executive Summary Bausteine
 

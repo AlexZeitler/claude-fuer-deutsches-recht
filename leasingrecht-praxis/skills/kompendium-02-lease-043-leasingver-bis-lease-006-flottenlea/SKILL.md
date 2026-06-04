@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-lease-043-leasingver-bis-lease-006-flottenlea
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (lease-043-leasingvertrag-redline-fuer-anbieter, lease-044-leasingvertrag-redline-fuer-leasingnehmer, lease-006-flottenleasing-schaden-minderwert-und-gutachten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 043 Leasingvertrag Redline Fuer Anbieter, Lease 044 Leasingvertrag Redline Fuer Leasingnehmer, Lease 006 Flottenleasing Schaden Minderwert Und Gutachten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - leasingrecht-praxis
+# Arbeitsbereich - Lease 043 Leasingvertrag Redline Fuer Anbieter, Lease 044 Leasingvertrag Redline Fuer Leasingnehmer, Lease 006 Flottenleasing Schaden Minderw
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-043-leasingvertrag-redline-fuer-anbieter` | Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche. |
 | `lease-044-leasingvertrag-redline-fuer-leasingnehmer` | Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-043-leasingvertrag-redline-fuer-anbieter`
 
-**Frühere Beschreibung:** Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche.
+**Fokus:** Leasingvertrag-Redline aus Anbietersicht: Kernklauseln, Risikoverteilung, AGB-Gestaltung, Wirksamkeitssicherung und typische LN-Änderungswünsche.
 
 # Leasingvertrag-Redline: Anbieterperspektive (Leasinggeber)
 
@@ -127,7 +127,7 @@ Dieser Skill unterstützt Leasinggeber dabei, ihre Standardverträge zu optimier
 
 ## 2. `lease-044-leasingvertrag-redline-fuer-leasingnehmer`
 
-**Frühere Beschreibung:** Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung.
+**Fokus:** Leasingvertrag-Redline aus Leasingnehmersicht: Problematische Klauseln identifizieren, Gegenentwürfe formulieren, Verhandlungsstrategie und Risikoabsicherung.
 
 # Leasingvertrag-Redline: Leasingnehmerperspektive
 
@@ -215,7 +215,7 @@ Als Leasingnehmer erhält man häufig Standard-AGB des Leasinggebers. Dieser Ski
 
 ## 3. `lease-006-flottenleasing-schaden-minderwert-und-gutachten`
 
-**Frühere Beschreibung:** Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse.
+**Fokus:** Flottenleasing: Schadenmanagement, Minderwertabrechnung, Gutachtenprozess, Flottenvertrag-Besonderheiten und Regressprozesse.
 
 # Flottenleasing: Schadenmanagement und Minderwertabrechnung
 

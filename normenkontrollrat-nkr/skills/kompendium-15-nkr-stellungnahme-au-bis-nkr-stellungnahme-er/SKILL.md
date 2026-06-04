@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-nkr-stellungnahme-au-bis-nkr-stellungnahme-er
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (nkr-stellungnahme-aufbau-und-format, nkr-stellungnahme-ergebnis-und-empfehlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Stellungnahme Aufbau Und Format, Nkr Stellungnahme Ergebnis Und Empfehlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-stellungnahme-aufbau-und-format` | Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt. |
 | `nkr-stellungnahme-ergebnis-und-empfehlung` | Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: (1) konkrete Empfehlungen nummeriert (2) Ergebnisformel im NKR-Standardvokabular (keine Einwaende / Einwaende / Bemerkungen) (3) Hinweise und Vorbehalte. Mit Vorlagen Eskalationsstufen und Beispieltexten. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-stellungnahme-aufbau-und-format`
 
-**Frühere Beschreibung:** Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt.
+**Fokus:** Standardaufbau und Format einer NKR-Stellungnahme nach § 6 NKRG. Beschreibt die typische Gliederung Briefkopf Vorhabens-Identifikation Grundsatzfeststellung methodische Bewertung Empfehlungen Ergebnis-Bewertung Hinweise sowie typische Laenge und Tonlage. Mit Mustergliederung und Bausteinen je Abschnitt.
 
 # NKR-Stellungnahme — Aufbau und Format
 
@@ -181,7 +181,7 @@ Rueckfrage nur wenn unklar: *"Welcher Vorhabenstyp — Referentenentwurf zu eine
 
 ## 2. `nkr-stellungnahme-ergebnis-und-empfehlung`
 
-**Frühere Beschreibung:** Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: (1) konkrete Empfehlungen nummeriert (2) Ergebnisformel im NKR-Standardvokabular (keine Einwaende / Einwaende / Bemerkungen) (3) Hinweise und Vorbehalte. Mit Vorlagen Eskalationsstufen und Beispieltexten.
+**Fokus:** Schreibt den Schlussteil einer NKR-Stellungnahme. Drei Bausteine: (1) konkrete Empfehlungen nummeriert (2) Ergebnisformel im NKR-Standardvokabular (keine Einwaende / Einwaende / Bemerkungen) (3) Hinweise und Vorbehalte. Mit Vorlagen Eskalationsstufen und Beispieltexten.
 
 # NKR-Stellungnahme — Ergebnis und Empfehlung
 

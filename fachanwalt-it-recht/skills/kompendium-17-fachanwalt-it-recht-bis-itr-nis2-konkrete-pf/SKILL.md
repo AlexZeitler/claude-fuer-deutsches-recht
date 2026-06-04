@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-fachanwalt-it-recht-bis-itr-nis2-konkrete-pf
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (fachanwalt-it-recht-software-mangel, it-recht-saas-avv-und-tia-bundle, itr-einfuehrung-rechtsmaterien, itr-incident-response-runbook-spezial, itr-nis2-konkrete-pflichten-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu It Recht Software Mangel, It Recht Saas Avv Und Tia Bundle, Itr Einfuehrung Rechtsmaterien, Itr Incident Response Runbook Spezial und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-it-recht
+# Arbeitsbereich - It Recht Software Mangel bis Itr Nis2 Konkrete Pflichten Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-it-recht-software-mangel` | Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen. |
 | `it-recht-saas-avv-und-tia-bundle` | SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-fuer-Schritt fuer Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte fuer Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence). |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-it-recht-software-mangel`
 
-**Frühere Beschreibung:** Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
+**Fokus:** Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
 
 # Software-Mangel
 
@@ -162,7 +162,7 @@ Verjährung: § 438 BGB 2 Jahre ab Ablieferung / § 195 BGB 3 Jahre (§ 634a BGB
 
 ## 2. `it-recht-saas-avv-und-tia-bundle`
 
-**Frühere Beschreibung:** SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-fuer-Schritt fuer Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte fuer Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence).
+**Fokus:** SaaS-Vertrag mit AVV nach Art. 28 DSGVO und Transfer Impact Assessment als Bundle. Sieben-Fragen-Diagnose: Anbietersitz Datenstandort Datenkategorien Konzernverflechtung Subprozessoren US-Bezug DPF-Zertifizierung. Schritt-fuer-Schritt fuer Bundle-Erstellung. EuGH C-311/18 Schrems II EU-SCC 2021/914 Modul 2 oder 3 EU-US Data Privacy Framework Durchfuehrungsbeschluss 2023/1795 vom 10.07.2023. EDSA Empfehlungen 01/2020 Version 2.0. Mustertexte fuer Bundle-Anlage und TIA-Skeleton. Abgrenzung: keine reine AVV-Pruefung (avv-art-28-mindestinhalte-checkliste) keine Cloud-Due-Diligence (it-recht-cloud-vertrag-datenschutz-due-diligence).
 
 # IT-Recht — SaaS mit AVV und TIA als Bundle
 
@@ -309,7 +309,7 @@ Anlage 6: Zertifizierungen (DPF-Listung, ISO 27001, SOC 2)
 
 ## 3. `itr-einfuehrung-rechtsmaterien`
 
-**Frühere Beschreibung:** IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills.
+**Fokus:** IT-Recht einfuehrend: IT-Vertragsrecht (Beschaffung, Wartung, SLA), Datenschutz DSGVO/BDSG, IT-Sicherheit BSI-Gesetz und NIS2, Urheberrecht Software, AGB-Recht B2B/B2C, eCommerce. Entscheidungstabelle und Verweis auf Detail-Skills.
 
 # IT-Recht: Materien
 
@@ -361,7 +361,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 4. `itr-incident-response-runbook-spezial`
 
-**Frühere Beschreibung:** Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster fuer KRITIS-Betreiber und besondere Bedeutung.
+**Fokus:** Spezialfall Incident-Response-Runbook nach IT-SiG 2.0 und NIS2: Meldepflichten BSI, ENISA-Schwellen, Forensik, Kommunikation. Pruefraster fuer KRITIS-Betreiber und besondere Bedeutung.
 
 # IT: Incident-Response-Runbook
 
@@ -414,7 +414,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 5. `itr-nis2-konkrete-pflichten-spezial`
 
-**Frühere Beschreibung:** Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan.
+**Fokus:** Spezialfall NIS2-Umsetzung: KRITIS-Sektoren plus wesentliche und wichtige Einrichtungen, Risikomanagement, Meldepflichten (24/72/30 Tage), Schulungspflichten, Geschaeftsfuehrerhaftung. Pruefraster und Umsetzungsplan.
 
 # IT-Recht: NIS2-Pflichten
 

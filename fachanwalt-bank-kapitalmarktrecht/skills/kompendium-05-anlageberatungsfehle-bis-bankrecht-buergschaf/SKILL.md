@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anlageberatungsfehle-bis-bankrecht-buergschaf
-description: "fachanwalt-bank-kapitalmarktrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (anlageberatungsfehler-pruefen, bankrecht-akkreditiv-standby-lc-dokumentenstreit, bankrecht-buergschaft-auf-erste-anforderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bank-kapitalmarktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anlageberatungsfehler Pruefen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-bank-kapitalmarktrecht
+# Arbeitsbereich - Anlageberatungsfehler Pruefen, Bankrecht Akkreditiv Standby Lc Dokumentenstreit, Bankrecht Buergschaft Auf Erste Anforderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anlageberatungsfehler-pruefen` | Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `bankrecht-akkreditiv-standby-lc-dokumentenstreit` | Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anlageberatungsfehler-pruefen`
 
-**Frühere Beschreibung:** Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anlageberatungsfehler pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Anlageberatungsfehler prüfen
 
@@ -265,7 +265,7 @@ Kapitalmarktrecht]
 
 ## 2. `bankrecht-akkreditiv-standby-lc-dokumentenstreit`
 
-**Frühere Beschreibung:** Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung.
+**Fokus:** Akkreditiv, Standby Letter of Credit und Dokumentenstreit im Bankmandat prüfen: Dokumentenstrenge, Discrepancies, Fraud, Sanktionen, Zahlungsstopp, Begünstigtenrechte und Bankhaftung.
 
 # Akkreditiv, Standby LC und Dokumentenstreit
 
@@ -296,7 +296,7 @@ ICC-Regelwerke wie UCP, URC, ISP oder URDG nicht aus Modellwissen zitieren. Wenn
 
 ## 3. `bankrecht-buergschaft-auf-erste-anforderung`
 
-**Frühere Beschreibung:** Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress.
+**Fokus:** Bürgschaft oder Bankgarantie auf erste Anforderung im Mandat prüfen: Zahlungsmechanik, Einwendungen, offensichtlicher Missbrauch, einstweiliger Rechtsschutz, Rückforderung und Regress.
 
 # Bürgschaft auf erste Anforderung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-praesidium-und-aussc-bis-prozessvertretung-ge
-description: "aufsichtsrat-ag-se-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (praesidium-und-ausschuesse, protokollbaustein, protokollstandard, prozessvertretung-gegen-vorstand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aufsichtsrat-ag-se-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Praesidium Und Ausschuesse, Protokollbaustein, Protokollstandard, Prozessvertretung Gegen Vorstand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - aufsichtsrat-ag-se-praxis
+# Arbeitsbereich - Praesidium Und Ausschuesse bis Prozessvertretung Gegen Vorstand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `praesidium-und-ausschuesse` | AG/SE-Aufsichtsrat Praxis: Praesidium Und Ausschuesse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `protokollbaustein` | AG/SE-Aufsichtsrat Praxis: Protokollbaustein; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `praesidium-und-ausschuesse`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Praesidium Und Ausschuesse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Praesidium Und Ausschuesse; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Praesidium Und Ausschuesse
 
@@ -86,7 +86,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `protokollbaustein`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Protokollbaustein; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Protokollbaustein; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Protokollbaustein
 
@@ -143,7 +143,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `protokollstandard`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Protokollstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Protokollstandard; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Protokollstandard
 
@@ -200,7 +200,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `prozessvertretung-gegen-vorstand`
 
-**Frühere Beschreibung:** AG/SE-Aufsichtsrat Praxis: Prozessvertretung Gegen Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** AG/SE-Aufsichtsrat Praxis: Prozessvertretung Gegen Vorstand; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Prozessvertretung Gegen Vorstand
 

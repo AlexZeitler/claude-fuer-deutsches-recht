@@ -1,41 +1,36 @@
 ---
 name: kompendium-16-logistik-spedition-a-bis-mehrsprachige-agb-ch
-description: "agb-recht-pruefer: Konsolidiertes Skill-Kompendium 16; bündelt 10 frühere Spezialskills (logistik-spedition-agb, maengelrechte-309, mahngebuehren-und-zinsanpassung-agb, mandanteninterview-agb, mandantenmail-agb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "agb-recht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Logistik Spedition Agb, Maengelrechte 309, Mahngebuehren Und Zinsanpassung Agb, Mandanteninterview Agb und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - agb-recht-pruefer
+# Arbeitsbereich - Logistik Spedition Agb bis Mandantenmail Agb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `logistik-spedition-agb` | Branchen-Spezialskill für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `maengelrechte-309` | Norm- und Dogmatik-Skill für Mängelrechte 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `mahngebuehren-und-zinsanpassung-agb` | Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln. |
 | `mandanteninterview-agb` | Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 | `mandantenmail-agb` | Output- und Streit-Skill für Mandantenmail AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `marketplace-agb` | Branchen-Spezialskill für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `mediation-escalation` | Klausel-Spezialskill für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `medizinische-leistungen-agb` | Branchen-Spezialskill für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `mehrdeutigkeit-305c2` | Norm- und Dogmatik-Skill für Mehrdeutigkeit 305c2: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
-| `mehrsprachige-agb-check` | Einstiegs- und Workflow-Skill für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `logistik-spedition-agb`
 
-**Frühere Beschreibung:** Branchen-Spezialskill für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Spezialskill für Logistik Spedition AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Logistik Spedition AGB
 
@@ -90,7 +85,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `maengelrechte-309`
 
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Mängelrechte 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+**Fokus:** Norm- und Dogmatik-Skill für Mängelrechte 309: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
 
 # Mängelrechte 309
 
@@ -157,7 +152,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `mahngebuehren-und-zinsanpassung-agb`
 
-**Frühere Beschreibung:** Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln.
+**Fokus:** Mahngebuehren und Zinsanpassungsklauseln in AGB. Skill klaert wie hoch Mahngebuehren in AGB sein duerfen Differenzierung erste zweite dritte Mahnung sowie die Wechselwirkung zum Verzugsschaden (§ 280 II 286 BGB). Behandelt automatische Zinsanpassung an Leitzins-Index BGH-Linie zu intransparenten Klauseln.
 
 # Mahngebuehren Und Zinsanpassung Agb
 
@@ -200,7 +195,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `mandanteninterview-agb`
 
-**Frühere Beschreibung:** Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
+**Fokus:** Einstiegs- und Workflow-Skill für Mandanteninterview AGB: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
 
 # Mandanteninterview AGB
 
@@ -255,7 +250,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `mandantenmail-agb`
 
-**Frühere Beschreibung:** Output- und Streit-Skill für Mandantenmail AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+**Fokus:** Output- und Streit-Skill für Mandantenmail AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
 
 # Mandantenmail AGB
 
@@ -281,281 +276,6 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
 4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
 5. **Spezialfokus:** Bei Mandantenmail AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 6. `marketplace-agb`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Marketplace AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Marketplace AGB
-
-## Fachkern: Marketplace AGB
-
-- **Klauselproblem (Marketplace AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Marketplace AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 7. `mediation-escalation`
-
-**Frühere Beschreibung:** Klausel-Spezialskill für Mediation Escalation: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-
-# Mediation Escalation
-
-## Fachkern: Mediation Escalation
-
-- **Klauselproblem (Mediation Escalation):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Mediation Escalation besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 8. `medizinische-leistungen-agb`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Medizinische Leistungen AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Medizinische Leistungen AGB
-
-## Fachkern: Medizinische Leistungen AGB
-
-- **Klauselproblem (Medizinische Leistungen AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Medizinische Leistungen AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 9. `mehrdeutigkeit-305c2`
-
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Mehrdeutigkeit 305c2: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-
-# Mehrdeutigkeit 305c2
-
-## Fachkern: Mehrdeutigkeit 305c2
-
-- **Klauselproblem (Mehrdeutigkeit 305c2):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Mehrdeutigkeit 305c2 besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 10. `mehrsprachige-agb-check`
-
-**Frühere Beschreibung:** Einstiegs- und Workflow-Skill für Mehrsprachige AGB Check: sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
-
-# Mehrsprachige AGB Check
-
-## Fachkern: Mehrsprachige AGB Check
-
-- **Klauselproblem (Mehrsprachige AGB Check):** sortiert Ziel, Rolle, Dokumente, Normenstand, AGB-Risiko und nächsten Output schnell und anfängertauglich.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Mehrsprachige AGB Check besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
 

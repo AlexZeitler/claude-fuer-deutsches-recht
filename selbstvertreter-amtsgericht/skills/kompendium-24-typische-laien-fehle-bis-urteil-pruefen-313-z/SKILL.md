@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-typische-laien-fehle-bis-urteil-pruefen-313-z
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (typische-laien-fehler, urkundenbeweis-415-ff-zpo, urteil-pruefen-313-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Pruefen 313 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Typische Laien Fehler, Urkundenbeweis 415 Ff Zpo, Urteil Pruefen 313 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `typische-laien-fehler` | Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen. |
 | `urkundenbeweis-415-ff-zpo` | Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `typische-laien-fehler`
 
-**Frühere Beschreibung:** Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen.
+**Fokus:** Die häufigsten Fehler von Buergern in der Selbstvertretung vor dem Amtsgericht. Versaeumte Fristen pauschaler Vortrag fehlende Beweisangebote Antrag unbestimmt Notfristen unterschaetzt. Mit konkreten Gegenmassnahmen.
 
 # Die haeufigsten Fehler — und wie Sie sie vermeiden
 
@@ -157,7 +157,7 @@ Stand: 05/2026. Praxis-Skill.
 
 ## 2. `urkundenbeweis-415-ff-zpo`
 
-**Frühere Beschreibung:** Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten.
+**Fokus:** Urkundenbeweis nach §§ 415 ff. ZPO. Öffentliche und Private Urkunden Beweiswert echt unecht Vertraege Rechnungen E-Mails Chats. Wie Sie Urkunden vorlegen Authentizitaet sichern und Original-Vorlage bei Bestreiten.
 
 # Urkundenbeweis: Schriftliche Dokumente als Beweis
 
@@ -300,7 +300,7 @@ Stand: 05/2026. §§ 415 ff., 371a ZPO unveraendert.
 
 ## 3. `urteil-pruefen-313-zpo`
 
-**Frühere Beschreibung:** Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung.
+**Fokus:** Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung.
 
 # Das schriftliche Urteil pruefen
 

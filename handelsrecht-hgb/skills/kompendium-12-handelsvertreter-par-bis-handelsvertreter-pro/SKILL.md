@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-handelsvertreter-par-bis-handelsvertreter-pro
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (handelsvertreter-paragraph-84-hgb, handelsvertreter-provision) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - handelsrecht-hgb
+# Arbeitsbereich - Handelsvertreter Paragraph 84 Hgb, Handelsvertreter Provision
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsvertreter-paragraph-84-hgb` | Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler. |
 | `handelsvertreter-provision` | Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsvertreter-paragraph-84-hgb`
 
-**Frühere Beschreibung:** Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler.
+**Fokus:** Prüft Handelsvertreterstatus, Abgrenzung Angestellter/Makler/Vertragshändler.
 
 # Handelsvertreter § 84 HGB
 
@@ -79,7 +79,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `handelsvertreter-provision`
 
-**Frühere Beschreibung:** Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung.
+**Fokus:** Prüft Provisionsanspruch, Entstehen, Fälligkeit, Stornoreserve und Abrechnung.
 
 # Handelsvertreter Provision
 

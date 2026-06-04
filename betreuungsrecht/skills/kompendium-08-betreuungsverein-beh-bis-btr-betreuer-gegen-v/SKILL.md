@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-betreuungsverein-beh-bis-btr-betreuer-gegen-v
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (betreuungsverein-behoerde-hilfe-holen, btr-aufgabenkreise-formulierung, btr-betreuer-gegen-vorsorgevollmacht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betreuungsverein Behoerde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - betreuungsrecht
+# Arbeitsbereich - Betreuungsverein Behoerde Hilfe Holen, Btr Aufgabenkreise Formulierung, Btr Betreuer Gegen Vorsorgevollmacht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betreuungsverein-behoerde-hilfe-holen` | Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation. |
 | `btr-aufgabenkreise-formulierung` | Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behoerden, Postangelegenheiten. Pruefraster fuer Mass und Mindestmass nach Reform 2023. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betreuungsverein-behoerde-hilfe-holen`
 
-**Frühere Beschreibung:** Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation.
+**Fokus:** Hilfe holen für ehrenamtliche Betreuer: klärt Betreuungsverein, Betreuungsbehörde, Einführung, Fortbildung, Vereinbarung nach §§ 15 und 22 BtOG, Verhinderungsbetreuung, Gerichtsauskunft, Formulare und Grenzen der Selbstorganisation.
 
 # Hilfe holen: Betreuungsverein, Behörde, Gericht
 
@@ -82,7 +82,7 @@ Der Skill soll nicht beschämen. Wenn der Betreuer unsicher ist, ist das kein Fe
 
 ## 2. `btr-aufgabenkreise-formulierung`
 
-**Frühere Beschreibung:** Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behoerden, Postangelegenheiten. Pruefraster fuer Mass und Mindestmass nach Reform 2023.
+**Fokus:** Aufgabenkreise praezise formulieren: Vermoegenssorge, Gesundheitssorge, Aufenthaltsbestimmung, Wohnungsangelegenheiten, Vertretung gegenueber Behoerden, Postangelegenheiten. Pruefraster fuer Mass und Mindestmass nach Reform 2023.
 
 # Btr: Aufgabenkreise
 
@@ -135,7 +135,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 3. `btr-betreuer-gegen-vorsorgevollmacht`
 
-**Frühere Beschreibung:** Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Pruefung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Pruefraster und Beispielsfall.
+**Fokus:** Spezialfall Konflikt Berufsbetreuer gegen Bevollmaechtigten aus Vorsorgevollmacht: Vorrang Vorsorgevollmacht § 1814 Abs. 3 BGB, Pruefung Eignung Bevollmaechtigter, Kontrollbetreuung, Widerruf Vollmacht. Pruefraster und Beispielsfall.
 
 # Btr: Bevollmaechtigter gegen Betreuer
 

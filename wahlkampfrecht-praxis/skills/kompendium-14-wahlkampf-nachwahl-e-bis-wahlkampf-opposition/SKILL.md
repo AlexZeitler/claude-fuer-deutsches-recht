@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-wahlkampf-nachwahl-e-bis-wahlkampf-opposition
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (wahlkampf-nachwahl-evaluation, wahlkampf-negative-campaigning-grenzen, wahlkampf-newsletter-messenger-sms, wahlkampf-oeffentliche-einrichtungen-nutzung, wahlkampf-opposition-research-compliance) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Nachwahl Evaluation, Wahlkampf Negative Campaigning Grenzen, Wahlkampf Newsletter Messenger Sms, Wahlkampf Oeffentliche Einrichtungen Nutzung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Nachwahl Evaluation bis Wahlkampf Opposition Research Compliance
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-nachwahl-evaluation` | Wahlkampfrecht Praxis: Nachwahl-Evaluation ohne Selbstbetrug erstellen. |
 | `wahlkampf-negative-campaigning-grenzen` | Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-nachwahl-evaluation`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Nachwahl-Evaluation ohne Selbstbetrug erstellen.
+**Fokus:** Wahlkampfrecht Praxis: Nachwahl-Evaluation ohne Selbstbetrug erstellen.
 
 # Nachwahl Evaluation
 
@@ -83,7 +83,7 @@ Erzeuge: **Nachwahlbericht**. Wenn Informationen fehlen, stelle höchstens acht 
 
 ## 2. `wahlkampf-negative-campaigning-grenzen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Negative Campaigning auf Wahrheit, Fairness und Wirkung pruefen.
 
 # Negative Campaigning Grenzen
 
@@ -136,7 +136,7 @@ Erzeuge: **Negativkampagnen-Freigabe**. Wenn Informationen fehlen, stelle höchs
 
 ## 3. `wahlkampf-newsletter-messenger-sms`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Newsletter, WhatsApp, Telegram, Signal und SMS-Wahlkampf pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Newsletter, WhatsApp, Telegram, Signal und SMS-Wahlkampf pruefen.
 
 # Newsletter Messenger Sms
 
@@ -189,7 +189,7 @@ Erzeuge: **Messenger-Compliance-Check**. Wenn Informationen fehlen, stelle höch
 
 ## 4. `wahlkampf-oeffentliche-einrichtungen-nutzung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Nutzung öffentlicher Einrichtungen für Wahlkampf prüfen.
+**Fokus:** Wahlkampfrecht Praxis: Nutzung öffentlicher Einrichtungen für Wahlkampf prüfen.
 
 # Oeffentliche Einrichtungen Nutzung
 
@@ -242,7 +242,7 @@ Erzeuge: **Einrichtungsnutzungs-Antrag**. Wenn Informationen fehlen, stelle höc
 
 ## 5. `wahlkampf-opposition-research-compliance`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen.
+**Fokus:** Wahlkampfrecht Praxis: Opposition Research rechtlich und ethisch begrenzen.
 
 # Opposition Research Compliance
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-chn-035-electronics-bis-chn-038-textile-and
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (chn-035-electronics-and-semiconductors, chn-036-medical-device-china-supply, chn-037-automotive-supply-chain, chn-038-textile-and-fashion-sourcing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 035 Electronics And Semiconductors, Chn 036 Medical Device China Supply, Chn 037 Automotive Supply Chain, Chn 038 Textile And Fashion Sourcing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 035 Electronics And Semiconductors bis Chn 038 Textile And Fashion Sourcing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-035-electronics-and-semiconductors` | Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad. |
 | `chn-036-medical-device-china-supply` | Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-035-electronics-and-semiconductors`
 
-**Frühere Beschreibung:** Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad.
+**Fokus:** Elektronik und Halbleiter aus/nach China: Exportkontrollen Halbleiter (BAFA/BIS), US-Chips Act Extraterritorial-Wirkung auf DE-Unternehmen, EU-Chips Act 2023, Dual-Use-Listung EE-Produkte, Anti-Dumping Elektronik-Komponenten, China-Semiconductor-Sanktionen USA als Compliance-Referenz. Output: Halbleiter-Compliance-Matrix und Exportkontroll-Prüfpfad.
 
 # Elektronik und Halbleiter: Exportkontrolle und US/EU-Regulierung
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-036-medical-device-china-supply`
 
-**Frühere Beschreibung:** Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung.
+**Fokus:** Medizinprodukte aus China: EU-MDR 2017/745 und IVDR 2017/746 Importeurspflichten, NMPA-Zulassung CN vs. EU-CE-Konformität, Qualitätsmanagementsystem ISO 13485, Vigilanz-Meldepflichten BfArM, LkSG-Risikoanalyse Medizinprodukt-Lieferkette, Single-Source-Risiken in der Medizin. Output: MDR-Compliance-Checkliste China-Lieferant und Risikobewertung.
 
 # Medizinprodukte China: EU-MDR-Compliance und Lieferkettenrisiken
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-037-automotive-supply-chain`
 
-**Frühere Beschreibung:** Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risikoanalyse Tier-1 bis Tier-n, XUAR-Bezüge (Aluminium, Baumwolle, Polysilizium), Dual-Use-Prüfung Elektronik-ECU, EU-Batterie-VO 2023/1542 Supply Chain Due Diligence. Output: Automotive-Lieferketten-Compliance-Paket und Risikomatrix.
+**Fokus:** Automobilzuliefererkette China: Einzelteile und Module aus VR China unter EU-Anti-Dumping-Watch (E-Fahrzeuge), LkSG-Risikoanalyse Tier-1 bis Tier-n, XUAR-Bezüge (Aluminium, Baumwolle, Polysilizium), Dual-Use-Prüfung Elektronik-ECU, EU-Batterie-VO 2023/1542 Supply Chain Due Diligence. Output: Automotive-Lieferketten-Compliance-Paket und Risikomatrix.
 
 # Automotive-Lieferkette China: Anti-Dumping/LkSG/Batterie-VO
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-038-textile-and-fashion-sourcing`
 
-**Frühere Beschreibung:** Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll.
+**Fokus:** Textil- und Modesourcing aus China: XUAR-Baumwolle-Risiko (Forced Labour), LkSG §§ 3-10 Sorgfaltspflichten Textil, EU-Textilstrategie 2022, OECD-Leitfäden Textil-Due-Diligence, Anti-Dumping Textil, Markenrechtsverstöße durch chinesische Hersteller, Zertifizierungen (GOTS, OEKO-TEX). Output: Textil-Sourcing-Compliance-Handbuch und XUAR-Risikoprotokoll.
 
 # Textil-Sourcing China: XUAR-Risiko/LkSG/Markenrecht
 

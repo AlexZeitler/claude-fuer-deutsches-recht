@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-wahlkampf-wahlverfah-bis-wahlkampf-ad-library
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (wahlkampf-wahlverfahren-falschinfo, wahlkampf-wahlvorschlaege-fristen, wahlkampf-agenturvertrag-compliance, wahlkampf-72-stunden-sprint, wahlkampf-ad-library-transparenz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Wahlverfahren Falschinfo, Wahlkampf Wahlvorschlaege Fristen, Wahlkampf Agenturvertrag Compliance, Wahlkampf 72 Stunden Sprint und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Wahlverfahren Falschinfo bis Wahlkampf Ad Library Transparenz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-wahlverfahren-falschinfo` | Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten. |
 | `wahlkampf-wahlvorschlaege-fristen` | Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-wahlverfahren-falschinfo`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten.
+**Fokus:** Wahlkampfrecht Praxis: Falschinformationen ueber Wahltermin, Briefwahl, Stimmzettel oder Wahlraeume beantworten.
 
 # Wahlverfahren Falschinfo
 
@@ -91,7 +91,7 @@ Erzeuge: **Wahlverfahren-Faktenkarte**. Wenn Informationen fehlen, stelle höchs
 
 ## 2. `wahlkampf-wahlvorschlaege-fristen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Wahlvorschlaege, Beteiligungsanzeige und Fristen pruefen.
 
 # Wahlvorschlaege Fristen
 
@@ -144,7 +144,7 @@ Erzeuge: **Fristen- und Formcheck**. Wenn Informationen fehlen, stelle höchsten
 
 ## 3. `wahlkampf-agenturvertrag-compliance`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Agentur-, Media- und Beratungsvertraege im Wahlkampf pruefen.
 
 # Agenturvertrag Compliance
 
@@ -197,7 +197,7 @@ Erzeuge: **Agenturvertrags-Check**. Wenn Informationen fehlen, stelle höchstens
 
 ## 4. `wahlkampf-72-stunden-sprint`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: die letzten 72 Stunden vor Wahl, Debatte oder Krise planen.
+**Fokus:** Wahlkampfrecht Praxis: die letzten 72 Stunden vor Wahl, Debatte oder Krise planen.
 
 # 72 Stunden Sprint
 
@@ -250,7 +250,7 @@ Erzeuge: **72-Stunden-Taktplan**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 5. `wahlkampf-ad-library-transparenz`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen.
+**Fokus:** Wahlkampfrecht Praxis: Anzeigenbibliothek- und Transparenznotizen erstellen.
 
 # Ad Library Transparenz
 

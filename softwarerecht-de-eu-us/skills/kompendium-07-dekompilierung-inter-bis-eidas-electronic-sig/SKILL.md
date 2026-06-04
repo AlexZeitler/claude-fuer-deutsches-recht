@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-dekompilierung-inter-bis-eidas-electronic-sig
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (dekompilierung-interoperabilitaet-69e, devops-cloud-control, dual-licensing, eidas-electronic-signatures-software) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dekompilierung Interoperabilitaet 69e, Devops Cloud Control, Dual Licensing, Eidas Electronic Signatures Software; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - softwarerecht-de-eu-us
+# Arbeitsbereich - Dekompilierung Interoperabilitaet 69e bis Eidas Electronic Signatures Software
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dekompilierung-interoperabilitaet-69e` | Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede. |
 | `devops-cloud-control` | Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dekompilierung-interoperabilitaet-69e`
 
-**Frühere Beschreibung:** Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede.
+**Fokus:** Prüft Dekompilierung zur Interoperabilität, API-Reverse-Engineering, Vertragsverbote und EU/US-Unterschiede.
 
 # Dekompilierung und Interoperabilität
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `devops-cloud-control`
 
-**Frühere Beschreibung:** Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit.
+**Fokus:** Prüft DevOps-Verträge, CI/CD, Infrastructure as Code, Cloud Credentials, Betriebsverantwortung und Auditierbarkeit.
 
 # DevOps und Cloud Control
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `dual-licensing`
 
-**Frühere Beschreibung:** Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel.
+**Fokus:** Prüft Dual-Licensing-Geschäftsmodelle, OSS-Core, Commercial License, Contributor-Rechte und Copyleft-Hebel.
 
 # Dual Licensing
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `eidas-electronic-signatures-software`
 
-**Frühere Beschreibung:** Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen.
+**Fokus:** Prüft Signatur-, Trust-Service- und Identitätssoftware nach eIDAS, Beweiswert, qES und Anbieterrollen.
 
 # eIDAS und Signatursoftware
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-musikschullehrer-her-bis-persoenliche-leistun
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (musikschullehrer-herrenberg, nebenberuf-selbststaendig, paragraf-7-sgbiv-abgrenzung, persoenliche-leistungspflicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Musikschullehrer Herrenberg, Nebenberuf Selbststaendig, Paragraf 7 Sgbiv Abgrenzung, Persoenliche Leistungspflicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Musikschullehrer Herrenberg bis Persoenliche Leistungspflicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `musikschullehrer-herrenberg` | Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte. |
 | `nebenberuf-selbststaendig` | Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `musikschullehrer-herrenberg`
 
-**Frühere Beschreibung:** Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte.
+**Fokus:** Prüft Musikschullehrer nach der neueren BSG-Linie und deren Folgen für Musikschulen und Honorarkräfte.
 
 # Musikschullehrer und Herrenberg-Folgen
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `nebenberuf-selbststaendig`
 
-**Frühere Beschreibung:** Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen.
+**Fokus:** Prüft nebenberufliche Selbständigkeit neben Beschäftigung, Zeitumfang, Hauptauftraggeber und Versicherungsfolgen.
 
 # Nebenberuflich selbständig
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `paragraf-7-sgbiv-abgrenzung`
 
-**Frühere Beschreibung:** Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung.
+**Fokus:** Prüft Beschäftigung nach § 7 SGB IV: Weisungsgebundenheit, Eingliederung, persönliche Abhängigkeit und Gesamtwürdigung.
 
 # § 7 SGB IV Grundabgrenzung
 
@@ -226,7 +226,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `persoenliche-leistungspflicht`
 
-**Frühere Beschreibung:** Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist.
+**Fokus:** Prüft, ob die Person persönlich leisten muss oder echte Vertretung/Substitution möglich ist.
 
 # Persönliche Leistungspflicht
 

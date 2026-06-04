@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-allgemein-bis-workflow-chronologie
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (allgemein, bav-konzern-design-workflow, workflow-chronologie-und-belegmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Bav Konzern Design Workflow, Chronologie Und Belegmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - bav-strategie-konzern
+# Arbeitsbereich - Allgemein, Bav Konzern Design Workflow, Chronologie Und Belegmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. |
 | `bav-konzern-design-workflow` | Konzern-Workflow fuer Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext fuer Steering-Vorlage. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im bAV Strategie Konzern-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -267,7 +267,7 @@ Zielgruppe sind Anwaelte, Personalleiter und Steuerberater, die mit der rechtssi
 
 ## 2. `bav-konzern-design-workflow`
 
-**Frühere Beschreibung:** Konzern-Workflow fuer Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext fuer Steering-Vorlage.
+**Fokus:** Konzern-Workflow fuer Design eines bAV-Programms: Anforderungen sammeln (HR, CFO, BR, Steuer), Optionen modellieren (Direktversicherung gegen Pensionskasse gegen Pensionsfonds), KPIs definieren (Teilnahmequote, Kosten, Bilanzwirkung). Mustertext fuer Steering-Vorlage.
 
 # bAV: Konzern-Design
 
@@ -320,7 +320,7 @@ Dieser Skill gehoert zum Plugin `bav-strategie-konzern`. Er ergaenzt die uebrige
 
 ## 3. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin bav-strategie-konzern: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix im Plugin bav-strategie-konzern: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 # Chronologie und Belegmatrix
 

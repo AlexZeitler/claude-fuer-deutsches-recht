@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-richtlinien-vergleic-bis-spezial-aufsichtsrec
-description: "regulatorisches-recht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (richtlinien-vergleich, spezial-anhoerung-red-team-und-qualitaetskontrolle, spezial-aufsichtsrecht-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "regulatorisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Richtlinien Vergleich, Anhoerung Red Team Und Qualitaetskontrolle, Aufsichtsrecht Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - regulatorisches-recht
+# Arbeitsbereich - Richtlinien Vergleich, Anhoerung Red Team Und Qualitaetskontrolle, Aufsichtsrecht Erstpruefung Und Mandatsziel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `richtlinien-vergleich` | Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken). |
 | `spezial-anhoerung-red-team-und-qualitaetskontrolle` | Anhoerung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `richtlinien-vergleich`
 
-**Frühere Beschreibung:** Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken).
+**Fokus:** Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken).
 
 # Richtlinien-Diff
 
@@ -169,7 +169,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-anhoerung-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Anhoerung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anhoerung: Red-Team und Qualitätskontrolle im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anhoerung: Red-Team und Qualitätskontrolle
 
@@ -210,7 +210,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-aufsichtsrecht-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Aufsichtsrecht: Erstprüfung, Rollenklärung und Mandatsziel
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-iv-plan-starug-plan-bis-iv-plan-vergleichsre
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (iv-plan-starug-plan-architektur, iv-plan-vergleichsrechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Starug Plan Architektur, Iv Plan Vergleichsrechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Starug Plan Architektur, Iv Plan Vergleichsrechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-starug-plan-architektur` | StaRUG-Restrukturierungsplan vollständig strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (iv-plan-insolvenzplan-architektur). |
 | `iv-plan-vergleichsrechnung` | Vergleichsrechnung als Herzstück des Insolvenzplans oder StaRUG-Plans erstellen: Planfall gegen Ohne-Plan-Szenario. §§ 220 229 InsO Vergleichsdarstellung § 6 Abs. 2 StaRUG. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung (iv-plan-integrierte-planung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-starug-plan-architektur`
 
-**Frühere Beschreibung:** StaRUG-Restrukturierungsplan vollständig strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (iv-plan-insolvenzplan-architektur).
+**Fokus:** StaRUG-Restrukturierungsplan vollständig strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (iv-plan-insolvenzplan-architektur).
 
 # IV-integrierte StaRUG-Plan-Architektur
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-vergleichsrechnung`
 
-**Frühere Beschreibung:** Vergleichsrechnung als Herzstück des Insolvenzplans oder StaRUG-Plans erstellen: Planfall gegen Ohne-Plan-Szenario. §§ 220 229 InsO Vergleichsdarstellung § 6 Abs. 2 StaRUG. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung (iv-plan-integrierte-planung).
+**Fokus:** Vergleichsrechnung als Herzstück des Insolvenzplans oder StaRUG-Plans erstellen: Planfall gegen Ohne-Plan-Szenario. §§ 220 229 InsO Vergleichsdarstellung § 6 Abs. 2 StaRUG. Prüfraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht für integrierte Finanzplanung (iv-plan-integrierte-planung).
 
 # IV-integrierte Vergleichsrechnung
 

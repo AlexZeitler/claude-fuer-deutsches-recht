@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bho-036-landeshausha-bis-bho-046-bho-12-geltu
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 05; bündelt 11 frühere Spezialskills (bho-036-landeshaushalt-thueringen-lesen, bho-037-bho-1-feststellung-praktisch-anwenden, bho-038-bho-2-bedeutung-praktisch-anwenden, bho-039-bho-3-wirkungen-praktisch-anwenden, bho-040-bho-6-notwendigkeit-praktisch-anwenden und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 036 Landeshaushalt Thueringen Lesen, Bho 037 Bho 1 Feststellung Praktisch Anwenden, Bho 038 Bho 2 Bedeutung Praktisch Anwenden, Bho 039 Bho 3 Wirkungen Praktisch Anwenden und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 036 Landeshaushalt Thueringen Lesen bis Bho 046 Bho 12 Geltungsdauer Praktisch Anwende
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-036-landeshaushalt-thueringen-lesen` | Haushaltsrecht BHO Bund und Länder: Landeshaushalt Thüringen lesen. Landeshaushalt Thüringen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-037-bho-1-feststellung-praktisch-anwenden` | Haushaltsrecht BHO Bund und Länder: BHO § 1 Feststellung praktisch anwenden. BHO § 1 Feststellung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-036-landeshaushalt-thueringen-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Thüringen lesen. Landeshaushalt Thüringen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Thüringen lesen. Landeshaushalt Thüringen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Thueringen Lesen
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-037-bho-1-feststellung-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 1 Feststellung praktisch anwenden. BHO § 1 Feststellung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 1 Feststellung praktisch anwenden. BHO § 1 Feststellung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 1 Feststellung Praktisch Anwenden
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-038-bho-2-bedeutung-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 2 Bedeutung praktisch anwenden. BHO § 2 Bedeutung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 2 Bedeutung praktisch anwenden. BHO § 2 Bedeutung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 2 Bedeutung Praktisch Anwenden
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-039-bho-3-wirkungen-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 3 Wirkungen praktisch anwenden. BHO § 3 Wirkungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 3 Wirkungen praktisch anwenden. BHO § 3 Wirkungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 3 Wirkungen Praktisch Anwenden
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-040-bho-6-notwendigkeit-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 6 Notwendigkeit praktisch anwenden. BHO § 6 Notwendigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 6 Notwendigkeit praktisch anwenden. BHO § 6 Notwendigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 6 Notwendigkeit Praktisch Anwenden
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-041-bho-7-wirtschaftlichkeit-praktisch-anw`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit praktisch anwenden. BHO § 7 Wirtschaftlichkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit praktisch anwenden. BHO § 7 Wirtschaftlichkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 7 Wirtschaftlichkeit Praktisch Anw
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-042-bho-8-gesamtdeckung-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 8 Gesamtdeckung praktisch anwenden. BHO § 8 Gesamtdeckung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 8 Gesamtdeckung praktisch anwenden. BHO § 8 Gesamtdeckung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 8 Gesamtdeckung Praktisch Anwenden
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-043-bho-9-beauftragter-haushalt-praktisch`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 9 Beauftragter Haushalt praktisch anwenden. BHO § 9 Beauftragter Haushalt praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 9 Beauftragter Haushalt praktisch anwenden. BHO § 9 Beauftragter Haushalt praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 9 Beauftragter Haushalt Praktisch
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-044-bho-10-unterrichtung-praktisch-anwende`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 10 Unterrichtung praktisch anwenden. BHO § 10 Unterrichtung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 10 Unterrichtung praktisch anwenden. BHO § 10 Unterrichtung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 10 Unterrichtung Praktisch Anwende
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-045-bho-11-vollstaendigkeit-praktisch-anwe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit praktisch anwenden. BHO § 11 Vollständigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 11 Vollständigkeit praktisch anwenden. BHO § 11 Vollständigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 11 Vollstaendigkeit Praktisch Anwe
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-046-bho-12-geltungsdauer-praktisch-anwende`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer praktisch anwenden. BHO § 12 Geltungsdauer praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 12 Geltungsdauer praktisch anwenden. BHO § 12 Geltungsdauer praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 12 Geltungsdauer Praktisch Anwende
 

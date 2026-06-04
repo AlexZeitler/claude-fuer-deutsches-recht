@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-governance-board-con-bis-lernpfad-dealroom-si
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (governance-board-consent-matters, lernpfad-dealroom-simulator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Governance Board Consent Matters, Lernpfad Dealroom Simulator; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Governance Board Consent Matters, Lernpfad Dealroom Simulator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `governance-board-consent-matters` | Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat. |
 | `lernpfad-dealroom-simulator` | Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `governance-board-consent-matters`
 
-**Frühere Beschreibung:** Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat.
+**Fokus:** Erklaert Board, Advisory Board, Management Board, Supervisory Board, Consent Matters und deutsche Organlogik fuer GmbH, AG und Beirat.
 
 # Governance, Board und Consent Matters
 
@@ -95,7 +95,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `lernpfad-dealroom-simulator`
 
-**Frühere Beschreibung:** Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten.
+**Fokus:** Fuehrt Anfaenger durch eine Corporate-Legal-English-Testakte mit Lernpfad, Dealroom-Inventar, Uebungen, Loesungsrichtung, Senior-Gates und konkreten Arbeitsprodukten.
 
 # Lernpfad Dealroom-Simulator
 

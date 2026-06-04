@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-klageantraege-auskun-bis-markenlizenz-und-qua
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (klageantraege-auskunft-vernichtung-rueckruf, madrid-protokoll-und-internationale-registrierung, markenbewertung-asset-deal-insolvenz, markenlizenz-und-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageantraege Auskunft Vernichtung Rueckruf, Madrid Protokoll Und Internationale Registrierung, Markenbewertung Asset Deal Insolvenz, Markenlizenz Und Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - markenrecht-fashion-luxus
+# Arbeitsbereich - Klageantraege Auskunft Vernichtung Rueckruf bis Markenlizenz Und Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageantraege-auskunft-vernichtung-rueckruf` | Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit. |
 | `madrid-protokoll-und-internationale-registrierung` | Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfraster: Basismarke DE/EU, Subsequent Designations für US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageantraege-auskunft-vernichtung-rueckruf`
 
-**Frühere Beschreibung:** Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit.
+**Fokus:** Klageanträge im Markenrecht bauen: Unterlassung, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Entfernung aus Vertriebswegen, Schadensersatzfeststellung, Annexanträge und Bestimmtheit.
 
 # Klageanträge im Markenrecht
 
@@ -82,7 +82,7 @@ Keine Copy-Paste-Anträge ohne Verletzungsform. Antrag und Belege müssen zusamm
 
 ## 2. `madrid-protokoll-und-internationale-registrierung`
 
-**Frühere Beschreibung:** Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfraster: Basismarke DE/EU, Subsequent Designations für US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act.
+**Fokus:** Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern über IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Prüfraster: Basismarke DE/EU, Subsequent Designations für US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act.
 
 # Madrid-Protokoll und Internationale Registrierung
 
@@ -238,7 +238,7 @@ Bevor die internationale Registrierung beantragt wird, klaere:
 
 ## 3. `markenbewertung-asset-deal-insolvenz`
 
-**Frühere Beschreibung:** Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen.
+**Fokus:** Marken als Vermögensgegenstand bewerten und in Asset Deal, Finanzierung oder Insolvenz verwerten: Portfolioqualität, Benutzung, Lizenzen, Streit, Bewertungsmethoden, Sicherheiten, Datenraum und Käuferfragen.
 
 # Markenbewertung, Asset Deal und Insolvenz
 
@@ -290,7 +290,7 @@ Keine Bewertungszahlen erfinden. Methoden und Eingabedaten offenlegen.
 
 ## 4. `markenlizenz-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko.
+**Fokus:** Markenlizenzverträge entwerfen und prüfen: exklusive/nicht-exklusive Lizenz, Territorium, Waren, Qualitätskontrolle, Unterlizenz, Register, Royalty, Audit, Kündigung, Erschöpfung und Insolvenzrisiko.
 
 # Markenlizenz und Qualitätskontrolle
 

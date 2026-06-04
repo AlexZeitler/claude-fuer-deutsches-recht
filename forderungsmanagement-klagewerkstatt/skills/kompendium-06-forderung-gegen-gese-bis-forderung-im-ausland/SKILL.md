@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-forderung-gegen-gese-bis-forderung-im-ausland
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (forderung-gegen-gesellschafter-13-gmbhg, forderung-gegen-insolventen-schuldner, forderung-im-ausland-vollstrecken) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Forderung Gegen Gesellschafter 13 Gmbhg, Forderung Gegen Insolventen Schuldner, Forderung Im Ausland Vollstrecken
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `forderung-gegen-gesellschafter-13-gmbhg` | Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster. |
 | `forderung-gegen-insolventen-schuldner` | Forderung gegen insolventen Schuldner: Anmeldung zur Tabelle § 174 InsO, Frist Pruefungstermin, abgesonderte Befriedigung pruefen, Aussonderungsrechte § 47 InsO. Strategische Bewertung Aussichten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `forderung-gegen-gesellschafter-13-gmbhg`
 
-**Frühere Beschreibung:** Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster.
+**Fokus:** Forderung gegen GmbH-Gesellschafter: § 19 sowie § 31 GmbHG (Einlagepflicht, Rueckforderung), § 13 Abs. 2 GmbHG Trennungsprinzip, Durchgriffshaftung bei existenzvernichtendem Eingriff (BGH II ZR 78/06). Pruefraster.
 
 # Forderung gegen Gesellschafter
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `forderung-gegen-insolventen-schuldner`
 
-**Frühere Beschreibung:** Forderung gegen insolventen Schuldner: Anmeldung zur Tabelle § 174 InsO, Frist Pruefungstermin, abgesonderte Befriedigung pruefen, Aussonderungsrechte § 47 InsO. Strategische Bewertung Aussichten.
+**Fokus:** Forderung gegen insolventen Schuldner: Anmeldung zur Tabelle § 174 InsO, Frist Pruefungstermin, abgesonderte Befriedigung pruefen, Aussonderungsrechte § 47 InsO. Strategische Bewertung Aussichten.
 
 # Forderung gegen Insolvenz-Schuldner
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `forderung-im-ausland-vollstrecken`
 
-**Frühere Beschreibung:** Forderung im EU-Ausland vollstrecken: Brueessel Ia VO (EU 1215/2012), Europaeischer Vollstreckungstitel (EuVTVO), Europ. Mahnverfahren (EuMVVO), Europ. Bagatellverfahren (EuGFVO). Output: Verfahrenswahl-Memo.
+**Fokus:** Forderung im EU-Ausland vollstrecken: Brueessel Ia VO (EU 1215/2012), Europaeischer Vollstreckungstitel (EuVTVO), Europ. Mahnverfahren (EuMVVO), Europ. Bagatellverfahren (EuGFVO). Output: Verfahrenswahl-Memo.
 
 # Forderung im EU-Ausland
 

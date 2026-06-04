@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-space-081-finanzaufs-bis-space-085-beschlagna
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (space-081-finanzaufsicht-tokenisierung-von-satellitenertraegen, space-082-ip-an-weltraumerfindungen-an-bord, space-083-universitaet-industrie-spin-off-raumfahrt, space-085-beschlagnahme-oder-pfaendung-von-satellitenrechten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen, Space 082 Ip An Weltraumerfindungen An Bord, Space 083 Universitaet Industrie Spin Off Raumfahrt, Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - weltraumrecht
+# Arbeitsbereich - Space 081 Finanzaufsicht Tokenisierung Von Satellitenertraegen bis Space 085 Beschlagnahme Oder Pfaendung Von Satellitenrechten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-081-finanzaufsicht-tokenisierung-von-satellitenertraegen` | Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR. |
 | `space-082-ip-an-weltraumerfindungen-an-bord` | Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-081-finanzaufsicht-tokenisierung-von-satellitenertraegen`
 
-**Frühere Beschreibung:** Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR.
+**Fokus:** Tokenisierung von Satellitenerträgen – Kryptowertpapiere, BaFin-Aufsicht, MiCAR.
 
 # Weltraumrecht: Finanzaufsicht: Tokenisierung von Satellitenerträgen
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Tokenisierung Satellitenerträge,
 
 ## 2. `space-082-ip-an-weltraumerfindungen-an-bord`
 
-**Frühere Beschreibung:** Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung.
+**Fokus:** Patentrecht für Weltraumerfindungen – Jurisdiktion an Bord, ISS, Arbeitgebererfindung.
 
 # Weltraumrecht: IP an Weltraumerfindungen an Bord
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Patent Weltraumerfindung, Jurisdi
 
 ## 3. `space-083-universitaet-industrie-spin-off-raumfahrt`
 
-**Frühere Beschreibung:** Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA.
+**Fokus:** Raumfahrt-Spin-off aus Universität – IP-Übertragung, Beteiligungsvereinbarungen, BAFA.
 
 # Weltraumrecht: Universität-Industrie Spin-off Raumfahrt
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Uni-Industrie Spin-off Raumfahrt,
 
 ## 4. `space-085-beschlagnahme-oder-pfaendung-von-satellitenrechten`
 
-**Frühere Beschreibung:** Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit.
+**Fokus:** Pfändung und Beschlagnahme von Satelliten und Frequenzrechten – Vollstreckungsrecht, Staatlichkeit.
 
 # Weltraumrecht: Beschlagnahme oder Pfändung von Satellitenrechten
 

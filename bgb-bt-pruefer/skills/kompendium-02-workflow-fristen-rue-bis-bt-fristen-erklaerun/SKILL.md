@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-fristen-rue-bis-bt-fristen-erklaerun
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-fristen-ruecktritt-kuendigung, workflow-vergleich-und-verhandlungsplan, bt-fristen-erklaerungen-zugang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen Ruecktritt Kuendigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - bgb-bt-pruefer
+# Arbeitsbereich - Fristen Ruecktritt Kuendigung, Vergleich Und Verhandlungsplan, Bt Fristen Erklaerungen Zugang
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-fristen-ruecktritt-kuendigung` | Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen. |
 | `workflow-vergleich-und-verhandlungsplan` | Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-fristen-ruecktritt-kuendigung`
 
-**Frühere Beschreibung:** Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen.
+**Fokus:** Fristen, Rücktritt und Kündigung im BGB BT: Fristsetzung, Rücktrittsrecht, Kündigungsrecht, Rechtsfolgen.
 
 # Workflow: Fristen, Rücktritt und Kündigung
 
@@ -114,7 +114,7 @@ Fristsetzung, Rücktrittsrecht und Kündigung bei BGB-BT-Verträgen vollständig
 
 ## 2. `workflow-vergleich-und-verhandlungsplan`
 
-**Frühere Beschreibung:** Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation.
+**Fokus:** Vergleich und Verhandlungsplan im BGB BT: Vergleichskorridore, Verhandlungsführung, Dokumentation.
 
 # Workflow: Vergleich und Verhandlungsplan
 
@@ -199,7 +199,7 @@ Vergleichsverhandlungen im BGB-BT-Mandat vorbereiten und durchführen: Vergleich
 
 ## 3. `bt-fristen-erklaerungen-zugang`
 
-**Frühere Beschreibung:** Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist.
+**Fokus:** Prüft Fristen, Erklärungen und Zugang im Schuldrecht BT: Rücktritt, Kündigung, Mahnung, Mängelrüge und Nachfrist.
 
 # BT-Fristen, Erklärungen und Zugang
 

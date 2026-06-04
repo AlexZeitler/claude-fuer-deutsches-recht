@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-legw-bmi-bevoelkerun-bis-legw-bmjv-zivilrecht
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 08; bündelt 8 frühere Spezialskills (legw-bmi-bevoelkerungsschutz-und-katastrophenrecht, legw-bmi-oeffentlicher-dienst-und-beamtenrecht, legw-bmi-sicherheits-und-polizeirecht, legw-bmjv-gerichtsverfassungs-und-prozessrecht, legw-bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht, Legw Bmi Oeffentlicher Dienst Und Beamtenrecht, Legw Bmi Sicherheits Und Polizeirecht, Legw Bmjv Gerichtsverfassungs Und Prozessrecht und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmi Bevoelkerungsschutz Und Katastrophenrecht bis Legw Bmjv Zivilrecht Und Buergerliches Gesetzbuch Pflege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmi-bevoelkerungsschutz-und-katastrophenrecht` | Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). |
 | `legw-bmi-oeffentlicher-dienst-und-beamtenrecht` | Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmi-bevoelkerungsschutz-und-katastrophenrecht`
 
-**Frühere Beschreibung:** Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
+**Fokus:** Sachbereich Bevoelkerungsschutz und Katastrophenrecht im Geschaeftsbereich BMI: Normbestand (ZSKG; BBK-G; KritisDachG; THWG; BSIG (Krisen).); Akteure (BBK; THW; Laender-Katastrophenschutz; KRITIS-Aufsichten.); EU-Bezug (EU-Katastrophenschutzmechanismus; CER-Richtlinie; NIS2.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
 
 # Bevoelkerungsschutz und Katastrophenrecht (BMI)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmi-oeffentlicher-dienst-und-beamtenrecht`
 
-**Frühere Beschreibung:** Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
+**Fokus:** Sachbereich Oeffentlicher Dienst und Beamtenrecht im Geschaeftsbereich BMI: Normbestand (BBG; BeamtStG; BBesG; BVwVfG; LRG; BLV; BUVO; SBG.); Akteure (BMI; Bundesverwaltungsamt; Bundespersonalausschuss; oberste Dienstbehoerden.); EU-Bezug (Freizuegigkeit der Arbeitnehmer Art. 45 AEUV; Gleichbehandlung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
 
 # Oeffentlicher Dienst und Beamtenrecht (BMI)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmi-sicherheits-und-polizeirecht`
 
-**Frühere Beschreibung:** Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
+**Fokus:** Sachbereich Sicherheits- und Polizeirecht im Geschaeftsbereich BMI: Normbestand (BPolG; BKAG; BNDG; BVerfSchG; G10G; PassG; PStG; WaffG; SprengG; VersG.); Akteure (BPOL; BKA; BfV; BND; ZITiS; Bundespolizeipraesidium.); EU-Bezug (Schengen; Europol; Eurodac; Frontex; PNR-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
 
 # Sicherheits- und Polizeirecht (BMI)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmjv-gerichtsverfassungs-und-prozessrecht`
 
-**Frühere Beschreibung:** Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Laender.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
+**Fokus:** Sachbereich Gerichtsverfassungs- und Prozessrecht im Geschaeftsbereich BMJV: Normbestand (GVG; ZPO; StPO; VwGO; SGG; FGO; ArbGG; EGGVG.); Akteure (BMJV; Bundesgerichte; Justizverwaltungen der Laender.); EU-Bezug (EuGVVO; EU-Zustellungs-VO; EU-Beweis-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
 
 # Gerichtsverfassungs- und Prozessrecht (BMJV)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmjv-rechtsstaatlichkeit-und-grundrechte-querschnitt`
 
-**Frühere Beschreibung:** Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
+**Fokus:** Sachbereich Rechtsstaatlichkeit und Grundrechte-Querschnitt im Geschaeftsbereich BMJV: Normbestand (GG; BVerfGG; BBG; RiStBV; Konsulat- und Auslieferungsrecht; EuMRK.); Akteure (BMJV; BVerfG; BGH; Auslaenderbehoerden; Bundesrat.); EU-Bezug (Rechtsstaatlichkeitsmechanismus; EuGH (Vertragsverletzungen); EuMRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
 
 # Rechtsstaatlichkeit und Grundrechte-Querschnitt (BMJV)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmjv-straf-und-strafprozessrecht-pflege`
 
-**Frühere Beschreibung:** Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
+**Fokus:** Sachbereich Straf- und Strafprozessrecht-Pflege im Geschaeftsbereich BMJV: Normbestand (StGB; StPO; OWiG; JGG; GVG; EGStGB.); Akteure (BMJV; Generalbundesanwalt; BGH-Strafsenate; Staatsanwaltschaften; LKA und BKA.); EU-Bezug (Strafrechtsharmonisierung Art. 83 AEUV; EuStA; Eurojust.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
 
 # Straf- und Strafprozessrecht-Pflege (BMJV)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmjv-verbraucherschutz-und-unlauterer-wettbewerb`
 
-**Frühere Beschreibung:** Sachbereich Verbraucherschutz und Wettbewerbsrecht (UWG) im Geschaeftsbereich BMJV: Normbestand (UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.); Akteure (BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.); EU-Bezug (Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
+**Fokus:** Sachbereich Verbraucherschutz und Wettbewerbsrecht (UWG) im Geschaeftsbereich BMJV: Normbestand (UWG; UKlaG; BGB-Verbraucherrecht; ProdSG; PreisangabenV.); Akteure (BMJV; vzbv; Wettbewerbszentrale; Landesbehoerden Verbraucherschutz.); EU-Bezug (Verbraucherrechte-RL; Omnibus-RL; Geoblocking-VO; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
 
 # Verbraucherschutz und Wettbewerbsrecht (UWG) (BMJV)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmjv-zivilrecht-und-buergerliches-gesetzbuch-pflege`
 
-**Frühere Beschreibung:** Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
+**Fokus:** Sachbereich Zivilrecht und BGB-Pflege im Geschaeftsbereich BMJV: Normbestand (BGB; HGB; EGBGB; BeurkG; AGG; AGB-Recht; Verbraucherregelungen.); Akteure (BMJV; BGH; OLGs; juristische Fakultaeten als Sachverstaendige.); EU-Bezug (Verbraucher-RL; Pauschalreise-RL; Warenkauf-RL; Digitale-Inhalte-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmjv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmjv (Heranfuehrung).
 
 # Zivilrecht und BGB-Pflege (BMJV)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fachanwalt-vergabere-bis-fachanwalt-vergabere
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (fachanwalt-vergaberecht-de-facto-vergabe-klage, fachanwalt-vergaberecht-eignungspruefung, fachanwalt-vergaberecht-freiberufliche-leistungen-hoai, fachanwalt-vergaberecht-inhouse-interkommunal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergaberecht De Facto Vergabe Klage, Vergaberecht Eignungspruefung, Vergaberecht Freiberufliche Leistungen Hoai, Vergaberecht Inhouse Interkommunal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergaberecht De Facto Vergabe Klage bis Vergaberecht Inhouse Interkommunal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-de-facto-vergabe-klage` | De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht. |
 | `fachanwalt-vergaberecht-eignungspruefung` | Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-vergaberecht-de-facto-vergabe-klage`
 
-**Frühere Beschreibung:** De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht.
+**Fokus:** De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht.
 
 # De-facto-Vergabe-Klage
 
@@ -229,7 +229,7 @@ des Auftrags im Amtsblatt der EU gestellt. Hilfsweise binnen
 
 ## 2. `fachanwalt-vergaberecht-eignungspruefung`
 
-**Frühere Beschreibung:** Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2.
+**Fokus:** Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2.
 
 # Eignungsprüfung
 
@@ -541,7 +541,7 @@ Vergabeverfahren [BEZEICHNUNG]
 
 ## 3. `fachanwalt-vergaberecht-freiberufliche-leistungen-hoai`
 
-**Frühere Beschreibung:** Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
+**Fokus:** Vergabe freiberuflicher Leistungen (Architekten, Ingenieure, Rechtsanwaelte, Wirtschaftspruefer): Auftraggeber will HOAI- und vergaberechtskonform vergeben. Normen: § 50 VgV (Freiberufliche Leistungen), §§ 73 ff. VgV (Planungswettbewerb), HOAI 2021 (nach EuGH C-377/17 BGH VII ZR 174/19 als Orientierung), RPW 2013. Pruefraster: Verfahrenswahl Verhandlungsverfahren mit/ohne TW, Honorar als Wertungskriterium, Mindest- und Hoechstsaetze nach EuGH-Entscheidung, Planungswettbewerb RPW. Output Verfahrensentwurf, Honorar-Wertungsmodul. Abgrenzung: Wertung siehe fachanwalt-vergaberecht-zuschlagskriterien-wertungsschema.
 
 # Freiberufliche Leistungen (§ 50 VgV)
 
@@ -609,7 +609,7 @@ EuGH C-377/17 und BGH VII ZR 174/19 ueber curia.europa.eu und bundesgerichtshof.
 
 ## 4. `fachanwalt-vergaberecht-inhouse-interkommunal`
 
-**Frühere Beschreibung:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: oeffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit fuer Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
+**Fokus:** Inhouse-Geschaeft und interkommunale Zusammenarbeit vergaberechtlich pruefen: oeffentlicher Auftraggeber will ohne Ausschreibung an verbundene Einrichtung oder Schwester-Kommune vergeben. Normen: § 108 GWB (Ausnahmen), Teckal-Doktrin EuGH C-107/98, Hamburg-Stadtreinigung EuGH C-480/06. Pruefraster: Kontrolltest wie ueber eigene Dienststelle, Wesentlichkeitstest 80 Prozent Taetigkeit fuer Kontrollierende, Privatkapitalverbot mit Ausnahmen, horizontale Zusammenarbeit § 108 Abs. 6 GWB. Output Inhouse-Pruefvermerk, Vertragsentwurf-Modul. Abgrenzung: De-facto-Vergabe siehe fachanwalt-vergaberecht-de-facto-vergabe-klage.
 
 # Inhouse und interkommunale Zusammenarbeit
 

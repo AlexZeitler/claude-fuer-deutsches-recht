@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-drg-018-mietrecht-un-bis-drg-025-kommunalrech
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 05; bündelt 6 frühere Spezialskills (drg-018-mietrecht-und-wohnungspolitik-historisch, drg-019-familienrecht-und-gleichberechtigung, drg-020-erbrecht-und-hofrecht, drg-021-sachenrecht-und-grundbuchgeschichte, drg-024-verwaltungsrecht-und-polizeirecht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 018 Mietrecht Und Wohnungspolitik Historisch, Drg 019 Familienrecht Und Gleichberechtigung, Drg 020 Erbrecht Und Hofrecht, Drg 021 Sachenrecht Und Grundbuchgeschichte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 018 Mietrecht Und Wohnungspolitik Historisch bis Drg 025 Kommunalrecht Und Selbstverwaltung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-018-mietrecht-und-wohnungspolitik-historisch` | Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001. |
 | `drg-019-familienrecht-und-gleichberechtigung` | Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-018-mietrecht-und-wohnungspolitik-historisch`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001.
+**Fokus:** Deutsche Rechtsgeschichte: Mietrecht und Wohnungspolitik historisch. BGB-Mietrecht 1900, Mieterschutzrecht im Ersten Weltkrieg, Weimarer Wohnungspolitik, NS-Wohnungsrecht und BGB-Mietrechtsreform 2001.
 
 # Mietrecht und Wohnungspolitik historisch
 
@@ -81,7 +81,7 @@ BGB Mietrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. II (historisch). Mie
 
 ## 2. `drg-019-familienrecht-und-gleichberechtigung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976.
+**Fokus:** Deutsche Rechtsgeschichte: Familienrecht und Gleichberechtigung. BGB-Eherecht 1900 (maennliches Entscheidungsrecht), WRV Art. 119, GG Art. 3 Abs. 2, Gleichberechtigungsgesetz 1957 und EheRG 1976.
 
 # Familienrecht und Gleichberechtigung
 
@@ -132,7 +132,7 @@ BGB Familienrecht: gesetze-im-internet.de (aktuell); Mugdan Bd. IV (historisch).
 
 ## 3. `drg-020-erbrecht-und-hofrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht.
+**Fokus:** Deutsche Rechtsgeschichte: Erbrecht und Hofrecht. Sachsenspiegel-Erbrecht, BGB-Erbrecht 1900, Anerbenrecht und Hoefe-Kodifikation, NS-Reichserbhofgesetz 1933 und heutiges Hoefe-Recht.
 
 # Erbrecht und Hofrecht
 
@@ -182,7 +182,7 @@ Sachsenspiegel Erbrecht: MGH-Edition. BGB Erbrecht: gesetze-im-internet.de; Mugd
 
 ## 4. `drg-021-sachenrecht-und-grundbuchgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Grundbuchrecht, BGB-Sachenrecht 1900, Eintragungsgrundsatz, Grunddienstbarkeiten und Hypothekenrecht im historischen Wandel.
+**Fokus:** Deutsche Rechtsgeschichte: Sachenrecht und Grundbuchgeschichte. Preussisches Grundbuchrecht, BGB-Sachenrecht 1900, Eintragungsgrundsatz, Grunddienstbarkeiten und Hypothekenrecht im historischen Wandel.
 
 # Sachenrecht und Grundbuchgeschichte
 
@@ -233,7 +233,7 @@ BGB Sachenrecht: gesetze-im-internet.de; Mugdan Bd. III. GBO: gesetze-im-interne
 
 ## 5. `drg-024-verwaltungsrecht-und-polizeirecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel.
+**Fokus:** Deutsche Rechtsgeschichte: Verwaltungsrecht und Polizeirecht. Preussisches Kreuzberg-Urteil 1882, allgemeines Verwaltungsrecht, Verwaltungsgerichtsbarkeit und Polizeirecht im historischen Wandel.
 
 # Verwaltungsrecht und Polizeirecht
 
@@ -283,7 +283,7 @@ VwGO und VwVfG: gesetze-im-internet.de. PrOVGE: historische Entscheidungssammlun
 
 ## 6. `drg-025-kommunalrecht-und-selbstverwaltung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28.
+**Fokus:** Deutsche Rechtsgeschichte: Kommunalrecht und Selbstverwaltung. Preussische Staedteordnung 1808, kommunale Selbstverwaltung, NS-Deutsche Gemeindeordnung 1935 und GG Art. 28.
 
 # Kommunalrecht und Selbstverwaltung
 

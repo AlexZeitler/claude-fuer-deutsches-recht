@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-digitalregulierung-p-bis-dma-anti-steering-ap
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (digitalregulierung-pyramide-check, digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb, dma-anti-steering-app-store-design) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2b 19a Gwb, Dma Anti Steering App Store Design; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Digitalregulierung Pyramide Check, Digitalregulierung Schnittstellen Dsgvo P2b 19a Gwb, Dma Anti Steering App Store Design
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `digitalregulierung-pyramide-check` | Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin. |
 | `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb` | Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `digitalregulierung-pyramide-check`
 
-**Frühere Beschreibung:** Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin.
+**Fokus:** Sachverhalt den richtigen EU-Digitalregulierungs-Rechtsakten zuordnen: Anwalt oder Unternehmen fragt welche Regulierung greift. Normen: DSA (EU) 2022/2065, DMA (EU) 2022/1925, Data Act (EU) 2023/2854, DGA, AI Act (EU) 2024/1689, NIS-2, DORA, CRA, eIDAS 2.0, DDG, P2B-VO, § 19a GWB. Prüfraster: Akteurstyp, Dienst-Typ (Vermittlungsdienst, Hosting, Online-Plattform, VLOP, Kernplattformdienst, Gatekeeper), Datentyp, Risikoklasse. Output Kurzprüfschema mit Verweis auf Spezialskills. Abgrenzung: DSGVO-Fragen siehe datenschutzrecht-Plugin; AI Act spezifisch siehe ki-vo-ai-act-prüfer-Plugin.
 
 # Digitalregulierung — Pyramiden-Check
 
@@ -158,7 +158,7 @@ Empfohlene Vertiefung: → Skill [SPEZIALSKILL]
 
 ## 2. `digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb`
 
-**Frühere Beschreibung:** Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
+**Fokus:** Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Prüfraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie für welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
 
 # Schnittstellen — DSA, DMA, DSGVO, P2B-VO und § 19a GWB
 
@@ -293,7 +293,7 @@ Nächste Schritte: [LISTE]
 
 ## 3. `dma-anti-steering-app-store-design`
 
-**Frühere Beschreibung:** Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss.
+**Fokus:** Anti-Steering Pflichten Art. 5 Abs. 4 DMA fuer App-Stores: Entwickler duerfen ausserhalb des Stores informieren, ueber alternative Preise und Zahlwege. Pruefraster: keine Behinderung, keine Strafgebuehr, kein Linkverbot. Apple- und Google-Beispiele, EU-Verfahren. Compliance-Checkliste fuer Gatekeeper und Entwicklerschriftsatz bei Verstoss.
 
 # DMA: Anti-Steering App-Store
 

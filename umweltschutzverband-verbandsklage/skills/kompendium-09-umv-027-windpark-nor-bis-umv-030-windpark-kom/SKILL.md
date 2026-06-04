@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-umv-027-windpark-nor-bis-umv-030-windpark-kom
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (umv-027-windpark-normenkontrolle-skizzieren, umv-028-windpark-nebenbestimmung-fordern, umv-029-windpark-monitoring-planen, umv-030-windpark-kommunikation-schaerfen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 027 Windpark Normenkontrolle Skizzieren, Umv 028 Windpark Nebenbestimmung Fordern, Umv 029 Windpark Monitoring Planen, Umv 030 Windpark Kommunikation Schaerfen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 027 Windpark Normenkontrolle Skizzieren bis Umv 030 Windpark Kommunikation Schaerfen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-027-windpark-normenkontrolle-skizzieren` | Umweltschutzverband Verbandsklage: Windpark: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-028-windpark-nebenbestimmung-fordern` | Umweltschutzverband Verbandsklage: Windpark: Nebenbestimmung fordern. Nebenbestimmung fordern für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-027-windpark-normenkontrolle-skizzieren`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Windpark: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Windpark: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Windpark Normenkontrolle Skizzieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-028-windpark-nebenbestimmung-fordern`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Windpark: Nebenbestimmung fordern. Nebenbestimmung fordern für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Windpark: Nebenbestimmung fordern. Nebenbestimmung fordern für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Windpark Nebenbestimmung Fordern
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-029-windpark-monitoring-planen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Windpark: Monitoring planen. Monitoring planen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Windpark: Monitoring planen. Monitoring planen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Windpark Monitoring Planen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-030-windpark-kommunikation-schaerfen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Windpark: Kommunikation schärfen. Kommunikation schärfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Windpark: Kommunikation schärfen. Kommunikation schärfen für Windpark im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Windpark Kommunikation Schaerfen
 

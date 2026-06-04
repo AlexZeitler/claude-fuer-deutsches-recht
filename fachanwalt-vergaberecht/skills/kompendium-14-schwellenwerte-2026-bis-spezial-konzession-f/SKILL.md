@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-schwellenwerte-2026-bis-spezial-konzession-f
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (schwellenwerte-2026-2027-livecheck, spezial-architektenrecht-compliance-dokumentation-und-akte, spezial-fachanwalt-erstpruefung-und-mandatsziel, spezial-konzession-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schwellenwerte 2026 2027 Livecheck, Architektenrecht Compliance Dokumentation Und Akte, Fachanwalt Erstpruefung Und Mandatsziel, Konzession Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-vergaberecht
+# Arbeitsbereich - Schwellenwerte 2026 2027 Livecheck bis Konzession Formular Portal Und Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schwellenwerte-2026-2027-livecheck` | EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk. |
 | `spezial-architektenrecht-compliance-dokumentation-und-akte` | Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schwellenwerte-2026-2027-livecheck`
 
-**Frühere Beschreibung:** EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk.
+**Fokus:** EU-Schwellenwerte 2026/2027 sicher pruefen: Auftragsart, Auftraggebertyp, Sektor, Konzession, Verteidigung/Sicherheit, Nettoauftragswert, Losregeln und Dokumentationsvermerk.
 
 # Schwellenwerte 2026/2027 Livecheck
 
@@ -93,7 +93,7 @@ Schwellenwerttabelle, Rechenweg, Los-/Zusammenrechnungspruefung, Rechtswegempfeh
 
 ## 2. `spezial-architektenrecht-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Architektenrecht: Compliance-Dokumentation und Aktenvermerk im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Architektenrecht: Compliance-Dokumentation und Aktenvermerk
 
@@ -145,7 +145,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fachanwalt-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fachanwalt: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -197,7 +197,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-konzession-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Konzession: Formular, Portal und Einreichungslogik im Plugin fachanwalt vergaberecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Konzession: Formular, Portal und Einreichungslogik
 

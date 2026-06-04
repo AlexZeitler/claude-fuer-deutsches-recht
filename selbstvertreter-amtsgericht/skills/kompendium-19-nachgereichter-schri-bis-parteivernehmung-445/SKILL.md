@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-nachgereichter-schri-bis-parteivernehmung-445
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (nachgereichter-schriftsatz-296a-zpo, orientierung-selbstvertreter-amtsgericht, parteivernehmung-445-ff-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nachgereichter Schriftsatz 296a Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Nachgereichter Schriftsatz 296a Zpo, Orientierung Selbstvertreter Amtsgericht, Parteivernehmung 445 Ff Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nachgereichter-schriftsatz-296a-zpo` | Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht. |
 | `orientierung-selbstvertreter-amtsgericht` | Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nachgereichter-schriftsatz-296a-zpo`
 
-**Frühere Beschreibung:** Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht.
+**Fokus:** Nachgereichter Schriftsatz nach Schluss der muendlichen Verhandlung gemäß § 296a ZPO. Schriftsatznachlass durch Gericht Voraussetzung Grenzen Wirkung auf Urteil. Wann ein nachgereichter Vortrag noch berücksichtigt wird und wann nicht.
 
 # Nachgereichter Schriftsatz nach Schluss der Verhandlung
 
@@ -167,7 +167,7 @@ Stand: 05/2026. §§ 296a, 156, 283 ZPO unveraendert.
 
 ## 2. `orientierung-selbstvertreter-amtsgericht`
 
-**Frühere Beschreibung:** Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen.
+**Fokus:** Triage und Einstieg für Bürger, die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klärt Erfahrungslevel, Rolle, Fristen, Streitwert, Zuständigkeit, Anwaltszwang und verweist auf Anfänger-Workflow, Sanity-Check, Rechtsprechungschat, Klage, Verteidigung, Termin und Rechtsmittelgrenzen.
 
 # Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten
 
@@ -281,7 +281,7 @@ Stand: 05/2026. § 23 Nr. 1 GVG: Wertgrenze 10.000 EUR seit 01.01.2026 (Anhebung
 
 ## 3. `parteivernehmung-445-ff-zpo`
 
-**Frühere Beschreibung:** Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel auf Antrag oder von Amts wegen. Bedingungen und Beweiswert. Wann lohnt sich Parteivernehmung warum gilt die eigene Aussage als schwach.
+**Fokus:** Parteivernehmung nach §§ 445 ff. ZPO. Subsidiaeres Beweismittel auf Antrag oder von Amts wegen. Bedingungen und Beweiswert. Wann lohnt sich Parteivernehmung warum gilt die eigene Aussage als schwach.
 
 # Parteivernehmung: Wenn Sie selbst aussagen
 

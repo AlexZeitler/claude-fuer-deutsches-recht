@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-wohngeld-wohngeldver-bis-zulassungsgrenzen-ch
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 26; bündelt 4 frühere Spezialskills (wohngeld-wohngeldverwaltung, zeugenbeweis-sozialgericht-373-zpo-analog, zugunstenantrag-44-sgb-x-bestandskraft, zulassungsgrenzen-check-sozialgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wohngeld Wohngeldverwaltung, Zeugenbeweis Sozialgericht 373 Zpo Analog, Zugunstenantrag 44 Sgb X Bestandskraft, Zulassungsgrenzen Check Sozialgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Wohngeld Wohngeldverwaltung bis Zulassungsgrenzen Check Sozialgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wohngeld-wohngeldverwaltung` | Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster. |
 | `zeugenbeweis-sozialgericht-373-zpo-analog` | Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wohngeld-wohngeldverwaltung`
 
-**Frühere Beschreibung:** Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster.
+**Fokus:** Wohngeld nach dem Wohngeldgesetz (WoGG). Skill erklaert die Mietzuschuss/Lastenzuschuss-Logik die Einkommens- und Mietobergrenzen Antragsverfahren und Wohngeldreform 2023. Liefert Pruefraster.
 
 # Wohngeld Wohngeldverwaltung
 
@@ -87,7 +87,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `zeugenbeweis-sozialgericht-373-zpo-analog`
 
-**Frühere Beschreibung:** Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt.
+**Fokus:** Zeugen vor dem Sozialgericht. §§ 373 ff. ZPO analog. Beweisthema Adressen Zeugenvernehmung. Wann lohnt sich Zeugenbeweis für Buerger ohne Anwalt.
 
 # Zeugen vor dem Sozialgericht
 
@@ -220,7 +220,7 @@ Stand: 05/2026. § 118 SGG verweist auf ZPO. JVEG-Saetze fuer Zeugenentschaedigu
 
 ## 3. `zugunstenantrag-44-sgb-x-bestandskraft`
 
-**Frühere Beschreibung:** Zugunstenantrag nach § 44 SGB X: Antrag auf Aufhebung eines bestandskraeftigen rechtswidrigen Verwaltungsakts zugunsten des Buergers. Klaert Voraussetzungen Frist Rueckwirkung bis zu 4 Jahre. Skill liefert Antragsvorlage.
+**Fokus:** Zugunstenantrag nach § 44 SGB X: Antrag auf Aufhebung eines bestandskraeftigen rechtswidrigen Verwaltungsakts zugunsten des Buergers. Klaert Voraussetzungen Frist Rueckwirkung bis zu 4 Jahre. Skill liefert Antragsvorlage.
 
 # Zugunstenantrag 44 Sgb X Bestandskraft
 
@@ -271,7 +271,7 @@ Ein bestandskraeftiger Bescheid ist rechtswidrig — der Buerger hat Leistungen 
 
 ## 4. `zulassungsgrenzen-check-sozialgericht`
 
-**Frühere Beschreibung:** Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Berufungszulassung, Nichtzulassungsbeschwerde, Revision, BSG-Anwaltszwang und Kostenrisiken.
+**Fokus:** Zulassungs- und Rechtsmittelgrenzen im Sozialgerichtsverfahren: § 144 SGG 750 EUR, laufende Leistungen über ein Jahr, Erstattungsstreitigkeiten 10.000 EUR, Berufungszulassung, Nichtzulassungsbeschwerde, Revision, BSG-Anwaltszwang und Kostenrisiken.
 
 # Zulassungsgrenzen-Check Sozialgericht
 

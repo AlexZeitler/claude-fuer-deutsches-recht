@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-rechtsmonitoring-ban-bis-sepa-direct-debit-re
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (rechtsmonitoring-bank, regress-forderungsuebergang-und-sicherheitenfreigabe, sanierungsgutachten-idw-s6-bewertung, schluesselfunktionen-inhaber-fit-proper, sepa-direct-debit-return-disputes) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsmonitoring Bank, Regress Forderungsuebergang Und Sicherheitenfreigabe, Sanierungsgutachten Idw S6 Bewertung, Schluesselfunktionen Inhaber Fit Proper und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - bank-rechtsabteilung
+# Arbeitsbereich - Rechtsmonitoring Bank bis Sepa Direct Debit Return Disputes
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsmonitoring-bank` | Rechtsmonitoring für Banken einrichten: BaFin, Bundesbank, EBA, EZB, EU, Bundesgesetzblatt, Rechtsprechung, Verbände, Relevanzfilter und Umsetzungslog dokumentieren. |
 | `regress-forderungsuebergang-und-sicherheitenfreigabe` | Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsmonitoring-bank`
 
-**Frühere Beschreibung:** Rechtsmonitoring für Banken einrichten: BaFin, Bundesbank, EBA, EZB, EU, Bundesgesetzblatt, Rechtsprechung, Verbände, Relevanzfilter und Umsetzungslog dokumentieren.
+**Fokus:** Rechtsmonitoring für Banken einrichten: BaFin, Bundesbank, EBA, EZB, EU, Bundesgesetzblatt, Rechtsprechung, Verbände, Relevanzfilter und Umsetzungslog dokumentieren.
 
 # Rechtsmonitoring
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `regress-forderungsuebergang-und-sicherheitenfreigabe`
 
-**Frühere Beschreibung:** Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich.
+**Fokus:** Regress nach Bürgschafts-, Aval- oder Garantiezahlung prüfen: Forderungsübergang § 774 BGB, Kundenbelastung, Sicherheitenverwertung, Mitbürgen, Freigabepflichten, Insolvenz und Vergleich.
 
 # Regress, Forderungsübergang und Sicherheitenfreigabe
 
@@ -205,7 +205,7 @@ Erzeuge:
 
 ## 3. `sanierungsgutachten-idw-s6-bewertung`
 
-**Frühere Beschreibung:** Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung.
+**Fokus:** Eingehende Sanierungsgutachten nach IDW S 6 aus Bankperspektive bewerten: Krisenstadien, Fortbestehen, Leitbild, Maßnahmen, integrierte Planung, Plausibilität und Kreditentscheidung.
 
 # Sanierungsgutachten bewerten
 
@@ -320,7 +320,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 4. `schluesselfunktionen-inhaber-fit-proper`
 
-**Frühere Beschreibung:** Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand.
+**Fokus:** Inhaber besonderer Schlüsselfunktionen in großen Banken prüfen: Anzeige, Eignung, Zuverlässigkeit, Zeitverfügbarkeit, Rollenabgrenzung und Eskalation an Aufsicht oder Vorstand.
 
 # Schlüsselfunktionen Fit and Proper
 
@@ -419,7 +419,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `sepa-direct-debit-return-disputes`
 
-**Frühere Beschreibung:** SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege.
+**Fokus:** SEPA-Lastschrift-Rückgaben und Mandatsstreit prüfen: Core/B2B, Mandat, Rückgabefristen, Erstattungsanspruch, Firmenkundenrisiko, Händlerkommunikation und Prozessbelege.
 
 # SEPA Lastschriftstreit
 

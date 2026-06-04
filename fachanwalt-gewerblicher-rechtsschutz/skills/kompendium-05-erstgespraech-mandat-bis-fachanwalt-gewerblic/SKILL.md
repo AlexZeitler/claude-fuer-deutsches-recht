@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-erstgespraech-mandat-bis-fachanwalt-gewerblic
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (erstgespraech-mandatsannahme, fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg, fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erstgespraech Mandatsannahme, Gewerblicher Rechtsschutz Abmahnung Uwg, Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Erstgespraech Mandatsannahme, Gewerblicher Rechtsschutz Abmahnung Uwg, Gewerblicher Rechtsschutz Abmahnung Vergleich Wipo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills. |
 | `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg` | UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills.
+**Fokus:** Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Prüfraster: Schutzrecht Verletzungshandlung Parteistellung Eilbedürfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills.
 
 # Erstgespraech und Mandatsannahme im Marken-, Patent-, Design- und Wettbewerbsrecht
 
@@ -246,7 +246,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang:
 
 ## 2. `fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg`
 
-**Frühere Beschreibung:** UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung).
+**Fokus:** UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung).
 
 ## Mandantenfragen beim Kaltstart
 
@@ -517,7 +517,7 @@ und auf Ersatz unserer Abwehrkosten zu erheben.
 
 ## 3. `fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo`
 
-**Frühere Beschreibung:** Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA.
+**Fokus:** Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA.
 
 # Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz
 

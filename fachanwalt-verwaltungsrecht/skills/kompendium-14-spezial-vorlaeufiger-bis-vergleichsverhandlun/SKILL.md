@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-vorlaeufiger-bis-vergleichsverhandlun
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-vorlaeufiger-mandantenkommunikation-entscheidungsvorlage, spezial-vwvfg-dokumentenmatrix-und-lueckenliste, vergleichsverhandlung-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorlaeufiger Mandantenkommunikation Entscheidungsvorlage, Vwvfg Dokumentenmatrix Und Lueckenliste, Vergleichsverhandlung Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Vorlaeufiger Mandantenkommunikation Entscheidungsvorlage, Vwvfg Dokumentenmatrix Und Lueckenliste, Vergleichsverhandlung Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-vorlaeufiger-mandantenkommunikation-entscheidungsvorlage` | Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vwvfg-dokumentenmatrix-und-lueckenliste` | Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-vorlaeufiger-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vorlaeufiger: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vwvfg-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vwvfg: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
+**Fokus:** Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage.
 
 # Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht
 

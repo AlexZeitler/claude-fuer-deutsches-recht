@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-grosskanzlei-corpora-bis-beirat-amtszeit-und
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 04; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-tax-structuring-general, grosskanzlei-corporate-ma-transaktionsstruktur, grosskanzlei-corporate-ma-umwandlungsrecht, grosskanzlei-corporate-ma-umwandlungssteuerrecht, grosskanzlei-ma-erechnung-gobd und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Tax Structuring General, Grosskanzlei Corporate Ma Transaktionsstruktur, Grosskanzlei Corporate Ma Umwandlungsrecht, Grosskanzlei Corporate Ma Umwandlungssteuerrecht und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Tax Structuring General bis Beirat Amtszeit Und Rotation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-tax-structuring-general` | Tax Structuring General fuer Corporate/M&A: fuehrt steuerliche Strukturthemen, UmwStG-Schnittstellen, Verlustvortraege, Grunderwerbsteuer, Quellensteuer und SPA-Tax-Klauseln zusammen. |
 | `grosskanzlei-corporate-ma-transaktionsstruktur` | Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Prüfraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht für spezifische UmwG-Faelle und zu SPA/APA-Entwurf. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-tax-structuring-general`
 
-**Frühere Beschreibung:** Tax Structuring General fuer Corporate/M&A: fuehrt steuerliche Strukturthemen, UmwStG-Schnittstellen, Verlustvortraege, Grunderwerbsteuer, Quellensteuer und SPA-Tax-Klauseln zusammen.
+**Fokus:** Tax Structuring General fuer Corporate/M&A: fuehrt steuerliche Strukturthemen, UmwStG-Schnittstellen, Verlustvortraege, Grunderwerbsteuer, Quellensteuer und SPA-Tax-Klauseln zusammen.
 
 # Tax Structuring General
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-transaktionsstruktur`
 
-**Frühere Beschreibung:** Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Prüfraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht für spezifische UmwG-Faelle und zu SPA/APA-Entwurf.
+**Fokus:** Transaktionsstruktur für M&A entwickeln und Varianten bewerten: Anwendungsfall Mandant fragt welche Transaktionsstruktur für seinen Unternehmenskauf -verkauf oder Carve-out am besten passt. Share Deal Asset Deal Carve-out Joint Venture Verschmelzung Spaltung Formwechsel Roll-over Managementbeteiligung. Prüfraster steuerliche Implikationen, Haftungsrisiken, regulatorische Anforderungen, Zeitplan-Auswirkungen, Bewertungseffekte. Output Strukturvergleich-Matrix mit Empfehlung und naechsten Schritten. Abgrenzung zu Umwandlungsrecht für spezifische UmwG-Faelle und zu SPA/APA-Entwurf.
 
 # Transaktionsstrukturierung
 
@@ -340,7 +340,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-umwandlungsrecht`
 
-**Frühere Beschreibung:** Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur.
+**Fokus:** Umwandlungsrecht Verschmelzung Spaltung Formwechsel und Carve-outs nach UmwG bearbeiten: Anwendungsfall Mandant plant Verschmelzung zweier GmbHs Ausgliederung eines Geschäftsbereichs oder Formwechsel AG zu GmbH im Rahmen einer Transaktion. §§ 2-38 UmwG Verschmelzung, §§ 123-173 UmwG Spaltung, §§ 190-304 UmwG Formwechsel. Prüfraster notarielle Schritte Registerpflichten Arbeitnehmerschutz Gläubigerschutz steuerliche Rückwirkung M&A-Zeitplan. Output Umwandlungs-Workflow mit Schritt-fuer-Schritt-Plan und Zeitplan-Integration. Abgrenzung zu Umwandlungssteuerrecht und zu Transaktionsstruktur.
 
 # Umwandlungsrecht
 
@@ -557,7 +557,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-umwandlungssteuerrecht`
 
-**Frühere Beschreibung:** Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Prüfraster Buchwertantrag-Voraussetzungen, steuerliche Rückwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitsprüfung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht für gesellschaftsrechtliche Seite und zu Transaktionsstruktur.
+**Fokus:** Umwandlungssteuerrecht Buchwertantrag steuerliche Rückwirkung und Verlustuntergang prüfen: Anwendungsfall Corporate-Team und Steuerteam muessen umwandlungssteuerliche Strukturentscheidung abstimmen. §§ 20-24 UmwStG Einbringung, § 8c KStG Verlustuntergang, § 6a GrEStG Grunderwerbsteuer-Ergaenzungstatbestand. Prüfraster Buchwertantrag-Voraussetzungen, steuerliche Rückwirkung Siebenmonatsfrist, § 8c KStG Schaedlichkeitsprüfung, GrESt-Befreiung und Nachbehaltefristen. Output Steuerliche Strukturmatrix mit Buchwertantrag und Risikobewertung. Abgrenzung zu Umwandlungsrecht für gesellschaftsrechtliche Seite und zu Transaktionsstruktur.
 
 # Umwandlungssteuerrecht
 
@@ -770,7 +770,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-ma-erechnung-gobd`
 
-**Frühere Beschreibung:** Freistehender Billing- GoBD- und E-Rechnungsworkflow für M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. § 3a RVG Stundenhonorar, GoBD Aufbewahrung, ZUGFeRD XRechnung Standard. Prüfraster Big-Law-Narrative, Phasenbudget WIP, Caps Success Fees, Auslagen Umsatzsteuer, DATEV-Buchungslogik. Output E-Rechnung-Paket mit XRechnung-XML ZUGFeRD-Prüfbericht und Buchungsnachweis. Abgrenzung zu Billing-Narratives-Skill für plugingebundene Abrechnung.
+**Fokus:** Freistehender Billing- GoBD- und E-Rechnungsworkflow für M&A-Mandate: Anwendungsfall Kanzlei muss für M&A-Mandat GoBD-konforme Rechnung XRechnung-XML und ZUGFeRD-Prüfpaket erstellen. § 3a RVG Stundenhonorar, GoBD Aufbewahrung, ZUGFeRD XRechnung Standard. Prüfraster Big-Law-Narrative, Phasenbudget WIP, Caps Success Fees, Auslagen Umsatzsteuer, DATEV-Buchungslogik. Output E-Rechnung-Paket mit XRechnung-XML ZUGFeRD-Prüfbericht und Buchungsnachweis. Abgrenzung zu Billing-Narratives-Skill für plugingebundene Abrechnung.
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow
 
@@ -944,7 +944,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `beirat-abgrenzung-aufsichtsrat`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Abgrenzung Aufsichtsrat; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Abgrenzung Aufsichtsrat
 
@@ -1010,7 +1010,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 7. `beirat-amtszeit-und-rotation`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin grosskanzlei-corporate-ma: Beirat Amtszeit Und Rotation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Amtszeit Und Rotation
 

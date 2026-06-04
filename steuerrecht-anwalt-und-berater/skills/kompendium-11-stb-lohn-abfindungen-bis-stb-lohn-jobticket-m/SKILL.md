@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-stb-lohn-abfindungen-bis-stb-lohn-jobticket-m
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 11; bündelt 9 frühere Spezialskills (stb-lohn-abfindungen-besteuerung-funftel-regel, stb-lohn-ausgleichszahlungen-altersteilzeit, stb-lohn-betriebliche-altersversorgung-grundlagen, stb-lohn-dienstwagen-1-prozent-fahrtenbuch, stb-lohn-direktversicherung-3-nr-63-estg und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Lohn Abfindungen Besteuerung Funftel Regel, Stb Lohn Ausgleichszahlungen Altersteilzeit, Stb Lohn Betriebliche Altersversorgung Grundlagen, Stb Lohn Dienstwagen 1 Prozent Fahrtenbuch und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Lohn Abfindungen Besteuerung Funftel Regel bis Stb Lohn Jobticket Mobilitaet Deutschlandticket
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-lohn-abfindungen-besteuerung-funftel-regel` | Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung. |
 | `stb-lohn-ausgleichszahlungen-altersteilzeit` | Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-lohn-abfindungen-besteuerung-funftel-regel`
 
-**Frühere Beschreibung:** Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung.
+**Fokus:** Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung.
 
 # Abfindungen — Besteuerung mit Fuenftel-Regelung § 34 EStG
 
@@ -164,7 +164,7 @@ Stand: 05/2026.
 
 ## 2. `stb-lohn-ausgleichszahlungen-altersteilzeit`
 
-**Frühere Beschreibung:** Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung.
+**Fokus:** Altersteilzeit Block-Modell Gleichverteilungsmodell Aufstockungsbetrag. Anwendungsfall AN-Antrag Altersteilzeit ab 55 Block-/Gleichverteilungs-Variante AG-Aufstockung 20 Prozent steuerfrei. Methodik Prüfung AltTZG Berechnung. Output Altersteilzeit-Vereinbarung Lohn-Abrechnung.
 
 # Altersteilzeit — Block- und Gleichverteilungsmodell
 
@@ -302,7 +302,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-betriebliche-altersversorgung-grundlagen`
 
-**Frühere Beschreibung:** Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz.
+**Fokus:** Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz.
 
 # Betriebliche Altersversorgung (bAV) — Grundlagen
 
@@ -437,7 +437,7 @@ Stand: 05/2026.
 
 ## 4. `stb-lohn-dienstwagen-1-prozent-fahrtenbuch`
 
-**Frühere Beschreibung:** Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall geldwerter Vorteil Privatnutzung Dienstwagen E-Auto Hybrid Listenpreis Brutto-Methode. Methodik Prüfung Methode Vergleich Steuerklasse. Output Lohn-Abrechnung mit korrektem Sachbezug Dienstwagen.
+**Fokus:** Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall geldwerter Vorteil Privatnutzung Dienstwagen E-Auto Hybrid Listenpreis Brutto-Methode. Methodik Prüfung Methode Vergleich Steuerklasse. Output Lohn-Abrechnung mit korrektem Sachbezug Dienstwagen.
 
 # Dienstwagen — 1-Prozent-Methode oder Fahrtenbuch
 
@@ -582,7 +582,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-direktversicherung-3-nr-63-estg`
 
-**Frühere Beschreibung:** Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik Beitragsberechnung Beitragsbemessung Auswirkung Netto. Output Lohn-Konfiguration mit Direktversicherung.
+**Fokus:** Direktversicherung Steuerfreiheit § 3 Nr 63 EStG bis 8 Prozent BBG SV-frei bis 4 Prozent BBG. Anwendungsfall Entgeltumwandlung Direktversicherung Konfiguration Mandant AG-Zuschuss 15 Prozent. Methodik Beitragsberechnung Beitragsbemessung Auswirkung Netto. Output Lohn-Konfiguration mit Direktversicherung.
 
 # Direktversicherung — § 3 Nr. 63 EStG
 
@@ -711,7 +711,7 @@ Stand: 05/2026.
 
 ## 6. `stb-lohn-elternzeit-mutterschutz`
 
-**Frühere Beschreibung:** Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung.
+**Fokus:** Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung.
 
 # Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld
 
@@ -852,7 +852,7 @@ Stand: 05/2026.
 
 ## 7. `stb-lohn-firmenrad-leasing-jobrad`
 
-**Frühere Beschreibung:** JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Überlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Prüfung Konfiguration Leasingvertrag. Output Lohn-Abrechnung mit JobRad.
+**Fokus:** JobRad Dienstrad Leasingmodell steuerliche Behandlung. Anwendungsfall AG-Leasing eines Fahrrads oder E-Bikes Überlassung an AN durch Gehaltsumwandlung Sachbezug von einem Viertel Prozent. Methodik Prüfung Konfiguration Leasingvertrag. Output Lohn-Abrechnung mit JobRad.
 
 # JobRad / Dienstrad — Steuerliche Behandlung
 
@@ -980,7 +980,7 @@ Stand: 05/2026.
 
 ## 8. `stb-lohn-jahresmeldungen-ahn-asn-besondere`
 
-**Frühere Beschreibung:** Jahresmeldungen DEUEV Jahreslohnsumme Abmelde- und Sondermeldungen. Anwendungsfall Jahresende-Meldungen 15. Februar Folgejahr AN-Jahresarbeitsentgelt-Meldung Sondermeldungen Lohnsteuerbescheinigung. Methodik Standardablauf. Output Jahresmeldungen Bescheinigungen.
+**Fokus:** Jahresmeldungen DEUEV Jahreslohnsumme Abmelde- und Sondermeldungen. Anwendungsfall Jahresende-Meldungen 15. Februar Folgejahr AN-Jahresarbeitsentgelt-Meldung Sondermeldungen Lohnsteuerbescheinigung. Methodik Standardablauf. Output Jahresmeldungen Bescheinigungen.
 
 # Jahresmeldungen — Lohnsumme, Sondermeldungen, LSt-Bescheinigung
 
@@ -1110,7 +1110,7 @@ Stand: 05/2026.
 
 ## 9. `stb-lohn-jobticket-mobilitaet-deutschlandticket`
 
-**Frühere Beschreibung:** Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung Konfiguration. Output Lohn-Abrechnung mit Jobticket.
+**Fokus:** Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung Konfiguration. Output Lohn-Abrechnung mit Jobticket.
 
 # Jobticket und Deutschlandticket — Steuerliche Behandlung
 

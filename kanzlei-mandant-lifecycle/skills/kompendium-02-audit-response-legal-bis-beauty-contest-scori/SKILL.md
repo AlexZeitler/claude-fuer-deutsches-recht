@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-audit-response-legal-bis-beauty-contest-scori
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (audit-response-legal, audit-trail-and-logs, authority-matrix, bad-news-memo, beauty-contest-scoring) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Audit Response Legal, Audit Trail And Logs, Authority Matrix, Bad News Memo und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Audit Response Legal bis Beauty Contest Scoring
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `audit-response-legal` | Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `audit-trail-and-logs` | Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `audit-response-legal`
 
-**Frühere Beschreibung:** Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Audit Response Legal: steuert Wirtschaftsprüferanfragen, Rechtsstreitbestätigungen und Privilege-sichere Antworten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Audit Response Legal
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `audit-trail-and-logs`
 
-**Frühere Beschreibung:** Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Audit Trail und Logs: steuert wer hat wann was gesehen, geändert, freigegeben oder exportiert zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Audit Trail und Logs
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `authority-matrix`
 
-**Frühere Beschreibung:** Authority Matrix: steuert wer darf Mandat, Budget, Vergleich, Rechtsmittel, Presse und Strategie freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Authority Matrix: steuert wer darf Mandat, Budget, Vergleich, Rechtsmittel, Presse und Strategie freigeben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Authority Matrix
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `bad-news-memo`
 
-**Frühere Beschreibung:** Bad News Memo: steuert Kanzlei muss schlechte Nachricht liefern, ohne Vertrauen zu zerstören oder Haftung zu verschleiern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Bad News Memo: steuert Kanzlei muss schlechte Nachricht liefern, ohne Vertrauen zu zerstören oder Haftung zu verschleiern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Bad News Memo
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `beauty-contest-scoring`
 
-**Frühere Beschreibung:** Beauty Contest Scoring: steuert Kanzleien nach Erfahrung, Team, Budget, Chemistry, Konflikten und Umsetzungskraft bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Beauty Contest Scoring: steuert Kanzleien nach Erfahrung, Team, Budget, Chemistry, Konflikten und Umsetzungskraft bewerten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Beauty Contest Scoring
 

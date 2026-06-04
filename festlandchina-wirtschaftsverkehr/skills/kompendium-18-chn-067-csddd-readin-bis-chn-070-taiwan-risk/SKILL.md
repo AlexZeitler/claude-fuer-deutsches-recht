@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-chn-067-csddd-readin-bis-chn-070-taiwan-risk
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (chn-067-csddd-readiness, chn-068-whistleblower-channel-china-supply, chn-069-politically-sensitive-products, chn-070-taiwan-risk-scenario) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 067 Csddd Readiness, Chn 068 Whistleblower Channel China Supply, Chn 069 Politically Sensitive Products, Chn 070 Taiwan Risk Scenario; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 067 Csddd Readiness bis Chn 070 Taiwan Risk Scenario
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-067-csddd-readiness` | EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan. |
 | `chn-068-whistleblower-channel-china-supply` | Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-067-csddd-readiness`
 
-**Frühere Beschreibung:** EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan.
+**Fokus:** EU CSDDD-Readiness für China-Lieferketten: EU-RL 2024/1760 Anforderungen, Anwendungsbereich und Fristen, Sorgfaltspflichten gegenüber eigenen Tätigkeiten und Geschaeftspartnern in CN, Umwelt- und Menschenrechtsindikatoren, Zivilrechtliche Haftung Art. 29 CSDDD, Verhältnis zu LkSG. Output: CSDDD-Gap-Analyse China-Lieferkette und Umsetzungsfahrplan.
 
 # EU CSDDD-Readiness China: Gap-Analyse und Umsetzung
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-068-whistleblower-channel-china-supply`
 
-**Frühere Beschreibung:** Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika.
+**Fokus:** Whistleblower-Kanäle für China-Lieferketten: HinSchG (DE) Mindestanforderungen, EU-Hinweisgeberschutz-RL 2019/1937, Umsetzung in China-Betrieben (lokale Einschränkungen CNat. Sicherheitsrecht), Anonymitätsschutz, Zwei-Wege-Kommunikation, Eskalationspfade, Schutz vor Vergeltung in CN. Output: Whistleblower-Kanalkonzept international mit China-Spezifika.
 
 # Whistleblower-Kanäle China: HinSchG und lokale Einschränkungen
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-069-politically-sensitive-products`
 
-**Frühere Beschreibung:** Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo.
+**Fokus:** Politisch sensible Produkte im China-Geschaeft: Dual-Use-Grenze bei Überwachungstechnik (Gesichtserkennung, IMSI-Catcher), Export nach XUAR/Tibet, chinesische Unreliable Entity List Gegenmaßnahmen, US-Export-Restriktionen Surveillance Tech, Reputation-Risiken bei Dual-Use-Überwachung, Compliance-Kontext Menschenrechte. Output: Politische Sensitivitätsprüfung und Export-Compliance-Memo.
 
 # Politisch sensible Produkte China: Überwachungstechnik und Dual-Use
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-070-taiwan-risk-scenario`
 
-**Frühere Beschreibung:** Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan.
+**Fokus:** Taiwan-Risikoszenario für Unternehmen: Rechtliche Konsequenzen eines militärischen Konflikts oder Blockade (Lieferketten, Vertragsrecht Force Majeure), Vorsorgeplanung, Supply-Chain-Mapping Taiwan-Abhängigkeit (TSMC/Halbleiter), Versicherungslösungen, Vertragsklauseln Change-in-Law/Force Majeure, Exportkontrolle-Szenarien. Output: Taiwan-Risikoszenario-Analyse und Notfallplan.
 
 # Taiwan-Risikoszenario: Rechtliche und operative Vorbereitung
 

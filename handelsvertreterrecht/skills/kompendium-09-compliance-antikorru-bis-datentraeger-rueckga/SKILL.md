@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-compliance-antikorru-bis-datentraeger-rueckga
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (compliance-antikorruption, crm-und-datenschutz, cross-selling, datentraeger-rueckgabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Compliance Antikorruption, Crm Und Datenschutz, Cross Selling, Datentraeger Rueckgabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - handelsvertreterrecht
+# Arbeitsbereich - Compliance Antikorruption bis Datentraeger Rueckgabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `compliance-antikorruption` | Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen. |
 | `crm-und-datenschutz` | Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehmers an den erhobenen Kundendaten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `compliance-antikorruption`
 
-**Frühere Beschreibung:** Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen.
+**Fokus:** Prüft Compliance-Anforderungen und Antikorruptionspflichten im Handelsvertrieb: Pflichten des Handelsvertreters nach § 86 HGB zur Interessenwahrung, Offenlegungspflichten bei Interessenkonflikten, Haftungsrisiken bei Bestechungszahlungen nach StGB und Vorgaben des Lieferkettensorgfaltspflichtengesetzes bei internationalen Vertriebsstrukturen.
 
 # Compliance und Antikorruption im Handelsvertretervertrieb
 
@@ -108,7 +108,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 2. `crm-und-datenschutz`
 
-**Frühere Beschreibung:** Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehmers an den erhobenen Kundendaten.
+**Fokus:** Analysiert datenschutzrechtliche Anforderungen beim Einsatz von CRM-Systemen im Handelsvertrieb nach DSGVO und § 88 HGB: Verarbeitung von Kundendaten durch Handelsvertreter, Verantwortlichkeit und Auftragsverarbeitung, Herausgabepflichten von CRM-Daten bei Vertragsende sowie Rechte des Unternehmers an den erhobenen Kundendaten.
 
 # CRM-Systeme und Datenschutz im Handelsvertretervertrag nach DSGVO und § 88 HGB
 
@@ -187,7 +187,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 3. `cross-selling`
 
-**Frühere Beschreibung:** Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen.
+**Fokus:** Analysiert Provisionsansprüche bei Cross-Selling im Handelsvertretervertrag: Provision für Produkte außerhalb des ursprünglichen Vertragsgebiets oder Sortiments, Erweiterung des Provisionsanspruchs bei mehreren vertretenen Produktlinien, Abgrenzung von Haupt- und Nebenprodukten sowie vertragliche Gestaltung von Multi-Produkt-Provisionsstrukturen.
 
 # Cross-Selling und Multi-Produkt-Provision im Handelsvertretervertrag
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 4. `datentraeger-rueckgabe`
 
-**Frühere Beschreibung:** Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO.
+**Fokus:** Regelt Herausgabe und Rückgabe von Datenträgern, Kundenlisten, Geschäftsunterlagen und digitalen Zugängen bei Vertragsende nach § 88 HGB und § 667 BGB analog: Umfang der Herausgabepflicht, Vollstreckung bei Verweigerung sowie datenschutzrechtliche Löschpflichten nach DSGVO.
 
 # Rückgabe von Datenträgern und Unterlagen bei Vertragsende nach § 88 HGB
 

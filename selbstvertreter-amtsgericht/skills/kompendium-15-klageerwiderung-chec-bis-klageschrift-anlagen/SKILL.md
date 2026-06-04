@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-klageerwiderung-chec-bis-klageschrift-anlagen
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (klageerwiderung-checkliste-alle-punkte, klageerwiderung-replik-anlagen-b1-b2-fortlaufend, klageschrift-anlagen-bezeichnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Klageerwiderung Checkliste Alle Punkte, Klageerwiderung Replik Anlagen B1 B2 Fortlaufend, Klageschrift Anlagen Bezeichnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageerwiderung-checkliste-alle-punkte` | Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt. |
 | `klageerwiderung-replik-anlagen-b1-b2-fortlaufend` | Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageerwiderung-checkliste-alle-punkte`
 
-**Frühere Beschreibung:** Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt.
+**Fokus:** Vollständige Checkliste für die Klageerwiderung. Pro Klage-Punkt eine Antwort Sachverhaltsstellung Bestreiten Einreden Beweisanbietung Antrag auf Klage-Abweisung. Strukturierte Vorgehensweise für den Beklagten ohne Anwalt.
 
 # Klageerwiderung: jeden Punkt der Klage beantworten
 
@@ -238,7 +238,7 @@ Stand: 05/2026. § 138 ZPO unveraendert.
 
 ## 2. `klageerwiderung-replik-anlagen-b1-b2-fortlaufend`
 
-**Frühere Beschreibung:** Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren.
+**Fokus:** Anlagen-Nummerierung in Klageerwiderung und Replik korrekt fortführen. Beklagter nutzt B1 B2 B3. Klaeger nutzt in Replik K-Folge-Nummern ab Klage-Endnummer plus eins. Keine doppelten Nummern Querverweise zwischen Schriftsaetzen. Anlagenverzeichnis aktualisieren.
 
 # Anlagen in Klageerwiderung und Replik — die Nummerierung fortfuehren
 
@@ -388,7 +388,7 @@ Stand: 05/2026. K- bzw. B-Anlagen-Konvention ist gerichtspraxis-ueblich, nicht g
 
 ## 3. `klageschrift-anlagen-bezeichnen`
 
-**Frühere Beschreibung:** Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift. K1 K2 K3 für Klaeger B1 B2 B3 für Beklagter. Anlagenverzeichnis Leseführung im Sachvortrag und Vorbereitung der Abschriften für Gericht und Beklagten.
+**Fokus:** Bezeichnung Sortierung und Beifuegung von Anlagen zur Klageschrift. K1 K2 K3 für Klaeger B1 B2 B3 für Beklagter. Anlagenverzeichnis Leseführung im Sachvortrag und Vorbereitung der Abschriften für Gericht und Beklagten.
 
 # Anlagen zur Klage richtig bezeichnen
 

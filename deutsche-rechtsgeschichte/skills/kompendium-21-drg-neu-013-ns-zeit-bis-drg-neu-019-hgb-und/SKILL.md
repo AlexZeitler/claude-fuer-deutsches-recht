@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-drg-neu-013-ns-zeit-bis-drg-neu-019-hgb-und
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 21; bündelt 6 frühere Spezialskills (drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz, drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang, drg-neu-015-grundgesetz-entstehung-parlamentarischer-rat, drg-neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei, drg-neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz, Drg Neu 014 Entnazifizierung Kontrollratsrecht Und Uebergang, Drg Neu 015 Grundgesetz Entstehung Parlamentarischer Rat, Drg Neu 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg Neu 013 Ns Zeit Unrecht Gesetzgebung Und Justiz bis Drg Neu 019 Hgb Und Handelsrechtsvereinheitlichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz` | Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang` | Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-neu-013-ns-zeit-unrecht-gesetzgebung-und-justiz`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: NS-Zeit Unrecht Gesetzgebung und Justiz mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 013 Ns Zeit Unrecht Gesetzgebung Und Justiz
 
@@ -94,7 +94,7 @@ Skill fuer die NS-Gesetzgebung 1933-1945 und ihre rechtshistorische Bewertung.
 
 ## 2. `drg-neu-014-entnazifizierung-kontrollratsrecht-und-uebergang`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Entnazifizierung Kontrollratsrecht und Übergang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 014 Entnazifizierung Kontrollratsrecht Und Uebergang
 
@@ -147,7 +147,7 @@ Skill fuer die Entnazifizierung 1945-1949 und das alliierte Kontrollratsrecht.
 
 ## 3. `drg-neu-015-grundgesetz-entstehung-parlamentarischer-rat`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Grundgesetz Entstehung Parlamentarischer Rat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 015 Grundgesetz Entstehung Parlamentarischer Rat
 
@@ -218,7 +218,7 @@ Skill fuer die Entstehung des Grundgesetzes 1948/49 und seine Architektur.
 
 ## 4. `drg-neu-016-ddr-recht-sozialistische-gesetzlichkeit-und-ueberlei`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: DDR-Recht sozialistische Gesetzlichkeit und Überleitung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 016 Ddr Recht Sozialistische Gesetzlichkeit Und Ueberlei
 
@@ -281,7 +281,7 @@ Skill fuer das Recht der DDR 1949-1990 und die Ueberleitung 1990.
 
 ## 5. `drg-neu-018-bgb-inkrafttreten-und-partikularrechtsabloesung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: BGB Inkrafttreten und Partikularrechtsablösung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 018 Bgb Inkrafttreten Und Partikularrechtsabloesung
 
@@ -351,7 +351,7 @@ Skill fuer das Inkrafttreten des BGB **01.01.1900** und die Abloesung der Partik
 
 ## 6. `drg-neu-019-hgb-und-handelsrechtsvereinheitlichung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: HGB und Handelsrechtsvereinheitlichung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 019 Hgb Und Handelsrechtsvereinheitlichung
 

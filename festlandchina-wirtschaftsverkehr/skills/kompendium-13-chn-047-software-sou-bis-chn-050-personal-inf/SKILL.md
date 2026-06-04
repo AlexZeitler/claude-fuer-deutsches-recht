@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-chn-047-software-sou-bis-chn-050-personal-inf
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (chn-047-software-source-code-and-saas, chn-048-data-localization-and-crossborder-data, chn-049-cybersecurity-law-risk-map, chn-050-personal-information-protection-law-touchpoints) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 047 Software Source Code And Saas, Chn 048 Data Localization And Crossborder Data, Chn 049 Cybersecurity Law Risk Map, Chn 050 Personal Information Protection Law Touchpoints; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 047 Software Source Code And Saas bis Chn 050 Personal Information Protection Law Touchpoints
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-047-software-source-code-and-saas` | Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen. |
 | `chn-048-data-localization-and-crossborder-data` | Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-047-software-source-code-and-saas`
 
-**Frühere Beschreibung:** Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen.
+**Fokus:** Software, Source Code und SaaS im China-Geschaeft: Datenlokalisierung Cybersecurity Law Art. 37, MLPS (Multi-Level Protection Scheme), ICP-Lizenz, Source-Code-Escrow vs. Preisgabe-Risiken, Urheberrecht VR China (Copyright Law), SaaS-Verträge mit CN-Kunden, Exportkontrolle Software BAFA. Output: Software-Compliance-Konzept China und Vertragsrahmen.
 
 # Software und SaaS China: Datenlokalisierung/ICP/Exportkontrolle
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-048-data-localization-and-crossborder-data`
 
-**Frühere Beschreibung:** Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster.
+**Fokus:** Datenlokalisierung und grenzüberschreitender Datentransfer VR China: Cybersecurity Law Art. 37, Data Security Law Art. 31, PIPL Art. 38-43, CAC-Sicherheitsbewertung, SCCs CN (Standardvertragsklauseln CAC 2022), PIPL-Datentransfer-Zertifizierung. Verhältnis zu DSGVO. Output: Datentransfer-Compliance-Matrix CN-DE und Vertragsmuster.
 
 # Datenlokalisierung China: Cybersecurity Law/DSL/PIPL
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-049-cybersecurity-law-risk-map`
 
-**Frühere Beschreibung:** Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan.
+**Fokus:** Cybersecurity Law VR China (Wangluo Anquan Fa 2017): Risikolandkarte für deutsche Unternehmen – CII-Betreiberpflichten, MLPS-Zertifizierung, Netzwerk-Produktprüfung, Datenlokalisierung, Behördenkooperation CAC/MPS, Sicherheitsvorfalls-Meldepflichten. Verhältnis zu NIS-2 EU. Output: Cybersecurity-Risikolandkarte und Maßnahmenplan.
 
 # Cybersecurity Law VR China: Risikolandkarte für deutsche Unternehmen
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-050-personal-information-protection-law-touchpoints`
 
-**Frühere Beschreibung:** PIPL VR China 2021 (Personal Information Protection Law) Berührungspunkte: Grundsätze, Rechtsgrundlagen (Einwilligung CN), betroffene Personenkategorien, grenzüberschreitende Verarbeitung, Bußgeldsystem, Verhältnis DSGVO/PIPL im internationalen Konzernverbund, CAC-Aufsicht. Output: PIPL-DSGVO-Vergleichsmatrix und Konzern-Compliance-Fahrplan.
+**Fokus:** PIPL VR China 2021 (Personal Information Protection Law) Berührungspunkte: Grundsätze, Rechtsgrundlagen (Einwilligung CN), betroffene Personenkategorien, grenzüberschreitende Verarbeitung, Bußgeldsystem, Verhältnis DSGVO/PIPL im internationalen Konzernverbund, CAC-Aufsicht. Output: PIPL-DSGVO-Vergleichsmatrix und Konzern-Compliance-Fahrplan.
 
 # PIPL China 2021: Pflichten und Verhältnis zur DSGVO
 

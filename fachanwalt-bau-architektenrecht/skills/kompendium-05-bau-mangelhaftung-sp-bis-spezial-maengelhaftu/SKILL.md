@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bau-mangelhaftung-sp-bis-spezial-maengelhaftu
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (bau-mangelhaftung-spezial-symptomtheorie, bautraeger-haftungsausschluss-307-bgb, bautraeger-maengelhaftung-fuenf-jahre-634a, spezial-maengelhaftung-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bau Mangelhaftung Spezial Symptomtheorie, Bautraeger Haftungsausschluss 307 Bgb, Bautraeger Maengelhaftung Fuenf Jahre 634a, Maengelhaftung Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bau Mangelhaftung Spezial Symptomtheorie bis Maengelhaftung Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bau-mangelhaftung-spezial-symptomtheorie` | Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausuebung Recht der Mangelbeseitigung. Pruefraster fuer Schriftsatz. |
 | `bautraeger-haftungsausschluss-307-bgb` | Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bau-mangelhaftung-spezial-symptomtheorie`
 
-**Frühere Beschreibung:** Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausuebung Recht der Mangelbeseitigung. Pruefraster fuer Schriftsatz.
+**Fokus:** Spezialfall Symptomtheorie BGH zur Mangelruege: Beschreibung Symptom statt Ursache reicht, Bauherr muss nicht Ursache benennen. Konkretisierung der Mangelruege, Ausuebung Recht der Mangelbeseitigung. Pruefraster fuer Schriftsatz.
 
 # Bau: Symptomtheorie-Mangelruege
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 2. `bautraeger-haftungsausschluss-307-bgb`
 
-**Frühere Beschreibung:** Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster.
+**Fokus:** Bautraeger-Haftungsausschluss und § 307 BGB. Skill klaert welche Haftungsklauseln im Bautraegervertrag wirksam und welche unwirksam sind insbesondere Maengelausschluss Haftungsbegrenzung Kardinalpflichten-Verletzung. Liefert Pruefraster.
 
 # Bautraeger Haftungsausschluss 307 Bgb
 
@@ -124,7 +124,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 3. `bautraeger-maengelhaftung-fuenf-jahre-634a`
 
-**Frühere Beschreibung:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjaehrungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
+**Fokus:** Bautraeger-Maengelhaftung 5 Jahre nach § 634a BGB. Skill klaert die Verjaehrungsfrist Bauwerk Beginn der Frist (Abnahme) Hemmung Unterbrechung sowie die Kategorisierung der Maengel offene und versteckte. Liefert Pruefraster.
 
 # Bautraeger Maengelhaftung Fuenf Jahre 634A
 
@@ -163,7 +163,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 4. `spezial-maengelhaftung-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Maengelhaftung: Verhandlung, Vergleich und Eskalation im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Maengelhaftung: Verhandlung, Vergleich und Eskalation
 

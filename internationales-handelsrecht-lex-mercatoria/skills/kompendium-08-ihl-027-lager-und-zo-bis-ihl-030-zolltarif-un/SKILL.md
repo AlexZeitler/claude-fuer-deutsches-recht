@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ihl-027-lager-und-zo-bis-ihl-030-zolltarif-un
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (ihl-027-lager-und-zolllager, ihl-028-transportversicherung, ihl-029-warentransit-und-gefahruebergang, ihl-030-zolltarif-und-ursprung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 027 Lager Und Zolllager, Ihl 028 Transportversicherung, Ihl 029 Warentransit Und Gefahruebergang, Ihl 030 Zolltarif Und Ursprung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 027 Lager Und Zolllager bis Ihl 030 Zolltarif Und Ursprung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-027-lager-und-zolllager` | Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen. |
 | `ihl-028-transportversicherung` | Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-027-lager-und-zolllager`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen.
+**Fokus:** Internationales Handelsrecht: Lagerrecht (HGB §§ 467-475h) und Zolllager nach Unionszollkodex (UZK) Art. 237-242. Lagerhalter-Pflichten, Haftung, Zollverfahren, Einfuhr- und Ausfuhrlager, ATLAS-Anmeldung und Zolllagertypen.
 
 # Lager- und Zolllager
 
@@ -81,7 +81,7 @@ HGB §§ 467-475h: gesetze-im-internet.de. UZK (VO 952/2013): eur-lex.europa.eu.
 
 ## 2. `ihl-028-transportversicherung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation.
+**Fokus:** Internationales Handelsrecht: Transportversicherung im internationalen Handel. Institute Cargo Clauses A/B/C (Lloyd's), All-Risk vs. benannte Gefahren, Versicherungspflicht nach Incoterms CIF/CIP, Versicherungszertifikat für Akkreditive und Subrogation.
 
 # Transportversicherung im internationalen Handel
 
@@ -133,7 +133,7 @@ ICC A/B/C 2009: lloyds.com (LMA). UCP 600 Art. 28: iccwbo.org. Incoterms 2020: i
 
 ## 3. `ihl-029-warentransit-und-gefahruebergang`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung.
+**Fokus:** Internationales Handelsrecht: Gefahrübergang bei auf Reise befindlicher Ware nach CISG Art. 68 und Incoterms 2020. Verkauf auf Reise (string trading), Rückwirkungsfiktion, Dokumentengefahr und Absicherung durch Transportversicherung.
 
 # Warentransit und Gefahrübergang
 
@@ -184,7 +184,7 @@ CISG Art. 67-69: uncitral.un.org. Schrifttum: Schlechtriem/Schwenzer Art. 68 (20
 
 ## 4. `ihl-030-zolltarif-und-ursprung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Zolltarif (EU Kombinierte Nomenklatur, HS-Code) und nicht-präferenzieller Ursprung nach UZK Art. 59-63. Einreihung von Waren, wesentliche Be- und Verarbeitung, ursprungsbestimmende Vorgänge und Antidumping-Relevanz.
+**Fokus:** Internationales Handelsrecht: Zolltarif (EU Kombinierte Nomenklatur, HS-Code) und nicht-präferenzieller Ursprung nach UZK Art. 59-63. Einreihung von Waren, wesentliche Be- und Verarbeitung, ursprungsbestimmende Vorgänge und Antidumping-Relevanz.
 
 # Zolltarif und nicht-präferenzieller Ursprung
 

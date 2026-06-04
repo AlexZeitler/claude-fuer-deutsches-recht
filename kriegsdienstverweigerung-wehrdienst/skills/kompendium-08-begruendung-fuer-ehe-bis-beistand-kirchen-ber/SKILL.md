@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-begruendung-fuer-ehe-bis-beistand-kirchen-ber
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (begruendung-fuer-ehemalige-anerkannte, begruendung-fuer-reservisten, begruendung-fuer-ungediente, begruendung-redaktion-ohne-schablone, beistand-kirchen-beratung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Begruendung Fuer Ehemalige Anerkannte, Begruendung Fuer Reservisten, Begruendung Fuer Ungediente, Begruendung Redaktion Ohne Schablone und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Begruendung Fuer Ehemalige Anerkannte bis Beistand Kirchen Beratung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `begruendung-fuer-ehemalige-anerkannte` | Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe. |
 | `begruendung-fuer-reservisten` | Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `begruendung-fuer-ehemalige-anerkannte`
 
-**Frühere Beschreibung:** Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe.
+**Fokus:** Prüft Widerspruch zwischen alter Anerkennung und späterer Bundeswehrnähe.
 
 # Frühere Anerkennung späterer Dienst
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `begruendung-fuer-reservisten`
 
-**Frühere Beschreibung:** Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe.
+**Fokus:** Spezialwerkstatt für Reservisten mit früherem Dienst und aktueller Heranziehungsnähe.
 
 # Begründung Reservisten
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `begruendung-fuer-ungediente`
 
-**Frühere Beschreibung:** Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem.
+**Fokus:** Spezialwerkstatt für ungediente Antragsteller ohne Umkehrproblem.
 
 # Begründung Ungediente
 
@@ -195,7 +195,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 4. `begruendung-redaktion-ohne-schablone`
 
-**Frühere Beschreibung:** Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren.
+**Fokus:** Überarbeitet persönliche Begründung sprachlich, ohne sie zu standardisieren.
 
 # Redaktion ohne Schablone
 
@@ -250,7 +250,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 5. `beistand-kirchen-beratung`
 
-**Frühere Beschreibung:** Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung.
+**Fokus:** Ordnet Beistand, kirchliche Beauftragte und anwaltliche Vertretung.
 
 # Beistand und Beratung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-mietpreisueberhoehun-bis-mietspiegel-quellen
-description: "mietrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (mietpreisueberhoehung-wistrg-1954-mietwucher, mietsenkungsverlangen, mietspiegel-quellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - mietrecht
+# Arbeitsbereich - Mietpreisueberhoehung Wistrg 1954 Mietwucher, Mietsenkungsverlangen, Mietspiegel Quellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mietpreisueberhoehung-wistrg-1954-mietwucher` | Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, Mietpreisueberhoehung § 5 WiStrG 1954 als Ordnungswidrigkeit und Mietwucher § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rueckforderungs- und Behoerdenpfad. |
 | `mietsenkungsverlangen` | Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mietpreisueberhoehung-wistrg-1954-mietwucher`
 
-**Frühere Beschreibung:** Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, Mietpreisueberhoehung § 5 WiStrG 1954 als Ordnungswidrigkeit und Mietwucher § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rueckforderungs- und Behoerdenpfad.
+**Fokus:** Prueft ueberhoehte Wohnraummiete dreistufig: Mietpreisbremse §§ 556d ff. BGB, Mietpreisueberhoehung § 5 WiStrG 1954 als Ordnungswidrigkeit und Mietwucher § 291 StGB als Straftat; mit Mietspiegel-, Beweis-, Rueckforderungs- und Behoerdenpfad.
 
 # Mietpreisüberhöhung, WiStrG 1954 und Mietwucher
 
@@ -127,7 +127,7 @@ Erstelle je nach Ziel:
 
 ## 2. `mietsenkungsverlangen`
 
-**Frühere Beschreibung:** Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung.
+**Fokus:** Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoß gegen die Mietpreisbremse (§§ 556d ff. BGB), § 5 WiStrG 1954 (Mietpreisüberhöhung als Ordnungswidrigkeit) und § 291 StGB (Mietwucher als Straftat). Erzeugt eine qualifizierte Rüge nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete, Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung.
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStrG 1954, Wucher)
 
@@ -213,7 +213,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mietspiegel-quellen`
 
-**Frühere Beschreibung:** Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht.
+**Fokus:** Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht.
 
 # Mietspiegel-Quellen (amtlich)
 

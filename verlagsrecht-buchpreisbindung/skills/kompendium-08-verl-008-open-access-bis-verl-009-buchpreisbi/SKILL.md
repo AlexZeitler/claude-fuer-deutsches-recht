@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-verl-008-open-access-bis-verl-009-buchpreisbi
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (verl-008-open-access-creative-commons-und-verlagspolitik, verl-009-buchpreisbindung-ladenpreis-festsetzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 008 Open Access Creative Commons Und Verlagspolitik, Verl 009 Buchpreisbindung Ladenpreis Festsetzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 008 Open Access Creative Commons Und Verlagspolitik, Verl 009 Buchpreisbindung Ladenpreis Festsetzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-008-open-access-creative-commons-und-verlagspolitik` | Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung. |
 | `verl-009-buchpreisbindung-ladenpreis-festsetzen` | Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-008-open-access-creative-commons-und-verlagspolitik`
 
-**Frühere Beschreibung:** Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung.
+**Fokus:** Verlagsrecht: Open-Access-Modelle, Creative-Commons-Lizenzen und Verlagspolitik — Rechteabgrenzung, Buchpreisbindung bei OA, Förderauflagen und Vertragsgestaltung.
 
 # Verl-008 · Open Access, Creative Commons und Verlagspolitik
 
@@ -148,7 +148,7 @@ Open Access (OA) und Creative-Commons-Lizenzen (CC) verändern das traditionelle
 
 ## 2. `verl-009-buchpreisbindung-ladenpreis-festsetzen`
 
-**Frühere Beschreibung:** Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis.
+**Fokus:** Buchpreisbindungsgesetz: Ladenpreis rechtssicher festsetzen — BuchPrG §§ 3–5, Preismeldung, Ausnahmen, E-Book-Besonderheiten und Durchsetzungspraxis.
 
 # Verl-009 · Buchpreisbindung: Ladenpreis festsetzen
 

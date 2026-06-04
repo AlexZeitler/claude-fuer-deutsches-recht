@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-fachanwalt-bank-kapi-bis-fachanwalt-bank-kapi
-description: "fachanwalt-bank-kapitalmarktrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft, fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug, fachanwalt-bank-kapitalmarktrecht-kreditkuendigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bank-kapitalmarktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Bank Kapitalmarktrecht Kreditkuendigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-bank-kapitalmarktrecht
+# Arbeitsbereich - Bank Kapitalmarktrecht Anlageberatung Fehlerhaft, Bank Kapitalmarktrecht Cybertrading Anlagebetrug, Bank Kapitalmarktrecht Kreditkuendigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft` | Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug` | Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht anlageberatung fehlerhaft. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Anlageberatung fehlerhaft
 
@@ -155,7 +155,7 @@ Mit freundlichen Gruessen
 
 ## 2. `fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug`
 
-**Frühere Beschreibung:** Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung).
+**Fokus:** Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung).
 
 # Cybertrading-Anlagebetrug
 
@@ -423,7 +423,7 @@ Antrag: Strafverfolgung + Beschlagnahme der Konten
 
 ## 3. `fachanwalt-bank-kapitalmarktrecht-kreditkuendigung`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt bank kapitalmarktrecht kreditkuendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Kreditkündigung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-kv-036-pkv-auslandsr-bis-kv-038-heilpraktiker
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (kv-036-pkv-auslandsreise-und-ruecktransport, kv-037-abrechnung-goae-goz-und-erstattung, kv-038-heilpraktiker-alternative-medizin-und-tarifbedingungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbedingungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 036 Pkv Auslandsreise Und Ruecktransport, Kv 037 Abrechnung Goae Goz Und Erstattung, Kv 038 Heilpraktiker Alternative Medizin Und Tarifbed
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-036-pkv-auslandsreise-und-ruecktransport` | PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung. |
 | `kv-037-abrechnung-goae-goz-und-erstattung` | Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-036-pkv-auslandsreise-und-ruecktransport`
 
-**Frühere Beschreibung:** PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung.
+**Fokus:** PKV-Leistungen auf Auslandsreisen: Geltungsbereich, medizinisch notwendige Behandlung im Ausland, Rücktransport und Koordination mit Reisekrankenversicherung.
 
 # PKV: Auslandsreise und Rücktransport
 
@@ -119,7 +119,7 @@ Die PKV deckt Behandlungen auch im Ausland ab, aber mit Einschränkungen. Dieser
 
 ## 2. `kv-037-abrechnung-goae-goz-und-erstattung`
 
-**Frühere Beschreibung:** Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe.
+**Fokus:** Ärztliche (GOÄ) und zahnärztliche (GOZ) Abrechnung: Steigerungsfaktoren, Analogleistungen, Begründungspflichten und Erstattungsansprüche in der PKV und Beihilfe.
 
 # Abrechnung GOÄ/GOZ und Erstattung
 
@@ -202,7 +202,7 @@ PKV und Beihilfe erstatten ärztliche Honorare nach GOÄ und GOZ. Dieser Skill p
 
 ## 3. `kv-038-heilpraktiker-alternative-medizin-und-tarifbedingungen`
 
-**Frühere Beschreibung:** Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe.
+**Fokus:** Erstattung von Heilpraktiker-Behandlungen und alternativer Medizin in PKV und GKV: Tarif­bedingungen, Leistungsumfang, Evidenzanforderungen und Ablehnungsgründe.
 
 # Heilpraktiker, Alternative Medizin und Tarifbedingungen
 

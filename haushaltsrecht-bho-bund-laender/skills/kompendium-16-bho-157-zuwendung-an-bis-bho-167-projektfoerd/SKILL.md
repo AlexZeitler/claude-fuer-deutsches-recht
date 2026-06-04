@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-bho-157-zuwendung-an-bis-bho-167-projektfoerd
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 16; bündelt 11 frühere Spezialskills (bho-157-zuwendung-an-verband-umschichtung-simu, bho-158-zuwendung-an-verband-sperre-bewerten, bho-159-zuwendung-an-verband-deckung-finden, bho-160-zuwendung-an-verband-szenario-rechnen, bho-161-zuwendung-an-verband-dashboard-bauen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 157 Zuwendung An Verband Umschichtung Simu, Bho 158 Zuwendung An Verband Sperre Bewerten, Bho 159 Zuwendung An Verband Deckung Finden, Bho 160 Zuwendung An Verband Szenario Rechnen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 157 Zuwendung An Verband Umschichtung Simu bis Bho 167 Projektfoerderung Umschichtung Simulie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-157-zuwendung-an-verband-umschichtung-simu` | Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Umschichtung simulieren. Umschichtung simulieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-158-zuwendung-an-verband-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Sperre bewerten. Sperre bewerten für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-157-zuwendung-an-verband-umschichtung-simu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Umschichtung simulieren. Umschichtung simulieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Umschichtung simulieren. Umschichtung simulieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Umschichtung Simu
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-158-zuwendung-an-verband-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Sperre bewerten. Sperre bewerten für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Sperre bewerten. Sperre bewerten für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Sperre Bewerten
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-159-zuwendung-an-verband-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Deckung finden. Deckung finden für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Deckung finden. Deckung finden für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Deckung Finden
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-160-zuwendung-an-verband-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Szenario rechnen. Szenario rechnen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Szenario rechnen. Szenario rechnen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Szenario Rechnen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-161-zuwendung-an-verband-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Dashboard bauen. Dashboard bauen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Dashboard bauen. Dashboard bauen für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Dashboard Bauen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-162-zuwendung-an-verband-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Risiko markieren. Risiko markieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Risiko markieren. Risiko markieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Risiko Markieren
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-163-zuwendung-an-verband-brh-frage-formuli`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: BRH-Frage formulieren. BRH-Frage formulieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: BRH-Frage formulieren. BRH-Frage formulieren für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Brh Frage Formuli
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-164-zuwendung-an-verband-parlamentsfrage-v`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Parlamentsfrage V
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-165-zuwendung-an-verband-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Vollzug tracken. Vollzug tracken für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung an Verband: Vollzug tracken. Vollzug tracken für Zuwendung an Verband im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Zuwendung An Verband Vollzug Tracken
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-166-projektfoerderung-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Titel prüfen. Titel prüfen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Titel prüfen. Titel prüfen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Titel Pruefen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-167-projektfoerderung-umschichtung-simulie`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Umschichtung simulieren. Umschichtung simulieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Umschichtung simulieren. Umschichtung simulieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Umschichtung Simulie
 

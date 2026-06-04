@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-iv-plan-gestaltender-bis-iv-plan-gruppen-klas
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (iv-plan-gestaltender-teil, iv-plan-gruppen-klassenbildung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Gestaltender Teil, Iv Plan Gruppen Klassenbildung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Gestaltender Teil, Iv Plan Gruppen Klassenbildung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-gestaltender-teil` | Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht für darstellenden Teil (iv-plan-darstellender-teil). |
 | `iv-plan-gruppen-klassenbildung` | Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (iv-plan-abstimmung-mehrheiten). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-gestaltender-teil`
 
-**Frühere Beschreibung:** Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht für darstellenden Teil (iv-plan-darstellender-teil).
+**Fokus:** Gestaltenden Teil des Insolvenzplans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Prüfraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht für darstellenden Teil (iv-plan-darstellender-teil).
 
 # IV-integrierte Gestaltender Teil
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-plan-gruppen-klassenbildung`
 
-**Frühere Beschreibung:** Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (iv-plan-abstimmung-mehrheiten).
+**Fokus:** Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestätigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (iv-plan-abstimmung-mehrheiten).
 
 # IV-integrierte Gruppen- und Klassenbildung
 

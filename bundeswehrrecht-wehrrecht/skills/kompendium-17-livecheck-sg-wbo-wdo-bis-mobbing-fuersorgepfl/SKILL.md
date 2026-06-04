@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-livecheck-sg-wbo-wdo-bis-mobbing-fuersorgepfl
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (livecheck-sg-wbo-wdo-wpflg-svg, mandantenbrief-soldat-verstaendlich, mobbing-fuersorgepflicht-bundeswehr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Livecheck Sg Wbo Wdo Wpflg Svg, Mandantenbrief Soldat Verstaendlich, Mobbing Fuersorgepflicht Bundeswehr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Livecheck Sg Wbo Wdo Wpflg Svg, Mandantenbrief Soldat Verstaendlich, Mobbing Fuersorgepflicht Bundeswehr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `livecheck-sg-wbo-wdo-wpflg-svg` | Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org. |
 | `mandantenbrief-soldat-verstaendlich` | Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `livecheck-sg-wbo-wdo-wpflg-svg`
 
-**Frühere Beschreibung:** Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org.
+**Fokus:** Live-Check SG, WBO, WDO, WPflG, SVG: prüft aktuellen Normstand, Änderungen und Verweisungen. Norm-/Quellenanker: gesetze-im-internet.de, dejure.org.
 
 # Live-Check SG, WBO, WDO, WPflG, SVG
 
@@ -139,7 +139,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `mandantenbrief-soldat-verstaendlich`
 
-**Frühere Beschreibung:** Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG.
+**Fokus:** Mandantenbrief Soldat verständlich: erstellt klare, nicht-juristische Erläuterungen komplexer Rechtssituationen für Soldaten. Norm-/Quellenanker: WBO, WDO, SG, SVG.
 
 # Mandantenbrief Soldat — Verständlich erläutern
 
@@ -248,7 +248,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `mobbing-fuersorgepflicht-bundeswehr`
 
-**Frühere Beschreibung:** Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO.
+**Fokus:** Mobbing und Fürsorgepflicht Bundeswehr: prüft §§ 10 und 12 SG, Beschwerdewege, Schadensersatz und WBO. Norm-/Quellenanker: §§ 10 und 12 SG, SoldGG, WBO.
 
 # Mobbing und Fürsorgepflicht Bundeswehr
 

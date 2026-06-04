@@ -1,37 +1,36 @@
 ---
 name: kompendium-02-experimentelle-behan-bis-diga-hersteller-arzt
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 02; bündelt 6 frühere Spezialskills (experimentelle-behandlung-vertrag, fachanwalt-medizinrecht-behandlungsvertrag-630a, fachanwalt-medizinrecht-honorarvertrag-kv, spezial-vertragsarztrecht-schriftsatz-brief-und-memo-bausteine, car-t-haftung-klinik und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Experimentelle Behandlung Vertrag, Fachanwalt Medizinrecht Behandlungsvertrag 630A, Fachanwalt Medizinrecht Honorarvertrag Kv, Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-medizinrecht
+# Arbeitsbereich - Experimentelle Behandlung Vertrag bis Spezial Vertragsarztrecht Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `experimentelle-behandlung-vertrag` | Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `fachanwalt-medizinrecht-behandlungsvertrag-630a` | Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission. |
 | `fachanwalt-medizinrecht-honorarvertrag-kv` | Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern. |
 | `spezial-vertragsarztrecht-schriftsatz-brief-und-memo-bausteine` | Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `car-t-haftung-klinik` | CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
-| `diga-hersteller-arzt-haftung` | DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `experimentelle-behandlung-vertrag`
 
-**Frühere Beschreibung:** Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Experimentelle Behandlung Vertrag: moderner Medizinrechts-Skill für Behandlungsvertrag für innovative Methode, keine Erfolgsgarantie, Aufklärung und Abgrenzung Forschung/Heilversuch. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+
 
 # Experimentelle Behandlung Vertrag
 
@@ -89,7 +88,8 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `fachanwalt-medizinrecht-behandlungsvertrag-630a`
 
-**Frühere Beschreibung:** Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission.
+**Fokus:** Behandlungsvertrag nach §§ 630a-h BGB und Patientenrechte prüfen: Anwendungsfall Patient behauptet Behandlungsfehler oder Aufklärungsmangel oder Arzt braucht Vertragsdokumentation. §§ 630a-h BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr bei grobem Behandlungsfehler, § 630g BGB Akteneinsichtsrecht. Prüfraster Behandlungsstandard § 630a Abs. 2, Aufklärungspflicht § 630e, Dokumentationspflicht § 630f, Beweislast und Umkehr bei grobem Fehler. Output Prüfprotokoll Behandlungsvertrag mit Anspruchsgrundlagen und Beweislage. Abgrenzung zu Behandlungsfehler-Anspruch-Prüfen und zu Gutachterkommission.
+
 
 # Behandlungsvertrag §§ 630a-h BGB
 
@@ -303,7 +303,8 @@ Mit freundlichen Gruessen
 
 ## 3. `fachanwalt-medizinrecht-honorarvertrag-kv`
 
-**Frühere Beschreibung:** Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern.
+**Fokus:** Honorarstreitigkeiten mit Kassenärztlicher Vereinigung begleiten: Anwendungsfall Vertragsarzt erhaelt Honorar-Bescheid mit Kuestzungen oder Wirtschaftlichkeits- oder Plausibilitaetsprüfung laeuft. EBM Einheitlicher Bewertungsmassstab, RLV Regelleistungsvolumen, QZV qualifikationsgebundene Zusatzleistungen, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Honorar-Bescheid prüfen, Wirtschaftlichkeitsprüfung-Status, Plausibilitaets-Grenzwerte, Widerspruch und Klage-Optionen. Output Widerspruchs-Schriftsatz mit Begründung für KV-Honorarstreit. Abgrenzung zu Kassenarztrecht für allgemeine Vertragsarztzulassung und zu Schriftsatzkern.
+
 
 # Honorarvertrag Kassenärztliche Vereinigung
 
@@ -538,7 +539,8 @@ Anlagen: Patientenstatistik, Diagnoseprofile, eigene RLV-Berechnung, Vollmacht
 
 ## 4. `spezial-vertragsarztrecht-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt medizinrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+
 
 # Vertragsarztrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -576,125 +578,3 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 - Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
 - Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
 - Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 5. `car-t-haftung-klinik`
-
-**Frühere Beschreibung:** CAR-T-Behandlung: Klinikhaftung: moderner Medizinrechts-Skill für CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# CAR-T-Behandlung: Klinikhaftung
-
-## Fachkern: CAR-T-Behandlung: Klinikhaftung
-- **Spezialgegenstand:** CAR-T-Behandlung: Klinikhaftung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** CAR-T-Aufklärung, Zytokinfreisetzung, Neurotoxizität, Patientenselektion und Klinikorganisation.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** §§ 630a ff. BGB, § 630h BGB, AMG/ATMP, Fachstandard, Klinikorganisationspflichten und Arzneimittelsicherheit.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- EMA Advanced therapy medicinal products overview: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview
-- EMA legal framework for advanced therapies: https://www.ema.europa.eu/en/human-regulatory-overview/advanced-therapy-medicinal-products-overview/legal-framework-advanced-therapies
-- Paul-Ehrlich-Institut ATMP/Gentherapie: https://www.pei.de/
-- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
-- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
-- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853
-
-## 6. `diga-hersteller-arzt-haftung`
-
-**Frühere Beschreibung:** DiGA: Hersteller, Arzt und Haftung: moderner Medizinrechts-Skill für Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
-
-# DiGA: Hersteller, Arzt und Haftung
-
-## Fachkern: DiGA: Hersteller, Arzt und Haftung
-- **Spezialgegenstand:** DiGA: Hersteller, Arzt und Haftung wird als eigener Falltyp behandelt; der Skill muss ein konkretes Ergebnis liefern, nicht nur Einstieg und Routing.
-- **Normen-/Quellenanker:** BGB §§ 630a ff., SGB V, ärztliches Berufsrecht, GOÄ/EBM, MPDG/MDR, AMG, Krankenhausrecht, Vertragsarztrecht und Arzthaftungsprozess.
-- **Entscheidende Weiche:** Trenne Behandlungsfehler, Aufklärung, Dokumentation, Kausalität, Beweislast, Sozialleistungsbezug, Zulassung und Haftpflichtdeckung.
-- **Lösungsoutput:** Erzeuge eine fallbezogene Matrix `Norm / Tatbestand / Beleg / Risiko / Gegenargument / nächster Schritt` und benenne passende Anschluss-Skills nur, wenn sie wirklich eine Vertiefung lösen.
-
-
-## Worum es geht
-
-Nutze diesen Skill im Plugin **Fachanwalt Medizinrecht**, wenn der Fall genau in diese Lage führt. Ziel ist keine allgemeine Belehrung, sondern ein steuerbarer Arbeitsweg mit Dokumentenlogik, Risikoampel, nächstem Schritt und sauberem Quellencheck.
-
-**Fokus:** Digitale Gesundheitsanwendung, Verschreibung, positive Versorgungseffekte, Fehlfunktion und Verantwortungsgrenzen.
-
-## Kaltstart-Fragen
-
-- Welche Rolle liegt vor: Patient, Arzt, Klinik, Hersteller, Sponsor, KV, Kasse oder Behörde?
-- Welche Maßnahme, welches Produkt, welches Datum und welcher Rechtsstand sind entscheidend?
-- Gibt es Aufklärung, Einwilligung, Studien-/Registerunterlagen, Produktinformationen oder Meldebelege?
-- Geht es um Prävention, Anspruch, Verteidigung, Erstattung, Behörde oder gerichtliche Durchsetzung?
-
-## Prüf- und Arbeitslogik
-
-- **Rechtsanker:** §§ 33a und 139e SGB V, DiGAV, MDR/MPDG, ProdHaftG/PLD 2024/2853 und DSGVO.
-- **Tatsachenanker:** Behandlungs-/Therapiedatum, Rollen, Behandlungsdokumente, Aufklärung, Einwilligung, Freigaben, Befunde, Meldebelege, Beweiswert und offene Lücken trennen.
-- **Risikoebenen:** Haftung, Berufsrecht, Datenschutz, Vergütung, Frist, Eskalation, Reputationsrisiko und Governance getrennt ausgeben.
-- **Gegenposition:** die beste plausible Gegenansicht formulieren und sagen, welche Unterlage sie trägt oder entkräftet.
-- **Entscheidung:** einen Minimalpfad für heute und einen robusten Hauptpfad für die nächsten Arbeitstage vorschlagen.
-
-## Typische Fehlerquellen
-
-- Innovative Medizin ist nicht automatisch Standard und nicht automatisch experimentell; Zeitpunkt und Datenlage sind zu trennen.
-- Produkt-, Behandlungs-, Organisations- und Aufklärungsfehler nicht vermischen.
-- Bei neuen EU-Regeln Übergangsfristen und nationale Durchführung gesondert prüfen.
-- Gesundheitsdaten, Genomdaten und Patientengeheimnisse nur datensparsam verarbeiten.
-
-## Output
-
-- Mandats-/Fallvermerk mit Normenroute und Quellenstand.
-- Dokumentenmatrix mit Lücken und Beweiswert.
-- Risikoampel Haftung/Regulierung/Datenschutz/Erstattung.
-- Nächster Schriftsatz-, Behörden- oder Mandantenkommunikationsbaustein.
-
-## Quellen- und Aktualitätsgate
-
-Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/Institution, frei zugängliche Rechtsprechung nur mit Gericht, Datum und Aktenzeichen. Keine BeckRS-/juris-/Kommentar-Blindzitate. Bei dynamischen Medizin-, EU-, Berufsrechts- und Vergütungsfragen immer den Stand des konkreten Tages nennen.
-
-## Nützliche Startquellen
-
-- BMG ePA für alle: https://www.bundesgesundheitsministerium.de/themen/digitalisierung/elektronische-patientenakte/epa-fuer-alle
-- BfArM DiGA: https://www.bfarm.de/DE/Medizinprodukte/Aufgaben/DiGA-und-DiPA/DiGA/_node.html
-- EHDS Regulation EU 2025/327: https://eur-lex.europa.eu/eli/reg/2025/327/oj/
-- BGB §§ 630a ff.: https://www.gesetze-im-internet.de/bgb/__630a.html
-- BGB § 630h: https://www.gesetze-im-internet.de/bgb/__630h.html
-- Product Liability Directive EU 2024/2853: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024L2853

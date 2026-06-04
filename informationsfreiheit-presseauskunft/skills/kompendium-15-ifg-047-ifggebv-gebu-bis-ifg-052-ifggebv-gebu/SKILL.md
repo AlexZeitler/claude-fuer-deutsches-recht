@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-ifg-047-ifggebv-gebu-bis-ifg-052-ifggebv-gebu
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (ifg-047-ifggebv-gebuehren-antrag-formulieren, ifg-050-ifggebv-gebuehren-kosten-deckeln, ifg-051-ifggebv-gebuehren-schwaerzung-angreife, ifg-052-ifggebv-gebuehren-drittanhoerung-begle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 047 Ifggebv Gebuehren Antrag Formulieren, Ifg 050 Ifggebv Gebuehren Kosten Deckeln, Ifg 051 Ifggebv Gebuehren Schwaerzung Angreife, Ifg 052 Ifggebv Gebuehren Drittanhoerung Begle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 047 Ifggebv Gebuehren Antrag Formulieren bis Ifg 052 Ifggebv Gebuehren Drittanhoerung Begle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-047-ifggebv-gebuehren-antrag-formulieren` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Antrag formulieren. Antrag formulieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-050-ifggebv-gebuehren-kosten-deckeln` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Kosten deckeln. Kosten deckeln für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-047-ifggebv-gebuehren-antrag-formulieren`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Antrag formulieren. Antrag formulieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Antrag formulieren. Antrag formulieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Antrag Formulieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-050-ifggebv-gebuehren-kosten-deckeln`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Kosten deckeln. Kosten deckeln für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Kosten deckeln. Kosten deckeln für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Kosten Deckeln
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-051-ifggebv-gebuehren-schwaerzung-angreife`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Schwärzung angreifen. Schwärzung angreifen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Schwärzung angreifen. Schwärzung angreifen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Schwaerzung Angreife
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-052-ifggebv-gebuehren-drittanhoerung-begle`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Drittanhörung begleiten. Drittanhörung begleiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Drittanhörung begleiten. Drittanhörung begleiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Drittanhoerung Begle
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-zag-erlaubnisanalyse-bis-zag-zahlungsausloese
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (zag-erlaubnisanalyse-payment-institution, zag-finanztransfergeschaeft-money-remittance, zag-kontoinformationsdienst-ais, zag-negativauskunft-feststellung-bafin, zag-zahlungsausloesedienst-pis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zag Erlaubnisanalyse Payment Institution, Zag Finanztransfergeschaeft Money Remittance, Zag Kontoinformationsdienst Ais, Zag Negativauskunft Feststellung Bafin und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - bank-rechtsabteilung
+# Arbeitsbereich - Zag Erlaubnisanalyse Payment Institution bis Zag Zahlungsausloesedienst Pis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zag-erlaubnisanalyse-payment-institution` | ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katalogisieren, § 10 ZAG, Eigenmittel, Geschäftsplan, Sicherung von Kundengeldern, Geschäftsleiter, Auslagerungen und BaFin-Antrag prüfen. |
 | `zag-finanztransfergeschaeft-money-remittance` | Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zag-erlaubnisanalyse-payment-institution`
 
-**Frühere Beschreibung:** ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katalogisieren, § 10 ZAG, Eigenmittel, Geschäftsplan, Sicherung von Kundengeldern, Geschäftsleiter, Auslagerungen und BaFin-Antrag prüfen.
+**Fokus:** ZAG-Erlaubnisanalyse für Zahlungsinstitute: Zahlungsdienste katalogisieren, § 10 ZAG, Eigenmittel, Geschäftsplan, Sicherung von Kundengeldern, Geschäftsleiter, Auslagerungen und BaFin-Antrag prüfen.
 
 # ZAG-Erlaubnisanalyse Zahlungsinstitut
 
@@ -78,7 +78,7 @@ gesetze-im-internet.de (ZAG, KWG), bafin.de (Merkblatt Zahlungsinstitute, Erlaub
 
 ## 2. `zag-finanztransfergeschaeft-money-remittance`
 
-**Frühere Beschreibung:** Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko.
+**Fokus:** Finanztransfergeschäft und Money Remittance nach ZAG prüfen: Weiterleitung von Geldbeträgen ohne Zahlungskonto, Agentenmodelle, Plattformfälle, Bargeld, Ausnahmen und BaFin-Erlaubnisrisiko.
 
 # Finanztransfergeschäft / Money Remittance nach ZAG
 
@@ -126,7 +126,7 @@ gesetze-im-internet.de (ZAG, GwG), eur-lex.europa.eu (Geldtransfer-VO 2015/847, 
 
 ## 3. `zag-kontoinformationsdienst-ais`
 
-**Frühere Beschreibung:** Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, Datenzugriff, Schnittstelle, Consent, Versicherung, Datenschutz, Open-Banking-Verträge und White-Label-Modelle.
+**Fokus:** Kontoinformationsdienst nach ZAG und PSD2 prüfen: Registrierung, Datenzugriff, Schnittstelle, Consent, Versicherung, Datenschutz, Open-Banking-Verträge und White-Label-Modelle.
 
 # Kontoinformationsdienst (AIS) nach ZAG und PSD2
 
@@ -173,7 +173,7 @@ gesetze-im-internet.de (ZAG, BDSG), eur-lex.europa.eu (PSD2 2015/2366, RTS-SCA V
 
 ## 4. `zag-negativauskunft-feststellung-bafin`
 
-**Frühere Beschreibung:** ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden.
+**Fokus:** ZAG-Negativauskunft oder informelle BaFin-Vorabklärung vorbereiten: Geschäftsmodell neutral beschreiben, Zahlungsfluss visualisieren, Erlaubnistatbestände abgrenzen und gefährliche Formulierungen vermeiden.
 
 # ZAG-Feststellung und Negativauskunft
 
@@ -272,7 +272,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `zag-zahlungsausloesedienst-pis`
 
-**Frühere Beschreibung:** Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, starke Kundenauthentifizierung, Haftungskette, Interface, technische Dienstleister und Händlerkommunikation.
+**Fokus:** Zahlungsauslösedienst nach ZAG und PSD2 prüfen: Erlaubnis, starke Kundenauthentifizierung, Haftungskette, Interface, technische Dienstleister und Händlerkommunikation.
 
 # Zahlungsauslösedienst (PIS) nach ZAG und PSD2
 

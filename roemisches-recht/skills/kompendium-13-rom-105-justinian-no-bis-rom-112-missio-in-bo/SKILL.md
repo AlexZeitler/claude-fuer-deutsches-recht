@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-rom-105-justinian-no-bis-rom-112-missio-in-bo
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 13; bündelt 8 frühere Spezialskills (rom-105-justinian-novellen-und-griechische-rechtskultur, rom-106-basiliken-prochiron-ecloga, rom-107-byzantinisches-kirchenrecht-und-familienrecht, rom-108-byzantinische-rezeption-und-osteuropa, rom-109-romanisch-byzantinische-synopse und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 105 Justinian Novellen Und Griechische Rechtskultur, Rom 106 Basiliken Prochiron Ecloga, Rom 107 Byzantinisches Kirchenrecht Und Familienrecht, Rom 108 Byzantinische Rezeption Und Osteuropa und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - roemisches-recht
+# Arbeitsbereich - Rom 105 Justinian Novellen Und Griechische Rechtskultur bis Rom 112 Missio In Bona Praetorische Vermoegensergreifung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-105-justinian-novellen-und-griechische-rechtskultur` | Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur. |
 | `rom-106-basiliken-prochiron-ecloga` | Römisches Recht: Byzantinische Kompilationen wie Ekloge, Prochiron und Basiliken als Weiterbearbeitung römisch-justinianischen Rechts. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-105-justinian-novellen-und-griechische-rechtskultur`
 
-**Frühere Beschreibung:** Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur.
+**Fokus:** Römisches Recht: Justinianische Novellen, griechische Rechtssprache, kaiserliche Gesetzgebung und Übergang in byzantinische Rechtskultur.
 
 # Justinianische Novellen und griechische Rechtskultur
 
@@ -63,7 +63,7 @@ Dieser Skill vertieft die **Novellen Justinians** und ihren Übergang in eine zu
 
 ## 2. `rom-106-basiliken-prochiron-ecloga`
 
-**Frühere Beschreibung:** Römisches Recht: Byzantinische Kompilationen wie Ekloge, Prochiron und Basiliken als Weiterbearbeitung römisch-justinianischen Rechts.
+**Fokus:** Römisches Recht: Byzantinische Kompilationen wie Ekloge, Prochiron und Basiliken als Weiterbearbeitung römisch-justinianischen Rechts.
 
 # Basiliken, Prochiron und Ekloge
 
@@ -94,7 +94,7 @@ Dieser Skill ordnet die großen byzantinischen Kompilationen ein: **Ekloge**, **
 
 ## 3. `rom-107-byzantinisches-kirchenrecht-und-familienrecht`
 
-**Frühere Beschreibung:** Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung.
+**Fokus:** Römisches Recht: Byzantinische Schnittstelle von Kirchenrecht, Ehe, Familie, Erbe, Moralordnung und kaiserlicher Gesetzgebung.
 
 # Byzantinisches Kirchenrecht und Familienrecht
 
@@ -124,7 +124,7 @@ Dieser Skill behandelt die byzantinische Verbindung von **Kirche, Ehe, Familie, 
 
 ## 4. `rom-108-byzantinische-rezeption-und-osteuropa`
 
-**Frühere Beschreibung:** Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte.
+**Fokus:** Römisches Recht: Byzantinische Rechtsrezeption in orthodox geprägten Rechtsräumen, Südosteuropa, Osteuropa und späterer Rechtsgeschichte.
 
 # Byzantinische Rezeption und Osteuropa
 
@@ -154,7 +154,7 @@ Dieser Skill verfolgt byzantinisches Recht in seine **Rezeptionsräume**: orthod
 
 ## 5. `rom-109-romanisch-byzantinische-synopse`
 
-**Frühere Beschreibung:** Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption.
+**Fokus:** Römisches Recht: Synopse von Zwölftafelgesetz, klassischem Recht, Justinian, byzantinischer Fortbildung und späterer Rezeption.
 
 # Romanisch-byzantinische Synopse
 
@@ -194,7 +194,7 @@ Dieser Skill baut eine **vergleichende Synopse**: Zwölftafelgesetz, republikani
 
 ## 6. `rom-110-vollstreckungsrecht-personal-und-vermoegen`
 
-**Frühere Beschreibung:** Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster.
+**Fokus:** Personalexekution und Vermoegensexekution im roemischen Recht. Skill behandelt die historische Entwicklung von der manus iniectio des Zwoelftafelgesetzes ueber das nexum zur praetorischen Vermoegensvollstreckung Trennung personale Haftung Schuldknechtschaft und Pfaendung Vermoegen. Liefert Quellenmatrix Digestenstellen und Pruefraster.
 
 # Rom 110 Vollstreckungsrecht Personal Und Vermoegen
 
@@ -239,7 +239,7 @@ Skill fuer die roemisch-rechtliche Pruefung von Vollstreckungslagen und ihrer hi
 
 ## 7. `rom-111-cessio-bonorum-lex-iulia`
 
-**Frühere Beschreibung:** Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung des Schuldners an die Glaeubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die Folgen fuer kuenftiges Vermoegen (beneficium competentiae). Liefert Quellenmatrix.
+**Fokus:** Cessio bonorum nach der Lex Iulia: freiwillige Vermoegensabtretung des Schuldners an die Glaeubiger als Vorlaeufer der Privatinsolvenz mit Restschuldbefreiungswirkung. Skill behandelt die Voraussetzungen die Privilegien des cedens und die Folgen fuer kuenftiges Vermoegen (beneficium competentiae). Liefert Quellenmatrix.
 
 # Rom 111 Cessio Bonorum Lex Iulia
 
@@ -285,7 +285,7 @@ Skill fuer die cessio bonorum als Vorlaeufer der heutigen Privatinsolvenz.
 
 ## 8. `rom-112-missio-in-bona-praetorische-vermoegensergreifung`
 
-**Frühere Beschreibung:** Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix.
+**Fokus:** Missio in bona: praetorische Einweisung des Glaeubigers in das Vermoegen des Schuldners. Skill behandelt die Voraussetzungen die Rolle des magister bonorum den Aufschub von 30 oder 60 Tagen sowie die Folge der bonorum venditio. Klaert das Verhaeltnis zur missio in possessionem rei servandae causa. Liefert Quellenmatrix.
 
 # Rom 112 Missio In Bona Praetorische Vermoegensergreifung
 

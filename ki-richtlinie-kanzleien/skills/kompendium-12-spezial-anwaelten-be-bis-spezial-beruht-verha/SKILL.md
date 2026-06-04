@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-anwaelten-be-bis-spezial-beruht-verha
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-anwaelten-behoerden-gericht-und-registerweg, spezial-berufsrechtskonforme-tatbestand-beweis-und-belege, spezial-beruht-verhandlung-vergleich-und-eskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaelten Behoerden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Anwaelten Behoerden Gericht Und Registerweg, Berufsrechtskonforme Tatbestand Beweis Und Belege, Beruht Verhandlung Vergleich Und Eskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anwaelten-behoerden-gericht-und-registerweg` | Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-berufsrechtskonforme-tatbestand-beweis-und-belege` | Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anwaelten-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anwaelten: Behörden-, Gerichts- oder Registerweg im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anwaelten: Behörden-, Gerichts- oder Registerweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-berufsrechtskonforme-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Berufsrechtskonforme: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -149,7 +149,7 @@ Lückenlose Belegführung kostet Aufwand und schafft Auditierbarkeit; im Streitf
 
 ## 3. `spezial-beruht-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Beruht: Verhandlung, Vergleich und Eskalation im Plugin ki richtlinie kanzleien; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Beruht: Verhandlung, Vergleich und Eskalation
 

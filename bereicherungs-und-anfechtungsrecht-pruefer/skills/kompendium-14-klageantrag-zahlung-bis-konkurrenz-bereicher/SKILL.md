@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-klageantrag-zahlung-bis-konkurrenz-bereicher
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (klageantrag-zahlung-herausgabe-zug-um-zug, kondiktion-bei-schwarzarbeit-und-illegalitaet, kondiktionskarte-vollstaendiger-fallaufbau, konkurrenz-bereicherung-anfechtung-und-vindikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageantrag Zahlung Herausgabe Zug Um Zug, Kondiktion Bei Schwarzarbeit Und Illegalitaet, Kondiktionskarte Vollstaendiger Fallaufbau, Konkurrenz Bereicherung Anfechtung Und Vindikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Klageantrag Zahlung Herausgabe Zug Um Zug bis Konkurrenz Bereicherung Anfechtung Und Vindikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageantrag-zahlung-herausgabe-zug-um-zug` | Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung. |
 | `kondiktion-bei-schwarzarbeit-und-illegalitaet` | Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageantrag-zahlung-herausgabe-zug-um-zug`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung.
+**Fokus:** Nutze diesen Skill, wenn aus der Prüfung ein vollstreckbarer Antrag gebaut werden muss. Normen: §§ 812 und 818 BGB; §§ 253 und 322 BGB; § 348 BGB; § 274 BGB. Prüfraster: Übersetze die Anspruchsprüfung in Antrag, Verteidigung, Vergleich oder Interview; Halte Beweisbedarf und offene Tatsachen sichtbar; Formuliere Hilfspositionen für Wertersatz, Saldo und Zug um Zug. Output: Klageantragsentwurf mit Tenorvorschlag und Zug-um-Zug-Verknüpfung. Abgrenzung: nicht materiell-rechtliche Anspruchsprüfung.
 
 # Klageantrag: Zahlung, Herausgabe, Zug um Zug
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `kondiktion-bei-schwarzarbeit-und-illegalitaet`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB.
+**Fokus:** Nutze diesen Skill, wenn illegale Austauschverhältnisse bereicherungsrechtlich nicht normalisiert werden dürfen. Normen: §§ 134 und 817 BGB; SchwarzArbG. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Prüfergebnis Schwarzarbeitskondiktion mit § 817 S. 2 BGB Sperre. Abgrenzung: nicht regulärer Werklohnanspruch § 631 BGB.
 
 # Kondiktion bei Schwarzarbeit und Illegalität
 
@@ -177,7 +177,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `kondiktionskarte-vollstaendiger-fallaufbau`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs.
+**Fokus:** Nutze diesen Skill, wenn ein komplexer Fall zuerst als Personen-, Leistungs- und Vermögenskarte erfasst werden muss. Normen: §§ 812 bis 822 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Personen-, Leistungs- und Vermögenskarte mit Anspruchsknoten. Abgrenzung: nicht punktuelle Einzelprüfung eines Anspruchs.
 
 # Kondiktionskarte: vollständiger Fallaufbau
 
@@ -251,7 +251,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `konkurrenz-bereicherung-anfechtung-und-vindikation`
 
-**Frühere Beschreibung:** Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klären. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdrängungsregeln, Subsidiarität, Parallelität der Ansprüche. Output: Konkurrenzübersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung innerhalb eines Regelungskreises.
+**Fokus:** Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klären. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdrängungsregeln, Subsidiarität, Parallelität der Ansprüche. Output: Konkurrenzübersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung innerhalb eines Regelungskreises.
 
 # Konkurrenz: Bereicherung, Anfechtung und Vindikation
 

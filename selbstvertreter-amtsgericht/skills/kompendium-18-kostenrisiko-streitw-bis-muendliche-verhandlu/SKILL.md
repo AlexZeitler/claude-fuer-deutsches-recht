@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-kostenrisiko-streitw-bis-muendliche-verhandlu
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (kostenrisiko-streitwert-berechnen-gkg, ladung-termin-216-zpo, muendliche-verhandlung-akten-griffbereit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Kostenrisiko Streitwert Berechnen Gkg, Ladung Termin 216 Zpo, Muendliche Verhandlung Akten Griffbereit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kostenrisiko-streitwert-berechnen-gkg` | Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation. |
 | `ladung-termin-216-zpo` | Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kostenrisiko-streitwert-berechnen-gkg`
 
-**Frühere Beschreibung:** Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation.
+**Fokus:** Berechnung des Kostenrisikos bei Klage vor Amtsgericht. Gerichtskosten nach GKG Anwaltskosten der Gegenseite nach RVG Sachverständigen-Kosten. Mit Beispielen für typische Streitwerte und Tabellen-Hinweisen zur Verifikation.
 
 # Was kostet eine Klage vor dem Amtsgericht?
 
@@ -157,7 +157,7 @@ Stand: 05/2026. GKG- und RVG-Tabellen periodisch angepasst — Werte vor Klage v
 
 ## 2. `ladung-termin-216-zpo`
 
-**Frühere Beschreibung:** Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen.
+**Fokus:** Termin-Ladung nach § 216 ZPO. Inhalt der Ladung Datum Uhrzeit Ort Sitzungssaal Aktenzeichen Bedeutung von Hinweisen wie Erscheinens-Pflicht Versaeumnis-Hinweis. Wie Sie eine Ladung prüfen und bestätigen.
 
 # Was steht in einer Termin-Ladung?
 
@@ -278,7 +278,7 @@ Stand: 05/2026. §§ 214 ff. ZPO unveraendert.
 
 ## 3. `muendliche-verhandlung-akten-griffbereit`
 
-**Frühere Beschreibung:** Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche.
+**Fokus:** Mit Akten und Anlagen optimal in die muendliche Verhandlung vor dem Amtsgericht. Anlagen-Reiter Stichwort-Liste Mitschreib-Block Notizen zu Streit-Punkten. Vorbereitung der Argumente zur Replik im Termin. Praesenz oder Video 128a ZPO. Was zum Tisch was in die Tasche.
 
 # In den Termin gehen — Akten griffbereit, Notizen parat
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-treuhaender-kommunik-bis-unternehmerische-res
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (treuhaender-kommunikation, unterhaltsschulden, unternehmerische-restforderungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Treuhaender Kommunikation, Unterhaltsschulden, Unternehmerische Restforderungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Treuhaender Kommunikation, Unterhaltsschulden, Unternehmerische Restforderungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `treuhaender-kommunikation` | Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; Normanker: InsO §§ 80 und 292 und 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `unterhaltsschulden` | Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; Normanker: InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `treuhaender-kommunikation`
 
-**Frühere Beschreibung:** Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; Normanker: InsO §§ 80 und 292 und 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.; Normanker: InsO §§ 80 und 292 und 295; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Kommunikation mit Treuhänder/Insolvenzverwalter: Unterlagen, Nachfragen, Konto, Verwertung, Obliegenheiten.
 
@@ -69,7 +69,7 @@ InsO §§ 80, 292, 295. Entscheidend ist immer der aktuelle Normstand der InsO, 
 
 ## 2. `unterhaltsschulden`
 
-**Frühere Beschreibung:** Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; Normanker: InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.; Normanker: InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Unterhaltsschulden: privilegierte Forderungen, laufender Unterhalt, Rückstände, § 302-Risiko und Familienbudget.
 
@@ -110,7 +110,7 @@ InsO § 302 Nr. 1; BGB Unterhalt; ZPO Pfändungsschutz. Entscheidend ist immer d
 
 ## 3. `unternehmerische-restforderungen`
 
-**Frühere Beschreibung:** Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; Normanker: InsO § 304; AO; SGB IV; BGB/HGB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.; Normanker: InsO § 304; AO; SGB IV; BGB/HGB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Unternehmerische Restforderungen nach Geschäftsaufgabe: Lieferanten, Krankenkasse, Finanzamt, Berufsgenossenschaft.
 

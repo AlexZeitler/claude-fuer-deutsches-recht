@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-lebensbescheinigung-bis-mandantenbrief-verst
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (lebensbescheinigung-und-auslandszahlung, mandantenbrief-verstaendlich-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - rentenpruefer
+# Arbeitsbereich - Lebensbescheinigung Und Auslandszahlung, Mandantenbrief Verstaendlich Rente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lebensbescheinigung-und-auslandszahlung` | Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung. |
 | `mandantenbrief-verstaendlich-rente` | Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lebensbescheinigung-und-auslandszahlung`
 
-**Frühere Beschreibung:** Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung.
+**Fokus:** Lebensbescheinigung und Auslandszahlung: Nachweise, Botschaft/Konsulat, Fristen, Postprobleme und Zahlungsunterbrechung.
 
 # lebensbescheinigung-und-auslandszahlung
 
@@ -67,7 +67,7 @@ Fristenplan und Begleitschreiben.
 
 ## 2. `mandantenbrief-verstaendlich-rente`
 
-**Frühere Beschreibung:** Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären.
+**Fokus:** Mandantenbrief in verständlicher Sprache: Rentenbescheid, Versicherungsverlauf, Ausland, Versorgungswerk oder Nachversicherung einfach erklären.
 
 # mandantenbrief-verstaendlich-rente
 

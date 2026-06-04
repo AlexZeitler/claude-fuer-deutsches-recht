@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-haftungsausschluss-u-bis-klageerwiderung-subs
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (haftungsausschluss-und-haftungsbegrenzung, klageerwiderung-substantiiertes-bestreiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Haftungsausschluss Und Haftungsbegrenzung, Klageerwiderung Substantiiertes Bestreiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `haftungsausschluss-und-haftungsbegrenzung` | Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten. |
 | `klageerwiderung-substantiiertes-bestreiten` | Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `haftungsausschluss-und-haftungsbegrenzung`
 
-**Frühere Beschreibung:** Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten.
+**Fokus:** Haftungsklauseln im deutschen Recht sauber bauen. Pflichtgrenzen § 276 Abs. 3 BGB (Vorsatz nie ausschliessbar), § 309 Nr. 7 BGB (AGB-Klauselverbote fuer Vorsatz grobe Fahrlaessigkeit Kardinalpflichten Koerperschaden), § 444 BGB (arglistig verschwiegener Mangel), § 11 ProdHaftG (zwingend bei Personenschaden). Drafting-Strategien Summenbegrenzung Zeitbegrenzung Ausschluss mittelbarer Schaeden. Mit Tabelle B2B vs B2C und Mustertexten.
 
 # Haftungsausschluss und Haftungsbegrenzung
 
@@ -188,7 +188,7 @@ gesetzlichen Vorschriften.
 
 ## 2. `klageerwiderung-substantiiertes-bestreiten`
 
-**Frühere Beschreibung:** Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls.
+**Fokus:** Drafting einer Klageerwiderung mit korrekter Bestreitenshöhe nach § 138 ZPO. Wahrheits- und Substantiierungslast als Drafting-Treiber. Unterscheidung zwischen einfachem Bestreiten und substantiiertem Bestreiten mit Behauptung des Gegenteils. Beweislastverteilung steuert die Architektur. Aufbau: Eingangsformel, Antrag auf Klageabweisung, Sachverhalt mit Bestreitens-Architektur, rechtliche Würdigung, Hilfsantrag (Aufrechnung; Zurückbehaltung), Beweisangebote. Mit Mustertext und Pitfalls.
 
 # Klageerwiderung und substantiiertes Bestreiten
 

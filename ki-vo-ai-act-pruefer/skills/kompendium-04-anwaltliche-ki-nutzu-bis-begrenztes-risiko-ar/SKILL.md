@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anwaltliche-ki-nutzu-bis-begrenztes-risiko-ar
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anwaltliche-ki-nutzung-quellencheck-brao, art-4-ki-kompetenz-schulungsprogramm, automatisierte-entscheidung-dsgvo-art-22-schnittstelle, begrenztes-risiko-art-50-transparenzpflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaltliche Ki Nutzung Quellencheck Brao, Art 4 Ki Kompetenz Schulungsprogramm, Automatisierte Entscheidung Dsgvo Art 22 Schnittstelle, Begrenztes Risiko Art 50 Transparenzpflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Anwaltliche Ki Nutzung Quellencheck Brao bis Begrenztes Risiko Art 50 Transparenzpflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaltliche-ki-nutzung-quellencheck-brao` | Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk fuer Kanzlei und Rechtsabteilung. |
 | `art-4-ki-kompetenz-schulungsprogramm` | Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy fuer Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaltliche-ki-nutzung-quellencheck-brao`
 
-**Frühere Beschreibung:** Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk fuer Kanzlei und Rechtsabteilung.
+**Fokus:** Anwaltliche KI-Nutzung ohne Halluzinationsschaden: Quellencheck, § 43a BRAO, Wahrheitspflicht/Sachlichkeit, Mandatsgeheimnis, DSGVO, Schriftsatzkontrolle, Prompt-Governance und Freigabevermerk fuer Kanzlei und Rechtsabteilung.
 
 # Anwaltliche KI-Nutzung und Quellencheck
 
@@ -71,7 +71,7 @@ KI darf die Arbeit beschleunigen. Sie darf nie die anwaltliche Verantwortung ers
 
 ## 2. `art-4-ki-kompetenz-schulungsprogramm`
 
-**Frühere Beschreibung:** Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy fuer Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness.
+**Fokus:** Art. 4 KI-VO als praktisches Schulungs- und Nachweissystem: Rollendifferenzierte AI-Literacy fuer Vorstand, Legal, IT, HR, Fachabteilung, Einkauf, Support und externe Dienstleister; mit Kompetenzmatrix, Pflichtenkalender, Schulungsnachweisen, Shadow-AI-Schnittstelle und Audit-Readiness.
 
 # Art. 4 KI-VO — KI-Kompetenz als Compliance-Programm
 
@@ -123,7 +123,7 @@ Keine pauschale Aussage "alle muessen KI-Schulung machen". Immer Rolle, Risiko u
 
 ## 3. `automatisierte-entscheidung-dsgvo-art-22-schnittstelle`
 
-**Frühere Beschreibung:** Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance.
+**Fokus:** Schnittstelle KI-VO und DSGVO Art. 22: automatisierte Einzelentscheidung, Profiling, menschliche Beteiligung, Bewerber/Kredit/Kundenranking, Informationspflicht, DPIA, Rechtsgrundlage und technische Governance.
 
 # KI-VO und DSGVO Art. 22
 
@@ -163,7 +163,7 @@ Ein KI-System kann nach KI-VO nicht Hochrisiko sein und trotzdem datenschutzrech
 
 ## 4. `begrenztes-risiko-art-50-transparenzpflichten`
 
-**Frühere Beschreibung:** Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1 KI-VO Deepfake-Kennzeichnungspflicht Art. 50 Abs. 4 KI-VO KI-generierter Text bei öffentlichem Interesse Art. 50 Abs. 2 KI-VO Emotionserkennung Art. 50 Abs. 3 KI-VO. Output: Checkliste Pflichten und Musterkennzeichnungstexte. Abgrenzung zu verbotene-praktiken-art-5 (Hochrisiko-Verbote) und begrenztes-risiko ist kein Hochrisiko.
+**Fokus:** Unternehmen setzt Chatbot Deepfake-Tool oder KI-Textgenerator ein und fragt: Welche Hinweispflichten treffen uns gegenüber Nutzern? Art. 50 KI-VO begrenztes Risiko. Prüfraster: Chatbot-Hinweispflicht Art. 50 Abs. 1 KI-VO Deepfake-Kennzeichnungspflicht Art. 50 Abs. 4 KI-VO KI-generierter Text bei öffentlichem Interesse Art. 50 Abs. 2 KI-VO Emotionserkennung Art. 50 Abs. 3 KI-VO. Output: Checkliste Pflichten und Musterkennzeichnungstexte. Abgrenzung zu verbotene-praktiken-art-5 (Hochrisiko-Verbote) und begrenztes-risiko ist kein Hochrisiko.
 
 # Begrenztes Risiko — Transparenzpflichten nach Art. 50 KI-VO
 

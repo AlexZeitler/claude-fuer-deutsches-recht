@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-bautraeger-typische-bis-bautraeger-weg-gemei
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (bautraeger-typische-notar-fehler-checkliste, bautraeger-weg-abgeschlossenheitsbescheinigung, bautraeger-weg-erstverwalter-bestellung, bautraeger-weg-gemeinschaftsordnung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Typische Notar Fehler Checkliste, Bautraeger Weg Abgeschlossenheitsbescheinigung, Bautraeger Weg Erstverwalter Bestellung, Bautraeger Weg Gemeinschaftsordnung Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Typische Notar Fehler Checkliste bis Bautraeger Weg Gemeinschaftsordnung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-typische-notar-fehler-checkliste` | Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung. |
 | `bautraeger-weg-abgeschlossenheitsbescheinigung` | WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-typische-notar-fehler-checkliste`
 
-**Frühere Beschreibung:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung.
+**Fokus:** Typische Notar-Fehler im Bautraegervertrag. Skill listet die haeufigsten Notar-Fehler ungeklaerte Bonitaet vereinfachte Belehrung uebersetzte Pauschalpreise unklare Sonderwunschregelung. Liefert Pruefraster und Empfehlungen fuer Klaerung.
 
 # Bautraeger Typische Notar Fehler Checkliste
 
@@ -74,7 +74,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-weg-abgeschlossenheitsbescheinigung`
 
-**Frühere Beschreibung:** WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster.
+**Fokus:** WEG-Abgeschlossenheitsbescheinigung beim Bautraegervertrag. Skill klaert was die Abgeschlossenheitsbescheinigung ist warum sie erforderlich ist und wann sie verweigert wird. Liefert Pruefraster.
 
 # Bautraeger Weg Abgeschlossenheitsbescheinigung
 
@@ -106,7 +106,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `bautraeger-weg-erstverwalter-bestellung`
 
-**Frühere Beschreibung:** WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster.
+**Fokus:** WEG-Erstverwalter-Bestellung beim Bautraegervertrag. Skill klaert die haeufig umstrittene Erstverwalter-Klausel die Bautraeger oft mit verbundenen Unternehmen verknuepfen sowie das WEG-Reform-2020-Update. Liefert Pruefraster.
 
 # Bautraeger Weg Erstverwalter Bestellung
 
@@ -143,7 +143,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `bautraeger-weg-gemeinschaftsordnung-pruefen`
 
-**Frühere Beschreibung:** WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
+**Fokus:** WEG-Gemeinschaftsordnung beim Bautraegervertrag pruefen. Skill klaert die Inhalte der Gemeinschaftsordnung Hausordnung Beitraege Stimmrechte und ihre nachtraegliche Aenderung. Liefert Pruefraster.
 
 # Bautraeger Weg Gemeinschaftsordnung Pruefen
 

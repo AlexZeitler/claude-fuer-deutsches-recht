@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-ifg-053-ifggebv-gebu-bis-ifg-056-ifggebv-gebu
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (ifg-053-ifggebv-gebuehren-widerspruch-bauen, ifg-054-ifggebv-gebuehren-klage-vorbereiten, ifg-055-ifggebv-gebuehren-presseantwort-nachfa, ifg-056-ifggebv-gebuehren-tracking-aktualisier) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 053 Ifggebv Gebuehren Widerspruch Bauen, Ifg 054 Ifggebv Gebuehren Klage Vorbereiten, Ifg 055 Ifggebv Gebuehren Presseantwort Nachfa, Ifg 056 Ifggebv Gebuehren Tracking Aktualisier; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 053 Ifggebv Gebuehren Widerspruch Bauen bis Ifg 056 Ifggebv Gebuehren Tracking Aktualisier
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-053-ifggebv-gebuehren-widerspruch-bauen` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen. Widerspruch bauen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-054-ifggebv-gebuehren-klage-vorbereiten` | Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Klage vorbereiten. Klage vorbereiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-053-ifggebv-gebuehren-widerspruch-bauen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen. Widerspruch bauen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Widerspruch bauen. Widerspruch bauen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Widerspruch Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-054-ifggebv-gebuehren-klage-vorbereiten`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Klage vorbereiten. Klage vorbereiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Klage vorbereiten. Klage vorbereiten für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Klage Vorbereiten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-055-ifggebv-gebuehren-presseantwort-nachfa`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Presseantwort nachfassen. Presseantwort nachfassen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Presseantwort nachfassen. Presseantwort nachfassen für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Presseantwort Nachfa
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-056-ifggebv-gebuehren-tracking-aktualisier`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Tracking aktualisieren. Tracking aktualisieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFGGebV Gebühren: Tracking aktualisieren. Tracking aktualisieren für IFGGebV Gebühren im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifggebv Gebuehren Tracking Aktualisier
 

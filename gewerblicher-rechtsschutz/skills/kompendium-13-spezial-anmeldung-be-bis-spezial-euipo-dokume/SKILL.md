@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-anmeldung-be-bis-spezial-euipo-dokume
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-anmeldung-behoerden-gericht-und-registerweg, spezial-compliance-mandantenkommunikation-entscheidungsvorlage, spezial-euipo-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anmeldung Behoerden Gericht Und Registerweg, Compliance Mandantenkommunikation Entscheidungsvorlage, Euipo Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Anmeldung Behoerden Gericht Und Registerweg, Compliance Mandantenkommunikation Entscheidungsvorlage, Euipo Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anmeldung-behoerden-gericht-und-registerweg` | Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege. |
 | `spezial-compliance-mandantenkommunikation-entscheidungsvorlage` | Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anmeldung-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege.
+**Fokus:** Anmeldung im gewerblichen Rechtsschutz: Behörden, Gerichte und Registerwege für Marken, Patente, Designs und Gebrauchsmuster. DPMA, EUIPO, EPA, WIPO, Bundespatentgericht – Zuständigkeiten, Formulare, Fristen und Einreichungswege.
 
 # Spezial: Anmeldung – Behörden, Gerichte und Registerwege
 
@@ -174,7 +174,7 @@ Mandatsbezug: Anwalt fragt: Welches Amt ist für meine Marke zuständig? Wo reic
 
 ## 2. `spezial-compliance-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen.
+**Fokus:** Compliance-Mandantenkommunikation im gewerblichen Rechtsschutz: Entscheidungsvorlagen strukturiert erstellen, Handlungsoptionen mit Kosten und Risiken darstellen und Mandantenentscheidungen dokumentieren. Für Kanzleien und Rechtsabteilungen.
 
 # Spezial: Compliance – Mandantenkommunikation und Entscheidungsvorlage
 
@@ -336,7 +336,7 @@ Datum: _______________   Unterschrift: _______________
 
 ## 3. `spezial-euipo-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden.
+**Fokus:** EUIPO-Verfahren: Dokumentenmatrix und Lückenliste für Unionsmarken-Anmeldung, Widerspruch, Nichtigkeitsantrag und Beschwerde. Welche Dokumente wann eingereicht werden müssen, was häufig fehlt und wie Lücken rechtzeitig geschlossen werden.
 
 # Spezial: EUIPO – Dokumentenmatrix und Lückenliste
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-vergleich-und-cross-bis-verletzung-anspruchs
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (vergleich-und-cross-license, verletzung-anspruchsmerkmale) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleich Und Cross License, Verletzung Anspruchsmerkmale; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - gebrauchsmusterrecht
+# Arbeitsbereich - Vergleich Und Cross License, Verletzung Anspruchsmerkmale
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleich-und-cross-license` | Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung. |
 | `verletzung-anspruchsmerkmale` | Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleich-und-cross-license`
 
-**Frühere Beschreibung:** Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung.
+**Fokus:** Vergleich und Cross-License im Gebrauchsmusterstreit: Unterlassung, Restbestand, Lizenz, Nichtigkeit, Kosten, Geheimhaltung und technische Änderung.
 
 # Vergleich Und Cross License
 
@@ -59,7 +59,7 @@ Settlement-Term-Sheet.
 
 ## 2. `verletzung-anspruchsmerkmale`
 
-**Frühere Beschreibung:** Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast.
+**Fokus:** Gebrauchsmusterverletzung anhand Anspruchsmerkmalen prüfen: wortsinngemäße Benutzung, Äquivalenznähe, Belege, Produktanalyse und Beweislast.
 
 # Verletzung Anspruchsmerkmale
 

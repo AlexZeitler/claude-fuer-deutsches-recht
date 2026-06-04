@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bk-bankenfehlberatun-bis-bk-mandantenrouting
-description: "fachanwalt-bank-kapitalmarktrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (bk-bankenfehlberatung-grundzuege, bk-einfuehrung-aufsichtsstruktur, bk-mandantenrouting-anlegeranspruch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bank-kapitalmarktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-bank-kapitalmarktrecht
+# Arbeitsbereich - Bk Bankenfehlberatung Grundzuege, Bk Einfuehrung Aufsichtsstruktur, Bk Mandantenrouting Anlegeranspruch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bk-bankenfehlberatung-grundzuege` | Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster fuer Mandant. |
 | `bk-einfuehrung-aufsichtsstruktur` | Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behoerde ist wofuer zustaendig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte fuer das Erstgespraech. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bk-bankenfehlberatung-grundzuege`
 
-**Frühere Beschreibung:** Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster fuer Mandant.
+**Fokus:** Bankenfehlberatungs-Anspruch in Grundzuegen: § 280 BGB, anlegergerechte Beratung, anlagegerechte Beratung, MiFID II Geeignetheit, Aufklaerung Provision (Kick-back). Beweislastumkehr nach BGH XI ZR. Pruefraster fuer Mandant.
 
 # BK: Bankenfehlberatung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bank-kapitalmarktrecht`. Er ergaenzt
 
 ## 2. `bk-einfuehrung-aufsichtsstruktur`
 
-**Frühere Beschreibung:** Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behoerde ist wofuer zustaendig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte fuer das Erstgespraech.
+**Fokus:** Aufsichtsstruktur einfuehrend: EZB-SSM, BaFin, Bundesbank, ESMA. KWG, ZAG, WpIG, WpHG, KAGB, MAR. Welche Behoerde ist wofuer zustaendig, wie kommunizieren wir. Tabellarische Uebersicht und Beispielsachverhalte fuer das Erstgespraech.
 
 # BK: Aufsichtsstruktur
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bank-kapitalmarktrecht`. Er ergaenzt
 
 ## 3. `bk-mandantenrouting-anlegeranspruch`
 
-**Frühere Beschreibung:** Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto. Pro Produktart typische Anspruchsgrundlage, Verjaehrung, Beweislast. Entscheidungstabelle.
+**Fokus:** Routing-Tabelle Anlegeranspruch: Lebensversicherung, Geschlossener Fonds, Zertifikat, ETF, Cum-Ex / Cum-Cum, Krypto. Pro Produktart typische Anspruchsgrundlage, Verjaehrung, Beweislast. Entscheidungstabelle.
 
 # BK: Mandantenrouting Anleger
 

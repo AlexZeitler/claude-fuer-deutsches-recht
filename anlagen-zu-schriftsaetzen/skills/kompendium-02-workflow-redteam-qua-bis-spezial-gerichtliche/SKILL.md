@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-redteam-qua-bis-spezial-gerichtliche
-description: "anlagen-zu-schriftsaetzen: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (workflow-redteam-qualitygate, frist-und-eilversand-anlagenpaket, schiedsverfahren-anlagenband-und-datentraeger, spezial-gerichtlichen-fristen-form-und-zustaendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "anlagen-zu-schriftsaetzen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Redteam Qualitygate, Frist Und Eilversand Anlagenpaket, Schiedsverfahren Anlagenband Und Datentraeger, Gerichtlichen Fristen Form Und Zustaendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - anlagen-zu-schriftsaetzen
+# Arbeitsbereich - Redteam Qualitygate bis Gerichtlichen Fristen Form Und Zustaendigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin anlagen-zu-schriftsaetzen: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
 | `frist-und-eilversand-anlagenpaket` | Minimalpfad bei drohender Frist: welche Anlagen müssen jetzt mit, welche können nachgereicht, welche Risiken müssen im Schriftsatz offen gehalten werden. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team Qualitygate im Plugin anlagen-zu-schriftsaetzen: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
+**Fokus:** Red-Team Qualitygate im Plugin anlagen-zu-schriftsaetzen: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 # Red-Team Qualitygate
 
@@ -64,7 +64,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `frist-und-eilversand-anlagenpaket`
 
-**Frühere Beschreibung:** Minimalpfad bei drohender Frist: welche Anlagen müssen jetzt mit, welche können nachgereicht, welche Risiken müssen im Schriftsatz offen gehalten werden.
+**Fokus:** Minimalpfad bei drohender Frist: welche Anlagen müssen jetzt mit, welche können nachgereicht, welche Risiken müssen im Schriftsatz offen gehalten werden.
 
 # Frist und Eilversand Anlagenpaket
 
@@ -128,7 +128,7 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 
 ## 3. `schiedsverfahren-anlagenband-und-datentraeger`
 
-**Frühere Beschreibung:** Plant Anlagenbände im Schiedsverfahren: mehrere Originale, USB-Sticks, PDF-Bundles, Index, Hashliste, Verfahrensanordnung und parallele elektronische Struktur.
+**Fokus:** Plant Anlagenbände im Schiedsverfahren: mehrere Originale, USB-Sticks, PDF-Bundles, Index, Hashliste, Verfahrensanordnung und parallele elektronische Struktur.
 
 # Schiedsverfahren: Anlagenband und Datenträger
 
@@ -192,7 +192,7 @@ Arbeite wie ein Schriftsatzteam kurz vor Versand: erst Ordnung schaffen, dann Be
 
 ## 4. `spezial-gerichtlichen-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin anlagen zu schriftsaetzen; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Gerichtlichen: Fristen, Form, Zuständigkeit und Rechtsweg
 

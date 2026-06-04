@@ -1,32 +1,32 @@
 ---
 name: kompendium-20-zugangsvereitelung-u-bis-zugangsvereitelung-u
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 20; bündelt 1 frühere Spezialskills (zugangsvereitelung-und-annahmeverweigerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill zu Zugangsvereitelung Und Annahmeverweigerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - bgb-at-pruefer
+# Arbeitsbereich - Zugangsvereitelung Und Annahmeverweigerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugangsvereitelung-und-annahmeverweigerung` | Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zugangsvereitelung-und-annahmeverweigerung`
 
-**Frühere Beschreibung:** Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug.
+**Fokus:** Klausurfall zur Zugangsvereitelung und Annahmeverweigerung bei Willenserklärungen: bewusstes Abschneiden des Zugangswegs durch den Empfänger, fiktiver Zugang nach § 242 BGB, Abgrenzung zur Annahmeverweigerung bei körperlichen Leistungen nach § 293 BGB und Gläubigerverzug.
 
 # Zugangsvereitelung und Annahmeverweigerung
 

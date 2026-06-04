@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-ins-043-chatgruppe-t-bis-ins-044-familienange
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (ins-043-chatgruppe-trading, ins-044-familienangeh-rige) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - insiderrecht-compliance
+# Arbeitsbereich - Ins 043 Chatgruppe Trading, Ins 044 Familienangeh Rige
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-043-chatgruppe-trading` | Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG. |
 | `ins-044-familienangeh-rige` | Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-043-chatgruppe-trading`
 
-**Frühere Beschreibung:** Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG.
+**Fokus:** Prueft Insiderhandel und Marktmanipulation in Messenger-Chat-Gruppen: Tatbestandsmerkmale, Beweis-Fragen und strafrechtliche Risiken nach § 119 WpHG.
 
 # Messenger-Chatgruppen und Insiderhandel
 
@@ -109,7 +109,7 @@ Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de,
 
 ## 2. `ins-044-familienangeh-rige`
 
-**Frühere Beschreibung:** Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko.
+**Fokus:** Prueft Handelsverbote und Meldepflichten fuer Familienangehoerige und nahestehende Personen von PDMRs: Wissenszurechnung, Art. 19 MAR, Tipping-Risiko.
 
 # Familienangehörige und nahestehende Personen – Insiderrecht
 

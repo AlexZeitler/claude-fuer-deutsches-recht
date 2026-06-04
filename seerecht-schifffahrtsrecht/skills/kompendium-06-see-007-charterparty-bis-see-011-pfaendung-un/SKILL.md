@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-see-007-charterparty-bis-see-011-pfaendung-un
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (see-007-charterparty-einordnen, see-008-fracht-und-konnossement, see-009-havarie-und-kollision, see-010-bergung-und-wrack, see-011-pfaendung-und-arrest-schiff) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 007 Charterparty Einordnen, See 008 Fracht Und Konnossement, See 009 Havarie Und Kollision, See 010 Bergung Und Wrack und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 007 Charterparty Einordnen bis See 011 Pfaendung Und Arrest Schiff
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-007-charterparty-einordnen` | Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix. |
 | `see-008-fracht-und-konnossement` | Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-007-charterparty-einordnen`
 
-**Frühere Beschreibung:** Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix.
+**Fokus:** Mandant legt Chartervertrag vor; Einordnung als Voyage Charter; Time Charter oder Bareboat Charter nach HGB §§ 527-569. Prueft Verantwortungsverteilung Reeder/Charterer; Besatzungspflicht; nautische vs. kommerzielle Fuehrung; ISM-Code-Zuordnung; Hire-Regime. NYPE 2015; Baltime 2001. Output: Einordnungsvermerk und Haftungsmatrix.
 
 # Charterparty einordnen – Vertragstyp und Haftungsmatrix
 
@@ -113,7 +113,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 2. `see-008-fracht-und-konnossement`
 
-**Frühere Beschreibung:** Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden.
+**Fokus:** Spediteur oder Befrachter prueft Konnossement: HGB §§ 513-525 (Ausstellung; Inhalt; Uebergabe); Haftungsgrenzen HGB §§ 498-510; Hague-Visby/Hamburg Rules fuer internationalen Transport. Reine vs. geklauselte Konnossemente; On-Board-Notation; einjährige Ausschlussfrist (HGB § 606). Output: Konnossementspruefprotokoll und Schadensabwicklungs-Leitfaden.
 
 # Fracht und Konnossement – Prüfung und Schadensabwicklung
 
@@ -196,7 +196,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 3. `see-009-havarie-und-kollision`
 
-**Frühere Beschreibung:** Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie.
+**Fokus:** Zwei Schiffe kollidieren; Havarie-Grosse oder Besondere Havarie klaeren. HGB §§ 571-594 (Grosse Havarie; Dispache); Kollisionsuebereinkommen KSUe 1910; SeeUG § 3 (BSU-Untersuchung); York-Antwerp Rules 2016; P&I vs. H&M Kollisionshaftung. Output: Havarien-Erstbericht; Dispache-Auftrag und Klagestrategie.
 
 # Havarie und Kollision – Erstbericht und Haftungsklärung
 
@@ -279,7 +279,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 4. `see-010-bergung-und-wrack`
 
-**Frühere Beschreibung:** Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix.
+**Fokus:** Schiff strandet oder sinkt; Berger verlangen Bergungslohn; Wrackbeseitigung wird angeordnet. HGB §§ 574-583 (Bergung); WSG §§ 1-12 (Wrackbeseitigungsgesetz); WRC 2007 Nairobi-Uebereinkommen; LOF 2020; SCOPIC-Klausel. Output: Bergungslohn-Kalkulation; WRC-Pflichtenanalyse und Kostenrisiko-Matrix.
 
 # Bergung und Wrack – Bergungslohn und Beseitigungspflicht
 
@@ -360,7 +360,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 5. `see-011-pfaendung-und-arrest-schiff`
 
-**Frühere Beschreibung:** Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie.
+**Fokus:** Glaeubigervertreter beantragt Arrest gegen Schiff im deutschen Hafen: ZPO §§ 916-945 dinglicher Arrest; Vollziehung durch Registereintragung (SchRegO § 67); ISAC 1952 Seeforderungen. Klaert Arrestanspruch; Arrestgrund; Vollziehungsfrist; Sicherheitsleistung; LOU-Strategie. Output: Arrestantrags-Baustein und Freigabe-Strategie.
 
 # Pfändung und Arrest am Schiff
 

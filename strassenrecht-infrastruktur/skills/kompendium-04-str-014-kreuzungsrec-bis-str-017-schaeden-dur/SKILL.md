@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-str-014-kreuzungsrec-bis-str-017-schaeden-dur
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (str-014-kreuzungsrecht-bahn-wasser-strasse, str-015-strassenausbaubeitrag-pruefen, str-016-unterhaltungspflicht-und-winterdienst, str-017-schaeden-durch-strasse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 014 Kreuzungsrecht Bahn Wasser Strasse, Str 015 Strassenausbaubeitrag Pruefen, Str 016 Unterhaltungspflicht Und Winterdienst, Str 017 Schaeden Durch Strasse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 014 Kreuzungsrecht Bahn Wasser Strasse bis Str 017 Schaeden Durch Strasse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-014-kreuzungsrecht-bahn-wasser-strasse` | Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-015-strassenausbaubeitrag-pruefen` | Straßenrecht und Infrastruktur: Straßenausbaubeitrag prüfen. Straßenausbaubeitrag prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-014-kreuzungsrecht-bahn-wasser-strasse`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Kreuzungsrecht Bahn Wasser Straße. Kreuzungsrecht Bahn Wasser Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kreuzungsrecht Bahn Wasser Strasse
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-015-strassenausbaubeitrag-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Straßenausbaubeitrag prüfen. Straßenausbaubeitrag prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Straßenausbaubeitrag prüfen. Straßenausbaubeitrag prüfen im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Strassenausbaubeitrag Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-016-unterhaltungspflicht-und-winterdienst`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdienst. Unterhaltungspflicht und Winterdienst im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Unterhaltungspflicht und Winterdienst. Unterhaltungspflicht und Winterdienst im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Unterhaltungspflicht Und Winterdienst
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-017-schaeden-durch-strasse`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Schäden durch Straße. Schäden durch Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Schäden durch Straße. Schäden durch Straße im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Schaeden Durch Strasse
 

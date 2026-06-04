@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-plattform-notice-tak-bis-presseleistungsschut
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (plattform-notice-takedown, plattform-upload-art17-dsa, presseleistungsschutz-snippets) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Plattform Notice Takedown, Plattform Upload Art17 Dsa, Presseleistungsschutz Snippets; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - urheberrecht-de-eu
+# Arbeitsbereich - Plattform Notice Takedown, Plattform Upload Art17 Dsa, Presseleistungsschutz Snippets
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `plattform-notice-takedown` | Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie. |
 | `plattform-upload-art17-dsa` | Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `plattform-notice-takedown`
 
-**Frühere Beschreibung:** Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie.
+**Fokus:** Prueft Takedown, Counter-Notice, Content-ID, Plattformregeln, DSA-Beschwerde und Parallelstrategie.
 
 # Notice, Takedown und Restore
 
@@ -98,7 +98,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `plattform-upload-art17-dsa`
 
-**Frühere Beschreibung:** Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen.
+**Fokus:** Prueft Plattformhaftung, Uploadfilter, Beschwerdeverfahren, Overblocking und parallele DSA-Fragen.
 
 # Plattformen, Uploads und Art. 17 DSM
 
@@ -168,7 +168,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `presseleistungsschutz-snippets`
 
-**Frühere Beschreibung:** Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung.
+**Fokus:** Prueft Rechte der Presseverleger, Snippets, Suchmaschinen, Aggregatoren, Linkvorschauen und Plattformnutzung.
 
 # Presseleistungsschutz und Snippets
 

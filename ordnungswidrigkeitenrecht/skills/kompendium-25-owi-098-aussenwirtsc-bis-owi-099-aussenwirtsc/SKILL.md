@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-owi-098-aussenwirtsc-bis-owi-099-aussenwirtsc
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (owi-098-aussenwirtschaft-gerichtstermin-vorber, owi-099-aussenwirtschaft-rechtsbeschwerde-prue) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 098 Aussenwirtschaft Gerichtstermin Vorber, Owi 099 Aussenwirtschaft Rechtsbeschwerde Prue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-098-aussenwirtschaft-gerichtstermin-vorber` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-099-aussenwirtschaft-rechtsbeschwerde-prue` | Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-098-aussenwirtschaft-gerichtstermin-vorber`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Gerichtstermin Vorber
 
@@ -84,7 +84,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-099-aussenwirtschaft-rechtsbeschwerde-prue`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Außenwirtschaft: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Außenwirtschaft im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Aussenwirtschaft Rechtsbeschwerde Prue
 

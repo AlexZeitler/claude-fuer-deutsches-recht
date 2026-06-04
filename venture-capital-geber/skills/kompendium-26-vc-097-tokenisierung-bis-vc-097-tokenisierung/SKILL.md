@@ -1,32 +1,32 @@
 ---
 name: kompendium-26-vc-097-tokenisierung-bis-vc-097-tokenisierung
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 26; bündelt 1 frühere Spezialskills (vc-097-tokenisierung-digital-shares) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill zu Vc 097 Tokenisierung Digital Shares; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - venture-capital-geber
+# Arbeitsbereich - Vc 097 Tokenisierung Digital Shares
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-097-tokenisierung-digital-shares` | Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-097-tokenisierung-digital-shares`
 
-**Frühere Beschreibung:** Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.
+**Fokus:** Prüft tokenisierte Investments, eWpG, MiCAR, Wallets, Register, Verwahrung und Anlegerkommunikation.
 
 # Tokenisierung und digitale Beteiligung
 

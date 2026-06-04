@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-ips-stabilisierung-s-bis-ips-starug-plan-arch
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (ips-stabilisierung-starug, ips-stakeholder-kommunikation, ips-starug-plan-architektur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Stabilisierung Starug, Ips Stakeholder Kommunikation, Ips Starug Plan Architektur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-stabilisierung-starug` | StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Schutzschirmverfahren nach InsO. |
 | `ips-stakeholder-kommunikation` | Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Überversprechungen. Output: Kommunikationsmatrix Gläubiger-Q-A Terminskript. Abgrenzung: nicht für Gerichtsschriftsaetze (ips-gerichtliche-schritte). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-stabilisierung-starug`
 
-**Frühere Beschreibung:** StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Schutzschirmverfahren nach InsO.
+**Fokus:** StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Schutzschirmverfahren nach InsO.
 
 # StaRUG-Stabilisierung
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-stakeholder-kommunikation`
 
-**Frühere Beschreibung:** Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Überversprechungen. Output: Kommunikationsmatrix Gläubiger-Q-A Terminskript. Abgrenzung: nicht für Gerichtsschriftsaetze (ips-gerichtliche-schritte).
+**Fokus:** Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Überversprechungen. Output: Kommunikationsmatrix Gläubiger-Q-A Terminskript. Abgrenzung: nicht für Gerichtsschriftsaetze (ips-gerichtliche-schritte).
 
 # Stakeholder-Kommunikation
 
@@ -184,7 +184,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-starug-plan-architektur`
 
-**Frühere Beschreibung:** Vollständigen StaRUG-Restrukturierungsplan strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen Abstimmung. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (ips-insolvenzplan-architektur).
+**Fokus:** Vollständigen StaRUG-Restrukturierungsplan strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen Abstimmung. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (ips-insolvenzplan-architektur).
 
 # StaRUG-Plan-Architektur
 

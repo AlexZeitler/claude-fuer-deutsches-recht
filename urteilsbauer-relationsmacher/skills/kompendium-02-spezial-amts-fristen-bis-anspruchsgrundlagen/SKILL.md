@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-spezial-amts-fristen-bis-anspruchsgrundlagen
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (spezial-amts-fristen-form-und-zustaendigkeit, aktenintake-zivil, anspruchsgrundlagen-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Amts Fristen Form Und Zustaendigkeit, Aktenintake Zivil, Anspruchsgrundlagen Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-amts-fristen-form-und-zustaendigkeit` | Amts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `aktenintake-zivil` | Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Prüfliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailprüfung Zulässigkeit siehe zulässigkeit-prüfen; Relationserstattung siehe relation-zivil. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-amts-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Amts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Amts: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin urteilsbauer relationsmacher; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Amts: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `aktenintake-zivil`
 
-**Frühere Beschreibung:** Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Prüfliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailprüfung Zulässigkeit siehe zulässigkeit-prüfen; Relationserstattung siehe relation-zivil.
+**Fokus:** Eingehende Zivilakte vor erster Prüfung strukturieren: Richter oder Referendar erhalt neue Akte und muss Überblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswürdigung), § 139 ZPO (richterliche Hinweispflicht). Prüfraster: Klagschrift mit Anträgen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Prüfliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailprüfung Zulässigkeit siehe zulässigkeit-prüfen; Relationserstattung siehe relation-zivil.
 
 # Aktenintake Zivilprozess
 
@@ -214,7 +214,7 @@ Als Berichterstatter:
 
 ## 3. `anspruchsgrundlagen-pruefen`
 
-**Frühere Beschreibung:** Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjährung. Output Anspruchsgrundlagen-Baum mit Prüfungsschema. Abgrenzung: CISG-spezifisch siehe cisg-prüfen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil.
+**Fokus:** Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjährung. Output Anspruchsgrundlagen-Baum mit Prüfungsschema. Abgrenzung: CISG-spezifisch siehe cisg-prüfen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil.
 
 # Anspruchsgrundlagen-Prüfung
 

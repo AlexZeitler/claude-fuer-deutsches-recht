@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-rom-050-exceptiones-bis-rom-057-schenkungen
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 08; bündelt 8 frühere Spezialskills (rom-050-exceptiones-und-repliken, rom-051-interdicta-praxis, rom-052-erbrecht-testament, rom-053-intestaterbfolge, rom-054-legat-und-fideikommiss und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 050 Exceptiones Und Repliken, Rom 051 Interdicta Praxis, Rom 052 Erbrecht Testament, Rom 053 Intestaterbfolge und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - roemisches-recht
+# Arbeitsbereich - Rom 050 Exceptiones Und Repliken bis Rom 057 Schenkungen Und Mortisationsfragen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-050-exceptiones-und-repliken` | Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess. |
 | `rom-051-interdicta-praxis` | Römisches Recht: Interdikte in der Praxis nach D. 43 und Gaius Inst. 4.138-170 - prohibitoria/restitutoria/exhibitoria, uti possidetis, unde vi, utrubi und interdiktaler Prozess. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-050-exceptiones-und-repliken`
 
-**Frühere Beschreibung:** Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess.
+**Fokus:** Römisches Recht: Exceptiones (Einreden) nach Gaius Inst. 4.115-129 - peremptorische vs. dilatorische Einreden, exceptio doli, exceptio rei iudicatae, replicatio und die Einredestruktur im Formularprozess.
 
 # Exceptiones und Repliken im Formularprozess
 
@@ -87,7 +87,7 @@ Gaius Inst. 4.115-129; D. 44.1; D. 44.4 (Mommsen-Krüger). Kaser/Hackl. Lenel Ed
 
 ## 2. `rom-051-interdicta-praxis`
 
-**Frühere Beschreibung:** Römisches Recht: Interdikte in der Praxis nach D. 43 und Gaius Inst. 4.138-170 - prohibitoria/restitutoria/exhibitoria, uti possidetis, unde vi, utrubi und interdiktaler Prozess.
+**Fokus:** Römisches Recht: Interdikte in der Praxis nach D. 43 und Gaius Inst. 4.138-170 - prohibitoria/restitutoria/exhibitoria, uti possidetis, unde vi, utrubi und interdiktaler Prozess.
 
 # Interdikte in der Praxis
 
@@ -141,7 +141,7 @@ D. 43 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum (archive.org). Kaser/Hackl
 
 ## 3. `rom-052-erbrecht-testament`
 
-**Frühere Beschreibung:** Römisches Recht: Testamentserbrecht nach D. 28-29 und Gaius Inst. 2.99-190 - Testamentsformen, heredis institutio, hereditas, Enterbung, Widerruf, querela inofficiosi testamenti und Pflichtteilsschutz.
+**Fokus:** Römisches Recht: Testamentserbrecht nach D. 28-29 und Gaius Inst. 2.99-190 - Testamentsformen, heredis institutio, hereditas, Enterbung, Widerruf, querela inofficiosi testamenti und Pflichtteilsschutz.
 
 # Erbrecht: Testament und hereditas
 
@@ -208,7 +208,7 @@ D. 28-29; D. 5.2; Gaius Inst. 2; Iust. Inst. 2.10 ff.; Nov. 107. Primärquellen 
 
 ## 4. `rom-053-intestaterbfolge`
 
-**Frühere Beschreibung:** Römisches Recht: Intestaterbfolge nach D. 38.6-17, XII Tafeln Tab. V und Gaius Inst. 3.1-87 - drei Klassen (sui heredes, agnati, gentiles), prätorische bonorum possessio und justinianische Reform (Nov. 118).
+**Fokus:** Römisches Recht: Intestaterbfolge nach D. 38.6-17, XII Tafeln Tab. V und Gaius Inst. 3.1-87 - drei Klassen (sui heredes, agnati, gentiles), prätorische bonorum possessio und justinianische Reform (Nov. 118).
 
 # Intestaterbfolge
 
@@ -263,7 +263,7 @@ XII Tafeln: Bruns Fontes (archive.org). Gaius Inst. 3; D. 38; Nov. 118 (Mommsen-
 
 ## 5. `rom-054-legat-und-fideikommiss`
 
-**Frühere Beschreibung:** Römisches Recht: Legat (legatum) nach D. 30-32 und Gaius Inst. 2.191-245 - vier Legatsarten, Vindikations- vs. Damnationslegat, fideicommissum und ihre Angleichung durch Justinian.
+**Fokus:** Römisches Recht: Legat (legatum) nach D. 30-32 und Gaius Inst. 2.191-245 - vier Legatsarten, Vindikations- vs. Damnationslegat, fideicommissum und ihre Angleichung durch Justinian.
 
 # Legat (legatum) und Fideikommiss (fideicommissum)
 
@@ -317,7 +317,7 @@ D. 30-32; D. 35.2; Gaius Inst. 2; Nov. 1 (Mommsen-Krüger). Kaser RP I §§ 390-
 
 ## 6. `rom-055-bonorum-possessio`
 
-**Frühere Beschreibung:** Römisches Recht: Bonorum possessio als prätorisches Erbrecht nach D. 37-38 und Gaius Inst. 3.25-87 - bonorum possessor und heredis loco, vier Klassen des prätorischen Erbrechts, Verhältnis zum ius civile.
+**Fokus:** Römisches Recht: Bonorum possessio als prätorisches Erbrecht nach D. 37-38 und Gaius Inst. 3.25-87 - bonorum possessor und heredis loco, vier Klassen des prätorischen Erbrechts, Verhältnis zum ius civile.
 
 # Bonorum possessio - prätorisches Erbrecht
 
@@ -371,7 +371,7 @@ D. 37-38 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.9; Nov. 118. Kaser RP I
 
 ## 7. `rom-056-hereditatis-petitio`
 
-**Frühere Beschreibung:** Römisches Recht: Hereditatis petitio (Erbschaftsklage) nach D. 5.3 und Gaius Inst. 4.16 - dingliche Klage des Erben gegen Erbschaftsbesitzer, Haftung des gutgläubigen und bösgläubigen Erbschaftsbesitzers.
+**Fokus:** Römisches Recht: Hereditatis petitio (Erbschaftsklage) nach D. 5.3 und Gaius Inst. 4.16 - dingliche Klage des Erben gegen Erbschaftsbesitzer, Haftung des gutgläubigen und bösgläubigen Erbschaftsbesitzers.
 
 # Hereditatis petitio - Erbschaftsklage
 
@@ -425,7 +425,7 @@ D. 5.3 (Mommsen-Krüger). Gaius Inst. 4. SC Iuventianum. Kaser RP I. Zimmermann.
 
 ## 8. `rom-057-schenkungen-und-mortisationsfragen`
 
-**Frühere Beschreibung:** Römisches Recht: Schenkung (donatio) nach D. 39.5 und donatio mortis causa nach D. 39.6 - Unentgeltlichkeit, lex Cincia (204 v.Chr.), Schenkungsverbot unter Ehegatten (D. 24.1) und Widerruf.
+**Fokus:** Römisches Recht: Schenkung (donatio) nach D. 39.5 und donatio mortis causa nach D. 39.6 - Unentgeltlichkeit, lex Cincia (204 v.Chr.), Schenkungsverbot unter Ehegatten (D. 24.1) und Widerruf.
 
 # Schenkungen und donatio mortis causa
 

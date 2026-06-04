@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-public-performance-d-bis-recordation-205-tran
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (public-performance-display-110, public-records-search-chain, publication-status-usa-ausland-online, recordation-205-transfers) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Public Performance Display 110, Public Records Search Chain, Publication Status Usa Ausland Online, Recordation 205 Transfers; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Public Performance Display 110 bis Recordation 205 Transfers
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `public-performance-display-110` | Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions. |
 | `public-records-search-chain` | Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `public-performance-display-110`
 
-**Frühere Beschreibung:** Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions.
+**Fokus:** Prueft öffentliche Aufführung, Display, Unterricht, Gottesdienst, Retail, Events, Streaming und statutory exceptions.
 
 # Public Performance, Display und § 110
 
@@ -96,7 +96,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `public-records-search-chain`
 
-**Frühere Beschreibung:** Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations.
+**Fokus:** Prueft USCO public records, catalog, recorded documents, gaps, name variants and old registrations.
 
 # Public Records Search and Chain
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `publication-status-usa-ausland-online`
 
-**Frühere Beschreibung:** Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung.
+**Fokus:** Publication-Status klären: veröffentlicht/unveröffentlicht, U.S.-Erstveröffentlichung, ausländische Erstveröffentlichung, Online-only und gleichzeitige Verbreitung.
 
 # Publication Status USA, Ausland und Online
 
@@ -208,7 +208,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `recordation-205-transfers`
 
-**Frühere Beschreibung:** Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene.
+**Fokus:** Prueft Recordation von Transfers, Priority, constructive notice, backlist acquisitions und chain-of-title hygiene.
 
 # Recordation § 205 Transfers
 

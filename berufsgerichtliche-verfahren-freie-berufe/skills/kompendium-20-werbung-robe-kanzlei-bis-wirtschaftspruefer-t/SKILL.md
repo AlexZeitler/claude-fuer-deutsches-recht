@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-werbung-robe-kanzlei-bis-wirtschaftspruefer-t
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (werbung-robe-kanzleimarketing-verteidigung, wirtschaftspruefer-qualitaetskontrolle-praevention, wirtschaftspruefer-qualitaetskontrolle-verteidigung, wirtschaftspruefer-testat-widerruf-praevention) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Werbung Robe Kanzleimarketing Verteidigung, Wirtschaftspruefer Qualitaetskontrolle Praevention, Wirtschaftspruefer Qualitaetskontrolle Verteidigung, Wirtschaftspruefer Testat Widerruf Praevention; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Werbung Robe Kanzleimarketing Verteidigung bis Wirtschaftspruefer Testat Widerruf Praevention
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `werbung-robe-kanzleimarketing-verteidigung` | Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `wirtschaftspruefer-qualitaetskontrolle-praevention` | Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `werbung-robe-kanzleimarketing-verteidigung`
 
-**Frühere Beschreibung:** Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Werbung, Robe und Kanzleimarketing (Verteidigungs- und Kammerantwort): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Werbung, Robe und Kanzleimarketing: Verteidigungs- und Kammerantwort
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `wirtschaftspruefer-qualitaetskontrolle-praevention`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Wirtschaftsprüfer Qualitätskontrolle (Präventions- und Organisationspaket): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Wirtschaftsprüfer Qualitätskontrolle: Präventions- und Organisationspaket
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `wirtschaftspruefer-qualitaetskontrolle-verteidigung`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer Qualitätskontrolle (Verteidigungs- und Kammerantwort): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Wirtschaftsprüfer Qualitätskontrolle (Verteidigungs- und Kammerantwort): steuert Qualitätssicherung, Inspektion, Dokumentation, Prüfungsakte und Maßnahmenplan mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Wirtschaftsprüfer Qualitätskontrolle: Verteidigungs- und Kammerantwort
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `wirtschaftspruefer-testat-widerruf-praevention`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer Testat Widerruf (Präventions- und Organisationspaket): steuert fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Wirtschaftsprüfer Testat Widerruf (Präventions- und Organisationspaket): steuert fehlerhaftes Testat, Nachtragsprüfung, Widerruf, Marktinformation und Haftung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Wirtschaftsprüfer Testat Widerruf: Präventions- und Organisationspaket
 

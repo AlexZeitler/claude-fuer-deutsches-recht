@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-hoai-lph-08-dokument-bis-hoai-lph-08-red-team
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 18 frühere Spezialskills (hoai-lph-08-dokumentation-und-belegakte, hoai-lph-08-fachplaner-schnittstellen, hoai-lph-08-foerdermittel-und-nachweis, hoai-lph-08-genehmigungen-und-auflagen, hoai-lph-08-grundleistung-besondere-leistung und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 08 Dokumentation Und Belegakte, Hoai Lph 08 Fachplaner Schnittstellen, Hoai Lph 08 Foerdermittel Und Nachweis, Hoai Lph 08 Genehmigungen Und Auflagen und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 08 Dokumentation Und Belegakte bis Hoai Lph 08 Red Team Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-08-dokumentation-und-belegakte` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
 | `hoai-lph-08-fachplaner-schnittstellen` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-08-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert protokolle
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 2. `hoai-lph-08-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Koordiniert architekt
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 3. `hoai-lph-08-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft fördermittelbedingungen
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 4. `hoai-lph-08-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 5. `hoai-lph-08-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Grenzt hoai-grundleistung
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 6. `hoai-lph-08-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft bewertungsanteil
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 7. `hoai-lph-08-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft eingaben
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 8. `hoai-lph-08-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Formuliert klare e-mails an bauherr
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 9. `hoai-lph-08-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft kostenermittlung
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 10. `hoai-lph-08-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 11. `hoai-lph-08-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sichert spätere mängel-
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 12. `hoai-lph-08-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erkennt planungsänderung
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 13. `hoai-lph-08-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Berücksichtigt vergabe
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 14. `hoai-lph-08-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Liefert alle dokumente
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 15. `hoai-lph-08-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft planindex
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 16. `hoai-lph-08-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erstellt ein qualitygate
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 17. `hoai-lph-08-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft abschlag
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 18. `hoai-lph-08-red-team-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Sucht widersprüche
 

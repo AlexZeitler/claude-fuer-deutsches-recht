@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-bautraeger-mabv-grun-bis-bautraeger-mabv-verm
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (bautraeger-mabv-grundlagen-1-2, bautraeger-mabv-ratenplan-3-mabv, bautraeger-mabv-sicherheit-2-buergschaft, bautraeger-mabv-vermoegenstrennung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Mabv Grundlagen 1 2, Bautraeger Mabv Ratenplan 3 Mabv, Bautraeger Mabv Sicherheit 2 Buergschaft, Bautraeger Mabv Vermoegenstrennung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Mabv Grundlagen 1 2 bis Bautraeger Mabv Vermoegenstrennung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-mabv-grundlagen-1-2` | Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber. |
 | `bautraeger-mabv-ratenplan-3-mabv` | MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-mabv-grundlagen-1-2`
 
-**Frühere Beschreibung:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber.
+**Fokus:** Makler- und Bautraegerverordnung (MaBV) Grundlagen. Skill behandelt das Anwendungsfeld der MaBV §§ 1 2 die definition Bautraeger und das Verhaeltnis zur Gewerbeordnung § 34c GewO. Liefert Pruefraster fuer Erwerber.
 
 # Bautraeger Mabv Grundlagen 1 2
 
@@ -61,7 +61,7 @@ Bautraeger ist, wer wirtschaftlich auf eigene Rechnung Bauvorhaben fuer fremde R
 
 ## 2. `bautraeger-mabv-ratenplan-3-mabv`
 
-**Frühere Beschreibung:** MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster.
+**Fokus:** MaBV § 3 Ratenplan — 7 Raten nach Baufortschritt. Skill listet die einzelnen Raten in Prozent abhaengig vom Baufortschritt erkennt unzulaessige Vorausleistungen und gibt Tipps zur Pruefung. Liefert exakten Pruefraster.
 
 # Bautraeger Mabv Ratenplan 3 Mabv
 
@@ -109,7 +109,7 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmaessigen Berat
 
 ## 3. `bautraeger-mabv-sicherheit-2-buergschaft`
 
-**Frühere Beschreibung:** MaBV § 2: Sicherheit fuer Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
+**Fokus:** MaBV § 2: Sicherheit fuer Vorausleistungen durch Buergschaft. Skill klaert die alternative Sicherheitsleistung statt Ratenzahlung nach Baufortschritt die Anforderungen an die Buergschaft (selbstschuldnerisch unbedingt unbefristet) und die Folgen ungueltiger Sicherheiten. Liefert Pruefraster.
 
 # Bautraeger Mabv Sicherheit 2 Buergschaft
 
@@ -150,7 +150,7 @@ Summen koennen je nach Fassung der MaBV abweichen — Vor Mandatsmaessigen Berat
 
 ## 4. `bautraeger-mabv-vermoegenstrennung`
 
-**Frühere Beschreibung:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
+**Fokus:** MaBV Vermoegenstrennung — Bautraeger muss die Gelder der Erwerber separiert vom eigenen Vermoegen behandeln. Skill klaert die Trennungspflicht das Sonderkonto und die Folgen bei Vermischung Insolvenzrechtlich. Liefert Pruefraster.
 
 # Bautraeger Mabv Vermoegenstrennung
 

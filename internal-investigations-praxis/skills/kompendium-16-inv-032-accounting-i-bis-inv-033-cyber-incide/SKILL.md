@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-inv-032-accounting-i-bis-inv-033-cyber-incide
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (inv-032-accounting-irregularity, inv-033-cyber-incident) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 032 Accounting Irregularity, Inv 033 Cyber Incident; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - internal-investigations-praxis
+# Arbeitsbereich - Inv 032 Accounting Irregularity, Inv 033 Cyber Incident
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-032-accounting-irregularity` | Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen. |
 | `inv-033-cyber-incident` | Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-032-accounting-irregularity`
 
-**Frühere Beschreibung:** Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen.
+**Fokus:** Untersucht Bilanzierungsunregelmäßigkeiten und Bilanzfälschung – forensische Buchprüfung, § 331 HGB, Abschlussprüferhaftung, SEC-Meldungen.
 
 # Bilanzierungsunregelmäßigkeiten und Accounting-Forensik
 
@@ -117,7 +117,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-033-cyber-incident`
 
-**Frühere Beschreibung:** Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung.
+**Fokus:** Reagiert auf Cyber-Incidents (Ransomware, Datenleck, APT) – DSGVO-Meldepflichten, forensische Sicherung, Behördenstrategie, Strafverfolgung.
 
 # Cyber-Incident-Response und forensische Untersuchung
 

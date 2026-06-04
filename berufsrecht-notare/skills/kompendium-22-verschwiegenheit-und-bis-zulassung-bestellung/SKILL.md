@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-verschwiegenheit-und-bis-zulassung-bestellung
-description: "berufsrecht-notare: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (verschwiegenheit-und-geheimnisschutz, werbung-und-aussenauftritt, zulassung-bestellung-und-register) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-notare: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - berufsrecht-notare
+# Arbeitsbereich - Verschwiegenheit Und Geheimnisschutz, Werbung Und Aussenauftritt, Zulassung Bestellung Und Register
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verschwiegenheit-und-geheimnisschutz` | Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Notare; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `werbung-und-aussenauftritt` | Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Notare; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verschwiegenheit-und-geheimnisschutz`
 
-**Frühere Beschreibung:** Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Notare; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Verschwiegenheit und Geheimnisschutz: vertiefter Berufsrechts-Skill für Notare; prüft Berufsgeheimnis, Hilfspersonen, IT-Dienstleister, Auslagerung und Aktenzugriff, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Verschwiegenheit und Geheimnisschutz
 
@@ -78,7 +78,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `werbung-und-aussenauftritt`
 
-**Frühere Beschreibung:** Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Notare; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Werbung und Außenauftritt: vertiefter Berufsrechts-Skill für Notare; prüft Website, Social Media, Briefkopf, Robe, Titel, Rankings und Sachlichkeit, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Werbung und Außenauftritt
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `zulassung-bestellung-und-register`
 
-**Frühere Beschreibung:** Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Notare; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Notare; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Zulassung, Bestellung und Register
 

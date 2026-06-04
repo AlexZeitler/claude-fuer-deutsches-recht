@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-bautraeger-mabv-voll-bis-bautraeger-rangrueck
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (bautraeger-mabv-vollstaendigkeitserklaerung-7, bautraeger-maengelruegen-und-formerfordernis, bautraeger-pfandfreigabe-und-loeschung, bautraeger-rangruecktritt-grundpfandrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Mabv Vollstaendigkeitserklaerung 7, Bautraeger Maengelruegen Und Formerfordernis, Bautraeger Pfandfreigabe Und Loeschung, Bautraeger Rangruecktritt Grundpfandrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Mabv Vollstaendigkeitserklaerung 7 bis Bautraeger Rangruecktritt Grundpfandrechte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-mabv-vollstaendigkeitserklaerung-7` | MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster. |
 | `bautraeger-maengelruegen-und-formerfordernis` | Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-mabv-vollstaendigkeitserklaerung-7`
 
-**Frühere Beschreibung:** MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster.
+**Fokus:** MaBV § 7 Vollstaendigkeitserklaerung als Alternative. Skill klaert wann der Bautraeger die volle Vertragssumme im Voraus verlangen darf wenn er die nach § 7 vorgesehene Sicherheit stellt. Liefert Pruefraster.
 
 # Bautraeger Mabv Vollstaendigkeitserklaerung 7
 
@@ -56,7 +56,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-maengelruegen-und-formerfordernis`
 
-**Frühere Beschreibung:** Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage.
+**Fokus:** Bautraeger-Maengelruegen und Formerfordernis. Skill klaert wie ein Erwerber Maengel ruegen muss Schriftform-Empfehlung Frist zur Nachbesserung und die Folgen einer unwirksamen Ruege. Liefert Vorlage.
 
 # Bautraeger Maengelruegen Und Formerfordernis
 
@@ -92,7 +92,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `bautraeger-pfandfreigabe-und-loeschung`
 
-**Frühere Beschreibung:** Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster.
+**Fokus:** Pfandfreigabe und Loeschung nach vollstaendiger Bezahlung. Skill klaert das Verfahren wie nach Bezahlung die Pfandentnahme erfolgt und die Wohnung lastenfrei wird. Folgen bei Verweigerung. Liefert Pruefraster.
 
 # Bautraeger Pfandfreigabe Und Loeschung
 
@@ -128,7 +128,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `bautraeger-rangruecktritt-grundpfandrechte`
 
-**Frühere Beschreibung:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster.
+**Fokus:** Rangruecktritt der Bautraeger-Grundpfandrechte hinter die Aufflassungsvormerkung. Skill klaert die Vereinbarung welche typischerweise vom Bautraeger zugesagt wird und wie sie zu pruefen ist. Bedeutung fuer Erwerberschutz. Liefert Pruefraster.
 
 # Bautraeger Rangruecktritt Grundpfandrechte
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-restructuring-starug-insolvenzplan, mittelstand-corporate-ma-signing-closing-conditions, mittelstand-corporate-ma-simulation-bidder-process, mittelstand-corporate-ma-steps-plan-pmo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Restructuring Starug Insolvenzplan, Mittelstand Corporate Ma Signing Closing Conditions, Mittelstand Corporate Ma Simulation Bidder Process, Mittelstand Corporate Ma Steps Plan Pmo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Restructuring Starug Insolvenzplan bis Mittelstand Corporate Ma Steps Plan Pmo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-restructuring-starug-insolvenzplan` | Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills. |
 | `mittelstand-corporate-ma-signing-closing-conditions` | Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-restructuring-starug-insolvenzplan`
 
-**Frühere Beschreibung:** Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills.
+**Fokus:** Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills.
 
 # StaRUG und Insolvenzplan
 
@@ -238,7 +238,7 @@ Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=07.05.202
 
 ## 2. `mittelstand-corporate-ma-signing-closing-conditions`
 
-**Frühere Beschreibung:** Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen.
+**Fokus:** Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen.
 
 # Signing, Closing und Conditions Precedent
 
@@ -439,7 +439,7 @@ AMPEL: [ ] Alle CPs gruen [ ] CPs ausstehend — Eskalation erforderlich
 
 ## 3. `mittelstand-corporate-ma-simulation-bidder-process`
 
-**Frühere Beschreibung:** Bieterprozess-Simulation: Simuliert einen beschleunigten achtstuendigen Seller-side oder Buy-side M&A-Tag mit Datenraum, Q&A, Markup, CPs und Board Call.
+**Fokus:** Bieterprozess-Simulation: Simuliert einen beschleunigten achtstuendigen Seller-side oder Buy-side M&A-Tag mit Datenraum, Q&A, Markup, CPs und Board Call.
 
 # Bieterprozess-Simulation
 
@@ -602,7 +602,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `mittelstand-corporate-ma-steps-plan-pmo`
 
-**Frühere Beschreibung:** Deal-PMO und Steps Plan: Extrahiert aus Verträgen, DD und Gremienunterlagen konkrete Steps Plans für Pre-Signing, Signing-to-Closing und Post-Closing.
+**Fokus:** Deal-PMO und Steps Plan: Extrahiert aus Verträgen, DD und Gremienunterlagen konkrete Steps Plans für Pre-Signing, Signing-to-Closing und Post-Closing.
 
 # Deal-PMO und Steps Plan
 

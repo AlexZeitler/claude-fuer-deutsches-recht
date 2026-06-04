@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (gesellschaftsgruender-musterprotokoll-vs-satzung, gesellschaftsgruender-notar-vorbereitung, gesellschaftsgruender-notarbriefing-onepager, gesellschaftsgruender-one-page-roadmap, gesellschaftsgruender-online-gruendung-dirug) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Musterprotokoll Vs Satzung, Gesellschaftsgruender Notar Vorbereitung, Gesellschaftsgruender Notarbriefing Onepager, Gesellschaftsgruender One Page Roadmap und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Musterprotokoll Vs Satzung bis Gesellschaftsgruender Online Gruendung Dirug
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-musterprotokoll-vs-satzung` | Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist. |
 | `gesellschaftsgruender-notar-vorbereitung` | Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-musterprotokoll-vs-satzung`
 
-**Frühere Beschreibung:** Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist.
+**Fokus:** Entscheidet, ob Musterprotokoll reicht oder individuelle Satzung nötig ist.
 
 # Musterprotokoll vs individuelle Satzung
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-notar-vorbereitung`
 
-**Frühere Beschreibung:** Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung.
+**Fokus:** Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung.
 
 # Notar-Vorbereitung
 
@@ -226,7 +226,7 @@ T+14: Gewerbeanmeldung + Finanzamt-Fragebogen
 
 ## 3. `gesellschaftsgruender-notarbriefing-onepager`
 
-**Frühere Beschreibung:** Erstellt ein Notarbriefing mit Firma, Sitz, Gegenstand, Kapital, Gesellschaftern, GF, Besonderheiten.
+**Fokus:** Erstellt ein Notarbriefing mit Firma, Sitz, Gegenstand, Kapital, Gesellschaftern, GF, Besonderheiten.
 
 # Notarbriefing Onepager
 
@@ -289,7 +289,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-one-page-roadmap`
 
-**Frühere Beschreibung:** Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start.
+**Fokus:** Erstellt eine einseitige Roadmap von Idee bis Eintragung und operativem Start.
 
 # One-Page-Gründungsroadmap
 
@@ -352,7 +352,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-online-gruendung-dirug`
 
-**Frühere Beschreibung:** Online-Gründung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz).
+**Fokus:** Online-Gründung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Prüfraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gründung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz).
 
 # Online-Gründung nach DiRUG
 

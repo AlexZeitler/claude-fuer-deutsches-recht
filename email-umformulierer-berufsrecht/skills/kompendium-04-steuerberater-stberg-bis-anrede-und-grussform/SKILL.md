@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-steuerberater-stberg-bis-anrede-und-grussform
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (steuerberater-stberg-modus, allgemeine-berufliche-korrespondenz, anrede-und-grussformeln) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerberater Stberg Modus, Allgemeine Berufliche Korrespondenz, Anrede Und Grussformeln; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Steuerberater Stberg Modus, Allgemeine Berufliche Korrespondenz, Anrede Und Grussformeln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerberater-stberg-modus` | Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz. |
 | `allgemeine-berufliche-korrespondenz` | Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerberater-stberg-modus`
 
-**Frühere Beschreibung:** Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz.
+**Fokus:** Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz.
 
 # Steuerberater-Modus (StBerG/BOStB)
 
@@ -96,7 +96,7 @@ Der Skill gibt aus: (1) Analyse des Textes auf steuerberaterliche Berufspflichte
 
 ## 2. `allgemeine-berufliche-korrespondenz`
 
-**Frühere Beschreibung:** Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich).
+**Fokus:** Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich).
 
 # Allgemeine Berufliche Korrespondenz
 
@@ -188,7 +188,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `anrede-und-grussformeln`
 
-**Frühere Beschreibung:** Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitätsgebot. Prüfraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begründung. Abgrenzung: nicht für den Briefkorpus (allgemeine-berufliche-korrespondenz).
+**Fokus:** Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitätsgebot. Prüfraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begründung. Abgrenzung: nicht für den Briefkorpus (allgemeine-berufliche-korrespondenz).
 
 # Anrede und Grußformeln
 

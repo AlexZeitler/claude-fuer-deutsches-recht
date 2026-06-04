@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-common-law-litigatio-bis-common-law-quality-g
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (common-law-litigation-discovery, common-law-ma-commercial-drafting, common-law-quality-gate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - common-law-kompass
+# Arbeitsbereich - Common Law Litigation Discovery, Common Law Ma Commercial Drafting, Common Law Quality Gate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-litigation-discovery` | Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl). |
 | `common-law-ma-commercial-drafting` | Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu common-law-representations-warranties-covenants (Klausel-Theorie) und common-law-bilingual-contract-review (bilingual). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-litigation-discovery`
 
-**Frühere Beschreibung:** Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl).
+**Fokus:** Anwalt oder Mandant ist in UK/US-Gerichtsverfahren und will pleadings discovery disclosure depositions privilege evidence settlement verstehen. Prüfraster Verfahrensphasen-Überblick Privilege-Prüfung Discovery-Scope Settlement-Optionen. Output Verfahrens-Erklärung Checkliste. Abgrenzung zu common-law-interpretation-precedent (Praezedenz) und common-law-governing-law-jurisdiction (Rechtswahl).
 
 # Litigation, Discovery und Evidence
 
@@ -146,7 +146,7 @@ Jurisdiction: [England/Wales CPR / US FRCP]
 
 ## 2. `common-law-ma-commercial-drafting`
 
-**Frühere Beschreibung:** Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu common-law-representations-warranties-covenants (Klausel-Theorie) und common-law-bilingual-contract-review (bilingual).
+**Fokus:** Anwalt draftet oder prüft SPA APA NDA LOI Disclosure Schedules oder Commercial Agreement nach Common Law. Common-Law-Risikomatrix. Prüfraster Reps-Warranties-Covenants-Abgrenzung Boilerplate-Risiken Haftungsklauseln Jurisdiktion. Output Markup Risikomatrix Klausel-Vorschlaege. Abgrenzung zu common-law-representations-warranties-covenants (Klausel-Theorie) und common-law-bilingual-contract-review (bilingual).
 
 # M&A und Commercial Drafting
 
@@ -268,7 +268,7 @@ Deal Value: [GBP/USD X]
 
 ## 3. `common-law-quality-gate`
 
-**Frühere Beschreibung:** Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich).
+**Fokus:** Fertig erstelltes Common-Law-Arbeitsprodukt auf Qualitaet prüfen: Jurisdiktion Quellenstand False Friends UK/US-Trennung Review-Bedarf. Prüfraster Jurisdiktion-Konsistenz Normen-Aktualitaet False-Friends-Scan UK-US-Trennung. Output Qualitaets-Prüfbericht Lueckenliste. Abgrenzung zu common-law-false-friends-scanner (Begriffe) und common-law-bilingual-contract-review (Vergleich).
 
 # Common-Law-Qualitätstor
 

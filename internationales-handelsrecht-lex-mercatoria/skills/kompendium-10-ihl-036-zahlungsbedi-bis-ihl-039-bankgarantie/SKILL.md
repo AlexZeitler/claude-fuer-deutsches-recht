@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-ihl-036-zahlungsbedi-bis-ihl-039-bankgarantie
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (ihl-036-zahlungsbedingungen-open-account, ihl-037-akkreditiv-ucp-600, ihl-038-standby-letter-isp98, ihl-039-bankgarantie-urgd) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 036 Zahlungsbedingungen Open Account, Ihl 037 Akkreditiv Ucp 600, Ihl 038 Standby Letter Isp98, Ihl 039 Bankgarantie Urgd; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 036 Zahlungsbedingungen Open Account bis Ihl 039 Bankgarantie Urgd
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-036-zahlungsbedingungen-open-account` | Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU). |
 | `ihl-037-akkreditiv-ucp-600` | Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-036-zahlungsbedingungen-open-account`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU).
+**Fokus:** Internationales Handelsrecht: Zahlungsbedingungen im internationalen Handel. Open Account, Cash in Advance, Dokumenteninkasso (URC 522), Akkreditiv (UCP 600) und Bankgarantie (URDG 758) im Risikoranking. Zahlungsverzug (EU-ZahlungsverzugsRL 2011/7/EU).
 
 # Zahlungsbedingungen: Open Account und Trade Finance
 
@@ -81,7 +81,7 @@ UCP 600: iccwbo.org. URC 522: iccwbo.org. EU-ZahlungsverzugsRL 2011/7/EU: eur-le
 
 ## 2. `ihl-037-akkreditiv-ucp-600`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten.
+**Fokus:** Internationales Handelsrecht: Dokumentenakkreditiv nach UCP 600 (ICC 2007). Abstraktionsprinzip, konforme Dokumentenvorlage, Prüffrist 5 Bankarbeitstage (Art. 14b), Diskrepanzbehandlung, eUCP 2.0 und häufige Fehler bei Akkreditivdokumenten.
 
 # Akkreditiv nach UCP 600
 
@@ -133,7 +133,7 @@ UCP 600: iccwbo.org. eUCP 2.0: iccwbo.org. ICC Opinions on UCP 600: iccwbo.org. 
 
 ## 3. `ihl-038-standby-letter-isp98`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Standby Letter of Credit nach ISP98 (ICC 1998). Abgrenzung zu Akkreditiv und Bankgarantie, Demand-Charakter, ISP98 Rule 1.06 (Unabhängigkeit), Rule 4 (Dokumentenprüfung) und häufige Einsatzgebiete.
+**Fokus:** Internationales Handelsrecht: Standby Letter of Credit nach ISP98 (ICC 1998). Abgrenzung zu Akkreditiv und Bankgarantie, Demand-Charakter, ISP98 Rule 1.06 (Unabhängigkeit), Rule 4 (Dokumentenprüfung) und häufige Einsatzgebiete.
 
 # Standby Letter of Credit nach ISP98
 
@@ -185,7 +185,7 @@ ISP98: iccwbo.org (ICC Publication 590). URDG 758: iccwbo.org. UCP 600: iccwbo.o
 
 ## 4. `ihl-039-bankgarantie-urgd`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Nachfrage-Bankgarantien nach URDG 758 (ICC 2010). Demand-Charakter, Unabhängigkeitsprinzip, Arten (Bietungsgarantie, Erfüllungsgarantie, Anzahlungsgarantie), Gegengarantie und Missbrauchsschutz.
+**Fokus:** Internationales Handelsrecht: Nachfrage-Bankgarantien nach URDG 758 (ICC 2010). Demand-Charakter, Unabhängigkeitsprinzip, Arten (Bietungsgarantie, Erfüllungsgarantie, Anzahlungsgarantie), Gegengarantie und Missbrauchsschutz.
 
 # Bankgarantien nach URDG 758
 

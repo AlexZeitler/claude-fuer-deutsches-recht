@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-strafbefehl-beweis-u-bis-strafbefehl-einspruc
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (strafbefehl-beweis-und-einlassung, strafbefehl-deal-verstaendigung, strafbefehl-einspruch-beschraenkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - strafbefehl-verteidiger
+# Arbeitsbereich - Strafbefehl Beweis Und Einlassung, Strafbefehl Deal Verstaendigung, Strafbefehl Einspruch Beschraenkung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbefehl-beweis-und-einlassung` | Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisanträge § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO. |
 | `strafbefehl-deal-verstaendigung` | Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbefehl-beweis-und-einlassung`
 
-**Frühere Beschreibung:** Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisanträge § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO.
+**Fokus:** Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisanträge § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO.
 
 # Beweis und Einlassung im Strafbefehlsverfahren
 
@@ -128,7 +128,7 @@ Strafmildernd ist zu beruecksichtigen:
 
 ## 2. `strafbefehl-deal-verstaendigung`
 
-**Frühere Beschreibung:** Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB.
+**Fokus:** Verständigung nach § 257c StPO im Strafbefehlsverfahren. Voraussetzungen Inhalt Bindungswirkung Belehrung nach § 257c Abs. 4 und 5 StPO. Grenzen: kein Freispruch kein Schuldspruchverzicht. Abgrenzung informelle Absprache. Ablaufprotokoll TOA § 46a StGB.
 
 # Verstaendigung im Strafbefehlsverfahren — § 257c StPO
 
@@ -214,7 +214,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 3. `strafbefehl-einspruch-beschraenkung`
 
-**Frühere Beschreibung:** Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch wird rechtskraeftig. Taktisches Kalkuel. Geldstrafe Tagessatz Fahrverbot Einziehung angreifbar. Vollstreckungsverzug § 456a StPO. Abgrenzung unbeschraenkter Einspruch.
+**Fokus:** Beschraenkter Einspruch nach § 410 Abs. 2 StPO auf Rechtsfolgen. Schuldspruch wird rechtskraeftig. Taktisches Kalkuel. Geldstrafe Tagessatz Fahrverbot Einziehung angreifbar. Vollstreckungsverzug § 456a StPO. Abgrenzung unbeschraenkter Einspruch.
 
 # Beschraenkter Einspruch gegen den Strafbefehl — § 410 Abs. 2 StPO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-rbs-einfuehrung-them-bis-rbst-anlaufstellen-b
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (rbs-einfuehrung-themen, rbs-rdg-grenzen-spezial, rbst-anlaufstellen-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - rechtsberatungsstelle
+# Arbeitsbereich - Rbs Einfuehrung Themen, Rbs Rdg Grenzen Spezial, Rbst Anlaufstellen Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rbs-einfuehrung-themen` | Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion fuer Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle. |
 | `rbs-rdg-grenzen-spezial` | Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rbs-einfuehrung-themen`
 
-**Frühere Beschreibung:** Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion fuer Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle.
+**Fokus:** Rechtsberatungsstelle einfuehrend: typische Beratungsfelder Mietrecht, Sozialrecht, Familienrecht, Arbeitsrecht, Verbraucherrecht. Schutzfunktion fuer Beratungsberechtigte, Schnittstelle Beratungshilfe BerHG. Entscheidungstabelle.
 
 # Rbs: Themen-Map
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `rechtsberatungsstelle`. Er ergaenzt die uebrige
 
 ## 2. `rbs-rdg-grenzen-spezial`
 
-**Frühere Beschreibung:** Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation.
+**Fokus:** Spezialfall RDG-Grenzen: was darf eine Rechtsberatungsstelle, ehrenamtlich vs. Anwalt, Erlaubnistatbestaende. Schnittstelle Verbraucherschuldnerberatung, Mieterverein, Sozialverband. Pruefraster und Mandanteninformation.
 
 # Rbs: RDG-Grenzen
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `rechtsberatungsstelle`. Er ergaenzt die uebrige
 
 ## 3. `rbst-anlaufstellen-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster fuer Mandant und Sozialberatung.
+**Fokus:** Bauleiter Anlaufstellen Rechtsberatung: Beratungshilfe, Prozesskostenhilfe, Schuldnerberatung, Mietervereine, Verbraucherzentrale. Pruefraster fuer Mandant und Sozialberatung.
 
 # RBst: Anlaufstellen Bauleiter
 

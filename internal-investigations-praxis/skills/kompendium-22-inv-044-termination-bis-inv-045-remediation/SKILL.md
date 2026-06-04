@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-inv-044-termination-bis-inv-045-remediation
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (inv-044-termination-strategy, inv-045-remediation-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 044 Termination Strategy, Inv 045 Remediation Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - internal-investigations-praxis
+# Arbeitsbereich - Inv 044 Termination Strategy, Inv 045 Remediation Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-044-termination-strategy` | Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement. |
 | `inv-045-remediation-plan` | Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-044-termination-strategy`
 
-**Frühere Beschreibung:** Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement.
+**Fokus:** Entwickelt Kündigungsstrategie für Beschuldigte und Beteiligte – Tatkündigung, Verdachtskündigung, Trennungsvereinbarung, Outplacement.
 
 # Kündigungsstrategie nach Internal Investigations
 
@@ -115,7 +115,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-045-remediation-plan`
 
-**Frühere Beschreibung:** Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung.
+**Fokus:** Erstellt einen strukturierten Remediation-Plan nach Untersuchungsabschluss – Kontrolllücken, Compliance-Verbesserungen, Behörden-Reporting und Nachverfolgung.
 
 # Remediation-Plan nach Internal Investigation
 

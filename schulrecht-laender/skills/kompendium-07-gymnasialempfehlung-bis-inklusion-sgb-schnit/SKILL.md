@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-gymnasialempfehlung-bis-inklusion-sgb-schnit
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (gymnasialempfehlung-und-uebergang, handyverbot-und-digitalgeraete, hausaufgaben-und-betreuungspflichten, inklusion-sgb-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gymnasialempfehlung Und Uebergang, Handyverbot Und Digitalgeraete, Hausaufgaben Und Betreuungspflichten, Inklusion Sgb Schnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - schulrecht-laender
+# Arbeitsbereich - Gymnasialempfehlung Und Uebergang bis Inklusion Sgb Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gymnasialempfehlung-und-uebergang` | Prüft Übergang Grundschule zu weiterführender Schule. |
 | `handyverbot-und-digitalgeraete` | Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gymnasialempfehlung-und-uebergang`
 
-**Frühere Beschreibung:** Prüft Übergang Grundschule zu weiterführender Schule.
+**Fokus:** Prüft Übergang Grundschule zu weiterführender Schule.
 
 # Gymnasialempfehlung Und Uebergang
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Übergangsnotiz. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 2. `handyverbot-und-digitalgeraete`
 
-**Frühere Beschreibung:** Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte.
+**Fokus:** Prüft Handyverbote, Beschlagnahme, Tablets und Schulgeräte.
 
 # Handyverbot Und Digitalgeraete
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Geräte-Policy-Check. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 3. `hausaufgaben-und-betreuungspflichten`
 
-**Frühere Beschreibung:** Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum.
+**Fokus:** Prüft Hausaufgaben, Lernzeiten, Ganztag, Zumutbarkeit und pädagogischen Spielraum.
 
 # Hausaufgaben und Betreuungspflichten
 
@@ -224,7 +224,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `inklusion-sgb-schnittstelle`
 
-**Frühere Beschreibung:** Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung.
+**Fokus:** Verknüpft Schule mit Eingliederungshilfe und Schulbegleitung.
 
 # Inklusion Sgb Schnittstelle
 

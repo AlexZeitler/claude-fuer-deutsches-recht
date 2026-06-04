@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-beistand-im-kirchlic-bis-entwurf-eines-hierar
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (beistand-im-kirchlichen-strafverfahren, beweis-und-urkunden-im-kirchlichen-verfahren, fristen-zeitrechnung-und-verjahrung, entwurf-eines-hierarchischen-rekurses) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beistand Im Kirchlichen Strafverfahren, Beweis Und Urkunden Im Kirchlichen Verfahren, Fristen Zeitrechnung Und Verjahrung, Entwurf Eines Hierarchischen Rekurses; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Beistand Im Kirchlichen Strafverfahren bis Entwurf Eines Hierarchischen Rekurses
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beistand-im-kirchlichen-strafverfahren` | Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `beweis-und-urkunden-im-kirchlichen-verfahren` | Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beistand-im-kirchlichen-strafverfahren`
 
-**Frühere Beschreibung:** Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Beistand im kirchlichen Strafverfahren: Verteidigung, Akteneinsicht, Beweise und Wahrheitspflicht; CIC can. 1720-1728 und 1481-1490; KKK 1463 und 2477-2479; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Beistand im kirchlichen Strafverfahren
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `beweis-und-urkunden-im-kirchlichen-verfahren`
 
-**Frühere Beschreibung:** Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Beweis und Urkunden im kirchlichen Verfahren: Urkunden, Zeugen, Indizien, Gutachten und Glaubwürdigkeit; CIC can. 1526-1586; KKK 2464-2513; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Beweis und Urkunden im kirchlichen Verfahren
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `fristen-zeitrechnung-und-verjahrung`
 
-**Frühere Beschreibung:** Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung und preskriptive Effekte; CIC can. 200-203 und 197-199; KKK 1950-1974; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Fristen, Zeitrechnung und Verjährung: Rekursfristen, Verjährung und preskriptive Effekte; CIC can. 200-203 und 197-199; KKK 1950-1974; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Fristen, Zeitrechnung und Verjährung
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `entwurf-eines-hierarchischen-rekurses`
 
-**Frühere Beschreibung:** Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Entwurf eines hierarchischen Rekurses: Rekurs mit Entscheidung, Beschwer, Frist, Anträgen und Begründung; CIC can. 1732-1739; KKK 1901-1917; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Entwurf eines hierarchischen Rekurses
 

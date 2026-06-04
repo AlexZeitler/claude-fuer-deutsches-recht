@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-hager-system-wipo-bis-internationale-count
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (hager-system-wipo, internationale-country-route-design) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hager System Wipo, Internationale Country Route Design; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Hager System Wipo, Internationale Country Route Design
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hager-system-wipo` | Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing. |
 | `internationale-country-route-design` | Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hager-system-wipo`
 
-**Frühere Beschreibung:** Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing.
+**Fokus:** Internationale Designregistrierung über das WIPO Hague System planen: Designations, Wiedergaben, Priorität, Aufschiebung, lokale Besonderheiten und Counsel-Briefing.
 
 # Hager System Wipo
 
@@ -59,7 +59,7 @@ Hague-Route-Memo und Länderfragen.
 
 ## 2. `internationale-country-route-design`
 
-**Frühere Beschreibung:** Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen.
+**Fokus:** Internationale Designstrategie für USA, UK, China, Japan, Schweiz und weitere Märkte vorbereiten: Hague oder national, Fristen, lokale Besonderheiten und Counsel-Fragen.
 
 # Internationale Country Route Design
 

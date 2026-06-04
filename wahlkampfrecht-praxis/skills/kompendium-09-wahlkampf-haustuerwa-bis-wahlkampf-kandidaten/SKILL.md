@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-wahlkampf-haustuerwa-bis-wahlkampf-kandidaten
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (wahlkampf-haustuerwahlkampf, wahlkampf-influencer-und-unterstuetzer, wahlkampf-infostand-sondernutzung, wahlkampf-interne-chatdisziplin, wahlkampf-kandidaten-altposts-screening) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Haustuerwahlkampf, Wahlkampf Influencer Und Unterstuetzer, Wahlkampf Infostand Sondernutzung, Wahlkampf Interne Chatdisziplin und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Haustuerwahlkampf bis Wahlkampf Kandidaten Altposts Screening
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-haustuerwahlkampf` | Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen. |
 | `wahlkampf-influencer-und-unterstuetzer` | Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-haustuerwahlkampf`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen.
+**Fokus:** Wahlkampfrecht Praxis: Haustuerwahlkampf rechtlich und praktisch sauber machen.
 
 # Haustuerwahlkampf
 
@@ -83,7 +83,7 @@ Erzeuge: **Canvassing-Briefing**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 2. `wahlkampf-influencer-und-unterstuetzer`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Influencer-, Unterstuetzer- und Testimonialkampagnen pruefen.
 
 # Influencer Und Unterstuetzer
 
@@ -136,7 +136,7 @@ Erzeuge: **Influencer-Freigabe**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 3. `wahlkampf-infostand-sondernutzung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Infostaende auf oeffentlichen Flaechen planen.
+**Fokus:** Wahlkampfrecht Praxis: Infostaende auf oeffentlichen Flaechen planen.
 
 # Infostand Sondernutzung
 
@@ -189,7 +189,7 @@ Erzeuge: **Infostand-Antrag**. Wenn Informationen fehlen, stelle höchstens acht
 
 ## 4. `wahlkampf-interne-chatdisziplin`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden.
+**Fokus:** Wahlkampfrecht Praxis: interne Chats so briefen, dass sie nicht zur Brandquelle werden.
 
 # Interne Chatdisziplin
 
@@ -242,7 +242,7 @@ Erzeuge: **Chat-Regelkarte**. Wenn Informationen fehlen, stelle höchstens acht 
 
 ## 5. `wahlkampf-kandidaten-altposts-screening`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen.
+**Fokus:** Wahlkampfrecht Praxis: Altposts und digitale Spuren von Kandidierenden screenen.
 
 # Kandidaten Altposts Screening
 

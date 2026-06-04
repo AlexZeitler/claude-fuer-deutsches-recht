@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-niederschrift-aufste-bis-ordentliche-unterlag
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (niederschrift-aufstellungsversammlung, online-hybrid-parteitag, ordentliche-unterlagenablage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Niederschrift Aufstellungsversammlung, Online Hybrid Parteitag, Ordentliche Unterlagenablage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `niederschrift-aufstellungsversammlung` | Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen. |
 | `online-hybrid-parteitag` | Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `niederschrift-aufstellungsversammlung`
 
-**Frühere Beschreibung:** Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen.
+**Fokus:** Erstellt Niederschrift mit Wahlmodus, Stimmberechtigung, geheimer Abstimmung, Ergebnissen und Versicherungen.
 
 # Niederschrift Aufstellungsversammlung
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `online-hybrid-parteitag`
 
-**Frühere Beschreibung:** Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken.
+**Fokus:** Prüft Satzung, Identifikation, geheime elektronische Wahl, Beschlussfähigkeit, Datenschutz und technische Risiken.
 
 # Online/Hybrid Parteitag
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `ordentliche-unterlagenablage`
 
-**Frühere Beschreibung:** Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren.
+**Fokus:** Baut Aktenstruktur für Satzung, Protokolle, Mitglieder, Wahlvorschläge, Finanzen, Spenden, Schiedsverfahren.
 
 # Unterlagenablage Partei
 

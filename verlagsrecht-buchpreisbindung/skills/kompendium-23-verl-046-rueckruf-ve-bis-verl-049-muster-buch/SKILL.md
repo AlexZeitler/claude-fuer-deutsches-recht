@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-verl-046-rueckruf-ve-bis-verl-049-muster-buch
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (verl-046-rueckruf-vergriffenes-werk-und-neuauflage, verl-049-muster-buchpreisfreigabe-dokumentation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 046 Rueckruf Vergriffenes Werk Und Neuauflage, Verl 049 Muster Buchpreisfreigabe Dokumentation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-046-rueckruf-vergriffenes-werk-und-neuauflage` | Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag. |
 | `verl-049-muster-buchpreisfreigabe-dokumentation` | Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-046-rueckruf-vergriffenes-werk-und-neuauflage`
 
-**Frühere Beschreibung:** Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag.
+**Fokus:** Rückruf bei Vergriffenheit eines Werkes nach VerlG § 17 und UrhG § 41: Voraussetzungen, Verfahren, Preisaufhebung nach BuchPrG § 7 und Neuauflage bei anderem Verlag.
 
 # Rückruf vergriffenes Werk und Neuauflage
 
@@ -202,7 +202,7 @@ Praktische Relevanz: Bibliotheken und Archive können vergriffene Werke digital 
 
 ## 2. `verl-049-muster-buchpreisfreigabe-dokumentation`
 
-**Frühere Beschreibung:** Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG.
+**Fokus:** Buchpreisfreigabe-Dokumentation nach BuchPrG: korrekte Preisfestsetzung und -aufhebung gemäß §§ 3 und 7 BuchPrG, VLB-Protokoll, Ausnahmenbelege nach § 6 BuchPrG.
 
 # Muster-Buchpreisfreigabe-Dokumentation
 

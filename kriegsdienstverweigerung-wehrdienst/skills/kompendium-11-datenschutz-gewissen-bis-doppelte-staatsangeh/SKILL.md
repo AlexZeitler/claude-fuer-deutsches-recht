@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-datenschutz-gewissen-bis-doppelte-staatsangeh
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (datenschutz-gewissensakte, dienststelle-kommunikation, disziplinarrisiken-soldaten, disziplinarvorgesetzter-stellungnahme, doppelte-staatsangehoerigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Datenschutz Gewissensakte, Dienststelle Kommunikation, Disziplinarrisiken Soldaten, Disziplinarvorgesetzter Stellungnahme und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Datenschutz Gewissensakte bis Doppelte Staatsangehoerigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `datenschutz-gewissensakte` | Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten. |
 | `dienststelle-kommunikation` | Formuliert sachliche Dienststellenkommunikation ohne Provokation. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `datenschutz-gewissensakte`
 
-**Frühere Beschreibung:** Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten.
+**Fokus:** Schützt Gewissensbegründung, Gesundheitsdaten und Personalakten.
 
 # Datenschutz Gewissensakte
 
@@ -85,7 +85,7 @@ Keine vollständigen Personal-, Gesundheits- oder Gewissensakten in ungeprüfte 
 
 ## 2. `dienststelle-kommunikation`
 
-**Frühere Beschreibung:** Formuliert sachliche Dienststellenkommunikation ohne Provokation.
+**Fokus:** Formuliert sachliche Dienststellenkommunikation ohne Provokation.
 
 # Kommunikation mit Dienststelle
 
@@ -140,7 +140,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 3. `disziplinarrisiken-soldaten`
 
-**Frühere Beschreibung:** Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten.
+**Fokus:** Warnt vor Disziplinar- und Strafrisiken bei eigenmächtigem Verhalten.
 
 # Disziplinarrisiken
 
@@ -195,7 +195,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 4. `disziplinarvorgesetzter-stellungnahme`
 
-**Frühere Beschreibung:** Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten.
+**Fokus:** Erklärt Stellungnahme der Disziplinarvorgesetzten bei Berufs- und Zeitsoldaten.
 
 # Stellungnahme Disziplinarvorgesetzter
 
@@ -250,7 +250,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 5. `doppelte-staatsangehoerigkeit`
 
-**Frühere Beschreibung:** Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen.
+**Fokus:** Routet deutsche KDV und ausländische Wehrpflichten ohne falsche Auslandsversprechen.
 
 # Doppelte Staatsangehörigkeit
 

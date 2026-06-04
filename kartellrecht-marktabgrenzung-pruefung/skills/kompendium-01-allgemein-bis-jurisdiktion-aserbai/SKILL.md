@@ -1,45 +1,36 @@
 ---
 name: kompendium-01-allgemein-bis-jurisdiktion-aserbai
-description: "kartellrecht-marktabgrenzung-pruefung: Konsolidiertes Skill-Kompendium 01; bündelt 14 frühere Spezialskills (allgemein, workflow-anschluss-skills-router, workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, eugh-rechtsprechung-leitentscheidungen und 9 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kartellrecht-marktabgrenzung-pruefung: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Allgemein, Workflow Anschluss Skills Router, Workflow Chronologie Und Belegmatrix, Workflow Fristen Und Risikoampel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - kartellrecht-marktabgrenzung-pruefung
+# Arbeitsbereich - Allgemein bis Workflow Fristen Und Risikoampel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `workflow-anschluss-skills-router` | Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor. |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
-| `eugh-rechtsprechung-leitentscheidungen` | Workflow-Skill zu eugh rechtsprechung leitentscheidungen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
-| `spezial-rechtsprechung-beweislast-und-darlegungslast` | Rechtsprechung: Beweislast, Darlegungslast und Substantiierung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
-| `jurisdiktion-aegypten-competition-authority` | Jurisdiktionsskill Ägypten: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-albanien-competition-authority` | Jurisdiktionsskill Albanien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-algerien-competition-authority` | Jurisdiktionsskill Algerien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-andorra-competition-authority` | Jurisdiktionsskill Andorra: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-angola-competition-authority` | Jurisdiktionsskill Angola: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-argentinien-competition-authority` | Jurisdiktionsskill Argentinien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-armenien-competition-authority` | Jurisdiktionsskill Armenien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
-| `jurisdiktion-aserbaidschan-competition-authority` | Jurisdiktionsskill Aserbaidschan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Kartellrecht Marktabgrenzung Pruefung-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -413,7 +404,8 @@ Weitere Skills: insgesamt 125 Anschluss-Skills in diesem Plugin.
 
 ## 2. `workflow-anschluss-skills-router`
 
-**Frühere Beschreibung:** Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.
+**Fokus:** Anschluss-Skills Router im Plugin kartellrecht-marktabgrenzung-pruefung: schlägt nach der ersten Prüfung die passenden Spezialskills aus demselben Plugin vor.
+
 
 # Anschluss-Skills Router
 
@@ -462,7 +454,8 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix im Plugin kartellrecht-marktabgrenzung-pruefung: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+
 
 # Chronologie und Belegmatrix
 
@@ -513,7 +506,8 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 4. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin kartellrecht-marktabgrenzung-pruefung: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+
 
 # Fristen- und Risikoampel
 
@@ -554,472 +548,3 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 - **DMA Gatekeeper-Pflichten:** ab Designierung 6 Monate Übergangsfrist (Art. 3 Abs. 10 DMA); Beschwerde 2 Monate (Art. 263 AEUV).
 - **Marktbeherrschung — Bußgeldrisiko § 19 GWB / Art. 102 AEUV:** bis 10 % weltweiter Konzernumsatz (§ 81c GWB, Art. 23 VO 1/2003).
 - Falle: Joint Venture als "kleine Transaktion" einstufen — § 37 GWB Anmeldepflicht prüfen; Umsatzschwellen § 35 Abs. 1 GWB (Inland >50 Mio. EUR und >17,5 Mio. EUR).
-
-## 5. `eugh-rechtsprechung-leitentscheidungen`
-
-**Frühere Beschreibung:** Workflow-Skill zu eugh rechtsprechung leitentscheidungen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
-
-# EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
-
-## Fachkern: EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition
-- **Spezialgegenstand:** EuGH-Rechtsprechung — Leitentscheidungen zur Marktdefinition; dieser Skill beginnt mit der Sachfrage und liefert eine konkrete Lösung statt bloßer Orientierung.
-- **Normen-/Quellenanker:** Art. 101/102 AEUV, VO 1/2003, FKVO, GWB, Vertikal-GVO, DMA/DSA-Schnittstellen, private damages und Behördenpraxis.
-- **Entscheidende Weiche:** Markt, Verhalten, Beteiligte, Schwelle, Effekt, Effizienzrechtfertigung, Verfahren, Dawn Raid/Leniency und Schadensersatz getrennt ordnen.
-- **Arbeitsprodukt:** Erzeuge eine konkrete Prüf- oder Entscheidungsmatrix mit Norm, Tatbestand, Beleg, Einwand, Risikoampel und nächstem Schritt; Anschluss-Skills nur bei echter Vertiefung nennen.
-
-
-## Grundlegende Entscheidungen (Klassiker)
-
-Vor Verwendung im Schriftsatz immer über [curia.europa.eu](https://curia.europa.eu/) Volltext und Rn. nachschlagen.
-
-**EuGH, Urt. v. 21.02.1973 — Rs. 6/72 (Continental Can / Kommission):** Erstmalige Anerkennung der Marktdefinition als Voraussetzung für Art. 102 AEUV-Anwendung. Drei getrennte Märkte für Fleischkonserven, Fischwaren und Metalldeckel.
-
-**EuGH, Urt. v. 14.02.1978 — Rs. 27/76 (United Brands / Kommission):** Bananen als eigener sachlicher Markt, da spezifische Eigenschaften für bestimmte Verbrauchergruppen (Kleinkinder, Kranke, ältere Menschen) keine Substitution durch andere Früchte erlauben. Grundlage der qualitativen Bedarfsanalyse. Marktanteile 41-45 % als ausreichend für Marktbeherrschung anerkannt.
-
-**EuGH, Urt. v. 13.02.1979 — Rs. 85/76 (Hoffmann-La Roche / Kommission):** Separate Märkte für einzelne Vitamingruppen (A, B1, B2, B6, C usw.), da Kreuzpreiselastizitäten zwischen Gruppen niedrig. Grundlegende Definition marktbeherrschender Stellung als "wirtschaftliche Machtstellung, die ein Unternehmen in die Lage versetzt, einen wirksamen Wettbewerb auf dem relevanten Markt zu verhindern, indem sie ihm die Möglichkeit verschafft, sich seinen Wettbewerbern, seinen Abnehmern und schließlich den Verbrauchern gegenüber in einem nennenswerten Umfang unabhängig zu verhalten".
-
-Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-Erneuerungsreifen für schwere Nutzfahrzeuge als eigener Markt — kein Substitut für PKW-Reifen oder Neureifen. Aftermarkt-Aspekte.
-
-### Rechtsprechung live prüfen
-Marktabgrenzung organische Peroxide; Kampfpreistest; Marktbeherrschungsvermutung ab 50 Prozent Marktanteil.
-
-### Rechtsprechung live prüfen
-Getrennte Märkte für aseptische und nicht-aseptische Kartonverpackungen sowie die jeweiligen Abfüllmaschinen. Systemmarkt-Aspekte.
-
-### Rechtsprechung live prüfen
-Wöchentliche Fernsehprogrammzeitschriften als eigenständiger Markt; Refusal to Deal als Missbrauch.
-
-### Rechtsprechung live prüfen
-Zugang zu Zeitungszustellnetz als eigener Markt; Essential-Facility-Doktrin im europäischen Recht.
-
-## Digitale Märkte — Leitentscheidungen
-
-### Rechtsprechung live prüfen
-PC-Betriebssystemmarkt als eigener Markt; Medienabspielsoftware als angrenzendes Produkt; Interoperabilitätszugang.
-
-### Rechtsprechung live prüfen
-Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über amtliche oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-### Rechtsprechung live prüfen
-Markt für mobile Betriebssysteme (ohne iOS als Substitut) und Markt für App-Stores auf Android. Marktmacht auf Lizenzierungsmarkt für Android.
-
-### Rechtsprechung live prüfen
-Markt für soziale Netzwerke für private Nutzer in der EU; Facebook als marktbeherrschend. Verknüpfung mit DSGVO-Datenverarbeitung als Missbrauch.
-
-### Rechtsprechung live prüfen
-Pharmazeutischer Markt: Perindopril als eigener Markt wegen therapeutischer Verschreibungspraxis (Arztloyalität gegenüber Erstmittel). Kritik an zu enger Marktdefinition der Kommission.
-
-### Rechtsprechung live prüfen
-Online-Reisebuchungsplattformen; Verhältnis zu direktem Hotelvertrieb.
-
-## BGH-Entscheidungen
-
-**BGH, Beschl. v. 23.06.2020 — KVR 69/19 (Facebook):** Eilrechtsschutz; bestätigt vorläufig die kartellbehördliche Anordnung des Bundeskartellamts gegen Facebook. Bestätigung der enger definierten Marktkategorie "soziale Netzwerke für private Nutzer in Deutschland". Missbrauch durch Wahlfreiheits-Beseitigung bei Datenverarbeitung über plattformexterne Quellen. Verifikation [bundesgerichtshof.de](https://www.bundesgerichtshof.de/SharedDocs/Pressemitteilungen/DE/2020/2020080.html).
-
-**BGH-Linie zu § 19a GWB:** Bestätigung der Adressatfeststellungen Amazon und Apple zur "überragenden marktübergreifenden Bedeutung für den Wettbewerb" — Aktenzeichen und Datum im Mandat live über [bundeskartellamt.de](https://www.bundeskartellamt.de/DE/DigitalWirtschaft/VerfahrenGegenGrosseDigitalkonzerne/verfahrengegengrossedigitalkonzerne_node.html) verifizieren.
-
-## Verwendungshinweis
-
-Alle Entscheidungen müssen mit dem konkreten Sachverhalt abgeglichen werden. Analoge Übertragung ohne Kontextprüfung ist ein methodischer Fehler.
-
-## Kerneintscheidungen EuGH Wettbewerbsrecht (Chronologisch)
-
-- Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
-
-## Quellenregel
-
-Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwissen; Literatur nur mit Nutzerquelle oder lizenziertem Live-Zugriff.
-
-## 6. `spezial-rechtsprechung-beweislast-und-darlegungslast`
-
-**Frühere Beschreibung:** Rechtsprechung: Beweislast, Darlegungslast und Substantiierung im Plugin kartellrecht marktabgrenzung pruefung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
-
-# Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-
-## Spezialwissen: Rechtsprechung: Beweislast, Darlegungslast und Substantiierung
-- **Spezialgegenstand:** Rechtsprechung: Beweislast, Darlegungslast und Substantiierung / spezial rechtsprechung beweislast und darlegungslast. Der Skill löst diese konkrete Lage und darf nicht in allgemeines Routing ausweichen.
-- **Normen-/Quellenanker:** GWB, Art. 101, AEUV, SSNIP.
-- **Entscheidende Weiche:** Aus dem Sachverhalt sind Tatbestandsmerkmal, Zuständigkeit, Frist, Beweislast, Ermessen/Wertung und Rechtsfolge getrennt herauszuarbeiten; offene Tatsachen werden als offen markiert.
-- **Arbeitsprodukt:** Erzeuge eine fallbezogene Matrix `Norm / Tatsache / Beleg / Gegenargument / Risiko / nächster Schritt` plus einen direkt verwendbaren Baustein für Vermerk, Schreiben, Antrag, Schriftsatz oder Entscheidungsvorlage.
-
-
-## Fallweichen
-Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur Rückfragen, die die nächste Weiche verändern:
-
-1. Welche Rolle hat die fragende Person und wer ist Gegenüber?
-2. Welches konkrete Ziel soll erreicht oder verhindert werden?
-3. Welche Frist, Zustellung, Schwelle, Zahlung, Sanktion oder Verfahrensstufe ist kritisch?
-4. Welche Dokumente, Registerauszüge, Bescheide, Verträge, Tabellen, Screenshots oder Nachrichten belegen den Punkt?
-5. Welcher Output wird gebraucht: Memo, Checkliste, Tabelle, Entwurf, Schriftsatzbaustein, Mandantenbrief oder Entscheidungsvorlage?
-
-## Arbeitsworkflow
-1. **Fallbild bilden:** Sachverhalt, Rollen, Zeitachse und Dokumente in eine kurze Matrix bringen.
-2. **Rechtsrahmen setzen:** Normen, Zuständigkeiten, Fristen, Formfragen und Verfahrensstand zum Themenfeld **Rechtsprechung** prüfen.
-3. **Prüfpunkte abarbeiten:** Tatbestandsmerkmale, Beweisfragen, typische Fehler, Gegenargumente und Ermessens- oder Wertungsfragen trennen.
-4. **Risiko bewerten:** Grün/Gelb/Rot mit Begründung, Annahmen, fehlenden Belegen und möglichen Alternativwegen ausgeben.
-5. **Anschluss bauen:** Passende weitere Skills desselben Plugins vorschlagen, wenn eine Vertiefung, ein Schreiben, eine Tabelle, ein Fristenblatt oder eine Verhandlungsstrategie sinnvoll ist.
-
-## Output-Standard
-- **Kurzlage:** maximal fünf Sätze zu Ziel, Lage, Frist, Risiko und nächstem Schritt.
-- **Prüfmatrix:** Punkt, Norm/Quelle, Tatsache, Beleg, Bewertung, To-do.
-- **Arbeitsprodukt:** direkt nutzbarer Entwurf oder Baustein in der passenden Tonalität.
-- **Qualitätsgate:** keine Scheingenauigkeit; Lücken, Annahmen und Live-Check-Bedarf ausdrücklich markieren.
-
-## Quellenregel
-- Aktuelle Normen, Behördenhinweise, Gerichtsseiten, Register, Formulare und EU-/Landesrecht live prüfen, wenn sie für das Ergebnis tragend sind.
-- Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle ausgeben.
-- Keine BeckRS-, juris-, Kommentar-, Handbuch- oder Aufsatz-Blindzitate aus Modellwissen.
-- Paywall-Literatur nur verwerten, wenn sie von der Nutzerin oder dem Nutzer als Text bereitgestellt wurde; dann nicht als frei verifizierte Quelle ausgeben.
-
-## 7. `jurisdiktion-aegypten-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Ägypten: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Ägypten: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Ägypten: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Ägypten: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 8. `jurisdiktion-albanien-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Albanien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Albanien: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Albanien: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Albanien: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 9. `jurisdiktion-algerien-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Algerien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Algerien: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Algerien: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Algerien: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 10. `jurisdiktion-andorra-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Andorra: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Andorra: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Andorra: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Andorra: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 11. `jurisdiktion-angola-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Angola: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Angola: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Angola: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Angola: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 12. `jurisdiktion-argentinien-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Argentinien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Argentinien: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Argentinien: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Argentinien: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von CNDC, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 13. `jurisdiktion-armenien-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Armenien: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Armenien: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Armenien: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Armenien: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.
-
-## 14. `jurisdiktion-aserbaidschan-competition-authority`
-
-**Frühere Beschreibung:** Jurisdiktionsskill Aserbaidschan: ermittelt und prüft die zuständige Wettbewerbsbehörde, lokale Fusionskontrolle, Kartellverbot, Missbrauch, Dawn Raid, Leniency, Rechtsmittel und Local-Counsel-Fragen live statt aus Modellwissen.
-
-# Jurisdiktion Aserbaidschan: Competition Authority Check
-
-## Jurisdiktionskern: Jurisdiktion Aserbaidschan: Competition Authority Check
-- **Spezialgegenstand:** Jurisdiktion Aserbaidschan: Competition Authority Check - erst Behörde und lokales Recht identifizieren, dann Fusionskontrolle, Kartellverbot, Missbrauch und Rechtsmittel konkretisieren.
-- **Erste Live-Quelle:** Behördenseite von zuständige nationale Wettbewerbsbehörde live ermitteln, nationales Wettbewerbsgesetz, Fusionskontrollleitfäden/Formulare, Bußgeld-/Leniency-Hinweise und aktuelle Verfahrensregeln.
-- **Materielle Achsen:** Kartellverbot, abgestimmte Verhaltensweisen, Informationsaustausch, Missbrauch marktbeherrschender Stellung, Zusammenschlusskontrolle, Gun-Jumping, Dawn Raid, Settlement/Leniency und private Schadensersatzrisiken.
-- **EU-/International-Schnittstelle:** Bei EU/EWR-Bezug Art. 101/102 AEUV, VO 1/2003, EU-Fusionskontrollverordnung und ECN-Kooperation prüfen; bei globalen Deals HSR/UK/China/Brasilien/Indien/sonstige parallele Filings als Timing-Risiko führen.
-- **Arbeitsprodukt:** Liefere eine Country-Note mit Authority, Schwellen/Triggern, Fristen, Filing-Unterlagen, Sprache, Local-Counsel-Fragen, Sanktionen und drei konkreten To-dos für heute.
-
-## Jurisdiktionsweichen in fünf Schritten
-
-1. Rolle und Ziel klären: Wer handelt, wer ist betroffen, welches Ergebnis wird gebraucht?
-2. Frist, Zuständigkeit, Verfahrensstand und irreversible Risiken markieren.
-3. Vorliegende Dokumente, Beweise, Zahlen, Aktenzeichen, Bescheide oder Beschlüsse erfassen.
-4. Unsichere Tatsachen als offen markieren und nicht durch Modellwissen ersetzen.
-5. Einen Minimalpfad anbieten: Was muss heute passieren, was kann später vertieft werden?
-
-## Prüf- und Arbeitslogik
-
-- **Normenanker:** Lokales Wettbewerbsrecht, ICN/OECD/UNCTAD-Quellen, Behördenseite, Fusionskontrollformulare, Verfahrensrecht und internationale Kooperationsregeln live prüfen
-- **Tatsachenarbeit:** sichere Tatsachen, streitige Tatsachen, fehlende Unterlagen und Beweisprobleme trennen.
-- **Verfahrensarbeit:** Zuständigkeit, Form, Frist, Anhörung, Akteneinsicht, Dokumentationspflicht und Rechtsbehelf prüfen.
-- **Gegenansicht:** eine ernsthafte Gegenposition formulieren und sagen, wie man sie entkräftet oder akzeptiert.
-- **Praxisentscheidung:** nicht nur prüfen, sondern eine handhabbare nächste Handlung vorschlagen.
-
-
-## Spezielle Leitplanken
-
-- Bei Ländern ohne gesicherte aktuelle Behördenseite Ergebnis als Prüfauftrag markieren.
-- Nicht aus dem Namen einer Behörde auf Zuständigkeit, Frist oder Schwelle schließen.
-- Amtssprache, Fristen, Übersetzungen und lokale Anwaltspflichten abfragen.
-
-## Output
-
-Erzeuge je nach Auftrag: Country memo, Authority-Check, Filing-Fragenliste, Local-Counsel-Briefing oder Multi-Jurisdiction-Matrix. Am Ende immer: Risikoampel, offene Punkte, Quellencheck und nächster Schritt.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei aktuellem Behörden-, Kammer-, Berufs- oder Wettbewerbsrecht zuerst die amtliche Normfassung und die zuständige Behörden- oder Kammerseite prüfen.

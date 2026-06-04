@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-personenbedingte-kue-bis-probearbeit-schnuppe
-description: "startup-hr-personalabteilung-berlin: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (personenbedingte-kuendigung-krankheit, policy-rollout-change-kommunikation, praktikanten-werkstudenten-trainees, pre-employment-screening-background-check, probearbeit-schnuppertag-und-assessment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "startup-hr-personalabteilung-berlin: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Personenbedingte Kuendigung Krankheit, Policy Rollout Change Kommunikation, Praktikanten Werkstudenten Trainees, Pre Employment Screening Background Check und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - startup-hr-personalabteilung-berlin
+# Arbeitsbereich - Personenbedingte Kuendigung Krankheit bis Probearbeit Schnuppertag Und Assessment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `personenbedingte-kuendigung-krankheit` | Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
 | `policy-rollout-change-kommunikation` | Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `personenbedingte-kuendigung-krankheit`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Personenbedingte Kündigung bei Krankheit: negative Prognose, BEM, Interessenabwägung, Datenschutz und milde Mittel. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Personenbedingte Kuendigung Krankheit
 
@@ -88,7 +88,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `policy-rollout-change-kommunikation`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Policy-Rollout und Change-Kommunikation: Warum, ab wann, was ändert sich, Fragenkanal, Betriebsrat und Nachweis. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Policy Rollout Change Kommunikation
 
@@ -146,7 +146,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `praktikanten-werkstudenten-trainees`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Praktikanten, Werkstudenten und Trainees: Vertragstyp, Vergütung, Arbeitszeit, Lernziel und Status. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Praktikanten, Werkstudenten und Trainees: Vertragstyp, Vergütung, Arbeitszeit, Lernziel und Status. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Praktikanten Werkstudenten Trainees
 
@@ -204,7 +204,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `pre-employment-screening-background-check`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Background Checks, Referenzen, Führungszeugnis und Social-Media-Screening nur rollen- und rechtsgrundlagenfest einsetzen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Background Checks, Referenzen, Führungszeugnis und Social-Media-Screening nur rollen- und rechtsgrundlagenfest einsetzen. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Pre Employment Screening Background Check
 
@@ -262,7 +262,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 5. `probearbeit-schnuppertag-und-assessment`
 
-**Frühere Beschreibung:** Berliner Start-up-HR: Probearbeit, Schnuppertag, Case Study und Assessment arbeitsrechtlich, datenschutzrechtlich und AGG-fest strukturieren. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
+**Fokus:** Berliner Start-up-HR: Probearbeit, Schnuppertag, Case Study und Assessment arbeitsrechtlich, datenschutzrechtlich und AGG-fest strukturieren. Geführter HR-Workflow mit Datenschutzfilter, Arbeitsrechtsrouting, Payroll-/DATEV-Schnittstelle, Chef-Briefing und nächstem konkretem Schritt.
 
 # Probearbeit Schnuppertag Und Assessment
 

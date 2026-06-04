@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ag-vorbereitung-bis-examensvorbereitung
-description: "jurastudium: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (ag-vorbereitung, examens-prognose, examensvorbereitung-fragen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - jurastudium
+# Arbeitsbereich - Ag Vorbereitung, Examens Prognose, Examensvorbereitung Fragen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ag-vorbereitung` | AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen. |
 | `examens-prognose` | Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ag-vorbereitung`
 
-**Frühere Beschreibung:** AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen.
+**Fokus:** AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen.
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)
 
@@ -192,7 +192,7 @@ Nachbohren: "Und wenn A beweist, dass der Defekt durch unsachgemäße Behandlung
 
 ## 2. `examens-prognose`
 
-**Frühere Beschreibung:** Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan.
+**Fokus:** Examensprognose auf Basis bisheriger JPA-Klausuren und BMJV-Statistiken: Anwendungsfall Student will Lernzeit auf wahrscheinliche Themen konzentrieren und fragt welche Schwerpunkte das Justizprüfungsamt bisher prüfte. Examensvorbereitung 1. und 2. Staatsexamen, JAG Bundesland, BMJV-Statistiken. Prüfraster vergangene JPA-Klausuren analysieren, Häufigkeits-Statistik erstellen, Schwerpunktbereiche gewichten, Prognose mit Konfidenz versehen. Output gewichtete Themenliste mit Lernprioritaet und Trefferwahrscheinlichkeit je Rechtsgebiet. Abgrenzung zu Examensvorbereitung-Fragen für Uebungsklausuren und zu Lernplan.
 
 # Examensprognose / JPA-Statistik
 
@@ -343,7 +343,7 @@ BGB-Reform 2022 (VerbrRRL): Neuer § 434 BGB – subjektiver, objektiver und mon
 
 ## 3. `examensvorbereitung-fragen`
 
-**Frühere Beschreibung:** Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Prüfraster Fachgebiet Zivilrecht Strafrecht öffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterlösung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose für Themengewichtung und zu Gutachten-Uebung für Klausur-Training.
+**Fokus:** Examensvorbereitungs-Fragen für 1. und 2. Staatsexamen erstellen: Anwendungsfall Student will Examenswissen durch gezielte Uebungsfragen trainieren und Schwachstellen erkennen. 1. StEx und 2. StEx, JAG Bundesland Bayern NRW Hamburg, Subsumtion Gutachtenstil. Prüfraster Fachgebiet Zivilrecht Strafrecht öffentliches Recht, Zeitdruck-Simulation oder Verstaendnis-Training, Bundesland-spezifisch. Output Uebungsfragen mit Musterlösung und Hinweis auf Schwachstellen. Abgrenzung zu Examensprognose für Themengewichtung und zu Gutachten-Uebung für Klausur-Training.
 
 # Examensvorbereitungs-Fragen
 

@@ -1,38 +1,36 @@
 ---
 name: kompendium-19-richterdienstgericht-bis-soldaten-und-beamte
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 19; bündelt 7 frühere Spezialskills (richterdienstgericht-und-rechtswegabgrenzung, richterliche-unabhaengigkeit-dienstaufsicht, richterwahl-art-33-ii-und-praesidialrat, ruhensregelung-53-beamtvg, schwerbehinderte-bewerber-165-sgb-9 und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Richterdienstgericht Und Rechtswegabgrenzung, Richterliche Unabhaengigkeit Dienstaufsicht, Richterwahl Art 33 Ii Und Praesidialrat, Ruhensregelung 53 Beamtvg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - beamtenrecht
+# Arbeitsbereich - Richterdienstgericht Und Rechtswegabgrenzung bis Ruhensregelung 53 Beamtvg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `richterdienstgericht-und-rechtswegabgrenzung` | Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen. |
 | `richterliche-unabhaengigkeit-dienstaufsicht` | Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme. |
 | `richterwahl-art-33-ii-und-praesidialrat` | Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume. |
 | `ruhensregelung-53-beamtvg` | Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze fuer Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem oeffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine. |
-| `schwerbehinderte-bewerber-165-sgb-9` | Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage. |
-| `schwerbehinderung-bem-gleichstellung` | Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung. |
-| `soldaten-und-beamte-abgrenzung` | Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `richterdienstgericht-und-rechtswegabgrenzung`
 
-**Frühere Beschreibung:** Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen.
+**Fokus:** Richterdienstgerichte und Rechtsweg: DRiG, Landesrichterrecht, Dienstaufsichtsmaßnahme, Statusstreit, Beurteilung, Beihilfe, Versorgung, Präsidium und Verwaltungsgerichtsbarkeit trennen.
+
 
 # Richterdienstgericht oder Verwaltungsgericht?
 
@@ -78,7 +76,8 @@ Der Skill darf keine pauschalen Aussagen wie „Richter gehen immer zum Richterd
 
 ## 2. `richterliche-unabhaengigkeit-dienstaufsicht`
 
-**Frühere Beschreibung:** Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme.
+**Fokus:** Richterliche Unabhängigkeit, Dienstaufsicht, Ermahnung, Geschäftsprüfung und unzulässige Einflussnahme.
+
 
 # Richterliche Unabhaengigkeit Dienstaufsicht
 
@@ -116,7 +115,8 @@ Trenne sachliche Unabhängigkeit von Dienstaufsicht. Prüfe, ob Kritik Organisat
 
 ## 3. `richterwahl-art-33-ii-und-praesidialrat`
 
-**Frühere Beschreibung:** Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume.
+**Fokus:** Richterwahl, Art. 33 Abs. 2 GG, Richterwahlausschuss, Präsidialrat, Bundesrichterwahl, Begründungspflichten, Konkurrentenstreit und politische Wahlspielräume.
+
 
 # Richterwahl, Bestenauslese und Präsidialrat
 
@@ -159,7 +159,8 @@ BVerfG 20.09.2016 - 2 BvR 2453/15 zur Bundesrichterwahl. Bei Konkurrentenstreit 
 
 ## 4. `ruhensregelung-53-beamtvg`
 
-**Frühere Beschreibung:** Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze fuer Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem oeffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine.
+**Fokus:** Skill zur Ruhensregelung von Versorgungsbezuegen bei Erwerbseinkommen nach § 53 BeamtVG. Klaert Hinzuverdienstgrenze fuer Ruhestandsbeamte unterschiedliche Grenzen vor und nach Erreichen der Regelaltersgrenze Anrechnung von Verwendungseinkommen aus dem oeffentlichen Dienst und Erwerbsersatzeinkommen wie Krankengeld oder Arbeitslosengeld. Behandelt Sonderfaelle wie Tantiemen Aktienoptionen Honorare als Sachverstaendiger und Beratungseinkommen. Liefert Pruefraster und Antragsbausteine.
+
 
 # Ruhensregelung Versorgungsbezuege § 53 BeamtVG
 
@@ -215,144 +216,3 @@ Skill fuer Ruhestandsbeamte mit Nebenerwerbseinkommen. Klaert, ob und in welcher
 ## 7. Beispiel (Kurzfassung)
 
 Ruhestandsbeamter A14 mit 60 Jahren wegen Dienstunfaehigkeit, beraten Honorarvertrag fuer Beratung beim Wirtschaftspruefer. Skill liefert Ruhensberechnung und Gestaltungshinweise.
-
-## 5. `schwerbehinderte-bewerber-165-sgb-9`
-
-**Frühere Beschreibung:** Skill zur Pruefung der Pflichten oeffentlicher Arbeitgeber bei Bewerbungen schwerbehinderter Menschen nach § 165 SGB IX. Klaert Einladungspflicht zum Vorstellungsgespraech Pruefpflicht bei interner Besetzung Beruecksichtigung der Eignung Sonderfall offensichtlich fachlich ungeeignet Beteiligung der Schwerbehindertenvertretung nach §§ 178 179 SGB IX und die Indizwirkung von Verstoessen im AGG-Entschaedigungsprozess. Liefert Pruefraster Schriftsatzbausteine fuer Eilantrag Entschaedigungsforderung und Konkurrentenklage.
-
-# Schwerbehinderte Bewerber im oeffentlichen Dienst — § 165 SGB IX
-
-## 1. Zweck und Anwendungsfall
-
-Skill fuer schwerbehinderte oder gleichgestellte Bewerber im oeffentlichen Dienst. Klaert die zwingenden Verfahrenspflichten der oeffentlichen Arbeitgeber, insbesondere die Einladungspflicht und das Zusammenwirken mit Schwerbehindertenvertretung und Gleichstellungsbeauftragten.
-
-## 2. Eingaben
-
-- Schwerbehindertenausweis oder Gleichstellungsbescheid
-- Datum der Bewerbung
-- Stellenausschreibung
-- Akteneinsicht (Auswahlvermerk)
-- Information ueber Beteiligung der Schwerbehindertenvertretung
-- Absageschreiben
-
-## 3. Ablauf / Checkliste
-
-### a) Einladungspflicht
-- § 165 Satz 3 SGB IX: Oeffentliche Arbeitgeber muessen schwerbehinderte Bewerber zum Vorstellungsgespraech einladen, es sei denn, die fachliche Eignung fehlt offensichtlich. "Offensichtlich" eng auszulegen.
-- Bei Konzentrationsbewerbungen ueber zentrale Stellen sind die Pflichten nicht gemindert.
-
-### b) Interne Besetzung
-- § 165 Sätze 1 und 2 SGB IX: vor externer Ausschreibung Pruefpflicht, ob die Stelle intern mit schwerbehinderten Personen besetzt werden kann (Vermittlungsvorschlag der Bundesagentur fuer Arbeit; interner Aufruf).
-
-### c) Beteiligung Schwerbehindertenvertretung
-- § 178 Abs. 2 SGB IX: Unterrichtungs- und Anhoerungsrecht in allen Angelegenheiten, die Schwerbehinderte betreffen, einschliesslich Bewerbungen.
-- § 179 SGB IX Behinderungen der Vertrauensperson sanktioniert.
-- Verstoss = Verfahrensfehler mit Indizwirkung fuer Diskriminierung.
-
-### d) Eignung
-- Schwerbehinderung als solche ist kein Eignungsmangel.
-- Eignungsdefizit ist konkret und nachvollziehbar zu begruenden.
-
-### e) Folgen von Verstoessen
-- AGG-Entschaedigungsanspruch wegen vermuteter Diskriminierung (§ 22 AGG, § 15 Abs. 2 AGG).
-- Bewerbungsverfahrensanspruch verletzt; Anfechtung der Auswahlentscheidung; Konkurrenteneilantrag.
-
-## 4. Quellenpflicht
-
-- Normen: §§ 151, 165, 178, 179 SGB IX; §§ 1, 6, 15, 22 AGG; Art. 33 Abs. 2 GG.
-- BAG zu § 165 SGB IX (frueher § 82 SGB IX) — nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-- Zitierregeln: `beamtenrecht/references/QUELLEN.md`; keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate.
-
-## 5. Ausgabeformat
-
-- Pruefraster Verfahrenspflichten oeffentlicher Arbeitgeber.
-- AGG-Entschaedigungsschreiben.
-- Konkurrenteneilantrag.
-
-## 6. Verifizierte Quellenanker
-
-- Art. 33 Abs. 2 GG: Bestenauslese nach Eignung, Befähigung und fachlicher Leistung.
-- Art. 74 Abs. 1 Nr. 27 GG und Art. 70 GG: Statusrechtliche Bundeskompetenz, Laufbahn/Besoldung/Versorgung der Länder grundsätzlich Landesrecht.
-- BeamtStG und BBG immer nach Dienstherr trennen; Landesbeamtengesetz und Beurteilungsrichtlinien live prüfen.
-- BVerwG, 11.10.2016 - 2 C 11.15 als verifizierter Anker zu Art. 33 Abs. 2 GG und Eignungsanforderungen bei Höchstaltersgrenzen.
-- Für Spezialfragen der dienstlichen Beurteilung, Anlassbeurteilung, Binnendifferenzierung und Auswahlgespräch keine privaten Datenbankzitate verwenden; konkrete Rechtsprechung nur nach Live-Check mit Gericht, Datum, Aktenzeichen und freier Quelle.
-
-## 7. Beispiel (Kurzfassung)
-
-Mandant Grad der Behinderung 60 bewirbt sich auf A12-Stelle im Bundesministerium. Wird nicht zum Vorstellungsgespraech eingeladen; Absage ohne Begruendung. Skill liefert Indizienanalyse, AGG-Entschaedigungsschreiben mit Zwei-Monats-Frist und Begruendung des Anordnungsanspruchs fuer Eilantrag.
-
-## 6. `schwerbehinderung-bem-gleichstellung`
-
-**Frühere Beschreibung:** Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung.
-
-# Schwerbehinderung Bem Gleichstellung
-
-## Aufgabe
-
-Schwerbehinderung, Gleichstellung, BEM, Nachteilsausgleich und Beteiligung der Schwerbehindertenvertretung.
-
-## Arbeitsweise
-
-Prüfe GdB, Gleichstellung, behinderungsgerechte Beschäftigung, Beteiligung und Dokumentation im Bewerbungs- oder Disziplinarverfahren.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 7. `soldaten-und-beamte-abgrenzung`
-
-**Frühere Beschreibung:** Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung.
-
-# Soldaten Und Beamte Abgrenzung
-
-## Aufgabe
-
-Abgrenzung Soldatenrecht, Beamtenrecht und zivile Bundeswehrverwaltung.
-
-## Arbeitsweise
-
-Trenne SG/WBO/WDO von BBG/BeamtStG. Bei Soldaten auf Bundeswehrrecht-Plugin verweisen; bei zivilen Beamten hier bleiben.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.

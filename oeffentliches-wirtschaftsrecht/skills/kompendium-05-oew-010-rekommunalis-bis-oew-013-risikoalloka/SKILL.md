@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-oew-010-rekommunalis-bis-oew-013-risikoalloka
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (oew-010-rekommunalisierung-pruefen, oew-011-public-corporate-governance, oew-012-wirtschaftlichkeitsvergleich, oew-013-risikoallokation-im-oepp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 010 Rekommunalisierung Pruefen, Oew 011 Public Corporate Governance, Oew 012 Wirtschaftlichkeitsvergleich, Oew 013 Risikoallokation Im Oepp; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 010 Rekommunalisierung Pruefen bis Oew 013 Risikoallokation Im Oepp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-010-rekommunalisierung-pruefen` | Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-011-public-corporate-governance` | Öffentliches Wirtschaftsrecht: Public Corporate Governance. Public Corporate Governance im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-010-rekommunalisierung-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Rekommunalisierung prüfen. Rekommunalisierung prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Rekommunalisierung Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-011-public-corporate-governance`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Public Corporate Governance. Public Corporate Governance im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Public Corporate Governance. Public Corporate Governance im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Public Corporate Governance
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-012-wirtschaftlichkeitsvergleich`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Wirtschaftlichkeitsvergleich. Wirtschaftlichkeitsvergleich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Wirtschaftlichkeitsvergleich
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-013-risikoallokation-im-oepp`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Risikoallokation im ÖPP. Risikoallokation im ÖPP im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Risikoallokation Im Oepp
 

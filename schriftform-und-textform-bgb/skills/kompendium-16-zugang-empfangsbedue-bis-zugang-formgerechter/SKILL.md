@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-zugang-empfangsbedue-bis-zugang-formgerechter
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb, zugang-formgerechter-erklaerung-bgh-viii-zr-159-23) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - schriftform-und-textform-bgb
+# Arbeitsbereich - Zugang Empfangsbeduerftiger Willenserklaerung Paragraph 130 Bgb, Zugang Formgerechter Erklaerung Bgh Viii Zr 159 23
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` | Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb. |
 | `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` | Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb`
 
-**Frühere Beschreibung:** Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb.
+**Fokus:** Mandant fragt: Wann gilt Kündigung Mahnung oder sonstige Erklärung als zugegangen und ab wann laeuft die Frist? § 130 BGB Zugang. Prüfraster: Machtbereichslehre Möglichkeit der Kenntnisnahme Zugangsvereitelung Annahmeverweigerung Briefkasten-Grundsaetze abweichende Grundsaetze Unternehmen mit Eingangsstempel. Output: Zugangs-Prüfprotokoll und Empfehlung Beweissicherung. Abgrenzung zu zugang-formgerechter-erklärung-bgh-viii-zr-159-23 (qES-spezifisch) und wohnraummiete-kündigung-paragraph-568-bgb.
 
 # Zugang empfangsbedürftiger Willenserklärungen § 130 BGB
 
@@ -146,7 +146,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=0
 
 ## 2. `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23`
 
-**Frühere Beschreibung:** Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu zugang formgerechter erklaerung bgh viii zr 159 23. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über offizielle oder frei zugängliche Quelle mit Gericht, Entscheidungsform, Datum, Aktenzeichen und tragender Aussage verifizieren.
 

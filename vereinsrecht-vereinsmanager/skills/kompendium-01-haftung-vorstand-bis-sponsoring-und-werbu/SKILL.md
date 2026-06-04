@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-haftung-vorstand-bis-sponsoring-und-werbu
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (haftung-vorstand, ehrenamtspauschale-uebungsleiter, sponsoring-und-werbung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Haftung Vorstand, Ehrenamtspauschale Uebungsleiter, Sponsoring Und Werbung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `haftung-vorstand` | Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung. |
 | `ehrenamtspauschale-uebungsleiter` | Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `haftung-vorstand`
 
-**Frühere Beschreibung:** Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung.
+**Fokus:** Prüft Sorgfalt, Ressortverteilung, Ehrenamtspauschale, Versicherung, Innenhaftung und Außenhaftung.
 
 # Haftung Vorstand
 
@@ -111,7 +111,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `ehrenamtspauschale-uebungsleiter`
 
-**Frühere Beschreibung:** Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen.
+**Fokus:** Erklärt steuerfreie Pauschalen, Voraussetzungen, Dokumentation, Kombination und Grenzen.
 
 # Ehrenamtspauschale und Übungsleiter
 
@@ -162,7 +162,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `sponsoring-und-werbung`
 
-**Frühere Beschreibung:** Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag.
+**Fokus:** Trennt Spende, Sponsoring, wirtschaftlicher Geschäftsbetrieb, Umsatzsteuer und Vertrag.
 
 # Sponsoring und Werbung
 

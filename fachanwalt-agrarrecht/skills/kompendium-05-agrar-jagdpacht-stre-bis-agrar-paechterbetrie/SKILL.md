@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-agrar-jagdpacht-stre-bis-agrar-paechterbetrie
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (agrar-jagdpacht-streit-spezial, agrar-mandantenfragen-typisch, agrar-paechterbetrieb-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agrar Jagdpacht Streit Spezial, Agrar Mandantenfragen Typisch, Agrar Paechterbetrieb Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-agrarrecht
+# Arbeitsbereich - Agrar Jagdpacht Streit Spezial, Agrar Mandantenfragen Typisch, Agrar Paechterbetrieb Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agrar-jagdpacht-streit-spezial` | Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte fuer Pachtvertrag und Klage. |
 | `agrar-mandantenfragen-typisch` | Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Foerderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agrar-jagdpacht-streit-spezial`
 
-**Frühere Beschreibung:** Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte fuer Pachtvertrag und Klage.
+**Fokus:** Spezialfall Jagdpachtstreit: Bundesjagdgesetz BJagdG, Landesjagdgesetze, Kuendigungsgruende, Wildschaden, Ausfuehrungspflichten. Pruefraster und Mustertexte fuer Pachtvertrag und Klage.
 
 # Agrar: Jagdpacht-Streit
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-agrarrecht`. Er ergaenzt die uebrige
 
 ## 2. `agrar-mandantenfragen-typisch`
 
-**Frühere Beschreibung:** Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Foerderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills.
+**Fokus:** Typische Mandantenfragen Agrarrecht und Routing: Pacht, Hofuebergabe, Foerderung, Genehmigungsverfahren, Anwohnerstreit, Tierschutz, GLOEZ-Verstoss. Entscheidungstabelle und Verweis auf Detail-Skills.
 
 # Agrar: Mandantenfragen Routing
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-agrarrecht`. Er ergaenzt die uebrige
 
 ## 3. `agrar-paechterbetrieb-spezial`
 
-**Frühere Beschreibung:** Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster mit Belegen.
+**Fokus:** Spezialfall Paechterbetrieb: Verhaeltnis Verpaechter-Paechter, Hoehepunkt 12 Jahre Landpachtvertrag, Vorkaufsrecht des Paechters, Verlaengerung, ausserordentliche Kuendigung. Schnittstelle Erbrecht beim Generationenwechsel. Pruefraster mit Belegen.
 
 # Agrar: Paechterbetrieb
 

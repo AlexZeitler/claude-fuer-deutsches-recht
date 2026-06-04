@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vorlaeufige-diensten-bis-zulagen-ruhegehaltfa
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (vorlaeufige-dienstenthebung-38-bdg, vorlaeufige-dienstenthebung-bezuege, widerspruch-klage-vwgo, zulagen-ruhegehaltfaehigkeit-und-rueckforderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorlaeufige Dienstenthebung 38 Bdg, Vorlaeufige Dienstenthebung Bezuege, Widerspruch Klage Vwgo, Zulagen Ruhegehaltfaehigkeit Und Rueckforderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - beamtenrecht
+# Arbeitsbereich - Vorlaeufige Dienstenthebung 38 Bdg bis Zulagen Ruhegehaltfaehigkeit Und Rueckforderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vorlaeufige-dienstenthebung-38-bdg` | Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz. |
 | `vorlaeufige-dienstenthebung-bezuege` | Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vorlaeufige-dienstenthebung-38-bdg`
 
-**Frühere Beschreibung:** Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz.
+**Fokus:** Skill zur vorlaeufigen Dienstenthebung und zum Einbehalt von Dienstbezuegen nach § 38 BDG und den Landesdisziplinargesetzen. Klaert die Voraussetzungen die Pruefdichte des Antrags nach § 63 BDG die Beschwerde gegen Dienstenthebung das Einbehalten der Dienstbezuege und das Verhaeltnis zur Suspendierung im Strafverfahren. Behandelt die Konstellation Untersuchungshaft Beurlaubung Aussage in der Hauptverhandlung sowie spezifische Folgen fuer Versorgung und Beihilfe. Liefert Pruefraster und Verteidigerschriftsatz.
 
 # Vorlaeufige Dienstenthebung § 38 BDG
 
@@ -92,7 +92,7 @@ Mandant Polizeihauptkommissar, in Untersuchungshaft wegen Verdachts der Bestechl
 
 ## 2. `vorlaeufige-dienstenthebung-bezuege`
 
-**Frühere Beschreibung:** Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren.
+**Fokus:** Vorläufige Dienstenthebung und Einbehaltung von Bezügen im Disziplinarverfahren.
 
 # Vorlaeufige Dienstenthebung Bezuege
 
@@ -130,7 +130,7 @@ Prüfe Tatvorwurf, Prognose zur Entfernung, Verhältnismäßigkeit, Einbehaltsh�
 
 ## 3. `widerspruch-klage-vwgo`
 
-**Frühere Beschreibung:** Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten.
+**Fokus:** Widerspruch, Klage und VwGO-Rechtsschutz in beamtenrechtlichen Streitigkeiten.
 
 # Widerspruch Klage Vwgo
 
@@ -168,7 +168,7 @@ Prüfe Vorverfahren, Klageart, Klagebefugnis, Frist, Zuständigkeit, Suspensivef
 
 ## 4. `zulagen-ruhegehaltfaehigkeit-und-rueckforderung`
 
-**Frühere Beschreibung:** Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung.
+**Fokus:** Zulagen, Erschwernisse und Ruhegehaltfähigkeit: Amtszulage, Stellenzulage, Polizeizulagen, Familienzuschlag, Rückforderung und Versorgungsauswirkung.
 
 # zulagen-ruhegehaltfaehigkeit-und-rueckforderung
 

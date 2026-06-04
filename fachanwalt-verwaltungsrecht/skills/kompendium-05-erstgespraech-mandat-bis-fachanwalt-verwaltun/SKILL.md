@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-erstgespraech-mandat-bis-fachanwalt-verwaltun
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (erstgespraech-mandatsannahme, fa-vwgo-widerspruchsbescheid-abschleppen-oepnv, fachanwalt-verwaltungsrecht-anfechtungsklage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Verwaltungsrecht Anfechtungsklage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Erstgespraech Mandatsannahme, Fa Vwgo Widerspruchsbescheid Abschleppen Oepnv, Verwaltungsrecht Anfechtungsklage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
 | `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv` | Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Allgemeines Verwaltungs- und Bauplanungsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im Allgemeines Verwaltungs- und Bauplanungsrecht
 
@@ -188,7 +188,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-vwgo-widerspruchsbescheid-abschleppen-oepnv`
 
-**Frühere Beschreibung:** Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fa vwgo widerspruchsbescheid abschleppen oepnv. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Widerspruchsbescheid Abschleppkosten ÖPNV-Verkehrsbetrieb
 
@@ -392,7 +392,7 @@ Eine vollständige Arbeitsakte mit sechs Fallvarianten und allen Ausgangsdokumen
 
 ## 3. `fachanwalt-verwaltungsrecht-anfechtungsklage`
 
-**Frühere Beschreibung:** Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo.
+**Fokus:** Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis mögliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zuständigkeit). Prüfraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo.
 
 # Anfechtungsklage
 

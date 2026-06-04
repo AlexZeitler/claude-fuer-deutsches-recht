@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-laienhilfe-dolmetsch-bis-laienhilfe-einkommen
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (laienhilfe-dolmetscher-sprache, laienhilfe-eilantrag-notfall, laienhilfe-eingliederungshilfe-erwachsene, laienhilfe-einkommen-vermoegen-sgbii) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laienhilfe Dolmetscher Sprache, Laienhilfe Eilantrag Notfall, Laienhilfe Eingliederungshilfe Erwachsene, Laienhilfe Einkommen Vermoegen Sgbii; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-sozialrecht
+# Arbeitsbereich - Laienhilfe Dolmetscher Sprache bis Laienhilfe Einkommen Vermoegen Sgbii
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `laienhilfe-dolmetscher-sprache` | Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher Sprache. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-eilantrag-notfall` | Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `laienhilfe-dolmetscher-sprache`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher Sprache. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Dolmetscher Sprache. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Dolmetscher Sprache
 
@@ -115,7 +115,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-eilantrag-notfall`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Eilantrag Notfall. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Eilantrag Notfall
 
@@ -194,7 +194,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-eingliederungshilfe-erwachsene`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Eingliederungshilfe Erwachsene. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Eingliederungshilfe Erwachsene
 
@@ -279,7 +279,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `laienhilfe-einkommen-vermoegen-sgbii`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Einkommen Vermoegen Sgbii. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Einkommen Vermoegen Sgbii
 

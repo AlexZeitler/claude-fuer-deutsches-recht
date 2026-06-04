@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-agrar-tierhaltung-sp-bis-fachanwalt-agrarrech
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (agrar-tierhaltung-spezial-tieg, erstgespraech-mandatsannahme, fachanwalt-agrarrecht-duenge-ordnungswidrigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Agrarrecht Duenge Ordnungswidrigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-agrarrecht
+# Arbeitsbereich - Agrar Tierhaltung Spezial Tieg, Erstgespraech Mandatsannahme, Agrarrecht Duenge Ordnungswidrigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agrar-tierhaltung-spezial-tieg` | Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agrar-tierhaltung-spezial-tieg`
 
-**Frühere Beschreibung:** Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte.
+**Fokus:** Spezialfall Tierhaltung TierSchG, TierSchNutztV, BImSchG Genehmigung: Bestandsobergrenzen, Stallneubau, Umnutzung. Klage gegen Bescheid des Veterinaeramts, Bestandsschutz, Umweltvertraeglichkeitspruefung. Pruefraster und Mustertexte.
 
 # Agrar: Tierhaltung-Genehmigung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-agrarrecht`. Er ergaenzt die uebrige
 
 ## 2. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Agrar-, Forst- und Lebensmittelrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im Agrar-, Forst- und Lebensmittelrecht
 
@@ -251,7 +251,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fachanwalt-agrarrecht-duenge-ordnungswidrigkeit`
 
-**Frühere Beschreibung:** Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG.
+**Fokus:** Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG.
 
 # Düngerechtliche Ordnungswidrigkeit
 

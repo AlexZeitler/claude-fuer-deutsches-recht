@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-inkasso-verh-bis-spezial-regulator-za
-description: "regulatorisches-recht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-inkasso-verhandlung-vergleich-und-eskalation, spezial-massnahme-mandantenkommunikation-entscheidungsvorlage, spezial-regulator-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "regulatorisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inkasso Verhandlung Vergleich Und Eskalation, Massnahme Mandantenkommunikation Entscheidungsvorlage, Regulator Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - regulatorisches-recht
+# Arbeitsbereich - Inkasso Verhandlung Vergleich Und Eskalation, Massnahme Mandantenkommunikation Entscheidungsvorlage, Regulator Zahlen Schwellen Und Berechnun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-inkasso-verhandlung-vergleich-und-eskalation` | Inkasso: Verhandlung, Vergleich und Eskalation im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-massnahme-mandantenkommunikation-entscheidungsvorlage` | Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-inkasso-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Inkasso: Verhandlung, Vergleich und Eskalation im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Inkasso: Verhandlung, Vergleich und Eskalation im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Inkasso: Verhandlung, Vergleich und Eskalation
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-massnahme-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Massnahme: Mandantenkommunikation und Entscheidungsvorlage im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Massnahme: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-regulator-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Regulator: Zahlen, Schwellenwerte und Berechnung im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Regulator: Zahlen, Schwellenwerte und Berechnung im Plugin regulatorisches recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Regulator: Zahlen, Schwellenwerte und Berechnung
 

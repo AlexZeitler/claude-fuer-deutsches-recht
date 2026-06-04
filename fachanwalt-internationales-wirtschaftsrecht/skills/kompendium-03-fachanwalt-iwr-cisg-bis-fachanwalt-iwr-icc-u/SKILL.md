@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fachanwalt-iwr-cisg-bis-fachanwalt-iwr-icc-u
-description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (fachanwalt-iwr-cisg-anwendbarkeit, fachanwalt-iwr-brussels-ia-zustaendigkeit, fachanwalt-iwr-icc-uncitral-schiedsverfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-internationales-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iwr Cisg Anwendbarkeit, Iwr Brussels Ia Zustaendigkeit, Iwr Icc Uncitral Schiedsverfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-internationales-wirtschaftsrecht
+# Arbeitsbereich - Iwr Cisg Anwendbarkeit, Iwr Brussels Ia Zustaendigkeit, Iwr Icc Uncitral Schiedsverfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-iwr-cisg-anwendbarkeit` | Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen. |
 | `fachanwalt-iwr-brussels-ia-zustaendigkeit` | Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-iwr-cisg-anwendbarkeit`
 
-**Frühere Beschreibung:** Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen.
+**Fokus:** Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen.
 
 # CISG-Anwendbarkeit
 
@@ -185,7 +185,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ## 2. `fachanwalt-iwr-brussels-ia-zustaendigkeit`
 
-**Frühere Beschreibung:** Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen.
+**Fokus:** Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen.
 
 # Brüssel-Ia-VO Internationale Zuständigkeit
 
@@ -371,7 +371,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ## 3. `fachanwalt-iwr-icc-uncitral-schiedsverfahren`
 
-**Frühere Beschreibung:** Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen.
+**Fokus:** Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen.
 
 # ICC / UNCITRAL Schiedsverfahren — Internationales Wirtschaftsrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-bericht-konzern-mutt-bis-bericht-lksg-bafa-be
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (bericht-konzern-mutter-tochter-matrix, bericht-lebensmittel-haccp-rueckverfolgung, bericht-lksg-bafa-bericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Konzern Mutter Tochter Matrix, Bericht Lebensmittel Haccp Rueckverfolgung, Bericht Lksg Bafa Bericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-konzern-mutter-tochter-matrix` | Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft. |
 | `bericht-lebensmittel-haccp-rueckverfolgung` | Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-konzern-mutter-tochter-matrix`
 
-**Frühere Beschreibung:** Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft.
+**Fokus:** Konzernweite Berichtspflichten: Schwellen, Konsolidierung, UBO, CSRD, LkSG, Statistik und Portale pro Gesellschaft.
 
 # Konzernmatrix Mutter/Tochter
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-lebensmittel-haccp-rueckverfolgung`
 
-**Frühere Beschreibung:** Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation.
+**Fokus:** Lebensmittelbetriebe: HACCP, Eigenkontrollen, Rückverfolgbarkeit, Meldung unsicherer Lebensmittel und Behördenkommunikation.
 
 # Lebensmittel: HACCP und Rückverfolgung
 
@@ -104,7 +104,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-lksg-bafa-bericht`
 
-**Frühere Beschreibung:** Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation.
+**Fokus:** Lieferkettensorgfalt: Risikoanalyse, Beschwerdeverfahren, Präventionsmaßnahmen, Bericht/BAFA und Lieferantendokumentation.
 
 # LkSG BAFA-Bericht und Risikoanalyse
 

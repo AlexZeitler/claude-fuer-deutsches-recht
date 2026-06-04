@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-fazugang-neu-002-ein-bis-fazugang-neu-004-inh
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag, fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands, fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang Neu 004 Inhalt Des Umschlags Bestreiten Und Beweisangeb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Fazugang Neu 002 Einwurf Einschreiben Risiko Nach Aktueller Bag, Fazugang Neu 003 Zugang Bei Urlaub Krankheit Klinik Und Auslands, Fazugang N
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag` | Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen. |
 | `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands` | Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fazugang-neu-002-einwurf-einschreiben-risiko-nach-aktueller-bag`
 
-**Frühere Beschreibung:** Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen.
+**Fokus:** Einschreiben-Zustellung bei Kündigung: Risiken des Einwurf-Einschreibens (kein Zugang bei Nichtabholung), Übergabe-Einschreiben vs. Einwurf-Einschreiben, BAG-Linie zur Beweiskraft, Rückschein, Alternativen.
 
 # Zugang — Einschreiben-Risiko nach BAG-Linie
 
@@ -138,7 +138,7 @@ Das BAG hat keine feste Zugangsvermutung für Einschreiben entwickelt. Stattdess
 
 ## 2. `fazugang-neu-003-zugang-bei-urlaub-krankheit-klinik-und-auslands`
 
-**Frühere Beschreibung:** Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung.
+**Fokus:** Zugang bei Abwesenheit: Urlaub, Krankheit, Klinikaufenthalt, Auslandsaufenthalt — BAG-Linie zur Kenntnisnahmemöglichkeit, Zugangszeitpunkt, Sorgfaltspflicht des Empfängers, Empfangsbevollmächtigung, taktische Beratung.
 
 # Zugang bei Abwesenheit — Urlaub, Krankheit, Klinik, Ausland
 
@@ -238,7 +238,7 @@ Wenn der Arbeitnehmer die Klagefrist nach § 4 KSchG unverschuldet versäumt hat
 
 ## 3. `fazugang-neu-004-inhalt-des-umschlags-bestreiten-und-beweisangeb`
 
-**Frühere Beschreibung:** Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung.
+**Fokus:** Bestreiten des Inhalts eines zugestellten Umschlags: zulässige Einwände, Beweislast des Arbeitgebers für Schriftform und Inhalt, Gegenbeweis-Möglichkeiten, Prozessstrategie, Abgrenzung zu unzulässiger Schutzbehauptung.
 
 # Zugang — Inhalt des Umschlags bestreiten und Beweisangebot
 

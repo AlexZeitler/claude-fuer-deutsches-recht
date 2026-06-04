@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-sachlicher-ausschlus-bis-spezial-mechanik-ers
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (sachlicher-ausschluss-art-2-abs-3-bis-12, schwerwiegender-vorfall-art-73-playbook, shadow-ai-und-off-label-governance, spezial-mechanik-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sachlicher Ausschluss Art 2 Abs 3 Bis 12, Schwerwiegender Vorfall Art 73 Playbook, Shadow Ai Und Off Label Governance, Mechanik Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Sachlicher Ausschluss Art 2 Abs 3 Bis 12 bis Mechanik Erstpruefung Und Mandatsziel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sachlicher-ausschluss-art-2-abs-3-bis-12` | Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich). |
 | `schwerwiegender-vorfall-art-73-playbook` | Schwerwiegender KI-Vorfall nach Art. 73 KI-VO: Erkennen, Stabilisieren, Melden, Ursachenanalyse, Nutzerkommunikation, Marktaufsicht, Produkthaftungs-/DSGVO-Schnittstellen und Vorstandslagebild. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sachlicher-ausschluss-art-2-abs-3-bis-12`
 
-**Frühere Beschreibung:** Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich).
+**Fokus:** Unternehmen fragt: Faellt unser KI-System möglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Prüfraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schließt Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rückausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (räumlicher Bereich).
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO
 
@@ -142,7 +142,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `schwerwiegender-vorfall-art-73-playbook`
 
-**Frühere Beschreibung:** Schwerwiegender KI-Vorfall nach Art. 73 KI-VO: Erkennen, Stabilisieren, Melden, Ursachenanalyse, Nutzerkommunikation, Marktaufsicht, Produkthaftungs-/DSGVO-Schnittstellen und Vorstandslagebild.
+**Fokus:** Schwerwiegender KI-Vorfall nach Art. 73 KI-VO: Erkennen, Stabilisieren, Melden, Ursachenanalyse, Nutzerkommunikation, Marktaufsicht, Produkthaftungs-/DSGVO-Schnittstellen und Vorstandslagebild.
 
 # Schwerwiegender Vorfall — Art. 73 Playbook
 
@@ -182,7 +182,7 @@ Nicht jede Fehlfunktion ist meldepflichtig. Aber jeder potenziell schwerwiegende
 
 ## 3. `shadow-ai-und-off-label-governance`
 
-**Frühere Beschreibung:** Shadow-AI und Off-label-Nutzung beherrschen: Wenn Mitarbeitende allgemeine Chatbots oder freigegebene KI-Tools entgegen Zweckbestimmung fuer Hochrisiko-nahe Aufgaben verwenden. Prueft Art. 3, Art. 6, Art. 25, Art. 26, Art. 50 KI-VO, Policy, Monitoring, Re-Evaluation und Beweisakte.
+**Fokus:** Shadow-AI und Off-label-Nutzung beherrschen: Wenn Mitarbeitende allgemeine Chatbots oder freigegebene KI-Tools entgegen Zweckbestimmung fuer Hochrisiko-nahe Aufgaben verwenden. Prueft Art. 3, Art. 6, Art. 25, Art. 26, Art. 50 KI-VO, Policy, Monitoring, Re-Evaluation und Beweisakte.
 
 # Shadow-AI und Off-label-Governance
 
@@ -224,7 +224,7 @@ Wenn die Fachabteilung sagt: "Das Tool entscheidet nicht, es empfiehlt nur", tro
 
 ## 4. `spezial-mechanik-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki vo ai act pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mechanik: Erstprüfung, Rollenklärung und Mandatsziel im Plugin ki vo ai act pruefer; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mechanik: Erstprüfung, Rollenklärung und Mandatsziel
 

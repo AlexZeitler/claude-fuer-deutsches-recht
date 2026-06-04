@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-treuwidrige-anfechtu-bis-vergleichskorridor
-description: "gesellschaftsrechtliche-treuepflicht: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (treuwidrige-anfechtung, unterlassung, vergleich-und-mediation, vergleichskorridor) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrechtliche-treuepflicht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Treuwidrige Anfechtung, Unterlassung, Vergleich Und Mediation, Vergleichskorridor; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - gesellschaftsrechtliche-treuepflicht
+# Arbeitsbereich - Treuwidrige Anfechtung bis Vergleichskorridor
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `treuwidrige-anfechtung` | Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `unterlassung` | Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `treuwidrige-anfechtung`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Treuwidrige Anfechtung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Treuwidrige Anfechtung
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `unterlassung`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Unterlassung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Unterlassung
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `vergleich-und-mediation`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleich Und Mediation; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vergleich Und Mediation
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `vergleichskorridor`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Vergleichskorridor; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Vergleichskorridor
 

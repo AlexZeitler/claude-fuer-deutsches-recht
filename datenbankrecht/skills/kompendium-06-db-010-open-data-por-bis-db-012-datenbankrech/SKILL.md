@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-db-010-open-data-por-bis-db-012-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (db-010-open-data-portal-und-nutzungsbedingungen, db-011-datenbankrecht-und-geschaeftsgeheimnis, db-012-datenbankrecht-und-datenschutz-personenbezogene-datensaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Personenbezogene Datensaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - datenbankrecht
+# Arbeitsbereich - Db 010 Open Data Portal Und Nutzungsbedingungen, Db 011 Datenbankrecht Und Geschaeftsgeheimnis, Db 012 Datenbankrecht Und Datenschutz Persone
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-010-open-data-portal-und-nutzungsbedingungen` | Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz. |
 | `db-011-datenbankrecht-und-geschaeftsgeheimnis` | Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-010-open-data-portal-und-nutzungsbedingungen`
 
-**Frühere Beschreibung:** Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz.
+**Fokus:** Rechtliche Bewertung von Open-Data-Portalen: Prüft Nutzungsbedingungen nach Open-Data-Richtlinie 2019/1024 (PSI-RL) und deren Umsetzung im IWG, Datenbankherstellerrecht öffentlicher Stellen (§ 87a UrhG), CC-Lizenz-Compliance und Weiterverwendungsrechte. Analysiert Konflikte zwischen Open-Data-Prinzip und urheberrechtlichem Datenbankschutz.
 
 # Open-Data-Portal und Nutzungsbedingungen — Datenbankrecht öffentlicher Stellen
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-011-datenbankrecht-und-geschaeftsgeheimnis`
 
-**Frühere Beschreibung:** Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung.
+**Fokus:** Analysiert das Verhältnis zwischen Datenbankherstellerrecht (§§ 87a-87e UrhG) und Geschäftsgeheimnisschutz nach GeschGehG / EU-RL 2016/943. Prüft kumulative Schutzfähigkeit von Datenbanken als Geschäftsgeheimnisse, angemessene Schutzmaßnahmen (§ 2 Nr. 1 GeschGehG) und Handlungsoptionen bei unbefugter Offenlegung oder Nutzung.
 
 # Datenbankrecht und Geschäftsgeheimnisschutz — Kumulative Schutzstrategie
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-012-datenbankrecht-und-datenschutz-personenbezogene-datensaet`
 
-**Frühere Beschreibung:** Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber.
+**Fokus:** Analysiert das Verhältnis von Datenbankherstellerrecht (§§ 87a-87e UrhG) und DSGVO bei personenbezogenen Datenbanken: Kumulative Schutzanwendung, Betroffenenrechte (Art. 15-22 DSGVO) vs. Datenbankschutz, Anonymisierungspflichten und Privacy-by-Design (Art. 25 DSGVO). Erstellt datenschutzrechtliches Compliance-Konzept für Datenbankbetreiber.
 
 # Datenbankrecht und DSGVO — Personenbezogene Datenbanken
 

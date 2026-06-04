@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-staat-island-migrati-bis-staat-kirgisistan-mi
-description: "fachanwalt-migrationsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 17 frühere Spezialskills (staat-island-migrationscheck, staat-isle-of-man-migrationscheck, staat-israel-migrationscheck, staat-italien-migrationscheck, staat-jamaika-migrationscheck und 12 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-migrationsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Island Migrationscheck, Isle Of Man Migrationscheck, Israel Migrationscheck, Italien Migrationscheck und 13 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-migrationsrecht
+# Arbeitsbereich - Island Migrationscheck bis Kirgisistan Migrationscheck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `staat-island-migrationscheck` | Staaten- und Gebietscheck Island: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
 | `staat-isle-of-man-migrationscheck` | Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung. |
@@ -33,16 +33,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `staat-island-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Island: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Island: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Island
 
@@ -79,7 +79,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Island**. Er ist 
 
 ## 2. `staat-isle-of-man-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Isle of Man: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Isle of Man
 
@@ -116,7 +116,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Isle of Man**. Er
 
 ## 3. `staat-israel-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Israel: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Israel: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Israel
 
@@ -153,7 +153,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Israel**. Er ist 
 
 ## 4. `staat-italien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Italien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Italien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Italien
 
@@ -190,7 +190,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Italien**. Er ist
 
 ## 5. `staat-jamaika-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Jamaika: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jamaika: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jamaika
 
@@ -227,7 +227,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jamaika**. Er ist
 
 ## 6. `staat-japan-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Japan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Japan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Japan
 
@@ -264,7 +264,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Japan**. Er ist k
 
 ## 7. `staat-jemen-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Jemen: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jemen: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jemen
 
@@ -301,7 +301,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jemen**. Er ist k
 
 ## 8. `staat-jersey-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Jersey: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jersey: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jersey
 
@@ -338,7 +338,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jersey**. Er ist 
 
 ## 9. `staat-jordanien-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Jordanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Jordanien: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Jordanien
 
@@ -375,7 +375,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Jordanien**. Er i
 
 ## 10. `staat-kambodscha-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kambodscha: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kambodscha
 
@@ -412,7 +412,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kambodscha**. Er 
 
 ## 11. `staat-kamerun-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kamerun: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kamerun: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kamerun
 
@@ -449,7 +449,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kamerun**. Er ist
 
 ## 12. `staat-kanada-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kanada: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kanada: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kanada
 
@@ -486,7 +486,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kanada**. Er ist 
 
 ## 13. `staat-kap-verde-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kap Verde: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kap Verde
 
@@ -523,7 +523,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kap Verde**. Er i
 
 ## 14. `staat-kasachstan-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kasachstan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kasachstan
 
@@ -560,7 +560,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kasachstan**. Er 
 
 ## 15. `staat-katar-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Katar: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Katar: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Katar
 
@@ -597,7 +597,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Katar**. Er ist k
 
 ## 16. `staat-kenia-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kenia: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kenia: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kenia
 
@@ -634,7 +634,7 @@ Dieser Skill prüft migrationsrechtliche Fälle mit Bezug zu **Kenia**. Er ist k
 
 ## 17. `staat-kirgisistan-migrationscheck`
 
-**Frühere Beschreibung:** Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
+**Fokus:** Staaten- und Gebietscheck Kirgisistan: migrationsrechtlicher Workflow für Herkunfts-, Transit-, Dokumenten-, Visum-, Schutz-, Passbeschaffungs-, Rückführungs- und Aufenthaltstitelfragen mit Live-Quellencheck und optionaler spanischer Erklärung.
 
 # Staaten-/Gebietscheck: Kirgisistan
 

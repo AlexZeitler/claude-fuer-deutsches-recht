@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-pe-085-tsa-transitio-bis-pe-088-sanctions-rus
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (pe-085-tsa-transition-services, pe-086-supply-chain-und-material-contracts, pe-087-digital-assets-tokenization-pe, pe-088-sanctions-russia-china-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 085 Tsa Transition Services, Pe 086 Supply Chain Und Material Contracts, Pe 087 Digital Assets Tokenization Pe, Pe 088 Sanctions Russia China Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - private-equity-praxis
+# Arbeitsbereich - Pe 085 Tsa Transition Services bis Pe 088 Sanctions Russia China Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-085-tsa-transition-services` | Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels. |
 | `pe-086-supply-chain-und-material-contracts` | Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-085-tsa-transition-services`
 
-**Frühere Beschreibung:** Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels.
+**Fokus:** Prüft TSA für IT, HR, Accounting, Supply Chain, Licenses, Exit Plan und Service Levels.
 
 # Transition Services Agreement
 
@@ -70,7 +70,7 @@ BGB Dienst-/Werkvertrag, Datenschutz, IP, Exit Assistance, Haftung.
 
 ## 2. `pe-086-supply-chain-und-material-contracts`
 
-**Frühere Beschreibung:** Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung.
+**Fokus:** Prüft kritische Lieferverträge, Preisgleitklauseln, Single Source, Force Majeure, ESG und Kündigung.
 
 # Supply Chain und Material Contracts
 
@@ -111,7 +111,7 @@ BGB/AGB, HGB, Kartellrecht, LkSG/CSDDD, Incoterms.
 
 ## 3. `pe-087-digital-assets-tokenization-pe`
 
-**Frühere Beschreibung:** Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register.
+**Fokus:** Prüft tokenisierte Beteiligungen, eWpG, MiCAR, Kryptoverwahrung und digitale Investor-Register.
 
 # Digital Assets und Tokenisierung
 
@@ -152,7 +152,7 @@ eWpG, MiCAR, KWG/Kryptoverwahrung, KAGB, GwG, Datenschutz.
 
 ## 4. `pe-088-sanctions-russia-china-risk`
 
-**Frühere Beschreibung:** Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure.
+**Fokus:** Prüft Exportkontrolle, Sanktionen, UBO, China-/Russland-Bezüge, Dual-Use und FDI-Exposure.
 
 # Sanktions- und geopolitische Risiken
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-consumer-ki-vs-43e-d-bis-erforderlichkeit-dok
-description: "berufsrecht-ki-vertragspruefung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (consumer-ki-vs-43e-dienstleister, datentransfer-eu-drittstaat, erforderlichkeit-dokumentieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-ki-vertragspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Consumer Ki Vs 43e Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - berufsrecht-ki-vertragspruefung
+# Arbeitsbereich - Consumer Ki Vs 43e Dienstleister, Datentransfer Eu Drittstaat, Erforderlichkeit Dokumentieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `consumer-ki-vs-43e-dienstleister` | Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung. |
 | `datentransfer-eu-drittstaat` | Datentransfer EU nach Drittstaat: Angemessenheitsbeschluss EU-US-Data-Privacy-Framework, Standardvertragsklauseln Modul 2, Transfer Impact Assessment nach EuGH Schrems II. Pruefraster fuer US-KI-Anbieter, technische Massnahmen wie Tokenisierung, Pseudonymisierung. Schriftsatzbausteine. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `consumer-ki-vs-43e-dienstleister`
 
-**Frühere Beschreibung:** Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung.
+**Fokus:** Consumer-KI, Enterprise-KI, Kanzleisoftware und §-43e-Dienstleister trennen: prüft Mandatsdaten, Vertragsbindung, Toolzweck, Subunternehmer, Anonymisierungspflicht, Mandanteninformation und Freigabeentscheidung.
 
 # Consumer-KI vs. §-43e-Dienstleister
 
@@ -68,7 +68,7 @@ Formuliere nie pauschal "KI mit Mandatsdaten ist verboten" oder "Enterprise reic
 
 ## 2. `datentransfer-eu-drittstaat`
 
-**Frühere Beschreibung:** Datentransfer EU nach Drittstaat: Angemessenheitsbeschluss EU-US-Data-Privacy-Framework, Standardvertragsklauseln Modul 2, Transfer Impact Assessment nach EuGH Schrems II. Pruefraster fuer US-KI-Anbieter, technische Massnahmen wie Tokenisierung, Pseudonymisierung. Schriftsatzbausteine.
+**Fokus:** Datentransfer EU nach Drittstaat: Angemessenheitsbeschluss EU-US-Data-Privacy-Framework, Standardvertragsklauseln Modul 2, Transfer Impact Assessment nach EuGH Schrems II. Pruefraster fuer US-KI-Anbieter, technische Massnahmen wie Tokenisierung, Pseudonymisierung. Schriftsatzbausteine.
 
 # EU- nach Drittstaat-Datentransfer
 
@@ -120,7 +120,7 @@ Dieser Skill gehoert zum Plugin `berufsrecht-ki-vertragspruefung`. Er ergaenzt d
 
 ## 3. `erforderlichkeit-dokumentieren`
 
-**Frühere Beschreibung:** Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist der Zweck der konkreten Offenlegung, nicht die abstrakte KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen.
+**Fokus:** Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist der Zweck der konkreten Offenlegung, nicht die abstrakte KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen.
 
 # Erforderlichkeit dokumentieren
 

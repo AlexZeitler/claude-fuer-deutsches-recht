@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-untersuchungs-memo-bis-zugang-neu-001-kuend
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (untersuchungs-memo, untersuchungs-zusammenfassung, v90-kuendigung-zugang-beweiswerkstatt, zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Untersuchungs Memo, Untersuchungs Zusammenfassung, V90 Kuendigung Zugang Beweiswerkstatt, Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - arbeitsrecht
+# Arbeitsbereich - Untersuchungs Memo bis Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `untersuchungs-memo` | Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben. |
 | `untersuchungs-zusammenfassung` | Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `untersuchungs-memo`
 
-**Frühere Beschreibung:** Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben.
+**Fokus:** Entwirft den vertraulichen Untersuchungsvermerk aus dem Untersuchungsprotokoll oder aktualisiert einen bestehenden Entwurf, wenn neue Daten hinzugekommen sind. Lädt, wenn eine Untersuchung weit genug fortgeschritten ist für den ersten Entwurf oder wenn neue Erkenntnisse einen bestehenden Entwurf veraltet haben.
 
 # Untersuchungsvermerk (Arbeitsrecht)
 
@@ -231,7 +231,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 2. `untersuchungs-zusammenfassung`
 
-**Frühere Beschreibung:** Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll.
+**Fokus:** Entwirft eine zielgruppengerechte Zusammenfassung aus dem vertraulichen Untersuchungsvermerk — für HR, Geschäftsführung/Aufsichtsrat oder externe Bevollmächtigte. Lädt, wenn ein Untersuchungsvermerk für eine Zielgruppe aufbereitet werden soll, die nicht den vollständigen vertraulichen Inhalt erhalten darf oder soll.
 
 # Untersuchungs-Zusammenfassung für Zielgruppen (Arbeitsrecht)
 
@@ -465,7 +465,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `v90-kuendigung-zugang-beweiswerkstatt`
 
-**Frühere Beschreibung:** Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach § 623 BGB und § 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix.
+**Fokus:** Prüft den sicheren Zugang arbeitsrechtlicher Kündigungen nach § 623 BGB und § 130 BGB: Bote, Einwurf, Einschreiben, Krankheit, Urlaub, Empfangsverweigerung, Dreiwochenfrist, Beweis des konkreten Inhalts und prozessfeste Zustellmatrix.
 
 # Kündigung: Zugang, Umschlag, Bote und Beweiswerkstatt
 
@@ -490,7 +490,7 @@ Erzeuge immer eine Tabelle: `Zustellweg / Beleg / beweisbarer Inhalt / Zugangsta
 
 ## 4. `zugang-neu-001-kuendigungszugang-beweislast-und-zugangsmoment`
 
-**Frühere Beschreibung:** Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Arbeitsrecht: Kündigungszugang Beweislast und Zugangsmoment mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Zugang Neu 001 Kuendigungszugang Beweislast Und Zugangsmoment
 

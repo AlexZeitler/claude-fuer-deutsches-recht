@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-testament-ri-bis-v90-pflichtteil-vate
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-testament-risikoampel-und-gegenargumente, testament-auslegung-und-andeutung, v90-pflichtteil-vaterschaft-verjaehrung-und-auskunft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, V90 Pflichtteil Vaterschaft Verjaehrung Und Auskunft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-erbrecht
+# Arbeitsbereich - Testament Risikoampel Und Gegenargumente, Testament Auslegung Und Andeutung, V90 Pflichtteil Vaterschaft Verjaehrung Und Auskunft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-testament-risikoampel-und-gegenargumente` | Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `testament-auslegung-und-andeutung` | Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.; Normanker: BGB §§ 133 und 2084 und 2065; FamFG Erbschein; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-testament-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Testament: Risikoampel, Gegenargumente und Verteidigungslinien im Erbrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/EuErbVO), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Testament: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `testament-auslegung-und-andeutung`
 
-**Frühere Beschreibung:** Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.; Normanker: BGB §§ 133 und 2084 und 2065; FamFG Erbschein; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.; Normanker: BGB §§ 133 und 2084 und 2065; FamFG Erbschein; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Testamentsauslegung: Andeutung, Erblasserwille, Wortlautgrenzen, laienhafte Begriffe und Beweisquellen.
 
@@ -111,7 +111,7 @@ BGB §§ 133, 2084, 2065; FamFG Erbschein. Rechtsprechung wird nur mit Gericht, 
 
 ## 3. `v90-pflichtteil-vaterschaft-verjaehrung-und-auskunft`
 
-**Frühere Beschreibung:** Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs. 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB.
+**Fokus:** Führt durch Pflichtteilsfälle mit später festgestellter Vaterschaft, § 1600d Abs. 5 BGB, § 2317 BGB, § 199 BGB und Auskunftsansprüchen nach § 2314 BGB.
 
 # Pflichtteil: postmortale Vaterschaft, Verjährung, Auskunft und Stufenklage
 

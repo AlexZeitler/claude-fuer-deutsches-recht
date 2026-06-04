@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-luft-067-ersatzteill-bis-luft-072-drohne-regi
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (luft-067-ersatzteillager-insolvenzrisiko-markie, luft-068-ersatzteillager-local-counsel-briefen, luft-069-ersatzteillager-dashboard-bauen, luft-070-ersatzteillager-mandantenmemo-schreibe, luft-072-drohne-register-auswerten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 067 Ersatzteillager Insolvenzrisiko Markie, Luft 068 Ersatzteillager Local Counsel Briefen, Luft 069 Ersatzteillager Dashboard Bauen, Luft 070 Ersatzteillager Mandantenmemo Schreibe und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 067 Ersatzteillager Insolvenzrisiko Markie bis Luft 072 Drohne Register Auswerten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-067-ersatzteillager-insolvenzrisiko-markie` | MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel fuer Glaeubiger. |
 | `luft-068-ersatzteillager-local-counsel-briefen` | Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Ersatzteillager-Mandat briefen: EASA-Zertifizierungsstatus Cape-Town-Triebwerks-Pfandrecht deutsches Insolvenzrecht. Skill erstellt englisches Briefing-Memo mit konkreten Fragen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-067-ersatzteillager-insolvenzrisiko-markie`
 
-**Frühere Beschreibung:** MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel fuer Glaeubiger.
+**Fokus:** MRO-Betrieb oder Airline mit grossem Ersatzteillager zeigt Insolvenzzeichen. Prueft InsO §§ 47 50 103 Aus- und Absonderungsrechte an Ersatzteilen und Werkzeugpfandrecht des Reparateurs und liefert Risikoampel fuer Glaeubiger.
 
 # Ersatzteillager – Insolvenzrisiko markieren
 
@@ -127,7 +127,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 2. `luft-068-ersatzteillager-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Ersatzteillager-Mandat briefen: EASA-Zertifizierungsstatus Cape-Town-Triebwerks-Pfandrecht deutsches Insolvenzrecht. Skill erstellt englisches Briefing-Memo mit konkreten Fragen.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Ersatzteillager-Mandat briefen: EASA-Zertifizierungsstatus Cape-Town-Triebwerks-Pfandrecht deutsches Insolvenzrecht. Skill erstellt englisches Briefing-Memo mit konkreten Fragen.
 
 # Ersatzteillager – Local Counsel briefen
 
@@ -224,7 +224,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 3. `luft-069-ersatzteillager-dashboard-bauen`
 
-**Frühere Beschreibung:** MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template.
+**Fokus:** MRO-Gesellschaft oder Airline braucht Inventar-Dashboard fuer Ersatzteillager: EASA-Zertifizierungsstatus Pfandrechte Cape-Town-Eintrag Versicherung Wert. Skill strukturiert Datenquellen und liefert befuellbares Inventar-Dashboard-Template.
 
 # Ersatzteillager – Dashboard bauen
 
@@ -322,7 +322,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 4. `luft-070-ersatzteillager-mandantenmemo-schreibe`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer MRO-Betrieb oder Airline zu Ersatzteillager-Rechtsfragen: EASA-Compliance Pfandrecht Insolvenz oder Gefahrgut-Auflage. Skill strukturiert Memo mit Sachverhalt Rechtslage Handlungsoptionen und Empfehlung.
 
 # Ersatzteillager – Mandantenmemo schreiben
 
@@ -420,7 +420,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 5. `luft-072-drohne-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Registrierungsstatus einer Drohne beim LBA auswerten. Prueft EU-VO 2019/947 Art. 14 Registrierungspflicht ab 250 g LuftVG § 21a und Betreiber-Identifikation und liefert Registrierungs-Auswertung mit Compliance-Status.
+**Fokus:** Mandant will Registrierungsstatus einer Drohne beim LBA auswerten. Prueft EU-VO 2019/947 Art. 14 Registrierungspflicht ab 250 g LuftVG § 21a und Betreiber-Identifikation und liefert Registrierungs-Auswertung mit Compliance-Status.
 
 # Drohne – Register auswerten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bericht-bauwirtschaf-bis-bericht-bundesbank-a
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (bericht-bauwirtschaft-soka-bau, bericht-behg-brennstoffemissionen, bericht-bundesbank-awv-z4-z5) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Bauwirtschaft Soka Bau, Bericht Behg Brennstoffemissionen, Bericht Bundesbank Awv Z4 Z5
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-bauwirtschaft-soka-bau` | Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation. |
 | `bericht-behg-brennstoffemissionen` | Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-bauwirtschaft-soka-bau`
 
-**Frühere Beschreibung:** Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation.
+**Fokus:** Bauwirtschaft: SOKA-BAU, Urlaubskasse, Mindestlohn, Nachunternehmer, Baustellenmeldungen und Dokumentation.
 
 # Bauwirtschaft SOKA und Meldepflichten
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-behg-brennstoffemissionen`
 
-**Frühere Beschreibung:** Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt.
+**Fokus:** Nationaler Brennstoffemissionshandel: Verantwortlicher, Brennstoffmengen, Emissionsbericht, Zertifikate und DEHSt.
 
 # BEHG Brennstoffemissionsbericht
 
@@ -115,7 +115,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-bundesbank-awv-z4-z5`
 
-**Frühere Beschreibung:** Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen.
+**Fokus:** Außenwirtschaftsmeldungen an die Bundesbank: Z4/Z5/Z10, Zahlungs- und Forderungsbestände, Schwellen, Fristen und Meldebefreiungen.
 
 # Bundesbank AWV Z4/Z5 Meldungen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-space-064-open-sourc-bis-space-067-ballonmiss
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (space-064-open-source-software-im-satelliten, space-065-ki-an-bord-autonomie-und-ai-act-schnittstelle, space-066-drohnen-und-high-altitude-platform-abgrenzung, space-067-ballonmission-stratosphaere-genehmigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 064 Open Source Software Im Satelliten, Space 065 Ki An Bord Autonomie Und Ai Act Schnittstelle, Space 066 Drohnen Und High Altitude Platform Abgrenzung, Space 067 Ballonmission Stratosphaere Genehmigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - weltraumrecht
+# Arbeitsbereich - Space 064 Open Source Software Im Satelliten bis Space 067 Ballonmission Stratosphaere Genehmigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-064-open-source-software-im-satelliten` | Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität. |
 | `space-065-ki-an-bord-autonomie-und-ai-act-schnittstelle` | Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-064-open-source-software-im-satelliten`
 
-**Frühere Beschreibung:** Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität.
+**Fokus:** Open-Source-Software (OSS) im Satelliten – Lizenzrisiken, GPL-Copyleft, ITAR-Kompatibilität.
 
 # Weltraumrecht: Open-Source-Software im Satelliten
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: OSS Satellit, GPL-Copyleft, ITAR 
 
 ## 2. `space-065-ki-an-bord-autonomie-und-ai-act-schnittstelle`
 
-**Frühere Beschreibung:** Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung.
+**Fokus:** Künstliche Intelligenz an Bord – EU AI Act, Hochrisiko-KI, Autonomie, Haftung.
 
 # Weltraumrecht: KI an Bord: Autonomie und AI Act-Schnittstelle
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: KI Satellit, EU AI Act, Autonomie
 
 ## 3. `space-066-drohnen-und-high-altitude-platform-abgrenzung`
 
-**Frühere Beschreibung:** Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen.
+**Fokus:** Drohnen und HAPS – Abgrenzung Luftrecht/Weltraumrecht, Zulassung, Frequenzen.
 
 # Weltraumrecht: Drohnen und High-Altitude-Platform: Abgrenzung
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: HAPS Drohnen Abgrenzung, Luftrech
 
 ## 4. `space-067-ballonmission-stratosphaere-genehmigung`
 
-**Frühere Beschreibung:** Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht.
+**Fokus:** Stratosphären-Ballonmissionen – Luftraumgenehmigung, Gefahrgut, Grenzüberschreitung, Datenrecht.
 
 # Weltraumrecht: Ballonmission Stratosphäre: Genehmigung
 

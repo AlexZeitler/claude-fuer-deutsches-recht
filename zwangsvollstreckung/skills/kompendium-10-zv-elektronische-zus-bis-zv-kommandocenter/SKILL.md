@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-zv-elektronische-zus-bis-zv-kommandocenter
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (zv-elektronische-zustellung-2027, zv-eu-kontenpfaendung-655-2014, zv-kommandocenter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - zwangsvollstreckung
+# Arbeitsbereich - Zv Elektronische Zustellung 2027, Zv Eu Kontenpfaendung 655 2014, Zv Kommandocenter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-elektronische-zustellung-2027` | Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch). |
 | `zv-eu-kontenpfaendung-655-2014` | Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-elektronische-zustellung-2027`
 
-**Frühere Beschreibung:** Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch).
+**Fokus:** Gläubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Prüfraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Übermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch).
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG
 
@@ -162,7 +162,7 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 ## 2. `zv-eu-kontenpfaendung-655-2014`
 
-**Frühere Beschreibung:** Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter.
+**Fokus:** Gläubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Prüfraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbedürfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten außer Daenemark anschließender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter.
 
 # Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)
 
@@ -333,7 +333,7 @@ Stand: 05/2026. VO (EU) 655/2014 in Kraft seit 18.1.2017. Durchführungsverordnu
 
 ## 3. `zv-kommandocenter`
 
-**Frühere Beschreibung:** Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills.
+**Fokus:** Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills.
 
 # Zwangsvollstreckung – Kommandocenter
 

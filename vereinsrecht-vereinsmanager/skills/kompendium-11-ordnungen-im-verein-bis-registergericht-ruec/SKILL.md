@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-ordnungen-im-verein-bis-registergericht-ruec
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (ordnungen-im-verein, protokoll-mitgliederversammlung, registergericht-rueckfrage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ordnungen Im Verein, Protokoll Mitgliederversammlung, Registergericht Rueckfrage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Ordnungen Im Verein, Protokoll Mitgliederversammlung, Registergericht Rueckfrage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ordnungen-im-verein` | Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung. |
 | `protokoll-mitgliederversammlung` | Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ordnungen-im-verein`
 
-**Frühere Beschreibung:** Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung.
+**Fokus:** Entwirft Beitragsordnung, Geschäftsordnung, Wahlordnung, Ehrenordnung, Datenschutzordnung und Jugendordnung.
 
 # Vereinsordnungen
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `protokoll-mitgliederversammlung`
 
-**Frühere Beschreibung:** Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen.
+**Fokus:** Erstellt Protokoll mit Anwesenheit, Versammlungsleitung, Beschlussfähigkeit, Abstimmung, Ergebnissen und Anlagen.
 
 # Protokoll Mitgliederversammlung
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `registergericht-rueckfrage`
 
-**Frühere Beschreibung:** Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad.
+**Fokus:** Beantwortet Zwischenverfügung oder Rückfrage des Vereinsregisters mit Anlagen und Korrekturpfad.
 
 # Registergericht Rückfrage
 

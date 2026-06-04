@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-vdg-014-umsetzungsve-bis-vdg-033-telekommunik
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (vdg-014-umsetzungsverfahren-planen, vdg-031-telekommunikationsklausel-sammelfaehig, vdg-032-telekommunikationsklausel-klageschrift, vdg-033-telekommunikationsklausel-anspruchsgru) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 014 Umsetzungsverfahren Planen, Vdg 031 Telekommunikationsklausel Sammelfaehig, Vdg 032 Telekommunikationsklausel Klageschrift, Vdg 033 Telekommunikationsklausel Anspruchsgru; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 014 Umsetzungsverfahren Planen bis Vdg 033 Telekommunikationsklausel Anspruchsgru
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-014-umsetzungsverfahren-planen` | Verbraucherschutzverband Durchsetzung: Umsetzungsverfahren planen. Umsetzungsverfahren planen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-031-telekommunikationsklausel-sammelfaehig` | Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-014-umsetzungsverfahren-planen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Umsetzungsverfahren planen. Umsetzungsverfahren planen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Umsetzungsverfahren planen. Umsetzungsverfahren planen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Umsetzungsverfahren Planen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-031-telekommunikationsklausel-sammelfaehig`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Telekommunikationsklausel Sammelfaehig
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-032-telekommunikationsklausel-klageschrift`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Klageschrift strukturieren. Klageschrift strukturieren für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Klageschrift strukturieren. Klageschrift strukturieren für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Telekommunikationsklausel Klageschrift
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-033-telekommunikationsklausel-anspruchsgru`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Telekommunikationsklausel: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Telekommunikationsklausel im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Telekommunikationsklausel Anspruchsgru
 

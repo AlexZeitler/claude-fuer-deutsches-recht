@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-begrenzte-dienstfaeh-bis-besold-neu-002-lande
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 05; bündelt 7 frühere Spezialskills (begrenzte-dienstfaehigkeit-und-reaktivierung, beihilfe-chronische-krankheit, beihilfe-heilbehandlung-ausland, beihilfe-implantatfaehige-hoergeraete, beihilfe-und-heilfuersorge und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Begrenzte Dienstfaehigkeit Und Reaktivierung, Beihilfe Chronische Krankheit, Beihilfe Heilbehandlung Ausland, Beihilfe Implantatfaehige Hoergeraete und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - beamtenrecht
+# Arbeitsbereich - Begrenzte Dienstfaehigkeit Und Reaktivierung bis Besold Neu 002 Landesbesoldung Foederalismus Und Synopse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `begrenzte-dienstfaehigkeit-und-reaktivierung` | Begrenzte Dienstfähigkeit, Wiedereingliederung, Reaktivierung und Untersuchungsanordnung. |
 | `beihilfe-chronische-krankheit` | Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `begrenzte-dienstfaehigkeit-und-reaktivierung`
 
-**Frühere Beschreibung:** Begrenzte Dienstfähigkeit, Wiedereingliederung, Reaktivierung und Untersuchungsanordnung.
+**Fokus:** Begrenzte Dienstfähigkeit, Wiedereingliederung, Reaktivierung und Untersuchungsanordnung.
 
 # Begrenzte Dienstfaehigkeit Und Reaktivierung
 
@@ -70,7 +70,7 @@ Trenne Untersuchungsanordnung, Gutachten, Verfügung und Besoldungsfolgen. Formu
 
 ## 2. `beihilfe-chronische-krankheit`
 
-**Frühere Beschreibung:** Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt.
+**Fokus:** Skill zur Beihilfe bei schwerer chronischer Krankheit nach den Beihilfeverordnungen des Bundes und der Laender. Klaert Definition chronische Krankheit Belastungsgrenze und Eigenbehalt Befreiung von Zuzahlungen Pflegestufe und Pflegegrad sowie Verhaeltnis zur privaten Krankenversicherung. Behandelt typische Konstellationen Diabetes Krebserkrankung Multiple Sklerose Rheumatoide Arthritis und dauerhafte Schmerztherapie. Liefert Pruefraster und Antrag auf Befreiung vom Eigenbehalt.
 
 # Beihilfe bei chronischer Krankheit
 
@@ -127,7 +127,7 @@ Mandantin Multiple Sklerose, monatliche Immunmodulatoren, Krankengymnastik, Hilf
 
 ## 3. `beihilfe-heilbehandlung-ausland`
 
-**Frühere Beschreibung:** Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf das Inlandsniveau Beihilfe bei Reha im Ausland und Auslandsdienstbezuege. Behandelt das unionsrechtliche Erfordernis der Anerkennung grenzueberschreitender Gesundheitsleistungen nach EU-Patientenrichtlinie. Liefert Pruefraster und Antragsbausteine.
+**Fokus:** Skill zur beamtenrechtlichen Beihilfefaehigkeit von Heilbehandlung im Ausland nach BBhV und den Landesbeihilfeverordnungen. Klaert die Konstellationen geplante Behandlung im EU-Ausland Notfallbehandlung Beihilfehoehe und Begrenzung auf das Inlandsniveau Beihilfe bei Reha im Ausland und Auslandsdienstbezuege. Behandelt das unionsrechtliche Erfordernis der Anerkennung grenzueberschreitender Gesundheitsleistungen nach EU-Patientenrichtlinie. Liefert Pruefraster und Antragsbausteine.
 
 # Beihilfe Heilbehandlung im Ausland
 
@@ -185,7 +185,7 @@ Mandant laesst Hueftgelenkoperation in einer Wiener Klinik durchfuehren; Rechnun
 
 ## 4. `beihilfe-implantatfaehige-hoergeraete`
 
-**Frühere Beschreibung:** Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen Notwendigkeitsnachweis sowie die Grundsaetze der Wirtschaftlichkeit und Sparsamkeit. Behandelt typische Konstellationen Streit um Hoergeraet ueber Festbetrag Cochlea-Implantat-Nachsorge und elektronische Sehhilfen. Liefert Pruefraster und Klagebausteine.
+**Fokus:** Skill zur Beihilfefaehigkeit von hochwertigen Hilfsmitteln wie implantatfaehigen Hoergeraeten Cochlea-Implantaten elektronischen Sehhilfen orthopaedischen Spezialschuhen und Prothesen. Klaert das Erstattungsmodell unter der BBhV und den Landesvorschriften die Festbetragsregelung den medizinischen Notwendigkeitsnachweis sowie die Grundsaetze der Wirtschaftlichkeit und Sparsamkeit. Behandelt typische Konstellationen Streit um Hoergeraet ueber Festbetrag Cochlea-Implantat-Nachsorge und elektronische Sehhilfen. Liefert Pruefraster und Klagebausteine.
 
 # Beihilfe Spezialhilfsmittel — Hoergeraete Cochlea-Implantat Sehhilfen
 
@@ -245,7 +245,7 @@ Mandant beidseitige Schwerhoerigkeit; HNO empfiehlt Geraet mit Bluetooth und Spe
 
 ## 5. `beihilfe-und-heilfuersorge`
 
-**Frühere Beschreibung:** Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit.
+**Fokus:** Beihilfe, Heilfürsorge, Erstattungsbescheid, Fristen und medizinische Notwendigkeit.
 
 # Beihilfe Und Heilfuersorge
 
@@ -283,7 +283,7 @@ Prüfe Beihilfefähigkeit, Bemessungssatz, Frist, Voranerkennung, Ausschlüsse u
 
 ## 6. `besold-neu-001-bundesbesoldung-grundgehalt-familienzuschlag-zula`
 
-**Frühere Beschreibung:** Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Bundesbesoldung Grundgehalt Familienzuschlag Zulagen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 001 Bundesbesoldung Grundgehalt Familienzuschlag Zula
 
@@ -340,7 +340,7 @@ Skill fuer Bundesbesoldung nach BBesG — Grundgehalt, Familienzuschlag, Zulagen
 
 ## 7. `besold-neu-002-landesbesoldung-foederalismus-und-synopse`
 
-**Frühere Beschreibung:** Beamtenrecht: Landesbesoldung Föderalismus und Synopse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Landesbesoldung Föderalismus und Synopse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 002 Landesbesoldung Foederalismus Und Synopse
 

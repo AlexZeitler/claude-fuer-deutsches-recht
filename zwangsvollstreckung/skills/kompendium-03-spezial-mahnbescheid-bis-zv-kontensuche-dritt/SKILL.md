@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-mahnbescheid-bis-zv-kontensuche-dritt
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-mahnbescheid-fristennotiz-und-naechster-schritt, zv-titel-klausel-zustellung, zv-kontensuche-drittschuldner) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - zwangsvollstreckung
+# Arbeitsbereich - Mahnbescheid Fristennotiz Und Naechster Schritt, Zv Titel Klausel Zustellung, Zv Kontensuche Drittschuldner
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-mahnbescheid-fristennotiz-und-naechster-schritt` | Mahnbescheid: Fristennotiz und nächster Schritt im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `zv-titel-klausel-zustellung` | Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-mahnbescheid-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Mahnbescheid: Fristennotiz und nächster Schritt im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mahnbescheid: Fristennotiz und nächster Schritt im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mahnbescheid: Fristennotiz und nächster Schritt
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `zv-titel-klausel-zustellung`
 
-**Frühere Beschreibung:** Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung).
+**Fokus:** Gläubiger hat Urteil oder sonstigen Titel und prüft vor Vollstreckungsbeginn die drei formalen Voraussetzungen. §§ 704 724 750 ZPO Titel Klausel Zustellung. Prüfraster: vollstreckbarer Titel Vollstreckungsklausel Urkundsbeamter/Notar/Insolvenzgericht Klauselumschreibung §§ 727 ff. qualifizierte Klausel bei bedingten Titeln Wartefrist § 750 Abs. 1. Output: Drei-Saeulen-Prüfprotokoll und Handlungsempfehlung. Abgrenzung zu zv-kommandocenter (Routing) und zv-mahnbescheid-online (Titelerlangung).
 
 # Drei-Säulen-Prüfung: Titel, Klausel, Zustellung
 
@@ -179,7 +179,7 @@ Verifiziert via dejure.org.
 
 ## 3. `zv-kontensuche-drittschuldner`
 
-**Frühere Beschreibung:** Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung).
+**Fokus:** Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung).
 
 # Kontensuche und Drittschuldnerermittlung
 

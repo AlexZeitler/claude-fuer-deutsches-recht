@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-verfassungs-bis-systemtheorie-luhman
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage, spezial-vorrang-red-team-und-qualitaetskontrolle, systematische-auslegung, systemkritik-begriffsfallen, systemtheorie-luhmann-rechtssystem-autopoiese) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfassungs Mandantenkommunikation Entscheidungsvorlage, Vorrang Red Team Und Qualitaetskontrolle, Systematische Auslegung, Systemkritik Begriffsfallen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Verfassungs Mandantenkommunikation Entscheidungsvorlage bis Systemtheorie Luhmann Rechtssystem Autopoiese
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage` | Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill verbindet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung. |
 | `spezial-vorrang-red-team-und-qualitaetskontrolle` | Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern? |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verfassungs-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill verbindet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung.
+**Fokus:** Dieses Skill strukturiert die Kommunikation von verfassungsrechtlich relevanten Rechtsfragen an Mandanten und erstellt daraus Entscheidungsvorlagen. Es zeigt, wie komplexe verfassungsrechtliche Abwägungen und Grundrechtseingriffe verständlich kommuniziert werden, wann eine Verfassungsbeschwerde oder ein Vorabentscheidungsverfahren empfohlen werden sollte und wie Mandanten in die Lage versetzt werden, informierte Entscheidungen zu treffen. Das Skill verbindet verfassungsrechtliche Methodik mit mandantengerechter Aufbereitung.
 
 # Verfassungsrechtliche Mandantenkommunikation und Entscheidungsvorlage
 
@@ -122,7 +122,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 2. `spezial-vorrang-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern?
+**Fokus:** Dieses Skill führt eine methodische Red-Team-Analyse und Qualitätskontrolle für juristische Arbeitsergebnisse durch. Es trainiert die Fähigkeit, die eigene rechtliche Position aus der Perspektive eines gut vorbereiteten Gegners zu überprüfen, Schwachstellen zu identifizieren und das Argument vor Einreichung zu stärken. Besonderes Gewicht liegt auf dem Vorrang-Check — Welches Argument hat methodisch Vorrang, und welche Gegenargumente haben das Potenzial, die eigene Position zu erschüttern?
 
 # Red Team und Qualitätskontrolle für juristische Arbeitsergebnisse
 
@@ -216,7 +216,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `systematische-auslegung`
 
-**Frühere Beschreibung:** Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster fuer das System-Element.
+**Fokus:** Systematische Auslegung im deutschen Zivilrecht. Stellung der Norm im Gesetz (Buch, Abschnitt, Titel, Untertitel). Bezug zu Nachbarnormen und Verweisungen. Auslegung im Lichte von Ueberschriften, Definitionen und Gesetzesarchitektur. Konkordanz mit anderen Gesetzbuechern (HGB, ZPO, GG, Unionsrecht). Konkrete Beispiele zu §§ 280 311 433 823 BGB. Praezises Pruefraster fuer das System-Element.
 
 # Systematische Auslegung
 
@@ -320,7 +320,7 @@ Stand: Mai 2026.
 
 ## 4. `systemkritik-begriffsfallen`
 
-**Frühere Beschreibung:** Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz.
+**Fokus:** Dieses Skill schult die Fähigkeit, juristische Begriffsfallen zu erkennen und methodisch zu vermeiden. Es zeigt, wie Rechtsbegriffe durch Überausdehnung, Unterdehnung oder unbemerkte Bedeutungsverschiebungen zu falschen Subsumtionsergebnissen führen und wie eine methodisch saubere Begriffskritik eingesetzt wird, um diese Fallen aufzudecken. Besonderes Gewicht liegt auf der systematischen Kontrolle scheinbar selbstverständlicher Rechtsbegriffe durch Wortlautanalyse, historische Genese und Systemkohärenz.
 
 # Systemkritik und Begriffsfallen in der juristischen Methodik
 
@@ -412,7 +412,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `systemtheorie-luhmann-rechtssystem-autopoiese`
 
-**Frühere Beschreibung:** Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen fuer die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung).
+**Fokus:** Systemtheorie Niklas Luhmanns und das Recht. Luhmann, Das Recht der Gesellschaft 1993. Recht als operativ geschlossenes autopoietisches System. Binaerer Code Recht/Unrecht. Verhaeltnis zu anderen gesellschaftlichen Teilsystemen (Wirtschaft, Politik, Wissenschaft). Konsequenzen fuer die Methodenlehre und das Verstaendnis juristischer Praxis. Wie die Systemtheorie Praxis-Phaenomene erklaert (Selbstreferenz, Programme, BGH als Beobachter zweiter Ordnung).
 
 # Systemtheorie Luhmanns und das Recht
 

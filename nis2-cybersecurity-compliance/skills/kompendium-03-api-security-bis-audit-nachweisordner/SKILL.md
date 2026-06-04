@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-api-security-bis-audit-nachweisordner
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (api-security, arbeitnehmerueberwachung-it, asset-inventory-cmdb, audit-nachweisordner) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Api Security, Arbeitnehmerueberwachung It, Asset Inventory Cmdb, Audit Nachweisordner; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Api Security bis Audit Nachweisordner
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `api-security` | Prüft API-Sicherheit in Produkten und internen Schnittstellen. |
 | `arbeitnehmerueberwachung-it` | Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `api-security`
 
-**Frühere Beschreibung:** Prüft API-Sicherheit in Produkten und internen Schnittstellen.
+**Fokus:** Prüft API-Sicherheit in Produkten und internen Schnittstellen.
 
 # API Security
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `arbeitnehmerueberwachung-it`
 
-**Frühere Beschreibung:** Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen.
+**Fokus:** Prüft Beschäftigtenüberwachung durch IT-Security-Maßnahmen.
 
 # Arbeitnehmerueberwachung It
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `asset-inventory-cmdb`
 
-**Frühere Beschreibung:** Prüft Asset-Inventar und CMDB als Grundlage jeder Security-Prüfung.
+**Fokus:** Prüft Asset-Inventar und CMDB als Grundlage jeder Security-Prüfung.
 
 # Asset Inventory Cmdb
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `audit-nachweisordner`
 
-**Frühere Beschreibung:** Baut den Nachweisordner für Audit, Aufsicht und Streit.
+**Fokus:** Baut den Nachweisordner für Audit, Aufsicht und Streit.
 
 # Audit Nachweisordner
 

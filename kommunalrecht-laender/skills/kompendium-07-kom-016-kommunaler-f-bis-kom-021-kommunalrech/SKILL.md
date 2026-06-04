@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kom-016-kommunaler-f-bis-kom-021-kommunalrech
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 07; bündelt 6 frühere Spezialskills (kom-016-kommunaler-finanzausgleich, kom-017-interkommunale-zusammenarbeit, kom-018-informationsrechte-ratsmitglied, kom-019-eilrechtsschutz-kommunalstreit, kom-020-kommunalrecht-in-einfacher-sprache und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 016 Kommunaler Finanzausgleich, Kom 017 Interkommunale Zusammenarbeit, Kom 018 Informationsrechte Ratsmitglied, Kom 019 Eilrechtsschutz Kommunalstreit und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - kommunalrecht-laender
+# Arbeitsbereich - Kom 016 Kommunaler Finanzausgleich bis Kom 021 Kommunalrecht Baden Wuerttemberg Route
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-016-kommunaler-finanzausgleich` | Kommunalrecht der Länder: Kommunaler Finanzausgleich. Kommunaler Finanzausgleich im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-017-interkommunale-zusammenarbeit` | Kommunalrecht der Länder: Interkommunale Zusammenarbeit. Interkommunale Zusammenarbeit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-016-kommunaler-finanzausgleich`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunaler Finanzausgleich. Kommunaler Finanzausgleich im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunaler Finanzausgleich. Kommunaler Finanzausgleich im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunaler Finanzausgleich
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-017-interkommunale-zusammenarbeit`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Interkommunale Zusammenarbeit. Interkommunale Zusammenarbeit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Interkommunale Zusammenarbeit. Interkommunale Zusammenarbeit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Interkommunale Zusammenarbeit
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-018-informationsrechte-ratsmitglied`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Informationsrechte Ratsmitglied. Informationsrechte Ratsmitglied im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Informationsrechte Ratsmitglied. Informationsrechte Ratsmitglied im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationsrechte Ratsmitglied
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-019-eilrechtsschutz-kommunalstreit`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Eilrechtsschutz Kommunalstreit. Eilrechtsschutz Kommunalstreit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Eilrechtsschutz Kommunalstreit. Eilrechtsschutz Kommunalstreit im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Eilrechtsschutz Kommunalstreit
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-020-kommunalrecht-in-einfacher-sprache`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht in einfacher Sprache. Kommunalrecht in einfacher Sprache im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht in einfacher Sprache. Kommunalrecht in einfacher Sprache im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht In Einfacher Sprache
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-021-kommunalrecht-baden-wuerttemberg-route`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Baden-Württemberg routen. Kommunalrecht Baden-Württemberg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Baden-Württemberg routen. Kommunalrecht Baden-Württemberg routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Baden Wuerttemberg Route
 

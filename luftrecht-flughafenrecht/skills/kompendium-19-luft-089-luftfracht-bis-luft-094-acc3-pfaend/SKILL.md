@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-luft-089-luftfracht-bis-luft-094-acc3-pfaend
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (luft-089-luftfracht-dashboard-bauen, luft-090-luftfracht-mandantenmemo-schreiben, luft-092-acc3-register-auswerten, luft-093-acc3-pfandrecht-vorbereiten, luft-094-acc3-pfaendung-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 089 Luftfracht Dashboard Bauen, Luft 090 Luftfracht Mandantenmemo Schreiben, Luft 092 Acc3 Register Auswerten, Luft 093 Acc3 Pfandrecht Vorbereiten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 089 Luftfracht Dashboard Bauen bis Luft 094 Acc3 Pfaendung Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-089-luftfracht-dashboard-bauen` | Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard fuer Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard. |
 | `luft-090-luftfracht-mandantenmemo-schreiben` | Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-089-luftfracht-dashboard-bauen`
 
-**Frühere Beschreibung:** Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard fuer Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard.
+**Fokus:** Luftfrachtfuehrer oder grosser Spediteur braucht Dashboard fuer Fracht-Compliance: Regulated-Agent-Status Gefahrgut-Zulassungen Sicherheitsfindings Versicherung. Skill strukturiert Datenquellen und liefert befuellbares Compliance-Dashboard.
 
 # Luftfracht – Dashboard bauen
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 2. `luft-090-luftfracht-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Luftfrachtfuehrer oder Spediteur zu Haftungsfall Gefahrgutvorfall Sicherheitsauflage oder Insolvenznaehe. Skill strukturiert Memo mit Sachverhalt Montreal Convention Rechtslage Handlungsoptionen und Empfehlung.
 
 # Luftfracht – Mandantenmemo schreiben
 
@@ -223,7 +223,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 3. `luft-092-acc3-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prueft EU-DVO 2015/1998 EU-Datenbank fuer ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht.
+**Fokus:** Mandant will ACC3-Designierungsstatus und Validierungsstand eines Carriers auswerten. Prueft EU-DVO 2015/1998 EU-Datenbank fuer ACC3-designierte Carrier RA3/KC3-Status und Validierungsgueltigkeit und liefert Compliance-Status-Bericht.
 
 # ACC3 – Register auswerten
 
@@ -318,7 +318,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 4. `luft-093-acc3-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** ACC3-Carrier will Flugzeuge fuer Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie.
+**Fokus:** ACC3-Carrier will Flugzeuge fuer Drittland-Frachtbetrieb finanzieren; Pfandrecht und Cape-Town-Eintrag nötig. Prueft Cape-Town-Convention LuftFzgG EU-VO 300/2008 Betriebsvoraussetzungen und liefert kombinierte Sicherungs- und Compliance-Strategie.
 
 # ACC3 – Pfandrecht vorbereiten
 
@@ -412,7 +412,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 5. `luft-094-acc3-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan fuer ACC3-Frachtflotte.
+**Fokus:** Glaeubiger will Frachtflugzeuge eines ACC3-Carriers pfaenden. Prueft ZPO §§ 864-871 LuftFzgG Cape-Town-Remedies und EU-Luftsicherheitsstatus bei Vollstreckung und liefert Pfaendungsplan fuer ACC3-Frachtflotte.
 
 # ACC3 – Pfändung planen
 

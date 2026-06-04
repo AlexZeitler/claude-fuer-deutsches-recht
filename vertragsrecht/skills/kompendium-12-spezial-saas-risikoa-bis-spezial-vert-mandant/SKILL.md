@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-spezial-saas-risikoa-bis-spezial-vert-mandant
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (spezial-saas-risikoampel-und-gegenargumente, spezial-tracking-verhandlung-vergleich-und-eskalation, spezial-vert-mandantenkommunikation-entscheidungsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Saas Risikoampel Und Gegenargumente, Tracking Verhandlung Vergleich Und Eskalation, Vert Mandantenkommunikation Entscheidungsvorlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - vertragsrecht
+# Arbeitsbereich - Saas Risikoampel Und Gegenargumente, Tracking Verhandlung Vergleich Und Eskalation, Vert Mandantenkommunikation Entscheidungsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-saas-risikoampel-und-gegenargumente` | Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-tracking-verhandlung-vergleich-und-eskalation` | Tracking: Verhandlung, Vergleich und Eskalation im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-saas-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Saas: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Saas: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-tracking-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Tracking: Verhandlung, Vergleich und Eskalation im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tracking: Verhandlung, Vergleich und Eskalation im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Tracking: Verhandlung, Vergleich und Eskalation
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-vert-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Vert: Mandantenkommunikation und Entscheidungsvorlage im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vert: Mandantenkommunikation und Entscheidungsvorlage im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vert: Mandantenkommunikation und Entscheidungsvorlage
 

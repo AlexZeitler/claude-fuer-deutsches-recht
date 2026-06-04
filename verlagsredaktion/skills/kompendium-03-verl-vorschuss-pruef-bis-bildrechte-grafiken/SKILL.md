@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-verl-vorschuss-pruef-bis-bildrechte-grafiken
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (verl-vorschuss-pruefung-buecher, ai-einsatz-transparenz-datenschutz, autorenkommunikation-email, barrierefreiheit-epub-pdf, bildrechte-grafiken-tabellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Vorschuss Pruefung Buecher, Ai Einsatz Transparenz Datenschutz, Autorenkommunikation Email, Barrierefreiheit Epub Pdf und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verlagsredaktion
+# Arbeitsbereich - Verl Vorschuss Pruefung Buecher bis Bildrechte Grafiken Tabellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-vorschuss-pruefung-buecher` | Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen. |
 | `ai-einsatz-transparenz-datenschutz` | Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-vorschuss-pruefung-buecher`
 
-**Frühere Beschreibung:** Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen.
+**Fokus:** Vorschusspruefung fuer Buchprojekte: Bemessungsgrundlage, Auszahlungsstufen, Verrechnung mit Tantiemen, Rueckforderung bei Nichtablieferung, steuerliche und sozialversicherungsrechtliche Folgen.
 
 # Vorschuss pruefen
 
@@ -173,7 +173,7 @@ Mit freundlichen Gruessen
 
 ## 2. `ai-einsatz-transparenz-datenschutz`
 
-**Frühere Beschreibung:** Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik.
+**Fokus:** Dokumentiert KI-Einsatz, Vertraulichkeit, Datenschutz, Autor:innenmaterial, Fremdrechte, Trainingsverbot, Freigaben und interne Verlagspolitik.
 
 # KI-Einsatz, Transparenz und Datenschutz
 
@@ -221,7 +221,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 3. `autorenkommunikation-email`
 
-**Frühere Beschreibung:** Schreibt freundliche, klare Autor:innenkommunikation fuer Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen.
+**Fokus:** Schreibt freundliche, klare Autor:innenkommunikation fuer Nachforderungen, Korrekturen, Freigaben, Rechtefragen, Fristen und Eskalationen.
 
 # Autor:innenkommunikation
 
@@ -273,7 +273,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 4. `barrierefreiheit-epub-pdf`
 
-**Frühere Beschreibung:** Prueft Verlagsoutputs auf Struktur, Alt-Texte, Tabellenlesbarkeit, Ueberschriftenlogik, PDF- und EPUB-Zugaenglichkeit.
+**Fokus:** Prueft Verlagsoutputs auf Struktur, Alt-Texte, Tabellenlesbarkeit, Ueberschriftenlogik, PDF- und EPUB-Zugaenglichkeit.
 
 # Barrierefreiheit EPUB/PDF
 
@@ -322,7 +322,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 5. `bildrechte-grafiken-tabellen`
 
-**Frühere Beschreibung:** Prueft Bilder, Screenshots, Grafiken, Tabellen, Diagramme, Credits, Alt-Texte, Bearbeitungen und Nutzungsumfang fuer Verlagspublikationen.
+**Fokus:** Prueft Bilder, Screenshots, Grafiken, Tabellen, Diagramme, Credits, Alt-Texte, Bearbeitungen und Nutzungsumfang fuer Verlagspublikationen.
 
 # Bildrechte, Grafiken und Tabellen
 

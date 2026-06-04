@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pruefungsrecht-saarl-bis-pruefungsrecht-schle
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (pruefungsrecht-saarland, pruefungsrecht-sachsen, pruefungsrecht-sachsen-anhalt, pruefungsrecht-schleswig-holstein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pruefungsrecht Saarland, Pruefungsrecht Sachsen, Pruefungsrecht Sachsen Anhalt, Pruefungsrecht Schleswig Holstein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - pruefungsrecht-hochschule
+# Arbeitsbereich - Pruefungsrecht Saarland bis Pruefungsrecht Schleswig Holstein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pruefungsrecht-saarland` | Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungsrecht-sachsen` | Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pruefungsrecht-saarland`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Saarland mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Saarland
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 2. `pruefungsrecht-sachsen`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Sachsen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Sachsen
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 3. `pruefungsrecht-sachsen-anhalt`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Sachsen-Anhalt mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Sachsen Anhalt
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 4. `pruefungsrecht-schleswig-holstein`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Schleswig-Holstein mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Schleswig-Holstein mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Schleswig Holstein
 

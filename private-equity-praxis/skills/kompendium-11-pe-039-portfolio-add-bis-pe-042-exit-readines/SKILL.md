@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-pe-039-portfolio-add-bis-pe-042-exit-readines
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (pe-039-portfolio-add-on-akquisition, pe-040-portfolio-governance-board-pack, pe-041-dividend-recap-und-refinancing, pe-042-exit-readiness-und-vendor-dd) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 039 Portfolio Add On Akquisition, Pe 040 Portfolio Governance Board Pack, Pe 041 Dividend Recap Und Refinancing, Pe 042 Exit Readiness Und Vendor Dd; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - private-equity-praxis
+# Arbeitsbereich - Pe 039 Portfolio Add On Akquisition bis Pe 042 Exit Readiness Und Vendor Dd
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-039-portfolio-add-on-akquisition` | Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI. |
 | `pe-040-portfolio-governance-board-pack` | Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-039-portfolio-add-on-akquisition`
 
-**Frühere Beschreibung:** Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI.
+**Fokus:** Prüft Buy-and-Build-Deals: Integration, Fusionskontrolle, Finanzierung, Vendor Roll-over, Management und PMI.
 
 # Add-on-Akquisition im Portfolio
 
@@ -70,7 +70,7 @@ SPA/APA, GWB/FKVO, AWV, Bank Covenants, HR/IT/IP.
 
 ## 2. `pe-040-portfolio-governance-board-pack`
 
-**Frühere Beschreibung:** Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen.
+**Fokus:** Erstellt Board-Paper, Consent Requests, Reserved Matters, KPI-/Covenant-Reporting und Entscheidungsvorlagen.
 
 # Portfolio Governance und Board Pack
 
@@ -111,7 +111,7 @@ GmbHG/AktG, Business Judgment, SHA/Investment Agreement, Informationsrechte.
 
 ## 3. `pe-041-dividend-recap-und-refinancing`
 
-**Frühere Beschreibung:** Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz.
+**Fokus:** Prüft Ausschüttungen, Refinanzierung, Kapitalerhaltung, Covenants, Solvency und Gläubigerschutz.
 
 # Dividend Recap und Refinancing
 
@@ -152,7 +152,7 @@ GmbHG § 30, AktG Kapitalerhaltung, Darlehensverträge, InsO/StaRUG, Steuer.
 
 ## 4. `pe-042-exit-readiness-und-vendor-dd`
 
-**Frühere Beschreibung:** Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor.
+**Fokus:** Bereitet Exit-Prozess mit Vendor DD, Datenraum, Fact Book, Issues Cure, Management Story und Prozessplan vor.
 
 # Exit Readiness und Vendor DD
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-authorschaft-work-ma-bis-characters-fictional
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (authorschaft-work-made-for-hire-transfer-chain, backlist-rights-gap-audit, best-edition-kopienzahl, characters-fictional-universe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Authorschaft Work Made For Hire Transfer Chain, Backlist Rights Gap Audit, Best Edition Kopienzahl, Characters Fictional Universe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Authorschaft Work Made For Hire Transfer Chain bis Characters Fictional Universe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `authorschaft-work-made-for-hire-transfer-chain` | Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten. |
 | `backlist-rights-gap-audit` | Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `authorschaft-work-made-for-hire-transfer-chain`
 
-**Frühere Beschreibung:** Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten.
+**Fokus:** Autorenschaft, Work made for hire und Rechtekette: deutsche Verlagsverträge in US-Antragslogik übersetzen, ohne Arbeitnehmer-/Auftragswerkfragen blind zu behaupten.
 
 # Autorenschaft, Work Made For Hire und Rechtekette
 
@@ -76,7 +76,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `backlist-rights-gap-audit`
 
-**Frühere Beschreibung:** Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen.
+**Fokus:** Backlist Rights Gap Audit: ältere Verlagsverträge, Übersetzungen, Bildrechte, digitale Rechte, US-Rechte und Registrierungsfähigkeit systematisch prüfen.
 
 # Backlist Rights Gap Audit
 
@@ -120,7 +120,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `best-edition-kopienzahl`
 
-**Frühere Beschreibung:** Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen.
+**Fokus:** Best Edition und Kopienzahl für veröffentlichte Verlagswerke: USA-Erstveröffentlichung, foreign first edition, physische Bücher, Serien und Mandatory-Deposit-Schnittstelle sauber trennen.
 
 # Best Edition und Kopienzahl
 
@@ -172,7 +172,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `characters-fictional-universe`
 
-**Frühere Beschreibung:** Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation.
+**Fokus:** Prueft Schutz fiktiver Figuren, Universen, character bible, merchandising and derivative exploitation.
 
 # Characters und Fictional Universe
 

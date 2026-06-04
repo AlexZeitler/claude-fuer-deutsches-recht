@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-mittelstand-corporat-bis-mittelstand-ma-insol
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-wi-insurance, mittelstand-ma-aktenanlage, mittelstand-ma-erechnung-gobd, mittelstand-ma-insolvenzreife) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Wi Insurance, Mittelstand Ma Aktenanlage, Mittelstand Ma Erechnung Gobd, Mittelstand Ma Insolvenzreife; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Wi Insurance bis Mittelstand Ma Insolvenzreife
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-wi-insurance` | W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A. |
 | `mittelstand-ma-aktenanlage` | Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraster Vollständigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-wi-insurance`
 
-**Frühere Beschreibung:** W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A.
+**Fokus:** W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A.
 
 # W&I-Versicherung
 
@@ -236,7 +236,7 @@ BINDUNGSBESTAETIGUNG FRIST: bis [DATUM]
 
 ## 2. `mittelstand-ma-aktenanlage`
 
-**Frühere Beschreibung:** Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraster Vollständigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten).
+**Fokus:** Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraster Vollständigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten).
 
 # Freistehende M&A-Aktenanlage (Mittelstand)
 
@@ -464,7 +464,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `mittelstand-ma-erechnung-gobd`
 
-**Frühere Beschreibung:** Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Prüfraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenprüfung).
+**Fokus:** Kanzlei braucht GoBD-konforme E-Rechnung für M&A-Mandat: XRechnung-XML ZUGFeRD Workstream-Abrechnung revisionssicheren Buchungsnachweis. Normen GoBD BMF-Schreiben 2019 UStG §§ 14 14a ZUGFeRD EN 16931. Prüfraster Pflichtfelder XRechnung Pflichtangaben Narrative Revisionssicherheit Archivierung. Output XRechnung-XML ZUGFeRD-Paket Buchungsnachweis. Abgrenzung zu billing-narratives (Texterstellung) und mittelstand-ma-tabellenreview (Datenprüfung).
 
 # Freistehender Billing-, GoBD- und E-Rechnungsworkflow (Mittelstand)
 
@@ -711,7 +711,7 @@ Eine rückwirkende Änderung oder Löschung der Ursprungsrechnung ist unzulässi
 
 ## 4. `mittelstand-ma-insolvenzreife`
 
-**Frühere Beschreibung:** Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insolvenzantragspflicht besteht: Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Prüfraster Zahlungsunfähigkeitstest Überschuldungsprüfung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell).
+**Fokus:** Unternehmen in M&A-Situation oder Krise und Anwalt prüft ob Insolvenzantragspflicht besteht: Zahlungsunfähigkeit drohende Zahlungsunfähigkeit Überschuldung StaRUG-Schwelle. Normen §§ 17-19 InsO § 15a InsO §§ 1-4 StaRUG. Prüfraster Zahlungsunfähigkeitstest Überschuldungsprüfung Fortbestehensprognose Antragspflicht-Timing. Output Insolvenzreife-Ampel Antragspflicht-Gutachten Handlungsempfehlung. Abgrenzung zu restructuring-starug-insolvenzplan (Plangestaltung) und liquiditaetsvorschau (Cash-Modell).
 
 # Freistehender Insolvenzreife- und StaRUG-Schwellencheck (Mittelstand)
 

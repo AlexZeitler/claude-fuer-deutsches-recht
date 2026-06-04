@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-habilitation-bis-hochschulautonomie-u
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (habilitation, hausrecht-campus, hochschularchiv-und-aktenordnung, hochschulautonomie-und-aufsicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Habilitation, Hausrecht Campus, Hochschularchiv Und Aktenordnung, Hochschulautonomie Und Aufsicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - hochschulrecht-laender
+# Arbeitsbereich - Habilitation bis Hochschulautonomie Und Aufsicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `habilitation` | Prüft Habilitation und Lehrbefähigung. |
 | `hausrecht-campus` | Prüft Hausrecht, Demonstration und Campusnutzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `habilitation`
 
-**Frühere Beschreibung:** Prüft Habilitation und Lehrbefähigung.
+**Fokus:** Prüft Habilitation und Lehrbefähigung.
 
 # Habilitation
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Habilitationsvermerk. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 2. `hausrecht-campus`
 
-**Frühere Beschreibung:** Prüft Hausrecht, Demonstration und Campusnutzung.
+**Fokus:** Prüft Hausrecht, Demonstration und Campusnutzung.
 
 # Hausrecht Campus
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Campus-Hausrechtsmemo. Am Ende immer drei Zeilen: **Frist**, 
 
 ## 3. `hochschularchiv-und-aktenordnung`
 
-**Frühere Beschreibung:** Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen.
+**Fokus:** Prüft Archivierung, Aktenordnung, Prüfungsakten, Forschungsdaten und Löschfristen.
 
 # Hochschularchiv und Aktenordnung
 
@@ -224,7 +224,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 4. `hochschulautonomie-und-aufsicht`
 
-**Frühere Beschreibung:** Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht.
+**Fokus:** Prüft Hochschulautonomie, Rechtsaufsicht und Fachaufsicht.
 
 # Hochschulautonomie Und Aufsicht
 

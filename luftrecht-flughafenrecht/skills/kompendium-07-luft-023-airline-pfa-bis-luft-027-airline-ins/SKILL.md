@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-luft-023-airline-pfa-bis-luft-027-airline-ins
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (luft-023-airline-pfandrecht-vorbereiten, luft-024-airline-pfaendung-planen, luft-025-airline-genehmigung-pruefen, luft-026-airline-sicherheitsauflage-bewerten, luft-027-airline-insolvenzrisiko-markieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 023 Airline Pfandrecht Vorbereiten, Luft 024 Airline Pfaendung Planen, Luft 025 Airline Genehmigung Pruefen, Luft 026 Airline Sicherheitsauflage Bewerten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 023 Airline Pfandrecht Vorbereiten bis Luft 027 Airline Insolvenzrisiko Markieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-023-airline-pfandrecht-vorbereiten` | Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig. |
 | `luft-024-airline-pfaendung-planen` | Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-023-airline-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig.
+**Fokus:** Kreditgeber will Pfandrecht an Airline-Flugzeug bestellen oder bestehender Pfandglaeubigerrang soll gesichert werden. Prueft LuftFzgG §§ 1-12 Entstehungsvoraussetzungen Rangordnung Cape-Town-Koordination Notarerfordernis und liefert Pfandrechtsbestellungs-Checkliste und Antragsentwurf AG Braunschweig.
 
 # Airline – Pfandrecht vorbereiten
 
@@ -122,7 +122,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 2. `luft-024-airline-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie.
+**Fokus:** Glaeubiger plant Zwangsvollstreckung in Airline-Flugzeug oder Airline wehrt Pfaendung ab. Prueft ZPO §§ 864-871 LuftFzgG §§ 22-28 Zwangsversteigerung Arrestantrag ZPO § 917 Cape-Town-Remedies Art. 8 und InsO § 89 Vollstreckungssperre und liefert Pfaendungsplan oder Abwehrstrategie.
 
 # Airline – Pfändung planen
 
@@ -215,7 +215,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 3. `luft-025-airline-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen.
+**Fokus:** Airline-Genehmigungsstand ist unklar: Betriebsgenehmigung AOC Streckengenehmigung oder Sonderflugerlaubnis fehlt oder laeuft ab. Prueft EU-VO 1008/2008 LuftVG § 20 EASA EU-VO 965/2012 Part-OPS und Bilateralabkommen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf und Fristen.
 
 # Airline – Genehmigung prüfen
 
@@ -308,7 +308,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 4. `luft-026-airline-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan.
+**Fokus:** Airline erhaelt LuftSiG oder EASA-Auflage nach Inspektion. Prueft LuftSiG §§ 8-9 Sicherheitsprogramm EU-DVO 2015/1998 Findings-Kategorien Level 1/2/Observation Verhaeltnismaessigkeit und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk und Muster-Stellungnahme mit Corrective Action Plan.
 
 # Airline – Sicherheitsauflage bewerten
 
@@ -401,7 +401,7 @@ Für Mandate im Bereich Airline-Betrieb und Betriebsgenehmigung sind folgende Do
 
 ## 5. `luft-027-airline-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste.
+**Fokus:** Mandant will Insolvenzrisiko einer Airline fruehzeitig erkennen: sinkende Liquiditaet schlechte Ratings Zahlungsrueckstaende. Prueft EU-VO 1008/2008 Art. 9 Fruehwarnindikatoren InsO §§ 15a 17-19 Antragspflicht und Haftungsrisiken Geschaeftsfuehrer und liefert Risikoampel-Bewertung und Geschaeftsfuehrer-Haftungs-Checkliste.
 
 # Airline – Insolvenzrisiko markieren
 

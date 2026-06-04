@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-fachanwalt-urheber-m-bis-fachanwalt-urheber-m
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (fachanwalt-urheber-medienrecht-gegendarstellung-presse, fachanwalt-urheber-medienrecht-mod-erklaerung, fachanwalt-urheber-medienrecht-orientierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urheber Medienrecht Gegendarstellung Presse, Urheber Medienrecht Mod Erklaerung, Urheber Medienrecht Orientierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Urheber Medienrecht Gegendarstellung Presse, Urheber Medienrecht Mod Erklaerung, Urheber Medienrecht Orientierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-urheber-medienrecht-gegendarstellung-presse` | Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage. |
 | `fachanwalt-urheber-medienrecht-mod-erklaerung` | Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-gegendarstellung-presse`
 
-**Frühere Beschreibung:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage.
+**Fokus:** Gegendarstellung Pressefreiheit § 11 BlnPresseG analog Landes-Presse-Gesetze. Voraussetzung Tatsachen-Behauptung Betroffener berechtigtes Interesse Frist 3 Monate. Verlangen schriftlich Form. Klage AG / LG bei Verweigerung. Workflow Prüfung Schriftsatz Klage.
 
 # Gegendarstellung Presserecht
 
@@ -148,7 +148,7 @@ Gegendarstellung gegen Tatsachen-Behauptung in Presse / TV.
 
 ## 2. `fachanwalt-urheber-medienrecht-mod-erklaerung`
 
-**Frühere Beschreibung:** Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen).
+**Fokus:** Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen).
 
 # Modifizierte Unterlassungserklärung im Urheberrecht
 
@@ -463,7 +463,7 @@ Bevor die modifizierte Unterlassungserklaerung abgegeben wird, klaere:
 
 ## 3. `fachanwalt-urheber-medienrecht-orientierung`
 
-**Frühere Beschreibung:** Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
+**Fokus:** Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills.
 
 # Fachanwalt fuer Urheber- und Medienrecht — Orientierung
 

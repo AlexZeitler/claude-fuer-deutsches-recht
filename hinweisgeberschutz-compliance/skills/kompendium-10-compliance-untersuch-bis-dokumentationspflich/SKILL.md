@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-compliance-untersuch-bis-dokumentationspflich
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (compliance-untersuchung, datenschutz-dsgvo-meldeakte, datenschutzpanne-meldung, dokumentationspflicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Compliance Untersuchung, Datenschutz Dsgvo Meldeakte, Datenschutzpanne Meldung, Dokumentationspflicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Compliance Untersuchung bis Dokumentationspflicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `compliance-untersuchung` | Plant Compliance-Untersuchung nach Hinweis. |
 | `datenschutz-dsgvo-meldeakte` | Baut Datenschutzkonzept für die Meldeakte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `compliance-untersuchung`
 
-**Frühere Beschreibung:** Plant Compliance-Untersuchung nach Hinweis.
+**Fokus:** Plant Compliance-Untersuchung nach Hinweis.
 
 # Compliance Untersuchung
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `datenschutz-dsgvo-meldeakte`
 
-**Frühere Beschreibung:** Baut Datenschutzkonzept für die Meldeakte.
+**Fokus:** Baut Datenschutzkonzept für die Meldeakte.
 
 # Datenschutz DSGVO Meldeakte
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `datenschutzpanne-meldung`
 
-**Frühere Beschreibung:** Routet Hinweise zu Datenschutzpannen.
+**Fokus:** Routet Hinweise zu Datenschutzpannen.
 
 # Datenschutzpanne Meldung
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `dokumentationspflicht`
 
-**Frühere Beschreibung:** Prüft Dokumentation eingehender Meldungen.
+**Fokus:** Prüft Dokumentation eingehender Meldungen.
 
 # Dokumentationspflicht
 

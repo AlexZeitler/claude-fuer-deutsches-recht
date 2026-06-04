@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-verl-fussnoten-quell-bis-verl-honorarrechnung
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (verl-fussnoten-quellen-konsolidierung, verl-glossar-konsistenz-pruefung, verl-grammatik-konsistenzcheck, verl-handschrift-und-altdoc-digitalisieren, verl-honorarrechnung-erstellen-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Fussnoten Quellen Konsolidierung, Verl Glossar Konsistenz Pruefung, Verl Grammatik Konsistenzcheck, Verl Handschrift Und Altdoc Digitalisieren und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verlagsredaktion
+# Arbeitsbereich - Verl Fussnoten Quellen Konsolidierung bis Verl Honorarrechnung Erstellen Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-fussnoten-quellen-konsolidierung` | Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her. |
 | `verl-glossar-konsistenz-pruefung` | Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-fussnoten-quellen-konsolidierung`
 
-**Frühere Beschreibung:** Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her.
+**Fokus:** Konsolidiert den Fussnotenapparat eines Manuskripts: dedupliziert, vereinheitlicht, prueft Pinpoints und stellt die Reihenfolge nach Verlagsstandard her.
 
 # Fussnoten- und Quellen-Konsolidierung
 
@@ -130,7 +130,7 @@ Sonst: Volltext-Wiederholung oder Kurzzitat mit "ders." / "dies."
 
 ## 2. `verl-glossar-konsistenz-pruefung`
 
-**Frühere Beschreibung:** Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise.
+**Fokus:** Prueft Glossar und Begriffskonsistenz quer durch Reihen Loseblattwerke und Online-Kommentare: Lemma-Stamm Definitionen Synonyme Querverweise.
 
 # Glossar- und Konsistenz-Pruefung
 
@@ -232,7 +232,7 @@ Lemma "Plattformbetreiber"
 
 ## 3. `verl-grammatik-konsistenzcheck`
 
-**Frühere Beschreibung:** Prueft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Numerus Kasus Verweisbezug Zeitformwechsel und Hausstilkonsistenz quer durch den Text.
+**Fokus:** Prueft Grammatik und Stilkonsistenz im Manuskript: Tempus Genus Numerus Kasus Verweisbezug Zeitformwechsel und Hausstilkonsistenz quer durch den Text.
 
 # Grammatik- und Konsistenzcheck
 
@@ -341,7 +341,7 @@ Sie brauchen ihn nach dem Lektorat und vor dem Endkorrekturlauf. Klaeren Sie:
 
 ## 4. `verl-handschrift-und-altdoc-digitalisieren`
 
-**Frühere Beschreibung:** Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit.
+**Fokus:** Digitalisiert handschriftliche Originalvorlagen und alte Dokumente fuer die Verlagsredaktion, mit Lesart-Markierung, Erhaltungsdokumentation und Auditfaehigkeit.
 
 # Handschrift und Altdokumente digitalisieren
 
@@ -439,7 +439,7 @@ Sie brauchen ihn, wenn keine moderne Textdatei vorliegt, sondern handschriftlich
 
 ## 5. `verl-honorarrechnung-erstellen-pruefen`
 
-**Frühere Beschreibung:** Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen fuer Aufsatz, Beitrag, Werk.
+**Fokus:** Honorarrechnung erstellen und pruefen: Pflichtangaben, USt-Behandlung, Kleinunternehmer, Reverse Charge, Auslandsautoren, KSK. Mit Musterrechnungen fuer Aufsatz, Beitrag, Werk.
 
 # Honorarrechnung erstellen und pruefen
 

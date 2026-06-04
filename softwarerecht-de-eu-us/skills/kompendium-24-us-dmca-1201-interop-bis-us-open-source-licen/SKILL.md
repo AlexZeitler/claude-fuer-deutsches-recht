@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-us-dmca-1201-interop-bis-us-open-source-licen
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (us-dmca-1201-interoperability, us-export-control-encryption-ear, us-independent-contractor-assignment, us-open-source-license-enforcement) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Us Dmca 1201 Interoperability, Us Export Control Encryption Ear, Us Independent Contractor Assignment, Us Open Source License Enforcement; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - softwarerecht-de-eu-us
+# Arbeitsbereich - Us Dmca 1201 Interoperability bis Us Open Source License Enforcement
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `us-dmca-1201-interoperability` | Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität. |
 | `us-export-control-encryption-ear` | Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `us-dmca-1201-interoperability`
 
-**Frühere Beschreibung:** Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität.
+**Fokus:** Prüft Anti-Circumvention-Risiken bei Reverse Engineering, Security Research, Jailbreak, Repair und Interoperabilität.
 
 # US DMCA § 1201 und Interoperabilität
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `us-export-control-encryption-ear`
 
-**Frühere Beschreibung:** Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports.
+**Fokus:** Prüft US-Exportkontrolle für Verschlüsselungssoftware, EAR, cloud access, sanctions und deemed exports.
 
 # US Export Control Encryption EAR
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `us-independent-contractor-assignment`
 
-**Frühere Beschreibung:** Prüft US-Contractor-Softwareverträge mit present assignment, moral rights waiver, OSS, inventions und confidentiality.
+**Fokus:** Prüft US-Contractor-Softwareverträge mit present assignment, moral rights waiver, OSS, inventions und confidentiality.
 
 # US Independent Contractor Assignment
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `us-open-source-license-enforcement`
 
-**Frühere Beschreibung:** Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law.
+**Fokus:** Prüft Open-Source-Lizenzverletzungen und Enforcement nach US-Copyright-/Contract-Law.
 
 # US Open Source Enforcement
 

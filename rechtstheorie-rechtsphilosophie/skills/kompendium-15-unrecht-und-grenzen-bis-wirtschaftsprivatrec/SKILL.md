@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-unrecht-und-grenzen-bis-wirtschaftsprivatrec
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (unrecht-und-grenzen-des-gehorsams, verwaltungsaufgaben-versus-rechtsformen, wirtschaftsprivatrecht-dogmatik) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Unrecht Und Grenzen Des Gehorsams, Verwaltungsaufgaben Versus Rechtsformen, Wirtschaftsprivatrecht Dogmatik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unrecht-und-grenzen-des-gehorsams` | Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren. |
 | `verwaltungsaufgaben-versus-rechtsformen` | Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unrecht-und-grenzen-des-gehorsams`
 
-**Frühere Beschreibung:** Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren.
+**Fokus:** Prueft Extremfaelle, in denen Rechtsgeltung, Menschenwuerde, Willkuer, Unrechtsgesetz und richterliche Bindung kollidieren.
 
 # Unrecht und Gehorsamsgrenzen
 
@@ -80,7 +80,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 2. `verwaltungsaufgaben-versus-rechtsformen`
 
-**Frühere Beschreibung:** Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz.
+**Fokus:** Balanciert Aufgabenlogik und Rechtsformen in der Verwaltung: Funktion, Effektivitaet, Gesetzesbindung, Verwaltungsakt, Vertrag, Satzung, Planung, Ermessen und Rechtsschutz.
 
 # Verwaltungsaufgabe versus Rechtsform
 
@@ -145,7 +145,7 @@ Schließe mit einer präzisen Empfehlung zur rechtssicheren Rechtsform.
 
 ## 3. `wirtschaftsprivatrecht-dogmatik`
 
-**Frühere Beschreibung:** Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert.
+**Fokus:** Prueft, wie gesellschafts-, handels- und vertragsrechtliche Dogmatik Innovation, Verkehrsschutz, Privatautonomie und Rechtssicherheit austariert.
 
 # Wirtschaftsprivatrecht und Dogmatik
 

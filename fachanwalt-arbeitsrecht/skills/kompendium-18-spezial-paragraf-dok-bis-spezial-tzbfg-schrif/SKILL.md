@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-paragraf-dok-bis-spezial-tzbfg-schrif
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (spezial-paragraf-dokumentenmatrix-und-lueckenliste, spezial-quelle-beweislast-und-darlegungslast, spezial-tzbfg-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Paragraf Dokumentenmatrix Und Lueckenliste, Quelle Beweislast Und Darlegungslast, Tzbfg Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-paragraf-dokumentenmatrix-und-lueckenliste` | Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG. |
 | `spezial-quelle-beweislast-und-darlegungslast` | Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-paragraf-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG.
+**Fokus:** Paragraf-Dokumentenmatrix und Lückenliste: für jeden Streitgegenstand die einschlägigen Normen, erforderlichen Dokumente und fehlenden Belege tabellarisch aufbereiten — Kündigung, Befristung, Abfindung, Vergütung, Betriebsrat, AGG.
 
 # Spezial: Paragraf-Dokumentenmatrix und Lückenliste
 
@@ -143,7 +143,7 @@ Nach Ausfüllen der Matrix:
 
 ## 2. `spezial-quelle-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
+**Fokus:** Quellenregel, Beweislast und Darlegungslast im Arbeitsrecht: abgestufte Darlegungslast BAG-Linie, Normenübersicht zu Beweislastverteilungen, Umkehr nach AGG § 22, zulässige und unzulässige Fundstellen, Quellenprotokoll für Schriftsätze.
 
 # Spezial: Quelle, Beweislast und Darlegungslast
 
@@ -275,7 +275,7 @@ Unsichere Punkte (Live-Check erforderlich):
 
 ## 3. `spezial-tzbfg-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
+**Fokus:** TzBfG Schriftsatz-, Brief- und Memo-Bausteine: Klageschrift Entfristungsklage § 17 TzBfG, Klageantrag, Sachverhaltsaufbau, Beweisangebote, Mandantenbrief zur Befristungsbeendigung, Arbeitgeberantwortbrief, Vergleichsformel.
 
 # Spezial: TzBfG — Schriftsatz-, Brief- und Memo-Bausteine
 

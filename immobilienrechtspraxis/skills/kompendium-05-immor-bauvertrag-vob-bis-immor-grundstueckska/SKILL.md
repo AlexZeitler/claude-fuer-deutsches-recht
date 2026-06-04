@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-immor-bauvertrag-vob-bis-immor-grundstueckska
-description: "immobilienrechtspraxis: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (immor-bauvertrag-vob-bgb-leitfaden, immor-erbbaurecht-vertrag-spezial, immor-grundstueckskaufvertrag-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "immobilienrechtspraxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Immor Bauvertrag Vob Bgb Leitfaden, Immor Erbbaurecht Vertrag Spezial, Immor Grundstueckskaufvertrag Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - immobilienrechtspraxis
+# Arbeitsbereich - Immor Bauvertrag Vob Bgb Leitfaden, Immor Erbbaurecht Vertrag Spezial, Immor Grundstueckskaufvertrag Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `immor-bauvertrag-vob-bgb-leitfaden` | Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer. |
 | `immor-erbbaurecht-vertrag-spezial` | Spezialfall Erbbaurechtsvertrag: ErbbauRG, Erbbauzins, Heimfall, Entschaedigung. Pruefraster fuer kirchliche und kommunale Grundstuecksverwaltung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `immor-bauvertrag-vob-bgb-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer.
+**Fokus:** Leitfaden Bauvertrag VOB-B und BGB-Bauvertrag §§ 650a ff. BGB: Anordnungsrecht, Vereinbarung VOB-B als AGB, Abnahme, Maengelrechte. Pruefraster Bauherr und Unternehmer.
 
 # ImmoR: Bauvertrag VOB BGB
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `immobilienrechtspraxis`. Er ergaenzt die uebrig
 
 ## 2. `immor-erbbaurecht-vertrag-spezial`
 
-**Frühere Beschreibung:** Spezialfall Erbbaurechtsvertrag: ErbbauRG, Erbbauzins, Heimfall, Entschaedigung. Pruefraster fuer kirchliche und kommunale Grundstuecksverwaltung.
+**Fokus:** Spezialfall Erbbaurechtsvertrag: ErbbauRG, Erbbauzins, Heimfall, Entschaedigung. Pruefraster fuer kirchliche und kommunale Grundstuecksverwaltung.
 
 # ImmoR: Erbbaurecht-Vertrag
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `immobilienrechtspraxis`. Er ergaenzt die uebrig
 
 ## 3. `immor-grundstueckskaufvertrag-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer.
+**Fokus:** Bauleiter Grundstueckskaufvertrag: Form § 311b BGB, Belastungsvollmacht, Faelligkeitsvoraussetzungen, Abloesung Grundpfandrechte. Pruefraster Kaeufer und Verkaeufer.
 
 # ImmoR: Grundstueckskaufvertrag
 

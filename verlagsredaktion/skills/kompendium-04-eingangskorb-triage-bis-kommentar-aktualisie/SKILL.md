@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-eingangskorb-triage-bis-kommentar-aktualisie
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (eingangskorb-triage, entscheidungsmonitor-rechtsstand, fremdtext-plagiat-uebernahmecheck, knowledge-base-faq-kundenservice, kommentar-aktualisierung-randnummern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eingangskorb Triage, Entscheidungsmonitor Rechtsstand, Fremdtext Plagiat Uebernahmecheck, Knowledge Base Faq Kundenservice und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verlagsredaktion
+# Arbeitsbereich - Eingangskorb Triage bis Kommentar Aktualisierung Randnummern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eingangskorb-triage` | Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion. |
 | `entscheidungsmonitor-rechtsstand` | Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse fuer Zeitschrift, Kommentar, Newsletter oder Buchauflage. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eingangskorb-triage`
 
-**Frühere Beschreibung:** Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion.
+**Fokus:** Sortiert einen Verlags-Eingangskorb aus Mails, Manuskripten, Fahnen, Bildern, Tabellen und Notizen nach Frist, Risiko, Projekt und naechster Aktion.
 
 # Eingangskorb-Triage
 
@@ -79,7 +79,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `entscheidungsmonitor-rechtsstand`
 
-**Frühere Beschreibung:** Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse fuer Zeitschrift, Kommentar, Newsletter oder Buchauflage.
+**Fokus:** Erfasst neue Entscheidungen, Gesetze und Materialien als moegliche Aktualisierungsanlaesse fuer Zeitschrift, Kommentar, Newsletter oder Buchauflage.
 
 # Entscheidungsmonitor und Rechtsstand
 
@@ -132,7 +132,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 3. `fremdtext-plagiat-uebernahmecheck`
 
-**Frühere Beschreibung:** Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphrase-Risiken und erstellt eine redaktionelle Klaerungsliste.
+**Fokus:** Markiert Fremdtext-, Copy-Paste-, Plagiats-, KI-Text- und Paraphrase-Risiken und erstellt eine redaktionelle Klaerungsliste.
 
 # Fremdtext- und Übernahmecheck
 
@@ -191,7 +191,7 @@ Nicht kriminalisieren, sondern sauber klären: Was ist Autor:innenleistung, was 
 
 ## 4. `knowledge-base-faq-kundenservice`
 
-**Frühere Beschreibung:** Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln, Updates, Downloads, Errata, Lizenzen und Produktfragen.
+**Fokus:** Erstellt FAQ, interne Wissensbasis und Kundenservice-Antworten zu Verlagstiteln, Updates, Downloads, Errata, Lizenzen und Produktfragen.
 
 # Knowledge Base und Kundenservice
 
@@ -239,7 +239,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 5. `kommentar-aktualisierung-randnummern`
 
-**Frühere Beschreibung:** Unterstuetzt Kommentarupdates mit Randnummernlogik, Rechtsstandsvermerk, Nachweisen, Aenderungsprotokoll und Autor:innenrueckfragen.
+**Fokus:** Unterstuetzt Kommentarupdates mit Randnummernlogik, Rechtsstandsvermerk, Nachweisen, Aenderungsprotokoll und Autor:innenrueckfragen.
 
 # Kommentar-Aktualisierung und Randnummern
 

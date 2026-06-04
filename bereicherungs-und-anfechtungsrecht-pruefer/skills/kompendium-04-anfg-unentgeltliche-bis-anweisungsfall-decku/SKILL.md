@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anfg-unentgeltliche-bis-anweisungsfall-decku
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (anfg-unentgeltliche-leistung-4, anfg-vorsatzanfechtung-3-i, anspruchsziel-und-rueckabwicklungsarchitektur, anweisungsfall-deckungs-und-valutaverhaeltnis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfg Unentgeltliche Leistung 4, Anfg Vorsatzanfechtung 3 I, Anspruchsziel Und Rueckabwicklungsarchitektur, Anweisungsfall Deckungs Und Valutaverhaeltnis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Anfg Unentgeltliche Leistung 4 bis Anweisungsfall Deckungs Und Valutaverhaeltnis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfg-unentgeltliche-leistung-4` | Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung). |
 | `anfg-vorsatzanfechtung-3-i` | Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfg-unentgeltliche-leistung-4`
 
-**Frühere Beschreibung:** Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung).
+**Fokus:** Anfechtung unentgeltlicher Leistungen außerhalb der Insolvenz prüfen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Prüfraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen für Anstandsschenkungen, kein Verschuldenserfordernis. Output: Prüfergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeröffnung).
 
 # Unentgeltliche Leistung — § 4 AnfG
 
@@ -99,7 +99,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `anfg-vorsatzanfechtung-3-i`
 
-**Frühere Beschreibung:** Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren).
+**Fokus:** Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren).
 
 # Vorsatzanfechtung — § 3 Abs. 1 AnfG
 
@@ -167,7 +167,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `anspruchsziel-und-rueckabwicklungsarchitektur`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Spezial-Skills).
+**Fokus:** Nutze diesen Skill, wenn das praktische Rückabwicklungsziel in eine belastbare Anspruchsarchitektur übersetzt werden muss. Normen: §§ 812 und 818 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Anspruchsarchitektur mit Ziel, Norm und Tatsachenbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung (siehe Spezial-Skills).
 
 # Anspruchsziel und Rückabwicklungsarchitektur
 
@@ -278,7 +278,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `anweisungsfall-deckungs-und-valutaverhaeltnis`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung.
+**Fokus:** Nutze diesen Skill, wenn ein Zahlungs- oder Leistungsdreieck mit Deckungs- und Valutaverhältnis vorliegt. Normen: § 670 BGB und §§ 812 ff. BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Dreiecksdiagramm mit Fehlerort und korrektem Rückabwicklungsweg. Abgrenzung: nicht echte Drittleistung § 267 BGB ohne Anweisung.
 
 # Anweisungsfall: Deckungs- und Valutaverhältnis
 

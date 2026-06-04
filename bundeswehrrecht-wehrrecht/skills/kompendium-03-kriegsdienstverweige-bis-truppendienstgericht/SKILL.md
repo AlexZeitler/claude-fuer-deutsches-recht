@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-kriegsdienstverweige-bis-truppendienstgericht
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (kriegsdienstverweigerung-verfahren, rechtsbeistand-im-disziplinarverfahren, truppendienstgericht-zustaendigkeit-verfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Kriegsdienstverweigerung Verfahren, Rechtsbeistand Im Disziplinarverfahren, Truppendienstgericht Zustaendigkeit Verfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kriegsdienstverweigerung-verfahren` | Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `rechtsbeistand-im-disziplinarverfahren` | Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kriegsdienstverweigerung-verfahren`
 
-**Frühere Beschreibung:** Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Kriegsdienstverweigerung Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Kriegsdienstverweigerung – Verfahren
 
@@ -130,7 +130,7 @@ Für KDV-Fälle ab 2026, insbesondere Antrag über BAPersBw, § 13 KDVG n. F., a
 
 ## 2. `rechtsbeistand-im-disziplinarverfahren`
 
-**Frühere Beschreibung:** Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO.
+**Fokus:** Rechtsbeistand im Disziplinarverfahren: prüft Verteidigungsrecht § 91 WDO, Bestellungsverfahren, Verteidigungsstrategien und Kosten. Norm-/Quellenanker: WDO §§ 91–92, BRAO.
 
 # Rechtsbeistand im Disziplinarverfahren
 
@@ -241,7 +241,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `truppendienstgericht-zustaendigkeit-verfahren`
 
-**Frühere Beschreibung:** Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Truppendienstgericht Zuständigkeit Verfahren: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Truppendienstgericht – Zuständigkeit und Verfahren
 

@@ -1,35 +1,35 @@
 ---
 name: kompendium-18-schulgesetz-niedersa-bis-schulgesetz-saarland
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (schulgesetz-niedersachsen, schulgesetz-nordrhein-westfalen, schulgesetz-rheinland-pfalz, schulgesetz-saarland) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulgesetz Niedersachsen, Schulgesetz Nordrhein Westfalen, Schulgesetz Rheinland Pfalz, Schulgesetz Saarland; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - schulrecht-laender
+# Arbeitsbereich - Schulgesetz Niedersachsen bis Schulgesetz Saarland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
-| `schulgesetz-niedersachsen` | Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-nordrhein-westfalen` | Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-rheinland-pfalz` | Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-saarland` | Prüft Schulrecht in Saarland mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
+| `schulgesetz-niedersachsen` | Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-nordrhein-westfalen` | Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-rheinland-pfalz` | Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-saarland` | Prüft Schulrecht in Saarland mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulgesetz-niedersachsen`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Niedersachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Niedersachsen
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 2. `schulgesetz-nordrhein-westfalen`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Nordrhein-Westfalen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Nordrhein Westfalen
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `schulgesetz-rheinland-pfalz`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Rheinland-Pfalz mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Rheinland Pfalz
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 4. `schulgesetz-saarland`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Saarland mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Saarland mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Saarland
 

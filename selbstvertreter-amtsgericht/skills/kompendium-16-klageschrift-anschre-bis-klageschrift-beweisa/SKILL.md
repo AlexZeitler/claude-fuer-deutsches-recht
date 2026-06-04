@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-klageschrift-anschre-bis-klageschrift-beweisa
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (klageschrift-anschreiben-an-gericht-laien, klageschrift-antrag-bestimmt-formulieren, klageschrift-beweisangebote-einbauen-373-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Klageschrift Anschreiben An Gericht Laien, Klageschrift Antrag Bestimmt Formulieren, Klageschrift Beweisangebote Einbauen 373 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klageschrift-anschreiben-an-gericht-laien` | Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters. |
 | `klageschrift-antrag-bestimmt-formulieren` | Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klageschrift-anschreiben-an-gericht-laien`
 
-**Frühere Beschreibung:** Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters.
+**Fokus:** Anschreiben Anrede und Form für Klage und sonstige Schriftsaetze an das Amtsgericht. Hoeflichkeitsform Gericht-Ansprache Aktenzeichen Briefkopf und uebliche Schlussformeln aus der Perspektive eines Selbstvertreters.
 
 # Wie schreibe ich foermlich ans Amtsgericht?
 
@@ -235,7 +235,7 @@ Stand: 05/2026. ZPO unveraendert. Schriftsatz-Konventionen Praxis-Standard.
 
 ## 2. `klageschrift-antrag-bestimmt-formulieren`
 
-**Frühere Beschreibung:** Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden.
+**Fokus:** Formulierung eines bestimmten Klageantrags nach § 253 II Nr. 2 ZPO. Zahlungs- Herausgabe- Unterlassungsanträge Stufenklage Feststellungs-Antrag mit Mustertext. Klagentyp prüfen Antrag vollstreckungsfähig formulieren typische Fehler vermeiden.
 
 # Den Klageantrag richtig formulieren
 
@@ -423,7 +423,7 @@ Stand: 05/2026. § 253 II Nr. 2 ZPO unveraendert.
 
 ## 3. `klageschrift-beweisangebote-einbauen-373-zpo`
 
-**Frühere Beschreibung:** Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverständigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern für Beweisanträge und Hinweisen zur Benennung ladungsfähiger Anschriften und konkretem Beweisthema.
+**Fokus:** Einbau von Beweisangeboten in die Klageschrift. Urkundenbeweis Zeugenbeweis Sachverständigenbeweis Augenscheinsbeweis Parteivernehmung. Mit Mustern für Beweisanträge und Hinweisen zur Benennung ladungsfähiger Anschriften und konkretem Beweisthema.
 
 # Beweisantraege richtig in die Klage einbauen
 

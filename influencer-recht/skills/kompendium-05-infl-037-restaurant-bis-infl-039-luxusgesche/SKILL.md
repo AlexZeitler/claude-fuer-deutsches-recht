@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-infl-037-restaurant-bis-infl-039-luxusgesche
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (infl-037-restaurant-hotel-einladung-geldwerter-vorteil, infl-038-reisekosten-pressereise-und-gemischte-veranlassung, infl-039-luxusgeschenk-verlosung-oder-behalten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk Verlosung Oder Behalten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - influencer-recht
+# Arbeitsbereich - Infl 037 Restaurant Hotel Einladung Geldwerter Vorteil, Infl 038 Reisekosten Pressereise Und Gemischte Veranlassung, Infl 039 Luxusgeschenk V
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-037-restaurant-hotel-einladung-geldwerter-vorteil` | Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung. |
 | `infl-038-reisekosten-pressereise-und-gemischte-veranlassung` | Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-037-restaurant-hotel-einladung-geldwerter-vorteil`
 
-**Frühere Beschreibung:** Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung.
+**Fokus:** Influencer-Recht: Restauranteinladungen und Hotelaufenthalte – geldwerter Vorteil, Steuerpflicht, Kennzeichnung und Abgrenzung Gegenleistung.
 
 # Influencer-Recht: Restaurant, Hotel, Einladung und geldwerter Vorteil
 
@@ -94,7 +94,7 @@ Einladungen zu Restaurants, Hotels und Events sind steuerlich und werberechtzlic
 
 ## 2. `infl-038-reisekosten-pressereise-und-gemischte-veranlassung`
 
-**Frühere Beschreibung:** Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation.
+**Fokus:** Influencer-Recht: Reisekosten und Pressereisen – steuerliche Abzugsfähigkeit, gemischte Veranlassung, Kennzeichnungspflicht und Dokumentation.
 
 # Influencer-Recht: Reisekosten, Pressereise und gemischte Veranlassung
 
@@ -160,7 +160,7 @@ Reisen mit Content-Anteil sind steuerlich die schwierigste Kategorie:
 
 ## 3. `infl-039-luxusgeschenk-verlosung-oder-behalten`
 
-**Frühere Beschreibung:** Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten.
+**Fokus:** Influencer-Recht: Luxusgeschenke von Brands – steuerliche Pflichten, Kennzeichnung, Verlosungsrecht und Alternativen zum Behalten.
 
 # Influencer-Recht: Luxusgeschenk – Verlosen oder Behalten?
 

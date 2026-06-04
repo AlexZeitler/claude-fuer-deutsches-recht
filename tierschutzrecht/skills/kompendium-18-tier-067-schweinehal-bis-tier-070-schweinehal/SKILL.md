@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-tier-067-schweinehal-bis-tier-070-schweinehal
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (tier-067-schweinehaltung-kosten-klaeren, tier-068-schweinehaltung-halterpflichten-erklae, tier-069-schweinehaltung-eilantrag-bauen, tier-070-schweinehaltung-vergleich-suchen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 067 Schweinehaltung Kosten Klaeren, Tier 068 Schweinehaltung Halterpflichten Erklae, Tier 069 Schweinehaltung Eilantrag Bauen, Tier 070 Schweinehaltung Vergleich Suchen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - tierschutzrecht
+# Arbeitsbereich - Tier 067 Schweinehaltung Kosten Klaeren bis Tier 070 Schweinehaltung Vergleich Suchen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-067-schweinehaltung-kosten-klaeren` | Tierschutzrecht: Schweinehaltung: Kosten klären. Kosten klären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-068-schweinehaltung-halterpflichten-erklae` | Tierschutzrecht: Schweinehaltung: Halterpflichten erklären. Halterpflichten erklären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-067-schweinehaltung-kosten-klaeren`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Kosten klären. Kosten klären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Kosten klären. Kosten klären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Kosten Klaeren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-068-schweinehaltung-halterpflichten-erklae`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Halterpflichten erklären. Halterpflichten erklären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Halterpflichten erklären. Halterpflichten erklären für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Halterpflichten Erklae
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-069-schweinehaltung-eilantrag-bauen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Eilantrag bauen. Eilantrag bauen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Eilantrag bauen. Eilantrag bauen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Eilantrag Bauen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-070-schweinehaltung-vergleich-suchen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Vergleich suchen. Vergleich suchen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Vergleich suchen. Vergleich suchen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Vergleich Suchen
 

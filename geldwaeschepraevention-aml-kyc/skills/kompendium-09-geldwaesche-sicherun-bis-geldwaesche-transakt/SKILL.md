@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-geldwaesche-sicherun-bis-geldwaesche-transakt
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (geldwaesche-sicherungsmassnahmen-icp, geldwaesche-simulation-testlauf, geldwaesche-transaktionsmonitoring) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Sicherungsmassnahmen Icp, Geldwaesche Simulation Testlauf, Geldwaesche Transaktionsmonitoring; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Geldwaesche Sicherungsmassnahmen Icp, Geldwaesche Simulation Testlauf, Geldwaesche Transaktionsmonitoring
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-sicherungsmassnahmen-icp` | Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision. |
 | `geldwaesche-simulation-testlauf` | Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-sicherungsmassnahmen-icp`
 
-**Frühere Beschreibung:** Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision.
+**Fokus:** Aufbau und Haertung interner Sicherungsmassnahmen ICP nach § 6 GwG. Anwendungsfall Verpflichteter muss ICP aufbauen oder bestehendes Kontrollsystem verbessern. Normen § 4 GwG Bestellung GwG-Beauftragter § 6 GwG interne Massnahmen § 7 GwG Gruppen-Compliance BaFin-Auslegungs- und Anwendungshinweise. Prüfraster Richtlinien Prozesse Kontrollen Eskalationen Schulungen Audit-Trail Vier-Augen-Prinzip. Output ICP-Handbuch mit Richtlinien Kontrollmatrix Eskalationswegen und Schulungsplan. Abgrenzung zu geldwäsche-risikoanalyse-unternehmen und geldwäsche-audit-internal-revision.
 
 # Interne Sicherungsmaßnahmen und ICP
 
@@ -97,7 +97,7 @@ Dieser Skill übersetzt Risikoanalyse in ein funktionierendes Compliance-System 
 
 ## 2. `geldwaesche-simulation-testlauf`
 
-**Frühere Beschreibung:** Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision.
+**Fokus:** Simulation eines Compliance-Arbeitstags mit Onboarding Alerts Verdachtsprüfung und Behoerdenfragen. Anwendungsfall Team will GwG-Workflows trainieren oder Plugin demonstrieren. Deckt Onboarding Alert UBO-Luecke Sanktionshit Verdachtsprüfung Schulung und Behoerdenfrage ab. Output Simulationsprotokoll mit Tagesereignissen Fehlerhinweisen und Lernnotizen. Abgrenzung zu geldwäsche-kommandocenter (Echtbetrieb) und geldwäsche-audit-internal-revision.
 
 # AML/KYC-Simulationsmodus
 
@@ -166,7 +166,7 @@ Dieser Skill erlaubt Testläufe ohne echte Mandatsdaten und zeigt Lücken im Kon
 
 ## 3. `geldwaesche-transaktionsmonitoring`
 
-**Frühere Beschreibung:** Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwäscherisiko prüfen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Prüfraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschäftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldeprüfung. Abgrenzung zu geldwäsche-sanktionsscreening und geldwäsche-verdachtsmeldung-fiu-goaml.
+**Fokus:** Erkennung auffälliger Transaktionsmuster und Red-Flags im Zahlungsverkehr nach GwG. Anwendungsfall Bank oder Zahlungsdienstleister will Transaktion auf Geldwäscherisiko prüfen. Normen § 10 Abs. 1 Nr. 5 GwG Transaktionsmonitoring § 43 GwG Verdachtsmeldepflicht FATF-Guidance Typologien. Prüfraster Barzahlungen Split-Payments Offshore-Strukturen Durchlaufkonten Round-Tripping ungewoehnliche Geschäftslogik. Output Transaktions-Risikoprotokoll mit Red-Flag-Kennzeichnung Schwellenwertberechnung und Meldeprüfung. Abgrenzung zu geldwäsche-sanktionsscreening und geldwäsche-verdachtsmeldung-fiu-goaml.
 
 # Transaktionsmonitoring und Red Flags
 

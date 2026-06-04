@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-nkr-evaluierung-befr-bis-nkr-verfahrensgang-r
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (nkr-evaluierung-befristung-sunset-klausel, nkr-verfahrensgang-referentenentwurf-bis-bundestag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Evaluierung Befristung Sunset Klausel, Nkr Verfahrensgang Referentenentwurf Bis Bundestag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Evaluierung Befristung Sunset Klausel, Nkr Verfahrensgang Referentenentwurf Bis Bundestag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-evaluierung-befristung-sunset-klausel` | Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten. |
 | `nkr-verfahrensgang-referentenentwurf-bis-bundestag` | Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-evaluierung-befristung-sunset-klausel`
 
-**Frühere Beschreibung:** Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten.
+**Fokus:** Praxis-Skill zur Empfehlung von Evaluierungsklauseln Befristungen und Sunset-Klauseln. Beschreibt wann der NKR welches Instrument empfiehlt welche Indikatoren noetig sind und wie die Klauseltechnik im Gesetzestext aussieht. Mit Klausel-Vorlagen Fristempfehlungen und Indikatorlisten.
 
 # NKR-Evaluierung, Befristung, Sunset-Klausel
 
@@ -155,7 +155,7 @@ Rueckfrage nur wenn unklar: *"Soll die Empfehlung lauten: Evaluierung, Befristun
 
 ## 2. `nkr-verfahrensgang-referentenentwurf-bis-bundestag`
 
-**Frühere Beschreibung:** Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung.
+**Fokus:** Skizziert den Verfahrensgang eines Vorhabens von der Ressortidee ueber Referentenentwurf Ressortabstimmung NKR-Befassung Laender- und Verbaendeanhoerung Kabinett Bundesrat Bundestag und Verkuendung mit den jeweiligen NKR-Andockpunkten und kritischen Fristen. Liefert eine Phase-zu-Andockpunkt-Tabelle und Standardvermerke zur Fristplanung.
 
 # NKR-Verfahrensgang Referentenentwurf bis Bundestag
 

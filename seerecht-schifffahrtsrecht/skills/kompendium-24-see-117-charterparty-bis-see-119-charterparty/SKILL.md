@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-see-117-charterparty-bis-see-119-charterparty
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (see-117-charterparty-local-counsel-instruieren, see-118-charterparty-closing-planen, see-119-charterparty-klagepfad-waehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 117 Charterparty Local Counsel Instruieren, See 118 Charterparty Closing Planen, See 119 Charterparty Klagepfad Waehlen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 117 Charterparty Local Counsel Instruieren, See 118 Charterparty Closing Planen, See 119 Charterparty Klagepfad Waehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-117-charterparty-local-counsel-instruieren` | Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. |
 | `see-118-charterparty-closing-planen` | Charterparty: Closing eines Gechartertes Seeschiff unter Charterparty-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-117-charterparty-local-counsel-instruieren`
 
-**Frühere Beschreibung:** Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Charterparty: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Gechartertes Seeschiff unter Charterparty im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Charterparty – Local Counsel instruieren
 
@@ -119,7 +119,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 2. `see-118-charterparty-closing-planen`
 
-**Frühere Beschreibung:** Charterparty: Closing eines Gechartertes Seeschiff unter Charterparty-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Charterparty: Closing eines Gechartertes Seeschiff unter Charterparty-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Charterparty – Closing planen
 
@@ -212,7 +212,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 3. `see-119-charterparty-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Charterparty: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Gechartertes Seeschiff unter Charterparty: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Charterparty – Klagepfad wählen
 

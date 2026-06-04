@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-vc-022-series-b-grow-bis-vc-025-pro-rata-supe
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (vc-022-series-b-growth, vc-023-bridge-round-inside-round, vc-024-follow-on-reserve-strategy, vc-025-pro-rata-super-pro-rata) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 022 Series B Growth, Vc 023 Bridge Round Inside Round, Vc 024 Follow On Reserve Strategy, Vc 025 Pro Rata Super Pro Rata; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - venture-capital-geber
+# Arbeitsbereich - Vc 022 Series B Growth bis Vc 025 Pro Rata Super Pro Rata
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-022-series-b-growth` | Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile. |
 | `vc-023-bridge-round-inside-round` | Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-022-series-b-growth`
 
-**Frühere Beschreibung:** Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile.
+**Fokus:** Prüft größere Runden, Internationalisierung, Venture Debt, Governance, CFIUS/FDI, M&A-Readiness und Secondary-Anteile.
 
 # Series B und Growth-Runde
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-023-bridge-round-inside-round`
 
-**Frühere Beschreibung:** Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren.
+**Fokus:** Prüft Brückenfinanzierung, Insider-Runde, Runway, Milestones, Downside-Schutz und Fairness gegenüber Altinvestoren.
 
 # Bridge Round und Inside Round
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-024-follow-on-reserve-strategy`
 
-**Frühere Beschreibung:** Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten.
+**Fokus:** Plant Reserven, pro rata, super pro rata, ownership targets, signal risk und Opportunitätskosten.
 
 # Follow-on-Reserve-Strategie
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-025-pro-rata-super-pro-rata`
 
-**Frühere Beschreibung:** Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte.
+**Fokus:** Prüft Bezugsrechte, vertragliche pro-rata-Rechte, super-pro-rata-Spielräume und Informationsrechte.
 
 # Pro rata und Super pro rata
 

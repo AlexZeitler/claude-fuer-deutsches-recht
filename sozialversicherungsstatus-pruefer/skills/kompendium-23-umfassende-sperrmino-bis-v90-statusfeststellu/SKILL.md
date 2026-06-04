@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-umfassende-sperrmino-bis-v90-statusfeststellu
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (umfassende-sperrminoritaet, unternehmerisches-risiko, urlaub-krankheit-fortzahlung, v90-statusfeststellung-geschaeftsfuehrer-lehrer-freelancer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umfassende Sperrminoritaet, Unternehmerisches Risiko, Urlaub Krankheit Fortzahlung, V90 Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Umfassende Sperrminoritaet bis V90 Statusfeststellung Geschaeftsfuehrer Lehrer Freelancer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umfassende-sperrminoritaet` | Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF. |
 | `unternehmerisches-risiko` | Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umfassende-sperrminoritaet`
 
-**Frühere Beschreibung:** Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF.
+**Fokus:** Vertieft die Anforderungen an eine umfassende statusrelevante Sperrminorität bei Gesellschafter-GF.
 
 # Umfassende Sperrminorität
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `unternehmerisches-risiko`
 
-**Frühere Beschreibung:** Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt.
+**Fokus:** Prüft echtes Unternehmerrisiko, Kapitaleinsatz, Gewinnchance, Verlustgefahr, Gewährleistung und Marktauftritt.
 
 # Unternehmerisches Risiko
 
@@ -158,7 +158,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `urlaub-krankheit-fortzahlung`
 
-**Frühere Beschreibung:** Prüft Urlaubs-, Krankheits-, Ausfall- und Vertretungsregeln als Statusindizien.
+**Fokus:** Prüft Urlaubs-, Krankheits-, Ausfall- und Vertretungsregeln als Statusindizien.
 
 # Urlaub Krankheit Fortzahlung
 
@@ -223,7 +223,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `v90-statusfeststellung-geschaeftsfuehrer-lehrer-freelancer`
 
-**Frühere Beschreibung:** Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern.
+**Fokus:** Prüft § 7 SGB IV und § 7a SGB IV mit aktueller BSG-Linie zu Minderheitsgeschäftsführern, mittelbarer Beteiligung, Dozenten und projektbezogenen Freelancern.
 
 # Statusfeststellung: Geschäftsführer, Lehrende, Freelancer und Scheinselbstständigkeit
 

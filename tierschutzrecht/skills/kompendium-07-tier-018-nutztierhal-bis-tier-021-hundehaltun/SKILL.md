@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-tier-018-nutztierhal-bis-tier-021-hundehaltun
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (tier-018-nutztierhaltung-kontrolle, tier-019-tierschutzverein-handlungsoptionen, tier-020-beweisfotos-und-datenschutz, tier-021-hundehaltung-schutzbedarf-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 018 Nutztierhaltung Kontrolle, Tier 019 Tierschutzverein Handlungsoptionen, Tier 020 Beweisfotos Und Datenschutz, Tier 021 Hundehaltung Schutzbedarf Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - tierschutzrecht
+# Arbeitsbereich - Tier 018 Nutztierhaltung Kontrolle bis Tier 021 Hundehaltung Schutzbedarf Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-018-nutztierhaltung-kontrolle` | Tierschutzrecht: Nutztierhaltung Kontrolle. Nutztierhaltung Kontrolle im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `tier-019-tierschutzverein-handlungsoptionen` | Tierschutzrecht: Tierschutzverein Handlungsoptionen. Tierschutzverein Handlungsoptionen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-018-nutztierhaltung-kontrolle`
 
-**Frühere Beschreibung:** Tierschutzrecht: Nutztierhaltung Kontrolle. Nutztierhaltung Kontrolle im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Nutztierhaltung Kontrolle. Nutztierhaltung Kontrolle im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Nutztierhaltung Kontrolle
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-019-tierschutzverein-handlungsoptionen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tierschutzverein Handlungsoptionen. Tierschutzverein Handlungsoptionen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Tierschutzverein Handlungsoptionen. Tierschutzverein Handlungsoptionen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierschutzverein Handlungsoptionen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-020-beweisfotos-und-datenschutz`
 
-**Frühere Beschreibung:** Tierschutzrecht: Beweisfotos und Datenschutz. Beweisfotos und Datenschutz im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Beweisfotos und Datenschutz. Beweisfotos und Datenschutz im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Beweisfotos Und Datenschutz
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-021-hundehaltung-schutzbedarf-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Hundehaltung: Schutzbedarf prüfen. Schutzbedarf prüfen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Hundehaltung: Schutzbedarf prüfen. Schutzbedarf prüfen für Hundehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hundehaltung Schutzbedarf Pruefen
 

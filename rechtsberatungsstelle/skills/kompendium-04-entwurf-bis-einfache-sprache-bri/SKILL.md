@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-entwurf-bis-einfache-sprache-bri
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (entwurf, einarbeitung, einfache-sprache-briefe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entwurf, Einarbeitung, Einfache Sprache Briefe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - rechtsberatungsstelle
+# Arbeitsbereich - Entwurf, Einarbeitung, Einfache Sprache Briefe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entwurf` | Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt. |
 | `einarbeitung` | Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entwurf`
 
-**Frühere Beschreibung:** Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt.
+**Fokus:** Erstellt einen Erstentwurf häufiger Schriftstücke der Rechtsberatungsstelle — Rechtsgebiet-spezifische Muster (Widerspruchsschreiben, Mietrechtsbriefe, Klageschriften im Beratungshilfe-Kontext, Mahnschreiben), § 6 RDG-konforme Formulierung, ausdrücklich als Ausgangspunkt mit anschließender Studierenden- Analyse und Supervisoren-Freigabe. Lädt, wenn ein Studierender einen ersten Entwurf eines Schriftsatzes, Briefes, Antrags oder sonstigen Schriftstücks der Klinik benötigt.
 
 # Schriftsatzentwurf: Erstentwurf-Erstellung
 
@@ -178,7 +178,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 2. `einarbeitung`
 
-**Frühere Beschreibung:** Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte.
+**Fokus:** Semestereinarbeitung für neue studentische Berater — Einführung in die Beratungsstellenstruktur, RDG-Grundlagen, Toolwalkthrough und Übungsaufgaben vor dem ersten echten Mandat. Liest das vom Supervisor hinterlegte Handbuch und vermittelt es interaktiv. Lädt, wenn ein neuer studentischer Berater "Einarbeitung starten", "ich bin neu in der Klinik", "Einführung" sagt oder zu Semesterbeginn gestartet wird; `--karte` für die einseitige Referenzkarte.
 
 # Einarbeitung: Semestereinarbeitung
 
@@ -339,7 +339,7 @@ Teil 4: Verifikationsgewohnheiten besprochen. Abschluss: `/einarbeitung --karte`
 
 ## 3. `einfache-sprache-briefe`
 
-**Frühere Beschreibung:** Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Prüfraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Übersetzung in einfacher Sprache mit Erklärung der naechsten Schritte. Abgrenzung zu Mandantenbrief für foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin.
+**Fokus:** Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Prüfraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Übersetzung in einfacher Sprache mit Erklärung der naechsten Schritte. Abgrenzung zu Mandantenbrief für foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin.
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`
 

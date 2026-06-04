@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-aktenauszug-struktur-bis-akzg-vertraulichkeit
-description: "aktenauszug-gerichtsverfahren: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (aktenauszug-strukturpruefung, akzg-aktenauszug-bauleiter, akzg-vertraulichkeit-redaction-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenauszug-gerichtsverfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aktenauszug Strukturpruefung, Akzg Aktenauszug Bauleiter, Akzg Vertraulichkeit Redaction Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - aktenauszug-gerichtsverfahren
+# Arbeitsbereich - Aktenauszug Strukturpruefung, Akzg Aktenauszug Bauleiter, Akzg Vertraulichkeit Redaction Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aktenauszug-strukturpruefung` | Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check). |
 | `akzg-aktenauszug-bauleiter` | Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit fuer Berufung und Revision. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aktenauszug-strukturpruefung`
 
-**Frühere Beschreibung:** Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check).
+**Fokus:** Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check).
 
 # Aktenauszug — Strukturprüfung
 
@@ -149,7 +149,7 @@ Adressat: Sachbearbeiter / Kanzleiintern — Tonfall: sachlich-juristisch, präz
 
 ## 2. `akzg-aktenauszug-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit fuer Berufung und Revision.
+**Fokus:** Bauleiter Aktenauszug fuer Gerichtsverfahren: Sachverhalt, Streitstand, Beweisangebote, Schlussantraege. Pruefraster Vollstaendigkeit fuer Berufung und Revision.
 
 # AkzG: Aktenauszug Bauleiter
 
@@ -202,7 +202,7 @@ Dieser Skill gehoert zum Plugin `aktenauszug-gerichtsverfahren`. Er ergaenzt die
 
 ## 3. `akzg-vertraulichkeit-redaction-spezial`
 
-**Frühere Beschreibung:** Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Pruefraster fuer Akteneinsicht durch Dritte.
+**Fokus:** Spezialfall Vertraulichkeit und Redaction in Aktenauszuegen: Berufsgeheimnis, personenbezogene Daten, Konzerninterna. Pruefraster fuer Akteneinsicht durch Dritte.
 
 # AkzG: Vertraulichkeit Redaction
 

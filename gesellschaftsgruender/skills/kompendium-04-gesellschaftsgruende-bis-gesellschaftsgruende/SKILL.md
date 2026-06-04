@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (gesellschaftsgruender-intake-decision-tree, gesellschaftsgruender-kg-und-gmbhcokg, gesellschaftsgruender-mitarbeiterbeteiligung-esop-vsop, gesellschaftsgruender-rechtsformwahl, gesellschaftsgruender-share-classes-a-b-c) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Intake Decision Tree, Gesellschaftsgruender Kg Und Gmbhcokg, Gesellschaftsgruender Mitarbeiterbeteiligung Esop Vsop, Gesellschaftsgruender Rechtsformwahl und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Intake Decision Tree bis Gesellschaftsgruender Share Classes A B C
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-intake-decision-tree` | Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster. |
 | `gesellschaftsgruender-kg-und-gmbhcokg` | KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-intake-decision-tree`
 
-**Frühere Beschreibung:** Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster.
+**Fokus:** Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster.
 
 # Intake Decision Tree
 
@@ -572,7 +572,7 @@ NOTAR-PAKET: [ZIP erstellt: JA / NEIN]
 
 ## 2. `gesellschaftsgruender-kg-und-gmbhcokg`
 
-**Frühere Beschreibung:** KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung.
+**Fokus:** KG und GmbH und Co. KG gründen: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Prüfraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gründung.
 
 # KG und GmbH & Co. KG
 
@@ -691,7 +691,7 @@ Komplementaerin. Ihre Geschaeftsfuehrer sind
 
 ## 3. `gesellschaftsgruender-mitarbeiterbeteiligung-esop-vsop`
 
-**Frühere Beschreibung:** Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen.
+**Fokus:** Prüft Mitarbeiterbeteiligung, virtuelle Anteile, Vesting, Leaver und Steuer-/Arbeitsrechtsschnittstellen.
 
 # ESOP/VSOP Mitarbeiterbeteiligung
 
@@ -754,7 +754,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-rechtsformwahl`
 
-**Frühere Beschreibung:** Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Prüfraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gründungsunterlagen (separate Skills je Rechtsform).
+**Fokus:** Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Prüfraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gründungsunterlagen (separate Skills je Rechtsform).
 
 # Rechtsformwahl
 
@@ -1189,7 +1189,7 @@ NAECHSTE SCHRITTE:
 
 ## 5. `gesellschaftsgruender-share-classes-a-b-c`
 
-**Frühere Beschreibung:** Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Prüfraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht.
+**Fokus:** Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Prüfraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht.
 
 # Anteilsklassen A / B / C / Common
 

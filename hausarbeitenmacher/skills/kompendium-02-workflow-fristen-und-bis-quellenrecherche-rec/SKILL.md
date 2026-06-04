@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-fristen-und-bis-quellenrecherche-rec
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-fristen-und-risikoampel, workflow-redteam-qualitygate, quellenrecherche-rechtsprechung-literatur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - hausarbeitenmacher
+# Arbeitsbereich - Fristen Und Risikoampel, Redteam Qualitygate, Quellenrecherche Rechtsprechung Literatur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin hausarbeitenmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin hausarbeitenmacher: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin hausarbeitenmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin hausarbeitenmacher: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 # Fristen- und Risikoampel
 
@@ -75,7 +75,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team Qualitygate im Plugin hausarbeitenmacher: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
+**Fokus:** Red-Team Qualitygate im Plugin hausarbeitenmacher: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 # Red-Team Qualitygate
 
@@ -110,7 +110,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `quellenrecherche-rechtsprechung-literatur`
 
-**Frühere Beschreibung:** Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-prüfer.
+**Fokus:** Student sucht juristische Quellen für Hausarbeit: amtliche/freie Quellen und lizenzierte Datenbanken nur bei vorhandenem Zugang dejure openJur EUR-Lex Bibliotheksbestand. Frei verfuegbare Alternativen ohne Zugang. Normen Zitierstandards. Prüfraster Quellen-Vollständigkeit Aktualitaet Zugaenglichkeit Alternativ-Strategien. Output Quellen-Liste Recherche-Strategie Fundstellen-Tipps. Abgrenzung zu zitierweise-jura-fundstellen (Zitierformat) und kommentar-und-literatur-hinweis im subsumtions-prüfer.
 
 # Quellen-Recherche — Rechtsprechung und Literatur
 

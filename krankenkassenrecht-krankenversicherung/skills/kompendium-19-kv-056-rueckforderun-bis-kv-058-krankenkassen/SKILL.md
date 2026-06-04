@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-kv-056-rueckforderun-bis-kv-058-krankenkassen
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen, kv-057-erstattungsstreit-zwischen-leistungstraegern, kv-058-krankenkassenfusion-und-bestandsschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und Bestandsschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 056 Rueckforderung Zu Unrecht Erbrachter Leistungen, Kv 057 Erstattungsstreit Zwischen Leistungstraegern, Kv 058 Krankenkassenfusion Und B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen` | Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen. |
 | `kv-057-erstattungsstreit-zwischen-leistungstraegern` | Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-056-rueckforderung-zu-unrecht-erbrachter-leistungen`
 
-**Frühere Beschreibung:** Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen.
+**Fokus:** Rückforderung von GKV-Leistungen nach §§ 45 und 48 und 50 SGB X: Rücknahme, Widerruf, Erstattung; Vertrauensschutz und Verjährungsfristen.
 
 # Rückforderung zu Unrecht erbrachter Leistungen
 
@@ -108,7 +108,7 @@ Krankenkassen fordern manchmal Leistungen zurück, die sie zu Unrecht erbracht h
 
 ## 2. `kv-057-erstattungsstreit-zwischen-leistungstraegern`
 
-**Frühere Beschreibung:** Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung.
+**Fokus:** Erstattungsansprüche zwischen GKV, Pflegeversicherung, Rentenversicherung, Unfallversicherung und Sozialhilfe (§§ 102–115 SGB X): Voraussetzungen und Verjährung.
 
 # Erstattungsstreit zwischen Leistungsträgern
 
@@ -199,7 +199,7 @@ Wenn ein Leistungsträger an den Versicherten leistet, obwohl ein anderer Träge
 
 ## 3. `kv-058-krankenkassenfusion-und-bestandsschutz`
 
-**Frühere Beschreibung:** Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz.
+**Fokus:** Fusion von Krankenkassen nach §§ 171a ff. SGB V: Rechtsfolgen für Versicherte, Bestandsschutz für Tarife und Wahlarife, Schließung und Insolvenz.
 
 # Krankenkassenfusion und Bestandsschutz
 

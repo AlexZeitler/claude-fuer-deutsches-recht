@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-glaeubigerau-bis-insol-sanierungsgewi
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt, spezial-ueberschuldung-fristen-form-und-zustaendigkeit, do-versicherung-manager-haftung, insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Glaeubigerausschuss Fristennotiz Und Naechster Schritt, Ueberschuldung Fristen Form Und Zustaendigkeit, Do Versicherung Manager Haftung, Insol Sanierungsgewinn Iv Haftung Fuer Versaumte 3a Iv Antraege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - insolvenzrecht
+# Arbeitsbereich - Glaeubigerausschuss Fristennotiz Und Naechster Schritt bis Insol Sanierungsgewinn Iv Haftung Fuer Versaumte 3a Iv Antraege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt` | Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-ueberschuldung-fristen-form-und-zustaendigkeit` | Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-glaeubigerausschuss-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Glaeubigerausschuss: Fristennotiz und nächster Schritt im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Glaeubigerausschuss: Fristennotiz und nächster Schritt
 
@@ -89,7 +89,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ueberschuldung-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ueberschuldung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -172,7 +172,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `do-versicherung-manager-haftung`
 
-**Frühere Beschreibung:** Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherungsschutz in der Krise. Prüfraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso für die Haftung selbst.
+**Fokus:** Insolvenzverwalter verklagt Geschäftsführer und D&O-Versicherung soll Deckung prüfen oder Manager fragt nach Versicherungsschutz in der Krise. Prüfraster D&O-Versicherung Claims-made-Prinzip Schadensereignis vs. Anspruchserhebung. Insolvenz-spezifische Pflichten § 15a InsO Antragspflicht § 15b InsO Zahlungsverbot. Deckungs-Ausschluesse wissentliche Pflichtverletzung Vorsatz Selbstbedienung. BGH-Linie zur Insolvenz-Anfechtung Praemien-Zahlung. Output D&O-Deckungs-Memo mit Versicherungs-Lage und Pflichten des Versicherten. Abgrenzung: antragspflicht-15a-inso für die Haftung selbst.
 
 # D&O-Versicherung bei Manager-Haftung
 
@@ -538,7 +538,7 @@ Mit freundlichen Gruessen
 
 ## 4. `insol-sanierungsgewinn-iv-haftung-fuer-versaumte-3a-iv-antraege`
 
-**Frühere Beschreibung:** Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation.
+**Fokus:** Haftung des Insolvenzverwalters und Sachwalters nach Paragraph 60 InsO fuer versaeumte oder verspaetete Antraege rund um den Sanierungsertrag. Welche Pflichten treffen den IV im Steuerteil des Plans. Wann liegt eine schuldhafte Pflichtverletzung vor. Verteidigungsstrategie und Versicherungsdeckung. Mustertext fuer Verteidigungsschriftsatz und fuer praeventive Aktendokumentation.
 
 # Sanierungsgewinn — IV-Haftung fuer versaeumte Paragraph 3a-Antraege
 

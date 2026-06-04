@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-bautraeger-abnahme-f-bis-bautraeger-aufflassu
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (bautraeger-abnahme-formgerecht-640-bgb, bautraeger-abnahmefiktion-clause-unwirksam, bautraeger-anlagen-zur-baubeschreibung, bautraeger-aufflassungsvormerkung-883-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Abnahme Formgerecht 640 Bgb, Bautraeger Abnahmefiktion Clause Unwirksam, Bautraeger Anlagen Zur Baubeschreibung, Bautraeger Aufflassungsvormerkung 883 Bgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Abnahme Formgerecht 640 Bgb bis Bautraeger Aufflassungsvormerkung 883 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-abnahme-formgerecht-640-bgb` | Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster. |
 | `bautraeger-abnahmefiktion-clause-unwirksam` | Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-abnahme-formgerecht-640-bgb`
 
-**Frühere Beschreibung:** Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster.
+**Fokus:** Bautraeger-Abnahme formgerecht nach § 640 BGB. Skill klaert das Abnahmeverfahren die Voraussetzungen Vorbehalte (Maengelliste) und die Folgen der wirksamen Abnahme (Beginn Maengelhaftungsverjaehrung Umkehr Beweislast). Liefert Pruefraster.
 
 # Bautraeger Abnahme Formgerecht 640 Bgb
 
@@ -69,7 +69,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-abnahmefiktion-clause-unwirksam`
 
-**Frühere Beschreibung:** Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster.
+**Fokus:** Bautraeger-Abnahmefiktion-Klausel und Unwirksamkeit. Skill behandelt die haeufige Bautraeger-Klausel zur fiktiven Abnahme bei Einzug oder nach Frist die BGH-Linie zu deren Unwirksamkeit und die Konsequenzen. Liefert Pruefraster.
 
 # Bautraeger Abnahmefiktion Clause Unwirksam
 
@@ -106,7 +106,7 @@ oder
 
 ## 3. `bautraeger-anlagen-zur-baubeschreibung`
 
-**Frühere Beschreibung:** Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen.
+**Fokus:** Anlagen zur Baubeschreibung beim Bautraegervertrag. Skill listet typische Anlagen Plaene Grundriss Schnitt Ansicht Wohnflaechenberechnung Energieausweis Teilungserklaerung. Folgen fehlender oder veralteter Anlagen.
 
 # Bautraeger Anlagen Zur Baubeschreibung
 
@@ -156,7 +156,7 @@ oder
 
 ## 4. `bautraeger-aufflassungsvormerkung-883-bgb`
 
-**Frühere Beschreibung:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
+**Fokus:** Aufflassungsvormerkung § 883 BGB beim Bautraegervertrag. Skill klaert die zentrale Schutzfunktion der Vormerkung Rang Eintragung Voraussetzungen und Konsequenzen fuer den Erwerber bei Bautraegerinsolvenz. Liefert Pruefraster.
 
 # Bautraeger Aufflassungsvormerkung 883 Bgb
 

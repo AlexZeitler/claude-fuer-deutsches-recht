@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-dsv-rechtsprechung-i-bis-fachanwalt-it-recht
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (dsv-rechtsprechung-immaterieller-schaden-bgh-olg, spezial-saas-fristen-form-und-zustaendigkeit, spezial-vertrag-fristennotiz-und-naechster-schritt, fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr, fachanwalt-it-recht-saas-vertrag-verhandlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Rechtsprechung Immaterieller Schaden Bgh Olg, Saas Fristen Form Und Zustaendigkeit, Vertrag Fristennotiz Und Naechster Schritt, It Recht It Vertrag Verhandlung Eu Odr und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Rechtsprechung Immaterieller Schaden Bgh Olg bis It Recht Saas Vertrag Verhandlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-rechtsprechung-immaterieller-schaden-bgh-olg` | Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung. |
 | `spezial-saas-fristen-form-und-zustaendigkeit` | Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-rechtsprechung-immaterieller-schaden-bgh-olg`
 
-**Frühere Beschreibung:** Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung.
+**Fokus:** Analysiert die deutsche Rechtsprechung zum immateriellen Schadensersatz nach Art. 82 DSGVO im Lichte der EuGH-Vorgaben. Behandelt: BGH-Entscheidungen zur Substantiierung; OLG-Linien zur Bagatellschwelle; OLG-Entscheidungen zur Beweislast bei Kontrollverlust; LG-Streuung bei Datenleck-Massenklagen; Schmerzensgeldgrößen; Kausalitäts-anforderungen. Output: Rechtsprechungs-Übersicht mit Begründungslinien. Abgrenzung: keine konkrete Verteidigung.
 
 # Rechtsprechung BGH und OLG zum immateriellen Schaden Art. 82 DSGVO
 
@@ -80,7 +80,7 @@ Verifikationsschritt: vor jeder Zitation prüfen — wegen Quellenregel keine Zi
 
 ## 2. `spezial-saas-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Saas: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Saas: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -140,7 +140,7 @@ Härtere SLA-Klauseln nutzen wenig, wenn die Lebenswirklichkeit fehlt: Service C
 
 ## 3. `spezial-vertrag-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt it recht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vertrag: Fristennotiz und nächster Schritt
 
@@ -204,7 +204,7 @@ Schnelle Kündigung wirkt entschlossen, bringt aber selten Software wieder zum L
 
 ## 4. `fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr`
 
-**Frühere Beschreibung:** IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
+**Fokus:** IT-Vertragsverhandlung SaaS Cloud Lizenz mit Schlichtungsklauseln und EU-ODR-Optionen. Anwendungsfall IT-Vertrag soll verhandelt werden und Streitbeilegungsklauseln muessen aktuell gestaltet werden. Normen BGB §§ 305 ff. AGB-Kontrolle VSBG Verbraucherstreitbeilegung AI Act Art. 85 Beschwerdebearbeitung DGRI-Mediation. Prüfraster Vertragsklauseln Eskalationsverfahren Schiedsklausel ODR-Plattform nach Abschaltung Juli 2025 Streitbeilegungsoptionen. Output IT-Vertragsklausel-Paket mit Eskalationsverfahren und Streitbeilegungsformulierung. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
 
 # IT-Vertrag-Verhandlung / EU-ODR
 
@@ -376,7 +376,7 @@ Nächster Termin: [DATUM]
 
 ## 5. `fachanwalt-it-recht-saas-vertrag-verhandlung`
 
-**Frühere Beschreibung:** SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen.
+**Fokus:** SaaS-Vertragsverhandlung mit Datenschutz Verfuegbarkeit Vendor-Lock-in und Exit-Klausel. Anwendungsfall SaaS-Vertrag soll verhandelt oder geprüft werden und IT-rechtliche Pflicht-Klauseln muessen geprüft werden. Normen Art. 28 DSGVO AVV § 309 BGB AGB-Kontrolle §§ 327 ff. BGB Digitale Produkte EVB-IT. Prüfraster SLA Verfuegbarkeit Datenschutz-AVV Wartung Sicherheitsupdates Vendor-Lock-in Exit-Klausel Datenmigration Haftung Datenlokation Schrems-II SCC. Output Vertragsmark-up mit kommentierten Klauseln Verhandlungsprioritaeten und Datenschutz-Risikoeinschaetzung. Abgrenzung zu fachanwalt-it-recht-it-vertrag-verhandlung-eu-odr und softwarefehler-mangelhaftung-prüfen.
 
 # SaaS-Vertrag — Prüfung und Verhandlung
 

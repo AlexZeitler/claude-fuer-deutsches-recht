@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-europarecht-richtlin-bis-europarecht-verordnu
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (europarecht-richtlinie-umsetzung, europarecht-simulation-behoerde-gericht, europarecht-verordnung-beschluss-soft-law) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Richtlinie Umsetzung, Europarecht Simulation Behoerde Gericht, Europarecht Verordnung Beschluss Soft Law; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - europarecht-kompass
+# Arbeitsbereich - Europarecht Richtlinie Umsetzung, Europarecht Simulation Behoerde Gericht, Europarecht Verordnung Beschluss Soft Law
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-richtlinie-umsetzung` | EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law). |
 | `europarecht-simulation-behoerde-gericht` | Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-richtlinie-umsetzung`
 
-**Frühere Beschreibung:** EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law).
+**Fokus:** EU-Richtlinie in nationales Recht umsetzen oder Umsetzungsdefizit prüfen. Art. 288 AEUV Richtlinienwirkung Art. 267 AEUV Vorabentscheidung. Prüfraster: Umsetzungsfrist Umsetzungsdefizit Direktwirkung richtlinienkonforme Auslegung Staatshaftung Francovich. Output: Umsetzungsanalyse Defizit-Memo Handlungsempfehlung. Abgrenzung: nicht für Verordnungen (europarecht-verordnung-beschluss-soft-law).
 
 # Richtlinie und Umsetzung
 
@@ -133,7 +133,7 @@ Zustaendiges Gericht fuer Vorlage: [...]
 
 ## 2. `europarecht-simulation-behoerde-gericht`
 
-**Frühere Beschreibung:** Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh).
+**Fokus:** Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Prüfraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht für Klageentwuerfe (europarecht-klagearten-eugh).
 
 # Simulation Behörde, Gericht und Kommission
 
@@ -213,7 +213,7 @@ HANDLUNGSEMPFEHLUNG:
 
 ## 3. `europarecht-verordnung-beschluss-soft-law`
 
-**Frühere Beschreibung:** EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung).
+**Fokus:** EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung).
 
 # Verordnung, Beschluss und Soft Law
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-db-017-b2b-kundendat-bis-db-019-datenbank-als
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (db-017-b2b-kundendaten-crm-export-durch-mitarbeiter, db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette, db-019-datenbank-als-kreditsicherheit-due-diligence) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 017 B2b Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsicherheit Due Diligence; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - datenbankrecht
+# Arbeitsbereich - Db 017 B2b Kundendaten Crm Export Durch Mitarbeiter, Db 018 Datenbank In Insolvenz Asset Deal Und Rechtekette, Db 019 Datenbank Als Kreditsic
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter` | Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln. |
 | `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette` | Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-017-b2b-kundendaten-crm-export-durch-mitarbeiter`
 
-**Frühere Beschreibung:** Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln.
+**Fokus:** Analysiert Datenbankherstellerrecht (§§ 87a-87e UrhG) und GeschGehG bei CRM-Datenbankexporten durch ausscheidende Mitarbeiter: Verletzungstatbestände, arbeitsrechtliche Sanktionen, einstweilige Verfügung sowie DSGVO-Pflichten bei unrechtmäßiger Datenweitergabe. Erstellt Präventionskonzept mit technischen Schutzmaßnahmen und Vertragsklauseln.
 
 # B2B-Kundendaten und CRM-Export durch Mitarbeiter — Datenbankrecht und Arbeitsrecht
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-018-datenbank-in-insolvenz-asset-deal-und-rechtekette`
 
-**Frühere Beschreibung:** Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse.
+**Fokus:** Datenbankrecht in der Insolvenz: Übergang von Datenbankherstellerrechten (§§ 87a-87e UrhG) im Insolvenzverfahren und Asset Deal, Due-Diligence-Prüfung der Rechtekette, Freigabe durch den Insolvenzverwalter und DSGVO-Pflichten bei Übertragung personenbezogener Datensätze. Erstellt Transaktions-Checkliste für Datenbankrechte-Erwerb aus Insolvenzmasse.
 
 # Datenbank in der Insolvenz — Asset Deal und Rechtekette
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-019-datenbank-als-kreditsicherheit-due-diligence`
 
-**Frühere Beschreibung:** Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte.
+**Fokus:** Bewertet Datenbankrechte (§§ 87a-87e UrhG) als Kreditsicherheit: Verpfändung und Sicherungsübertragung von Datenbankherstellerrecht, Due-Diligence-Prüfung für Kreditgeber (Investitionsnachweis, Schutzdauer, Verletzungsfreiheit) und Verwertung im Sicherungsfall. Analysiert Bankpraxis und erstellt IP-Sicherheitenprüfbogen für Datenbankrechte.
 
 # Datenbank als Kreditsicherheit — Due Diligence für Kreditgeber
 

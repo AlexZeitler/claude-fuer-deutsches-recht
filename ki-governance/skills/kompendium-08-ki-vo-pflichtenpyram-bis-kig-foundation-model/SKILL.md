@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ki-vo-pflichtenpyram-bis-kig-foundation-model
-description: "ki-governance: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ki-vo-pflichtenpyramide-einfuehrung, kig-ai-act-rollenmodell-bauleiter, kig-foundation-model-anbieterpflichten-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - ki-governance
+# Arbeitsbereich - Ki Vo Pflichtenpyramide Einfuehrung, Kig Ai Act Rollenmodell Bauleiter, Kig Foundation Model Anbieterpflichten Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-vo-pflichtenpyramide-einfuehrung` | Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage. |
 | `kig-ai-act-rollenmodell-bauleiter` | Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-vo-pflichtenpyramide-einfuehrung`
 
-**Frühere Beschreibung:** Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage.
+**Fokus:** Pflichtenpyramide KI-VO einfuehrend: verbotene KI Art. 5, Hochrisiko-KI Art. 6 in Verbindung mit Anhang III, GPAI (General Purpose AI) Art. 51 ff., begrenztes Risiko mit Transparenzpflichten Art. 50, minimales Risiko. Tabellarische Uebersicht mit Pflichten je Stufe. Routet in anwendungsfall-triage.
 
 # KI-VO Pflichtenpyramide
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 2. `kig-ai-act-rollenmodell-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle.
+**Fokus:** Bauleiter AI-Act-Rollenmodell: Anbieter, Betreiber, Importeur, Vertriebshaendler, Bevollmaechtigter. Pruefraster fuer Identifikation und Pflichtenkatalog je Rolle.
 
 # KIG: AI-Act-Rollenmodell
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `ki-governance`. Er ergaenzt die uebrigen Skills
 
 ## 3. `kig-foundation-model-anbieterpflichten-spezial`
 
-**Frühere Beschreibung:** Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster fuer Anbieter und Downstream-Deployer.
+**Fokus:** Spezialfall Foundation Model und GPAI-Anbieterpflichten Art. 53 ff. AI Act: Transparenz, Trainingsdaten, systemisches Risiko ab Schwellenwert. Pruefraster fuer Anbieter und Downstream-Deployer.
 
 # KIG: GPAI Anbieterpflichten
 

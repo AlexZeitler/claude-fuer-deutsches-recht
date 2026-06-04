@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-infl-015-minderjaehr-bis-infl-017-heilmittel
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz, infl-016-gewinnspiel-teilnahmebedingungen-datenschutz, infl-017-heilmittel-nahrungsergaenzung-health-claims) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Nahrungsergaenzung Health Claims; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - influencer-recht
+# Arbeitsbereich - Infl 015 Minderjaehrige Creator Eltern Zustimmung Jugendschutz, Infl 016 Gewinnspiel Teilnahmebedingungen Datenschutz, Infl 017 Heilmittel Na
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz` | Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht. |
 | `infl-016-gewinnspiel-teilnahmebedingungen-datenschutz` | Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-015-minderjaehrige-creator-eltern-zustimmung-jugendschutz`
 
-**Frühere Beschreibung:** Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht.
+**Fokus:** Influencer-Recht: Minderjährige Creator – elterliche Einwilligung, Jugendschutz, JuSchG, JMStV, Kooperationsverträge und Vermögensrecht.
 
 # Influencer-Recht: Minderjährige Creator – Eltern, Jugendschutz, Vertragsrecht
 
@@ -98,7 +98,7 @@ Minderjährige Creator unterliegen einem besonders dichten Schutzregime:
 
 ## 2. `infl-016-gewinnspiel-teilnahmebedingungen-datenschutz`
 
-**Frühere Beschreibung:** Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB.
+**Fokus:** Influencer-Recht: Gewinnspiele auf Social Media – rechtssichere Teilnahmebedingungen, Datenschutz, Impressumspflicht und Plattform-AGB.
 
 # Influencer-Recht: Gewinnspiel – Teilnahmebedingungen, Datenschutz
 
@@ -169,7 +169,7 @@ Gewinnspiele sind ein rechtlich komplexes Feld mit mehreren Schutzregimen:
 
 ## 3. `infl-017-heilmittel-nahrungsergaenzung-health-claims`
 
-**Frühere Beschreibung:** Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken.
+**Fokus:** Influencer-Recht: Werbung für Heilmittel und Nahrungsergänzungsmittel – HWG, HCVO, Health Claims, verbotene Aussagen und Haftungsrisiken.
 
 # Influencer-Recht: Heilmittel, Nahrungsergänzung und Health Claims
 

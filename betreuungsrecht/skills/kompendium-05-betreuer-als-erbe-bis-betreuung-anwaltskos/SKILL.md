@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-betreuer-als-erbe-bis-betreuung-anwaltskos
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (betreuer-als-erbe, betreuer-registrierung, betreuung-anwaltskosten-rvg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - betreuungsrecht
+# Arbeitsbereich - Betreuer Als Erbe, Betreuer Registrierung, Betreuung Anwaltskosten Rvg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betreuer-als-erbe` | Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `betreuer-registrierung` | Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betreuer-als-erbe`
 
-**Frühere Beschreibung:** Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu betreuer als erbe. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Betreuer als Erbe und Beschenkter
 
@@ -189,7 +189,7 @@ Pinpoint-Zitierung mit Randnummer und juengere Entscheidungen zuerst.
 
 ## 2. `betreuer-registrierung`
 
-**Frühere Beschreibung:** Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'.
+**Fokus:** Erklärt die Abgrenzung beruflicher / ehrenamtlicher (privater) Betreuer nach BtOG seit 01.01.2023 sowie den Weg zur Registrierung als beruflicher Betreuer nach Paragraphen 23 ff. BtOG und der Betreuerregistrierungsverordnung. Behandelt Sachkundenachweis (270 Stunden, Anerkennung für Volljuristen und Sozialarbeiter), Berufshaftpflicht 250000 EUR pro Fall und 1000000 EUR jaehrlich, Eignungsgespraech bei der Stammbehoerde, Vergueturung nach VBVG, Bestandsbetreuer-Übergangsregelung Paragraph 32 BtOG, Subsidiaritaetsprinzip Paragraph 1816 Abs. 5 BGB. Verwenden bei Fragen wie 'Wie werde ich Berufsbetreuer', 'Sachkunde Betreuer', 'Anerkennung als Volljurist', 'Vergueturung Betreuer', 'Berufshaftpflicht Betreuer', 'Subsidiaritaet ehrenamtlich beruflich'.
 
 # Berufliche und ehrenamtliche Betreuung; Weg zur Registrierung
 
@@ -363,7 +363,7 @@ Bei Beratung zur Berufsbetreuung immer mitnehmen:
 
 ## 3. `betreuung-anwaltskosten-rvg`
 
-**Frühere Beschreibung:** Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten.
+**Fokus:** Anwaltskosten im Betreuungsverfahren: RVG, Verfahrenspflegerbestellung, Verfahrenskostenhilfe nach § 76 FamFG. Empfehlung Mandantenkommunikation Kosten.
 
 # Betreuung: Anwaltskosten
 

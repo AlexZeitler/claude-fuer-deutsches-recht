@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-nkr-alternativen-pru-bis-nkr-aufgabe-und-komp
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (nkr-alternativen-pruefung-keine-regelung-soft-law, nkr-aufgabe-und-kompetenz-nkrg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Alternativen Pruefung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Alternativen Pruefung Keine Regelung Soft Law, Nkr Aufgabe Und Kompetenz Nkrg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-alternativen-pruefung-keine-regelung-soft-law` | Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat. |
 | `nkr-aufgabe-und-kompetenz-nkrg` | Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-alternativen-pruefung-keine-regelung-soft-law`
 
-**Frühere Beschreibung:** Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat.
+**Fokus:** Systematische Pruefung von Alternativen zur geplanten Regelung: Verzicht Selbstregulierung Brancheninitiative Empfehlung freiwillige Vereinbarung verbesserte Vollzugspraxis Verlaengerung bestehender Befristung. Liefert eine 5-Stufen-Hierarchie und Standardbausteine sowie Fragen die der NKR jedem Ressort stellt das eine Alternative nicht geprueft hat.
 
 # NKR-Alternativen-Pruefung — Verzicht, Soft-Law, Vollzug
 
@@ -131,7 +131,7 @@ Rueckfrage nur wenn unklar: *"Welche Alternativen wurden erwogen — Verzicht, f
 
 ## 2. `nkr-aufgabe-und-kompetenz-nkrg`
 
-**Frühere Beschreibung:** Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung.
+**Fokus:** Zeigt Aufgabe Zustaendigkeit Unabhaengigkeit und Befassungspflichten des Nationalen Normenkontrollrats nach NKRG. Erklaert insbesondere § 1 Einsetzung beim BMJ § 2 Erfuellungsaufwand § 3 Zusammensetzung § 4 Pruefung § 6 Stellungnahme und die institutionelle Stellung als Beratungs- und Kontrollgremium der Bundesregierung. Liefert Bausteine fuer interne Vermerke und Mandatsbrief sowie eine Kompetenz-Checkliste zur Abgrenzung.
 
 # NKR-Aufgabe und Kompetenz nach NKRG
 

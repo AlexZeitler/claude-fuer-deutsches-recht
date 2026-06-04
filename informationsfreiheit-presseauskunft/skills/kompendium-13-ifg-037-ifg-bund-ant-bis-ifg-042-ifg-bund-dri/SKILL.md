@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-ifg-037-ifg-bund-ant-bis-ifg-042-ifg-bund-dri
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (ifg-037-ifg-bund-antrag-formulieren, ifg-040-ifg-bund-kosten-deckeln, ifg-041-ifg-bund-schwaerzung-angreifen, ifg-042-ifg-bund-drittanhoerung-begleiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 037 Ifg Bund Antrag Formulieren, Ifg 040 Ifg Bund Kosten Deckeln, Ifg 041 Ifg Bund Schwaerzung Angreifen, Ifg 042 Ifg Bund Drittanhoerung Begleiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 037 Ifg Bund Antrag Formulieren bis Ifg 042 Ifg Bund Drittanhoerung Begleiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-037-ifg-bund-antrag-formulieren` | Informationsfreiheit und Presseauskunft: IFG Bund: Antrag formulieren. Antrag formulieren für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-040-ifg-bund-kosten-deckeln` | Informationsfreiheit und Presseauskunft: IFG Bund: Kosten deckeln. Kosten deckeln für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-037-ifg-bund-antrag-formulieren`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Antrag formulieren. Antrag formulieren für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Antrag formulieren. Antrag formulieren für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Antrag Formulieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-040-ifg-bund-kosten-deckeln`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Kosten deckeln. Kosten deckeln für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Kosten deckeln. Kosten deckeln für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Kosten Deckeln
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-041-ifg-bund-schwaerzung-angreifen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Schwärzung angreifen. Schwärzung angreifen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Schwärzung angreifen. Schwärzung angreifen für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Schwaerzung Angreifen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-042-ifg-bund-drittanhoerung-begleiten`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG Bund: Drittanhörung begleiten. Drittanhörung begleiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG Bund: Drittanhörung begleiten. Drittanhörung begleiten für IFG Bund im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ifg Bund Drittanhoerung Begleiten
 

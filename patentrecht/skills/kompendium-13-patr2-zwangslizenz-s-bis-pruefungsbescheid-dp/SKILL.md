@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-patr2-zwangslizenz-s-bis-pruefungsbescheid-dp
-description: "patentrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (patr2-zwangslizenz-spezial, pct-laenderstrategie-und-nationalphasen, pruefungsbescheid-dpma-epa-erwiderung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - patentrecht
+# Arbeitsbereich - Patr2 Zwangslizenz Spezial, Pct Laenderstrategie Und Nationalphasen, Pruefungsbescheid Dpma Epa Erwiderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patr2-zwangslizenz-spezial` | Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung: Voraussetzungen, EuGH Huawei / ZTE, kartellrechtliche Aspekte. Pruefraster fuer SEP-Inhaber und Implementer. |
 | `pct-laenderstrategie-und-nationalphasen` | Plant PCT-Anmeldungen und Nationalphasen: Priorität, ISA/IPEA-Bericht, Länderbudget, Übersetzungen, Eintrittsfristen, Schutzrechtsmix und Abbruchentscheidungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patr2-zwangslizenz-spezial`
 
-**Frühere Beschreibung:** Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung: Voraussetzungen, EuGH Huawei / ZTE, kartellrechtliche Aspekte. Pruefraster fuer SEP-Inhaber und Implementer.
+**Fokus:** Spezialfall Zwangslizenz § 24 PatG und FRAND-Verteidigung: Voraussetzungen, EuGH Huawei / ZTE, kartellrechtliche Aspekte. Pruefraster fuer SEP-Inhaber und Implementer.
 
 # PatR2: Zwangslizenz FRAND
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `patentrecht`. Er ergaenzt die uebrigen Skills d
 
 ## 2. `pct-laenderstrategie-und-nationalphasen`
 
-**Frühere Beschreibung:** Plant PCT-Anmeldungen und Nationalphasen: Priorität, ISA/IPEA-Bericht, Länderbudget, Übersetzungen, Eintrittsfristen, Schutzrechtsmix und Abbruchentscheidungen.
+**Fokus:** Plant PCT-Anmeldungen und Nationalphasen: Priorität, ISA/IPEA-Bericht, Länderbudget, Übersetzungen, Eintrittsfristen, Schutzrechtsmix und Abbruchentscheidungen.
 
 # PCT und Nationalphasen
 
@@ -139,7 +139,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 ## 3. `pruefungsbescheid-dpma-epa-erwiderung`
 
-**Frühere Beschreibung:** Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor: Beanstandungen, Entgegenhaltungen, Anspruchsänderungen, Argumentation zu Neuheit/erfinderischer Tätigkeit und Mandantenrückfragen.
+**Fokus:** Bereitet Erwiderungen auf Prüfungsbescheide von DPMA oder EPA vor: Beanstandungen, Entgegenhaltungen, Anspruchsänderungen, Argumentation zu Neuheit/erfinderischer Tätigkeit und Mandantenrückfragen.
 
 # Prüfungsbescheid DPMA/EPA
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ki-folgenabschaetzun-bis-ki-governance-mandat
-description: "ki-governance: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (ki-folgenabschaetzung, ki-governance-anpassen, ki-governance-mandat-arbeitsbereich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-governance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - ki-governance
+# Arbeitsbereich - Ki Folgenabschaetzung, Ki Governance Anpassen, Ki Governance Mandat Arbeitsbereich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-folgenabschaetzung` | KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis. |
 | `ki-governance-anpassen` | Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt "ändere mein [Ding]", "Profil aktualisieren", "Konfiguration bearbeiten", "Playbook anpassen" oder "anpassen". |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-folgenabschaetzung`
 
-**Frühere Beschreibung:** KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis.
+**Fokus:** KI-Folgenabschätzung (FRIA nach Art. 27 KI-VO + DSFA nach Art. 35 DSGVO) erstellen – strukturierte Aufnahme, Risikoanalyse, Regulierungsklassifizierung nach KI-VO und DSGVO, Richtlinien-Konsistenzprüfung und Empfehlung mit Bedingungen. Verwendet das Hausformat aus der Seed-Folgenabschätzung in der Praxisprofil-CLAUDE.md. Verwenden, wenn der Nutzer sagt "Folgenabschätzung für", "diesen KI-Anwendungsfall bewerten", "FRIA erstellen", "KI-Folgenabschätzung generieren", "wir müssen dieses KI-System dokumentieren", "KI-Risikoprüfung für X" oder nach einem bedingten Triage-Ergebnis.
 
 # /ki-folgenabschätzung – KI-Folgenabschätzung
 
@@ -481,7 +481,7 @@ Freigabe: [NAME], [DATUM]
 
 ## 2. `ki-governance-anpassen`
 
-**Frühere Beschreibung:** Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt "ändere mein [Ding]", "Profil aktualisieren", "Konfiguration bearbeiten", "Playbook anpassen" oder "anpassen".
+**Fokus:** Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte, Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments, Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn der Nutzer sagt "ändere mein [Ding]", "Profil aktualisieren", "Konfiguration bearbeiten", "Playbook anpassen" oder "anpassen".
 
 # /anpassen
 
@@ -636,7 +636,7 @@ Geaendert von: [NAME], [DATUM]
 
 ## 3. `ki-governance-mandat-arbeitsbereich`
 
-**Frühere Beschreibung:** Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet.
+**Fokus:** Mandats-Arbeitsbereiche verwalten – neu, liste, wechseln, schließen oder keines (Praxisebene). Datei- Verwaltungslogik, um den Kontext eines Mandanten oder Auftrags von jedem anderen zu trennen. Verwenden, wenn mandatsübergreifend gearbeitet wird, wenn der Nutzer sagt "neues Mandat", "Mandat wechseln", "Mandate auflisten", "Mandat schließen" oder wenn ein inhaltlicher Skill wissen muss, in welchem Mandat er arbeitet.
 
 # /mandat-arbeitsbereich
 

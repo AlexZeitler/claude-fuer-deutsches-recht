@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-replik-auf-klageerwi-bis-sachverstaendigenbew
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (replik-auf-klageerwiderung-systematik, richterlicher-hinweis-139-zpo-reaktion, sachverstaendigenbeweis-402-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Replik Auf Klageerwiderung Systematik, Richterlicher Hinweis 139 Zpo Reaktion, Sachverstaendigenbeweis 402 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `replik-auf-klageerwiderung-systematik` | Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen. |
 | `richterlicher-hinweis-139-zpo-reaktion` | Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `replik-auf-klageerwiderung-systematik`
 
-**Frühere Beschreibung:** Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen.
+**Fokus:** Replik als Klaeger-Antwort auf die Klageerwiderung. Pro Beklagten-Punkt Stellungnahme neuer Sachvortrag Beweisangebote substantiiertes Bestreiten der Beklagten-Behauptungen. Wann ist Replik notwendig wann reicht Schweigen.
 
 # Replik: Wie Sie als Klaeger auf die Klageerwiderung antworten
 
@@ -211,7 +211,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 ## 2. `richterlicher-hinweis-139-zpo-reaktion`
 
-**Frühere Beschreibung:** Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken.
+**Fokus:** Reaktion auf einen richterlichen Hinweis nach § 139 ZPO. Hinweispflicht des Gerichts Bedeutung des Hinweises welche Reaktion zu erwarten ist. Wie Sie auf Hinweise konstruktiv reagieren ohne Verfahrensvorteile zu verschenken.
 
 # Richterlicher Hinweis nach § 139 ZPO: Was tun?
 
@@ -351,7 +351,7 @@ Stand: 05/2026. § 139 ZPO unveraendert. BGH-Linie zur Hinweispflicht stabil.
 
 ## 3. `sachverstaendigenbeweis-402-zpo`
 
-**Frühere Beschreibung:** Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und wann reicht Privatgutachten.
+**Fokus:** Sachverständigenbeweis nach §§ 402 ff. ZPO. Antrag Kostenvorschuss Auswahl des Sachverständigen Privatgutachten als Urkunde Gerichtsgutachten Prüfung der Glaubwürdigkeit. Wann ist Sachverständigen-Beweis sinnvoll und wann reicht Privatgutachten.
 
 # Sachverstaendigenbeweis: Wenn Fachfrage entscheidet
 

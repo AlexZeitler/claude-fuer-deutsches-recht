@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-db-002-datenbankwerk-bis-db-004-wesentlicher
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung, db-003-datenbankherstellerrecht-wesentliche-investition, db-004-wesentlicher-teil-qualitativ-quantitativ-bestimmen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil Qualitativ Quantitativ Bestimmen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - datenbankrecht
+# Arbeitsbereich - Db 002 Datenbankwerk Schoepferische Auswahl Oder Anordnung, Db 003 Datenbankherstellerrecht Wesentliche Investition, Db 004 Wesentlicher Teil
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung` | Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche. |
 | `db-003-datenbankherstellerrecht-wesentliche-investition` | Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-002-datenbankwerk-schoepferische-auswahl-oder-anordnung`
 
-**Frühere Beschreibung:** Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche.
+**Fokus:** Prüft, ob eine Datenbank als Datenbankwerk nach § 4 Abs. 2 UrhG urheberrechtlich schutzfähig ist. Analysiert schöpferische Auswahl oder Anordnung der Elemente, grenzt zur bloßen Vollständigkeitssammlung ab, bewertet EuGH- und BGH-Rechtsprechung und liefert Schutzfähigkeitsgutachten für Mandanten aus Verlag, Forschung oder Softwarebranche.
 
 # Datenbankwerk: Schöpferische Auswahl oder Anordnung (§ 4 Abs. 2 UrhG)
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-003-datenbankherstellerrecht-wesentliche-investition`
 
-**Frühere Beschreibung:** Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG).
+**Fokus:** Analysiert das sui-generis-Datenbankherstellerrecht nach §§ 87a-87e UrhG und Art. 7 RL 96/9/EG. Schwerpunkt: Nachweis wesentlicher Investition in Beschaffung, Überprüfung oder Darstellung gemäß EuGH C-203/02 (BHB/William Hill). Erstellt Investitionsprotokoll, grenzt Datenerzeugung von Datenbeschaffung ab und bewertet Schutzdauer von 15 Jahren (§ 87d UrhG).
 
 # Datenbankherstellerrecht: Wesentliche Investition nachweisen
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-004-wesentlicher-teil-qualitativ-quantitativ-bestimmen`
 
-**Frühere Beschreibung:** Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer.
+**Fokus:** Bestimmt, ob eine Entnahme oder Weiterverwendung einen wesentlichen Teil einer Datenbank betrifft (§ 87b Abs. 1 UrhG / Art. 7 RL 96/9/EG). Analysiert quantitativen Umfang und qualitativen Wert des entnommenen Teils anhand EuGH C-203/02 und C-545/07. Erstellt Verletzungsmatrix und bewertet Beweislast für Hersteller und Verletzer.
 
 # Wesentlicher Teil einer Datenbank: qualitativ und quantitativ bestimmen
 

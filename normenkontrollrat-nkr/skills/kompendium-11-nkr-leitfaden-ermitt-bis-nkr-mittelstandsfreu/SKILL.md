@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-nkr-leitfaden-ermitt-bis-nkr-mittelstandsfreu
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (nkr-leitfaden-ermittlung-und-darstellung, nkr-mittelstandsfreundlichkeit-kmu-test) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Leitfaden Ermittlung Und Darstellung, Nkr Mittelstandsfreundlichkeit Kmu Test; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Leitfaden Ermittlung Und Darstellung, Nkr Mittelstandsfreundlichkeit Kmu Test
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-leitfaden-ermittlung-und-darstellung` | Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme. |
 | `nkr-mittelstandsfreundlichkeit-kmu-test` | KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefchecklisten fuer die Stellungnahme. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-leitfaden-ermittlung-und-darstellung`
 
-**Frühere Beschreibung:** Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme.
+**Fokus:** Strukturierter Ueberblick ueber den Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands (BMI / NKR) als methodische Hauptgrundlage. Beschreibt Aufbau Kapitelstruktur die zwingenden Darstellungsformen im Vorblatt und in der Begruendung sowie die Schnittstelle zur Stellungnahme. Mit Checkliste Pflicht-Bezugnahme in jeder NKR-Stellungnahme.
 
 # NKR-Leitfaden zur Ermittlung und Darstellung des Erfuellungsaufwands
 
@@ -134,7 +134,7 @@ In jeder NKR-Stellungnahme sollte am Beginn der methodischen Bewertung ein Satz 
 
 ## 2. `nkr-mittelstandsfreundlichkeit-kmu-test`
 
-**Frühere Beschreibung:** KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefchecklisten fuer die Stellungnahme.
+**Fokus:** KMU-Test (Small and Medium Enterprises Test) als Standardelement des NKR-Pruefrasters. Erklaert KMU-Definition Schwellenwerte differenzierte Aufwandsschaetzung und typische Entlastungsinstrumente (Ausnahmen Schwellen Uebergangsregelungen vereinfachte Verfahren). Mit Mustertabelle und Pruefchecklisten fuer die Stellungnahme.
 
 # NKR-Mittelstandsfreundlichkeit / KMU-Test
 

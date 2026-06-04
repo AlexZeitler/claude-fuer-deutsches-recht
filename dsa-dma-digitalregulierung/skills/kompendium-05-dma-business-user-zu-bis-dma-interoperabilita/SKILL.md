@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-dma-business-user-zu-bis-dma-interoperabilita
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (dma-business-user-zugang-spezial, dma-gatekeeper-schwellen-und-kernplattformdienste, dma-interoperabilitaet-messenger-art-7) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dma Business User Zugang Spezial, Dma Gatekeeper Schwellen Und Kernplattformdienste, Dma Interoperabilitaet Messenger Art 7
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dma-business-user-zugang-spezial` | Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster fuer Drittanbieter und Verhandlung mit Gatekeeper. |
 | `dma-gatekeeper-schwellen-und-kernplattformdienste` | Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dma-business-user-zugang-spezial`
 
-**Frühere Beschreibung:** Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster fuer Drittanbieter und Verhandlung mit Gatekeeper.
+**Fokus:** Spezialfall Business-User-Zugang zu Daten und Tools Art. 6 Abs. 9 ff. DMA: Datenportabilitaet in Echtzeit, FRAND-Zugang zu Schnittstellen und Funktionen, Reporting. Pruefraster fuer Drittanbieter und Verhandlung mit Gatekeeper.
 
 # DMA: Business-User-Zugang
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 2. `dma-gatekeeper-schwellen-und-kernplattformdienste`
 
-**Frühere Beschreibung:** Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten.
+**Fokus:** Gatekeeper-Designation nach Art. 3 DMA prüfen: Plattform-Betreiber will wissen ob DMA-Pflichten gelten oder Kommission hat Designation eingeleitet. Normen: DMA (EU) 2022/1925 Art. 3 (Designation-Voraussetzungen), Art. 2 Nr. 2 DMA (Kernplattformdienste-Katalog), Art. 5-7 DMA (Pflichten). Prüfraster: Quantitative Schwellen (Umsatz EWR 7.5 Mrd. EUR oder Marktwert 75 Mrd. EUR, 45 Mio. Endnutzer, 10000 gewerbliche Nutzer), Kernplattformdienst-Einordnung, Gatekeeper-Pflichten. Output Designation-Prüfschema, Pflichten-Überblick. Abgrenzung: Nichtigkeitsklage gegen Designation siehe klage-gegen-vlop-einordnung-art-263-aeuv; DSA VLOP siehe dsa-vlop-vlose-einordnung-und-pflichten.
 
 # DMA — Gatekeeper-Schwellen und Kernplattformdienste
 
@@ -210,7 +210,7 @@ Empfehlung: [BERATUNGSEMPFEHLUNG]
 
 ## 3. `dma-interoperabilitaet-messenger-art-7`
 
-**Frühere Beschreibung:** Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung.
+**Fokus:** Interoperabilitaet von Messengerdiensten nach Art. 7 DMA: Pflicht der Gatekeeper (WhatsApp, iMessage), interoperable Schnittstellen anzubieten. Stufenmodell: 1:1 zuerst, dann Gruppen, dann Sprache/Video. Technische Spezifikationen, Verschluesselung, Spam-Schutz. Antrag eines Drittanbieters auf Interoperabilitaet und Vertragsgestaltung.
 
 # DMA: Messenger-Interoperabilitaet
 

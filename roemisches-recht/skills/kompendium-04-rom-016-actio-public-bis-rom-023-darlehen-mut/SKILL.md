@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-rom-016-actio-public-bis-rom-023-darlehen-mut
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 04; bündelt 8 frühere Spezialskills (rom-016-actio-publiciana, rom-017-interdikte-und-besitzschutz, rom-018-obligationes-system, rom-019-stipulatio, rom-020-kauf-emptio-venditio und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 016 Actio Publiciana, Rom 017 Interdikte Und Besitzschutz, Rom 018 Obligationes System, Rom 019 Stipulatio und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - roemisches-recht
+# Arbeitsbereich - Rom 016 Actio Publiciana bis Rom 023 Darlehen Mutuum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-016-actio-publiciana` | Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae. |
 | `rom-017-interdikte-und-besitzschutz` | Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-016-actio-publiciana`
 
-**Frühere Beschreibung:** Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae.
+**Fokus:** Römisches Recht: Actio Publiciana nach D. 6.2 (Ulpian) - Fiktionsklage für bonitarischen Eigentümer, Voraussetzungen, Verhältnis zur rei vindicatio und zur exceptio rei venditae et traditae.
 
 # Actio Publiciana
 
@@ -85,7 +85,7 @@ D. 6.2 (Mommsen-Krüger). Gaius Inst. 4. Lenel Edictum (archive.org). Kaser RP I
 
 ## 2. `rom-017-interdikte-und-besitzschutz`
 
-**Frühere Beschreibung:** Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte.
+**Fokus:** Römisches Recht: Interdikte als prätorische Besitzschutzinstrumente nach D. 43 und Gaius Inst. 4.138-170 - uti possidetis, utrubi, unde vi, de precario und die Klassifikation der Interdikte.
 
 # Interdikte und Besitzschutz
 
@@ -139,7 +139,7 @@ D. 43 (Mommsen-Krüger). Gaius Inst. 4.138-170. Lenel Edictum (archive.org). Kas
 
 ## 3. `rom-018-obligationes-system`
 
-**Frühere Beschreibung:** Römisches Recht: Obligationensystem nach Gaius Inst. 3.88 (ex contractu/ex delicto) und Iust. Inst. 3.13 (ex contractu, quasi ex contractu, ex delicto, quasi ex delicto) - Quellen und Systematik.
+**Fokus:** Römisches Recht: Obligationensystem nach Gaius Inst. 3.88 (ex contractu/ex delicto) und Iust. Inst. 3.13 (ex contractu, quasi ex contractu, ex delicto, quasi ex delicto) - Quellen und Systematik.
 
 # Obligationensystem: Quellen und Systematik
 
@@ -193,7 +193,7 @@ D. 44.7; Gaius Inst. 3; Iust. Inst. 3.13 (Mommsen-Krüger). Zimmermann Law of Ob
 
 ## 4. `rom-019-stipulatio`
 
-**Frühere Beschreibung:** Römisches Recht: Stipulatio als Grundform des Verbalvertrags nach D. 45.1, Gaius Inst. 3.92-109 - spondes? spondeo-Formel, alteri stipulari, Auslegung und Justinians Reform (C. 8.37.10).
+**Fokus:** Römisches Recht: Stipulatio als Grundform des Verbalvertrags nach D. 45.1, Gaius Inst. 3.92-109 - spondes? spondeo-Formel, alteri stipulari, Auslegung und Justinians Reform (C. 8.37.10).
 
 # Stipulatio - der Verbalvertrag
 
@@ -247,7 +247,7 @@ D. 45.1; Gaius Inst. 3 (Mommsen-Krüger). C. 8.37.10. Zimmermann Law of Obligati
 
 ## 5. `rom-020-kauf-emptio-venditio`
 
-**Frühere Beschreibung:** Römisches Recht: Kauf (emptio venditio) als Konsensualkontrakt nach D. 18.1 und Gaius Inst. 3.139 - pretium, merx, Gefahrtragung, Trennung von Kauf und Eigentumsübertragung, actio empti/venditi, Eviktion und ädilizische Sachmängelklagen.
+**Fokus:** Römisches Recht: Kauf (emptio venditio) als Konsensualkontrakt nach D. 18.1 und Gaius Inst. 3.139 - pretium, merx, Gefahrtragung, Trennung von Kauf und Eigentumsübertragung, actio empti/venditi, Eviktion und ädilizische Sachmängelklagen.
 
 # Kauf - emptio venditio
 
@@ -314,7 +314,7 @@ D. 18-19; D. 21.1; Gaius Inst. 3.139 ff. Primärquellen bevorzugen. Literaturhin
 
 ## 6. `rom-021-miete-pacht-locatio-conductio`
 
-**Frühere Beschreibung:** Römisches Recht: Locatio conductio nach D. 19.2 und Gaius Inst. 3.142-147 - locatio conductio rei (Sachmiete), operarum (Dienstmiete), operis (Werkvertrag) und actio locati/conducti.
+**Fokus:** Römisches Recht: Locatio conductio nach D. 19.2 und Gaius Inst. 3.142-147 - locatio conductio rei (Sachmiete), operarum (Dienstmiete), operis (Werkvertrag) und actio locati/conducti.
 
 # Miete und Pacht: locatio conductio
 
@@ -368,7 +368,7 @@ D. 19.2 (Mommsen-Krüger). Gaius Inst. 3. Iust. Inst. 3.24. Zimmermann Law of Ob
 
 ## 7. `rom-022-werk-und-diensttypen`
 
-**Frühere Beschreibung:** Römisches Recht: Locatio conductio operis (Werkvertrag) und operarum (Dienstvertrag) nach D. 19.2.22 - Abgrenzung opus/operae, Haftung des Werkunternehmers (culpa/custodia) und redemptores.
+**Fokus:** Römisches Recht: Locatio conductio operis (Werkvertrag) und operarum (Dienstvertrag) nach D. 19.2.22 - Abgrenzung opus/operae, Haftung des Werkunternehmers (culpa/custodia) und redemptores.
 
 # Werk- und Diensttypen in der locatio conductio
 
@@ -421,7 +421,7 @@ D. 19.2; D. 4.9 (Mommsen-Krüger). Gaius Inst. 3. Kaser RP I. Zimmermann Law of 
 
 ## 8. `rom-023-darlehen-mutuum`
 
-**Frühere Beschreibung:** Römisches Recht: Mutuum als Realvertrag nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio/actio certae creditae pecuniae, Rückgabe gleicher Art und Menge, Zinsen nur durch Stipulation, Sonderfall fenus nauticum.
+**Fokus:** Römisches Recht: Mutuum als Realvertrag nach D. 12.1 und Gaius Inst. 3.90 - Übereignung vertretbarer Sachen, condictio/actio certae creditae pecuniae, Rückgabe gleicher Art und Menge, Zinsen nur durch Stipulation, Sonderfall fenus nauticum.
 
 # Darlehen - mutuum
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-ruecklagen-mittelver-bis-satzung-grundstruktu
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (ruecklagen-mittelverwendung, rundbrief-mitglieder, satzung-grundstruktur) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Ruecklagen Mittelverwendung, Rundbrief Mitglieder, Satzung Grundstruktur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ruecklagen-mittelverwendung` | Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis. |
 | `rundbrief-mitglieder` | Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ruecklagen-mittelverwendung`
 
-**Frühere Beschreibung:** Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis.
+**Fokus:** Erklärt zeitnahe Mittelverwendung, freie Rücklage, Projektrücklage, Vermögensbindung und Nachweis.
 
 # Rücklagen und Mittelverwendung
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `rundbrief-mitglieder`
 
-**Frühere Beschreibung:** Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten.
+**Fokus:** Erstellt klare Rundbriefe zu Versammlung, Beiträgen, Konflikten, Satzungsänderungen und Projekten.
 
 # Rundbrief an Mitglieder
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `satzung-grundstruktur`
 
-**Frühere Beschreibung:** Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung.
+**Fokus:** Entwirft oder prüft Vereinszweck, Name, Sitz, Mitgliedschaft, Beiträge, Organe, Vorstand, Versammlung, Beschlüsse, Auflösung.
 
 # Satzung Grundstruktur
 

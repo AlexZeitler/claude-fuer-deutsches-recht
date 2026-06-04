@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-pe-031-wi-insurance-bis-pe-034-management-pa
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (pe-031-wi-insurance-underwriting, pe-032-merger-control-fdi-pe, pe-033-closing-cp-funds-flow, pe-034-management-participation-mep) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 031 Wi Insurance Underwriting, Pe 032 Merger Control Fdi Pe, Pe 033 Closing Cp Funds Flow, Pe 034 Management Participation Mep; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - private-equity-praxis
+# Arbeitsbereich - Pe 031 Wi Insurance Underwriting bis Pe 034 Management Participation Mep
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-031-wi-insurance-underwriting` | Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess. |
 | `pe-032-merger-control-fdi-pe` | Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-031-wi-insurance-underwriting`
 
-**Frühere Beschreibung:** Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess.
+**Fokus:** Begleitet Underwriting, DD-Anforderungen, Exclusions, Bring-down und Claims-Prozess.
 
 # W&I-Versicherung im PE-Deal
 
@@ -70,7 +70,7 @@ Versicherungsvertrag, SPA-Garantien, DD-Reports, Disclosure, Claims Notice.
 
 ## 2. `pe-032-merger-control-fdi-pe`
 
-**Frühere Beschreibung:** Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings.
+**Fokus:** Prüft GWB/FKVO/AWV-Anmeldepflichten, Vollzugsverbot, Gun Jumping und Multi-Jurisdiction-Filings.
 
 # Fusionskontrolle und FDI für PE
 
@@ -111,7 +111,7 @@ GWB, EU-Fusionskontrollverordnung, AWG/AWV, Sektorregulierung.
 
 ## 3. `pe-033-closing-cp-funds-flow`
 
-**Frühere Beschreibung:** Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan.
+**Fokus:** Baut CP-Tracker, Closing Agenda, Deliverables, Notar-/Registerlogik und Zahlungsflussplan.
 
 # Closing, CPs und Funds Flow
 
@@ -152,7 +152,7 @@ SPA, § 158 BGB, GWB/AWV Vollzugsverbot, Notar/Handelsregister, Bank KYC.
 
 ## 4. `pe-034-management-participation-mep`
 
-**Frühere Beschreibung:** Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver.
+**Fokus:** Strukturiert Management Equity Plan, Vesting, Leaver, Sweet Equity, Ratchet, Call/Put und Good/Bad-Leaver.
 
 # Management Participation und MEP
 

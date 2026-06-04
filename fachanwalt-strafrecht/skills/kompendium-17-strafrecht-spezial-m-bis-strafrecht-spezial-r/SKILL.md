@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-strafrecht-spezial-m-bis-strafrecht-spezial-r
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 17; bündelt 10 frühere Spezialskills (strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig, strafrecht-spezial-marktmanipulation-120-wphg, strafrecht-spezial-mietwucher-5-wistg, strafrecht-spezial-minder-schwerer-fall-213-stgb, strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Markenrecht 143a Markeng Bandenmaessig, Strafrecht Spezial Marktmanipulation 120 Wphg, Strafrecht Spezial Mietwucher 5 Wistg, Strafrecht Spezial Minder Schwerer Fall 213 Stgb und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Markenrecht 143a Markeng Bandenmaessig bis Strafrecht Spezial Raeuberischer Diebstahl 252 Stgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig` | Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung. |
 | `strafrecht-spezial-marktmanipulation-120-wphg` | Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-markenrecht-143a-markeng-bandenmaessig`
 
-**Frühere Beschreibung:** Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
+**Fokus:** Bandenmaessige Markenrechtsverletzung Paragraph 143a MarkenG und gewerbsmaessige Begehung. Qualifikation des Paragraph 143 MarkenG bei organisierter Counterfeit-Logistik. Strafrahmen 3 Monate bis 5 Jahre Freiheitsstrafe. Offizialdelikt. Container-Importe Online-Marktplatz-Netzwerke. Verteidigung Bandenbegriff Mittaeterschaft vs Beihilfe Aussteigerregelung.
 
 # Bandenmaessige Markenrechtsverletzung nach Paragraph 143a MarkenG
 
@@ -136,7 +136,7 @@ Strafrahmen Paragraph 143a Abs 1 MarkenG: drei Monate bis fuenf Jahre Freiheitss
 
 ## 2. `strafrecht-spezial-marktmanipulation-120-wphg`
 
-**Frühere Beschreibung:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler.
+**Fokus:** Marktmanipulation § 120 WpHG iVm Art. 15 MAR: Anwendungsfall Verteidigung bei Vorwurf handelsgestuetzter informationsgestuetzter oder handlungsgestuetzter Marktmanipulation. Pruefraster Art. 12 MAR Manipulationsbegriff Art. 13 MAR akzeptierte Marktpraxis Art. 15 MAR Verbot § 120 Abs. 15 WpHG Strafnorm. Trade-offs Spoofing Layering Pump-and-Dump Verteidigung Vorsatz. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Algo-Trading Krypto Boersenmakler.
 
 # Marktmanipulation § 120 WpHG iVm Art. 15 MAR
 
@@ -258,7 +258,7 @@ Marktmanipulation ist verboten.
 
 ## 3. `strafrecht-spezial-mietwucher-5-wistg`
 
-**Frühere Beschreibung:** Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher.
+**Fokus:** Mietpreisueberhoehung § 5 WiStrG 1954: WICHTIG dies ist eine Ordnungswidrigkeit, keine Straftat. Verteidigung des Vermieters oder Beratung Mieter bei behaupteter Mietpreisueberhoehung um mehr als 20 Prozent ueber ueblichen Entgelten bei Ausnutzung geringen Wohnraumangebots. Bussgeldrahmen bis 50.000 EUR, Mehrerloes § 8 WiStrG 1954, Abgrenzung zu § 291 StGB Mietwucher.
 
 # Mietpreisüberhöhung § 5 WiStrG 1954
 
@@ -361,7 +361,7 @@ Unangemessen sind Entgelte, die **infolge der Ausnutzung eines geringen Angebots
 
 ## 4. `strafrecht-spezial-minder-schwerer-fall-213-stgb`
 
-**Frühere Beschreibung:** Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden fuer die Verteidigung.
+**Fokus:** Minder schwerer Fall des Totschlags nach § 213 StGB. Privilegierung mit zwei Varianten: durch Misshandlung oder schwere Beleidigung des Opfers zum Zorn gereizt sowie sonstiger minder schwerer Fall. Strafrahmen ein bis zehn Jahre Freiheitsstrafe. Praxisleitfaden fuer die Verteidigung.
 
 # Minder schwerer Fall des Totschlags § 213 StGB
 
@@ -469,7 +469,7 @@ In der Praxis ist § 213 StGB der wichtigste Strafmilderungsschluessel im Toetun
 
 ## 5. `strafrecht-spezial-misshandlung-schutzbefohlener-225-stgb`
 
-**Frühere Beschreibung:** Misshandlung Schutzbefohlener nach § 225 StGB. Schutz von Personen unter 18 Jahren oder hilflosen Personen. Drei Tatvarianten: quaelen; roh misshandeln; pflichtwidrige Vernachlaessigung. Qualifikation § 225 Abs. 3 StGB Lebensgefahr und schwere Gesundheitsschaedigung. Strafrahmen sechs Monate bis zehn Jahre.
+**Fokus:** Misshandlung Schutzbefohlener nach § 225 StGB. Schutz von Personen unter 18 Jahren oder hilflosen Personen. Drei Tatvarianten: quaelen; roh misshandeln; pflichtwidrige Vernachlaessigung. Qualifikation § 225 Abs. 3 StGB Lebensgefahr und schwere Gesundheitsschaedigung. Strafrahmen sechs Monate bis zehn Jahre.
 
 # Misshandlung Schutzbefohlener § 225 StGB
 
@@ -586,7 +586,7 @@ bringt. Konkretes Gefaehrdungsdelikt. Bei Schuetteltrauma, schweren Bissverletzu
 
 ## 6. `strafrecht-spezial-mord-211-stgb-mordmerkmale`
 
-**Frühere Beschreibung:** Mord nach § 211 StGB. Praxisleitfaden fuer Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung.
+**Fokus:** Mord nach § 211 StGB. Praxisleitfaden fuer Verteidigung und Nebenklage zu den Mordmerkmalen Heimtuecke / niedrige Beweggruende / Habgier / Verdeckungsabsicht / grausam / gemeingefaehrlich / Mordlust / Befriedigung des Geschlechtstriebs. Mit Restriktionstendenzen der staendigen BGH-Rechtsprechung und Rechtsfolgenloesung.
 
 # Mord § 211 StGB – Mordmerkmale-Praxisleitfaden
 
@@ -693,7 +693,7 @@ Dieser Skill unterstuetzt die Verteidigung und Nebenklage im Hauptverfahren wege
 
 ## 7. `strafrecht-spezial-noetigung-240-stgb`
 
-**Frühere Beschreibung:** Noetigung nach § 240 StGB. Mit Gewalt oder durch Drohung mit empfindlichem Uebel jemanden rechtswidrig zu einer Handlung Duldung oder Unterlassung noetigen. Verwerflichkeitsklausel Abs. 2. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Sitzblockaden Drohung kuenftiger Gewalt staendige BGH-Rechtsprechung.
+**Fokus:** Noetigung nach § 240 StGB. Mit Gewalt oder durch Drohung mit empfindlichem Uebel jemanden rechtswidrig zu einer Handlung Duldung oder Unterlassung noetigen. Verwerflichkeitsklausel Abs. 2. Strafrahmen bis drei Jahre Freiheitsstrafe oder Geldstrafe. Sitzblockaden Drohung kuenftiger Gewalt staendige BGH-Rechtsprechung.
 
 # Noetigung § 240 StGB
 
@@ -800,7 +800,7 @@ Strafrahmen: § 240 Abs. 1 StGB Freiheitsstrafe bis zu drei Jahren oder Geldstra
 
 ## 8. `strafrecht-spezial-npsg-neue-psychoaktive-stoffe`
 
-**Frühere Beschreibung:** NpSG Neue-psychoaktive-Stoffe-Gesetz seit 26.11.2016: Strafrahmen § 4 NpSG, Stoffgruppenliste Anlage, Abgrenzung zu BtMG und Arzneimittelrecht. Praxis bei Designer-Drogen, Spice-Praeparaten, Cathinonen.
+**Fokus:** NpSG Neue-psychoaktive-Stoffe-Gesetz seit 26.11.2016: Strafrahmen § 4 NpSG, Stoffgruppenliste Anlage, Abgrenzung zu BtMG und Arzneimittelrecht. Praxis bei Designer-Drogen, Spice-Praeparaten, Cathinonen.
 
 # NpSG: Neue psychoaktive Stoffe
 
@@ -910,7 +910,7 @@ NpSG kennt keine "nicht geringe Menge" wie das BtMG. Mengenfragen werden ueber �
 
 ## 9. `strafrecht-spezial-patentrecht-142-patg`
 
-**Frühere Beschreibung:** Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Aequivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG.
+**Fokus:** Strafbarkeit der Patentverletzung Paragraph 142 PatG. Vorsaetzliche Verletzung des Patentschutzes. Strafrahmen bis 3 Jahre Freiheitsstrafe oder Geldstrafe. Qualifikation gewerbsmaessig bis 5 Jahre. Antragsdelikt. Praxis selten Strafverfahren typischerweise zivilrechtlich. Verteidigung Patentbestand Aequivalent Erschoepfung Vorsatz. Abgrenzung zu Gebrauchsmuster Paragraph 25 GebrMG.
 
 # Strafbarkeit der Patentverletzung nach Paragraph 142 PatG
 
@@ -1005,7 +1005,7 @@ Zumessungsgesichtspunkte Paragraph 46 StGB: Umsatz aus Verletzungshandlung, Scha
 
 ## 10. `strafrecht-spezial-raeuberischer-diebstahl-252-stgb`
 
-**Frühere Beschreibung:** Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB.
+**Fokus:** Raeuberischer Diebstahl nach § 252 StGB. Sukzessivraub. Auf frischer Tat betroffener Dieb wendet Gewalt oder Drohung mit gegenwaertiger Gefahr fuer Leib oder Leben an, um sich im Besitz der gestohlenen Sache zu erhalten. Beutesicherungsabsicht. Strafrahmen wie bei Raub § 249 StGB.
 
 # Raeuberischer Diebstahl § 252 StGB
 

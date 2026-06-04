@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-triage-notaufnahme-u-bis-vorhalteverguetung-l
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (triage-notaufnahme-ueberlastung-dokumentation, vergaberecht-krankenhaus-einkauf-bau-it, vorhalteverguetung-leistungsgruppen-krankenhausreform) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - krankenhausrecht
+# Arbeitsbereich - Triage Notaufnahme Ueberlastung Dokumentation, Vergaberecht Krankenhaus Einkauf Bau It, Vorhalteverguetung Leistungsgruppen Krankenhausreform
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `triage-notaufnahme-ueberlastung-dokumentation` | Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung. |
 | `vergaberecht-krankenhaus-einkauf-bau-it` | Vergaberecht Krankenhaus Einkauf Bau IT: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `triage-notaufnahme-ueberlastung-dokumentation`
 
-**Frühere Beschreibung:** Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung.
+**Fokus:** Triage in der Notaufnahme: Manchester-/ESI-System, Wartezeit, Ueberlastung, Sekundaer-Triage Intensiv, ex-post Triage rechtlich, Dokumentationspflicht und Haftung.
 
 # Triage Notaufnahme Ueberlastung Dokumentation
 
@@ -112,7 +112,7 @@ Notaufnahmen muessen Patienten anhand validierter Triagesysteme (Manchester Tria
 
 ## 2. `vergaberecht-krankenhaus-einkauf-bau-it`
 
-**Frühere Beschreibung:** Vergaberecht Krankenhaus Einkauf Bau IT: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Vergaberecht Krankenhaus Einkauf Bau IT: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Vergaberecht Krankenhaus Einkauf Bau IT
 
@@ -157,7 +157,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `vorhalteverguetung-leistungsgruppen-krankenhausreform`
 
-**Frühere Beschreibung:** Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je Leistungsgruppe, ordnet die Konvergenzphase 2025 bis 2027, prueft Auswirkungen auf Erloesbudget und Liquiditaet.
+**Fokus:** Vorhaltefinanzierung nach KHVVG: berechnet den Vorhalteanteil je Leistungsgruppe, ordnet die Konvergenzphase 2025 bis 2027, prueft Auswirkungen auf Erloesbudget und Liquiditaet.
 
 # Vorhalteverguetung Leistungsgruppen Krankenhausreform
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-audit-selbsttest-unt-bis-beitragsbeginn-und-v
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (audit-selbsttest-unternehmen, ausland-remote-eu-a1, aussenauftritt-marktchance, beitragsbeginn-und-vertrauensschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Audit Selbsttest Unternehmen, Ausland Remote Eu A1, Aussenauftritt Marktchance, Beitragsbeginn Und Vertrauensschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Audit Selbsttest Unternehmen bis Beitragsbeginn Und Vertrauensschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `audit-selbsttest-unternehmen` | Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch. |
 | `ausland-remote-eu-a1` | Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `audit-selbsttest-unternehmen`
 
-**Frühere Beschreibung:** Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch.
+**Fokus:** Führt einen internen Audit-Selbsttest für Sozialversicherungsstatus und Scheinselbständigkeit durch.
 
 # Audit-Selbsttest Unternehmen
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `ausland-remote-eu-a1`
 
-**Frühere Beschreibung:** Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status.
+**Fokus:** Prüft grenzüberschreitende Remote-Tätigkeit in EU/EWR/Schweiz, A1, anwendbares Sozialversicherungsrecht und Status.
 
 # Ausland Remote EU A1
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `aussenauftritt-marktchance`
 
-**Frühere Beschreibung:** Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme.
+**Fokus:** Prüft Website, Branding, Akquise, Preise, eigene Angebote, Versicherungen und Marktteilnahme.
 
 # Außenauftritt und Marktchance
 
@@ -224,7 +224,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `beitragsbeginn-und-vertrauensschutz`
 
-**Frühere Beschreibung:** Prüft Beginn der Versicherungspflicht, Wirkung von Statusbescheiden, Vertrauensschutz und Änderungsfälle.
+**Fokus:** Prüft Beginn der Versicherungspflicht, Wirkung von Statusbescheiden, Vertrauensschutz und Änderungsfälle.
 
 # Beitragsbeginn und Vertrauensschutz
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-ein-054-bodenreforml-bis-ein-058-bodenreforml
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (ein-054-bodenreformland-berechtigte-ermitteln, ein-056-bodenreformland-grundbuch-auswerten, ein-057-bodenreformland-behoerdenbrief-schreib, ein-058-bodenreformland-widerspruch-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 054 Bodenreformland Berechtigte Ermitteln, Ein 056 Bodenreformland Grundbuch Auswerten, Ein 057 Bodenreformland Behoerdenbrief Schreib, Ein 058 Bodenreformland Widerspruch Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 054 Bodenreformland Berechtigte Ermitteln bis Ein 058 Bodenreformland Widerspruch Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-054-bodenreformland-berechtigte-ermitteln` | Einigungsvertrag und Vermögensrecht: Bodenreformland: Berechtigte ermitteln. Berechtigte ermitteln für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-056-bodenreformland-grundbuch-auswerten` | Einigungsvertrag und Vermögensrecht: Bodenreformland: Grundbuch auswerten. Grundbuch auswerten für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-054-bodenreformland-berechtigte-ermitteln`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Berechtigte ermitteln. Berechtigte ermitteln für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Berechtigte ermitteln. Berechtigte ermitteln für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bodenreformland Berechtigte Ermitteln
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-056-bodenreformland-grundbuch-auswerten`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Grundbuch auswerten. Grundbuch auswerten für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Grundbuch auswerten. Grundbuch auswerten für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bodenreformland Grundbuch Auswerten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-057-bodenreformland-behoerdenbrief-schreib`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Behördenbrief schreiben. Behördenbrief schreiben für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Behördenbrief schreiben. Behördenbrief schreiben für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bodenreformland Behoerdenbrief Schreib
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-058-bodenreformland-widerspruch-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Widerspruch prüfen. Widerspruch prüfen für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Bodenreformland: Widerspruch prüfen. Widerspruch prüfen für Bodenreformland im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bodenreformland Widerspruch Pruefen
 

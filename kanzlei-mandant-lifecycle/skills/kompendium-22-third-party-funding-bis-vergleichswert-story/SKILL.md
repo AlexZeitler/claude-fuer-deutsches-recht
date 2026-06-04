@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-third-party-funding-bis-vergleichswert-story
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (third-party-funding, time-entry-hygiene, translation-management, vat-reverse-charge-legalfees, vergleichswert-story) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Third Party Funding, Time Entry Hygiene, Translation Management, Vat Reverse Charge Legalfees und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Third Party Funding bis Vergleichswert Story
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `third-party-funding` | Third Party Funding: steuert Prozessfinanzierer einbinden, Interessenkonflikt, Vergleichshoheit und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `time-entry-hygiene` | Time Entry Hygiene: steuert Zeiterfassung präzise, verständlich, abrechenbar und nicht peinlich machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `third-party-funding`
 
-**Frühere Beschreibung:** Third Party Funding: steuert Prozessfinanzierer einbinden, Interessenkonflikt, Vergleichshoheit und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Third Party Funding: steuert Prozessfinanzierer einbinden, Interessenkonflikt, Vergleichshoheit und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Third Party Funding
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `time-entry-hygiene`
 
-**Frühere Beschreibung:** Time Entry Hygiene: steuert Zeiterfassung präzise, verständlich, abrechenbar und nicht peinlich machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Time Entry Hygiene: steuert Zeiterfassung präzise, verständlich, abrechenbar und nicht peinlich machen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Time Entry Hygiene
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `translation-management`
 
-**Frühere Beschreibung:** Translation Management: steuert Übersetzungen, beglaubigte Fassungen, bilinguale Schriftsätze und Kosten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Translation Management: steuert Übersetzungen, beglaubigte Fassungen, bilinguale Schriftsätze und Kosten steuern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Translation Management
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `vat-reverse-charge-legalfees`
 
-**Frühere Beschreibung:** Umsatzsteuer bei Legal Fees: steuert grenzüberschreitende Kanzleirechnungen, Reverse Charge, Auslagen und Kostenstellen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Umsatzsteuer bei Legal Fees: steuert grenzüberschreitende Kanzleirechnungen, Reverse Charge, Auslagen und Kostenstellen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Umsatzsteuer bei Legal Fees
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `vergleichswert-story`
 
-**Frühere Beschreibung:** Vergleichswert Story: steuert Warum ein Vergleich wirtschaftlich sinnvoll oder falsch ist; Kosten, Zeit, Risiko und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Vergleichswert Story: steuert Warum ein Vergleich wirtschaftlich sinnvoll oder falsch ist; Kosten, Zeit, Risiko und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Vergleichswert Story
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-mandantenko-bis-evvollzug-neu-001-ei
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-mandantenkommunikation, workflow-redteam-qualitygate, evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist-und) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenkommunikation, Redteam Qualitygate, Evvollzug Neu 001 Einstweilige Verfuegung Vollziehung Frist Und; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Mandantenkommunikation, Redteam Qualitygate, Evvollzug Neu 001 Einstweilige Verfuegung Vollziehung Frist Und
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung. |
 | `workflow-redteam-qualitygate` | Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
-**Frühere Beschreibung:** Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung.
+**Fokus:** Mandantenkommunikation im gewerblichen Rechtsschutz: strukturierte Kommunikation in IP-Mandaten – Erstinformation, Statusupdates, Entscheidungsvorlagen, Kostenhinweise und Abschlussberichte. Templates und Tonalitätsregeln für Kanzlei und Rechtsabteilung.
 
 # Workflow: Mandantenkommunikation
 
@@ -223,7 +223,7 @@ Bitte bestätigen Sie die Klageerhebung mit Ihrer Unterschrift.
 
 ## 2. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation.
+**Fokus:** Red-Team-Quality-Gate für das Plugin gewerblicher-rechtsschutz: systematischer letzter Check vor Abgabe von Schriftsätzen, Memos, Abmahnungen und Entscheidungsvorlagen. Sechs Qualitätsstufen, Freigabe-Entscheidung und Dokumentation.
 
 # Workflow: Red-Team Quality Gate
 
@@ -369,7 +369,7 @@ Wenn alle vier Punkte grün: Notfall-Freigabe mit Vorbehalt.
 
 ## 3. `evvollzug-neu-001-einstweilige-verfuegung-vollziehung-frist-und`
 
-**Frühere Beschreibung:** EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellung im gewerblichen Rechtsschutz. Beschluss- und Urteilsverfügung, Zustellwege, Vollziehungsversäumnis und Rechtsfolgen. Praxisworkflow für Anwalt, Mandant und Vollstreckungsorgan.
+**Fokus:** EV-Vollzug: Vollziehungsfrist § 929 Abs. 2 ZPO und Parteizustellung im gewerblichen Rechtsschutz. Beschluss- und Urteilsverfügung, Zustellwege, Vollziehungsversäumnis und Rechtsfolgen. Praxisworkflow für Anwalt, Mandant und Vollstreckungsorgan.
 
 # EV-Vollzug 001: Vollziehungsfrist und Parteizustellung (§ 929 Abs. 2 ZPO)
 

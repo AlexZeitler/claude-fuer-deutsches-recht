@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-vc-018-wandeldarlehe-bis-vc-021-series-a-term
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (vc-018-wandeldarlehen-deutschland, vc-019-safe-kiss-deutsche-adaption, vc-020-pre-seed-seed-runde, vc-021-series-a-term-sheet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 018 Wandeldarlehen Deutschland, Vc 019 Safe Kiss Deutsche Adaption, Vc 020 Pre Seed Seed Runde, Vc 021 Series A Term Sheet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - venture-capital-geber
+# Arbeitsbereich - Vc 018 Wandeldarlehen Deutschland bis Vc 021 Series A Term Sheet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-018-wandeldarlehen-deutschland` | Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge. |
 | `vc-019-safe-kiss-deutsche-adaption` | Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-018-wandeldarlehen-deutschland`
 
-**Frühere Beschreibung:** Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge.
+**Fokus:** Prüft deutsche Wandeldarlehen mit Discount, Cap, Laufzeit, qualifizierter Finanzierungsrunde, Rang, Zinsen, Wandlung und Notarfolge.
 
 # Wandeldarlehen Deutschland
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-019-safe-kiss-deutsche-adaption`
 
-**Frühere Beschreibung:** Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren.
+**Fokus:** Erklärt SAFE/KISS-Begriffe und prüft, wie sie in deutschen GmbH-Strukturen funktionieren oder nicht funktionieren.
 
 # SAFE/KISS deutsche Adaption
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-020-pre-seed-seed-runde`
 
-**Frühere Beschreibung:** Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik.
+**Fokus:** Begleitet frühe GmbH-Finanzierungen mit kleinen Tickets, Angels, Wandeldarlehen, VSOP, IP-Chain und Notarlogik.
 
 # Pre-Seed und Seed Runde
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-021-series-a-term-sheet`
 
-**Frühere Beschreibung:** Prüft Lead-Investor, Bewertung, liquidation preference, anti-dilution, pro rata, board, vetoes, ESOP und Closing Steps.
+**Fokus:** Prüft Lead-Investor, Bewertung, liquidation preference, anti-dilution, pro rata, board, vetoes, ESOP und Closing Steps.
 
 # Series-A-Term-Sheet
 

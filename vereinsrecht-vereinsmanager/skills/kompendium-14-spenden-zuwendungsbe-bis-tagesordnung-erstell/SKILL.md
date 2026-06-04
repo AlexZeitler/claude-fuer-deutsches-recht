@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spenden-zuwendungsbe-bis-tagesordnung-erstell
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spenden-zuwendungsbestaetigung, sportverein, tagesordnung-erstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Spenden Zuwendungsbestaetigung, Sportverein, Tagesordnung Erstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spenden-zuwendungsbestaetigung` | Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung. |
 | `sportverein` | Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spenden-zuwendungsbestaetigung`
 
-**Frühere Beschreibung:** Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung.
+**Fokus:** Prüft Geld-/Sachspenden, Spendenquittung, Aufwandsspende, Sponsoring-Abgrenzung und Haftung.
 
 # Spenden und Zuwendungsbestätigung
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `sportverein`
 
-**Frühere Beschreibung:** Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge.
+**Fokus:** Spezialfragen Sportverein: Abteilungen, Trainer, Minderjährige, Schutzkonzept, Hallenzeiten, Verbandsrecht, Beiträge.
 
 # Sportverein
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `tagesordnung-erstellen`
 
-**Frühere Beschreibung:** Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen.
+**Fokus:** Baut klare Tagesordnung mit Beschlussgegenständen, Wahlen, Berichten, Entlastung, Satzungsänderungen und Anträgen.
 
 # Tagesordnung erstellen
 

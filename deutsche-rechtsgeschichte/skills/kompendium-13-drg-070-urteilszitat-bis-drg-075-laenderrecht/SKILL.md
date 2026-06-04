@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-drg-070-urteilszitat-bis-drg-075-laenderrecht
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 13; bündelt 6 frühere Spezialskills (drg-070-urteilszitate-historisch-verifizieren, drg-071-rechtsgeschichte-im-schriftsatz, drg-072-rechtsgeschichte-in-gesetzesbegruendung, drg-073-rechtshistorische-timeline, drg-074-vergleich-brd-ddr-recht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 070 Urteilszitate Historisch Verifizieren, Drg 071 Rechtsgeschichte Im Schriftsatz, Drg 072 Rechtsgeschichte In Gesetzesbegruendung, Drg 073 Rechtshistorische Timeline und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 070 Urteilszitate Historisch Verifizieren bis Drg 075 Laenderrecht Und Rechtszersplitterung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-070-urteilszitate-historisch-verifizieren` | Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft. |
 | `drg-071-rechtsgeschichte-im-schriftsatz` | Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-070-urteilszitate-historisch-verifizieren`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft.
+**Fokus:** Deutsche Rechtsgeschichte: Historische Urteilszitate verifizieren. Wie man Entscheidungen des Reichsgerichts, Volksgerichtshofs, RKG und historischer Gerichte mit richtiger Fundstelle prueft.
 
 # Urteilszitate historisch verifizieren
 
@@ -81,7 +81,7 @@ BVerfGE: bverfg.de. BGH: bgh.de. BVerwG: bverwg.de. RGZ/RGSt: gedruckte Baende (
 
 ## 2. `drg-071-rechtsgeschichte-im-schriftsatz`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtsgeschichte im Schriftsatz. Wie man historische Argumente in Klage, Berufung oder Revisionsbegründung methodisch korrekt einbringt ohne Anachronismus.
 
 # Rechtsgeschichte im Schriftsatz
 
@@ -130,7 +130,7 @@ Primaerquellen: ALEX/OeNB, gesetze-im-internet.de, bverfg.de, bgh.de. Mugdan: Ba
 
 ## 3. `drg-072-rechtsgeschichte-in-gesetzesbegruendung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtsgeschichte in der Gesetzesbegründung. Wie historische Normanalyse in Referentenentwuerfe, Begründungen und parlamentarische Materialien korrekt eingebaut wird.
 
 # Rechtsgeschichte in der Gesetzesbegründung
 
@@ -179,7 +179,7 @@ BT-Drucksachen: bundestag.de. GGO: bundesregierung.de. Mugdan: historische Ausga
 
 ## 4. `drg-073-rechtshistorische-timeline`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben fuer ein konkretes rechtshistorisches Problem.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtshistorische Timeline erstellen. Methodik zur Erstellung einer chronologischen Darstellung mit Quellenangaben fuer ein konkretes rechtshistorisches Problem.
 
 # Rechtshistorische Timeline
 
@@ -228,7 +228,7 @@ Alle Timeline-Elemente mit Datum und Quellenangabe. Normtexte: ALEX/OeNB und ges
 
 ## 5. `drg-074-vergleich-brd-ddr-recht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung.
+**Fokus:** Deutsche Rechtsgeschichte: Vergleich BRD-DDR-Recht. Parallele Rechtsentwicklung 1949-1990, Systemprinzipien, DDR-ZGB vs. BGB, DDR-Strafrecht vs. StGB und Erbschaft nach Wiedervereinigung.
 
 # Vergleich BRD-DDR-Recht
 
@@ -277,7 +277,7 @@ DDR-Gesetze: GBl. DDR via ALEX/OeNB. BRD-Gesetze: gesetze-im-internet.de. Einigu
 
 ## 6. `drg-075-laenderrecht-und-rechtszersplitterung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute.
+**Fokus:** Deutsche Rechtsgeschichte: Laenderrecht und Rechtszersplitterung. Partikularrechtliche Vielfalt vor 1900, EGBGB-Uebergangsrecht, fortgeltendes Landesrecht und foederales Privatrecht heute.
 
 # Laenderrecht und Rechtszersplitterung
 

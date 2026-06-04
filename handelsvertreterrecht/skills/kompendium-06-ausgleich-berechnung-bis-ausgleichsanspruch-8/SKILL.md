@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ausgleich-berechnung-bis-ausgleichsanspruch-8
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (ausgleich-berechnung, ausgleich-im-ma-deal, ausgleichsanmeldung, ausgleichsanspruch-89b) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausgleich Berechnung, Ausgleich Im Ma Deal, Ausgleichsanmeldung, Ausgleichsanspruch 89b; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - handelsvertreterrecht
+# Arbeitsbereich - Ausgleich Berechnung bis Ausgleichsanspruch 89b
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausgleich-berechnung` | Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung. |
 | `ausgleich-im-ma-deal` | Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausgleich-berechnung`
 
-**Frühere Beschreibung:** Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung.
+**Fokus:** Berechnet den Ausgleichsanspruch nach § 89b HGB: Rohertragsberechnung auf Basis der Jahresprovision, Prognoseabzug für Neukundenentwicklung, Abzinsung, Billigkeitskorrektur sowie Höchstbetragsgrenze einer durchschnittlichen Jahresvergütung nach § 89b Abs. 2 HGB und richtlinienkonformer EuGH-Rechtsprechung.
 
 # Berechnung des Ausgleichsanspruchs nach § 89b HGB
 
@@ -108,7 +108,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 2. `ausgleich-im-ma-deal`
 
-**Frühere Beschreibung:** Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste.
+**Fokus:** Analysiert Ausgleichsansprüche bei M&A-Transaktionen: Vertragsübergang nach § 613a BGB analog, Erlöschen des Ausgleichs nach § 89b Abs. 3 Nr. 3 HGB bei Übertragung der Agentur, Gestaltungsmöglichkeiten im Share- vs. Asset-Deal, Haftungszuweisung zwischen Veräußerer und Erwerber sowie Due-Diligence-Checkliste.
 
 # Ausgleichsanspruch bei M&A-Transaktionen und Unternehmensübergang
 
@@ -187,7 +187,7 @@ nicht abgebedungen werden; entgegenstehende Klauseln sind nach § 134 BGB nichti
 
 ## 3. `ausgleichsanmeldung`
 
-**Frühere Beschreibung:** Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite.
+**Fokus:** Unterstützt bei fristgerechter Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB: Einhaltung der Jahresfrist ab Vertragsende, Inhalt und Form der Anmeldung, Wahrung gegenüber dem Unternehmer und Rechtsfolgen bei Fristversäumnis; Musterschreiben für Handelsvertreter und Unternehmerseite.
 
 # Anmeldung des Ausgleichsanspruchs nach § 89b Abs. 4 HGB
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 4. `ausgleichsanspruch-89b`
 
-**Frühere Beschreibung:** Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB.
+**Fokus:** Analysiert den Ausgleichsanspruch des Handelsvertreters nach § 89b HGB vollständig: Entstehungsvoraussetzungen (neue Kunden, wesentliche Erweiterung), Höchstbetrag von einer Jahresprovision, Ausschlussgründe nach § 89b Abs. 3 HGB, Berechnung nach der BGH-Stufenmethode sowie Anmeldefrist nach § 89b Abs. 4 HGB.
 
 # Ausgleichsanspruch nach § 89b HGB — Entstehung, Berechnung und Durchsetzung
 

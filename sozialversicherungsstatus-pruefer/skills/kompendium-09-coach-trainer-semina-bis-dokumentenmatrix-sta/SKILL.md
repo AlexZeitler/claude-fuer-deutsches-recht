@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-coach-trainer-semina-bis-dokumentenmatrix-sta
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (coach-trainer-seminar, compliance-program-drittpersonal, compliance-security-access, dokumentenmatrix-status) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Coach Trainer Seminar, Compliance Program Drittpersonal, Compliance Security Access, Dokumentenmatrix Status; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Coach Trainer Seminar bis Dokumentenmatrix Status
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `coach-trainer-seminar` | Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung. |
 | `compliance-program-drittpersonal` | Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `coach-trainer-seminar`
 
-**Frühere Beschreibung:** Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung.
+**Fokus:** Prüft Coaches, Trainer, Seminarleiter und Corporate Learning mit Vorgaben, Materialien und eigener Marktstellung.
 
 # Coach Trainer Seminarleiter
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `compliance-program-drittpersonal`
 
-**Frühere Beschreibung:** Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister.
+**Fokus:** Baut ein Unternehmensprogramm für Freelancer, Berater, Lehrkräfte, Interimsmanager und Dienstleister.
 
 # Compliance-Programm Drittpersonal
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `compliance-security-access`
 
-**Frühere Beschreibung:** Prüft Pflichtschulungen, Compliance-Regeln, Security Policies, Zugangsbeschränkungen und Statusgewicht.
+**Fokus:** Prüft Pflichtschulungen, Compliance-Regeln, Security Policies, Zugangsbeschränkungen und Statusgewicht.
 
 # Compliance Security Access
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `dokumentenmatrix-status`
 
-**Frühere Beschreibung:** Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage.
+**Fokus:** Baut eine Dokumentenmatrix für Statusverfahren, Betriebsprüfung, Widerspruch und Klage.
 
 # Dokumentenmatrix Statusakte
 

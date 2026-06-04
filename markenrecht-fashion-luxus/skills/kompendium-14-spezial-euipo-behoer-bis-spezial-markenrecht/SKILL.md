@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-euipo-behoer-bis-spezial-markenrecht
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (spezial-euipo-behoerden-gericht-und-registerweg, spezial-korrespondenz-zahlen-schwellen-und-berechnung, spezial-markenarten-compliance-dokumentation-und-akte, spezial-markenrecht-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Euipo Behoerden Gericht Und Registerweg, Korrespondenz Zahlen Schwellen Und Berechnung, Markenarten Compliance Dokumentation Und Akte, Markenrecht Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - markenrecht-fashion-luxus
+# Arbeitsbereich - Euipo Behoerden Gericht Und Registerweg bis Markenrecht Erstpruefung Und Mandatsziel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-euipo-behoerden-gericht-und-registerweg` | Euipo: Behörden-, Gerichts- oder Registerweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-korrespondenz-zahlen-schwellen-und-berechnung` | Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-euipo-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Euipo: Behörden-, Gerichts- oder Registerweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Euipo: Behörden-, Gerichts- oder Registerweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Euipo: Behörden-, Gerichts- oder Registerweg
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-korrespondenz-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Korrespondenz: Zahlen, Schwellenwerte und Berechnung im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Korrespondenz: Zahlen, Schwellenwerte und Berechnung
 
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-markenarten-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Markenarten: Compliance-Dokumentation und Aktenvermerk im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Markenarten: Compliance-Dokumentation und Aktenvermerk
 
@@ -152,7 +152,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-markenrecht-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Markenrecht: Erstprüfung, Rollenklärung und Mandatsziel
 

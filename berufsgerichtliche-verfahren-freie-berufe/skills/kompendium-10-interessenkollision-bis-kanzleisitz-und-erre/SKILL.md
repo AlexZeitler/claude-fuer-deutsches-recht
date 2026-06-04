@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-interessenkollision-bis-kanzleisitz-und-erre
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (interessenkollision-mehrfachvertretung-praevention, interessenkollision-mehrfachvertretung-verteidigung, kanzleisitz-und-erreichbarkeit-praevention, kanzleisitz-und-erreichbarkeit-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Interessenkollision Mehrfachvertretung Praevention, Interessenkollision Mehrfachvertretung Verteidigung, Kanzleisitz Und Erreichbarkeit Praevention, Kanzleisitz Und Erreichbarkeit Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Interessenkollision Mehrfachvertretung Praevention bis Kanzleisitz Und Erreichbarkeit Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `interessenkollision-mehrfachvertretung-praevention` | Interessenkollision Mehrfachvertretung (Präventions- und Organisationspaket): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `interessenkollision-mehrfachvertretung-verteidigung` | Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `interessenkollision-mehrfachvertretung-praevention`
 
-**Frühere Beschreibung:** Interessenkollision Mehrfachvertretung (Präventions- und Organisationspaket): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Interessenkollision Mehrfachvertretung (Präventions- und Organisationspaket): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Interessenkollision Mehrfachvertretung: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `interessenkollision-mehrfachvertretung-verteidigung`
 
-**Frühere Beschreibung:** Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Interessenkollision Mehrfachvertretung (Verteidigungs- und Kammerantwort): steuert Verbot widerstreitender Interessen, Sozietät, Vorbefassung und Mandatsniederlegung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Interessenkollision Mehrfachvertretung: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `kanzleisitz-und-erreichbarkeit-praevention`
 
-**Frühere Beschreibung:** Kanzleisitz und Erreichbarkeit (Präventions- und Organisationspaket): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kanzleisitz und Erreichbarkeit (Präventions- und Organisationspaket): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kanzleisitz und Erreichbarkeit: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `kanzleisitz-und-erreichbarkeit-verteidigung`
 
-**Frühere Beschreibung:** Kanzleisitz und Erreichbarkeit (Verteidigungs- und Kammerantwort): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kanzleisitz und Erreichbarkeit (Verteidigungs- und Kammerantwort): steuert Kanzleisitz, Briefkasten, virtuelle Kanzlei, Zustellbarkeit und berufsrechtliche Organisation mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kanzleisitz und Erreichbarkeit: Verteidigungs- und Kammerantwort
 

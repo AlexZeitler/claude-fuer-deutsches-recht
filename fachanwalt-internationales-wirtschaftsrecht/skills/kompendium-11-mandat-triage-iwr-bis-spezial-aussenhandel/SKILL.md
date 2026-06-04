@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-mandat-triage-iwr-bis-spezial-aussenhandel
-description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (mandat-triage-iwr, schriftsatzkern-substantiierung, spezial-aussenhandel-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-internationales-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-internationales-wirtschaftsrecht
+# Arbeitsbereich - Mandat Triage Iwr, Schriftsatzkern Substantiierung, Aussenhandel Zahlen Schwellen Und Berechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandat-triage-iwr` | Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht). |
 | `schriftsatzkern-substantiierung` | Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandat-triage-iwr`
 
-**Frühere Beschreibung:** Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht).
+**Fokus:** Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht).
 
 # Mandat-Triage Internationales Wirtschaftsrecht
 
@@ -214,7 +214,7 @@ Folge-Skill:              [CISG-PRUEFUNG / SCHIEDSKLAUSEL / GERICHTSSTAND ...]
 
 ## 2. `schriftsatzkern-substantiierung`
 
-**Frühere Beschreibung:** Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
+**Fokus:** Substantiierter Schriftsatzkern für Klage mit CISG-/EuGVVO-Bezug, Schiedsklage, Vollstreckung Auslandsurteil: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau.
 
 # Schriftsatzkern und Substantiierung im Internationales Wirtschafts- und Schiedsrecht
 
@@ -512,7 +512,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ## 3. `spezial-aussenhandel-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Aussenhandel: Zahlen, Schwellenwerte und Berechnung im Plugin fachanwalt internationales wirtschaftsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Aussenhandel: Zahlen, Schwellenwerte und Berechnung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ist-das-ein-problem-bis-marktueberwachung-ko
-description: "produktrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (ist-das-ein-problem, ki-act-produktintegration, marktueberwachung-kommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ist Das Ein Problem, Ki Act Produktintegration, Marktueberwachung Kommunikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - produktrecht
+# Arbeitsbereich - Ist Das Ein Problem, Ki Act Produktintegration, Marktueberwachung Kommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ist-das-ein-problem` | Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse. |
 | `ki-act-produktintegration` | KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster fuer Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ist-das-ein-problem`
 
-**Frühere Beschreibung:** Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse.
+**Fokus:** Schnelle "Ist-das-ein-Problem?"-Antwort für die schnelle Slack-Frage – muster-erkennt gegen Ihre Kalibrierung. Verwenden wenn der Nutzer sagt "ist das ein Problem", "kurze Frage", "können wir X machen", "brauche ich rechtliche Prüfung für", "Plausibilitätsprüfung", oder eine PM-Frage einfügt die eine Gleich-Minuten-Antwort braucht. Ziel: 5-Minuten-Antwort mit Quellen – keine ausführliche Analyse.
 
 # /ist-das-ein-problem – Schnellprüfung
 
@@ -180,7 +180,7 @@ Typische Schnellzitate für häufige Konstellationen:
 
 ## 2. `ki-act-produktintegration`
 
-**Frühere Beschreibung:** KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster fuer Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden.
+**Fokus:** KI-Verordnung-Integration in Produkte: Hochrisiko-KI nach Anhang III, Konformitaetsbewertung mit CE-Kennzeichnung, Verzahnung mit Maschinen-VO und Medizinprodukten. Pruefraster fuer Produktverantwortliche, ab welchen KI-Bausteinen welche Pflichten ausgeloest werden.
 
 # KI-VO: Produktintegration
 
@@ -232,7 +232,7 @@ Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `marktueberwachung-kommunikation`
 
-**Frühere Beschreibung:** Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Laender, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte.
+**Fokus:** Kommunikation mit Marktueberwachungsbehoerden (zentrale Stellen der Laender, BAuA, BfArM, BNetzA): Anfrage, Probenahme, Anordnung, Rueckruf. Antwortstrategie, Schweigerecht des Herstellers, Auskunftspflichten Art. 4 MarktueberwG. Mitwirkung an Rueckrufen. Mustertexte.
 
 # Marktueberwachung-Kommunikation
 

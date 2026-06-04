@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-physische-sicherheit-bis-public-sector-bsi-an
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (physische-sicherheit-rechenzentrum, policy-pack, privileged-access-management, public-sector-bsi-anforderungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Physische Sicherheit Rechenzentrum, Policy Pack, Privileged Access Management, Public Sector Bsi Anforderungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Physische Sicherheit Rechenzentrum bis Public Sector Bsi Anforderungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `physische-sicherheit-rechenzentrum` | Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten. |
 | `policy-pack` | Erzeugt ein schlankes Policy-Paket statt Papierfriedhof. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `physische-sicherheit-rechenzentrum`
 
-**Frühere Beschreibung:** Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten.
+**Fokus:** Prüft physische Sicherheit von Serverraum, Rechenzentrum und Standorten.
 
 # Physische Sicherheit Rechenzentrum
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `policy-pack`
 
-**Frühere Beschreibung:** Erzeugt ein schlankes Policy-Paket statt Papierfriedhof.
+**Fokus:** Erzeugt ein schlankes Policy-Paket statt Papierfriedhof.
 
 # Policy Pack
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `privileged-access-management`
 
-**Frühere Beschreibung:** Prüft privilegierte Zugänge, Admin-Sessions und Break-glass.
+**Fokus:** Prüft privilegierte Zugänge, Admin-Sessions und Break-glass.
 
 # Privileged Access Management
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `public-sector-bsi-anforderungen`
 
-**Frühere Beschreibung:** Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten.
+**Fokus:** Prüft BSI-Anforderungen für öffentliche Auftraggeber und Lieferanten.
 
 # Public Sector BSI Anforderungen
 

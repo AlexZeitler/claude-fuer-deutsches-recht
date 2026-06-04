@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-vdg-007-finanzierung-bis-vdg-010-lebenssachve
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (vdg-007-finanzierung-und-interessenkonflikte, vdg-008-verbandsklageregister-vorbereiten, vdg-009-klageziele-praezise-schneiden, vdg-010-lebenssachverhalt-buendeln) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 007 Finanzierung Und Interessenkonflikte, Vdg 008 Verbandsklageregister Vorbereiten, Vdg 009 Klageziele Praezise Schneiden, Vdg 010 Lebenssachverhalt Buendeln; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 007 Finanzierung Und Interessenkonflikte bis Vdg 010 Lebenssachverhalt Buendeln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-007-finanzierung-und-interessenkonflikte` | Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-008-verbandsklageregister-vorbereiten` | Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-007-finanzierung-und-interessenkonflikte`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Finanzierung und Interessenkonflikte. Finanzierung und Interessenkonflikte im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Finanzierung Und Interessenkonflikte
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-008-verbandsklageregister-vorbereiten`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Verbandsklageregister vorbereiten. Verbandsklageregister vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verbandsklageregister Vorbereiten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-009-klageziele-praezise-schneiden`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Klageziele präzise schneiden. Klageziele präzise schneiden im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Klageziele präzise schneiden. Klageziele präzise schneiden im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Klageziele Praezise Schneiden
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-010-lebenssachverhalt-buendeln`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Lebenssachverhalt bündeln. Lebenssachverhalt bündeln im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Lebenssachverhalt bündeln. Lebenssachverhalt bündeln im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Lebenssachverhalt Buendeln
 

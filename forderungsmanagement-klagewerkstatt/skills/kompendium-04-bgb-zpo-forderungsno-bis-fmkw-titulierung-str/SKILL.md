@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bgb-zpo-forderungsno-bis-fmkw-titulierung-str
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (bgb-zpo-forderungsnormcheck, fmkw-saumselig-streitig-erfahrung-spezial, fmkw-titulierung-streckung-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Bgb Zpo Forderungsnormcheck, Fmkw Saumselig Streitig Erfahrung Spezial, Fmkw Titulierung Streckung Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bgb-zpo-forderungsnormcheck` | BGB/ZPO-Forderungsnormcheck: prüft Anspruch, Fälligkeit, Verzug, Zinsen, Verjährung, Mahnverfahren, Klage, Zustellung demnächst, Titel, Klausel, Zustellung und Vollstreckung anhand aktueller Normen. |
 | `fmkw-saumselig-streitig-erfahrung-spezial` | Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsaetze. Pruefraster fuer Klaegeranwalt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bgb-zpo-forderungsnormcheck`
 
-**Frühere Beschreibung:** BGB/ZPO-Forderungsnormcheck: prüft Anspruch, Fälligkeit, Verzug, Zinsen, Verjährung, Mahnverfahren, Klage, Zustellung demnächst, Titel, Klausel, Zustellung und Vollstreckung anhand aktueller Normen.
+**Fokus:** BGB/ZPO-Forderungsnormcheck: prüft Anspruch, Fälligkeit, Verzug, Zinsen, Verjährung, Mahnverfahren, Klage, Zustellung demnächst, Titel, Klausel, Zustellung und Vollstreckung anhand aktueller Normen.
 
 # BGB/ZPO-Forderungsnormcheck
 
@@ -74,7 +74,7 @@ Nutze `references/bgb-zpo-forderungskern.md`.
 
 ## 2. `fmkw-saumselig-streitig-erfahrung-spezial`
 
-**Frühere Beschreibung:** Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsaetze. Pruefraster fuer Klaegeranwalt.
+**Fokus:** Spezialfall saeumiges Verfahren und streitiges Verfahren nach Widerspruch: prozessuale Weichen, Beweislast, Schriftsaetze. Pruefraster fuer Klaegeranwalt.
 
 # FMKW: Saumselig Streitig
 
@@ -127,7 +127,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `fmkw-titulierung-streckung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Titulierung mit Ratenzahlung und Streckung: Anerkenntnis, Schuldanerkenntnis, Ratenvereinbarung mit Vollstreckungsmoeglichkeit. Pruefraster fuer Inkassoanwalt.
+**Fokus:** Leitfaden Titulierung mit Ratenzahlung und Streckung: Anerkenntnis, Schuldanerkenntnis, Ratenvereinbarung mit Vollstreckungsmoeglichkeit. Pruefraster fuer Inkassoanwalt.
 
 # FMKW: Titulierung Streckung
 

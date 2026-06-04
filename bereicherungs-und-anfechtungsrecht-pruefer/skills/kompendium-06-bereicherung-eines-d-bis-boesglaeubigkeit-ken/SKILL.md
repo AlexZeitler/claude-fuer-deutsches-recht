@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bereicherung-eines-d-bis-boesglaeubigkeit-ken
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (bereicherung-eines-dritten-822-bgb, bereicherungsausgleich-bei-kettenvertraegen, beweise-und-darlegungslast-bereicherungsrecht, boesglaeubigkeit-kenntnis-und-819-timing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bereicherung Eines Dritten 822 Bgb, Bereicherungsausgleich Bei Kettenvertraegen, Beweise Und Darlegungslast Bereicherungsrecht, Boesglaeubigkeit Kenntnis Und 819 Timing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Bereicherung Eines Dritten 822 Bgb bis Boesglaeubigkeit Kenntnis Und 819 Timing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bereicherung-eines-dritten-822-bgb` | Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfänger. |
 | `bereicherungsausgleich-bei-kettenvertraegen` | Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bereicherung-eines-dritten-822-bgb`
 
-**Frühere Beschreibung:** Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfänger.
+**Fokus:** Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB prüfen. Normen: § 822 BGB. Prüfraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfängers, Subsidiarität des Drittanspruchs. Output: Prüfergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfänger.
 
 # Bereicherung eines Dritten — § 822 BGB
 
@@ -117,7 +117,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `bereicherungsausgleich-bei-kettenvertraegen`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime.
+**Fokus:** Nutze diesen Skill, wenn Vertrags- oder Lieferketten ohne falschen Durchgriff rückabgewickelt werden müssen. Normen: §§ 812 und 818 BGB. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Kettenkarte mit Rückabwicklung in der jeweils fehlerhaften Beziehung. Abgrenzung: nicht Direktdurchgriff ohne Spezialregime.
 
 # Bereicherungsausgleich bei Kettenverträgen
 
@@ -220,7 +220,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `beweise-und-darlegungslast-bereicherungsrecht`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst.
+**Fokus:** Nutze diesen Skill, wenn Darlegung, Beweislast und Belegbedarf anspruchsbezogen geplant werden müssen. Normen: §§ 812 ff. BGB; §§ 138 und 286 ZPO. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Beweisplan mit Darlegungslast, Beweismitteln und Substantiierungsbedarf. Abgrenzung: nicht inhaltliche Anspruchsprüfung selbst.
 
 # Beweise und Darlegungslast im Bereicherungsrecht
 
@@ -329,7 +329,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `boesglaeubigkeit-kenntnis-und-819-timing`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB.
+**Fokus:** Nutze diesen Skill, wenn der Zeitpunkt der Kenntnis über den Umfang der Haftung entscheidet. Normen: §§ 819 und 820 BGB; § 818 Abs. 4 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Zeitachse Kenntnis mit Haftungsverschärfung nach § 819 BGB. Abgrenzung: nicht einfacher Entreicherungseinwand § 818 Abs. 3 BGB.
 
 # Bösgläubigkeit, Kenntnis und § 819 Timing
 

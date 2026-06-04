@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-aussenwirtschaft-pas-bis-aussenwirtschaft-ver
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (aussenwirtschaft-passive-veredelung, aussenwirtschaft-rueckwaren-erlass-erstattung, aussenwirtschaft-technologie-transfer-cloud-download, aussenwirtschaft-verbrauchsteuer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Passive Veredelung, Aussenwirtschaft Rueckwaren Erlass Erstattung, Aussenwirtschaft Technologie Transfer Cloud Download, Aussenwirtschaft Verbrauchsteuer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Passive Veredelung bis Aussenwirtschaft Verbrauchsteuer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-passive-veredelung` | Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg fuer Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage. |
 | `aussenwirtschaft-rueckwaren-erlass-erstattung` | Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-passive-veredelung`
 
-**Frühere Beschreibung:** Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg fuer Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage.
+**Fokus:** Passive Veredelung nach UZK Art. 259-262 und DA Art. 240-244: Beantragung der Bewilligung beim Hauptzollamt, Abgabenprivileg fuer Veredelungserzeugnisse, Ausgleichserzeugnisse, Warenidentitaet, Frist und Zollwertberechnungsmethoden (Abzugsmethode). Output: Bewilligungsantrag und Zollwert-Berechnungsvorlage.
 
 # Passive Veredelung: Bewilligung, Warenidentitaet und Zollwertberechnung
 
@@ -115,7 +115,7 @@ Bewilligungsantrag passive Veredelung, Warenidentitaets-Protokoll, Zollwert-Bere
 
 ## 2. `aussenwirtschaft-rueckwaren-erlass-erstattung`
 
-**Frühere Beschreibung:** Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation.
+**Fokus:** Zollerlass und -erstattung fuer Rueckwaren nach UZK Art. 203 und Verfahren 6321: Voraussetzungen der Rueckwaren-Abgabenfreiheit, Dreijahrsfrist, Identitaetsnachweis, Abgrenzung zur aktiven und passiven Veredelung. Output: Antragsschreiben Rueckwaren-Zollerlass und Identitaetsnachweis-Dokumentation.
 
 # Rueckwaren: Zollerlass und Identitaetsnachweis nach UZK Art. 203
 
@@ -201,7 +201,7 @@ Antragsschreiben Rueckwaren-Zollerlass an Hauptzollamt, Identitaetsnachweis-Doku
 
 ## 3. `aussenwirtschaft-technologie-transfer-cloud-download`
 
-**Frühere Beschreibung:** Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept.
+**Fokus:** Exportkontrolle fuer Technologietransfer durch Cloud-Dienste und Downloads: Genehmigungspflicht nach VO (EU) 2021/821 Art. 2 Nr. 7 (technische Unterstuetzung) und Art. 22 (Brokering) bei Software-Uploads Fernzugriff und E-Mail-Uebermittlung in Drittlaender. Abgrenzung zur physischen Ausfuhr. Output: Transfer-Klassifizierung und Zugangssteuerungskonzept.
 
 # Technologietransfer durch Cloud und Downloads: Exportkontrolle immaterieller Gueter
 
@@ -288,7 +288,7 @@ Transfer-Klassifizierungsvermerk, Zugangssteuerungskonzept fuer Cloud-Plattforme
 
 ## 4. `aussenwirtschaft-verbrauchsteuer`
 
-**Frühere Beschreibung:** Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. Output: Verbrauchsteuer-Pruefmatrix und EMCS-Eintragungsanleitung.
+**Fokus:** Verbrauchsteuerrecht im Aussenhandel: Energiesteuer Alkoholsteuer Tabaksteuer und ElektrizitaetssteuerG bei Ein- und Ausfuhr. Steueraussetzungsverfahren EMCS Befoerderungsdokument (e-VD) und Erstattungsansprueche bei Ausfuhr verbrauchsteuerpflichtiger Waren. Abgrenzung Zoll und Verbrauchsteuer. Output: Verbrauchsteuer-Pruefmatrix und EMCS-Eintragungsanleitung.
 
 # Verbrauchsteuer im Aussenhandel: Steueraussetzung EMCS und Erstattung
 

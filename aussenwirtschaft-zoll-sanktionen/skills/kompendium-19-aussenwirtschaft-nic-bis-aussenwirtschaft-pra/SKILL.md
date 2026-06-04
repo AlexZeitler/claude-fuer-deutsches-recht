@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-aussenwirtschaft-nic-bis-aussenwirtschaft-pra
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in, aussenwirtschaft-ofac-sdn-non-sdn, aussenwirtschaft-post-merger-icp-integration, aussenwirtschaft-praeferenzkalkulation-lieferantenerklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Nichtpraeferenzieller Ursprung Made In, Aussenwirtschaft Ofac Sdn Non Sdn, Aussenwirtschaft Post Merger Icp Integration, Aussenwirtschaft Praeferenzkalkulation Lieferantenerklaerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Nichtpraeferenzieller Ursprung Made In bis Aussenwirtschaft Praeferenzkalkulation Lieferantenerklaerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in` | Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt. |
 | `aussenwirtschaft-ofac-sdn-non-sdn` | US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-nichtpraeferenzieller-ursprung-made-in`
 
-**Frühere Beschreibung:** Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt.
+**Fokus:** Nichtpraeferenzieller Ursprung nach UZK Art. 59-61 und UZK-DA Art. 31-36: Bestimmung durch wesentliche Be- oder Verarbeitung, Listenregeln fuer HS-Wechsel, Wertschwellen und Letzte-wesentliche-Bearbeitung-Kriterium. Bedeutung fuer Made-in-Bezeichnung im Handelsrecht, Antidumping-Umgehungspruefung und Nachweispflichten gegenueber Zollbehoerden. Output: Ursprungsgutachten und Nachweispaket fuer Hauptzollamt.
 
 # Nichtpraeferenzieller Ursprung und Made-in-Bezeichnung: Berechnung und Nachweis
 
@@ -116,7 +116,7 @@ Ursprungsgutachten mit HS-Code-Analyse, Listenregelnachweis, Wertschwell-Berechn
 
 ## 2. `aussenwirtschaft-ofac-sdn-non-sdn`
 
-**Frühere Beschreibung:** US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung.
+**Fokus:** US-OFAC-Sanktionsregime fuer deutsche und EU-Unternehmen: SDN List, sectoral sanctions (SSI-List), secondary sanctions-Risiken, US-Nexus bei Dollar-Transaktionen und US-Technologie, Blocking-Statute VO (EG) 2271/96 als Gegengewicht. Output: US-Sanktions-Touchpoint-Analyse und Handlungsempfehlung.
 
 # US-OFAC-Sanktionen fuer EU-Unternehmen: SDN, Sektoral und Secondary Sanctions
 
@@ -203,7 +203,7 @@ US-Sanktions-Touchpoint-Analyse mit SDN/SSI-Pruefprotokoll, Secondary-sanctions-
 
 ## 3. `aussenwirtschaft-post-merger-icp-integration`
 
-**Frühere Beschreibung:** Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout fuer neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle.
+**Fokus:** Integration des Internal Compliance Programme nach M&A: Harmonisierung von ICP-Standards zwischen Kaeufer und Zielunternehmen, Risikolucken-Schliessen, Schulungsrollout fuer neue Mitarbeiter, BAFA-Mitteilung bei Inhaberwechsel exportkontrollrelevanter Genehmigungen. Output: ICP-Integrationsplan und Meilensteintabelle.
 
 # Post-Merger ICP-Integration: Harmonisierung und Lueckenschliessung
 
@@ -290,7 +290,7 @@ ICP-Gap-Analyse, Integrationsplan mit Meilensteinen, Schulungsrollout-Plan und V
 
 ## 4. `aussenwirtschaft-praeferenzkalkulation-lieferantenerklaerung`
 
-**Frühere Beschreibung:** Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollstaendige Gewinnung, Kumulierungsmoeglichkeiten, Lieferantenerklaerung nach VO (EU) 1207/2001 und VO (EU) 2015/2447. Output: Ursprungskalkulation und Lieferantenerklaerungsvorlage.
+**Fokus:** Berechnung und Dokumentation des praeferenziellen Ursprungs nach UZK Art. 64 und DA Anhang 22-03: Listenregeln, HS-Wechsel, Wertschwell, vollstaendige Gewinnung, Kumulierungsmoeglichkeiten, Lieferantenerklaerung nach VO (EU) 1207/2001 und VO (EU) 2015/2447. Output: Ursprungskalkulation und Lieferantenerklaerungsvorlage.
 
 # Praeferenzkalkulation und Lieferantenerklaerung: Nachweis des Praeferenzursprungs
 

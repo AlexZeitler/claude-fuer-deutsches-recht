@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-product-liability-de-bis-quellen-und-livechec
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (product-liability-defective-software-eu, prompt-code-ownership, public-procurement-software, quellen-und-livecheck-softwarerecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Product Liability Defective Software Eu, Prompt Code Ownership, Public Procurement Software, Quellen Und Livecheck Softwarerecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - softwarerecht-de-eu-us
+# Arbeitsbereich - Product Liability Defective Software Eu bis Quellen Und Livecheck Softwarerecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `product-liability-defective-software-eu` | Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen. |
 | `prompt-code-ownership` | Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `product-liability-defective-software-eu`
 
-**Frühere Beschreibung:** Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen.
+**Fokus:** Prüft neue EU-Produkthaftung für Software, KI, Updates, Sicherheitslücken und Herstellerrollen.
 
 # Produkthaftung für fehlerhafte Software EU
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `prompt-code-ownership`
 
-**Frühere Beschreibung:** Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken.
+**Fokus:** Prüft Rechte an Prompts, Generated Code, Agent Workflows, Copilot-Ausgaben und internen Promptbibliotheken.
 
 # Prompt und Code Ownership
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `public-procurement-software`
 
-**Frühere Beschreibung:** Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken.
+**Fokus:** Prüft öffentliche Softwarebeschaffung, EVB-IT, Leistungsbeschreibung, Cloud, Open Source, IT-Sicherheit und Nachprüfungsrisiken.
 
 # Vergabe von Software
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `quellen-und-livecheck-softwarerecht`
 
-**Frühere Beschreibung:** Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate.
+**Fokus:** Erzwingt Liveprüfung aktueller Normen, Behördenquellen, EU-Rechtsakte, USPTO/EPO-Guidance und keine Blindzitate.
 
 # Quellen- und Livecheck Softwarerecht
 

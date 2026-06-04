@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-pralr-neu-010-erster-bis-pralr-neu-014-erster
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums, pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac, pralr-neu-012-erster-teil-titel-9-grundstuecke-grenzen-nachbarn, pralr-neu-013-erster-teil-titel-10-dienstbarkeiten-reallasten-un, pralr-neu-014-erster-teil-titel-11-kauf-tausch-schenkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums, Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac, Pralr Neu 012 Erster Teil Titel 9 Grundstuecke Grenzen Nachbarn, Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogi"
 ---
 
-# Kompendium 14 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums bis Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums` | PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac` | PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-neu-010-erster-teil-titel-7-gewahrsam-besitz-und-eigentums`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 7 Gewahrsam Besitz und Eigentumsverfolgung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 010 Erster Teil Titel 7 Gewahrsam Besitz Und Eigentums
 
@@ -79,7 +79,7 @@ A wird die Pferdekutsche gestohlen; gelangt zu B.
 
 ## 2. `pralr-neu-011-erster-teil-titel-8-erwerb-eigentum-bewegliche-sac`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 8 Erwerb Eigentum bewegliche Sachen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 011 Erster Teil Titel 8 Erwerb Eigentum Bewegliche Sac
 
@@ -127,7 +127,7 @@ A kauft Pferd von B.
 
 ## 3. `pralr-neu-012-erster-teil-titel-9-grundstuecke-grenzen-nachbarn`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Erster Teil Titel 9 Grundstücke Grenzen Nachbarn
 
@@ -197,7 +197,7 @@ ALR I 9 / I 22 / I 23 regelt Grundstuecksrecht, Grenzen, Nachbarrecht, Notwege, 
 
 ## 4. `pralr-neu-013-erster-teil-titel-10-dienstbarkeiten-reallasten-un`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 10 Dienstbarkeiten Reallasten und Nutzungen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 013 Erster Teil Titel 10 Dienstbarkeiten Reallasten Un
 
@@ -236,7 +236,7 @@ Dorfgemeinschaft hat Hutungsrecht (Weiderecht) auf Adelsgrundstueck.
 
 ## 5. `pralr-neu-014-erster-teil-titel-11-kauf-tausch-schenkung`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 11 Kauf Tausch Schenkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 014 Erster Teil Titel 11 Kauf Tausch Schenkung
 

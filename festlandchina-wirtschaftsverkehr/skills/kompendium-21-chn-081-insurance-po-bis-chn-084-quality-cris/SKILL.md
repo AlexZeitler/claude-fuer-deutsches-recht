@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-chn-081-insurance-po-bis-chn-084-quality-cris
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (chn-081-insurance-political-risk, chn-082-force-majeure-and-change-in-law, chn-083-supply-disruption-playbook, chn-084-quality-crisis-and-recall) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 081 Insurance Political Risk, Chn 082 Force Majeure And Change In Law, Chn 083 Supply Disruption Playbook, Chn 084 Quality Crisis And Recall; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 081 Insurance Political Risk bis Chn 084 Quality Crisis And Recall
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-081-insurance-political-risk` | Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken. |
 | `chn-082-force-majeure-and-change-in-law` | Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-081-insurance-political-risk`
 
-**Frühere Beschreibung:** Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken.
+**Fokus:** Versicherung politischer Risiken im China-Geschaeft: Euler Hermes/Atradius-Deckung, Investitionsgarantien des Bundes (BMWK), AGA (Außenwirtschaftsförderung), Hermes-Deckung für Exportkredite, politisches Risiko (Enteignung/Transferstopp/Krieg), Taiwan-Szenario-Deckung. Output: Versicherungsportfolio-Überblick China-Risiken und Deckungslücken.
 
 # Politisches Risiko China: Versicherung und Investitionsgarantien
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-082-force-majeure-and-change-in-law`
 
-**Frühere Beschreibung:** Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster.
+**Fokus:** Force Majeure und Change-in-Law-Klauseln im China-Kontext: CN-Civil-Code Art. 180 Force Majeure, CISG Art. 79, Exportverbot als Force-Majeure-Ereignis (streitig), Change-in-Law-Klauseln bei Exportkontrollen/Sanktionen, Vertragsanpassung § 313 BGB, Haftungsausschluss und Schadensersatz. Output: Klauselgestaltungs-Leitfaden und Vertragsanpassungsmuster.
 
 # Force Majeure und Change-in-Law China: Klauselgestaltung
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-083-supply-disruption-playbook`
 
-**Frühere Beschreibung:** Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen.
+**Fokus:** Supply-Disruption-Playbook China: Eskalationsstufen bei Lieferunterbrechung (Frühwarnung/Teilausfall/Komplettausfall), interne Kommunikationskette, Kunden-Kommunikationspflichten (vertragliche Hinweispflichten), Behörden-Notifications (BAFA bei Dual-Use), Notfallbeschaffung, Schadensdokumentation für Versicherung. Output: Supply-Disruption-Playbook mit Protokollvorlagen.
 
 # Supply-Disruption-Playbook China: Notfallprotokoll und Eskalation
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-084-quality-crisis-and-recall`
 
-**Frühere Beschreibung:** Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie.
+**Fokus:** Qualitätskrise und Rückruf bei China-Importwaren: EU-Produktsicherheits-VO 2023/988 Rückrufpflichten, RAPEX-Meldepflicht, nationale Behörden (BAuA/BNetzA/LANUV), Regressansprüche gegen chinesischen Hersteller, Produkthaftung ProdHaftG § 4, Schadensersatz CISG, PR-Krisenkommunikation. Output: Rückruf-Protokoll und Regressstrategie.
 
 # Qualitätskrise und Rückruf China-Import: Haftung und Protokoll
 

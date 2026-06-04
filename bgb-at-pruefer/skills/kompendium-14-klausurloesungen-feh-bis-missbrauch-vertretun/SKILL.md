@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-klausurloesungen-feh-bis-missbrauch-vertretun
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (klausurloesungen-fehlerdiagnose, konsens-dissens-paragraphen-154-155, missbrauch-vertretungsmacht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - bgb-at-pruefer
+# Arbeitsbereich - Klausurloesungen Fehlerdiagnose, Konsens Dissens Paragraphen 154 155, Missbrauch Vertretungsmacht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klausurloesungen-fehlerdiagnose` | Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge. |
 | `konsens-dissens-paragraphen-154-155` | Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: fehlende Einigung über Nebenpunkte, Vorbehalt der Beurkundung, ergänzende Vertragsauslegung als Heilungsmechanismus, Abgrenzung von Anfechtung und Dissens. Klausurfall mit Lösungsskizze. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klausurloesungen-fehlerdiagnose`
 
-**Frühere Beschreibung:** Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge.
+**Fokus:** Analysiert fehlerhafte Klausurlösungen im BGB Allgemeiner Teil: typische Aufbaufehler beim Anspruchsaufbau, falsche Prüfungsreihenfolge (Auslegung vor Anfechtung), übersehene Normen wie § 122 BGB und § 179 BGB, unvollständige Subsumtion. Output: annotiertes Feedback und Verbesserungsvorschläge.
 
 # Klausurlösungen — Fehlerdiagnose und Verbesserung
 
@@ -111,7 +111,7 @@ Punkte.
 
 ## 2. `konsens-dissens-paragraphen-154-155`
 
-**Frühere Beschreibung:** Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: fehlende Einigung über Nebenpunkte, Vorbehalt der Beurkundung, ergänzende Vertragsauslegung als Heilungsmechanismus, Abgrenzung von Anfechtung und Dissens. Klausurfall mit Lösungsskizze.
+**Fokus:** Prüft offenen und versteckten Dissens nach §§ 154 und 155 BGB: fehlende Einigung über Nebenpunkte, Vorbehalt der Beurkundung, ergänzende Vertragsauslegung als Heilungsmechanismus, Abgrenzung von Anfechtung und Dissens. Klausurfall mit Lösungsskizze.
 
 # Konsens und Dissens — §§ 154 und 155 BGB
 
@@ -195,7 +195,7 @@ möglich (§ 155 BGB), der Rest ist offen.
 
 ## 3. `missbrauch-vertretungsmacht`
 
-**Frühere Beschreibung:** Klausurfall zum Missbrauch der Vertretungsmacht: kollusives Zusammenwirken von Vertreter und Drittem zum Nachteil des Vertretenen, Kenntnis oder Kennenmüssen des Dritten, Rechtsfolge der Unwirksamkeit analog § 138 BGB oder § 242 BGB. BGH-Linie zum Evidenzmaßstab.
+**Fokus:** Klausurfall zum Missbrauch der Vertretungsmacht: kollusives Zusammenwirken von Vertreter und Drittem zum Nachteil des Vertretenen, Kenntnis oder Kennenmüssen des Dritten, Rechtsfolge der Unwirksamkeit analog § 138 BGB oder § 242 BGB. BGH-Linie zum Evidenzmaßstab.
 
 # Missbrauch der Vertretungsmacht
 

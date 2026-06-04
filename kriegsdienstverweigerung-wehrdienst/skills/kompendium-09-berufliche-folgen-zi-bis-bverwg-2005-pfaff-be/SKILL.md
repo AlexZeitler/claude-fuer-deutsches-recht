@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-berufliche-folgen-zi-bis-bverwg-2005-pfaff-be
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (berufliche-folgen-zivil, berufssoldaten-kdv, bescheid-archivieren, beweislast-und-ueberzeugungsbildung, bverwg-2005-pfaff-befehl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufliche Folgen Zivil, Berufssoldaten Kdv, Bescheid Archivieren, Beweislast Und Ueberzeugungsbildung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Berufliche Folgen Zivil bis Bverwg 2005 Pfaff Befehl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufliche-folgen-zivil` | Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr. |
 | `berufssoldaten-kdv` | Prüft KDV-Antrag, Entlassungsfolge und Statusrisiken bei Berufssoldaten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufliche-folgen-zivil`
 
-**Frühere Beschreibung:** Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr.
+**Fokus:** Prüft Arbeitgeber, Ausbildung, Studium und Nachweise außerhalb der Bundeswehr.
 
 # Berufliche Folgen zivil
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `berufssoldaten-kdv`
 
-**Frühere Beschreibung:** Prüft KDV-Antrag, Entlassungsfolge und Statusrisiken bei Berufssoldaten.
+**Fokus:** Prüft KDV-Antrag, Entlassungsfolge und Statusrisiken bei Berufssoldaten.
 
 # Berufssoldaten und KDV
 
@@ -140,7 +140,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 3. `bescheid-archivieren`
 
-**Frühere Beschreibung:** Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide.
+**Fokus:** Erstellt Nachweis- und Archivstrategie für Anerkennungsbescheide.
 
 # Anerkennungsbescheid archivieren
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `beweislast-und-ueberzeugungsbildung`
 
-**Frühere Beschreibung:** Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung.
+**Fokus:** Erklärt hohe Wahrscheinlichkeit und gerichtliche Überzeugungsbildung.
 
 # Beweismaß und Überzeugung
 
@@ -250,7 +250,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 5. `bverwg-2005-pfaff-befehl`
 
-**Frühere Beschreibung:** Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein.
+**Fokus:** Ordnet BVerwG 2 WD 12.04 als konkreten Gewissenskonflikt ein.
 
 # BVerwG 2005 konkreter Befehl
 

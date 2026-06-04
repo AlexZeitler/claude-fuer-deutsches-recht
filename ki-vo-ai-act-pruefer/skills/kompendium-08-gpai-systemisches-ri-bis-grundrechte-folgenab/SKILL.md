@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-gpai-systemisches-ri-bis-grundrechte-folgenab
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (gpai-systemisches-risiko-schwelle-10e25-flop, gpai-urheberrecht-policy-art-53, gpai-vorliegen-art-3-nr-63, grundrechte-folgenabschaetzung-art-27-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gpai Systemisches Risiko Schwelle 10e25 Flop, Gpai Urheberrecht Policy Art 53, Gpai Vorliegen Art 3 Nr 63, Grundrechte Folgenabschaetzung Art 27 Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Gpai Systemisches Risiko Schwelle 10e25 Flop bis Grundrechte Folgenabschaetzung Art 27 Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gpai-systemisches-risiko-schwelle-10e25-flop` | Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten). |
 | `gpai-urheberrecht-policy-art-53` | GPAI-Urheberrechtspflichten nach Art. 53 KI-VO: Copyright-Policy, Trainingsdaten-Zusammenfassung, Rechtekette, TDM/Opt-out, Output-Risiko, Anbieterkommunikation und Evidence-Pack fuer Basismodelle und darauf aufsetzende Systeme. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gpai-systemisches-risiko-schwelle-10e25-flop`
 
-**Frühere Beschreibung:** Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten).
+**Fokus:** Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle für systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Prüfraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten).
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO
 
@@ -144,7 +144,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `gpai-urheberrecht-policy-art-53`
 
-**Frühere Beschreibung:** GPAI-Urheberrechtspflichten nach Art. 53 KI-VO: Copyright-Policy, Trainingsdaten-Zusammenfassung, Rechtekette, TDM/Opt-out, Output-Risiko, Anbieterkommunikation und Evidence-Pack fuer Basismodelle und darauf aufsetzende Systeme.
+**Fokus:** GPAI-Urheberrechtspflichten nach Art. 53 KI-VO: Copyright-Policy, Trainingsdaten-Zusammenfassung, Rechtekette, TDM/Opt-out, Output-Risiko, Anbieterkommunikation und Evidence-Pack fuer Basismodelle und darauf aufsetzende Systeme.
 
 # GPAI: Urheberrechtliche Policy nach Art. 53 KI-VO
 
@@ -181,7 +181,7 @@ Urheberrechtliche Compliance ist nicht mit "Daten waren öffentlich im Internet"
 
 ## 3. `gpai-vorliegen-art-3-nr-63`
 
-**Frühere Beschreibung:** Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell oder GPAI-System nach der KI-VO ist und grenzt GPAI von Hochrisiko-KI ab. Behandelt ChatGPT-aehnliche Systeme, Foundation Models, API-Nutzung, GPAI-System Art. 3 Nr. 66, systemisches Risiko und Zweckbestimmung. Kernpunkt: GPAI/allgemeiner Chatbot ist nicht automatisch Hochrisiko; Hochrisiko entsteht erst bei konkreter Integration oder intendiertem Einsatz fuer Art. 6 Abs. 2/Anhang III-Zwecke. Output: GPAI-Einordnung und Routing zu Art. 50, Art. 51-55 oder Anhang-III-Pruefung.
+**Fokus:** Prueft, ob ein Modell oder Dienst ein General-Purpose-AI-Modell oder GPAI-System nach der KI-VO ist und grenzt GPAI von Hochrisiko-KI ab. Behandelt ChatGPT-aehnliche Systeme, Foundation Models, API-Nutzung, GPAI-System Art. 3 Nr. 66, systemisches Risiko und Zweckbestimmung. Kernpunkt: GPAI/allgemeiner Chatbot ist nicht automatisch Hochrisiko; Hochrisiko entsteht erst bei konkreter Integration oder intendiertem Einsatz fuer Art. 6 Abs. 2/Anhang III-Zwecke. Output: GPAI-Einordnung und Routing zu Art. 50, Art. 51-55 oder Anhang-III-Pruefung.
 
 # GPAI, allgemeiner Chatbot und Hochrisiko-Abgrenzung
 
@@ -326,7 +326,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1, Nr. 12, Nr. 13, Nr. 63 und Nr. 66
 
 ## 4. `grundrechte-folgenabschaetzung-art-27-praxis`
 
-**Frühere Beschreibung:** Grundrechte-Folgenabschaetzung nach Art. 27 KI-VO in der Praxis: betroffene Gruppen, Zweck, Risiko, Diskriminierung, Datenschutz, menschliche Aufsicht, Beteiligung, Abhilfe, Residualrisiko und Board-Vorlage.
+**Fokus:** Grundrechte-Folgenabschaetzung nach Art. 27 KI-VO in der Praxis: betroffene Gruppen, Zweck, Risiko, Diskriminierung, Datenschutz, menschliche Aufsicht, Beteiligung, Abhilfe, Residualrisiko und Board-Vorlage.
 
 # Grundrechte-Folgenabschätzung nach Art. 27 KI-VO
 

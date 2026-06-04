@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-polizei-zusammenarbe-bis-rechtshilfe-europaei
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (polizei-zusammenarbeit-ermittlungsauftrag, presse-und-oeffentlichkeit, presseauskunft-und-oeffentlichkeit, protokoll-und-nachbereitung, rechtshilfe-europaeische-ermittlungsanordnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Polizei Zusammenarbeit Ermittlungsauftrag, Presse Und Oeffentlichkeit, Presseauskunft Und Oeffentlichkeit, Protokoll Und Nachbereitung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Polizei Zusammenarbeit Ermittlungsauftrag bis Rechtshilfe Europaeische Ermittlungsanordnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `polizei-zusammenarbeit-ermittlungsauftrag` | Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `presse-und-oeffentlichkeit` | Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `polizei-zusammenarbeit-ermittlungsauftrag`
 
-**Frühere Beschreibung:** Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Zusammenarbeit mit der Polizei: Praxis-Skill für neue Staatsanwälte zu Ermittlungsaufträge so schreiben, dass die Polizei weiß, was beweiserheblich ist und was nicht; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Zusammenarbeit mit der Polizei
 
@@ -80,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `presse-und-oeffentlichkeit`
 
-**Frühere Beschreibung:** Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Presse und Öffentlichkeit: Praxis-Skill für neue Staatsanwälte zu Presserecht, Persönlichkeitsrechte, Unschuldsvermutung und Behördenkommunikation vorsichtig handhaben; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Presse und Öffentlichkeit
 
@@ -130,7 +130,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `presseauskunft-und-oeffentlichkeit`
 
-**Frühere Beschreibung:** Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Presseauskunft und Öffentlichkeit in Strafsachen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Presseauskunft und Öffentlichkeit in Strafsachen
 
@@ -179,7 +179,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `protokoll-und-nachbereitung`
 
-**Frühere Beschreibung:** Protokoll und Nachbereitung: Praxis-Skill für neue Staatsanwälte zu sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Protokoll und Nachbereitung: Praxis-Skill für neue Staatsanwälte zu sichert Verlauf, Zusagen, Beschlüsse, Auflagen und nächste Wiedervorlagen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Protokoll und Nachbereitung
 
@@ -229,7 +229,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `rechtshilfe-europaeische-ermittlungsanordnung`
 
-**Frühere Beschreibung:** Europäische Ermittlungsanordnung und Rechtshilfe: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Europäische Ermittlungsanordnung und Rechtshilfe: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Europäische Ermittlungsanordnung und Rechtshilfe
 

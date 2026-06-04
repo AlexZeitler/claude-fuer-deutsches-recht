@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ausland-aufenthalt-w-bis-begruendung-fuer-akt
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (ausland-aufenthalt-wehrpflicht, bafza-entscheidungspfad, bedarfswehrpflicht-wpflg-2a, befehl-und-gewissenskonflikt, begruendung-fuer-aktive-soldaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausland Aufenthalt Wehrpflicht, Bafza Entscheidungspfad, Bedarfswehrpflicht Wpflg 2a, Befehl Und Gewissenskonflikt und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Ausland Aufenthalt Wehrpflicht bis Begruendung Fuer Aktive Soldaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausland-aufenthalt-wehrpflicht` | Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten. |
 | `bafza-entscheidungspfad` | Trennt Registrierung/Zuleitung durch BAPersBw von der inhaltlichen Entscheidung des BAFzA. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausland-aufenthalt-wehrpflicht`
 
-**Frühere Beschreibung:** Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten.
+**Fokus:** Prüft Ruhen der Wehrpflicht und Genehmigungspflichten bei Auslandsaufenthalten.
 
 # Auslandsaufenthalt
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `bafza-entscheidungspfad`
 
-**Frühere Beschreibung:** Trennt Registrierung/Zuleitung durch BAPersBw von der inhaltlichen Entscheidung des BAFzA.
+**Fokus:** Trennt Registrierung/Zuleitung durch BAPersBw von der inhaltlichen Entscheidung des BAFzA.
 
 # BAFzA entscheidet inhaltlich
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `bedarfswehrpflicht-wpflg-2a`
 
-**Frühere Beschreibung:** Hält das Plugin anschlussfähig an aktivierte Bedarfswehrpflicht.
+**Fokus:** Hält das Plugin anschlussfähig an aktivierte Bedarfswehrpflicht.
 
 # Bedarfswehrpflicht § 2a WPflG
 
@@ -195,7 +195,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 4. `befehl-und-gewissenskonflikt`
 
-**Frühere Beschreibung:** Routet akute Befehlsgewissenskonflikte neben dem KDV-Verfahren.
+**Fokus:** Routet akute Befehlsgewissenskonflikte neben dem KDV-Verfahren.
 
 # Befehl und Gewissenskonflikt
 
@@ -250,7 +250,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 5. `begruendung-fuer-aktive-soldaten`
 
-**Frühere Beschreibung:** Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft.
+**Fokus:** Spezialwerkstatt für aktive Soldaten mit früherer Dienstbereitschaft.
 
 # Begründung aktive Soldaten
 

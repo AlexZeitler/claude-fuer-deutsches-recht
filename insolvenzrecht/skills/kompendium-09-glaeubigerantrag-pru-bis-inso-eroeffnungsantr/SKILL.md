@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-glaeubigerantrag-pru-bis-inso-eroeffnungsantr
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (glaeubigerantrag-pruefung, glaeubigerausschuss-mitwirkung, inso-dsgvo-art17-nach-restschuldbefreiung, inso-eroeffnungsantrag-checkliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Glaeubigerantrag Pruefung, Glaeubigerausschuss Mitwirkung, Inso Dsgvo Art17 Nach Restschuldbefreiung, Inso Eroeffnungsantrag Checkliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - insolvenzrecht
+# Arbeitsbereich - Glaeubigerantrag Pruefung bis Inso Eroeffnungsantrag Checkliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `glaeubigerantrag-pruefung` | Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind. |
 | `glaeubigerausschuss-mitwirkung` | Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `glaeubigerantrag-pruefung`
 
-**Frühere Beschreibung:** Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind.
+**Fokus:** Prüft Zulässigkeit und Begründetheit eines Gläubigerantrags auf Eröffnung des Insolvenzverfahrens nach § 14 InsO — sowohl aus Gläubigerperspektive (Antragstellung) als auch aus Schuldnerperspektive (Abwehrstrategien). Lädt, wenn ein Mandant als Gläubiger einen Insolvenzantrag stellen will, wenn ein Schuldner einen Gläubigerantrag abwehren muss oder wenn Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind.
 
 # Prüfung Gläubigerantrag nach § 14 InsO
 
@@ -377,7 +377,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `glaeubigerausschuss-mitwirkung`
 
-**Frühere Beschreibung:** Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger.
+**Fokus:** Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger.
 
 # Gläubigerausschuss-Mitwirkung
 
@@ -620,7 +620,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `inso-dsgvo-art17-nach-restschuldbefreiung`
 
-**Frühere Beschreibung:** Art. 17 DSGVO als insolvenzrechtlicher Anschlussanspruch nach Restschuldbefreiung: Löschung, Einschränkung, Widerspruch, Beschwerde und Klage.
+**Fokus:** Art. 17 DSGVO als insolvenzrechtlicher Anschlussanspruch nach Restschuldbefreiung: Löschung, Einschränkung, Widerspruch, Beschwerde und Klage.
 
 # DSGVO Art. 17 nach Restschuldbefreiung
 
@@ -663,7 +663,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 4. `inso-eroeffnungsantrag-checkliste`
 
-**Frühere Beschreibung:** Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Glaeubigerliste, Vermoegensverzeichnis, Erklaerung Geschaeftsleitung. Pruefraster fuer Schuldner- und Glaeubigeranwalt.
+**Fokus:** Checkliste Eroeffnungsantrag § 13 InsO: zustaendiges Gericht, Glaeubigerliste, Vermoegensverzeichnis, Erklaerung Geschaeftsleitung. Pruefraster fuer Schuldner- und Glaeubigeranwalt.
 
 # Inso: Eroeffnungsantrag-Checkliste
 

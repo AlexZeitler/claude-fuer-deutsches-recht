@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-schluesselerlebnis-o-bis-sofortvollzug-und-an
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (schluesselerlebnis-oder-wandel, schriftliche-anhoerung-kdvg-6, sicherheitsueberpruefung-und-extremismus, social-media-und-oeffentlichkeit, sofortvollzug-und-anordnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schluesselerlebnis Oder Wandel, Schriftliche Anhoerung Kdvg 6, Sicherheitsueberpruefung Und Extremismus, Social Media Und Oeffentlichkeit und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Schluesselerlebnis Oder Wandel bis Sofortvollzug Und Anordnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schluesselerlebnis-oder-wandel` | Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse. |
 | `schriftliche-anhoerung-kdvg-6` | Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schluesselerlebnis-oder-wandel`
 
-**Frühere Beschreibung:** Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse.
+**Fokus:** Unterscheidet einzelne Schlüsselerlebnisse und längere innere Wandelungsprozesse.
 
 # Schlüsselerlebnis oder Wandel
 
@@ -85,7 +85,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 2. `schriftliche-anhoerung-kdvg-6`
 
-**Frühere Beschreibung:** Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar.
+**Fokus:** Beantwortet Zweifel des BAFzA konkret, wahrhaftig und belegbar.
 
 # Schriftliche Anhörung § 6 KDVG
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `sicherheitsueberpruefung-und-extremismus`
 
-**Frühere Beschreibung:** Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen.
+**Fokus:** Trennt Gewissensentscheidung von Loyalitäts- oder Extremismusvorwürfen.
 
 # Extremismus und Sicherheit
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `social-media-und-oeffentlichkeit`
 
-**Frühere Beschreibung:** Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext.
+**Fokus:** Prüft Posts, öffentliche Kampagnen und Dienstgeheimnisse im KDV-Kontext.
 
 # Social Media und Öffentlichkeit
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `sofortvollzug-und-anordnung`
 
-**Frühere Beschreibung:** Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext.
+**Fokus:** Prüft Sofortvollzug und aufschiebende Wirkung im KDV-Kontext.
 
 # Sofortvollzug § 80 VwGO
 

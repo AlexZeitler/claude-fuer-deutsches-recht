@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-solo-pauschalpreis-r-bis-solo-privatunterrich
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 20; bündelt 8 frühere Spezialskills (solo-pauschalpreis-risiko, solo-personalakte-kleinstart, solo-plattform-agb-lesen, solo-plattformzahlungen-und-rechnungen, solo-portfolio-und-case-study und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Pauschalpreis Risiko, Solo Personalakte Kleinstart, Solo Plattform Agb Lesen, Solo Plattformzahlungen Und Rechnungen und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Pauschalpreis Risiko bis Solo Privatunterricht Nachhilfe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-pauschalpreis-risiko` | Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-personalakte-kleinstart` | Solo-Selbstständige: ordnet erste Beschäftigte, Datenschutz und Dokumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-pauschalpreis-risiko`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Pauschalpreise gegen Scope Creep und Nachtragsbedarf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Prüft pauschalpreise gegen scope creep und nachtragsbedarf
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 2. `solo-personalakte-kleinstart`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet erste Beschäftigte, Datenschutz und Dokumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet erste Beschäftigte, Datenschutz und Dokumentation; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Ordnet erste beschäftigte
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Wachstum Zusammenarbe
 
 ## 3. `solo-plattform-agb-lesen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: übersetzt Plattform-AGB, Gebühren, Sperren und Auszahlungsvorbehalte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: übersetzt Plattform-AGB, Gebühren, Sperren und Auszahlungsvorbehalte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Übersetzt plattform-agb
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 4. `solo-plattformzahlungen-und-rechnungen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sortiert Stripe, PayPal, Etsy, Amazon, Plattformgebühren und Abrechnungsbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Sortiert stripe
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 5. `solo-portfolio-und-case-study`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Eigenwerbung trotz Kundengeheimnis und Urheberrechten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Prüft eigenwerbung trotz kundengeheimnis und urheberrechten
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 6. `solo-prioritaetenplan-erste-14-tage`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt einen Zweiwochenplan für Anmeldung, Konto, Vertrag, Rechnung und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt einen Zweiwochenplan für Anmeldung, Konto, Vertrag, Rechnung und Versicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Erstellt einen zweiwochenplan für anmeldung
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 7. `solo-private-und-betriebliche-schulden`
 
-**Frühere Beschreibung:** Solo-Selbstständige: trennt Konten, Pfändung, P-Konto und Betriebsfortführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: trennt Konten, Pfändung, P-Konto und Betriebsfortführung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Trennt konten
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 8. `solo-privatunterricht-nachhilfe`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Status, Datenschutz Minderjährige, AGB und Zahlungsmodell; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Status, Datenschutz Minderjährige, AGB und Zahlungsmodell; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft status
 

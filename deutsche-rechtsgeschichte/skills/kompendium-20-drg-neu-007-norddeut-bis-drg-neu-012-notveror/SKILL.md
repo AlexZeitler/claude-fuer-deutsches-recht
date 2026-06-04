@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-drg-neu-007-norddeut-bis-drg-neu-012-notveror
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 20; bündelt 6 frühere Spezialskills (drg-neu-007-norddeutscher-bund-verfassung-1867, drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre, drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss, drg-neu-010-november-1918-uebergangsrecht-revolution-und-kontinu, drg-neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg Neu 007 Norddeutscher Bund Verfassung 1867, Drg Neu 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre, Drg Neu 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss, Drg Neu 010 November 1918 Uebergangsrecht Revolution Und Kontinu und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätsche"
 ---
 
-# Kompendium 20 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg Neu 007 Norddeutscher Bund Verfassung 1867 bis Drg Neu 012 Notverordnungen Und Verfassungskrise Weimar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-neu-007-norddeutscher-bund-verfassung-1867` | Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre` | Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-neu-007-norddeutscher-bund-verfassung-1867`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Norddeutscher Bund Verfassung 1867 mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 007 Norddeutscher Bund Verfassung 1867
 
@@ -81,7 +81,7 @@ Skill fuer den Norddeutschen Bund 1867-1870 als Vorlaeufer des Deutschen Reiches
 
 ## 2. `drg-neu-008-kaiserreichsverfassung-1871-bundesstaat-und-reichsre`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Kaiserreichsverfassung 1871 Bundesstaat und Reichsrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 008 Kaiserreichsverfassung 1871 Bundesstaat Und Reichsre
 
@@ -137,7 +137,7 @@ Skill fuer die Reichsverfassung des Deutschen Kaiserreichs 16.04.1871 (Bismarcks
 
 ## 3. `drg-neu-009-spaetkaiserreich-sozialgesetzgebung-und-verwaltungss`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Spätkaiserreich Sozialgesetzgebung und Verwaltungsstaat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 009 Spaetkaiserreich Sozialgesetzgebung Und Verwaltungss
 
@@ -187,7 +187,7 @@ Skill fuer die Sozialgesetzgebung und Verwaltungsreformen im Spaetkaiserreich (1
 
 ## 4. `drg-neu-010-november-1918-uebergangsrecht-revolution-und-kontinu`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: November 1918 Übergangsrecht Revolution und Kontinuität mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 010 November 1918 Uebergangsrecht Revolution Und Kontinu
 
@@ -245,7 +245,7 @@ Skill fuer den Uebergang von Kaiserreich zur Weimarer Republik im November/Dezem
 
 ## 5. `drg-neu-011-weimarer-reichsverfassung-grundrechte-staatsorganisa`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Weimarer Reichsverfassung Grundrechte Staatsorganisation mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 011 Weimarer Reichsverfassung Grundrechte Staatsorganisa
 
@@ -320,7 +320,7 @@ Skill fuer die Weimarer Reichsverfassung 11.08.1919.
 
 ## 6. `drg-neu-012-notverordnungen-und-verfassungskrise-weimar`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Notverordnungen und Verfassungskrise Weimar mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 012 Notverordnungen Und Verfassungskrise Weimar
 

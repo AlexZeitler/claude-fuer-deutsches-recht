@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (gesellschaftsgruender-kommandocenter, gesellschaftsgruender-lizenz-und-vertriebsstart, gesellschaftsgruender-lohn-payroll-start, gesellschaftsgruender-mandantenbrief-naechste-schritte, gesellschaftsgruender-minderjaehrige-gesellschafter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Kommandocenter, Gesellschaftsgruender Lizenz Und Vertriebsstart, Gesellschaftsgruender Lohn Payroll Start, Gesellschaftsgruender Mandantenbrief Naechste Schritte und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Kommandocenter bis Gesellschaftsgruender Minderjaehrige Gesellschafter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-kommandocenter` | Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill. |
 | `gesellschaftsgruender-lizenz-und-vertriebsstart` | Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-kommandocenter`
 
-**Frühere Beschreibung:** Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill.
+**Fokus:** Navigationszentrum für alle Gründungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Prüfraster: aktueller Gründungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gründungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gründungs-Skill.
 
 # Kommandocenter Gesellschaftsgründung
 
@@ -182,7 +182,7 @@ Geschäftsführer: [Namen]
 
 ## 2. `gesellschaftsgruender-lizenz-und-vertriebsstart`
 
-**Frühere Beschreibung:** Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung.
+**Fokus:** Erstellt rechtliche Startliste für erste Kundenverträge, AGB, Datenschutz, IP und Gewährleistung.
 
 # Lizenz- und Vertriebsstart
 
@@ -245,7 +245,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 3. `gesellschaftsgruender-lohn-payroll-start`
 
-**Frühere Beschreibung:** Prüft erste Beschäftigte, Minijob, SV-Meldung, Lohnkonto, BG und Arbeitsverträge.
+**Fokus:** Prüft erste Beschäftigte, Minijob, SV-Meldung, Lohnkonto, BG und Arbeitsverträge.
 
 # Payroll und erste Mitarbeitende
 
@@ -308,7 +308,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-mandantenbrief-naechste-schritte`
 
-**Frühere Beschreibung:** Schreibt verständlichen Gründerbrief mit Entscheidungen, Risiken, To-dos, Kosten und Zeitplan.
+**Fokus:** Schreibt verständlichen Gründerbrief mit Entscheidungen, Risiken, To-dos, Kosten und Zeitplan.
 
 # Mandantenbrief nächste Schritte
 
@@ -371,7 +371,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-minderjaehrige-gesellschafter`
 
-**Frühere Beschreibung:** Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen.
+**Fokus:** Prüft Minderjährige in Gesellschaften: Vertretung, Familiengericht, Haftung und Genehmigungen.
 
 # Minderjährige Gesellschafter
 

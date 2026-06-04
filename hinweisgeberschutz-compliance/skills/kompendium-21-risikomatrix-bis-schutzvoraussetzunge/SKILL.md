@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-risikomatrix-bis-schutzvoraussetzunge
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (risikomatrix, rueckmeldung-3-monate, schulung-fuehrungskraefte, schutzvoraussetzungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Risikomatrix, Rueckmeldung 3 Monate, Schulung Fuehrungskraefte, Schutzvoraussetzungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Risikomatrix bis Schutzvoraussetzungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `risikomatrix` | Erstellt Risikomatrix für Hinweise. |
 | `rueckmeldung-3-monate` | Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `risikomatrix`
 
-**Frühere Beschreibung:** Erstellt Risikomatrix für Hinweise.
+**Fokus:** Erstellt Risikomatrix für Hinweise.
 
 # Risikomatrix
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `rueckmeldung-3-monate`
 
-**Frühere Beschreibung:** Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler.
+**Fokus:** Baut Rückmeldung binnen drei Monaten ohne Ermittlungsfehler.
 
 # Rueckmeldung 3 Monate
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `schulung-fuehrungskraefte`
 
-**Frühere Beschreibung:** Schult Führungskräfte gegen Repressalienfehler.
+**Fokus:** Schult Führungskräfte gegen Repressalienfehler.
 
 # Schulung Fuehrungskraefte
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `schutzvoraussetzungen`
 
-**Frühere Beschreibung:** Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle.
+**Fokus:** Prüft guten Glauben, Tatsachengrundlage und Schutzschwelle.
 
 # Schutzvoraussetzungen
 

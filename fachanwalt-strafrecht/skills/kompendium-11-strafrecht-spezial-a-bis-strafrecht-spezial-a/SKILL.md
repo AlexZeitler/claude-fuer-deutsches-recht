@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-strafrecht-spezial-a-bis-strafrecht-spezial-a
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 11; bündelt 10 frühere Spezialskills (strafrecht-spezial-aussagepsy-suggestion-falscherinnerung, strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft, strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand, strafrecht-spezial-aussagepsychologie-bgh-grundsaetze, strafrecht-spezial-aussagepsychologie-gutachten-anforderungen und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung, Strafrecht Spezial Aussagepsy Tuechtigkeit Bereitschaft, Strafrecht Spezial Aussagepsy Vernehmungsfehler Falschgestand, Strafrecht Spezial Aussagepsychologie Bgh Grundsaetze und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Aussagepsy Suggestion Falscherinnerung bis Strafrecht Spezial Aussagepsychologie Realkennzeichen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung` | Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung. |
 | `strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft` | Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-aussagepsy-suggestion-falscherinnerung`
 
-**Frühere Beschreibung:** Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung.
+**Fokus:** Suggestion und Falscherinnerung: Loftus-Studien, misinformation effect, lost-in-the-mall-Paradigma, post-event-Information, Quellenverwechslung. Suggestive Vernehmungsfehler, therapeutisch induzierte Falscherinnerungen. Replik-Schemata fuer die Verteidigung gegen die StA-Annahme einer authentischen Erinnerung.
 
 # Suggestion und Falscherinnerung
 
@@ -115,7 +115,7 @@ Im Plaedoyer trennen Sie klar: "Es ist nicht zu unterstellen, die Zeugin luege. 
 
 ## 2. `strafrecht-spezial-aussagepsy-tuechtigkeit-bereitschaft`
 
-**Frühere Beschreibung:** Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin.
+**Fokus:** Aussagetuechtigkeit als kognitiv-emotionale Faehigkeit zur Aussage vs. Aussagebereitschaft als motivationaler Wille zur Aussage. Pruefkriterien, Auswirkung auf Beweiswuerdigung, Verteidigerwerkzeug bei psychischer Erkrankung, Trauma, kognitiver Einschraenkung der Belastungszeugin.
 
 # Aussagetuechtigkeit und Aussagebereitschaft
 
@@ -194,7 +194,7 @@ Im Plaedoyer trennen Sie methodisch: "Vor der Pruefung der Glaubhaftigkeit der A
 
 ## 3. `strafrecht-spezial-aussagepsy-vernehmungsfehler-falschgestand`
 
-**Frühere Beschreibung:** Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug fuer Beweisverwertungsverbot und Plaedoyer-Argumentation.
+**Fokus:** Falschgestaendnisse: Typologie nach Kassin (freiwillig, gefuegig-akkommodiert, internalisiert), Risikofaktoren (Vernehmungsdauer, junge Erwachsene, Intelligenzminderung, psychische Vulnerabilitaet), Innocence Project Befunde. Verteidigerwerkzeug fuer Beweisverwertungsverbot und Plaedoyer-Argumentation.
 
 # Falschgestaendnisse und Vernehmungsfehler
 
@@ -291,7 +291,7 @@ Im Plaedoyer methodisch arbeiten: "Mein Mandant hat gestanden — aber ein Gesta
 
 ## 4. `strafrecht-spezial-aussagepsychologie-bgh-grundsaetze`
 
-**Frühere Beschreibung:** BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger.
+**Fokus:** BGH-Grundsaetze zur aussagepsychologischen Begutachtung: Hypothesen-gegen-Hypothesen-Methode, Null-Hypothese, Unschuldsvermutung. Leiturteil BGH Urteil vom 30.07.1999 1 StR 618/98 (BGHSt 45 Seite 164). Methodische Replik gegen die StA-Behauptung der Zeuge luege. Fuer Strafverteidiger.
 
 # BGH-Grundsaetze zur aussagepsychologischen Begutachtung
 
@@ -369,7 +369,7 @@ Im Schlussvortrag arbeiten Sie nicht mit Vorwuerfen ("die Zeugin luegt"), sonder
 
 ## 5. `strafrecht-spezial-aussagepsychologie-gutachten-anforderungen`
 
-**Frühere Beschreibung:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster fuer die Verteidigung, Replik gegen mangelhafte Gutachten.
+**Fokus:** Methodische Mindestanforderungen an aussagepsychologische Sachverstaendigengutachten nach BGH-Vorgaben: Auftrag, Aktenlage, Exploration, Aussageinhalts-Analyse (CBCA), Konstanzanalyse, Suggestionspruefung, Hypothesenpruefung. Pruefraster fuer die Verteidigung, Replik gegen mangelhafte Gutachten.
 
 # Anforderungen an aussagepsychologische Sachverstaendigengutachten
 
@@ -461,7 +461,7 @@ Im Plaedoyer methodisch arbeiten: "Das vorgelegte aussagepsychologische Gutachte
 
 ## 6. `strafrecht-spezial-aussagepsychologie-jugendliche-und-belastung`
 
-**Frühere Beschreibung:** Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit jugendlichen Belastungszeugen.
+**Fokus:** Jugendliche Zeugen (Alter 14 bis 18 sowie Heranwachsende): Entwicklungsstand, Identitaetsbildung, Stress unter Vernehmung, Loyalitaetskonflikte, Peer-Einfluss. Aussagepsychologische Besonderheiten zwischen kindlichem und erwachsenem Zeugen. Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit jugendlichen Belastungszeugen.
 
 # Jugendliche Zeugen und Aussage unter Belastung
 
@@ -553,7 +553,7 @@ Im Plaedoyer differenziert und respektvoll: "Die Zeugin ist 16 Jahre alt. Sie is
 
 ## 7. `strafrecht-spezial-aussagepsychologie-kindliche-zeugen`
 
-**Frühere Beschreibung:** Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit kindlicher Belastungszeugin.
+**Fokus:** Kindliche Zeugen: Entwicklungspsychologische Grundlagen, altersabhaengige Aussagefaehigkeit, Suggestibilitaet, Quellenamnesie, audiovisuelle Vernehmung nach § 58a StPO. Besondere Sorgfalt der Beweiswuerdigung, Verteidigerwerkzeug fuer Aussage-gegen-Aussage mit kindlicher Belastungszeugin.
 
 # Kindliche Zeugen in Strafverfahren
 
@@ -634,7 +634,7 @@ Im Plaedoyer respektvoll, niemals herabsetzend: "Die Aussage des Kindes ist nich
 
 ## 8. `strafrecht-spezial-aussagepsychologie-konstanzanalyse`
 
-**Frühere Beschreibung:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge fuer das Kreuzverhoer.
+**Fokus:** Konstanzanalyse: Aussagekonstanz vs. Aussageinkonstanz, Kernkonstanz und Detailvariation, Aussageentwicklung von der ersten Anzeige bis zur Hauptverhandlung. Methodische Pruefung, Bewertung im aussagepsychologischen Gesamtkontext, Verteidigerwerkzeuge fuer das Kreuzverhoer.
 
 # Konstanzanalyse, Aussageentwicklung und Inkonstanzen
 
@@ -719,7 +719,7 @@ Im Plaedoyer arbeiten Sie nicht mit Pauschalkritik, sondern mit konkreter Gegenu
 
 ## 9. `strafrecht-spezial-aussagepsychologie-mehrfach-vernommene-zeugen`
 
-**Frühere Beschreibung:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug fuer die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
+**Fokus:** Mehrfach vernommene Zeugen: Quellenamnesie, Skripteffekt, Verfestigung suggestiver Vernehmungsfolgen, post-event-information. Risikoanalyse je nach Anzahl, Abstand, Vernehmungsperson, Setting. Verteidigerwerkzeug fuer die Aussagegenese-Pruefung bei Vielfach-Vernehmungen.
 
 # Mehrfach vernommene Zeugen und Aussageverfestigung
 
@@ -800,7 +800,7 @@ Im Plaedoyer arbeiten Sie chronologisch: "Die Aussage der Zeugin ist nicht aus e
 
 ## 10. `strafrecht-spezial-aussagepsychologie-realkennzeichen`
 
-**Frühere Beschreibung:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster fuer die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
+**Fokus:** Realkennzeichen nach Steller und Koehnken (Criteria-Based Content Analysis, CBCA): Logische Konsistenz, ungeordnete Spontanitaet, Detailreichtum, raum-zeitliche Verknuepfung, Komplikationen, ungewoehnliche Details, ueberschiessende Belastung. Pruefraster fuer die Verteidigung, methodische Replik gegen die StA-Behauptung Zeuge sage die Wahrheit.
 
 # Realkennzeichen nach Steller und Koehnken
 

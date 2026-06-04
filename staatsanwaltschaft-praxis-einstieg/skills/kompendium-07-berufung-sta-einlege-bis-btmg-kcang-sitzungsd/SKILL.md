@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-berufung-sta-einlege-bis-btmg-kcang-sitzungsd
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (berufung-sta-einlegen-und-begrenzen, beweisantraege-244-stpo-reagieren, beweisverwertungsverbote-sta, btmg-kcang-mischfaelle, btmg-kcang-sitzungsdienst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufung Sta Einlegen Und Begrenzen, Beweisantraege 244 Stpo Reagieren, Beweisverwertungsverbote Sta, Btmg Kcang Mischfaelle und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Berufung Sta Einlegen Und Begrenzen bis Btmg Kcang Sitzungsdienst
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufung-sta-einlegen-und-begrenzen` | Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `beweisantraege-244-stpo-reagieren` | Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufung-sta-einlegen-und-begrenzen`
 
-**Frühere Beschreibung:** Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Berufung der Staatsanwaltschaft einlegen und begrenzen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Berufung der Staatsanwaltschaft einlegen und begrenzen
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `beweisantraege-244-stpo-reagieren`
 
-**Frühere Beschreibung:** Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Beweisanträge nach § 244 StPO: Reaktion der StA: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Beweisanträge nach § 244 StPO: Reaktion der StA
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `beweisverwertungsverbote-sta`
 
-**Frühere Beschreibung:** Beweisverwertungsverbote aus Sicht der StA: Praxis-Skill für neue Staatsanwälte zu mögliche Fehler früh erkennen, heilen, offenlegen oder verfahrensstrategisch berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Beweisverwertungsverbote aus Sicht der StA: Praxis-Skill für neue Staatsanwälte zu mögliche Fehler früh erkennen, heilen, offenlegen oder verfahrensstrategisch berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Beweisverwertungsverbote aus Sicht der StA
 
@@ -178,7 +178,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `btmg-kcang-mischfaelle`
 
-**Frühere Beschreibung:** BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # BtMG/KCanG-Mischfälle: Besitz, Handel, Grenzwerte
 
@@ -227,7 +227,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `btmg-kcang-sitzungsdienst`
 
-**Frühere Beschreibung:** BtMG/KCanG im Sitzungsdienst: Praxis-Skill für neue Staatsanwälte zu Substanz, Menge, Wirkstoff, Eigenverbrauch, Handeltreiben und Strafzumessung in typischen Akten prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** BtMG/KCanG im Sitzungsdienst: Praxis-Skill für neue Staatsanwälte zu Substanz, Menge, Wirkstoff, Eigenverbrauch, Handeltreiben und Strafzumessung in typischen Akten prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # BtMG/KCanG im Sitzungsdienst
 

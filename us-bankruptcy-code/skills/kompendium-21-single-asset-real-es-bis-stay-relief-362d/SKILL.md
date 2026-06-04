@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-single-asset-real-es-bis-stay-relief-362d
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (single-asset-real-estate, small-business-case, stalking-horse-credit-bid, stay-relief-362d) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Single Asset Real Estate, Small Business Case, Stalking Horse Credit Bid, Stay Relief 362d; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - us-bankruptcy-code
+# Arbeitsbereich - Single Asset Real Estate bis Stay Relief 362d
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `single-asset-real-estate` | Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments. |
 | `small-business-case` | Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `single-asset-real-estate`
 
-**Frühere Beschreibung:** Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments.
+**Fokus:** Prueft SARE designation, timelines, stay relief pressure, plan filing and interest payments.
 
 # Single Asset Real Estate
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `small-business-case`
 
-**Frühere Beschreibung:** Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines.
+**Fokus:** Prueft small business debtor rules outside Subchapter V, reporting duties, disclosure statement simplification and deadlines.
 
 # Small Business Case
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `stalking-horse-credit-bid`
 
-**Frühere Beschreibung:** Prueft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections.
+**Fokus:** Prueft stalking-horse protections, break-up fees, expense reimbursement, credit bid rights and chilling objections.
 
 # Stalking Horse and Credit Bid
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `stay-relief-362d`
 
-**Frühere Beschreibung:** Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization.
+**Fokus:** Prueft Motions for Relief from Stay: cause, lack of adequate protection, no equity, not necessary to reorganization.
 
 # Stay Relief § 362(d)
 

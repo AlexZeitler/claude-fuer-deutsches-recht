@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-schriftsatz-vermerk-bis-sitzungsdienst-refer
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (schriftsatz-vermerk-und-mustertext, sexualdelikte-aussage-gegen-aussage, sitzungs-und-terminvorbereitung, sitzungsdienst-amtsgericht, sitzungsdienst-referendar-notfallkarte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schriftsatz Vermerk Und Mustertext, Sexualdelikte Aussage Gegen Aussage, Sitzungs Und Terminvorbereitung, Sitzungsdienst Amtsgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Schriftsatz Vermerk Und Mustertext bis Sitzungsdienst Referendar Notfallkarte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schriftsatz-vermerk-und-mustertext` | Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `sexualdelikte-aussage-gegen-aussage` | Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schriftsatz-vermerk-und-mustertext`
 
-**Frühere Beschreibung:** Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Schriftsatz, Vermerk und Mustertext: Praxis-Skill für neue Staatsanwälte zu liefert einen belastbaren ersten Entwurf mit offenen Punkten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Schriftsatz, Vermerk und Mustertext
 
@@ -80,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `sexualdelikte-aussage-gegen-aussage`
 
-**Frühere Beschreibung:** Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Sexualdelikte: Aussage-gegen-Aussage ohne Abkürzung
 
@@ -129,7 +129,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `sitzungs-und-terminvorbereitung`
 
-**Frühere Beschreibung:** Sitzungs- und Terminvorbereitung: Praxis-Skill für neue Staatsanwälte zu bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sitzungs- und Terminvorbereitung: Praxis-Skill für neue Staatsanwälte zu bereitet Gerichtstermin, Behördenkontakt, Kammertermin oder Verhandlungstag vor; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Sitzungs- und Terminvorbereitung
 
@@ -179,7 +179,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `sitzungsdienst-amtsgericht`
 
-**Frühere Beschreibung:** Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwälte zu Aktenvorbereitung, Beweisaufnahme, Anträge, Plädoyer und Rechtsmittelnotiz für den ersten Sitzungsdienst; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sitzungsdienst am Amtsgericht: Praxis-Skill für neue Staatsanwälte zu Aktenvorbereitung, Beweisaufnahme, Anträge, Plädoyer und Rechtsmittelnotiz für den ersten Sitzungsdienst; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Sitzungsdienst am Amtsgericht
 
@@ -229,7 +229,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `sitzungsdienst-referendar-notfallkarte`
 
-**Frühere Beschreibung:** Sitzungsdienst für Referendare: Notfallkarte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Sitzungsdienst für Referendare: Notfallkarte: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Sitzungsdienst für Referendare: Notfallkarte
 

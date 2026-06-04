@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-absolute-priority-ru-bis-adversary-proceeding
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (absolute-priority-rule, adequate-protection, administrative-expenses-503, adversary-proceedings) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Absolute Priority Rule, Adequate Protection, Administrative Expenses 503, Adversary Proceedings; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - us-bankruptcy-code
+# Arbeitsbereich - Absolute Priority Rule bis Adversary Proceedings
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `absolute-priority-rule` | Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures. |
 | `adequate-protection` | Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `absolute-priority-rule`
 
-**Frühere Beschreibung:** Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures.
+**Fokus:** Prueft absolute priority, new value, individual debtor issues, equity retention and settlement structures.
 
 # Absolute Priority Rule
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `adequate-protection`
 
-**Frühere Beschreibung:** Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value.
+**Fokus:** Prueft adequate protection for secured creditors: payments, replacement liens, reporting, insurance and collateral value.
 
 # Adequate Protection
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `administrative-expenses-503`
 
-**Frühere Beschreibung:** Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process.
+**Fokus:** Prueft administrative expense claims, postpetition goods/services, substantial contribution, taxes and application process.
 
 # Administrative Expenses § 503
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `adversary-proceedings`
 
-**Frühere Beschreibung:** Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints.
+**Fokus:** Prueft when adversary proceeding is required: dischargeability, lien validity, turnover, avoidance, injunctions and complaints.
 
 # Adversary Proceedings
 

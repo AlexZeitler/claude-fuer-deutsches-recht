@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bau-honorar-hoai-gru-bis-bau-sicherungsmittel
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (bau-honorar-hoai-grundzuege, bau-kuendigung-vob-spezial, bau-schiedsgutachten-spezial, bau-sicherungsmittel-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bau Honorar Hoai Grundzuege, Bau Kuendigung Vob Spezial, Bau Schiedsgutachten Spezial, Bau Sicherungsmittel Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bau Honorar Hoai Grundzuege bis Bau Sicherungsmittel Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bau-honorar-hoai-grundzuege` | HOAI in Grundzuegen: Leistungsbilder § 34 ff. HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitpunkte. |
 | `bau-kuendigung-vob-spezial` | Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB. Pruefraster und Schriftsatzbausteine fuer Mandant. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bau-honorar-hoai-grundzuege`
 
-**Frühere Beschreibung:** HOAI in Grundzuegen: Leistungsbilder § 34 ff. HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitpunkte.
+**Fokus:** HOAI in Grundzuegen: Leistungsbilder § 34 ff. HOAI, Honorarzonen, Mindest- und Hoechstsaetze nach EuGH-Spruch zu HOAI 2013, Pauschalierung, abrechenbare anrechenbare Kosten. Beispielrechnung und typische Streitpunkte.
 
 # Bau: HOAI-Honorar
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 2. `bau-kuendigung-vob-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB. Pruefraster und Schriftsatzbausteine fuer Mandant.
+**Fokus:** Spezialfall Kuendigung VOB-Bauvertrag: § 8 VOB/B aus wichtigem Grund, Kuendigung aus freier Entscheidung mit Vergueng, Abgrenzung BGB. Pruefraster und Schriftsatzbausteine fuer Mandant.
 
 # Bau: VOB-Kuendigung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 3. `bau-schiedsgutachten-spezial`
 
-**Frühere Beschreibung:** Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff. BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfuegung. Pruefraster und Mustertexte.
+**Fokus:** Spezialfall Schiedsgutachten in Bauvertraegen: §§ 317 ff. BGB analog, vereinbarte Verbindlichkeit, Inhaltsbestimmung gegen Tatsachenermittlung. SOBau-Regeln, DIS-Schiedsgutachten, einstweilige Verfuegung. Pruefraster und Mustertexte.
 
 # Bau: Schiedsgutachten
 
@@ -186,7 +186,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-bau-architektenrecht`. Er ergaenzt d
 
 ## 4. `bau-sicherungsmittel-spezial`
 
-**Frühere Beschreibung:** Spezialfall Sicherungsmittel: § 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer. Pruefraster und Mustertexte fuer Anforderung und Klage.
+**Fokus:** Spezialfall Sicherungsmittel: § 650f BGB Bauhandwerkersicherung, Vertragserfuellungsbuergschaft, Gewaehrleistungsbuergschaft, Insolvenz Bauunternehmer. Pruefraster und Mustertexte fuer Anforderung und Klage.
 
 # Bau: Sicherungsmittel
 

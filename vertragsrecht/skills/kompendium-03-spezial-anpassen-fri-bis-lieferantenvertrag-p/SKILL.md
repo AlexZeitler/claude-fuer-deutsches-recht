@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-anpassen-fri-bis-lieferantenvertrag-p
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-anpassen-fristennotiz-und-naechster-schritt, spezial-vertriebsvertraege-fristen-form-und-zustaendigkeit, lieferantenvertrag-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anpassen Fristennotiz Und Naechster Schritt, Vertriebsvertraege Fristen Form Und Zustaendigkeit, Lieferantenvertrag Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - vertragsrecht
+# Arbeitsbereich - Anpassen Fristennotiz Und Naechster Schritt, Vertriebsvertraege Fristen Form Und Zustaendigkeit, Lieferantenvertrag Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anpassen-fristennotiz-und-naechster-schritt` | Anpassen: Fristennotiz und nächster Schritt im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-vertriebsvertraege-fristen-form-und-zustaendigkeit` | Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anpassen-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Anpassen: Fristennotiz und nächster Schritt im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anpassen: Fristennotiz und nächster Schritt im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anpassen: Fristennotiz und nächster Schritt
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-vertriebsvertraege-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin vertragsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vertriebsvertraege: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `lieferantenvertrag-pruefung`
 
-**Frühere Beschreibung:** Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird.
+**Fokus:** Prüfung eines eingehenden Lieferanten- oder Dienstleistervertrags gegen das Playbook der Rechtsabteilung. Werk-/Dienstvertrag (§§ 631 und 611 BGB), Gewährleistung, Haftungsbegrenzung, LkSG-Anforderungen, CISG-Abwahl. Abweichungen werden mit Schweregrad, Redline und Eskalations-Empfehlung aufgeführt. Wird von /vertragsrecht:vertragsprüfung geladen, wenn Lieferanten-MSA, Dienstleistungsvertrag oder ähnliches erkannt wird.
 
 # Lieferanten-/Dienstleistervertrag-Prüfung
 

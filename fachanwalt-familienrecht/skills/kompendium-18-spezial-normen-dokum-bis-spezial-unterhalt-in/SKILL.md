@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-normen-dokum-bis-spezial-unterhalt-in
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (spezial-normen-dokumentenmatrix-und-lueckenliste, spezial-scheidung-zahlen-schwellen-und-berechnung, spezial-sorge-compliance-dokumentation-und-akte, spezial-umgang-mehrparteien-konflikt-und-interessen, spezial-unterhalt-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Normen Dokumentenmatrix Und Lueckenliste, Scheidung Zahlen Schwellen Und Berechnung, Sorge Compliance Dokumentation Und Akte, Umgang Mehrparteien Konflikt Und Interessen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-familienrecht
+# Arbeitsbereich - Normen Dokumentenmatrix Und Lueckenliste bis Unterhalt Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-normen-dokumentenmatrix-und-lueckenliste` | Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-scheidung-zahlen-schwellen-und-berechnung` | Scheidung: Zahlen, Schwellenwerte und Berechnung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-normen-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Normen: Dokumentenmatrix, Lückenliste und Nachforderung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Normen: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-scheidung-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Scheidung: Zahlen, Schwellenwerte und Berechnung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Scheidung: Zahlen, Schwellenwerte und Berechnung im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Scheidung: Zahlen, Schwellenwerte und Berechnung
 
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-sorge-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Sorge: Compliance-Dokumentation und Aktenvermerk im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Sorge: Compliance-Dokumentation und Aktenvermerk im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Sorge: Compliance-Dokumentation und Aktenvermerk
 
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-umgang-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Umgang: Mehrparteienkonflikt und Interessenmatrix im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Umgang: Mehrparteienkonflikt und Interessenmatrix im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Umgang: Mehrparteienkonflikt und Interessenmatrix
 
@@ -230,7 +230,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-unterhalt-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Unterhalt: Internationaler Bezug und Schnittstellen im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Unterhalt: Internationaler Bezug und Schnittstellen im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Unterhalt: Internationaler Bezug und Schnittstellen
 

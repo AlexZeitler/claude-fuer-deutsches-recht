@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-fran-rs-gebietsschut-bis-fran-rs-ghost-kitche
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (fran-rs-gebietsschutz-gegen-online-und-plattformkanaele, fran-rs-geheimnisschutz-fuer-handbuch-und-know-how, fran-rs-ghost-kitchens-und-lieferplattform-franchise) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Fuer Handbuch Und Know How, Fran Rs Ghost Kitchens Und Lieferplattform Franchise; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - franchiserecht-praxis
+# Arbeitsbereich - Fran Rs Gebietsschutz Gegen Online Und Plattformkanaele, Fran Rs Geheimnisschutz Fuer Handbuch Und Know How, Fran Rs Ghost Kitchens Und Liefe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele` | Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how` | Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-rs-gebietsschutz-gegen-online-und-plattformkanaele`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Gebietsschutz gegen Online- und Plattformkanäle: Stationärer Gebietsschutz, Webshop, Plattformverkauf und Click-and-Collect werden getrennt, damit keine unzulässige Online-Vertriebsbeschränkung entsteht. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Gebietsschutz gegen Online- und Plattformkanäle
 
@@ -72,7 +72,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-geheimnisschutz-fuer-handbuch-und-know-how`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Geheimnisschutz für Handbuch und Know-how: Systemhandbuch, Rezepturen, Prozesswissen und KPI-Modelle werden als Geschäftsgeheimnisse beweissicher geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Geheimnisschutz für Handbuch und Know-how
 
@@ -116,7 +116,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-ghost-kitchens-und-lieferplattform-franchise`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Ghost Kitchens und Lieferplattform-Franchise: Dark Stores, Ghost Kitchens, Aggregator-Plattformen und markengetarnte Subkonzepte werden auf Lizenz, Hygiene, Verbrauchertäuschung und Gebietsschutz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Ghost Kitchens und Lieferplattform-Franchise
 

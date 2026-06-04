@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-studiengebuehren-int-bis-tenure-track-evaluat
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (studiengebuehren-internationale-studierende, studierendenschaft-asta, studierendenwerk-beitrag, tenure-track-evaluation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Studiengebuehren Internationale Studierende, Studierendenschaft Asta, Studierendenwerk Beitrag, Tenure Track Evaluation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - hochschulrecht-laender
+# Arbeitsbereich - Studiengebuehren Internationale Studierende bis Tenure Track Evaluation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `studiengebuehren-internationale-studierende` | Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung. |
 | `studierendenschaft-asta` | Prüft Studierendenschaft, AStA, Beiträge und Mandat. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `studiengebuehren-internationale-studierende`
 
-**Frühere Beschreibung:** Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung.
+**Fokus:** Prüft Gebühren für internationale Studierende, Satzung, Ausnahmen und Rückerstattung.
 
 # Studiengebühren internationale Studierende
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `studierendenschaft-asta`
 
-**Frühere Beschreibung:** Prüft Studierendenschaft, AStA, Beiträge und Mandat.
+**Fokus:** Prüft Studierendenschaft, AStA, Beiträge und Mandat.
 
 # Studierendenschaft AStA
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: AStA-Memo. Am Ende immer drei Zeilen: **Frist**, **fehlende Q
 
 ## 3. `studierendenwerk-beitrag`
 
-**Frühere Beschreibung:** Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall.
+**Fokus:** Prüft Studierendenwerksbeitrag, Satzung, Rückerstattung und Härtefall.
 
 # Studierendenwerk und Beitrag
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 4. `tenure-track-evaluation`
 
-**Frühere Beschreibung:** Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz.
+**Fokus:** Prüft Tenure-Track-Zwischenevaluation, Endbewertung, Transparenz und Rechtsschutz.
 
 # Tenure Track Evaluation
 

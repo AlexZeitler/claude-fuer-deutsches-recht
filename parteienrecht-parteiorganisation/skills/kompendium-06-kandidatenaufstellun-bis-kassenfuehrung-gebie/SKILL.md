@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-kandidatenaufstellun-bis-kassenfuehrung-gebie
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (kandidatenaufstellung-bundestag-kreis, kandidatenscreening-formal, kassenfuehrung-gebietsverband) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Kandidatenaufstellung Bundestag Kreis, Kandidatenscreening Formal, Kassenfuehrung Gebietsverband
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kandidatenaufstellung-bundestag-kreis` | Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung. |
 | `kandidatenscreening-formal` | Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kandidatenaufstellung-bundestag-kreis`
 
-**Frühere Beschreibung:** Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung.
+**Fokus:** Begleitet Aufstellung Direktkandidat: wahlberechtigte Mitglieder, geheime Abstimmung, Niederschrift, Zustimmung, eidesstattliche Versicherung.
 
 # Kreiswahlvorschlag Bundestag
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `kandidatenscreening-formal`
 
-**Frühere Beschreibung:** Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen.
+**Fokus:** Checkt Wählbarkeit, Mitgliedschaft, Zustimmung, Wohnsitzfragen soweit relevant, Unvereinbarkeiten und Unterlagen.
 
 # Kandidatenscreening formal
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `kassenfuehrung-gebietsverband`
 
-**Frühere Beschreibung:** Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung.
+**Fokus:** Hilft Schatzmeisterei bei Belegen, Kasse, Konto, Vier-Augen-Prinzip, Quittungen, Jahresabschluss und Prüfung.
 
 # Kassenführung Gebietsverband
 

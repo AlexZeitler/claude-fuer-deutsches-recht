@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-stv-071-lieferzone-r-bis-stv-074-lieferzone-a
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (stv-071-lieferzone-regel-pruefen, stv-072-lieferzone-zeichen-auslegen, stv-073-lieferzone-anordnung-angreifen, stv-074-lieferzone-antrag-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 071 Lieferzone Regel Pruefen, Stv 072 Lieferzone Zeichen Auslegen, Stv 073 Lieferzone Anordnung Angreifen, Stv 074 Lieferzone Antrag Schreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 071 Lieferzone Regel Pruefen bis Stv 074 Lieferzone Antrag Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-071-lieferzone-regel-pruefen` | Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-072-lieferzone-zeichen-auslegen` | Straßenverkehrsrecht StVO: Lieferzone: Zeichen auslegen. Zeichen auslegen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-071-lieferzone-regel-pruefen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Regel prüfen. Regel prüfen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Regel Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-072-lieferzone-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Zeichen auslegen. Zeichen auslegen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Zeichen auslegen. Zeichen auslegen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Zeichen Auslegen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-073-lieferzone-anordnung-angreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Anordnung angreifen. Anordnung angreifen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Anordnung angreifen. Anordnung angreifen für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Anordnung Angreifen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-074-lieferzone-antrag-schreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Lieferzone: Antrag schreiben. Antrag schreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Lieferzone: Antrag schreiben. Antrag schreiben für Lieferzone im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Lieferzone Antrag Schreiben
 

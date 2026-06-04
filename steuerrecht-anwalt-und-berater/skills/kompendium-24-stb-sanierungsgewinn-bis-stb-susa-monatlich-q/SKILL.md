@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-stb-sanierungsgewinn-bis-stb-susa-monatlich-q
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 24; bündelt 9 frühere Spezialskills (stb-sanierungsgewinn-vermeidungsstrategien-praxis, stb-sanierungsgewinn-vorbereitungs-checkliste, stb-susa-anlagenkonten-ueberblick, stb-susa-debitorenliste-osa-offene-posten, stb-susa-erstellen-grundlagen und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Sanierungsgewinn Vermeidungsstrategien Praxis, Stb Sanierungsgewinn Vorbereitungs Checkliste, Stb Susa Anlagenkonten Ueberblick, Stb Susa Debitorenliste Osa Offene Posten und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Sanierungsgewinn Vermeidungsstrategien Praxis bis Stb Susa Monatlich Quartalsweise
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-sanierungsgewinn-vermeidungsstrategien-praxis` | Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist. |
 | `stb-sanierungsgewinn-vorbereitungs-checkliste` | Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezogenen Sanierung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-sanierungsgewinn-vermeidungsstrategien-praxis`
 
-**Frühere Beschreibung:** Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist.
+**Fokus:** Vermeidungsstrategien Sanierungsertrag in der Praxis: Verlustvortrag-Maximierung, Debt-Equity-Swap, qualifizierter Rangrücktritt, Besserungsabrede, Sanierungspause. Wann § 3a EStG nicht der einzige Weg ist.
 
 # Sanierungsgewinn — Vermeidungsstrategien in der Praxis
 
@@ -244,7 +244,7 @@ Strategie C: Verzicht mit Besserungsabrede
 
 ## 2. `stb-sanierungsgewinn-vorbereitungs-checkliste`
 
-**Frühere Beschreibung:** Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezogenen Sanierung.
+**Fokus:** Operative Checkliste zur Vorbereitung des Antrags nach Paragraf 3a Absatz 4 EStG. Listet pro Phase die zu beschaffenden Unterlagen, die einzubindenden Berater und die zu führenden Beweise für die vier Voraussetzungen der unternehmensbezogenen Sanierung.
 
 # Sanierungsgewinn — operative Vorbereitungs-Checkliste
 
@@ -423,7 +423,7 @@ Gläubiger C — kein Verzicht       ► Verhandlungsvermerk ... Bl. ...
 
 ## 3. `stb-susa-anlagenkonten-ueberblick`
 
-**Frühere Beschreibung:** Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abgleich. Output Anlagen-Kontenuebersicht mit Buchwerten.
+**Fokus:** Anlagenbuchhaltung in der SuSa Anlagenkonten Klasse 0 SKR 03 immaterielle WG Sachanlagen Finanzanlagen Buchwerte. Anwendungsfall Monats- oder Jahres-SuSa mit Anlagenbestand AfA-Aktualisierung Zu- und Abgaenge. Methodik Anlagenspiegel-Abgleich. Output Anlagen-Kontenuebersicht mit Buchwerten.
 
 # Anlagenkonten in der SuSa — Ueberblick und Abstimmung
 
@@ -575,7 +575,7 @@ Stand: 05/2026.
 
 ## 4. `stb-susa-debitorenliste-osa-offene-posten`
 
-**Frühere Beschreibung:** Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste mit Fälligkeitsstaffel.
+**Fokus:** Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste mit Fälligkeitsstaffel.
 
 # Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS)
 
@@ -722,7 +722,7 @@ Stand: 05/2026.
 
 ## 5. `stb-susa-erstellen-grundlagen`
 
-**Frühere Beschreibung:** Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel oder PDF mit Sollsalden Habensalden.
+**Fokus:** Summen- und Saldenliste SuSa erstellen Grundlagen. Anwendungsfall monatliche Erstellung aus Finanzbuchhaltung Hauptbuchkonten Personenkonten Erfolgskonten Bestandsbuchungen. Methodik Aufbau Prüfung Verwendung. Output SuSa-Datei als Excel oder PDF mit Sollsalden Habensalden.
 
 # Summen- und Saldenliste — Erstellung und Grundlagen
 
@@ -878,7 +878,7 @@ Stand: 05/2026.
 
 ## 6. `stb-susa-formfehler-pruefen`
 
-**Frühere Beschreibung:** SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetsprüfung der SuSa vor Versand oder Prüfung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen.
+**Fokus:** SuSa-Prüfung auf Formfehler Plausibilitaet und Differenzen. Anwendungsfall Qualitaetsprüfung der SuSa vor Versand oder Prüfung Buchungsdifferenzen typische Anomalien. Methodik Checkliste Plausibilitaet Differenz-Analyse. Output Fehlerprotokoll Korrekturmassnahmen.
 
 # SuSa-Pruefung — Formfehler, Plausibilitaet, Differenzen
 
@@ -1031,7 +1031,7 @@ Stand: 05/2026.
 
 ## 7. `stb-susa-haupt-und-personenkonten`
 
-**Frühere Beschreibung:** SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Prüfung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch.
+**Fokus:** SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Prüfung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch.
 
 # Hauptbuchkonten und Personenkonten — Abstimmung
 
@@ -1173,7 +1173,7 @@ Stand: 05/2026.
 
 ## 8. `stb-susa-kreditorenliste-ova`
 
-**Frühere Beschreibung:** Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. Anwendungsfall Monats- oder Quartalsauswertung Zahlungsdisposition Lieferanten-Analyse Bilanzvorbereitung. Methodik Fälligkeitsstaffel Top-Lieferanten Skonti-Optionen. Output Kreditoren-Liste mit Fälligkeit Zahlungsempfehlung.
+**Fokus:** Kreditoren-Saldenliste OVA Offene-Verbindlichkeiten-Auswertung. Anwendungsfall Monats- oder Quartalsauswertung Zahlungsdisposition Lieferanten-Analyse Bilanzvorbereitung. Methodik Fälligkeitsstaffel Top-Lieferanten Skonti-Optionen. Output Kreditoren-Liste mit Fälligkeit Zahlungsempfehlung.
 
 # Kreditoren-Saldenliste (OVA) — Offene Verbindlichkeiten
 
@@ -1317,7 +1317,7 @@ Stand: 05/2026.
 
 ## 9. `stb-susa-monatlich-quartalsweise`
 
-**Frühere Beschreibung:** Periodische SuSa-Erstellung monatlich oder quartalsweise. Anwendungsfall standardisierter Erstellungsprozess Wahl der Periodizitaet Belegvolumen Mandantengroesse. Methodik Wahl der Frequenz Kommunikations-Routine. Output Periodische SuSa mit Dokumentation.
+**Fokus:** Periodische SuSa-Erstellung monatlich oder quartalsweise. Anwendungsfall standardisierter Erstellungsprozess Wahl der Periodizitaet Belegvolumen Mandantengroesse. Methodik Wahl der Frequenz Kommunikations-Routine. Output Periodische SuSa mit Dokumentation.
 
 # Periodische SuSa-Erstellung — Monat oder Quartal
 

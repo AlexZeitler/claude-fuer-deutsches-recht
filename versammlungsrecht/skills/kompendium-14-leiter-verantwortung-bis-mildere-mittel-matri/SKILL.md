@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-leiter-verantwortung-bis-mildere-mittel-matri
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (leiter-verantwortung, mildere-mittel-matrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Leiter Verantwortung, Mildere Mittel Matrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - versammlungsrecht
+# Arbeitsbereich - Leiter Verantwortung, Mildere Mittel Matrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `leiter-verantwortung` | Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung. |
 | `mildere-mittel-matrix` | Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `leiter-verantwortung`
 
-**Frühere Beschreibung:** Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung.
+**Fokus:** Erklärt Rolle, Rechte und Pflichten der Versammlungsleitung vor, während und nach der Versammlung.
 
 # Leitung ist nicht Befehlsempfänger der Polizei
 
@@ -69,7 +69,7 @@ Output: Leitungsbriefing, Telefonkarte und Protokollnotiz für den Veranstaltung
 
 ## 2. `mildere-mittel-matrix`
 
-**Frühere Beschreibung:** Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen.
+**Fokus:** Erstellt eine Matrix milderer Mittel gegen Verbot, Verlegung oder zu breite Auflagen.
 
 # Mildere Mittel sichtbar machen
 

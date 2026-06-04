@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kommunikationstagebu-bis-leichte-einfache-spr
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (kommunikationstagebuch, krankenkasse-bescheid, laien-sanity-check, leichte-einfache-sprache) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kommunikationstagebuch, Krankenkasse Bescheid, Laien Sanity Check, Leichte Einfache Sprache; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Kommunikationstagebuch bis Leichte Einfache Sprache
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kommunikationstagebuch` | Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage, Frist und nächster Aktion. |
 | `krankenkasse-bescheid` | Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kommunikationstagebuch`
 
-**Frühere Beschreibung:** Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage, Frist und nächster Aktion.
+**Fokus:** Erstellt Behörden-Kommunikationsjournal mit Datum, Person, Inhalt, Zusage, Frist und nächster Aktion.
 
 # Kommunikationstagebuch
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `krankenkasse-bescheid`
 
-**Frühere Beschreibung:** Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht.
+**Fokus:** Routet Krankengeld, Hilfsmittel, Reha, Beitragsbescheid, Widerspruch und Sozialgericht.
 
 # Krankenkasse-Bescheid
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `laien-sanity-check`
 
-**Frühere Beschreibung:** Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende?
+**Fokus:** Letzte Prüfung: Habe ich verstanden, was passiert, welche Frist läuft, was ich sende und was ich nicht sende?
 
 # Laien-Sanity-Check
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `leichte-einfache-sprache`
 
-**Frühere Beschreibung:** Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren.
+**Fokus:** Erklärt Behördeninhalte in einfacher Sprache, ohne rechtliche Genauigkeit zu verlieren.
 
 # Leichte und einfache Sprache
 

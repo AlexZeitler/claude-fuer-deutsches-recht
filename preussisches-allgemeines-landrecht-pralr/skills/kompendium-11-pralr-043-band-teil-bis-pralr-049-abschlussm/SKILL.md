@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-pralr-043-band-teil-bis-pralr-049-abschlussm
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (pralr-043-band-teil-titel-navigation, pralr-044-rechtsfortwirkung-in-praxis-check, pralr-045-aufopferung-heutiger-schriftsatz, pralr-046-nachbarrecht-heutiger-schriftsatz, pralr-049-abschlussmemo-historische-tragfaehigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 043 Band Teil Titel Navigation, Pralr 044 Rechtsfortwirkung In Praxis Check, Pralr 045 Aufopferung Heutiger Schriftsatz, Pralr 046 Nachbarrecht Heutiger Schriftsatz und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 043 Band Teil Titel Navigation bis Pralr 049 Abschlussmemo Historische Tragfaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-043-band-teil-titel-navigation` | PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren. |
 | `pralr-044-rechtsfortwirkung-in-praxis-check` | PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-043-band-teil-titel-navigation`
 
-**Frühere Beschreibung:** PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren.
+**Fokus:** PrALR: In umfangreichen Bänden nach Teil, Titel, Paragraph, Register und Seitenlogik navigieren.
 
 # Navigation im Band
 
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-044-rechtsfortwirkung-in-praxis-check`
 
-**Frühere Beschreibung:** PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern.
+**Fokus:** PrALR: heutige Praxisfälle mit möglicher Altrechtsfortwirkung strukturiert prüfen und Live-Recherche anfordern.
 
 # Fortwirkung in Praxis
 
@@ -104,7 +104,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 3. `pralr-045-aufopferung-heutiger-schriftsatz`
 
-**Frühere Beschreibung:** PrALR: Aufopferungsgedanke in heutiger Staatshaftungsargumentation präzise und schlank verwenden.
+**Fokus:** PrALR: Aufopferungsgedanke in heutiger Staatshaftungsargumentation präzise und schlank verwenden.
 
 # Aufopferung im Schriftsatz
 
@@ -141,7 +141,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-046-nachbarrecht-heutiger-schriftsatz`
 
-**Frühere Beschreibung:** PrALR: historische Nachbarrechtsnormen in heutiger Streitakte prüfen, beweisen und abgrenzen.
+**Fokus:** PrALR: historische Nachbarrechtsnormen in heutiger Streitakte prüfen, beweisen und abgrenzen.
 
 # Nachbarrecht im Schriftsatz
 
@@ -178,7 +178,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 5. `pralr-049-abschlussmemo-historische-tragfaehigkeit`
 
-**Frühere Beschreibung:** PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen.
+**Fokus:** PrALR: Abschlussmemo mit Quellenstand, Rechtsstand, Unsicherheiten, Fortwirkungsrisiko und nächsten Schritten erstellen.
 
 # Abschlussmemo
 

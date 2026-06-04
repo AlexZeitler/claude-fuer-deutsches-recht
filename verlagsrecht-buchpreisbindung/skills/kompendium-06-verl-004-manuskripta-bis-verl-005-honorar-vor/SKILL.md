@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-verl-004-manuskripta-bis-verl-005-honorar-vor
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug, verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 004 Manuskriptablieferung Abnahme Lektorat Und Verzug, Verl 005 Honorar Vorschuss Absatzhonorar Und Abrechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug` | Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge. |
 | `verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung` | Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-004-manuskriptablieferung-abnahme-lektorat-und-verzug`
 
-**Frühere Beschreibung:** Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge.
+**Fokus:** Verlagsrecht: Manuskriptablieferung, Lektorat, Abnahme und Verzug nach VerlG §§ 2–4, BGB §§ 280 und 286 — Pflichten, Fristen, Rechtsfolgen bei Verzug und Mängelrüge.
 
 # Verl-004 · Manuskriptablieferung, Lektorat, Abnahme und Verzug
 
@@ -134,7 +134,7 @@ Dieser Skill behandelt den **Ablieferungsprozess** im Verlagsvertrag: Was der Au
 
 ## 2. `verl-005-honorar-vorschuss-absatzhonorar-und-abrechnung`
 
-**Frühere Beschreibung:** Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft.
+**Fokus:** Verlagsrecht: Autorenhonorar, Vorschuss, Absatzhonorar, Nachvergütung und Abrechnungspflicht nach VerlG §§ 22–28, UrhG §§ 32 und 32a, 32d — Berechnung, Angemessenheit und Auskunft.
 
 # Verl-005 · Honorar, Vorschuss, Absatzhonorar und Abrechnung
 

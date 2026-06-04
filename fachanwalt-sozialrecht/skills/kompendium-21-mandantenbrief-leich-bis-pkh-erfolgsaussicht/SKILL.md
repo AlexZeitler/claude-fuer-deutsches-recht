@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-mandantenbrief-leich-bis-pkh-erfolgsaussicht
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (mandantenbrief-leichte-sprache, mandat-triage-sozialrecht, pflegegrad-widerspruch, pkh-erfolgsaussicht-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenbrief Leichte Sprache, Mandat Triage Sozialrecht, Pflegegrad Widerspruch, Pkh Erfolgsaussicht Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fachanwalt-sozialrecht
+# Arbeitsbereich - Mandantenbrief Leichte Sprache bis Pkh Erfolgsaussicht Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenbrief-leichte-sprache` | Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei. |
 | `mandat-triage-sozialrecht` | Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenbrief-leichte-sprache`
 
-**Frühere Beschreibung:** Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei.
+**Fokus:** Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei.
 
 # Mandantenbrief in Einfacher oder Leichter Sprache
 
@@ -199,7 +199,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mandat-triage-sozialrecht`
 
-**Frühere Beschreibung:** Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing).
+**Fokus:** Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing).
 
 # Mandat-Triage Sozialrecht
 
@@ -364,7 +364,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `pflegegrad-widerspruch`
 
-**Frühere Beschreibung:** Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht.
+**Fokus:** Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Prüfraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Berücksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisanträge. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und eilantrag-sozialrecht.
 
 # Pflegegrad-Widerspruch — Praxisleitfaden
 
@@ -506,7 +506,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `pkh-erfolgsaussicht-pruefen`
 
-**Frühere Beschreibung:** Workflow-Skill zu pkh erfolgsaussicht pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu pkh erfolgsaussicht pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # PKH-Erfolgsaussicht prüfen
 

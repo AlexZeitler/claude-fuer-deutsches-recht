@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-offenbarung-neuheits-bis-registerstand-friste
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (offenbarung-neuheitsschonfrist-prioritaet, registerstand-fristen-verlaengerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Offenbarung Neuheitsschonfrist Prioritaet, Registerstand Fristen Verlaengerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Offenbarung Neuheitsschonfrist Prioritaet, Registerstand Fristen Verlaengerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `offenbarung-neuheitsschonfrist-prioritaet` | Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung. |
 | `registerstand-fristen-verlaengerung` | Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `offenbarung-neuheitsschonfrist-prioritaet`
 
-**Frühere Beschreibung:** Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung.
+**Fokus:** Offenbarung, Neuheitsschonfrist und Priorität prüfen: Messe, Instagram, Lookbook, Online-Shop, Presse, Prototyp, Pariser Verbandsübereinkunft und spätere Nachanmeldung.
 
 # Offenbarung Neuheitsschonfrist Prioritaet
 
@@ -59,7 +59,7 @@ Offenbarungschronologie und Fristenkalender.
 
 ## 2. `registerstand-fristen-verlaengerung`
 
-**Frühere Beschreibung:** Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen.
+**Fokus:** Registerstand, Laufzeit, Verlängerung und Rechtsstand prüfen: fünfjährige Perioden, maximaler Schutz, Gebühren, Löschung, Inhaberwechsel und Belastungen.
 
 # Registerstand Fristen Verlaengerung
 

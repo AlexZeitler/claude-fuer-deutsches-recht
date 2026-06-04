@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-executory-contracts-bis-first-day-motions
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (executory-contracts-365, exemptions-522, financial-contract-safe-harbors, first-day-motions) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Executory Contracts 365, Exemptions 522, Financial Contract Safe Harbors, First Day Motions; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - us-bankruptcy-code
+# Arbeitsbereich - Executory Contracts 365 bis First Day Motions
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `executory-contracts-365` | Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment. |
 | `exemptions-522` | Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `executory-contracts-365`
 
-**Frühere Beschreibung:** Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment.
+**Fokus:** Prueft assumption, rejection, assignment, cure, adequate assurance and strategic contract treatment.
 
 # Executory Contracts § 365
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `exemptions-522`
 
-**Frühere Beschreibung:** Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections.
+**Fokus:** Prueft individual debtor exemptions, state opt-out, federal exemptions, homestead, tools, retirement and objections.
 
 # Exemptions § 522
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `financial-contract-safe-harbors`
 
-**Frühere Beschreibung:** Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting.
+**Fokus:** Prueft safe harbors for securities contracts, commodities, forward contracts, repos, swaps and netting.
 
 # Financial Contract Safe Harbors
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `first-day-motions`
 
-**Frühere Beschreibung:** Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors.
+**Fokus:** Prueft first-day relief: cash management, wages, taxes, insurance, utilities, cash collateral, DIP, critical vendors.
 
 # First-Day Motions
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-luft-073-drohne-pfan-bis-luft-077-drohne-inso
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (luft-073-drohne-pfandrecht-vorbereiten, luft-074-drohne-pfaendung-planen, luft-075-drohne-genehmigung-pruefen, luft-076-drohne-sicherheitsauflage-bewerten, luft-077-drohne-insolvenzrisiko-markieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 073 Drohne Pfandrecht Vorbereiten, Luft 074 Drohne Pfaendung Planen, Luft 075 Drohne Genehmigung Pruefen, Luft 076 Drohne Sicherheitsauflage Bewerten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 073 Drohne Pfandrecht Vorbereiten bis Luft 077 Drohne Insolvenzrisiko Markieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-073-drohne-pfandrecht-vorbereiten` | Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk. |
 | `luft-074-drohne-pfaendung-planen` | Glaeubiger will gewerbliche Drohne oder Drohnenflotte pfaenden. Prueft ZPO § 808 Mobiliarpfaendung BGB-Eigentumsrecht Sicherungsübereignung und LuftVG § 21a Registrierungsstatus und liefert Pfaendungsplan. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-073-drohne-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk.
+**Fokus:** Kreditgeber will Pfandrecht an teurer Drohne oder Drohnenflotte als Sicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftVG § 21a Registrierungsstatus und Cape-Town-Abgrenzung und liefert Sicherungsstruktur-Vermerk.
 
 # Drohne – Pfandrecht vorbereiten
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 2. `luft-074-drohne-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will gewerbliche Drohne oder Drohnenflotte pfaenden. Prueft ZPO § 808 Mobiliarpfaendung BGB-Eigentumsrecht Sicherungsübereignung und LuftVG § 21a Registrierungsstatus und liefert Pfaendungsplan.
+**Fokus:** Glaeubiger will gewerbliche Drohne oder Drohnenflotte pfaenden. Prueft ZPO § 808 Mobiliarpfaendung BGB-Eigentumsrecht Sicherungsübereignung und LuftVG § 21a Registrierungsstatus und liefert Pfaendungsplan.
 
 # Drohne – Pfändung planen
 
@@ -223,7 +223,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 3. `luft-075-drohne-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Drohnenbetreiber braucht Genehmigung fuer Spezialoperationen oder hat Betriebsgenehmigung verloren. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk.
+**Fokus:** Drohnenbetreiber braucht Genehmigung fuer Spezialoperationen oder hat Betriebsgenehmigung verloren. Prueft EU-VO 2019/947 Betriebskategorien LuftVG § 21a LBA-Genehmigungsverfahren und Specific Category Operational Authorization und liefert Genehmigungsstatus-Vermerk.
 
 # Drohne – Genehmigung prüfen
 
@@ -319,7 +319,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 4. `luft-076-drohne-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Drohnenvorfall oder Routineinspektion. Prueft EU-VO 2019/947 LuftVG § 21a Verhaeltnismaessigkeit der Auflage und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk.
+**Fokus:** Drohnenbetreiber erhaelt LBA oder Landesbehoerden-Auflage nach Drohnenvorfall oder Routineinspektion. Prueft EU-VO 2019/947 LuftVG § 21a Verhaeltnismaessigkeit der Auflage und Widerspruchsmoeglichkeit und liefert Auflagen-Bewertungs-Vermerk.
 
 # Drohne – Sicherheitsauflage bewerten
 
@@ -415,7 +415,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 5. `luft-077-drohne-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** Drohnendienstleister zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Insolvenzantragspflicht Aussonderungsrechte Leasinggeber bei Drohnenflotte und Kundenforderungen und liefert Risikoampel-Bewertung.
+**Fokus:** Drohnendienstleister zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Insolvenzantragspflicht Aussonderungsrechte Leasinggeber bei Drohnenflotte und Kundenforderungen und liefert Risikoampel-Bewertung.
 
 # Drohne – Insolvenzrisiko markieren
 

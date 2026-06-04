@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-rom-neu-014-novellen-bis-rom-neu-021-roemisch
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 21; bündelt 8 frühere Spezialskills (rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki, rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-peti, rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bolog, rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit, rom-neu-018-kanonisches-recht-und-roemisches-recht-wechselwirkun und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki, Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti, Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog, Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qua"
 ---
 
-# Kompendium 21 - roemisches-recht
+# Arbeitsbereich - Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki bis Rom Neu 021 Roemisches Sachenrecht Im Mittelalterlichen Lehnskon
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki` | Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-peti` | Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-neu-014-novellen-justinians-verwaltungsrecht-ehe-erbrecht-ki`
 
-**Frühere Beschreibung:** Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Novellen Justinians Verwaltungsrecht Ehe Erbrecht Kirche mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 014 Novellen Justinians Verwaltungsrecht Ehe Erbrecht Ki
 
@@ -79,7 +79,7 @@ Novellae Justinians — Verwaltungsrecht, Ehe, Erbrecht, Kirche.
 
 ## 2. `rom-neu-015-byzantinisches-prozessrecht-richter-kanzlei-und-peti`
 
-**Frühere Beschreibung:** Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Byzantinisches Prozessrecht Richter Kanzlei und Petition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 015 Byzantinisches Prozessrecht Richter Kanzlei Und Peti
 
@@ -124,7 +124,7 @@ A klagt gegen B um Erbschaft in Konstantinopel.
 
 ## 3. `rom-neu-016-mittelalterliches-roemisches-recht-glossatoren-bolog`
 
-**Frühere Beschreibung:** Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Mittelalterliches römisches Recht Glossatoren Bologna mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 016 Mittelalterliches Roemisches Recht Glossatoren Bolog
 
@@ -167,7 +167,7 @@ Mittelalterliches roemisches Recht — Glossatoren von Bologna.
 
 ## 4. `rom-neu-017-kommentatoren-mos-italicus-und-praktische-fallarbeit`
 
-**Frühere Beschreibung:** Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Kommentatoren mos italicus und praktische Fallarbeit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 017 Kommentatoren Mos Italicus Und Praktische Fallarbeit
 
@@ -213,7 +213,7 @@ Kommentatoren / Mos italicus und praktische Fallarbeit.
 
 ## 5. `rom-neu-018-kanonisches-recht-und-roemisches-recht-wechselwirkun`
 
-**Frühere Beschreibung:** Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Kanonisches Recht und römisches Recht Wechselwirkung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 018 Kanonisches Recht Und Roemisches Recht Wechselwirkun
 
@@ -257,7 +257,7 @@ Kanonisches Recht und roemisches Recht — Wechselwirkung.
 
 ## 6. `rom-neu-019-ius-commune-lokale-statuten-und-gelehrtes-recht`
 
-**Frühere Beschreibung:** Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Ius commune lokale Statuten und gelehrtes Recht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 019 Ius Commune Lokale Statuten Und Gelehrtes Recht
 
@@ -306,7 +306,7 @@ A klagt gegen B nach Statuten der Stadt Padua.
 
 ## 7. `rom-neu-020-rezeption-in-deutschland-reichskammergericht-und-usu`
 
-**Frühere Beschreibung:** Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Rezeption in Deutschland Reichskammergericht und Usus modernus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 020 Rezeption In Deutschland Reichskammergericht Und Usu
 
@@ -355,7 +355,7 @@ Rezeption des roemischen Rechts in Deutschland — Reichskammergericht und Usus 
 
 ## 8. `rom-neu-021-roemisches-sachenrecht-im-mittelalterlichen-lehnskon`
 
-**Frühere Beschreibung:** Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Römisches Sachenrecht im mittelalterlichen Lehnskontext mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 021 Roemisches Sachenrecht Im Mittelalterlichen Lehnskon
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vollrelation-langfas-bis-zulaessigkeit-pruefe
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (vollrelation-langfassung, vorlaeufige-vollstreckbarkeit, zulaessigkeit-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulaessigkeit Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Vollrelation Langfassung, Vorlaeufige Vollstreckbarkeit, Zulaessigkeit Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vollrelation-langfassung` | Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer. |
 | `vorlaeufige-vollstreckbarkeit` | Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vollrelation-langfassung`
 
-**Frühere Beschreibung:** Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer.
+**Fokus:** Vollständige Relation im Schulstandard für Referendar-/Assessorprüfung ausformulieren: Kandidat benoetigt Langfassung mit gutachterlichem Stil. Normen: §§ 253 ff. und 286 und 313 ZPO. Prüfraster: Sachbericht, Auslegung Streitgegenstand, jede Station (Zulässigkeit, Schluessigkeit, Erheblichkeit, Replik, Beweisstation, Tenorierung) als eigener Abschnitt mit ORSA (Obersatz, Regel, Subsumtion, Abschluss). Output Vollrelation bis 20 Seiten, alle Stationen. Abgrenzung: Kurzfassung für Praxis siehe relation-zivil; Schulung siehe schulung-urteilsbauer.
 
 # Vollrelation Langfassung - Schulstandard für Prüfung
 
@@ -146,7 +146,7 @@ Markdown mit klaren Hierarchien (## A Sachbericht ## B Auslegung ...). Bei DOCX-
 
 ## 2. `vorlaeufige-vollstreckbarkeit`
 
-**Frühere Beschreibung:** Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen.
+**Fokus:** Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen.
 
 # Vorläufige Vollstreckbarkeit
 
@@ -239,7 +239,7 @@ Dieser Skill wurde im Rahmen von Bundle 046 auf halluzinierte Rechtsprechungsnac
 
 ## 3. `zulaessigkeit-pruefen`
 
-**Frühere Beschreibung:** Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin.
+**Fokus:** Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin.
 
 # Zulässigkeit der Zivilklage
 

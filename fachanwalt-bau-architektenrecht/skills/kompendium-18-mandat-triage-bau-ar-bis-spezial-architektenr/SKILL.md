@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-mandat-triage-bau-ar-bis-spezial-architektenr
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (mandat-triage-bau-architektenrecht, nachtragsmanagement-650b, schriftsatzkern-substantiierung, spezial-architektenrecht-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandat Triage Bau Architektenrecht, Nachtragsmanagement 650b, Schriftsatzkern Substantiierung, Architektenrecht Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Mandat Triage Bau Architektenrecht bis Architektenrecht Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandat-triage-bau-architektenrecht` | Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme. |
 | `nachtragsmanagement-650b` | Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandat-triage-bau-architektenrecht`
 
-**Frühere Beschreibung:** Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme.
+**Fokus:** Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme.
 
 # Mandat-Triage Bau- und Architektenrecht
 
@@ -171,7 +171,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `nachtragsmanagement-650b`
 
-**Frühere Beschreibung:** Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung.
+**Fokus:** Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung.
 
 # Nachtragsmanagement § 650b BGB
 
@@ -534,7 +534,7 @@ die 80-Prozent-Abrechnung nach § 650c Abs. 3 BGB vor.
 
 ## 3. `schriftsatzkern-substantiierung`
 
-**Frühere Beschreibung:** Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz.
+**Fokus:** Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz.
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht
 
@@ -795,7 +795,7 @@ Aktenzeichen geprueft und korrigiert:
 
 ## 4. `spezial-architektenrecht-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Architektenrecht: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

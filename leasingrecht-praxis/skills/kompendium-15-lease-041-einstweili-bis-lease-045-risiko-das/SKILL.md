@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-lease-041-einstweili-bis-lease-045-risiko-das
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt, lease-042-schieds-oder-gerichtsstand-leasing, lease-045-risiko-dashboard-leasingportfolio) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasingportfolio; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - leasingrecht-praxis
+# Arbeitsbereich - Lease 041 Einstweiliger Rechtsschutz Herausgabe Leasingobjekt, Lease 042 Schieds Oder Gerichtsstand Leasing, Lease 045 Risiko Dashboard Leasi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt` | Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN. |
 | `lease-042-schieds-oder-gerichtsstand-leasing` | Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-041-einstweiliger-rechtsschutz-herausgabe-leasingobjekt`
 
-**Frühere Beschreibung:** Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN.
+**Fokus:** Einstweiliger Rechtsschutz: Herausgabeverfügung für Leasingobjekte, Verfügungsanspruch, Verfügungsgrund, Vollzug und Gegenwehr des LN.
 
 # Einstweiliger Rechtsschutz: Herausgabe des Leasingobjekts
 
@@ -126,7 +126,7 @@ Bei Leasingherausgabe: Häufig § 940 ZPO (Regelungsverfügung), wenn LN droht, 
 
 ## 2. `lease-042-schieds-oder-gerichtsstand-leasing`
 
-**Frühere Beschreibung:** Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte.
+**Fokus:** Streitbeilegung im Leasingrecht: Schiedsverfahren vs. staatliche Gerichte, Gerichtsstandsklausel, Verbraucherrecht, Mediation und internationale Schiedsgerichte.
 
 # Schiedsverfahren und Gerichtsstand im Leasingrecht
 
@@ -226,7 +226,7 @@ Inhalt:
 
 ## 3. `lease-045-risiko-dashboard-leasingportfolio`
 
-**Frühere Beschreibung:** Risiko-Dashboard Leasingportfolio: KPIs, Konzentrations- und Restwertrisiken, NPL-Tracking, Stresstest und regulatorisches Reporting.
+**Fokus:** Risiko-Dashboard Leasingportfolio: KPIs, Konzentrations- und Restwertrisiken, NPL-Tracking, Stresstest und regulatorisches Reporting.
 
 # Risiko-Dashboard: Leasingportfolio
 

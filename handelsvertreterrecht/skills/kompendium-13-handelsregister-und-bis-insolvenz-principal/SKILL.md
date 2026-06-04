@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-handelsregister-und-bis-insolvenz-principal
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (handelsregister-und-gewerbe, handelsvertreter-gmbh, handelsvertreterprivileg, insolvenz-principal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsregister Und Gewerbe, Handelsvertreter Gmbh, Handelsvertreterprivileg, Insolvenz Principal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - handelsvertreterrecht
+# Arbeitsbereich - Handelsregister Und Gewerbe bis Insolvenz Principal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsregister-und-gewerbe` | Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB. |
 | `handelsvertreter-gmbh` | Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsregister-und-gewerbe`
 
-**Frühere Beschreibung:** Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB.
+**Fokus:** Prüft Handelsregister- und Gewerbeanmeldepflichten des Handelsvertreters: Eintragungspflicht nach §§ 1 ff. HGB, Gewerbeanmeldung nach § 14 GewO, Auswirkungen auf Rechtsfähigkeit und Haftung, Firmierung sowie Pflichtangaben in Geschäftsbriefen nach § 37a HGB.
 
 # Handelsregister- und Gewerbeanmeldung des Handelsvertreters nach HGB und GewO
 
@@ -108,7 +108,7 @@ ergänzen das Recht praxisnah.
 
 ## 2. `handelsvertreter-gmbh`
 
-**Frühere Beschreibung:** Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs.
+**Fokus:** Analysiert die Handelsvertretung durch eine GmbH: Haftungsvorteile der GmbH gegenüber dem Einzelkaufmann, Auswirkungen auf den Ausgleichsanspruch nach § 89b HGB (kein Ausschluss wegen juristischer Person), Geschäftsführerhaftung, Gesellschafterwechsel und Auflösung der GmbH sowie Pfändungsschutz des Ausgleichs.
 
 # Handelsvertreter-GmbH — Rechtsformwahl und Ausgleichsanspruch nach § 89b HGB
 
@@ -187,7 +187,7 @@ ergänzen das Recht praxisnah.
 
 ## 3. `handelsvertreterprivileg`
 
-**Frühere Beschreibung:** Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung.
+**Fokus:** Analysiert das kartellrechtliche Handelsvertreterprivileg: echte Handelsvertreter unterfallen nicht dem Kartellverbot des Art. 101 AEUV bzw. § 1 GWB für vertikale Vereinbarungen; Abgrenzungskriterien nach EuGH und EU-Kommissions-Leitlinien, Risiko- und Kostenübernahme als Abgrenzungsmerkmal sowie Folgen falscher Einordnung.
 
 # Kartellrechtliches Handelsvertreterprivileg nach Art. 101 AEUV und § 1 GWB
 
@@ -266,7 +266,7 @@ ergänzen das Recht praxisnah.
 
 ## 4. `insolvenz-principal`
 
-**Frühere Beschreibung:** Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung.
+**Fokus:** Analysiert Auswirkungen der Insolvenz des Unternehmers auf den Handelsvertretervertrag: automatische Beendigung nach § 116 InsO, Anmeldefähigkeit von Provisions- und Ausgleichsansprüchen zur Insolvenztabelle, Absonderungsrechte sowie Sicherungsstrategien für offene Forderungen vor Insolvenzeröffnung.
 
 # Insolvenz des Unternehmers — Auswirkungen auf Handelsvertretervertrag und Ansprüche
 

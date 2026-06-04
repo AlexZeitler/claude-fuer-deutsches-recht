@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fachanwalt-hgr-dis-s-bis-spezial-token-friste
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (fachanwalt-hgr-dis-schiedsverfahren-streit, spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit, spezial-token-fristennotiz-und-naechster-schritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Hgr Dis Schiedsverfahren Streit, Gesellschaftsrecht Fristen Form Und Zustaendigkeit, Token Fristennotiz Und Naechster Schritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-hgr-dis-schiedsverfahren-streit` | Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie. |
 | `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit` | Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-hgr-dis-schiedsverfahren-streit`
 
-**Frühere Beschreibung:** Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie.
+**Fokus:** Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Prüfraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie.
 
 # Gesellschafterstreit / DIS-Schiedsverfahren
 
@@ -185,7 +185,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `spezial-gesellschaftsrecht-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftsrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -235,7 +235,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-token-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Token: Fristennotiz und nächster Schritt im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Token: Fristennotiz und nächster Schritt
 

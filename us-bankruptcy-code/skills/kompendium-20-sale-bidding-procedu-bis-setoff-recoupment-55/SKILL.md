@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-sale-bidding-procedu-bis-setoff-recoupment-55
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (sale-bidding-procedures, schedules-sofa-disclosure, secured-claim-valuation-506, setoff-recoupment-553) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sale Bidding Procedures, Schedules Sofa Disclosure, Secured Claim Valuation 506, Setoff Recoupment 553; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - us-bankruptcy-code
+# Arbeitsbereich - Sale Bidding Procedures bis Setoff Recoupment 553
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sale-bidding-procedures` | Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline. |
 | `schedules-sofa-disclosure` | Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sale-bidding-procedures`
 
-**Frühere Beschreibung:** Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline.
+**Fokus:** Prueft auction process, bid protections, notice, stalking horse, qualified bids and sale timeline.
 
 # Sale Process and Bidding Procedures
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `schedules-sofa-disclosure`
 
-**Frühere Beschreibung:** Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks.
+**Fokus:** Prueft schedules, statement of financial affairs, assets, liabilities, executory contracts, transfers and accuracy risks.
 
 # Schedules and SOFA Disclosure
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `secured-claim-valuation-506`
 
-**Frühere Beschreibung:** Prueft secured status, collateral value, bifurcation, adequate protection and cramdown valuation.
+**Fokus:** Prueft secured status, collateral value, bifurcation, adequate protection and cramdown valuation.
 
 # Secured Claim Valuation § 506
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `setoff-recoupment-553`
 
-**Frühere Beschreibung:** Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues.
+**Fokus:** Prueft mutuality, prepetition debts, stay implications, recoupment distinction and financial counterparty issues.
 
 # Setoff and Recoupment § 553
 

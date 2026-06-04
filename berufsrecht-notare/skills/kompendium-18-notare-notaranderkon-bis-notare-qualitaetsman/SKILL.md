@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-notare-notaranderkon-bis-notare-qualitaetsman
-description: "berufsrecht-notare: Konsolidiertes Skill-Kompendium 18; bündelt 9 frühere Spezialskills (notare-notaranderkonto-auszahlungsreife-kammerantwort-und-verfa, notare-notaranderkonto-auszahlungsreife-organisationspflicht-un, notare-notarielle-verwahrung-von-daten-kammerantwort-und-verfah, notare-notarielle-verwahrung-von-daten-organisationspflicht-und, notare-notarkammer-anfrage-organisationspflicht-und-praevention und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-notare: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa, Notare Notaranderkonto Auszahlungsreife Organisationspflicht Un, Notare Notarielle Verwahrung Von Daten Kammerantwort Und Verfah, Notare Notarielle Verwahrung Von Daten Organisationspflicht Und und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Quali"
 ---
 
-# Kompendium 18 - berufsrecht-notare
+# Arbeitsbereich - Notare Notaranderkonto Auszahlungsreife Kammerantwort Und Verfa bis Notare Qualitaetsmanagement Im Notariat Organisationspflicht Un
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notare-notaranderkonto-auszahlungsreife-kammerantwort-und-verfa` | Notare: notaranderkonto auszahlungsreife - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `notare-notaranderkonto-auszahlungsreife-organisationspflicht-un` | Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notare-notaranderkonto-auszahlungsreife-kammerantwort-und-verfa`
 
-**Frühere Beschreibung:** Notare: notaranderkonto auszahlungsreife - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notaranderkonto auszahlungsreife - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notaranderkonto auszahlungsreife - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `notare-notaranderkonto-auszahlungsreife-organisationspflicht-un`
 
-**Frühere Beschreibung:** Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notaranderkonto auszahlungsreife - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `notare-notarielle-verwahrung-von-daten-kammerantwort-und-verfah`
 
-**Frühere Beschreibung:** Notare: notarielle verwahrung von daten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notarielle verwahrung von daten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notarielle verwahrung von daten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -163,7 +163,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `notare-notarielle-verwahrung-von-daten-organisationspflicht-und`
 
-**Frühere Beschreibung:** Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notarielle verwahrung von daten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -206,7 +206,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `notare-notarkammer-anfrage-organisationspflicht-und-praevention`
 
-**Frühere Beschreibung:** Notare: notarkammer anfrage - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notarkammer anfrage - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notarkammer anfrage - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -249,7 +249,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `notare-notarvertretung-und-notariatsverwalter-kammerantwort-und`
 
-**Frühere Beschreibung:** Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notarvertretung und notariatsverwalter - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -292,7 +292,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `notare-notarvertretung-und-notariatsverwalter-organisationspfli`
 
-**Frühere Beschreibung:** Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: notarvertretung und notariatsverwalter - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -335,7 +335,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 8. `notare-qualitaetsmanagement-im-notariat-kammerantwort-und-verfa`
 
-**Frühere Beschreibung:** Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: qualitaetsmanagement im notariat - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -378,7 +378,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 9. `notare-qualitaetsmanagement-im-notariat-organisationspflicht-un`
 
-**Frühere Beschreibung:** Notare: qualitaetsmanagement im notariat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Notare: qualitaetsmanagement im notariat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Notare: qualitaetsmanagement im notariat - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 

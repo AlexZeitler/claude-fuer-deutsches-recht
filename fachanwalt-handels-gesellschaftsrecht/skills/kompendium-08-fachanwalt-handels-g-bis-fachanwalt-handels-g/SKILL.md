@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-handels-g-bis-fachanwalt-handels-g
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit, fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich, fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handels Gesellschaftsrecht Gesellschafterstreit, Handels Gesellschaftsrecht Handelsvertreterausgleich, Handels Gesellschaftsrecht Ma Due Diligence Findings; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Handels Gesellschaftsrecht Gesellschafterstreit, Handels Gesellschaftsrecht Handelsvertreterausgleich, Handels Gesellschaftsrecht Ma Due Dili
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 ## V90 Fachkern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht gesellschafterstreit. Nutzt Normtext, Nutzerangaben und verifizi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -320,7 +320,7 @@ Praktische Richtwert: EUR 15.000–250.000 je nach Bedeutung des Beschlusses.
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 ## V90 Fachkern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht handelsvertreterausgleich. Nutzt Normtext, Nutzerangaben und ver` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -602,7 +602,7 @@ Schreiben vom [Datum] (Anlage K 6) wahrt die Jahresfrist.
 
 ## 3. `fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings`
 
-**Frühere Beschreibung:** Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie.
+**Fokus:** Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie.
 
 # M&A Due Diligence Findings
 

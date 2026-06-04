@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-kooperativer-abschlu-bis-notare-bnotk-modus
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (kooperativer-abschluss, mehrsprachige-umformulierung, notare-bnotk-modus) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kooperativer Abschluss, Mehrsprachige Umformulierung, Notare Bnotk Modus; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Kooperativer Abschluss, Mehrsprachige Umformulierung, Notare Bnotk Modus
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kooperativer-abschluss` | E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln). |
 | `mehrsprachige-umformulierung` | Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kooperativer-abschluss`
 
-**Frühere Beschreibung:** E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln).
+**Fokus:** E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln).
 
 # Kooperativer Abschluss
 
@@ -110,7 +110,7 @@ Der Skill gibt aus: (1) Vorgeschlagene Schlusspassage passend zum Ton des Schrei
 
 ## 2. `mehrsprachige-umformulierung`
 
-**Frühere Beschreibung:** Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz.
+**Fokus:** Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz.
 
 # Mehrsprachige Umformulierung
 
@@ -172,7 +172,7 @@ Der Skill gibt aus: (1) Empfohlene Anrede in der Zielsprache. (2) Schlussformel 
 
 ## 3. `notare-bnotk-modus`
 
-**Frühere Beschreibung:** Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz.
+**Fokus:** Korrespondenz von Notaren und Notarinnen auf notarrechtliche Besonderheiten und BNotK-Vorgaben anpassen. §§ 14 17 BNotO § 26 BRAO analog. Prüfraster: neutrale Beurkundsrolle Unparteilichkeit Gebotes zur Unabhängigkeit Urkundssprache. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz.
 
 # Notar-Modus (BNotO/BNotK)
 

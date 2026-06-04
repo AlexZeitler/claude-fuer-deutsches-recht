@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-stb-bwa-kennzahlen-r-bis-stb-datev-bwa-modul
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 18; bündelt 9 frühere Spezialskills (stb-bwa-kennzahlen-rentabilitaet-eigenkapital, stb-bwa-kontenrahmen-skr03-skr04, stb-bwa-mandantenreport-monatlich, stb-bwa-statische-liquiditaet-kennzahlen, stb-bwa-vorlaeufiges-ergebnis-darstellung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Bwa Kennzahlen Rentabilitaet Eigenkapital, Stb Bwa Kontenrahmen Skr03 Skr04, Stb Bwa Mandantenreport Monatlich, Stb Bwa Statische Liquiditaet Kennzahlen und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Bwa Kennzahlen Rentabilitaet Eigenkapital bis Stb Datev Bwa Modul Bedienen Tipps
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-bwa-kennzahlen-rentabilitaet-eigenkapital` | Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung. |
 | `stb-bwa-kontenrahmen-skr03-skr04` | Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-bwa-kennzahlen-rentabilitaet-eigenkapital`
 
-**Frühere Beschreibung:** Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung.
+**Fokus:** Rentabilitaetskennzahlen Eigenkapitalrendite Gesamtkapitalrendite ROI Umsatzrentabilitaet. Anwendungsfall Quartals- oder Jahresauswertung Beratungsgespraech Investor-Update. Methodik Berechnung Bewertung Branchenvergleich Praktische Aussage. Output Rentabilitaets-Kennzahlenblatt mit Erlaeuterung.
 
 # Rentabilitaetskennzahlen — Eigenkapital- Gesamtkapital-Rendite ROI
 
@@ -193,7 +193,7 @@ Stand: 05/2026.
 
 ## 2. `stb-bwa-kontenrahmen-skr03-skr04`
 
-**Frühere Beschreibung:** Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen.
+**Fokus:** Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen.
 
 # Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA
 
@@ -319,7 +319,7 @@ Stand: 05/2026.
 
 ## 3. `stb-bwa-mandantenreport-monatlich`
 
-**Frühere Beschreibung:** Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung. Output Mandantenreport als PDF Querverweis stb-routine-monatsabschluss-30-tage-zyklus.
+**Fokus:** Monatlicher Mandantenreport zusammenführend aus BWA SuSa OPOS Lohn Liquiditaet. Anwendungsfall standardisierter Monatsreport an Mandant per Mail oder Portal. Methodik 4-Seiten-Vorlage Cover BWA Kennzahlen Empfehlung. Output Mandantenreport als PDF Querverweis stb-routine-monatsabschluss-30-tage-zyklus.
 
 # Monatlicher Mandantenreport
 
@@ -479,7 +479,7 @@ Stand: 05/2026.
 
 ## 4. `stb-bwa-statische-liquiditaet-kennzahlen`
 
-**Frühere Beschreibung:** Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA und Bilanz. Anwendungsfall Quartalsauswertung Bankreporting Krisenfrueherkennung. Methodik Working Capital Aufstellung Anlagendeckung Kennzahlen. Output Liquiditaets-Kennzahlenblatt Bewertung Ampel.
+**Fokus:** Statische Liquiditaetskennzahlen Liquiditaet 1 2 3 Grades aus BWA und Bilanz. Anwendungsfall Quartalsauswertung Bankreporting Krisenfrueherkennung. Methodik Working Capital Aufstellung Anlagendeckung Kennzahlen. Output Liquiditaets-Kennzahlenblatt Bewertung Ampel.
 
 # Statische Liquiditaetskennzahlen — 1. 2. 3. Grades
 
@@ -627,7 +627,7 @@ Stand: 05/2026.
 
 ## 5. `stb-bwa-vorlaeufiges-ergebnis-darstellung`
 
-**Frühere Beschreibung:** Darstellung vorlaeufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung.
+**Fokus:** Darstellung vorlaeufiges Ergebnis in Quartals- und Halbjahres-BWA. Anwendungsfall unterjaehrige BWA mit Vorlaeufigkeitsvermerk Bestand-Schaetzung noch nicht abgeschlossene Periodenabgrenzung. Methodik klare Trennung gebuchte versus geschaetzte Posten Hinweis-Pflichten gegenüber Mandant. Output BWA mit Vorlaeufigkeitsvermerk Erlaeuterung.
 
 # Vorlaeufiges Ergebnis in der unterjaehrigen BWA
 
@@ -775,7 +775,7 @@ Stand: 05/2026.
 
 ## 6. `stb-bwa-zeitlicher-vergleich-jahresvergleich`
 
-**Frühere Beschreibung:** Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist Vorjahr Abweichung absolut Prozent Erlaeuterungstext.
+**Fokus:** Zeitvergleich Vorjahr und Vormonat in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Gegenüberstellung Vorjahres-Periode kumulierter Jahresvergleich Abweichungs-Analyse Trendaussage. Methodik gleicher Zeitraum gleiches Geschäftsmodell Bereinigung Sondereffekte. Output Tabelle mit Soll Ist Vorjahr Abweichung absolut Prozent Erlaeuterungstext.
 
 # Zeitlicher Vergleich in der BWA — Vorjahr und Vormonat
 
@@ -913,7 +913,7 @@ Stand: 05/2026.
 
 ## 7. `stb-bwa-zeitvergleich-vorjahr-darstellung`
 
-**Frühere Beschreibung:** Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output BWA mit zusaetzlicher Grafik-Seite.
+**Fokus:** Zeitvergleich Vorjahr in der BWA grafisch und tabellarisch. Anwendungsfall optische Aufbereitung der Vorjahresvergleichsdaten für Mandantengespraech mit Liniendiagrammen Balkengrafik. Methodik Standard-Tabelle plus Visualisierung. Output BWA mit zusaetzlicher Grafik-Seite.
 
 # Grafische Aufbereitung des Vorjahresvergleichs in der BWA
 
@@ -1056,7 +1056,7 @@ Stand: 05/2026.
 
 ## 8. `stb-datentransfer-mandant-cloud-dsgvo`
 
-**Frühere Beschreibung:** Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument.
+**Fokus:** Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument.
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte
 
@@ -1186,7 +1186,7 @@ Stand: 05/2026.
 
 ## 9. `stb-datev-bwa-modul-bedienen-tipps`
 
-**Frühere Beschreibung:** DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert.
+**Fokus:** DATEV Kanzlei-Rechnungswesen BWA-Modul Bedienung. Anwendungsfall Erstellung BWA in DATEV Auswahl Form Konfiguration Periodenvergleich Branchenvergleich. Methodik Workflow-Tipps. Output BWA-konfiguriert.
 
 # DATEV Kanzlei-Rechnungswesen BWA-Modul — Bedienung
 

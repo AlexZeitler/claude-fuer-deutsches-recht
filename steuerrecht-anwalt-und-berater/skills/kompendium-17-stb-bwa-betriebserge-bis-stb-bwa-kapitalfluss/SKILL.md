@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-stb-bwa-betriebserge-bis-stb-bwa-kapitalfluss
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 17; bündelt 9 frühere Spezialskills (stb-bwa-betriebsergebnis-deckungsbeitrag, stb-bwa-betriebsuebersicht-erstellen, stb-bwa-bewegungsbilanz-erstellen, stb-bwa-branchenvergleich-bbe-datev, stb-bwa-cashflow-laienverstaendlich und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Bwa Betriebsergebnis Deckungsbeitrag, Stb Bwa Betriebsuebersicht Erstellen, Stb Bwa Bewegungsbilanz Erstellen, Stb Bwa Branchenvergleich Bbe Datev und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Bwa Betriebsergebnis Deckungsbeitrag bis Stb Bwa Kapitalflussrechnung Iduk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-bwa-betriebsergebnis-deckungsbeitrag` | Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und variable Kosten Identifikation Branchenkennzahl. Output BWA mit Ergebnis-Pyramide Stufendeckung. |
 | `stb-bwa-betriebsuebersicht-erstellen` | Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als PDF Anhang zur BWA. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-bwa-betriebsergebnis-deckungsbeitrag`
 
-**Frühere Beschreibung:** Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und variable Kosten Identifikation Branchenkennzahl. Output BWA mit Ergebnis-Pyramide Stufendeckung.
+**Fokus:** Ausweis Betriebsergebnis vor und nach Zinsen Deckungsbeitragsstruktur in der BWA. Anwendungsfall analytische BWA mit Stufendeckungsbeitrag EBITDA EBIT EBT Mandant aus Industrie Handel Dienstleistung. Methodik fixe und variable Kosten Identifikation Branchenkennzahl. Output BWA mit Ergebnis-Pyramide Stufendeckung.
 
 # Betriebsergebnis und Deckungsbeitrag in der BWA
 
@@ -181,7 +181,7 @@ Stand: 05/2026.
 
 ## 2. `stb-bwa-betriebsuebersicht-erstellen`
 
-**Frühere Beschreibung:** Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als PDF Anhang zur BWA.
+**Fokus:** Betriebsuebersicht als ergaenzende Auswertung zur BWA. Anwendungsfall ausführliche Monats- oder Quartalsauswertung mit allen Sachkonten-Salden ergaenzend zur kompakten BWA. Methodik Konfiguration in DATEV oder Addison als Kontenliste mit Vorjahres- und Plan-Spalten. Output Betriebsuebersicht als PDF Anhang zur BWA.
 
 # Betriebsuebersicht erstellen — Ergaenzung zur BWA
 
@@ -353,7 +353,7 @@ Stand: 05/2026.
 
 ## 3. `stb-bwa-bewegungsbilanz-erstellen`
 
-**Frühere Beschreibung:** Bewegungsbilanz aus BWA und SuSa erstellen. Anwendungsfall Veranschaulichung Geld- und Mittelfluss zwischen zwei Stichtagen Vermögens- und Kapitalbewegung. Methodik Aktiva und Passiva Vergleich Mittelherkunft Mittelverwendung. Output Bewegungsbilanz als Anhang zur BWA. Querverweis stb-bwa-cashflow-laienverstaendlich.
+**Fokus:** Bewegungsbilanz aus BWA und SuSa erstellen. Anwendungsfall Veranschaulichung Geld- und Mittelfluss zwischen zwei Stichtagen Vermögens- und Kapitalbewegung. Methodik Aktiva und Passiva Vergleich Mittelherkunft Mittelverwendung. Output Bewegungsbilanz als Anhang zur BWA. Querverweis stb-bwa-cashflow-laienverstaendlich.
 
 # Bewegungsbilanz aus BWA und SuSa
 
@@ -521,7 +521,7 @@ Stand: 05/2026.
 
 ## 4. `stb-bwa-branchenvergleich-bbe-datev`
 
-**Frühere Beschreibung:** Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung.
+**Fokus:** Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung.
 
 # Branchenvergleich BBE / DATEV in der BWA
 
@@ -663,7 +663,7 @@ Stand: 05/2026.
 
 ## 5. `stb-bwa-cashflow-laienverstaendlich`
 
-**Frühere Beschreibung:** Cashflow-Darstellung für Mandant in laienverstaendlicher Form. Anwendungsfall Quartals-BWA mit vereinfachter Cashflow-Aufstellung für GF ohne Finanz-Hintergrund. Methodik einfache Mittelfluss-Tabelle Brutto-Netto-Cashflow Trennung zahlungswirksam vs nicht-zahlungswirksam. Output 1-seitige Cashflow-Übersicht.
+**Fokus:** Cashflow-Darstellung für Mandant in laienverstaendlicher Form. Anwendungsfall Quartals-BWA mit vereinfachter Cashflow-Aufstellung für GF ohne Finanz-Hintergrund. Methodik einfache Mittelfluss-Tabelle Brutto-Netto-Cashflow Trennung zahlungswirksam vs nicht-zahlungswirksam. Output 1-seitige Cashflow-Übersicht.
 
 # Cashflow laienverstaendlich darstellen
 
@@ -819,7 +819,7 @@ Stand: 05/2026.
 
 ## 6. `stb-bwa-erlaeuterungstext-mandant`
 
-**Frühere Beschreibung:** Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe.
+**Fokus:** Erlaeuterungstext unter der BWA für den Mandanten. Anwendungsfall Monats- oder Quartals-BWA mit kurzem fachlichem Begleittext der die wesentlichen Abweichungen und Risiken benennt. Aufbau Sachverhalt Erlaeuterung Ausblick Empfehlung. Output strukturierter Erlaeuterungstext 1 bis 2 Seiten als Anhang zur BWA Querverweis stb-bwa-mandantengespraech-uebergabe.
 
 # Erlaeuterungstext zur BWA fuer den Mandanten
 
@@ -974,7 +974,7 @@ Stand: 05/2026.
 
 ## 7. `stb-bwa-fehlerquellen-haeufig`
 
-**Frühere Beschreibung:** Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste Plausibilitaetsprüfung. Output Fehlerprotokoll Korrekturmassnahmen Schulungsbedarf Querverweis stb-bwa-aufbau-grundlagen.
+**Fokus:** Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste Plausibilitaetsprüfung. Output Fehlerprotokoll Korrekturmassnahmen Schulungsbedarf Querverweis stb-bwa-aufbau-grundlagen.
 
 # Typische BWA-Fehlerquellen und Plausibilitaetspruefung
 
@@ -1112,7 +1112,7 @@ Stand: 05/2026.
 
 ## 8. `stb-bwa-jahres-bwa-erstellen`
 
-**Frühere Beschreibung:** Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-PDF.
+**Fokus:** Jahres-BWA als Ergaenzung zum Jahresabschluss. Anwendungsfall Jahresabschluss-Begleitung mit BWA für das Gesamtjahr inkl Vorjahresvergleich Mehrjahrestrend und Mandantenpraesentation. Methodik kumulierte BWA mit Korrekturen Sondereffekten Mehrjahresvergleich. Output Jahres-BWA als Praesentations-PDF.
 
 # Jahres-BWA — Ergaenzung zum Jahresabschluss
 
@@ -1281,7 +1281,7 @@ Stand: 05/2026.
 
 ## 9. `stb-bwa-kapitalflussrechnung-iduk`
 
-**Frühere Beschreibung:** Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss laufende Geschäftstätigkeit Investitionstätigkeit Finanzierungstätigkeit. Output Kapitalflussrechnung als Standalone-Anhang.
+**Fokus:** Kapitalflussrechnung nach indirekter Methode aus BWA und Bilanz. Anwendungsfall Jahresabschluss Bankreporting Sanierungskonzept Konzernabschluss. Methodik DRS 21 indirekte Ableitung aus Jahresueberschuss Mittelfluss laufende Geschäftstätigkeit Investitionstätigkeit Finanzierungstätigkeit. Output Kapitalflussrechnung als Standalone-Anhang.
 
 # Kapitalflussrechnung nach DRS 21 indirekte Methode
 

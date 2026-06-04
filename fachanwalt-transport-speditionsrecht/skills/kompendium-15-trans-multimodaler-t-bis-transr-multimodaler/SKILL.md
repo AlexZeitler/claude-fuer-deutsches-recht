@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-trans-multimodaler-t-bis-transr-multimodaler
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (trans-multimodaler-transport-spezial, transr-cmr-grenzueberschreitend-spezial, transr-multimodaler-transport-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Trans Multimodaler Transport Spezial, Transr Cmr Grenzueberschreitend Spezial, Transr Multimodaler Transport Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Trans Multimodaler Transport Spezial, Transr Cmr Grenzueberschreitend Spezial, Transr Multimodaler Transport Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `trans-multimodaler-transport-spezial` | Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung. |
 | `transr-cmr-grenzueberschreitend-spezial` | Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `trans-multimodaler-transport-spezial`
 
-**Frühere Beschreibung:** Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung.
+**Fokus:** Spezialfall multimodaler Transport § 452 HGB und Konnossement: Haftung bei unbekanntem Schadensort, Network-Liability, Through-Bill of Lading. Pruefraster Schadensregulierung.
 
 # Trans: multimodaler Transport
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-transport-speditionsrecht`. Er ergae
 
 ## 2. `transr-cmr-grenzueberschreitend-spezial`
 
-**Frühere Beschreibung:** Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster.
+**Fokus:** Spezialfall CMR grenzueberschreitend: Anwendungsbereich Strassentransport zwischen CMR-Vertragsstaaten, Frachtbrief, Haftung Frachtfuehrer, Reklamationsfrist 21 Tage bei aeusserlich erkennbaren Schaden. Pruefraster.
 
 # Transport: CMR-Spezial
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-transport-speditionsrecht`. Er ergae
 
 ## 3. `transr-multimodaler-transport-spezial`
 
-**Frühere Beschreibung:** Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort. Pruefraster Schadenslokalisation.
+**Fokus:** Spezialfall multimodaler Transport: § 452 HGB Network Liability, Bestimmung anwendbares Recht je Teilstrecke wenn nachweisbar, sonst Network Liability nach Schadensort. Pruefraster Schadenslokalisation.
 
 # Transport: Multimodaler Transport
 

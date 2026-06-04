@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-rom-032-negotiorum-g-bis-rom-040-eviktion-und
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 06; bündelt 8 frühere Spezialskills (rom-032-negotiorum-gestio, rom-033-ungerechtfertigte-bereicherung-condictiones, rom-034-delikte-furtum, rom-035-delikte-damnum-injuria-datum, rom-036-iniuria-persoenlichkeitsverletzung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 032 Negotiorum Gestio, Rom 033 Ungerechtfertigte Bereicherung Condictiones, Rom 034 Delikte Furtum, Rom 035 Delikte Damnum Injuria Datum und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - roemisches-recht
+# Arbeitsbereich - Rom 032 Negotiorum Gestio bis Rom 040 Eviktion Und Sachmaengel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-032-negotiorum-gestio` | Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab. |
 | `rom-033-ungerechtfertigte-bereicherung-condictiones` | Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-032-negotiorum-gestio`
 
-**Frühere Beschreibung:** Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab.
+**Fokus:** Römisches Recht: Negotiorum gestio (Geschäftsführung ohne Auftrag) nach D. 3.5 und Iust. Inst. 3.27 - utiliter gestum, actio negotiorum gestorum directa/contraria und Haftungsmaßstab.
 
 # Negotiorum gestio - Geschäftsführung ohne Auftrag
 
@@ -86,7 +86,7 @@ D. 3.5 (Mommsen-Krüger). Iust. Inst. 3.27. Kaser RP I. Zimmermann Law of Obliga
 
 ## 2. `rom-033-ungerechtfertigte-bereicherung-condictiones`
 
-**Frühere Beschreibung:** Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa.
+**Fokus:** Römisches Recht: Condictiones als Bereicherungsklagen nach D. 12 und D. 44.7 - condictio indebiti, condictio causa data causa non secuta, condictio ob turpem causam und die allgemeine condictio sine causa.
 
 # Ungerechtfertigte Bereicherung: condictiones
 
@@ -140,7 +140,7 @@ D. 12; D. 44.7; Iust. Inst. 3.27 (Mommsen-Krüger). Kaser RP I. Zimmermann Law o
 
 ## 3. `rom-034-delikte-furtum`
 
-**Frühere Beschreibung:** Römisches Recht: Furtum (Diebstahl) als Delikt nach D. 47.2 und Gaius Inst. 3.183-185 - furtum manifestum/nec manifestum, furtum usus, actio furti (duplum/quadruplum) und XII-Tafeln-Recht.
+**Fokus:** Römisches Recht: Furtum (Diebstahl) als Delikt nach D. 47.2 und Gaius Inst. 3.183-185 - furtum manifestum/nec manifestum, furtum usus, actio furti (duplum/quadruplum) und XII-Tafeln-Recht.
 
 # Delikte: furtum (Diebstahl)
 
@@ -194,7 +194,7 @@ D. 47.2; Gaius Inst. 3 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org)
 
 ## 4. `rom-035-delikte-damnum-injuria-datum`
 
-**Frühere Beschreibung:** Römisches Recht: Damnum iniuria datum nach der lex Aquilia (286 v.Chr.) - drei Kapitel, Körper- und Sachbeschädigung, actio legis Aquiliae, Erweiterung durch prätorische actio in factum und actio utilis.
+**Fokus:** Römisches Recht: Damnum iniuria datum nach der lex Aquilia (286 v.Chr.) - drei Kapitel, Körper- und Sachbeschädigung, actio legis Aquiliae, Erweiterung durch prätorische actio in factum und actio utilis.
 
 # Delikte: damnum iniuria datum (lex Aquilia)
 
@@ -248,7 +248,7 @@ D. 9.2 (Mommsen-Krüger). Gaius Inst. 3. FIRA vol. II (archive.org). Kaser RP I.
 
 ## 5. `rom-036-iniuria-persoenlichkeitsverletzung`
 
-**Frühere Beschreibung:** Römisches Recht: Iniuria als Persönlichkeitsverletzung nach D. 47.10 und Gaius Inst. 3.220-225 - XII Tafeln-Tatbestände, actio iniuriarum aestimatoria, iniuria atrox und SC de iniuriis.
+**Fokus:** Römisches Recht: Iniuria als Persönlichkeitsverletzung nach D. 47.10 und Gaius Inst. 3.220-225 - XII Tafeln-Tatbestände, actio iniuriarum aestimatoria, iniuria atrox und SC de iniuriis.
 
 # Iniuria - Persönlichkeitsverletzung
 
@@ -301,7 +301,7 @@ D. 47.10; Gaius Inst. 3.220-225 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (arc
 
 ## 6. `rom-038-culpa-dolus-custodia`
 
-**Frühere Beschreibung:** Römisches Recht: Verschulden und Haftungsmaßstäbe - dolus (Vorsatz), culpa (Fahrlässigkeit), custodia (erhöhte Haftung für bewachte Sachen) nach D. 50.16.213 (Ulpian) und D. 44.7.1 pr.
+**Fokus:** Römisches Recht: Verschulden und Haftungsmaßstäbe - dolus (Vorsatz), culpa (Fahrlässigkeit), custodia (erhöhte Haftung für bewachte Sachen) nach D. 50.16.213 (Ulpian) und D. 44.7.1 pr.
 
 # Culpa, Dolus und Custodia - Haftungsmaßstäbe
 
@@ -354,7 +354,7 @@ D. 44.7; D. 9.2; D. 13.6; D. 16.3 (Mommsen-Krüger). Kaser RP I. Zimmermann Law 
 
 ## 7. `rom-039-gefahrtragung-beim-kauf`
 
-**Frühere Beschreibung:** Römisches Recht: Gefahrtragung beim Kauf (periculum emptoris) nach D. 18.6 und Gaius Inst. 3.141 - periculum est emptoris ab emptione perfecta, Ausnahmen und Abgrenzung zur Unmöglichkeit.
+**Fokus:** Römisches Recht: Gefahrtragung beim Kauf (periculum emptoris) nach D. 18.6 und Gaius Inst. 3.141 - periculum est emptoris ab emptione perfecta, Ausnahmen und Abgrenzung zur Unmöglichkeit.
 
 # Gefahrtragung beim Kauf (periculum emptoris)
 
@@ -407,7 +407,7 @@ D. 18.6; D. 18.1 (Mommsen-Krüger). Gaius Inst. 3. Kaser RP I. Zimmermann Law of
 
 ## 8. `rom-040-eviktion-und-sachmaengel`
 
-**Frühere Beschreibung:** Römisches Recht: Eviktionshaftung (D. 21.2) und Sachmängelgewährleistung (Edictum aedilicium, D. 21.1) beim Kauf - stipulatio duplae, actio de modo agri, aedilizische actio redhibitoria und actio quanti minoris.
+**Fokus:** Römisches Recht: Eviktionshaftung (D. 21.2) und Sachmängelgewährleistung (Edictum aedilicium, D. 21.1) beim Kauf - stipulatio duplae, actio de modo agri, aedilizische actio redhibitoria und actio quanti minoris.
 
 # Eviktion und Sachmängelgewährleistung
 

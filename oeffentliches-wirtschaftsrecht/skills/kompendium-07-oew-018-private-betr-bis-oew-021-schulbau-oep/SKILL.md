@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-oew-018-private-betr-bis-oew-021-schulbau-oep
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (oew-018-private-betreiberpflichten, oew-019-vergaberechtliche-vorpruefung, oew-020-exit-und-rueckabwicklung, oew-021-schulbau-oepp-organisationsform-pruefe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 018 Private Betreiberpflichten, Oew 019 Vergaberechtliche Vorpruefung, Oew 020 Exit Und Rueckabwicklung, Oew 021 Schulbau Oepp Organisationsform Pruefe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 018 Private Betreiberpflichten bis Oew 021 Schulbau Oepp Organisationsform Pruefe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-018-private-betreiberpflichten` | Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-019-vergaberechtliche-vorpruefung` | Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-018-private-betreiberpflichten`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Private Betreiberpflichten. Private Betreiberpflichten im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Private Betreiberpflichten
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-019-vergaberechtliche-vorpruefung`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Vergaberechtliche Vorprüfung. Vergaberechtliche Vorprüfung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vergaberechtliche Vorpruefung
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-020-exit-und-rueckabwicklung`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Exit und Rückabwicklung. Exit und Rückabwicklung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Exit und Rückabwicklung. Exit und Rückabwicklung im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Exit Und Rueckabwicklung
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-021-schulbau-oepp-organisationsform-pruefe`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Organisationsform prüfen. Organisationsform prüfen für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Schulbau-ÖPP: Organisationsform prüfen. Organisationsform prüfen für Schulbau-ÖPP im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schulbau Oepp Organisationsform Pruefe
 

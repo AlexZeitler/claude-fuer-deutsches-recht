@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-nda-it-saas-vendor-bis-nda-m-und-a-clean-te
-description: "nda-abgleich: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (nda-it-saas-vendor, nda-laufzeit-und-survival, nda-m-und-a-clean-team-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nda-abgleich: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - nda-abgleich
+# Arbeitsbereich - Nda It Saas Vendor, Nda Laufzeit Und Survival, Nda M Und A Clean Team Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nda-it-saas-vendor` | NDA fuer SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz fuer Test-Daten, klare Loeschpflicht nach Pitch. |
 | `nda-laufzeit-und-survival` | Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschaeftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschaeftsgeheimnis ist' moeglich. Empfehlungen je Rolle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nda-it-saas-vendor`
 
-**Frühere Beschreibung:** NDA fuer SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz fuer Test-Daten, klare Loeschpflicht nach Pitch.
+**Fokus:** NDA fuer SaaS-/IT-Vendor-Pitches: Cloud-Hosting, Datentrennung, Subprozessoren, Audit-Rechte, Penetration-Testing-Erlaubnis. Empfehlung: nicht-exklusive Lizenz fuer Test-Daten, klare Loeschpflicht nach Pitch.
 
 # NDA mit IT-/SaaS-Vendor
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills 
 
 ## 2. `nda-laufzeit-und-survival`
 
-**Frühere Beschreibung:** Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschaeftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschaeftsgeheimnis ist' moeglich. Empfehlungen je Rolle.
+**Fokus:** Laufzeit und Survival der Geheimhaltungspflicht: Festlaufzeit, automatische Verlaengerung, Survival 2/3/5 Jahre nach Vertragsende. Bei Geschaeftsgeheimnissen i. S. GeschGehG ist Survival 'so lange die Information Geschaeftsgeheimnis ist' moeglich. Empfehlungen je Rolle.
 
 # NDA: Laufzeit/Survival
 
@@ -170,7 +170,7 @@ Dieser Skill gehoert zum Plugin `nda-abgleich`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `nda-m-und-a-clean-team-spezial`
 
-**Frühere Beschreibung:** Spezialfall NDA fuer M-and-A und Clean-Team-Arrangements: Datenraum, Sondervertraulichkeit Wettbewerbsdaten, Kartellrecht. Pruefraster fuer Antitrust-Counsel.
+**Fokus:** Spezialfall NDA fuer M-and-A und Clean-Team-Arrangements: Datenraum, Sondervertraulichkeit Wettbewerbsdaten, Kartellrecht. Pruefraster fuer Antitrust-Counsel.
 
 # NDA: M-and-A Clean-Team
 

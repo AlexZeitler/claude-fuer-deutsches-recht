@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-pralr-spez-eigentums-bis-pralr-spez-gerichtsv
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (pralr-spez-eigentumserwerb-beweglich-traditio, pralr-spez-eigentumserwerb-grundstueck-grundbuch, pralr-spez-eigentumsschutz-vindikation-besitzschutz, pralr-spez-ersitzung-und-verjaehrung-eigentum, pralr-spez-gerichtsverfassung-patrimonialgerichte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Eigentumserwerb Beweglich Traditio, Pralr Spez Eigentumserwerb Grundstueck Grundbuch, Pralr Spez Eigentumsschutz Vindikation Besitzschutz, Pralr Spez Ersitzung Und Verjaehrung Eigentum und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Eigentumserwerb Beweglich Traditio bis Pralr Spez Gerichtsverfassung Patrimonialgerichte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-eigentumserwerb-beweglich-traditio` | Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix. |
 | `pralr-spez-eigentumserwerb-grundstueck-grundbuch` | Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-eigentumserwerb-beweglich-traditio`
 
-**Frühere Beschreibung:** Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix.
+**Fokus:** Eigentumserwerb an beweglichen Sachen — traditio im ALR. Skill behandelt die roemisch-rechtliche traditio den iustus titulus und das Verhaeltnis zum BGB-Trennungs- und Abstraktionsprinzip. Liefert Quellenmatrix.
 
 # Pralr Eigentumserwerb Beweglich Traditio
 
@@ -77,7 +77,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-eigentumserwerb-grundstueck-grundbuch`
 
-**Frühere Beschreibung:** Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix.
+**Fokus:** Eigentumserwerb an Grundstuecken im ALR. Skill behandelt die historische Aufflassung und Eintragung im Hypothekenbuch das System vor dem modernen Grundbuch und die Fortwirkung zu BGB / GBO. Liefert Quellenmatrix.
 
 # Pralr Eigentumserwerb Grundstueck Grundbuch
 
@@ -121,7 +121,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-eigentumsschutz-vindikation-besitzschutz`
 
-**Frühere Beschreibung:** Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Pruefraster.
+**Fokus:** Eigentumsschutz im ALR Vindikation und Besitzschutz. Skill behandelt die rei vindicatio die actio Publiciana und die possessorischen Klagen sowie die Fortwirkung in §§ 985 ff. BGB. Liefert Pruefraster.
 
 # Pralr Eigentumsschutz Vindikation Besitzschutz
 
@@ -167,7 +167,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `pralr-spez-ersitzung-und-verjaehrung-eigentum`
 
-**Frühere Beschreibung:** Ersitzung und Verjaehrung beim Eigentum nach ALR. Skill behandelt die ALR-Ersitzungsfristen fuer bewegliche und unbewegliche Sachen Voraussetzungen iustus titulus und bona fides und das Verhaeltnis zur BGB-Ersitzung. Liefert Pruefraster.
+**Fokus:** Ersitzung und Verjaehrung beim Eigentum nach ALR. Skill behandelt die ALR-Ersitzungsfristen fuer bewegliche und unbewegliche Sachen Voraussetzungen iustus titulus und bona fides und das Verhaeltnis zur BGB-Ersitzung. Liefert Pruefraster.
 
 # Pralr Ersitzung Und Verjaehrung Eigentum
 
@@ -211,7 +211,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 5. `pralr-spez-gerichtsverfassung-patrimonialgerichte`
 
-**Frühere Beschreibung:** Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix.
+**Fokus:** Gerichtsverfassung im ALR — Patrimonialgerichte und Staedte. Skill behandelt das System der drei Instanzen Patrimonialgerichte (privatadelige Gerichtsbarkeit) Stadtgerichte und das Oberlandesgericht / Obertribunal. Liefert Quellenmatrix.
 
 # Pralr Gerichtsverfassung Patrimonialgerichte
 

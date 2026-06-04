@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-oew-089-parkhaus-kom-bis-oew-092-messegesells
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (oew-089-parkhaus-kommunikation-schreiben, oew-090-parkhaus-red-flags-listen, oew-091-messegesellschaft-organisationsform-pr, oew-092-messegesellschaft-vergabeweg-waehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 089 Parkhaus Kommunikation Schreiben, Oew 090 Parkhaus Red Flags Listen, Oew 091 Messegesellschaft Organisationsform Pr, Oew 092 Messegesellschaft Vergabeweg Waehlen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 089 Parkhaus Kommunikation Schreiben bis Oew 092 Messegesellschaft Vergabeweg Waehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-089-parkhaus-kommunikation-schreiben` | Öffentliches Wirtschaftsrecht: Parkhaus: Kommunikation schreiben. Kommunikation schreiben für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-090-parkhaus-red-flags-listen` | Öffentliches Wirtschaftsrecht: Parkhaus: Red Flags listen. Red Flags listen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-089-parkhaus-kommunikation-schreiben`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Kommunikation schreiben. Kommunikation schreiben für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Kommunikation schreiben. Kommunikation schreiben für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Kommunikation Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-090-parkhaus-red-flags-listen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Red Flags listen. Red Flags listen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Red Flags listen. Red Flags listen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Red Flags Listen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-091-messegesellschaft-organisationsform-pr`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Organisationsform prüfen. Organisationsform prüfen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Organisationsform prüfen. Organisationsform prüfen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Organisationsform Pr
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-092-messegesellschaft-vergabeweg-waehlen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Vergabeweg wählen. Vergabeweg wählen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Vergabeweg wählen. Vergabeweg wählen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Vergabeweg Waehlen
 

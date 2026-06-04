@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vdg-052-plattform-sp-bis-vdg-055-plattform-sp
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (vdg-052-plattform-sperre-klageschrift-struktur, vdg-053-plattform-sperre-anspruchsgruppen-bild, vdg-054-plattform-sperre-registertext-schreibe, vdg-055-plattform-sperre-betroffenenformular-b) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 052 Plattform Sperre Klageschrift Struktur, Vdg 053 Plattform Sperre Anspruchsgruppen Bild, Vdg 054 Plattform Sperre Registertext Schreibe, Vdg 055 Plattform Sperre Betroffenenformular B; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 052 Plattform Sperre Klageschrift Struktur bis Vdg 055 Plattform Sperre Betroffenenformular B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-052-plattform-sperre-klageschrift-struktur` | Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Klageschrift strukturieren. Klageschrift strukturieren für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-053-plattform-sperre-anspruchsgruppen-bild` | Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-052-plattform-sperre-klageschrift-struktur`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Klageschrift strukturieren. Klageschrift strukturieren für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Klageschrift strukturieren. Klageschrift strukturieren für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Klageschrift Struktur
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-053-plattform-sperre-anspruchsgruppen-bild`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Anspruchsgruppen Bild
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-054-plattform-sperre-registertext-schreibe`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Registertext schreiben. Registertext schreiben für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Registertext schreiben. Registertext schreiben für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Registertext Schreibe
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-055-plattform-sperre-betroffenenformular-b`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Betroffenenformular bauen. Betroffenenformular bauen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Plattform-Sperre: Betroffenenformular bauen. Betroffenenformular bauen für Plattform-Sperre im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Plattform Sperre Betroffenenformular B
 

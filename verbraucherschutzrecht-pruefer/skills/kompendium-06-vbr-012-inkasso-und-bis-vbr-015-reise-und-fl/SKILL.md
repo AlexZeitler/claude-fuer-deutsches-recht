@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-vbr-012-inkasso-und-bis-vbr-015-reise-und-fl
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (vbr-012-inkasso-und-mahnung-einordnen, vbr-013-gewaehrleistung-und-garantie-trennen, vbr-014-kaufrecht-reparatur-und-right-to-repai, vbr-015-reise-und-flug-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 012 Inkasso Und Mahnung Einordnen, Vbr 013 Gewaehrleistung Und Garantie Trennen, Vbr 014 Kaufrecht Reparatur Und Right To Repai, Vbr 015 Reise Und Flug Schnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 012 Inkasso Und Mahnung Einordnen bis Vbr 015 Reise Und Flug Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-012-inkasso-und-mahnung-einordnen` | Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-013-gewaehrleistung-und-garantie-trennen` | Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-012-inkasso-und-mahnung-einordnen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Inkasso und Mahnung einordnen. Inkasso und Mahnung einordnen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Inkasso Und Mahnung Einordnen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-013-gewaehrleistung-und-garantie-trennen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Gewährleistung und Garantie trennen. Gewährleistung und Garantie trennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Gewaehrleistung Und Garantie Trennen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-014-kaufrecht-reparatur-und-right-to-repai`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Kaufrecht Reparatur und Right to Repair. Kaufrecht Reparatur und Right to Repair im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kaufrecht Reparatur Und Right To Repai
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-015-reise-und-flug-schnittstelle`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Reise und Flug Schnittstelle. Reise und Flug Schnittstelle im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Reise und Flug Schnittstelle. Reise und Flug Schnittstelle im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Reise Und Flug Schnittstelle
 

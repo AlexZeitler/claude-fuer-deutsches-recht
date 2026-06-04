@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-ihl-031-praeferenzur-bis-ihl-035-produktsiche
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (ihl-031-praeferenzursprung-und-lieferantenerklaerung, ihl-032-exportkontrolle-dual-use, ihl-034-anti-dumping-und-ausgleichszoelle, ihl-035-produktsicherheit-import-eu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 031 Praeferenzursprung Und Lieferantenerklaerung, Ihl 032 Exportkontrolle Dual Use, Ihl 034 Anti Dumping Und Ausgleichszoelle, Ihl 035 Produktsicherheit Import Eu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 031 Praeferenzursprung Und Lieferantenerklaerung bis Ihl 035 Produktsicherheit Import Eu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-031-praeferenzursprung-und-lieferantenerklaerung` | Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX). |
 | `ihl-032-exportkontrolle-dual-use` | Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-031-praeferenzursprung-und-lieferantenerklaerung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX).
+**Fokus:** Internationales Handelsrecht: Präferenzieller Ursprung in EU-Freihandelsabkommen (CETA, EUSFTA, EU-UK TCA). Listenregeln, Kumulierung, REX-System, Lieferantenerklärungen nach VO (EU) 2015/2447 Art. 62 und Präferenznachweise (EUR.1, A.TR, REX).
 
 # Präferenzieller Ursprung und Lieferantenerklärungen
 
@@ -81,7 +81,7 @@ UZK (VO 952/2013): eur-lex.europa.eu. VO (EU) 2015/2447: eur-lex.europa.eu. EU-U
 
 ## 2. `ihl-032-exportkontrolle-dual-use`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich.
+**Fokus:** Internationales Handelsrecht: Exportkontrolle für Dual-Use-Güter nach EU-Dual-Use-VO (EU) 2021/821. Listengüter (Anhang I), Catch-All-Klausel (Art. 4-5), Genehmigungspflichten, BIS-EAR (USA), ITAR und extraterritorialer Anwendungsbereich.
 
 # Exportkontrolle: Dual-Use-Güter
 
@@ -133,7 +133,7 @@ VO (EU) 2021/821: eur-lex.europa.eu. EAR (BIS): bis.doc.gov. ITAR (DDTC): pmddtc
 
 ## 3. `ihl-034-anti-dumping-und-ausgleichszoelle`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumping-Abkommen (ADA) und EU-Anti-Dumping-Grundverordnung (EU) 2016/1036. Dumping-Marge, Schadenstest, Unioninteresse, vorläufige/endgültige Maßnahmen und Umgehungsverfahren.
+**Fokus:** Internationales Handelsrecht: Antidumping-Recht nach WTO-Antidumping-Abkommen (ADA) und EU-Anti-Dumping-Grundverordnung (EU) 2016/1036. Dumping-Marge, Schadenstest, Unioninteresse, vorläufige/endgültige Maßnahmen und Umgehungsverfahren.
 
 # Antidumping und Ausgleichszölle
 
@@ -185,7 +185,7 @@ WTO ADA: wto.org. EU-AD-GVO (EU) 2016/1036: eur-lex.europa.eu. EuG: curia.europa
 
 ## 4. `ihl-035-produktsicherheit-import-eu`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs.
+**Fokus:** Internationales Handelsrecht: Produktsicherheit bei EU-Importen. EU-Marktüberwachungsverordnung (EU) 2019/1020, CE-Kennzeichnung, REACH-VO (EG) 1907/2006, Produkthaftungsrichtlinie 85/374/EWG (Neufassung 2024) und Pflichten des Importeurs.
 
 # Produktsicherheit beim EU-Import
 

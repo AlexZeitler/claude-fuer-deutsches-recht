@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-vertrieb-regulierte-bis-vorstandsvorlage
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (vertrieb-regulierte-produkte, vertriebsumstellung, verwirkung, vorstandsvorlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertrieb Regulierte Produkte, Vertriebsumstellung, Verwirkung, Vorstandsvorlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - handelsvertreterrecht
+# Arbeitsbereich - Vertrieb Regulierte Produkte bis Vorstandsvorlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertrieb-regulierte-produkte` | Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters. |
 | `vertriebsumstellung` | Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertrieb-regulierte-produkte`
 
-**Frühere Beschreibung:** Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters.
+**Fokus:** Prüft besondere Anforderungen bei der Vertretung regulierter Produkte: Zulassungsvoraussetzungen für Handelsvertreter im Bereich Finanzprodukte (§ 34c GewO) und Arzneimittel (AMG) sowie Konsequenzen unzulässiger Vertriebstätigkeit und berufsrechtliche Pflichten des Vertreters.
 
 # Handelsvertreter regulierter Produkte — Zulassung und berufsrechtliche Pflichten
 
@@ -108,7 +108,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 2. `vertriebsumstellung`
 
-**Frühere Beschreibung:** Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage.
+**Fokus:** Prüft rechtliche Konsequenzen einer Vertriebsumstellung durch den Unternehmer: Umstellung von Handelsvertreter- auf Direktvertrieb oder E-Commerce, Kürzung des Vertriebsgebiets, Änderungskündigung sowie Ausgleichsansprüche nach § 89b HGB bei wesentlicher Verschlechterung der Provisionsgrundlage.
 
 # Vertriebsumstellung durch den Unternehmer — Ausgleich und Kündigung nach § 89b HGB
 
@@ -187,7 +187,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `verwirkung`
 
-**Frühere Beschreibung:** Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung.
+**Fokus:** Prüft die Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB: Zeitmoment und Umstandsmoment bei Provisionsansprüchen nach § 87 HGB und Ausgleich nach § 89b HGB, Abgrenzung zur Verjährung sowie Schutzmaßnahmen zur Vermeidung der Verwirkung durch rechtzeitige Geltendmachung.
 
 # Verwirkung von Handelsvertreter-Ansprüchen nach § 242 BGB
 
@@ -266,7 +266,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `vorstandsvorlage`
 
-**Frühere Beschreibung:** Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken.
+**Fokus:** Erstellt entscheidungsreife Vorstandsvorlagen zu Handelsvertreter-Themen: Abschluss oder Kündigung von Handelsvertreterverträgen, Ausgleichszahlungen nach § 89b HGB, Wettbewerbsverbote nach § 90a HGB sowie Due-Diligence-Ergebnisse bei M&A mit Handelsvertreter-Netzwerken.
 
 # Vorstandsvorlage zu Handelsvertreter-Themen nach HGB
 

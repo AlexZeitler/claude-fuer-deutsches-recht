@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-kv-005-krankengeld-a-bis-kv-021-kassenwahl-ku
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl, kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche, kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Kassenwahl Kuendigung Bindungsfrist Wahltarif; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 005 Krankengeld Anspruch Arbeitsunfaehigkeit Blockfrist Nahtl, Kv 010 Reha Vor Rente Zustaendigkeit Krankenkasse Rentenversiche, Kv 021 Ka
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl` | Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien. |
 | `kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche` | Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-005-krankengeld-anspruch-arbeitsunfaehigkeit-blockfrist-nahtl`
 
-**Frühere Beschreibung:** Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien.
+**Fokus:** Krankengeldanspruch nach § 44 SGB V: Arbeitsunfähigkeitsbescheinigung, Blockfrist 78 Wochen, Nahtlosigkeit, Lückenfälle und Weiterbewilligungsstrategien.
 
 # Krankengeld: Anspruch, Arbeitsunfähigkeit, Blockfrist, Nahtlosigkeit
 
@@ -115,7 +115,7 @@ Dieser Skill bearbeitet alle Fragen rund um den **Krankengeldanspruch**: Entsteh
 
 ## 2. `kv-010-reha-vor-rente-zustaendigkeit-krankenkasse-rentenversiche`
 
-**Frühere Beschreibung:** Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha.
+**Fokus:** Rehabilitation: Zuständigkeitsabgrenzung GKV (§ 40 SGB V) und Deutsche Rentenversicherung (§ 9 ff. SGB VI), Nahtlosigkeit, Zwang zur Reha.
 
 # Reha vor Rente: Zuständigkeit Krankenkasse vs. Rentenversicherung
 
@@ -197,7 +197,7 @@ Rehabilitation ist häufig Streitgegenstand: **Wer ist zuständig – Krankenkas
 
 ## 3. `kv-021-kassenwahl-kuendigung-bindungsfrist-wahltarif`
 
-**Frühere Beschreibung:** Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung.
+**Fokus:** Kassenwahlrecht nach § 175 SGB V: Bindungsfrist, Kündigung, Sonderkündigungsrecht, Wahltarife und Kostenbeteiligung.
 
 # Kassenwahl: Kündigung, Bindungsfrist und Wahltarif
 

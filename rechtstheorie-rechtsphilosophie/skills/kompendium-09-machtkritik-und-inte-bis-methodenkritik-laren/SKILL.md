@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-machtkritik-und-inte-bis-methodenkritik-laren
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (machtkritik-und-interessenanalyse, menschenwuerde-grundrechte-theoriekern, methodenkritik-larenz-canaris-ordnung-und-system) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Machtkritik Und Interessenanalyse, Menschenwuerde Grundrechte Theoriekern, Methodenkritik Larenz Canaris Ordnung Und System
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `machtkritik-und-interessenanalyse` | Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten. |
 | `menschenwuerde-grundrechte-theoriekern` | Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `machtkritik-und-interessenanalyse`
 
-**Frühere Beschreibung:** Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten.
+**Fokus:** Analysiert, welche Interessen, Rollen und Machtasymmetrien eine Rechtsfigur prägen, ohne daraus automatisch Rechtswidrigkeit abzuleiten.
 
 # Machtkritik und Interessenanalyse
 
@@ -80,7 +80,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 2. `menschenwuerde-grundrechte-theoriekern`
 
-**Frühere Beschreibung:** Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch.
+**Fokus:** Prueft Menschenwuerde, Grundrechte und objektive Wertordnung als rechtstheoretische Anker ohne inflationären Grundrechtsgebrauch.
 
 # Menschenwürde und Grundrechte
 
@@ -132,7 +132,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 3. `methodenkritik-larenz-canaris-ordnung-und-system`
 
-**Frühere Beschreibung:** Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.
+**Fokus:** Prüft Wertungsjurisprudenz und Systemdenken kritisch: Produktive Dogmatik ja, autoritäre Ordnungsnähe, Scheinobjektivität und biografische Belastung nein.
 
 # Methodenkritik: Larenz, Canaris, Systemdenken und konkrete Ordnung
 

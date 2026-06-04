@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-kleiner-kauf-maengel-bis-mandanten-oder-betei
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (kleiner-kauf-maengelrechte, konto-gesperrt-bank, mandanten-oder-beteiligtenkommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Kleiner Kauf Maengelrechte, Konto Gesperrt Bank, Mandanten Oder Beteiligtenkommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kleiner-kauf-maengelrechte` | Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
 | `konto-gesperrt-bank` | Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kleiner-kauf-maengelrechte`
 
-**Frühere Beschreibung:** Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Kleiner Kauf und Mängelrechte: erklärt Nacherfüllung, Rücktritt, Minderung, Schadensersatz und Beweisproblem in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Kleiner Kauf und Mängelrechte
 
@@ -78,7 +78,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `konto-gesperrt-bank`
 
-**Frühere Beschreibung:** Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Konto gesperrt durch Bank: führt Laien durch Kontosperre, Geldwäscheprüfung, Pfändung, P-Konto und Existenzsicherung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Konto gesperrt durch Bank
 
@@ -131,7 +131,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `mandanten-oder-beteiligtenkommunikation`
 
-**Frühere Beschreibung:** Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Beteiligtenkommunikation: erklärt übersetzt das Ergebnis in klare, taktisch sichere Kommunikation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Beteiligtenkommunikation
 

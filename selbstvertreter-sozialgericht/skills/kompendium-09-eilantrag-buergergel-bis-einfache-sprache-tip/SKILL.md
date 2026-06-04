@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-eilantrag-buergergel-bis-einfache-sprache-tip
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (eilantrag-buergergeld-jobcenter, eilantrag-erfolgsaussichten-checkliste, eilantrag-krankenkassen-leistung, eilantrag-pflegekassen-pflegehilfsmittel, einfache-sprache-tipps-fuer-alle-anliegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eilantrag Buergergeld Jobcenter, Eilantrag Erfolgsaussichten Checkliste, Eilantrag Krankenkassen Leistung, Eilantrag Pflegekassen Pflegehilfsmittel und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Eilantrag Buergergeld Jobcenter bis Einfache Sprache Tipps Fuer Alle Anliegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eilantrag-buergergeld-jobcenter` | Eilantrag beim SG gegen Jobcenter. Buergergeld gestoppt Sanktion Vorlaeufige Leistung. § 86b Abs. 2 SGG einstweilige Anordnung. Glaubhaftmachung Existenzminimum Mustertext. |
 | `eilantrag-erfolgsaussichten-checkliste` | Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem Sozialgericht. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung typische Stolpersteine. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eilantrag-buergergeld-jobcenter`
 
-**Frühere Beschreibung:** Eilantrag beim SG gegen Jobcenter. Buergergeld gestoppt Sanktion Vorlaeufige Leistung. § 86b Abs. 2 SGG einstweilige Anordnung. Glaubhaftmachung Existenzminimum Mustertext.
+**Fokus:** Eilantrag beim SG gegen Jobcenter. Buergergeld gestoppt Sanktion Vorlaeufige Leistung. § 86b Abs. 2 SGG einstweilige Anordnung. Glaubhaftmachung Existenzminimum Mustertext.
 
 # Eilantrag gegen das Jobcenter — Buergergeld retten
 
@@ -200,7 +200,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `eilantrag-erfolgsaussichten-checkliste`
 
-**Frühere Beschreibung:** Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem Sozialgericht. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung typische Stolpersteine.
+**Fokus:** Checkliste zur Beurteilung Ihrer Eilantrags-Chancen vor dem Sozialgericht. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung typische Stolpersteine.
 
 # Werden Sie mit dem Eilantrag Erfolg haben? — Checkliste
 
@@ -350,7 +350,7 @@ Stand: 05/2026. BVerfG-Linie zum Eilrechtsschutz unveraendert. Pruefen Sie im ko
 
 ## 3. `eilantrag-krankenkassen-leistung`
 
-**Frühere Beschreibung:** Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger.
+**Fokus:** Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger.
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten koennen
 
@@ -519,7 +519,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 4. `eilantrag-pflegekassen-pflegehilfsmittel`
 
-**Frühere Beschreibung:** Eilantrag gegen Pflegekasse wenn Pflegehilfsmittel Pflegegrad oder Verhinderungspflege blockiert wird. § 86b Abs. 2 SGG Mustertext für betroffene Personen oder Angehoerige.
+**Fokus:** Eilantrag gegen Pflegekasse wenn Pflegehilfsmittel Pflegegrad oder Verhinderungspflege blockiert wird. § 86b Abs. 2 SGG Mustertext für betroffene Personen oder Angehoerige.
 
 # Eilantrag gegen die Pflegekasse
 
@@ -691,7 +691,7 @@ Stand: 05/2026. SGB XI in aktueller Fassung. MD-Reform 2022 (Umbenennung MDK zu 
 
 ## 5. `einfache-sprache-tipps-fuer-alle-anliegen`
 
-**Frühere Beschreibung:** Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behoerdendeutsch. Beispiele für Buerger.
+**Fokus:** Tipps zur klaren und einfachen Sprache für eigene Schriftsaetze. Wie Sie verstaendlich formulieren ohne Behoerdendeutsch. Beispiele für Buerger.
 
 # Klar schreiben — Tipps fuer Schriftsaetze
 

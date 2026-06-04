@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-kom-081-landrat-gebu-bis-kom-086-landrat-bete
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 17; bündelt 6 frühere Spezialskills (kom-081-landrat-gebuehr-kalkulieren, kom-082-landrat-aufsichtsbeschwerde-schreiben, kom-083-landrat-eilantrag-vorbereiten, kom-084-landrat-finanzierung-erklaeren, kom-085-landrat-dashboard-bauen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 081 Landrat Gebuehr Kalkulieren, Kom 082 Landrat Aufsichtsbeschwerde Schreiben, Kom 083 Landrat Eilantrag Vorbereiten, Kom 084 Landrat Finanzierung Erklaeren und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - kommunalrecht-laender
+# Arbeitsbereich - Kom 081 Landrat Gebuehr Kalkulieren bis Kom 086 Landrat Beteiligung Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-081-landrat-gebuehr-kalkulieren` | Kommunalrecht der Länder: Landrat: Gebühr kalkulieren. Gebühr kalkulieren für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-082-landrat-aufsichtsbeschwerde-schreiben` | Kommunalrecht der Länder: Landrat: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-081-landrat-gebuehr-kalkulieren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Gebühr kalkulieren. Gebühr kalkulieren für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Gebühr kalkulieren. Gebühr kalkulieren für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Gebuehr Kalkulieren
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-082-landrat-aufsichtsbeschwerde-schreiben`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Aufsichtsbeschwerde Schreiben
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-083-landrat-eilantrag-vorbereiten`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Eilantrag vorbereiten. Eilantrag vorbereiten für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Eilantrag vorbereiten. Eilantrag vorbereiten für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Eilantrag Vorbereiten
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-084-landrat-finanzierung-erklaeren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Finanzierung erklären. Finanzierung erklären für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Finanzierung erklären. Finanzierung erklären für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Finanzierung Erklaeren
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-085-landrat-dashboard-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Dashboard bauen. Dashboard bauen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Dashboard bauen. Dashboard bauen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Dashboard Bauen
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-086-landrat-beteiligung-planen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Landrat: Beteiligung planen. Beteiligung planen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Landrat: Beteiligung planen. Beteiligung planen für Landrat im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landrat Beteiligung Planen
 

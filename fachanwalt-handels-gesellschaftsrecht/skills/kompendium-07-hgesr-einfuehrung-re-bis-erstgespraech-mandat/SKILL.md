@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-hgesr-einfuehrung-re-bis-erstgespraech-mandat
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (hgesr-einfuehrung-rechtsformen, hgr-due-diligence-cheker-light, erstgespraech-mandatsannahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hgesr Einfuehrung Rechtsformen, Hgr Due Diligence Cheker Light, Erstgespraech Mandatsannahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Hgesr Einfuehrung Rechtsformen, Hgr Due Diligence Cheker Light, Erstgespraech Mandatsannahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hgesr-einfuehrung-rechtsformen` | Einfuehrung deutsche Rechtsformen fuer Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft. Pro Rechtsform: Haftung, Mindestkapital, Organe, Steuerregime, typische Nutzung. Entscheidungsbaum fuer Mandanten. |
 | `hgr-due-diligence-cheker-light` | Due-Diligence-Checker light fuer kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext fuer Findings-Memo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hgesr-einfuehrung-rechtsformen`
 
-**Frühere Beschreibung:** Einfuehrung deutsche Rechtsformen fuer Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft. Pro Rechtsform: Haftung, Mindestkapital, Organe, Steuerregime, typische Nutzung. Entscheidungsbaum fuer Mandanten.
+**Fokus:** Einfuehrung deutsche Rechtsformen fuer Handels- und Gesellschaftsrecht: GbR, OHG, KG, GmbH und Co KG, GmbH, UG haftungsbeschraenkt, AG, KGaA, SE, eingetragene Genossenschaft. Pro Rechtsform: Haftung, Mindestkapital, Organe, Steuerregime, typische Nutzung. Entscheidungsbaum fuer Mandanten.
 
 # Handelsrecht: Rechtsformen
 
@@ -89,7 +89,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 2. `hgr-due-diligence-cheker-light`
 
-**Frühere Beschreibung:** Due-Diligence-Checker light fuer kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext fuer Findings-Memo.
+**Fokus:** Due-Diligence-Checker light fuer kleinere Mandate: Standard-Risikofelder (Steuer, Arbeit, IT, IP, Compliance, ESG), Datenraum-Struktur, Reviewer-Aufteilung, Sample-Quoten. Mustertext fuer Findings-Memo.
 
 # HGR: DD-Checker light
 
@@ -151,7 +151,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 3. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Handels- und Gesellschaftsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im Handels- und Gesellschaftsrecht
 

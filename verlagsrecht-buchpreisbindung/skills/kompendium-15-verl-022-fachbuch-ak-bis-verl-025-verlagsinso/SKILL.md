@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-verl-022-fachbuch-ak-bis-verl-025-verlagsinso
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank, verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 022 Fachbuch Aktualisierung Loseblatt Und Online Datenbank, Verl 025 Verlagsinsolvenz Rechte Rueckfall Und Lagerbestand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank` | Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung. |
 | `verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand` | Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-022-fachbuch-aktualisierung-loseblatt-und-online-datenbank`
 
-**Frühere Beschreibung:** Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung.
+**Fokus:** Verlagsrecht: Fachbuch-Aktualisierungen, Loseblattwerke und Online-Datenbanken — Nutzungsrechte, Datenbankrecht, Aktualisierungspflichten, Lizenzmodelle und Preisbindung.
 
 # Verl-022 · Fachbuch, Aktualisierung, Loseblatt und Online-Datenbank
 
@@ -141,7 +141,7 @@ Juristische, medizinische und wissenschaftliche Fachbücher stellen besondere An
 
 ## 2. `verl-025-verlagsinsolvenz-rechte-rueckfall-und-lagerbestand`
 
-**Frühere Beschreibung:** Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren.
+**Fokus:** Verlagsrecht: Verlagsinsolvenz — Rückfall von Nutzungsrechten an Autoren, Lagerbestandsverwertung, InsO §§ 103–119, UrhG §§ 41–42 und praktische Schritte für betroffene Autoren.
 
 # Verl-025 · Verlagsinsolvenz: Rechterückfall und Lagerbestand
 

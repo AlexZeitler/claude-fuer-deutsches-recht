@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-drg-039-europaeisier-bis-drg-044-notariat-und
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 08; bündelt 6 frühere Spezialskills (drg-039-europaeisierung-des-deutschen-rechts, drg-040-menschenrechte-und-emrk-rezeption, drg-041-methodengeschichte-savigny-bis-realismus, drg-042-rechtstatsachen-und-sozialgeschichte, drg-043-juristenausbildung-und-pruefungswesen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 039 Europaeisierung Des Deutschen Rechts, Drg 040 Menschenrechte Und Emrk Rezeption, Drg 041 Methodengeschichte Savigny Bis Realismus, Drg 042 Rechtstatsachen Und Sozialgeschichte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 039 Europaeisierung Des Deutschen Rechts bis Drg 044 Notariat Und Grundbuchhistorie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-039-europaeisierung-des-deutschen-rechts` | Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und oeffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963. |
 | `drg-040-menschenrechte-und-emrk-rezeption` | Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-039-europaeisierung-des-deutschen-rechts`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und oeffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963.
+**Fokus:** Deutsche Rechtsgeschichte: Europaeisierung des deutschen Rechts. EG-Richtlinien und ihr Einfluss auf BGB, HGB und oeffentliches Recht sowie die Transformation durch EuGH-Rechtsprechung seit 1963.
 
 # Europaeisierung des deutschen Rechts
 
@@ -81,7 +81,7 @@ EuGH: curia.europa.eu. EU-Richtlinien: eur-lex.europa.eu. BVerfGE: bverfg.de. BG
 
 ## 2. `drg-040-menschenrechte-und-emrk-rezeption`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK.
+**Fokus:** Deutsche Rechtsgeschichte: Menschenrechte und EMRK-Rezeption in Deutschland. Ratifikation EMRK 1952, EGMR-Rechtsprechung, Caroline-Urteil, Goerguelue-Entscheidung und Verhaeltnis GG-Grundrechte zu EMRK.
 
 # Menschenrechte und EMRK-Rezeption
 
@@ -131,7 +131,7 @@ EMRK: convention.coe.int und BGBl. II 1952, 685. EGMR: hudoc.echr.coe.int. BVerf
 
 ## 3. `drg-041-methodengeschichte-savigny-bis-realismus`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen fuer heutige Auslegungsmethoden.
+**Fokus:** Deutsche Rechtsgeschichte: Methodengeschichte von Savigny bis zum Rechtsrealismus. Historische Schule, Begriffsjurisprudenz, Interessenjurisprudenz, Freirecht und ihre Folgen fuer heutige Auslegungsmethoden.
 
 # Methodengeschichte: Savigny bis Rechtsrealismus
 
@@ -182,7 +182,7 @@ Savigny System Bd. I (1840): historische Ausgabe. Jhering Zweck (1877-84): histo
 
 ## 4. `drg-042-rechtstatsachen-und-sozialgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtstatsachen und Sozialgeschichte des Rechts. Eugen Ehrlichs lebendes Recht, Rechtstatsachenforschung, soziologische Rechtswissenschaft und Recht in der Alltagspraxis.
 
 # Rechtstatsachen und Sozialgeschichte des Rechts
 
@@ -232,7 +232,7 @@ Ehrlich 1913: Erstausgabe mit Seite. BGB: gesetze-im-internet.de. Rechtstatsaech
 
 ## 5. `drg-043-juristenausbildung-und-pruefungswesen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute.
+**Fokus:** Deutsche Rechtsgeschichte: Juristenausbildung und Pruefungswesen. Universitaetsrechtsstudium seit Mittelalter, Referendariat, Erste und Zweite Staatspruefung, NS-Gleichschaltung der Ausbildung und Reformen bis heute.
 
 # Juristenausbildung und Pruefungswesen
 
@@ -281,7 +281,7 @@ DRiG: gesetze-im-internet.de. NS-Hochschulrecht: RGBl. I 1933, 245 via ALEX/OeNB
 
 ## 6. `drg-044-notariat-und-grundbuchhistorie`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel.
+**Fokus:** Deutsche Rechtsgeschichte: Notariat und Grundbuchhistorie. Entstehung des Notariats im Mittelalter, deutsche Notariatsgeschichte, Beurkundungsgesetz 1969 und Grundbuchordnung im historischen Wandel.
 
 # Notariat und Grundbuchhistorie
 

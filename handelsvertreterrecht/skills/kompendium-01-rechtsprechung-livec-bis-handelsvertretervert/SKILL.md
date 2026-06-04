@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-rechtsprechung-livec-bis-handelsvertretervert
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (rechtsprechung-livecheck, fristlose-kuendigung-89a, kuendigungsfristen-89, handelsvertretervertrag-entwurf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsprechung Livecheck, Fristlose Kuendigung 89a, Kuendigungsfristen 89, Handelsvertretervertrag Entwurf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - handelsvertreterrecht
+# Arbeitsbereich - Rechtsprechung Livecheck bis Handelsvertretervertrag Entwurf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsprechung-livecheck` | Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH. |
 | `fristlose-kuendigung-89a` | Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsprechung-livecheck`
 
-**Frühere Beschreibung:** Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH.
+**Fokus:** Liefert eine strukturierte Checkliste zur Liveprüfung aktueller BGH- und EuGH-Entscheidungen zum Handelsvertreterrecht: Abfrage maßgeblicher Leitentscheidungen zu § 89b HGB-Ausgleich, § 87c HGB-Buchauszug und § 90a HGB-Wettbewerbsverbot auf Dejure und Openjur sowie Hinweis auf Vorlageverfahren beim EuGH.
 
 # Rechtsprechungs-Livecheck BGH und EuGH zum Handelsvertreterrecht
 
@@ -108,7 +108,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 2. `fristlose-kuendigung-89a`
 
-**Frühere Beschreibung:** Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB.
+**Fokus:** Analysiert die außerordentliche fristlose Kündigung des Handelsvertretervertrags nach § 89a HGB: wichtiger Grund, Zweiwochenfrist ab Kenntniserlangung, Abmahnungserfordernis, Schadensersatzansprüche nach § 89a Abs. 2 HGB und Auswirkungen auf den Ausgleichsanspruch nach § 89b Abs. 3 Nr. 1 HGB.
 
 # Fristlose Kündigung nach § 89a HGB — wichtiger Grund und Rechtsfolgen
 
@@ -187,7 +187,7 @@ ergänzen das Recht praxisnah.
 
 ## 3. `kuendigungsfristen-89`
 
-**Frühere Beschreibung:** Prüft Kündigungsfristen im Handelsvertretervertrag nach § 89 HGB: gestaffelte Fristen je nach Vertragsdauer (1-6 Monate), Verbot der Verkürzung zu Lasten des Handelsvertreters, Kündigungstermine zum Monatsende sowie Folgen der Nichteinhaltung einschließlich Schadensersatz nach § 89 Abs. 2 HGB.
+**Fokus:** Prüft Kündigungsfristen im Handelsvertretervertrag nach § 89 HGB: gestaffelte Fristen je nach Vertragsdauer (1-6 Monate), Verbot der Verkürzung zu Lasten des Handelsvertreters, Kündigungstermine zum Monatsende sowie Folgen der Nichteinhaltung einschließlich Schadensersatz nach § 89 Abs. 2 HGB.
 
 # Ordentliche Kündigungsfristen nach § 89 HGB
 
@@ -266,7 +266,7 @@ ergänzen das Recht praxisnah.
 
 ## 4. `handelsvertretervertrag-entwurf`
 
-**Frühere Beschreibung:** Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten.
+**Fokus:** Unterstützt bei Erstellung und Verhandlung von Handelsvertreterverträgen: strukturierter Vertragsentwurf mit Mindestinhalten nach §§ 84-92c HGB, Checkliste für AGB-feste Klauseln, Regelungen zu Provision, Bezirk, Ausgleich, Wettbewerbsverbot und Kündigung sowie Verhandlungshinweise für beide Seiten.
 
 # Handelsvertretervertrag — Entwurf und Verhandlung nach §§ 84 bis 92c HGB
 

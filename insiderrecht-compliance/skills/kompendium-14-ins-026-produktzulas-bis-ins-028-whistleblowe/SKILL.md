@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-ins-026-produktzulas-bis-ins-028-whistleblowe
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (ins-026-produktzulassung, ins-028-whistleblower-meldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - insiderrecht-compliance
+# Arbeitsbereich - Ins 026 Produktzulassung, Ins 028 Whistleblower Meldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-026-produktzulassung` | Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc. |
 | `ins-028-whistleblower-meldung` | Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-026-produktzulassung`
 
-**Frühere Beschreibung:** Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc.
+**Fokus:** Prueft Insiderinformations-Entstehung bei regulatorischen Produktzulassungen (Pharma, Medtech, Energie): Zwischenschritte, Kursrelevanz und Timing der Ad-hoc.
 
 # Produktzulassung – Insiderrecht bei regulatorischen Entscheidungen
 
@@ -109,7 +109,7 @@ Belege ausschließlich mit: eur-lex.europa.eu, curia.europa.eu, bafin.de, gesetz
 
 ## 2. `ins-028-whistleblower-meldung`
 
-**Frühere Beschreibung:** Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen.
+**Fokus:** Verarbeitet Whistleblower-Hinweise mit Insiderrecht-Bezug: Entgegennahme, Pruefung, Eskalation und MAR-Folgen.
 
 # Whistleblower-Meldungen mit Insiderrecht-Bezug
 

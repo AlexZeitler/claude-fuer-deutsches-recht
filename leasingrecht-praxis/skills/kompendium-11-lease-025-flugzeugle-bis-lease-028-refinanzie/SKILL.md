@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-lease-025-flugzeugle-bis-lease-028-refinanzie
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (lease-025-flugzeugleasing-register-pfand-und-wartung, lease-026-schiffsleasing-schiffshypothek-und-flagge, lease-028-refinanzierung-forderungsabtretung-und-servicing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderungsabtretung Und Servicing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - leasingrecht-praxis
+# Arbeitsbereich - Lease 025 Flugzeugleasing Register Pfand Und Wartung, Lease 026 Schiffsleasing Schiffshypothek Und Flagge, Lease 028 Refinanzierung Forderung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-025-flugzeugleasing-register-pfand-und-wartung` | Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur. |
 | `lease-026-schiffsleasing-schiffshypothek-und-flagge` | Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-025-flugzeugleasing-register-pfand-und-wartung`
 
-**Frühere Beschreibung:** Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur.
+**Fokus:** Flugzeug-Leasing: Luftfahrtregister, Kapstadt-Übereinkommen, Internationales Interesse, Wartung nach EASA, Rückgabe-Condition und Leasingstruktur.
 
 # Flugzeug-Leasing: Register, Pfand und Wartung
 
@@ -131,7 +131,7 @@ Typische Rückgabezustand-Anforderungen:
 
 ## 2. `lease-026-schiffsleasing-schiffshypothek-und-flagge`
 
-**Frühere Beschreibung:** Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten.
+**Fokus:** Schiffsleasing: Schiffsregister, Schiffshypothek, Flaggenrecht, internationale Leasingstruktur und Insolvenzbesonderheiten.
 
 # Schiffsleasing: Schiffsregister, Schiffshypothek und Flagge
 
@@ -234,7 +234,7 @@ Viele Schiffe in Deutschland: KG-Struktur (Kommanditgesellschaft als Schiffs-Eig
 
 ## 3. `lease-028-refinanzierung-forderungsabtretung-und-servicing`
 
-**Frühere Beschreibung:** Leasingrefinanzierung: Forderungsabtretung, ABS-Strukturen, True Sale, Servicing, stille Abtretung und Schuldnerschutz nach § 407 BGB.
+**Fokus:** Leasingrefinanzierung: Forderungsabtretung, ABS-Strukturen, True Sale, Servicing, stille Abtretung und Schuldnerschutz nach § 407 BGB.
 
 # Refinanzierung: Forderungsabtretung und Servicing
 

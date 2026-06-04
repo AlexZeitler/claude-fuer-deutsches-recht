@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-see-040-schiffbauwer-bis-see-055-yachtkauf-wr
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (see-040-schiffbauwerk-risiko-memo-schreiben, see-051-yachtkauf-register-pruefen, see-052-yachtkauf-hypothek-bestellen, see-054-yachtkauf-arrest-vorbereiten, see-055-yachtkauf-wrackpflicht-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 040 Schiffbauwerk Risiko Memo Schreiben, See 051 Yachtkauf Register Pruefen, See 052 Yachtkauf Hypothek Bestellen, See 054 Yachtkauf Arrest Vorbereiten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 040 Schiffbauwerk Risiko Memo Schreiben bis See 055 Yachtkauf Wrackpflicht Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-040-schiffbauwerk-risiko-memo-schreiben` | Schiffbauwerk: Gesamtrisikobewertung fuer Werft; Auftraggeber-Reeder; finanzierende Bank bei Schiff im Bau (Schiffbauwerk): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Risiko-Memo und Empfehlungsmatrix. |
 | `see-051-yachtkauf-register-pruefen` | Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prueft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-040-schiffbauwerk-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Schiffbauwerk: Gesamtrisikobewertung fuer Werft; Auftraggeber-Reeder; finanzierende Bank bei Schiff im Bau (Schiffbauwerk): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Schiffbauwerk: Gesamtrisikobewertung fuer Werft; Auftraggeber-Reeder; finanzierende Bank bei Schiff im Bau (Schiffbauwerk): Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Schiffbauwerk – Risiko-Memo schreiben
 
@@ -123,7 +123,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 2. `see-051-yachtkauf-register-pruefen`
 
-**Frühere Beschreibung:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prueft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus prueft Seeschiffsregister oder Kleinfahrzeugregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Yachtkauf – Registerprüfung
 
@@ -218,7 +218,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 3. `see-052-yachtkauf-hypothek-bestellen`
 
-**Frühere Beschreibung:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Segel- oder Motorjacht. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Yachtkauf – Schiffshypothek bestellen
 
@@ -297,7 +297,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 4. `see-054-yachtkauf-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Yachtkauf: Glaeubiger sichert Anspruch an Segel- oder Motorjacht durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Yachtkauf: Glaeubiger sichert Anspruch an Segel- oder Motorjacht durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Yachtkauf – Arrest vorbereiten
 
@@ -393,7 +393,7 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 
 ## 5. `see-055-yachtkauf-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Segel- oder Motorjacht. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Segel- oder Motorjacht. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Yachtkauf – Wrackbeseitigungspflicht prüfen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-rechtsabteilung-ruec-bis-reparaturpflicht-her
-description: "produktrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate, repair-by-design-software-locks-ersatzteile, reparaturpflicht-hersteller-nach-gewaehrleistung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewaehrleistung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - produktrecht
+# Arbeitsbereich - Rueckrufmanagement Mit Rapex Safety Gate, Repair By Design Software Locks Ersatzteile, Reparaturpflicht Hersteller Nach Gewaehrleistung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate` | Rechtsabteilungs-Spezialskill für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `repair-by-design-software-locks-ersatzteile` | Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-rueckrufmanagement-mit-rapex-safety-gate`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Rückrufmanagement mit RAPEX/Safety Gate: Risikoanalyse, Behördenmeldung, Verbraucherkommunikation und Händlerkette werden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Rückrufmanagement mit RAPEX/Safety Gate
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `repair-by-design-software-locks-ersatzteile`
 
-**Frühere Beschreibung:** Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen.
+**Fokus:** Prüft technische und vertragliche Reparaturhindernisse wie Pairing, Seriennummern-Locks, Diagnosezugang, Firmware-Sperren, Ersatzteilbindung, IP- und Cybersecurity-Rechtfertigungen.
 
 # Repair-by-design, Software-Locks und Ersatzteile
 
@@ -110,7 +110,7 @@ Nach der Erstprüfung je nach Schwerpunkt `produkthaftung-grundlagen`, `produktb
 
 ## 3. `reparaturpflicht-hersteller-nach-gewaehrleistung`
 
-**Frühere Beschreibung:** Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforderungen.
+**Fokus:** Prüft, wann Hersteller auch außerhalb der kaufrechtlichen Gewährleistung Reparatur anbieten müssen oder sollten, einschließlich Kosten, angemessener Frist, Ersatzgerät, Reparaturformular und Produktgruppen mit EU-Reparierbarkeitsanforderungen.
 
 # Hersteller-Reparaturpflicht nach Gewährleistung
 

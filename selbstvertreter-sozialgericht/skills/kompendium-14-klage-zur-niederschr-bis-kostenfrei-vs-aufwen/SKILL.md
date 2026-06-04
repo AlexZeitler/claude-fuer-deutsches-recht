@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-klage-zur-niederschr-bis-kostenfrei-vs-aufwen
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (klage-zur-niederschrift-90-sgg, klage-zusammenstellen-bundle-sozialgericht, klagearten-uebersicht-sgg, klagebegruendung-laienleitfaden, kostenfrei-vs-aufwendungsersatz-193-sgg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klage Zur Niederschrift 90 Sgg, Klage Zusammenstellen Bundle Sozialgericht, Klagearten Uebersicht Sgg, Klagebegruendung Laienleitfaden und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Klage Zur Niederschrift 90 Sgg bis Kostenfrei Vs Aufwendungsersatz 193 Sgg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klage-zur-niederschrift-90-sgg` | Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger. |
 | `klage-zusammenstellen-bundle-sozialgericht` | Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klage-zur-niederschrift-90-sgg`
 
-**Frühere Beschreibung:** Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger.
+**Fokus:** Klage auf der Geschäftsstelle des SG diktieren § 90 SGG. Wer kann das wie laeuft das ab welche Termine welche Unterlagen mitbringen. Praktischer Leitfaden für Buerger.
 
 # Klage auf der Geschaeftsstelle diktieren — § 90 SGG
 
@@ -155,7 +155,7 @@ Stand: 05/2026. § 90 SGG aktuell. Oeffnungszeiten variieren je SG; bitte direkt
 
 ## 2. `klage-zusammenstellen-bundle-sozialgericht`
 
-**Frühere Beschreibung:** Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt.
+**Fokus:** Komplette Klage als Paket zusammenstellen. Schriftsatz Anlagen Anlagenverzeichnis für Gericht und Gegner. Checkliste für Buerger ohne Anwalt.
 
 # Die Klage als komplettes Paket zusammenstellen
 
@@ -291,7 +291,7 @@ Stand: 05/2026. Praxis der Sozialgerichte.
 
 ## 3. `klagearten-uebersicht-sgg`
 
-**Frühere Beschreibung:** Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern.
+**Fokus:** Welche Klage passt zu Ihrem Fall. Anfechtungs- Verpflichtungs- Leistungs- Feststellungs- und Untätigkeitsklage nach §§ 54 55 88 SGG. Mit Entscheidungshilfe und Mustern.
 
 # Welche Klage passt? — Ueberblick
 
@@ -432,7 +432,7 @@ Stand: 05/2026. §§ 54, 55, 88 SGG aktuell. Auch bei falscher Klageart hilft da
 
 ## 4. `klagebegruendung-laienleitfaden`
 
-**Frühere Beschreibung:** Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht.
+**Fokus:** Wie Sie Ihre Klage ohne Anwalt sinnvoll begründen. Sachverhalt Rechtsverletzung Beweismittel Antrag Aufbau und Mustertexte für Buerger vor dem Sozialgericht.
 
 # So begruenden Sie Ihre Klage — fuer Laien
 
@@ -631,7 +631,7 @@ Stand: 05/2026. § 92 SGG aktuell. § 106 SGG verpflichtet das Gericht, Sie bei 
 
 ## 5. `kostenfrei-vs-aufwendungsersatz-193-sgg`
 
-**Frühere Beschreibung:** Aufwendungsersatz nach § 193 SGG. Bei Erfolg muss Beklagte notwendige außergerichtliche Kosten erstatten. Anwalt Fahrtkosten Auslagenpauschale. Antrag stellen.
+**Fokus:** Aufwendungsersatz nach § 193 SGG. Bei Erfolg muss Beklagte notwendige außergerichtliche Kosten erstatten. Anwalt Fahrtkosten Auslagenpauschale. Antrag stellen.
 
 # Aufwendungs-Ersatz — § 193 SGG
 

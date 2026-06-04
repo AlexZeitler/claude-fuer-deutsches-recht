@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-internationales-inso-bis-rechtsabteilung-ausl
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (internationales-insolvenzrecht-drittstaaten-inzidentpruefung, konzerninsolvenz-koordination, mandat-triage-insolvenzrecht, rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationales Insolvenzrecht Drittstaaten Inzidentpruefung, Konzerninsolvenz Koordination, Mandat Triage Insolvenzrecht, Auslaendischer Insolvenzverwalter In Deutschland; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - insolvenzrecht
+# Arbeitsbereich - Internationales Insolvenzrecht Drittstaaten Inzidentpruefung bis Auslaendischer Insolvenzverwalter In Deutschland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `internationales-insolvenzrecht-drittstaaten-inzidentpruefung` | Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner. |
 | `konzerninsolvenz-koordination` | Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `internationales-insolvenzrecht-drittstaaten-inzidentpruefung`
 
-**Frühere Beschreibung:** Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner.
+**Fokus:** Drittstaatliche Insolvenzverfahren in Deutschland prüfen: keine Chapter-15-Logik, sondern Anerkennung nach §§ 335 ff., 343 InsO und praktische Inzidentprüfung durch Notar, Grundbuchamt, Registergericht, Bank oder Vertragspartner.
 
 # Internationales Insolvenzrecht Drittstaaten — Inzidentprüfung
 
@@ -119,7 +119,7 @@ Tragende Normen live prüfen: InsO §§ 335 ff., 343 ff., § 347, GBO § 29, Gmb
 
 ## 2. `konzerninsolvenz-koordination`
 
-**Frühere Beschreibung:** Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr.
+**Fokus:** Mehrere Gesellschaften eines Konzerns sind insolvent und Koordination der Verfahren muss geplant werden. Prüfraster Konzerninsolvenz §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenzrechtliche Unternehmensgruppe § 3e InsO. Konzern-Verwalter § 269e InsO Koordinations-Plan § 269h InsO EuInsVO Art. 56 ff. bei grenzüberschreitender Insolvenz. Output Koordinations-Strategie-Memo mit Zuständigkeitsprüfung und Verfahrensplan. Abgrenzung: anfechtungsrechte-prüfen für konzerninternen Zahlungsverkehr.
 
 # Konzerninsolvenz — Koordination
 
@@ -483,7 +483,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mandat-triage-insolvenzrecht`
 
-**Frühere Beschreibung:** Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgründe. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschäftsführer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-prüfen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung).
+**Fokus:** Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgründe. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschäftsführer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-prüfen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung).
 
 # Mandat-Triage Insolvenzrecht
 
@@ -653,7 +653,7 @@ Insolvenz-Mandate sind hochzeitkritisch — die Drei-Wochen-Frist § 15a InsO is
 
 ## 4. `rechtsabteilung-auslaendischer-insolvenzverwalter-in-deutschland`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Ausländischer Insolvenzverwalter in Deutschland: Inzidente Anerkennung, Vertretungsmacht und Nachweisform werden als Checkliste geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Ausländischer Insolvenzverwalter in Deutschland
 

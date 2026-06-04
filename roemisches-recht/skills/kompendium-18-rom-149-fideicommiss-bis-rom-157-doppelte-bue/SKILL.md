@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-rom-149-fideicommiss-bis-rom-157-doppelte-bue
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 18; bündelt 8 frühere Spezialskills (rom-149-fideicommissa-und-substitutionsformen, rom-150-civitas-romana-erwerb-und-verlust, rom-151-status-libertatis-status-civitatis-status-familiae, rom-152-civis-romanus-vs-latinus-vs-peregrinus, rom-154-ius-conubii-und-ius-commercii und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 149 Fideicommissa Und Substitutionsformen, Rom 150 Civitas Romana Erwerb Und Verlust, Rom 151 Status Libertatis Status Civitatis Status Familiae, Rom 152 Civis Romanus Vs Latinus Vs Peregrinus und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - roemisches-recht
+# Arbeitsbereich - Rom 149 Fideicommissa Und Substitutionsformen bis Rom 157 Doppelte Buergerschaft Und Municipien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-149-fideicommissa-und-substitutionsformen` | Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemischen Recht. Skill behandelt die fideicommissum universale die substitutio pupillaris und substitutio vulgaris die Lockerung durch Justinian. Liefert Quellenmatrix. |
 | `rom-150-civitas-romana-erwerb-und-verlust` | Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Liefert Quellenmatrix und Pruefraster. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-149-fideicommissa-und-substitutionsformen`
 
-**Frühere Beschreibung:** Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemischen Recht. Skill behandelt die fideicommissum universale die substitutio pupillaris und substitutio vulgaris die Lockerung durch Justinian. Liefert Quellenmatrix.
+**Fokus:** Fideicommissa und Substitutionsformen: Treuhand- und Ersatzerbschaft im roemischen Recht. Skill behandelt die fideicommissum universale die substitutio pupillaris und substitutio vulgaris die Lockerung durch Justinian. Liefert Quellenmatrix.
 
 # Rom 149 Fideicommissa Und Substitutionsformen
 
@@ -89,7 +89,7 @@ Skill fuer Treuhand und Ersatzerbschaft.
 
 ## 2. `rom-150-civitas-romana-erwerb-und-verlust`
 
-**Frühere Beschreibung:** Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Liefert Quellenmatrix und Pruefraster.
+**Fokus:** Civitas Romana: Erwerb und Verlust des roemischen Buergerrechts. Skill behandelt Geburtserwerb adoptio Manumissio Naturalisationsdekrete capitis deminutio media und maxima sowie das Buergerrecht der Latini iuris Latini iuris veteris. Liefert Quellenmatrix und Pruefraster.
 
 # Rom 150 Civitas Romana Erwerb Und Verlust
 
@@ -151,7 +151,7 @@ Skill fuer Erwerb und Verlust der civitas Romana.
 
 ## 3. `rom-151-status-libertatis-status-civitatis-status-familiae`
 
-**Frühere Beschreibung:** Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix.
+**Fokus:** Status-Lehre: status libertatis status civitatis status familiae als drei Achsen der roemischen Personenrechtsstellung. Skill behandelt das Zusammenspiel die rechtlichen Konsequenzen und die Wechselwirkungen mit Eigentums- und Erbrecht. Liefert Quellenmatrix.
 
 # Rom 151 Status Libertatis Status Civitatis Status Familiae
 
@@ -208,7 +208,7 @@ Skill fuer die roemische Status-Lehre.
 
 ## 4. `rom-152-civis-romanus-vs-latinus-vs-peregrinus`
 
-**Frühere Beschreibung:** Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefert Pruefraster.
+**Fokus:** Civis Romanus vs. Latinus vs. Peregrinus: drei Buergerstaufen im roemischen Reich. Skill behandelt die Unterscheidung Bewegungs-Rechte (ius migrationis) Eherecht (ius conubii) Handelsrecht (ius commercii) und prozessuale Stellung. Liefert Pruefraster.
 
 # Rom 152 Civis Romanus Vs Latinus Vs Peregrinus
 
@@ -264,7 +264,7 @@ Skill fuer die Unterscheidung der drei Hauptbuergerschaften.
 
 ## 5. `rom-154-ius-conubii-und-ius-commercii`
 
-**Frühere Beschreibung:** Ius conubii und ius commercii: zentrale Privatrechtsrechte des roemischen Buergerrechts. Skill behandelt das Recht zur rechtsgueltigen Ehe (matrimonium) und das Recht zum Abschluss zivilrechtlicher Vertraege das Verhaeltnis zur usucapio und mancipatio. Liefert Quellenmatrix.
+**Fokus:** Ius conubii und ius commercii: zentrale Privatrechtsrechte des roemischen Buergerrechts. Skill behandelt das Recht zur rechtsgueltigen Ehe (matrimonium) und das Recht zum Abschluss zivilrechtlicher Vertraege das Verhaeltnis zur usucapio und mancipatio. Liefert Quellenmatrix.
 
 # Rom 154 Ius Conubii Und Ius Commercii
 
@@ -315,7 +315,7 @@ Skill fuer ius conubii und ius commercii.
 
 ## 6. `rom-155-ius-suffragii-und-ius-honorum`
 
-**Frühere Beschreibung:** Ius suffragii und ius honorum: politische Buergerrechte im roemischen Recht. Skill behandelt das Stimmrecht in den Volksversammlungen und die Wahlbarkeit zu Aemtern Einschraenkungen fuer Latini und Frauen sowie das Verhaeltnis zum status civitatis. Liefert Quellenmatrix.
+**Fokus:** Ius suffragii und ius honorum: politische Buergerrechte im roemischen Recht. Skill behandelt das Stimmrecht in den Volksversammlungen und die Wahlbarkeit zu Aemtern Einschraenkungen fuer Latini und Frauen sowie das Verhaeltnis zum status civitatis. Liefert Quellenmatrix.
 
 # Rom 155 Ius Suffragii Und Ius Honorum
 
@@ -358,7 +358,7 @@ Skill fuer politische Buergerrechte im roemischen Recht.
 
 ## 7. `rom-156-rechtsfolgen-fuer-peregrini-und-ius-gentium`
 
-**Frühere Beschreibung:** Rechtsfolgen fuer Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix.
+**Fokus:** Rechtsfolgen fuer Peregrini und das ius gentium. Skill behandelt die Stellung der Auslaender vor dem praetor peregrinus die Vertragstypen des ius gentium (stipulatio locatio conductio mutuum) und die Anerkennung von Heimatrecht. Liefert Quellenmatrix.
 
 # Rom 156 Rechtsfolgen Fuer Peregrini Und Ius Gentium
 
@@ -405,7 +405,7 @@ Skill fuer Peregrini-Recht.
 
 ## 8. `rom-157-doppelte-buergerschaft-und-municipien`
 
-**Frühere Beschreibung:** Doppelte Buergerschaft und Municipien. Skill behandelt die roemisch-rechtliche Stellung der municipes als Doppelbuerger (Buerger der Heimatstadt und Roms) das Verhaeltnis zwischen Stadtrecht und Reichsrecht. Liefert Quellenmatrix.
+**Fokus:** Doppelte Buergerschaft und Municipien. Skill behandelt die roemisch-rechtliche Stellung der municipes als Doppelbuerger (Buerger der Heimatstadt und Roms) das Verhaeltnis zwischen Stadtrecht und Reichsrecht. Liefert Quellenmatrix.
 
 # Rom 157 Doppelte Buergerschaft Und Municipien
 

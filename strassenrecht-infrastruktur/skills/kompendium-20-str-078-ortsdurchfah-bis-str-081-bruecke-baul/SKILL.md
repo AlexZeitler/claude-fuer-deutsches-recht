@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-str-078-ortsdurchfah-bis-str-081-bruecke-baul
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (str-078-ortsdurchfahrt-unterhaltung-ruegen, str-079-ortsdurchfahrt-dokumente-sortieren, str-080-ortsdurchfahrt-dashboard-erstellen, str-081-bruecke-baulast-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 078 Ortsdurchfahrt Unterhaltung Ruegen, Str 079 Ortsdurchfahrt Dokumente Sortieren, Str 080 Ortsdurchfahrt Dashboard Erstellen, Str 081 Bruecke Baulast Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 078 Ortsdurchfahrt Unterhaltung Ruegen bis Str 081 Bruecke Baulast Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-078-ortsdurchfahrt-unterhaltung-ruegen` | Straßenrecht und Infrastruktur: Ortsdurchfahrt: Unterhaltung rügen. Unterhaltung rügen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-079-ortsdurchfahrt-dokumente-sortieren` | Straßenrecht und Infrastruktur: Ortsdurchfahrt: Dokumente sortieren. Dokumente sortieren für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-078-ortsdurchfahrt-unterhaltung-ruegen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Unterhaltung rügen. Unterhaltung rügen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Unterhaltung rügen. Unterhaltung rügen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Unterhaltung Ruegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-079-ortsdurchfahrt-dokumente-sortieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Dokumente sortieren. Dokumente sortieren für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Dokumente sortieren. Dokumente sortieren für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Dokumente Sortieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-080-ortsdurchfahrt-dashboard-erstellen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Dashboard erstellen. Dashboard erstellen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Ortsdurchfahrt: Dashboard erstellen. Dashboard erstellen für Ortsdurchfahrt im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Ortsdurchfahrt Dashboard Erstellen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-081-bruecke-baulast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke: Baulast prüfen. Baulast prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke: Baulast prüfen. Baulast prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bruecke Baulast Pruefen
 

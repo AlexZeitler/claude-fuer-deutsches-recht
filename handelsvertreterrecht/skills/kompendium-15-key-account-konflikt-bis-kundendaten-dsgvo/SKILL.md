@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-key-account-konflikt-bis-kundendaten-dsgvo
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (key-account-konflikt, kommissionaer-abgrenzung, kuendigungsschreiben, kundendaten-dsgvo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Key Account Konflikt, Kommissionaer Abgrenzung, Kuendigungsschreiben, Kundendaten Dsgvo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - handelsvertreterrecht
+# Arbeitsbereich - Key Account Konflikt bis Kundendaten Dsgvo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `key-account-konflikt` | Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln. |
 | `kommissionaer-abgrenzung` | Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `key-account-konflikt`
 
-**Frühere Beschreibung:** Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln.
+**Fokus:** Prüft Konflikte zwischen Handelsvertretern und Unternehmen bei Key-Account-Betreuung: Ausnahme von Key Accounts vom Gebietsschutz, Provision bei Direktbetreuung durch Unternehmer, Abgrenzung Stammkunde und neuer Großkunde sowie vertragliche Gestaltung von Key-Account-Klauseln.
 
 # Key-Account-Konflikte im Handelsvertretervertrag — Gebietsschutz und Provision
 
@@ -108,7 +108,7 @@ ergänzen das Recht praxisnah.
 
 ## 2. `kommissionaer-abgrenzung`
 
-**Frühere Beschreibung:** Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht.
+**Fokus:** Prüft die Abgrenzung des Handelsvertreters vom Kommissionär nach §§ 383 ff. HGB: Eigengeschäft des Kommissionärs auf Rechnung des Kommittenten, kein eigener Provisionsanspruch kraft HGB, Anwendbarkeit der §§ 84-92c HGB, Ausgleichsanspruch und Auswirkungen der Qualifikation auf Vertrags- und Haftungsrecht.
 
 # Abgrenzung Handelsvertreter vom Kommissionär nach §§ 383 ff. HGB
 
@@ -187,7 +187,7 @@ ergänzen das Recht praxisnah.
 
 ## 3. `kuendigungsschreiben`
 
-**Frühere Beschreibung:** Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung).
+**Fokus:** Erstellt rechtssichere Kündigungsschreiben für Handelsvertreterverträge: ordentliche Kündigung mit korrekter Fristenberechnung nach § 89 HGB, außerordentliche Kündigung nach § 89a HGB mit wichtigem Grund, Aufhebungsvereinbarungen sowie formale Anforderungen (Schriftform, Zugang, Bevollmächtigung).
 
 # Kündigungsschreiben im Handelsvertretervertrag — Form, Fristen und Inhalt
 
@@ -266,7 +266,7 @@ ergänzen das Recht praxisnah.
 
 ## 4. `kundendaten-dsgvo`
 
-**Frühere Beschreibung:** Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen.
+**Fokus:** Analysiert datenschutzrechtliche Pflichten beim Umgang mit Kundendaten im Handelsvertretervertrag nach DSGVO und § 88 HGB: Rechtsgrundlagen für Verarbeitung, Herausgabepflichten von Kundendaten bei Vertragsende, Datenschutz-Folgenabschätzung bei CRM-Einsatz sowie Bußgeldrisiken bei Datenschutzverstößen.
 
 # Kundendaten und DSGVO im Handelsvertretervertrag nach § 88 HGB und DSGVO
 

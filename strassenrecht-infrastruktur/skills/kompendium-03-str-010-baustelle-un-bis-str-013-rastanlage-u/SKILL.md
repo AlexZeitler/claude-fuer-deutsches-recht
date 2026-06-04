@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-str-010-baustelle-un-bis-str-013-rastanlage-u
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (str-010-baustelle-und-verkehrsfuehrung, str-011-strassenentwaesserung, str-012-bruecke-und-tunnel, str-013-rastanlage-und-nebenbetrieb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 010 Baustelle Und Verkehrsfuehrung, Str 011 Strassenentwaesserung, Str 012 Bruecke Und Tunnel, Str 013 Rastanlage Und Nebenbetrieb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 010 Baustelle Und Verkehrsfuehrung bis Str 013 Rastanlage Und Nebenbetrieb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-010-baustelle-und-verkehrsfuehrung` | Straßenrecht und Infrastruktur: Baustelle und Verkehrsführung. Baustelle und Verkehrsführung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-011-strassenentwaesserung` | Straßenrecht und Infrastruktur: Straßenentwässerung. Straßenentwässerung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-010-baustelle-und-verkehrsfuehrung`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Baustelle und Verkehrsführung. Baustelle und Verkehrsführung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Baustelle und Verkehrsführung. Baustelle und Verkehrsführung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Baustelle Und Verkehrsfuehrung
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-011-strassenentwaesserung`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Straßenentwässerung. Straßenentwässerung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Straßenentwässerung. Straßenentwässerung im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Strassenentwaesserung
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-012-bruecke-und-tunnel`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke und Tunnel. Brücke und Tunnel im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke und Tunnel. Brücke und Tunnel im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bruecke Und Tunnel
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-013-rastanlage-und-nebenbetrieb`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Rastanlage und Nebenbetrieb. Rastanlage und Nebenbetrieb im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Rastanlage und Nebenbetrieb. Rastanlage und Nebenbetrieb im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Rastanlage Und Nebenbetrieb
 

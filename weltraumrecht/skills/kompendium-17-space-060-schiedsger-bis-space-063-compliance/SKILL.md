@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-space-060-schiedsger-bis-space-063-compliance
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (space-060-schiedsgerichtsbarkeit-raumfahrtvertraege, space-061-space-law-opinion-fuer-investoren, space-062-risikomatrix-raumfahrt-startup, space-063-compliance-handbuch-satellitenbetreiber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege, Space 061 Space Law Opinion Fuer Investoren, Space 062 Risikomatrix Raumfahrt Startup, Space 063 Compliance Handbuch Satellitenbetreiber; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - weltraumrecht
+# Arbeitsbereich - Space 060 Schiedsgerichtsbarkeit Raumfahrtvertraege bis Space 063 Compliance Handbuch Satellitenbetreiber
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-060-schiedsgerichtsbarkeit-raumfahrtvertraege` | Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit. |
 | `space-061-space-law-opinion-fuer-investoren` | Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-060-schiedsgerichtsbarkeit-raumfahrtvertraege`
 
-**Frühere Beschreibung:** Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit.
+**Fokus:** Schiedsgerichtsbarkeit für Raumfahrtstreitigkeiten – ICC, LCIA, DIS, Sondergerichtsbarkeit.
 
 # Weltraumrecht: Schiedsgerichtsbarkeit: Raumfahrtverträge
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Schiedsgerichtsbarkeit Raumfahrt,
 
 ## 2. `space-061-space-law-opinion-fuer-investoren`
 
-**Frühere Beschreibung:** Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken.
+**Fokus:** Legal Opinion für Raumfahrtinvestoren – Genehmigungsrisiken, Haftungsexposure, Regulierungsrisiken.
 
 # Weltraumrecht: Space Law Opinion für Investoren
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Space Law Opinion, Investoren, Le
 
 ## 3. `space-062-risikomatrix-raumfahrt-startup`
 
-**Frühere Beschreibung:** Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken.
+**Fokus:** Risikomatrix für Raumfahrt-Startups – Genehmigung, Haftung, Exportkontrolle, Finanzierungsrisiken.
 
 # Weltraumrecht: Risikomatrix Raumfahrt-Startup
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Risikomatrix Raumfahrt-Startup, L
 
 ## 4. `space-063-compliance-handbuch-satellitenbetreiber`
 
-**Frühere Beschreibung:** Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten.
+**Fokus:** Compliance-Handbuch für Satellitenbetreiber – Normenübersicht, Prozesse, Verantwortlichkeiten.
 
 # Weltraumrecht: Compliance-Handbuch Satellitenbetreiber
 

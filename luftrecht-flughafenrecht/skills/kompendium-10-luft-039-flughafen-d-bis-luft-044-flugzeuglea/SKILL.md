@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-luft-039-flughafen-d-bis-luft-044-flugzeuglea
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (luft-039-flughafen-dashboard-bauen, luft-040-flughafen-mandantenmemo-schreiben, luft-042-flugzeugleasing-register-auswerten, luft-043-flugzeugleasing-pfandrecht-vorbereiten, luft-044-flugzeugleasing-pfaendung-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 039 Flughafen Dashboard Bauen, Luft 040 Flughafen Mandantenmemo Schreiben, Luft 042 Flugzeugleasing Register Auswerten, Luft 043 Flugzeugleasing Pfandrecht Vorbereiten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 039 Flughafen Dashboard Bauen bis Luft 044 Flugzeugleasing Pfaendung Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-039-flughafen-dashboard-bauen` | Kanzlei oder Mandant braucht Dashboard fuer Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template. |
 | `luft-040-flughafen-mandantenmemo-schreiben` | Anwalt schreibt Mandantenmemo fuer Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-039-flughafen-dashboard-bauen`
 
-**Frühere Beschreibung:** Kanzlei oder Mandant braucht Dashboard fuer Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template.
+**Fokus:** Kanzlei oder Mandant braucht Dashboard fuer Flughafen-Mandat: Genehmigungsstatus LuftSiG-Findings Passagierzahlen Finanzlage Grundbuch. Skill strukturiert Datenquellen LuftVG-Genehmigungsregister LuftSiG Grundbuch Fluko und liefert befuellbares Dashboard-Template.
 
 # Flughafen – Dashboard bauen
 
@@ -125,7 +125,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 2. `luft-040-flughafen-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Flughafen-Betreiber oder Investor zu komplexem Luftrechtsfall: Planfeststellungsklage Sicherheitsauflage Insolvenznaehe oder Entgeltstreit. Skill strukturiert Memo nach Sachverhalt Rechtslage Handlungsoptionen Risikobewertung und Empfehlung.
 
 # Flughafen – Mandantenmemo schreiben
 
@@ -220,7 +220,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 3. `luft-042-flugzeugleasing-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse.
+**Fokus:** Mandant will Register zu einem geleasten Flugzeug auswerten: Luftfahrzeugrolle Cape-Town-ICAO-Register Pfandrechtsregister AG Braunschweig und IDERA-Status. Prueft LuftVG § 64 LuftFzgG Cape-Town-Art. 16 und liefert Registerauszugs-Auswertung mit vollstaendiger Belastungsanalyse.
 
 # Flugzeugleasing – Register auswerten
 
@@ -314,7 +314,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 4. `luft-043-flugzeugleasing-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Leasinggeber will internationales Sicherungsinteresse Cape-Town und nationales Pfandrecht an geleasetem Flugzeug koordinieren. Prueft Cape-Town-Convention Art. 2 ICAO-Register-Eintragung LuftFzgG §§ 1-12 AG-Braunschweig und IDERA-Bestellung und liefert Sicherungsstruktur-Vermerk.
+**Fokus:** Leasinggeber will internationales Sicherungsinteresse Cape-Town und nationales Pfandrecht an geleasetem Flugzeug koordinieren. Prueft Cape-Town-Convention Art. 2 ICAO-Register-Eintragung LuftFzgG §§ 1-12 AG-Braunschweig und IDERA-Bestellung und liefert Sicherungsstruktur-Vermerk.
 
 # Flugzeugleasing – Pfandrecht vorbereiten
 
@@ -407,7 +407,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 5. `luft-044-flugzeugleasing-pfaendung-planen`
 
-**Frühere Beschreibung:** Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Ruecknahme-Strategie.
+**Fokus:** Leasinggeber will nach Zahlungsausfall das Flugzeug zuruecknehmen oder Glaeubiger will in geleaste Flugzeuge vollstrecken. Prueft Cape-Town-Convention Art. 8-10 Remedies IDERA LuftFzgG ZPO-Vollstreckungsrecht und InsO § 89 Vollstreckungssperre und liefert Ruecknahme-Strategie.
 
 # Flugzeugleasing – Pfändung planen
 

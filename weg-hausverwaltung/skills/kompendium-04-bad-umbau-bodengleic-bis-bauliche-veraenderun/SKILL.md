@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bad-umbau-bodengleic-bis-bauliche-veraenderun
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft, barrierefreie-einladung-protokoll-versammlung, bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppenlift 20 Abs 2 Weg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - weg-hausverwaltung
+# Arbeitsbereich - Bad Umbau Bodengleiche Dusche Sondereigentum Gemeinschaft, Barrierefreie Einladung Protokoll Versammlung, Bauliche Veraenderung Aufzug Treppe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft` | Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12. |
 | `barrierefreie-einladung-protokoll-versammlung` | Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bad-umbau-bodengleiche-dusche-sondereigentum-gemeinschaft`
 
-**Frühere Beschreibung:** Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12.
+**Fokus:** Bodengleiche Dusche, Haltegriffe und unterfahrbares Waschbecken im Sondereigentum (Stand 06/2026): SE/GE-Abgrenzung, Beschluss nach § 20 Abs. 2 Nr. 2 WEG, DIN 18534 Abdichtung, Pflegekasse § 40 SGB XI bis 4180 Euro. BGH V ZR 57/12.
 
 # Bad-Umbau: Bodengleiche Dusche im Sondereigentum und Gemeinschaftseigentum
 
@@ -105,7 +105,7 @@ Mietrecht § 554a BGB: Mieter mit Behinderung hat gegenüber dem Vermieter (hier
 
 ## 2. `barrierefreie-einladung-protokoll-versammlung`
 
-**Frühere Beschreibung:** Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs.
+**Fokus:** Versammlungsdokumente barrierefrei gestalten (Stand 06/2026): PDF/UA (ISO 14289), Word-Formatvorlagen, Leichte Sprache nach DIN SPEC 33429, Grossdruck, TTS-Kompatibilitaet. Praktischer Umgang mit Casavi/Vermieter-Cloud-PDFs.
 
 # Barrierefreie Einladungen, Protokolle und Abrechnungen
 
@@ -167,7 +167,7 @@ AGG § 5 verpflichtet im Grundsatz zur Barrierefreiheit bei der Bereitstellung v
 
 ## 3. `bauliche-veraenderung-aufzug-treppenlift-20-abs-2-weg`
 
-**Frühere Beschreibung:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
+**Fokus:** Aufzug-Nachrüstung und Treppenlift als privilegierte bauliche Veränderung nach § 20 Abs. 2 Nr. 2 WEG (Stand 06/2026): Anspruch ohne Ermessen, DIN 18040-2, Kostentragung § 21 WEG, KfW 159 bis 50000 Euro, BGH V ZR 244/22.
 
 # Bauliche Veränderung: Aufzug und Treppenlift nach § 20 Abs. 2 Nr. 2 WEG
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-spezial-pruefung-son-bis-spezial-rolle-abschl
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (spezial-pruefung-sonderfall-und-edge-case, spezial-roadmap-internationaler-bezug-und-schnittstellen, spezial-rolle-abschlussprodukt-und-uebergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pruefung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Uebergabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - barrierefreiheit-web-checker
+# Arbeitsbereich - Pruefung Sonderfall Und Edge Case, Roadmap Internationaler Bezug Und Schnittstellen, Rolle Abschlussprodukt Und Uebergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-pruefung-sonderfall-und-edge-case` | Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-roadmap-internationaler-bezug-und-schnittstellen` | Roadmap: Internationaler Bezug und Schnittstellen im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-pruefung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pruefung: Sonderfall und Edge-Case-Prüfung im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Pruefung: Sonderfall und Edge-Case-Prüfung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-roadmap-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Roadmap: Internationaler Bezug und Schnittstellen im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Roadmap: Internationaler Bezug und Schnittstellen im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Roadmap: Internationaler Bezug und Schnittstellen
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-rolle-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Rolle: Abschlussprodukt und Übergabe im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Rolle: Abschlussprodukt und Übergabe im Plugin barrierefreiheit web checker; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Rolle: Abschlussprodukt und Übergabe
 

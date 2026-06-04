@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-legw-ressort-bmds-bis-legw-ressort-bmv
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 14; bündelt 8 frühere Spezialskills (legw-ressort-bmds, legw-ressort-bmftr, legw-ressort-bmg, legw-ressort-bmi, legw-ressort-bmjv und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Ressort Bmds, Legw Ressort Bmftr, Legw Ressort Bmg, Legw Ressort Bmi und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - legistik-werkstatt
+# Arbeitsbereich - Legw Ressort Bmds bis Legw Ressort Bmv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-ressort-bmds` | Heranfuehrung Ressort BMDS (Bundesministerium fuer Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug. |
 | `legw-ressort-bmftr` | Heranfuehrung Ressort BMFTR (Bundesministerium fuer Forschung; Technologie und Raumfahrt). Schwerpunkt: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie. Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU). Fuenf Spezialfelder: hochschul-und-wissenschaftsrecht; raumfahrt-und-weltraumrecht-wrgg; forschungsfoerderung-und-ressortforschung; kuenstliche-intelligenz-und-technikregulierung; biotechnologie-und-laborsicherheit. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmftr und legw-bmftr-Themenslug. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-ressort-bmds`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMDS (Bundesministerium fuer Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMDS (Bundesministerium fuer Digitales und Staatsmodernisierung). Schwerpunkt: Verwaltungsdigitalisierung; IT-Sicherheit; Daten- und Registerrecht; KI-Aufsicht. Kernnormen: OZG; EGovG; BSIG; OnlineZugG; Data Act (EU); DSA; KI-VO (EU); RegMoG. Fuenf Spezialfelder: digitale-verwaltung-ozg-und-egovg; it-sicherheit-und-bsig; datenrecht-und-data-act; verwaltungsdigitalisierung-und-registermodernisierung; ki-verordnung-und-aufsichtsstruktur. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmds und legw-bmds-Themenslug.
 
 # Ressort-Heranfuehrung BMDS
 
@@ -161,7 +161,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-ressort-bmftr`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMFTR (Bundesministerium fuer Forschung; Technologie und Raumfahrt). Schwerpunkt: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie. Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU). Fuenf Spezialfelder: hochschul-und-wissenschaftsrecht; raumfahrt-und-weltraumrecht-wrgg; forschungsfoerderung-und-ressortforschung; kuenstliche-intelligenz-und-technikregulierung; biotechnologie-und-laborsicherheit. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmftr und legw-bmftr-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMFTR (Bundesministerium fuer Forschung; Technologie und Raumfahrt). Schwerpunkt: Hochschule und Wissenschaft; Raumfahrt; Forschungsfoerderung; KI; Biotechnologie. Kernnormen: HRG; WissZeitVG; WRG; WissTrAG; ATG; BNatSchG (Biotech); GenTG; KI-VO (EU). Fuenf Spezialfelder: hochschul-und-wissenschaftsrecht; raumfahrt-und-weltraumrecht-wrgg; forschungsfoerderung-und-ressortforschung; kuenstliche-intelligenz-und-technikregulierung; biotechnologie-und-laborsicherheit. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmftr und legw-bmftr-Themenslug.
 
 # Ressort-Heranfuehrung BMFTR
 
@@ -289,7 +289,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-ressort-bmg`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMG (Bundesministerium fuer Gesundheit). Schwerpunkt: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus. Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG. Fuenf Spezialfelder: arzneimittel-und-medizinprodukterecht; krankenversicherungs-und-leistungsrecht-sgb-v; infektionsschutz-und-pandemierecht; berufsrecht-heilberufe-und-approbation; krankenhaus-und-versorgungsstrukturrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmg und legw-bmg-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMG (Bundesministerium fuer Gesundheit). Schwerpunkt: Arzneimittel; gesetzliche Krankenversicherung; Infektionsschutz; Heilberufe; Krankenhaus. Kernnormen: AMG; MPG; MPDG; SGB V; SGB XI; IfSG; BApO; KHG; KHEntgG. Fuenf Spezialfelder: arzneimittel-und-medizinprodukterecht; krankenversicherungs-und-leistungsrecht-sgb-v; infektionsschutz-und-pandemierecht; berufsrecht-heilberufe-und-approbation; krankenhaus-und-versorgungsstrukturrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmg und legw-bmg-Themenslug.
 
 # Ressort-Heranfuehrung BMG
 
@@ -417,7 +417,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-ressort-bmi`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpunkt: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; oeffentlicher Dienst. Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG. Fuenf Spezialfelder: sicherheits-und-polizeirecht; auslaender-und-staatsangehoerigkeitsrecht; verwaltungsverfahren-und-bundesverwaltung; bevoelkerungsschutz-und-katastrophenrecht; oeffentlicher-dienst-und-beamtenrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmi und legw-bmi-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMI (Bundesministerium des Innern). Schwerpunkt: Innere Sicherheit; Migration; Verwaltung; Bevoelkerungsschutz; oeffentlicher Dienst. Kernnormen: BPolG; BKAG; AufenthG; StAG; VwVfG; ZSKG; BBG; BeamtStG; PassG; PStG. Fuenf Spezialfelder: sicherheits-und-polizeirecht; auslaender-und-staatsangehoerigkeitsrecht; verwaltungsverfahren-und-bundesverwaltung; bevoelkerungsschutz-und-katastrophenrecht; oeffentlicher-dienst-und-beamtenrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmi und legw-bmi-Themenslug.
 
 # Ressort-Heranfuehrung BMI
 
@@ -545,7 +545,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-ressort-bmjv`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMJV (Bundesministerium der Justiz und fuer Verbraucherschutz). Schwerpunkt: Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit. Kernnormen: BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG. Fuenf Spezialfelder: zivilrecht-und-buergerliches-gesetzbuch-pflege; straf-und-strafprozessrecht-pflege; gerichtsverfassungs-und-prozessrecht; verbraucherschutz-und-unlauterer-wettbewerb; rechtsstaatlichkeit-und-grundrechte-querschnitt. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmjv und legw-bmjv-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMJV (Bundesministerium der Justiz und fuer Verbraucherschutz). Schwerpunkt: Pflege von BGB und StGB; Prozessrecht; Verbraucherschutz; Rechtsstaatlichkeit. Kernnormen: BGB; HGB; StGB; StPO; ZPO; GVG; UWG; UKlaG; BDSG. Fuenf Spezialfelder: zivilrecht-und-buergerliches-gesetzbuch-pflege; straf-und-strafprozessrecht-pflege; gerichtsverfassungs-und-prozessrecht; verbraucherschutz-und-unlauterer-wettbewerb; rechtsstaatlichkeit-und-grundrechte-querschnitt. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmjv und legw-bmjv-Themenslug.
 
 # Ressort-Heranfuehrung BMJV
 
@@ -673,7 +673,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-ressort-bmleh`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMLEH (Bundesministerium fuer Landwirtschaft; Ernaehrung und Heimat). Schwerpunkt: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau. Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG. Fuenf Spezialfelder: agrar-und-foerderungsrecht-gak-gap; tierschutz-und-tiergesundheitsrecht; lebensmittelrecht-und-futtermittelrecht; forst-und-jagdrecht; oekolandbau-und-pflanzenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmleh und legw-bmleh-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMLEH (Bundesministerium fuer Landwirtschaft; Ernaehrung und Heimat). Schwerpunkt: Agrar; Tierschutz; Lebensmittel; Forst und Jagd; Oekolandbau. Kernnormen: GAKG; TierSchG; LFGB; BWaldG; BJagdG; OeLG; PflSchG; DueV; AgrarZahlG. Fuenf Spezialfelder: agrar-und-foerderungsrecht-gak-gap; tierschutz-und-tiergesundheitsrecht; lebensmittelrecht-und-futtermittelrecht; forst-und-jagdrecht; oekolandbau-und-pflanzenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmleh und legw-bmleh-Themenslug.
 
 # Ressort-Heranfuehrung BMLEH
 
@@ -801,7 +801,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-ressort-bmukn`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMUKN (Bundesministerium fuer Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spezialfelder: immissionsschutz-und-bimschg; wasser-und-bodenschutzrecht; abfall-und-kreislaufwirtschaftsrecht; naturschutz-und-artenschutzrecht; atom-und-strahlenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmukn und legw-bmukn-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMUKN (Bundesministerium fuer Umwelt; Klimaschutz; Naturschutz und nukleare Sicherheit). Schwerpunkt: Immissionsschutz; Wasser; Abfall und Kreislaufwirtschaft; Naturschutz; Nukleares. Kernnormen: BImSchG; WHG; KrWG; BNatSchG; AtG; StrlSchG; UVPG; ChemG; REACH; KSG. Fuenf Spezialfelder: immissionsschutz-und-bimschg; wasser-und-bodenschutzrecht; abfall-und-kreislaufwirtschaftsrecht; naturschutz-und-artenschutzrecht; atom-und-strahlenschutzrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmukn und legw-bmukn-Themenslug.
 
 # Ressort-Heranfuehrung BMUKN
 
@@ -929,7 +929,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-ressort-bmv`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMV (Bundesministerium fuer Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-aeg; luft-und-luftverkehrsrecht; schifffahrts-und-seeverkehrsrecht; mobilitaets-und-fuehrerscheinrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmv und legw-bmv-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMV (Bundesministerium fuer Verkehr). Schwerpunkt: Strasse; Schiene; Luft; Wasser; Mobilitaet und Fuehrerschein. Kernnormen: StVG; StVO; FeV; AEG; ERegG; LuftVG; SeeAufgG; BinSchG; PBefG. Fuenf Spezialfelder: strassenverkehrsrecht-und-stvg-stvo; schienen-und-bahnregulierung-aeg; luft-und-luftverkehrsrecht; schifffahrts-und-seeverkehrsrecht; mobilitaets-und-fuehrerscheinrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmv und legw-bmv-Themenslug.
 
 # Ressort-Heranfuehrung BMV
 

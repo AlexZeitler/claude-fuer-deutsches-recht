@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-elsj-leichte-sprache-bis-elsj-pruefkriterien
-description: "einfache-leichte-sprache-jura: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (elsj-leichte-sprache, elsj-mietrecht-kuendigungserklaerung, elsj-pruefkriterien-fuer-qualitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einfache-leichte-sprache-jura: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elsj Leichte Sprache, Elsj Mietrecht Kuendigungserklaerung, Elsj Pruefkriterien Fuer Qualitaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - einfache-leichte-sprache-jura
+# Arbeitsbereich - Elsj Leichte Sprache, Elsj Mietrecht Kuendigungserklaerung, Elsj Pruefkriterien Fuer Qualitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elsj-leichte-sprache` | Kanzlei oder Behoerde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüfraster Satzlaenge max. 8 Woerter aktive Formulierung Erklärungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Prüfung). |
 | `elsj-mietrecht-kuendigungserklaerung` | Wohnungsmietrecht in einfacher Sprache fuer Mieter: Kuendigung erklaert (Frist, Form, Schriftform § 568 BGB), Schonfristzahlung § 569 Abs. 3 BGB, Mieterhoehung, Betriebskostenabrechnung. Mandantenformularsatz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elsj-leichte-sprache`
 
-**Frühere Beschreibung:** Kanzlei oder Behoerde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüfraster Satzlaenge max. 8 Woerter aktive Formulierung Erklärungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Prüfung).
+**Fokus:** Kanzlei oder Behoerde will juristischen Text für Menschen mit Lernschwierigkeiten oder kognitiven Einschraenkungen aufbereiten: Leichte Sprache nach Netzwerk Leichte Sprache A2-Niveau kurze Saetze klare Zeilenstruktur erklärte Woerter. Normen BGG § 11 BITV 2.0 Netzwerk Leichte Sprache Regeln. Prüfraster Satzlaenge max. 8 Woerter aktive Formulierung Erklärungen sichtbare Schritte Nutzergruppen-Test. Output Leichte-Sprache-Fassung Glossar. Abgrenzung zu elsj-einfache-sprache (B1-Niveau) und elsj-qualitaetsgate (Prüfung).
 
 # Leichte Sprache
 
@@ -184,7 +184,7 @@ Wenn keine Prüfung stattgefunden hat, schreibe:
 
 ## 2. `elsj-mietrecht-kuendigungserklaerung`
 
-**Frühere Beschreibung:** Wohnungsmietrecht in einfacher Sprache fuer Mieter: Kuendigung erklaert (Frist, Form, Schriftform § 568 BGB), Schonfristzahlung § 569 Abs. 3 BGB, Mieterhoehung, Betriebskostenabrechnung. Mandantenformularsatz.
+**Fokus:** Wohnungsmietrecht in einfacher Sprache fuer Mieter: Kuendigung erklaert (Frist, Form, Schriftform § 568 BGB), Schonfristzahlung § 569 Abs. 3 BGB, Mieterhoehung, Betriebskostenabrechnung. Mandantenformularsatz.
 
 # ELS-J Wohnungsmietrecht
 
@@ -236,7 +236,7 @@ Dieser Skill gehoert zum Plugin `einfache-leichte-sprache-jura`. Er ergaenzt die
 
 ## 3. `elsj-pruefkriterien-fuer-qualitaet`
 
-**Frühere Beschreibung:** Qualitaetspruefung Einfache/Leichte Sprache: Pruefliste mit Wortlaenge, Satzlaenge, Verbquote, Fremdwortquote, Anteil Aktiv-/Passivsaetze. Empfehlung Tools (LIX-Index, Hohenheimer Verstaendlichkeitsindex).
+**Fokus:** Qualitaetspruefung Einfache/Leichte Sprache: Pruefliste mit Wortlaenge, Satzlaenge, Verbquote, Fremdwortquote, Anteil Aktiv-/Passivsaetze. Empfehlung Tools (LIX-Index, Hohenheimer Verstaendlichkeitsindex).
 
 # ELS-J Qualitaetspruefung
 

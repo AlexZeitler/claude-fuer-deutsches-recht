@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-ins-022-aktienr-ckka-bis-ins-023-anleiheemiss
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (ins-022-aktienr-ckkauf, ins-023-anleiheemission) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - insiderrecht-compliance
+# Arbeitsbereich - Ins 022 Aktienr Ckkauf, Ins 023 Anleiheemission
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-022-aktienr-ckkauf` | Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten. |
 | `ins-023-anleiheemission` | Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-022-aktienr-ckkauf`
 
-**Frühere Beschreibung:** Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten.
+**Fokus:** Prueft Aktienrueckkaufprogramme auf MAR-Konformitaet: Safe Harbour DVO 2016/1052, Handelsverbote, Ad-hoc und Offenlegungspflichten.
 
 # Aktienrückkaufprogramme – MAR Safe Harbour und Compliance
 
@@ -119,7 +119,7 @@ Weitere Quellen:
 
 ## 2. `ins-023-anleiheemission`
 
-**Frühere Beschreibung:** Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte.
+**Fokus:** Prueft insiderrechtliche Anforderungen bei Anleiheemissionen: Emittenten-Pflichten, Arranger-Pflichten, Market Sounding, Ad-hoc und Dual-Listing-Aspekte.
 
 # Anleiheemission – Insiderrechtliche Anforderungen
 

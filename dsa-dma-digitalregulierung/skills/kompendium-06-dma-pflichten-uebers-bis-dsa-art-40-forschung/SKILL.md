@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-dma-pflichten-uebers-bis-dsa-art-40-forschung
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (dma-pflichten-uebersicht, dsa-art-34-systemische-risikobewertung, dsa-art-40-forschungsdatenzugang-algorithmen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dma Pflichten Uebersicht, Dsa Art 34 Systemische Risikobewertung, Dsa Art 40 Forschungsdatenzugang Algorithmen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dma-pflichten-uebersicht` | Pflichtenuebersicht DMA fuer benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Fuer Gatekeeper-internes Compliance-Setup. |
 | `dsa-art-34-systemische-risikobewertung` | Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dma-pflichten-uebersicht`
 
-**Frühere Beschreibung:** Pflichtenuebersicht DMA fuer benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Fuer Gatekeeper-internes Compliance-Setup.
+**Fokus:** Pflichtenuebersicht DMA fuer benannte Gatekeeper: Interoperabilitaet Messenger Art. 7, Datenportabilitaet Art. 6 Abs. 9 DMA, Selbstbevorzugungsverbot Art. 6 Abs. 5 DMA, Anti-Steering Art. 5 Abs. 4 DMA, FRAND-Bedingungen Art. 6 Abs. 12 DMA. Tabelle mit Pflicht, Adressat, Frist, Reporting. Fuer Gatekeeper-internes Compliance-Setup.
 
 # DMA: Pflichtenuebersicht
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 2. `dsa-art-34-systemische-risikobewertung`
 
-**Frühere Beschreibung:** Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen.
+**Fokus:** Jaehrliche Risikobewertung nach Art. 34 DSA für VLOP/VLOSE durchführen: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Prüfraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen.
 
 # DSA — Systemische Risikobewertung nach Art. 34
 
@@ -226,7 +226,7 @@ Audit (Art. 37 DSA): durchgeführt am [DATUM] / ausstehend
 
 ## 3. `dsa-art-40-forschungsdatenzugang-algorithmen`
 
-**Frühere Beschreibung:** Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Prüfraster: Drei Ebenen (DSC-Zugang, vetted researchers, öffentliche Daten), Antragsverfahren über DSC, Schutz Geschäftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten.
+**Fokus:** Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Prüfraster: Drei Ebenen (DSC-Zugang, vetted researchers, öffentliche Daten), Antragsverfahren über DSC, Schutz Geschäftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten.
 
 # DSA — Art. 40 Forschungsdatenzugang
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-zugewinn-for-bis-unterhalt-duesseldor
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (spezial-zugewinn-formular-portal-und-einreichung, tod-eines-ehegatten-anpassung-37-ff-versausglg, tod-nach-rechtskraft-vor-umsetzung, umgangsregelung-mustervorlagen, unterhalt-duesseldorfer-tabelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zugewinn Formular Portal Und Einreichung, Tod Eines Ehegatten Anpassung 37 Ff Versausglg, Tod Nach Rechtskraft Vor Umsetzung, Umgangsregelung Mustervorlagen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-familienrecht
+# Arbeitsbereich - Zugewinn Formular Portal Und Einreichung bis Unterhalt Duesseldorfer Tabelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-zugewinn-formular-portal-und-einreichung` | Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `tod-eines-ehegatten-anpassung-37-ff-versausglg` | Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-zugewinn-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Zugewinn: Formular, Portal und Einreichungslogik im Familienrecht: fachlich vertiefter Spezialskill mit Normenradar (BGB/FamFG/VersAusglG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Zugewinn: Formular, Portal und Einreichungslogik
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `tod-eines-ehegatten-anpassung-37-ff-versausglg`
 
-**Frühere Beschreibung:** Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Tod eines Ehegatten Anpassung §§ 37 ff VersAusglG
 
@@ -134,7 +134,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `tod-nach-rechtskraft-vor-umsetzung`
 
-**Frühere Beschreibung:** Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Tod nach Rechtskraft vor Umsetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Tod nach Rechtskraft vor Umsetzung
 
@@ -188,7 +188,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `umgangsregelung-mustervorlagen`
 
-**Frühere Beschreibung:** Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer.
+**Fokus:** Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer.
 
 # Umgangsregelung — Mustervorlagen
 
@@ -547,7 +547,7 @@ Vollstreckungstitel muss enthalten:
 
 ## 5. `unterhalt-duesseldorfer-tabelle`
 
-**Frühere Beschreibung:** Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt.
+**Fokus:** Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt.
 
 # Unterhalt nach Düsseldorfer Tabelle
 

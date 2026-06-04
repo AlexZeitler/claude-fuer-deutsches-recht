@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-pralr-neu-005-erster-bis-pralr-neu-009-erster
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (pralr-neu-005-erster-teil-titel-2-sachen-und-rechte, pralr-neu-006-erster-teil-titel-3-eigentum-besitz-nutzung, pralr-neu-007-erster-teil-titel-4-willenserklaerungen-und-vertra, pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form-und-a, pralr-neu-009-erster-teil-titel-6-unerlaubte-handlungen-und-vers) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte, Pralr Neu 006 Erster Teil Titel 3 Eigentum Besitz Nutzung, Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra, Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und"
 ---
 
-# Kompendium 13 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte bis Pralr Neu 009 Erster Teil Titel 6 Unerlaubte Handlungen Und Vers
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-neu-005-erster-teil-titel-2-sachen-und-rechte` | PrALR: Erster Teil Titel 2 Sachen und Rechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `pralr-neu-006-erster-teil-titel-3-eigentum-besitz-nutzung` | PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-neu-005-erster-teil-titel-2-sachen-und-rechte`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 2 Sachen und Rechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 2 Sachen und Rechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 005 Erster Teil Titel 2 Sachen Und Rechte
 
@@ -72,7 +72,7 @@ A verkauft B seine Forderung gegen C.
 
 ## 2. `pralr-neu-006-erster-teil-titel-3-eigentum-besitz-nutzung`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Erster Teil Titel 3 Eigentum Besitz Nutzung
 
@@ -144,7 +144,7 @@ Eigentum, Besitz und Nutzung sind ueber mehrere Titel verteilt: Sachen (I 2), Ei
 
 ## 3. `pralr-neu-007-erster-teil-titel-4-willenserklaerungen-und-vertra`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 4 Willenserklärungen und Verträge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 007 Erster Teil Titel 4 Willenserklaerungen Und Vertra
 
@@ -190,7 +190,7 @@ A unterschreibt aus Furcht vor Drohung mit Gewalt.
 
 ## 4. `pralr-neu-008-erster-teil-titel-5-vertraege-allgemein-form-und-a`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 5 Verträge allgemein Form und Auslegung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 008 Erster Teil Titel 5 Vertraege Allgemein Form Und A
 
@@ -240,7 +240,7 @@ Schriftlicher Mietzettel zwischen Hausbesitzer und Magd.
 
 ## 5. `pralr-neu-009-erster-teil-titel-6-unerlaubte-handlungen-und-vers`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Erster Teil Titel 6 Unerlaubte Handlungen und Versehen
 

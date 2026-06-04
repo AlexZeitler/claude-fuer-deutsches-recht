@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-erwerbsgeschaeft-die-bis-geschaeftsfaehigkeit
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113, formnichtigkeit-paragraphen-125-129, geschaeftsfaehigkeit-paragraphen-104-bis-106) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - bgb-at-pruefer
+# Arbeitsbereich - Erwerbsgeschaeft Dienst Arbeit Paragraphen 112 113, Formnichtigkeit Paragraphen 125 129, Geschaeftsfaehigkeit Paragraphen 104 Bis 106
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113` | Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung. |
 | `formnichtigkeit-paragraphen-125-129` | Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche und rechtsgeschäftliche Formvorschriften, vollständige oder teilweise Nichterfüllung, Teilnichtigkeit nach § 139 BGB, arglistige Berufung auf Formmangel und Heilungstatbestände. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erwerbsgeschaeft-dienst-arbeit-paragraphen-112-113`
 
-**Frühere Beschreibung:** Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung.
+**Fokus:** Klausurfall zur Ermächtigung Minderjähriger zu Erwerbsgeschäften nach §§ 112 und 113 BGB: Ermächtigung zum selbstständigen Betrieb eines Erwerbsgeschäfts oder zur Dienstleistung/Arbeit, Umfang der Geschäftsfähigkeit und gerichtliche Genehmigung.
 
 # Ermächtigung zu Erwerbsgeschäften — §§ 112 und 113 BGB
 
@@ -112,7 +112,7 @@ dem Schutz des Minderjährigen vor unüberschaubaren Verpflichtungen durch die E
 
 ## 2. `formnichtigkeit-paragraphen-125-129`
 
-**Frühere Beschreibung:** Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche und rechtsgeschäftliche Formvorschriften, vollständige oder teilweise Nichterfüllung, Teilnichtigkeit nach § 139 BGB, arglistige Berufung auf Formmangel und Heilungstatbestände.
+**Fokus:** Klausurfall zur Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche und rechtsgeschäftliche Formvorschriften, vollständige oder teilweise Nichterfüllung, Teilnichtigkeit nach § 139 BGB, arglistige Berufung auf Formmangel und Heilungstatbestände.
 
 # Formnichtigkeit — §§ 125 bis 129 BGB
 
@@ -197,7 +197,7 @@ zudem § 766 BGB (Heilung der Bürgschaft durch Erfüllung).
 
 ## 3. `geschaeftsfaehigkeit-paragraphen-104-bis-106`
 
-**Frühere Beschreibung:** Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB: Geschäftsunfähigkeit unter sieben Jahren und bei dauerhafter Bewusstseinsabwesenheit, beschränkte Geschäftsfähigkeit von sieben bis siebzehn Jahren und Abgrenzungsfragen.
+**Fokus:** Klausurfall zu Geschäftsfähigkeit nach §§ 104 bis 106 BGB: Geschäftsunfähigkeit unter sieben Jahren und bei dauerhafter Bewusstseinsabwesenheit, beschränkte Geschäftsfähigkeit von sieben bis siebzehn Jahren und Abgrenzungsfragen.
 
 # Geschäftsfähigkeit — §§ 104 bis 106 BGB
 

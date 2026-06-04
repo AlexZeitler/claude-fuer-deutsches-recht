@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-ins-027-gerichtsverf-bis-ins-015-sanktionen-w
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (ins-027-gerichtsverfahren, ins-015-sanktionen-wphg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - insiderrecht-compliance
+# Arbeitsbereich - Ins 027 Gerichtsverfahren, Ins 015 Sanktionen Wphg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-027-gerichtsverfahren` | Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen. |
 | `ins-015-sanktionen-wphg` | Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen fuer MAR-Verstaesse. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-027-gerichtsverfahren`
 
-**Frühere Beschreibung:** Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen.
+**Fokus:** Prueft Insiderinformations-Qualitaet laufender Gerichtsverfahren und Schiedsverfahren: Kursrelevanz, Ad-hoc-Pflicht und Verteidigungsinteressen.
 
 # Gerichtsverfahren und Schiedsverfahren – Insiderrecht
 
@@ -108,7 +108,7 @@ Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de,
 
 ## 2. `ins-015-sanktionen-wphg`
 
-**Frühere Beschreibung:** Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen fuer MAR-Verstaesse.
+**Fokus:** Analysiert zivilrechtliche (§§ 97–98 WpHG), bussgeldbewehrte (§ 120 WpHG) und strafrechtliche (§ 119 WpHG) Sanktionen fuer MAR-Verstaesse.
 
 # Sanktionen nach WpHG und MAR
 

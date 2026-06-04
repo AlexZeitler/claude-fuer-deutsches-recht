@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-btm-034-kokain-bewei-bis-btm-037-kokain-erlau
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (btm-034-kokain-beweis-sichern, btm-035-kokain-einlassung-planen, btm-036-kokain-therapiepfad-pruefen, btm-037-kokain-erlaubnis-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 034 Kokain Beweis Sichern, Btm 035 Kokain Einlassung Planen, Btm 036 Kokain Therapiepfad Pruefen, Btm 037 Kokain Erlaubnis Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 034 Kokain Beweis Sichern bis Btm 037 Kokain Erlaubnis Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-034-kokain-beweis-sichern` | Betäubungsmittelrecht: Kokain: Beweis sichern. Beweis sichern für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-035-kokain-einlassung-planen` | Betäubungsmittelrecht: Kokain: Einlassung planen. Einlassung planen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-034-kokain-beweis-sichern`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Beweis sichern. Beweis sichern für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Beweis sichern. Beweis sichern für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Beweis Sichern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-035-kokain-einlassung-planen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Einlassung planen. Einlassung planen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Einlassung planen. Einlassung planen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Einlassung Planen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-036-kokain-therapiepfad-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Therapiepfad prüfen. Therapiepfad prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Therapiepfad prüfen. Therapiepfad prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Therapiepfad Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-037-kokain-erlaubnis-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Kokain: Erlaubnis prüfen. Erlaubnis prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Kokain: Erlaubnis prüfen. Erlaubnis prüfen für Kokain im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kokain Erlaubnis Pruefen
 

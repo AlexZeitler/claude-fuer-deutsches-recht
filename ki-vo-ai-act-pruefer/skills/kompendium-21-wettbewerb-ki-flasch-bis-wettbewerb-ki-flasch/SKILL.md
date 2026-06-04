@@ -1,32 +1,32 @@
 ---
 name: kompendium-21-wettbewerb-ki-flasch-bis-wettbewerb-ki-flasch
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 21; bündelt 1 frühere Spezialskills (wettbewerb-ki-flaschenhaelse-big-tech) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill zu Wettbewerb Ki Flaschenhaelse Big Tech; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Wettbewerb Ki Flaschenhaelse Big Tech
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wettbewerb-ki-flaschenhaelse-big-tech` | KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wettbewerb-ki-flaschenhaelse-big-tech`
 
-**Frühere Beschreibung:** KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies.
+**Fokus:** KI und Wettbewerb: Daten-, Compute-, Modell-, Cloud-, Talent- und Vertriebskontrolle als Flaschenhaelse. Prueft Art. 101/102 AEUV, GWB, DMA-Schnittstellen, Zugang, Selbstbevorzugung, Exklusivitaet und kartellrechtliche Remedies.
 
 # KI-Flaschenhälse und Wettbewerb
 

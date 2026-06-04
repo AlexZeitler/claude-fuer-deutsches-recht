@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-notariat-018-grundsc-bis-notariat-020-elektro
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung, notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu, notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat 020 Elektronischer Rechtsverkehr Ben Xnotar Xjustiz Und; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - notariat-alltag
+# Arbeitsbereich - Notariat 018 Grundschuld Brief Oder Buchgrundschuld Unterwerfung, Notariat 019 Treuhand Und Notaranderkonto Strenge Ausnahmepruefu, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung` | Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen. |
 | `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu` | Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-018-grundschuld-brief-oder-buchgrundschuld-unterwerfung`
 
-**Frühere Beschreibung:** Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen.
+**Fokus:** Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Vollstreckungsunterwerfung und Sicherungszweck. Bestellung, Sicherungsabrede, sofortige Vollstreckungsunterwerfung nach § 794 ZPO und Bankauflagen.
 
 # Notariat im Alltag: Grundschuld – Brief- oder Buchgrundschuld, Unterwerfung, Sicherungszweck
 
@@ -114,7 +114,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-019-treuhand-und-notaranderkonto-strenge-ausnahmepruefu`
 
-**Frühere Beschreibung:** Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken.
+**Fokus:** Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung. Zulässigkeit des Notaranderkontos nach § 57a BeurkG und DONot, Verwahrungsanweisung, Auszahlungsvoraussetzungen und Haftungsrisiken.
 
 # Notariat im Alltag: Treuhand und Notaranderkonto – strenge Ausnahmeprüfung
 
@@ -208,7 +208,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-020-elektronischer-rechtsverkehr-ben-xnotar-xjustiz-und`
 
-**Frühere Beschreibung:** Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten.
+**Fokus:** Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz und Registerportal. Technische und rechtliche Anforderungen für elektronische Einreichungen beim Handelsregister, Grundbuchamt und den Gerichten.
 
 # Notariat im Alltag: Elektronischer Rechtsverkehr – beN, XNotar, XJustiz, Registerportal
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-akteneinsicht-kdv-bis-anerkennung-und-dien
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (akteneinsicht-kdv, aktenvernichtung-kdvg-12, aktive-soldaten-prioritaet, aktuelle-lage-2026, anerkennung-und-dienstfolgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akteneinsicht Kdv, Aktenvernichtung Kdvg 12, Aktive Soldaten Prioritaet, Aktuelle Lage 2026 und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Akteneinsicht Kdv bis Anerkennung Und Dienstfolgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akteneinsicht-kdv` | Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht. |
 | `aktenvernichtung-kdvg-12` | Erklärt Aufbewahrung und Löschung von KDV-Akten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akteneinsicht-kdv`
 
-**Frühere Beschreibung:** Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht.
+**Fokus:** Routet Akteneinsicht bei BAFzA, BAPersBw und Gericht.
 
 # Akteneinsicht KDV
 
@@ -85,7 +85,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 2. `aktenvernichtung-kdvg-12`
 
-**Frühere Beschreibung:** Erklärt Aufbewahrung und Löschung von KDV-Akten.
+**Fokus:** Erklärt Aufbewahrung und Löschung von KDV-Akten.
 
 # Aktenvernichtung § 12 KDVG
 
@@ -140,7 +140,7 @@ Keine vollständigen Personal-, Gesundheits- oder Gewissensakten in ungeprüfte 
 
 ## 3. `aktive-soldaten-prioritaet`
 
-**Frühere Beschreibung:** Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst.
+**Fokus:** Nutzt § 4 KDVG für vorrangige Entscheidung bei laufendem Dienst.
 
 # Vorrang aktive Soldaten
 
@@ -195,7 +195,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 4. `aktuelle-lage-2026`
 
-**Frühere Beschreibung:** Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen.
+**Fokus:** Prüft keine aktive Einberufung, fortbestehendes KDV-Recht und WDModG-Änderungen.
 
 # Aktuelle Lage 2026
 
@@ -250,7 +250,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 5. `anerkennung-und-dienstfolgen`
 
-**Frühere Beschreibung:** Ordnet Folgen der Anerkennung für Wehrpflichtige, Soldaten und Reservisten.
+**Fokus:** Ordnet Folgen der Anerkennung für Wehrpflichtige, Soldaten und Reservisten.
 
 # Anerkennung und Dienstfolgen
 

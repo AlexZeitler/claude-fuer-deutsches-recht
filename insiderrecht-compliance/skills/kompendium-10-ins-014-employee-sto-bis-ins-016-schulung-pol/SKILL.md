@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-ins-014-employee-sto-bis-ins-016-schulung-pol
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (ins-014-employee-stock-plan, ins-016-schulung-policy) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 014 Employee Stock Plan, Ins 016 Schulung Policy; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - insiderrecht-compliance
+# Arbeitsbereich - Ins 014 Employee Stock Plan, Ins 016 Schulung Policy
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-014-employee-stock-plan` | Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten. |
 | `ins-016-schulung-policy` | Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-014-employee-stock-plan`
 
-**Frühere Beschreibung:** Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten.
+**Fokus:** Prueft Mitarbeiteraktienprogramme (ESOP, LTIP, RSU) auf insiderrechtliche Risiken: Closed Periods, Handelsverbote, automatische Plaene und Befreiungsmoeglichkeiten.
 
 # Mitarbeiteraktienprogramme (ESOP / LTIP / RSU) – Insiderrechtliche Risiken
 
@@ -112,7 +112,7 @@ Belege ausschließlich mit: eur-lex.europa.eu, gesetze-im-internet.de, bafin.de,
 
 ## 2. `ins-016-schulung-policy`
 
-**Frühere Beschreibung:** Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen.
+**Fokus:** Entwirft und aktualisiert Insider-Compliance-Richtlinien, Schulungsprogramme und Nachweise fuer Emittenten aller Groessen.
 
 # Schulung und Compliance-Policy für Insiderrecht
 

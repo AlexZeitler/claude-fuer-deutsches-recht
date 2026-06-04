@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-mehrfachvertreter-bis-ndas-und-geschaeftsg
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (mehrfachvertreter, muster-provisionsabrechnung, nachfolge-agenturverkauf, ndas-und-geschaeftsgeheimnisse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mehrfachvertreter, Muster Provisionsabrechnung, Nachfolge Agenturverkauf, Ndas Und Geschaeftsgeheimnisse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - handelsvertreterrecht
+# Arbeitsbereich - Mehrfachvertreter bis Ndas Und Geschaeftsgeheimnisse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mehrfachvertreter` | Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB. |
 | `muster-provisionsabrechnung` | Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mehrfachvertreter`
 
-**Frühere Beschreibung:** Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB.
+**Fokus:** Analysiert die Rechtsstellung des Mehrfachvertreters nach § 86 Abs. 1 HGB: Interessenkollisionen bei gleichzeitiger Vertretung konkurrierender Unternehmer, Offenlegungspflichten, Wettbewerbsverbotsklauseln für Mehrfachvertreter, Auswirkungen auf Ausgleichsansprüche und Abgrenzung zum Einfirmenvertreter nach § 92b HGB.
 
 # Mehrfachvertreter nach § 86 HGB — Interessenkonflikte und Offenlegungspflichten
 
@@ -108,7 +108,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 2. `muster-provisionsabrechnung`
 
-**Frühere Beschreibung:** Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnungen.
+**Fokus:** Erstellt Musterprovisonionsabrechnungen für Handelsvertreter nach § 87c HGB: vollständige Abrechnung mit Nachweis vermittelter Geschäfte, Provisionsberechnung je Auftragsposition, Stornobuchungen mit Begründung sowie Prüfcheckliste für die Handelsvertreterseite zur Kontrolle erhaltener Abrechnungen.
 
 # Muster-Provisionsabrechnung nach § 87c HGB
 
@@ -187,7 +187,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 3. `nachfolge-agenturverkauf`
 
-**Frühere Beschreibung:** Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge.
+**Fokus:** Analysiert den Verkauf einer Handelsvertretungsagentur: Übertragung des Vertretervertrags mit Zustimmung des Unternehmers, Auswirkungen auf Ausgleichsanspruch nach § 89b Abs. 3 Nr. 3 HGB, Kaufpreisermittlung für den Kundenstamm, Wettbewerbsklauseln im Agenturverkauf und Regelungen zur Nachfolge.
 
 # Agenturverkauf und Nachfolge im Handelsvertreterrecht
 
@@ -266,7 +266,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 4. `ndas-und-geschaeftsgeheimnisse`
 
-**Frühere Beschreibung:** Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen.
+**Fokus:** Analysiert den Schutz von Geschäftsgeheimnissen und NDA-Vereinbarungen im Handelsvertretervertrag nach § 88 HGB und GeschGehG: Umfang der Geheimhaltungspflicht, Verhältnis von § 88 HGB und GeschGehG, Vertragliche NDA-Klauseln, Schadensersatz bei Verletzung und strafrechtliche Konsequenzen.
 
 # Geschäftsgeheimnisse und NDA im Handelsvertretervertrag nach § 88 HGB und GeschGehG
 

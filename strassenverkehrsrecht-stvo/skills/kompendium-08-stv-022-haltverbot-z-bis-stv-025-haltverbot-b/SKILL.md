@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-stv-022-haltverbot-z-bis-stv-025-haltverbot-b
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (stv-022-haltverbot-zeichen-auslegen, stv-023-haltverbot-anordnung-angreifen, stv-024-haltverbot-antrag-schreiben, stv-025-haltverbot-beweis-sichern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 022 Haltverbot Zeichen Auslegen, Stv 023 Haltverbot Anordnung Angreifen, Stv 024 Haltverbot Antrag Schreiben, Stv 025 Haltverbot Beweis Sichern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 022 Haltverbot Zeichen Auslegen bis Stv 025 Haltverbot Beweis Sichern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-022-haltverbot-zeichen-auslegen` | Straßenverkehrsrecht StVO: Haltverbot: Zeichen auslegen. Zeichen auslegen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-023-haltverbot-anordnung-angreifen` | Straßenverkehrsrecht StVO: Haltverbot: Anordnung angreifen. Anordnung angreifen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-022-haltverbot-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Zeichen auslegen. Zeichen auslegen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Zeichen auslegen. Zeichen auslegen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Zeichen Auslegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-023-haltverbot-anordnung-angreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Anordnung angreifen. Anordnung angreifen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Anordnung angreifen. Anordnung angreifen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Anordnung Angreifen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-024-haltverbot-antrag-schreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Antrag schreiben. Antrag schreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Antrag schreiben. Antrag schreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Antrag Schreiben
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-025-haltverbot-beweis-sichern`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Beweis sichern. Beweis sichern für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Beweis sichern. Beweis sichern für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Beweis Sichern
 

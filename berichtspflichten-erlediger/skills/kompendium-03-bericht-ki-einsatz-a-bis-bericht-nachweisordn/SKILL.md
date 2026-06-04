@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-bericht-ki-einsatz-a-bis-bericht-nachweisordn
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (bericht-ki-einsatz-ausfuellen-validieren, bericht-lohnsteuer-sozialversicherung-meldungen, bericht-nachweisordner-dokumentenmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Ki Einsatz Ausfuellen Validieren, Bericht Lohnsteuer Sozialversicherung Meldungen, Bericht Nachweisordner Dokumentenmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Ki Einsatz Ausfuellen Validieren, Bericht Lohnsteuer Sozialversicherung Meldungen, Bericht Nachweisordner Dokumentenmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-ki-einsatz-ausfuellen-validieren` | KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe. |
 | `bericht-lohnsteuer-sozialversicherung-meldungen` | Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-ki-einsatz-ausfuellen-validieren`
 
-**Frühere Beschreibung:** KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe.
+**Fokus:** KI-gestützte Berichtserstellung: Datenextraktion, Plausibilität, Red Flags, Freigabe und keine ungeprüfte Behördenabgabe.
 
 # KI zum Ausfüllen und Validieren nutzen
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-lohnsteuer-sozialversicherung-meldungen`
 
-**Frühere Beschreibung:** Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren.
+**Fokus:** Lohnsteueranmeldung, DEÜV-Meldungen, Beitragsnachweise, Sofortmeldungen und Jahresmeldungen koordinieren.
 
 # Lohnsteuer und Sozialversicherung melden
 
@@ -104,7 +104,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-nachweisordner-dokumentenmatrix`
 
-**Frühere Beschreibung:** Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung.
+**Fokus:** Dokumentenmatrix für Berichtspflichten: Datenquelle, Beleg, Berechnung, Freigabe, Abgabe, Versandnachweis und Aufbewahrung.
 
 # Nachweisordner und Dokumentenmatrix
 

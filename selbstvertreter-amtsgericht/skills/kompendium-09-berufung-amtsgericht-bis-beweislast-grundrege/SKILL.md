@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-berufung-amtsgericht-bis-beweislast-grundrege
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (berufung-amtsgericht-511-zpo, berufungs-zulassung-niedrig-streitwert, beweislast-grundregel-wer-was) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Berufung Amtsgericht 511 Zpo, Berufungs Zulassung Niedrig Streitwert, Beweislast Grundregel Wer Was
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufung-amtsgericht-511-zpo` | Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter. |
 | `berufungs-zulassung-niedrig-streitwert` | Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufung-amtsgericht-511-zpo`
 
-**Frühere Beschreibung:** Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter.
+**Fokus:** Berufung gegen Amtsgerichts-Urteil zum Landgericht nach § 511 ZPO. Wertgrenze 1.000 EUR seit 2026 (frueher 600 EUR). Berufungs-Frist 1 Monat Berufungsbegründungs-Frist 2 Monate Anwaltszwang vor LG. Hinweis ohne Anwalt geht es vor LG nicht weiter.
 
 # Berufung gegen AG-Urteil: Was geht und was nicht
 
@@ -200,7 +200,7 @@ Stand: 05/2026. § 511 II Nr. 1 ZPO aktuelle Fassung: Beschwer 1.000 EUR (Anhebu
 
 ## 2. `berufungs-zulassung-niedrig-streitwert`
 
-**Frühere Beschreibung:** Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht.
+**Fokus:** Zulassung der Berufung bei niedriger Beschwer § 511 IV ZPO. Wertgrenze seit 2026 1.000 EUR. Grundsaetzliche Bedeutung Fortbildung des Rechts Sicherung einheitlicher Rechtsprechung. Zulassung erfolgt ausschließlich durch das AG im Urteil eine eigene Zulassungs-Beschwerde gibt es nicht.
 
 # Berufungs-Zulassung bei Beschwer bis 1.000 EUR
 
@@ -328,7 +328,7 @@ Stand: 05/2026. § 511 ZPO mit Anhebung Beschwer auf 1.000 EUR seit 01.01.2026 (
 
 ## 3. `beweislast-grundregel-wer-was`
 
-**Frühere Beschreibung:** Grundregel der Beweislast im Zivilprozess. Wer eine Norm zu seinen Gunsten geltend macht muss ihre Voraussetzungen beweisen. Beweislast-Umkehr in Sondernormen Anscheinsbeweis Indizien-Beweis und sekundaere Darlegungslast.
+**Fokus:** Grundregel der Beweislast im Zivilprozess. Wer eine Norm zu seinen Gunsten geltend macht muss ihre Voraussetzungen beweisen. Beweislast-Umkehr in Sondernormen Anscheinsbeweis Indizien-Beweis und sekundaere Darlegungslast.
 
 # Wer beweist was? Die Beweislast im Zivilprozess
 

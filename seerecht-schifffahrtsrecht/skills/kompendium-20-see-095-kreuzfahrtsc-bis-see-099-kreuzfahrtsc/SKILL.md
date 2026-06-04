@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-see-095-kreuzfahrtsc-bis-see-099-kreuzfahrtsc
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (see-095-kreuzfahrtschiff-wrackpflicht-pruefen, see-096-kreuzfahrtschiff-versicherung-melden, see-097-kreuzfahrtschiff-local-counsel-instrui, see-098-kreuzfahrtschiff-closing-planen, see-099-kreuzfahrtschiff-klagepfad-waehlen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 095 Kreuzfahrtschiff Wrackpflicht Pruefen, See 096 Kreuzfahrtschiff Versicherung Melden, See 097 Kreuzfahrtschiff Local Counsel Instrui, See 098 Kreuzfahrtschiff Closing Planen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 095 Kreuzfahrtschiff Wrackpflicht Pruefen bis See 099 Kreuzfahrtschiff Klagepfad Waehlen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-095-kreuzfahrtschiff-wrackpflicht-pruefen` | Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. |
 | `see-096-kreuzfahrtschiff-versicherung-melden` | Kreuzfahrtschiff: Schadensereignis an Kreuzfahrtschiff oder grosses Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-095-kreuzfahrtschiff-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Kreuzfahrtschiff oder grosses Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Kreuzfahrtschiff – Wrackbeseitigungspflicht prüfen
 
@@ -122,7 +122,7 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 
 ## 2. `see-096-kreuzfahrtschiff-versicherung-melden`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Schadensereignis an Kreuzfahrtschiff oder grosses Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Kreuzfahrtschiff: Schadensereignis an Kreuzfahrtschiff oder grosses Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Kreuzfahrtschiff – Schadensfall bei Versicherung melden
 
@@ -213,7 +213,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 3. `see-097-kreuzfahrtschiff-local-counsel-instrui`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Kreuzfahrtschiff oder grosses Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Kreuzfahrtschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Kreuzfahrtschiff oder grosses Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Kreuzfahrtschiff – Local Counsel instruieren
 
@@ -304,7 +304,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 4. `see-098-kreuzfahrtschiff-closing-planen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Kreuzfahrtschiff: Closing eines Kreuzfahrtschiff oder grosses Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Kreuzfahrtschiff – Closing planen
 
@@ -397,7 +397,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 5. `see-099-kreuzfahrtschiff-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Kreuzfahrtschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Kreuzfahrtschiff oder grosses Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Kreuzfahrtschiff – Klagepfad wählen
 

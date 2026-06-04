@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-immissionsschutz-lae-bis-muendliche-verhandlu
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (immissionsschutz-laerm-bauleitplanung, mandat-erstgespraech-normenkontrolle, muendliche-verhandlung-vgh-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Immissionsschutz Laerm Bauleitplanung, Mandat Erstgespraech Normenkontrolle, Muendliche Verhandlung Vgh Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `immissionsschutz-laerm-bauleitplanung` | Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG). |
 | `mandat-erstgespraech-normenkontrolle` | Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklärung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `immissionsschutz-laerm-bauleitplanung`
 
-**Frühere Beschreibung:** Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG).
+**Fokus:** Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Prüfraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Prüfprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltprüfung (UVPG).
 
 # Immissionsschutz und Lärm in der Bauleitplanung
 
@@ -288,7 +288,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `mandat-erstgespraech-normenkontrolle`
 
-**Frühere Beschreibung:** Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklärung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo.
+**Fokus:** Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Prüfraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstprüfung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklärung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo.
 
 # Erstgespräch Normenkontroll-Mandat
 
@@ -459,7 +459,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `muendliche-verhandlung-vgh-strategie`
 
-**Frühere Beschreibung:** Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Prüfraster: Plaedoyer Einleitung Sachverhalt Rechtsausführungen Anträge schriftliche Beweisanträge Ortsbesichtigung Hilfsanträge Teilunwirksamkeit Wirkungsausspruch Kostenentscheidung. Revision § 132 VwGO nur grundsaetzliche Bedeutung. Output: Verhandlungsstruktur und Plaedoyer-Entwurf. Abgrenzung zu normenkontrollantrag-schriftsatz (Schriftsatz vor Verhandlung) und einstweilige-anordnung-47-abs-6-vwgo.
+**Fokus:** Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Prüfraster: Plaedoyer Einleitung Sachverhalt Rechtsausführungen Anträge schriftliche Beweisanträge Ortsbesichtigung Hilfsanträge Teilunwirksamkeit Wirkungsausspruch Kostenentscheidung. Revision § 132 VwGO nur grundsaetzliche Bedeutung. Output: Verhandlungsstruktur und Plaedoyer-Entwurf. Abgrenzung zu normenkontrollantrag-schriftsatz (Schriftsatz vor Verhandlung) und einstweilige-anordnung-47-abs-6-vwgo.
 
 # Mündliche Verhandlung BayVGH/OVG
 

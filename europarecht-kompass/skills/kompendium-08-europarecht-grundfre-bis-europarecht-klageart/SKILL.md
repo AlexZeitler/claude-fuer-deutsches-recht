@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-europarecht-grundfre-bis-europarecht-klageart
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (europarecht-grundfreiheiten-binnenmarkt, europarecht-grundrechte-charta, europarecht-klagearten-eugh) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - europarecht-kompass
+# Arbeitsbereich - Europarecht Grundfreiheiten Binnenmarkt, Europarecht Grundrechte Charta, Europarecht Klagearten Eugh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-grundfreiheiten-binnenmarkt` | Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben). |
 | `europarecht-grundrechte-charta` | EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-grundfreiheiten-binnenmarkt`
 
-**Frühere Beschreibung:** Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben).
+**Fokus:** Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben).
 
 # Grundfreiheiten und Binnenmarkt
 
@@ -135,7 +135,7 @@ Sachverhalt: [KURZBESCHREIBUNG]
 
 ## 2. `europarecht-grundrechte-charta`
 
-**Frühere Beschreibung:** EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz.
+**Fokus:** EU-Grundrechtecharta anwenden wenn EU-Recht vollzogen wird oder Mitgliedstaat im Anwendungsbereich des EU-Rechts handelt. Art. 51 GRC Anwendungsbereich Art. 6 EUV. Prüfraster: Anwendungsbereich Art. 51 GRC beruertes Recht Einschraenkung Art. 52 GRC Wesensgehalt Verhältnismäßigkeit. Output: GRC-Prüfschema Prüfmemo. Abgrenzung: nicht für EMRK oder nationales Grundgesetz.
 
 # EU-Grundrechte und Charta
 
@@ -247,7 +247,7 @@ Empfehlung: [Vorabentscheidung / Verfassungsbeschwerde / Klage EuGH]
 
 ## 3. `europarecht-klagearten-eugh`
 
-**Frühere Beschreibung:** Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung).
+**Fokus:** Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen prüfen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untätigkeitsklage Schadensersatz. Prüfraster: Klageart Klagebefugnis Fristen Zuständigkeit Zulässigkeit Begründung. Output: Klagearten-Prüfschema Zulässigkeitsanalyse. Abgrenzung: nicht für Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung).
 
 # EuGH-Klagearten und Rechtsschutz
 

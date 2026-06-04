@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-forsch-stundenaufzei-bis-fz-bemessungsgrundla
-description: "forschungszulage-antragstellung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (forsch-stundenaufzeichnung-leitfaden, fz-ablehnung-nachbesserung-einspruch, fz-bemessungsgrundlage-2026) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forschungszulage-antragstellung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - forschungszulage-antragstellung
+# Arbeitsbereich - Forsch Stundenaufzeichnung Leitfaden, Fz Ablehnung Nachbesserung Einspruch, Fz Bemessungsgrundlage 2026
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `forsch-stundenaufzeichnung-leitfaden` | Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschaeftigte, Auftragsforschung, Dokumentationspflichten. Pruefraster fuer Personalcontrolling. |
 | `fz-ablehnung-nachbesserung-einspruch` | Ablehnung oder Nachforderung bei Forschungszulage strukturiert bearbeiten: BSFZ-Rückfrage, negative Bescheinigung, BSFZ-Widerspruch, Finanzamt-Kürzung, Einspruch nach AO, neue Tatsachen, Beleg- und Textreparatur, Klage Finanzgericht als Ultima Ratio. Mit Fristenmatrix, Reparaturplan und Mustertexten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `forsch-stundenaufzeichnung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschaeftigte, Auftragsforschung, Dokumentationspflichten. Pruefraster fuer Personalcontrolling.
+**Fokus:** Leitfaden Stundenaufzeichnung FZulG: zuwendungsfaehige Personalkosten, eigene Beschaeftigte, Auftragsforschung, Dokumentationspflichten. Pruefraster fuer Personalcontrolling.
 
 # Forsch: Stundenaufzeichnung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt d
 
 ## 2. `fz-ablehnung-nachbesserung-einspruch`
 
-**Frühere Beschreibung:** Ablehnung oder Nachforderung bei Forschungszulage strukturiert bearbeiten: BSFZ-Rückfrage, negative Bescheinigung, BSFZ-Widerspruch, Finanzamt-Kürzung, Einspruch nach AO, neue Tatsachen, Beleg- und Textreparatur, Klage Finanzgericht als Ultima Ratio. Mit Fristenmatrix, Reparaturplan und Mustertexten.
+**Fokus:** Ablehnung oder Nachforderung bei Forschungszulage strukturiert bearbeiten: BSFZ-Rückfrage, negative Bescheinigung, BSFZ-Widerspruch, Finanzamt-Kürzung, Einspruch nach AO, neue Tatsachen, Beleg- und Textreparatur, Klage Finanzgericht als Ultima Ratio. Mit Fristenmatrix, Reparaturplan und Mustertexten.
 
 # Ablehnung, Nachbesserung, Einspruch
 
@@ -235,7 +235,7 @@ Mit freundlichen Grüßen [Verfasser]."
 
 ## 3. `fz-bemessungsgrundlage-2026`
 
-**Frühere Beschreibung:** Bemessungsgrundlage Forschungszulage ab 2026 belastbar berechnen: eigene FuE-Personalkosten, Eigenleistung 100 Euro je Stunde, Auftragsforschung 70 Prozent EU/EWR, AfA für Wirtschaftsgüter, 20-Prozent-Gemeinkostenpauschale, 12-Mio-Cap, KMU-Erhöhung. Mit Personalkostenformel, Stundenaufzeichnungsstruktur und Pitfalls zum Gesellschafter-Geschäftsführer.
+**Fokus:** Bemessungsgrundlage Forschungszulage ab 2026 belastbar berechnen: eigene FuE-Personalkosten, Eigenleistung 100 Euro je Stunde, Auftragsforschung 70 Prozent EU/EWR, AfA für Wirtschaftsgüter, 20-Prozent-Gemeinkostenpauschale, 12-Mio-Cap, KMU-Erhöhung. Mit Personalkostenformel, Stundenaufzeichnungsstruktur und Pitfalls zum Gesellschafter-Geschäftsführer.
 
 # Bemessungsgrundlage 2026
 

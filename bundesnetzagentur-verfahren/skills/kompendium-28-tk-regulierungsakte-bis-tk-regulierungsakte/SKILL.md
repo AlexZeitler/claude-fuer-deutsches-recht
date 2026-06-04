@@ -1,17 +1,17 @@
 ---
 name: kompendium-28-tk-regulierungsakte-bis-tk-regulierungsakte
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 28; bündelt 3 frühere Spezialskills (tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-3, tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-4, tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktmac) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktm 3, Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktm 4, Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktmac; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 28 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktm 3, Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktm 4, Tk Reguli
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-3` | TKG Marktregulierung beträchtliche Marktmacht: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
 | `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-4` | TKG Marktregulierung beträchtliche Marktmacht: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-3`
 
-**Frühere Beschreibung:** TKG Marktregulierung beträchtliche Marktmacht: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** TKG Marktregulierung beträchtliche Marktmacht: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Stellungnahme-Entwurf
 
@@ -68,7 +68,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-4`
 
-**Frühere Beschreibung:** TKG Marktregulierung beträchtliche Marktmacht: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** TKG Marktregulierung beträchtliche Marktmacht: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Unterlagenanforderung
 
@@ -108,7 +108,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktmac`
 
-**Frühere Beschreibung:** TKG Marktregulierung beträchtliche Marktmacht: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** TKG Marktregulierung beträchtliche Marktmacht: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Fristen- und Bescheidanalyse
 

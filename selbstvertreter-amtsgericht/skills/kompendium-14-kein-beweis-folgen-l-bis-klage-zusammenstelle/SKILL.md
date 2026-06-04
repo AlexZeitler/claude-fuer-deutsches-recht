@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-kein-beweis-folgen-l-bis-klage-zusammenstelle
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (kein-beweis-folgen-laienwarnung, klage-streitwert-angabe-3-zpo, klage-zusammenstellen-komplettes-bundle-amtsgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Kein Beweis Folgen Laienwarnung, Klage Streitwert Angabe 3 Zpo, Klage Zusammenstellen Komplettes Bundle Amtsgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kein-beweis-folgen-laienwarnung` | Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage. |
 | `klage-streitwert-angabe-3-zpo` | Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kein-beweis-folgen-laienwarnung`
 
-**Frühere Beschreibung:** Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage.
+**Fokus:** Warnung an Laien was passiert wenn ein Tatbestandsmerkmal nicht bewiesen werden kann. Beweislastniederlage Auswirkung auf das Urteil Gesamtkosten Strategien zur Reduktion des Beweis-Risikos vor Klage.
 
 # Was passiert, wenn Sie eine Tatsache **nicht** beweisen koennen?
 
@@ -178,7 +178,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 ## 2. `klage-streitwert-angabe-3-zpo`
 
-**Frühere Beschreibung:** Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt.
+**Fokus:** Berechnung und Angabe des Streitwerts in der Klage nach § 3 ZPO § 5 ZPO § 48 GKG. Geldforderung Herausgabe Feststellung Mietsache Sondervorschriften. Mit Beispielen und Hinweisen wann das Gericht den Streitwert nachtraeglich festsetzt.
 
 # Streitwert in der Klage angeben
 
@@ -316,7 +316,7 @@ Stand: 05/2026. § 3 ZPO und § 41 GKG unverändert. Wertgrenze § 23 Nr. 1 GVG:
 
 ## 3. `klage-zusammenstellen-komplettes-bundle-amtsgericht`
 
-**Frühere Beschreibung:** Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen.
+**Fokus:** Klage und Anlagen als komplettes Paket für das Amtsgericht. Reihenfolge Klageschrift Anlagenverzeichnis Anlagen K1 K2 K3. Heftung Bindung Abschriften. Was muss zum Gericht was bleibt bei Ihnen. Anwendbar auch für Klageerwiderung und Replik mit B-Anlagen.
 
 # Klage komplett zusammenstellen — Schritt fuer Schritt
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-aussenwirtschaft-baf-bis-aussenwirtschaft-kom
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (aussenwirtschaft-bafa-genehmigungen, aussenwirtschaft-cbam-co2-zoll, aussenwirtschaft-cbam-zertifikate-kosten, aussenwirtschaft-kommandocenter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Bafa Genehmigungen, Aussenwirtschaft Cbam Co2 Zoll, Aussenwirtschaft Cbam Zertifikate Kosten, Aussenwirtschaft Kommandocenter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Bafa Genehmigungen bis Aussenwirtschaft Kommandocenter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-bafa-genehmigungen` | BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation. |
 | `aussenwirtschaft-cbam-co2-zoll` | Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-bafa-genehmigungen`
 
-**Frühere Beschreibung:** BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation.
+**Fokus:** BAFA-Exportgenehmigungsverfahren fuer Dual-Use-Gueter und kontrollierte Technologien: Einzelgenehmigung, Sammelgenehmigung, Globalgenehmigung und Nullbescheid nach AWG/AWV und VO (EU) 2021/821. Steuerung des Antragsverfahrens ueber ELAN-K2, Bearbeitungsfristen, Nachfragen und Widerspruchsverfahren. Output: Antrags- und Widerspruchsdokumentation.
 
 # BAFA-Genehmigungsverfahren: Einzel- Sammel- und Globalgenehmigung
 
@@ -116,7 +116,7 @@ Antragspaket, Nachfragen-Antwortdokumentation, Genehmigungsauflagen-Checkliste, 
 
 ## 2. `aussenwirtschaft-cbam-co2-zoll`
 
-**Frühere Beschreibung:** Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung.
+**Fokus:** Carbon Border Adjustment Mechanism (CBAM): Berechnung der CO2-Abgabe auf Einfuhren kohlenstoffintensiver Waren nach VO (EU) 2023/956. Ab 2026 Pflicht zum Kauf von CBAM-Zertifikaten entsprechend eingebetteter Emissionen. Schnittpunkte mit TARIC und Zollwert. Output: CBAM-Kostenabschaetzung und Zertifikatskalkulation fuer Importplanung.
 
 # CBAM CO2-Zoll: Zertifikatspflicht und Kostenberechnung ab 2026
 
@@ -203,7 +203,7 @@ CBAM-Kostenkalkulation mit Emissionsschema und Zertifikatsanzahl, Zertifikatspre
 
 ## 3. `aussenwirtschaft-cbam-zertifikate-kosten`
 
-**Frühere Beschreibung:** Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Beschaffungsplan.
+**Fokus:** Kosten und Beschaffung von CBAM-Zertifikaten ab 2026: Berechnung der erforderlichen Zertifikatsanzahl, Kauf ueber nationales CBAM-Konto, Anrechnung auslaendischer CO2-Preise und Jahresabgabe. Risikomanagement bei schwankenden ETS-Preisen. Output: CBAM-Zertifikatsstrategie mit Kostenmodell und Beschaffungsplan.
 
 # CBAM-Zertifikate: Beschaffung, Kosten und Jahresabgabepflicht
 
@@ -290,7 +290,7 @@ CBAM-Zertifikatskostenmodell mit Szenarien, Beschaffungsplan, Anrechnungsnachwei
 
 ## 4. `aussenwirtschaft-kommandocenter`
 
-**Frühere Beschreibung:** Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan.
+**Fokus:** Steuerungsmodul fuer Mandanten mit mehreren parallelen Aussenwirtschafts-Sachverhalten: gleichzeitige Handhabung von Zoll-, Sanktions-, Exportkontroll- und AWV-Verfahren, Prioritaetensetzung, Ressourcenplanung und Eskalationsmanagement. Output: Sachverhalts-Priorisierungsmatrix und Koordinationsplan.
 
 # Kommandocenter Aussenwirtschaft: Mehrfach-Sachverhalts-Steuerung
 

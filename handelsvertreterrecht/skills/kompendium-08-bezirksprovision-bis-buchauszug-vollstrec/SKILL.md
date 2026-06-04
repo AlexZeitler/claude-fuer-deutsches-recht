@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bezirksprovision-bis-buchauszug-vollstrec
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (bezirksprovision, bezirksvertreter, bonus, buchauszug-vollstreckung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bezirksprovision, Bezirksvertreter, Bonus, Buchauszug Vollstreckung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - handelsvertreterrecht
+# Arbeitsbereich - Bezirksprovision bis Buchauszug Vollstreckung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bezirksprovision` | Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes. |
 | `bezirksvertreter` | Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bezirksprovision`
 
-**Frühere Beschreibung:** Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes.
+**Fokus:** Prüft den Anspruch auf Bezirksprovision nach § 87 Abs. 2 HGB: Voraussetzungen des Bezirksvertreterschutzes, Provisionspflicht bei Direktabschlüssen des Unternehmers im Bezirk, Abgrenzung von Stammkunden- und Neukunden-Provision sowie vertragliche Modifikation des Bezirksschutzes.
 
 # Bezirksprovision nach § 87 Abs. 2 HGB
 
@@ -108,7 +108,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 2. `bezirksvertreter`
 
-**Frühere Beschreibung:** Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags.
+**Fokus:** Prüft Rechte und Pflichten des Bezirksvertreters nach § 87 Abs. 2 HGB: Gebietsschutz, Provisionspflicht für alle Geschäfte im Bezirk unabhängig von der Mitwirkung, Abgrenzung des Gebiets, Beziehung zu Direktkunden und Key Accounts sowie Anforderungen an die Vertragsgestaltung des Bezirksvertretervertrags.
 
 # Bezirksvertreter nach § 87 Abs. 2 HGB — Gebietsschutz und Provisionsrechte
 
@@ -187,7 +187,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 3. `bonus`
 
-**Frühere Beschreibung:** Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB.
+**Fokus:** Prüft Bonuszahlungen und leistungsbezogene Vergütungsbestandteile im Handelsvertretervertrag: Abgrenzung von Provision und Bonus, Entstehung und Fälligkeit von Bonusansprüchen, Wirksamkeit von Zielvereinbarungen, AGB-Kontrolle von Klauseln sowie Einbeziehung von Boni in die Ausgleichsberechnung nach § 89b HGB.
 
 # Bonus und leistungsbezogene Vergütung im Handelsvertretervertrag
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 4. `buchauszug-vollstreckung`
 
-**Frühere Beschreibung:** Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer.
+**Fokus:** Unterstützt bei der Vollstreckung eines Buchauszugsanspruchs nach § 87c HGB: Vollstreckungsantrag nach § 888 ZPO (unvertretbare Handlung), Zwangsgeld und Zwangshaft, einstweilige Verfügung zur Sicherung des Auskunftsanspruchs sowie Schadensersatz bei Beweisvereitelung durch den Unternehmer.
 
 # Vollstreckung des Buchauszugsanspruchs nach § 87c HGB und § 888 ZPO
 

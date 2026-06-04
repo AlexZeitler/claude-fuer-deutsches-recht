@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-space-045-weltraumme-bis-space-084-haftungsbe
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (space-045-weltraummedizin-probandenrecht-ethik-und-haftung, space-054-haftung-fuer-herabfallende-raketenstufen, space-072-mars-sample-return-haftung-quarantaene-und-importrecht, space-084-haftungsbegrenzung-in-agb-fuer-space-as-a-service) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung, Space 054 Haftung Fuer Herabfallende Raketenstufen, Space 072 Mars Sample Return Haftung Quarantaene Und Importrecht, Space 084 Haftungsbegrenzung In Agb Fuer Space As A Service; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - weltraumrecht
+# Arbeitsbereich - Space 045 Weltraummedizin Probandenrecht Ethik Und Haftung bis Space 084 Haftungsbegrenzung In Agb Fuer Space As A Service
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-045-weltraummedizin-probandenrecht-ethik-und-haftung` | Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler. |
 | `space-054-haftung-fuer-herabfallende-raketenstufen` | Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-045-weltraummedizin-probandenrecht-ethik-und-haftung`
 
-**Frühere Beschreibung:** Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler.
+**Fokus:** Weltraummedizin-Recht – Probandeneinwilligung, Ethikkommission, Haftung für medizinische Fehler.
 
 # Weltraumrecht: Weltraummedizin: Probandenrecht, Ethik, Haftung
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Weltraummedizin, Probandenrecht, 
 
 ## 2. `space-054-haftung-fuer-herabfallende-raketenstufen`
 
-**Frühere Beschreibung:** Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast.
+**Fokus:** Schadensfälle durch Raketenstufen – LIAB Art. II, nationales Deliktsrecht, Beweislast.
 
 # Weltraumrecht: Haftung für herabfallende Raketenstufen
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Haftung Raketenstufe, LIAB Art. I
 
 ## 3. `space-072-mars-sample-return-haftung-quarantaene-und-importrecht`
 
-**Frühere Beschreibung:** Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung.
+**Fokus:** Mars Sample Return – Planetary Protection Kat. V, Importrecht, Quarantänerecht, Haftung.
 
 # Weltraumrecht: Mars Sample Return: Haftung, Quarantäne und Importrecht
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Mars Sample Return, Planetary Pro
 
 ## 4. `space-084-haftungsbegrenzung-in-agb-fuer-space-as-a-service`
 
-**Frühere Beschreibung:** Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B2B vs. B2C.
+**Fokus:** Space-as-a-Service-AGB – Haftungsbegrenzung, Inhaltskontrolle, B2B vs. B2C.
 
 # Weltraumrecht: Haftungsbegrenzung in AGB für Space-as-a-Service
 

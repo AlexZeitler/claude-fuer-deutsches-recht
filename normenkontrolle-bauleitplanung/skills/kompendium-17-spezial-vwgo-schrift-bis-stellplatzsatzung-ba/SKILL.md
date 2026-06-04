@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-spezial-vwgo-schrift-bis-stellplatzsatzung-ba
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (spezial-vwgo-schriftsatz-brief-und-memo-bausteine, statthaftigkeit-47-vwgo, stellplatzsatzung-bay-bauordnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Vwgo Schriftsatz Brief Und Memo Bausteine, Statthaftigkeit 47 Vwgo, Stellplatzsatzung Bay Bauordnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-vwgo-schriftsatz-brief-und-memo-bausteine` | VwGO: Schriftsatz-, Brief- und Memo-Bausteine im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `statthaftigkeit-47-vwgo` | Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nicht statthaft (Ausnahme Konzentrationsflaeche § 35 Abs. 3 S. 3 BauGB) Inkrafttreten Norm. Output: Statthaftigkeits-Entscheidung. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und jahresfrist-47-abs-2-vwgo (Frist). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-vwgo-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** VwGO: Schriftsatz-, Brief- und Memo-Bausteine im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** VwGO: Schriftsatz-, Brief- und Memo-Bausteine im Plugin normenkontrolle bauleitplanung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # VwGO: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `statthaftigkeit-47-vwgo`
 
-**Frühere Beschreibung:** Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nicht statthaft (Ausnahme Konzentrationsflaeche § 35 Abs. 3 S. 3 BauGB) Inkrafttreten Norm. Output: Statthaftigkeits-Entscheidung. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und jahresfrist-47-abs-2-vwgo (Frist).
+**Fokus:** Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Prüfraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan örtliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nicht statthaft (Ausnahme Konzentrationsflaeche § 35 Abs. 3 S. 3 BauGB) Inkrafttreten Norm. Output: Statthaftigkeits-Entscheidung. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und jahresfrist-47-abs-2-vwgo (Frist).
 
 # Statthaftigkeit § 47 VwGO
 
@@ -210,7 +210,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `stellplatzsatzung-bay-bauordnung`
 
-**Frühere Beschreibung:** Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Prüfraster: Reduzierung Stellplatzschluessel durch örtliche Bauvorschrift sachliche Rechtfertigung Mobilitaetskonzept Parkdruck-Verlagerung Stellplatzbilanz. Output: Stellplatzsatzungs-Prüfprotokoll und Angriffspunkt Normenkontrolle. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (Festsetzungen gesamt) und normenkontrollantrag-schriftsatz.
+**Fokus:** Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Prüfraster: Reduzierung Stellplatzschluessel durch örtliche Bauvorschrift sachliche Rechtfertigung Mobilitaetskonzept Parkdruck-Verlagerung Stellplatzbilanz. Output: Stellplatzsatzungs-Prüfprotokoll und Angriffspunkt Normenkontrolle. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (Festsetzungen gesamt) und normenkontrollantrag-schriftsatz.
 
 # Stellplatzsatzung — Art. 47 BayBO
 

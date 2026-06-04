@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-space-009-satelliten-bis-space-012-weltraumba
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche, space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision, space-011-starlink-oneweb-iris2-und-oeffentliche-beschaffung, space-012-weltraumbahnhof-deutschland-standortwahl-kueste-umwelt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche, Space 010 Satellitenschwarm Ueber Deutschland Frequenz Kollision, Space 011 Starlink Oneweb Iris2 Und Oeffentliche Beschaffung, Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - weltraumrecht
+# Arbeitsbereich - Space 009 Satellitenbetrieb Aus Deutschland Genehmigung Versiche bis Space 012 Weltraumbahnhof Deutschland Standortwahl Kueste Umwelt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche` | Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht. |
 | `space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision` | Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-009-satellitenbetrieb-aus-deutschland-genehmigung-versiche`
 
-**Frühere Beschreibung:** Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht.
+**Fokus:** Genehmigungsverfahren für Satellitenbetrieb aus Deutschland – zuständige Behörden, Versicherungspflichten, laufende Aufsicht.
 
 # Weltraumrecht: Satellitenbetrieb aus Deutschland: Genehmigung, Versicherung, Aufsicht
 
@@ -134,7 +134,7 @@ Dieser Skill bearbeitet **Satellitenbetrieb aus Deutschland: Genehmigung, Versic
 
 ## 2. `space-010-satellitenschwarm-ueber-deutschland-frequenz-kollision`
 
-**Frühere Beschreibung:** Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung.
+**Fokus:** Mega-Konstellationen (Starlink, OneWeb, IRIS²) über Deutschland – Frequenzinterferenz, Kollisionswarnung, Datenschutz, Lichtverschmutzung.
 
 # Weltraumrecht: Satellitenschwarm über Deutschland: Frequenz-, Kollisions- und Datenschutzrisiken
 
@@ -238,7 +238,7 @@ Dieser Skill bearbeitet **Satellitenschwarm über Deutschland: Frequenz-, Kollis
 
 ## 3. `space-011-starlink-oneweb-iris2-und-oeffentliche-beschaffung`
 
-**Frühere Beschreibung:** Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie.
+**Fokus:** Starlink, OneWeb, IRIS² – öffentliche Beschaffung, Sicherheitsanforderungen, Vergaberecht und strategische Autonomie.
 
 # Weltraumrecht: Starlink, OneWeb, IRIS² und öffentliche Beschaffung
 
@@ -343,7 +343,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Satelliteninternet-Dienste (LEO-K
 
 ## 4. `space-012-weltraumbahnhof-deutschland-standortwahl-kueste-umwelt`
 
-**Frühere Beschreibung:** Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung.
+**Fokus:** Weltraumbahnhof Deutschland – Standortrecht, Umweltverträglichkeit, Sicherheitsabstände, Planfeststellung.
 
 # Weltraumrecht: Weltraumbahnhof Deutschland: Standortwahl, Küste, Umwelt und Sicherheit
 

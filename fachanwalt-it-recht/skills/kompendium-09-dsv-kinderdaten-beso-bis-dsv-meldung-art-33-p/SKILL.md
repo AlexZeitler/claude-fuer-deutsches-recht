@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-dsv-kinderdaten-beso-bis-dsv-meldung-art-33-p
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (dsv-kinderdaten-besondere-schutzbeduerftigkeit, dsv-kommunikationssperre, dsv-lead-authority-konzern, dsv-lessons-learned-nachbereitung, dsv-meldung-art-33-pflichtangaben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Kinderdaten Besondere Schutzbeduerftigkeit, Dsv Kommunikationssperre, Dsv Lead Authority Konzern, Dsv Lessons Learned Nachbereitung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Kinderdaten Besondere Schutzbeduerftigkeit bis Dsv Meldung Art 33 Pflichtangaben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-kinderdaten-besondere-schutzbeduerftigkeit` | Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung. |
 | `dsv-kommunikationssperre` | Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-kinderdaten-besondere-schutzbeduerftigkeit`
 
-**Frühere Beschreibung:** Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung.
+**Fokus:** Bewertet einen Datenschutzvorfall mit Daten von Minderjährigen unter Berücksichtigung der besonderen Schutzbedürftigkeit nach Erwägungsgrund 38 DSGVO. Behandelt: Schulen; Kitas; Vereine; Jugendamt; Online-Dienste mit Altersbezug; Identitätsdiebstahl-Risiko; lebenslange Schadensdauer; Pflicht zur Information der Erziehungsberechtigten. Output: Memo mit Risikohochstufung und Empfehlung zur Benachrichtigung. Abgrenzung: keine konkrete Meldung; keine pädagogische Beratung.
 
 # Kinderdaten im Datenschutzvorfall — besondere Schutzbedürftigkeit
 
@@ -81,7 +81,7 @@ Schnittstellen: Schulaufsicht, Jugendamt, Kinder- und Jugendpsychiatrische Diens
 
 ## 2. `dsv-kommunikationssperre`
 
-**Frühere Beschreibung:** Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR.
+**Fokus:** Etabliert eine interne und externe Kommunikationssperre nach einem Datenschutzvorfall, um voreilige Aussagen, Beweismittelvernichtung und Sammelklagenrisiken zu vermeiden. Behandelt: Single-Point-of-Contact-Regelung; interne Sprachregelung; Holdingstatement; Kunden-Hotline; Pressekontakte; Mitarbeiterinformation; Betriebsrat-Beteiligung; Sozialmedien. Output: Kommunikationssperre-Memo und Sprachregelung. Abgrenzung: keine Pressemitteilung; keine Krisen-PR.
 
 # Kommunikationssperre nach Datenschutzvorfall
 
@@ -126,7 +126,7 @@ Wir prüfen derzeit einen Vorfall im Bereich [Bezeichnung]. Datenschutz und Sich
 
 ## 3. `dsv-lead-authority-konzern`
 
-**Frühere Beschreibung:** Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Meldung an Lead Authority versus parallele Meldung an betroffene Behörden. Output: Memo zur Behördenzuständigkeit mit Begründung. Abgrenzung: keine konkrete Meldung.
+**Fokus:** Bestimmt die federführende Aufsichtsbehörde bei grenzüberschreitender Verarbeitung im Konzern nach Art. 56 DSGVO. Behandelt: Hauptniederlassung; entscheidungsmächtige Stelle; Konzernstruktur; EDSA-Leitlinien zur Lead Authority; Kooperationsverfahren Art. 60 DSGVO; Konsistenzverfahren Art. 63; Meldung an Lead Authority versus parallele Meldung an betroffene Behörden. Output: Memo zur Behördenzuständigkeit mit Begründung. Abgrenzung: keine konkrete Meldung.
 
 # Federführende Aufsichtsbehörde im Konzern — Art. 56 DSGVO
 
@@ -178,7 +178,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `dsv-lessons-learned-nachbereitung`
 
-**Frühere Beschreibung:** Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung; Erfolgsmessung. Output: Workshop-Leitfaden und Maßnahmen-Tracker. Abgrenzung: keine VVT- oder DSFA-Pflege; keine Bußgeldverteidigung.
+**Fokus:** Strukturiert die Lessons-Learned-Nachbereitung eines Datenschutzvorfalls. Behandelt: Post-Mortem-Workshop; Ursachenanalyse Root Cause; Maßnahmenkatalog; Verantwortlichkeiten und Fristen; Update interner Richtlinien; Awareness-Schulung; Übung tabletop oder ernst; Kommunikation an Geschäftsleitung; Erfolgsmessung. Output: Workshop-Leitfaden und Maßnahmen-Tracker. Abgrenzung: keine VVT- oder DSFA-Pflege; keine Bußgeldverteidigung.
 
 # Lessons Learned und Nachbereitung Datenschutzvorfall
 
@@ -235,7 +235,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `dsv-meldung-art-33-pflichtangaben`
 
-**Frühere Beschreibung:** Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34.
+**Fokus:** Erstellt eine vollständige Meldung nach Art. 33 DSGVO an die zuständige Aufsichtsbehörde innerhalb der 72-Stunden-Frist. Behandelt: Pflichtangaben nach Art. 33 Abs. 3 lit. a-d DSGVO — Art der Verletzung; Kategorien und ungefähre Zahl der Betroffenen und Datensätze; Name und Kontakt des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene oder vorgeschlagene Abhilfemaßnahmen; Begründung Verspätung Art. 33 Abs. 1 Satz 2; Form schriftlich oder per Online-Formular; schrittweise Übermittlung Art. 33 Abs. 4. Output: Fließtext-Meldung in der Reihenfolge der Berliner Formularstruktur I bis VI. Abgrenzung: keine behörden-spezifischen Eingabewege; keine Benachrichtigung Art. 34.
 
 # Meldung nach Art. 33 DSGVO — Pflichtangaben generisch
 

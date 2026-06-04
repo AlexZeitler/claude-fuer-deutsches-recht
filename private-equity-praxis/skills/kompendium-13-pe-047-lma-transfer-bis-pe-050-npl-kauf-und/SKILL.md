@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-pe-047-lma-transfer-bis-pe-050-npl-kauf-und
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (pe-047-lma-transfer-assignment-novation, pe-048-schuldschein-darlehen-struktur, pe-049-schuldschein-transfer, pe-050-npl-kauf-und-krzwmg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 047 Lma Transfer Assignment Novation, Pe 048 Schuldschein Darlehen Struktur, Pe 049 Schuldschein Transfer, Pe 050 Npl Kauf Und Krzwmg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - private-equity-praxis
+# Arbeitsbereich - Pe 047 Lma Transfer Assignment Novation bis Pe 050 Npl Kauf Und Krzwmg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-047-lma-transfer-assignment-novation` | Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register. |
 | `pe-048-schuldschein-darlehen-struktur` | Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-047-lma-transfer-assignment-novation`
 
-**Frühere Beschreibung:** Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register.
+**Fokus:** Prüft Übertragung von Kreditanteilen in syndizierten Finanzierungen, Consent, Agent-Prozess, Borrower Notices und Register.
 
 # LMA-Transfer: Assignment, Novation, Transfer Certificate
 
@@ -70,7 +70,7 @@ BGB Abtretung §§ 398 ff., Vertragsübernahme/Novation, LMA-Upload, Sicherheite
 
 ## 2. `pe-048-schuldschein-darlehen-struktur`
 
-**Frühere Beschreibung:** Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit.
+**Fokus:** Erklärt Schuldschein, Zahlstelle/Arrangeur, Darlehensgeberregister, Tranchen, Covenants und Übertragbarkeit.
 
 # Schuldscheindarlehen: Struktur und Dokumente
 
@@ -111,7 +111,7 @@ BGB Darlehen, HGB/Bilanz, Schuldscheinbedingungen, Abtretung, Namensschuldversch
 
 ## 3. `pe-049-schuldschein-transfer`
 
-**Frühere Beschreibung:** Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik.
+**Fokus:** Prüft Abtretung, Vertragsübernahme, Zustimmung, Notice, Sicherheiten, Vertraulichkeit und Register-/Zahlstellenlogik.
 
 # Übertragung von Schuldscheindarlehen
 
@@ -152,7 +152,7 @@ BGB §§ 398 ff., § 399, Sicherheiten, Datenschutz, Bankgeheimnis, Vertragsklau
 
 ## 4. `pe-050-npl-kauf-und-krzwmg`
 
-**Frühere Beschreibung:** Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing.
+**Fokus:** Prüft Erwerb notleidender Kredite, Kreditkäufer, Kreditdienstleister, Informationspflichten, BaFin-Rollen und Servicing.
 
 # NPL-Kauf und Kreditzweitmarktgesetz
 

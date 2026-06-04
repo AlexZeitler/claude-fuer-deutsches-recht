@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-nkr-nachhaltigkeit-k-bis-nkr-one-in-one-out-b
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit, nkr-one-in-one-out-bilanz-und-buchung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Nachhaltigkeit Klimacheck Und Vereinbarkeit, Nkr One In One Out Bilanz Und Buchung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit` | Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten. |
 | `nkr-one-in-one-out-bilanz-und-buchung` | One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-nachhaltigkeit-klimacheck-und-vereinbarkeit`
 
-**Frühere Beschreibung:** Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten.
+**Fokus:** Spezialskill Nachhaltigkeitspruefung und Klimacheck. Beschreibt die Nachhaltigkeitspruefung der Bundesregierung im Sinne der Deutschen Nachhaltigkeitsstrategie und der SDG sowie den Klimacheck (CO2-Wirkung neuer Regelungen). Erlaeutert wo die NKR-Pruefung ansetzt und wo ressortinterne Nachhaltigkeitsstellen zustaendig sind. Mit Mustertexten.
 
 # NKR-Nachhaltigkeit, Klimacheck und Vereinbarkeit
 
@@ -140,7 +140,7 @@ Rueckfrage nur wenn unklar: *"Welcher Nachhaltigkeits-Aspekt steht im Vordergrun
 
 ## 2. `nkr-one-in-one-out-bilanz-und-buchung`
 
-**Frühere Beschreibung:** One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen.
+**Fokus:** One-in-one-out-Regel der Bundesregierung 2015 als Standardpruefelement. Erklaert die Bilanzierung jaehrlich laufender Buerokratie-Belastungen fuer die Wirtschaft die Entlastungs-Nachweispflicht den Saldo-Zaehler pro Ressort die Behandlung von EU-Umsetzung und Ausnahmen. Mit Pruefraster Mustertexten und typischen Falsch-Buchungen.
 
 # NKR-One-in-one-out — Bilanz und Buchung
 

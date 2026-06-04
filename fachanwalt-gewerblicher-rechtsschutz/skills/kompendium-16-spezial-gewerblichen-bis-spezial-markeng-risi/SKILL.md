@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-gewerblichen-bis-spezial-markeng-risi
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (spezial-gewerblichen-tatbestand-beweis-und-belege, spezial-markenanmeldung-compliance-dokumentation-und-akte, spezial-markeng-risikoampel-und-gegenargumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Gewerblichen Tatbestand Beweis Und Belege, Markenanmeldung Compliance Dokumentation Und Akte, Markeng Risikoampel Und Gegenargumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-gewerblichen-tatbestand-beweis-und-belege` | Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf. |
 | `spezial-markenanmeldung-compliance-dokumentation-und-akte` | Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-gewerblichen-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf.
+**Fokus:** Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz: Beweismittel für Marken-, Patent-, Design- und UWG-Verletzungen, Darlegungs- und Beweislastverteilung, Beweissicherungsklage, Vernichtungsanspruch, eidesstattliche Versicherung, Testkauf.
 
 # Tatbestand, Beweis und Belege im gewerblichen Rechtsschutz
 
@@ -142,7 +142,7 @@ Dieser Skill behandelt die Beweisführung bei gewerblichen Schutzrechtsverletzun
 
 ## 2. `spezial-markenanmeldung-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation.
+**Fokus:** Markenanmeldung: Compliance, Dokumentation und Aktenführung. Vor-Anmeldungs-Recherche, Klassifikation (Nizza), DPMA/EUIPO-Formulare, Anmeldeakte, Vollmachten, Fristen-Tracking, Benutzungsnachweis-Vorsorge, Markenpolitik-Dokumentation.
 
 # Markenanmeldung: Compliance, Dokumentation und Akte
 
@@ -259,7 +259,7 @@ Dieser Skill behandelt die Compliance-Anforderungen und Aktenführung bei Marken
 
 ## 3. `spezial-markeng-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix.
+**Fokus:** MarkenG: Risikoampel und Gegenargumente. Verwechslungsgefahr § 9 MarkenG, Erschöpfung § 24 MarkenG, Nichtbenutzungseinrede § 26, relative Schutzhindernisse, Gegenrechte bei Abmahnung, Verteidigungslinien und Prüfmatrix.
 
 # MarkenG: Risikoampel und Gegenargumente
 

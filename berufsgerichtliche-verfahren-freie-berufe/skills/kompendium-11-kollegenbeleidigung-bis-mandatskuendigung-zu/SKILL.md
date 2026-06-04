@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-kollegenbeleidigung-bis-mandatskuendigung-zu
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (kollegenbeleidigung-und-strafbarkeit-praevention, kollegenbeleidigung-und-strafbarkeit-verteidigung, mandatskuendigung-zur-unzeit-praevention, mandatskuendigung-zur-unzeit-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kollegenbeleidigung Und Strafbarkeit Praevention, Kollegenbeleidigung Und Strafbarkeit Verteidigung, Mandatskuendigung Zur Unzeit Praevention, Mandatskuendigung Zur Unzeit Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Kollegenbeleidigung Und Strafbarkeit Praevention bis Mandatskuendigung Zur Unzeit Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kollegenbeleidigung-und-strafbarkeit-praevention` | Kollegenbeleidigung und Strafbarkeit (Präventions- und Organisationspaket): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `kollegenbeleidigung-und-strafbarkeit-verteidigung` | Kollegenbeleidigung und Strafbarkeit (Verteidigungs- und Kammerantwort): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kollegenbeleidigung-und-strafbarkeit-praevention`
 
-**Frühere Beschreibung:** Kollegenbeleidigung und Strafbarkeit (Präventions- und Organisationspaket): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kollegenbeleidigung und Strafbarkeit (Präventions- und Organisationspaket): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kollegenbeleidigung und Strafbarkeit: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `kollegenbeleidigung-und-strafbarkeit-verteidigung`
 
-**Frühere Beschreibung:** Kollegenbeleidigung und Strafbarkeit (Verteidigungs- und Kammerantwort): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Kollegenbeleidigung und Strafbarkeit (Verteidigungs- und Kammerantwort): steuert Grenze zwischen harter Interessenvertretung, Beleidigung, übler Nachrede und Berufsrechtsverstoß mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Kollegenbeleidigung und Strafbarkeit: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `mandatskuendigung-zur-unzeit-praevention`
 
-**Frühere Beschreibung:** Mandatskündigung zur Unzeit (Präventions- und Organisationspaket): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Mandatskündigung zur Unzeit (Präventions- und Organisationspaket): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Mandatskündigung zur Unzeit: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `mandatskuendigung-zur-unzeit-verteidigung`
 
-**Frühere Beschreibung:** Mandatskündigung zur Unzeit (Verteidigungs- und Kammerantwort): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Mandatskündigung zur Unzeit (Verteidigungs- und Kammerantwort): steuert Mandatsniederlegung, Fristen, Gerichtstermin, Vorschuss, Vertrauensverlust und Haftungsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Mandatskündigung zur Unzeit: Verteidigungs- und Kammerantwort
 

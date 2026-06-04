@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-chn-039-toy-and-cons-bis-chn-042-patent-and-u
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (chn-039-toy-and-consumer-goods, chn-040-ip-strategy-before-china-entry, chn-041-trademark-china-first-to-file, chn-042-patent-and-utility-model-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 039 Toy And Consumer Goods, Chn 040 Ip Strategy Before China Entry, Chn 041 Trademark China First To File, Chn 042 Patent And Utility Model China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 039 Toy And Consumer Goods bis Chn 042 Patent And Utility Model China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-039-toy-and-consumer-goods` | Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung. |
 | `chn-040-ip-strategy-before-china-entry` | IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-039-toy-and-consumer-goods`
 
-**Frühere Beschreibung:** Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung.
+**Fokus:** Spielzeug und Konsumgüter aus China: EU-Spielzeugrichtlinie 2009/48/EG, GPSR 2023/988, Chemikalienanforderungen (REACH, RoHS), RAPEX-Meldepflichten, Produkthaftung ProdHaftG, CE-Selbsterklärung vs. Zertifizierung, Anti-Dumping Konsumgüter. Output: Import-Compliance-Checkliste Konsumgüter China und Muster-Konformitätserklärung.
 
 # Spielzeug und Konsumgüter China: CE/REACH/Produktsicherheit
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-040-ip-strategy-before-china-entry`
 
-**Frühere Beschreibung:** IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan.
+**Fokus:** IP-Strategie vor China-Markteintritt: Trademarks First-to-File CN, Patent-Portfolio-Analyse, Utility Model China, Trade-Secret-Schutz vor JV-Gründung, NNN-Agreement, Technology-Transfer-Risiken, CNIPA-Anmeldewege, Kosten-Nutzen-Analyse IP-Schutz VR China. Output: IP-Pre-Entry-Audit und Anmeldungsfahrplan.
 
 # IP-Strategie vor China-Eintritt: Marken/Patente/Geheimnisschutz
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-041-trademark-china-first-to-file`
 
-**Frühere Beschreibung:** Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan.
+**Fokus:** Markenschutz VR China First-to-File-System: Anmeldung bei CNIPA, Nizza-Klassen, Trademark-Squatting-Risiken und Abwehrstrategien (Bösgläubigkeitseinwand § 44 CN-Markengesetz), Widerspruchsverfahren, Löschungsklage, Parallelschutz HK/TW, Koexistenz-Probleme. Output: China-Markenstrategie-Analyse und Anmeldefahrplan.
 
 # Markenschutz VR China: First-to-File und Anti-Squatting
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-042-patent-and-utility-model-china`
 
-**Frühere Beschreibung:** Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan.
+**Fokus:** Patent- und Gebrauchsmusterschutz VR China: CNIPA-Anmeldeverfahren, PCT-Einreichung mit CN-Phase, Utility Model (Gebrauchsmuster) als Schnellschutz, Patentanfechtung, Zwangslizenzen CN (Art. 54 CN-PatG), Patentverletzungsklage CN-Gerichte, Verhältnis CNIPA/EPO. Output: Patentportfolio-Strategie China und Anmeldungsplan.
 
 # Patente und Gebrauchsmuster China: CNIPA-Strategie und Schutz
 

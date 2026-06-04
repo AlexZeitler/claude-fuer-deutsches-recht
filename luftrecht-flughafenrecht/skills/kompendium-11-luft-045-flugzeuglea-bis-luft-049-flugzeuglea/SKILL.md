@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-luft-045-flugzeuglea-bis-luft-049-flugzeuglea
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (luft-045-flugzeugleasing-genehmigung-pruefen, luft-046-flugzeugleasing-sicherheitsauflage-bew, luft-047-flugzeugleasing-insolvenzrisiko-markie, luft-048-flugzeugleasing-local-counsel-briefen, luft-049-flugzeugleasing-dashboard-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 045 Flugzeugleasing Genehmigung Pruefen, Luft 046 Flugzeugleasing Sicherheitsauflage Bew, Luft 047 Flugzeugleasing Insolvenzrisiko Markie, Luft 048 Flugzeugleasing Local Counsel Briefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 045 Flugzeugleasing Genehmigung Pruefen bis Luft 049 Flugzeugleasing Dashboard Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-045-flugzeugleasing-genehmigung-pruefen` | Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk. |
 | `luft-046-flugzeugleasing-sicherheitsauflage-bew` | Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-045-flugzeugleasing-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk.
+**Fokus:** Genehmigungsstand fuer geleastes Flugzeug pruefen: AOC Betriebsgenehmigung Wet-Lease-Genehmigung EU-VO 1008/2008 Art. 13 und LuftVG § 21a. Skill prueft welche Genehmigungen fuer Wet-Lease Dry-Lease und Sub-Lease benoetigt werden und liefert Genehmigungsstatus-Vermerk.
 
 # Flugzeugleasing – Genehmigung prüfen
 
@@ -124,7 +124,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 2. `luft-046-flugzeugleasing-sicherheitsauflage-bew`
 
-**Frühere Beschreibung:** Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste.
+**Fokus:** Geleaste Flugzeuge unterliegen Sicherheitsauflagen die Leasinggeber oder Leasingnehmer betreffen. Prueft EASA Part-OPS LuftSiG § 9 Airline-Sicherheitsprogramm Cape-Town-Abgrenzung Wartungspflichten und liefert Sicherungslasten-Zuordnung und Compliance-Checkliste.
 
 # Flugzeugleasing – Sicherheitsauflage bewerten
 
@@ -218,7 +218,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 3. `luft-047-flugzeugleasing-insolvenzrisiko-markie`
 
-**Frühere Beschreibung:** Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber.
+**Fokus:** Leasinggeber oder Leasingnehmer zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 47 103 108 Leasingvertrag in Insolvenz Cape-Town-Convention Art. XI Aircraft Protocol Alternative A und IDERA und liefert Risikoampel-Bewertung und Gegenstrategien fuer Leasinggeber.
 
 # Flugzeugleasing – Insolvenzrisiko markieren
 
@@ -312,7 +312,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 4. `luft-048-flugzeugleasing-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flugzeugleasing-Mandat briefen: Cape-Town-Eintrag IDERA Insolvenz Wet-Lease-Genehmigung. Skill erstellt englisches Briefing-Memo mit deutschem Leasingrecht Cape-Town-Status und konkreten Fragen an Local Counsel.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flugzeugleasing-Mandat briefen: Cape-Town-Eintrag IDERA Insolvenz Wet-Lease-Genehmigung. Skill erstellt englisches Briefing-Memo mit deutschem Leasingrecht Cape-Town-Status und konkreten Fragen an Local Counsel.
 
 # Flugzeugleasing – Local Counsel briefen
 
@@ -406,7 +406,7 @@ Für Mandate im Bereich Flugzeug-Leasing und Cape Town Convention sind folgende 
 
 ## 5. `luft-049-flugzeugleasing-dashboard-bauen`
 
-**Frühere Beschreibung:** Leasinggesellschaft braucht Dashboard fuer Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template.
+**Fokus:** Leasinggesellschaft braucht Dashboard fuer Flugzeugflotte: Cape-Town-Registrierungsstatus IDERA-Status Leasingnehmer-Solvenz LuftVG-Rollenstatus Wartungsintervalle. Skill strukturiert Datenquellen ICAO-Register LBA LuftFzgG und liefert befuellbares Flotten-Dashboard-Template.
 
 # Flugzeugleasing – Dashboard bauen
 

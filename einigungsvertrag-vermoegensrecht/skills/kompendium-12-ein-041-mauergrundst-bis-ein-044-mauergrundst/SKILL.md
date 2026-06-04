@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-ein-041-mauergrundst-bis-ein-044-mauergrundst
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (ein-041-mauergrundstueck-anspruchspfad-pruefen, ein-042-mauergrundstueck-akte-anfordern, ein-043-mauergrundstueck-chronologie-bauen, ein-044-mauergrundstueck-berechtigte-ermitteln) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 041 Mauergrundstueck Anspruchspfad Pruefen, Ein 042 Mauergrundstueck Akte Anfordern, Ein 043 Mauergrundstueck Chronologie Bauen, Ein 044 Mauergrundstueck Berechtigte Ermitteln; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 041 Mauergrundstueck Anspruchspfad Pruefen bis Ein 044 Mauergrundstueck Berechtigte Ermitteln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-041-mauergrundstueck-anspruchspfad-pruefen` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen. Anspruchspfad prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-042-mauergrundstueck-akte-anfordern` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern. Akte anfordern für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-041-mauergrundstueck-anspruchspfad-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen. Anspruchspfad prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Anspruchspfad prüfen. Anspruchspfad prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Anspruchspfad Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-042-mauergrundstueck-akte-anfordern`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern. Akte anfordern für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Akte anfordern. Akte anfordern für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Akte Anfordern
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-043-mauergrundstueck-chronologie-bauen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Chronologie bauen. Chronologie bauen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Chronologie bauen. Chronologie bauen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Chronologie Bauen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-044-mauergrundstueck-berechtigte-ermitteln`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Berechtigte ermitteln. Berechtigte ermitteln für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Berechtigte ermitteln. Berechtigte ermitteln für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Berechtigte Ermitteln
 

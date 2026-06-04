@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-handelsvertreter-und-bis-influencer-social-me
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (handelsvertreter-und-showroom, influencer-social-media-kampagne) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsvertreter Und Showroom, Influencer Social Media Kampagne; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fashion-law-moderecht
+# Arbeitsbereich - Handelsvertreter Und Showroom, Influencer Social Media Kampagne
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsvertreter-und-showroom` | Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory. |
 | `influencer-social-media-kampagne` | Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsvertreter-und-showroom`
 
-**Frühere Beschreibung:** Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory.
+**Fokus:** Handelsvertreter, Agent, Distributor und Showroom unterscheiden: Provision, Kundenstamm, Ausgleich, Exklusivität, Musterkollektion und Territory.
 
 # Handelsvertreter Und Showroom
 
@@ -59,7 +59,7 @@ Partner-Modell-Matrix.
 
 ## 2. `influencer-social-media-kampagne`
 
-**Frühere Beschreibung:** Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion.
+**Fokus:** Influencer-, Creator- und Social-Media-Kampagnen prüfen: Kennzeichnung, Nutzungsrechte, Exklusivität, Briefing, Bildrechte, Plattformregeln und Krisenreaktion.
 
 # Influencer Social Media Kampagne
 

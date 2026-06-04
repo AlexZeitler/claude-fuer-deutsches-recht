@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-tier-035-katzenkolon-bis-tier-039-katzenkolon
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (tier-035-katzenkolonie-strafrisiko-bewerten, tier-037-katzenkolonie-kosten-klaeren, tier-038-katzenkolonie-halterpflichten-erklaere, tier-039-katzenkolonie-eilantrag-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 035 Katzenkolonie Strafrisiko Bewerten, Tier 037 Katzenkolonie Kosten Klaeren, Tier 038 Katzenkolonie Halterpflichten Erklaere, Tier 039 Katzenkolonie Eilantrag Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - tierschutzrecht
+# Arbeitsbereich - Tier 035 Katzenkolonie Strafrisiko Bewerten bis Tier 039 Katzenkolonie Eilantrag Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-035-katzenkolonie-strafrisiko-bewerten` | Tierschutzrecht: Katzenkolonie: Strafrisiko bewerten. Strafrisiko bewerten für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-037-katzenkolonie-kosten-klaeren` | Tierschutzrecht: Katzenkolonie: Kosten klären. Kosten klären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-035-katzenkolonie-strafrisiko-bewerten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Katzenkolonie: Strafrisiko bewerten. Strafrisiko bewerten für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Katzenkolonie: Strafrisiko bewerten. Strafrisiko bewerten für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Katzenkolonie Strafrisiko Bewerten
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-037-katzenkolonie-kosten-klaeren`
 
-**Frühere Beschreibung:** Tierschutzrecht: Katzenkolonie: Kosten klären. Kosten klären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Katzenkolonie: Kosten klären. Kosten klären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Katzenkolonie Kosten Klaeren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-038-katzenkolonie-halterpflichten-erklaere`
 
-**Frühere Beschreibung:** Tierschutzrecht: Katzenkolonie: Halterpflichten erklären. Halterpflichten erklären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Katzenkolonie: Halterpflichten erklären. Halterpflichten erklären für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Katzenkolonie Halterpflichten Erklaere
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-039-katzenkolonie-eilantrag-bauen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Katzenkolonie: Eilantrag bauen. Eilantrag bauen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Katzenkolonie: Eilantrag bauen. Eilantrag bauen für Katzenkolonie im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Katzenkolonie Eilantrag Bauen
 

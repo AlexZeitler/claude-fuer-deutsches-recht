@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-spezial-anfechtungs-bis-spezial-eilrechtssch
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (spezial-anfechtungs-risikoampel-und-gegenargumente, spezial-eilrechtsschutz-80-abs-5-vwgo, spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Anfechtungs Risikoampel Und Gegenargumente, Eilrechtsschutz 80 Abs 5 Vwgo, Eilrechtsschutz Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-anfechtungs-risikoampel-und-gegenargumente` | Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-eilrechtsschutz-80-abs-5-vwgo` | Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-anfechtungs-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anfechtungs: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-eilrechtsschutz-80-abs-5-vwgo`
 
-**Frühere Beschreibung:** Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Eilrechtsschutz nach § 80 Abs. 5 VwGO: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Eilrechtsschutz nach § 80 Abs. 5 VwGO
 
@@ -108,7 +108,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-eilrechtsschutz-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt verwaltungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Eilrechtsschutz: Schriftsatz-, Brief- und Memo-Bausteine
 

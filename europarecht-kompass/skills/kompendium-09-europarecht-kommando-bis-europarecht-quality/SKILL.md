@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-europarecht-kommando-bis-europarecht-quality
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (europarecht-kommandocenter, europarecht-mandantenmemo, europarecht-quality-gate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europarecht Kommandocenter, Europarecht Mandantenmemo, Europarecht Quality Gate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - europarecht-kompass
+# Arbeitsbereich - Europarecht Kommandocenter, Europarecht Mandantenmemo, Europarecht Quality Gate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europarecht-kommandocenter` | Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills. |
 | `europarecht-mandantenmemo` | Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europarecht-kommandocenter`
 
-**Frühere Beschreibung:** Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills.
+**Fokus:** Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills.
 
 # Europarecht-Kommandocenter
 
@@ -117,7 +117,7 @@ Datum: [DATUM] — Mandant: [NAME]
 
 ## 2. `europarecht-mandantenmemo`
 
-**Frühere Beschreibung:** Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze.
+**Fokus:** Mandantenmemo zu EU-Rechtsfragen verstaendlich und praxisorientiert verfassen. AEUV EUV EU-Sekundaerrecht Grundfreiheiten. Prüfraster: Sachverhaltszusammenfassung Rechtslage Handlungsoptionen Risiken Empfehlung Mandantensprache. Output: strukturiertes Mandantenmemo. Abgrenzung: nicht für interne Vermerke oder Schriftsaetze.
 
 # Mandantenmemo und Executive Briefing
 
@@ -209,7 +209,7 @@ V. NAECHSTE SCHRITTE
 
 ## 3. `europarecht-quality-gate`
 
-**Frühere Beschreibung:** EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills.
+**Fokus:** EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken prüfen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Prüfraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformität fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate für alle Europarechts-Skills.
 
 # Europarecht-Qualitätstor
 

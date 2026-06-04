@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-pralr-neu-027-normka-bis-pralr-neu-031-normka
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (pralr-neu-027-normkarte-altrecht-in-heutiger-akte, pralr-neu-028-normkarte-aufopferung-einleitung-74-75-vertieft, pralr-neu-029-normkarte-nachbarrecht-heutiger-fortwirkungscheck, pralr-neu-030-normkarte-polizeirecht-ohne-anachronismus, pralr-neu-031-normkarte-zitat-mit-link-zum-digitalisat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Neu 027 Normkarte Altrecht In Heutiger Akte, Pralr Neu 028 Normkarte Aufopferung Einleitung 74 75 Vertieft, Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck, Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitä"
 ---
 
-# Kompendium 17 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Neu 027 Normkarte Altrecht In Heutiger Akte bis Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-neu-027-normkarte-altrecht-in-heutiger-akte` | PrALR: Normkarte Altrecht in heutiger Akte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `pralr-neu-028-normkarte-aufopferung-einleitung-74-75-vertieft` | PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-neu-027-normkarte-altrecht-in-heutiger-akte`
 
-**Frühere Beschreibung:** PrALR: Normkarte Altrecht in heutiger Akte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normkarte Altrecht in heutiger Akte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 027 Normkarte Altrecht In Heutiger Akte
 
@@ -80,7 +80,7 @@ Wie taucht ALR-Altrecht in heutigen Akten auf? Praxisleitfaden.
 
 ## 2. `pralr-neu-028-normkarte-aufopferung-einleitung-74-75-vertieft`
 
-**Frühere Beschreibung:** PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Normkarte Aufopferung Einleitung 74 75 vertieft
 
@@ -154,7 +154,7 @@ Diese beiden Paragraphen sind die rechtsgeschichtliche und systematische Grundla
 
 ## 3. `pralr-neu-029-normkarte-nachbarrecht-heutiger-fortwirkungscheck`
 
-**Frühere Beschreibung:** PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normkarte Nachbarrecht heutiger Fortwirkungscheck mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 029 Normkarte Nachbarrecht Heutiger Fortwirkungscheck
 
@@ -200,7 +200,7 @@ ALR-Nachbarrecht und heutiger Fortwirkungscheck.
 
 ## 4. `pralr-neu-030-normkarte-polizeirecht-ohne-anachronismus`
 
-**Frühere Beschreibung:** PrALR: Normkarte Polizeirecht ohne Anachronismus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normkarte Polizeirecht ohne Anachronismus mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 030 Normkarte Polizeirecht Ohne Anachronismus
 
@@ -245,7 +245,7 @@ ALR-Polizeirecht ohne Anachronismus — historische Lektuere statt moderne Proje
 
 ## 5. `pralr-neu-031-normkarte-zitat-mit-link-zum-digitalisat`
 
-**Frühere Beschreibung:** PrALR: Normkarte Zitat mit Link zum Digitalisat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normkarte Zitat mit Link zum Digitalisat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 031 Normkarte Zitat Mit Link Zum Digitalisat
 

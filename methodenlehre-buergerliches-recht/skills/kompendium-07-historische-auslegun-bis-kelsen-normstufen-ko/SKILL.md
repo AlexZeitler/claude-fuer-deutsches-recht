@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-historische-auslegun-bis-kelsen-normstufen-ko
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (historische-auslegung, historischer-normzweck-erster-schritt, institutionelle-folgen-und-regelbindung, interessenjurisprudenz-heck, kelsen-normstufen-kompetenz-bgb-methode) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Historische Auslegung, Historischer Normzweck Erster Schritt, Institutionelle Folgen Und Regelbindung, Interessenjurisprudenz Heck und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Historische Auslegung bis Kelsen Normstufen Kompetenz Bgb Methode
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `historische-auslegung` | Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de. |
 | `historischer-normzweck-erster-schritt` | Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `historische-auslegung`
 
-**Frühere Beschreibung:** Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de.
+**Fokus:** Historische Auslegung im deutschen Zivilrecht. Subjektive Theorie (Wille des historischen Gesetzgebers) vs. objektive Theorie (Wille des Gesetzes selbst). Arbeit mit Gesetzesmaterialien: Bundestags-Drucksachen, Ausschussberichte, Stellungnahmen, Begruendungen. Beispiele aus der Schuldrechtsmodernisierung 2002 und neueren Reformen. Wann ist Historie stark, wann schwach? Konkretes Pruefraster und Quellen-Workflow ueber dipbt.bundestag.de.
 
 # Historische Auslegung
 
@@ -138,7 +138,7 @@ Stand: Mai 2026. BT-Drucksachen vor Verwendung in Schriftsaetzen immer im Origin
 
 ## 2. `historischer-normzweck-erster-schritt`
 
-**Frühere Beschreibung:** Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben.
+**Fokus:** Leitet durch die historische Auslegung als notwendigen ersten Schritt der Norminterpretation im Zivilrecht. Das Skill vermittelt, wie der historische Normzweck durch Auswertung von Gesetzgebungsmaterialien, Entstehungsgeschichte und zeitgenössischem Rechtszustand korrekt ermittelt wird und welchen methodischen Stellenwert diese Erkenntnisse gegenüber anderen Auslegungsmaßstäben haben.
 
 # Historischer Normzweck: Methodik als erster Auslegungsschritt
 
@@ -227,7 +227,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `institutionelle-folgen-und-regelbindung`
 
-**Frühere Beschreibung:** Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken.
+**Fokus:** Analysiert die institutionellen Folgen von Rechtsanwendungsentscheidungen und die Forderung nach Regelbindung statt Einzelfallgerechtigkeit. Das Skill zeigt, wann Regelbindung als methodisches Gebot institutionell notwendig ist und wann Einzelfallgerechtigkeit überwiegt. Es hilft, in Gutachten und Schriftsätzen die institutionellen Konsequenzen verschiedener Auslegungsoptionen durchzudenken.
 
 # Institutionelle Folgen und Regelbindung in der Rechtsanwendung
 
@@ -317,7 +317,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `interessenjurisprudenz-heck`
 
-**Frühere Beschreibung:** Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist.
+**Fokus:** Interessenjurisprudenz nach Philipp Heck. Gegenbewegung zur Begriffsjurisprudenz im fruehen 20. Jahrhundert. Hauptwerk Heck, Begriffsbildung und Interessenjurisprudenz 1932. Gesetz als Interessenkonflikt-Loesung. Methodische Folgen: ratio legis als Interessenabwaegung. Vorlaeufer der Wertungsjurisprudenz. Kritik. Anwendung im BGB: Schadensrecht, Vertragsrecht, Generalklauseln. Wo Hecks Methode bis heute traegt und wo sie durch Wertungsjurisprudenz verfeinert ist.
 
 # Interessenjurisprudenz nach Philipp Heck
 
@@ -425,7 +425,7 @@ Stand: Mai 2026.
 
 ## 5. `kelsen-normstufen-kompetenz-bgb-methode`
 
-**Frühere Beschreibung:** Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung.
+**Fokus:** Diszipliniert zivilrechtliche Argumentation durch Quellenklarheit, Normhierarchie, Kompetenz und Trennung von Geltung und Bewertung.
 
 # Kelsen in der Methodenlehre: Normstufen, Kompetenz und BGB-Falllösung
 

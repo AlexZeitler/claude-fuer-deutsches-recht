@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-billing-to-xrechnung-bis-budget-overrun-escal
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (billing-to-xrechnung, blockbilling-detector, board-reporting, budget-baseline-und-phasen, budget-overrun-escalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Billing To Xrechnung, Blockbilling Detector, Board Reporting, Budget Baseline Und Phasen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Billing To Xrechnung bis Budget Overrun Escalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `billing-to-xrechnung` | Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `blockbilling-detector` | Blockbilling Detector: steuert zu grobe Stundenblöcke, doppelte Arbeit, Reisezeit und interne Abstimmungen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `billing-to-xrechnung`
 
-**Frühere Beschreibung:** Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Billing to XRechnung: steuert Kanzleirechnung in E-Rechnung/XRechnung, Kostenstellen und Prüfworkflow überführen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Billing to XRechnung
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `blockbilling-detector`
 
-**Frühere Beschreibung:** Blockbilling Detector: steuert zu grobe Stundenblöcke, doppelte Arbeit, Reisezeit und interne Abstimmungen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Blockbilling Detector: steuert zu grobe Stundenblöcke, doppelte Arbeit, Reisezeit und interne Abstimmungen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Blockbilling Detector
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `board-reporting`
 
-**Frühere Beschreibung:** Board Reporting: steuert Vorstand/Aufsichtsrat-Gremium bekommt knappe, belastbare Lage: Risiko, Kosten, Entscheidung, nächste Frist zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Board Reporting: steuert Vorstand/Aufsichtsrat-Gremium bekommt knappe, belastbare Lage: Risiko, Kosten, Entscheidung, nächste Frist zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Board Reporting
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `budget-baseline-und-phasen`
 
-**Frühere Beschreibung:** Budget Baseline und Phasenplan: steuert Budget nach Phasen, Annahmen, Exclusions, Triggern und Reforecast-Regeln aufsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Budget Baseline und Phasenplan: steuert Budget nach Phasen, Annahmen, Exclusions, Triggern und Reforecast-Regeln aufsetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Budget Baseline und Phasenplan
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `budget-overrun-escalation`
 
-**Frühere Beschreibung:** Budget Overrun Escalation: steuert Budgetüberschreitung erklären, genehmigen, nachsteuern oder stoppen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Budget Overrun Escalation: steuert Budgetüberschreitung erklären, genehmigen, nachsteuern oder stoppen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Budget Overrun Escalation
 

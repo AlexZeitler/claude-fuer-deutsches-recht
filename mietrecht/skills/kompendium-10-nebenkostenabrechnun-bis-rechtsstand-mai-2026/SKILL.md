@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-nebenkostenabrechnun-bis-rechtsstand-mai-2026
-description: "mietrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (nebenkostenabrechnung-erstellen, nebenkostenabrechnung-pruefen, rechtsstand-mai-2026-faktenbank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mietrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Pruefen, Rechtsstand Mai 2026 Faktenbank; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - mietrecht
+# Arbeitsbereich - Nebenkostenabrechnung Erstellen, Nebenkostenabrechnung Pruefen, Rechtsstand Mai 2026 Faktenbank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nebenkostenabrechnung-erstellen` | Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate. |
 | `nebenkostenabrechnung-pruefen` | Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nebenkostenabrechnung-erstellen`
 
-**Frühere Beschreibung:** Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate.
+**Fokus:** Betriebskostenabrechnung erstellen aus Vermieter- und Hausverwaltungssicht: Umlagevereinbarung, BetrKV-Kostenarten, HeizkostenV, CO2KostAufG, Abrechnungsfrist, Vorauszahlungen, Belegpaket, Zugangsnachweis und Versand-Qualitygate.
 
 # Betriebskostenabrechnung erstellen
 
@@ -148,7 +148,7 @@ Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, 
 
 ## 2. `nebenkostenabrechnung-pruefen`
 
-**Frühere Beschreibung:** Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht.
+**Fokus:** Betriebskostenabrechnung prüfen aus Mietersicht: formelle Mindestangaben, Frist, Umlagefähigkeit, Belegeinsicht, Zahlungsbelege, HeizkostenV, CO2KostAufG, Rechenkontrolle, Einwendungen und temporäres Zurückbehaltungsrecht.
 
 # Betriebskostenabrechnung prüfen
 
@@ -264,7 +264,7 @@ Normen live auf gesetze-im-internet.de prüfen. Rechtsprechung nur mit Gericht, 
 
 ## 3. `rechtsstand-mai-2026-faktenbank`
 
-**Frühere Beschreibung:** Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen.
+**Fokus:** Faktenbank und Quellen-Gate für aktuelle mietrechtliche und WEG-rechtliche Aussagen mit Stand 29.05.2026. Nutze diesen Skill vor Ausgaben zu Mietpreisbremse, Mieterhöhung, Betriebskosten, Kündigung, Kaution, Steckersolargeräten, virtueller Eigentümerversammlung, WEG-Beschlussklage und baulichen Veränderungen.
 
 # Rechtsstand Mai 2026 — Faktenbank Mietrecht und WEG
 

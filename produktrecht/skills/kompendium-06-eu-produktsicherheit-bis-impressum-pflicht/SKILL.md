@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-eu-produktsicherheit-bis-impressum-pflicht
-description: "produktrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (eu-produktsicherheitsverordnung-gpsr, feature-risikobewertung, impressum-pflicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - produktrecht
+# Arbeitsbereich - Eu Produktsicherheitsverordnung Gpsr, Feature Risikobewertung, Impressum Pflicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eu-produktsicherheitsverordnung-gpsr` | EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten fuer Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway. |
 | `feature-risikobewertung` | Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich wenn der Launch-Review etwas gefunden hat das mehr als eine Tabellenzeile braucht. Strukturierte Analyse: was könnte schiefgehen, wie wahrscheinlich, wie schlimm, was mildert es. Verwenden wenn der Nutzer sagt "tiefer Einblick in dieses Risiko", "Risikobewertung für [Feature]", "was könnte schiefgehen mit", oder wenn launch-prüfung eine neuartige Frage flaggt. Besonders einschlägig bei: UWG-Verstoßrisiken, DSGVO-Verletzung, DSA-Pflichten, KI-VO-Anforderungen, Verbraucherschutz nach BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eu-produktsicherheitsverordnung-gpsr`
 
-**Frühere Beschreibung:** EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten fuer Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway.
+**Fokus:** EU-Produktsicherheitsverordnung GPSR (VO (EU) 2023/988) in der Praxis: Geltung seit 13.12.2024, Pflichten fuer Hersteller, Importeure, Haendler und Online-Marktplaetze, Rueckverfolgbarkeit, Unfallmeldungen und Safety Business Gateway.
 
 # GPSR in der Praxis
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 2. `feature-risikobewertung`
 
-**Frühere Beschreibung:** Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich wenn der Launch-Review etwas gefunden hat das mehr als eine Tabellenzeile braucht. Strukturierte Analyse: was könnte schiefgehen, wie wahrscheinlich, wie schlimm, was mildert es. Verwenden wenn der Nutzer sagt "tiefer Einblick in dieses Risiko", "Risikobewertung für [Feature]", "was könnte schiefgehen mit", oder wenn launch-prüfung eine neuartige Frage flaggt. Besonders einschlägig bei: UWG-Verstoßrisiken, DSGVO-Verletzung, DSA-Pflichten, KI-VO-Anforderungen, Verbraucherschutz nach BGB.
+**Fokus:** Tiefgehende Risikobewertung für ein einzelnes Feature oder einen Produktbereich wenn der Launch-Review etwas gefunden hat das mehr als eine Tabellenzeile braucht. Strukturierte Analyse: was könnte schiefgehen, wie wahrscheinlich, wie schlimm, was mildert es. Verwenden wenn der Nutzer sagt "tiefer Einblick in dieses Risiko", "Risikobewertung für [Feature]", "was könnte schiefgehen mit", oder wenn launch-prüfung eine neuartige Frage flaggt. Besonders einschlägig bei: UWG-Verstoßrisiken, DSGVO-Verletzung, DSA-Pflichten, KI-VO-Anforderungen, Verbraucherschutz nach BGB.
 
 # Feature-Risikobewertung
 
@@ -309,7 +309,7 @@ Aktion   : Zeile entfernt
 
 ## 3. `impressum-pflicht`
 
-**Frühere Beschreibung:** Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach §§ 5 und 6 DDG und § 18 MStV, erstellt konforme Impressumstexte und identifiziert typische Abmahnrisiken nach UWG. Lädt bei Fragen zu Anbieterkennzeichnung, Impressum-Vollständigkeit und Bußgeldrisiken.
+**Fokus:** Prüft die Impressumspflicht für Websites, Apps und Social-Media-Profile nach §§ 5 und 6 DDG und § 18 MStV, erstellt konforme Impressumstexte und identifiziert typische Abmahnrisiken nach UWG. Lädt bei Fragen zu Anbieterkennzeichnung, Impressum-Vollständigkeit und Bußgeldrisiken.
 
 # Impressumspflicht (§§ 5, 6 DDG, § 18 MStV)
 

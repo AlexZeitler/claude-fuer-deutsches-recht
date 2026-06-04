@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-memo-sachverhalt-fix-bis-memo-zu-grenzuebersc
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (memo-sachverhalt-fixieren, memo-vier-teile-aufbau, memo-zu-grenzueberschreitenden-faellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Sachverhalt Fixieren, Memo Vier Teile Aufbau, Memo Zu Grenzueberschreitenden Faellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - memorandums-ersteller
+# Arbeitsbereich - Memo Sachverhalt Fixieren, Memo Vier Teile Aufbau, Memo Zu Grenzueberschreitenden Faellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-sachverhalt-fixieren` | Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, fuer die Belege im Mandantendokument noch fehlen. |
 | `memo-vier-teile-aufbau` | Vier-Teile-Memo aufbauen: 1) Sachverhalt, 2) Rechtsfrage(n), 3) Pruefung mit Subsumtion, 4) Ergebnis und Handlungsempfehlung. Jede Sektion mit Mindestumfang und Pflicht-Inhalten. Beispiel-Geruest fuer Mandanten-Memo und fuer kanzleiinternes Junior-Senior-Memo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-sachverhalt-fixieren`
 
-**Frühere Beschreibung:** Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, fuer die Belege im Mandantendokument noch fehlen.
+**Fokus:** Sachverhalt sauber fixieren: zeitliche, raeumliche, personelle Ordnung, Unterscheidung 'unstreitig' / 'streitig' / 'unklar' / 'Annahme'. Vermeidet juristisches Wertvokabular im Sachverhalt. Markiert Tatsachen, fuer die Belege im Mandantendokument noch fehlen.
 
 # Memo: Sachverhalt fixieren
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-vier-teile-aufbau`
 
-**Frühere Beschreibung:** Vier-Teile-Memo aufbauen: 1) Sachverhalt, 2) Rechtsfrage(n), 3) Pruefung mit Subsumtion, 4) Ergebnis und Handlungsempfehlung. Jede Sektion mit Mindestumfang und Pflicht-Inhalten. Beispiel-Geruest fuer Mandanten-Memo und fuer kanzleiinternes Junior-Senior-Memo.
+**Fokus:** Vier-Teile-Memo aufbauen: 1) Sachverhalt, 2) Rechtsfrage(n), 3) Pruefung mit Subsumtion, 4) Ergebnis und Handlungsempfehlung. Jede Sektion mit Mindestumfang und Pflicht-Inhalten. Beispiel-Geruest fuer Mandanten-Memo und fuer kanzleiinternes Junior-Senior-Memo.
 
 # Memo: Vier-Teile-Aufbau
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memo-zu-grenzueberschreitenden-faellen`
 
-**Frühere Beschreibung:** Memo zu grenzueberschreitenden Faellen: anwendbares Recht (Rom I / Rom II), zustaendiges Gericht (Brueessel Ia, EuGVVO), Anerkennung und Vollstreckung im Ausland. Output: kurzes IPR/IZPR-Memo mit Empfehlung zum Gerichtsstand und Vollstreckungsplan.
+**Fokus:** Memo zu grenzueberschreitenden Faellen: anwendbares Recht (Rom I / Rom II), zustaendiges Gericht (Brueessel Ia, EuGVVO), Anerkennung und Vollstreckung im Ausland. Output: kurzes IPR/IZPR-Memo mit Empfehlung zum Gerichtsstand und Vollstreckungsplan.
 
 # Grenzueberschreitender-Fall-Memo
 

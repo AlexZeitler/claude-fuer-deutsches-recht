@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-tradition-do-bis-subsumtionslehre
-description: "jurastudium: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-tradition-dokumentenmatrix-und-lueckenliste, spezial-zivilrecht-schriftsatz-brief-und-memo-bausteine, subsumtionslehre) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tradition Dokumentenmatrix Und Lueckenliste, Zivilrecht Schriftsatz Brief Und Memo Bausteine, Subsumtionslehre; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - jurastudium
+# Arbeitsbereich - Tradition Dokumentenmatrix Und Lueckenliste, Zivilrecht Schriftsatz Brief Und Memo Bausteine, Subsumtionslehre
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-tradition-dokumentenmatrix-und-lueckenliste` | Tradition: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zivilrecht-schriftsatz-brief-und-memo-bausteine` | Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-tradition-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Tradition: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Tradition: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Tradition: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-zivilrecht-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine im Plugin jurastudium; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zivilrecht: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `subsumtionslehre`
 
-**Frühere Beschreibung:** Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer "Subsumtion üben", "subsumiere mit mir", "Tatbestandsmerkmal prüfen", "Obersatz-Definition-Subsumtion" oder "warum springe ich im Gutachten" sagt.
+**Fokus:** Übt die Subsumtion als Königsdisziplin der deutschen Klausur — Trennung Obersatz/Definition/Subsumtion/Ergebnis, Tatbestandsmerkmal für Tatbestandsmerkmal, mit Pushback bei Subsumtionssprüngen, vorweggenommener Würdigung und vermischtem Stil. Lädt, wenn der Nutzer "Subsumtion üben", "subsumiere mit mir", "Tatbestandsmerkmal prüfen", "Obersatz-Definition-Subsumtion" oder "warum springe ich im Gutachten" sagt.
 
 # Subsumtionslehre
 

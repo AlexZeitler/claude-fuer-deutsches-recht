@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-spezial-sanktionen-d-bis-aml-kryptotransaktio
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (spezial-sanktionen-dokumentenmatrix-und-lueckenliste, geldwaesche-gruppenweite-compliance, aml-kryptotransaktionen-mica-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sanktionen Dokumentenmatrix Und Lueckenliste, Geldwaesche Gruppenweite Compliance, Aml Kryptotransaktionen Mica Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Sanktionen Dokumentenmatrix Und Lueckenliste, Geldwaesche Gruppenweite Compliance, Aml Kryptotransaktionen Mica Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-sanktionen-dokumentenmatrix-und-lueckenliste` | Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `geldwaesche-gruppenweite-compliance` | Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Verfahren. Prüfraster Policies Auslagerung Dienstleister auslaendische Tochtergesellschaften Datenfluesse Kontrollberichte. Output Gruppenweite Compliance-Matrix mit Policies Kontrollstruktur Eskalationswegen und Berichterstattungslinien. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-sanktionen-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sanktionen: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `geldwaesche-gruppenweite-compliance`
 
-**Frühere Beschreibung:** Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Verfahren. Prüfraster Policies Auslagerung Dienstleister auslaendische Tochtergesellschaften Datenfluesse Kontrollberichte. Output Gruppenweite Compliance-Matrix mit Policies Kontrollstruktur Eskalationswegen und Berichterstattungslinien. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
+**Fokus:** Gruppenweite AML/KYC-Policies und Steuerung von Tochtergesellschaften und Dienstleistern. Anwendungsfall Muttergesellschaft will gruppenweite AML-Compliance sicherstellen und Tochtergesellschaften einbinden. Normen § 9 GwG Gruppenweite Pflichten § 25n KWG Auslagerung Art. 45 AMLD Gruppenweite Verfahren. Prüfraster Policies Auslagerung Dienstleister auslaendische Tochtergesellschaften Datenfluesse Kontrollberichte. Output Gruppenweite Compliance-Matrix mit Policies Kontrollstruktur Eskalationswegen und Berichterstattungslinien. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp und geldwäsche-audit-internal-revision.
 
 # Gruppenweite Compliance und Outsourcing
 
@@ -138,7 +138,7 @@ Dieser Skill hilft internationalen Gruppen, AML/KYC nicht nur lokal, sondern ste
 
 ## 3. `aml-kryptotransaktionen-mica-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten. Pruefraster fuer CASP.
+**Fokus:** Spezialfall Kryptotransaktionen und MiCA / Travel Rule: Identifizierung Kryptowallets, Reisedatenuebermittlung, schwellenfreie Pflichten. Pruefraster fuer CASP.
 
 # AML: Krypto Travel Rule
 

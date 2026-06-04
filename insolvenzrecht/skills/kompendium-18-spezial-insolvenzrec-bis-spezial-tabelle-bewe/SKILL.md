@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-insolvenzrec-bis-spezial-tabelle-bewe
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (spezial-insolvenzrechtliche-erstpruefung-und-mandatsziel, spezial-livecheck-compliance-dokumentation-und-akte, spezial-mandat-red-team-und-qualitaetskontrolle, spezial-tabelle-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insolvenzrechtliche Erstpruefung Und Mandatsziel, Livecheck Compliance Dokumentation Und Akte, Mandat Red Team Und Qualitaetskontrolle, Tabelle Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - insolvenzrecht
+# Arbeitsbereich - Insolvenzrechtliche Erstpruefung Und Mandatsziel bis Tabelle Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-insolvenzrechtliche-erstpruefung-und-mandatsziel` | Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-livecheck-compliance-dokumentation-und-akte` | Livecheck: Compliance-Dokumentation und Aktenvermerk im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-insolvenzrechtliche-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Insolvenzrechtliche: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -88,7 +88,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-livecheck-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Livecheck: Compliance-Dokumentation und Aktenvermerk im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Livecheck: Compliance-Dokumentation und Aktenvermerk im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Livecheck: Compliance-Dokumentation und Aktenvermerk
 
@@ -138,7 +138,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mandat-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Mandat: Red-Team und Qualitätskontrolle im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mandat: Red-Team und Qualitätskontrolle im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mandat: Red-Team und Qualitätskontrolle
 
@@ -188,7 +188,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-tabelle-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Tabelle: Beweislast, Darlegungslast und Substantiierung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Tabelle: Beweislast, Darlegungslast und Substantiierung im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Tabelle: Beweislast, Darlegungslast und Substantiierung
 

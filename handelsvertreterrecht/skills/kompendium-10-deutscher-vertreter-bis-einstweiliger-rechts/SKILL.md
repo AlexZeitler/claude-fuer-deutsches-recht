@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-deutscher-vertreter-bis-einstweiliger-rechts
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (deutscher-vertreter-ausland, ecommerce-marketplace, einstandspflicht-delcredere, einstweiliger-rechtsschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Deutscher Vertreter Ausland, Ecommerce Marketplace, Einstandspflicht Delcredere, Einstweiliger Rechtsschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - handelsvertreterrecht
+# Arbeitsbereich - Deutscher Vertreter Ausland bis Einstweiliger Rechtsschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `deutscher-vertreter-ausland` | Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer. |
 | `ecommerce-marketplace` | Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `deutscher-vertreter-ausland`
 
-**Frühere Beschreibung:** Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer.
+**Fokus:** Unterstützt deutsche Handelsvertreter, die für ausländische Unternehmer tätig sind: anwendbares Recht nach Rom-I-VO, Schutz durch § 92c HGB und RL 86/653/EWG auch bei ausländischer Rechtswahl, Gerichtsstand in Deutschland und Durchsetzung von Ausgleichsansprüchen gegen ausländische Unternehmer.
 
 # Deutscher Handelsvertreter für ausländischen Unternehmer — Rechtsschutz und Gerichtsstand
 
@@ -108,7 +108,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 2. `ecommerce-marketplace`
 
-**Frühere Beschreibung:** Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB.
+**Fokus:** Analysiert Provisionsansprüche und Ausgleich bei E-Commerce- und Marketplace-Vertrieb: Einordnung von Plattformvermittlern als Handelsvertreter oder Makler, Provision bei Online-Abschlüssen durch Dritte, Bezirksschutz im digitalen Vertrieb und Auswirkungen von Marktplatzbeziehungen auf Ausgleichsansprüche nach § 89b HGB.
 
 # E-Commerce und Marketplace-Vertrieb im Handelsvertreterrecht nach §§ 84 und 87 HGB
 
@@ -187,7 +187,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 3. `einstandspflicht-delcredere`
 
-**Frühere Beschreibung:** Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung.
+**Fokus:** Prüft die Delkredere-Haftung des Handelsvertreters nach § 86b HGB: Voraussetzungen einer wirksamen Delkrederehaftung, gesonderte Vergütung (Delkredereprovision), Haftungsumfang und -begrenzung, Formvorschriften sowie Abgrenzung von bloßer Inkassovollmacht und echter Ausfallhaftung.
 
 # Delkredere-Haftung des Handelsvertreters nach § 86b HGB
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89 und 89a HGB).
 
 ## 4. `einstweiliger-rechtsschutz`
 
-**Frühere Beschreibung:** Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen.
+**Fokus:** Unterstützt bei einstweiligem Rechtsschutz in Handelsvertreterstreitigkeiten: einstweilige Verfügungen auf Unterlassung von Wettbewerb, Herausgabe von Unterlagen, Sicherung von Provisionsansprüchen sowie Arrest nach §§ 916 ff. ZPO; Verfügungsanspruch und Verfügungsgrund als Voraussetzungen.
 
 # Einstweiliger Rechtsschutz in Handelsvertreterstreitigkeiten nach §§ 916 ff. ZPO
 

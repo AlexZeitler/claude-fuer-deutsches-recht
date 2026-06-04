@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-bho-190-globaler-min-bis-bho-200-verpflichtun
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 19; bündelt 11 frühere Spezialskills (bho-190-globaler-minderausgabe-szenario-rechne, bho-191-globaler-minderausgabe-dashboard-bauen, bho-192-globaler-minderausgabe-risiko-markiere, bho-193-globaler-minderausgabe-brh-frage-formu, bho-194-globaler-minderausgabe-parlamentsfrage und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 190 Globaler Minderausgabe Szenario Rechne, Bho 191 Globaler Minderausgabe Dashboard Bauen, Bho 192 Globaler Minderausgabe Risiko Markiere, Bho 193 Globaler Minderausgabe Brh Frage Formu und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 190 Globaler Minderausgabe Szenario Rechne bis Bho 200 Verpflichtungsermaechtigung Szenario R
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-190-globaler-minderausgabe-szenario-rechne` | Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Szenario rechnen. Szenario rechnen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-191-globaler-minderausgabe-dashboard-bauen` | Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Dashboard bauen. Dashboard bauen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-190-globaler-minderausgabe-szenario-rechne`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Szenario rechnen. Szenario rechnen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Szenario rechnen. Szenario rechnen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Szenario Rechne
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-191-globaler-minderausgabe-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Dashboard bauen. Dashboard bauen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Dashboard bauen. Dashboard bauen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Dashboard Bauen
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-192-globaler-minderausgabe-risiko-markiere`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Risiko markieren. Risiko markieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Risiko markieren. Risiko markieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Risiko Markiere
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-193-globaler-minderausgabe-brh-frage-formu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: BRH-Frage formulieren. BRH-Frage formulieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: BRH-Frage formulieren. BRH-Frage formulieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Brh Frage Formu
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-194-globaler-minderausgabe-parlamentsfrage`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Parlamentsfrage
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-195-globaler-minderausgabe-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Vollzug tracken. Vollzug tracken für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Vollzug tracken. Vollzug tracken für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Vollzug Tracken
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-196-verpflichtungsermaechtigung-titel-prue`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Titel prüfen. Titel prüfen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Titel prüfen. Titel prüfen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Titel Prue
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-197-verpflichtungsermaechtigung-umschichtu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Umschichtung simulieren. Umschichtung simulieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Umschichtung simulieren. Umschichtung simulieren für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Umschichtu
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-198-verpflichtungsermaechtigung-sperre-bew`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Sperre bewerten. Sperre bewerten für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Sperre bewerten. Sperre bewerten für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Sperre Bew
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-199-verpflichtungsermaechtigung-deckung-fi`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Deckung finden. Deckung finden für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Deckung finden. Deckung finden für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Deckung Fi
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-200-verpflichtungsermaechtigung-szenario-r`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Szenario rechnen. Szenario rechnen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung: Szenario rechnen. Szenario rechnen für Verpflichtungsermächtigung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verpflichtungsermaechtigung Szenario R
 

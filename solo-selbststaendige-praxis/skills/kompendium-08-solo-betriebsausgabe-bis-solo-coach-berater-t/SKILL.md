@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-solo-betriebsausgabe-bis-solo-coach-berater-t
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 8 frühere Spezialskills (solo-betriebsausgaben-pruefen, solo-betriebshaftpflicht, solo-betriebspruefung-kleinunternehmen, solo-beweisakte-fuer-streit, solo-beweisvorsorge und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Betriebsausgaben Pruefen, Solo Betriebshaftpflicht, Solo Betriebspruefung Kleinunternehmen, Solo Beweisakte Fuer Streit und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Betriebsausgaben Pruefen bis Solo Coach Berater Trainer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-betriebsausgaben-pruefen` | Solo-Selbstständige: ordnet typische Ausgaben, gemischte Aufwendungen und Nachweispflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-betriebshaftpflicht` | Solo-Selbstständige: ordnet Personen-/Sachschäden, Veranstaltung und Mietsachschäden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-betriebsausgaben-pruefen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet typische Ausgaben, gemischte Aufwendungen und Nachweispflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet typische Ausgaben, gemischte Aufwendungen und Nachweispflichten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Ordnet typische ausgaben
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 2. `solo-betriebshaftpflicht`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Personen-/Sachschäden, Veranstaltung und Mietsachschäden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Personen-/Sachschäden, Veranstaltung und Mietsachschäden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Ordnet personen-/sachschäden
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 3. `solo-betriebspruefung-kleinunternehmen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bereitet kleine Betriebsprüfung oder Nachschau mit Belegpfad vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bereitet kleine Betriebsprüfung oder Nachschau mit Belegpfad vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Bereitet kleine betriebsprüfung oder nachschau mit belegpfad vor
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 4. `solo-beweisakte-fuer-streit`
 
-**Frühere Beschreibung:** Solo-Selbstständige: baut chronologische Beweisakte aus Mail, Chat, Rechnung, Ergebnis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: baut chronologische Beweisakte aus Mail, Chat, Rechnung, Ergebnis; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Baut chronologische beweisakte aus mail
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 5. `solo-beweisvorsorge`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sichert Briefing, Freigaben, Änderungswünsche, Abnahmen und Chatbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sichert Briefing, Freigaben, Änderungswünsche, Abnahmen und Chatbelege; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Sichert briefing
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 6. `solo-bewertungen-und-rezensionen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft negative Bewertungen, Fake Reviews und Antwortstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft negative Bewertungen, Fake Reviews und Antwortstrategie; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft negative bewertungen
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 7. `solo-bewirtung-geschenke-repraesentation`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sortiert Bewirtung, Geschenke, Kundentermine und Abzugsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sortiert Bewirtung, Geschenke, Kundentermine und Abzugsrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Sortiert bewirtung
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Steuern und Buchhaltu
 
 ## 8. `solo-coach-berater-trainer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Coaching/Training, persönliche Leistung und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Coaching/Training, persönliche Leistung und Sozialversicherung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft coaching/training
 

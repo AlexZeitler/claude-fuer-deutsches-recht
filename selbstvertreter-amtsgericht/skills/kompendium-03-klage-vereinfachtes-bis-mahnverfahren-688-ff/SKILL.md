@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-klage-vereinfachtes-bis-mahnverfahren-688-ff
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (klage-vereinfachtes-verfahren-495a-zpo, klageerwiderung-fristen-274-zpo, mahnverfahren-688-ff-zpo-vor-klage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klage Vereinfachtes Verfahren 495a Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Klage Vereinfachtes Verfahren 495a Zpo, Klageerwiderung Fristen 274 Zpo, Mahnverfahren 688 Ff Zpo Vor Klage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klage-vereinfachtes-verfahren-495a-zpo` | Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt. |
 | `klageerwiderung-fristen-274-zpo` | Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klage-vereinfachtes-verfahren-495a-zpo`
 
-**Frühere Beschreibung:** Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt.
+**Fokus:** Vereinfachtes Verfahren nach § 495a ZPO bei Streitwert bis 1.000 EUR (Anhebung von 600 EUR zum 01.01.2026). Gericht entscheidet nach billigem Ermessen schriftliches Verfahren ohne muendliche Verhandlung möglich. Voraussetzungen Vorteile Risiken und wann sich ein Antrag auf muendliche Verhandlung lohnt.
 
 # Vereinfachtes Verfahren bis 1.000 EUR (§ 495a ZPO)
 
@@ -164,7 +164,7 @@ Stand: 05/2026. § 495a ZPO aktuelle Fassung: Wertgrenze 1.000 EUR (Anhebung von
 
 ## 2. `klageerwiderung-fristen-274-zpo`
 
-**Frühere Beschreibung:** Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts.
+**Fokus:** Fristen zur Klageerwiderung nach § 274 ZPO. Notfrist zur Verteidigungsanzeige Klageerwiderungs-Frist Folge bei Versaeumnis Versaeumnisurteil. Schriftliches Vorverfahren oder frueher erster Termin als Verfahrensgestaltung des Gerichts.
 
 # Sie sind verklagt: Welche Fristen laufen?
 
@@ -315,7 +315,7 @@ Stand: 05/2026. §§ 274 ff. ZPO unveraendert.
 
 ## 3. `mahnverfahren-688-ff-zpo-vor-klage`
 
-**Frühere Beschreibung:** Mahnbescheid nach §§ 688 ff. ZPO als guenstige Alternative zur Klage. Online-Formular Mahngerichte Widerspruchs-Folgen Vollstreckungsbescheid. Wann ist Mahnverfahren sinnvoll wann nicht. Mit Hinweisen zur Hemmung der Verjährung.
+**Fokus:** Mahnbescheid nach §§ 688 ff. ZPO als guenstige Alternative zur Klage. Online-Formular Mahngerichte Widerspruchs-Folgen Vollstreckungsbescheid. Wann ist Mahnverfahren sinnvoll wann nicht. Mit Hinweisen zur Hemmung der Verjährung.
 
 # Mahnbescheid statt Klage: schnell und billig
 

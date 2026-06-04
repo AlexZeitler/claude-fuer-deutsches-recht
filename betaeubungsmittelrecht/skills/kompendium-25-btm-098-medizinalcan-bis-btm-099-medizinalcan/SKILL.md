@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-btm-098-medizinalcan-bis-btm-099-medizinalcan
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (btm-098-medizinalcannabis-compliance-bauen, btm-099-medizinalcannabis-akteneinsicht-vorber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 098 Medizinalcannabis Compliance Bauen, Btm 099 Medizinalcannabis Akteneinsicht Vorber; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 098 Medizinalcannabis Compliance Bauen, Btm 099 Medizinalcannabis Akteneinsicht Vorber
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-098-medizinalcannabis-compliance-bauen` | Betäubungsmittelrecht: Medizinalcannabis: Compliance bauen. Compliance bauen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-099-medizinalcannabis-akteneinsicht-vorber` | Betäubungsmittelrecht: Medizinalcannabis: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-098-medizinalcannabis-compliance-bauen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Medizinalcannabis: Compliance bauen. Compliance bauen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Medizinalcannabis: Compliance bauen. Compliance bauen für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Medizinalcannabis Compliance Bauen
 
@@ -84,7 +84,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-099-medizinalcannabis-akteneinsicht-vorber`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Medizinalcannabis: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Medizinalcannabis: Akteneinsicht vorbereiten. Akteneinsicht vorbereiten für Medizinalcannabis im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Medizinalcannabis Akteneinsicht Vorber
 

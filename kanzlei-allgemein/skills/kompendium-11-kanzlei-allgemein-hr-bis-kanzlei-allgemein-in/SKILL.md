@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-kanzlei-allgemein-hr-bis-kanzlei-allgemein-in
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (kanzlei-allgemein-hr-personal, kanzlei-allgemein-intake) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - kanzlei-allgemein
+# Arbeitsbereich - Kanzlei Allgemein Hr Personal, Kanzlei Allgemein Intake
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-allgemein-hr-personal` | Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kündigungsfrist BRAO-Standesrecht Fortbildungspflicht. Prüfraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub. |
 | `kanzlei-allgemein-intake` | Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und nächsten Schritt. Fragt bei Unsicherheit gezielt nach. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-allgemein-hr-personal`
 
-**Frühere Beschreibung:** Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kündigungsfrist BRAO-Standesrecht Fortbildungspflicht. Prüfraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub.
+**Fokus:** Verwaltung von Kanzlei-Personal mit Stammdaten Arbeitsvertraegen Onboarding und Offboarding. Anwendungsfall neue Kanzleimitarbeiterin wird eingestellt oder Mitarbeiter scheidet aus und HR-Dokumentation muss gepflegt werden. Normen BDSG § 26 Arbeitnehmerdatenschutz § 622 BGB Kündigungsfrist BRAO-Standesrecht Fortbildungspflicht. Prüfraster Stammdaten Vertraege Onboarding Datenschutz Fortbildungsnachweis Zielvereinbarungen Gratifikation Bonus Offboarding. Output HR-Akte Onboarding-Checkliste Offboarding-Protokoll Fortbildungsnachweis. Abgrenzung zu kanzlei-allgemein-lohn-sv und kanzlei-allgemein-abwesenheiten-urlaub.
 
 # HR und Personalverwaltung
 
@@ -92,7 +92,7 @@ Wenn Daten fehlen:
 
 ## 2. `kanzlei-allgemein-intake`
 
-**Frühere Beschreibung:** Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und nächsten Schritt. Fragt bei Unsicherheit gezielt nach.
+**Fokus:** Strukturiert jeden Kanzlei-Eingang aus Brief Fax beA E-Mail SMS iMessage WhatsApp Telegram Teams Screenshot Upload oder Telefonnotiz. Erkennt Absender Akte Aktenzeichen Fristen Action-Items Datenschutzrisiken und nächsten Schritt. Fragt bei Unsicherheit gezielt nach.
 
 # Intake und Eingangstriage
 

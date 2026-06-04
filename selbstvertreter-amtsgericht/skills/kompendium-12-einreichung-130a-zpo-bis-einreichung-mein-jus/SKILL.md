@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-einreichung-130a-zpo-bis-einreichung-mein-jus
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (einreichung-130a-zpo-elektronisch-buerger, einreichung-fax-und-grenzen, einreichung-mein-justizpostfach-mjp-2024) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einreichung 130a Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Einreichung 130a Zpo Elektronisch Buerger, Einreichung Fax Und Grenzen, Einreichung Mein Justizpostfach Mjp 2024
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einreichung-130a-zpo-elektronisch-buerger` | Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend. |
 | `einreichung-fax-und-grenzen` | Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einreichung-130a-zpo-elektronisch-buerger`
 
-**Frühere Beschreibung:** Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend.
+**Fokus:** Elektronische Einreichung nach § 130a ZPO für Buerger. Sichere Übermittlungswege qualifizierte elektronische Signatur Bedeutung der Eingangsbestätigung. Abgrenzung zu Email und einfachem Scan. Wann ist elektronische Einreichung fristwahrend.
 
 # Elektronische Einreichung nach § 130a ZPO
 
@@ -147,7 +147,7 @@ Stand: 05/2026. § 130a ZPO seit Gesetz zur Foerderung des elektronischen Rechts
 
 ## 2. `einreichung-fax-und-grenzen`
 
-**Frühere Beschreibung:** Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung.
+**Fokus:** Einreichung per Fax und ihre verbleibenden Grenzen. Fax als Schriftform-Ersatz bei kurzfristiger Fristwahrung. Was Sie aufbewahren muessen Sendebericht Bestätigung und Risiken durch Verlust oder unleserliche Übertragung.
 
 # Einreichung per Fax — was noch geht
 
@@ -255,7 +255,7 @@ Stand: 05/2026. Fax-Einreichung weiterhin moeglich; mehrere Gerichte planen aber
 
 ## 3. `einreichung-mein-justizpostfach-mjp-2024`
 
-**Frühere Beschreibung:** Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung.
+**Fokus:** Einrichtung und Nutzung von Mein Justizpostfach (MJP) für Buerger seit 2024. Sichere elektronische Einreichung von Klagen und Schriftsaetzen an Gerichte. BundID-Login Postfach-Funktion Versandbestätigung und Zustellung.
 
 # Mein Justizpostfach (MJP): elektronisch beim Gericht einreichen
 

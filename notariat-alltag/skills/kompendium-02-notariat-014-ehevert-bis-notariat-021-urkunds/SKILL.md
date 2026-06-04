@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-notariat-014-ehevert-bis-notariat-021-urkunds
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs, notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder, notariat-021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat 021 Urkundsentwurf Mandantenkorrektur Und Belehrungsdok; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - notariat-alltag
+# Arbeitsbereich - Notariat 014 Ehevertrag Scheidungsfolgenvereinbarung Versorgungs, Notariat 015 Schenkungsvertrag Niessbrauch Wohnrecht Rueckforder, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs` | Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars. |
 | `notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder` | Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-014-ehevertrag-scheidungsfolgenvereinbarung-versorgungs`
 
-**Frühere Beschreibung:** Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars.
+**Fokus:** Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich und Belehrung. Formzwang § 1410 BGB, Kernbereichslehre des BGH, Sittenwidrigkeit und Belehrungspflichten des Notars.
 
 # Notariat im Alltag: Ehevertrag, Scheidungsfolgenvereinbarung, Versorgungsausgleich, Belehrung
 
@@ -121,7 +121,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-015-schenkungsvertrag-niessbrauch-wohnrecht-rueckforder`
 
-**Frühere Beschreibung:** Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine.
+**Fokus:** Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung und Pflegeklausel. Formzwang bei Schenkungsversprechen, dingliche Absicherung des Schenkers, steuerliche Aspekte und typische Klauselbausteine.
 
 # Notariat im Alltag: Schenkungsvertrag – Nießbrauch, Wohnrecht, Rückforderung, Pflegeklausel
 
@@ -219,7 +219,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-021-urkundsentwurf-mandantenkorrektur-und-belehrungsdok`
 
-**Frühere Beschreibung:** Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG.
+**Fokus:** Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur und Belehrungsdokumentation. Prozess der Entwurfserstellung, Versand- und Wartefristpflichten, Protokollierung von Korrekturen und Belehrungen nach § 17 BeurkG.
 
 # Notariat im Alltag: Urkundsentwurf, Mandantenkorrektur, Belehrungsdokumentation
 

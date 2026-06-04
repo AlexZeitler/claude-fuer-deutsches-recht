@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-fran-047-systemwechs-bis-fran-049-franchisege
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (fran-047-systemwechsel-rebranding, fran-048-franchise-m-a-due-diligence, fran-049-franchisegeber-handbuch-compliance-dashboard) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - franchiserecht-praxis
+# Arbeitsbereich - Fran 047 Systemwechsel Rebranding, Fran 048 Franchise M A Due Diligence, Fran 049 Franchisegeber Handbuch Compliance Dashboard
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-047-systemwechsel-rebranding` | Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen. |
 | `fran-048-franchise-m-a-due-diligence` | M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-047-systemwechsel-rebranding`
 
-**Frühere Beschreibung:** Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen.
+**Fokus:** Systemwechsel und Rebranding im Franchiserecht abwickeln: Vertragsrechtliche Folgen der Marken- und Systemänderung, Zustimmungserfordernisse der Franchisenehmer, AGB-Kontrolle von Rebranding-Klauseln, Investitionsschutz und Übergangsfristen.
 
 # Franchiserecht: Systemwechsel und Rebranding
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-048-franchise-m-a-due-diligence`
 
-**Frühere Beschreibung:** M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber.
+**Fokus:** M-und-A-Due-Diligence für Franchisesysteme: rechtliche Prüfung von Franchisevertragsportfolios, Schutzrechtebestand, offene Verbindlichkeiten, Change-of-Control-Klauseln, Informationspflichten der Franchisenehmer und Bewertung von Systemrisiken für den Erwerber.
 
 # Franchiserecht: Franchise-M-und-A-Due-Diligence
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-049-franchisegeber-handbuch-compliance-dashboard`
 
-**Frühere Beschreibung:** Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern.
+**Fokus:** Compliance-Dashboard für Franchisegeber aufbauen: systemweite Rechts- und Qualitätsüberwachung, KPI-Tracking für Franchise-Compliance, Früherkennung von Vertragsrisiken, Audit-Protokollierung und Berichtspflichten gegenüber internen und externen Stakeholdern.
 
 # Franchiserecht: Franchisegeber-Handbuch und Compliance-Dashboard
 

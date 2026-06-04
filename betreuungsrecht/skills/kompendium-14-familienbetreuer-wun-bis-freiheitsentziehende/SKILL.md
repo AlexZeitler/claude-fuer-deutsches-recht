@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-familienbetreuer-wun-bis-freiheitsentziehende
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (familienbetreuer-wunschermittlung-schwere-demenz, familienkonflikt-grenzen-und-rollen, freiheitsentziehende-massnahmen-1831) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Familienbetreuer Wunschermittlung Schwere Demenz, Familienkonflikt Grenzen Und Rollen, Freiheitsentziehende Massnahmen 1831; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - betreuungsrecht
+# Arbeitsbereich - Familienbetreuer Wunschermittlung Schwere Demenz, Familienkonflikt Grenzen Und Rollen, Freiheitsentziehende Massnahmen 1831
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `familienbetreuer-wunschermittlung-schwere-demenz` | Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen. |
 | `familienkonflikt-grenzen-und-rollen` | Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmatrix. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `familienbetreuer-wunschermittlung-schwere-demenz`
 
-**Frühere Beschreibung:** Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen.
+**Fokus:** Wunsch und mutmaßlicher Wille bei schwerer Demenz, Kommunikation, Biografie, Angehörigenkonflikt und Entscheidungsvorlagen.
 
 # Familienbetreuer: Wunschermittlung bei schwerer Demenz
 
@@ -62,7 +62,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 2. `familienkonflikt-grenzen-und-rollen`
 
-**Frühere Beschreibung:** Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmatrix.
+**Fokus:** Familienkonflikte in der Betreuung: trennt Betreuerrolle, Angehörigenrolle und Eigeninteressen, prüft Kontaktkonflikte, Geldmisstrauen, Geschwisterstreit, Heimdruck, Datenschutz und gerichtliche Eskalation mit klarer Rollen- und Belegmatrix.
 
 # Familienkonflikt, Grenzen und Rollen
 
@@ -114,7 +114,7 @@ Keine Familienpsychologie spielen. Alles auf Rolle, Beleg, Wunsch, Aufgabenkreis
 
 ## 3. `freiheitsentziehende-massnahmen-1831`
 
-**Frühere Beschreibung:** Freiheitsentziehende Massnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmaessige Pruefung. EuGH-/EGMR-Vorgaben.
+**Fokus:** Freiheitsentziehende Massnahmen § 1831 BGB: Fixierung, geschlossene Unterbringung, sedierende Medikation. Voraussetzungen Genehmigung Betreuungsgericht, regelmaessige Pruefung. EuGH-/EGMR-Vorgaben.
 
 # Freiheitsentziehende Massnahmen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-ein-037-treuhandpriv-bis-ein-040-treuhandpriv
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (ein-037-treuhandprivatisierung-behoerdenbrief, ein-038-treuhandprivatisierung-widerspruch-pru, ein-039-treuhandprivatisierung-klage-skizziere, ein-040-treuhandprivatisierung-vergleich-bewer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 037 Treuhandprivatisierung Behoerdenbrief, Ein 038 Treuhandprivatisierung Widerspruch Pru, Ein 039 Treuhandprivatisierung Klage Skizziere, Ein 040 Treuhandprivatisierung Vergleich Bewer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 037 Treuhandprivatisierung Behoerdenbrief bis Ein 040 Treuhandprivatisierung Vergleich Bewer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-037-treuhandprivatisierung-behoerdenbrief` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Behördenbrief schreiben. Behördenbrief schreiben für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-038-treuhandprivatisierung-widerspruch-pru` | Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Widerspruch prüfen. Widerspruch prüfen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-037-treuhandprivatisierung-behoerdenbrief`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Behördenbrief schreiben. Behördenbrief schreiben für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Behördenbrief schreiben. Behördenbrief schreiben für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Behoerdenbrief
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-038-treuhandprivatisierung-widerspruch-pru`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Widerspruch prüfen. Widerspruch prüfen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Widerspruch prüfen. Widerspruch prüfen für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Widerspruch Pru
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-039-treuhandprivatisierung-klage-skizziere`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Klage skizzieren. Klage skizzieren für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Klage skizzieren. Klage skizzieren für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Klage Skizziere
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-040-treuhandprivatisierung-vergleich-bewer`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Vergleich bewerten. Vergleich bewerten für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Vergleich bewerten. Vergleich bewerten für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Vergleich Bewer
 

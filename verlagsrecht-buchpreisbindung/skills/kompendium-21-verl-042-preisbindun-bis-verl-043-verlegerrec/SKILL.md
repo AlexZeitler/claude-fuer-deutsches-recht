@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-verl-042-preisbindun-bis-verl-043-verlegerrec
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (verl-042-preisbindungsstreit-unterlassung-und-auskunft, verl-043-verlegerrecht-historisch-und-heutige-grenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 042 Preisbindungsstreit Unterlassung Und Auskunft, Verl 043 Verlegerrecht Historisch Und Heutige Grenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-042-preisbindungsstreit-unterlassung-und-auskunft` | Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie. |
 | `verl-043-verlegerrecht-historisch-und-heutige-grenzen` | Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-042-preisbindungsstreit-unterlassung-und-auskunft`
 
-**Frühere Beschreibung:** Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie.
+**Fokus:** Buchpreisbindungsgesetz: Preisbindungsstreit vor Gericht — Unterlassungsklage, Auskunfts- und Schadensersatzansprüche (BuchPrG §§ 9–11), Gerichtszuständigkeit und Prozessstrategie.
 
 # Verl-042 · Preisbindungsstreit: Unterlassung und Auskunft
 
@@ -163,7 +163,7 @@ Dieser Skill führt durch das **gerichtliche Verfahren** bei Preisbindungsstreit
 
 ## 2. `verl-043-verlegerrecht-historisch-und-heutige-grenzen`
 
-**Frühere Beschreibung:** Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes.
+**Fokus:** Verlagsrecht: Verlegerrecht historisch und heute — Leistungsschutzrecht des Presseverlegers (§ 87f UrhG), BGH-Verlegeranteil-Entscheidung und Grenzen des Verlegerschutzes.
 
 # Verl-043 · Verlegerrecht: Historisch und heutige Grenzen
 

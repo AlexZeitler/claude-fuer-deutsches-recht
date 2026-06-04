@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-stv-040-tempo-30-ris-bis-stv-043-fahrradstras
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (stv-040-tempo-30-risiko-erklaeren, stv-041-fahrradstrasse-regel-pruefen, stv-042-fahrradstrasse-zeichen-auslegen, stv-043-fahrradstrasse-anordnung-angreifen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 040 Tempo 30 Risiko Erklaeren, Stv 041 Fahrradstrasse Regel Pruefen, Stv 042 Fahrradstrasse Zeichen Auslegen, Stv 043 Fahrradstrasse Anordnung Angreifen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 040 Tempo 30 Risiko Erklaeren bis Stv 043 Fahrradstrasse Anordnung Angreifen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-040-tempo-30-risiko-erklaeren` | Straßenverkehrsrecht StVO: Tempo 30: Risiko erklären. Risiko erklären für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-041-fahrradstrasse-regel-pruefen` | Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-040-tempo-30-risiko-erklaeren`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Tempo 30: Risiko erklären. Risiko erklären für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Tempo 30: Risiko erklären. Risiko erklären für Tempo 30 im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Tempo 30 Risiko Erklaeren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-041-fahrradstrasse-regel-pruefen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrradstraße: Regel prüfen. Regel prüfen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fahrradstrasse Regel Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-042-fahrradstrasse-zeichen-auslegen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrradstraße: Zeichen auslegen. Zeichen auslegen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrradstraße: Zeichen auslegen. Zeichen auslegen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fahrradstrasse Zeichen Auslegen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-043-fahrradstrasse-anordnung-angreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Fahrradstraße: Anordnung angreifen. Anordnung angreifen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Fahrradstraße: Anordnung angreifen. Anordnung angreifen für Fahrradstraße im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fahrradstrasse Anordnung Angreifen
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-kanzlei-allgemein-in-bis-kanzlei-allgemein-ka
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (kanzlei-allgemein-integrationen-simulation, kanzlei-allgemein-kanzleikalender) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - kanzlei-allgemein
+# Arbeitsbereich - Kanzlei Allgemein Integrationen Simulation, Kanzlei Allgemein Kanzleikalender
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-allgemein-integrationen-simulation` | Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Prüfraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis für nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart. |
 | `kanzlei-allgemein-kanzleikalender` | Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Übersicht über Termine Fristen Abwesenheiten UStVA-Fälligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Prüfraster Konfliktprüfung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Übersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-führen (reine Fristbuchhaltung) und sekretariats-tagesbrief. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-allgemein-integrationen-simulation`
 
-**Frühere Beschreibung:** Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Prüfraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis für nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart.
+**Fokus:** Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Prüfraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis für nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart.
 
 # Integrationen und Simulationsmodus
 
@@ -110,7 +110,7 @@ Wenn der Nutzer `simulieren` wählt:
 
 ## 2. `kanzlei-allgemein-kanzleikalender`
 
-**Frühere Beschreibung:** Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Übersicht über Termine Fristen Abwesenheiten UStVA-Fälligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Prüfraster Konfliktprüfung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Übersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-führen (reine Fristbuchhaltung) und sekretariats-tagesbrief.
+**Fokus:** Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Übersicht über Termine Fristen Abwesenheiten UStVA-Fälligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Prüfraster Konfliktprüfung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Übersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-führen (reine Fristbuchhaltung) und sekretariats-tagesbrief.
 
 # Kanzleikalender und interne Abstimmung
 

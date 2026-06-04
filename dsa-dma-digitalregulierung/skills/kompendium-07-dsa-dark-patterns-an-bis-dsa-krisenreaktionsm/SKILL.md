@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-dsa-dark-patterns-an-bis-dsa-krisenreaktionsm
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (dsa-dark-patterns-anti-design, dsa-internes-beschwerdesystem-aufbau, dsa-krisenreaktionsmechanismus-art-36) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dsa Dark Patterns Anti Design, Dsa Internes Beschwerdesystem Aufbau, Dsa Krisenreaktionsmechanismus Art 36
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsa-dark-patterns-anti-design` | Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fuer Plattformen mit konkreten Aenderungsvorschlaegen. |
 | `dsa-internes-beschwerdesystem-aufbau` | Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 DSA. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsa-dark-patterns-anti-design`
 
-**Frühere Beschreibung:** Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fuer Plattformen mit konkreten Aenderungsvorschlaegen.
+**Fokus:** Dark Patterns nach Art. 25 DSA pruefen und vermeiden: irrefuehrende Cookie-Banner, Confirmshaming, Roach Motel, Bait-and-Switch, versteckte Kosten. Kataloge der EDPB-Leitlinien und der EU-Kommissions-Guidance. Code- und Design-Review fuer Plattformen mit konkreten Aenderungsvorschlaegen.
 
 # DSA: Dark Patterns Audit
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 2. `dsa-internes-beschwerdesystem-aufbau`
 
-**Frühere Beschreibung:** Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 DSA.
+**Fokus:** Internes Beschwerdesystem nach Art. 20 DSA aufbauen: Beschwerden gegen Inhaltsentscheidungen, Sperrungen, Kontosperren, Demonetarisierung. Fristen, Begruendungspflichten, menschliche Pruefung, Statement of Reasons. Technische Anforderungen, Beispielprozess, Eskalation in Streitbeilegung Art. 21 DSA.
 
 # DSA: Internes Beschwerdesystem
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 3. `dsa-krisenreaktionsmechanismus-art-36`
 
-**Frühere Beschreibung:** Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaengerbar. Beispiel Ukraine-Krieg. Compliance-Playbook fuer VLOP zur schnellen Reaktion.
+**Fokus:** Krisenreaktionsmechanismus Art. 36 DSA: Aktivierung durch EU-Kommission bei aussergewoehnlichen Umstaenden (Krieg, Pandemie, Terroranschlag). Pflichten der VLOP zur Risikobewertung und Massnahmen, Reporting, Dauer max. 3 Monate verlaengerbar. Beispiel Ukraine-Krieg. Compliance-Playbook fuer VLOP zur schnellen Reaktion.
 
 # DSA: Krisenreaktion Art. 36
 

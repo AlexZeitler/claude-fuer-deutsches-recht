@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-wahlkampf-unterstuet-bis-wahlkampf-versammlun
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (wahlkampf-unterstuetzungsunterschriften, wahlkampf-urheberrecht-musik-bilder-clips, wahlkampf-veranstaltungslogistik, wahlkampf-vereine-unterstuetzer-dritte, wahlkampf-versammlungsrecht-schnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Unterstuetzungsunterschriften, Wahlkampf Urheberrecht Musik Bilder Clips, Wahlkampf Veranstaltungslogistik, Wahlkampf Vereine Unterstuetzer Dritte und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Unterstuetzungsunterschriften bis Wahlkampf Versammlungsrecht Schnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-unterstuetzungsunterschriften` | Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen. |
 | `wahlkampf-urheberrecht-musik-bilder-clips` | Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-unterstuetzungsunterschriften`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Sammlung von Unterstuetzungsunterschriften pruefen.
 
 # Unterstuetzungsunterschriften
 
@@ -83,7 +83,7 @@ Erzeuge: **Unterschriften-Sammelplan**. Wenn Informationen fehlen, stelle höchs
 
 ## 2. `wahlkampf-urheberrecht-musik-bilder-clips`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Musik, Fotos, Stockbilder, Clips und Logos in Wahlwerbung pruefen.
 
 # Urheberrecht Musik Bilder Clips
 
@@ -136,7 +136,7 @@ Erzeuge: **Rechteclearing-Liste**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 3. `wahlkampf-veranstaltungslogistik`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kundgebung, Saalveranstaltung oder Marktplatztermin planen.
+**Fokus:** Wahlkampfrecht Praxis: Kundgebung, Saalveranstaltung oder Marktplatztermin planen.
 
 # Veranstaltungslogistik
 
@@ -189,7 +189,7 @@ Erzeuge: **Veranstaltungsbriefing**. Wenn Informationen fehlen, stelle höchsten
 
 ## 4. `wahlkampf-vereine-unterstuetzer-dritte`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Unterstuetzung durch Vereine, Initiativen und Drittkampagnen pruefen.
 
 # Vereine Unterstuetzer Dritte
 
@@ -242,7 +242,7 @@ Erzeuge: **Drittunterstuetzer-Pruefung**. Wenn Informationen fehlen, stelle höc
 
 ## 5. `wahlkampf-versammlungsrecht-schnittstelle`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen.
+**Fokus:** Wahlkampfrecht Praxis: politische Kundgebungen ins Versammlungsrecht routen.
 
 # Versammlungsrecht Schnittstelle
 

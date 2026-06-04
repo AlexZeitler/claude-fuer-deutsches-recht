@@ -1,39 +1,36 @@
 ---
 name: kompendium-04-goldplating-vermeide-bis-legw-bmas-sozialvers
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 04; bündelt 8 frühere Spezialskills (goldplating-vermeiden, inkrafttreten-uebergangsrecht, legistik-auftragsaufnahme, legw-aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension, legw-aa-konsular-und-passrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Goldplating Vermeiden, Inkrafttreten Uebergangsrecht, Legistik Auftragsaufnahme, Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - legistik-werkstatt
+# Arbeitsbereich - Goldplating Vermeiden bis Legw Aa Ausfuhrkontrolle Und Aussenwirtschaftsdimension
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `goldplating-vermeiden` | Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht. |
 | `inkrafttreten-uebergangsrecht` | Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf prüfen. Gestaffeltes Inkrafttreten verschiedene Artikel. EU-Bezug Stillhalteperiode Notifizierung. Aussenwirkung erst nach Bekanntmachung BGBl. Output Paragraf Inkrafttreten plus Übergangsregelung fertig formuliert. |
 | `legistik-auftragsaufnahme` | Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Eckpunktepapier, Referentenentwurf, Formulierungshilfe, Gesetzentwurf aus der Mitte, Aenderungsantrag, Antrag, Kabinettsentwurf, Norm-Ebene, Verfassungs- und EU-Bezug, Zeitplan und Beteiligte. Output Auftragsblatt mit Startbahn und zehn Kernfragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren. |
 | `legw-aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension` | Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). |
-| `legw-aa-konsular-und-passrecht` | Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). |
-| `legw-bmas-arbeitsrecht-und-arbeitsschutz` | Sachbereich Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.); Akteure (BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.); EU-Bezug (Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). |
-| `legw-bmas-arbeitsschutz-und-arbeitssicherheit` | Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). |
-| `legw-bmas-sozialversicherungsrecht-sgb` | Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `goldplating-vermeiden`
 
-**Frühere Beschreibung:** Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht.
+**Fokus:** Goldplating bei nationaler EU-Richtlinien-Umsetzung identifizieren und bewerten. Anwendungsfall Referentenentwurf setzt EU-Richtlinie um und muss auf ueberschiessende nationale Regelungen über den Richtlinien-Mindeststandard hinaus geprüft werden. Vorgabe Bundesregierung 1-zu-1-Umsetzung. Differenzierung bewusstes Goldplating Verbraucherschutz Datenschutz oder versehentlich. Erfasst jeden Abweichungspunkt Begründung notwendig nicht notwendig politisch gewollt. Output Goldplating-Liste Empfehlungen. Abgrenzung zu europarechtskonformität Vereinbarkeit mit EU-Primaerrecht.
+
 
 # Goldplating vermeiden
 
@@ -102,7 +99,8 @@ Goldplating-Liste mit Empfehlungen pro Abweichungspunkt.
 
 ## 2. `inkrafttreten-uebergangsrecht`
 
-**Frühere Beschreibung:** Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf prüfen. Gestaffeltes Inkrafttreten verschiedene Artikel. EU-Bezug Stillhalteperiode Notifizierung. Aussenwirkung erst nach Bekanntmachung BGBl. Output Paragraf Inkrafttreten plus Übergangsregelung fertig formuliert.
+**Fokus:** Inkrafttretens- und Übergangsregelung für Gesetze und Verordnungen formulieren. Anwendungsfall Entwurf ist inhaltlich fertig Artikel Inkrafttreten und Übergangsrecht muessen noch ergaenzt werden. Standardformel Stichtagsregelung Altfaelle bestehende Vertraege bestehende Verwaltungsakte. Vacatio legis genuegend Vorlauf prüfen. Gestaffeltes Inkrafttreten verschiedene Artikel. EU-Bezug Stillhalteperiode Notifizierung. Aussenwirkung erst nach Bekanntmachung BGBl. Output Paragraf Inkrafttreten plus Übergangsregelung fertig formuliert.
+
 
 # Inkrafttreten und Übergangsrecht
 
@@ -176,7 +174,8 @@ Letzter Artikel oder Schlussparagraf des Entwurfs plus separate Übergangsregelu
 
 ## 3. `legistik-auftragsaufnahme`
 
-**Frühere Beschreibung:** Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Eckpunktepapier, Referentenentwurf, Formulierungshilfe, Gesetzentwurf aus der Mitte, Aenderungsantrag, Antrag, Kabinettsentwurf, Norm-Ebene, Verfassungs- und EU-Bezug, Zeitplan und Beteiligte. Output Auftragsblatt mit Startbahn und zehn Kernfragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren.
+**Fokus:** Legistischen Auftrag strukturiert aufnehmen und in operationale Regelungsziele umwandeln. Anwendungsfall Erstkontakt zu einem neuen Vorhaben aus Bundesministerium, Bundestag, Fraktion, Landesministerium, Landtag, Kommune, Kammer oder Hochschule. Klaert Startbahn, Bundesland, Ressort, Fraktion, formalen Initiator, Adressaten, Eingriffstiefe, Dringlichkeit, Eckpunktepapier, Referentenentwurf, Formulierungshilfe, Gesetzentwurf aus der Mitte, Aenderungsantrag, Antrag, Kabinettsentwurf, Norm-Ebene, Verfassungs- und EU-Bezug, Zeitplan und Beteiligte. Output Auftragsblatt mit Startbahn und zehn Kernfragen. Anschluss normhierarchie-routing. Abgrenzung zu normenkartierung bestehende Normen kartieren.
+
 
 # Legistik-Auftragsaufnahme
 
@@ -313,7 +312,8 @@ Anschluss an **`legw-rmap-grundlagen`** (didaktischer Einstieg in 10 RuleMapping
 
 ## 4. `legw-aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension`
 
-**Frühere Beschreibung:** Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
+**Fokus:** Sachbereich Ausfuhrkontrolle und Aussenwirtschaftsdimension im Geschaeftsbereich AA: Normbestand (AWG; AWV; KrWaffKG; Dual-Use-VO (EU); Sanktions-VO.); Akteure (BAFA; AA Politische Abteilung; BMWE.); EU-Bezug (Wassenaar; MTCR; NSG; Australia Group; EU-Sanktionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
+
 
 # Ausfuhrkontrolle und Aussenwirtschaftsdimension (AA)
 
@@ -384,334 +384,6 @@ Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
 ## Anschluss an die Legistik-Kette
 
 - `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-aa` -> `legw-ressortaufgaben-aa` -> `legw-aa-ausfuhrkontrolle-und-aussenwirtschaftsdimension` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
-
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.
-
-## 5. `legw-aa-konsular-und-passrecht`
-
-**Frühere Beschreibung:** Sachbereich Konsularrecht und Passrecht im Geschaeftsbereich AA: Normbestand (KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).); Akteure (Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).); EU-Bezug (Visa-Kodex; Schengen; ETIAS.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
-
-# Konsularrecht und Passrecht (AA)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Konsularrecht und Passrecht im Geschaeftsbereich AA. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-aa`
-- Aufgabenmatrix aus `legw-ressortaufgaben-aa`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Visa-Kodex; Schengen; ETIAS.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Konsularische Aufgaben praezisieren; Pass- und Ausweisbestimmungen; Notfallhilfe; Beurkundungen; Personenstandssachen im Ausland.
-
-Schrittfolge fuer den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Doppelstaatsangehoerigkeit; Datenschutz konsularischer Datenbanken; Schengen-Visumzwang.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld:           Konsularrecht und Passrecht
-Ressort:            AA
-Kernnormen:         KonsG; PassG; PAuswG; EWG-VO 1683/95 (Visa).
-Akteure/Aufsicht:   Auslandsvertretungen; Bundesverwaltungsamt; BAMF (Visa).
-EU/Voelkerrecht:    Visa-Kodex; Schengen; ETIAS.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-aa; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-aa` -> `legw-ressortaufgaben-aa` -> `legw-aa-konsular-und-passrecht` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
-
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.
-
-## 6. `legw-bmas-arbeitsrecht-und-arbeitsschutz`
-
-**Frühere Beschreibung:** Sachbereich Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS: Normbestand (BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.); Akteure (BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.); EU-Bezug (Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
-
-# Arbeitsrecht und Arbeitsschutz (BMAS)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Arbeitsrecht und Arbeitsschutz im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmas`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmas`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Tatbestaende des Arbeitsrechts; Kuendigungsschutz; Befristungsrecht; Arbeitszeit; Mindestlohn; Mitbestimmung.
-
-Schrittfolge fuer den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Tarifautonomie; Befristungsketten; Plattformarbeit; EU-Mindeststandards.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld:           Arbeitsrecht und Arbeitsschutz
-Ressort:            BMAS
-Kernnormen:         BGB-Arbeitsrecht; KSchG; TzBfG; ArbZG; ArbSchG; BetrVG; SprAuG; MiLoG.
-Akteure/Aufsicht:   BMAS; BAuA; ArbGericht; LAG; BAG; Arbeitsschutzbehoerden der Laender.
-EU/Voelkerrecht:    Arbeitsschutz-RL; Arbeitszeit-RL; Plattformarbeit-RL; ArbeitnehmerInfo-RL.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmas` -> `legw-ressortaufgaben-bmas` -> `legw-bmas-arbeitsrecht-und-arbeitsschutz` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
-
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.
-
-## 7. `legw-bmas-arbeitsschutz-und-arbeitssicherheit`
-
-**Frühere Beschreibung:** Sachbereich Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS: Normbestand (ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.); Akteure (BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.); EU-Bezug (Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
-
-# Arbeitsschutz und Arbeitssicherheit (BMAS)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Arbeitsschutz und Arbeitssicherheit im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmas`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmas`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Gefaehrdungsbeurteilung; Schutzmassnahmen; Unterweisung; ArbMed; Ueberwachung.
-
-Schrittfolge fuer den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Sektor-spezifische Vorgaben; Vollzugsdefizit; Mehrfachzustaendigkeiten Land und UVT.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld:           Arbeitsschutz und Arbeitssicherheit
-Ressort:            BMAS
-Kernnormen:         ArbSchG; ArbStaettV; BetrSichV; BiostoffV; LasthandhabV; PSA-BV; ArbMedVV.
-Akteure/Aufsicht:   BAuA; UVT (Berufsgenossenschaften); Laender-Arbeitsschutzbehoerden; KomNet.
-EU/Voelkerrecht:    Arbeitsschutz-Rahmenrichtlinie 89/391/EWG; Tochterrichtlinien.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmas` -> `legw-ressortaufgaben-bmas` -> `legw-bmas-arbeitsschutz-und-arbeitssicherheit` (hier) -> `normhierarchie-routing` und Querprueferei.
-
-## Abgrenzung
-
-Abgrenzung zu legistik-auftragsaufnahme (Erstaufnahme), normhierarchie-routing (Normwahl), normenkartierung (Bestand), verfassungsmaessigkeit-quercheck (Verfassungsfragen), europarechtskonformitaet (EU-Bezug), folgenabschaetzung-* (Folgenabschaetzung). Dieser Skill dient als Sachfeld-Kompass; er ersetzt nicht die Normprueferei, sondern liefert das Sachverstaendnis fuer den Normgeber.
-
-## Quellenregel
-
-Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de; bundesregierung.de; bmj.de; bundesverfassungsgericht.de; bundesgerichtshof.de; bverwg.de; eur-lex.europa.eu; dejure.org; openjur.de; normenkontrollrat.bund.de. Keine Sekundaerblogs oder Webportale. Jede Norm mit voller Fundstelle und Datum.
-
-## 8. `legw-bmas-sozialversicherungsrecht-sgb`
-
-**Frühere Beschreibung:** Sachbereich Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS: Normbestand (SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).); Akteure (DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.); EU-Bezug (VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
-
-# Sozialversicherungsrecht (SGB) (BMAS)
-
-> Vierter und tiefster Skill in der Ressort-Kette: Sachfeld-Kompass fuer das Spezialthema Sozialversicherungsrecht (SGB) im Geschaeftsbereich BMAS. Liefert dem Normgeber Normbestand, Akteure, EU-Bezug und Pruefpunkte fuer dieses eine Sachfeld.
-
-## Eingaben
-
-- Auftragsblatt aus `legistik-auftragsaufnahme`
-- Ressort-Kompass aus `legw-ressort-bmas`
-- Aufgabenmatrix aus `legw-ressortaufgaben-bmas`
-- Konkrete Sachfrage oder konkretes Normvorhaben in diesem Sachbereich
-
-## Normbestand
-
-Kernbestand des Sachfelds: SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
-
-Pruefreihenfolge: Verfassungsrang vor Bundesgesetz vor Rechtsverordnung vor Verwaltungsvorschrift. Bei EU-Bezug zuerst Unionsrecht (Vorrang und Anwendungsbefehl), dann nationale Umsetzungs- und Begleitnormen.
-
-## Akteure und Aufsicht
-
-DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
-
-Akteurskarte erstellen: federfuehrende Einheit im Haus; mitzeichnende Ressorts; nachgeordnete Behoerden im Vollzug; betroffene Laenderbehoerden; Verbaende; wissenschaftliche Beiraete; zustaendige Gerichtsbarkeit.
-
-## EU- und voelkerrechtlicher Bezug
-
-VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
-
-Pruefen: einschlaegige Verordnung oder Richtlinie? Umsetzungsfrist? Notifizierungspflicht? Beihilferechtlicher Vorbehalt? Vorabentscheidungsverfahren absehbar?
-
-## Typische Legistik-Aufgaben
-
-Versicherungspflicht; Leistungen; Beitragsrecht; Mitwirkungspflichten; Statusfeststellung (Scheinselbststaendigkeit).
-
-Schrittfolge fuer den Normgeber:
-
-1. Sachverhalt und Regelungsziel in diesem Sachfeld pruefen
-2. Vorhandene Normen kartieren; Lueckenanalyse
-3. Eingriffsintensitaet und Adressatenkreis bestimmen
-4. Verfassungs- und Europarechtskonformitaet pruefen
-5. Tatbestand und Rechtsfolge sauber fassen; Bestimmtheit pruefen
-6. Vollzugs- und Aufsichtsstruktur kontrollieren
-7. Begleit- und Folgenormen (Verordnungen; Verwaltungsvorschriften) mitplanen
-
-## Stolpersteine und Pruefpunkte
-
-Schnittstellen zwischen SGB-Buechern; EU-Koordinierung; Statusfeststellung.
-
-Erweiterte Pruefpunkte: Bestimmtheitsgebot; Verhaeltnismaessigkeit; Rueckwirkungsverbot; Gleichheitssatz; Datenschutz-Grundverordnung bei Datenverarbeitung; Wechselwirkungen zu anderen Ressorts; Befristung und Evaluation.
-
-## Output
-
-Sachfeld-Kompass:
-
-```
-Sachfeld:           Sozialversicherungsrecht (SGB)
-Ressort:            BMAS
-Kernnormen:         SGB I bis SGB XII; ASVG-Aequivalent; AsylbLG (mit BMI).
-Akteure/Aufsicht:   DRV Bund; BA; GKV-Spitzenverband; BAS (Bundesamt fuer Soziale Sicherung); SGericht.
-EU/Voelkerrecht:    VO 883/2004 (Koordinierung); EFTA; bilaterale Abkommen.
-Pruefpunkte:        <verfassungs-/europarechtlich; bestimmt; verhaeltnismaessig>
-Stolpersteine:      <Sachfeld-spezifisch>
-Naechste Skills:    legw-ressortaufgaben-bmas; normhierarchie-routing;
-                    normenkartierung; verfassungsmaessigkeit-quercheck;
-                    europarechtskonformitaet; rechtsfolgenabschaetzung
-```
-
-## Anschluss an die Legistik-Kette
-
-- `legistik-auftragsaufnahme` -> `legw-ressort-router` -> `legw-ressort-bmas` -> `legw-ressortaufgaben-bmas` -> `legw-bmas-sozialversicherungsrecht-sgb` (hier) -> `normhierarchie-routing` und Querprueferei.
 
 ## Abgrenzung
 

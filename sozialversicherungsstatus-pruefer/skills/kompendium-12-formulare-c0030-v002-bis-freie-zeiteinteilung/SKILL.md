@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-formulare-c0030-v002-bis-freie-zeiteinteilung
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (formulare-c0030-v0027-v0028, frageliste-auftraggeber, frageliste-auftragnehmer, freie-zeiteinteilung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Formulare C0030 V0027 V0028, Frageliste Auftraggeber, Frageliste Auftragnehmer, Freie Zeiteinteilung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Formulare C0030 V0027 V0028 bis Freie Zeiteinteilung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `formulare-c0030-v0027-v0028` | Ordnet DRV-Formulare, Tätigkeitsbeschreibungen, Verträge, Anlagen und Belege für Statusanträge. |
 | `frageliste-auftraggeber` | Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `formulare-c0030-v0027-v0028`
 
-**Frühere Beschreibung:** Ordnet DRV-Formulare, Tätigkeitsbeschreibungen, Verträge, Anlagen und Belege für Statusanträge.
+**Fokus:** Ordnet DRV-Formulare, Tätigkeitsbeschreibungen, Verträge, Anlagen und Belege für Statusanträge.
 
 # DRV-Formulare und Anlagen
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `frageliste-auftraggeber`
 
-**Frühere Beschreibung:** Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung.
+**Fokus:** Erstellt präzise Fragen an Auftraggeber/Unternehmen für Statusprüfung und Sanierung.
 
 # Frageliste Auftraggeber
 
@@ -158,7 +158,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `frageliste-auftragnehmer`
 
-**Frühere Beschreibung:** Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung.
+**Fokus:** Erstellt präzise Fragen an Auftragnehmer/Freelancer/Geschäftsführer für Statusprüfung.
 
 # Frageliste Auftragnehmer
 
@@ -222,7 +222,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `freie-zeiteinteilung`
 
-**Frühere Beschreibung:** Prüft Zeitsouveränität, Dienstpläne, Kernzeiten, Deadlines, Verfügbarkeit und Abwesenheitsregeln.
+**Fokus:** Prüft Zeitsouveränität, Dienstpläne, Kernzeiten, Deadlines, Verfügbarkeit und Abwesenheitsregeln.
 
 # Freie Zeiteinteilung
 

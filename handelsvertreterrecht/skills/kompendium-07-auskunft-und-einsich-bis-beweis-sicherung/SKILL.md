@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-auskunft-und-einsich-bis-beweis-sicherung
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (auskunft-und-einsicht, auslaendischer-principal, automobilhaendler, beweis-sicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Auskunft Und Einsicht, Auslaendischer Principal, Automobilhaendler, Beweis Sicherung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - handelsvertreterrecht
+# Arbeitsbereich - Auskunft Und Einsicht bis Beweis Sicherung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `auskunft-und-einsicht` | Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage auf Auskunft und Leistung nach § 254 ZPO. |
 | `auslaendischer-principal` | Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `auskunft-und-einsicht`
 
-**Frühere Beschreibung:** Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage auf Auskunft und Leistung nach § 254 ZPO.
+**Fokus:** Unterstützt Handelsvertreter bei Auskunfts- und Einsichtsrechten nach § 87c Abs. 2 HGB und § 242 BGB: Umfang des Buchauszugsanspruchs, Einsicht in Geschäftsbücher, Durchsetzung bei Verweigerung durch den Unternehmer sowie Stufenklage auf Auskunft und Leistung nach § 254 ZPO.
 
 # Auskunfts- und Einsichtsrechte des Handelsvertreters nach § 87c HGB
 
@@ -108,7 +108,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 2. `auslaendischer-principal`
 
-**Frühere Beschreibung:** Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche.
+**Fokus:** Analysiert Handelsvertreterverträge mit ausländischem Unternehmer: anwendbares Recht nach Rom-I-VO, zwingende Schutzvorschriften nach § 92c HGB und Art. 17 ff. RL 86/653/EWG auch bei Rechtswahl, Gerichtsstandsvereinbarungen sowie Anerkennung ausländischer Urteile und Schiedssprüche.
 
 # Handelsvertretervertrag mit ausländischem Unternehmer — Internationales Privatrecht
 
@@ -187,7 +187,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 3. `automobilhaendler`
 
-**Frühere Beschreibung:** Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb.
+**Fokus:** Prüft Ausgleichsansprüche und Provisionsfragen im Kfz-Vertrieb: Abgrenzung Handelsvertreter vom Vertragshändler, analoge Anwendung des § 89b HGB auf Kfz-Vertragshändler nach BGH-Rechtsprechung, Hersteller-Händler-Verträge und markenrechtliche Bindungen im Automobilvertrieb.
 
 # Ausgleichsanspruch im Kfz-Vertrieb — Handelsvertreter oder Vertragshändler?
 
@@ -266,7 +266,7 @@ Wettbewerbsverbot (§ 90a HGB) sowie Kündigung (§§ 89, 89a HGB).
 
 ## 4. `beweis-sicherung`
 
-**Frühere Beschreibung:** Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht.
+**Fokus:** Unterstützt Handelsvertreter und Unternehmer bei der Beweissicherung für Provisionsstreitigkeiten: Sicherung von Verträgen, Abrechnungen, E-Mails, CRM-Daten und Kundenkorrespondenz; selbständiges Beweisverfahren nach §§ 485 ff. ZPO; digitale Beweismittel und deren Verwertbarkeit vor Gericht.
 
 # Beweissicherung im Handelsvertreterstreit nach §§ 485 ff. ZPO
 

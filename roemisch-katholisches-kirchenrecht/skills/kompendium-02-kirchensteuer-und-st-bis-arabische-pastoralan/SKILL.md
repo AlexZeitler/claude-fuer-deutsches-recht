@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-kirchensteuer-und-st-bis-arabische-pastoralan
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (kirchensteuer-und-staatskirchenrecht, aktenaufnahme-in-pfarrei-ordinariat-und-offizialat, allgemeiner-einstieg-cic-katechismus-und-pastorale-lage, arabische-pastoralantworten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kirchensteuer Und Staatskirchenrecht, Aktenaufnahme In Pfarrei Ordinariat Und Offizialat, Allgemeiner Einstieg Cic Katechismus Und Pastorale Lage, Arabische Pastoralantworten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Kirchensteuer Und Staatskirchenrecht bis Arabische Pastoralantworten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kirchensteuer-und-staatskirchenrecht` | Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe. |
 | `aktenaufnahme-in-pfarrei-ordinariat-und-offizialat` | Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kirchensteuer-und-staatskirchenrecht`
 
-**Frühere Beschreibung:** Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
+**Fokus:** Kirchensteuer und Staatskirchenrecht: Spezialskill für CIC, Katechismus, kirchliche Zuständigkeit, pastoralen Ton und mehrsprachige katholische Ausgabe.
 
 # Kirchensteuer und Staatskirchenrecht
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `aktenaufnahme-in-pfarrei-ordinariat-und-offizialat`
 
-**Frühere Beschreibung:** Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Aktenaufnahme in Pfarrei, Ordinariat und Offizialat: Register, Urkunden, Gesprächsnotizen, E-Mails, Bescheide und Seelsorgegeschichte; CIC can. 486-491 und 535 und 537; KKK 871-945; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Aktenaufnahme in Pfarrei, Ordinariat und Offizialat
 
@@ -145,7 +145,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `allgemeiner-einstieg-cic-katechismus-und-pastorale-lage`
 
-**Frühere Beschreibung:** Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage: Sprache, Rolle, Status, Normspur, Lehrspur, Zuständigkeit und Ausgabeformat; CIC can. 1-22 und 96-112 und 204-223; KKK Prolog, 748-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Allgemeiner Einstieg: CIC, Katechismus und pastorale Lage
 
@@ -203,7 +203,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `arabische-pastoralantworten`
 
-**Frühere Beschreibung:** Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Arabische Pastoralantworten: arabische Antworten zu Sakrament, Communio und Rückkehr; CIC can. 747-755 und 843; KKK 748-856 und 1422-1498; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Arabische Pastoralantworten
 

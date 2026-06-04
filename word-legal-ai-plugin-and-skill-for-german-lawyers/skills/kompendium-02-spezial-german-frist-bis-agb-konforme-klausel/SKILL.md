@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-spezial-german-frist-bis-agb-konforme-klausel
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (spezial-german-fristen-form-und-zustaendigkeit, agb-konforme-klauseln-305-310-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - German Fristen Form Und Zustaendigkeit, Agb Konforme Klauseln 305 310 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-german-fristen-form-und-zustaendigkeit` | German: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agb-konforme-klauseln-305-310-bgb` | Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-german-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** German: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** German: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin word legal ai plugin and skill for german lawyers; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # German: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -68,7 +68,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `agb-konforme-klauseln-305-310-bgb`
 
-**Frühere Beschreibung:** Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB.
+**Fokus:** Drafting und Prüfung von Allgemeinen Geschäftsbedingungen nach §§ 305-310 BGB. Klärt den AGB-Begriff (vorformuliert, mehrfach verwendet, gestellt), Einbeziehung im Verbraucher- und Unternehmergeschäft sowie Inhaltskontrolle nach § 307 BGB Generalklausel und Transparenzgebot, § 308 BGB Klauselverbote mit Wertungsmöglichkeit und § 309 BGB Klauselverbote ohne Wertungsmöglichkeit. Behandelt die Ausstrahlungswirkung der Verbote des § 308 und § 309 BGB auf B2B-Verträge nach § 307 BGB.
 
 # AGB-konforme Klauseln nach §§ 305-310 BGB
 

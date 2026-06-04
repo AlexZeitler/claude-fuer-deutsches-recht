@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bho-025-landeshausha-bis-bho-035-landeshausha
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 04; bündelt 11 frühere Spezialskills (bho-025-landeshaushalt-bremen-lesen, bho-026-landeshaushalt-hamburg-lesen, bho-027-landeshaushalt-hessen-lesen, bho-028-landeshaushalt-mecklenburg-vorpommern, bho-029-landeshaushalt-niedersachsen-lesen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 025 Landeshaushalt Bremen Lesen, Bho 026 Landeshaushalt Hamburg Lesen, Bho 027 Landeshaushalt Hessen Lesen, Bho 028 Landeshaushalt Mecklenburg Vorpommern und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 025 Landeshaushalt Bremen Lesen bis Bho 035 Landeshaushalt Schleswig Holstein Lese
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-025-landeshaushalt-bremen-lesen` | Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bremen lesen. Landeshaushalt Bremen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-026-landeshaushalt-hamburg-lesen` | Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hamburg lesen. Landeshaushalt Hamburg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-025-landeshaushalt-bremen-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bremen lesen. Landeshaushalt Bremen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bremen lesen. Landeshaushalt Bremen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Bremen Lesen
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-026-landeshaushalt-hamburg-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hamburg lesen. Landeshaushalt Hamburg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hamburg lesen. Landeshaushalt Hamburg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Hamburg Lesen
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-027-landeshaushalt-hessen-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hessen lesen. Landeshaushalt Hessen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Hessen lesen. Landeshaushalt Hessen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Hessen Lesen
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-028-landeshaushalt-mecklenburg-vorpommern`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Mecklenburg-Vorpommern lesen. Landeshaushalt Mecklenburg-Vorpommern lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Mecklenburg-Vorpommern lesen. Landeshaushalt Mecklenburg-Vorpommern lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Mecklenburg Vorpommern
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-029-landeshaushalt-niedersachsen-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Niedersachsen lesen. Landeshaushalt Niedersachsen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Niedersachsen lesen. Landeshaushalt Niedersachsen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Niedersachsen Lesen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-030-landeshaushalt-nordrhein-westfalen-les`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Nordrhein-Westfalen lesen. Landeshaushalt Nordrhein-Westfalen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Nordrhein-Westfalen lesen. Landeshaushalt Nordrhein-Westfalen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Nordrhein Westfalen Les
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-031-landeshaushalt-rheinland-pfalz-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Rheinland-Pfalz lesen. Landeshaushalt Rheinland-Pfalz lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Rheinland-Pfalz lesen. Landeshaushalt Rheinland-Pfalz lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Rheinland Pfalz Lesen
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-032-landeshaushalt-saarland-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Saarland lesen. Landeshaushalt Saarland lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Saarland lesen. Landeshaushalt Saarland lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Saarland Lesen
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-033-landeshaushalt-sachsen-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Sachsen lesen. Landeshaushalt Sachsen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Sachsen lesen. Landeshaushalt Sachsen lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Sachsen Lesen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-034-landeshaushalt-sachsen-anhalt-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Sachsen-Anhalt lesen. Landeshaushalt Sachsen-Anhalt lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Sachsen-Anhalt lesen. Landeshaushalt Sachsen-Anhalt lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Sachsen Anhalt Lesen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-035-landeshaushalt-schleswig-holstein-lese`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Schleswig-Holstein lesen. Landeshaushalt Schleswig-Holstein lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Schleswig-Holstein lesen. Landeshaushalt Schleswig-Holstein lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Schleswig Holstein Lese
 

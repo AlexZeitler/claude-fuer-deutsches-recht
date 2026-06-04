@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-krisenverfassung-und-bis-legitimitaet-richter
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (krisenverfassung-und-permanenter-notstand, legalitaetsprinzipien-als-rechtsstaatsmotor, legitimitaet-richterlicher-rechtsfortbildung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Krisenverfassung Und Permanenter Notstand, Legalitaetsprinzipien Als Rechtsstaatsmotor, Legitimitaet Richterlicher Rechtsfortbildung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krisenverfassung-und-permanenter-notstand` | Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad. |
 | `legalitaetsprinzipien-als-rechtsstaatsmotor` | Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krisenverfassung-und-permanenter-notstand`
 
-**Frühere Beschreibung:** Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad.
+**Fokus:** Prueft Krisenverfassung und dauerhafte Notstandslogik: Befristung, Parlament, Gerichtskontrolle, Grundrechte, Gesetzgebungstechnik, Normalisierungsgefahr und Rueckkehrpfad.
 
 # Krisenverfassung und permanenter Notstand
 
@@ -99,7 +99,7 @@ Schließe mit einer alternativen Formulierung, die Krisenhandeln ermöglicht, ab
 
 ## 2. `legalitaetsprinzipien-als-rechtsstaatsmotor`
 
-**Frühere Beschreibung:** Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung.
+**Fokus:** Prueft formale Legalitaet als Kern des Rechtsstaats: Allgemeinheit, Publizitaet, Prospektivitaet, Klarheit, Widerspruchsfreiheit, Erfuellbarkeit, Stabilitaet und kongruente Amtsanwendung.
 
 # Legalitätsprinzipien als Rechtsstaatsmotor
 
@@ -161,7 +161,7 @@ Erstelle eine Rechtsstaatsmatrix mit Ampel je Prüfstein, kurzer Diagnose, insti
 
 ## 3. `legitimitaet-richterlicher-rechtsfortbildung`
 
-**Frühere Beschreibung:** Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen.
+**Fokus:** Prueft Legitimation richterlicher Rechtsfortbildung: Lücke, Planwidrigkeit, Vergleichbarkeit, Normzweck, Kontinuität und Grenzen.
 
 # Legitimität richterlicher Rechtsfortbildung
 

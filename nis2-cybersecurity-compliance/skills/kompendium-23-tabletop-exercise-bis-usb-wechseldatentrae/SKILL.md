@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-tabletop-exercise-bis-usb-wechseldatentrae
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (tabletop-exercise, third-party-remote-maintenance, tls-pki-zertifikatsmanagement, usb-wechseldatentraeger) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tabletop Exercise, Third Party Remote Maintenance, Tls Pki Zertifikatsmanagement, Usb Wechseldatentraeger; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Tabletop Exercise bis Usb Wechseldatentraeger
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tabletop-exercise` | Plant Tabletop-Übungen für Cyberkrisen. |
 | `third-party-remote-maintenance` | Prüft Fernwartung durch Lieferanten und Dienstleister. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tabletop-exercise`
 
-**Frühere Beschreibung:** Plant Tabletop-Übungen für Cyberkrisen.
+**Fokus:** Plant Tabletop-Übungen für Cyberkrisen.
 
 # Tabletop Exercise
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `third-party-remote-maintenance`
 
-**Frühere Beschreibung:** Prüft Fernwartung durch Lieferanten und Dienstleister.
+**Fokus:** Prüft Fernwartung durch Lieferanten und Dienstleister.
 
 # Third Party Remote Maintenance
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `tls-pki-zertifikatsmanagement`
 
-**Frühere Beschreibung:** Kontrolliert TLS, PKI und Zertifikatslebenszyklen.
+**Fokus:** Kontrolliert TLS, PKI und Zertifikatslebenszyklen.
 
 # TLS PKI Zertifikatsmanagement
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `usb-wechseldatentraeger`
 
-**Frühere Beschreibung:** Prüft USB-Sticks, externe Platten und Wechseldatenträger.
+**Fokus:** Prüft USB-Sticks, externe Platten und Wechseldatenträger.
 
 # USB Wechseldatentraeger
 

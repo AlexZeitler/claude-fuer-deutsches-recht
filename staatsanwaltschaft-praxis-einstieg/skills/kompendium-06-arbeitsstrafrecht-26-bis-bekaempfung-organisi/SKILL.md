@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-arbeitsstrafrecht-26-bis-bekaempfung-organisi
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (arbeitsstrafrecht-266a-und-mindestlohn, aufsichtsbeschwerde-und-dienstweg, befangenheit-richter-antrag-sta, befangenheit-richter-schoeffen, bekaempfung-organisierte-kriminalitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsstrafrecht 266a Und Mindestlohn, Aufsichtsbeschwerde Und Dienstweg, Befangenheit Richter Antrag Sta, Befangenheit Richter Schoeffen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Arbeitsstrafrecht 266a Und Mindestlohn bis Bekaempfung Organisierte Kriminalitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsstrafrecht-266a-und-mindestlohn` | Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `aufsichtsbeschwerde-und-dienstweg` | Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitsstrafrecht-266a-und-mindestlohn`
 
-**Frühere Beschreibung:** Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Arbeitsstrafrecht: § 266a StGB, MiLoG und Scheinselbständigkeit
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `aufsichtsbeschwerde-und-dienstweg`
 
-**Frühere Beschreibung:** Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Aufsichtsbeschwerde, Dienstweg und sachliche Antwort: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Aufsichtsbeschwerde, Dienstweg und sachliche Antwort
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `befangenheit-richter-antrag-sta`
 
-**Frühere Beschreibung:** Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Befangenheitsantrag gegen Richter: StA-Perspektive: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Befangenheitsantrag gegen Richter: StA-Perspektive
 
@@ -177,7 +177,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `befangenheit-richter-schoeffen`
 
-**Frühere Beschreibung:** Befangenheit von Richtern und Schöffen: Praxis-Skill für neue Staatsanwälte zu Ablehnung, Dienstaufsichtsfalle, Schöffenfragen und Verfahrensfairness aus StA-Sicht prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Befangenheit von Richtern und Schöffen: Praxis-Skill für neue Staatsanwälte zu Ablehnung, Dienstaufsichtsfalle, Schöffenfragen und Verfahrensfairness aus StA-Sicht prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Befangenheit von Richtern und Schöffen
 
@@ -227,7 +227,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `bekaempfung-organisierte-kriminalitaet`
 
-**Frühere Beschreibung:** OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** OK-Verfahren: Strukturermittlung ohne Tunnelblick: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # OK-Verfahren: Strukturermittlung ohne Tunnelblick
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ihl-018-incoterms-20-bis-ihl-026-konnossement
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (ihl-018-incoterms-2020-auswahl, ihl-019-exw-fca-fob-risiko, ihl-020-cfr-cif-cpt-cip, ihl-026-konnossement-und-seefrachtbrief) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 018 Incoterms 2020 Auswahl, Ihl 019 Exw Fca Fob Risiko, Ihl 020 Cfr Cif Cpt Cip, Ihl 026 Konnossement Und Seefrachtbrief; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 018 Incoterms 2020 Auswahl bis Ihl 026 Konnossement Und Seefrachtbrief
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-018-incoterms-2020-auswahl` | Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe. |
 | `ihl-019-exw-fca-fob-risiko` | Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-018-incoterms-2020-auswahl`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe.
+**Fokus:** Internationales Handelsrecht: Incoterms 2020 Klauselauswahl. Systematik der elf Klauseln (Gruppe E/F/C/D), Eignung für Containerverkehr vs. konventionellen Seehandel, FCA mit Konnossementsabrede und Auswahlkriterien für Exporte und Importe.
 
 # Incoterms 2020: Klauselauswahl und Systematik
 
@@ -81,7 +81,7 @@ Incoterms 2020: iccwbo.org (Publikation Nr. 2020). ICC Guidance Notes 2020: iccw
 
 ## 2. `ihl-019-exw-fca-fob-risiko`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB.
+**Fokus:** Internationales Handelsrecht: Risikoübergang bei EXW, FCA und FOB nach Incoterms 2020. Gefahrübergang am Abgangsort, Pflichten des Verkäufers und Käufers, Exportkontrollproblem bei EXW und Containereignung von FCA vs. FOB.
 
 # EXW, FCA, FOB: Risikoübergang und Pflichten
 
@@ -132,7 +132,7 @@ Incoterms 2020: iccwbo.org. CISG Art. 67-69: uncitral.un.org. Schrifttum: Ramber
 
 ## 3. `ihl-020-cfr-cif-cpt-cip`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms 2020. C-Klauseln als Ankunftsklauseln für Kosten und Abgangsklauseln für Gefahr, Versicherungspflichten (CIF Klausel C vs. CIP Klausel A) und Transportdokumentenpflichten.
+**Fokus:** Internationales Handelsrecht: CFR, CIF, CPT und CIP nach Incoterms 2020. C-Klauseln als Ankunftsklauseln für Kosten und Abgangsklauseln für Gefahr, Versicherungspflichten (CIF Klausel C vs. CIP Klausel A) und Transportdokumentenpflichten.
 
 # CFR, CIF, CPT, CIP: C-Klauseln
 
@@ -184,7 +184,7 @@ Incoterms 2020: iccwbo.org. Institute Cargo Clauses: lloyds.com (LMA). UCP 600: 
 
 ## 4. `ihl-026-konnossement-und-seefrachtbrief`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR.
+**Fokus:** Internationales Handelsrecht: Konnossement (Bill of Lading) und Seefrachtbrief (Sea Waybill). Wertpapierfunktion, Traditionspapier-Eigenschaft, Typen (Order-BL, Bearer-BL, Straight-BL), Indossament und eKonnossement nach MLETR.
 
 # Konnossement und Seefrachtbrief
 

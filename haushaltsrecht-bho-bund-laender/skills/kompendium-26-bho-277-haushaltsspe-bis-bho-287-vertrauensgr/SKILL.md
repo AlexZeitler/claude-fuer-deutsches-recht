@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-bho-277-haushaltsspe-bis-bho-287-vertrauensgr
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 26; bündelt 11 frühere Spezialskills (bho-277-haushaltssperre-umschichtung-simuliere, bho-278-haushaltssperre-sperre-bewerten, bho-279-haushaltssperre-deckung-finden, bho-280-haushaltssperre-szenario-rechnen, bho-281-haushaltssperre-dashboard-bauen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 277 Haushaltssperre Umschichtung Simuliere, Bho 278 Haushaltssperre Sperre Bewerten, Bho 279 Haushaltssperre Deckung Finden, Bho 280 Haushaltssperre Szenario Rechnen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 277 Haushaltssperre Umschichtung Simuliere bis Bho 287 Vertrauensgremium Umschichtung Simulie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-277-haushaltssperre-umschichtung-simuliere` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Umschichtung simulieren. Umschichtung simulieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-278-haushaltssperre-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Sperre bewerten. Sperre bewerten für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-277-haushaltssperre-umschichtung-simuliere`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Umschichtung simulieren. Umschichtung simulieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Umschichtung simulieren. Umschichtung simulieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Umschichtung Simuliere
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-278-haushaltssperre-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Sperre bewerten. Sperre bewerten für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Sperre bewerten. Sperre bewerten für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Sperre Bewerten
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-279-haushaltssperre-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Deckung finden. Deckung finden für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Deckung finden. Deckung finden für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Deckung Finden
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-280-haushaltssperre-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Szenario rechnen. Szenario rechnen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Szenario rechnen. Szenario rechnen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Szenario Rechnen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-281-haushaltssperre-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Dashboard bauen. Dashboard bauen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Dashboard bauen. Dashboard bauen für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Dashboard Bauen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-282-haushaltssperre-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Risiko markieren. Risiko markieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Risiko markieren. Risiko markieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Risiko Markieren
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-283-haushaltssperre-brh-frage-formulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: BRH-Frage formulieren. BRH-Frage formulieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: BRH-Frage formulieren. BRH-Frage formulieren für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Brh Frage Formulieren
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-284-haushaltssperre-parlamentsfrage-vorber`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Parlamentsfrage Vorber
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-285-haushaltssperre-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Vollzug tracken. Vollzug tracken für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltssperre: Vollzug tracken. Vollzug tracken für Haushaltssperre im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haushaltssperre Vollzug Tracken
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-286-vertrauensgremium-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Titel prüfen. Titel prüfen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Titel prüfen. Titel prüfen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Titel Pruefen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-287-vertrauensgremium-umschichtung-simulie`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Umschichtung simulieren. Umschichtung simulieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Umschichtung simulieren. Umschichtung simulieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Umschichtung Simulie
 

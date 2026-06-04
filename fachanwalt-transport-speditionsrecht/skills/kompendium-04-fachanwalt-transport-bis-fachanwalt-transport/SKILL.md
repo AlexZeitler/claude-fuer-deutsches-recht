@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-fachanwalt-transport-bis-fachanwalt-transport
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg, fachanwalt-transport-cmr-schadensregulierung, fachanwalt-transport-speditionshaftung-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Transport Autonome Lkw Konvois Haftung 1d Stvg, Transport Cmr Schadensregulierung, Transport Speditionshaftung Hgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Transport Autonome Lkw Konvois Haftung 1d Stvg, Transport Cmr Schadensregulierung, Transport Speditionshaftung Hgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg` | Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung. |
 | `fachanwalt-transport-cmr-schadensregulierung` | Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg`
 
-**Frühere Beschreibung:** Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung.
+**Fokus:** Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Prüfraster: Halterhaftung, technisches Versagen, Konvoi-Führer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtführerhaftung ohne Automatisierung.
 
 # Autonome LKW-Konvois – Haftung § 1d StVG und CMR
 
@@ -312,7 +312,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-transport-cmr-schadensregulierung`
 
-**Frühere Beschreibung:** Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht.
+**Fokus:** Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht.
 
 # CMR-Schadensregulierung
 
@@ -436,7 +436,7 @@ ADSp-Aktualität: Die ADSp 2017 sind weiterhin Branchenstandard (keine ADSp 2025
 
 ## 3. `fachanwalt-transport-speditionshaftung-hgb`
 
-**Frühere Beschreibung:** Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtführerhaftung §§ 407 ff. HGB.
+**Fokus:** Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtführerhaftung §§ 407 ff. HGB.
 
 # Speditions-Haftung §§ 453 ff. HGB
 

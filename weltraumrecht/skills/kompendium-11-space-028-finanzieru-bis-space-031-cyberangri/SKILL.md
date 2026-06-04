@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-space-028-finanzieru-bis-space-031-cyberangri
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (space-028-finanzierung-satellitenprojekt-projektfinanzierung-und, space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz, space-030-versicherung-launch-in-orbit-third-party-liability, space-031-cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und, Space 029 Insolvenz Eines Satellitenbetreibers Nutzlast Frequenz, Space 030 Versicherung Launch In Orbit Third Party Liability, Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - weltraumrecht
+# Arbeitsbereich - Space 028 Finanzierung Satellitenprojekt Projektfinanzierung Und bis Space 031 Cyberangriff Auf Satellit Nis2 Bsi Kritis Und Notfallp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und` | Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte. |
 | `space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz` | Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-028-finanzierung-satellitenprojekt-projektfinanzierung-und`
 
-**Frühere Beschreibung:** Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte.
+**Fokus:** Satellitenfinanzierung – Projektfinanzierung, Lender Step-in-Rechte, Sicherheiten, Frequenzrechte.
 
 # Weltraumrecht: Finanzierung Satellitenprojekt: Projektfinanzierung und Step-in-Rechte
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Satellitenprojektfinanzierung, St
 
 ## 2. `space-029-insolvenz-eines-satellitenbetreibers-nutzlast-frequenz`
 
-**Frühere Beschreibung:** Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung.
+**Fokus:** Insolvenz Satellitenbetreiber – Insolvenzmasse, Frequenzrechte, Nutzlastverträge, Betriebsunterbrechung.
 
 # Weltraumrecht: Insolvenz eines Satellitenbetreibers: Nutzlast, Frequenz, Betrieb
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Insolvenz Satellitenbetreiber, Fr
 
 ## 3. `space-030-versicherung-launch-in-orbit-third-party-liability`
 
-**Frühere Beschreibung:** Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver.
+**Fokus:** Raumfahrtversicherung – Launch-Deckung, In-Orbit-Deckung, Third Party Liability, Cross-Waiver.
 
 # Weltraumrecht: Versicherung: Launch, In-Orbit, Third Party Liability
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Raumfahrtversicherung, Launch-TPL
 
 ## 4. `space-031-cyberangriff-auf-satellit-nis2-bsi-kritis-und-notfallp`
 
-**Frühere Beschreibung:** Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution.
+**Fokus:** Cybersicherheit von Satelliten – NIS2-Pflichten, BSI-KRITIS, Incident Response, staatliche Attribution.
 
 # Weltraumrecht: Cyberangriff auf Satellit: NIS2, BSI, KRITIS, Notfallplan
 

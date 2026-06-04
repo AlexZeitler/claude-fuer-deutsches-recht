@@ -1,17 +1,17 @@
 ---
 name: kompendium-27-zivildienst-altfaell-bis-zweitbescheid-besche
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 27; bündelt 4 frühere Spezialskills (zivildienst-altfaelle, ziviler-ersatzdienst-art-12a, zweifel-ausraeumen-gesamtvorbringen, zweitbescheid-bescheinigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zivildienst Altfaelle, Ziviler Ersatzdienst Art 12a, Zweifel Ausraeumen Gesamtvorbringen, Zweitbescheid Bescheinigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Zivildienst Altfaelle bis Zweitbescheid Bescheinigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zivildienst-altfaelle` | Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst. |
 | `ziviler-ersatzdienst-art-12a` | Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zivildienst-altfaelle`
 
-**Frühere Beschreibung:** Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst.
+**Fokus:** Prüft Dienstzeit- oder Anerkennungsbescheinigungen aus früherem Zivildienst.
 
 # Zivildienst-Altfall
 
@@ -84,7 +84,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `ziviler-ersatzdienst-art-12a`
 
-**Frühere Beschreibung:** Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG.
+**Fokus:** Erklärt Ersatzdienst nach Art. 12a GG und § 1 Abs. 2 KDVG.
 
 # Ziviler Ersatzdienst
 
@@ -139,7 +139,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `zweifel-ausraeumen-gesamtvorbringen`
 
-**Frühere Beschreibung:** Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen.
+**Fokus:** Bearbeitet Zweifel aus Gesamtvorbringen und bekannten Tatsachen.
 
 # Zweifel ausräumen
 
@@ -194,7 +194,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `zweitbescheid-bescheinigung`
 
-**Frühere Beschreibung:** Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer früheren Anerkennung.
+**Fokus:** Formuliert Antrag auf Bestätigung oder Zweitausfertigung einer früheren Anerkennung.
 
 # Zweitausfertigung Bescheinigung
 

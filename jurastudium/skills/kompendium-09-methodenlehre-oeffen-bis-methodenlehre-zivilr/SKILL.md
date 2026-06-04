@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-methodenlehre-oeffen-bis-methodenlehre-zivilr
-description: "jurastudium: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (methodenlehre-oeffentliches-recht, methodenlehre-strafrecht, methodenlehre-zivilrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - jurastudium
+# Arbeitsbereich - Methodenlehre Oeffentliches Recht, Methodenlehre Strafrecht, Methodenlehre Zivilrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `methodenlehre-oeffentliches-recht` | Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt. |
 | `methodenlehre-strafrecht` | Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau", "Verbrechensaufbau prüfen", "Konkurrenzen Strafrecht", "Analogieverbot" oder "Vorsatz subsumieren" sagt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `methodenlehre-oeffentliches-recht`
 
-**Frühere Beschreibung:** Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt.
+**Fokus:** Übt die öffentlich-rechtliche Methodenlehre — Schichtenprüfung bei Grundrechten, Verhältnismäßigkeit, Ermessen und Ermessensfehler, Verwaltungsaktqualität, prozessuale Methodik der Klagearten, unionsrechtskonforme Auslegung, Vorrang des EU-Rechts, Vorlage an EuGH und BVerfG. Lädt, wenn der Nutzer "Grundrechtsprüfung", "Verhältnismäßigkeit", "Ermessen prüfen", "Klageart bestimmen" oder "Vorlage EuGH" sagt.
 
 # Methodenlehre — Öffentliches Recht
 
@@ -167,7 +167,7 @@ Faustregel: Erst die Maßnahme qualifizieren (VA oder nicht?), dann die Klageart
 
 ## 2. `methodenlehre-strafrecht`
 
-**Frühere Beschreibung:** Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau", "Verbrechensaufbau prüfen", "Konkurrenzen Strafrecht", "Analogieverbot" oder "Vorsatz subsumieren" sagt.
+**Fokus:** Übt die strafrechtliche Methodenlehre — dreistufiger Verbrechensaufbau (Tatbestand, Rechtswidrigkeit, Schuld), Trennung objektiver/subjektiver Tatbestand, Konkurrenzlehre (Tateinheit § 52, Tatmehrheit § 53, Gesetzeskonkurrenz), Analogieverbot Art. 103 II GG, Auslegung im Lichte des Bestimmtheitsgebots. Lädt, wenn der Nutzer "Strafrecht-Aufbau", "Verbrechensaufbau prüfen", "Konkurrenzen Strafrecht", "Analogieverbot" oder "Vorsatz subsumieren" sagt.
 
 # Methodenlehre — Strafrecht
 
@@ -296,7 +296,7 @@ Die Konkurrenzen sind der zweite große Methodenkomplex im Strafrecht.
 
 ## 3. `methodenlehre-zivilrecht`
 
-**Frühere Beschreibung:** Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer "AGL-Reihenfolge", "Anspruchsprüfung", "Willenserklärung auslegen", "AGB auslegen" oder "Konkurrenzen Zivilrecht" sagt.
+**Fokus:** Übt die zivilrechtliche Methodenlehre für Studierende — Anspruchsgrundlagen-Schema, AGL-Reihenfolge (vertraglich, vertragsähnlich, dinglich, deliktisch, bereicherungsrechtlich), Konkurrenzen, Auslegung von Willenserklärungen (§§ 133/157 BGB), Auslegung von AGB (§ 305 ff. BGB), Verkehrssitte. Lädt, wenn der Nutzer "AGL-Reihenfolge", "Anspruchsprüfung", "Willenserklärung auslegen", "AGB auslegen" oder "Konkurrenzen Zivilrecht" sagt.
 
 # Methodenlehre — Zivilrecht
 

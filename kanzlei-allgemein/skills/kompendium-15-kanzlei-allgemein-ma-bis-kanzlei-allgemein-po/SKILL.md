@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-kanzlei-allgemein-ma-bis-kanzlei-allgemein-po
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (kanzlei-allgemein-mandatsvereinbarung, kanzlei-allgemein-postlauf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - kanzlei-allgemein
+# Arbeitsbereich - Kanzlei Allgemein Mandatsvereinbarung, Kanzlei Allgemein Postlauf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-allgemein-mandatsvereinbarung` | Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiegenheit. Prüfraster Mandatsumfang RVG vs. Stundensatz Haftungsbegrenzung Vorschuss Rechtsschutzversicherer KI-Hinweis berufsrechtliche Punkte. Output Mandatsvereinbarungsentwurf Vollmacht Datenschutzhinweis Honorarblatt mit Markierung offener Prüfpunkte. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte. |
 | `kanzlei-allgemein-postlauf` | Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journal Fristen Action-Items nicht zugeordnete Akten Versandbedarf EB und Rückfragen. Erstellt ein Postlauf-Journal und übergibt an Akten Fristen Output Zeit und Rechnung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-allgemein-mandatsvereinbarung`
 
-**Frühere Beschreibung:** Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiegenheit. Prüfraster Mandatsumfang RVG vs. Stundensatz Haftungsbegrenzung Vorschuss Rechtsschutzversicherer KI-Hinweis berufsrechtliche Punkte. Output Mandatsvereinbarungsentwurf Vollmacht Datenschutzhinweis Honorarblatt mit Markierung offener Prüfpunkte. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte.
+**Fokus:** Erstellt Mandatsvereinbarung Vollmacht Datenschutzhinweis Honorarvereinbarung und Vorschuss. Anwendungsfall neues Mandat soll foermlich begründet werden mit allen Pflichtdokumenten nach BRAO. Normen § 3a RVG Honorarvereinbarung § 49b BRAO Verbot Erfolgshonorar Art. 13 DSGVO § 43a BRAO Verschwiegenheit. Prüfraster Mandatsumfang RVG vs. Stundensatz Haftungsbegrenzung Vorschuss Rechtsschutzversicherer KI-Hinweis berufsrechtliche Punkte. Output Mandatsvereinbarungsentwurf Vollmacht Datenschutzhinweis Honorarblatt mit Markierung offener Prüfpunkte. Abgrenzung zu kanzlei-allgemein-mandatsannahme-gwg und kanzlei-allgemein-akte.
 
 # Mandatsvereinbarung und Honorarstart
 
@@ -101,7 +101,7 @@ Wenn das Mandat GwG-relevant ist, in Mandatsvereinbarung oder Begleitschreiben a
 
 ## 2. `kanzlei-allgemein-postlauf`
 
-**Frühere Beschreibung:** Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journal Fristen Action-Items nicht zugeordnete Akten Versandbedarf EB und Rückfragen. Erstellt ein Postlauf-Journal und übergibt an Akten Fristen Output Zeit und Rechnung.
+**Fokus:** Führt den täglichen Postlauf ideal um 11 Uhr. Prüft neue Eingänge beA-Journal Fristen Action-Items nicht zugeordnete Akten Versandbedarf EB und Rückfragen. Erstellt ein Postlauf-Journal und übergibt an Akten Fristen Output Zeit und Rechnung.
 
 # Postlauf um 11 Uhr
 

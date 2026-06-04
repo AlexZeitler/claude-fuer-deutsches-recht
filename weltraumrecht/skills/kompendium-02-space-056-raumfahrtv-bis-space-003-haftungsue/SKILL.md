@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-space-056-raumfahrtv-bis-space-003-haftungsue
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (space-056-raumfahrtvertrag-mit-startdienstleister-launch-service, space-057-nutzlastvertrag-payload-integration-und-schnittstellen, space-088-standardvertragsklauseln-fuer-raumfahrtdaten, space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service, Space 057 Nutzlastvertrag Payload Integration Und Schnittstellen, Space 088 Standardvertragsklauseln Fuer Raumfahrtdaten, Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - weltraumrecht
+# Arbeitsbereich - Space 056 Raumfahrtvertrag Mit Startdienstleister Launch Service bis Space 003 Haftungsuebereinkommen Absoluter Bodenschaden Und Vers
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-056-raumfahrtvertrag-mit-startdienstleister-launch-service` | Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window. |
 | `space-057-nutzlastvertrag-payload-integration-und-schnittstellen` | Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-056-raumfahrtvertrag-mit-startdienstleister-launch-service`
 
-**Frühere Beschreibung:** Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window.
+**Fokus:** Launch Services Agreement – Risikoverteilung, Cross-Waiver, Force Majeure, Launch-Window.
 
 # Weltraumrecht: Raumfahrtvertrag mit Startdienstleister: Launch Services Agreement
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Launch Services Agreement, Cross-
 
 ## 2. `space-057-nutzlastvertrag-payload-integration-und-schnittstellen`
 
-**Frühere Beschreibung:** Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken.
+**Fokus:** Payload Integration Agreement – Schnittstellen, Haftung, Verzug, Eigentumsrisiken.
 
 # Weltraumrecht: Nutzlastvertrag: Payload Integration und Schnittstellen
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Payload Integration Agreement, IC
 
 ## 3. `space-088-standardvertragsklauseln-fuer-raumfahrtdaten`
 
-**Frühere Beschreibung:** Standard-Vertragsklauseln für Raumfahrtdaten – DSGVO SCC, Datentransfer, Copernicus-Datenpolitik.
+**Fokus:** Standard-Vertragsklauseln für Raumfahrtdaten – DSGVO SCC, Datentransfer, Copernicus-Datenpolitik.
 
 # Weltraumrecht: Standardvertragsklauseln für Raumfahrtdaten
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Standardvertragsklauseln Raumfahr
 
 ## 4. `space-003-haftungsuebereinkommen-absoluter-bodenschaden-und-vers`
 
-**Frühere Beschreibung:** Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren.
+**Fokus:** Liability Convention 1972 – Art. II–V: Gefährdungshaftung am Boden, Verschuldenshaftung im Weltraum, Anspruchsverfahren.
 
 # Weltraumrecht: Haftungsübereinkommen: Absoluter Bodenschaden und Verschuldenshaftung im All
 

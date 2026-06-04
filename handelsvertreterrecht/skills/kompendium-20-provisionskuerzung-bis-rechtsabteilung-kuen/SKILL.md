@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-provisionskuerzung-bis-rechtsabteilung-kuen
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (provisionskuerzung, rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis, rechtsabteilung-einstandszahlung-und-agb-kontrolle, rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Provisionskuerzung, Ausgleichsanspruch 89b Mit Datenbeweis, Einstandszahlung Und Agb Kontrolle, Kuendigung Aus Wichtigem Grund Im Vertrieb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - handelsvertreterrecht
+# Arbeitsbereich - Provisionskuerzung bis Kuendigung Aus Wichtigem Grund Im Vertrieb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `provisionskuerzung` | Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen. |
 | `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis` | Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `provisionskuerzung`
 
-**Frühere Beschreibung:** Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen.
+**Fokus:** Analysiert unberechtigte Provisionskürzungen durch den Unternehmer: Zulässigkeit von Stornoreserven, Rückforderungen ausgezahlter Provision, AGB-Kontrolle von Kürzungsklauseln sowie Gegenforderungen des Handelsvertreters und Prozessstrategie bei systematischen Provisionskürzungen.
 
 # Unberechtigte Provisionskürzungen — Stornoreserven und Rückforderungen nach § 87a HGB
 
@@ -108,7 +108,7 @@ Auskunftsrechte, Geheimhaltung (§ 88 HGB) und Delkredere (§ 86b HGB) ergänzen
 
 ## 2. `rechtsabteilung-ausgleichsanspruch-89b-mit-datenbeweis`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Ausgleichsanspruch § 89b mit Datenbeweis: Neukunden, Unternehmervorteil, Billigkeit und Abwanderungsquote werden tabellarisch bewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Ausgleichsanspruch § 89b mit Datenbeweis
 
@@ -148,7 +148,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-einstandszahlung-und-agb-kontrolle`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Einstandszahlung und AGB-Kontrolle: Eintrittsgelder und Schulungspauschalen werden auf versteckte Knebelung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Einstandszahlung und AGB-Kontrolle
 
@@ -188,7 +188,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-kuendigung-aus-wichtigem-grund-im-vertrieb`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Kündigung aus wichtigem Grund im Vertrieb: Abmahnung, Sofortkündigung und Ausgleichsausschluss werden zusammen bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kündigung aus wichtigem Grund im Vertrieb
 

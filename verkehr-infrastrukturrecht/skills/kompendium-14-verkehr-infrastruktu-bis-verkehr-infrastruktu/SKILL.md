@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-verkehr-infrastruktu-bis-verkehr-infrastruktu
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (verkehr-infrastrukturrecht-verkehrsplanung, verkehr-infrastrukturrecht-verkehrswende, verkehr-infrastrukturrecht-wirtschaftsverkehr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Verkehr Infrastrukturrecht Verkehrsplanung, Verkehr Infrastrukturrecht Verkehrswende, Verkehr Infrastrukturrecht Wirtschaftsverkehr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehr-infrastrukturrecht-verkehrsplanung` | Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende. |
 | `verkehr-infrastrukturrecht-verkehrswende` | Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung, Verhältnismäßigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begründungsbausteine für Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehr-infrastrukturrecht-verkehrsplanung`
 
-**Frühere Beschreibung:** Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende.
+**Fokus:** Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende.
 
 # Verkehrsplanung und Projektstrategie
 
@@ -144,7 +144,7 @@ Wir beantragen:
 
 ## 2. `verkehr-infrastrukturrecht-verkehrswende`
 
-**Frühere Beschreibung:** Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung, Verhältnismäßigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begründungsbausteine für Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
+**Fokus:** Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Prüfraster: Rechtsgrundlage Verkehrsanordnung, Verhältnismäßigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begründungsbausteine für Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
 
 # Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung
 
@@ -250,7 +250,7 @@ Bekanntgabe Widerspruch eingelegt werden.
 
 ## 3. `verkehr-infrastrukturrecht-wirtschaftsverkehr`
 
-**Frühere Beschreibung:** Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
+**Fokus:** Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Prüfraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Prüfung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
 
 # Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht
 

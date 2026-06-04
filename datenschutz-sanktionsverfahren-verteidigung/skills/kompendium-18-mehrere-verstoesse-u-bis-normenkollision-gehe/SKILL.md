@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-mehrere-verstoesse-u-bis-normenkollision-gehe
-description: "datenschutz-sanktionsverfahren-verteidigung: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (mehrere-verstoesse-und-art-83-3, milderung-durch-compliance-vor-dem-vorfall, milderung-durch-remediation-nach-dem-vorfall, normenkollision-geheimnisse-und-datenschutzaufsicht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutz-sanktionsverfahren-verteidigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mehrere Verstoesse Und Art 83 3, Milderung Durch Compliance Vor Dem Vorfall, Milderung Durch Remediation Nach Dem Vorfall, Normenkollision Geheimnisse Und Datenschutzaufsicht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - datenschutz-sanktionsverfahren-verteidigung
+# Arbeitsbereich - Mehrere Verstoesse Und Art 83 3 bis Normenkollision Geheimnisse Und Datenschutzaufsicht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mehrere-verstoesse-und-art-83-3` | Mehrere Verstöße und Art. 83 Abs. 3: Mehrfachverstöße aus derselben Verarbeitung und Höchstgrenze nach Art. 83 Abs. 3 prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
 | `milderung-durch-compliance-vor-dem-vorfall` | Milderung durch Compliance vor dem Vorfall: Vorhandene Schulungen, DSFA, AVV, Audits und technische Tests als konkrete Entlastung belegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mehrere-verstoesse-und-art-83-3`
 
-**Frühere Beschreibung:** Mehrere Verstöße und Art. 83 Abs. 3: Mehrfachverstöße aus derselben Verarbeitung und Höchstgrenze nach Art. 83 Abs. 3 prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Mehrere Verstöße und Art. 83 Abs. 3: Mehrfachverstöße aus derselben Verarbeitung und Höchstgrenze nach Art. 83 Abs. 3 prüfen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Mehrere Verstöße und Art. 83 Abs. 3
 
@@ -91,7 +91,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 2. `milderung-durch-compliance-vor-dem-vorfall`
 
-**Frühere Beschreibung:** Milderung durch Compliance vor dem Vorfall: Vorhandene Schulungen, DSFA, AVV, Audits und technische Tests als konkrete Entlastung belegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Milderung durch Compliance vor dem Vorfall: Vorhandene Schulungen, DSFA, AVV, Audits und technische Tests als konkrete Entlastung belegen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Milderung durch Compliance vor dem Vorfall
 
@@ -153,7 +153,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 3. `milderung-durch-remediation-nach-dem-vorfall`
 
-**Frühere Beschreibung:** Milderung durch Remediation nach dem Vorfall: Nachträgliche Maßnahmen, Wirksamkeitsprüfung und Betroffenenschutz für Art.-83-Milderung dokumentieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Milderung durch Remediation nach dem Vorfall: Nachträgliche Maßnahmen, Wirksamkeitsprüfung und Betroffenenschutz für Art.-83-Milderung dokumentieren. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Milderung durch Remediation nach dem Vorfall
 
@@ -215,7 +215,7 @@ Je nach Ergebnis weitere Skills ziehen: `rechtsweg-router-bussgeld-verwaltungsge
 
 ## 4. `normenkollision-geheimnisse-und-datenschutzaufsicht`
 
-**Frühere Beschreibung:** Geheimnisse gegenüber Datenschutzaufsicht: Geschäftsgeheimnis, Mandatsgeheimnis, Bankgeheimnis und Sozialgeheimnis bei Behördenvorlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
+**Fokus:** Geheimnisse gegenüber Datenschutzaufsicht: Geschäftsgeheimnis, Mandatsgeheimnis, Bankgeheimnis und Sozialgeheimnis bei Behördenvorlagen schützen. Normanker: DSGVO Art. 58 und 77-84; BDSG § 41; OWiG §§ 46 und 55 und 66-72; StPO über § 46 OWiG; gerichtliche Zuständigkeit, Beweismaßstab und Unternehmensverantwortung fallbezogen prüfen.
 
 # Geheimnisse gegenüber Datenschutzaufsicht
 

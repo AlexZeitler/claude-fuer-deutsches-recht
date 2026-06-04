@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-grosskanzlei-rollout-bis-kanzlei-prozesse-abb
-description: "kanzlei-builder-hub: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (grosskanzlei-rollout-spezial, kanzlei-builder-hub-anpassen, kanzlei-prozesse-abbilden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-builder-hub: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - kanzlei-builder-hub
+# Arbeitsbereich - Grosskanzlei Rollout Spezial, Kanzlei Builder Hub Anpassen, Kanzlei Prozesse Abbilden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-rollout-spezial` | Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-Workflow fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap. |
 | `kanzlei-builder-hub-anpassen` | Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-rollout-spezial`
 
-**Frühere Beschreibung:** Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-Workflow fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap.
+**Fokus:** Grosskanzlei-Rollout: Pilotphase, Rollout-Welle, Trainings, Governance, Approval-Workflow fuer Skill-Eintraege, Audit-Trail, Datenschutz-Folgenabschaetzung. Mustertexte und Roadmap.
 
 # Grosskanzlei-Rollout
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `kanzlei-builder-hub`. Er ergaenzt die uebrigen 
 
 ## 2. `kanzlei-builder-hub-anpassen`
 
-**Frühere Beschreibung:** Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation.
+**Fokus:** Kanzlei-Builder-Hub an kanzleispezifische Anforderungen anpassen: eigene Plugins, Branding, Workflows. Normen: technisch/intern. Prüfraster: Anpassungsumfang, Kompatibilitaet, Testbedarf. Output: Anpassungs-Konfigurationsdokument. Abgrenzung: nicht Standardinstallation.
 
 # /anpassen — Kanzleiprofil und Einstellungen anpassen
 
@@ -258,7 +258,7 @@ TOM-Status aktualisieren:
 
 ## 3. `kanzlei-prozesse-abbilden`
 
-**Frühere Beschreibung:** Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Output? Vorlage zum Anpassen.
+**Fokus:** Typische Kanzlei-Prozesse mit Plugins und Skills abbilden: Mandatsaufnahme, Akteneinsicht, Schriftsatzentwurf, Fristenkontrolle, Rechnung, Archivierung. Pro Prozess: Welche Plugins (Skills) helfen, in welcher Reihenfolge, mit welchem Output? Vorlage zum Anpassen.
 
 # Kanzlei-Prozesse abbilden
 

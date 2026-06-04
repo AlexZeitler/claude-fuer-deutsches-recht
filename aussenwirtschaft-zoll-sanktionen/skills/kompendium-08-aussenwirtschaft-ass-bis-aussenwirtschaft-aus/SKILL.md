@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-aussenwirtschaft-ass-bis-aussenwirtschaft-aus
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (aussenwirtschaft-asset-freeze-sofortmassnahmen, aussenwirtschaft-atlas-ausfuhranmeldung-check, aussenwirtschaft-audit-trail-freigaben, aussenwirtschaft-ausfuhrverantwortlicher-organisation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Asset Freeze Sofortmassnahmen, Aussenwirtschaft Atlas Ausfuhranmeldung Check, Aussenwirtschaft Audit Trail Freigaben, Aussenwirtschaft Ausfuhrverantwortlicher Organisation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Asset Freeze Sofortmassnahmen bis Aussenwirtschaft Ausfuhrverantwortlicher Organisation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-asset-freeze-sofortmassnahmen` | Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument. |
 | `aussenwirtschaft-atlas-ausfuhranmeldung-check` | Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Pruefung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATLAS. Output: Fehler-Korrekturliste und freigegebene Anmeldung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-asset-freeze-sofortmassnahmen`
 
-**Frühere Beschreibung:** Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument.
+**Fokus:** Sofortmassnahmen bei Verdacht auf sanktionierten Besitz oder Kontrollverhaeltnis: Einfrieren von Geldern und wirtschaftlichen Ressourcen nach Art. 2 VO (EU) 269/2014 und Art. 4 VO (EU) 833/2014. Checkliste fuer Banken, Notare und Unternehmen: Identifizierung sanktionierbarer Vermoegen, Meldepflicht an Bundesbank/BaFin und zustaendige Behoerden. Output: Einfrierungs-Protokoll und Meldedokument.
 
 # Asset Freeze: Sofortmassnahmen beim Einfrieren sanktionierten Vermoegens
 
@@ -117,7 +117,7 @@ Einfrierungs-Protokoll mit Treffernachweis, Meldeschreiben an Bundesbank/BaFin/B
 
 ## 2. `aussenwirtschaft-atlas-ausfuhranmeldung-check`
 
-**Frühere Beschreibung:** Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Pruefung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATLAS. Output: Fehler-Korrekturliste und freigegebene Anmeldung.
+**Fokus:** Qualitaetssicherung und Fehleranalyse von ATLAS-Ausfuhranmeldungen (EXA): Pruefung der Pflichtfelder nach UZK Art. 162-163 und DA Anhang B, Einreihung (KN-Code), Warenwerttaetigung, Verfahrenscodes, Lizenz- und Genehmigungshinweise sowie MRN-Status. Identifiziert typische Ablehnungsgruende in ATLAS. Output: Fehler-Korrekturliste und freigegebene Anmeldung.
 
 # ATLAS-Ausfuhranmeldung: Qualitaetscheck und Fehlerkorrektur
 
@@ -204,7 +204,7 @@ Fehler-Korrekturliste mit Feld-Referenz und Korrekturvorschlag, freigegebene Anm
 
 ## 3. `aussenwirtschaft-audit-trail-freigaben`
 
-**Frühere Beschreibung:** Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation fuer Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie.
+**Fokus:** Aufbau und Pflege revisionssicherer Audit-Trails fuer Exportkontroll-Freigaben: Dokumentationsstandards nach AWG § 14 und AWV § 24 (Aufbewahrungsfristen) sowie Anforderungen der EU-Dual-Use-VO Art. 20. Sichert Freigabeprotokolle, Screening-Logs, Genehmigungsunterlagen und Kommunikation fuer Pruefungssituationen. Output: Audit-Trail-Struktur und Dokumentationsrichtlinie.
 
 # Audit-Trail: Revisionssichere Freigabedokumentation im Aussenhandel
 
@@ -292,7 +292,7 @@ Audit-Trail-Konzept mit Dokumentenkategorien und Aufbewahrungsfristen, Prozess-F
 
 ## 4. `aussenwirtschaft-ausfuhrverantwortlicher-organisation`
 
-**Frühere Beschreibung:** Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funktion ein. Output: Stellenbeschreibung und Organisationsvermerk.
+**Fokus:** Benennung und Organisation des Ausfuhrverantwortlichen nach AWG § 7 und BAFA-Anforderungen: Aufgaben, Vollmachten und Haftung des Ausfuhrverantwortlichen, Einbindung in Compliance-Struktur, interne Berichtslinien und Vertretungsregeln. Fallkonstellation: KMU richtet erstmals Exportkontroll-Funktion ein. Output: Stellenbeschreibung und Organisationsvermerk.
 
 # Ausfuhrverantwortlicher: Funktion, Haftung und Organisation
 

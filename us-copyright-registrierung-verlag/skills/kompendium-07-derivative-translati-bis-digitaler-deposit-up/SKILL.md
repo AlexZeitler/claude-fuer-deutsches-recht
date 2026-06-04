@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-derivative-translati-bis-digitaler-deposit-up
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (derivative-translation-revised-edition, digital-audio-recording-act, digital-transmission-streaming, digitaler-deposit-upload) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Derivative Translation Revised Edition, Digital Audio Recording Act, Digital Transmission Streaming, Digitaler Deposit Upload; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Derivative Translation Revised Edition bis Digitaler Deposit Upload
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `derivative-translation-revised-edition` | Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen. |
 | `digital-audio-recording-act` | Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `derivative-translation-revised-edition`
 
-**Frühere Beschreibung:** Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen.
+**Fokus:** Übersetzungen, Bearbeitungen und Neuauflagen: neuen Schutzgegenstand von Vorwerk, Fremdmaterial und unveränderter Backlist trennen.
 
 # Derivative Works, Übersetzungen und Neuauflagen
 
@@ -73,7 +73,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `digital-audio-recording-act`
 
-**Frühere Beschreibung:** Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen.
+**Fokus:** Prueft Chapter 10: digital audio recording devices, media, serial copy management und royalty-Schnittstellen.
 
 # Digital Audio Recording Act
 
@@ -141,7 +141,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `digital-transmission-streaming`
 
-**Frühere Beschreibung:** Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits.
+**Fokus:** Prueft Streams, Downloads, interactive/noninteractive services, public performance, mechanicals, sound recording und platform splits.
 
 # Digital Transmission und Streaming
 
@@ -209,7 +209,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `digitaler-deposit-upload`
 
-**Frühere Beschreibung:** Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen.
+**Fokus:** Digitaler Deposit-Upload im eCO: zulässige Fälle, Dateiformate, separate Files bei Gruppenoptionen, Abschluss nach Pay.gov und typische Upload-Fallen.
 
 # Digitaler Deposit Upload
 

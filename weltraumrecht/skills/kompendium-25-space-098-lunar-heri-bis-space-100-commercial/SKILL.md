@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-space-098-lunar-heri-bis-space-100-commercial
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 25; bündelt 3 frühere Spezialskills (space-098-lunar-heritage-schutz-historischer-mondlandestellen, space-099-quantenkommunikation-via-satellit-bsi-und-iso-27001, space-100-commercial-leo-destinations-iss-nachfolge) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Commercial Leo Destinations Iss Nachfolge; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - weltraumrecht
+# Arbeitsbereich - Space 098 Lunar Heritage Schutz Historischer Mondlandestellen, Space 099 Quantenkommunikation Via Satellit Bsi Und Iso 27001, Space 100 Comme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-098-lunar-heritage-schutz-historischer-mondlandestellen` | Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen. |
 | `space-099-quantenkommunikation-via-satellit-bsi-und-iso-27001` | Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild fuer Quantenkommunikations-Mandate. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-098-lunar-heritage-schutz-historischer-mondlandestellen`
 
-**Frühere Beschreibung:** Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen.
+**Fokus:** Lunar Heritage: Schutz historischer Mondlandestellen und ihrer Artefakte. Klaert das US One Small Step to Protect Human Heritage in Space Act 2020 die Auslegung der Artikel I II und IX OST zur Frage Non-Appropriation und Common Heritage NASA Recommendations to Space-Faring Entities und das ICOMOS Heritage on the Moon. Behandelt private Bergung Tourismus Rover-Annaeherung und kommerzielle Nutzung historischer Stellen. Liefert Pruefraster und Risiko-Cockpit fuer Mondmissionen mit Annaeherung an Apollo Luna Chang E historische Stellen.
 
 # Lunar Heritage und Schutz historischer Mondlandestellen
 
@@ -85,7 +85,7 @@ Skill fuer Mandate aus dem Mond-Sektor, in denen die Annaeherung an oder die Ber
 
 ## 2. `space-099-quantenkommunikation-via-satellit-bsi-und-iso-27001`
 
-**Frühere Beschreibung:** Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild fuer Quantenkommunikations-Mandate.
+**Fokus:** Quantenkommunikation via Satellit: Quantum Key Distribution QKD-Missionen und Schluesselverteilung uebersatellitisches Backbone. Klaert die Pflichten nach BSI-Gesetz NIS2-RL Geheimschutz-Verordnung GHB sowie ITU-Frequenzkoordination und Exportkontrolle (Wassenaar Arrangement EU Dual-Use VO 2021/821). Behandelt Architektur Ground Segment Sicherheitsanforderungen Beweissicherung im Zwischenfall und Versicherbarkeit. Liefert Pruefraster und Schaltbild fuer Quantenkommunikations-Mandate.
 
 # Quantenkommunikation via Satellit
 
@@ -153,7 +153,7 @@ Skill fuer Mandate aus Quantum-Communication-as-a-Service (QCaaS), QKD-Backbone-
 
 ## 3. `space-100-commercial-leo-destinations-iss-nachfolge`
 
-**Frühere Beschreibung:** Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln fuer Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster.
+**Fokus:** Commercial LEO Destinations: rechtliche Architektur kommerzieller Low-Earth-Orbit-Stationen Axiom Orbital Reef Starlab Haven-1 als ISS-Nachfolge. Klaert NASA-Commercial-LEO-Programme Phase 2 Vertragsarchitektur Space Act Agreement Service Level Agreements zwischen Modul-Eigentuemer Crew-Provider Cargo-Provider Forschungsnutzern. Behandelt deutsche und europaeische Beteiligung Versicherbarkeit IP-Schutz an Bord und Standardvertragsklauseln fuer Mikrogravitations-Experimente. Liefert Vertragsarchitektur und Pruefraster.
 
 # Commercial LEO Destinations - ISS-Nachfolge
 

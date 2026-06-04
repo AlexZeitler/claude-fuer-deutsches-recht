@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-tier-003-tierschg-gr-bis-tier-007-tierschutz
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (tier-003-tierschg-grundsatz-und-leiden-pruefen, tier-005-haltung-und-betreuung-dokumentieren, tier-006-anordnung-und-wegnahme-pruefen, tier-007-tierschutz-strafanzeige-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 003 Tierschg Grundsatz Und Leiden Pruefen, Tier 005 Haltung Und Betreuung Dokumentieren, Tier 006 Anordnung Und Wegnahme Pruefen, Tier 007 Tierschutz Strafanzeige Vorbereiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - tierschutzrecht
+# Arbeitsbereich - Tier 003 Tierschg Grundsatz Und Leiden Pruefen bis Tier 007 Tierschutz Strafanzeige Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-003-tierschg-grundsatz-und-leiden-pruefen` | Tierschutzrecht: TierSchG-Grundsatz und Leiden prüfen. TierSchG-Grundsatz und Leiden prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `tier-005-haltung-und-betreuung-dokumentieren` | Tierschutzrecht: Haltung und Betreuung dokumentieren. Haltung und Betreuung dokumentieren im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-003-tierschg-grundsatz-und-leiden-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: TierSchG-Grundsatz und Leiden prüfen. TierSchG-Grundsatz und Leiden prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: TierSchG-Grundsatz und Leiden prüfen. TierSchG-Grundsatz und Leiden prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierschg Grundsatz Und Leiden Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-005-haltung-und-betreuung-dokumentieren`
 
-**Frühere Beschreibung:** Tierschutzrecht: Haltung und Betreuung dokumentieren. Haltung und Betreuung dokumentieren im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Haltung und Betreuung dokumentieren. Haltung und Betreuung dokumentieren im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Haltung Und Betreuung Dokumentieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-006-anordnung-und-wegnahme-pruefen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Anordnung und Wegnahme prüfen. Anordnung und Wegnahme prüfen im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Anordnung Und Wegnahme Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-007-tierschutz-strafanzeige-vorbereiten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tierschutz-Strafanzeige vorbereiten. Tierschutz-Strafanzeige vorbereiten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Tierschutz-Strafanzeige vorbereiten. Tierschutz-Strafanzeige vorbereiten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierschutz Strafanzeige Vorbereiten
 

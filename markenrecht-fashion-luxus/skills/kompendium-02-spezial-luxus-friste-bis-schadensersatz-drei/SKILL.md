@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-spezial-luxus-friste-bis-schadensersatz-drei
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (spezial-luxus-fristen-form-und-zustaendigkeit, agb-haendlervertrag-luxus, rechtsabteilung-plattformhaftung-nach-louboutin-amazon, schadensersatz-drei-methoden-auskunft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luxus Fristen Form Und Zustaendigkeit, Agb Haendlervertrag Luxus, Plattformhaftung Nach Louboutin Amazon, Schadensersatz Drei Methoden Auskunft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - markenrecht-fashion-luxus
+# Arbeitsbereich - Luxus Fristen Form Und Zustaendigkeit bis Schadensersatz Drei Methoden Auskunft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-luxus-fristen-form-und-zustaendigkeit` | Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agb-haendlervertrag-luxus` | AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-luxus-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Luxus: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin markenrecht fashion luxus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Luxus: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `agb-haendlervertrag-luxus`
 
-**Frühere Beschreibung:** AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control.
+**Fokus:** AGB- und Händlervertragsprüfung für Luxus-Selektivvertrieb: Qualitätskriterien, Plattformverbote, MFN, Vertragsstrafe, MAP/UPE, Vertikal-GVO, B2B-AGB-Kontrolle und markenrechtliche Brand-Control.
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb
 
@@ -216,7 +216,7 @@ Quelle: dejure.org. Prufer: Bundle-005-Audit.
 
 ## 3. `rechtsabteilung-plattformhaftung-nach-louboutin-amazon`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Plattformhaftung nach Louboutin-Amazon: Markeninhaber prüfen, ob Marketplace-Auftritt dem Plattformbetreiber als eigene Nutzung zugerechnet werden kann. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Plattformhaftung nach Louboutin-Amazon
 
@@ -263,7 +263,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `schadensersatz-drei-methoden-auskunft`
 
-**Frühere Beschreibung:** Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert.
+**Fokus:** Schadensersatz im Markenrecht berechnen und vorbereiten: konkrete Schadensberechnung, Verletzergewinn, Lizenzanalogie, Auskunft, Rechnungslegung, Vernichtung, Rückruf, Kosten und Vergleichswert.
 
 # Schadensersatz, Auskunft und Rechnungslegung
 

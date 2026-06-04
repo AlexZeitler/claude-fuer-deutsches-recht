@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-entscheidungsgruende-bis-incoterms-und-gefahr
-description: "urteilsbauer-relationsmacher: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (entscheidungsgruende-zivil-schreiben, familienrichter-spezifika, incoterms-und-gefahruebergang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urteilsbauer-relationsmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entscheidungsgruende Zivil Schreiben, Familienrichter Spezifika, Incoterms Und Gefahruebergang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - urteilsbauer-relationsmacher
+# Arbeitsbereich - Entscheidungsgruende Zivil Schreiben, Familienrichter Spezifika, Incoterms Und Gefahruebergang
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entscheidungsgruende-zivil-schreiben` | Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil. |
 | `familienrichter-spezifika` | FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entscheidungsgruende-zivil-schreiben`
 
-**Frühere Beschreibung:** Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil.
+**Fokus:** Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil.
 
 # Entscheidungsgründe schreiben
 
@@ -131,7 +131,7 @@ Praesens, Indikativ, im Aktiv, kurze Sätze, eine Sache pro Satz.
 
 ## 2. `familienrichter-spezifika`
 
-**Frühere Beschreibung:** FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo.
+**Fokus:** FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo.
 
 # Familienrichter Spezifika
 
@@ -219,7 +219,7 @@ Beschwerde nach Paragraf 58 ff FamFG, Frist 1 Monat (in Eilfällen 14 Tage), bei
 
 ## 3. `incoterms-und-gefahruebergang`
 
-**Frühere Beschreibung:** Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag prüfen: Streit über Transportschaden oder Lieferpflicht. Normen: Incoterms 2020 (FOB, CIF, EXW, DAP, DDP), CISG Art. 31 und 67 ff. (Gefahruebergang). Prüfraster: Einschlaegige Incoterms-Klausel, Lieferort, Gefahruebergang-Zeitpunkt, Versicherungspflicht, Zoll, Verhaltnis zu CISG. Output Rechtsgutachten-Entwurf zu Gefahruebergang, Anspruchsschema. Abgrenzung: CISG Anwendbarkeit siehe cisg-prüfen; IPR siehe internationales-privatrecht.
+**Fokus:** Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag prüfen: Streit über Transportschaden oder Lieferpflicht. Normen: Incoterms 2020 (FOB, CIF, EXW, DAP, DDP), CISG Art. 31 und 67 ff. (Gefahruebergang). Prüfraster: Einschlaegige Incoterms-Klausel, Lieferort, Gefahruebergang-Zeitpunkt, Versicherungspflicht, Zoll, Verhaltnis zu CISG. Output Rechtsgutachten-Entwurf zu Gefahruebergang, Anspruchsschema. Abgrenzung: CISG Anwendbarkeit siehe cisg-prüfen; IPR siehe internationales-privatrecht.
 
 # Incoterms und Gefahrübergang
 

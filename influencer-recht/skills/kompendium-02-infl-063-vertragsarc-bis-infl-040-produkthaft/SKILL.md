@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-infl-063-vertragsarc-bis-infl-040-produkthaft
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (infl-063-vertragsarchiv-creator-dashboard, infl-028-hassrede-kommentare-moderation-und-haftung, infl-040-produkthaftung-empfehlung-und-haftungsrisiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftungsrisiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - influencer-recht
+# Arbeitsbereich - Infl 063 Vertragsarchiv Creator Dashboard, Infl 028 Hassrede Kommentare Moderation Und Haftung, Infl 040 Produkthaftung Empfehlung Und Haftun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-063-vertragsarchiv-creator-dashboard` | Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht. |
 | `infl-028-hassrede-kommentare-moderation-und-haftung` | Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-063-vertragsarchiv-creator-dashboard`
 
-**Frühere Beschreibung:** Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht.
+**Fokus:** Influencer-Recht: Vertragsarchiv und Creator-Dashboard – Vertragsverwaltung, Fristen, Nutzungsrechte-Tracking und Compliance-Übersicht.
 
 # Influencer-Recht: Vertragsarchiv und Creator-Dashboard
 
@@ -96,7 +96,7 @@ Strukturierte Vertragsverwaltung ist Grundlage für Compliance und Betriebsprüf
 
 ## 2. `infl-028-hassrede-kommentare-moderation-und-haftung`
 
-**Frühere Beschreibung:** Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen.
+**Fokus:** Influencer-Recht: Hassrede in Kommentaren – Creator-Haftung, Moderationspflicht, NetzDG, Strafrecht und Schutzmaßnahmen.
 
 # Influencer-Recht: Hassrede, Kommentare, Moderation und Haftung
 
@@ -164,7 +164,7 @@ Creator können für Kommentare unter ihren Posts haften, wenn sie nicht moderie
 
 ## 3. `infl-040-produkthaftung-empfehlung-und-haftungsrisiko`
 
-**Frühere Beschreibung:** Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung.
+**Fokus:** Influencer-Recht: Produkthaftung bei Empfehlungen – ProdHaftG, § 823 BGB, Haftungsfreistellung, Freistellungsklauseln und Risikoabsicherung.
 
 # Influencer-Recht: Produkthaftung – Empfehlung und Haftungsrisiko
 

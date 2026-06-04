@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-ki-vo-artikel-6-hoch-bis-kollaborierende-robo
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 14; bündelt 6 frühere Spezialskills (ki-vo-artikel-6-hochrisiko-robotik, ki-vo-deployer-pflichten-robotik, ki-vo-provider-qms-und-risk-management, ki-vo-verbotene-praktiken-robotik, klinische-bewertung-robotik und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Vo Artikel 6 Hochrisiko Robotik, Ki Vo Deployer Pflichten Robotik, Ki Vo Provider Qms Und Risk Management, Ki Vo Verbotene Praktiken Robotik und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - robotik-recht
+# Arbeitsbereich - Ki Vo Artikel 6 Hochrisiko Robotik bis Kollaborierende Roboter Cobot Safety
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-vo-artikel-6-hochrisiko-robotik` | Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz. |
 | `ki-vo-deployer-pflichten-robotik` | Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-vo-artikel-6-hochrisiko-robotik`
 
-**Frühere Beschreibung:** Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz.
+**Fokus:** Prüft Hochrisiko-KI nach Art. 6 KI-VO bei Sicherheitskomponente, Produktregime oder Anhang-III-Einsatz.
 
 # Art. 6 Hochrisiko Robotik
 
@@ -82,7 +82,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `ki-vo-deployer-pflichten-robotik`
 
-**Frühere Beschreibung:** Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung.
+**Fokus:** Prüft Betreiber-/Deployerpflichten: Nutzung nach Anleitung, Aufsicht, Eingabedaten, Monitoring, Grundrechtefolgen und Logaufbewahrung.
 
 # Deployer-Pflichten Robotik
 
@@ -133,7 +133,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `ki-vo-provider-qms-und-risk-management`
 
-**Frühere Beschreibung:** Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight.
+**Fokus:** Prüft Anbieterpflichten für Hochrisiko-KI: QMS, Risikomanagement, Daten, Dokumentation, Logging, Transparenz und Human Oversight.
 
 # Provider-QMS und Risikomanagement
 
@@ -184,7 +184,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `ki-vo-verbotene-praktiken-robotik`
 
-**Frühere Beschreibung:** Prüft Manipulation, Vulnerabilität, Social Scoring, biometrische Kategorisierung und Emotionserkennung im Robotikkontext.
+**Fokus:** Prüft Manipulation, Vulnerabilität, Social Scoring, biometrische Kategorisierung und Emotionserkennung im Robotikkontext.
 
 # Verbotene Praktiken Robotik
 
@@ -235,7 +235,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 5. `klinische-bewertung-robotik`
 
-**Frühere Beschreibung:** Prüft klinische Bewertung und Zweckbestimmung bei medizinischer Robotik mit KI-Funktion.
+**Fokus:** Prüft klinische Bewertung und Zweckbestimmung bei medizinischer Robotik mit KI-Funktion.
 
 # Klinische Bewertung Robotik
 
@@ -286,7 +286,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 6. `kollaborierende-roboter-cobot-safety`
 
-**Frühere Beschreibung:** Prüft Cobots: Kraft-/Leistungsbegrenzung, Sicherheitsabstände, Schutzräume, Betriebsarten, Validierung und Arbeitsplatzintegration.
+**Fokus:** Prüft Cobots: Kraft-/Leistungsbegrenzung, Sicherheitsabstände, Schutzräume, Betriebsarten, Validierung und Arbeitsplatzintegration.
 
 # Cobot Safety
 

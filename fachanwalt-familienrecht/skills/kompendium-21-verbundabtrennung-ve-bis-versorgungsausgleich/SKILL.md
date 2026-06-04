@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-verbundabtrennung-ve-bis-versorgungsausgleich
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (verbundabtrennung-versorgungsausgleich, vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg, vergleichsverhandlung-strategie, versorgungsausgleich-rentenmix-inland-ausland, versorgungsausgleich-und-versorgungsausgleichskasse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verbundabtrennung Versorgungsausgleich, Vereinbarung Ueber Versorgungsausgleich 6 Ff Versausglg, Vergleichsverhandlung Strategie, Versorgungsausgleich Rentenmix Inland Ausland und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fachanwalt-familienrecht
+# Arbeitsbereich - Verbundabtrennung Versorgungsausgleich bis Versorgungsausgleich Und Versorgungsausgleichskasse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verbundabtrennung-versorgungsausgleich` | Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg` | Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verbundabtrennung-versorgungsausgleich`
 
-**Frühere Beschreibung:** Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Verbundabtrennung Versorgungsausgleich: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Verbundabtrennung Versorgungsausgleich
 
@@ -84,7 +84,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `vereinbarung-ueber-versorgungsausgleich-6-ff-versausglg`
 
-**Frühere Beschreibung:** Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Vereinbarung über Versorgungsausgleich §§ 6 ff VersAusglG
 
@@ -138,7 +138,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Familien-, Kindschafts- und Versorgungsausgleichsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 # Vergleichsverhandlung und Einigung im Familien-, Kindschafts- und Versorgungsausgleichsrecht
 
@@ -318,7 +318,7 @@ Klassische Stolperfalle in Familien-, Kindschafts- und Versorgungsausgleichsrech
 
 ## 4. `versorgungsausgleich-rentenmix-inland-ausland`
 
-**Frühere Beschreibung:** Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.; Normanker: VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.; Normanker: VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Versorgungsausgleich bei gesetzlicher Rente, Beamtenversorgung, Versorgungswerk, Ausland und privaten Anrechten.
 
@@ -356,7 +356,7 @@ VersAusglG; FamFG; SGB VI; beamtenrechtliche Versorgung. Rechtsprechung wird nur
 
 ## 5. `versorgungsausgleich-und-versorgungsausgleichskasse`
 
-**Frühere Beschreibung:** Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Versorgungsausgleich und Versorgungsausgleichskasse: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Versorgungsausgleich und Versorgungsausgleichskasse
 

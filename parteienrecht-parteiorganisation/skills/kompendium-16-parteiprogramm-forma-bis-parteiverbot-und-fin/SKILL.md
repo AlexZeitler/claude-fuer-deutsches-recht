@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-parteiprogramm-forma-bis-parteiverbot-und-fin
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (parteiprogramm-formal, parteitag-planung, parteiverbot-und-finanzierungsausschluss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Parteiprogramm Formal, Parteitag Planung, Parteiverbot Und Finanzierungsausschluss
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `parteiprogramm-formal` | Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung. |
 | `parteitag-planung` | Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `parteiprogramm-formal`
 
-**Frühere Beschreibung:** Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung.
+**Fokus:** Hilft beim formal korrekten Programm-/Grundsatzbeschluss ohne politische Inhaltsberatung.
 
 # Parteiprogramm formal
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `parteitag-planung`
 
-**Frühere Beschreibung:** Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll.
+**Fokus:** Plant Parteitag/Hauptversammlung: Einladung, Antragsfristen, Wahlordnung, Mandatsprüfung, Präsidium, Protokoll.
 
 # Parteitag Planung
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `parteiverbot-und-finanzierungsausschluss`
 
-**Frühere Beschreibung:** Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung.
+**Fokus:** Routet nur formal: Zuständigkeiten, Folgen, Vorsicht, keine politische Bewertung.
 
 # Parteiverbot/Finanzierungsausschluss
 

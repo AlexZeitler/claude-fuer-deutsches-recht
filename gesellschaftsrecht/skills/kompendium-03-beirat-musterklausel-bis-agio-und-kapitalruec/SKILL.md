@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-beirat-musterklausel-bis-agio-und-kapitalruec
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (beirat-musterklauseln, beirat-haftung, geschaeftsfuehrer-haftung-43-gmbhg, rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage, agio-und-kapitalruecklage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beirat Musterklauseln, Beirat Haftung, Geschaeftsfuehrer Haftung 43 Gmbhg, Geschaeftsfuehrerhaftung Fuer Compliance Versage und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - gesellschaftsrecht
+# Arbeitsbereich - Beirat Musterklauseln bis Agio Und Kapitalruecklage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beirat-musterklauseln` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `beirat-haftung` | GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beirat-musterklauseln`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Musterklauseln
 
@@ -96,7 +96,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `beirat-haftung`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin gesellschaftsrecht: Beirat Haftung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Haftung
 
@@ -162,7 +162,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `geschaeftsfuehrer-haftung-43-gmbhg`
 
-**Frühere Beschreibung:** Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung.
+**Fokus:** Geschäftsführer haftet persoenlich oder Gesellschaft klagt gegen ihn auf Schadensersatz nach Insolvenz. Prüfraster § 43 GmbHG Sorgfalt ordentlicher Geschäftsmann Business Judgement Rule analog § 93 Abs. 1 Satz 2 AktG. Insolvenzantragspflicht-Verletzung § 15a InsO Zahlungsverbot § 15b InsO Compliance-Pflichten Steuer-Haftung § 69 AO Sozialversicherung § 266a StGB. Entlastung Sperrwirkung Beweislast Verjährung fuenf Jahre § 43 Abs. 4 GmbHG. D&O-Versicherung Selbstbehalt. Output Haftungs-Prüf-Memo mit Risikoampel Verteidigungs-Argumenten oder Schadensersatz-Berechnung.
 
 # Geschäftsführer-Haftung § 43 GmbHG prüfen
 
@@ -303,7 +303,7 @@ Fristnotiz: Verjährung läuft ab [DATUM DER PFLICHTVERLETZUNG] + 5 Jahre = [DAT
 
 ## 4. `rechtsabteilung-geschaeftsfuehrerhaftung-fuer-compliance-versage`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Geschäftsführerhaftung für Compliance-Versagen: Compliance-Redflags werden in Organpflichten, Ressortverteilung und D&O-Meldung übersetzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Geschäftsführerhaftung für Compliance-Versagen
 
@@ -359,7 +359,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `agio-und-kapitalruecklage`
 
-**Frühere Beschreibung:** Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; § 3 Abs. 2 GmbHG als Anker; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach § 21 UmwStG; steuerliches Einlagekonto § 27 KStG; Differenzierung nach Fälligkeit bei Kapitalerhöhung; Eintragungshindernis vs. Unwirksamkeit. Lädt bei Mandaten zu VC-Finanzierungsrunden Holding-Strukturierungen Sachagio-Einbringungen und Satzungsformulierungen mit Aufgeld.
+**Fokus:** Echtes (korporatives) und unechtes (schuldrechtliches) Agio in der GmbH bei Gründung und Kapitalerhöhung; § 3 Abs. 2 GmbHG als Anker; § 272 Abs. 2 Nr. 1 vs. Nr. 4 HGB; Sachagio im Rahmen des qualifizierten Anteilstauschs nach § 21 UmwStG; steuerliches Einlagekonto § 27 KStG; Differenzierung nach Fälligkeit bei Kapitalerhöhung; Eintragungshindernis vs. Unwirksamkeit. Lädt bei Mandaten zu VC-Finanzierungsrunden Holding-Strukturierungen Sachagio-Einbringungen und Satzungsformulierungen mit Aufgeld.
 
 # Agio und Kapitalrücklage in der GmbH
 

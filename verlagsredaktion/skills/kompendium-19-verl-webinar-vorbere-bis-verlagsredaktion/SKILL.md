@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-verl-webinar-vorbere-bis-verlagsredaktion
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (verl-webinar-vorbereitung-fachbeitrag, verl-zeitschriftenartikel-leitfaden, verl-zitierweise-pruefung-zeitschrift-jus-njw, verl-zweitverwertungsrechte-pauschal, verlagsredaktion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Webinar Vorbereitung Fachbeitrag, Verl Zeitschriftenartikel Leitfaden, Verl Zitierweise Pruefung Zeitschrift Jus Njw, Verl Zweitverwertungsrechte Pauschal und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - verlagsredaktion
+# Arbeitsbereich - Verl Webinar Vorbereitung Fachbeitrag bis Verlagsredaktion
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-webinar-vorbereitung-fachbeitrag` | Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung. |
 | `verl-zeitschriftenartikel-leitfaden` | Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster fuer Autorin und Verlag. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-webinar-vorbereitung-fachbeitrag`
 
-**Frühere Beschreibung:** Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung.
+**Fokus:** Webinar-Vorbereitung als Fachbeitrag-Sequel: Vom Aufsatz zur Onlineveranstaltung. Vertrag mit Autor, FAO-Fortbildungspunkte, Technik, Datenschutz, Aufzeichnung und Vermarktung.
 
 # Webinar-Vorbereitung als Fachbeitrag-Sequel
 
@@ -206,7 +206,7 @@ Fortbildung anerkannt.
 
 ## 2. `verl-zeitschriftenartikel-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster fuer Autorin und Verlag.
+**Fokus:** Leitfaden Zeitschriftenartikel: Auswahl Zeitschrift, Manuskriptregeln, Peer Review, Open Access. Pruefraster fuer Autorin und Verlag.
 
 # Verl: Zeitschriftenartikel
 
@@ -259,7 +259,7 @@ Dieser Skill gehoert zum Plugin `verlagsredaktion`. Er ergaenzt die uebrigen Ski
 
 ## 3. `verl-zitierweise-pruefung-zeitschrift-jus-njw`
 
-**Frühere Beschreibung:** Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination.
+**Fokus:** Prueft die Zitierweise in Manuskripten gegen die jeweiligen Hausnormen von NJW NZA JuS JZ und verwandten Fachzeitschriften ohne Halluzination.
 
 # Zitierweise-Pruefung (NJW, NZA, JuS, JZ, ...)
 
@@ -353,7 +353,7 @@ Hinweis: Die exakte Hausnorm immer aus den jeweils geltenden Manuskriptrichtlini
 
 ## 4. `verl-zweitverwertungsrechte-pauschal`
 
-**Frühere Beschreibung:** Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizenz an juris/beck-online, Open Access, Sonderdruck, Festschriftsuebernahme, Bearbeitungen. Honorarverteilung und § 38 UrhG.
+**Fokus:** Zweitverwertungsrechte und Nebenrechte pauschal vereinbaren: Lizenz an juris/beck-online, Open Access, Sonderdruck, Festschriftsuebernahme, Bearbeitungen. Honorarverteilung und § 38 UrhG.
 
 # Zweitverwertungsrechte
 
@@ -499,7 +499,7 @@ Mit freundlichen Gruessen
 
 ## 5. `verlagsredaktion`
 
-**Frühere Beschreibung:** Kernskill fuer verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten.
+**Fokus:** Kernskill fuer verlegerische Rohmanuskript- und Editionsarbeit: Material inventarisieren, strukturieren, redigieren, Luecken markieren, Quellen trennen und Autor:innenfreigaben vorbereiten.
 
 # Verlagsredaktion — Kernskill
 

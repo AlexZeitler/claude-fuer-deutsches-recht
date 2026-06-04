@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-db-026-datenbankrech-bis-db-028-einstweilige
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (db-026-datenbankrecht-im-e-commerce-marktplatz, db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko, db-028-einstweilige-verfuegung-datenbankrecht-dringlichkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfuegung Datenbankrecht Dringlichkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - datenbankrecht
+# Arbeitsbereich - Db 026 Datenbankrecht Im E Commerce Marktplatz, Db 027 Verletzung Dokumentieren Hashlog Screenshot Crawl Protoko, Db 028 Einstweilige Verfueg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-026-datenbankrecht-im-e-commerce-marktplatz` | Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber. |
 | `db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko` | Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-026-datenbankrecht-im-e-commerce-marktplatz`
 
-**Frühere Beschreibung:** Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber.
+**Fokus:** Datenbankrecht für E-Commerce-Marktplätze: §§ 87a-87e UrhG für Produktdatenbanken auf Marktplätzen, Schutz gegen Händler-Datenexporte und Wettbewerber-Scraping, P2B-VO 2019/1150 Transparenzpflichten, Verhältnis zu AGB-Rechten des Marktplatzes und DSGVO bei Nutzerdaten. Erstellt Schutzkonzept und Datenbankklauseln für Marktplatzbetreiber.
 
 # Datenbankrecht im E-Commerce-Marktplatz — Schutz und Compliance
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-027-verletzung-dokumentieren-hashlog-screenshot-crawl-protoko`
 
-**Frühere Beschreibung:** Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing.
+**Fokus:** Beweissicherung bei Datenbankrechts-Verletzungen: Methoden zur gerichtsfesten Dokumentation von Scraping und unerlaubter Entnahme durch Hash-Logs, Screenshot-Serien, Crawl-Protokolle, Honey-Pot-Datensätze und notarielle Sicherung. Erstellt Beweis-Checkliste für § 87b UrhG-Klagen und einstweilige Verfügungen sowie technisches Sachverständigen-Briefing.
 
 # Verletzung dokumentieren — Hash-Logs, Screenshots und Crawl-Protokolle
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-028-einstweilige-verfuegung-datenbankrecht-dringlichkeit`
 
-**Frühere Beschreibung:** Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift.
+**Fokus:** Einstweilige Verfügung im Datenbankrecht nach §§ 935 940 ZPO: Verfügungsanspruch (§§ 87b 97 UrhG), Verfügungsgrund (Dringlichkeit, Wiederholungsgefahr), Dringlichkeitsvermutung und deren Verwirkung bei Zuwarten. Erstellt Verfügungsantrag für Landgericht bei Scraping-Verletzungen und bewertet Gegendarstellung und Schutzschrift.
 
 # Einstweilige Verfügung im Datenbankrecht — Dringlichkeit und Verfügungsantrag
 

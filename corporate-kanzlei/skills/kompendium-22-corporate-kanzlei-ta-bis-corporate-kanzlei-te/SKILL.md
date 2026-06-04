@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-corporate-kanzlei-ta-bis-corporate-kanzlei-te
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (corporate-kanzlei-tabellenreview-3d-datenraum, corporate-kanzlei-teaser-im-processdocs) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Tabellenreview 3d Datenraum, Corporate Kanzlei Teaser Im Processdocs; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Tabellenreview 3d Datenraum, Corporate Kanzlei Teaser Im Processdocs
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-tabellenreview-3d-datenraum` | Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room. |
 | `corporate-kanzlei-teaser-im-processdocs` | Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-tabellenreview-3d-datenraum`
 
-**Frühere Beschreibung:** Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room.
+**Fokus:** Strukturierte Datentabellen aus M&A-Datenräumen prüfen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Prüfraster: Vollständigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room.
 
 # Tabellenreview 3D-Datenraum
 
@@ -253,7 +253,7 @@ GESAMTBEWERTUNG: [Gut / Akzeptabel mit Einschraenkungen / Erhebliche Luecken]
 
 ## 2. `corporate-kanzlei-teaser-im-processdocs`
 
-**Frühere Beschreibung:** Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau.
+**Fokus:** Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau.
 
 # Teaser, Information Memorandum und Prozessdokumente
 

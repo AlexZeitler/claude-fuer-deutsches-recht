@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-antworten-me-bis-spezial-fragen-compl
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-antworten-mehrparteien-konflikt-und-interessen, spezial-ausfuehrungen-formular-portal-und-einreichung, spezial-fragen-compliance-dokumentation-und-akte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - memorandums-ersteller
+# Arbeitsbereich - Antworten Mehrparteien Konflikt Und Interessen, Ausfuehrungen Formular Portal Und Einreichung, Fragen Compliance Dokumentation Und Akte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-antworten-mehrparteien-konflikt-und-interessen` | Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-ausfuehrungen-formular-portal-und-einreichung` | Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-antworten-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Antworten: Mehrparteienkonflikt und Interessenmatrix im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Antworten: Mehrparteienkonflikt und Interessenmatrix
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-ausfuehrungen-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ausfuehrungen: Formular, Portal und Einreichungslogik im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ausfuehrungen: Formular, Portal und Einreichungslogik
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-fragen-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fragen: Compliance-Dokumentation und Aktenvermerk im Plugin memorandums ersteller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fragen: Compliance-Dokumentation und Aktenvermerk
 

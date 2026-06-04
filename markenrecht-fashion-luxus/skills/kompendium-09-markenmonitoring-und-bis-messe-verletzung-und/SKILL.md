@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-markenmonitoring-und-bis-messe-verletzung-und
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (markenmonitoring-und-watchlist, markenuebertragung-chain-of-title, marketplace-notice-action-dsa, messe-verletzung-und-gv-einsatz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Markenmonitoring Und Watchlist, Markenuebertragung Chain Of Title, Marketplace Notice Action Dsa, Messe Verletzung Und Gv Einsatz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - markenrecht-fashion-luxus
+# Arbeitsbereich - Markenmonitoring Und Watchlist bis Messe Verletzung Und Gv Einsatz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `markenmonitoring-und-watchlist` | Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-löschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten. |
 | `markenuebertragung-chain-of-title` | Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `markenmonitoring-und-watchlist`
 
-**Frühere Beschreibung:** Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-löschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten.
+**Fokus:** Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Prüfraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-löschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten.
 
 # Markenmonitoring und Watchlist-Dienste
 
@@ -186,7 +186,7 @@ Reaktions-SLA:
 
 ## 2. `markenuebertragung-chain-of-title`
 
-**Frühere Beschreibung:** Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios.
+**Fokus:** Markenübertragung und Chain-of-Title prüfen: Asset Deal, Share Deal, Konzernumhängung, Registerumschreibung, Vollmachten, Prioritätsrechte, Lizenzen, Sicherheiten und internationale Portfolios.
 
 # Markenübertragung und Chain of Title
 
@@ -238,7 +238,7 @@ Registerdaten live prüfen. Keine Annahme, dass Registerumschreibung materiellre
 
 ## 3. `marketplace-notice-action-dsa`
 
-**Frühere Beschreibung:** Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze.
+**Fokus:** Marketplace-Enforcement nach MarkenG und Digital Services Act: Notice-and-Action, Trusted Flagger, Plattformhaftung, Wiederholungstäter, Belegpaket, Gegenanzeige und Eskalation gegen Online-Marktplätze.
 
 # Marketplace Notice-and-Action
 
@@ -290,7 +290,7 @@ DSA und Plattformregeln live prüfen; keine Plattformformulare aus Gedächtnis b
 
 ## 4. `messe-verletzung-und-gv-einsatz`
 
-**Frühere Beschreibung:** Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon.
+**Fokus:** Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Prüfraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Außergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon.
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz
 

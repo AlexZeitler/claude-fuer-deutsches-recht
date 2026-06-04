@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-dsv-meldung-baylda-bis-dsv-meldung-hmbbfdi
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (dsv-meldung-baylda, dsv-meldung-bfdi, dsv-meldung-bln-bdi, dsv-meldung-hbdi, dsv-meldung-hmbbfdi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Meldung Baylda, Dsv Meldung Bfdi, Dsv Meldung Bln Bdi, Dsv Meldung Hbdi und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Meldung Baylda bis Dsv Meldung Hmbbfdi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-meldung-baylda` | Reicht eine Meldung nach Art. 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BayDSG insbesondere für öffentliche Stellen (Aufsicht Bayerischer Landesbeauftragter); Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-bfdi` | Reicht eine Meldung nach Art. 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post, Bundesbehörden, Krankenkassen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BDSG insbesondere § 65 für Bundesbehörden; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-meldung-baylda`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BayDSG insbesondere für öffentliche Stellen (Aufsicht Bayerischer Landesbeauftragter); Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bayerisches Landesamt für Datenschutzaufsicht (BayLDA) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bayern (nicht-öffentliche Stellen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BayDSG insbesondere für öffentliche Stellen (Aufsicht Bayerischer Landesbeauftragter); Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die BayLDA
 
@@ -135,7 +135,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 2. `dsv-meldung-bfdi`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post, Bundesbehörden, Krankenkassen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BDSG insbesondere § 65 für Bundesbehörden; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bund (Telekommunikation, Post, Bundesbehörden, Krankenkassen) und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BDSG insbesondere § 65 für Bundesbehörden; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die BfDI
 
@@ -240,7 +240,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 3. `dsv-meldung-bln-bdi`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Berlin und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BlnDSG insbesondere § 51 BlnDSG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Berliner Beauftragte für Datenschutz und Informationsfreiheit (BlnBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Berlin und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BlnDSG insbesondere § 51 BlnDSG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die BlnBDI
 
@@ -345,7 +345,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 4. `dsv-meldung-hbdi`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HDSIG Hessisches Datenschutz- und Informationsfreiheitsgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hessischer Beauftragter für Datenschutz und Informationsfreiheit (HBDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hessen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HDSIG Hessisches Datenschutz- und Informationsfreiheitsgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die HBDI
 
@@ -450,7 +450,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 5. `dsv-meldung-hmbbfdi`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HmbDSG Hamburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Hamburgischer Beauftragter für Datenschutz und Informationsfreiheit (HmbBfDI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Hamburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus HmbDSG Hamburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die HmbBfDI
 

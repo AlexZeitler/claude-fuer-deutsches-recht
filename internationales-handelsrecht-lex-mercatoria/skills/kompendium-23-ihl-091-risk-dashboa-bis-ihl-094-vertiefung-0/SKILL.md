@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-ihl-091-risk-dashboa-bis-ihl-094-vertiefung-0
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (ihl-091-risk-dashboard-international-trade, ihl-092-abschlussmemo-handelsrecht, ihl-093-vertiefung-01-quellenmatrix, ihl-094-vertiefung-01-streitstand-ohne-blindzitat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 091 Risk Dashboard International Trade, Ihl 092 Abschlussmemo Handelsrecht, Ihl 093 Vertiefung 01 Quellenmatrix, Ihl 094 Vertiefung 01 Streitstand Ohne Blindzitat; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 091 Risk Dashboard International Trade bis Ihl 094 Vertiefung 01 Streitstand Ohne Blindzitat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-091-risk-dashboard-international-trade` | Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen. |
 | `ihl-092-abschlussmemo-handelsrecht` | Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-091-risk-dashboard-international-trade`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen.
+**Fokus:** Internationales Handelsrecht: Risiko-Dashboard für internationale Handelsgeschäfte. Länder-, Währungs-, Lieferanten-, Rechtsdurchsetzungs- und Compliance-Risiken im Überblick. Ampelsystem, Priorisierung und Handlungsempfehlungen.
 
 # Risiko-Dashboard Internationaler Handel
 
@@ -81,7 +81,7 @@ OECD Country Risk: oecd.org. TI CPI: transparency.org. OFAC: home.treasury.gov. 
 
 ## 2. `ihl-092-abschlussmemo-handelsrecht`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung.
+**Fokus:** Internationales Handelsrecht: Abschlussmemo nach Verhandlung oder Prüfung eines internationalen Handelsfalls. Struktur, Wesentlichkeitsprinzip, Ergebnisdarstellung, Risikobewertung und Board-taugliche Formulierung.
 
 # Abschlussmemo Internationales Handelsrecht
 
@@ -132,7 +132,7 @@ CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de
 
 ## 3. `ihl-093-vertiefung-01-quellenmatrix`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Quellenmatrix für internationale Handelsfälle. Systematisierung von Primär- (CISG, PICC, Incoterms, UCP 600), Sekundär- und Tertiärquellen, Datenbanken (CISG-online, jusmundi, trans-lex), Zitierpflichten und Verifikation.
+**Fokus:** Internationales Handelsrecht: Quellenmatrix für internationale Handelsfälle. Systematisierung von Primär- (CISG, PICC, Incoterms, UCP 600), Sekundär- und Tertiärquellen, Datenbanken (CISG-online, jusmundi, trans-lex), Zitierpflichten und Verifikation.
 
 # Quellenmatrix Internationales Handelsrecht
 
@@ -184,7 +184,7 @@ uncitral.un.org, unidroit.org, iccwbo.org, trans-lex.org, jusmundi.com, eur-lex.
 
 ## 4. `ihl-094-vertiefung-01-streitstand-ohne-blindzitat`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung.
+**Fokus:** Internationales Handelsrecht: Darstellung von Streitständen ohne Blindzitate. Methodik für kontroverse CISG-Fragen (Art. 55, Art. 35 öffentl.-rechtl. Anforderungen, CISG für Softwareverträge), Schiedsgerichts-Divergenz und Evidenz-basierte Positionierung.
 
 # Streitstandsdarstellung ohne Blindzitate
 

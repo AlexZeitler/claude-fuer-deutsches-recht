@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-gesetzesentwurf-kabi-bis-legw-bmf-zoll-und-au
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 02; bündelt 8 frühere Spezialskills (gesetzesentwurf-kabinett, legw-aa-voelkerrecht-und-vertragsgesetzgebung, referentenentwurf-bauen, legw-aa-sanktionsumsetzung-und-internationale-abkommen, legw-bmf-geldwaesche-und-sanktionsrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesetzesentwurf Kabinett, Legw Aa Voelkerrecht Und Vertragsgesetzgebung, Referentenentwurf Bauen, Legw Aa Sanktionsumsetzung Und Internationale Abkommen und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - legistik-werkstatt
+# Arbeitsbereich - Gesetzesentwurf Kabinett bis Legw Bmf Zoll Und Aussenwirtschaftsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesetzesentwurf-kabinett` | Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung. |
 | `legw-aa-voelkerrecht-und-vertragsgesetzgebung` | Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesetzesentwurf-kabinett`
 
-**Frühere Beschreibung:** Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung.
+**Fokus:** Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung.
 
 # Gesetzesentwurf Kabinett
 
@@ -127,7 +127,7 @@ Nach Kabinettsbeschluss: Einbringung in den Bundestag oder Bundesrat (Bundesregi
 
 ## 2. `legw-aa-voelkerrecht-und-vertragsgesetzgebung`
 
-**Frühere Beschreibung:** Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
+**Fokus:** Sachbereich Voelkerrecht und Vertragsgesetzgebung im Geschaeftsbereich AA: Normbestand (GG Art. 32 und Art. 59; WVK; Vertragsgesetze; Ratifikationsgesetze; BGBl Teil II.); Akteure (AA Rechtsabteilung; Bundespraesidialamt; Bundestag; Bundesrat.); EU-Bezug (Gemischte Abkommen; ausschliessliche EU-Kompetenz; AETR-Doktrin.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
 
 # Voelkerrecht und Vertragsgesetzgebung (AA)
 
@@ -209,7 +209,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `referentenentwurf-bauen`
 
-**Frühere Beschreibung:** Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesverfassung, Landes-Geschäftsordnung, HdR- oder Landesstil. Format Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- oder Landes-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen.
+**Fokus:** Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen, Startbahn und Normebene sind bestimmt und ein Bundes- oder Landesministerium braucht Entwurfstext und Begründung. Klaert Bundesressort oder Landesministerium, Bundesland, Landesverfassung, Landes-Geschäftsordnung, HdR- oder Landesstil. Format Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- oder Landes-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen.
 
 # Referentenentwurf bauen
 
@@ -330,7 +330,7 @@ Markdown-Datei mit dem kompletten Entwurfstext, bereit für Bundes- oder Landes-
 
 ## 4. `legw-aa-sanktionsumsetzung-und-internationale-abkommen`
 
-**Frühere Beschreibung:** Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschaeftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Personen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
+**Fokus:** Sachbereich Sanktionsumsetzung und internationale Abkommen im Geschaeftsbereich AA: Normbestand (AWG; SanktDG; UN-Sicherheitsrat-Resolutionen; BGBl II.); Akteure (AA; BMWE-BAFA; BMF-Zoll; FIU; BaFin.); EU-Bezug (EU-Sanktionsregime gegen Drittstaaten und Personen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-aa (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-aa (Heranfuehrung).
 
 # Sanktionsumsetzung und internationale Abkommen (AA)
 
@@ -412,7 +412,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmf-geldwaesche-und-sanktionsrecht`
 
-**Frühere Beschreibung:** Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
+**Fokus:** Sachbereich Geldwaescherecht und Sanktionsrecht im Geschaeftsbereich BMF: Normbestand (GwG; KWG; AnzeigeV; SanktDG; AWG (Sanktionsumsetzung).); Akteure (FIU; BaFin; Zoll; Justiz; LKA.); EU-Bezug (EU-Geldwaescherichtlinie und kommende AMLR; AMLA-Aufsichtsbehoerde.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
 
 # Geldwaescherecht und Sanktionsrecht (BMF)
 
@@ -494,7 +494,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmas-rente-und-altersvorsorgerecht`
 
-**Frühere Beschreibung:** Sachbereich Rente und Altersvorsorgerecht im Geschaeftsbereich BMAS: Normbestand (SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).); Akteure (DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).); EU-Bezug (VO 883/2004; PEPP-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
+**Fokus:** Sachbereich Rente und Altersvorsorgerecht im Geschaeftsbereich BMAS: Normbestand (SGB VI; AVG (alt); FRG; ZRBG; Riester; Foerderhinweise Steuer (mit BMF).); Akteure (DRV Bund; Aufsicht ueber Pensionsfonds (BaFin Schnittstelle); ZfA (Zulagenstelle).); EU-Bezug (VO 883/2004; PEPP-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
 
 # Rente und Altersvorsorgerecht (BMAS)
 
@@ -576,7 +576,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmf-steuerrecht-und-fiskalnormen`
 
-**Frühere Beschreibung:** Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
+**Fokus:** Sachbereich Steuerrecht und Fiskalnormen im Geschaeftsbereich BMF: Normbestand (AO; EStG; KStG; UStG; GewStG; ErbStG; SolZG; AStG; FVG.); Akteure (BZSt; Finanzaemter der Laender; BFH; FG; juris-Finanzrechtsprechung.); EU-Bezug (MwSt-Systemrichtlinie; ATAD; DAC; Pillar Two.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
 
 # Steuerrecht und Fiskalnormen (BMF)
 
@@ -658,7 +658,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmf-zoll-und-aussenwirtschaftsrecht`
 
-**Frühere Beschreibung:** Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschaeftsbereich BMF: Normbestand (AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.); Akteure (Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.); EU-Bezug (Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
+**Fokus:** Sachbereich Zollrecht und Aussenwirtschaftsrecht im Geschaeftsbereich BMF: Normbestand (AWG; AWV; ZollVG; UZK (EU); UStG (Einfuhrumsatzsteuer); KrWaffKG.); Akteure (Generalzolldirektion; Bundeszollverwaltung; BAFA (im BMWE); BMF Z-Abteilung.); EU-Bezug (Unionszollkodex; Dual-Use-VO; Sanktionsverordnungen der EU; ATLAS-IT.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmf (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmf (Heranfuehrung).
 
 # Zollrecht und Aussenwirtschaftsrecht (BMF)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ein-085-landwirtscha-bis-ein-003-volksvermoeg
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ein-085-landwirtschaftliche-flaeche-fristprobl, ein-095-wohnhaus-ddr-enteignung-fristproblem-m, ein-002-art-21-und-art-22-vermoegen-trennen, ein-003-volksvermoegen-oder-finanzvermoegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 085 Landwirtschaftliche Flaeche Fristprobl, Ein 095 Wohnhaus Ddr Enteignung Fristproblem M, Ein 002 Art 21 Und Art 22 Vermoegen Trennen, Ein 003 Volksvermoegen Oder Finanzvermoegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 085 Landwirtschaftliche Flaeche Fristprobl bis Ein 003 Volksvermoegen Oder Finanzvermoegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-085-landwirtschaftliche-flaeche-fristprobl` | Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Fristproblem markieren. Fristproblem markieren für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-095-wohnhaus-ddr-enteignung-fristproblem-m` | Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Fristproblem markieren. Fristproblem markieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-085-landwirtschaftliche-flaeche-fristprobl`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Fristproblem markieren. Fristproblem markieren für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Landwirtschaftliche Fläche: Fristproblem markieren. Fristproblem markieren für Landwirtschaftliche Fläche im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Landwirtschaftliche Flaeche Fristprobl
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-095-wohnhaus-ddr-enteignung-fristproblem-m`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Fristproblem markieren. Fristproblem markieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Wohnhaus DDR-Enteignung: Fristproblem markieren. Fristproblem markieren für Wohnhaus DDR-Enteignung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnhaus Ddr Enteignung Fristproblem M
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-002-art-21-und-art-22-vermoegen-trennen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Art. 21 und Art. 22 Vermögen trennen. Art. 21 und Art. 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Art. 21 und Art. 22 Vermögen trennen. Art. 21 und Art. 22 Vermögen trennen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Art 21 Und Art 22 Vermoegen Trennen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-003-volksvermoegen-oder-finanzvermoegen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volksvermögen oder Finanzvermögen. Volksvermögen oder Finanzvermögen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Volksvermoegen Oder Finanzvermoegen
 

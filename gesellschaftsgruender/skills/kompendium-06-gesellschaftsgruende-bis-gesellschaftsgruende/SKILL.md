@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (gesellschaftsgruender-bankkonto-kyc-paket, gesellschaftsgruender-beirat-advisory-board, gesellschaftsgruender-bilinguale-dokumente, gesellschaftsgruender-board-pack-erste-100-tage, gesellschaftsgruender-cap-table) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Bankkonto Kyc Paket, Gesellschaftsgruender Beirat Advisory Board, Gesellschaftsgruender Bilinguale Dokumente, Gesellschaftsgruender Board Pack Erste 100 Tage und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Bankkonto Kyc Paket bis Gesellschaftsgruender Cap Table
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-bankkonto-kyc-paket` | Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung. |
 | `gesellschaftsgruender-beirat-advisory-board` | Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Prüfraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-bankkonto-kyc-paket`
 
-**Frühere Beschreibung:** Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung.
+**Fokus:** Erstellt Bankkonto-Unterlagenpaket für Gründung und Kapitalerhöhung.
 
 # Bankkonto und KYC-Paket
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-beirat-advisory-board`
 
-**Frühere Beschreibung:** Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Prüfraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat.
+**Fokus:** Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Prüfraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat.
 
 # Beirat / Advisory Board
 
@@ -326,7 +326,7 @@ Frontmatter unveraendert. Keine Commit-Aktion.
 
 ## 3. `gesellschaftsgruender-bilinguale-dokumente`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Prüfraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englisch. Abgrenzung: nicht reine Übersetzung ohne Inhaltsprüfung.
+**Fokus:** Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Prüfraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englisch. Abgrenzung: nicht reine Übersetzung ohne Inhaltsprüfung.
 
 # Bilinguale Dokumente
 
@@ -770,7 +770,7 @@ Aktion: Beide Einträge (Leitentscheidungen-Tabelle und Aktuelle Rechtsprechung)
 
 ## 4. `gesellschaftsgruender-board-pack-erste-100-tage`
 
-**Frühere Beschreibung:** Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung.
+**Fokus:** Erstellt Board-/Beiratsunterlagen für die ersten 100 Tage nach Gründung.
 
 # Board Pack erste 100 Tage
 
@@ -833,7 +833,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-cap-table`
 
-**Frühere Beschreibung:** Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Prüfraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gründungsprotokoll oder Handelsregisteranmeldung.
+**Fokus:** Cap-Table für GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Prüfraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gründungsprotokoll oder Handelsregisteranmeldung.
 
 # Cap Table
 

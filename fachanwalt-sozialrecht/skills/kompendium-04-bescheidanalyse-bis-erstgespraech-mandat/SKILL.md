@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bescheidanalyse-bis-erstgespraech-mandat
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (bescheidanalyse, eilantrag-sozialrecht, eingliederungshilfe-schule, erstgespraech-mandatsannahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bescheidanalyse, Eilantrag Sozialrecht, Eingliederungshilfe Schule, Erstgespraech Mandatsannahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-sozialrecht
+# Arbeitsbereich - Bescheidanalyse bis Erstgespraech Mandatsannahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bescheidanalyse` | Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf). |
 | `eilantrag-sozialrecht` | Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung). § 86b SGG Eilrechtsschutz. Prüfraster: Abs. 1 SGG aufschiebende Wirkung bei Aufhebungs-/Rückforderungsbescheiden vs. Abs. 2 SGG einstweilige Anordnung bei Leistungsbegehren. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung § 920 Abs. 2 ZPO. Output: Eilantrag SG fertig zum Versand. Abgrenzung zu klage-sozialgericht (Hauptsache) und fachanwalt-sozialrecht-widerspruch-sozialleistung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bescheidanalyse`
 
-**Frühere Beschreibung:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
+**Fokus:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf).
 
 # Bescheidanalyse Sozialrecht
 
@@ -106,7 +106,7 @@ Die Analyse ersetzt nicht die anwaltliche Entscheidung. Sie strukturiert die Vor
 
 ## 2. `eilantrag-sozialrecht`
 
-**Frühere Beschreibung:** Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung). § 86b SGG Eilrechtsschutz. Prüfraster: Abs. 1 SGG aufschiebende Wirkung bei Aufhebungs-/Rückforderungsbescheiden vs. Abs. 2 SGG einstweilige Anordnung bei Leistungsbegehren. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung § 920 Abs. 2 ZPO. Output: Eilantrag SG fertig zum Versand. Abgrenzung zu klage-sozialgericht (Hauptsache) und fachanwalt-sozialrecht-widerspruch-sozialleistung.
+**Fokus:** Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung). § 86b SGG Eilrechtsschutz. Prüfraster: Abs. 1 SGG aufschiebende Wirkung bei Aufhebungs-/Rückforderungsbescheiden vs. Abs. 2 SGG einstweilige Anordnung bei Leistungsbegehren. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung § 920 Abs. 2 ZPO. Output: Eilantrag SG fertig zum Versand. Abgrenzung zu klage-sozialgericht (Hauptsache) und fachanwalt-sozialrecht-widerspruch-sozialleistung.
 
 # Eilantrag Sozialrecht (§ 86b SGG)
 
@@ -185,7 +185,7 @@ Bei drohendem Wegfall von Bürgergeld oder Asylbewerberleistungen: das BVerfG ha
 
 ## 3. `eingliederungshilfe-schule`
 
-**Frühere Beschreibung:** Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung.
+**Fokus:** Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung.
 
 # Eingliederungshilfe in Schule und Bildung
 
@@ -290,7 +290,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Sozialrecht (SGB I-XIV): Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen.
 
 # Erstgespraech und Mandatsannahme im Sozialrecht (SGB I-XIV)
 

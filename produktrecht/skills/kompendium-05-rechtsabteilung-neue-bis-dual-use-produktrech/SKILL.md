@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-rechtsabteilung-neue-bis-dual-use-produktrech
-description: "produktrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu, ce-kennzeichnung-routenplan, dual-use-produktrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - produktrecht
+# Arbeitsbereich - Neue Produkthaftungsrichtlinie Und Softwareprodu, Ce Kennzeichnung Routenplan, Dual Use Produktrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu` | Rechtsabteilungs-Spezialskill für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `ce-kennzeichnung-routenplan` | CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konformitaetserklaerung, Notified Body. Checkliste vom Markteintritt bis zur Marktueberwachung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-neue-produkthaftungsrichtlinie-und-softwareprodu`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Neue Produkthaftungsrichtlinie und Softwareprodukt: Software, Updates, KI und Beweislast werden für Product Counsel operationalisiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Neue Produkthaftungsrichtlinie und Softwareprodukt
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `ce-kennzeichnung-routenplan`
 
-**Frühere Beschreibung:** CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konformitaetserklaerung, Notified Body. Checkliste vom Markteintritt bis zur Marktueberwachung.
+**Fokus:** CE-Kennzeichnung systematisch planen: Identifikation einschlaegiger Richtlinien (Maschinen, Niederspannung, EMV, RED, Medizinprodukte, Spielzeug, PSA), Konformitaetsbewertungsverfahren wie Modul A bis H, technische Dokumentation, EU-Konformitaetserklaerung, Notified Body. Checkliste vom Markteintritt bis zur Marktueberwachung.
 
 # CE-Kennzeichnung Routenplan
 
@@ -120,7 +120,7 @@ Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `dual-use-produktrecht`
 
-**Frühere Beschreibung:** Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt.
+**Fokus:** Dual-Use-Gueter (EG-Dual-Use-VO 2021 821): Produktrechtliche Pflichten und exportkontrollrechtliche Genehmigungspflichten, Anhang I, Catch-All, militaerische Endverwendung. Schnittstelle zu Aussenwirtschaftsgesetz AWG und AWV. Pruefraster, ab wann ein technisches Produkt der Genehmigungspflicht unterliegt.
 
 # Dual-Use im Produktrecht
 

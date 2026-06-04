@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-livecheck-so-bis-vollzugs-checkliste
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (spezial-livecheck-sonderfall-und-edge-case, spezial-loesungsstrategie-formular-portal-und-einreichung, spezial-mandat-red-team-und-qualitaetskontrolle, v90-gesellschafterliste-registerstreit-legitimationswirkung, vollzugs-checkliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Livecheck Sonderfall Und Edge Case, Loesungsstrategie Formular Portal Und Einreichung, Mandat Red Team Und Qualitaetskontrolle, V90 Gesellschafterliste Registerstreit Legitimationswirkung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - gesellschaftsrecht
+# Arbeitsbereich - Livecheck Sonderfall Und Edge Case bis Vollzugs Checkliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-livecheck-sonderfall-und-edge-case` | Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-loesungsstrategie-formular-portal-und-einreichung` | Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-livecheck-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Livecheck: Sonderfall und Edge-Case-Prüfung im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Livecheck: Sonderfall und Edge-Case-Prüfung
 
@@ -80,7 +80,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-loesungsstrategie-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Loesungsstrategie: Formular, Portal und Einreichungslogik im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Loesungsstrategie: Formular, Portal und Einreichungslogik
 
@@ -130,7 +130,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mandat-red-team-und-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Mandat: Red-Team und Qualitätskontrolle im Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/AktG/HGB/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Mandat: Red-Team und Qualitätskontrolle
 
@@ -180,7 +180,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `v90-gesellschafterliste-registerstreit-legitimationswirkung`
 
-**Frühere Beschreibung:** Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren.
+**Fokus:** Prüft § 16 und § 40 GmbHG, unrichtige Listen, Einziehung, Abtretung, Notar-/Registerrolle, einstweilige Verfügung und praktische Vollzugssperren.
 
 # GmbH-Gesellschafterliste: Registerstreit, Legitimationswirkung und einstweiliger Rechtsschutz
 
@@ -201,7 +201,7 @@ Erstelle ein `Listenradar`: Anteil / alte Liste / neue Liste / materielle Grundl
 
 ## 5. `vollzugs-checkliste`
 
-**Frühere Beschreibung:** Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste", "Closing-Checkliste", "was fehlt noch zum Closing", "Checklisten-Status", "zur Checkliste hinzufügen".
+**Fokus:** Vollzugscheckliste für M&A-Transaktionen nach deutschem Recht – was blockiert den Vollzug (Closing), kritischer Pfad, Tage bis Vollzug. Selbstaktualisierend: nimmt neue Einträge aus DD-Findings und Anlage-Erstellung auf. Trigger: "Vollzugscheckliste", "Closing-Checkliste", "was fehlt noch zum Closing", "Checklisten-Status", "zur Checkliste hinzufügen".
 
 # Vollzugscheckliste M&A
 

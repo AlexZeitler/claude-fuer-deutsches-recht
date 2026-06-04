@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-erhaltung-modernisie-bis-abrechnung-ist-plan
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (erhaltung-modernisierung-baumaengel, kfw-foerderung-pflegekasse-bafa-barriere-koordination, abrechnung-ist-plan-mieterschnittstelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erhaltung Modernisierung Baumaengel, Kfw Foerderung Pflegekasse Bafa Barriere Koordination, Abrechnung Ist Plan Mieterschnittstelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - weg-hausverwaltung
+# Arbeitsbereich - Erhaltung Modernisierung Baumaengel, Kfw Foerderung Pflegekasse Bafa Barriere Koordination, Abrechnung Ist Plan Mieterschnittstelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erhaltung-modernisierung-baumaengel` | Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen. |
 | `kfw-foerderung-pflegekasse-bafa-barriere-koordination` | Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erhaltung-modernisierung-baumaengel`
 
-**Frühere Beschreibung:** Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen.
+**Fokus:** Steuert Erhaltungsmaßnahmen, Modernisierung, Baumängel, Gewährleistungsfristen, Gutachten, Sofortmaßnahmen, Beschlussbedarf und Kommunikation mit Eigentümern (Stand 05/2026). Berücksichtigt GEG § 71 (65 % erneuerbare Energien beim Heizungstausch) und CO2KostAufG bei Heizungsentscheidungen.
 
 # Erhaltung, Modernisierung und Baumängel
 
@@ -124,7 +124,7 @@ Technische Maßnahmen rechtlich und verwaltungspraktisch sauber in den WEG-Proze
 
 ## 2. `kfw-foerderung-pflegekasse-bafa-barriere-koordination`
 
-**Frühere Beschreibung:** Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
+**Fokus:** Foerderungs-Koordination fuer Barrierefreiheits-Massnahmen (Stand 06/2026): KfW 159 bis 50000 Euro, Pflegekasse § 40 SGB XI bis 4180 Euro, BAFA, Steuern § 33b EStG. Antrags-Reihenfolge und Kumulationsregeln.
 
 # KfW, Pflegekasse und BAFA: Förderung für Barrierefreiheits-Maßnahmen koordinieren
 
@@ -204,7 +204,7 @@ Kostenlose Beratung: Verbraucherzentrale (Energie- und Wohnberatung), Caritas (P
 
 ## 3. `abrechnung-ist-plan-mieterschnittstelle`
 
-**Frühere Beschreibung:** Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete.
+**Fokus:** Jahresabrechnung, Wirtschaftsplan und Mieterschnittstelle: trennt § 28 WEG-Nachschüsse/Vorschussanpassung von mietrechtlicher Betriebskostenabrechnung, prüft Ist-/Plan-Abweichungen, Umlagefähigkeit, Gewerbeanteile, Belege, Heizkosten/CO2 und Eigentümerdatenpakete.
 
 # Abrechnung, Ist/Plan und Mieterschnittstelle
 

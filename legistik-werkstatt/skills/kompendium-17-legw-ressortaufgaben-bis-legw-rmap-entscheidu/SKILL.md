@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-legw-ressortaufgaben-bis-legw-rmap-entscheidu
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 17; bündelt 8 frühere Spezialskills (legw-ressortaufgaben-bmv, legw-ressortaufgaben-bmvg, legw-ressortaufgaben-bmwe, legw-ressortaufgaben-bmwsb, legw-ressortaufgaben-bmz und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Ressortaufgaben Bmv, Legw Ressortaufgaben Bmvg, Legw Ressortaufgaben Bmwe, Legw Ressortaufgaben Bmwsb und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - legistik-werkstatt
+# Arbeitsbereich - Legw Ressortaufgaben Bmv bis Legw Rmap Entscheidungsbaum Validierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-ressortaufgaben-bmv` | Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung). |
 | `legw-ressortaufgaben-bmvg` | Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmvg-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmvg (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-ressortaufgaben-bmv`
 
-**Frühere Beschreibung:** Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMV: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Verkehr. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmv-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Ressortaufgaben BMV
 
@@ -137,7 +137,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-ressortaufgaben-bmvg`
 
-**Frühere Beschreibung:** Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmvg-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMVg: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium der Verteidigung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmvg-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # Ressortaufgaben BMVg
 
@@ -241,7 +241,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-ressortaufgaben-bmwe`
 
-**Frühere Beschreibung:** Ressortaufgaben BMWE: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Wirtschaft und Energie. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmwe-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMWE: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Wirtschaft und Energie. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmwe-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmwe (Heranfuehrung).
 
 # Ressortaufgaben BMWE
 
@@ -345,7 +345,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-ressortaufgaben-bmwsb`
 
-**Frühere Beschreibung:** Ressortaufgaben BMWSB: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmwsb-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMWSB: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer Wohnen; Stadtentwicklung und Bauwesen. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmwsb-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmwsb (Heranfuehrung).
 
 # Ressortaufgaben BMWSB
 
@@ -449,7 +449,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-ressortaufgaben-bmz`
 
-**Frühere Beschreibung:** Ressortaufgaben BMZ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmz-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Ressortaufgaben BMZ: typische Legistik-Aufgaben im Geschaeftsbereich Bundesministerium fuer wirtschaftliche Zusammenarbeit und Entwicklung. Klaert Vorhabenart; Begruendungspflichten; Verbaendeanhoerung nach GGO Paragraf 47; Mitzeichnung; Ressortabstimmung; NKR-Vorlage; Kabinetts- und Bundestagsweg; Bundesrat-Befassung und nachgeordnete Behoerden. Output: Aufgabenmatrix mit Akteuren; Fristen und Pruefpfaden. Anschluss legw-bmz-Themenslug fuer Sachfragen und normhierarchie-routing fuer Normwahl. Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Ressortaufgaben BMZ
 
@@ -553,7 +553,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-rmap-anschluss-an-legw`
 
-**Frühere Beschreibung:** Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrigen Legistik-Werkstatt (Auftragsaufnahme; Ressort-Router; Heranfuehrung; Ressortaufgaben; Sachfeld-Spezialfelder; normhierarchie-routing; verfassungsmaessigkeit-quercheck; europarechtskonformitaet; folgenabschaetzung). Output Kettenpfad mit Eingaben; Ausgaben; Verantwortlichkeiten je Stufe. Abgrenzung zur fachlichen Modellierung selbst; hier wird die Werkstattkette beschrieben.
+**Fokus:** Brueckenskill: Wie verzahnt sich die Rulemap-Arbeit mit der uebrigen Legistik-Werkstatt (Auftragsaufnahme; Ressort-Router; Heranfuehrung; Ressortaufgaben; Sachfeld-Spezialfelder; normhierarchie-routing; verfassungsmaessigkeit-quercheck; europarechtskonformitaet; folgenabschaetzung). Output Kettenpfad mit Eingaben; Ausgaben; Verantwortlichkeiten je Stufe. Abgrenzung zur fachlichen Modellierung selbst; hier wird die Werkstattkette beschrieben.
 
 # Anschluss der Rulemap-Arbeit an die Legistik-Werkstatt
 
@@ -601,7 +601,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 7. `legw-rmap-bestimmtheit-und-justitiabilitaet`
 
-**Frühere Beschreibung:** Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsmaessigkeit-quercheck und legw-rmap-vollzugstauglichkeit. Abgrenzung zur reinen Norminhalt-Pruefung; hier geht es um die Wechselwirkung Text und Logikmodell.
+**Fokus:** Verfassungsrechtliche Pruefung: hat die Rulemap-Modellierung die Bestimmtheit der Norm erhoeht (gut) oder unzulaessig verkuerzt (schlecht)? Justitiabilitaet und Begruendungspflicht im Verwaltungsverfahren. Output Bestimmtheits- und Justitiabilitaetsbericht mit Empfehlungen. Anschluss verfassungsmaessigkeit-quercheck und legw-rmap-vollzugstauglichkeit. Abgrenzung zur reinen Norminhalt-Pruefung; hier geht es um die Wechselwirkung Text und Logikmodell.
 
 # Bestimmtheit und Justitiabilitaet bei Rulemap-Normen
 
@@ -647,7 +647,7 @@ Quellen Stand 06/2026: Rulemapping-Group (Berlin; gegruendet von Prof. Dr. Steph
 
 ## 8. `legw-rmap-entscheidungsbaum-validierung`
 
-**Frühere Beschreibung:** Simulation und Verifikation der Rulemap: Faelle generieren; Pfadabdeckung messen; Soll-Ist-Vergleich gegen juristische Erwartung. Werkzeuge im Rulemap Builder: Capture; Simulate; Verify. Output Validierungsprotokoll mit Pfaddeckung; Trefferquote; offenen Punkten. Anschluss legw-rmap-bestimmtheit-und-justitiabilitaet fuer rechtliche Bewertung der Pfade. Abgrenzung zur klassischen Beweiswuerdigung im Einzelfall.
+**Fokus:** Simulation und Verifikation der Rulemap: Faelle generieren; Pfadabdeckung messen; Soll-Ist-Vergleich gegen juristische Erwartung. Werkzeuge im Rulemap Builder: Capture; Simulate; Verify. Output Validierungsprotokoll mit Pfaddeckung; Trefferquote; offenen Punkten. Anschluss legw-rmap-bestimmtheit-und-justitiabilitaet fuer rechtliche Bewertung der Pfade. Abgrenzung zur klassischen Beweiswuerdigung im Einzelfall.
 
 # Entscheidungsbaum-Simulation und Verifikation
 

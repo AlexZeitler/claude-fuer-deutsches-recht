@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kollegialitaetsgebot-bis-konfliktdeeskalation
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (kollegialitaetsgebot-pruefung, kompetenz-zweifel-respektvoll, konfliktdeeskalation-formulierungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kollegialitaetsgebot Pruefung, Kompetenz Zweifel Respektvoll, Konfliktdeeskalation Formulierungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Kollegialitaetsgebot Pruefung, Kompetenz Zweifel Respektvoll, Konfliktdeeskalation Formulierungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kollegialitaetsgebot-pruefung` | E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation. |
 | `kompetenz-zweifel-respektvoll` | Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kollegialitaetsgebot-pruefung`
 
-**Frühere Beschreibung:** E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation.
+**Fokus:** E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation.
 
 # Kollegialitätsgebot-Prüfung
 
@@ -99,7 +99,7 @@ Der Skill gibt aus: (1) Zitate kollegialitätsgefährdender Aussagen. (2) Einord
 
 ## 2. `kompetenz-zweifel-respektvoll`
 
-**Frühere Beschreibung:** Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen).
+**Fokus:** Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen).
 
 # Kompetenz-Zweifel respektvoll formulieren
 
@@ -164,7 +164,7 @@ Der Skill gibt aus: (1) Identifizierte Kompetenzabsprache. (2) Sachlicher Kern d
 
 ## 3. `konfliktdeeskalation-formulierungen`
 
-**Frühere Beschreibung:** Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Lösung. Output: deeskalierende Version Kommunikationsstrategie. Abgrenzung: nicht für allgemeine Umformulierung.
+**Fokus:** Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Prüfraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Lösung. Output: deeskalierende Version Kommunikationsstrategie. Abgrenzung: nicht für allgemeine Umformulierung.
 
 # Konfliktdeeskalation: Formulierungsbausteine
 

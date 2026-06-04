@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-er-bess-produktsiche-bis-energierecht-eeg-kwk
-description: "energierecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (er-bess-produktsicherheit-haftung, er-bess-versicherung-und-schadenfall, er-stakeholder-mapping-energie, energierecht-eeg-kwkg-erzeugung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Produktsicherheit Haftung, Er Bess Versicherung Und Schadenfall, Er Stakeholder Mapping Energie, Energierecht Eeg Kwkg Erzeugung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - energierecht
+# Arbeitsbereich - Er Bess Produktsicherheit Haftung bis Energierecht Eeg Kwkg Erzeugung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-produktsicherheit-haftung` | Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung. |
 | `er-bess-versicherung-und-schadenfall` | Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-produktsicherheit-haftung`
 
-**Frühere Beschreibung:** Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung.
+**Fokus:** Prüft Batteriecontainer, BMS, Wechselrichter, CE, Herstellerdokumentation, Rückruf und Betreiberhaftung.
 
 # Produktsicherheit, Rückruf und Haftung
 
@@ -62,7 +62,7 @@ ProdSG, Produkthaftung, EU-Produktsicherheitsrecht, Maschinen-/Elektrorecht live
 
 ## 2. `er-bess-versicherung-und-schadenfall`
 
-**Frühere Beschreibung:** Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess.
+**Fokus:** Prüft Property, BI, Cyber, Haftpflicht, Umwelt, Bauleistung, Garantien und Claims-Prozess.
 
 # Versicherung und Schadenfallmanagement
 
@@ -95,7 +95,7 @@ VVG, Versicherungsbedingungen Upload, BGB, Produkthaftung, Betreiberpflichten.
 
 ## 3. `er-stakeholder-mapping-energie`
 
-**Frühere Beschreibung:** Stakeholder-Mapping fuer Energieprojekte: Vorhabentraeger, Netzbetreiber, BNetzA, Landesregulierer, Kommune, Naturschutz, Anwohnerinitiativen, Foerdergeber. Pro Stakeholder Interesse, Hebel, Risiko. Mustertabelle fuer Projektsteuerung.
+**Fokus:** Stakeholder-Mapping fuer Energieprojekte: Vorhabentraeger, Netzbetreiber, BNetzA, Landesregulierer, Kommune, Naturschutz, Anwohnerinitiativen, Foerdergeber. Pro Stakeholder Interesse, Hebel, Risiko. Mustertabelle fuer Projektsteuerung.
 
 # Energie: Stakeholder-Mapping
 
@@ -148,7 +148,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 4. `energierecht-eeg-kwkg-erzeugung`
 
-**Frühere Beschreibung:** EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Prüfraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht.
+**Fokus:** EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Prüfraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht.
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien
 

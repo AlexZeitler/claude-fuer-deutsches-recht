@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-fran-002-vorvertragl-bis-fran-016-nachvertrag
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (fran-002-vorvertragliche-aufklaerung-und-rentabilitaetsprognose, fran-003-franchisevertrag-agb-redline, fran-016-nachvertragliches-wettbewerbsverbot) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerbsverbot; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - franchiserecht-praxis
+# Arbeitsbereich - Fran 002 Vorvertragliche Aufklaerung Und Rentabilitaetsprognose, Fran 003 Franchisevertrag Agb Redline, Fran 016 Nachvertragliches Wettbewerb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-002-vorvertragliche-aufklaerung-und-rentabilitaetsprognose` | Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer. |
 | `fran-003-franchisevertrag-agb-redline` | Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-002-vorvertragliche-aufklaerung-und-rentabilitaetsprognose`
 
-**Frühere Beschreibung:** Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer.
+**Fokus:** Vorvertragliche Aufklärungspflichten des Franchisegebers prüfen: Disclosure-Dokument, Rentabilitätsprognose, BGH-Linie zu culpa in contrahendo. Schadensersatz- und Anfechtungsrisiken bewerten. Perspektive Franchisegeber oder Franchisenehmer.
 
 # Franchiserecht: Vorvertragliche Aufklärung und Rentabilitätsprognose
 
@@ -107,7 +107,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-003-franchisevertrag-agb-redline`
 
-**Frühere Beschreibung:** Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer.
+**Fokus:** Franchisevertrag auf AGB-Konformität prüfen: Einbeziehung nach §§ 305 ff. BGB, Inhaltskontrolle von Systemhandbuchvorbehalten, Bezugsbindungen und Vertragsstrafen. Redline erstellen und unwirksame Klauseln markieren. Perspektive Franchisegeber oder Franchisenehmer.
 
 # Franchiserecht: Franchisevertrag – AGB-Redline
 
@@ -185,7 +185,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-016-nachvertragliches-wettbewerbsverbot`
 
-**Frühere Beschreibung:** Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht.
+**Fokus:** Nachvertragliches Wettbewerbsverbot im Franchiserecht prüfen: zeitliche und räumliche Grenzen nach Art. 5 Abs. 1 lit. b Vertikal-GVO EU 2022/720, AGB-Kontrolle nach § 307 BGB, Know-how-Schutz nach GeschGehG und Entschädigungspflicht.
 
 # Franchiserecht: Nachvertragliches Wettbewerbsverbot
 

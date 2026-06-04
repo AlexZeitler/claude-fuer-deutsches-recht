@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-substantiiertes-best-bis-terminvorbereitung-c
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 23; bündelt 3 frühere Spezialskills (substantiiertes-bestreiten-138-iv-zpo, tatbestand-zerlegen-anspruchspruefung-laien, terminvorbereitung-checkliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Substantiiertes Bestreiten 138 Iv Zpo, Tatbestand Zerlegen Anspruchspruefung Laien, Terminvorbereitung Checkliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Substantiiertes Bestreiten 138 Iv Zpo, Tatbestand Zerlegen Anspruchspruefung Laien, Terminvorbereitung Checkliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `substantiiertes-bestreiten-138-iv-zpo` | Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen. |
 | `tatbestand-zerlegen-anspruchspruefung-laien` | Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `substantiiertes-bestreiten-138-iv-zpo`
 
-**Frühere Beschreibung:** Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen.
+**Fokus:** Substantiiertes Bestreiten nach § 138 II und § 138 IV ZPO. Wann reicht einfaches Bestreiten wann ist sekundaere Darlegungslast erforderlich. Mit Nichtwissen bestreiten bei Tatsachen außer eigener Wahrnehmung. Mustertext und typische Fallen.
 
 # Bestreiten muss substantiiert sein — wie es geht
 
@@ -182,7 +182,7 @@ Stand: 05/2026. § 138 ZPO unveraendert. BGH-Rechtsprechung zur sekundaeren Darl
 
 ## 2. `tatbestand-zerlegen-anspruchspruefung-laien`
 
-**Frühere Beschreibung:** Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren.
+**Fokus:** Den Tatbestand einer Anspruchsnorm in einzelne Merkmale zerlegen. Sie muessen jedes Merkmal vortragen und beweisen koennen. Mit Beispielen § 433 BGB § 823 BGB § 280 BGB und einer Methode wie Laien die Tatbestandsmerkmale identifizieren.
 
 # Den Tatbestand zerlegen: Jedes Merkmal beweisen
 
@@ -339,7 +339,7 @@ Stand: 05/2026. Subsumtions-Methodik staendige Praxis.
 
 ## 3. `terminvorbereitung-checkliste`
 
-**Frühere Beschreibung:** Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schluesselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten.
+**Fokus:** Checkliste für die Vorbereitung der muendlichen Verhandlung. Akten Ordner Schluesselargumente Beweisstuecke Zeugen Anträge Anträge auf Bewilligung erweiterte Anträge Klage-Konzept. Was Sie mitnehmen muessen und wie Sie inhaltlich vorbereiten.
 
 # Termin im Amtsgericht: So bereiten Sie sich vor
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-nyc-korrespondenz-un-bis-prioritaet-ausstellu
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (nyc-korrespondenz-und-conflict-check, plattform-piraterie-donauzon, positionsmarke, prioritaet-ausstellung-pariser-verbandsuebereinkunft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nyc Korrespondenz Und Conflict Check, Plattform Piraterie Donauzon, Positionsmarke, Prioritaet Ausstellung Pariser Verbandsuebereinkunft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - markenrecht-fashion-luxus
+# Arbeitsbereich - Nyc Korrespondenz Und Conflict Check bis Prioritaet Ausstellung Pariser Verbandsuebereinkunft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nyc-korrespondenz-und-conflict-check` | Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation. |
 | `plattform-piraterie-donauzon` | Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nyc-korrespondenz-und-conflict-check`
 
-**Frühere Beschreibung:** Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
+**Fokus:** Mandat-Workflow mit US-Korrespondenzkanzlei für Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Prüfung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Prüfraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation.
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP
 
@@ -216,7 +216,7 @@ Bevor die Briefing-E-Mail an Whitman Brennan Forsythe LLP abgeschickt wird, klae
 
 ## 2. `plattform-piraterie-donauzon`
 
-**Frühere Beschreibung:** Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation.
+**Fokus:** Plattformpiraterie und Online-Marktplatz-Enforcement: DSA Notice-and-Action, MarkenG, DDG, Beweissicherung, Testkauf, Wiederholungstäter, Sperrverfügung und Eskalation.
 
 # Plattform-Piraterie und Notice-and-Action nach DSA
 
@@ -359,7 +359,7 @@ Bevor der Notice-and-Action-Antrag oder die Klage eingereicht wird, klaere:
 
 ## 3. `positionsmarke`
 
-**Frühere Beschreibung:** Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung.
+**Fokus:** Positionsmarken für Streifen, Muster, Farbpositionen und Produktdetails prüfen: Darstellung, gestrichelte Produktumrisse, Position, Unterscheidungskraft, Verkehrsdurchsetzung und Verletzung.
 
 # Positionsmarken
 
@@ -480,7 +480,7 @@ Bevor die Anmeldung eingereicht wird, klaere:
 
 ## 4. `prioritaet-ausstellung-pariser-verbandsuebereinkunft`
 
-**Frühere Beschreibung:** Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender.
+**Fokus:** Priorität, Ausstellungspriorität und PVÜ-Fristen bei Markenanmeldungen prüfen: nationale Erstanmeldung, Unionsmarke, Madrid, Messepriorität, Nachanmeldung, Prioritätsbelege und Fristenkalender.
 
 # Priorität und Ausstellungspriorität
 

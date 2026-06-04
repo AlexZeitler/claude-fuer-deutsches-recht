@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-zit-internationale-u-bis-zitat-amtliche-samml
-description: "zitierweise-deutsches-recht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (zit-internationale-urteile-spezial, zit-kommentar-aufsatzzitierung-spezial, zitat-amtliche-sammlung-vs-zeitschrift) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zitierweise-deutsches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zit Internationale Urteile Spezial, Zit Kommentar Aufsatzzitierung Spezial, Zitat Amtliche Sammlung Vs Zeitschrift; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - zitierweise-deutsches-recht
+# Arbeitsbereich - Zit Internationale Urteile Spezial, Zit Kommentar Aufsatzzitierung Spezial, Zitat Amtliche Sammlung Vs Zeitschrift
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zit-internationale-urteile-spezial` | Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Pruefraster fuer internationale Mandate. |
 | `zit-kommentar-aufsatzzitierung-spezial` | Spezialfall Kommentar- und Aufsatzzitierung: Bearbeiter, Randnummer, Auflagenjahr, Zeitschrift, Heft, Seite. Pruefraster fuer wissenschaftliches Schreiben. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zit-internationale-urteile-spezial`
 
-**Frühere Beschreibung:** Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Pruefraster fuer internationale Mandate.
+**Fokus:** Spezialfall Zitierung internationaler Urteile EuGH EGMR sowie Common-Law-Urteile: ECLI, Neutral Citation, Public Domain. Pruefraster fuer internationale Mandate.
 
 # Zit: Internationale Urteile
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `zitierweise-deutsches-recht`. Er ergaenzt die u
 
 ## 2. `zit-kommentar-aufsatzzitierung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kommentar- und Aufsatzzitierung: Bearbeiter, Randnummer, Auflagenjahr, Zeitschrift, Heft, Seite. Pruefraster fuer wissenschaftliches Schreiben.
+**Fokus:** Spezialfall Kommentar- und Aufsatzzitierung: Bearbeiter, Randnummer, Auflagenjahr, Zeitschrift, Heft, Seite. Pruefraster fuer wissenschaftliches Schreiben.
 
 # Zit: Kommentar Aufsatz
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `zitierweise-deutsches-recht`. Er ergaenzt die u
 
 ## 3. `zitat-amtliche-sammlung-vs-zeitschrift`
 
-**Frühere Beschreibung:** Amtliche Sammlung vs. Zeitschrift: Reihenfolge der Fundstellen. Amtliche Sammlung (BGHZ, BVerfGE) hat Vorrang, dann Parallelfundstelle Zeitschrift (NJW, JZ, ZIP). Beispiel BGHZ 240 S. 1 = NJW 2024 S. 1832.
+**Fokus:** Amtliche Sammlung vs. Zeitschrift: Reihenfolge der Fundstellen. Amtliche Sammlung (BGHZ, BVerfGE) hat Vorrang, dann Parallelfundstelle Zeitschrift (NJW, JZ, ZIP). Beispiel BGHZ 240 S. 1 = NJW 2024 S. 1832.
 
 # Amtliche Sammlung vs. Zeitschrift
 

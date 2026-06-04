@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-er-netzentgelte-rech-bis-spezial-anfrage-mehr
-description: "energierecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (er-netzentgelte-rechtsfragen, er-redispatch-3-0-spezial, er-typ-anfrage-mandanten-routing, spezial-anfrage-mehrparteien-konflikt-und-interessen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Netzentgelte Rechtsfragen, Er Redispatch 3 0 Spezial, Er Typ Anfrage Mandanten Routing, Anfrage Mehrparteien Konflikt Und Interessen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - energierecht
+# Arbeitsbereich - Er Netzentgelte Rechtsfragen bis Anfrage Mehrparteien Konflikt Und Interessen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-netzentgelte-rechtsfragen` | Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen. |
 | `er-redispatch-3-0-spezial` | Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster fuer Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-netzentgelte-rechtsfragen`
 
-**Frühere Beschreibung:** Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen.
+**Fokus:** Netzentgelte aktuell: § 19 Abs. 2 StromNEV individuelle Netzentgelte, BNetzA-Festlegung StromNEV 2027 ff., Stationaere Speicher, Industriestromentgelt. Praxis: Antragsverfahren, Anwendungsfaelle Energieintensive, Klagewege gegen BNetzA-Festlegungen.
 
 # Netzentgelte: Rechtsfragen
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 2. `er-redispatch-3-0-spezial`
 
-**Frühere Beschreibung:** Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster fuer Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister.
+**Fokus:** Spezialfall Redispatch 3.0: Einbeziehung Anlagen kleiner 100 kW, Marktrolle EIV, Datenaustauschformate, Entschaedigung, Bilanzierungsverantwortung. Pruefraster fuer Anlagenbetreiber und Aggregator. Schnittstelle Marktstammdatenregister.
 
 # Energie: Redispatch 3.0
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `er-typ-anfrage-mandanten-routing`
 
-**Frühere Beschreibung:** Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Foerderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet.
+**Fokus:** Anfrage-Routing im Energierecht: 5 typische Mandantenanfragen (Anschluss, Vertrag, Foerderung, Verfahren, Streit) und ihre Sub-Skills im Plugin. Entscheidungsbaum, der zur richtigen Detail-Skill leitet.
 
 # Energie: Anfrage-Routing
 
@@ -187,7 +187,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 4. `spezial-anfrage-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Anfrage: Mehrparteienkonflikt und Interessenmatrix im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anfrage: Mehrparteienkonflikt und Interessenmatrix im Plugin energierecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anfrage: Mehrparteienkonflikt und Interessenmatrix
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-eidesstattliche-vers-bis-einstweilige-anordnu
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (eidesstattliche-versicherung, eilrechtsschutz-drohende-einberufung, einberufung-nach-antrag, eingang-und-pk-nachweis, einstweilige-anordnung-vwgo-123) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eidesstattliche Versicherung, Eilrechtsschutz Drohende Einberufung, Einberufung Nach Antrag, Eingang Und Pk Nachweis und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Eidesstattliche Versicherung bis Einstweilige Anordnung Vwgo 123
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eidesstattliche-versicherung` | Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind. |
 | `eilrechtsschutz-drohende-einberufung` | Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eidesstattliche-versicherung`
 
-**Frühere Beschreibung:** Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind.
+**Fokus:** Prüft, ob eidesstattliche Versicherungen zulässig oder sinnvoll sind.
 
 # Eidesstattliche Versicherung Grenzen
 
@@ -85,7 +85,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 2. `eilrechtsschutz-drohende-einberufung`
 
-**Frühere Beschreibung:** Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe.
+**Fokus:** Prüft § 80 oder § 123 VwGO bei drohendem Dienst an der Waffe.
 
 # Eilrechtsschutz bei Einberufung
 
@@ -140,7 +140,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 3. `einberufung-nach-antrag`
 
-**Frühere Beschreibung:** Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann.
+**Fokus:** Prüft, ob Einberufung trotz KDV-Antrag zulässig sein kann.
 
 # Einberufung nach Antrag
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `eingang-und-pk-nachweis`
 
-**Frühere Beschreibung:** Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte.
+**Fokus:** Sichert Zugang, Aktenzeichen und Fristbeginn für spätere Rechtsschutzschritte.
 
 # Eingangsnachweis sichern
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `einstweilige-anordnung-vwgo-123`
 
-**Frühere Beschreibung:** Prüft vorläufige Regelung ohne passenden §80-Fall.
+**Fokus:** Prüft vorläufige Regelung ohne passenden §80-Fall.
 
 # Einstweilige Anordnung § 123
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-geheime-abstimmung-bis-infostand-versammlun
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (geheime-abstimmung, geschaeftsordnung-parteitag, infostand-versammlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geheime Abstimmung, Geschaeftsordnung Parteitag, Infostand Versammlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Geheime Abstimmung, Geschaeftsordnung Parteitag, Infostand Versammlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geheime-abstimmung` | Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation. |
 | `geschaeftsordnung-parteitag` | Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geheime-abstimmung`
 
-**Frühere Beschreibung:** Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation.
+**Fokus:** Prüft wann geheime Wahl/Abstimmung nötig ist, Stimmzettel, Urne, Auszählung und Dokumentation.
 
 # Geheime Abstimmung
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `geschaeftsordnung-parteitag`
 
-**Frühere Beschreibung:** Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe.
+**Fokus:** Entwirft Geschäftsordnung, Redezeiten, Antragsberatung, Änderungsanträge, Abstimmungen und Ordnungsrufe.
 
 # Geschäftsordnung Parteitag
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `infostand-versammlung`
 
-**Frühere Beschreibung:** Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung.
+**Fokus:** Prüft Infostand, Sondernutzung, Versammlungsrecht, Auflagen, Datenschutz und Haftung.
 
 # Infostand und Versammlung
 

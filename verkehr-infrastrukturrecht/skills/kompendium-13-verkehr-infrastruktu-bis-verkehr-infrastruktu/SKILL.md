@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-verkehr-infrastruktu-bis-verkehr-infrastruktu
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (verkehr-infrastrukturrecht-schulwegsicherheit, verkehr-infrastrukturrecht-sondernutzung, verkehr-infrastrukturrecht-strassenbahn) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehr Infrastrukturrecht Schulwegsicherheit, Verkehr Infrastrukturrecht Sondernutzung, Verkehr Infrastrukturrecht Strassenbahn; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Verkehr Infrastrukturrecht Schulwegsicherheit, Verkehr Infrastrukturrecht Sondernutzung, Verkehr Infrastrukturrecht Strassenbahn
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehr-infrastrukturrecht-schulwegsicherheit` | Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung. |
 | `verkehr-infrastrukturrecht-sondernutzung` | Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehr-infrastrukturrecht-schulwegsicherheit`
 
-**Frühere Beschreibung:** Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
+**Fokus:** Schulwegsicherheit rechtlich verbessern oder Amtshaftung geltend machen: Schule, Eltern oder Kommune will Schulwegplan umsetzen oder gegen Unfall auf Schulweg vorgehen. Normen: § 45 StVO (Schulweghelfer, Schulstrassen, 30er-Zone), § 839 BGB i.V.m. Art. 34 GG (Amtshaftung). Prüfraster: Schulwegplan kommunale Pflicht, Gefahrenstellen-Meldepflicht, Amtshaftung bei Verkehrsunfall auf Schulweg, Elterntaxi-Regelung. Output Amtshaftungsschreiben, Widerspruch gegen Schulwegplanung. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung.
 
 # Schulwegsicherheit
 
@@ -73,7 +73,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `verkehr-infrastrukturrecht-sondernutzung`
 
-**Frühere Beschreibung:** Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung.
+**Fokus:** Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung.
 
 # Sondernutzung oeffentlicher Strassenflaechen
 
@@ -118,7 +118,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `verkehr-infrastrukturrecht-strassenbahn`
 
-**Frühere Beschreibung:** Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe.
+**Fokus:** Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Prüfraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Prüfung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe.
 
 # Strassenbahn und OEPNV — Infrastrukturrecht
 

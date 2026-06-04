@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-mandat-objekt-triage-bis-marketing-newsletter
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (mandat-objekt-triage, marketing-akquise-neue-weg-mandate, marketing-newsletter-eigentuemerkommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - weg-hausverwaltung
+# Arbeitsbereich - Mandat Objekt Triage, Marketing Akquise Neue Weg Mandate, Marketing Newsletter Eigentuemerkommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandat-objekt-triage` | Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identifiziert Fristen aus § 45 WEG, § 556 BGB sowie GEG-/CO2KostAufG-Schnittstellen. |
 | `marketing-akquise-neue-weg-mandate` | Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Uebergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandat-objekt-triage`
 
-**Frühere Beschreibung:** Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identifiziert Fristen aus § 45 WEG, § 556 BGB sowie GEG-/CO2KostAufG-Schnittstellen.
+**Fokus:** Erfasst eine WEG-/Hausverwaltungsakte (Stand 05/2026): Objekt, Rollen, Teilungserklärung, Gemeinschaftsordnung, Verwaltervertrag, Beschlusssammlung, Abrechnungen, Vermögensbericht, Angebote, Fristen, Risiken und nächsten Workflow. Identifiziert Fristen aus § 45 WEG, § 556 BGB sowie GEG-/CO2KostAufG-Schnittstellen.
 
 # Mandat- und Objekt-Triage
 
@@ -109,7 +109,7 @@ Aus einer ungeordneten Verwaltungsakte entsteht ein arbeitsfähiges Objektprofil
 
 ## 2. `marketing-akquise-neue-weg-mandate`
 
-**Frühere Beschreibung:** Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Uebergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung.
+**Fokus:** Akquise neuer WEG-Verwaltungsmandate (Stand 06/2026): Pitch-Bestandteile, Honorarmatrix, Verwaltervertrag nach § 26 WEG, Uebernahme-Uebergabe-Checkliste und Wettbewerbsgrenzen. BGH V ZR 251/21 zur Sondervergütung.
 
 # Marketing: Akquise neuer WEG-Verwaltungsmandate
 
@@ -182,7 +182,7 @@ Vom Vor-Verwalter zu übergebende Unterlagen: vollständige Beschlusssammlung, a
 
 ## 3. `marketing-newsletter-eigentuemerkommunikation`
 
-**Frühere Beschreibung:** Eigentuemerinfo vs. E-Mail-Werbung klar trennen (Stand 06/2026): § 7 UWG Double-Opt-In, Einwilligungspflicht, Versicherungswerbung nach § 34d GewO, DSGVO Art. 6. BGH VI ZR 225/17 zu unerlaubter E-Mail-Werbung.
+**Fokus:** Eigentuemerinfo vs. E-Mail-Werbung klar trennen (Stand 06/2026): § 7 UWG Double-Opt-In, Einwilligungspflicht, Versicherungswerbung nach § 34d GewO, DSGVO Art. 6. BGH VI ZR 225/17 zu unerlaubter E-Mail-Werbung.
 
 # Marketing: Newsletter und Eigentümerkommunikation
 

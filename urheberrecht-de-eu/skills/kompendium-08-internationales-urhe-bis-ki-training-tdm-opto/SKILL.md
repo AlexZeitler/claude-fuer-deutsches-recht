@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-internationales-urhe-bis-ki-training-tdm-opto
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (internationales-urheberrecht, ki-act-gpai-copyright, ki-training-tdm-optout) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationales Urheberrecht, Ki Act Gpai Copyright, Ki Training Tdm Optout; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - urheberrecht-de-eu
+# Arbeitsbereich - Internationales Urheberrecht, Ki Act Gpai Copyright, Ki Training Tdm Optout
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `internationales-urheberrecht` | Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug. |
 | `ki-act-gpai-copyright` | Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `internationales-urheberrecht`
 
-**Frühere Beschreibung:** Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug.
+**Fokus:** Prueft grenzüberschreitende Nutzung, Schutzlandprinzip, Berner Übereinkunft, EU-Harmonisierung, Plattformen und US-Bezug.
 
 # Internationales Urheberrecht und Kollisionsrecht
 
@@ -100,7 +100,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `ki-act-gpai-copyright`
 
-**Frühere Beschreibung:** Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation.
+**Fokus:** Prueft GPAI-Pflichten zu Urheberrechts-Policy, Rechtevorbehalten, Training-Content-Summary und Dokumentation.
 
 # KI-VO GPAI und Urheberrechtspolitik
 
@@ -171,7 +171,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `ki-training-tdm-optout`
 
-**Frühere Beschreibung:** Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO.
+**Fokus:** Prueft Text und Data Mining, KI-Training, Rechtevorbehalt und Dokumentation nach § 44b UrhG, § 60d UrhG, DSM-RL und KI-VO.
 
 # KI-Training, TDM und Opt-out
 

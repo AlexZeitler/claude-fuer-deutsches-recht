@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-wirtschaftspruefer-w-bis-zulassung-bestellung
-description: "berufsrecht-wirtschaftspruefer: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-kammerantwort-u, wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-organisationspf, zulassung-bestellung-und-register) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-wirtschaftspruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung Bestellung Und Register; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - berufsrecht-wirtschaftspruefer
+# Arbeitsbereich - Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Kammerantwort U, Wirtschaftspruefer Wpk Ruege Und Berufsaufsicht Organisationspf, Zulassung B
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-kammerantwort-u` | Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-organisationspf` | Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-kammerantwort-u`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -71,7 +71,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `wirtschaftspruefer-wpk-ruege-und-berufsaufsicht-organisationspf`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: wpk ruege und berufsaufsicht - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -114,7 +114,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `zulassung-bestellung-und-register`
 
-**Frühere Beschreibung:** Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Zulassung, Bestellung und Register: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Zulassungsvoraussetzungen, Register, Kammerdaten, Meldepflichten und Widerrufsrisiken, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Zulassung, Bestellung und Register
 

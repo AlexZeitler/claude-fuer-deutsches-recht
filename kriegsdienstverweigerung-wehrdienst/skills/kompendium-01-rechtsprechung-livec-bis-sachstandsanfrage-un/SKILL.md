@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-rechtsprechung-livec-bis-sachstandsanfrage-un
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (rechtsprechung-livecheck, dienstpflichten-waehrend-verfahren, frist-bei-nachforderung-ein-monat, fristenkalender-kdv, sachstandsanfrage-und-frist) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsprechung Livecheck, Dienstpflichten Waehrend Verfahren, Frist Bei Nachforderung Ein Monat, Fristenkalender Kdv und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Rechtsprechung Livecheck bis Sachstandsanfrage Und Frist
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsprechung-livecheck` | Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link. |
 | `dienstpflichten-waehrend-verfahren` | Minimiert Disziplinarrisiken während laufendem KDV-Antrag. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsprechung-livecheck`
 
-**Frühere Beschreibung:** Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link.
+**Fokus:** Prüft KDV-Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und Link.
 
 # Rechtsprechung Livecheck
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `dienstpflichten-waehrend-verfahren`
 
-**Frühere Beschreibung:** Minimiert Disziplinarrisiken während laufendem KDV-Antrag.
+**Fokus:** Minimiert Disziplinarrisiken während laufendem KDV-Antrag.
 
 # Dienstpflichten im Verfahren
 
@@ -140,7 +140,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 3. `frist-bei-nachforderung-ein-monat`
 
-**Frühere Beschreibung:** Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG.
+**Fokus:** Prüft Monatsfrist zur Vervollständigung nach § 7 KDVG.
 
 # Einmonatsfrist Nachforderung
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `fristenkalender-kdv`
 
-**Frühere Beschreibung:** Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13.
+**Fokus:** Erstellt Fristenkalender für Antrag, Nachreichung, Anhörung, Widerspruch, § 75 und § 13.
 
 # Fristenkalender KDV
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `sachstandsanfrage-und-frist`
 
-**Frühere Beschreibung:** Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwGO.
+**Fokus:** Formuliert gezielte Sachstandsanfragen vor Eskalation in § 75 VwGO.
 
 # Sachstandsanfrage mit Frist
 

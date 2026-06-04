@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-drei-d-druck-digital-bis-einstweilige-verfueg
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (drei-d-druck-digitales-design, einstweilige-verfuegung-designrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Drei D Druck Digitales Design, Einstweilige Verfuegung Designrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drei-d-druck-digitales-design` | 3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung. |
 | `einstweilige-verfuegung-designrecht` | Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drei-d-druck-digitales-design`
 
-**Frühere Beschreibung:** 3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung.
+**Fokus:** 3D-Druck, digitale Design-Dateien und virtuelle Produkte prüfen: CAD-Dateien, Online-Verbreitung, Reparatur, Ersatzteile, Plattform-Takedown und Beweissicherung.
 
 # Drei D Druck Digitales Design
 
@@ -59,7 +59,7 @@ Digital-Design-Enforcement-Plan.
 
 ## 2. `einstweilige-verfuegung-designrecht`
 
-**Frühere Beschreibung:** Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung.
+**Fokus:** Einstweilige Verfügung im Designrecht vorbereiten oder abwehren: Dringlichkeit, Registerlage, Verletzungsbilder, Nichtigkeitsrisiko, Schutzschrift und Vollziehung.
 
 # Einstweilige Verfuegung Designrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-dfg-koselleck-500k-1-bis-dfg-projektbeschreib
-description: "dfg-foerderantrag: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (dfg-koselleck-500k-125m, dfg-praeregistrierung-replication-studies, dfg-projektbeschreibung-arbeitsprogramm) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dfg-foerderantrag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dfg Koselleck 500k 125m, Dfg Praeregistrierung Replication Studies, Dfg Projektbeschreibung Arbeitsprogramm; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - dfg-foerderantrag
+# Arbeitsbereich - Dfg Koselleck 500k 125m, Dfg Praeregistrierung Replication Studies, Dfg Projektbeschreibung Arbeitsprogramm
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dfg-koselleck-500k-125m` | Reinhart-Koselleck-Projekt prüfen und entwerfen: 500.000 Euro bis 1.250.000 Euro, 5 Jahre, Stufen von 250.000 Euro, außergewöhnliches Profil, positives Risiko, Vertrauensvorschuss, Abgrenzung zur Sachbeihilfe. |
 | `dfg-praeregistrierung-replication-studies` | Praeregistrierung und Replikationsstudien im DFG-Antrag: Hypothesen ex ante festlegen, registered reports, OSF-Praeregistrierung, Replikationsplaene als eigenstaendiges Vorhaben. DFG-Statement to scientific integrity. Vorteile fuer Reviewer-Akzeptanz, typische Stolpersteine bei der Formulierung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dfg-koselleck-500k-125m`
 
-**Frühere Beschreibung:** Reinhart-Koselleck-Projekt prüfen und entwerfen: 500.000 Euro bis 1.250.000 Euro, 5 Jahre, Stufen von 250.000 Euro, außergewöhnliches Profil, positives Risiko, Vertrauensvorschuss, Abgrenzung zur Sachbeihilfe.
+**Fokus:** Reinhart-Koselleck-Projekt prüfen und entwerfen: 500.000 Euro bis 1.250.000 Euro, 5 Jahre, Stufen von 250.000 Euro, außergewöhnliches Profil, positives Risiko, Vertrauensvorschuss, Abgrenzung zur Sachbeihilfe.
 
 # Reinhart-Koselleck-Check
 
@@ -188,7 +188,7 @@ Bei Koselleck-Anträgen ist das vorbereitende Telefonat mit der DFG-Fachgebietsl
 
 ## 2. `dfg-praeregistrierung-replication-studies`
 
-**Frühere Beschreibung:** Praeregistrierung und Replikationsstudien im DFG-Antrag: Hypothesen ex ante festlegen, registered reports, OSF-Praeregistrierung, Replikationsplaene als eigenstaendiges Vorhaben. DFG-Statement to scientific integrity. Vorteile fuer Reviewer-Akzeptanz, typische Stolpersteine bei der Formulierung.
+**Fokus:** Praeregistrierung und Replikationsstudien im DFG-Antrag: Hypothesen ex ante festlegen, registered reports, OSF-Praeregistrierung, Replikationsplaene als eigenstaendiges Vorhaben. DFG-Statement to scientific integrity. Vorteile fuer Reviewer-Akzeptanz, typische Stolpersteine bei der Formulierung.
 
 # Praeregistrierung und Replikation
 
@@ -240,7 +240,7 @@ Dieser Skill gehoert zum Plugin `dfg-foerderantrag`. Er ergaenzt die uebrigen Sk
 
 ## 3. `dfg-projektbeschreibung-arbeitsprogramm`
 
-**Frühere Beschreibung:** DFG-Projektbeschreibung und Arbeitsprogramm ausarbeiten: Forschungslücke, Stand der Forschung, Ziele, Hypothesen, Methoden, Arbeitspakete, Meilensteine, Risiken, Forschungsdaten und verwertbare Antragssprache.
+**Fokus:** DFG-Projektbeschreibung und Arbeitsprogramm ausarbeiten: Forschungslücke, Stand der Forschung, Ziele, Hypothesen, Methoden, Arbeitspakete, Meilensteine, Risiken, Forschungsdaten und verwertbare Antragssprache.
 
 # Projektbeschreibung und Arbeitsprogramm
 

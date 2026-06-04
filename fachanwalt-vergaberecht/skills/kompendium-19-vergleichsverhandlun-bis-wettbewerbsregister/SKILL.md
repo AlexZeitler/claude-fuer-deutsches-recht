@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-vergleichsverhandlun-bis-wettbewerbsregister
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (vergleichsverhandlung-strategie, wertungspreisqualitaet-matrix, wettbewerbsregister-abfrage-selbstreinigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleichsverhandlung Strategie, Wertungspreisqualitaet Matrix, Wettbewerbsregister Abfrage Selbstreinigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergleichsverhandlung Strategie, Wertungspreisqualitaet Matrix, Wettbewerbsregister Abfrage Selbstreinigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich). |
 | `wertungspreisqualitaet-matrix` | Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
+**Fokus:** Vergleichsverhandlungs-Strategie für Vergaberecht (Oberschwellen- und Unterschwellenvergabe): ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich).
 
 # Vergleichsverhandlung und Einigung im Vergaberecht (Oberschwellen- und Unterschwellenvergabe)
 
@@ -216,7 +216,7 @@ Bei Nachpruefungsverfahren-Vergleich:
 
 ## 2. `wertungspreisqualitaet-matrix`
 
-**Frühere Beschreibung:** Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation.
+**Fokus:** Preis-Qualitaets-Wertung und Bewertungsmatrix bauen oder pruefen: Zuschlagskriterien, Unterkriterien, Gewichtung, Schulnotenmodelle, UfAB-Logik und Dokumentation.
 
 # Wertungsmatrix Preis/Qualitaet
 
@@ -280,7 +280,7 @@ Wertungstabelle, Bewertungsleitfaden, Plausibilitaetscheck, Angriffslinien.
 
 ## 3. `wettbewerbsregister-abfrage-selbstreinigung`
 
-**Frühere Beschreibung:** Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Massnahmen und Nachweise.
+**Fokus:** Wettbewerbsregister, Ausschlussgruende und Selbstreinigung praktisch bearbeiten: Abfragepflicht, Paragraphen 123/124 GWB, Paragraph 125 GWB, Compliance-Massnahmen und Nachweise.
 
 # Wettbewerbsregister und Selbstreinigung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-dsa-werbearchiv-aufb-bis-spezial-account-inte
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (dsa-werbearchiv-aufbauen, klage-gegen-vlop-einordnung-art-263-aeuv, spezial-account-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Dsa Werbearchiv Aufbauen, Klage Gegen Vlop Einordnung Art 263 Aeuv, Account Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsa-werbearchiv-aufbauen` | Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap fuer VLOP zur technischen Umsetzung. |
 | `klage-gegen-vlop-einordnung-art-263-aeuv` | Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsa-werbearchiv-aufbauen`
 
-**Frühere Beschreibung:** Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap fuer VLOP zur technischen Umsetzung.
+**Fokus:** Werbearchiv nach Art. 39 DSA aufbauen: Inhalt jeder Anzeige, Auftraggeber, Zeitraum, Zielgruppenparameter, Reichweite. Format-Anforderungen, Schnittstelle EU-Kommission, Forschungsdatenzugang. Roadmap fuer VLOP zur technischen Umsetzung.
 
 # DSA: Werbearchiv Art. 39
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `dsa-dma-digitalregulierung`. Er ergaenzt die ue
 
 ## 2. `klage-gegen-vlop-einordnung-art-263-aeuv`
 
-**Frühere Beschreibung:** Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
+**Fokus:** Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Prüfraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzuständigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV
 
@@ -246,7 +246,7 @@ Antrag:
 
 ## 3. `spezial-account-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Account: Internationaler Bezug und Schnittstellen im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Account: Internationaler Bezug und Schnittstellen im Plugin dsa dma digitalregulierung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Account: Internationaler Bezug und Schnittstellen
 

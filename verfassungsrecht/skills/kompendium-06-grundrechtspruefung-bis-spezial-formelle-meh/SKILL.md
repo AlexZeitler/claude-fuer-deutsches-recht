@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-grundrechtspruefung-bis-spezial-formelle-meh
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (grundrechtspruefung, spezial-acht-zahlen-schwellen-und-berechnung, spezial-formelle-mehrparteien-konflikt-und-interessen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verfassungsrecht
+# Arbeitsbereich - Grundrechtspruefung, Acht Zahlen Schwellen Und Berechnung, Formelle Mehrparteien Konflikt Und Interessen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grundrechtspruefung` | Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhältnismäßigkeit. Output: Grundrechtsprüfschema Prüfergebnis. Abgrenzung: nicht für formelle Verfassungsmäßigkeit (formelle-verfassungsmäßigkeit). |
 | `spezial-acht-zahlen-schwellen-und-berechnung` | Acht: Zahlen, Schwellenwerte und Berechnung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grundrechtspruefung`
 
-**Frühere Beschreibung:** Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhältnismäßigkeit. Output: Grundrechtsprüfschema Prüfergebnis. Abgrenzung: nicht für formelle Verfassungsmäßigkeit (formelle-verfassungsmäßigkeit).
+**Fokus:** Grundrechtsprüfung nach dem Drei-Stufen-Schema durchführen wenn staatliche Massnahme Grundrecht beruehrt. Art. 1-19 GG Grundrechte Art. 20 Abs. 3 GG Verhältnismäßigkeit. Prüfraster: Schutzbereich Eingriff Rechtfertigung verfassungsrechtliche Schranken Wesensgehalt Art. 19 Abs. 2 GG Verhältnismäßigkeit. Output: Grundrechtsprüfschema Prüfergebnis. Abgrenzung: nicht für formelle Verfassungsmäßigkeit (formelle-verfassungsmäßigkeit).
 
 # Grundrechtsprüfung
 
@@ -191,7 +191,7 @@ Diese Prüfung ist eine strukturierte Modellauswertung und **kein Ersatz** für 
 
 ## 2. `spezial-acht-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Acht: Zahlen, Schwellenwerte und Berechnung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Acht: Zahlen, Schwellenwerte und Berechnung im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Acht: Zahlen, Schwellenwerte und Berechnung
 
@@ -232,7 +232,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-formelle-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Formelle: Mehrparteienkonflikt und Interessenmatrix im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Formelle: Mehrparteienkonflikt und Interessenmatrix im Plugin verfassungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Formelle: Mehrparteienkonflikt und Interessenmatrix
 

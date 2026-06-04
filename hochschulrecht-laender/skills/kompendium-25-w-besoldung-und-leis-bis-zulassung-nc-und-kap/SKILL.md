@@ -1,33 +1,33 @@
 ---
 name: kompendium-25-w-besoldung-und-leis-bis-zulassung-nc-und-kap
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 25; bündelt 2 frühere Spezialskills (w-besoldung-und-leistungsbezuege, zulassung-nc-und-kapazitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - hochschulrecht-laender
+# Arbeitsbereich - W Besoldung Und Leistungsbezuege, Zulassung Nc Und Kapazitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `w-besoldung-und-leistungsbezuege` | Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen. |
 | `zulassung-nc-und-kapazitaet` | Prüft Zulassung, NC und Kapazitätsrecht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `w-besoldung-und-leistungsbezuege`
 
-**Frühere Beschreibung:** Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen.
+**Fokus:** Prüft W-Besoldung, Leistungsbezüge und Bleibeverhandlungen.
 
 # W Besoldung Und Leistungsbezuege
 
@@ -94,7 +94,7 @@ Erzeuge bevorzugt: Besoldungsmemo. Am Ende immer drei Zeilen: **Frist**, **fehle
 
 ## 2. `zulassung-nc-und-kapazitaet`
 
-**Frühere Beschreibung:** Prüft Zulassung, NC und Kapazitätsrecht.
+**Fokus:** Prüft Zulassung, NC und Kapazitätsrecht.
 
 # Zulassung NC Und Kapazitaet
 

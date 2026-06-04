@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-sanity-check-selbstv-bis-typische-fehler-selb
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (sanity-check-selbstvertretung-sozialgericht, sozialleistungen-uebersicht-sgb, teilstattgabe-vollstattgabe-verstehen, terminvorbereitung-laien-checkliste-sozialgericht, typische-fehler-selbstvertreter-sozialgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sanity Check Selbstvertretung Sozialgericht, Sozialleistungen Uebersicht Sgb, Teilstattgabe Vollstattgabe Verstehen, Terminvorbereitung Laien Checkliste Sozialgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Sanity Check Selbstvertretung Sozialgericht bis Typische Fehler Selbstvertreter Sozialgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sanity-check-selbstvertretung-sozialgericht` | Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen. |
 | `sozialleistungen-uebersicht-sgb` | Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sanity-check-selbstvertretung-sozialgericht`
 
-**Frühere Beschreibung:** Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen.
+**Fokus:** Letzter Sanity-Check vor Widerspruch, Klage, Eilantrag, Stellungnahme, Termin oder Berufung im Sozialgerichtsverfahren. Prüft Frist, Bescheidkette, richtige Klageart, Eilbedürftigkeit, Belege, medizinische Unterlagen, Antrag, Kostenfreiheit, PKH und rote Flaggen.
 
 # Sanity-Check Selbstvertretung Sozialgericht
 
@@ -157,7 +157,7 @@ Ich beantrage im Wege der einstweiligen Anordnung, die Antragsgegnerin vorläufi
 
 ## 2. `sozialleistungen-uebersicht-sgb`
 
-**Frühere Beschreibung:** Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger.
+**Fokus:** Überblick aller Sozialleistungen und Sozialgesetzbuecher. SGB I bis SGB XIV. Wer ist zuständig für was. Welche Leistung in welchem Buch. Praktischer Leitfaden für Buerger.
 
 # Sozialleistungen — Uebersicht aller SGB
 
@@ -276,7 +276,7 @@ Stand: 05/2026. SGB XIV in Kraft seit 1.1.2024 (Reform OEG/BVG). Buergergeld-Ref
 
 ## 3. `teilstattgabe-vollstattgabe-verstehen`
 
-**Frühere Beschreibung:** Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen.
+**Fokus:** Was bedeutet Vollabhilfe Teilabhilfe Zurückweisung im Widerspruchsbescheid. Wie Sie die Entscheidung lesen und was wann zu tun ist. Mit Beispielen aus typischen Sozialleistungen.
 
 # Vollabhilfe, Teilabhilfe oder Ablehnung — Bescheid lesen lernen
 
@@ -411,7 +411,7 @@ Stand: 05/2026. Klassische Auslegungs-Praxis. Bei Unsicherheit Beratungsstelle.
 
 ## 4. `terminvorbereitung-laien-checkliste-sozialgericht`
 
-**Frühere Beschreibung:** Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen.
+**Fokus:** Detaillierte Vorbereitung auf den SG-Termin. Was sage ich was nehme ich mit was muss ich vorher wissen. Vor allem zum Vortrag zum Antrag und zur Reaktion auf Fragen.
 
 # Terminvorbereitung — Checkliste fuer Laien
 
@@ -568,7 +568,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 ## 5. `typische-fehler-selbstvertreter-sozialgericht`
 
-**Frühere Beschreibung:** Die häufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden.
+**Fokus:** Die häufigsten Fehler von Buergern ohne Anwalt vor dem SG. Frist Form Belege Antrag. Liste der Stolpersteine und wie Sie sie vermeiden.
 
 # Typische Fehler — und wie Sie sie vermeiden
 

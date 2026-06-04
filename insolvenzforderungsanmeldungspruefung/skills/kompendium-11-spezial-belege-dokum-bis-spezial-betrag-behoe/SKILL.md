@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-belege-dokum-bis-spezial-betrag-behoe
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-belege-dokumentenmatrix-und-lueckenliste, spezial-bestreiten-mehrparteien-konflikt-und-interessen, spezial-betrag-behoerden-gericht-und-registerweg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Belege Dokumentenmatrix Und Lueckenliste, Bestreiten Mehrparteien Konflikt Und Interessen, Betrag Behoerden Gericht Und Registerweg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Belege Dokumentenmatrix Und Lueckenliste, Bestreiten Mehrparteien Konflikt Und Interessen, Betrag Behoerden Gericht Und Registerweg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-belege-dokumentenmatrix-und-lueckenliste` | Belege: Dokumentenmatrix, Lückenliste und Nachforderung im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-bestreiten-mehrparteien-konflikt-und-interessen` | Bestreiten: Mehrparteienkonflikt und Interessenmatrix im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-belege-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Belege: Dokumentenmatrix, Lückenliste und Nachforderung im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Belege: Dokumentenmatrix, Lückenliste und Nachforderung im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Belege: Dokumentenmatrix, Lückenliste und Nachforderung
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-bestreiten-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Bestreiten: Mehrparteienkonflikt und Interessenmatrix im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Bestreiten: Mehrparteienkonflikt und Interessenmatrix im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Bestreiten: Mehrparteienkonflikt und Interessenmatrix
 
@@ -128,7 +128,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-betrag-behoerden-gericht-und-registerweg`
 
-**Frühere Beschreibung:** Betrag: Behörden-, Gerichts- oder Registerweg im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Betrag: Behörden-, Gerichts- oder Registerweg im Forderungsprüfung: fachlich vertiefter Spezialskill mit Normenradar (InsO/Tabelle/Bestreiten), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Betrag: Behörden-, Gerichts- oder Registerweg
 

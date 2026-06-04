@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-solo-umsatzpipeline-bis-solo-verkauf-des-ges
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 24; bündelt 8 frühere Spezialskills (solo-umsatzpipeline, solo-umsatzsteuer-fallen-digitalleistungen, solo-umsatzsteuer-voranmeldung, solo-unfallversicherung-bg, solo-urheberrecht-auftrag und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Umsatzpipeline, Solo Umsatzsteuer Fallen Digitalleistungen, Solo Umsatzsteuer Voranmeldung, Solo Unfallversicherung Bg und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Umsatzpipeline bis Solo Verkauf Des Geschaefts
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-umsatzpipeline` | Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-umsatzsteuer-fallen-digitalleistungen` | Solo-Selbstständige: prüft digitale Produkte, Kurse, Downloads, Mitgliedschaften und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-umsatzpipeline`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Leads, Angebote, Abschlusswahrscheinlichkeit und Monatsziel; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Ordnet leads
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 2. `solo-umsatzsteuer-fallen-digitalleistungen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft digitale Produkte, Kurse, Downloads, Mitgliedschaften und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft digitale Produkte, Kurse, Downloads, Mitgliedschaften und Leistungsort; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Prüft digitale produkte
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 3. `solo-umsatzsteuer-voranmeldung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bereitet UStVA, Dauerfristverlängerung und Zahllastkontrolle vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bereitet UStVA, Dauerfristverlängerung und Zahllastkontrolle vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Bereitet ustva
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 4. `solo-unfallversicherung-bg`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft BG, freiwillige Versicherung und Tätigkeitsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft BG, freiwillige Versicherung und Tätigkeitsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft bg
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 5. `solo-urheberrecht-auftrag`
 
-**Frühere Beschreibung:** Solo-Selbstständige: regelt Nutzungsrechte an Text, Design, Code, Foto und Musik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: regelt Nutzungsrechte an Text, Design, Code, Foto und Musik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Regelt nutzungsrechte an text
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 6. `solo-veranstaltung-workshop-risiko`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Präsenzworkshop, Räume, Teilnehmende, Fotos und Unfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Präsenzworkshop, Räume, Teilnehmende, Fotos und Unfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Versicherung Haftung und Risiko: Prüft präsenzworkshop
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Versicherung Haftung 
 
 ## 7. `solo-vergleich-kleinfall`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt Vergleich mit Raten, Anerkenntnis, Kosten und Erledigung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt Vergleich mit Raten, Anerkenntnis, Kosten und Erledigung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Erstellt vergleich mit raten
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 8. `solo-verkauf-des-geschaefts`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Asset-Deal, Kunden, Rechte, Daten und Gewährleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Asset-Deal, Kunden, Rechte, Daten und Gewährleistung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Wachstum Zusammenarbeit und Rechtsform: Prüft asset-deal
 

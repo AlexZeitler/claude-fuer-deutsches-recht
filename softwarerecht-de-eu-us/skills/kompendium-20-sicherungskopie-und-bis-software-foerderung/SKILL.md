@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-sicherungskopie-und-bis-software-foerderung
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (sicherungskopie-und-bestimmungsgemaesse-nutzung-69d, software-copyright-infringement, software-dokumentation-gui-api-schutz, software-foerderung-rd-tax) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sicherungskopie Und Bestimmungsgemaesse Nutzung 69d, Software Copyright Infringement, Software Dokumentation Gui Api Schutz, Software Foerderung Rd Tax; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - softwarerecht-de-eu-us
+# Arbeitsbereich - Sicherungskopie Und Bestimmungsgemaesse Nutzung 69d bis Software Foerderung Rd Tax
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sicherungskopie-und-bestimmungsgemaesse-nutzung-69d` | Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen. |
 | `software-copyright-infringement` | Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sicherungskopie-und-bestimmungsgemaesse-nutzung-69d`
 
-**Frühere Beschreibung:** Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen.
+**Fokus:** Prüft § 69d UrhG, notwendige Programmnutzung, Fehlerberichtigung, Backup und vertragliche Einschränkungen.
 
 # Sicherungskopie und bestimmungsgemäße Nutzung
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `software-copyright-infringement`
 
-**Frühere Beschreibung:** Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung.
+**Fokus:** Prüft Software-Urheberrechtsverletzungen: Codekopie, nonliteral similarity, access, clean room und Beweisführung.
 
 # Software Copyright Infringement
 
@@ -142,7 +142,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `software-dokumentation-gui-api-schutz`
 
-**Frühere Beschreibung:** Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode.
+**Fokus:** Prüft Schutz von Dokumentation, GUI, API-Spezifikation, Handbüchern, Screens und Datenmodellen neben dem Programmcode.
 
 # Dokumentation, GUI und API-Schutz
 
@@ -199,7 +199,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `software-foerderung-rd-tax`
 
-**Frühere Beschreibung:** Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation.
+**Fokus:** Prüft Softwareentwicklung für Forschungszulage, Förderverträge, IP-Auflagen, Beihilfe und Dokumentation.
 
 # Software-F&E und Förderlogik
 

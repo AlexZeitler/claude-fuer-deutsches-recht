@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-international-berne-bis-litigation-readiness
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (international-berne-uruguay, joint-authorship-wmfh, library-archives-108, litigation-readiness-section-411-412) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu International Berne Uruguay, Joint Authorship Wmfh, Library Archives 108, Litigation Readiness Section 411 412; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - us-copyright-registrierung-verlag
+# Arbeitsbereich - International Berne Uruguay bis Litigation Readiness Section 411 412
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `international-berne-uruguay` | Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement. |
 | `joint-authorship-wmfh` | Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `international-berne-uruguay`
 
-**Frühere Beschreibung:** Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement.
+**Fokus:** Prueft foreign works, Berne Convention, TRIPS, URAA restoration, country of origin und US enforcement.
 
 # International Copyright, Berne und URAA
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `joint-authorship-wmfh`
 
-**Frühere Beschreibung:** Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse.
+**Fokus:** Prueft Mitautorenschaft, collective intent, employee works, specially ordered works und deutsche Vertragsmissverstaendnisse.
 
 # Joint Authorship und Work Made for Hire
 
@@ -166,7 +166,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `library-archives-108`
 
-**Frühere Beschreibung:** Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung.
+**Fokus:** Prueft Bibliotheks- und Archivkopien, Preservation, Replacement, User Requests und Grenzen digitaler Bereitstellung.
 
 # Libraries und Archives § 108
 
@@ -234,7 +234,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `litigation-readiness-section-411-412`
 
-**Frühere Beschreibung:** Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel.
+**Fokus:** Litigation Readiness: Registrierung, Registrierungsdatum, U.S.-Klagevoraussetzungen, statutory-damages-Timing und Aktenpaket für US-Counsel.
 
 # Litigation Readiness 411 und 412
 

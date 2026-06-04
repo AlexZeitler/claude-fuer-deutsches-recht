@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-umv-062-batteriespei-bis-umv-066-batteriespei
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (umv-062-batteriespeicher-einwendung-bauen, umv-063-batteriespeicher-akteneinsicht-erzwing, umv-064-batteriespeicher-gutachten-zerlegen, umv-066-batteriespeicher-eilantrag-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 062 Batteriespeicher Einwendung Bauen, Umv 063 Batteriespeicher Akteneinsicht Erzwing, Umv 064 Batteriespeicher Gutachten Zerlegen, Umv 066 Batteriespeicher Eilantrag Schreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 062 Batteriespeicher Einwendung Bauen bis Umv 066 Batteriespeicher Eilantrag Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-062-batteriespeicher-einwendung-bauen` | Umweltschutzverband Verbandsklage: Batteriespeicher: Einwendung bauen. Einwendung bauen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-063-batteriespeicher-akteneinsicht-erzwing` | Umweltschutzverband Verbandsklage: Batteriespeicher: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-062-batteriespeicher-einwendung-bauen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Einwendung bauen. Einwendung bauen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Einwendung bauen. Einwendung bauen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Einwendung Bauen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-063-batteriespeicher-akteneinsicht-erzwing`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Akteneinsicht Erzwing
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-064-batteriespeicher-gutachten-zerlegen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Gutachten zerlegen. Gutachten zerlegen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Gutachten zerlegen. Gutachten zerlegen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Gutachten Zerlegen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-066-batteriespeicher-eilantrag-schreiben`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Eilantrag schreiben. Eilantrag schreiben für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Eilantrag schreiben. Eilantrag schreiben für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Eilantrag Schreiben
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-special-handling-lit-bis-subject-matter-102-s
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (special-handling-litigation-urgency, standard-vs-single-vs-gruppenregistrierung, statutory-damages-504-412, subject-matter-102-scope) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Special Handling Litigation Urgency, Standard Vs Single Vs Gruppenregistrierung, Statutory Damages 504 412, Subject Matter 102 Scope; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Special Handling Litigation Urgency bis Subject Matter 102 Scope
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `special-handling-litigation-urgency` | Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten. |
 | `standard-vs-single-vs-gruppenregistrierung` | Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `special-handling-litigation-urgency`
 
-**Frühere Beschreibung:** Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten.
+**Fokus:** Special Handling bei Eilbedarf: Litigation, Customs, Vertragsfristen und Marktfenster prüfen, Kosten/Nutzen abwägen und Begründung vorbereiten.
 
 # Special Handling und Eilbedarf
 
@@ -73,7 +73,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `standard-vs-single-vs-gruppenregistrierung`
 
-**Frühere Beschreibung:** Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung.
+**Fokus:** Antragstyp sauber wählen: Standard Application, Single-author-Option, Gruppenregistrierung oder separater Antrag pro Werk; keine unzulässige Sammelanmeldung.
 
 # Standard, Single oder Gruppenregistrierung
 
@@ -123,7 +123,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `statutory-damages-504-412`
 
-**Frühere Beschreibung:** Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412.
+**Fokus:** Prueft statutory damages, actual damages, profits, election, timely registration und Ausschlussrisiken nach § 412.
 
 # Statutory Damages und § 412 Timing
 
@@ -192,7 +192,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `subject-matter-102-scope`
 
-**Frühere Beschreibung:** Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen fuer Title 17.
+**Fokus:** Prueft Schutzgegenstand nach 17 USC 102: works of authorship, expression, fixation, exclusions und erste Weichen fuer Title 17.
 
 # Subject Matter und § 102 Scope
 

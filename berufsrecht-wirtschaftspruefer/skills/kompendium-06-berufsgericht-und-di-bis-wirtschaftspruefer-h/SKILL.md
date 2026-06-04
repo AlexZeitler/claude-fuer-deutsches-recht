@@ -1,40 +1,36 @@
 ---
 name: kompendium-06-berufsgericht-und-di-bis-wirtschaftspruefer-h
-description: "berufsrecht-wirtschaftspruefer: Konsolidiertes Skill-Kompendium 06; bündelt 9 frühere Spezialskills (berufsgericht-und-disziplinarverfahren, frist-und-zustaendigkeit-cockpit, fristenkontrolle, wirtschaftspruefer-apas-verfahren-antwortstrategie-kammerantwor, wirtschaftspruefer-apas-verfahren-antwortstrategie-organisation und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-wirtschaftspruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berufsgericht Und Disziplinarverfahren, Frist Und Zustaendigkeit Cockpit, Fristenkontrolle, Wirtschaftspruefer Apas Verfahren Antwortstrategie Kammerantwor und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - berufsrecht-wirtschaftspruefer
+# Arbeitsbereich - Berufsgericht Und Disziplinarverfahren bis Wirtschaftspruefer Apas Verfahren Antwortstrategie Organisation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `berufsgericht-und-disziplinarverfahren` | Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `frist-und-zustaendigkeit-cockpit` | Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `fristenkontrolle` | Fristenkontrolle: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Fristenkontrolle im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `wirtschaftspruefer-apas-verfahren-antwortstrategie-kammerantwor` | Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `wirtschaftspruefer-apas-verfahren-antwortstrategie-organisation` | Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-apas-verfahren-antwortstrategie-rechtsprechu` | Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-fraud-red-flags-kammerantwort-und-verfahrens` | Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-haftpflicht-und-schadenanzeige-kammerantwort` | Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `wirtschaftspruefer-haftpflicht-und-schadenanzeige-organisations` | Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `berufsgericht-und-disziplinarverfahren`
 
-**Frühere Beschreibung:** Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Berufsgericht und Disziplinarverfahren: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Einleitung, Verteidigung, Maßnahmen, Öffentlichkeit, Beweis und Rechtsmittel, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Berufsgericht und Disziplinarverfahren
 
@@ -84,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `frist-und-zustaendigkeit-cockpit`
 
-**Frühere Beschreibung:** Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Fristen- und Zuständigkeitscockpit: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft macht Fristen, Zuständigkeiten, Rechtsbehelfe und Vorfristen sofort sichtbar, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Fristen- und Zuständigkeitscockpit
 
@@ -134,7 +130,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `fristenkontrolle`
 
-**Frühere Beschreibung:** Fristenkontrolle: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Fristenkontrolle im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Fristenkontrolle: vertiefter Berufsrechts-Skill für Wirtschaftsprüfer; prüft Fristenkontrolle im Berufsrecht für Wirtschaftsprüfer, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Fristenkontrolle
 
@@ -184,7 +180,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `wirtschaftspruefer-apas-verfahren-antwortstrategie-kammerantwor`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -227,7 +223,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `wirtschaftspruefer-apas-verfahren-antwortstrategie-organisation`
 
-**Frühere Beschreibung:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Wirtschaftsprüfer: apas verfahren antwortstrategie - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -236,178 +232,6 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 - **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
 - **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 6. `wirtschaftspruefer-apas-verfahren-antwortstrategie-rechtsprechu`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Wirtschaftsprüfer: apas verfahren antwortstrategie - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 7. `wirtschaftspruefer-fraud-red-flags-kammerantwort-und-verfahrens`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Wirtschaftsprüfer: fraud red flags - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 8. `wirtschaftspruefer-haftpflicht-und-schadenanzeige-kammerantwort`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
-- **Spezialgegenstand:** Wirtschaftsprüfer: haftpflicht und schadenanzeige - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Pflichtversicherung, Deckung, Ausschlüsse, Anzeigeobliegenheiten und Regressfenster sichtbar machen.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, APAS-/WPK-Praxis, Geldwäsche- und Unabhängigkeitsregeln live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Unabhängigkeitsmemo, Prüfungsqualitätsvermerk, APAS-/WPK-Antwort, Mandatsannahmecheck oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 9. `wirtschaftspruefer-haftpflicht-und-schadenanzeige-organisations`
-
-**Frühere Beschreibung:** Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-
-## Konkreter Berufsrechtskern: Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
-- **Spezialgegenstand:** Wirtschaftsprüfer: haftpflicht und schadenanzeige - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** WPO, Berufssatzung WP/vBP, HGB-Prüfungsvorschriften, EU-Abschlussprüferrecht, APAS-Verfahren, Unabhängigkeit und Qualitätskontrolle.
-- **Institutionen:** WPK, APAS, Prüfstelle/Abschlussprüferaufsicht, Registergericht und Mandatsgremien.
-- **Spezialspur:** Pflichtversicherung, Deckung, Ausschlüsse, Anzeigeobliegenheiten und Regressfenster sichtbar machen.
 - **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
 
 ## Fallweichen dieser Speziallage

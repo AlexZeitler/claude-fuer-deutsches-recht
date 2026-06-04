@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-sales-katalog-vlb-bu-bis-spezial-buchprojekte
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (sales-katalog-vlb-buchhandel, satzfahne-korrekturlauf, spezial-autorenkommunikation-compliance-dokumentation-und-akte, spezial-bildrechte-zahlen-schwellen-und-berechnung, spezial-buchprojekte-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sales Katalog Vlb Buchhandel, Satzfahne Korrekturlauf, Autorenkommunikation Compliance Dokumentation Und Akte, Bildrechte Zahlen Schwellen Und Berechnung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verlagsredaktion
+# Arbeitsbereich - Sales Katalog Vlb Buchhandel bis Buchprojekte Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sales-katalog-vlb-buchhandel` | Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkaufsargumenten, Warengruppe, Schlagworten und Vergleichstiteln vor. |
 | `satzfahne-korrekturlauf` | Fuehrt durch Satzfahnen, Korrekturlaeufe, Umbruch, Seitenzahlen, Abbildungen, Fussnoten, Freigaben und letzte Produktionschecks. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sales-katalog-vlb-buchhandel`
 
-**Frühere Beschreibung:** Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkaufsargumenten, Warengruppe, Schlagworten und Vergleichstiteln vor.
+**Fokus:** Bereitet Vertriebs-, Katalog-, VLB- und Buchhandelsdaten mit Zielgruppen, Verkaufsargumenten, Warengruppe, Schlagworten und Vergleichstiteln vor.
 
 # Sales, Katalog und Buchhandel
 
@@ -82,7 +82,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 2. `satzfahne-korrekturlauf`
 
-**Frühere Beschreibung:** Fuehrt durch Satzfahnen, Korrekturlaeufe, Umbruch, Seitenzahlen, Abbildungen, Fussnoten, Freigaben und letzte Produktionschecks.
+**Fokus:** Fuehrt durch Satzfahnen, Korrekturlaeufe, Umbruch, Seitenzahlen, Abbildungen, Fussnoten, Freigaben und letzte Produktionschecks.
 
 # Satzfahne und Korrekturlauf
 
@@ -132,7 +132,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 3. `spezial-autorenkommunikation-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Autorenkommunikation: Compliance-Dokumentation und Aktenvermerk
 
@@ -173,7 +173,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-bildrechte-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Bildrechte: Zahlen, Schwellenwerte und Berechnung im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bildrechte: Zahlen, Schwellenwerte und Berechnung im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bildrechte: Zahlen, Schwellenwerte und Berechnung
 
@@ -214,7 +214,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-buchprojekte-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Buchprojekte: Internationaler Bezug und Schnittstellen im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Buchprojekte: Internationaler Bezug und Schnittstellen im Plugin verlagsredaktion; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Buchprojekte: Internationaler Bezug und Schnittstellen
 

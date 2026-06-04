@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-besold-neu-003-besol-bis-besold-neu-009-minde
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 06; bündelt 7 frühere Spezialskills (besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion, besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennun, besold-neu-005-auslandszuschlag-auslandseinsatz-und-kaufkraftaus, besold-neu-006-erschwerniszulagen-dienst-zu-unguenstigen-zeiten, besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion, Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun, Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus, Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitäts"
 ---
 
-# Kompendium 06 - beamtenrecht
+# Arbeitsbereich - Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion bis Besold Neu 009 Mindestabstandsgebot Buergergeld Vergleichsberech
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion` | Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennun` | Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `besold-neu-003-besoldungsgruppe-eingruppierung-amt-und-funktion`
 
-**Frühere Beschreibung:** Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Besoldungsgruppe Eingruppierung Amt und Funktion mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 003 Besoldungsgruppe Eingruppierung Amt Und Funktion
 
@@ -82,7 +82,7 @@ Skill fuer Eingruppierung in Besoldungsgruppen — Statusamt vs. Funktionsamt.
 
 ## 2. `besold-neu-004-stufenfestsetzung-erfahrungszeiten-und-anerkennun`
 
-**Frühere Beschreibung:** Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Stufenfestsetzung Erfahrungszeiten und Anerkennung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 004 Stufenfestsetzung Erfahrungszeiten Und Anerkennun
 
@@ -128,7 +128,7 @@ Skill fuer Stufenfestsetzung nach Erfahrungszeiten — Anerkennung von Vorzeiten
 
 ## 3. `besold-neu-005-auslandszuschlag-auslandseinsatz-und-kaufkraftaus`
 
-**Frühere Beschreibung:** Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Auslandszuschlag Auslandseinsatz und Kaufkraftausgleich mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 005 Auslandszuschlag Auslandseinsatz Und Kaufkraftaus
 
@@ -179,7 +179,7 @@ Skill fuer Auslandszuschlag bei Auslandsdienst — § 52 ff. BBesG.
 
 ## 4. `besold-neu-006-erschwerniszulagen-dienst-zu-unguenstigen-zeiten`
 
-**Frühere Beschreibung:** Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Erschwerniszulagen Dienst zu ungünstigen Zeiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 006 Erschwerniszulagen Dienst Zu Unguenstigen Zeiten
 
@@ -223,7 +223,7 @@ Skill fuer Erschwerniszulagen — Wechselschicht, Nachtdienst, Wochenende.
 
 ## 5. `besold-neu-007-mehrarbeit-verguetung-freizeitausgleich-beamte`
 
-**Frühere Beschreibung:** Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Mehrarbeit Vergütung Freizeitausgleich Beamte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 007 Mehrarbeit Verguetung Freizeitausgleich Beamte
 
@@ -273,7 +273,7 @@ Skill fuer Mehrarbeit nach § 88 BBG / Landesrecht — Freizeitausgleich vs. Ver
 
 ## 6. `besold-neu-008-amtsangemessene-alimentation-fuenf-parameter`
 
-**Frühere Beschreibung:** Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Amtsangemessene Alimentation fünf Parameter mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 008 Amtsangemessene Alimentation Fuenf Parameter
 
@@ -319,7 +319,7 @@ Skill fuer die amtsangemessene Alimentation und das Fuenf-Parameter-Schema des B
 
 ## 7. `besold-neu-009-mindestabstandsgebot-buergergeld-vergleichsberech`
 
-**Frühere Beschreibung:** Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Mindestabstandsgebot Bürgergeld Vergleichsberechnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 009 Mindestabstandsgebot Buergergeld Vergleichsberech
 

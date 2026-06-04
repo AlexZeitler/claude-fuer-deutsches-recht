@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-pralr-neu-022-zweite-bis-pralr-neu-026-zweite
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (pralr-neu-022-zweiter-teil-staendeordnung-adel-buerger-bauern, pralr-neu-023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei, pralr-neu-024-zweiter-teil-kirchen-schule-armenwesen, pralr-neu-025-zweiter-teil-staatsdiener-amtspflichten, pralr-neu-026-zweiter-teil-strafrecht-20-titel-quellenkritisch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern, Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei, Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen, Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Quali"
 ---
 
-# Kompendium 16 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Neu 022 Zweiter Teil Staendeordnung Adel Buerger Bauern bis Pralr Neu 026 Zweiter Teil Strafrecht 20 Titel Quellenkritisch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-neu-022-zweiter-teil-staendeordnung-adel-buerger-bauern` | PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `pralr-neu-023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei` | PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-neu-022-zweiter-teil-staendeordnung-adel-buerger-bauern`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Zweiter Teil Ständeordnung Adel Bürger Bauern
 
@@ -100,7 +100,7 @@ ALR II 7 - II 9 (Bauernstand, Buergerstand, Adel) ist eines der bekanntesten Bei
 
 ## 2. `pralr-neu-023-zweiter-teil-gemeinderecht-staedte-doerfer-polizei`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Gemeinderecht Städte Dörfer Polizei mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 023 Zweiter Teil Gemeinderecht Staedte Doerfer Polizei
 
@@ -144,7 +144,7 @@ Buergermeister einer Mittelstadt erlaesst Verfuegung.
 
 ## 3. `pralr-neu-024-zweiter-teil-kirchen-schule-armenwesen`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Kirchen Schule Armenwesen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Kirchen Schule Armenwesen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 024 Zweiter Teil Kirchen Schule Armenwesen
 
@@ -188,7 +188,7 @@ Bauer schickt Kind nicht zur Schule.
 
 ## 4. `pralr-neu-025-zweiter-teil-staatsdiener-amtspflichten`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Staatsdiener Amtspflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Staatsdiener Amtspflichten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 025 Zweiter Teil Staatsdiener Amtspflichten
 
@@ -233,7 +233,7 @@ Staatsdiener trifft pflichtwidrige Entscheidung.
 
 ## 5. `pralr-neu-026-zweiter-teil-strafrecht-20-titel-quellenkritisch`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Zweiter Teil Strafrecht 20 Titel quellenkritisch
 

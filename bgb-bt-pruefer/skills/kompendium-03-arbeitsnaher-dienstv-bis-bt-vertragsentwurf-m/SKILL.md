@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-arbeitsnaher-dienstv-bis-bt-vertragsentwurf-m
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (arbeitsnaher-dienstvertrag-bgb, bauvertrag-und-verbraucherbauvertrag, bt-vertragsentwurf-modellvertrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsnaher Dienstvertrag Bgb, Bauvertrag Und Verbraucherbauvertrag, Bt Vertragsentwurf Modellvertrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bgb-bt-pruefer
+# Arbeitsbereich - Arbeitsnaher Dienstvertrag Bgb, Bauvertrag Und Verbraucherbauvertrag, Bt Vertragsentwurf Modellvertrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitsnaher-dienstvertrag-bgb` | Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB. |
 | `bauvertrag-und-verbraucherbauvertrag` | Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitsnaher-dienstvertrag-bgb`
 
-**Frühere Beschreibung:** Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB.
+**Fokus:** Prüft zivilrechtliche Dienstleistungsverhältnisse mit Arbeitsrechtsnähe, Scheinselbstständigkeit und Vergütungsfragen nach §§ 611 ff. BGB.
 
 # Arbeitsnaher Dienstvertrag im BGB
 
@@ -117,7 +117,7 @@ Zivilrechtliche Dienstverträge mit Nähe zum Arbeitsrecht systematisch prüfen:
 
 ## 2. `bauvertrag-und-verbraucherbauvertrag`
 
-**Frühere Beschreibung:** Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung.
+**Fokus:** Prüft Bauvertrag §§ 650a ff. BGB, Verbraucherbauvertrag, Abnahme, Mängel und Vergütung.
 
 # Bauvertrag und Verbraucherbauvertrag
 
@@ -209,7 +209,7 @@ Bauvertragsrecht nach §§ 650a–650v BGB und VOB/B-Parallelrecht prüfen: Leis
 
 ## 3. `bt-vertragsentwurf-modellvertrag`
 
-**Frühere Beschreibung:** Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle.
+**Fokus:** Erstellt und prüft Vertragsentwürfe im Schuldrecht BT: Kaufvertrag, Mietvertrag, Werkvertrag, Auftrag und AGB-Schnittstelle.
 
 # BT-Vertragsentwurf und Modellvertrag
 

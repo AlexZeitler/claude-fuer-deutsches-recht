@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-rom-082-roman-law-fa-bis-rom-102-zwoelftafelg
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 12; bündelt 8 frühere Spezialskills (rom-082-roman-law-false-friends, rom-083-fallloesung-im-institutionensystem, rom-084-digestenstelle-in-argumentation, rom-088-historische-grenzen-der-analogie, rom-090-abschlussmemo-romanistische-tragfaehigkeit und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 082 Roman Law False Friends, Rom 083 Fallloesung Im Institutionensystem, Rom 084 Digestenstelle In Argumentation, Rom 088 Historische Grenzen Der Analogie und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - roemisches-recht
+# Arbeitsbereich - Rom 082 Roman Law False Friends bis Rom 102 Zwoelftafelgesetz Familie Erbe Nachbarschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-082-roman-law-false-friends` | Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig). |
 | `rom-083-fallloesung-im-institutionensystem` | Römisches Recht: Falllösung im Institutionensystem - Methodik der Subsumtion unter röm. Recht, Quellenrecherche (CIC, Gaius), Epochenzuordnung und Darstellung nach Institutionenschema (personae, res, actiones). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-082-roman-law-false-friends`
 
-**Frühere Beschreibung:** Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig).
+**Fokus:** Römisches Recht: Falsche Freunde (false friends) zwischen römischem Recht und modernem deutschem Recht - actio nicht = Klage im BGB-Sinne, possessio nicht = Besitz, culpa nicht = Fahrlässigkeit (vollständig).
 
 # Falsche Freunde zwischen römischem und modernem Recht
 
@@ -87,7 +87,7 @@ D. 44.7.3; D. 41.2 (Mommsen-Krüger). BGB: gesetze-im-internet.de. Liebs. Berger
 
 ## 2. `rom-083-fallloesung-im-institutionensystem`
 
-**Frühere Beschreibung:** Römisches Recht: Falllösung im Institutionensystem - Methodik der Subsumtion unter röm. Recht, Quellenrecherche (CIC, Gaius), Epochenzuordnung und Darstellung nach Institutionenschema (personae, res, actiones).
+**Fokus:** Römisches Recht: Falllösung im Institutionensystem - Methodik der Subsumtion unter röm. Recht, Quellenrecherche (CIC, Gaius), Epochenzuordnung und Darstellung nach Institutionenschema (personae, res, actiones).
 
 # Falllösung im Institutionensystem
 
@@ -141,7 +141,7 @@ CIC (Mommsen-Krüger, archive.org). Gaius Inst. Kaser RP I. Interpolationskritik
 
 ## 3. `rom-084-digestenstelle-in-argumentation`
 
-**Frühere Beschreibung:** Römisches Recht: Digestenstellen in der Argumentation - korrekte Zitation (D. x.y.z), Kontextprüfung, Interpolationsvorbehalt, Ulpian/Paulus/Papinian/Gaius als Autoren und Einordnung in das Gesamtsystem.
+**Fokus:** Römisches Recht: Digestenstellen in der Argumentation - korrekte Zitation (D. x.y.z), Kontextprüfung, Interpolationsvorbehalt, Ulpian/Paulus/Papinian/Gaius als Autoren und Einordnung in das Gesamtsystem.
 
 # Digestenstellen in der Argumentation
 
@@ -195,7 +195,7 @@ CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Index Inte
 
 ## 4. `rom-088-historische-grenzen-der-analogie`
 
-**Frühere Beschreibung:** Römisches Recht: Historische Grenzen der Analogie - Verbot der analogen Anwendung im justinianischen Recht (Const. Tanta § 21), Analogie in klassischer Jurisprudenz (actio utilis, actio ficticia) und methodische Grenzen.
+**Fokus:** Römisches Recht: Historische Grenzen der Analogie - Verbot der analogen Anwendung im justinianischen Recht (Const. Tanta § 21), Analogie in klassischer Jurisprudenz (actio utilis, actio ficticia) und methodische Grenzen.
 
 # Historische Grenzen der Analogie
 
@@ -249,7 +249,7 @@ Const. Tanta; D. 1.3; D. 9.2 (Mommsen-Krüger, archive.org). Schulz Classical Ro
 
 ## 5. `rom-090-abschlussmemo-romanistische-tragfaehigkeit`
 
-**Frühere Beschreibung:** Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit - Methodenreflexion, Quellenvalidierung, Epochenzuordnung, Interpolationsvorbehalt, Unterschied hist. Aussage und normative Aussage.
+**Fokus:** Römisches Recht: Abschlussmemo zur romanistischen Tragfähigkeit - Methodenreflexion, Quellenvalidierung, Epochenzuordnung, Interpolationsvorbehalt, Unterschied hist. Aussage und normative Aussage.
 
 # Abschlussmemo: Romanistische Tragfähigkeit
 
@@ -303,7 +303,7 @@ CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Kaser RP I
 
 ## 6. `rom-100-zwoelftafelgesetz-quellenkritik`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen.
+**Fokus:** Römisches Recht: Zwölftafelgesetz als frühe Quellenlage, Rekonstruktion, Fragment, spätere Überlieferung und methodische Grenzen.
 
 # Zwölftafelgesetz - Quellenkritik und Einordnung
 
@@ -342,7 +342,7 @@ Dieser Skill macht das **Zwölftafelgesetz** ausdrücklich nutzbar, ohne so zu t
 
 ## 7. `rom-101-zwoelftafelgesetz-prozess-und-vollstreckung`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus.
+**Fokus:** Römisches Recht: Zwölftafelgesetz zu archaischem Verfahren, Ladung, Urteil, Vollstreckung, Schuldhaft und Prozessformalismus.
 
 # Zwölftafelgesetz - Prozess und Vollstreckung
 
@@ -379,7 +379,7 @@ Dieser Skill erklärt das Zwölftafelgesetz als frühe Ordnung von **Verfahren u
 
 ## 8. `rom-102-zwoelftafelgesetz-familie-erbe-nachbarschaft`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten.
+**Fokus:** Römisches Recht: Zwölftafelgesetz zu Hausverband, patria potestas, Erbfolge, Vormundschaft, Nachbarschaft und Grenzkonflikten.
 
 # Zwölftafelgesetz - Familie, Erbe und Nachbarschaft
 

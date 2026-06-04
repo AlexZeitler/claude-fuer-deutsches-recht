@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-polizei-vorladung-ze-bis-rolle-erkennen
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (polizei-vorladung-zeuge, rechtsantragsstelle, rentenversicherung, rolle-erkennen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Polizei Vorladung Zeuge, Rechtsantragsstelle, Rentenversicherung, Rolle Erkennen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Polizei Vorladung Zeuge bis Rolle Erkennen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `polizei-vorladung-zeuge` | Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist. |
 | `rechtsantragsstelle` | Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `polizei-vorladung-zeuge`
 
-**Frühere Beschreibung:** Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist.
+**Fokus:** Erklärt, wer geladen hat, ob Erscheinen Pflicht ist, was Aussage bedeutet und wann Beratung vor Aussage sinnvoll ist.
 
 # Polizei-Vorladung als Zeuge
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `rechtsantragsstelle`
 
-**Frühere Beschreibung:** Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind.
+**Fokus:** Erklärt, wann Rechtsantragsstelle helfen kann, was sie nicht leistet, welche Unterlagen mitzunehmen sind.
 
 # Rechtsantragsstelle
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `rentenversicherung`
 
-**Frühere Beschreibung:** Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten.
+**Fokus:** Erklärt Rentenbescheid, Erwerbsminderung, Reha vor Rente, Versicherungsverlauf, Widerspruch und Gutachten.
 
 # Rentenversicherung
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `rolle-erkennen`
 
-**Frühere Beschreibung:** Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist.
+**Fokus:** Klären, ob jemand Antragsteller, Adressat, Zeuge, Beschuldigter, Betroffener, Beteiligter, Elternteil, Sorgeberechtigter, Bevollmächtigter oder nur Auskunftsperson ist.
 
 # Rolle erkennen
 

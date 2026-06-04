@@ -1,33 +1,33 @@
 ---
 name: kompendium-03-anti-dilution-protec-bis-articles-association
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 03; bündelt 2 frühere Spezialskills (anti-dilution-protection, articles-association-satzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anti Dilution Protection, Articles Association Satzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Anti Dilution Protection, Articles Association Satzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anti-dilution-protection` | Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken. |
 | `articles-association-satzung` | Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anti-dilution-protection`
 
-**Frühere Beschreibung:** Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken.
+**Fokus:** Prueft Anti-Dilution-Klauseln, Full Ratchet, Weighted Average, Down Round, Bezugsrechte und deutsche Umsetzungsrisiken.
 
 # Anti-Dilution Protection
 
@@ -96,7 +96,7 @@ Anti-Dilution schützt Investoren wirtschaftlich gegen spätere Finanzierungsrun
 
 ## 2. `articles-association-satzung`
 
-**Frühere Beschreibung:** Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen.
+**Fokus:** Vergleicht Articles of Association mit Satzung und Gesellschaftsvertrag, prueft Registerfaehigkeit, Pflichtinhalt, Nebenabreden und englische Fassungen.
 
 # Articles of Association und Satzung
 

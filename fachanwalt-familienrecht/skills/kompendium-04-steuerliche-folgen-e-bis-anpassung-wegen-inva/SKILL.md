@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-steuerliche-folgen-e-bis-anpassung-wegen-inva
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (steuerliche-folgen-externe-teilung, unterhalt-selbstaendige-einkommensaufklaerung, abaenderung-versorgungsausgleich-51-versausglg, aerztliche-versorgungswerke-berufsstaendische-versorgung, anpassung-wegen-invaliditaet-oder-besonderer-haerte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Steuerliche Folgen Externe Teilung, Unterhalt Selbstaendige Einkommensaufklaerung, Abaenderung Versorgungsausgleich 51 Versausglg, Aerztliche Versorgungswerke Berufsstaendische Versorgung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-familienrecht
+# Arbeitsbereich - Steuerliche Folgen Externe Teilung bis Anpassung Wegen Invaliditaet Oder Besonderer Haerte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `steuerliche-folgen-externe-teilung` | Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `unterhalt-selbstaendige-einkommensaufklaerung` | Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `steuerliche-folgen-externe-teilung`
 
-**Frühere Beschreibung:** Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Steuerliche Folgen externe Teilung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Steuerliche Folgen externe Teilung
 
@@ -84,7 +84,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `unterhalt-selbstaendige-einkommensaufklaerung`
 
-**Frühere Beschreibung:** Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.; Normanker: BGB §§ 1361 und 1570 ff., 1601 ff.; FamFG Auskunft; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Unterhalt bei Selbstständigen: Einkommensermittlung, Privatentnahmen, Steuerbescheid, BWA, Wohnvorteil und fiktives Einkommen.
 
@@ -122,7 +122,7 @@ BGB §§ 1361, 1570 ff., 1601 ff.; FamFG Auskunft. Rechtsprechung wird nur mit G
 
 ## 3. `abaenderung-versorgungsausgleich-51-versausglg`
 
-**Frühere Beschreibung:** Abänderung Versorgungsausgleich § 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Abänderung Versorgungsausgleich § 51 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Abänderung Versorgungsausgleich § 51 VersAusglG
 
@@ -176,7 +176,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `aerztliche-versorgungswerke-berufsstaendische-versorgung`
 
-**Frühere Beschreibung:** Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Ärztliche Versorgungswerke berufsständische Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Ärztliche Versorgungswerke berufsständische Versorgung
 
@@ -230,7 +230,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `anpassung-wegen-invaliditaet-oder-besonderer-haerte`
 
-**Frühere Beschreibung:** Anpassung wegen Invalidität oder besonderer Härte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Anpassung wegen Invalidität oder besonderer Härte: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Anpassung wegen Invalidität oder besonderer Härte
 

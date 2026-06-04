@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ehrenamtlicher-richt-bis-ehrenamtlicher-richt
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (ehrenamtlicher-richter-baurecht-sitzung, ehrenamtlicher-richter-beamtenrecht-orientierung, ehrenamtlicher-richter-beamtenrecht-sitzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ehrenamtlicher Richter Baurecht Sitzung, Ehrenamtlicher Richter Beamtenrecht Orientierung, Ehrenamtlicher Richter Beamtenrecht Sitzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Ehrenamtlicher Richter Baurecht Sitzung, Ehrenamtlicher Richter Beamtenrecht Orientierung, Ehrenamtlicher Richter Beamtenrecht Sitzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ehrenamtlicher-richter-baurecht-sitzung` | Ehrenamtlicher Richter Baurecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `ehrenamtlicher-richter-beamtenrecht-orientierung` | Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ehrenamtlicher-richter-baurecht-sitzung`
 
-**Frühere Beschreibung:** Ehrenamtlicher Richter Baurecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ehrenamtlicher Richter Baurecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Baugenehmigung, Nachbarschutz, Bebauungsplan, Ermessensfragen und Ortstermin mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ehrenamtlicher Richter Baurecht: Sitzungspraxis
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `ehrenamtlicher-richter-beamtenrecht-orientierung`
 
-**Frühere Beschreibung:** Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ehrenamtlicher Richter Beamtenrecht (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ehrenamtlicher Richter Beamtenrecht: Orientierung
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `ehrenamtlicher-richter-beamtenrecht-sitzung`
 
-**Frühere Beschreibung:** Ehrenamtlicher Richter Beamtenrecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ehrenamtlicher Richter Beamtenrecht (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Beurteilung, Konkurrentenstreit, Disziplinarrecht, Besoldung und Dienstunfall mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ehrenamtlicher Richter Beamtenrecht: Sitzungspraxis
 

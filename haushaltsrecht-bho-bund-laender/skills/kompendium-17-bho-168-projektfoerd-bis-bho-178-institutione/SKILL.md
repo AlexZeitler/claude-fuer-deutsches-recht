@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-bho-168-projektfoerd-bis-bho-178-institutione
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 17; bündelt 11 frühere Spezialskills (bho-168-projektfoerderung-sperre-bewerten, bho-169-projektfoerderung-deckung-finden, bho-170-projektfoerderung-szenario-rechnen, bho-171-projektfoerderung-dashboard-bauen, bho-172-projektfoerderung-risiko-markieren und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 168 Projektfoerderung Sperre Bewerten, Bho 169 Projektfoerderung Deckung Finden, Bho 170 Projektfoerderung Szenario Rechnen, Bho 171 Projektfoerderung Dashboard Bauen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 168 Projektfoerderung Sperre Bewerten bis Bho 178 Institutionelle Foerderung Sperre Bewe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-168-projektfoerderung-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Projektförderung: Sperre bewerten. Sperre bewerten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-169-projektfoerderung-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Projektförderung: Deckung finden. Deckung finden für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-168-projektfoerderung-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Sperre bewerten. Sperre bewerten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Sperre bewerten. Sperre bewerten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Sperre Bewerten
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-169-projektfoerderung-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Deckung finden. Deckung finden für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Deckung finden. Deckung finden für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Deckung Finden
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-170-projektfoerderung-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Szenario rechnen. Szenario rechnen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Szenario rechnen. Szenario rechnen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Szenario Rechnen
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-171-projektfoerderung-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Dashboard bauen. Dashboard bauen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Dashboard bauen. Dashboard bauen für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Dashboard Bauen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-172-projektfoerderung-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Risiko markieren. Risiko markieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Risiko markieren. Risiko markieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Risiko Markieren
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-173-projektfoerderung-brh-frage-formuliere`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: BRH-Frage formulieren. BRH-Frage formulieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: BRH-Frage formulieren. BRH-Frage formulieren für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Brh Frage Formuliere
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-174-projektfoerderung-parlamentsfrage-vorb`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Parlamentsfrage Vorb
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-175-projektfoerderung-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Vollzug tracken. Vollzug tracken für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Projektförderung: Vollzug tracken. Vollzug tracken für Projektförderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Projektfoerderung Vollzug Tracken
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-176-institutionelle-foerderung-titel-pruef`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Titel prüfen. Titel prüfen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Titel prüfen. Titel prüfen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Titel Pruef
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-177-institutionelle-foerderung-umschichtun`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Umschichtung simulieren. Umschichtung simulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Umschichtung simulieren. Umschichtung simulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Umschichtun
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-178-institutionelle-foerderung-sperre-bewe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Sperre bewerten. Sperre bewerten für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Sperre bewerten. Sperre bewerten für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Sperre Bewe
 

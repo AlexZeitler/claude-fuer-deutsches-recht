@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-urhmr-presserecht-ge-bis-urhmr-verwertungsges
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (urhmr-presserecht-gegendarstellung-spezial, urhmr-presserechtsbrief-leitfaden, urhmr-verwertungsgesellschaften-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urhmr Presserecht Gegendarstellung Spezial, Urhmr Presserechtsbrief Leitfaden, Urhmr Verwertungsgesellschaften Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Urhmr Presserecht Gegendarstellung Spezial, Urhmr Presserechtsbrief Leitfaden, Urhmr Verwertungsgesellschaften Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `urhmr-presserecht-gegendarstellung-spezial` | Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext. |
 | `urhmr-presserechtsbrief-leitfaden` | Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `urhmr-presserecht-gegendarstellung-spezial`
 
-**Frühere Beschreibung:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext.
+**Fokus:** Spezialfall presserechtliche Gegendarstellung: Landespressegesetze, Voraussetzungen unmittelbare Betroffenheit, Tatsachenbehauptung, Glaubhaftmachung, Erscheinungsweise und Aufmachung, Aktualitaet. Pruefraster und Mustertext.
 
 # UrhMR: Gegendarstellung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-urheber-medienrecht`. Er ergaenzt di
 
 ## 2. `urhmr-presserechtsbrief-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse.
+**Fokus:** Leitfaden Presserechtsbrief: Unterlassung Gegendarstellung Berichtigung Schadensersatz, Pruefraster Tatsachenbehauptung Werturteil, Verdachtsberichterstattung. Mustertext Abmahnung Presse.
 
 # UrhMR: Presserechtsbrief
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-urheber-medienrecht`. Er ergaenzt di
 
 ## 3. `urhmr-verwertungsgesellschaften-praxis`
 
-**Frühere Beschreibung:** Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte fuer Mandanten als Berechtigte und Nutzer.
+**Fokus:** Verwertungsgesellschaften GEMA, VG Wort, VG Bild-Kunst in der Praxis: Wahrnehmungsvertrag, Pauschalverguen, Tarife, Auskunftsansprueche, Reklamation. Pruefraster und Mustertexte fuer Mandanten als Berechtigte und Nutzer.
 
 # UrhMR: Verwertungsges.
 

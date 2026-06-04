@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-bautraeger-gemeinsch-bis-bautraeger-insolvenz
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (bautraeger-gemeinschaftliche-maengelverfolgung-weg, bautraeger-grundbuchaufflassung-925-bgb, bautraeger-grundbuchgebuehren-rangwahrung, bautraeger-insolvenz-konsequenzen-erwerber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Gemeinschaftliche Maengelverfolgung Weg, Bautraeger Grundbuchaufflassung 925 Bgb, Bautraeger Grundbuchgebuehren Rangwahrung, Bautraeger Insolvenz Konsequenzen Erwerber; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Gemeinschaftliche Maengelverfolgung Weg bis Bautraeger Insolvenz Konsequenzen Erwerber
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-gemeinschaftliche-maengelverfolgung-weg` | Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster. |
 | `bautraeger-grundbuchaufflassung-925-bgb` | Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-gemeinschaftliche-maengelverfolgung-weg`
 
-**Frühere Beschreibung:** Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster.
+**Fokus:** Gemeinschaftliche Maengelverfolgung in der WEG. Skill klaert wie die Wohnungseigentuemergemeinschaft Maengel am Gemeinschaftseigentum verfolgt und welche Kompetenzen einzelnen Eigentuemern bleiben. Reform 2020. Liefert Pruefraster.
 
 # Bautraeger Gemeinschaftliche Maengelverfolgung Weg
 
@@ -61,7 +61,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-grundbuchaufflassung-925-bgb`
 
-**Frühere Beschreibung:** Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster.
+**Fokus:** Aufflassung nach § 925 BGB beim Bautraegervertrag. Skill klaert die Form der Aufflassung den Zeitpunkt der Eigentumsuebertragung und das Verhaeltnis zur Vormerkung. Notarielle Beurkundung. Liefert Pruefraster.
 
 # Bautraeger Grundbuchaufflassung 925 Bgb
 
@@ -96,7 +96,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `bautraeger-grundbuchgebuehren-rangwahrung`
 
-**Frühere Beschreibung:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebuehren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
+**Fokus:** Grundbuchgebuehren und Rangwahrung beim Bautraegervertrag. Skill listet die typischen Gebuehren der Notar Grundbuchamt und Bank sowie die Aufteilung zwischen Bautraeger und Erwerber. Liefert Pruefraster.
 
 # Bautraeger Grundbuchgebuehren Rangwahrung
 
@@ -132,7 +132,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `bautraeger-insolvenz-konsequenzen-erwerber`
 
-**Frühere Beschreibung:** Bautraeger-Insolvenz Konsequenzen fuer den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
+**Fokus:** Bautraeger-Insolvenz Konsequenzen fuer den Erwerber. Skill klaert die Risikobetrachtung Vormerkungsschutz nicht-fertiggestellte Wohnung Buergschaftsabruf MaBV-Vermoegenstrennung Forderungsanmeldung. Liefert Pruefraster.
 
 # Bautraeger Insolvenz Konsequenzen Erwerber
 

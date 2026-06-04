@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-agb-einbeziehung-sch-bis-anfechtung-routing
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (agb-einbeziehung-schnittstelle-paragraphen-305-310, amtlicher-bgb-zpo-normcheck, anfechtung-routing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bgb-at-pruefer
+# Arbeitsbereich - Agb Einbeziehung Schnittstelle Paragraphen 305 310, Amtlicher Bgb Zpo Normcheck, Anfechtung Routing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agb-einbeziehung-schnittstelle-paragraphen-305-310` | Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette. |
 | `amtlicher-bgb-zpo-normcheck` | Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agb-einbeziehung-schnittstelle-paragraphen-305-310`
 
-**Frühere Beschreibung:** Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette.
+**Fokus:** Prüft AGB-Einbeziehung nach §§ 305 bis 310 BGB: ausdrücklicher und konkludenter Hinweis, zumutbare Kenntnisnahmemöglichkeit, Überraschungsklauseln § 305c BGB, Inhaltskontrolle §§ 307 bis 309 BGB. Klausurfall mit vollständiger Subsumtionskette.
 
 # AGB-Einbeziehung und Inhaltskontrolle — §§ 305 bis 310 BGB
 
@@ -112,7 +112,7 @@ Klauselverwendung genügt. Allerdings bleibt die Inhaltskontrolle nach § 307 BG
 
 ## 2. `amtlicher-bgb-zpo-normcheck`
 
-**Frühere Beschreibung:** Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab.
+**Fokus:** Amtlicher Normcheck für BGB-AT-Fälle: gleicht Geschäftsfähigkeit, Willenserklärung, Form, Zugang, Vertragsschluss, Stellvertretung, Fristen, Verjährung und ZPO-Schnittstellen gegen die aktuelle Gesetze-im-Internet-Fassung ab.
 
 # Amtlicher BGB/ZPO-Normcheck
 
@@ -159,7 +159,7 @@ Nutze `references/amtlicher-bgb-zpo-normkern.md`.
 
 ## 3. `anfechtung-routing`
 
-**Frühere Beschreibung:** Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB: Prüfsituation in Klausur oder Mandat — Anfechtungsgrund bestimmen, Anfechtungserklärung und Gegner prüfen, Frist berechnen, Ausschlüsse und Folgen nach §§ 122 und 142 BGB darstellen.
+**Fokus:** Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB: Prüfsituation in Klausur oder Mandat — Anfechtungsgrund bestimmen, Anfechtungserklärung und Gegner prüfen, Frist berechnen, Ausschlüsse und Folgen nach §§ 122 und 142 BGB darstellen.
 
 # Anfechtung — Routing und Gesamtprüfung §§ 119 bis 124 BGB
 

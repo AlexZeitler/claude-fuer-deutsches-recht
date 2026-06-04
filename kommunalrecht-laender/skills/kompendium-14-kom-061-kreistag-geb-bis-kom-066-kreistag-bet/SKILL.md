@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-kom-061-kreistag-geb-bis-kom-066-kreistag-bet
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 14; bündelt 6 frühere Spezialskills (kom-061-kreistag-gebuehr-kalkulieren, kom-062-kreistag-aufsichtsbeschwerde-schreiben, kom-063-kreistag-eilantrag-vorbereiten, kom-064-kreistag-finanzierung-erklaeren, kom-065-kreistag-dashboard-bauen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 061 Kreistag Gebuehr Kalkulieren, Kom 062 Kreistag Aufsichtsbeschwerde Schreiben, Kom 063 Kreistag Eilantrag Vorbereiten, Kom 064 Kreistag Finanzierung Erklaeren und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - kommunalrecht-laender
+# Arbeitsbereich - Kom 061 Kreistag Gebuehr Kalkulieren bis Kom 066 Kreistag Beteiligung Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-061-kreistag-gebuehr-kalkulieren` | Kommunalrecht der Länder: Kreistag: Gebühr kalkulieren. Gebühr kalkulieren für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-062-kreistag-aufsichtsbeschwerde-schreiben` | Kommunalrecht der Länder: Kreistag: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-061-kreistag-gebuehr-kalkulieren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Gebühr kalkulieren. Gebühr kalkulieren für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Gebühr kalkulieren. Gebühr kalkulieren für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Gebuehr Kalkulieren
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-062-kreistag-aufsichtsbeschwerde-schreiben`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Aufsichtsbeschwerde Schreiben
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-063-kreistag-eilantrag-vorbereiten`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Eilantrag vorbereiten. Eilantrag vorbereiten für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Eilantrag vorbereiten. Eilantrag vorbereiten für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Eilantrag Vorbereiten
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-064-kreistag-finanzierung-erklaeren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Finanzierung erklären. Finanzierung erklären für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Finanzierung erklären. Finanzierung erklären für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Finanzierung Erklaeren
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-065-kreistag-dashboard-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Dashboard bauen. Dashboard bauen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Dashboard bauen. Dashboard bauen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Dashboard Bauen
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-066-kreistag-beteiligung-planen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kreistag: Beteiligung planen. Beteiligung planen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Kreistag: Beteiligung planen. Beteiligung planen für Kreistag im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Kreistag Beteiligung Planen
 

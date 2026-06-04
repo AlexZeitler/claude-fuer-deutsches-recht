@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-discounter-und-graum-bis-dreidimensionale-mar
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (discounter-und-graumarkt-brezelmann, dpma-bpatg-bgh-rechtsmittelroute, dpma-widerspruch-und-loeschung, dreidimensionale-marke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Discounter Und Graumarkt Brezelmann, Dpma Bpatg Bgh Rechtsmittelroute, Dpma Widerspruch Und Loeschung, Dreidimensionale Marke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - markenrecht-fashion-luxus
+# Arbeitsbereich - Discounter Und Graumarkt Brezelmann bis Dreidimensionale Marke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `discounter-und-graumarkt-brezelmann` | Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft. |
 | `dpma-bpatg-bgh-rechtsmittelroute` | DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `discounter-und-graumarkt-brezelmann`
 
-**Frühere Beschreibung:** Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft.
+**Fokus:** Graumarkt, Discountervertrieb und Erschöpfung im Markenrecht prüfen: EWR-Inverkehrbringen, Zustimmung, berechtigte Gründe, Rufschädigung, selektiver Vertrieb, Seriennummern und Auskunft.
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie
 
@@ -146,7 +146,7 @@ Bevor rechtliche Schritte eingeleitet werden, klaere:
 
 ## 2. `dpma-bpatg-bgh-rechtsmittelroute`
 
-**Frühere Beschreibung:** DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen.
+**Fokus:** DPMA-, BPatG- und BGH-Route im Markenrecht abbilden: Beanstandung, Erinnerung, Widerspruch, Löschung, Beschwerde, Rechtsbeschwerde, Fristen, Begründung und Registerfolgen.
 
 # DPMA, BPatG und BGH
 
@@ -199,7 +199,7 @@ Fristen, Gebühren und Zuständigkeit live bei DPMA/BPatG prüfen. Rechtsprechun
 
 ## 3. `dpma-widerspruch-und-loeschung`
 
-**Frühere Beschreibung:** DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Prüfraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Prüfung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Löschungsantrag mit Begründung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg.
+**Fokus:** DPMA-Widerspruch und Löschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Lösung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Prüfraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Prüfung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Löschungsantrag mit Begründung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg.
 
 # DPMA-Widerspruch und Löschungsverfahren
 
@@ -348,7 +348,7 @@ Bevor der Widerspruch eingelegt wird, klaere:
 
 ## 4. `dreidimensionale-marke`
 
-**Frühere Beschreibung:** Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen.
+**Fokus:** Dreidimensionale Marke und Formmarke prüfen: Produktform, Flakon, Schuhform, technische Funktion, wesentlicher Wert, Unterscheidungskraft, Verkehrsdurchsetzung und Design-Alternativen.
 
 # Dreidimensionale Marken (3D-Formmarken)
 

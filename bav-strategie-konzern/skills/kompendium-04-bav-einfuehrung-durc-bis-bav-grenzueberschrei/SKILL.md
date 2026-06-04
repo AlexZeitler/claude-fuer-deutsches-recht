@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bav-einfuehrung-durc-bis-bav-grenzueberschrei
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (bav-einfuehrung-durchfuehrungswege, bav-erstattung-fuenftelregelung, bav-grenzueberschreitend-mobil-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bav Einfuehrung Durchfuehrungswege, Bav Erstattung Fuenftelregelung, Bav Grenzueberschreitend Mobil Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bav-strategie-konzern
+# Arbeitsbereich - Bav Einfuehrung Durchfuehrungswege, Bav Erstattung Fuenftelregelung, Bav Grenzueberschreitend Mobil Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bav-einfuehrung-durchfuehrungswege` | Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz. |
 | `bav-erstattung-fuenftelregelung` | Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bav-einfuehrung-durchfuehrungswege`
 
-**Frühere Beschreibung:** Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz.
+**Fokus:** Betriebliche Altersversorgung bAV einfuehrend: Durchfuehrungswege Direktzusage, Unterstuetzungskasse, Pensionskasse, Pensionsfonds, Direktversicherung. Pro Weg Steuerregime, Sozialversicherungsabgaben, Bilanzwirkung, PSV-Schutz.
 
 # bAV: Durchfuehrungswege
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `bav-strategie-konzern`. Er ergaenzt die uebrige
 
 ## 2. `bav-erstattung-fuenftelregelung`
 
-**Frühere Beschreibung:** Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege.
+**Fokus:** Auszahlung bAV und Steueroptimierung: Fuenftelregelung § 34 EStG bei Einmalzahlungen, laufende Renten als Versorgungsbezuege, Sozialversicherungspflicht GKV mit Kappung. Pruefraster und Beispielsrechnung. Routet in bav-einfuehrung-durchfuehrungswege.
 
 # bAV: Fuenftelregelung Auszahlung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `bav-strategie-konzern`. Er ergaenzt die uebrige
 
 ## 3. `bav-grenzueberschreitend-mobil-spezial`
 
-**Frühere Beschreibung:** Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte fuer Mitarbeiter-Pakete.
+**Fokus:** Spezialfall grenzueberschreitende bAV bei Auslandsentsendung: A1-Bescheinigung, Sozialversicherungsabkommen, Doppelbesteuerung, EU-Mobilitaetsrichtlinie 2014 50 EU. Pruefraster und Mustertexte fuer Mitarbeiter-Pakete.
 
 # bAV: Grenzueberschreitende Mobilitaet
 

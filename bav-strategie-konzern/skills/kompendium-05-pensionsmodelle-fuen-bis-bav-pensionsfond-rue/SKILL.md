@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-pensionsmodelle-fuen-bis-bav-pensionsfond-rue
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (pensionsmodelle-fuenf-durchfuehrungswege, bav-cta-treuhand-spezial, bav-pensionsfond-rueckdeckung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bav-strategie-konzern
+# Arbeitsbereich - Pensionsmodelle Fuenf Durchfuehrungswege, Bav Cta Treuhand Spezial, Bav Pensionsfond Rueckdeckung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pensionsmodelle-fuenf-durchfuehrungswege` | Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG. |
 | `bav-cta-treuhand-spezial` | Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte fuer Trust-Setup im Konzern. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pensionsmodelle-fuenf-durchfuehrungswege`
 
-**Frühere Beschreibung:** Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG.
+**Fokus:** Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG.
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung
 
@@ -283,7 +283,7 @@ bAV-Projektteam · fachliche Leitung
 
 ## 2. `bav-cta-treuhand-spezial`
 
-**Frühere Beschreibung:** Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte fuer Trust-Setup im Konzern.
+**Fokus:** Spezialfall Contractual Trust Arrangement CTA: doppelseitige Treuhand, Insolvenzschutz durch Verpfaendung an Arbeitnehmer, IFRS-Status Trust Assets, deutsche HGB-Bilanzierung. Pruefraster und Mustertexte fuer Trust-Setup im Konzern.
 
 # bAV: CTA Treuhand
 
@@ -336,7 +336,7 @@ Dieser Skill gehoert zum Plugin `bav-strategie-konzern`. Er ergaenzt die uebrige
 
 ## 3. `bav-pensionsfond-rueckdeckung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte fuer Wechsel Direktzusage zu Pensionsfonds.
+**Fokus:** Spezialfall Pensionsfonds mit Rueckdeckungsversicherung: hybride Konstruktion, Trennung Versorgungstraeger und Versicherer, PSV-Schutz im Insolvenzfall, Anlagenrestriktionen. Pruefraster und Mustertexte fuer Wechsel Direktzusage zu Pensionsfonds.
 
 # bAV: Pensionsfonds-Rueckdeckung
 

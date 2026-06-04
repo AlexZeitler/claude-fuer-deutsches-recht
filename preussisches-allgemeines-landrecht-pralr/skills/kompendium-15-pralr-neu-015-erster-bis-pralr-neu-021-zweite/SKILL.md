@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-pralr-neu-015-erster-bis-pralr-neu-021-zweite
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (pralr-neu-015-erster-teil-titel-12-darlehen-verwahrung-leihe, pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und, pralr-neu-018-erster-teil-titel-15-buergschaft-pfand-und-sicherh, pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-und-geset, pralr-neu-021-zweiter-teil-familienrecht-ehe-vormundschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Neu 015 Erster Teil Titel 12 Darlehen Verwahrung Leihe, Pralr Neu 017 Erster Teil Titel 14 Gesellschaft Gemeinschaft Und, Pralr Neu 018 Erster Teil Titel 15 Buergschaft Pfand Und Sicherh, Pralr Neu 020 Erster Teil Titel 17 Erbrecht Testamente Und Geset und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, "
 ---
 
-# Kompendium 15 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Neu 015 Erster Teil Titel 12 Darlehen Verwahrung Leihe bis Pralr Neu 021 Zweiter Teil Familienrecht Ehe Vormundschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-neu-015-erster-teil-titel-12-darlehen-verwahrung-leihe` | PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und` | PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-neu-015-erster-teil-titel-12-darlehen-verwahrung-leihe`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 12 Darlehen Verwahrung Leihe mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 015 Erster Teil Titel 12 Darlehen Verwahrung Leihe
 
@@ -75,7 +75,7 @@ A leiht Sense von B; verschwindet im Heuschober.
 
 ## 2. `pralr-neu-017-erster-teil-titel-14-gesellschaft-gemeinschaft-und`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 14 Gesellschaft Gemeinschaft und Teilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 017 Erster Teil Titel 14 Gesellschaft Gemeinschaft Und
 
@@ -122,7 +122,7 @@ Zwei Bremer Kaufleute gruenden Gesellschaft zum Handelsbetrieb.
 
 ## 3. `pralr-neu-018-erster-teil-titel-15-buergschaft-pfand-und-sicherh`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 15 Bürgschaft Pfand und Sicherheiten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 018 Erster Teil Titel 15 Buergschaft Pfand Und Sicherh
 
@@ -171,7 +171,7 @@ Ehefrau buergt fuer Geschaeftsschuld des Mannes.
 
 ## 4. `pralr-neu-020-erster-teil-titel-17-erbrecht-testamente-und-geset`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Erster Teil Titel 17 Erbrecht Testamente und gesetzliche Folge
 
@@ -237,7 +237,7 @@ ALR I 12 / II 2 regeln Erbrecht: gesetzliche Erbfolge, Testierfreiheit, Pflichtt
 
 ## 5. `pralr-neu-021-zweiter-teil-familienrecht-ehe-vormundschaft`
 
-**Frühere Beschreibung:** PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Zweiter Teil Familienrecht Ehe Vormundschaft
 

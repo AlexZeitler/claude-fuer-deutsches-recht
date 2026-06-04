@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-strafrecht-spezial-v-bis-vergleichsverhandlun
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 21; bündelt 8 frühere Spezialskills (strafrecht-spezial-versicherungsbetrug-265-stgb, strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb, strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb, strafrecht-spezial-waffg-strafvorschriften-51-52, strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Versicherungsbetrug 265 Stgb, Strafrecht Spezial Vorenthalten Arbeitgeberanteile 266a Stgb, Strafrecht Spezial Vorteilsannahme Gewaehrung 331 333 Stgb, Strafrecht Spezial Waffg Strafvorschriften 51 52 und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Versicherungsbetrug 265 Stgb bis Vergleichsverhandlung Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-versicherungsbetrug-265-stgb` | Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung. |
 | `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb` | Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-versicherungsbetrug-265-stgb`
 
-**Frühere Beschreibung:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
+**Fokus:** Versicherungsmissbrauch § 265 StGB: Anwendungsfall Verteidigung bei Beschaedigung Versicherung-versicherte-Sache zur Erlangung der Versicherungsleistung. Pruefraster Sache versichert gegen Untergang Verlust Beschaedigung, Beschaedigung Zerstoerung Beiseiteschaffen Ueberlassung an Dritten, Vorsatz Erlangung Versicherungsleistung. Trade-offs Versuchsstrafbarkeit Subsidiaritaet zu § 263 StGB. Output Verteidigungsmemo fuer Autoabbrand Hausratversicherung Diebstahl-Vortaeuschung.
 
 # Versicherungsmissbrauch § 265 StGB
 
@@ -139,7 +139,7 @@ Wer eine gegen Untergang, Beschaedigung, Beeintraechtigung der Brauchbarkeit, Ve
 
 ## 2. `strafrecht-spezial-vorenthalten-arbeitgeberanteile-266a-stgb`
 
-**Frühere Beschreibung:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
+**Fokus:** Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB. Arbeitnehmeranteile zur Sozialversicherung als geschuetztes Vermoegen. Faellligkeit am drittletzten Bankarbeitstag. Persoenliche Haftung des Geschaeftsfuehrers in der Krise. Abgrenzung zu Paragraph 15a InsO und Paragraph 283 StGB.
 
 # Vorenthalten und Veruntreuen von Arbeitsentgelt nach Paragraph 266a StGB
 
@@ -253,7 +253,7 @@ Wer die vorenthaltenen Beitraege innerhalb der Faelligkeit nachzahlt und der Ein
 
 ## 3. `strafrecht-spezial-vorteilsannahme-gewaehrung-331-333-stgb`
 
-**Frühere Beschreibung:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils fuer die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo fuer Hochschulen Behoerden kommunale Mandatstraeger.
+**Fokus:** Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB: Anwendungsfall Verteidigung bei Vorwurf Annahme oder Gewaehrung eines Vorteils fuer die Dienstausuebung eines Amtstraegers. Unterschiede zu §§ 332 334 StGB Bestechlichkeit Bestechung. Pruefraster Amtstraegerbegriff Vorteil Unrechtsvereinbarung Dienstausuebungsbezug. Sozialadaequanz Genehmigung § 331 Abs. 3 StGB. Strafrahmen bis drei Jahre. Trade-offs Sponsoring Drittmittelforschung Geschenkrichtlinien. Output Verteidigungsmemo fuer Hochschulen Behoerden kommunale Mandatstraeger.
 
 # Vorteilsannahme § 331 StGB und Vorteilsgewaehrung § 333 StGB
 
@@ -369,7 +369,7 @@ Wer einem **Amtstraeger, Europaeischen Amtstraeger oder fuer den oeffentlichen D
 
 ## 4. `strafrecht-spezial-waffg-strafvorschriften-51-52`
 
-**Frühere Beschreibung:** Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG. Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile. Qualifikationen Banden gewerbliche Begehung. Verteidigungslinien Vorsatz Erlaubnislage Anlasswaffen. Konkurrenzen Paragraph 244 IV StGB nicht einschlaegig.
+**Fokus:** Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG. Unerlaubter Umgang mit Schusswaffen und Munition Erwerb Besitz Fuehren Verbringen. Erlaubnistatbestaende Wesentliche Bauteile. Qualifikationen Banden gewerbliche Begehung. Verteidigungslinien Vorsatz Erlaubnislage Anlasswaffen. Konkurrenzen Paragraph 244 IV StGB nicht einschlaegig.
 
 # Strafvorschriften des Waffengesetzes Paragraphen 51 und 52 WaffG
 
@@ -492,7 +492,7 @@ Vorsatz hinsichtlich Waffe und Fehlen der Erlaubnis. Verbotsirrtum nach Paragrap
 
 ## 5. `strafrecht-spezial-wirtschaftliche-bestechung-amtsverhaeltnis`
 
-**Frühere Beschreibung:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete oeffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo fuer Vergabe Mischverwaltung Public-Private-Partnership.
+**Fokus:** Sektorenwechsel und gemischte Korruptionssachverhalte: Anwendungsfall Verteidigung wenn ein Mandant zugleich oder hintereinander privat und amtstraegerbezogen taetig wird. Pruefraster Abgrenzung §§ 299 und §§ 331 bis 334 StGB Doppelfunktion Beauftragter Mandatstraeger kommunaler Bedienstete oeffentlicher Aufgabentraeger. BGH-Linie zur Beziehungs- versus Tatleistung. Trade-offs Strategie Doppel-Anklage Wahlverteidigung. Output Verteidigungsmemo fuer Vergabe Mischverwaltung Public-Private-Partnership.
 
 # Sektorenwechsel und wirtschaftliche Bestechung bei Amtsverhaeltnis
 
@@ -614,7 +614,7 @@ BGH-Linie zur **Abgrenzung Beziehungs- versus Tatleistung** ist Kern der Verteid
 
 ## 6. `strafrecht-spezial-zahlungsverbot-15b-inso`
 
-**Frühere Beschreibung:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien fuer den Geschaeftsleiter im Wirtschaftsstrafverfahren.
+**Fokus:** Zahlungsverbot nach Paragraph 15b InsO als zivilrechtlicher Erstattungsanspruch gegen Geschaeftsleiter ab materieller Insolvenzreife. Abgrenzung zur Strafbarkeit nach Paragraph 15a InsO und Paragraph 283 StGB. Bezug zur Glaeubigerbeguenstigung. Verteidigungslinien fuer den Geschaeftsleiter im Wirtschaftsstrafverfahren.
 
 # Zahlungsverbot nach Paragraph 15b InsO
 
@@ -714,7 +714,7 @@ Sonderregel fuer Steuerzahlungen: Sind nach Massgabe der Steuergesetze geschulde
 
 ## 7. `strafrecht-spezial-zinswucher-291-stgb`
 
-**Frühere Beschreibung:** Wucher § 291 StGB inkl. Mietwucher, Kreditwucher, Lohnwucher und Vermittlungswucher: Verteidigung bei Vorwurf der Ausbeutung einer Zwangslage, Unerfahrenheit, Urteilsschwaeche oder erheblichen Willensschwaeche zu auffaelligem Missverhaeltnis. Strafrahmen bis drei Jahre oder Geldstrafe; besonders schwerer Fall § 291 Abs. 2 StGB. Abgrenzung zu § 5 WiStrG 1954.
+**Fokus:** Wucher § 291 StGB inkl. Mietwucher, Kreditwucher, Lohnwucher und Vermittlungswucher: Verteidigung bei Vorwurf der Ausbeutung einer Zwangslage, Unerfahrenheit, Urteilsschwaeche oder erheblichen Willensschwaeche zu auffaelligem Missverhaeltnis. Strafrahmen bis drei Jahre oder Geldstrafe; besonders schwerer Fall § 291 Abs. 2 StGB. Abgrenzung zu § 5 WiStrG 1954.
 
 # Wucher § 291 StGB (Mietwucher, Zinswucher, Lohnwucher)
 
@@ -836,7 +836,7 @@ Besonders schwerer Fall liegt nach § 291 Abs. 2 StGB in der Regel vor, wenn der
 
 ## 8. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer.
+**Fokus:** Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer.
 
 # Verhandlungs- und Einigungsstrategie im Strafverfahren
 

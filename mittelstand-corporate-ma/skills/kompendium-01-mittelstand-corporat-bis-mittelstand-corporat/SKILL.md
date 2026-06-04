@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-rechtsprechungsrecherche, mittelstand-ma-fristen-cp-kalender, beirat-musterklauseln, mittelstand-corporate-ma-spa-apa-entwurf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Rechtsprechungsrecherche, Mittelstand Ma Fristen Cp Kalender, Beirat Musterklauseln, Mittelstand Corporate Ma Spa Apa Entwurf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Rechtsprechungsrecherche bis Mittelstand Corporate Ma Spa Apa Entwurf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-rechtsprechungsrecherche` | Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. |
 | `mittelstand-ma-fristen-cp-kalender` | Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-rechtsprechungsrecherche`
 
-**Frühere Beschreibung:** Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung.
+**Fokus:** Corporate-Rechtsprechungsrecherche: Sucht Rechtsprechung und amtliche Quellen für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung.
 
 # Corporate-Rechtsprechungsrecherche
 
@@ -216,7 +216,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mittelstand-ma-fristen-cp-kalender`
 
-**Frühere Beschreibung:** Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan).
+**Fokus:** Kanzlei oder Mandant benoetigt Fristen- und CP-Kalender für M&A-Mandat: Signing Closing Q&A Regulatory Register Board Ordinary-Course. Normen §§ 187-193 BGB Fristberechnung MAR-Fristen GWB-Fristen AWV-Fristen. Prüfraster CP-Vollständigkeit Fristenanker Kollusionsrisiken Verlaengerungs-Optionen. Output Fristen-Kalender CP-Checkliste Terminvorschau. Abgrenzung zu automation-monitoring (technisches Monitoring) und steps-plan-pmo (Prozessplan).
 
 # Freistehender Deal-Fristen- und CP-Kalender
 
@@ -393,7 +393,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `beirat-musterklauseln`
 
-**Frühere Beschreibung:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** GmbH-Beirat im Plugin mittelstand-corporate-ma: Beirat Musterklauseln; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Beirat Musterklauseln
 
@@ -459,7 +459,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `mittelstand-corporate-ma-spa-apa-entwurf`
 
-**Frühere Beschreibung:** SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out.
+**Fokus:** SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out.
 
 # SPA/APA-Entwurf
 

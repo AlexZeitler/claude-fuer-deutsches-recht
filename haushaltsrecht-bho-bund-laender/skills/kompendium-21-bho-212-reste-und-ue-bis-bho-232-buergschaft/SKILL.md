@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-bho-212-reste-und-ue-bis-bho-232-buergschaft
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 21; bündelt 11 frühere Spezialskills (bho-212-reste-und-uebertragbarkeit-risiko-mark, bho-213-reste-und-uebertragbarkeit-brh-frage-f, bho-214-reste-und-uebertragbarkeit-parlamentsf, bho-215-reste-und-uebertragbarkeit-vollzug-tra, bho-226-buergschaft-und-gewaehrleistung-titel und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 212 Reste Und Uebertragbarkeit Risiko Mark, Bho 213 Reste Und Uebertragbarkeit Brh Frage F, Bho 214 Reste Und Uebertragbarkeit Parlamentsf, Bho 215 Reste Und Uebertragbarkeit Vollzug Tra und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 212 Reste Und Uebertragbarkeit Risiko Mark bis Bho 232 Buergschaft Und Gewaehrleistung Risiko
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-212-reste-und-uebertragbarkeit-risiko-mark` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Risiko markieren. Risiko markieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-213-reste-und-uebertragbarkeit-brh-frage-f` | Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: BRH-Frage formulieren. BRH-Frage formulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-212-reste-und-uebertragbarkeit-risiko-mark`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Risiko markieren. Risiko markieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Risiko markieren. Risiko markieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Risiko Mark
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-213-reste-und-uebertragbarkeit-brh-frage-f`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: BRH-Frage formulieren. BRH-Frage formulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: BRH-Frage formulieren. BRH-Frage formulieren für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Brh Frage F
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-214-reste-und-uebertragbarkeit-parlamentsf`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Parlamentsf
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-215-reste-und-uebertragbarkeit-vollzug-tra`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Vollzug tracken. Vollzug tracken für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Reste und Übertragbarkeit: Vollzug tracken. Vollzug tracken für Reste und Übertragbarkeit im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Reste Und Uebertragbarkeit Vollzug Tra
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-226-buergschaft-und-gewaehrleistung-titel`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Titel prüfen. Titel prüfen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Titel prüfen. Titel prüfen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Titel
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-227-buergschaft-und-gewaehrleistung-umschi`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Umschichtung simulieren. Umschichtung simulieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Umschichtung simulieren. Umschichtung simulieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Umschi
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-228-buergschaft-und-gewaehrleistung-sperre`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Sperre bewerten. Sperre bewerten für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Sperre bewerten. Sperre bewerten für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Sperre
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-229-buergschaft-und-gewaehrleistung-deckun`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Deckung finden. Deckung finden für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Deckung finden. Deckung finden für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Deckun
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-230-buergschaft-und-gewaehrleistung-szenar`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Szenario rechnen. Szenario rechnen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Szenario rechnen. Szenario rechnen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Szenar
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-231-buergschaft-und-gewaehrleistung-dashbo`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Dashboard bauen. Dashboard bauen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Dashboard bauen. Dashboard bauen für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Dashbo
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-232-buergschaft-und-gewaehrleistung-risiko`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Risiko markieren. Risiko markieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Risiko markieren. Risiko markieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Risiko
 

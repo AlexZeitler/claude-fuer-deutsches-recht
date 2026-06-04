@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-rom-153-constitutio-bis-rom-007-res-sachen-u
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 02; bündelt 8 frühere Spezialskills (rom-153-constitutio-antoniniana-212, rom-160-actio-denken-und-rechtsmechanik, rom-002-quellenkritik-digesten-und-institutionen, rom-003-personae-status-und-familie, rom-004-patria-potestas-und-hausgewalt und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 153 Constitutio Antoniniana 212, Rom 160 Actio Denken Und Rechtsmechanik, Rom 002 Quellenkritik Digesten Und Institutionen, Rom 003 Personae Status Und Familie und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - roemisches-recht
+# Arbeitsbereich - Rom 153 Constitutio Antoniniana 212 bis Rom 007 Res Sachen Und Einteilungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-153-constitutio-antoniniana-212` | Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix. |
 | `rom-160-actio-denken-und-rechtsmechanik` | Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-153-constitutio-antoniniana-212`
 
-**Frühere Beschreibung:** Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix.
+**Fokus:** Constitutio Antoniniana 212 n. Chr.: allgemeine Buergerrechtsverleihung durch Caracalla. Skill behandelt die Reichweite die mutmasslichen Motive (Steuern aus vicesima hereditatum) die Beschraenkung auf bestimmte dediticii sowie die rechtshistorische Folge. Liefert Quellenmatrix.
 
 # Rom 153 Constitutio Antoniniana 212 Allgemeine Buergerrechtsverleihung
 
@@ -87,7 +87,7 @@ Skill fuer die Constitutio Antoniniana.
 
 ## 2. `rom-160-actio-denken-und-rechtsmechanik`
 
-**Frühere Beschreibung:** Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem.
+**Fokus:** Römisches Recht: actio-orientierte Rechtsmechanik, Rechtsschichten ius civile/ius honorarium/ius gentium, prätorische Fallsteuerung und moderne Fehlübersetzungen. Liefert ein Einstiegsraster für jedes römisch-rechtliche Problem.
 
 # Actio-Denken und Rechtsmechanik
 
@@ -139,7 +139,7 @@ Dieser Skill erklärt römisches Recht nicht als modernes Kodifikationssystem, s
 
 ## 3. `rom-002-quellenkritik-digesten-und-institutionen`
 
-**Frühere Beschreibung:** Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik.
+**Fokus:** Römisches Recht: Quellenkritik der Digesten (Const. Tanta 533 n.Chr.) - Interpolationsforschung, Florentina-Handschrift, Lenel Palingenesia Iuris Civilis und Methoden der Textkritik.
 
 # Quellenkritik: Digesten und Institutionen
 
@@ -193,7 +193,7 @@ CIC: Mommsen-Krüger (archive.org). Lenel Palingenesia (archive.org). Gaius Vero
 
 ## 4. `rom-003-personae-status-und-familie`
 
-**Frühere Beschreibung:** Römisches Recht: Personenrecht - status libertatis, civitatis und familiae nach D. 1.5 und Gaius Inst. 1.9-200. Capitis deminutio maxima/media/minima, sui iuris vs. alieni iuris.
+**Fokus:** Römisches Recht: Personenrecht - status libertatis, civitatis und familiae nach D. 1.5 und Gaius Inst. 1.9-200. Capitis deminutio maxima/media/minima, sui iuris vs. alieni iuris.
 
 # Personae: Status und Familie im römischen Recht
 
@@ -247,7 +247,7 @@ D. 1.5-6; Gaius Inst. 1 (Mommsen-Krüger, archive.org). Iust. Inst. 1.3-8. Const
 
 ## 5. `rom-004-patria-potestas-und-hausgewalt`
 
-**Frühere Beschreibung:** Römisches Recht: Patria potestas - väterliche Hausgewalt nach D. 1.6, Gaius Inst. 1.55-107 und Iust. Inst. 1.9. Begründung durch iustum matrimonium, adrogatio, adoptio; Beendigung durch emancipatio.
+**Fokus:** Römisches Recht: Patria potestas - väterliche Hausgewalt nach D. 1.6, Gaius Inst. 1.55-107 und Iust. Inst. 1.9. Begründung durch iustum matrimonium, adrogatio, adoptio; Beendigung durch emancipatio.
 
 # Patria Potestas und Hausgewalt
 
@@ -301,7 +301,7 @@ D. 1.6; Gaius Inst. 1.55ff.; Iust. Inst. 1.9-12 (Mommsen-Krüger). Nov. 89: Sch�
 
 ## 6. `rom-005-ehe-mitgift-und-familienvermoegen`
 
-**Frühere Beschreibung:** Römisches Recht: Ehe (matrimonium iustum), Mitgift (dos) nach D. 23-24, manus-Ehe vs. freie Ehe, dos profecticia/adventicia und actio rei uxoriae als Instrument der Mitgiftrückforderung.
+**Fokus:** Römisches Recht: Ehe (matrimonium iustum), Mitgift (dos) nach D. 23-24, manus-Ehe vs. freie Ehe, dos profecticia/adventicia und actio rei uxoriae als Instrument der Mitgiftrückforderung.
 
 # Ehe, Mitgift (dos) und Familienvermögen
 
@@ -355,7 +355,7 @@ D. 23-24 (Mommsen-Krüger). Gaius Inst. 1. Kaser RP I §§ 59-80. Treggiari Roma
 
 ## 7. `rom-006-vormundschaft-und-kuratel`
 
-**Frühere Beschreibung:** Römisches Recht: Tutela (Vormundschaft) und cura (Kuratel) nach D. 26-27 und Gaius Inst. 1.142-200 - tutela impuberum, tutela mulierum, cura furiosi, cura prodigi, actio tutelae.
+**Fokus:** Römisches Recht: Tutela (Vormundschaft) und cura (Kuratel) nach D. 26-27 und Gaius Inst. 1.142-200 - tutela impuberum, tutela mulierum, cura furiosi, cura prodigi, actio tutelae.
 
 # Vormundschaft (tutela) und Kuratel (cura)
 
@@ -409,7 +409,7 @@ D. 26-27 (Mommsen-Krüger). Gaius Inst. 1. Iust. Inst. 1.13-26. XII Tafeln: Brun
 
 ## 8. `rom-007-res-sachen-und-einteilungen`
 
-**Frühere Beschreibung:** Römisches Recht: Sachenrecht - res corporales/incorporales nach Gaius Inst. 2.12-14, res mancipi/nec mancipi, res in commercio/extra commercium, res publicae und res nullius nach D. 1.8.
+**Fokus:** Römisches Recht: Sachenrecht - res corporales/incorporales nach Gaius Inst. 2.12-14, res mancipi/nec mancipi, res in commercio/extra commercium, res publicae und res nullius nach D. 1.8.
 
 # Res: Sachen und ihre Einteilungen im römischen Recht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-lease-019-sicherungs-bis-lease-023-energieanl
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (lease-019-sicherungsuebereignung-und-leasingregister-frage, lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht, lease-023-energieanlagen-leasing-pv-batteriespeicher-waermepumpe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlagen Leasing Pv Batteriespeicher Waermepumpe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - leasingrecht-praxis
+# Arbeitsbereich - Lease 019 Sicherungsuebereignung Und Leasingregister Frage, Lease 022 Kommunalleasing Vergaberecht Und Haushaltsrecht, Lease 023 Energieanlag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-019-sicherungsuebereignung-und-leasingregister-frage` | Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte. |
 | `lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht` | Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-019-sicherungsuebereignung-und-leasingregister-frage`
 
-**Frühere Beschreibung:** Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte.
+**Fokus:** Sicherungsübereignung im Leasingrecht: Kollision mit Eigentumsrecht des LG, Prioritätsfragen, fehlendes Leasingregister und Schutzkonzepte.
 
 # Sicherungsübereignung und das fehlende Leasingregister
 
@@ -128,7 +128,7 @@ Für bestimmte mobile Ausrüstungen (Flugzeuge, Eisenbahnrollmaterial, Weltraumg
 
 ## 2. `lease-022-kommunalleasing-vergaberecht-und-haushaltsrecht`
 
-**Frühere Beschreibung:** Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing.
+**Fokus:** Kommunalleasing: Vergabepflicht, Wirtschaftlichkeitsnachweis, kreditähnliche Rechtsgeschäfte, Genehmigungspflicht und historisches Cross-Border-Leasing.
 
 # Kommunalleasing: Vergaberecht und Haushaltsrecht
 
@@ -226,7 +226,7 @@ In den 1990er–2000er Jahren haben viele Kommunen US-amerikanische Cross-Border
 
 ## 3. `lease-023-energieanlagen-leasing-pv-batteriespeicher-waermepumpe`
 
-**Frühere Beschreibung:** Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG.
+**Fokus:** Leasing von Energieanlagen: PV-Anlagen, Batteriespeicher, Wärmepumpen; Eigentumsrecht, Grundstücksbezug, EEG-Compliance, Netzanschluss und ESG.
 
 # Energieanlagen-Leasing: PV, Batteriespeicher, Wärmepumpe
 

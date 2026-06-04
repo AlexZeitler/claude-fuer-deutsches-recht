@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-anonymisierung-pseud-bis-berufsrecht-baustein
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (anonymisierung-pseudonymisierung, automatisierte-entscheidungen-art-22-dsgvo, berufsrecht-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Anonymisierung Pseudonymisierung, Automatisierte Entscheidungen Art 22 Dsgvo, Berufsrecht Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anonymisierung-pseudonymisierung` | Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine. |
 | `automatisierte-entscheidungen-art-22-dsgvo` | Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Prüfraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Prüfprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anonymisierung-pseudonymisierung`
 
-**Frühere Beschreibung:** Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine.
+**Fokus:** Anonymisierung und Pseudonymisierung von Mandatsdaten vor KI-Eingabe: Anwendungsfall Anwalt will Mandatsdokument in KI-System eingeben und muss Namen Adressen Aktenzeichen und Identifikatoren schützen. Art. 4 Nr. 5 DSGVO Pseudonymisierung, Art. 2 Abs. 1 DSGVO Anwendungsbereich, § 43a BRAO Verschwiegenheit. Prüfraster Stufenmodell Anonymisierung vs. Pseudonymisierung, Re-Identifikationsrisiko prüfen, Platzhalter-Konsistenz bei Mehrfachverwendung. Output anonymisiertes Dokument mit Ersetzte-Felder-Protokoll und Risikobewertung. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Berufsrecht-Bausteine.
 
 # Anonymisierung und Pseudonymisierung
 
@@ -114,7 +114,7 @@ DSGVO anwendbar: [JA / NEIN]
 
 ## 2. `automatisierte-entscheidungen-art-22-dsgvo`
 
-**Frühere Beschreibung:** Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Prüfraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Prüfprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance.
+**Fokus:** Automatisierte Einzelentscheidungen nach Art. 22 DSGVO in Kanzleien prüfen: Anwendungsfall Kanzlei plant KI-gestützte Mandatszuordnung Honorarberechnung oder Bonitätsprüfung und muss prüfen ob automatisierte Entscheidung ohne Mensch zulässig ist. Art. 22 DSGVO Verbot automatisierter Einzelentscheidungen, Art. 6 DSGVO Rechtsgrundlage, DSGVO Einwilligung. Prüfraster erhebliche Auswirkung der Entscheidung, Ausnahmen Einwilligung Vertrag gesetzliche Grundlage, Widerspruchsrecht und Gegendarstellung. Output Prüfprotokoll mit Einordnung und notwendigen Schutzmaßnahmen. Abgrenzung zu KI-VO-Betreiber-Pflichten und zu DSGVO-Compliance.
 
 # Automatisierte Entscheidungen Art. 22 DSGVO
 
@@ -191,7 +191,7 @@ Geprueft von: [NAME], [DATUM]
 
 ## 3. `berufsrecht-bausteine`
 
-**Frühere Beschreibung:** Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie und braucht praezise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung. § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025. Prüfraster Verschwiegenheitspflicht beim KI-Einsatz, Haftung für KI-Output OLG Koblenz, eigenverantwortliche Endkontrolle. Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Musterklauseln-IT.
+**Fokus:** Berufsrechtliche Textbausteine für KI-Nutzungsrichtlinien in Kanzleien: Anwendungsfall Kanzlei erstellt KI-Richtlinie und braucht praezise Bausteine zu Verschwiegenheit Sorgfaltspflicht und Eigenverantwortung. § 43 BRAO Gewissenhaftigkeit, § 43a Abs. 2 BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, § 203 StGB Berufsgeheimnis, BRAK-Hinweise 12/2024 DAV-Stellungnahme 32/2025. Prüfraster Verschwiegenheitspflicht beim KI-Einsatz, Haftung für KI-Output OLG Koblenz, eigenverantwortliche Endkontrolle. Output Bausteine-Sammlung mit konkreten Formulierungen für Kanzlei-Richtlinie. Abgrenzung zu DSGVO-Compliance-Bausteine und zu Musterklauseln-IT.
 
 # Berufsrecht-Bausteine
 

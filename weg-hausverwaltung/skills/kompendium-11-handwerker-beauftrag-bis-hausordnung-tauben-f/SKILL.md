@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-handwerker-beauftrag-bis-hausordnung-tauben-f
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (handwerker-beauftragung-vergabe, hausgeld-sonderumlage-liquiditaet, hausordnung-tauben-fahrrad-kinder-weihnachtsbaum) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - weg-hausverwaltung
+# Arbeitsbereich - Handwerker Beauftragung Vergabe, Hausgeld Sonderumlage Liquiditaet, Hausordnung Tauben Fahrrad Kinder Weihnachtsbaum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handwerker-beauftragung-vergabe` | Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026): Leistungsbeschreibung, Vergleichsangebote, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung, Dokumentation; berücksichtigt § 27 WEG (Verwalterkompetenz), § 21 WEG (Kostenfolge), GEG-Pflichten beim Heizungstausch und Sondervergütungspraxis. |
 | `hausgeld-sonderumlage-liquiditaet` | Prüft Hausgeld, Vorschüsse, Rückstände, Sonderumlagen, Liquidität, Mahnungen, Ratenzahlung, Beschlussgrundlage und Klagepfad der GdWE (Stand 05/2026). Berücksichtigt BGH V ZR 190/24 zum Zurückbehaltungsrecht und V ZR 139/23 zur Verteilung von Prozesskosten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handwerker-beauftragung-vergabe`
 
-**Frühere Beschreibung:** Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026): Leistungsbeschreibung, Vergleichsangebote, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung, Dokumentation; berücksichtigt § 27 WEG (Verwalterkompetenz), § 21 WEG (Kostenfolge), GEG-Pflichten beim Heizungstausch und Sondervergütungspraxis.
+**Fokus:** Begleitet Handwerkerbeauftragung in der WEG (Stand 05/2026): Leistungsbeschreibung, Vergleichsangebote, Beschlussbedarf, Budget, Nachträge, Abnahme, Rechnungskontrolle, Gewährleistung, Dokumentation; berücksichtigt § 27 WEG (Verwalterkompetenz), § 21 WEG (Kostenfolge), GEG-Pflichten beim Heizungstausch und Sondervergütungspraxis.
 
 # Handwerkerbeauftragung und Vergabe
 
@@ -134,7 +134,7 @@ Aus einem technischen Problem wird ein sauber dokumentierter Verwaltungs- und Be
 
 ## 2. `hausgeld-sonderumlage-liquiditaet`
 
-**Frühere Beschreibung:** Prüft Hausgeld, Vorschüsse, Rückstände, Sonderumlagen, Liquidität, Mahnungen, Ratenzahlung, Beschlussgrundlage und Klagepfad der GdWE (Stand 05/2026). Berücksichtigt BGH V ZR 190/24 zum Zurückbehaltungsrecht und V ZR 139/23 zur Verteilung von Prozesskosten.
+**Fokus:** Prüft Hausgeld, Vorschüsse, Rückstände, Sonderumlagen, Liquidität, Mahnungen, Ratenzahlung, Beschlussgrundlage und Klagepfad der GdWE (Stand 05/2026). Berücksichtigt BGH V ZR 190/24 zum Zurückbehaltungsrecht und V ZR 139/23 zur Verteilung von Prozesskosten.
 
 # Hausgeld, Sonderumlage und Liquidität
 
@@ -228,7 +228,7 @@ Die Zahlungsfähigkeit der GdWE sichern, ohne Forderungen unsauber zu verfolgen.
 
 ## 3. `hausordnung-tauben-fahrrad-kinder-weihnachtsbaum`
 
-**Frühere Beschreibung:** Ordnet Alltagskonflikte in WEG-Anlagen: Tauben auf Balkonen, Fahrradkeller, Diebstahl, Kinderlärm, Spielhof, Weihnachtsbaum, Brandschutz, Hausordnung und Kommunikation. Output: Maßnahmenmatrix und deeskalierende Schreiben.
+**Fokus:** Ordnet Alltagskonflikte in WEG-Anlagen: Tauben auf Balkonen, Fahrradkeller, Diebstahl, Kinderlärm, Spielhof, Weihnachtsbaum, Brandschutz, Hausordnung und Kommunikation. Output: Maßnahmenmatrix und deeskalierende Schreiben.
 
 # Hausordnung: Tauben, Fahrrad, Kinder, Weihnachtsbaum
 

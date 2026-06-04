@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-investitionsfoerderu-bis-kinder-und-jugendmed
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (investitionsfoerderung-einzelfoerderung-pauschalfoerderung, khentgg-budgetverhandlung-drg-pepp-abgrenzung, kinder-und-jugendmedizin-besondere-versorgung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere Versorgung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - krankenhausrecht
+# Arbeitsbereich - Investitionsfoerderung Einzelfoerderung Pauschalfoerderung, Khentgg Budgetverhandlung Drg Pepp Abgrenzung, Kinder Und Jugendmedizin Besondere
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `investitionsfoerderung-einzelfoerderung-pauschalfoerderung` | Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung. |
 | `khentgg-budgetverhandlung-drg-pepp-abgrenzung` | Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `investitionsfoerderung-einzelfoerderung-pauschalfoerderung`
 
-**Frühere Beschreibung:** Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung.
+**Fokus:** Investitionsfoerderung nach § 9 KHG und Landeskrankenhausgesetzen: Einzelfoerderung, Pauschalfoerderung, Bauplanungs-/Bauordnungsbezuege, KHZG-Mittel, Antrag, Bescheid, Rueckforderung.
 
 # Investitionsfoerderung Einzelfoerderung Pauschalfoerderung
 
@@ -113,7 +113,7 @@ Die duale Krankenhausfinanzierung weist die **Investitionskosten** den Laendern 
 
 ## 2. `khentgg-budgetverhandlung-drg-pepp-abgrenzung`
 
-**Frühere Beschreibung:** Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle.
+**Fokus:** Budgetverhandlung nach KHEntgG und BPflV: trennt DRG (Somatik) von PEPP (Psychiatrie/Psychosomatik), strukturiert E1- und L-Datensatz, AEB-Forderungen, Vereinbarung mit Kassen oder Schiedsstelle.
 
 # KHEntgG Budgetverhandlung DRG PEPP Abgrenzung
 
@@ -198,7 +198,7 @@ Die jaehrliche Budgetverhandlung legt fuer jede Klinik den Erloesrahmen fest. **
 
 ## 3. `kinder-und-jugendmedizin-besondere-versorgung`
 
-**Frühere Beschreibung:** Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Kinder- und Jugendmedizin besondere Versorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Kinder- und Jugendmedizin besondere Versorgung
 

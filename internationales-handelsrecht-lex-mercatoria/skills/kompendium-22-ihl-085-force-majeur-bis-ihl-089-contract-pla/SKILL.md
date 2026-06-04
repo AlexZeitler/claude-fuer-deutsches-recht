@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-ihl-085-force-majeur-bis-ihl-089-contract-pla
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (ihl-085-force-majeure-notice-letter, ihl-086-claim-letter-under-cisg, ihl-088-contract-playbook-exporter, ihl-089-contract-playbook-importer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 085 Force Majeure Notice Letter, Ihl 086 Claim Letter Under Cisg, Ihl 088 Contract Playbook Exporter, Ihl 089 Contract Playbook Importer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 085 Force Majeure Notice Letter bis Ihl 089 Contract Playbook Importer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-085-force-majeure-notice-letter` | Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation. |
 | `ihl-086-claim-letter-under-cisg` | Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-085-force-majeure-notice-letter`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation.
+**Fokus:** Internationales Handelsrecht: Force-Majeure-Notifikationsschreiben nach CISG Art. 79 Abs. 3, PICC Art. 7.1.7 und ICC Force Majeure Clause 2020. Inhalt, Fristen, Dokumentation und Folgen bei fehlerhafter oder verspäteter Notifikation.
 
 # Force-Majeure-Notifikationsschreiben
 
@@ -80,7 +80,7 @@ CISG Art. 79: uncitral.un.org. PICC Art. 7.1.7: unidroit.org. ICC FM-Klausel 202
 
 ## 2. `ihl-086-claim-letter-under-cisg`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz.
+**Fokus:** Internationales Handelsrecht: Mängelrüge und Schadensersatzgeltendmachung nach CISG. Anforderungen an das Rügeschreiben (Art. 39 CISG), Aufhebungserklärung (Art. 26 CISG), Schadensersatzberechnung (Art. 74-76 CISG) und Musterkorrespondenz.
 
 # Claim-Letter unter CISG
 
@@ -132,7 +132,7 @@ CISG Art. 26, 39, 74-78: uncitral.un.org. Schrifttum: Lookofsky, CISG (2017) Art
 
 ## 3. `ihl-088-contract-playbook-exporter`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge.
+**Fokus:** Internationales Handelsrecht: Vertragshandbuch für den Exporteur. Standardpositionen in Verhandlungen, Fallback-Positionen, Prioritäten (Rechtswahl, Schiedsklausel, Haftungsbeschränkung, Eigentumsvorbehalt) und BATNA-Analyse für internationale Kaufverträge.
 
 # Contract Playbook für Exporteure
 
@@ -184,7 +184,7 @@ CISG: uncitral.un.org. ICC Regeln 2021: iccwbo.org. LkSG: gesetze-im-internet.de
 
 ## 4. `ihl-089-contract-playbook-importer`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln.
+**Fokus:** Internationales Handelsrecht: Vertragshandbuch für den Importeur. Käufer-Standardpositionen, Qualitätssicherungsklauseln, Lieferantenbewertung, Preisanpassung, Zahlungsbedingungen und Defensivstrategie bei Lieferverzug und Qualitätsmängeln.
 
 # Contract Playbook für Importeure
 

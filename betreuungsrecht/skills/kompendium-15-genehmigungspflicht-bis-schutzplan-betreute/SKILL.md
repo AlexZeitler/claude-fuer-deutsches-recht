@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-genehmigungspflicht-bis-schutzplan-betreute
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (genehmigungspflicht-pruefung, jahresbericht-betreuungsgericht, schutzplan-betreute-person-risikoampel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Genehmigungspflicht Pruefung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - betreuungsrecht
+# Arbeitsbereich - Genehmigungspflicht Pruefung, Jahresbericht Betreuungsgericht, Schutzplan Betreute Person Risikoampel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `genehmigungspflicht-pruefung` | Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "§ 1848 BGB", "§ 1850 BGB", "§ 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten. |
 | `jahresbericht-betreuungsgericht` | Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Familienbetreuer; trennt Bericht, Vermögensverzeichnis (§ 1835 BGB) und Rechnungslegung/Vermögensübersicht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `genehmigungspflicht-pruefung`
 
-**Frühere Beschreibung:** Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "§ 1848 BGB", "§ 1850 BGB", "§ 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten.
+**Fokus:** Prüft, ob ein konkretes Rechtsgeschäft, eine Maßnahme oder eine Entscheidung des Betreuers der Genehmigung des Betreuungsgerichts bedarf (§§ 1848 ff. BGB) — etwa Grundstücksverkauf, Erbausschlagung, Heimvertragsabschluss, Wohnungsauflösung, freiheitsentziehende Maßnahmen. Lädt, wenn Schlagwörter wie "Genehmigung Betreuungsgericht", "§ 1848 BGB", "§ 1850 BGB", "§ 1851 BGB", "freiheitsentziehende Maßnahme" oder "Heimvertrag" auftreten.
 
 # Genehmigungspflicht-Prüfung (§§ 1848 ff. BGB)
 
@@ -260,7 +260,7 @@ verantwortlichen Betreuer zu prüfen.*
 
 ## 2. `jahresbericht-betreuungsgericht`
 
-**Frühere Beschreibung:** Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Familienbetreuer; trennt Bericht, Vermögensverzeichnis (§ 1835 BGB) und Rechnungslegung/Vermögensübersicht.
+**Fokus:** Jahresbericht und Anfangs-/Schlussbericht für das Betreuungsgericht nach § 1863 BGB erstellen: persönliche Kontakte, Wünsche der betreuten Person, Ziele, Maßnahmen, Gründe für Fortbestand oder Änderung der Betreuung, Vermögens-Eckdaten und Anlagen. Für Berufsbetreuer ebenso wie ehrenamtliche Familienbetreuer; trennt Bericht, Vermögensverzeichnis (§ 1835 BGB) und Rechnungslegung/Vermögensübersicht.
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)
 
@@ -579,7 +579,7 @@ verantwortlichen Betreuer eigenständig zu prüfen.*
 
 ## 3. `schutzplan-betreute-person-risikoampel`
 
-**Frühere Beschreibung:** Schutzplan für die betreute Person: prüft Risiken bei Gesundheit, Wohnen, Vermögen, Einsamkeit, Verträgen, digitalem Betrug, Angehörigenkonflikt, Pflege, Heim und Selbstgefährdung und erzeugt eine klare Risikoampel mit mildesten geeigneten Maßnahmen.
+**Fokus:** Schutzplan für die betreute Person: prüft Risiken bei Gesundheit, Wohnen, Vermögen, Einsamkeit, Verträgen, digitalem Betrug, Angehörigenkonflikt, Pflege, Heim und Selbstgefährdung und erzeugt eine klare Risikoampel mit mildesten geeigneten Maßnahmen.
 
 # Schutzplan und Risikoampel
 

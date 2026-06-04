@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-corporate-kanzlei-ha-bis-corporate-kanzlei-ki
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (corporate-kanzlei-handelsregisterabruf, corporate-kanzlei-ki-governance-berufsrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Handelsregisterabruf, Corporate Kanzlei Ki Governance Berufsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-handelsregisterabruf` | Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening. |
 | `corporate-kanzlei-ki-governance-berufsrecht` | KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-handelsregisterabruf`
 
-**Frühere Beschreibung:** Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening.
+**Fokus:** Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening.
 
 # Handelsregisterabruf und -analyse
 
@@ -251,7 +251,7 @@ Chronologischer Ausdruck: [Ja / Nein]
 
 ## 2. `corporate-kanzlei-ki-governance-berufsrecht`
 
-**Frühere Beschreibung:** KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz.
+**Fokus:** KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz.
 
 # KI-Governance und Berufsrecht
 

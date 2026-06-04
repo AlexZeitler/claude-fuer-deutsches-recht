@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-long-covid-berufskra-bis-long-covid-kinder-sc
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (long-covid-berufskrankheit-unfallversicherung, long-covid-erwerbsminderung-leistungsbild, long-covid-gdb-funktionsbeeintraechtigung, long-covid-kinder-schule-teilhabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Long Covid Berufskrankheit Unfallversicherung, Long Covid Erwerbsminderung Leistungsbild, Long Covid Gdb Funktionsbeeintraechtigung, Long Covid Kinder Schule Teilhabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - fachanwalt-sozialrecht
+# Arbeitsbereich - Long Covid Berufskrankheit Unfallversicherung bis Long Covid Kinder Schule Teilhabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `long-covid-berufskrankheit-unfallversicherung` | Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-erwerbsminderung-leistungsbild` | Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `long-covid-berufskrankheit-unfallversicherung`
 
-**Frühere Beschreibung:** Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.; Normanker: SGB VII §§ 7 und 8 und 9 und 56; BKV Nr. 3101; SGG Amtsermittlung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid als Berufskrankheit/Arbeitsunfall: Infektion im Gesundheitsdienst, Kausalität, MdE, Verletztenrente und BG-Gutachten.
 
@@ -64,7 +64,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 2. `long-covid-erwerbsminderung-leistungsbild`
 
-**Frühere Beschreibung:** Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.; Normanker: SGB VI § 43; SGG §§ 103 und 106; AWMF S1 Long/Post-COVID; sozialmedizinische Leistungsbeurteilung; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid/Post-Covid und Erwerbsminderung: Leistungsvermögen unter 3/6 Stunden, Fatigue, PEM, neurokognitive Defizite, Reha-Bericht, Gutachtenkritik.
 
@@ -99,7 +99,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 3. `long-covid-gdb-funktionsbeeintraechtigung`
 
-**Frühere Beschreibung:** Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.; Normanker: SGB IX § 152; VersMedV; SGB X §§ 20 und 21; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.; Normanker: SGB IX § 152; VersMedV; SGB X §§ 20 und 21; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid und GdB: nicht Diagnose zählen, sondern objektivierbare Funktionsbeeinträchtigungen, Teilhabe, Fatigue, kognitive Belastbarkeit und Analogiebewertung.
 
@@ -134,7 +134,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 4. `long-covid-kinder-schule-teilhabe`
 
-**Frühere Beschreibung:** Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.; Normanker: SGB IX, SGB VIII Schnittstellen; Schulrecht der Länder; AWMF Long/Post-COVID Kinder/Jugendliche; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.; Normanker: SGB IX, SGB VIII Schnittstellen; Schulrecht der Länder; AWMF Long/Post-COVID Kinder/Jugendliche; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid bei Kindern und Jugendlichen: Schule, Nachteilsausgleich, Teilhabe, Eingliederungshilfe und pädiatrische Beweisführung.
 

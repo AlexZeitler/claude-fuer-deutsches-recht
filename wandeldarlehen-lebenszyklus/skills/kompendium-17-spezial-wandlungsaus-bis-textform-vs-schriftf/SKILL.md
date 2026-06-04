@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-spezial-wandlungsaus-bis-textform-vs-schriftf
-description: "wandeldarlehen-lebenszyklus: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (spezial-wandlungsausloeser-cap-und-discount, textform-vs-schriftform-vs-notariell) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wandeldarlehen-lebenszyklus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - wandeldarlehen-lebenszyklus
+# Arbeitsbereich - Wandlungsausloeser Cap Und Discount, Textform Vs Schriftform Vs Notariell
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-wandlungsausloeser-cap-und-discount` | Wandlungsauslöser, Cap und Discount sauber berechnen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
 | `textform-vs-schriftform-vs-notariell` | Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-wandlungsausloeser-cap-und-discount`
 
-**Frühere Beschreibung:** Wandlungsauslöser, Cap und Discount sauber berechnen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Wandlungsauslöser, Cap und Discount sauber berechnen: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Wandlungsauslöser, Cap und Discount sauber berechnen
 
@@ -66,7 +66,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 2. `textform-vs-schriftform-vs-notariell`
 
-**Frühere Beschreibung:** Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung).
+**Fokus:** Formerfordernis für einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Prüfraster: Vertragstyp Erklärung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht für Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-prüfung).
 
 # Textform vs. Schriftform vs. Notarielle Beurkundung
 

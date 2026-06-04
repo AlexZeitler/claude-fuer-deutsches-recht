@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-aussenwirtschaft-ver-bis-aussenwirtschaft-exp
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (aussenwirtschaft-versandverfahren-ncts, aussenwirtschaft-zollverfahren-bewilligungen, aussenwirtschaft-distributor-vertrag-exportkontrolle, aussenwirtschaft-exportkontrollklauseln-vertrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Versandverfahren Ncts, Aussenwirtschaft Zollverfahren Bewilligungen, Aussenwirtschaft Distributor Vertrag Exportkontrolle, Aussenwirtschaft Exportkontrollklauseln Vertrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Versandverfahren Ncts bis Aussenwirtschaft Exportkontrollklauseln Vertrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-versandverfahren-ncts` | Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Output: Versandanmeldungs-Anleitung und Sicherheitsleistungs-Kalkulation. |
 | `aussenwirtschaft-zollverfahren-bewilligungen` | Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-versandverfahren-ncts`
 
-**Frühere Beschreibung:** Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Output: Versandanmeldungs-Anleitung und Sicherheitsleistungs-Kalkulation.
+**Fokus:** Unionszollkodex-Versandverfahren (T1/T2) im NCTS (New Computerised Transit System): Eroeffffnung Sicherheitsleistung Transit-Begleitdokument (TAD) Bestimmungsstelle und Freigabe. Besonderheiten bei Bahn-CMR-Luft-Transit und AEO-Verguenstigungen. Risiko Transit-Nichtbeendigung und Nacherhebung. Output: Versandanmeldungs-Anleitung und Sicherheitsleistungs-Kalkulation.
 
 # NCTS-Versandverfahren T1/T2: Anmeldung Sicherheitsleistung und Bestimmungsstelle
 
@@ -115,7 +115,7 @@ NCTS-Versandanmeldungs-Anleitung, Sicherheitsleistungs-Kalkulator, Checkliste Be
 
 ## 2. `aussenwirtschaft-zollverfahren-bewilligungen`
 
-**Frühere Beschreibung:** Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage.
+**Fokus:** Zollverfahren und Bewilligungen nach UZK Art. 211: Uebersicht aktive und passive Veredelung Zolllager Voruebergehende Verwendung Versandverfahren und Endverwendung. Bewilligungsvoraussetzungen wirtschaftliche Voraussetzungen und Vereinfachungen fuer AEO-Inhaber. Output: Verfahrens-Auswahlmatrix und Bewilligungsantrag-Vorlage.
 
 # Zollverfahren und Bewilligungen: Auswahl wirtschaftliche Voraussetzungen und AEO
 
@@ -202,7 +202,7 @@ Verfahrens-Auswahlmatrix mit Kosten-Nutzen-Analyse, Bewilligungsantrag-Vorlage u
 
 ## 3. `aussenwirtschaft-distributor-vertrag-exportkontrolle`
 
-**Frühere Beschreibung:** Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln, Compliance-Pflichten des Partners und Due-Diligence-Rechte des Exporteurs. Output: Standardklauselwerk und Compliance-Schedule.
+**Fokus:** Exportkontrollklauseln in Distributor- und Handelsvertretervertraegen: Vertragliche Pflichten des Importeurs zur Einhaltung von Re-Export-Verboten, Endverwender-Verpflichtungen und No-Russia-Clause (Art. 12g VO 833/2014). Haftungsklauseln, Compliance-Pflichten des Partners und Due-Diligence-Rechte des Exporteurs. Output: Standardklauselwerk und Compliance-Schedule.
 
 # Distributor-Vertrag und Exportkontrolle: Klauseln und Compliance-Pflichten
 
@@ -289,7 +289,7 @@ Standardklauselwerk fuer Exportkontroll-Compliance-Schedule, No-Russia-Clause-Te
 
 ## 4. `aussenwirtschaft-exportkontrollklauseln-vertrag`
 
-**Frühere Beschreibung:** Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und Vertragspruefbericht.
+**Fokus:** Gestaltung exportkontrollrechtlicher Vertragsklauseln in Liefer-, Lizenz- und Kooperationsvertraegen: No-Russia-Clause nach Art. 12g VO (EU) 833/2014, Endverwendungsklauseln, Re-Export-Verbote, Ruecktrittsrechte bei Genehmigungsversagung, Vertragsstrafen bei Verstoss. Output: Klauselbausteine und Vertragspruefbericht.
 
 # Exportkontrollklauseln im Vertrag: Gestaltung und Pruefung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-datenschutz-bankgehe-bis-dora-art16-vereinfac
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (datenschutz-bankgeheimnis, depotrecht-tokenisierte-wertpapiere, dlt-pilot-regime-market-infrastructure, dokumentengeschaeft-akkreditiv-inkasso-standby, dora-art16-vereinfachter-ikt-rahmen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Datenschutz Bankgeheimnis, Depotrecht Tokenisierte Wertpapiere, Dlt Pilot Regime Market Infrastructure, Dokumentengeschaeft Akkreditiv Inkasso Standby und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bank-rechtsabteilung
+# Arbeitsbereich - Datenschutz Bankgeheimnis bis Dora Art16 Vereinfachter Ikt Rahmen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `datenschutz-bankgeheimnis` | Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank: Datenbasis, Offenlegung, Dienstleister, Auskunft, Löschung, Behördenzugriff, KI-Nutzung und Geheimnisschutz prüfen. |
 | `depotrecht-tokenisierte-wertpapiere` | Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `datenschutz-bankgeheimnis`
 
-**Frühere Beschreibung:** Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank: Datenbasis, Offenlegung, Dienstleister, Auskunft, Löschung, Behördenzugriff, KI-Nutzung und Geheimnisschutz prüfen.
+**Fokus:** Datenschutz, Bankgeheimnis und Mandatsgeheimnis in der Bank: Datenbasis, Offenlegung, Dienstleister, Auskunft, Löschung, Behördenzugriff, KI-Nutzung und Geheimnisschutz prüfen.
 
 # Datenschutz und Bankgeheimnis
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `depotrecht-tokenisierte-wertpapiere`
 
-**Frühere Beschreibung:** Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID.
+**Fokus:** Depotrecht und tokenisierte Wertpapiere prüfen: Depotvertrag, Verwahrung, Registereintragung, Abwicklung, Bestandsschutz, Anlegerauskunft, Verlustfall und Schnittstelle zu eWpG/MiFID.
 
 # Depotrecht Tokenpapiere
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `dlt-pilot-regime-market-infrastructure`
 
-**Frühere Beschreibung:** DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen.
+**Fokus:** DLT Pilot Regime für Marktinfrastrukturen prüfen: DLT-MTF, DLT-SS, DLT-TSS, Token Settlement, Ausnahmen, Aufsicht, Depot-/CSD-Schnittstellen und Bankrollen.
 
 # DLT Pilot Regime
 
@@ -343,7 +343,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `dokumentengeschaeft-akkreditiv-inkasso-standby`
 
-**Frühere Beschreibung:** Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkasso, Standby Letter of Credit, UCP/URC/ISP-Bezug, Dokumentenstrenge, Fraud, Sanktionen, Warenfluss und Zahlungsentscheidung.
+**Fokus:** Dokumentengeschäft der Bank prüfen: Akkreditiv, Dokumenteninkasso, Standby Letter of Credit, UCP/URC/ISP-Bezug, Dokumentenstrenge, Fraud, Sanktionen, Warenfluss und Zahlungsentscheidung.
 
 # Dokumentengeschäft: Akkreditiv, Inkasso, Standby
 
@@ -419,7 +419,7 @@ UCP, URC, ISP und URDG sind Handelsregelwerke mit teils lizenzierter Veröffentl
 
 ## 5. `dora-art16-vereinfachter-ikt-rahmen`
 
-**Frühere Beschreibung:** DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen.
+**Fokus:** DORA Artikel 16 für kleinere oder privilegierte Finanzunternehmen: vereinfachten IKT-Risikomanagementrahmen, Governance, Asset-Inventar, Need-to-use, Business Continuity, Drittparteienrisiko, Vertragslücken und Nachweisordner prüfbar machen.
 
 # DORA Artikel 16: Vereinfachter IKT-Rahmen
 

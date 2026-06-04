@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-drg-neu-001-code-civ-bis-drg-neu-006-paulskir
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 19; bündelt 6 frühere Spezialskills (drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb, drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat, drg-neu-003-bremer-handelsrecht-vor-hgb, drg-neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel, drg-neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb, Drg Neu 002 Rheinisches Recht Gerichtsverfassung Und Notariat, Drg Neu 003 Bremer Handelsrecht Vor Hgb, Drg Neu 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg Neu 001 Code Civil Linksrheinische Gebiete Bis Bgb bis Drg Neu 006 Paulskirchenverfassung 1848 Und Grundrechte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb` | Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat` | Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-neu-001-code-civil-linksrheinische-gebiete-bis-bgb`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Code civil linksrheinische Gebiete bis BGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 001 Code Civil Linksrheinische Gebiete Bis Bgb
 
@@ -87,7 +87,7 @@ Skill fuer die Anwendung des franzoesischen Code civil in den linksrheinischen G
 
 ## 2. `drg-neu-002-rheinisches-recht-gerichtsverfassung-und-notariat`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Rheinisches Recht Gerichtsverfassung und Notariat mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 002 Rheinisches Recht Gerichtsverfassung Und Notariat
 
@@ -139,7 +139,7 @@ Erbschaft aus Köln; Erbteilung durch Notar.
 
 ## 3. `drg-neu-003-bremer-handelsrecht-vor-hgb`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Bremer Handelsrecht vor HGB mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 003 Bremer Handelsrecht Vor Hgb
 
@@ -191,7 +191,7 @@ Schiff mit Bremer Reederei sinkt vor Hamburg.
 
 ## 4. `drg-neu-004-hamburger-handelsrecht-kaufmannspraxis-und-seehandel`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Hamburger Handelsrecht Kaufmannspraxis und Seehandel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 004 Hamburger Handelsrecht Kaufmannspraxis Und Seehandel
 
@@ -245,7 +245,7 @@ Schiff aus Hamburg im Sturm; Teil der Ladung ueber Bord geworfen.
 
 ## 5. `drg-neu-005-deutscher-bund-1815-bundesakte-und-bundesbeschluesse`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Deutscher Bund 1815 Bundesakte und Bundesbeschlüsse mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 005 Deutscher Bund 1815 Bundesakte Und Bundesbeschluesse
 
@@ -300,7 +300,7 @@ Studenten der Universitaet Jena gruenden Burschenschaft.
 
 ## 6. `drg-neu-006-paulskirchenverfassung-1848-und-grundrechte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Paulskirchenverfassung 1848 und Grundrechte mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 006 Paulskirchenverfassung 1848 Und Grundrechte
 

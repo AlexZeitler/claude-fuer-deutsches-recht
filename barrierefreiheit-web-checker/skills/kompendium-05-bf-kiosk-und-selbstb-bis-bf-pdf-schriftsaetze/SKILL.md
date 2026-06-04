@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bf-kiosk-und-selbstb-bis-bf-pdf-schriftsaetze
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bf-kiosk-und-selbstbedienung-spezial, bf-mediendienste-untertitel-spezial, bf-pdf-schriftsaetze-versand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bf Kiosk Und Selbstbedienung Spezial, Bf Mediendienste Untertitel Spezial, Bf Pdf Schriftsaetze Versand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - barrierefreiheit-web-checker
+# Arbeitsbereich - Bf Kiosk Und Selbstbedienung Spezial, Bf Mediendienste Untertitel Spezial, Bf Pdf Schriftsaetze Versand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bf-kiosk-und-selbstbedienung-spezial` | Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Pruefraster und Bezugnahme zu Norm-Klauseln. |
 | `bf-mediendienste-untertitel-spezial` | Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten fuer Streaming-Anbieter und Mediatheken. Pruefraster fuer Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bf-kiosk-und-selbstbedienung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Pruefraster und Bezugnahme zu Norm-Klauseln.
+**Fokus:** Spezialfall Selbstbedienungsterminals (Bankautomat, Ticketautomat, Fahrkartenautomat) nach BFSG: Hardware- und Software-Anforderungen EN 301 549 Kap. 8, Bedienelemente Reichweite, Sprachausgabe, Kontrast. Pruefraster und Bezugnahme zu Norm-Klauseln.
 
 # BF: Kiosk-Terminals
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `barrierefreiheit-web-checker`. Er ergaenzt die 
 
 ## 2. `bf-mediendienste-untertitel-spezial`
 
-**Frühere Beschreibung:** Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten fuer Streaming-Anbieter und Mediatheken. Pruefraster fuer Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos).
+**Fokus:** Spezialfall Mediendienste: Untertitel, Audiodeskription, Gebaerdensprache, ARD/ZDF-Linie, AVMD-Richtlinie, MStV. Pflichten fuer Streaming-Anbieter und Mediatheken. Pruefraster fuer Eigenproduktionen Kanzlei (Podcasts, Webinare, Videos).
 
 # BF: Mediendienste-Spezial
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `barrierefreiheit-web-checker`. Er ergaenzt die 
 
 ## 3. `bf-pdf-schriftsaetze-versand`
 
-**Frühere Beschreibung:** Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste fuer Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei.
+**Fokus:** Spezialfall barrierefreies PDF beim Versand von Schriftsaetzen: getaggte PDF, Lesefolge, Schriftgroesse, OCR-Schicht, Beschreibungen Bilder. Schnittstelle eA und beA. Pruefliste fuer Anwaltskanzlei. Routet in pdf-formulare-und-formulare-barrierefrei.
 
 # BF: PDF-Schriftsatz-Versand
 

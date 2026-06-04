@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-fachanwalt-medizinre-bis-field-safety-correct
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 09; bündelt 6 frühere Spezialskills (fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung, fachanwalt-medizinrecht-kassenarztrecht, fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid, fachanwalt-medizinrecht-orientierung, fertilitaetsmedizin-recht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Medizinrecht Gutachterkommission Aek Schlichtung, Medizinrecht Kassenarztrecht, Medizinrecht Off Label Use Erstattung Gkv Long Covid, Medizinrecht Orientierung und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-medizinrecht
+# Arbeitsbereich - Medizinrecht Gutachterkommission Aek Schlichtung bis Field Safety Corrective Action
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung` | Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie. |
 | `fachanwalt-medizinrecht-kassenarztrecht` | Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-medizinrecht-gutachterkommission-aek-schlichtung`
 
-**Frühere Beschreibung:** Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie.
+**Fokus:** Gutachterkommissionen und Schlichtungsstellen der Aerztekammern bei Arzthaftung nutzen: Anwendungsfall Patient oder Anwalt erwägt Schlichttungsverfahren vor Aerztekammer als kostenguenstige Alternative zur Klage. § 630a BGB Behandlungsvertrag, Schlichtungsordnung der Aerztekammern, MDK-Prüfung. Prüfraster Schlichttungsverfahren-Zulässigkeit, Korrespondenzstrategie mit Berufshaftpflicht-Versicherer, Gutachten-Strategie, Vergleichsverhandlung foerdern. Output Schlichtungs-Strategie mit Antragsentwurf und Verhandlungs-Memo. Abgrenzung zu Arzthaftungsklage und zu Vergleichsverhandlung-Strategie.
 
 # Arzthaftung — Gutachterkommissionen / Schlichtungsstellen
 
@@ -259,7 +259,7 @@ Anlagen: Patientenakte, Privatgutachten (falls vorhanden), Vollmacht
 
 ## 2. `fachanwalt-medizinrecht-kassenarztrecht`
 
-**Frühere Beschreibung:** Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch.
+**Fokus:** Kassenarztrecht Vertragsarztzulassung und KV-Streitigkeiten: Anwendungsfall Arzt beantragt Vertragsarztzulassung hat Zulassungsprobleme oder streitet mit KV um Honorar Berechtigung oder Zulassungsstatus. § 95 SGB V Zulassung, § 96 SGB V Zulassungsausschuss, § 103 SGB V Nachbesetzung, EBM-Abrechnung. Prüfraster Zulassungsvoraussetzungen, Bedarfsplanung Sperrgebiete, Facharzt-Standard, Honorarsystem EBM RLV, KV-Prüfungsverfahren. Output Zulassungsantrag oder Widerspruchs-Strategie mit Rechtsschutzsystem. Abgrenzung zu Honorarvertrag-KV für reine Honorarstreitigkeiten und zu Approbations-Widerspruch.
 
 # Kassenarztrecht
 
@@ -508,7 +508,7 @@ IV. BEWEISANGEBOTE
 
 ## 3. `fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid`
 
-**Frühere Beschreibung:** Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Prüfraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz für GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a.
+**Fokus:** Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Prüfraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz für GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a.
 
 # Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS
 
@@ -833,7 +833,7 @@ Mit freundlichen Grüßen
 
 ## 4. `fachanwalt-medizinrecht-orientierung`
 
-**Frühere Beschreibung:** Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
+**Fokus:** Orientierung im Medizinrecht — FAO Voraussetzungen Normen typische Mandate Fristen verifizierbare Quellen. Arzthaftung §§ 630a ff. BGB (Patientenrechtegesetz seit 2013) Vertragsarztrecht SGB V Berufsrecht Aerzte (Berufsordnung Heilberufsgesetze Laender) Krankenhausrecht KHG Pflegeversicherungsrecht SGB XI Medizinprodukterecht MPDG Apothekenrecht ApoG. Schnittstelle Plugin fachanwalt-sozialrecht und kanzlei-allgemein.
 
 # Fachanwalt für Medizinrecht — Orientierung
 
@@ -965,7 +965,7 @@ Sachgebiet?
 
 ## 5. `fertilitaetsmedizin-recht`
 
-**Frühere Beschreibung:** Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Fertilitätsmedizin Recht: moderner Medizinrechts-Skill für IVF, Samenspende, Embryonenschutz, Abstammung, Aufklärung und Haftung. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
 # Fertilitätsmedizin Recht
 
@@ -1022,7 +1022,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 6. `field-safety-corrective-action`
 
-**Frühere Beschreibung:** FSCA und Rückrufkommunikation: moderner Medizinrechts-Skill für Field Safety Corrective Action, Sicherheitsmitteilung, Patientennachverfolgung und Klinikpflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** FSCA und Rückrufkommunikation: moderner Medizinrechts-Skill für Field Safety Corrective Action, Sicherheitsmitteilung, Patientennachverfolgung und Klinikpflichten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
 # FSCA und Rückrufkommunikation
 

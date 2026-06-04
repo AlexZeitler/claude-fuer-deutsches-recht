@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-gutachten-memo-inter-bis-ip-rechteuebertragun
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (gutachten-memo-internes-drafting, ip-rechteuebertragung-und-lizenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Gutachten Memo Internes Drafting, Ip Rechteuebertragung Und Lizenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gutachten-memo-internes-drafting` | Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knapp; Frage(n); Kurzantwort in einem Satz; rechtliche Bewertung im Gutachtenstil; Gesamtergebnis; Risiken und offene Punkte; Quellenverzeichnis. Anspruchsgrundlagenprüfung in der Reihenfolge Vertrag bis Bereicherung. Vier klassische Auslegungsmethoden plus verfassungs- und unionsrechtskonforme Auslegung. Mit Mustertext-Auszug eines Memos und typischen Drafting-Fehlern wie Subsumtion ohne Obersatz und Ergebnis vor Begründung. |
 | `ip-rechteuebertragung-und-lizenzen` | Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gutachten-memo-internes-drafting`
 
-**Frühere Beschreibung:** Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knapp; Frage(n); Kurzantwort in einem Satz; rechtliche Bewertung im Gutachtenstil; Gesamtergebnis; Risiken und offene Punkte; Quellenverzeichnis. Anspruchsgrundlagenprüfung in der Reihenfolge Vertrag bis Bereicherung. Vier klassische Auslegungsmethoden plus verfassungs- und unionsrechtskonforme Auslegung. Mit Mustertext-Auszug eines Memos und typischen Drafting-Fehlern wie Subsumtion ohne Obersatz und Ergebnis vor Begründung.
+**Fokus:** Internes Memo und Gutachten im Gutachtenstil. Standardstruktur: Sachverhalt knapp; Frage(n); Kurzantwort in einem Satz; rechtliche Bewertung im Gutachtenstil; Gesamtergebnis; Risiken und offene Punkte; Quellenverzeichnis. Anspruchsgrundlagenprüfung in der Reihenfolge Vertrag bis Bereicherung. Vier klassische Auslegungsmethoden plus verfassungs- und unionsrechtskonforme Auslegung. Mit Mustertext-Auszug eines Memos und typischen Drafting-Fehlern wie Subsumtion ohne Obersatz und Ergebnis vor Begründung.
 
 # Gutachten und internes Memo
 
@@ -196,7 +196,7 @@ Mandantin die Erfüllung als Lieferung beweisen kann.
 
 ## 2. `ip-rechteuebertragung-und-lizenzen`
 
-**Frühere Beschreibung:** Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software).
+**Fokus:** Drafting von IP-Klauseln. Urheberrecht (UrhG) kennt keine vollständige Übertragung des Stammrechts (§ 29 UrhG); zulässig ist nur die Einräumung von Nutzungsrechten als einfache oder ausschließliche Lizenz mit räumlicher, zeitlicher und inhaltlicher Beschränkung. Marken und Patente sind dagegen vollständig übertragbar. Behandelt Software-Lizenzen mit Erschöpfungsgrundsatz (BGH UsedSoft), Sub-Lizenzen, Rückrufrechte nach § 41 UrhG und Open-Source-Compliance. Liefert Mustertexte für Lizenzklausel (Marke) und Urheberrechtsklausel (Werk und Software).
 
 # IP-Rechteübertragung und Lizenzen
 

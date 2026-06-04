@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-spezial-triage-manda-bis-ueberschuldung-pruef
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (spezial-triage-mandantenkommunikation-entscheidungsvorlage, spezial-verbraucherinsolvenz-mehrparteienkonflikt, spezial-zahlungsunfaehigkeit-tatbestand-beweis-und-belege, ueberschuldung-pruefung-19-inso) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Triage Mandantenkommunikation Entscheidungsvorlage, Verbraucherinsolvenz Mehrparteienkonflikt, Zahlungsunfaehigkeit Tatbestand Beweis Und Belege, Ueberschuldung Pruefung 19 Inso; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - insolvenzrecht
+# Arbeitsbereich - Triage Mandantenkommunikation Entscheidungsvorlage bis Ueberschuldung Pruefung 19 Inso
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-triage-mandantenkommunikation-entscheidungsvorlage` | Triage: Mandantenkommunikation und Entscheidungsvorlage im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `spezial-verbraucherinsolvenz-mehrparteienkonflikt` | Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-triage-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Triage: Mandantenkommunikation und Entscheidungsvorlage im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Triage: Mandantenkommunikation und Entscheidungsvorlage im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Triage: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -79,7 +79,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verbraucherinsolvenz-mehrparteienkonflikt`
 
-**Frühere Beschreibung:** Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Verbraucherinsolvenz: Mehrparteienkonflikt und Interessenmatrix
 
@@ -129,7 +129,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-zahlungsunfaehigkeit-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage im Insolvenzrecht: fachlich vertiefter Spezialskill mit Normenradar (InsO/StaRUG/GesR), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Zahlungsunfaehigkeit: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -220,7 +220,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `ueberschuldung-pruefung-19-inso`
 
-**Frühere Beschreibung:** Führt die zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO durch: Fortbestehensprognose (Stufe 1) und insolvenzrechtlicher Überschuldungsstatus auf Liquidationswertbasis (Stufe 2). Lädt, wenn Überschuldung geprüft, ein Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll.
+**Fokus:** Führt die zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO durch: Fortbestehensprognose (Stufe 1) und insolvenzrechtlicher Überschuldungsstatus auf Liquidationswertbasis (Stufe 2). Lädt, wenn Überschuldung geprüft, ein Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll.
 
 # Zweistufige Überschuldungsprüfung gem. § 19 Abs. 2 InsO
 

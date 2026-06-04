@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-formular-erzeugung-bis-mandanten-kommunikat
-description: "rechtsberatungsstelle: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (formular-erzeugung, leitfaden-erstellen, mandanten-kommunikations-log) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtsberatungsstelle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Formular Erzeugung, Leitfaden Erstellen, Mandanten Kommunikations Log; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - rechtsberatungsstelle
+# Arbeitsbereich - Formular Erzeugung, Leitfaden Erstellen, Mandanten Kommunikations Log
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `formular-erzeugung` | Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief. |
 | `leitfaden-erstellen` | Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden für häufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Prüfraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill für Ausbilder-Training und zu Recherche-Start. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `formular-erzeugung`
 
-**Frühere Beschreibung:** Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief.
+**Fokus:** Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief.
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`
 
@@ -116,7 +116,7 @@ Befund: GELOESCHT. Echtes Datum 22.10.2015 (Skill hatte 14.01.2016); echtes Them
 
 ## 2. `leitfaden-erstellen`
 
-**Frühere Beschreibung:** Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden für häufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Prüfraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill für Ausbilder-Training und zu Recherche-Start.
+**Fokus:** Leitfaden und Merkblatt für Rechtsberatungsstelle erstellen: Anwendungsfall Studenten der Rechtsberatungsstelle brauchen praxistaugliche Leitfaeden für häufige Mandats-Konstellationen in leicht verstaendlicher Sprache. BeratungsHiG niedrigschwellige Beratung, Verbraucherrecht Mietrecht Arbeitsrecht. Prüfraster Zielgruppe und Sprachniveau, Rechtsgebiet und Kern-Probleme, Checkliste Handlungsschritte, Fristen und Risiken. Output Leitfaden in verstaendlicher Sprache mit Schritt-fuer-Schritt-Anleitung und Norm-Referenzen. Abgrenzung zu Einarbeitung-Skill für Ausbilder-Training und zu Recherche-Start.
 
 # /leitfaden-erstellen
 
@@ -294,7 +294,7 @@ Supervisor-gerichtetes Konfigurationsdokument in Markdown. Kein `[KI-GESTÜTZTER
 
 ## 3. `mandanten-kommunikations-log`
 
-**Frühere Beschreibung:** Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill.
+**Fokus:** Mandantenkommunikation dokumentieren und Kommunikations-Log führen: Anwendungsfall Rechtsberatungsstelle muss Beratungsgespraeache E-Mails und Entscheidungen vollständig und datenschutzkonform dokumentieren. DSGVO Datenschutz studentische Rechtsberatung, § 43a BRAO Vertraulichkeit, BDSG. Prüfraster Gespraeach-Datum Inhalt Ergebnis und Naechste Schritte protokollieren, Datenschutz beachten, Übergabe an anderen Berater sicherstellen. Output Kommunikations-Log mit strukturiertem Protokoll und Weiterleitungshinweisen. Abgrenzung zu Semester-Übergabe für Mandats-Übergabe und zu Status-Skill.
 
 # /mandanten-kommunikations-log
 

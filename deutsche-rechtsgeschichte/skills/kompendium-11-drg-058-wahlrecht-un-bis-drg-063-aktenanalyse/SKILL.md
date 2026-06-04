@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-drg-058-wahlrecht-un-bis-drg-063-aktenanalyse
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 11; bündelt 6 frühere Spezialskills (drg-058-wahlrecht-und-repraesentation, drg-059-frauenrechte-und-rechtsgleichheit, drg-060-migrations-und-staatsangehoerigkeitsrecht, drg-061-kirchenrecht-und-staatskirchenrecht, drg-062-rechtssprache-und-begriffsgeschichte und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 058 Wahlrecht Und Repraesentation, Drg 059 Frauenrechte Und Rechtsgleichheit, Drg 060 Migrations Und Staatsangehoerigkeitsrecht, Drg 061 Kirchenrecht Und Staatskirchenrecht und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 058 Wahlrecht Und Repraesentation bis Drg 063 Aktenanalyse Historische Fallakte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-058-wahlrecht-und-repraesentation` | Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz. |
 | `drg-059-frauenrechte-und-rechtsgleichheit` | Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-058-wahlrecht-und-repraesentation`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz.
+**Fokus:** Deutsche Rechtsgeschichte: Wahlrecht und Repraesentation. Allgemeines Maennerwahlrecht 1871, Frauenwahlrecht 1918, Weimarer Verhaeltniswahlrecht, GG Art. 38 und Bundeswahlgesetz.
 
 # Wahlrecht und Repraesentation
 
@@ -81,7 +81,7 @@ Reichsverfassung 1871: ALEX/OeNB. WRV: documentArchiv.de. GG und BWahlG: gesetze
 
 ## 2. `drg-059-frauenrechte-und-rechtsgleichheit`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen.
+**Fokus:** Deutsche Rechtsgeschichte: Frauenrechte und Rechtsgleichheit. Rechtlose Frau im BGB 1900, Frauenbewegung, WRV Art. 119, GG Art. 3 Abs. 2 und Gleichberechtigungsgesetz 1957 als wichtigste Stationen.
 
 # Frauenrechte und Rechtsgleichheit
 
@@ -131,7 +131,7 @@ BGB: gesetze-im-internet.de. BVerfGE 3, 225: bverfg.de. Gleichberechtigungsgeset
 
 ## 3. `drg-060-migrations-und-staatsangehoerigkeitsrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip.
+**Fokus:** Deutsche Rechtsgeschichte: Migrations- und Staatsangehoerigkeitsrecht. RuStAG 1913, Abstammungsprinzip, Auslaenderrecht im 20. Jahrhundert, Aussiedlerrecht und StAG 2000 mit Geburtsortprinzip.
 
 # Migrations- und Staatsangehoerigkeitsrecht
 
@@ -181,7 +181,7 @@ RuStAG 1913: ALEX/OeNB. StAG 2000: gesetze-im-internet.de. GG Art. 116: gesetze-
 
 ## 4. `drg-061-kirchenrecht-und-staatskirchenrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute.
+**Fokus:** Deutsche Rechtsgeschichte: Kirchenrecht und Staatskirchenrecht. Reichskirchenrecht, Kulturkampf 1870er, Weimarer Kirchenartikel WRV Art. 136-141, GG Art. 140 und Verhaeltnis Staat-Kirche heute.
 
 # Kirchenrecht und Staatskirchenrecht
 
@@ -231,7 +231,7 @@ WRV Art. 136-141: documentArchiv.de. GG Art. 140 und 7: gesetze-im-internet.de. 
 
 ## 5. `drg-062-rechtssprache-und-begriffsgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtssprache und Begriffsgeschichte. Deutsch als Rechtssprache im Mittelalter, Latinisierung, Pandektistik-Fachbegriffe, BGB-Sprache und heutige Verstaendlichkeits-Debatte.
 
 # Rechtssprache und Begriffsgeschichte
 
@@ -281,7 +281,7 @@ Sachsenspiegel: MGH-Edition. Mugdan: historische Ausgabe. GG Art. 103: gesetze-i
 
 ## 6. `drg-063-aktenanalyse-historische-fallakte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation.
+**Fokus:** Deutsche Rechtsgeschichte: Aktenanalyse einer historischen Fallakte. Aufbau historischer Gerichtsakten, Lese- und Auswertungstechnik, Quellennachweis und Einbau in heutige Argumentation.
 
 # Aktenanalyse: Historische Fallakte
 

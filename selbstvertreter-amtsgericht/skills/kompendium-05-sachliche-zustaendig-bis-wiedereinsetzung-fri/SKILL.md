@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-sachliche-zustaendig-bis-wiedereinsetzung-fri
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (sachliche-zustaendigkeit-amtsgericht-23-gvg, verjaehrungsfrist-pruefen-195-bgb, wiedereinsetzung-frist-233-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sachliche Zustaendigkeit Amtsgericht 23 Gvg, Verjaehrungsfrist Pruefen 195 Bgb, Wiedereinsetzung Frist 233 Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Sachliche Zustaendigkeit Amtsgericht 23 Gvg, Verjaehrungsfrist Pruefen 195 Bgb, Wiedereinsetzung Frist 233 Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sachliche-zustaendigkeit-amtsgericht-23-gvg` | Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert. |
 | `verjaehrungsfrist-pruefen-195-bgb` | Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sachliche-zustaendigkeit-amtsgericht-23-gvg`
 
-**Frühere Beschreibung:** Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert.
+**Fokus:** Prüfung der sachlichen Zuständigkeit des Amtsgerichts nach § 23 GVG. Wertgrenze seit 01.01.2026 zehntausend EUR (§ 23 Nr. 1 GVG aktuelle Fassung). Sonderzuständigkeiten § 23 Nr. 2 GVG Mietsachen Reisevertrag. Stand der Reform und Streitwert-Berechnung erlaeutert.
 
 # Ist das Amtsgericht fuer Ihren Fall sachlich zustaendig?
 
@@ -122,7 +122,7 @@ Stand: 05/2026. § 23 Nr. 1 GVG aktuelle Fassung: AG-Wertgrenze 10.000 EUR (Anhe
 
 ## 2. `verjaehrungsfrist-pruefen-195-bgb`
 
-**Frühere Beschreibung:** Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen.
+**Fokus:** Prüfung von Verjährungsfristen vor Klage. Regelfrist drei Jahre nach § 195 BGB Beginn Jahresende § 199 BGB Hemmung Neubeginn Sonderfristen. Mit Beispielen aus Kauf Werkvertrag Schadensersatz und unverjährbaren Ansprüchen.
 
 # Ist Ihre Forderung schon verjaehrt?
 
@@ -249,7 +249,7 @@ Stand: 05/2026. §§ 195 ff. BGB unveraendert. Beachten Sie BGH-Rechtsprechung z
 
 ## 3. `wiedereinsetzung-frist-233-zpo`
 
-**Frühere Beschreibung:** Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung.
+**Fokus:** Wiedereinsetzung in den vorigen Stand nach § 233 ZPO. Voraussetzungen unverschuldetes Versaeumnis 2-Wochen-Antragsfrist Glaubhaftmachung Nachholung der versaeumten Handlung. Mustertext typische Faelle Krankheit Unfall Post-Stoerung.
 
 # Wiedereinsetzung: Wenn Sie eine Frist versaeumt haben
 

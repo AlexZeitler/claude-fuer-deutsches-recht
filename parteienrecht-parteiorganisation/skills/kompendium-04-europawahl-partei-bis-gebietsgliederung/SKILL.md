@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-europawahl-partei-bis-gebietsgliederung
-description: "parteienrecht-parteiorganisation: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (europawahl-partei, fraktionsschnittstelle, gebietsgliederung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "parteienrecht-parteiorganisation: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Europawahl Partei, Fraktionsschnittstelle, Gebietsgliederung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - parteienrecht-parteiorganisation
+# Arbeitsbereich - Europawahl Partei, Fraktionsschnittstelle, Gebietsgliederung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `europawahl-partei` | Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation. |
 | `fraktionsschnittstelle` | Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `europawahl-partei`
 
-**Frühere Beschreibung:** Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation.
+**Fokus:** Prüft Europawahl-Vorschläge, Bundes-/Landesliste, Vertreterversammlung, Formulare und Bundeswahlleiter-Kommunikation.
 
 # Europawahl
 
@@ -69,7 +69,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `fraktionsschnittstelle`
 
-**Frühere Beschreibung:** Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit.
+**Fokus:** Trennt Partei, Fraktion, Mandat, Ressourcen, Personal, Spenden und Öffentlichkeitsarbeit.
 
 # Schnittstelle Fraktion/Partei
 
@@ -110,7 +110,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `gebietsgliederung`
 
-**Frühere Beschreibung:** Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten.
+**Fokus:** Ordnet Bundes-, Landes-, Bezirks-, Kreis-, Ortsverband, Arbeitsgemeinschaften und Zuständigkeiten.
 
 # Gebietsgliederung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-fran-rs-health-und-p-bis-fran-rs-irrefuehrend
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (fran-rs-health-und-pflege-franchise-mit-hwg-risiko, fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz, fran-rs-irrefuehrende-systemwerbung-und-franchise-sales) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbung Und Franchise Sales; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - franchiserecht-praxis
+# Arbeitsbereich - Fran Rs Health Und Pflege Franchise Mit Hwg Risiko, Fran Rs Insolvenz Eines Franchisenehmers Im Filialnetz, Fran Rs Irrefuehrende Systemwerbu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-rs-health-und-pflege-franchise-mit-hwg-risiko` | Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz` | Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-rs-health-und-pflege-franchise-mit-hwg-risiko`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Health- und Pflege-Franchise mit HWG-Risiko: Franchise in Medizin, Pflege, Fitness oder Kosmetik wird auf Heilmittelwerbung, Qualifikation, Delegation und behördliche Erlaubnisse geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Health- und Pflege-Franchise mit HWG-Risiko
 
@@ -72,7 +72,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-insolvenz-eines-franchisenehmers-im-filialnetz`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Insolvenz eines Franchisenehmers im Filialnetz: Insolvenz, Masse, Weiterbetrieb, Lizenznutzung, Kündigungssperren und Lieferstopps werden als Krisenworkflow für Systemgeber und Verwalter gebaut. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Insolvenz eines Franchisenehmers im Filialnetz
 
@@ -116,7 +116,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-rs-irrefuehrende-systemwerbung-und-franchise-sales`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Irreführende Systemwerbung und Franchise Sales: Werbung um neue Franchisenehmer wird auf Renditeversprechen, Erfolgsstories, Testimonials und verschleierte Kosten geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Irreführende Systemwerbung und Franchise Sales
 

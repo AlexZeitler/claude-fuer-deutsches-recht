@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-pe-103-closing-bible-bis-rechtsabteilung-sani
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 26; bündelt 4 frühere Spezialskills (pe-103-closing-bible-pe, rechtsabteilung-continuation-fund-und-conflict-governance, rechtsabteilung-debt-push-down-und-financial-assistance, rechtsabteilung-sanierungsgutachten-bei-add-on-krise) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 103 Closing Bible Pe, Continuation Fund Und Conflict Governance, Debt Push Down Und Financial Assistance, Sanierungsgutachten Bei Add On Krise; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - private-equity-praxis
+# Arbeitsbereich - Pe 103 Closing Bible Pe bis Sanierungsgutachten Bei Add On Krise
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-103-closing-bible-pe` | Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage. |
 | `rechtsabteilung-continuation-fund-und-conflict-governance` | Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-103-closing-bible-pe`
 
-**Frühere Beschreibung:** Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage.
+**Fokus:** Erstellt Closing Bible, Signaturketten, Registerbelege, Funds Flow, CP-Erfüllung und Post-Closing-Ablage.
 
 # Closing Bible PE
 
@@ -70,7 +70,7 @@ SPA, Kreditvertrag, Notar/Register, KYC, Fonds-Approvals.
 
 ## 2. `rechtsabteilung-continuation-fund-und-conflict-governance`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Continuation Fund und Conflict Governance: GP-led Secondaries werden mit Interessenkonflikten, Bewertung und Zustimmungspfaden geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Continuation Fund und Conflict Governance
 
@@ -117,7 +117,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-debt-push-down-und-financial-assistance`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Debt Push-down und Financial Assistance: Akquisitionsfinanzierung wird auf Upstream-Security- und Cashflow-Fallen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Debt Push-down und Financial Assistance
 
@@ -164,7 +164,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-sanierungsgutachten-bei-add-on-krise`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Sanierungsgutachten bei Add-on-Krise: PE-Haus und Portfoliogeschäftsführung erhalten ein Distress-Decision-Memo. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Sanierungsgutachten bei Add-on-Krise
 

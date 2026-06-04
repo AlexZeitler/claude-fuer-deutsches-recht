@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-forderung-mietruckst-bis-forderung-zwangsvoll
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (forderung-mietruckstand-zahlungsklage, forderung-verbraucher-erleichterungen, forderung-zwangsvollstreckung-ueberblick) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Forderung Mietruckstand Zahlungsklage, Forderung Verbraucher Erleichterungen, Forderung Zwangsvollstreckung Ueberblick
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `forderung-mietruckstand-zahlungsklage` | Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage. |
 | `forderung-verbraucher-erleichterungen` | Forderung gegen Verbraucher: Verbraucherschutzregeln, AGB-Kontrolle §§ 305 ff. BGB, Belehrungspflichten Verzugskosten § 288 Abs. 4 BGB, Kostenausschluss § 91 ZPO bei Bagatellsachen. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `forderung-mietruckstand-zahlungsklage`
 
-**Frühere Beschreibung:** Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage.
+**Fokus:** Mietrueckstand: Zahlungsklage parallel zu Raumungsklage § 543 BGB. Pflicht Mahnung? In der Regel nicht erforderlich (kalendermaessig bestimmt). Schonfristregelung § 569 Abs. 3 BGB. Output: Klageschrift Zahlungsklage + Raumungsklage.
 
 # Mietrueckstands-Klage
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `forderung-verbraucher-erleichterungen`
 
-**Frühere Beschreibung:** Forderung gegen Verbraucher: Verbraucherschutzregeln, AGB-Kontrolle §§ 305 ff. BGB, Belehrungspflichten Verzugskosten § 288 Abs. 4 BGB, Kostenausschluss § 91 ZPO bei Bagatellsachen. Pruefraster.
+**Fokus:** Forderung gegen Verbraucher: Verbraucherschutzregeln, AGB-Kontrolle §§ 305 ff. BGB, Belehrungspflichten Verzugskosten § 288 Abs. 4 BGB, Kostenausschluss § 91 ZPO bei Bagatellsachen. Pruefraster.
 
 # Forderung gegen Verbraucher
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `forderung-zwangsvollstreckung-ueberblick`
 
-**Frühere Beschreibung:** Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung § 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung.
+**Fokus:** Zwangsvollstreckung Ueberblick: Mobiliarvollstreckung Gerichtsvollzieher §§ 808 ff. ZPO, Forderungspfaendung § 829 ZPO, Lohnpfaendung mit Pfaendungstabelle, Immobiliarvollstreckung Zwangshypothek/Versteigerung. Output: Strategiememo Vollstreckung.
 
 # Zwangsvollstreckung Ueberblick
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-betreuung-im-strafve-bis-spezial-livecheck-fr
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (betreuung-im-strafverfahren, kalender-reminder-und-fristenmanagement, spezial-livecheck-fristennotiz-und-naechster-schritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - betreuungsrecht
+# Arbeitsbereich - Betreuung Im Strafverfahren, Kalender Reminder Und Fristenmanagement, Livecheck Fristennotiz Und Naechster Schritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betreuung-im-strafverfahren` | Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht. |
 | `kalender-reminder-und-fristenmanagement` | Kalender- und Reminder-Skill für Betreuungen: legt Berichtstermine, Vermögensverzeichnis, Rechnungslegung, Gerichtstermine, Bescheidfristen, Arzt-/Pflege-/Heimtermine, Genehmigungsentscheidungen und wiederkehrende Zahlungen als klare Erinnerungsliste an. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betreuung-im-strafverfahren`
 
-**Frühere Beschreibung:** Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht.
+**Fokus:** Betreuung im Strafverfahren des Betroffenen: Schuldfaehigkeit nach §§ 20 und 21 StGB, Verteidigerbestellung, Vertretung Betreuer im Hauptverfahren. Schnittstelle Strafrecht und Betreuungsrecht.
 
 # Betreuung im Strafverfahren
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 2. `kalender-reminder-und-fristenmanagement`
 
-**Frühere Beschreibung:** Kalender- und Reminder-Skill für Betreuungen: legt Berichtstermine, Vermögensverzeichnis, Rechnungslegung, Gerichtstermine, Bescheidfristen, Arzt-/Pflege-/Heimtermine, Genehmigungsentscheidungen und wiederkehrende Zahlungen als klare Erinnerungsliste an.
+**Fokus:** Kalender- und Reminder-Skill für Betreuungen: legt Berichtstermine, Vermögensverzeichnis, Rechnungslegung, Gerichtstermine, Bescheidfristen, Arzt-/Pflege-/Heimtermine, Genehmigungsentscheidungen und wiederkehrende Zahlungen als klare Erinnerungsliste an.
 
 # Kalender, Reminder und Fristenmanagement
 
@@ -142,7 +142,7 @@ Wenn ein echter Kalenderzugriff vorhanden ist, nur nach ausdrücklichem Auftrag 
 
 ## 3. `spezial-livecheck-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Livecheck: Fristennotiz und nächster Schritt im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Fristennotiz und nächster Schritt im Plugin betreuungsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Livecheck: Fristennotiz und nächster Schritt
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-vorsorgevollmacht-pr-bis-zwangsbehandlung-183
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (vorsorgevollmacht-pruefen, wunschermittlung-unterstuetzte-entscheidung, zwangsbehandlung-1832-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vorsorgevollmacht Pruefen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - betreuungsrecht
+# Arbeitsbereich - Vorsorgevollmacht Pruefen, Wunschermittlung Unterstuetzte Entscheidung, Zwangsbehandlung 1832 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vorsorgevollmacht-pruefen` | Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf. |
 | `wunschermittlung-unterstuetzte-entscheidung` | Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vorsorgevollmacht-pruefen`
 
-**Frühere Beschreibung:** Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf.
+**Fokus:** Vorsorgevollmacht pruefen: § 1820 BGB, Reichweite, Form (Schriftform fuer Bank/Personalsorge), Beglaubigung, Hinterlegung im Zentralen Vorsorgeregister. Vorrang vor Betreuung. Pruefraster fuer den Vergleich Vollmacht/Betreuungsbedarf.
 
 # Vorsorgevollmacht pruefen
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 2. `wunschermittlung-unterstuetzte-entscheidung`
 
-**Frühere Beschreibung:** Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen.
+**Fokus:** Wunschermittlung und unterstützte Entscheidung nach § 1821 BGB: hilft Betreuern, Wünsche, frühere Präferenzen, mutmaßlichen Willen, Kommunikationshilfen und Schutzgrenzen sauber zu dokumentieren, ohne die betreute Person zu entmündigen.
 
 # Wunschermittlung und unterstützte Entscheidung
 
@@ -137,7 +137,7 @@ Warum entspricht die Entscheidung dem Wunsch oder warum ausnahmsweise nicht?
 
 ## 3. `zwangsbehandlung-1832-bgb`
 
-**Frühere Beschreibung:** Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht.
+**Fokus:** Zwangsbehandlung § 1832 BGB: Voraussetzungen, Genehmigung Betreuungsgericht, Verfahren § 312 FamFG. BVerfG-Linien zu Patientenautonomie (BVerfG 2 BvR 882/09). Output: Antragsentwurf an Gericht.
 
 # Zwangsbehandlung § 1832 BGB
 

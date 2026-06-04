@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-ins-038-delisting-bis-ins-039-bernahmeange
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (ins-038-delisting, ins-039-bernahmeangebot) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 038 Delisting, Ins 039 Bernahmeangebot; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - insiderrecht-compliance
+# Arbeitsbereich - Ins 038 Delisting, Ins 039 Bernahmeangebot
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-038-delisting` | Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss. |
 | `ins-039-bernahmeangebot` | Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-038-delisting`
 
-**Frühere Beschreibung:** Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss.
+**Fokus:** Prueft insiderrechtliche Pflichten beim Delisting: Ad-hoc beim Beschluss, Squeeze-out-Kopplung, letzter Handelstag und Insiderlisten-Abschluss.
 
 # Delisting – Insiderrecht und Ad-hoc-Pflicht
 
@@ -116,7 +116,7 @@ Weitere Quellen:
 
 ## 2. `ins-039-bernahmeangebot`
 
-**Frühere Beschreibung:** Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten.
+**Fokus:** Koordiniert MAR und WpUeG-Pflichten bei Uebernahmeangeboten: Insiderinformation des Bieters, Ad-hoc, Angebotsunterlage, Insiderlisten beider Seiten.
 
 # Übernahmeangebot – MAR und WpÜG
 

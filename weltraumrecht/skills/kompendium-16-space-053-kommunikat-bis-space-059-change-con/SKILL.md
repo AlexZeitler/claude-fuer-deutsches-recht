@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-space-053-kommunikat-bis-space-059-change-con
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk, space-055-internationale-kooperation-memorandum-of-understanding, space-058-force-majeure-im-raumfahrtprojekt, space-059-change-control-engineering-und-rechtsfolgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk, Space 055 Internationale Kooperation Memorandum Of Understanding, Space 058 Force Majeure Im Raumfahrtprojekt, Space 059 Change Control Engineering Und Rechtsfolgen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - weltraumrecht
+# Arbeitsbereich - Space 053 Kommunikation Mit Landesluftfahrtbehoerde Bnetza Bmwk bis Space 059 Change Control Engineering Und Rechtsfolgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk` | Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination. |
 | `space-055-internationale-kooperation-memorandum-of-understanding` | MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-053-kommunikation-mit-landesluftfahrtbehoerde-bnetza-bmwk`
 
-**Frühere Beschreibung:** Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination.
+**Fokus:** Behördenkommunikation für Raumfahrtprojekte – Antragsverfahren, Zuständigkeiten, Koordination.
 
 # Weltraumrecht: Kommunikation mit Landesluftfahrtbehörde, BNetzA, BMWK, DLR
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Behördenkommunikation Raumfahrt,
 
 ## 2. `space-055-internationale-kooperation-memorandum-of-understanding`
 
-**Frühere Beschreibung:** MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt.
+**Fokus:** MOUs in der Raumfahrt – Rechtsnatur, Verbindlichkeit, Umsetzung, Parlamentsvorbehalt.
 
 # Weltraumrecht: Internationale Kooperation: Memorandum of Understanding
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: MOU Raumfahrt, Rechtsnatur, Parla
 
 ## 3. `space-058-force-majeure-im-raumfahrtprojekt`
 
-**Frühere Beschreibung:** Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz.
+**Fokus:** Force Majeure in Raumfahrtverträgen – Definition, Nachweispflicht, Folgen, COVID-19-Präzedenz.
 
 # Weltraumrecht: Force Majeure im Raumfahrtprojekt
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Force Majeure Raumfahrt, Unmögli
 
 ## 4. `space-059-change-control-engineering-und-rechtsfolgen`
 
-**Frühere Beschreibung:** Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung.
+**Fokus:** Change Control Board – technische Änderungen und Vertragsrechtsfolgen, Nachtrag, Haftung.
 
 # Weltraumrecht: Change Control: Engineering und Rechtsfolgen
 

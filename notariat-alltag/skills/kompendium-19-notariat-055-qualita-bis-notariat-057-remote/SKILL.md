@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-notariat-055-qualita-bis-notariat-057-remote
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (notariat-055-qualitaetsgate-vor-signatur-und-einreichung, notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u, notariat-057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remote Vorbereitung Ohne Unzulaessige Fernbeurkundu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - notariat-alltag
+# Arbeitsbereich - Notariat 055 Qualitaetsgate Vor Signatur Und Einreichung, Notariat 056 Notarielle Bescheinigung Vertretungsbescheinigung U, Notariat 057 Remo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-055-qualitaetsgate-vor-signatur-und-einreichung` | Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt. |
 | `notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u` | Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-055-qualitaetsgate-vor-signatur-und-einreichung`
 
-**Frühere Beschreibung:** Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt.
+**Fokus:** Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung. Systematische letzte Prüfung aller Dokumente vor der elektronischen Signatur und Einreichung beim Registergericht oder Grundbuchamt.
 
 # Notariat im Alltag: Qualitätsgate vor Signatur und Einreichung
 
@@ -145,7 +145,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-056-notarielle-bescheinigung-vertretungsbescheinigung-u`
 
-**Frühere Beschreibung:** Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen.
+**Fokus:** Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung und Registerstand. Bescheinigungen nach § 21 BNotO, Vertretungsberechtigungsbescheinigung und aktuelle Registerstandsbescheinigungen.
 
 # Notariat im Alltag: Notarielle Bescheinigung – Vertretungsbescheinigung, Registerstand
 
@@ -231,7 +231,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-057-remote-vorbereitung-ohne-unzulaessige-fernbeurkundu`
 
-**Frühere Beschreibung:** Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung.
+**Fokus:** Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung. Was remote vorbereitet werden darf, Grenzen der Fernkommunikation, zulässige digitale Zusammenarbeit und Terminvorbereitung.
 
 # Notariat im Alltag: Remote-Vorbereitung ohne unzulässige Fernbeurkundung
 

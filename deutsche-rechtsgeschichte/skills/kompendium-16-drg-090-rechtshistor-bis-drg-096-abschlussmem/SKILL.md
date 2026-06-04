@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-drg-090-rechtshistor-bis-drg-096-abschlussmem
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 16; bündelt 6 frühere Spezialskills (drg-090-rechtshistorische-literatur-nur-mit-quelle, drg-091-archivfund-in-heutige-argumentation, drg-092-fallvergleich-epochenuebergreifend, drg-093-gute-rechtsgeschichte-fuer-laien, drg-094-seminar-und-vortrag-rechtsgeschichte und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 090 Rechtshistorische Literatur Nur Mit Quelle, Drg 091 Archivfund In Heutige Argumentation, Drg 092 Fallvergleich Epochenuebergreifend, Drg 093 Gute Rechtsgeschichte Fuer Laien und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 090 Rechtshistorische Literatur Nur Mit Quelle bis Drg 096 Abschlussmemo Historische Tragfaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-090-rechtshistorische-literatur-nur-mit-quelle` | Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe. |
 | `drg-091-archivfund-in-heutige-argumentation` | Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-090-rechtshistorische-literatur-nur-mit-quelle`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe.
+**Fokus:** Deutsche Rechtsgeschichte: Umgang mit rechtshistorischer Sekundaerliteratur. Zitiertechnik fuer Savigny, Jhering, Windscheid, Wieacker, Coing und moderne rechtshistorische Standardwerke mit Quellenangabe.
 
 # Rechtshistorische Literatur nur mit Quelle
 
@@ -83,7 +83,7 @@ Keine Sekundaerliteratur ohne Werk, Auflage und Seite. Standardwerke: Wieacker (
 
 ## 2. `drg-091-archivfund-in-heutige-argumentation`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus.
+**Fokus:** Deutsche Rechtsgeschichte: Archivfund in heutige juristische Argumentation einbauen. Methodische Bruecke zwischen historischem Beleg und aktuellem Rechtsproblem ohne Anachronismus.
 
 # Archivfund in heutige Argumentation
 
@@ -133,7 +133,7 @@ Bundesarchiv: invenio.bundesarchiv.de. Archivportal-D: archivportal-d.de. MGH: m
 
 ## 3. `drg-092-fallvergleich-epochenuebergreifend`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen.
+**Fokus:** Deutsche Rechtsgeschichte: Epochenuebergreifender Fallvergleich. Verfahren und Ergebnis desselben Sachproblems in verschiedenen Epochen (z. B. Eigentumsschutz von Sachsenspiegel bis GG) strukturiert vergleichen.
 
 # Fallvergleich epochenuebergreifend
 
@@ -184,7 +184,7 @@ Sachsenspiegel: MGH oder historische Faksimile-Edition. ALR und DDR-ZGB: ALEX/Ö
 
 ## 4. `drg-093-gute-rechtsgeschichte-fuer-laien`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht fuer Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht fuer Unterricht und Oeffentlichkeit.
+**Fokus:** Deutsche Rechtsgeschichte: Verstaendlich erklaertes historisches Recht fuer Nicht-Juristen. Didaktische Aufbereitung von Sachsenspiegel, BGB-Entstehung, Weimarer Republik oder NS-Unrecht fuer Unterricht und Oeffentlichkeit.
 
 # Gute Rechtsgeschichte fuer Laien
 
@@ -234,7 +234,7 @@ Quellen in Fliesstext nennen, aber Laien-tauglich (Nicht: RGBl. 1919, 1383, Sond
 
 ## 5. `drg-094-seminar-und-vortrag-rechtsgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen.
+**Fokus:** Deutsche Rechtsgeschichte: Seminarvorbereitung und Vortrag. Strukturierung eines rechtshistorischen Referats oder Seminarvortrags zu Sachsenspiegel, BGB-Entstehung, Weimar oder NS-Recht mit quellengestuetzten Thesen.
 
 # Seminar und Vortrag Rechtsgeschichte
 
@@ -285,7 +285,7 @@ Sachsenspiegel: MGH-Edition. Mugdan: historische Erstausgabe. WRV: documentArchi
 
 ## 6. `drg-096-abschlussmemo-historische-tragfaehigkeit`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt.
+**Fokus:** Deutsche Rechtsgeschichte: Abschlussmemo zur historischen Tragfaehigkeit einer juristischen Argumentation. Prueft, ob historische Quellen eine heutige Rechtsposition tragen oder ob Anachronismus oder Lueckenbeweis vorliegt.
 
 # Abschlussmemo historische Tragfaehigkeit
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-solo-ki-upload-schut-bis-solo-kunde-reklamier
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 8 frühere Spezialskills (solo-ki-upload-schutz, solo-kleinunternehmer-paragraph-19-ustg, solo-kostenstop-und-sparplan, solo-krankenversicherung-selbstaendig, solo-krankheit-und-ausfall und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Ki Upload Schutz, Solo Kleinunternehmer Paragraph 19 Ustg, Solo Kostenstop Und Sparplan, Solo Krankenversicherung Selbstaendig und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Ki Upload Schutz bis Solo Kunde Reklamiert
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-ki-upload-schutz` | Solo-Selbstständige: entscheidet, was nicht in KI-Systeme gehört; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-kleinunternehmer-paragraph-19-ustg` | Solo-Selbstständige: prüft die aktuelle Kleinunternehmerregelung mit Umsatzgrenzen und Opt-out; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-ki-upload-schutz`
 
-**Frühere Beschreibung:** Solo-Selbstständige: entscheidet, was nicht in KI-Systeme gehört; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: entscheidet, was nicht in KI-Systeme gehört; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Entscheidet
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 2. `solo-kleinunternehmer-paragraph-19-ustg`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft die aktuelle Kleinunternehmerregelung mit Umsatzgrenzen und Opt-out; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft die aktuelle Kleinunternehmerregelung mit Umsatzgrenzen und Opt-out; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Prüft die aktuelle kleinunternehmerregelung mit umsatzgrenzen und opt-out
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 3. `solo-kostenstop-und-sparplan`
 
-**Frühere Beschreibung:** Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: findet Kostenblöcke ohne Geschäftsmodell zu zerstören; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Pricing Liquidität und Wachstum: Findet kostenblöcke ohne geschäftsmodell zu zerstören
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Pricing Liquidität u
 
 ## 4. `solo-krankenversicherung-selbstaendig`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft gesetzlich/privat, Mindestbeitrag, Krankengeld und Nebenjob; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft gesetzlich/privat, Mindestbeitrag, Krankengeld und Nebenjob; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft gesetzlich/privat
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 5. `solo-krankheit-und-ausfall`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Kundenkommunikation, Fristen, Vertretung und Einnahmeausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Kundenkommunikation, Fristen, Vertretung und Einnahmeausfall; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Plant kundenkommunikation
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 6. `solo-ksk-kuenstler-publizisten`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Mindestarbeitseinkommen und Berufsanfänger; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft KSK-Voraussetzungen, Nachweise, Mindestarbeitseinkommen und Berufsanfänger; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft ksk-voraussetzungen
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 7. `solo-kuendigung-und-projektabbruch`
 
-**Frühere Beschreibung:** Solo-Selbstständige: plant Kündigung, Teilvergütung, Herausgabe, Daten und offene Rechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: plant Kündigung, Teilvergütung, Herausgabe, Daten und offene Rechnung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Plant kündigung
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 8. `solo-kunde-reklamiert`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Mangelrüge, Abnahme, Kulanz und Beweislast; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Mangelrüge, Abnahme, Kulanz und Beweislast; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Ordnet mangelrüge
 

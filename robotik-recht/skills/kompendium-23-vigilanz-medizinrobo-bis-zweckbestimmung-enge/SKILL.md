@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-vigilanz-medizinrobo-bis-zweckbestimmung-enge
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (vigilanz-medizinrobotik, vulnerability-disclosure-und-reporting, wesentliche-veraenderung-digital, zweckbestimmung-enge-nutzungsbedingungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vigilanz Medizinrobotik, Vulnerability Disclosure Und Reporting, Wesentliche Veraenderung Digital, Zweckbestimmung Enge Nutzungsbedingungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - robotik-recht
+# Arbeitsbereich - Vigilanz Medizinrobotik bis Zweckbestimmung Enge Nutzungsbedingungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vigilanz-medizinrobotik` | Prüft Vigilanz und Post-Market Surveillance für Medizinrobotik nach MDR und nationalem Medizinprodukterecht. |
 | `vulnerability-disclosure-und-reporting` | Prüft Schwachstellenmanagement, Coordinated Vulnerability Disclosure, Meldepflichten, Patch-Triage und Kundeninformation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vigilanz-medizinrobotik`
 
-**Frühere Beschreibung:** Prüft Vigilanz und Post-Market Surveillance für Medizinrobotik nach MDR und nationalem Medizinprodukterecht.
+**Fokus:** Prüft Vigilanz und Post-Market Surveillance für Medizinrobotik nach MDR und nationalem Medizinprodukterecht.
 
 # Vigilanz Medizinrobotik
 
@@ -80,7 +80,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `vulnerability-disclosure-und-reporting`
 
-**Frühere Beschreibung:** Prüft Schwachstellenmanagement, Coordinated Vulnerability Disclosure, Meldepflichten, Patch-Triage und Kundeninformation.
+**Fokus:** Prüft Schwachstellenmanagement, Coordinated Vulnerability Disclosure, Meldepflichten, Patch-Triage und Kundeninformation.
 
 # Vulnerability Disclosure und Reporting
 
@@ -131,7 +131,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `wesentliche-veraenderung-digital`
 
-**Frühere Beschreibung:** Prüft wesentliche physische oder digitale Veränderung durch Umbau, Retrofit, Update, Fine-Tuning oder neue Sensorik.
+**Fokus:** Prüft wesentliche physische oder digitale Veränderung durch Umbau, Retrofit, Update, Fine-Tuning oder neue Sensorik.
 
 # Wesentliche Veränderung digital
 
@@ -182,7 +182,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `zweckbestimmung-enge-nutzungsbedingungen`
 
-**Frühere Beschreibung:** Bewertet enge Zweckbestimmungen, Nutzungsbedingungen, vorhersehbare Fehlanwendung und regulatorische Verlagerung auf Betreiber.
+**Fokus:** Bewertet enge Zweckbestimmungen, Nutzungsbedingungen, vorhersehbare Fehlanwendung und regulatorische Verlagerung auf Betreiber.
 
 # Zweckbestimmung und Nutzungsbedingungen
 

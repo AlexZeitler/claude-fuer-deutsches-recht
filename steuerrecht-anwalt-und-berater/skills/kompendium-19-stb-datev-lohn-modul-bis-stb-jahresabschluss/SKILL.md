@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-stb-datev-lohn-modul-bis-stb-jahresabschluss
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 19; bündelt 9 frühere Spezialskills (stb-datev-lohn-modul-lodas-luh, stb-eau-elektronische-arbeitsunfaehigkeit-2023, stb-erechnung-pflicht-b2b-2025-2026, stb-jahresabschluss-anlagenverzeichnis-afa, stb-jahresabschluss-bestandskonten-abstimmung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Datev Lohn Modul Lodas Luh, Stb Eau Elektronische Arbeitsunfaehigkeit 2023, Stb Erechnung Pflicht B2b 2025 2026, Stb Jahresabschluss Anlagenverzeichnis Afa und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Datev Lohn Modul Lodas Luh bis Stb Jahresabschluss Warenbestand Inventur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-datev-lohn-modul-lodas-luh` | DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert. |
 | `stb-eau-elektronische-arbeitsunfaehigkeit-2023` | eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-datev-lohn-modul-lodas-luh`
 
-**Frühere Beschreibung:** DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert.
+**Fokus:** DATEV LODAS und Lohn und Gehalt LUG. Anwendungsfall Lohnabrechnung in DATEV-Welt Konfiguration ELSTER ELStAM sv.net Schnittstellen. Methodik Unterschiede LODAS vs Lohn und Gehalt Praxis-Tipps. Output Lohnprogramm konfiguriert.
 
 # DATEV LODAS und Lohn und Gehalt
 
@@ -150,7 +150,7 @@ Stand: 05/2026.
 
 ## 2. `stb-eau-elektronische-arbeitsunfaehigkeit-2023`
 
-**Frühere Beschreibung:** eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration.
+**Fokus:** eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration.
 
 # eAU — Elektronische Arbeitsunfaehigkeitsbescheinigung
 
@@ -280,7 +280,7 @@ Stand: 05/2026.
 
 ## 3. `stb-erechnung-pflicht-b2b-2025-2026`
 
-**Frühere Beschreibung:** eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Prüfung Mandantenbetrieb eRechnungs-Empfang Versand Übergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration.
+**Fokus:** eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Prüfung Mandantenbetrieb eRechnungs-Empfang Versand Übergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration.
 
 # eRechnung-Pflicht B2B seit 01.01.2025
 
@@ -450,7 +450,7 @@ Stand: 05/2026.
 
 ## 4. `stb-jahresabschluss-anlagenverzeichnis-afa`
 
-**Frühere Beschreibung:** Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollständige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel.
+**Fokus:** Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollständige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel.
 
 # Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung
 
@@ -595,7 +595,7 @@ Stand: 05/2026.
 
 ## 5. `stb-jahresabschluss-bestandskonten-abstimmung`
 
-**Frühere Beschreibung:** Bestandskonten-Abstimmung zum Jahresabschluss. Anwendungsfall Endbestaende Bank Kasse Forderungen Verbindlichkeiten Anlagen Eigenkapital abstimmen Inventur-Werte einarbeiten. Methodik Saldenabstimmung Vergleich. Output abgestimmte Bestandskonten.
+**Fokus:** Bestandskonten-Abstimmung zum Jahresabschluss. Anwendungsfall Endbestaende Bank Kasse Forderungen Verbindlichkeiten Anlagen Eigenkapital abstimmen Inventur-Werte einarbeiten. Methodik Saldenabstimmung Vergleich. Output abgestimmte Bestandskonten.
 
 # Bestandskonten-Abstimmung zum Jahresabschluss
 
@@ -731,7 +731,7 @@ Stand: 05/2026.
 
 ## 6. `stb-jahresabschluss-kassenfuehrung-gobd-pflichten`
 
-**Frühere Beschreibung:** Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschäft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Prüfung Sorgfalt. Output GoBD-konforme Kassenführung.
+**Fokus:** Kassenführung GoBD-Pflichten. Anwendungsfall Mandanten mit Bargeschäft Kasse Aufzeichnungspflichten Kassenbuch elektronische Aufzeichnungssysteme TSE technische Sicherheitseinrichtung. Methodik Prüfung Sorgfalt. Output GoBD-konforme Kassenführung.
 
 # Kassenfuehrung — GoBD-Pflichten
 
@@ -864,7 +864,7 @@ Stand: 05/2026.
 
 ## 7. `stb-jahresabschluss-veroeffentlichung-bundesanzeiger`
 
-**Frühere Beschreibung:** Jahresabschluss-Veröffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveröffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Übermittlung. Output Bundesanzeiger-Eintrag.
+**Fokus:** Jahresabschluss-Veröffentlichung Bundesanzeiger § 325 HGB. Anwendungsfall Pflichtveröffentlichung Kapitalgesellschaft Frist 12 Monate Groessenklassen Erleichterungen. Methodik elektronische Übermittlung. Output Bundesanzeiger-Eintrag.
 
 # Jahresabschluss-Offenlegung im Unternehmensregister
 
@@ -998,7 +998,7 @@ Stand: 05/2026.
 
 ## 8. `stb-jahresabschluss-vorbereitung-stichtag`
 
-**Frühere Beschreibung:** Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematische JA-Vorbereitung Inventur Periodenabgrenzung Rückstellungen Anlagenspiegel. Methodik 8-Wochen-Vorlauf. Output JA-Vorbereitungs-Routine.
+**Fokus:** Jahresabschluss-Vorbereitung Stichtag. Anwendungsfall systematische JA-Vorbereitung Inventur Periodenabgrenzung Rückstellungen Anlagenspiegel. Methodik 8-Wochen-Vorlauf. Output JA-Vorbereitungs-Routine.
 
 # Jahresabschluss-Vorbereitung zum Stichtag
 
@@ -1127,7 +1127,7 @@ Stand: 05/2026.
 
 ## 9. `stb-jahresabschluss-warenbestand-inventur`
 
-**Frühere Beschreibung:** Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jaehrliche Inventur Aufnahme Warenbestand permanente Inventur Stichprobeninventur Bewertung. Methodik § 240 HGB GoBD. Output Inventur-Protokoll Warenbestand-Wert.
+**Fokus:** Warenbestand und Inventur für Jahresabschluss. Anwendungsfall jaehrliche Inventur Aufnahme Warenbestand permanente Inventur Stichprobeninventur Bewertung. Methodik § 240 HGB GoBD. Output Inventur-Protokoll Warenbestand-Wert.
 
 # Warenbestand und Inventur
 

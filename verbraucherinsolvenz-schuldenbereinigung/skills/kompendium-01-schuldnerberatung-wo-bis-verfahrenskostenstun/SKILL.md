@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-schuldnerberatung-wo-bis-verfahrenskostenstun
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (schuldnerberatung-workflow, neue-schulden-waehrend-verfahren, verfahrenskostenstundung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schuldnerberatung Workflow, Neue Schulden Waehrend Verfahren, Verfahrenskostenstundung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Schuldnerberatung Workflow, Neue Schulden Waehrend Verfahren, Verfahrenskostenstundung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schuldnerberatung-workflow` | Workflow mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.; Normanker: InsO § 305; Landesanerkennung Beratungsstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `neue-schulden-waehrend-verfahren` | Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.; Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schuldnerberatung-workflow`
 
-**Frühere Beschreibung:** Workflow mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.; Normanker: InsO § 305; Landesanerkennung Beratungsstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Workflow mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.; Normanker: InsO § 305; Landesanerkennung Beratungsstellen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Workflow mit Schuldnerberatung: Beratungsstellen, Unterlagenpaket, Planlogik, Bescheinigung und Selbstvertretung.
 
@@ -69,7 +69,7 @@ InsO § 305; Landesanerkennung Beratungsstellen. Entscheidend ist immer der aktu
 
 ## 2. `neue-schulden-waehrend-verfahren`
 
-**Frühere Beschreibung:** Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.; Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.; Normanker: InsO §§ 290 und 295 und 296; Vertragsrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Neue Schulden während des Verfahrens: Miete, Energie, Bußgeld, Steuern, Unterhalt und RSB-Gefahr.
 
@@ -110,7 +110,7 @@ InsO §§ 290, 295, 296; Vertragsrecht. Entscheidend ist immer der aktuelle Norm
 
 ## 3. `verfahrenskostenstundung`
 
-**Frühere Beschreibung:** Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.; Normanker: InsO §§ 4a-4d; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.; Normanker: InsO §§ 4a-4d; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Verfahrenskostenstundung: Bedürftigkeit, Raten, Aufhebung, falsche Angaben und realistische Kostenplanung.
 

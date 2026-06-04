@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-betreuung-grenzueber-bis-betreuungsgericht-ko
-description: "betreuungsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (betreuung-grenzueberschreitend, betreuungsantrag-erstellen, betreuungsgericht-kommunikation-fuer-angehoerige) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betreuungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Fuer Angehoerige; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - betreuungsrecht
+# Arbeitsbereich - Betreuung Grenzueberschreitend, Betreuungsantrag Erstellen, Betreuungsgericht Kommunikation Fuer Angehoerige
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betreuung-grenzueberschreitend` | Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster fuer im Ausland lebende Betroffene. |
 | `betreuungsantrag-erstellen` | Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betreuung-grenzueberschreitend`
 
-**Frühere Beschreibung:** Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster fuer im Ausland lebende Betroffene.
+**Fokus:** Grenzueberschreitende Betreuung: Haager Erwachsenenschutzuebereinkommen 2000, Anerkennung in Deutschland und im EU-Ausland, anwendbares Recht. Output: Pruefraster fuer im Ausland lebende Betroffene.
 
 # Grenzueberschreitende Betreuung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 2. `betreuungsantrag-erstellen`
 
-**Frühere Beschreibung:** Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht.
+**Fokus:** Betreuungsantrag § 1814 BGB: Antragsteller, Betroffener, Aufgabenkreise, vorhandene Vorsorgevollmacht, gewuenschte Person als Betreuer, Begruendung Erforderlichkeit. Output: Antragsschriftsatz an Betreuungsgericht.
 
 # Betreuungsantrag erstellen
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `betreuungsrecht`. Er ergaenzt die uebrigen Skil
 
 ## 3. `betreuungsgericht-kommunikation-fuer-angehoerige`
 
-**Frühere Beschreibung:** Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung.
+**Fokus:** Kommunikation mit dem Betreuungsgericht für Angehörige und ehrenamtliche Betreuer: formuliert kurze, sachliche Briefe, Genehmigungsanfragen, Sachstandsmitteilungen, Rückfragen, Fristverlängerungen und Unterlagenpakete ohne Behördenangst und ohne unnötige Selbstbelastung.
 
 # Betreuungsgericht-Kommunikation für Angehörige
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-ein-046-mauergrundst-bis-ein-049-mauergrundst
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (ein-046-mauergrundstueck-grundbuch-auswerten, ein-047-mauergrundstueck-behoerdenbrief-schrei, ein-048-mauergrundstueck-widerspruch-pruefen, ein-049-mauergrundstueck-klage-skizzieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 046 Mauergrundstueck Grundbuch Auswerten, Ein 047 Mauergrundstueck Behoerdenbrief Schrei, Ein 048 Mauergrundstueck Widerspruch Pruefen, Ein 049 Mauergrundstueck Klage Skizzieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 046 Mauergrundstueck Grundbuch Auswerten bis Ein 049 Mauergrundstueck Klage Skizzieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-046-mauergrundstueck-grundbuch-auswerten` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Grundbuch auswerten. Grundbuch auswerten für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ein-047-mauergrundstueck-behoerdenbrief-schrei` | Einigungsvertrag und Vermögensrecht: Mauergrundstück: Behördenbrief schreiben. Behördenbrief schreiben für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-046-mauergrundstueck-grundbuch-auswerten`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Grundbuch auswerten. Grundbuch auswerten für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Grundbuch auswerten. Grundbuch auswerten für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Grundbuch Auswerten
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-047-mauergrundstueck-behoerdenbrief-schrei`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Behördenbrief schreiben. Behördenbrief schreiben für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Behördenbrief schreiben. Behördenbrief schreiben für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Behoerdenbrief Schrei
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-048-mauergrundstueck-widerspruch-pruefen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Widerspruch prüfen. Widerspruch prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Widerspruch prüfen. Widerspruch prüfen für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Widerspruch Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-049-mauergrundstueck-klage-skizzieren`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Klage skizzieren. Klage skizzieren für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Mauergrundstück: Klage skizzieren. Klage skizzieren für Mauergrundstück im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mauergrundstueck Klage Skizzieren
 

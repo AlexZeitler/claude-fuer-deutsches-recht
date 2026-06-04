@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-praezedenz-distingui-bis-richterrecht-offenle
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (praezedenz-distinguishing-overruling-deutsch, rechtspluralismus-und-mehrebenen-system, rechtsvergleichung-methodisch-sauber, richterliche-zurueckhaltung-und-rechtsfortbildung, richterrecht-offenlegen-statt-tarnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Praezedenz Distinguishing Overruling Deutsch, Rechtspluralismus Und Mehrebenen System, Rechtsvergleichung Methodisch Sauber, Richterliche Zurueckhaltung Und Rechtsfortbildung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Praezedenz Distinguishing Overruling Deutsch bis Richterrecht Offenlegen Statt Tarnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `praezedenz-distinguishing-overruling-deutsch` | Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen. |
 | `rechtspluralismus-und-mehrebenen-system` | Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `praezedenz-distinguishing-overruling-deutsch`
 
-**Frühere Beschreibung:** Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen.
+**Fokus:** Systematisiert den methodischen Umgang mit Präzedenzfällen im deutschen Zivilrecht. Das Skill zeigt, welche faktische und normative Bindungswirkung Präjudizien haben, nach welchen Regeln distinguishing und overruling vorgenommen werden dürfen und wie dies vom case-law-System zu unterscheiden ist. Geeignet für Revisionsbegründungen, Methodenstellungnahmen und die strategische Nutzung von Präzedenzfällen.
 
 # Präzedenz, Distinguishing und Overruling im deutschen Recht
 
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `rechtspluralismus-und-mehrebenen-system`
 
-**Frühere Beschreibung:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts.
+**Fokus:** Rechtspluralismus und Mehrebenen-System. Recht entsteht nicht nur durch den staatlichen Gesetzgeber. Sally Falk Moore, semi-autonomous social fields 1973. Mehrebenenordnung Deutschland: EU, Bund, Land, Kommunal, Selbstverwaltung. Transnationale Normen, lex mercatoria, Sport-Schiedsgerichte. Konsequenzen fuer die BGB-Praxis: Vorrang Unionsrecht, autonome Auslegung, parallele Rechtsordnungen. Pruefraster fuer die Identifikation des massgeblichen Rechts.
 
 # Rechtspluralismus und Mehrebenen-System
 
@@ -235,7 +235,7 @@ Stand: Mai 2026.
 
 ## 3. `rechtsvergleichung-methodisch-sauber`
 
-**Frühere Beschreibung:** Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen.
+**Fokus:** Leitet durch die methodisch saubere Anwendung von Rechtsvergleichung als Auslegungshilfe im deutschen Zivilrecht. Das Skill zeigt, wann und wie ausländisches Recht zur Auslegung und Fortbildung inländischen Rechts herangezogen werden darf, welche methodischen Anforderungen dabei gelten und wie die Grenzen zwischen zulässiger Rechtsvergleichung und unzulässiger Transplantationsrechtsfortbildung verlaufen.
 
 # Rechtsvergleichung: Methodisch sauberer Einsatz im Zivilrecht
 
@@ -324,7 +324,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `richterliche-zurueckhaltung-und-rechtsfortbildung`
 
-**Frühere Beschreibung:** Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist.
+**Fokus:** Analysiert das Prinzip richterlicher Zurückhaltung als methodisches Gebot im Zivilrecht und klärt, wann Gerichte trotz offener Normfragen die Entscheidung dem Gesetzgeber überlassen sollten. Das Skill systematisiert die Abwägung zwischen aktivem Judizieren und institutioneller Selbstbeschränkung und zeigt auf, wann Rechtsfortbildung nicht nur erlaubt, sondern geboten ist und wann sie unzulässig ist.
 
 # Richterliche Zurückhaltung und Rechtsfortbildung: Methodische Grenzziehung
 
@@ -413,7 +413,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `richterrecht-offenlegen-statt-tarnen`
 
-**Frühere Beschreibung:** Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung.
+**Fokus:** Dieses Skill trainiert die Fähigkeit, richterrechtliche Rechtsfortbildung methodisch transparent zu machen statt sie hinter Auslegungsformeln zu verbergen. Es zeigt, wann Gerichte tatsächlich neues Recht setzen, wie dies methodisch legitimiert werden muss und wie Praktiker diese Entscheidungen erkennen, einordnen und für Mandanten nutzbar machen. Besonderes Augenmerk liegt auf der Abgrenzung von Auslegung und Rechtsfortbildung sowie der demokratietheoretischen Legitimation richterlicher Rechtsschöpfung.
 
 # Richterrecht offenlegen statt tarnen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-fachanwalt-sportrech-bis-spezial-schiedsverfa
-description: "fachanwalt-sportrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (fachanwalt-sportrecht-doping-verfahren, spezial-athletenvertrag-fristennotiz-und-naechster-schritt, spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sportrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sportrecht Doping Verfahren, Athletenvertrag Fristennotiz Und Naechster Schritt, Schiedsverfahren Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-sportrecht
+# Arbeitsbereich - Sportrecht Doping Verfahren, Athletenvertrag Fristennotiz Und Naechster Schritt, Schiedsverfahren Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-sportrecht-doping-verfahren` | Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein). |
 | `spezial-athletenvertrag-fristennotiz-und-naechster-schritt` | Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-sportrecht-doping-verfahren`
 
-**Frühere Beschreibung:** Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein).
+**Fokus:** Athlet steht vor NADA-Disziplinarverfahren wegen positivem Dopingtest und braucht Verteidigung. NADA-Code WADA-Code strict liability Art. 2 Abs. 1 WADA-Code Beweislastumkehr no fault Art. 10 Abs. 5. Normen AntiDopG § 4 CAS Art. 13. Prüfraster Probenahme-Protokoll Laboranalyse TUE Verfahrensrechte Sperre-Rahmen. Output Verteidigungsschrift NADA Strafmass-Argumentation. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (CAS-Berufung) und verbandsstrafe-anfechten (Allgemein).
 
 # Doping-Verfahren
 
@@ -314,7 +314,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `spezial-athletenvertrag-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Athletenvertrag: Fristennotiz und nächster Schritt im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Athletenvertrag: Fristennotiz und nächster Schritt
 
@@ -355,7 +355,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-schiedsverfahren-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine im Plugin fachanwalt sportrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Schiedsverfahren: Schriftsatz-, Brief- und Memo-Bausteine
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-penetration-test-ter-bis-preliminary-injuncti
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (penetration-test-terms, per-seat-per-core-usage-metrics, platform-dsa-dma-software, preliminary-injunction-software) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Penetration Test Terms, Per Seat Per Core Usage Metrics, Platform Dsa Dma Software, Preliminary Injunction Software; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - softwarerecht-de-eu-us
+# Arbeitsbereich - Penetration Test Terms bis Preliminary Injunction Software
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `penetration-test-terms` | Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure. |
 | `per-seat-per-core-usage-metrics` | Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `penetration-test-terms`
 
-**Frühere Beschreibung:** Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure.
+**Fokus:** Prüft Verträge für Pentests, Red Teams, Scope, Tools, Datenzugriff, Haftung und Responsible Disclosure.
 
 # Penetration Test Terms
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `per-seat-per-core-usage-metrics`
 
-**Frühere Beschreibung:** Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen.
+**Fokus:** Prüft technische Lizenzzählung bei Seats, Cores, CPUs, Containers, Kubernetes, Cloud und Verbrauchsmodellen.
 
 # Seat/Core/Usage-Metriken
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `platform-dsa-dma-software`
 
-**Frühere Beschreibung:** Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit.
+**Fokus:** Prüft DSA/DMA-Fragen bei Softwaremarktplätzen, App Stores, Developer Platforms, Moderation und Gatekeeper-Abhängigkeit.
 
 # DSA/DMA für Softwareplattformen
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `preliminary-injunction-software`
 
-**Frühere Beschreibung:** Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren.
+**Fokus:** Prüft Eilrechtsschutz bei Software-IP, Geschäftsgeheimnis, Lizenzverletzung, Source-Code-Abfluss und Plattform-Sperren.
 
 # Einstweilige Verfügung Software
 

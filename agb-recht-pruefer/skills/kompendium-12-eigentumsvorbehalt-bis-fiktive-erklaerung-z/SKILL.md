@@ -1,41 +1,36 @@
 ---
 name: kompendium-12-eigentumsvorbehalt-bis-fiktive-erklaerung-z
-description: "agb-recht-pruefer: Konsolidiertes Skill-Kompendium 12; bündelt 10 frühere Spezialskills (eigentumsvorbehalt, einbeziehung-hinweis-kenntnisnahme-305, einbeziehung-online-clickwrap-browsewrap, einkaufsbedingungen-b2b, einstweilige-verfuegung-agb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "agb-recht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eigentumsvorbehalt, Einbeziehung Hinweis Kenntnisnahme 305, Einbeziehung Online Clickwrap Browsewrap, Einkaufsbedingungen B2b und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - agb-recht-pruefer
+# Arbeitsbereich - Eigentumsvorbehalt bis Einstweilige Verfuegung Agb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eigentumsvorbehalt` | Klausel-Spezialskill für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
 | `einbeziehung-hinweis-kenntnisnahme-305` | Norm- und Dogmatik-Skill für Einbeziehung Hinweis Kenntnisnahme 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `einbeziehung-online-clickwrap-browsewrap` | Norm- und Dogmatik-Skill für Einbeziehung Online Clickwrap Browsewrap: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 | `einkaufsbedingungen-b2b` | Branchen-Spezialskill für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
 | `einstweilige-verfuegung-agb` | Output- und Streit-Skill für Einstweilige Verfügung AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen. |
-| `energieversorgung-agb` | Branchen-Spezialskill für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `entgelt-nebenkosten-service-fees` | Klausel-Spezialskill für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `exklusivitaet` | Klausel-Spezialskill für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung. |
-| `factoring-agb` | Branchen-Spezialskill für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen. |
-| `fiktive-erklaerung-zustimmung-308` | Norm- und Dogmatik-Skill für Fiktive Erklärung Zustimmung 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eigentumsvorbehalt`
 
-**Frühere Beschreibung:** Klausel-Spezialskill für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
+**Fokus:** Klausel-Spezialskill für Eigentumsvorbehalt: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
 
 # Eigentumsvorbehalt
 
@@ -101,7 +96,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 2. `einbeziehung-hinweis-kenntnisnahme-305`
 
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Einbeziehung Hinweis Kenntnisnahme 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+**Fokus:** Norm- und Dogmatik-Skill für Einbeziehung Hinweis Kenntnisnahme 305: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
 
 # Einbeziehung Hinweis Kenntnisnahme 305
 
@@ -169,7 +164,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 3. `einbeziehung-online-clickwrap-browsewrap`
 
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Einbeziehung Online Clickwrap Browsewrap: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
+**Fokus:** Norm- und Dogmatik-Skill für Einbeziehung Online Clickwrap Browsewrap: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
 
 # Einbeziehung Online Clickwrap Browsewrap
 
@@ -242,7 +237,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 4. `einkaufsbedingungen-b2b`
 
-**Frühere Beschreibung:** Branchen-Spezialskill für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
+**Fokus:** Branchen-Spezialskill für Einkaufsbedingungen B2B: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
 
 # Einkaufsbedingungen B2B
 
@@ -297,7 +292,7 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 
 ## 5. `einstweilige-verfuegung-agb`
 
-**Frühere Beschreibung:** Output- und Streit-Skill für Einstweilige Verfügung AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
+**Fokus:** Output- und Streit-Skill für Einstweilige Verfügung AGB: macht aus der AGB-Prüfung verwertbare Redlines, Entwürfe, Playbooks, Abmahnreaktionen oder Entscheidungsunterlagen.
 
 # Einstweilige Verfügung AGB
 
@@ -325,290 +320,6 @@ Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSE
 5. **Spezialfokus:** Bei Einstweilige Verfügung AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
 6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
 7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 6. `energieversorgung-agb`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Energieversorgung AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Energieversorgung AGB
-
-## Fachkern: Energieversorgung AGB
-
-- **Klauselproblem (Energieversorgung AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Energieversorgung AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 7. `entgelt-nebenkosten-service-fees`
-
-**Frühere Beschreibung:** Klausel-Spezialskill für Entgelt Nebenkosten Service Fees: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-
-# Entgelt Nebenkosten Service Fees
-
-## Fachkern: Entgelt Nebenkosten Service Fees
-
-- **Klauselproblem (Entgelt Nebenkosten Service Fees):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Entgelt Nebenkosten Service Fees besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 8. `exklusivitaet`
-
-**Frühere Beschreibung:** Klausel-Spezialskill für Exklusivität: prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-
-# Exklusivität
-
-## Fachkern: Exklusivität
-
-- **Klauselproblem (Exklusivität):** prüft, redlined und entwirft die Klausel mit Risikoampel, Verbraucher-/B2B-Unterscheidung und praxistauglicher Ersatzfassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Exklusivität besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 9. `factoring-agb`
-
-**Frühere Beschreibung:** Branchen-Spezialskill für Factoring AGB: prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-
-# Factoring AGB
-
-## Fachkern: Factoring AGB
-
-- **Klauselproblem (Factoring AGB):** prüft typische AGB-Risiken des Vertragstyps und erzeugt Klauselarchitektur, Red Flags und bessere Bedingungen.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus:** Bei Factoring AGB besonders auf wirtschaftlichen Zweck, versteckte Belastung, Verständlichkeit, Nachweisbarkeit und praxistaugliche Durchführung achten.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel, Rückzahlung, Vertragsfortbestand, Prozess- und UKlaG-Risiko prüfen.
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-## Output
-
-| Punkt | Befund |
-| --- | --- |
-| Klauselzweck | ... |
-| AGB-Kontrolle | ja/nein/unklar, warum |
-| Hauptangriff | ... |
-| Verteidigung | ... |
-| Risiko | Grün/Gelb/Rot |
-| Bessere Fassung | ... |
-| offene Tatsachen | ... |
-
-## Qualitätsregeln
-
-- Keine Scheinzitate. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Keine geltungserhaltende Reduktion als Standardlösung anbieten.
-- Bei B2B nicht so tun, als sei alles frei verhandelbar; Transparenz und Leitbild bleiben wichtig.
-- Bei B2C streng, verständlich und dokumentationsfähig formulieren.
-- Wenn eine Klausel wirtschaftlich gewollt, aber rechtlich riskant ist: Risiko offen labeln und Fallback anbieten.
-
-## Quellenanker
-
-Siehe `references/QUELLEN.md`, `references/PRUEFLOGIK.md` und `references/KLAUSELFAMILIEN.md`.
-
-## 10. `fiktive-erklaerung-zustimmung-308`
-
-**Frühere Beschreibung:** Norm- und Dogmatik-Skill für Fiktive Erklärung Zustimmung 308: prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-
-# Fiktive Erklärung Zustimmung 308
-
-## Fachkern: Fiktive Erklärung Zustimmung 308
-
-- **Klauselproblem (Fiktive Erklärung Zustimmung 308):** prüft die AGB-Kontrolle quellenstreng entlang BGB §§ 305 bis 310 und ordnet Rechtsfolge, Risiko und bessere Fassung.
-- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
-- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
-- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
-
-## Minimal-Intake
-
-- Rolle: Verwender, Kunde, Verbraucher, Unternehmer, Plattform, Händler, Verband oder Prozessgegner.
-- Klausel: Wortlaut, Fundstelle, Überschrift, Kontext, Version und Einbeziehungsweg.
-- Vertrag: Vertragstyp, Hauptleistung, Preis-/Risikomodell, Laufzeit und Vertriebskanal.
-- Ziel: Wirksamkeit prüfen, Risiko senken, härter entwerfen, redlinen, verhandeln oder verteidigen.
-- Nachweis: Screenshots, Checkout, E-Mail, Angebot, Auftragsbestätigung, Archivversion oder Kundendaten.
-
-## Prüfpfad
-
-1. **Normenstand sichern:** Vor tragenden Aussagen BGB §§ 305 bis 310 auf Gesetze im Internet prüfen; bei Verbandsrisiko UKlaG ergänzen.
-2. **Anwendungsbereich:** AGB-Eigenschaft, Einbeziehung, Individualabrede, Verbraucher-/Unternehmerstatus und Sondermaterie klären.
-3. **Auslegung:** kundenfeindlichste vertretbare Auslegung, Überraschung, Mehrdeutigkeit und Transparenz prüfen.
-4. **Inhaltskontrolle:** § 307 BGB als Grundprüfung, danach einschlägige Klauselverbote aus §§ 308, 309 BGB und § 310 BGB einordnen.
-5. **Spezialfokus § 308 Nr. 5 BGB (fingierte Zustimmung):**
-   - Eine Klausel, nach der das Schweigen des Vertragspartners als Annahme oder Zustimmung gilt, ist nur wirksam, wenn (a) dem Vertragspartner eine angemessene Frist zur ausdrücklichen Erklärung gewährt wird und (b) der Verwender den Kunden bei Fristbeginn auf die vorgesehene Bedeutung seines Verhaltens (Zustimmungsfiktion) besonders hinweist.
-   - **Beide Anforderungen müssen kumulativ erfüllt sein.** Hinweispflicht muss in der Klausel selbst und im konkreten Mitteilungsschreiben erfolgen.
-   - **EuGH-Rechtsprechung Banken-AGB:** Pauschale Zustimmungsfiktion bei wesentlichen Vertragsänderungen (Preise, Hauptleistung) im B2C bei Zahlungsdiensten unwirksam (EuGH, Urteil vom 11.11.2020, C-287/19 - DenizBank); ständige Rechtsprechung in nationalen Banken-AGB-Fällen entsprechend (BGH, Urteil vom 27.04.2021, XI ZR 26/20 - Sparkassen). Beschränkung auf rein technische oder rechtlich gebotene Änderungen denkbar.
-   - **Frist:** Mindestens 6 Wochen sind im Banken- und Versicherungsbereich Praxis, im Allgemeinen 4-6 Wochen angemessen; kürzere Fristen nur ausnahmsweise tragfähig.
-   - **B2B-Ausstrahlung:** § 308 Nr. 5 BGB strahlt über § 307 BGB ins B2B aus. Im B2B sind allerdings Fiktionsklauseln eher noch zumutbar, jedoch nicht ohne Frist und ohne Hinweis.
-6. **Rechtsfolge:** Unwirksamkeit, gesetzliche Ersatzregel (Schweigen ist grundsätzlich keine Erklärung, § 147 BGB; Ausnahme: kaufmännisches Bestätigungsschreiben im B2B).
-7. **Verbesserung:** mindestens eine sichere Ersatzfassung und bei Bedarf eine verhandelbare Fallback-Fassung formulieren.
-
-### Mustertext (zulässige Zustimmungsfiktion mit Hinweis)
-
-> Änderungen dieser Bedingungen werden dem Kunden mindestens 6 Wochen vor ihrem Wirksamwerden in Textform mitgeteilt. Die Zustimmung gilt als erteilt, wenn der Kunde nicht innerhalb dieser Frist die Ablehnung in Textform erklärt; auf diese Folge wird ihn der Anbieter im Änderungsangebot besonders hinweisen. Der Kunde hat zudem das Recht, den Vertrag innerhalb dieser Frist außerordentlich zum Zeitpunkt des geplanten Wirksamwerdens zu kündigen. Eine Zustimmungsfiktion gilt nicht für Änderungen der Hauptleistung, der Vergütung sowie für solche Klauseln, die nicht im Verhältnis zwischen den Parteien stehen.
 
 ## Output
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-db-016-preisvergleic-bis-db-032-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (db-016-preisvergleich-crawler-und-plattformvertrag, db-030-lizenzanalogie-und-unterlassungsvertrag, db-032-datenbankrecht-und-urhebervertragsrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertragsrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - datenbankrecht
+# Arbeitsbereich - Db 016 Preisvergleich Crawler Und Plattformvertrag, Db 030 Lizenzanalogie Und Unterlassungsvertrag, Db 032 Datenbankrecht Und Urhebervertrags
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-016-preisvergleich-crawler-und-plattformvertrag` | Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler. |
 | `db-030-lizenzanalogie-und-unterlassungsvertrag` | Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-016-preisvergleich-crawler-und-plattformvertrag`
 
-**Frühere Beschreibung:** Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler.
+**Fokus:** Datenbankrecht für Preisvergleichsportale und deren Crawler: Prüft §§ 87a-87e UrhG gegen automatisierte Preisabfragen, Wirksamkeit von AGB-Scraping-Verboten (§ 307 BGB), EuGH C-202/12 (Innoweb/Wegener) und P2B-VO 2019/1150. Bewertet Plattformverträge mit Händlern und Datenlieferanten sowie Unterlassungsansprüche gegen Preisvergleichs-Crawler.
 
 # Preisvergleich-Crawler und Plattformverträge — Datenbankrecht und P2B
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-030-lizenzanalogie-und-unterlassungsvertrag`
 
-**Frühere Beschreibung:** Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell.
+**Fokus:** Lizenzanalogie und Unterlassungsvertragsgestaltung im Datenbankrecht: Berechnung der Lizenzanalogie nach § 97 Abs. 2 UrhG für Datenbankherstellerrechts-Verletzungen, Unterlassungsvertrags-Klauseln (Vertragsstrafe nach § 339 BGB) als Alternative zur Klage und Abgrenzung von Abschlusserklärung zu titulierter Unterlassung. Erstellt Vertragsstrafe-Klausel und Berechnungsmodell.
 
 # Lizenzanalogie und Unterlassungsvertrag im Datenbankrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-032-datenbankrecht-und-urhebervertragsrecht`
 
-**Frühere Beschreibung:** Datenbankrecht im Urhebervertragsrecht: §§ 31-44 UrhG für Datenbankwerke (§ 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (§ 32 UrhG), Bestseller-Klausel (§ 32a UrhG) und Verlagsrecht. Abgrenzung zur Übertragung des Datenbankherstellerrechts (§ 87a Abs. 2 UrhG). Erstellt Nutzungsrechtsklauseln für Datenbankverträge.
+**Fokus:** Datenbankrecht im Urhebervertragsrecht: §§ 31-44 UrhG für Datenbankwerke (§ 4 Abs. 2 UrhG) — Einräumung und Rückruf von Nutzungsrechten, angemessene Vergütung (§ 32 UrhG), Bestseller-Klausel (§ 32a UrhG) und Verlagsrecht. Abgrenzung zur Übertragung des Datenbankherstellerrechts (§ 87a Abs. 2 UrhG). Erstellt Nutzungsrechtsklauseln für Datenbankverträge.
 
 # Datenbankrecht und Urhebervertragsrecht — Nutzungsrechte für Datenbankwerke
 

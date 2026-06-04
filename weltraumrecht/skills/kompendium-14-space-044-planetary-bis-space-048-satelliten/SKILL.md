@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-space-044-planetary-bis-space-048-satelliten
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (space-044-planetary-protection-kontaminationsvermeidung, space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe, space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskau, space-048-satellitenkonstellation-wettbewerbsrecht-und-marktabsc) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 044 Planetary Protection Kontaminationsvermeidung, Space 046 Arbeitsrecht Missionskontrolle Schichtbetrieb Sicherhe, Space 047 Raumfahrtrechtliche Due Diligence Beim Unternehmenskau, Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - weltraumrecht
+# Arbeitsbereich - Space 044 Planetary Protection Kontaminationsvermeidung bis Space 048 Satellitenkonstellation Wettbewerbsrecht Und Marktabsc
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-044-planetary-protection-kontaminationsvermeidung` | Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen. |
 | `space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe` | Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-044-planetary-protection-kontaminationsvermeidung`
 
-**Frühere Beschreibung:** Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen.
+**Fokus:** Planetary Protection – COSPAR-Policy, Kategorien I–V, staatliche Verpflichtungen, kommerzielle Missionen.
 
 # Weltraumrecht: Planetary Protection: Kontaminationsvermeidung
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Planetary Protection, COSPAR-Kate
 
 ## 2. `space-046-arbeitsrecht-missionskontrolle-schichtbetrieb-sicherhe`
 
-**Frühere Beschreibung:** Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung.
+**Fokus:** Arbeitsrecht in der Missionskontrolle – Schichtarbeit, Bereitschaft, Arbeitssicherheit, Strahlung.
 
 # Weltraumrecht: Arbeitsrecht: Missionskontrolle, Schichtbetrieb, Sicherheit
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Arbeitsrecht Missionskontrolle, S
 
 ## 3. `space-047-raumfahrtrechtliche-due-diligence-beim-unternehmenskau`
 
-**Frühere Beschreibung:** Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten.
+**Fokus:** Due Diligence beim Kauf eines Raumfahrtunternehmens – Lizenzen, Verträge, Frequenzen, Haftungsaltlasten.
 
 # Weltraumrecht: Raumfahrtrechtliche Due Diligence beim Unternehmenskauf
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Due Diligence Raumfahrt, Frequenz
 
 ## 4. `space-048-satellitenkonstellation-wettbewerbsrecht-und-marktabsc`
 
-**Frühere Beschreibung:** Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht.
+**Fokus:** Mega-Konstellationen und Wettbewerbsrecht – Marktmacht, Frequenzmonopol, EU-Kartellrecht.
 
 # Weltraumrecht: Satellitenkonstellation: Wettbewerbsrecht und Marktabschottung
 

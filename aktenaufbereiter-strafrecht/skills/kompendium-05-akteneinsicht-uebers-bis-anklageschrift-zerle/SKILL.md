@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-akteneinsicht-uebers-bis-anklageschrift-zerle
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (akteneinsicht-uebersicht, aktenvorblatt-erstellen, anklageschrift-zerlegen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Akteneinsicht Uebersicht, Aktenvorblatt Erstellen, Anklageschrift Zerlegen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akteneinsicht-uebersicht` | Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Pruef-Checkliste und Nachforderungsschreiben an die Staatsanwaltschaft. |
 | `aktenvorblatt-erstellen` | Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zustaendiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf fuer die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akteneinsicht-uebersicht`
 
-**Frühere Beschreibung:** Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Pruef-Checkliste und Nachforderungsschreiben an die Staatsanwaltschaft.
+**Fokus:** Akteneinsicht systematisch auswerten: Aktenbestandteile (Haupt-, Sonder-, Beweismittelakte), Bandzaehlung, Aktenblattzahl je Band, fehlende Aktenstuecke, Verschluss-Sachen, Tonbaender/Datentraeger, polizeiliche Spurenakten. Fuehrt Pruef-Checkliste und Nachforderungsschreiben an die Staatsanwaltschaft.
 
 # Akteneinsicht-Uebersicht
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 2. `aktenvorblatt-erstellen`
 
-**Frühere Beschreibung:** Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zustaendiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf fuer die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht.
+**Fokus:** Erstes Aktenvorblatt fuer eine Strafakte erstellen: Mandant, Vorwurf nach Anklageschrift oder Strafanzeige, Tatzeitraum, zustaendiges Gericht/Staatsanwaltschaft, Aktenzeichen, Verteidiger, U-Haft-Status, naechste Termine, Hauptrisiken. Ausgabe als kompakte Excel-faehige Tabelle und als druckbarer Karteikopf fuer die Aktendecke. Routet bei fehlendem Personenverzeichnis in personenverzeichnis-aufbau und bei mehreren Taten in tatkomplexe-uebersicht.
 
 # Aktenvorblatt-Erstellung
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `anklageschrift-zerlegen`
 
-**Frühere Beschreibung:** Anklageschrift in arbeitsfaehige Bausteine zerlegen: Tatvorwurf je Anklagepunkt, vorgeworfene Norm, wesentliche Tatsachen, Beweismittel je Punkt, Liste der Beweismittel, Verteidigungsansatzpunkte je Punkt. Output Tabelle und kommentierte Anklageschrift mit Markierungen.
+**Fokus:** Anklageschrift in arbeitsfaehige Bausteine zerlegen: Tatvorwurf je Anklagepunkt, vorgeworfene Norm, wesentliche Tatsachen, Beweismittel je Punkt, Liste der Beweismittel, Verteidigungsansatzpunkte je Punkt. Output Tabelle und kommentierte Anklageschrift mit Markierungen.
 
 # Anklageschrift zerlegen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-anfaenger-workflow-a-bis-fristbeginn-zustellu
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (anfaenger-workflow-amtsgericht, rechtsprechungschat-amtsgericht, fristbeginn-zustellung-protokollieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Anfaenger Workflow Amtsgericht, Rechtsprechungschat Amtsgericht, Fristbeginn Zustellung Protokollieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfaenger-workflow-amtsgericht` | Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel. |
 | `rechtsprechungschat-amtsgericht` | Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfaenger-workflow-amtsgericht`
 
-**Frühere Beschreibung:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
+**Fokus:** Geführter Anfänger-Workflow für Bürgerinnen und Bürger vor dem Amtsgericht: fragt Rolle, Fristen, Streitwert, Gericht, Verfahrensstand und Unterlagen ab; erklärt jeden Schritt in einfacher Sprache; routet zu Klage, Klageerwiderung, Beweis, PKH, Termin, Urteil und Rechtsmittel.
 
 # Anfänger-Workflow Amtsgericht
 
@@ -150,7 +150,7 @@ Geben Sie dem Nutzer am Ende genau einen nächsten Arbeitsschritt, wenn die Lage
 
 ## 2. `rechtsprechungschat-amtsgericht`
 
-**Frühere Beschreibung:** Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden.
+**Fokus:** Geführter Rechtsprechungschat für Selbstvertreter vor dem Amtsgericht. Hilft, passende BGH-, BVerfG-, LG- und AG-Rechtsprechung zu finden, sauber zu zitieren, auf den eigenen Sachverhalt zu übertragen und Scheinargumente zu vermeiden.
 
 # Rechtsprechungschat Amtsgericht
 
@@ -248,7 +248,7 @@ Die Rechtsprechung sagt eindeutig, dass ich gewinnen muss.
 
 ## 3. `fristbeginn-zustellung-protokollieren`
 
-**Frühere Beschreibung:** Fristbeginn ab Zustellung. Wie Zustellung erfolgt gelber Umschlag Postzustellungsurkunde Empfangsbekenntnis Ersatzzustellung. Warum das genaue Datum so wichtig ist und wie Sie es dokumentieren.
+**Fokus:** Fristbeginn ab Zustellung. Wie Zustellung erfolgt gelber Umschlag Postzustellungsurkunde Empfangsbekenntnis Ersatzzustellung. Warum das genaue Datum so wichtig ist und wie Sie es dokumentieren.
 
 # Wann beginnt die Frist? Zustellung protokollieren
 

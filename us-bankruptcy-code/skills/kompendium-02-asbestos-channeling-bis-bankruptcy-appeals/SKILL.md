@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-asbestos-channeling-bis-bankruptcy-appeals
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (asbestos-channeling, automatic-stay-362, avoidance-litigation, bankruptcy-appeals) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Asbestos Channeling, Automatic Stay 362, Avoidance Litigation, Bankruptcy Appeals; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - us-bankruptcy-code
+# Arbeitsbereich - Asbestos Channeling bis Bankruptcy Appeals
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `asbestos-channeling` | Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment. |
 | `automatic-stay-362` | Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `asbestos-channeling`
 
-**Frühere Beschreibung:** Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment.
+**Fokus:** Prueft asbestos-specific trust/channeling structure, voting, future claims representative and insurance assignment.
 
 # Asbestos Channeling Injunctions § 524(g)
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `automatic-stay-362`
 
-**Frühere Beschreibung:** Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences.
+**Fokus:** Prueft automatic stay scope, commencement, protected acts, exceptions, notice and violation consequences.
 
 # Automatic Stay § 362
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `avoidance-litigation`
 
-**Frühere Beschreibung:** Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection.
+**Fokus:** Organisiert estate avoidance litigation: target selection, demand letters, complaints, defenses, settlement and collection.
 
 # Avoidance Litigation Strategy
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `bankruptcy-appeals`
 
-**Frühere Beschreibung:** Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path.
+**Fokus:** Prueft appeal route, final/interlocutory order, stay pending appeal, deadlines and district/BAP/circuit path.
 
 # Bankruptcy Appeals
 

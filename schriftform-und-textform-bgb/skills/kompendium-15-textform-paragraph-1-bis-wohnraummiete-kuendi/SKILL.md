@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-textform-paragraph-1-bis-wohnraummiete-kuendi
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (textform-paragraph-126b-bgb-dauerhafter-datentraeger, verteidigungsstrategie-bei-formangriff, wohnraummiete-kuendigung-paragraph-568-bgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Textform Paragraph 126b Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kuendigung Paragraph 568 Bgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - schriftform-und-textform-bgb
+# Arbeitsbereich - Textform Paragraph 126b Bgb Dauerhafter Datentraeger, Verteidigungsstrategie Bei Formangriff, Wohnraummiete Kuendigung Paragraph 568 Bgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `verteidigungsstrategie-bei-formangriff` | Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklärung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `textform-paragraph-126b-bgb-dauerhafter-datentraeger`
 
-**Frühere Beschreibung:** Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu textform paragraph 126b bgb dauerhafter datentraeger. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Textform § 126b BGB — Dauerhafter Datenträger
 
@@ -147,7 +147,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `verteidigungsstrategie-bei-formangriff`
 
-**Frühere Beschreibung:** Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklärung.
+**Fokus:** Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB) Nachholung der Form § 242 BGB Treuwidrigkeitseinwand (Berufung auf Formmangel wer selbst arglistig handelte) Beweislastverteilung. Output: Verteidigungsstrategie-Memo und Klausel-Aenderungsvorschlaege. Abgrenzung zu anspruchsformulierungen-bei-formverstoss (Angreifer-Seite) und form-checker-fuer-vertrag-oder-willenserklärung.
 
 # Verteidigungsstrategie bei Formangriff
 
@@ -297,7 +297,7 @@ Quelle: https://www.otto-schmidt.de/blog/zivil-und-zivilverfahrensrecht-blog/mon
 
 ## 3. `wohnraummiete-kuendigung-paragraph-568-bgb`
 
-**Frühere Beschreibung:** Workflow-Skill zu wohnraummiete kuendigung paragraph 568 bgb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu wohnraummiete kuendigung paragraph 568 bgb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Wohnraummiete-Kündigung — § 568 BGB und Formfragen
 

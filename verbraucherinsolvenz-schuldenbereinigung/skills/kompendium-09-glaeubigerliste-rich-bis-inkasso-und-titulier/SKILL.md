@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-glaeubigerliste-rich-bis-inkasso-und-titulier
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (glaeubigerliste-richtig-bauen, hausrat-und-wertgegenstaende, inkasso-und-titulierte-forderungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Glaeubigerliste Richtig Bauen, Hausrat Und Wertgegenstaende, Inkasso Und Titulierte Forderungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `glaeubigerliste-richtig-bauen` | Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; Normanker: InsO § 305 Abs. 1 Nr. 3; InsO §§ 174 und 175; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `hausrat-und-wertgegenstaende` | Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; Normanker: ZPO §§ 811 ff.; InsO § 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `glaeubigerliste-richtig-bauen`
 
-**Frühere Beschreibung:** Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; Normanker: InsO § 305 Abs. 1 Nr. 3; InsO §§ 174 und 175; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.; Normanker: InsO § 305 Abs. 1 Nr. 3; InsO §§ 174 und 175; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Gläubigerliste richtig bauen: Hauptforderung, Zinsen, Kosten, titulierte Forderungen, Abtretungen, Inkasso und Adressprüfung.
 
@@ -69,7 +69,7 @@ InsO § 305 Abs. 1 Nr. 3; InsO §§ 174, 175. Entscheidend ist immer der aktuell
 
 ## 2. `hausrat-und-wertgegenstaende`
 
-**Frühere Beschreibung:** Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; Normanker: ZPO §§ 811 ff.; InsO § 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.; Normanker: ZPO §§ 811 ff.; InsO § 36; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Hausrat und Wertgegenstände: Unpfändbarkeit, Verwertung, Schmuck, Elektronik und Beweis durch Fotos/Listen.
 
@@ -110,7 +110,7 @@ ZPO §§ 811 ff.; InsO § 36. Entscheidend ist immer der aktuelle Normstand der 
 
 ## 3. `inkasso-und-titulierte-forderungen`
 
-**Frühere Beschreibung:** Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.; Normanker: ZPO Titel/Vollstreckung; BGB Verjährung; RDG-Kosten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.; Normanker: ZPO Titel/Vollstreckung; BGB Verjährung; RDG-Kosten; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Inkasso und titulierte Forderungen: Titelprüfung, Kosten, Abtretungskette, Verjährung und Vollstreckungsabwehr.
 

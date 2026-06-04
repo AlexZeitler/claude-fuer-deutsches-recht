@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-nkbl-abwaegungsfehle-bis-nkbl-buergerentschei
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (nkbl-abwaegungsfehler-spezial, nkbl-bauleitplanung-bauleiter, nkbl-buergerentscheid-buergerbegehren-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkbl Abwaegungsfehler Spezial, Nkbl Bauleitplanung Bauleiter, Nkbl Buergerentscheid Buergerbegehren Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Nkbl Abwaegungsfehler Spezial, Nkbl Bauleitplanung Bauleiter, Nkbl Buergerentscheid Buergerbegehren Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkbl-abwaegungsfehler-spezial` | Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster fuer Klage. |
 | `nkbl-bauleitplanung-bauleiter` | Bauleiter Bauleitplanung BauGB: Flaechennutzungsplan, Bebauungsplan, Verfahrensarten, Beteiligung Oeffentlichkeit. Pruefraster fuer Gemeinde und Buergerinitiative. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkbl-abwaegungsfehler-spezial`
 
-**Frühere Beschreibung:** Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster fuer Klage.
+**Fokus:** Spezialfall Abwaegungsfehler in der Bauleitplanung: Abwaegungsausfall, -defizit, -fehleinschaetzung, Disproportionalitaet. Pruefraster fuer Klage.
 
 # NkBl: Abwaegungsfehler
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `normenkontrolle-bauleitplanung`. Er ergaenzt di
 
 ## 2. `nkbl-bauleitplanung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Bauleitplanung BauGB: Flaechennutzungsplan, Bebauungsplan, Verfahrensarten, Beteiligung Oeffentlichkeit. Pruefraster fuer Gemeinde und Buergerinitiative.
+**Fokus:** Bauleiter Bauleitplanung BauGB: Flaechennutzungsplan, Bebauungsplan, Verfahrensarten, Beteiligung Oeffentlichkeit. Pruefraster fuer Gemeinde und Buergerinitiative.
 
 # NkBl: Bauleitplanung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `normenkontrolle-bauleitplanung`. Er ergaenzt di
 
 ## 3. `nkbl-buergerentscheid-buergerbegehren-spezial`
 
-**Frühere Beschreibung:** Spezialfall Buergerbegehren und Buergerentscheid in der Bauleitplanung: Landesrecht, Quoren, zulaessige Fragen. Pruefraster fuer Initiative.
+**Fokus:** Spezialfall Buergerbegehren und Buergerentscheid in der Bauleitplanung: Landesrecht, Quoren, zulaessige Fragen. Pruefraster fuer Initiative.
 
 # NkBl: Buergerbegehren
 

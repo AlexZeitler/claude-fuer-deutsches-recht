@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-verkehrsowi-alkohol-bis-verkehrsowi-fahrerid
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (verkehrsowi-alkohol-drogen-24a, verkehrsowi-beweisverwertung-standardisiert, verkehrsowi-fahreridentifizierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsowi Alkohol Drogen 24a, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verkehrsowi-verteidiger
+# Arbeitsbereich - Verkehrsowi Alkohol Drogen 24a, Verkehrsowi Beweisverwertung Standardisiert, Verkehrsowi Fahreridentifizierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehrsowi-alkohol-drogen-24a` | Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin. |
 | `verkehrsowi-beweisverwertung-standardisiert` | Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehrsowi-alkohol-drogen-24a`
 
-**Frühere Beschreibung:** Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin.
+**Fokus:** Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin.
 
 # Alkohol und Drogen — § 24a StVG
 
@@ -91,7 +91,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `verkehrsowi-beweisverwertung-standardisiert`
 
-**Frühere Beschreibung:** Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu verkehrsowi beweisverwertung standardisiert. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Standardisiertes Messverfahren und Beweisverwertung
 
@@ -173,7 +173,7 @@ SACHVERSTAENDIGENANTRAG (§ 77 Abs. 2 OWiG):
 
 ## 3. `verkehrsowi-fahreridentifizierung`
 
-**Frühere Beschreibung:** Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht.
+**Fokus:** Fahreridentifizierung im OWi-Verfahren angreifen oder verteidigen: Mandant bestreitet Fahrereigenschaft oder will Fahrer nicht nennen. Normen: § 31a StVG (Halter-Auskunftspflicht und Fahrtenbuchauflage), § 55 OWiG (Aussageverweigerungsrecht). Prüfraster: Lichtbildabgleich AG, Sachverständigen-Antrag Biometrie, kein Zwang zur Fahrernennung, Fahrtenbuchauflage-Risiko. Output Verteidigungsstrategie Fahreridentifikation, Sachverständigen-Antrag. Abgrenzung: Beweisauswertung Messbeamter siehe verkehrsowi-zeugen-polizei-strategie; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht.
 
 # Fahreridentifizierung im OWi-Verfahren
 

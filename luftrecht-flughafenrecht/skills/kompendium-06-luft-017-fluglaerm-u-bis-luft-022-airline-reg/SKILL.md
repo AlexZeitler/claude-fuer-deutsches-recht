@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-luft-017-fluglaerm-u-bis-luft-022-airline-reg
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (luft-017-fluglaerm-und-anwohner, luft-018-insolvenz-fluggesellschaft, luft-019-leasing-und-cape-town-bezuege, luft-020-aviation-dashboard, luft-022-airline-register-auswerten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 017 Fluglaerm Und Anwohner, Luft 018 Insolvenz Fluggesellschaft, Luft 019 Leasing Und Cape Town Bezuege, Luft 020 Aviation Dashboard und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 017 Fluglaerm Und Anwohner bis Luft 022 Airline Register Auswerten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-017-fluglaerm-und-anwohner` | Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen. |
 | `luft-018-insolvenz-fluggesellschaft` | Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-017-fluglaerm-und-anwohner`
 
-**Frühere Beschreibung:** Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen.
+**Fokus:** Anwohner klagt gegen Fluglaerm oder Flughafen baut Schallschutzprogramm auf. Prueft FluglaermG §§ 1-9 Laermschutzbereiche Tagschutzzone 65-60 dB Nachtschutzzone 55 dB BImSchG § 41 und Schallschutzansprueche und liefert Klagebaustein und Schallschutzanspruchs-Checkliste mit Fristen.
 
 # Fluglärm und Anwohner – Lärmschutzbereiche und Schallschutzansprüche
 
@@ -108,7 +108,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 2. `luft-018-insolvenz-fluggesellschaft`
 
-**Frühere Beschreibung:** Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein.
+**Fokus:** Airline-Insolvenz: Passagier Glaeubiger Leasinggeber oder Slot-Halter fragt nach Anspruechen. Prueft InsO §§ 21 47 50 103 Absonderungsrecht Leasingvertrag Slot-Nicht-Uebertragbarkeit EuGH Cape-Town-Insolvenzschutz Art. XI Aircraft Protocol und liefert Glaeubiger-Strategie-Vermerk und Anmeldeformular-Baustein.
 
 # Insolvenz Fluggesellschaft – Gläubigerrechte und Masseschutz
 
@@ -186,7 +186,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 3. `luft-019-leasing-und-cape-town-bezuege`
 
-**Frühere Beschreibung:** Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste.
+**Fokus:** Wet-Lease Dry-Lease oder Finance-Lease eines Flugzeugs mit Cape-Town-Registrierung. Prueft Cape Town Convention Art. 2-9 Internationale Interests LuftFzgG nationales Pfandrecht IDERA Aircraft Protocol Art. XI Alternative A/B und liefert Leasing-Sicherungsstrategie und Vertrags-Pruef-Checkliste.
 
 # Leasing und Cape Town – Flugzeugsicherung im internationalen Leasing
 
@@ -264,7 +264,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 4. `luft-020-aviation-dashboard`
 
-**Frühere Beschreibung:** Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung AOC Flotte Slots Sicherheitsstatus Insolvenzrisiko. Skill erstellt Dashboard-Matrix aus LBA-Register EU-VO 1008/2008 Art. 9 Indikatoren FluglaermG-Zonen und Cape-Town-Register und liefert einseitige Lagebewertung mit Ampel-Rating.
+**Fokus:** Mandant braucht Echtzeit-Lageueberblick ueber eine Airline: Betriebsgenehmigung AOC Flotte Slots Sicherheitsstatus Insolvenzrisiko. Skill erstellt Dashboard-Matrix aus LBA-Register EU-VO 1008/2008 Art. 9 Indikatoren FluglaermG-Zonen und Cape-Town-Register und liefert einseitige Lagebewertung mit Ampel-Rating.
 
 # Aviation Dashboard – Lageüberblick Airline und Flughafen
 
@@ -351,7 +351,7 @@ Für Mandate im Bereich Luftrecht sind folgende Dokumente regelmäßig anzuforde
 
 ## 5. `luft-022-airline-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Luftfahrzeugrolle Pfandrechtsregister und Cape-Town-Register einer Airline auswerten. Skill fuehrt strukturierte Registerabfrage LBA LuftVG § 64 AG Braunschweig LuftFzgG und ICAO-Register durch und liefert Registerauszugs-Auswertungs-Bericht mit Eigentuemerstruktur und Belastungen.
+**Fokus:** Mandant will Luftfahrzeugrolle Pfandrechtsregister und Cape-Town-Register einer Airline auswerten. Skill fuehrt strukturierte Registerabfrage LBA LuftVG § 64 AG Braunschweig LuftFzgG und ICAO-Register durch und liefert Registerauszugs-Auswertungs-Bericht mit Eigentuemerstruktur und Belastungen.
 
 # Airline – Register auswerten
 

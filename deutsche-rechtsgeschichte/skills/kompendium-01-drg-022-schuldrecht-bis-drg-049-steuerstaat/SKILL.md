@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-drg-022-schuldrecht-bis-drg-049-steuerstaat
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 01; bündelt 6 frühere Spezialskills (drg-022-schuldrecht-und-vertragsfreiheit, drg-035-einigungsvertrag-und-rechtsueberleitung, drg-107-generalklauseln-als-einbruchstelle-zeitgeist, drg-neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr, drg-023-deliktsrecht-und-gefaehrdungshaftung und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 022 Schuldrecht Und Vertragsfreiheit, Drg 035 Einigungsvertrag Und Rechtsueberleitung, Drg 107 Generalklauseln Als Einbruchstelle Zeitgeist, Drg Neu 017 Einigungsvertrag Rechtsueberleitung Und Vermoegensfr und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 022 Schuldrecht Und Vertragsfreiheit bis Drg 049 Steuerstaat Und Haushaltsgeschichte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-022-schuldrecht-und-vertragsfreiheit` | Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts. |
 | `drg-035-einigungsvertrag-und-rechtsueberleitung` | Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-022-schuldrecht-und-vertragsfreiheit`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts.
+**Fokus:** Deutsche Rechtsgeschichte: Schuldrecht und Vertragsfreiheit. BGB-Schuldrecht 1900, Vertragsfreiheit und ihre Schranken, Schuldrechtsreform 2002 und europaeische Ueberformung des Vertragsrechts.
 
 # Schuldrecht und Vertragsfreiheit
 
@@ -82,7 +82,7 @@ BGB: gesetze-im-internet.de. AGBG 1976: BGBl. I 1976, 3317. SchuRModG 2002: BGBl
 
 ## 2. `drg-035-einigungsvertrag-und-rechtsueberleitung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung.
+**Fokus:** Deutsche Rechtsgeschichte: Einigungsvertrag 1990 und Rechtsueberleitung. Hauptvertrag BGBl. II 1990 (Nr. 885), Weitergeltung DDR-Rechts, Ueberleitungsregeln und erste BVerfG-Entscheidungen zur Wiedervereinigung.
 
 # Einigungsvertrag und Rechtsueberleitung (1990)
 
@@ -132,7 +132,7 @@ Einigungsvertrag: BGBl. II 1990, 885 und gesetze-im-internet.de. Zwei-plus-Vier-
 
 ## 3. `drg-107-generalklauseln-als-einbruchstelle-zeitgeist`
 
-**Frühere Beschreibung:** Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen.
+**Fokus:** Analysiert historische Nutzung von Generalklauseln wie Treu und Glauben, gute Sitten und Gemeinwohlformeln zur Anpassung, Stabilisierung oder Perversion von Rechtsordnungen.
 
 # Generalklauseln als Einbruchstelle des Zeitgeists
 
@@ -162,7 +162,7 @@ Generalklausel-Historie mit Risikoampel: legitime Konkretisierung, zeitgeistige 
 
 ## 4. `drg-neu-017-einigungsvertrag-rechtsueberleitung-und-vermoegensfr`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Deutsche Rechtsgeschichte: Einigungsvertrag Rechtsüberleitung und Vermögensfragen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Deutsche Rechtsgeschichte: 017 Einigungsvertrag Rechtsueberleitung Und Vermoegensfr
 
@@ -223,7 +223,7 @@ Skill fuer den Einigungsvertrag 31.08.1990 und die Rechts-/Vermoegensueberleitun
 
 ## 5. `drg-023-deliktsrecht-und-gefaehrdungshaftung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989.
+**Fokus:** Deutsche Rechtsgeschichte: Deliktsrecht und Gefaehrdungshaftung. BGB §§ 823-853, Haftpflichtgesetz 1871, Gefaehrdungshaftung im Industriezeitalter und Produkthaftungsgesetz 1989.
 
 # Deliktsrecht und Gefaehrdungshaftung
 
@@ -273,7 +273,7 @@ BGB Deliktsrecht: gesetze-im-internet.de. Reichshaftpflichtgesetz 1871: ALEX/OeN
 
 ## 6. `drg-049-steuerstaat-und-haushaltsgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Matrikularbeitraege des Deutschen Bundes, Erzberger-Steuerreform 1919-1920, Reichsabgabenordnung, Finanzausgleich und GG Art. 105-108.
+**Fokus:** Deutsche Rechtsgeschichte: Steuerstaat und Haushaltsgeschichte. Matrikularbeitraege des Deutschen Bundes, Erzberger-Steuerreform 1919-1920, Reichsabgabenordnung, Finanzausgleich und GG Art. 105-108.
 
 # Steuerstaat und Haushaltsgeschichte
 

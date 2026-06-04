@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-gmbh-gesellschafterl-bis-gmbh-notgeschaeftsfu
-description: "gesellschaftsrechtliche-treuepflicht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (gmbh-gesellschafterliste-missbrauch, gmbh-gewinnverwendung, gmbh-informationsrechte, gmbh-notgeschaeftsfuehrung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrechtliche-treuepflicht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gmbh Gesellschafterliste Missbrauch, Gmbh Gewinnverwendung, Gmbh Informationsrechte, Gmbh Notgeschaeftsfuehrung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - gesellschaftsrechtliche-treuepflicht
+# Arbeitsbereich - Gmbh Gesellschafterliste Missbrauch bis Gmbh Notgeschaeftsfuehrung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gmbh-gesellschafterliste-missbrauch` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `gmbh-gewinnverwendung` | Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gmbh-gesellschafterliste-missbrauch`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gesellschafterliste Missbrauch; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Gesellschafterliste Missbrauch
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `gmbh-gewinnverwendung`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Gewinnverwendung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Gewinnverwendung
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `gmbh-informationsrechte`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Informationsrechte; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Informationsrechte
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `gmbh-notgeschaeftsfuehrung`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Gmbh Notgeschaeftsfuehrung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Gmbh Notgeschaeftsfuehrung
 

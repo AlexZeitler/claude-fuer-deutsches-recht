@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-kanzlei-workflow-urh-bis-verjaehrung-fristen
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (kanzlei-workflow-urheber, rechtsprechungs-livecheck, verjaehrung-fristen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Workflow Urheber, Rechtsprechungs Livecheck, Verjaehrung Fristen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - urheberrecht-de-eu
+# Arbeitsbereich - Kanzlei Workflow Urheber, Rechtsprechungs Livecheck, Verjaehrung Fristen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-workflow-urheber` | Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall. |
 | `rechtsprechungs-livecheck` | Sammelt nur verifizierte Rechtsprechung und amtliche Quellen fuer Urheberrecht, EU-Recht, Software, Musik und KI. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-workflow-urheber`
 
-**Frühere Beschreibung:** Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall.
+**Fokus:** Organisiert Mandat, Dokumente, Beweise, Fristen, Rechtekette, Gegnerkommunikation und Outputformat im Urheberrechtsfall.
 
 # Kanzlei-Workflow und Aktenführung
 
@@ -98,7 +98,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `rechtsprechungs-livecheck`
 
-**Frühere Beschreibung:** Sammelt nur verifizierte Rechtsprechung und amtliche Quellen fuer Urheberrecht, EU-Recht, Software, Musik und KI.
+**Fokus:** Sammelt nur verifizierte Rechtsprechung und amtliche Quellen fuer Urheberrecht, EU-Recht, Software, Musik und KI.
 
 # Rechtsprechungs- und Quellenlivecheck
 
@@ -169,7 +169,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `verjaehrung-fristen`
 
-**Frühere Beschreibung:** Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen.
+**Fokus:** Prueft Verjährung, Dringlichkeit, Plattform-Deadlines, Auskunftsfristen und Reaktionsfristen bei Urheberrechtsfällen.
 
 # Verjährung, Dringlichkeit und Fristen
 

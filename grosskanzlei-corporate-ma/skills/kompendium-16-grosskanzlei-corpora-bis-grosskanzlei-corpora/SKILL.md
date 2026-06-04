@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 16; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-expert-calls-transkripte, grosskanzlei-corporate-ma-fair-disclosure-knowledge, grosskanzlei-corporate-ma-financing-security-documents, grosskanzlei-corporate-ma-foreign-subsidies-regulation-fsr, grosskanzlei-corporate-ma-freundlicher-copilot und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Expert Calls Transkripte, Grosskanzlei Corporate Ma Fair Disclosure Knowledge, Grosskanzlei Corporate Ma Financing Security Documents, Grosskanzlei Corporate Ma Foreign Subsidies Regulation Fsr und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Expert Calls Transkripte bis Grosskanzlei Corporate Ma Handelsregisterabruf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-expert-calls-transkripte` | Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Prüfraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate für DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests. |
 | `grosskanzlei-corporate-ma-fair-disclosure-knowledge` | Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Prüfraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmäßiges Wissen. Output Klauselvorschlaege für Knowledge-Qualifikation mit Risikobewertung für Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-expert-calls-transkripte`
 
-**Frühere Beschreibung:** Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Prüfraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate für DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests.
+**Fokus:** Expert Calls und Transkript-Auswertung für M&A Due Diligence: Anwendungsfall Deal-Team hat Experteninterviews oder Management-Presentations transkribiert und muss Kernaussagen strukturiert extrahieren. MAR Vertraulichkeit, §§ 433 ff. BGB DD-Pflichten. Prüfraster Kerninformationen extrahieren, Widersprueche zu Datenraum-Unterlagen markieren, Red Flags identifizieren, Zitate für DD-Report verwertbar machen. Output strukturierte Transkript-Zusammenfassung mit Kernaussagen und Red-Flag-Liste. Abgrenzung zu DD-Reporting und zu QA-Information-Requests.
 
 # Expert Calls und Transkripte
 
@@ -225,7 +225,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-fair-disclosure-knowledge`
 
-**Frühere Beschreibung:** Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Prüfraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmäßiges Wissen. Output Klauselvorschlaege für Knowledge-Qualifikation mit Risikobewertung für Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
+**Fokus:** Fair Disclosure und Knowledge-Qualifikation in M&A-Vertraegen: Anwendungsfall Vertragsparteien verhandeln Wissenszurechnung, Kenntnis-Definitionen und Fair-Disclosure-Mechanismus im SPA. §§ 433 ff. BGB, § 442 BGB Kaeufer-Kenntnis. Prüfraster best knowledge vs. actual knowledge vs. constructive knowledge, Wissensträger-Definition, Datenraum als Fair Disclosure, aktenmäßiges Wissen. Output Klauselvorschlaege für Knowledge-Qualifikation mit Risikobewertung für Kaeufer und Verkaeufer. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf.
 
 # Fair Disclosure und Knowledge
 
@@ -417,7 +417,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-financing-security-documents`
 
-**Frühere Beschreibung:** Financing und Security Documents Skill: prueft Akquisitionsfinanzierung, Sicherheiten, Intercreditor, Conditions, Funds Flow und Bank-Deliverables.
+**Fokus:** Financing und Security Documents Skill: prueft Akquisitionsfinanzierung, Sicherheiten, Intercreditor, Conditions, Funds Flow und Bank-Deliverables.
 
 # Financing Security Documents
 
@@ -507,7 +507,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-foreign-subsidies-regulation-fsr`
 
-**Frühere Beschreibung:** Foreign Subsidies Regulation FSR Skill: prueft EU-FSR-Relevanz, Drittstaaten-Finanzbeitraege, Transaktionsdaten, Filing-Risiko und Koordination mit Merger Control/FDI.
+**Fokus:** Foreign Subsidies Regulation FSR Skill: prueft EU-FSR-Relevanz, Drittstaaten-Finanzbeitraege, Transaktionsdaten, Filing-Risiko und Koordination mit Merger Control/FDI.
 
 # Foreign Subsidies Regulation FSR
 
@@ -597,7 +597,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-freundlicher-copilot`
 
-**Frühere Beschreibung:** Freundlicher M&A-Deal-Copilot für junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne Vorwurf. M&A-Praxis, SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Absicht aus Rohtext ableiten, unausgesprochene Fragen aufdecken, Fachbegriffe erklären, naechste Schritte aufzeigen. Output kurze hilfreiche Hinweise mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zum Kommandocenter für strukturierten Deal-Start.
+**Fokus:** Freundlicher M&A-Deal-Copilot für junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne Vorwurf. M&A-Praxis, SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Absicht aus Rohtext ableiten, unausgesprochene Fragen aufdecken, Fachbegriffe erklären, naechste Schritte aufzeigen. Output kurze hilfreiche Hinweise mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zum Kommandocenter für strukturierten Deal-Start.
 
 # Freundlicher Deal-Copilot
 
@@ -776,7 +776,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-gesellschaftsrecht-register`
 
-**Frühere Beschreibung:** Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Prüfraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals für Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill für Recherche und zu Signing-Closing-CPs.
+**Fokus:** Corporate Housekeeping und Register-Prüfung im M&A-Kontext: Anwendungsfall Anwalt prüft für Kaeufer oder Verkaeufer HRB/HRA-Eintrag, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten und Organstellung der Zielgesellschaft. §§ 8-11 GmbHG, §§ 39-40 AktG, §§ 29 ff. HGB. Prüfraster aktueller Registerstand, Vertretungsmacht, Kapitalstruktur, Transparenzregister-Eintrag, Corporate Approvals für Transaktion. Output Corporate-Housekeeping-Checkliste mit Defizitliste und Closing-Deliverables-Ableitung. Abgrenzung zu Handelsregisterabruf-Skill für Recherche und zu Signing-Closing-CPs.
 
 # Corporate Housekeeping und Register
 
@@ -989,7 +989,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-handelsregisterabruf`
 
-**Frühere Beschreibung:** Handelsregister-Abruf und Registerrecherche für M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand für Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. §§ 8-10 GmbHG, §§ 29 ff. HGB, § 15 HGB Registerpublizitaet. Prüfraster Eintragungsstand, Vertretungsmacht, Satzungsversion, Eintragungsdatum, aktuell laufende Registerverfahren. Output Registerauszug-Auswertung mit gesellschaftsrechtlichem Status und Handlungsempfehlungen. Abgrenzung zu Corporate-Housekeeping für interne Prüfung und zu Gesellschaftsrecht-Register.
+**Fokus:** Handelsregister-Abruf und Registerrecherche für M&A-Transaktionen: Anwendungsfall Anwalt recherchiert offiziellen Registerstand für Zielgesellschaft, Kaeufer-Holding, Komplementaer-GmbH oder Beteiligungsketten. §§ 8-10 GmbHG, §§ 29 ff. HGB, § 15 HGB Registerpublizitaet. Prüfraster Eintragungsstand, Vertretungsmacht, Satzungsversion, Eintragungsdatum, aktuell laufende Registerverfahren. Output Registerauszug-Auswertung mit gesellschaftsrechtlichem Status und Handlungsempfehlungen. Abgrenzung zu Corporate-Housekeeping für interne Prüfung und zu Gesellschaftsrecht-Register.
 
 # Handelsregister- und Registerabruf
 

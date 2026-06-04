@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-sftf-arbeitsvertraeg-bis-sftf-elektronische-s
-description: "schriftform-und-textform-bgb: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (sftf-arbeitsvertraege-nachweisgesetz-spezial, sftf-doppelschriftform-aufhebung-spezial, sftf-elektronische-signatur-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schriftform-und-textform-bgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sftf Arbeitsvertraege Nachweisgesetz Spezial, Sftf Doppelschriftform Aufhebung Spezial, Sftf Elektronische Signatur Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - schriftform-und-textform-bgb
+# Arbeitsbereich - Sftf Arbeitsvertraege Nachweisgesetz Spezial, Sftf Doppelschriftform Aufhebung Spezial, Sftf Elektronische Signatur Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sftf-arbeitsvertraege-nachweisgesetz-spezial` | Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster fuer Arbeitgeber. |
 | `sftf-doppelschriftform-aufhebung-spezial` | Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster fuer langlaufende Vertraege. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sftf-arbeitsvertraege-nachweisgesetz-spezial`
 
-**Frühere Beschreibung:** Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster fuer Arbeitgeber.
+**Fokus:** Spezialfall Schriftform im Arbeitsverhaeltnis nach Nachweisgesetzaenderung 2022: schriftliche Aushaendigung, Bussgeld, Befristung. Pruefraster fuer Arbeitgeber.
 
 # SfTf: Nachweisgesetz Arbeit
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `schriftform-und-textform-bgb`. Er ergaenzt die 
 
 ## 2. `sftf-doppelschriftform-aufhebung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster fuer langlaufende Vertraege.
+**Fokus:** Spezialfall Aufhebung der doppelten Schriftform durch Individualabrede: BGH-Rechtsprechung, Auslegung, Beweisrisiko. Pruefraster fuer langlaufende Vertraege.
 
 # SfTf: Doppelschriftform-Aufhebung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `schriftform-und-textform-bgb`. Er ergaenzt die 
 
 ## 3. `sftf-elektronische-signatur-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster fuer Vertraege und behoerdliche Verfahren.
+**Fokus:** Leitfaden qualifizierte elektronische Signatur eIDAS: Vertrauensdienst, eID, Fernsignatur. Pruefraster fuer Vertraege und behoerdliche Verfahren.
 
 # SfTf: eIDAS-Signatur
 

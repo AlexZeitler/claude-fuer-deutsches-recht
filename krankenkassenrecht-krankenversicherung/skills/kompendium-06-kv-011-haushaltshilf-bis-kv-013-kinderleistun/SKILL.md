@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-kv-011-haushaltshilf-bis-kv-013-kinderleistun
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen, kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss, kv-013-kinderleistungen-sozialpaediatrie-therapie-und-schulbegle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistungen Sozialpaediatrie Therapie Und Schulbegle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 011 Haushaltshilfe Fahrkosten Und Besondere Lebenslagen, Kv 012 Zahnersatz Heil Und Kostenplan Bonusheft Festzuschuss, Kv 013 Kinderleistu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen` | GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 60 SGB V) und besondere Lebenslagen: Anspruchsvoraussetzungen, Genehmigung und Widerspruch. |
 | `kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss` | Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-011-haushaltshilfe-fahrkosten-und-besondere-lebenslagen`
 
-**Frühere Beschreibung:** GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 60 SGB V) und besondere Lebenslagen: Anspruchsvoraussetzungen, Genehmigung und Widerspruch.
+**Fokus:** GKV-Leistungen für Haushaltshilfe (§ 38 SGB V), Fahrkosten (§ 60 SGB V) und besondere Lebenslagen: Anspruchsvoraussetzungen, Genehmigung und Widerspruch.
 
 # Haushaltshilfe, Fahrkosten und besondere Lebenslagen
 
@@ -112,7 +112,7 @@ Dieser Skill bearbeitet **ergänzende GKV-Leistungen** neben der Krankenbehandlu
 
 ## 2. `kv-012-zahnersatz-heil-und-kostenplan-bonusheft-festzuschuss`
 
-**Frühere Beschreibung:** Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen.
+**Fokus:** Zahnersatzversorgung in der GKV: Heil- und Kostenplan, Regelversorgung, Festzuschuss, Bonusheft-Regelungen und Mehrkosten bei Privatleistungen.
 
 # Zahnersatz: Heil- und Kostenplan, Bonusheft, Festzuschuss
 
@@ -193,7 +193,7 @@ Dieser Skill klärt **Zahnersatzversorgung** in der GKV: Welche Leistung schulde
 
 ## 3. `kv-013-kinderleistungen-sozialpaediatrie-therapie-und-schulbegle`
 
-**Frühere Beschreibung:** Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen.
+**Fokus:** Krankenversicherungsleistungen für Kinder: sozialpädiatrische Zentren, Therapien, Schulbegleitung – Abgrenzung GKV, Eingliederungshilfe (SGB IX/SGB XII), Schnittstellen.
 
 # Kinderleistungen: Sozialpädiatrie, Therapie und Schulbegleitung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-crossborder-us-freel-bis-nachhilfe-online-tut
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (crossborder-us-freelancer, ksv-abgabe-auftraggeber, kuenstler-ksvg, nachhilfe-online-tutoren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Crossborder Us Freelancer, Ksv Abgabe Auftraggeber, Kuenstler Ksvg, Nachhilfe Online Tutoren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Crossborder Us Freelancer bis Nachhilfe Online Tutoren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `crossborder-us-freelancer` | Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers. |
 | `ksv-abgabe-auftraggeber` | Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `crossborder-us-freelancer`
 
-**Frühere Beschreibung:** Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers.
+**Fokus:** Prüft US-Freelancer für deutsche Unternehmen: Status, IP, Steuer, Datenschutz, Export und local counsel triggers.
 
 # Cross-border US Freelancer
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `ksv-abgabe-auftraggeber`
 
-**Frühere Beschreibung:** Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus.
+**Fokus:** Prüft Künstlersozialabgabe für Auftraggeber unabhängig von Beschäftigungsstatus.
 
 # Künstlersozialabgabe Auftraggeber
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `kuenstler-ksvg`
 
-**Frühere Beschreibung:** Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext.
+**Fokus:** Prüft Künstler, Musiker, Designer, Sprecher und Künstlersozialversicherung/-abgabe im Statuskontext.
 
 # Künstler und KSVG
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `nachhilfe-online-tutoren`
 
-**Frühere Beschreibung:** Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht.
+**Fokus:** Prüft Nachhilfelehrer, Plattformtutoren, Onlineunterricht, Preissteuerung und Rentenversicherungspflicht.
 
 # Nachhilfe und Online-Tutoren
 

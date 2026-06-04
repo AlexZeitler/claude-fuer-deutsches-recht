@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-vc-056-consent-reque-bis-vc-003-investorprofi
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (vc-056-consent-request-workflow, vc-093-pass-email-und-feedback, rechtsabteilung-founder-vesting-und-leaver-streit, vc-003-investorprofil-family-office-fonds-angel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 056 Consent Request Workflow, Vc 093 Pass Email Und Feedback, Founder Vesting Und Leaver Streit, Vc 003 Investorprofil Family Office Fonds Angel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - venture-capital-geber
+# Arbeitsbereich - Vc 056 Consent Request Workflow bis Vc 003 Investorprofil Family Office Fonds Angel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-056-consent-request-workflow` | Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen. |
 | `vc-093-pass-email-und-feedback` | Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-056-consent-request-workflow`
 
-**Frühere Beschreibung:** Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen.
+**Fokus:** Prüft Zustimmungsanfragen zu Budget, Debt, Hiring, IP, M&A, Related Party und Kapitalmaßnahmen.
 
 # Consent Request Workflow
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-093-pass-email-und-feedback`
 
-**Frühere Beschreibung:** Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko.
+**Fokus:** Erstellt faire Absagen, Watchlist-Feedback und Wiedervorlage ohne Haftungs- oder Reputationsrisiko.
 
 # Absage und Feedback
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `rechtsabteilung-founder-vesting-und-leaver-streit`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Founder Vesting und Leaver-Streit: Good/Bad Leaver wird auf Durchsetzbarkeit, Steuer und Motivationsrisiko geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Founder Vesting und Leaver-Streit
 
@@ -161,7 +161,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `vc-003-investorprofil-family-office-fonds-angel`
 
-**Frühere Beschreibung:** Baut aus Herkunft des Geldes, Mandat, Risikoappetit, Ticketgröße, Haltedauer, Steuer, Reputation und Regulatorik ein VC-Investorprofil.
+**Fokus:** Baut aus Herkunft des Geldes, Mandat, Risikoappetit, Ticketgröße, Haltedauer, Steuer, Reputation und Regulatorik ein VC-Investorprofil.
 
 # Investorprofil: Family Office, Fonds, Angel
 

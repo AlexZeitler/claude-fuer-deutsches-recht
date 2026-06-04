@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-pruefungsordnung-rou-bis-pruefungsrecht-berli
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (pruefungsordnung-router, pruefungsrecht-baden-wuerttemberg, pruefungsrecht-bayern, pruefungsrecht-berlin) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pruefungsordnung Router, Pruefungsrecht Baden Wuerttemberg, Pruefungsrecht Bayern, Pruefungsrecht Berlin; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - pruefungsrecht-hochschule
+# Arbeitsbereich - Pruefungsordnung Router bis Pruefungsrecht Berlin
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pruefungsordnung-router` | Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid. |
 | `pruefungsrecht-baden-wuerttemberg` | Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pruefungsordnung-router`
 
-**Frühere Beschreibung:** Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid.
+**Fokus:** Routet jeden Prüfungsfall in Prüfungsordnung, Modulhandbuch, Satzung und Bescheid.
 
 # Pruefungsordnung Router
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Normenkette Prüfung. Am Ende immer drei Zeilen: **Frist**, *
 
 ## 2. `pruefungsrecht-baden-wuerttemberg`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Baden-Württemberg mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Baden Wuerttemberg
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 3. `pruefungsrecht-bayern`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Bayern mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Bayern
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 4. `pruefungsrecht-berlin`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Berlin mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Berlin mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Berlin
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-hochrisiko-genauigke-bis-hochrisiko-technisch
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15, hochrisiko-konformitaetsbewertung-art-43-bis-49, hochrisiko-risikomanagementsystem-art-9, hochrisiko-technische-dokumentation-art-11-und-anhang-iv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15, Hochrisiko Konformitaetsbewertung Art 43 Bis 49, Hochrisiko Risikomanagementsystem Art 9, Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Hochrisiko Genauigkeit Robustheit Cybersicherheit Art 15 bis Hochrisiko Technische Dokumentation Art 11 Und Anhang Iv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15` | Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren). |
 | `hochrisiko-konformitaetsbewertung-art-43-bis-49` | Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren).
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards für Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Prüfraster: Genauigkeitsmetriken und Leistungserklärung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitätsbewertung-art-43-bis-49 (Bewertungsverfahren).
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO
 
@@ -139,7 +139,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `hochrisiko-konformitaetsbewertung-art-43-bis-49`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack.
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitätsbewertung selbst durchführen? Art. 43 bis 49 KI-VO Konformitätsbewertung. Prüfraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenprüfung Modul H vollständiges QMS. CE-Kennzeichnung EU-Konformitätserklärung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v und output-konformitaetsbescheinigung-evidence-pack.
 
 # Konformitätsbewertung — Art. 43 bis 49 KI-VO
 
@@ -264,7 +264,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `hochrisiko-risikomanagementsystem-art-9`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konformes Risikomanagementsystem auf und was muss es enthalten? Art. 9 KI-VO Risikomanagementsystem. Prüfraster: kontinuierlicher iterativer Prozess Risikoidentifikation Risikoabschaetzung Risikominderungsmassnahmen Restrisiko-Bewertung und -Akzeptanz Dokumentationspflicht. Typische Luecken fehlende Iterationszyklen unvollständige Risikolandkarte. Output: Risikomanagementsystem-Rahmenwerk und Vorlage Risikodokumentation. Abgrenzung zu hochrisiko-datenqualitaet-und-data-governance-art-10 und hochrisiko-konformitätsbewertung-art-43-bis-49.
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konformes Risikomanagementsystem auf und was muss es enthalten? Art. 9 KI-VO Risikomanagementsystem. Prüfraster: kontinuierlicher iterativer Prozess Risikoidentifikation Risikoabschaetzung Risikominderungsmassnahmen Restrisiko-Bewertung und -Akzeptanz Dokumentationspflicht. Typische Luecken fehlende Iterationszyklen unvollständige Risikolandkarte. Output: Risikomanagementsystem-Rahmenwerk und Vorlage Risikodokumentation. Abgrenzung zu hochrisiko-datenqualitaet-und-data-governance-art-10 und hochrisiko-konformitätsbewertung-art-43-bis-49.
 
 # Risikomanagementsystem — Art. 9 KI-VO
 
@@ -386,7 +386,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `hochrisiko-technische-dokumentation-art-11-und-anhang-iv`
 
-**Frühere Beschreibung:** Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Prüfraster: vollständiger Inhaltskatalog nach Anhang IV Systembeschreibung Entwicklungsprozess Datensaetze Leistungsmetriken Risikomanagement Konformitätsbewertungsergebnis Aktualisierungspflichten bei Systemaenderungen. Output: Dokumentations-Checkliste nach Anhang IV und Strukturvorlage. Abgrenzung zu hochrisiko-aufzeichnungspflichten-logging-art-12 (laufende Logs) und output-konformitätserklärung-eu-anhang-v (Konformitätserklärung).
+**Fokus:** Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Prüfraster: vollständiger Inhaltskatalog nach Anhang IV Systembeschreibung Entwicklungsprozess Datensaetze Leistungsmetriken Risikomanagement Konformitätsbewertungsergebnis Aktualisierungspflichten bei Systemaenderungen. Output: Dokumentations-Checkliste nach Anhang IV und Strukturvorlage. Abgrenzung zu hochrisiko-aufzeichnungspflichten-logging-art-12 (laufende Logs) und output-konformitätserklärung-eu-anhang-v (Konformitätserklärung).
 
 # Technische Dokumentation — Art. 11 und Anhang IV KI-VO
 

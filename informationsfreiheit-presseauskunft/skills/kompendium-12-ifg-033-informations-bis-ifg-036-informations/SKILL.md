@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-ifg-033-informations-bis-ifg-036-informations
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (ifg-033-informationszugang-sachsen-livecheck, ifg-034-informationszugang-sachsen-anhalt-live, ifg-035-informationszugang-schleswig-holstein, ifg-036-informationszugang-thueringen-livechec) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 033 Informationszugang Sachsen Livecheck, Ifg 034 Informationszugang Sachsen Anhalt Live, Ifg 035 Informationszugang Schleswig Holstein, Ifg 036 Informationszugang Thueringen Livechec; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 033 Informationszugang Sachsen Livecheck bis Ifg 036 Informationszugang Thueringen Livechec
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-033-informationszugang-sachsen-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Sachsen Livecheck. Informationszugang Sachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-034-informationszugang-sachsen-anhalt-live` | Informationsfreiheit und Presseauskunft: Informationszugang Sachsen-Anhalt Livecheck. Informationszugang Sachsen-Anhalt Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-033-informationszugang-sachsen-livecheck`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Sachsen Livecheck. Informationszugang Sachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Sachsen Livecheck. Informationszugang Sachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Sachsen Livecheck
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-034-informationszugang-sachsen-anhalt-live`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Sachsen-Anhalt Livecheck. Informationszugang Sachsen-Anhalt Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Sachsen-Anhalt Livecheck. Informationszugang Sachsen-Anhalt Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Sachsen Anhalt Live
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-035-informationszugang-schleswig-holstein`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Schleswig-Holstein Livecheck. Informationszugang Schleswig-Holstein Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Schleswig-Holstein Livecheck. Informationszugang Schleswig-Holstein Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Schleswig Holstein
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-036-informationszugang-thueringen-livechec`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Thüringen Livecheck. Informationszugang Thüringen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Thüringen Livecheck. Informationszugang Thüringen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Thueringen Livechec
 

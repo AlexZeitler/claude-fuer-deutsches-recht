@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-dienstunfaehigkeit-e-bis-einsatz-unfall-verso
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (dienstunfaehigkeit-entlassung-zurruhesetzung, dienstzeit-soldat-auf-zeit-berufssoldat-fwdl, einsatz-unfall-versorgung-dokumentenplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Dienstunfaehigkeit Entlassung Zurruhesetzung, Dienstzeit Soldat Auf Zeit Berufssoldat Fwdl, Einsatz Unfall Versorgung Dokumentenplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dienstunfaehigkeit-entlassung-zurruhesetzung` | Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG. |
 | `dienstzeit-soldat-auf-zeit-berufssoldat-fwdl` | Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dienstunfaehigkeit-entlassung-zurruhesetzung`
 
-**Frühere Beschreibung:** Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Dienstunfähigkeit Entlassung Zurruhesetzung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Dienstunfähigkeit – Entlassung und Zurruhesetzung
 
@@ -130,7 +130,7 @@ Verliert der Soldat seine Dienstfähigkeit, führt dies zu unterschiedlichen Fol
 
 ## 2. `dienstzeit-soldat-auf-zeit-berufssoldat-fwdl`
 
-**Frühere Beschreibung:** Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32.
+**Fokus:** Dienstzeiten SaZ, BeruSold, FWDL: prüft SG §§ 23–32, Verlängerung, Verpflichtungszeiten und Statusübergänge. Norm-/Quellenanker: SG §§ 23–32.
 
 # Dienstzeit: Soldat auf Zeit, Berufssoldat, FWDL
 
@@ -236,7 +236,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `einsatz-unfall-versorgung-dokumentenplan`
 
-**Frühere Beschreibung:** Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG.
+**Fokus:** Einsatz, Unfall, Versorgung Dokumentenplan: prüft erforderliche Unterlagen für Einsatz-WDB-Anträge, Fristen und Beweissicherung. Norm-/Quellenanker: SVG §§ 27 und 63a ff., EinsatzWVG.
 
 # Einsatz, Unfall, Versorgung — Dokumentenplan
 

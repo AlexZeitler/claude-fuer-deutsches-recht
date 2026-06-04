@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-fran-031-it-system-p-bis-fran-033-lebensmitte
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (fran-031-it-system-pos-kassendaten-und-zugriff, fran-032-lieferketten-compliance-lksg-und-esg, fran-033-lebensmittel-franchise-hygiene-und-haccp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Haccp; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - franchiserecht-praxis
+# Arbeitsbereich - Fran 031 It System Pos Kassendaten Und Zugriff, Fran 032 Lieferketten Compliance Lksg Und Esg, Fran 033 Lebensmittel Franchise Hygiene Und Ha
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-031-it-system-pos-kassendaten-und-zugriff` | IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten. |
 | `fran-032-lieferketten-compliance-lksg-und-esg` | Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-031-it-system-pos-kassendaten-und-zugriff`
 
-**Frühere Beschreibung:** IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten.
+**Fokus:** IT-Systeme und POS-Kassendaten im Franchiserecht regeln: Zugriff des Franchisegebers auf Echtzeitdaten, Dateneigentum, Datenschutz nach DSGVO, Systemausfallhaftung und Vertragsklauseln für Kassensoftware-Nutzungspflichten.
 
 # Franchiserecht: IT-System, POS-Kassendaten und Datenzugriff
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-032-lieferketten-compliance-lksg-und-esg`
 
-**Frühere Beschreibung:** Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer.
+**Fokus:** Lieferketten-Sorgfaltspflichten im Franchisesystem nach LkSG prüfen: Verantwortlichkeit des Franchisegebers für Lieferanten, Risikoanalyse, Beschwerdeverfahren und ESG-Berichtspflichten. Haftungsrisiken und Weitergabeklauseln für Franchisenehmer.
 
 # Franchiserecht: Lieferketten-Compliance, LkSG und ESG
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-033-lebensmittel-franchise-hygiene-und-haccp`
 
-**Frühere Beschreibung:** Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten.
+**Fokus:** Lebensmittelfranchise rechtlich absichern: Hygienepflichten nach VO (EG) 852/2004 und LMHV, HACCP-Konzept als Systempflicht, Haftung bei Lebensmittelskandalen im Franchise-Netz, behördliche Schliessungen und Rückrufpflichten.
 
 # Franchiserecht: Lebensmittel-Franchise, Hygiene und HACCP
 

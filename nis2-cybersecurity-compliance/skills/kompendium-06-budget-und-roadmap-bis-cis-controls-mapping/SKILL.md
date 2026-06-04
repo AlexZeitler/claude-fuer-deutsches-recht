@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-budget-und-roadmap-bis-cis-controls-mapping
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (budget-und-roadmap, byod-policy, chatgpt-copilot-policy, cis-controls-mapping) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Budget Und Roadmap, Byod Policy, Chatgpt Copilot Policy, Cis Controls Mapping; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Budget Und Roadmap bis Cis Controls Mapping
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `budget-und-roadmap` | Übersetzt Cyberrisiken in Budget und Roadmap. |
 | `byod-policy` | Baut eine BYOD-Policy mit realistischen technischen Grenzen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `budget-und-roadmap`
 
-**Frühere Beschreibung:** Übersetzt Cyberrisiken in Budget und Roadmap.
+**Fokus:** Übersetzt Cyberrisiken in Budget und Roadmap.
 
 # Budget Und Roadmap
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `byod-policy`
 
-**Frühere Beschreibung:** Baut eine BYOD-Policy mit realistischen technischen Grenzen.
+**Fokus:** Baut eine BYOD-Policy mit realistischen technischen Grenzen.
 
 # BYOD Policy
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `chatgpt-copilot-policy`
 
-**Frühere Beschreibung:** Baut Policy für ChatGPT, Copilot und Entwickler-KI.
+**Fokus:** Baut Policy für ChatGPT, Copilot und Entwickler-KI.
 
 # Chatgpt Copilot Policy
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `cis-controls-mapping`
 
-**Frühere Beschreibung:** Mappt CIS Controls auf umsetzbare technische Maßnahmen.
+**Fokus:** Mappt CIS Controls auf umsetzbare technische Maßnahmen.
 
 # CIS Controls Mapping
 

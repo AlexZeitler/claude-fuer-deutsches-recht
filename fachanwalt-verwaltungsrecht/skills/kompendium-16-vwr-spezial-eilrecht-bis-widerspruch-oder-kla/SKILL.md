@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-vwr-spezial-eilrecht-bis-widerspruch-oder-kla
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (vwr-spezial-eilrechtsschutz, widerspruch-oder-klage-erstpruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Vwr Spezial Eilrechtsschutz, Widerspruch Oder Klage Erstpruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vwr-spezial-eilrechtsschutz` | Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte fuer Eilantrag. |
 | `widerspruch-oder-klage-erstpruefung` | Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vwr-spezial-eilrechtsschutz`
 
-**Frühere Beschreibung:** Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte fuer Eilantrag.
+**Fokus:** Spezialfall Eilrechtsschutz vor Verwaltungsgericht: § 80 Abs. 5 VwGO Aussetzung der Vollziehung, § 123 VwGO einstweilige Anordnung, Abwaegungspruefung, Begruendungsanforderungen. Pruefraster und Mustertexte fuer Eilantrag.
 
 # Verwaltungsrecht: Eilrechtsschutz
 
@@ -79,7 +79,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-verwaltungsrecht`. Er ergaenzt die u
 
 ## 2. `widerspruch-oder-klage-erstpruefung`
 
-**Frühere Beschreibung:** Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo.
+**Fokus:** Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo.
 
 # Widerspruch oder Klage — Erstprüfung
 

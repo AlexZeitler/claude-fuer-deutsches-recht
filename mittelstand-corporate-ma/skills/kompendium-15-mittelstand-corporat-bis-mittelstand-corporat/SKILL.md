@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-disclosure-schedules, mittelstand-corporate-ma-distressed-ma, mittelstand-corporate-ma-due-diligence-commercial-contracts, mittelstand-corporate-ma-due-diligence-legal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Disclosure Schedules, Mittelstand Corporate Ma Distressed Ma, Mittelstand Corporate Ma Due Diligence Commercial Contracts, Mittelstand Corporate Ma Due Diligence Legal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Disclosure Schedules bis Mittelstand Corporate Ma Due Diligence Legal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-disclosure-schedules` | Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung. |
 | `mittelstand-corporate-ma-distressed-ma` | Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-disclosure-schedules`
 
-**Frühere Beschreibung:** Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung.
+**Fokus:** Disclosure Schedules: Ableitung aus Datenraum, DD-Findings, Q&A und SPA-Garantien; Materiality Scrape, Earn-Out-Konflikte, Vendor DD, Fair Disclosure nach BGH-Rechtsprechung.
 
 # Disclosure Schedules
 
@@ -240,7 +240,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `mittelstand-corporate-ma-distressed-ma`
 
-**Frühere Beschreibung:** Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG.
+**Fokus:** Distressed M&A: Unternehmenskauf in Krise, vorläufiger Insolvenz, StaRUG, Insolvenzplan oder Asset Deal aus der Insolvenz; §§ 17-19 InsO, § 15a InsO, § 135 InsO, §§ 1-93 StaRUG.
 
 # Distressed M&A
 
@@ -454,7 +454,7 @@ OFFENE PUNKTE: [TODO Owner Datum]
 
 ## 3. `mittelstand-corporate-ma-due-diligence-commercial-contracts`
 
-**Frühere Beschreibung:** Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken.
+**Fokus:** Kommerzielle Vertrags-DD: Prüft Kunden-, Lieferanten-, Haendler-, SaaS-, Lizenz- und Materialvertraege auf Change of Control, Kündigung, Exklusivitaet, Haftung, IP und Preisrisiken.
 
 # Kommerzielle Vertrags-DD
 
@@ -635,7 +635,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `mittelstand-corporate-ma-due-diligence-legal`
 
-**Frühere Beschreibung:** Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal.
+**Fokus:** Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal.
 
 # Legal Due Diligence
 

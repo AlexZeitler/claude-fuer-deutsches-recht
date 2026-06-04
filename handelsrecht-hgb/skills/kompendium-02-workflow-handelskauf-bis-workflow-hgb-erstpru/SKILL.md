@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-workflow-handelskauf-bis-workflow-hgb-erstpru
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (workflow-handelskauf-fristenampel, workflow-hgb-erstpruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelskauf Fristenampel, Hgb Erstpruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - handelsrecht-hgb
+# Arbeitsbereich - Handelskauf Fristenampel, Hgb Erstpruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-handelskauf-fristenampel` | Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise. |
 | `workflow-hgb-erstpruefung` | Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-handelskauf-fristenampel`
 
-**Frühere Beschreibung:** Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise.
+**Fokus:** Macht Fristenampel für Rüge, Lieferung, Fixgeschäft, Annahmeverzug, Verjährung und Beweise.
 
 # Handelskauf-Fristenampel
 
@@ -72,7 +72,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `workflow-hgb-erstpruefung`
 
-**Frühere Beschreibung:** Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern.
+**Fokus:** Prüft in fünf Schritten, ob ein HGB-Fall vorliegt und welche Sonderregeln das BGB überlagern.
 
 # HGB Erstprüfung
 

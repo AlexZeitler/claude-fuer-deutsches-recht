@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-pro-bono-low-bono-bis-rechnung-streit-dees
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (pro-bono-low-bono, procurement-legal-interface, quickwin-identifikation, rate-card-review, rechnung-streit-deeskalation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pro Bono Low Bono, Procurement Legal Interface, Quickwin Identifikation, Rate Card Review und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Pro Bono Low Bono bis Rechnung Streit Deeskalation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pro-bono-low-bono` | Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `procurement-legal-interface` | Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pro-bono-low-bono`
 
-**Frühere Beschreibung:** Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Pro Bono und Low Bono: steuert reduzierte Vergütung, Mindestgebühren, Mandatsumfang, Erwartungsmanagement und Haftung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Pro Bono und Low Bono
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `procurement-legal-interface`
 
-**Frühere Beschreibung:** Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Procurement Legal Interface: steuert Einkauf will Kanzleikosten drücken; Legal will Qualität, Privilege und Geschwindigkeit sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Procurement Legal Interface
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `quickwin-identifikation`
 
-**Frühere Beschreibung:** Quickwin-Identifikation: steuert kleine schnelle Erfolge finden: Frist retten, Gegner beruhigen, Datenraum ordnen, Rechnung klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Quickwin-Identifikation: steuert kleine schnelle Erfolge finden: Frist retten, Gegner beruhigen, Datenraum ordnen, Rechnung klären zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Quickwin-Identifikation
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `rate-card-review`
 
-**Frühere Beschreibung:** Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Rate Card Review: steuert Stundensätze, Seniorität, Staffing, Blended Rate und jährliche Anpassung prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Rate Card Review
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `rechnung-streit-deeskalation`
 
-**Frühere Beschreibung:** Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Rechnungsstreit deeskalieren: steuert Kürzung, Missverständnis, Value Story, Kulanz, Nachlass und künftiger Prozess zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Rechnungsstreit deeskalieren
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-geschaeftsfuehrer-al-bis-abschluss-und-neusta
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (geschaeftsfuehrer-altlasten, steuerschulden-und-strafsteuer, abschluss-und-neustart) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Geschaeftsfuehrer Altlasten, Steuerschulden Und Strafsteuer, Abschluss Und Neustart
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geschaeftsfuehrer-altlasten` | Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `steuerschulden-und-strafsteuer` | Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geschaeftsfuehrer-altlasten`
 
-**Frühere Beschreibung:** Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.; Normanker: InsO § 304; AO §§ 69 und 34; § 266a StGB; § 15a InsO; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Ehemaliger Geschäftsführer: Bürgschaften, § 15a-Altlasten, Steuerhaftung, Sozialversicherungsbeiträge und Deliktattribute.
 
@@ -69,7 +69,7 @@ InsO § 304; AO §§ 69, 34; § 266a StGB; § 15a InsO. Entscheidend ist immer d
 
 ## 2. `steuerschulden-und-strafsteuer`
 
-**Frühere Beschreibung:** Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.; Normanker: InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Steuerschulden: Einkommensteuer, Umsatzsteuer aus früherer Selbstständigkeit, Steuerstraftat und Restschuldbefreiungsgrenzen.
 
@@ -110,7 +110,7 @@ InsO § 302 Nr. 1 Alt. 3; AO; InsO §§ 174 ff.. Entscheidend ist immer der aktu
 
 ## 3. `abschluss-und-neustart`
 
-**Frühere Beschreibung:** Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.; Normanker: InsO §§ 300 und 301; DSGVO; Verbraucherrecht; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Abschluss und Neustart: RSB-Beschluss, Auskunfteien, Budget, neue Verträge, Mahnungen und Nachsorge.
 

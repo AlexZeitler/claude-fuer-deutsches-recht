@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-pe-014-carry-waterfa-bis-pe-017-gp-led-second
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (pe-014-carry-waterfall-und-clawback, pe-015-co-investment-und-spv, pe-016-club-deal-und-investorenkonsortium, pe-017-gp-led-secondary-continuation-fund) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 014 Carry Waterfall Und Clawback, Pe 015 Co Investment Und Spv, Pe 016 Club Deal Und Investorenkonsortium, Pe 017 Gp Led Secondary Continuation Fund; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - private-equity-praxis
+# Arbeitsbereich - Pe 014 Carry Waterfall Und Clawback bis Pe 017 Gp Led Secondary Continuation Fund
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-014-carry-waterfall-und-clawback` | Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback. |
 | `pe-015-co-investment-und-spv` | Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-014-carry-waterfall-und-clawback`
 
-**Frühere Beschreibung:** Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback.
+**Fokus:** Erklärt und prüft Carry-Struktur, Preferred Return, Catch-up, European/American Waterfall und Clawback.
 
 # Carry, Waterfall und Clawback
 
@@ -132,7 +132,7 @@ Clawback (LPA):
 
 ## 2. `pe-015-co-investment-und-spv`
 
-**Frühere Beschreibung:** Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte.
+**Fokus:** Strukturiert Co-Investments neben Fondsvehikel, Sponsor-SPV, Informationsrechte und Konflikte.
 
 # Co-Investment und SPV-Struktur
 
@@ -226,7 +226,7 @@ Drag-Along im Co-Invest-SHA:
 
 ## 3. `pe-016-club-deal-und-investorenkonsortium`
 
-**Frühere Beschreibung:** Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln.
+**Fokus:** Prüft Governance, Lead Investor, Voting, Deadlock, Costs Sharing, Confidentiality und Exit-Regeln.
 
 # Club Deal und Investorenkonsortium
 
@@ -324,7 +324,7 @@ Deadlock (Stufenmodell):
 
 ## 4. `pe-017-gp-led-secondary-continuation-fund`
 
-**Frühere Beschreibung:** Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess.
+**Fokus:** Prüft Fortführungsfonds, Konflikte, Bewertung, LPAC-Zustimmung, Fairness Opinion und Transaktionsprozess.
 
 # GP-led Secondary und Continuation Fund
 

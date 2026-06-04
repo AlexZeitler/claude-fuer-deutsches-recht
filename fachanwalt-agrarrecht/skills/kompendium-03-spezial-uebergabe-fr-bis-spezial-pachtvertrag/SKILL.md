@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-uebergabe-fr-bis-spezial-pachtvertrag
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-uebergabe-fristennotiz-und-naechster-schritt, fachanwalt-agrarrecht-pachtvertrag-streitig, spezial-pachtvertrag-abschlussprodukt-und-uebergabe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Uebergabe Fristennotiz Und Naechster Schritt, Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Uebergabe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-agrarrecht
+# Arbeitsbereich - Uebergabe Fristennotiz Und Naechster Schritt, Agrarrecht Pachtvertrag Streitig, Pachtvertrag Abschlussprodukt Und Uebergabe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-uebergabe-fristennotiz-und-naechster-schritt` | Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `fachanwalt-agrarrecht-pachtvertrag-streitig` | Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-uebergabe-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Uebergabe: Fristennotiz und nächster Schritt im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Uebergabe: Fristennotiz und nächster Schritt
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-agrarrecht-pachtvertrag-streitig`
 
-**Frühere Beschreibung:** Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage.
+**Fokus:** Landpachtvertrags-Streitigkeiten LPachtVG. Pachtanzeige binnen 1 Monat. Aufhebungsantrag § 4 LPachtVG bei Unwirksamkeit. Pachtzins-Anpassung § 593 BGB. Verlaengerung Schriftform § 585a BGB. Vorpacht / Vorpfand-Recht. Hofuebergabe-Konstellationen. Beweisaufnahme Sachverständiger Ertragslage.
 
 # Pachtvertrags-Streitigkeiten
 
@@ -206,7 +206,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `spezial-pachtvertrag-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Pachtvertrag: Abschlussprodukt und Übergabe im Plugin fachanwalt agrarrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Pachtvertrag: Abschlussprodukt und Übergabe
 

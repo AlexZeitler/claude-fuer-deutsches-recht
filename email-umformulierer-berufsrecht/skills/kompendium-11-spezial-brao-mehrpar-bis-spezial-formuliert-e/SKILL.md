@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-spezial-brao-mehrpar-bis-spezial-formuliert-e
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (spezial-brao-mehrparteien-konflikt-und-interessen, spezial-fokus-compliance-dokumentation-und-akte, spezial-formuliert-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Brao Mehrparteien Konflikt Und Interessen, Fokus Compliance Dokumentation Und Akte, Formuliert Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Brao Mehrparteien Konflikt Und Interessen, Fokus Compliance Dokumentation Und Akte, Formuliert Erstpruefung Und Mandatsziel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-brao-mehrparteien-konflikt-und-interessen` | Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-fokus-compliance-dokumentation-und-akte` | Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-brao-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Brao: Mehrparteienkonflikt und Interessenmatrix im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Brao: Mehrparteienkonflikt und Interessenmatrix
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-fokus-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Fokus: Compliance-Dokumentation und Aktenvermerk im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Fokus: Compliance-Dokumentation und Aktenvermerk
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-formuliert-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Formuliert: Erstprüfung, Rollenklärung und Mandatsziel im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Formuliert: Erstprüfung, Rollenklärung und Mandatsziel
 

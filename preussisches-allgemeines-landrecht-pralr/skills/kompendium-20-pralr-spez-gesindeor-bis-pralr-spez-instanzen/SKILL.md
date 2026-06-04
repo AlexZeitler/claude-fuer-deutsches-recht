@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pralr-spez-gesindeor-bis-pralr-spez-instanzen
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (pralr-spez-gesindeordnung-1810-und-folgereformen, pralr-spez-gesinderecht-dienstvertraege-zuechtigung, pralr-spez-gesinderecht-knecht-magd-grundlagen, pralr-spez-handwerkerrecht-und-zunftordnung, pralr-spez-instanzenzug-revision-historisch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Gesindeordnung 1810 Und Folgereformen, Pralr Spez Gesinderecht Dienstvertraege Zuechtigung, Pralr Spez Gesinderecht Knecht Magd Grundlagen, Pralr Spez Handwerkerrecht Und Zunftordnung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Gesindeordnung 1810 Und Folgereformen bis Pralr Spez Instanzenzug Revision Historisch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-gesindeordnung-1810-und-folgereformen` | Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix. |
 | `pralr-spez-gesinderecht-dienstvertraege-zuechtigung` | Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege fuer das Gesinde. Liefert Quellenmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-gesindeordnung-1810-und-folgereformen`
 
-**Frühere Beschreibung:** Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix.
+**Fokus:** Gesindeordnung 1810 und Folgereformen. Skill ueberblickt die Reformwellen der preussischen Gesindeordnung und ihre Aufhebung 1918. Liefert chronologische Quellenmatrix.
 
 # Pralr Gesindeordnung 1810 Und Folgereformen
 
@@ -69,7 +69,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-gesinderecht-dienstvertraege-zuechtigung`
 
-**Frühere Beschreibung:** Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege fuer das Gesinde. Liefert Quellenmatrix.
+**Fokus:** Gesinderecht Dienstvertraege und Zuechtigungsbefugnis. Skill behandelt die Vertragsbedingungen ALR II 5 die Zuechtigungsregeln (mit historisch-kritischem Vorbehalt) Misshandlungsschutz und Klagewege fuer das Gesinde. Liefert Quellenmatrix.
 
 # Pralr Gesinderecht Dienstvertraege Zuechtigung
 
@@ -113,7 +113,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-gesinderecht-knecht-magd-grundlagen`
 
-**Frühere Beschreibung:** Gesinderecht im ALR Grundlagen. Skill behandelt die Stellung des Gesindes (Knecht Magd) nach ALR II 5 das Dienstverhaeltnis Anstellung Loehnung Disziplin und Beendigung. Historischer Kontext bis zur Aufhebung des Gesinderechts 1918/1923. Liefert Quellenmatrix.
+**Fokus:** Gesinderecht im ALR Grundlagen. Skill behandelt die Stellung des Gesindes (Knecht Magd) nach ALR II 5 das Dienstverhaeltnis Anstellung Loehnung Disziplin und Beendigung. Historischer Kontext bis zur Aufhebung des Gesinderechts 1918/1923. Liefert Quellenmatrix.
 
 # Pralr Gesinderecht Knecht Magd Grundlagen
 
@@ -174,7 +174,7 @@ ALR II 5 — Gesinderecht. Regelt die Dienstverhaeltnisse zwischen Herrschaft (B
 
 ## 4. `pralr-spez-handwerkerrecht-und-zunftordnung`
 
-**Frühere Beschreibung:** Handwerkerrecht und Zunftordnung im preussischen Recht. Skill behandelt die Zuenfte als wirtschaftliche Organisation Lehrlinge Gesellen Meister Wanderschaft die Gewerbefreiheit 1810/1869 und das Verhaeltnis zu ALR und HGB. Liefert Quellenmatrix.
+**Fokus:** Handwerkerrecht und Zunftordnung im preussischen Recht. Skill behandelt die Zuenfte als wirtschaftliche Organisation Lehrlinge Gesellen Meister Wanderschaft die Gewerbefreiheit 1810/1869 und das Verhaeltnis zu ALR und HGB. Liefert Quellenmatrix.
 
 # Pralr Handwerkerrecht Und Zunftordnung
 
@@ -218,7 +218,7 @@ ALR II 5 — Gesinderecht. Regelt die Dienstverhaeltnisse zwischen Herrschaft (B
 
 ## 5. `pralr-spez-instanzenzug-revision-historisch`
 
-**Frühere Beschreibung:** Instanzenzug und Revision im preussischen Recht historisch. Skill behandelt den dreistufigen Instanzenzug Berufung Revision Nichtigkeitsbeschwerde sowie die Aufgaben des Obertribunals Berlin und die Fortwirkung zum heutigen Instanzenzug. Liefert Quellenmatrix.
+**Fokus:** Instanzenzug und Revision im preussischen Recht historisch. Skill behandelt den dreistufigen Instanzenzug Berufung Revision Nichtigkeitsbeschwerde sowie die Aufgaben des Obertribunals Berlin und die Fortwirkung zum heutigen Instanzenzug. Liefert Quellenmatrix.
 
 # Pralr Instanzenzug Revision Historisch
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-finanzanlagenvermitt-bis-gerichtsstand
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (finanzanlagenvermittler, franchise-abgrenzung, gebietsschutz, gerichtsstand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Finanzanlagenvermittler, Franchise Abgrenzung, Gebietsschutz, Gerichtsstand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - handelsvertreterrecht
+# Arbeitsbereich - Finanzanlagenvermittler bis Gerichtsstand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `finanzanlagenvermittler` | Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags. |
 | `franchise-abgrenzung` | Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `finanzanlagenvermittler`
 
-**Frühere Beschreibung:** Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags.
+**Fokus:** Analysiert die Stellung des Finanzanlagenvermittlers als Handelsvertreter nach § 84 HGB und GewO: Zulassungspflichten nach § 34f GewO, Provisionsansprüche und Stornoreserven bei Finanzprodukten, regulatorische Pflichten nach WpHG sowie Ausgleichsansprüche bei Beendigung des Vermittlervertrags.
 
 # Finanzanlagenvermittler als Handelsvertreter nach § 84 HGB und § 34f GewO
 
@@ -108,7 +108,7 @@ ergänzen das Recht praxisnah.
 
 ## 2. `franchise-abgrenzung`
 
-**Frühere Beschreibung:** Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen.
+**Fokus:** Prüft die Abgrenzung zwischen Franchise und Handelsvertretung: eigenständige Risikotragung des Franchisenehmers vs. Risikolosigkeit des Handelsvertreters als Abgrenzungsmerkmal nach EuGH-Rechtsprechung, Konsequenzen für Provisionspflicht, Ausgleichsanspruch und kartellrechtliche Zulässigkeit vertikaler Beschränkungen.
 
 # Franchise vs. Handelsvertretung — Abgrenzung nach EuGH und §§ 84 ff. HGB
 
@@ -187,7 +187,7 @@ ergänzen das Recht praxisnah.
 
 ## 3. `gebietsschutz`
 
-**Frühere Beschreibung:** Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer.
+**Fokus:** Prüft Gebietsschutzvereinbarungen im Handelsvertretervertrag: Umfang und Wirksamkeit von Alleinvertretungsklauseln, Provisionsansprüche bei Direktabschlüssen im Schutzgebiet, Kartellrechtskonformität von Gebietsexklusivität und Schadensersatz bei Verletzung des Gebietsschutzes durch den Unternehmer.
 
 # Gebietsschutz im Handelsvertretervertrag nach § 87 Abs. 2 HGB und Kartellrecht
 
@@ -266,7 +266,7 @@ ergänzen das Recht praxisnah.
 
 ## 4. `gerichtsstand`
 
-**Frühere Beschreibung:** Bestimmt den zuständigen Gerichtsstand für Handelsvertreterstreitigkeiten: allgemeiner Gerichtsstand nach § 12 ZPO, besonderer Gerichtsstand am Erfüllungsort nach § 29 ZPO, Gerichtsstandsvereinbarungen im Vertretervertrag nach § 38 ZPO sowie internationale Zuständigkeit nach EuGVVO bei grenzüberschreitenden Sachverhalten.
+**Fokus:** Bestimmt den zuständigen Gerichtsstand für Handelsvertreterstreitigkeiten: allgemeiner Gerichtsstand nach § 12 ZPO, besonderer Gerichtsstand am Erfüllungsort nach § 29 ZPO, Gerichtsstandsvereinbarungen im Vertretervertrag nach § 38 ZPO sowie internationale Zuständigkeit nach EuGVVO bei grenzüberschreitenden Sachverhalten.
 
 # Gerichtsstand bei Handelsvertreterstreitigkeiten nach ZPO und EuGVVO
 

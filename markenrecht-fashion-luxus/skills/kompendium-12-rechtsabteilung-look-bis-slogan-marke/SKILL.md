@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-rechtsabteilung-look-bis-slogan-marke
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (rechtsabteilung-lookalike-produkte-und-rufausbeutung, relative-schutzhindernisse-verwechslungsgefahr, selektiver-vertrieb-coty, slogan-marke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lookalike Produkte Und Rufausbeutung, Relative Schutzhindernisse Verwechslungsgefahr, Selektiver Vertrieb Coty, Slogan Marke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - markenrecht-fashion-luxus
+# Arbeitsbereich - Lookalike Produkte Und Rufausbeutung bis Slogan Marke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-lookalike-produkte-und-rufausbeutung` | Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `relative-schutzhindernisse-verwechslungsgefahr` | Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-lookalike-produkte-und-rufausbeutung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Lookalike-Produkte und Rufausbeutung: Luxury-Counsel trennt Marke, Design, Nachahmung und wettbewerbliche Eigenart. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Lookalike-Produkte und Rufausbeutung
 
@@ -76,7 +76,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `relative-schutzhindernisse-verwechslungsgefahr`
 
-**Frühere Beschreibung:** Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie.
+**Fokus:** Relative Schutzhindernisse und Verwechslungsgefahr nach MarkenG und UMV prüfen: Zeichenähnlichkeit, Waren- und Dienstleistungsähnlichkeit, Kennzeichnungskraft, Serienzeichen, Bekanntheitsschutz und Widerspruchsstrategie.
 
 # Relative Schutzhindernisse und Verwechslungsgefahr
 
@@ -120,7 +120,7 @@ Keine Trefferliste ohne Bewertung. Jede Register- oder Rechtsprechungsangabe bra
 
 ## 3. `selektiver-vertrieb-coty`
 
-**Frühere Beschreibung:** Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung.
+**Fokus:** Selektiven Vertrieb für Luxusgüter und Markenware prüfen und gestalten: qualitative Kriterien, Plattformverbot, Diskriminierungsfreiheit, Vertikal-GVO, Marktanteile, Händleraufnahme und Vertragsdurchsetzung.
 
 # Selektiver Vertrieb für Luxusgüter nach Coty
 
@@ -243,7 +243,7 @@ Bevor das selektive Vertriebssystem eingerichtet oder ein Haendler ausgeschlosse
 
 ## 4. `slogan-marke`
 
-**Frühere Beschreibung:** Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort.
+**Fokus:** Slogan-Marken und Kampagnenclaims prüfen: Unterscheidungskraft, Werbeaussage, beschreibender Charakter, Hashtag, Wort-Bild-Strategie, Verkehrsdurchsetzung und Beanstandungsantwort.
 
 # Slogan-Marken für Luxus-Mode
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-fristverlaengerung-s-bis-widerspruchsfrist-84
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (fristverlaengerung-sozialgericht-laien, oertliche-zustaendigkeit-57-sgg, sozialgericht-zustaendigkeit-51-sgg, widerspruch-vorverfahren-78-sgg, widerspruchsfrist-84-sgg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristverlaengerung Sozialgericht Laien, Oertliche Zustaendigkeit 57 Sgg, Sozialgericht Zustaendigkeit 51 Sgg, Widerspruch Vorverfahren 78 Sgg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Fristverlaengerung Sozialgericht Laien bis Widerspruchsfrist 84 Sgg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fristverlaengerung-sozialgericht-laien` | Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten. |
 | `oertliche-zustaendigkeit-57-sgg` | Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fristverlaengerung-sozialgericht-laien`
 
-**Frühere Beschreibung:** Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten.
+**Fokus:** Fristverlaengerung im SG-Verfahren beantragen. Welche Fristen sind verlaengerbar welche nicht. Mustertext für Buerger. Begründung Stellungnahme zum Gutachten.
 
 # Fristverlaengerung im SG-Verfahren
 
@@ -162,7 +162,7 @@ Stand: 05/2026. § 64 SGG und Praxis der Sozialgerichtsbarkeit.
 
 ## 2. `oertliche-zustaendigkeit-57-sgg`
 
-**Frühere Beschreibung:** Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden.
+**Fokus:** Welches Sozialgericht in welcher Stadt? § 57 SGG erklärt die örtliche Zuständigkeit. Wohnort Sitz der Behoerde Sondervorschriften. Wie Sie das richtige SG finden.
 
 # Welches Sozialgericht in welcher Stadt? — § 57 SGG
 
@@ -265,7 +265,7 @@ Stand: 05/2026. Liste aller SG unter www.sozialgerichtsbarkeit.de. Verweisung na
 
 ## 3. `sozialgericht-zustaendigkeit-51-sgg`
 
-**Frühere Beschreibung:** Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht.
+**Fokus:** Welche Streitigkeiten gehoeren vor das Sozialgericht? § 51 SGG erklärt. Abgrenzung zu Verwaltungsgericht Arbeitsgericht Amtsgericht. Wann ist das SG zuständig und wann nicht.
 
 # Welche Streitigkeiten gehoeren vor das Sozialgericht?
 
@@ -377,7 +377,7 @@ Stand: 05/2026. Bei Unklarheit fragen Sie bei der Geschaeftsstelle Ihres Sozialg
 
 ## 4. `widerspruch-vorverfahren-78-sgg`
 
-**Frühere Beschreibung:** Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext.
+**Fokus:** Das Vorverfahren nach § 78 SGG erklärt. Vor jeder Klage muessen Sie Widerspruch einlegen. Welche Behoerde was prüft und wie das Ganze ablaeuft. Mit Mustertext.
 
 # Das Widerspruchsverfahren — § 78 SGG
 
@@ -515,7 +515,7 @@ Stand: 05/2026. SGG aktuell. Vier-Tage-Fiktion fuer Bekanntgabe seit 1.1.2025 (P
 
 ## 5. `widerspruchsfrist-84-sgg`
 
-**Frühere Beschreibung:** Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen.
+**Fokus:** Die Widerspruchsfrist nach § 84 SGG ist ein Monat. Hier lernen Sie genau Berechnung Bekanntgabefiktion vier Tage nach Postaufgabe Wochenenden Feiertage. Mit Beispielen.
 
 # Die Widerspruchsfrist — § 84 SGG
 

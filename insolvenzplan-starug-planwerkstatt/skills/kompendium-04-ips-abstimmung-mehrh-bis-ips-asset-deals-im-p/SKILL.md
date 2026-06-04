@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-ips-abstimmung-mehrh-bis-ips-asset-deals-im-p
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (ips-abstimmung-mehrheiten, ips-anlagenpaket, ips-asset-deals-im-plan-grundstuecke-marken-kundendaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Abstimmung Mehrheiten, Ips Anlagenpaket, Ips Asset Deals Im Plan Grundstuecke Marken Kundendaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-abstimmung-mehrheiten` | Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien taktische Schwellen. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (ips-gruppen-klassenbildung). |
 | `ips-anlagenpaket` | Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften Versionierung. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (ips-datenraum-register). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-abstimmung-mehrheiten`
 
-**Frühere Beschreibung:** Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien taktische Schwellen. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (ips-gruppen-klassenbildung).
+**Fokus:** Abstimmungsmehrheiten für Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Prüfraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien taktische Schwellen. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht für Gruppenbildung (ips-gruppen-klassenbildung).
 
 # Abstimmung und Mehrheiten
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-anlagenpaket`
 
-**Frühere Beschreibung:** Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften Versionierung. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (ips-datenraum-register).
+**Fokus:** Pflichtanlagen für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften Versionierung. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (ips-datenraum-register).
 
 # Anlagenpaket
 
@@ -184,7 +184,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-asset-deals-im-plan-grundstuecke-marken-kundendaten`
 
-**Frühere Beschreibung:** Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformität. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht für allgemeine Planarchitektur (ips-insolvenzplan-architektur).
+**Fokus:** Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformität. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht für allgemeine Planarchitektur (ips-insolvenzplan-architektur).
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung
 

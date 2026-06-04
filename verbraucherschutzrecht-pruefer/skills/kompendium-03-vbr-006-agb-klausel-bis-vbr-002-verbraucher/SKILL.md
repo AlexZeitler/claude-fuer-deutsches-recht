@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-vbr-006-agb-klausel-bis-vbr-002-verbraucher
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (vbr-006-agb-klausel-im-verbrauchervertrag-prue, vbr-016-energievertrag-und-abschlag, vbr-019-gesundheit-und-pflegevertrag, vbr-002-verbraucher-oder-kleines-unternehmen-e) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 006 Agb Klausel Im Verbrauchervertrag Prue, Vbr 016 Energievertrag Und Abschlag, Vbr 019 Gesundheit Und Pflegevertrag, Vbr 002 Verbraucher Oder Kleines Unternehmen E; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 006 Agb Klausel Im Verbrauchervertrag Prue bis Vbr 002 Verbraucher Oder Kleines Unternehmen E
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-006-agb-klausel-im-verbrauchervertrag-prue` | Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-016-energievertrag-und-abschlag` | Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-006-agb-klausel-im-verbrauchervertrag-prue`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: AGB-Klausel im Verbrauchervertrag prüfen. AGB-Klausel im Verbrauchervertrag prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Agb Klausel Im Verbrauchervertrag Prue
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-016-energievertrag-und-abschlag`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Energievertrag und Abschlag. Energievertrag und Abschlag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Energievertrag Und Abschlag
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-019-gesundheit-und-pflegevertrag`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Gesundheit und Pflegevertrag. Gesundheit und Pflegevertrag im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Gesundheit Und Pflegevertrag
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-002-verbraucher-oder-kleines-unternehmen-e`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Verbraucher oder kleines Unternehmen erkennen. Verbraucher oder kleines Unternehmen erkennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Verbraucher oder kleines Unternehmen erkennen. Verbraucher oder kleines Unternehmen erkennen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verbraucher Oder Kleines Unternehmen E
 

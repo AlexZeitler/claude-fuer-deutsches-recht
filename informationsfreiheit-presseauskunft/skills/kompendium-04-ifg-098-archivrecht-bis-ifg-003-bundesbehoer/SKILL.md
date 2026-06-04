@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-ifg-098-archivrecht-bis-ifg-003-bundesbehoer
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (ifg-098-archivrecht-zustaendigkeit-pruefen, ifg-099-archivrecht-frist-setzen, ifg-002-ifg-oder-presseauskunft-richtig-routen, ifg-003-bundesbehoerde-oder-landesbehoerde-erk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 098 Archivrecht Zustaendigkeit Pruefen, Ifg 099 Archivrecht Frist Setzen, Ifg 002 Ifg Oder Presseauskunft Richtig Routen, Ifg 003 Bundesbehoerde Oder Landesbehoerde Erk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 098 Archivrecht Zustaendigkeit Pruefen bis Ifg 003 Bundesbehoerde Oder Landesbehoerde Erk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-098-archivrecht-zustaendigkeit-pruefen` | Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen. Zuständigkeit prüfen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-099-archivrecht-frist-setzen` | Informationsfreiheit und Presseauskunft: Archivrecht: Frist setzen. Frist setzen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-098-archivrecht-zustaendigkeit-pruefen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen. Zuständigkeit prüfen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Archivrecht: Zuständigkeit prüfen. Zuständigkeit prüfen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Archivrecht Zustaendigkeit Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-099-archivrecht-frist-setzen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Archivrecht: Frist setzen. Frist setzen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: Archivrecht: Frist setzen. Frist setzen für Archivrecht im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Archivrecht Frist Setzen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-002-ifg-oder-presseauskunft-richtig-routen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: IFG oder Presseauskunft richtig routen. IFG oder Presseauskunft richtig routen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: IFG oder Presseauskunft richtig routen. IFG oder Presseauskunft richtig routen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Ifg Oder Presseauskunft Richtig Routen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-003-bundesbehoerde-oder-landesbehoerde-erk`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Bundesbehörde oder Landesbehörde erkennen. Bundesbehörde oder Landesbehörde erkennen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Bundesbehörde oder Landesbehörde erkennen. Bundesbehörde oder Landesbehörde erkennen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bundesbehoerde Oder Landesbehoerde Erk
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-gutachtenstil-vs-urt-bis-haus-literaturrecher
-description: "hausarbeitenmacher: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (gutachtenstil-vs-urteilsstil, haus-fussnotenstil-spezial, haus-literaturrecherche-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hausarbeitenmacher: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - hausarbeitenmacher
+# Arbeitsbereich - Gutachtenstil Vs Urteilsstil, Haus Fussnotenstil Spezial, Haus Literaturrecherche Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gutachtenstil-vs-urteilsstil` | Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau). |
 | `haus-fussnotenstil-spezial` | Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gutachtenstil-vs-urteilsstil`
 
-**Frühere Beschreibung:** Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau).
+**Fokus:** Student ist unsicher ob Gutachtenstil oder Urteilsstil anzuwenden ist. Gutachtenstil Obersatz Definition Subsumtion Ergebnis konjunktivisch prüfend. Urteilsstil indikativ direkt begründungsknapp. Normen Methodenlehre Aufsatz-Tradition. Prüfraster Stilauswahl Anwendungsbereiche häufige Fehler Ergebnis-Vorausnahme. Output Stil-Entscheidung Formulierungsbeispiele Fehlervermeidungs-Tipps. Abgrenzung zu subsumtion-schritt-fuer-schritt (Inhalt) und gliederung-mit-tiefenstruktur (Aufbau).
 
 # Gutachtenstil und Urteilsstil
 
@@ -262,7 +262,7 @@ Lies Deinen Text laut. Wenn er
 
 ## 2. `haus-fussnotenstil-spezial`
 
-**Frühere Beschreibung:** Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise.
+**Fokus:** Spezialfall Fussnotenstil deutsche Jurahausarbeit: Erstzitat, Folgezitat, ebenda, aaO, Mehrfachverweis. Pruefraster fuer einheitliche Zitierweise.
 
 # Haus: Fussnotenstil
 
@@ -315,7 +315,7 @@ Dieser Skill gehoert zum Plugin `hausarbeitenmacher`. Er ergaenzt die uebrigen S
 
 ## 3. `haus-literaturrecherche-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster fuer Querschnitts- und Spezialthemen.
+**Fokus:** Leitfaden Literaturrecherche: Kommentar, Lehrbuch, Aufsatz, Rechtsprechung dejure.org / openjur.de. Pruefraster fuer Querschnitts- und Spezialthemen.
 
 # Haus: Literaturrecherche
 

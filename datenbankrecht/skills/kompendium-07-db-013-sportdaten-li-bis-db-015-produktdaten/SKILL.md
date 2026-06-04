@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-db-013-sportdaten-li-bis-db-015-produktdaten
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (db-013-sportdaten-live-daten-fixtures-und-ergebnislisten, db-014-immobiliendaten-portal-und-lead-datenbank, db-015-produktdaten-pim-datenkatalog-hersteller) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 013 Sportdaten Live Daten Fixtures Und Ergebnislisten, Db 014 Immobiliendaten Portal Und Lead Datenbank, Db 015 Produktdaten Pim Datenkatalog Hersteller; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - datenbankrecht
+# Arbeitsbereich - Db 013 Sportdaten Live Daten Fixtures Und Ergebnislisten, Db 014 Immobiliendaten Portal Und Lead Datenbank, Db 015 Produktdaten Pim Datenkata
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-013-sportdaten-live-daten-fixtures-und-ergebnislisten` | Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern. |
 | `db-014-immobiliendaten-portal-und-lead-datenbank` | Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-013-sportdaten-live-daten-fixtures-und-ergebnislisten`
 
-**Frühere Beschreibung:** Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern.
+**Fokus:** Bewertet Datenbankschutz für Sportdaten nach EuGH C-203/02 (BHB/William Hill): Keine wesentliche Investition in Beschaffung von selbst erzeugten Spielplänen und Ergebnissen. Analysiert Schutz von Statistikdatenbanken durch §§ 87a-87e UrhG oder Wettbewerbsrecht, Lizenzmodelle für Live-Daten und Rechte von Sportligen und Veranstaltern.
 
 # Sportdaten, Live-Daten und Ergebnislisten — Datenbankrecht im Sport
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-014-immobiliendaten-portal-und-lead-datenbank`
 
-**Frühere Beschreibung:** Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen.
+**Fokus:** Datenbankrecht für Immobilienportale und Lead-Datenbanken: Prüft §§ 87a-87e UrhG für Exposé-Datenbanken, Schutz gegen systematisches Abgreifen von Angeboten, DSGVO-Anforderungen bei personenbezogenen Kontaktdaten und wettbewerbsrechtliche Aspekte (§§ 3 4 UWG). Erstellt Schutzstrategie für Portal-Betreiber und bewertet Lead-Datenbanklizenzen.
 
 # Immobiliendaten, Portale und Lead-Datenbanken — Datenbankrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-015-produktdaten-pim-datenkatalog-hersteller`
 
-**Frühere Beschreibung:** Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken.
+**Fokus:** Datenbankrecht für Produktdatenbanken und PIM-Systeme: Prüft §§ 87a-87e UrhG für Produktkataloge und Datenkataloge von Herstellern, Schutz gegen Übernahme durch Händler oder Wettbewerber, Lizenzmodelle für Produktdaten-Feeds und Verhältnis zu § 4 UrhG (Datenbankwerk). Analysiert Inhaberschaft bei arbeitsteilig erstellten Produktdatenbanken.
 
 # Produktdaten, PIM-Systeme und Datenkataloge — Datenbankrecht für Hersteller
 

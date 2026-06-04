@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-bho-003-gruppierungs-bis-bho-013-titelgruppe
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 02; bündelt 11 frühere Spezialskills (bho-003-gruppierungsplan-und-funktionenplan, bho-004-bho-7-wirtschaftlichkeit, bho-005-bho-13-gesamtplan-einzelplan, bho-006-bho-17-einzelveranschlagung, bho-007-verpflichtungsermaechtigung-pruefen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 003 Gruppierungsplan Und Funktionenplan, Bho 004 Bho 7 Wirtschaftlichkeit, Bho 005 Bho 13 Gesamtplan Einzelplan, Bho 006 Bho 17 Einzelveranschlagung und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 003 Gruppierungsplan Und Funktionenplan bis Bho 013 Titelgruppe Analysieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-003-gruppierungsplan-und-funktionenplan` | Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-004-bho-7-wirtschaftlichkeit` | Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit. BHO § 7 Wirtschaftlichkeit im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-003-gruppierungsplan-und-funktionenplan`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Gruppierungsplan und Funktionenplan. Gruppierungsplan und Funktionenplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Gruppierungsplan Und Funktionenplan
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-004-bho-7-wirtschaftlichkeit`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit. BHO § 7 Wirtschaftlichkeit im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 7 Wirtschaftlichkeit. BHO § 7 Wirtschaftlichkeit im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 7 Wirtschaftlichkeit
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-005-bho-13-gesamtplan-einzelplan`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 13 Gesamtplan Einzelplan. BHO § 13 Gesamtplan Einzelplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 13 Gesamtplan Einzelplan. BHO § 13 Gesamtplan Einzelplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 13 Gesamtplan Einzelplan
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-006-bho-17-einzelveranschlagung`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung. BHO § 17 Einzelveranschlagung im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung. BHO § 17 Einzelveranschlagung im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 17 Einzelveranschlagung
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-007-verpflichtungsermaechtigung-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung prüfen. Verpflichtungsermächtigung prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verpflichtungsermächtigung prüfen. Verpflichtungsermächtigung prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verpflichtungsermaechtigung Pruefen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-008-ueberplanmaessig-ausserplanmaessig`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Überplanmäßig außerplanmäßig. Überplanmäßig außerplanmäßig im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Überplanmäßig außerplanmäßig. Überplanmäßig außerplanmäßig im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Ueberplanmaessig Ausserplanmaessig
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-009-sondervermoegen-einordnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen einordnen. Sondervermögen einordnen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen einordnen. Sondervermögen einordnen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Sondervermoegen Einordnen
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-010-schuldenbremse-und-kreditaufnahme`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Schuldenbremse und Kreditaufnahme. Schuldenbremse und Kreditaufnahme im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Schuldenbremse und Kreditaufnahme. Schuldenbremse und Kreditaufnahme im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Schuldenbremse Und Kreditaufnahme
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-011-haushaltsvermerk-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltsvermerk lesen. Haushaltsvermerk lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltsvermerk lesen. Haushaltsvermerk lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Haushaltsvermerk Lesen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-012-deckungsfaehigkeit-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. Deckungsfähigkeit prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Deckungsfähigkeit prüfen. Deckungsfähigkeit prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Deckungsfaehigkeit Pruefen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-013-titelgruppe-analysieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Titelgruppe analysieren. Titelgruppe analysieren im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Titelgruppe analysieren. Titelgruppe analysieren im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Titelgruppe Analysieren
 

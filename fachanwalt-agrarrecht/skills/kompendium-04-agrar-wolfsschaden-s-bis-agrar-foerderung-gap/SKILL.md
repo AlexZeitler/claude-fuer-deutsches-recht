@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-agrar-wolfsschaden-s-bis-agrar-foerderung-gap
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (agrar-wolfsschaden-spezial, agrar-cross-compliance-glozez-praxis, agrar-foerderung-gap-strategieplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-agrarrecht
+# Arbeitsbereich - Agrar Wolfsschaden Spezial, Agrar Cross Compliance Glozez Praxis, Agrar Foerderung Gap Strategieplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `agrar-wolfsschaden-spezial` | Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Foerderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG. |
 | `agrar-cross-compliance-glozez-praxis` | Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid. Mustertexte und Pruefraster fuer Landwirt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `agrar-wolfsschaden-spezial`
 
-**Frühere Beschreibung:** Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Foerderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG.
+**Fokus:** Spezialfall Wolfsschaden und Entschaedigung: BNatSchG, Landesrichtlinien zur Entschaedigung, Herdenschutz-Foerderung, Antrag bei Bewilligungsstelle, Klage bei Versagung. Mustertexte und aktuelle Rechtsprechung VG.
 
 # Agrar: Wolfsschaden
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-agrarrecht`. Er ergaenzt die uebrige
 
 ## 2. `agrar-cross-compliance-glozez-praxis`
 
-**Frühere Beschreibung:** Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid. Mustertexte und Pruefraster fuer Landwirt.
+**Fokus:** Cross-Compliance und GLOEZ-Praxis: Verpflichtungen, Kontrollen, Folgen Kuerzung Direktzahlungen, Widerspruch und Klage gegen Kuerzungsbescheid. Mustertexte und Pruefraster fuer Landwirt.
 
 # Agrar: Cross-Compliance
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-agrarrecht`. Er ergaenzt die uebrige
 
 ## 3. `agrar-foerderung-gap-strategieplan`
 
-**Frühere Beschreibung:** GAP-Strategieplan Deutschland und EU-Foerderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Pruefraster und Mustertexte.
+**Fokus:** GAP-Strategieplan Deutschland und EU-Foerderung einfuehrend: Direktzahlungen Einkommensgrundstuetzung, Oeko-Regelungen ELER, Junglandwirteprogramm, Agrarinvestitionsfoerderung. Antragsweg ueber Bewilligungsstelle des Landes, Cross-Compliance, GLOEZ. Pruefraster und Mustertexte.
 
 # Agrar: GAP-Foerderung
 

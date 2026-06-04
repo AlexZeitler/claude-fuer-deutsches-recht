@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ausnahmen-aussergewo-bis-distanz-und-ausgleic
-description: "fluggastrechte: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ausnahmen-aussergewoehnliche-umstaende-pruefen, aussergewoehnliche-umstaende-strikt, distanz-und-ausgleich-berechnen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fluggastrechte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausnahmen Aussergewoehnliche Umstaende Pruefen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fluggastrechte
+# Arbeitsbereich - Ausnahmen Aussergewoehnliche Umstaende Pruefen, Aussergewoehnliche Umstaende Strikt, Distanz Und Ausgleich Berechnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausnahmen-aussergewoehnliche-umstaende-pruefen` | Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `aussergewoehnliche-umstaende-strikt` | Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wallentin-Hermann), Krankheit Crew, ATC-Engpaesse mit Routine. Pruefraster mit Belegen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausnahmen-aussergewoehnliche-umstaende-pruefen`
 
-**Frühere Beschreibung:** Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu ausnahmen aussergewoehnliche umstaende pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Außergewöhnliche Umstände prüfen (Art. 5 Abs. 3 VO 261/2004)
 
@@ -126,7 +126,7 @@ Siehe Skill `airline-standardausreden-pruefen` mit detaillierten Standardgegenar
 
 ## 2. `aussergewoehnliche-umstaende-strikt`
 
-**Frühere Beschreibung:** Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wallentin-Hermann), Krankheit Crew, ATC-Engpaesse mit Routine. Pruefraster mit Belegen.
+**Fokus:** Streng auszulegende aussergewoehnliche Umstaende Art. 5 Abs. 3 VO 261: Wetter, Streik nicht eigener Mitarbeiter, gerichtlich verfuegte Flugverbote, Wildschlag in Triebwerk. Keine aussergewoehnlichen Umstaende: technische Defekte (EuGH Wallentin-Hermann), Krankheit Crew, ATC-Engpaesse mit Routine. Pruefraster mit Belegen.
 
 # Aussergewoehnliche Umstaende
 
@@ -178,7 +178,7 @@ Dieser Skill gehoert zum Plugin `fluggastrechte`. Er ergaenzt die uebrigen Skill
 
 ## 3. `distanz-und-ausgleich-berechnen`
 
-**Frühere Beschreibung:** Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km nicht-innergemeinschaftlich / 600 EUR mehr als 3500 km nicht-innergemeinschaftlich. Halbierung des Ausgleichs bei kurzer Verspaetungs-Beifoerderung. Bei mehreren Passagieren pro Person eigenständig. Pro Anspruchsfall ein Berechnungsdokument.
+**Fokus:** Berechnet die Ausgleichszahlung nach Art. 7 VO 261/2004. Distanzbestimmung nach Grosskreisrechnung zwischen Abflug- und Zielflughafen. Drei Stufen 250 EUR bis 1500 km / 400 EUR mehr als 1500 km innergemeinschaftlich oder 1500 bis 3500 km nicht-innergemeinschaftlich / 600 EUR mehr als 3500 km nicht-innergemeinschaftlich. Halbierung des Ausgleichs bei kurzer Verspaetungs-Beifoerderung. Bei mehreren Passagieren pro Person eigenständig. Pro Anspruchsfall ein Berechnungsdokument.
 
 # Distanz und Ausgleichszahlung berechnen
 

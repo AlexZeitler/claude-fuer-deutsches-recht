@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-vdg-016-individualkl-bis-vdg-019-kosten-und-p
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (vdg-016-individualklagen-koordinieren, vdg-017-presse-und-kampagnenrisiko, vdg-018-datenschutz-im-betroffenenpool, vdg-019-kosten-und-prozessrisiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 016 Individualklagen Koordinieren, Vdg 017 Presse Und Kampagnenrisiko, Vdg 018 Datenschutz Im Betroffenenpool, Vdg 019 Kosten Und Prozessrisiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 016 Individualklagen Koordinieren bis Vdg 019 Kosten Und Prozessrisiko
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-016-individualklagen-koordinieren` | Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-017-presse-und-kampagnenrisiko` | Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-016-individualklagen-koordinieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Individualklagen koordinieren. Individualklagen koordinieren im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Individualklagen Koordinieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-017-presse-und-kampagnenrisiko`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Presse- und Kampagnenrisiko. Presse- und Kampagnenrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Presse Und Kampagnenrisiko
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-018-datenschutz-im-betroffenenpool`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Datenschutz im Betroffenenpool. Datenschutz im Betroffenenpool im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Datenschutz im Betroffenenpool. Datenschutz im Betroffenenpool im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Datenschutz Im Betroffenenpool
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-019-kosten-und-prozessrisiko`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Kosten- und Prozessrisiko. Kosten- und Prozessrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Kosten- und Prozessrisiko. Kosten- und Prozessrisiko im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kosten Und Prozessrisiko
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-memo-due-diligence-r-bis-memo-fuer-mandant-vs
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (memo-due-diligence-rechtsteil, memo-ergebnis-handlungsempfehlung, memo-fuer-mandant-vs-intern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Fuer Mandant Vs Intern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - memorandums-ersteller
+# Arbeitsbereich - Memo Due Diligence Rechtsteil, Memo Ergebnis Handlungsempfehlung, Memo Fuer Mandant Vs Intern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-due-diligence-rechtsteil` | Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen fuer SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste. |
 | `memo-ergebnis-handlungsempfehlung` | Ergebnis und Handlungsempfehlung trennen: Ergebnis ist die rechtliche Antwort, Handlungsempfehlung ist die operative Konsequenz. Empfehlung mit Optionen, Risikoabschaetzung, Kostenrahmen, naechster Schritt mit verantwortlicher Person und Frist. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-due-diligence-rechtsteil`
 
-**Frühere Beschreibung:** Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen fuer SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste.
+**Fokus:** Memo Rechtsteil einer Due Diligence: Material Findings, Issues List, Red Flags, Empfehlungen fuer SPA-Klauseln (Garantien, Freistellungen). Format DD-Memo mit Executive Summary, Detailfindings, Aenderungsempfehlungen Kaufvertrag. Output: priorisierte Issue-Liste.
 
 # Due-Diligence-Rechtsmemo
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-ergebnis-handlungsempfehlung`
 
-**Frühere Beschreibung:** Ergebnis und Handlungsempfehlung trennen: Ergebnis ist die rechtliche Antwort, Handlungsempfehlung ist die operative Konsequenz. Empfehlung mit Optionen, Risikoabschaetzung, Kostenrahmen, naechster Schritt mit verantwortlicher Person und Frist.
+**Fokus:** Ergebnis und Handlungsempfehlung trennen: Ergebnis ist die rechtliche Antwort, Handlungsempfehlung ist die operative Konsequenz. Empfehlung mit Optionen, Risikoabschaetzung, Kostenrahmen, naechster Schritt mit verantwortlicher Person und Frist.
 
 # Memo: Ergebnis + Handlungsempfehlung
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memo-fuer-mandant-vs-intern`
 
-**Frühere Beschreibung:** Memo fuer Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar fuer Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien.
+**Fokus:** Memo fuer Mandanten unterscheidet sich vom internen Memo: weniger Streitstaende, mehr Empfehlungs-Klartext, Glossar fuer Fachbegriffe, klare Antwort 'ja/nein/teils' am Anfang. Internes Memo: vollstaendige Streitstaende, Risikobewertung, alternative Strategien.
 
 # Mandantenmemo vs. internes Memo
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-rentenversicherungsp-bis-sanierung-vorhandene
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (rentenversicherungspflicht-selbststaendige, reporting-controlling, risikomatrix-status, sanierung-vorhandener-vertraege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rentenversicherungspflicht Selbststaendige, Reporting Controlling, Risikomatrix Status, Sanierung Vorhandener Vertraege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Rentenversicherungspflicht Selbststaendige bis Sanierung Vorhandener Vertraege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rentenversicherungspflicht-selbststaendige` | Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige. |
 | `reporting-controlling` | Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rentenversicherungspflicht-selbststaendige`
 
-**Frühere Beschreibung:** Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige.
+**Fokus:** Prüft selbständige Tätigkeiten mit Rentenversicherungspflicht, insbesondere Lehrer, Pflegepersonen und arbeitnehmerähnliche Selbständige.
 
 # Rentenversicherungspflicht Selbständiger
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `reporting-controlling`
 
-**Frühere Beschreibung:** Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien.
+**Fokus:** Prüft Berichte, Freigaben, KPI, Leistungscontrolling und Qualitätsmanagement als Weisungs-/Eingliederungsindizien.
 
 # Reporting und Controlling
 
@@ -158,7 +158,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `risikomatrix-status`
 
-**Frühere Beschreibung:** Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit.
+**Fokus:** Bewertet Statusrisiken nach Personencluster, Zeitraum, Beitragsvolumen, Strafrisiko und Sanierbarkeit.
 
 # Risikomatrix Status
 
@@ -223,7 +223,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `sanierung-vorhandener-vertraege`
 
-**Frühere Beschreibung:** Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis.
+**Fokus:** Sanierung bestehender Risikomodelle durch echte Änderung von Vertrag und Praxis.
 
 # Sanierung vorhandener Verträge
 

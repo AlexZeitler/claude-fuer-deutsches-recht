@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-spezial-strafrecht-f-bis-taeter-opfer-ausglei
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (spezial-strafrecht-fristen-form-und-zustaendigkeit, spezial-verfahrensstadium-strafbefehl-bis-kammer, taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46a Stgb Und Schadenswiedergutmachung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - strafzumessung
+# Arbeitsbereich - Strafrecht Fristen Form Und Zustaendigkeit, Verfahrensstadium Strafbefehl Bis Kammer, Taeter Opfer Ausgleich 46a Stgb Und Schadenswiedergutma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-strafrecht-fristen-form-und-zustaendigkeit` | Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-verfahrensstadium-strafbefehl-bis-kammer` | Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-strafrecht-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Strafrecht: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -105,7 +105,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-verfahrensstadium-strafbefehl-bis-kammer`
 
-**Frühere Beschreibung:** Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Strafzumessung vom Strafbefehl bis zur großen Strafkammer: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Strafzumessung vom Strafbefehl bis zur großen Strafkammer
 
@@ -171,7 +171,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `taeter-opfer-ausgleich-46a-stgb-und-schadenswiedergutmachung`
 
-**Frühere Beschreibung:** Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheblichem Aufwand. Rechtsfolge § 49 Abs. 1 StGB oder Absehen bei Strafe nicht ueber 1 Jahr.
+**Fokus:** Taeter-Opfer-Ausgleich § 46a StGB und Schadenswiedergutmachung als Strafmilderung oder Absehen von Strafe. Nr. 1 Wiedergutmachung gegenueber dem Verletzten erfordert friedensstiftenden kommunikativen Prozess (BGH 4 StR 232/25 vom 20.11.2025). Nr. 2 wesentliche Schadenswiedergutmachung trotz erheblichem Aufwand. Rechtsfolge § 49 Abs. 1 StGB oder Absehen bei Strafe nicht ueber 1 Jahr.
 
 # Taeter-Opfer-Ausgleich und Schadenswiedergutmachung — § 46a StGB
 

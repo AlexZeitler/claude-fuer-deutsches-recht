@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bgb-at-training-fall-bis-duldungs-anscheinsvo
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (bgb-at-training-fallvarianten, digitale-elemente-reparaturrecht-router, duldungs-anscheinsvollmacht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bgb-at-pruefer
+# Arbeitsbereich - Bgb At Training Fallvarianten, Digitale Elemente Reparaturrecht Router, Duldungs Anscheinsvollmacht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bgb-at-training-fallvarianten` | Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen. |
 | `digitale-elemente-reparaturrecht-router` | Router-Skill für digitale Elemente und Reparaturrecht im BGB-AT-Kontext: Abgrenzung zu §§ 327 ff. BGB (Verträge über digitale Produkte), Zugang digitaler Erklärungen, elektronische Form und Schnittstelle zum allgemeinen Vertragsrecht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bgb-at-training-fallvarianten`
 
-**Frühere Beschreibung:** Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen.
+**Fokus:** Trainings-Skill mit Fallvarianten zu BGB-AT-Kernthemen für Examensvorbereitung: Variationen zu Geschäftsfähigkeit, Anfechtung, Stellvertretung und Zugang — unterschiedliche Schwierigkeitsgrade, Mustersubsumtionen und Selbstkontrollfragen.
 
 # Training mit Fallvarianten — BGB Allgemeiner Teil Examen
 
@@ -112,7 +112,7 @@ Fallvarianten helfen, das Verständnis zu vertiefen: Was ändert sich, wenn der 
 
 ## 2. `digitale-elemente-reparaturrecht-router`
 
-**Frühere Beschreibung:** Router-Skill für digitale Elemente und Reparaturrecht im BGB-AT-Kontext: Abgrenzung zu §§ 327 ff. BGB (Verträge über digitale Produkte), Zugang digitaler Erklärungen, elektronische Form und Schnittstelle zum allgemeinen Vertragsrecht.
+**Fokus:** Router-Skill für digitale Elemente und Reparaturrecht im BGB-AT-Kontext: Abgrenzung zu §§ 327 ff. BGB (Verträge über digitale Produkte), Zugang digitaler Erklärungen, elektronische Form und Schnittstelle zum allgemeinen Vertragsrecht.
 
 # Digitale Elemente und Reparaturrecht — Router-Skill BGB AT
 
@@ -196,7 +196,7 @@ vor allem den Vertragsschluss und die Anwendbarkeit von AGB-Klauseln auf digital
 
 ## 3. `duldungs-anscheinsvollmacht`
 
-**Frühere Beschreibung:** Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT nach BGH-Rechtsprechung: Voraussetzungen der Duldungsvollmacht (Kenntnis und Dulden), Anscheinsvollmacht (Erkennbarkeit bei pflichtgemäßer Sorgfalt) und Rechtsfolgen für Vertragspartner.
+**Fokus:** Klausurfall zu Duldungs- und Anscheinsvollmacht im BGB AT nach BGH-Rechtsprechung: Voraussetzungen der Duldungsvollmacht (Kenntnis und Dulden), Anscheinsvollmacht (Erkennbarkeit bei pflichtgemäßer Sorgfalt) und Rechtsfolgen für Vertragspartner.
 
 # Duldungs- und Anscheinsvollmacht — Rechtsscheinvollmacht nach BGH
 

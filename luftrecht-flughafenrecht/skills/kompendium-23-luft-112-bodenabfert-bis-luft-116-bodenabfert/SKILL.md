@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-luft-112-bodenabfert-bis-luft-116-bodenabfert
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (luft-112-bodenabfertigung-register-auswerten, luft-113-bodenabfertigung-pfandrecht-vorbereite, luft-114-bodenabfertigung-pfaendung-planen, luft-115-bodenabfertigung-genehmigung-pruefen, luft-116-bodenabfertigung-sicherheitsauflage-be) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 112 Bodenabfertigung Register Auswerten, Luft 113 Bodenabfertigung Pfandrecht Vorbereite, Luft 114 Bodenabfertigung Pfaendung Planen, Luft 115 Bodenabfertigung Genehmigung Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 112 Bodenabfertigung Register Auswerten bis Luft 116 Bodenabfertigung Sicherheitsauflage Be
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-112-bodenabfertigung-register-auswerten` | Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht. |
 | `luft-113-bodenabfertigung-pfandrecht-vorbereite` | Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-112-bodenabfertigung-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht.
+**Fokus:** Mandant will Zulassungsstatus und Entgelt-Tarife von Bodenabfertigungsdienstleistern auswerten. Skill prueft BADV EU-RL 96/67 EG Zulassungsregister und Entgelt-Genehmigungen und liefert Compliance-Status-Bericht.
 
 # Bodenabfertigung – Register auswerten
 
@@ -127,7 +127,7 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 
 ## 2. `luft-113-bodenabfertigung-pfandrecht-vorbereite`
 
-**Frühere Beschreibung:** Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk.
+**Fokus:** Kreditgeber will Pfandrecht an Bodenabfertigungs-Equipment als Sicherheit bestellen. Skill prueft BGB §§ 1204 ff. Mobiliarpfandrecht BADV-Zulassung als Wertfaktor und liefert Sicherungsstruktur-Vermerk.
 
 # Bodenabfertigung – Pfandrecht vorbereiten
 
@@ -223,7 +223,7 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 
 ## 3. `luft-114-bodenabfertigung-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderungen pfaenden. Prueft ZPO § 808 Mobiliarpfaendung ZPO §§ 828 ff. Forderungspfaendung InsO-Vollstreckungssperre und liefert Pfaendungsplan.
+**Fokus:** Glaeubiger will Bodenabfertigungs-Equipment oder Entgelt-Forderungen pfaenden. Prueft ZPO § 808 Mobiliarpfaendung ZPO §§ 828 ff. Forderungspfaendung InsO-Vollstreckungssperre und liefert Pfaendungsplan.
 
 # Bodenabfertigung – Pfändung planen
 
@@ -320,7 +320,7 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 
 ## 4. `luft-115-bodenabfertigung-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Genehmigung des Flughafenbetreibers. Skill prueft BADV EU-RL 96/67 EG Zulassungsvoraussetzungen LuftSiG-Anforderungen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf.
+**Fokus:** Bodenabfertigungsdienstleister braucht Zulassung nach BADV oder Genehmigung des Flughafenbetreibers. Skill prueft BADV EU-RL 96/67 EG Zulassungsvoraussetzungen LuftSiG-Anforderungen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf.
 
 # Bodenabfertigung – Genehmigung prüfen
 
@@ -417,7 +417,7 @@ Für Mandate im Bereich Bodenabfertigungsdienste und Selbstabfertigungsrecht sin
 
 ## 5. `luft-116-bodenabfertigung-sicherheitsauflage-be`
 
-**Frühere Beschreibung:** Bodenabfertigungsdienstleister erhaelt LuftSiG-Auflage oder Betreiber-Auflage des Flughafens. Skill prueft LuftSiG § 7 Zuverlässigkeitsüberprüfung EU-DVO 2015/1998 BADV und liefert Auflagen-Bewertungs-Vermerk.
+**Fokus:** Bodenabfertigungsdienstleister erhaelt LuftSiG-Auflage oder Betreiber-Auflage des Flughafens. Skill prueft LuftSiG § 7 Zuverlässigkeitsüberprüfung EU-DVO 2015/1998 BADV und liefert Auflagen-Bewertungs-Vermerk.
 
 # Bodenabfertigung – Sicherheitsauflage bewerten
 

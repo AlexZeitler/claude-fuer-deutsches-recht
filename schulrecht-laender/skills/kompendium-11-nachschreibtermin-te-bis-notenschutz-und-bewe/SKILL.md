@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-nachschreibtermin-te-bis-notenschutz-und-bewe
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (nachschreibtermin-terminkollision, nachteilsausgleich-lrs-dyskalkulie, nachteilsausgleich-schule, notenschutz-und-bewertung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nachschreibtermin Terminkollision, Nachteilsausgleich Lrs Dyskalkulie, Nachteilsausgleich Schule, Notenschutz Und Bewertung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - schulrecht-laender
+# Arbeitsbereich - Nachschreibtermin Terminkollision bis Notenschutz Und Bewertung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nachschreibtermin-terminkollision` | Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit. |
 | `nachteilsausgleich-lrs-dyskalkulie` | Prüft LRS/Dyskalkulie-spezifische Maßnahmen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nachschreibtermin-terminkollision`
 
-**Frühere Beschreibung:** Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit.
+**Fokus:** Prüft Nachschreiben, Terminüberschneidung, Krankheit und Chancengleichheit.
 
 # Nachschreibtermin und Terminkollision
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `nachteilsausgleich-lrs-dyskalkulie`
 
-**Frühere Beschreibung:** Prüft LRS/Dyskalkulie-spezifische Maßnahmen.
+**Fokus:** Prüft LRS/Dyskalkulie-spezifische Maßnahmen.
 
 # Nachteilsausgleich Lrs Dyskalkulie
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: LRS/Dyskalkulie-Antrag. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `nachteilsausgleich-schule`
 
-**Frühere Beschreibung:** Prüft Nachteilsausgleich in Unterricht und Prüfungen.
+**Fokus:** Prüft Nachteilsausgleich in Unterricht und Prüfungen.
 
 # Nachteilsausgleich Schule
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Nachteilsausgleichsantrag. Am Ende immer drei Zeilen: **Frist
 
 ## 4. `notenschutz-und-bewertung`
 
-**Frühere Beschreibung:** Prüft Notenschutz, Bewertung und Transparenz.
+**Fokus:** Prüft Notenschutz, Bewertung und Transparenz.
 
 # Notenschutz Und Bewertung
 

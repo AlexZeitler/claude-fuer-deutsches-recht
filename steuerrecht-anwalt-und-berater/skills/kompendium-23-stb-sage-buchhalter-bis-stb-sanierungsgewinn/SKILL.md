@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-stb-sage-buchhalter-bis-stb-sanierungsgewinn
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 23; bündelt 9 frühere Spezialskills (stb-sage-buchhalter-bwa-konfiguration, stb-sanierungsgewinn-3a-estg-grundtatbestand, stb-sanierungsgewinn-3a-estg-unternehmens-vs-person, stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung, stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Sage Buchhalter Bwa Konfiguration, Stb Sanierungsgewinn 3a Estg Grundtatbestand, Stb Sanierungsgewinn 3a Estg Unternehmens Vs Person, Stb Sanierungsgewinn 3a Iv Estg Antrag Und Bindungswirkung und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Sage Buchhalter Bwa Konfiguration bis Stb Sanierungsgewinn Rangruecktritt Und 5 Abs 2a Estg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-sage-buchhalter-bwa-konfiguration` | Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage. |
 | `stb-sanierungsgewinn-3a-estg-grundtatbestand` | Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-sage-buchhalter-bwa-konfiguration`
 
-**Frühere Beschreibung:** Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage.
+**Fokus:** Sage Buchhalter BWA-Konfiguration. Anwendungsfall Mandanten oder Kanzleien mit Sage-Software statt DATEV/Addison. Methodik Unterschiede Konten BWA-Forms. Output BWA in Sage.
 
 # Sage Buchhalter BWA
 
@@ -137,7 +137,7 @@ Stand: 05/2026.
 
 ## 2. `stb-sanierungsgewinn-3a-estg-grundtatbestand`
 
-**Frühere Beschreibung:** Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung.
+**Fokus:** Tatbestandsmerkmale des § 3a EStG: Sanierungsertrag, unternehmensbezogene Sanierung und die vier Voraussetzungen Sanierungsbedürftigkeit, Sanierungsfähigkeit, Sanierungsabsicht der Gläubiger und Sanierungseignung.
 
 # § 3a EStG — Grundtatbestand der Sanierungsertragsbefreiung
 
@@ -341,7 +341,7 @@ beachtet; parallel § 7b GewStG-Antrag.
 
 ## 3. `stb-sanierungsgewinn-3a-estg-unternehmens-vs-person`
 
-**Frühere Beschreibung:** Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene Sanierung im Sinne § 3a EStG. § 3a EStG schützt nur die unternehmensbezogene Variante; Restschuldbefreiung Privatperson fällt unter § 3a Absatz 5.
+**Fokus:** Abgrenzung unternehmensbezogene Sanierung gegen personenbezogene Sanierung im Sinne § 3a EStG. § 3a EStG schützt nur die unternehmensbezogene Variante; Restschuldbefreiung Privatperson fällt unter § 3a Absatz 5.
 
 # § 3a EStG — unternehmensbezogen vs. personenbezogen
 
@@ -496,7 +496,7 @@ Verzicht Gesellschafterdarlehen Kommanditist A
 
 ## 4. `stb-sanierungsgewinn-3a-iv-estg-antrag-und-bindungswirkung`
 
-**Frühere Beschreibung:** Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungswirkung. Nach Feststellung des Sanierungserfolgs ist der Antrag nicht mehr zurücknehmbar; strategische Konsequenzen sind vor Antragstellung abzuwägen.
+**Fokus:** Antrag nach § 3a Absatz 4 EStG: Form, Frist, Inhalt und Bindungswirkung. Nach Feststellung des Sanierungserfolgs ist der Antrag nicht mehr zurücknehmbar; strategische Konsequenzen sind vor Antragstellung abzuwägen.
 
 # § 3a Abs. 4 EStG — Antrag und Bindungswirkung
 
@@ -666,7 +666,7 @@ Schritt 6: Bei späterer Streit: nur noch Steuerbescheid-
 
 ## 5. `stb-sanierungsgewinn-bmf-2017-sanierungserlass-nachfolge`
 
-**Frühere Beschreibung:** BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen.
+**Fokus:** BMF-Schreiben vom 27.04.2017 als Verwaltungsanweisung zur Nachfolge des Sanierungserlasses. Konkretisiert die vier Voraussetzungen des § 3a EStG aus Verwaltungssicht; vor Verwendung aktuellen BMF-Stand prüfen.
 
 # BMF-Schreiben 27.04.2017 — Sanierungserlass-Nachfolge
 
@@ -825,7 +825,7 @@ herangezogen werden.
 
 ## 6. `stb-sanierungsgewinn-forderungsverzicht-bilanzielle-darstellung`
 
-**Frühere Beschreibung:** Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung.
+**Fokus:** Bilanzielle Darstellung des Forderungsverzichts beim Schuldner und beim Gläubiger. Werthaltigkeit, außerordentlicher Ertrag, Ausweis in der GuV; Plan-Bilanz vor und nach Sanierung.
 
 # Forderungsverzicht — bilanzielle Darstellung
 
@@ -1018,7 +1018,7 @@ führung erfüllt.
 
 ## 7. `stb-sanierungsgewinn-fruehwarnung-monat-zwoelf-vor-plan`
 
-**Frühere Beschreibung:** Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG nicht im letzten Moment platzt.
+**Fokus:** Frühwarn-Skill Sanierungsgewinn nach Paragraf 3a EStG. Rechnet 12 Monate vor Insolvenzantrag oder StaRUG-Anzeige rückwärts und zeigt Mandant und Berater wann welche Weiche zu stellen ist damit der Antrag nach Paragraf 3a Absatz 4 EStG nicht im letzten Moment platzt.
 
 # Sanierungsgewinn — Frühwarnung 12 Monate vor Plan
 
@@ -1167,7 +1167,7 @@ Ergebnis: kein KSt-Cashflow durch Verzicht
 
 ## 8. `stb-sanierungsgewinn-personengesellschaft-und-mitunternehmer`
 
-**Frühere Beschreibung:** Besonderheiten der Sanierungsertragsbehandlung bei Personengesellschaften und Mitunternehmern. Anteilige Zurechnung Sanierungsertrag; getrennter Antrag § 3a Absatz 4 EStG je Mitunternehmer; Sonderbetriebsvermögen.
+**Fokus:** Besonderheiten der Sanierungsertragsbehandlung bei Personengesellschaften und Mitunternehmern. Anteilige Zurechnung Sanierungsertrag; getrennter Antrag § 3a Absatz 4 EStG je Mitunternehmer; Sonderbetriebsvermögen.
 
 # Sanierungsgewinn — Personengesellschaft und Mitunternehmer
 
@@ -1339,7 +1339,7 @@ A trägt allein:
 
 ## 9. `stb-sanierungsgewinn-rangruecktritt-und-5-abs-2a-estg`
 
-**Frühere Beschreibung:** Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen.
+**Fokus:** Rangrücktritt im Kontext § 5 Absatz 2a EStG: Passivierungsverbot bei Tilgung ausschließlich aus zukünftigen Gewinnen führt zum Ertrag in voller Höhe und damit zum Sanierungsgewinn. BFH-Linie streng - keine Az aus Modellwissen.
 
 # Rangrücktritt und § 5 Abs. 2a EStG
 

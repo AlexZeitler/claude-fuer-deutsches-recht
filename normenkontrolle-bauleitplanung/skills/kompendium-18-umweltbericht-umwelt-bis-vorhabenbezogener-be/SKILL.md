@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-umweltbericht-umwelt-bis-vorhabenbezogener-be
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (umweltbericht-umweltpruefung, veraenderungssperre-zurueckstellung-14-15-baugb, vorhabenbezogener-bebauungsplan-12-baugb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Umweltbericht Umweltpruefung, Veraenderungssperre Zurueckstellung 14 15 Baugb, Vorhabenbezogener Bebauungsplan 12 Baugb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umweltbericht-umweltpruefung` | Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Prüfraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltprüfung. Output: Umweltprüfungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich. |
 | `veraenderungssperre-zurueckstellung-14-15-baugb` | Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umweltbericht-umweltpruefung`
 
-**Frühere Beschreibung:** Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Prüfraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltprüfung. Output: Umweltprüfungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich.
+**Fokus:** Mandant greift Bebauungsplan wegen unzureichender Umweltprüfung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Prüfraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltprüfung. Output: Umweltprüfungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich.
 
 # Umweltbericht und Umweltprüfung
 
@@ -205,7 +205,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `veraenderungssperre-zurueckstellung-14-15-baugb`
 
-**Frühere Beschreibung:** Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo.
+**Fokus:** Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurückgestellt. §§ 14 15 BauGB. Prüfraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurückstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo.
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB
 
@@ -465,7 +465,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `vorhabenbezogener-bebauungsplan-12-baugb`
 
-**Frühere Beschreibung:** Workflow-Skill zu vorhabenbezogener bebauungsplan 12 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu vorhabenbezogener bebauungsplan 12 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB
 

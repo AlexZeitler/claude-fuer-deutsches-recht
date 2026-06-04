@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-verl-037-buchmesse-r-bis-verl-039-nachlassver
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (verl-037-buchmesse-rechtehandel-und-nda, verl-039-nachlassverwaltung-autorenerbe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 037 Buchmesse Rechtehandel Und Nda, Verl 039 Nachlassverwaltung Autorenerbe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-037-buchmesse-rechtehandel-und-nda` | Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis. |
 | `verl-039-nachlassverwaltung-autorenerbe` | Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-037-buchmesse-rechtehandel-und-nda`
 
-**Frühere Beschreibung:** Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis.
+**Fokus:** Verlagsrecht: Rechtehandel auf Buchmessen (Frankfurt, Bologna) — NDA, Letter of Intent, Lizenzvertragsvorbereitung, exklusive Verhandlung und internationale Lizenzpraxis.
 
 # Verl-037 · Buchmesse: Rechtehandel und NDA
 
@@ -149,7 +149,7 @@ Buchmessen (Frankfurt, Bologna, London, BEA) sind die wichtigsten Plattformen f�
 
 ## 2. `verl-039-nachlassverwaltung-autorenerbe`
 
-**Frühere Beschreibung:** Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit.
+**Fokus:** Verlagsrecht: Nachlassverwaltung und Autorenerbe — Schutzfrist nach UrhG § 64, Erbgang des Urheberrechts, Testamentsvollstreckung, Lizenzfortführung und Vergriffenheit.
 
 # Verl-039 · Nachlassverwaltung und Autorenerbe
 

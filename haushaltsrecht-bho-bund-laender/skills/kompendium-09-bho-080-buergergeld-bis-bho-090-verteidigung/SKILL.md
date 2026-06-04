@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-bho-080-buergergeld-bis-bho-090-verteidigung
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 09; bündelt 11 frühere Spezialskills (bho-080-buergergeld-krankenversicherung-szenar, bho-081-buergergeld-krankenversicherung-dashbo, bho-082-buergergeld-krankenversicherung-risiko, bho-083-buergergeld-krankenversicherung-brh-fr, bho-084-buergergeld-krankenversicherung-parlam und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 080 Buergergeld Krankenversicherung Szenar, Bho 081 Buergergeld Krankenversicherung Dashbo, Bho 082 Buergergeld Krankenversicherung Risiko, Bho 083 Buergergeld Krankenversicherung Brh Fr und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 080 Buergergeld Krankenversicherung Szenar bis Bho 090 Verteidigungsausgaben Szenario Rechnen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-080-buergergeld-krankenversicherung-szenar` | Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Szenario rechnen. Szenario rechnen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-081-buergergeld-krankenversicherung-dashbo` | Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen. Dashboard bauen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-080-buergergeld-krankenversicherung-szenar`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Szenario rechnen. Szenario rechnen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Szenario rechnen. Szenario rechnen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Szenar
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-081-buergergeld-krankenversicherung-dashbo`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen. Dashboard bauen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Dashboard bauen. Dashboard bauen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Dashbo
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-082-buergergeld-krankenversicherung-risiko`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Risiko markieren. Risiko markieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Risiko markieren. Risiko markieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Risiko
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-083-buergergeld-krankenversicherung-brh-fr`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: BRH-Frage formulieren. BRH-Frage formulieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: BRH-Frage formulieren. BRH-Frage formulieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Brh Fr
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-084-buergergeld-krankenversicherung-parlam`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Parlam
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-085-buergergeld-krankenversicherung-vollzu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Vollzug tracken. Vollzug tracken für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Vollzug tracken. Vollzug tracken für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Vollzu
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-086-verteidigungsausgaben-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Titel prüfen. Titel prüfen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Titel prüfen. Titel prüfen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Titel Pruefen
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-087-verteidigungsausgaben-umschichtung-sim`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Umschichtung simulieren. Umschichtung simulieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Umschichtung simulieren. Umschichtung simulieren für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Umschichtung Sim
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-088-verteidigungsausgaben-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Sperre bewerten. Sperre bewerten für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Sperre bewerten. Sperre bewerten für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Sperre Bewerten
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-089-verteidigungsausgaben-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Deckung finden. Deckung finden für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Deckung finden. Deckung finden für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Deckung Finden
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-090-verteidigungsausgaben-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Szenario rechnen. Szenario rechnen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Verteidigungsausgaben: Szenario rechnen. Szenario rechnen für Verteidigungsausgaben im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Verteidigungsausgaben Szenario Rechnen
 

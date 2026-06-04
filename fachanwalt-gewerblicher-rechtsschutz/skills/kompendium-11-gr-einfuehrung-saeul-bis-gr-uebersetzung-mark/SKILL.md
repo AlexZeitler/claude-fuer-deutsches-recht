@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-gr-einfuehrung-saeul-bis-gr-uebersetzung-mark
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (gr-einfuehrung-saeulen, gr-mitbewerberabmahnung-aktivlegitimation-spezial, gr-uebersetzung-marke-osterreich-schweiz-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Gr Einfuehrung Saeulen, Gr Mitbewerberabmahnung Aktivlegitimation Spezial, Gr Uebersetzung Marke Osterreich Schweiz Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gr-einfuehrung-saeulen` | Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio. |
 | `gr-mitbewerberabmahnung-aktivlegitimation-spezial` | Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gr-einfuehrung-saeulen`
 
-**Frühere Beschreibung:** Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio.
+**Fokus:** Einführung in den gewerblichen Rechtsschutz: Fünf Säulen (Markenrecht, Patentrecht, Designrecht, Urheberrecht, Lauterkeitsrecht/UWG), FAO-Anforderungen § 14k, Behördenübersicht DPMA/EUIPO/EPA, Verfahrensarten, Schutzrechts-Portfolio.
 
 # Einführung: Die fünf Säulen des gewerblichen Rechtsschutzes
 
@@ -150,7 +150,7 @@ Besondere praktische Erfahrungen in **drei der fünf Bereiche**: Markenrecht, Pa
 
 ## 2. `gr-mitbewerberabmahnung-aktivlegitimation-spezial`
 
-**Frühere Beschreibung:** Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme.
+**Fokus:** Aktivlegitimation bei Mitbewerberabmahnung: konkretes Wettbewerbsverhältnis § 2 Abs. 1 Nr. 4 UWG, Mitbewerberbegriff BGH, Verbands- und Kammerbefugnis § 8 Abs. 3 UWG, Missbrauchsprüfung § 8c UWG, negative Feststellungsklage als Gegenmaßnahme.
 
 # Aktivlegitimation bei Mitbewerberabmahnung
 
@@ -252,7 +252,7 @@ Anschluss-Skills: `gr-abmahnung-workflow`, `spezial-gewerblichen-tatbestand-bewe
 
 ## 3. `gr-uebersetzung-marke-osterreich-schweiz-spezial`
 
-**Frühere Beschreibung:** Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
+**Fokus:** Markenrecht in Österreich und der Schweiz: Österreichisches Markengesetz (MSchG), Österreichisches Patentamt (ÖPA), Schweizer Markenschutzgesetz (MSchG CH), IGE/IPI Bern, IR-Marke als Erweiterungsweg, EUIPO-Ausschluss Schweiz, Besonderheiten und Fallstricke.
 
 # Markenrecht in Österreich und der Schweiz
 

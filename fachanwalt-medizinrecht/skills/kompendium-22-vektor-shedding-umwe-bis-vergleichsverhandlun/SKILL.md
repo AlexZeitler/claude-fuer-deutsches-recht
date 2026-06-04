@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-vektor-shedding-umwe-bis-vergleichsverhandlun
-description: "fachanwalt-medizinrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (vektor-shedding-umweltrisiko, vergleichsverhandlung-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-medizinrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vektor Shedding Umweltrisiko, Vergleichsverhandlung Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - fachanwalt-medizinrecht
+# Arbeitsbereich - Vektor Shedding Umweltrisiko, Vergleichsverhandlung Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vektor-shedding-umweltrisiko` | Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck. |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vektor-shedding-umweltrisiko`
 
-**Frühere Beschreibung:** Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
+**Fokus:** Vektor-Shedding und Umweltrisiko: moderner Medizinrechts-Skill für AAV/Lenti-/Onkolytika-Risiken, Umweltrisikobewertung, Schutzmaßnahmen und Meldeketten. Mit Haftung, Aufklärung, Behördenweg, Beweislogik und Quellencheck.
 
 # Vektor-Shedding und Umweltrisiko
 
@@ -85,7 +85,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern.
+**Fokus:** Vergleichsverhandlung und Einigungsstrategie im Medizinrecht: Anwendungsfall Arzthaftungssache KV-Streit oder Berufsrechtsbeschwerde eignet sich für außergerichtliche Einigung. § 630a BGB Behandlungsvertrag, § 253 BGB Schmerzensgeld, §§ 779 ff. BGB Vergleich. Prüfraster ZOPA BATNA Verhandlungsfenster im Arzthaftungsfall, Druckmittel Gutachterkommission vs. Klage, Settlement-Skript, Vergleichsentwurf Anwalts- oder Gerichtsprotokoll. Output Einigungsstrategie-Memo mit Skript und Vergleichsentwurf. Abgrenzung zu Gutachterkommission-Schlichtung und zu Schriftsatzkern.
 
 # Vergleichsverhandlung und Einigung im Arzthaftungs-, Berufs- und Vertragsarztrecht
 

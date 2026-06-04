@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-space-018-frequenzzu-bis-space-021-satelliten
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen, space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre, space-020-militaerische-nutzung-dual-use-und-friedensgebot, space-021-satellitenbilder-als-beweismittel-vor-gericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen, Space 019 Erdbeobachtung Datenschutz Geheimschutz Und Geodatenre, Space 020 Militaerische Nutzung Dual Use Und Friedensgebot, Space 021 Satellitenbilder Als Beweismittel Vor Gericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - weltraumrecht
+# Arbeitsbereich - Space 018 Frequenzzuteilung Itu Bundesnetzagentur Und Interferen bis Space 021 Satellitenbilder Als Beweismittel Vor Gericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen` | Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden. |
 | `space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre` | Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-018-frequenzzuteilung-itu-bundesnetzagentur-und-interferen`
 
-**Frühere Beschreibung:** Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden.
+**Fokus:** Frequenzzuteilung für Satelliten – ITU Radio Regulations, BNetzA-Verfahren, Koordinierung, Interferenz-Beschwerden.
 
 # Weltraumrecht: Frequenzzuteilung: ITU, Bundesnetzagentur und Interferenz
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: ITU-Frequenzkoordination, BNetzA-
 
 ## 2. `space-019-erdbeobachtung-datenschutz-geheimschutz-und-geodatenre`
 
-**Frühere Beschreibung:** Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz.
+**Fokus:** Erdbeobachtungsdaten – DSGVO, Geodatenrecht, Geheimschutz sensibler Orte, Copernicus-Lizenz.
 
 # Weltraumrecht: Erdbeobachtung: Datenschutz, Geheimschutz und Geodatenrecht
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Erdbeobachtung, DSGVO, Geodatenre
 
 ## 3. `space-020-militaerische-nutzung-dual-use-und-friedensgebot`
 
-**Frühere Beschreibung:** Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle.
+**Fokus:** Militärische Weltraumnutzung – OST Art. IV Friedensgebot, Dual-Use-Recht, ITAR, EU-Exportkontrolle.
 
 # Weltraumrecht: Militärische Nutzung, Dual Use und Friedensgebot
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: OST Art. IV Friedensgebot, Dual-U
 
 ## 4. `space-021-satellitenbilder-als-beweismittel-vor-gericht`
 
-**Frühere Beschreibung:** Satellitenbilder als Beweismittel – Verwertbarkeit, Authentizität, Metadaten, DSGVO, Geheimschutz.
+**Fokus:** Satellitenbilder als Beweismittel – Verwertbarkeit, Authentizität, Metadaten, DSGVO, Geheimschutz.
 
 # Weltraumrecht: Satellitenbilder als Beweismittel vor Gericht
 

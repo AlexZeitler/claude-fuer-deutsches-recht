@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-revisions-prozess-re-bis-schriftsatz-ueberarb
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (revisions-prozess-redlines-comparison, schriftsatz-ueberarbeiten-richterlesbar) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Revisions Prozess Redlines Comparison, Schriftsatz Ueberarbeiten Richterlesbar
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `revisions-prozess-redlines-comparison` | Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation. |
 | `schriftsatz-ueberarbeiten-richterlesbar` | Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `revisions-prozess-redlines-comparison`
 
-**Frühere Beschreibung:** Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation.
+**Fokus:** Markup-Workflow zwischen Parteien. Compare-Doc-Funktion erzeugt aus zwei Versionen ein Redline-Dokument. Konventionen: Einfügungen in Rot und unterstrichen; Streichungen in Rot und durchgestrichen; Kommentare am Rand. Versionierung v0 eigener Erstentwurf bis v3 eigene Reaktion. Tracked Changes gegen Clean Version für Unterschrift. Mit Pitfalls wie Markup im falschen Modus weitergeleitet; alte Kommentare nicht gelöscht; Metadaten-Leak im Dokumenteigenschaftsfeld. Mit Mustertext zur Begleitkommunikation.
 
 # Revisions-Prozess: Redlines und Compare-Workflow
 
@@ -177,7 +177,7 @@ Rechtsanwältin
 
 ## 2. `schriftsatz-ueberarbeiten-richterlesbar`
 
-**Frühere Beschreibung:** Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik.
+**Fokus:** Überarbeitet Schriftsätze so, dass Richterinnen und Richter sie schnell erfassen können. Prüft Antrag, Streitgegenstand, Ergebnisüberschriften, Sachverhaltschronologie, Beweisangebote, Substantiierung, Anlagenverweise, Ton und Länge. Liefert eine richterlesbare Fassung ohne Polemik.
 
 # Schriftsatz Richterlesbar Überarbeiten
 

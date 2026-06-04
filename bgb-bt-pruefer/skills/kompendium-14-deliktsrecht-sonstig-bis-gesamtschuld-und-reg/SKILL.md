@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-deliktsrecht-sonstig-bis-gesamtschuld-und-reg
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (deliktsrecht-sonstiges-recht, deliktsrecht-tierhalter-und-gebaeude, gesamtschuld-und-regress-bgb-bt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - bgb-bt-pruefer
+# Arbeitsbereich - Deliktsrecht Sonstiges Recht, Deliktsrecht Tierhalter Und Gebaeude, Gesamtschuld Und Regress Bgb Bt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `deliktsrecht-sonstiges-recht` | Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte. |
 | `deliktsrecht-tierhalter-und-gebaeude` | Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `deliktsrecht-sonstiges-recht`
 
-**Frühere Beschreibung:** Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte.
+**Fokus:** Prüft sonstige Rechte nach § 823 Abs. 1 BGB: allgemeines Persönlichkeitsrecht, Recht am Gewerbebetrieb und Immaterialgüterrechte.
 
 # Deliktsrecht: Sonstiges Recht
 
@@ -120,7 +120,7 @@ Sonstige absolute Rechte nach § 823 Abs. 1 BGB prüfen: allgemeines Persönlich
 
 ## 2. `deliktsrecht-tierhalter-und-gebaeude`
 
-**Frühere Beschreibung:** Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB.
+**Fokus:** Prüft Tierhalterhaftung § 833 BGB, Haftung des Tieraufsehers § 834 BGB und Gebäudehaftung § 836–838 BGB.
 
 # Deliktsrecht: Tierhalter und Gebäude
 
@@ -212,7 +212,7 @@ Tierhalterhaftung nach §§ 833 und 834 BGB sowie Gebäudehaftung nach §§ 836�
 
 ## 3. `gesamtschuld-und-regress-bgb-bt`
 
-**Frühere Beschreibung:** Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT.
+**Fokus:** Prüft Gesamtschuld §§ 421 ff. BGB, Innenausgleich nach § 426 BGB und Regress im Schuldrecht BT.
 
 # Gesamtschuld und Regress BGB BT
 

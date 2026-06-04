@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-bho-014-erlaeuterung-bis-bho-024-landeshausha
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 03; bündelt 11 frühere Spezialskills (bho-014-erlaeuterung-rechtlich-bewerten, bho-015-haushaltsgesetz-gegen-haushaltsplan, bho-016-nachtragshaushalt-pruefen, bho-017-bmf-rundschreiben-livecheck, bho-018-bundesrechnungshof-bemerkungen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 014 Erlaeuterung Rechtlich Bewerten, Bho 015 Haushaltsgesetz Gegen Haushaltsplan, Bho 016 Nachtragshaushalt Pruefen, Bho 017 Bmf Rundschreiben Livecheck und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 014 Erlaeuterung Rechtlich Bewerten bis Bho 024 Landeshaushalt Brandenburg Lesen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-014-erlaeuterung-rechtlich-bewerten` | Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-015-haushaltsgesetz-gegen-haushaltsplan` | Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-014-erlaeuterung-rechtlich-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Erläuterung rechtlich bewerten. Erläuterung rechtlich bewerten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Erlaeuterung Rechtlich Bewerten
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-015-haushaltsgesetz-gegen-haushaltsplan`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Haushaltsgesetz gegen Haushaltsplan. Haushaltsgesetz gegen Haushaltsplan im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Haushaltsgesetz Gegen Haushaltsplan
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-016-nachtragshaushalt-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Nachtragshaushalt prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Nachtragshaushalt prüfen. Nachtragshaushalt prüfen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Nachtragshaushalt Pruefen
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-017-bmf-rundschreiben-livecheck`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BMF-Rundschreiben Livecheck. BMF-Rundschreiben Livecheck im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BMF-Rundschreiben Livecheck. BMF-Rundschreiben Livecheck im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bmf Rundschreiben Livecheck
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-018-bundesrechnungshof-bemerkungen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bundesrechnungshof-Bemerkungen. Bundesrechnungshof-Bemerkungen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bundesrechnungshof-Bemerkungen. Bundesrechnungshof-Bemerkungen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bundesrechnungshof Bemerkungen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-019-zuwendung-nach-bho`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Zuwendung nach BHO. Zuwendung nach BHO im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Zuwendung nach BHO. Zuwendung nach BHO im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Zuwendung Nach Bho
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-020-padlet-haushaltsdashboard-starten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Padlet Haushaltsdashboard starten. Padlet Haushaltsdashboard starten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Padlet Haushaltsdashboard starten. Padlet Haushaltsdashboard starten im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Padlet Haushaltsdashboard Starten
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-021-landeshaushalt-baden-wuerttemberg-lese`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Baden-Württemberg lesen. Landeshaushalt Baden-Württemberg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Baden-Württemberg lesen. Landeshaushalt Baden-Württemberg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Baden Wuerttemberg Lese
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-022-landeshaushalt-bayern-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bayern lesen. Landeshaushalt Bayern lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Bayern lesen. Landeshaushalt Bayern lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Bayern Lesen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-023-landeshaushalt-berlin-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Berlin lesen. Landeshaushalt Berlin lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Berlin lesen. Landeshaushalt Berlin lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Berlin Lesen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-024-landeshaushalt-brandenburg-lesen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Brandenburg lesen. Landeshaushalt Brandenburg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Landeshaushalt Brandenburg lesen. Landeshaushalt Brandenburg lesen im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landeshaushalt Brandenburg Lesen
 

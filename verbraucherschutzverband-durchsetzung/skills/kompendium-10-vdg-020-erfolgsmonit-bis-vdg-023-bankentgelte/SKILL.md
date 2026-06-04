@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-vdg-020-erfolgsmonit-bis-vdg-023-bankentgelte
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (vdg-020-erfolgsmonitoring, vdg-021-bankentgelte-sammelfaehigkeit-pruefen, vdg-022-bankentgelte-klageschrift-strukturiere, vdg-023-bankentgelte-anspruchsgruppen-bilden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 020 Erfolgsmonitoring, Vdg 021 Bankentgelte Sammelfaehigkeit Pruefen, Vdg 022 Bankentgelte Klageschrift Strukturiere, Vdg 023 Bankentgelte Anspruchsgruppen Bilden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 020 Erfolgsmonitoring bis Vdg 023 Bankentgelte Anspruchsgruppen Bilden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-020-erfolgsmonitoring` | Verbraucherschutzverband Durchsetzung: Erfolgsmonitoring. Erfolgsmonitoring im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-021-bankentgelte-sammelfaehigkeit-pruefen` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-020-erfolgsmonitoring`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Erfolgsmonitoring. Erfolgsmonitoring im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Erfolgsmonitoring. Erfolgsmonitoring im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Erfolgsmonitoring
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-021-bankentgelte-sammelfaehigkeit-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Sammelfaehigkeit Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-022-bankentgelte-klageschrift-strukturiere`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Klageschrift strukturieren. Klageschrift strukturieren für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Klageschrift strukturieren. Klageschrift strukturieren für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Klageschrift Strukturiere
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-023-bankentgelte-anspruchsgruppen-bilden`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Anspruchsgruppen Bilden
 

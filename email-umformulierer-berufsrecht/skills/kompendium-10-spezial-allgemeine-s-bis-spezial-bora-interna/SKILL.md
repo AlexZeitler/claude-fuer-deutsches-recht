@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-spezial-allgemeine-s-bis-spezial-bora-interna
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (spezial-allgemeine-sonderfall-und-edge-case, spezial-berufsrechtskonform-verhandlung-vergleich-und-eskalation, spezial-bora-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Allgemeine Sonderfall Und Edge Case, Berufsrechtskonform Verhandlung Vergleich Und Eskalation, Bora Internationaler Bezug Und Schnittstellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-allgemeine-sonderfall-und-edge-case` | Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-berufsrechtskonform-verhandlung-vergleich-und-eskalation` | Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-allgemeine-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Allgemeine: Sonderfall und Edge-Case-Prüfung im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Allgemeine: Sonderfall und Edge-Case-Prüfung
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-berufsrechtskonform-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berufsrechtskonform: Verhandlung, Vergleich und Eskalation im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Berufsrechtskonform: Verhandlung, Vergleich und Eskalation
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-bora-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Bora: Internationaler Bezug und Schnittstellen im Plugin email umformulierer berufsrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Bora: Internationaler Bezug und Schnittstellen
 

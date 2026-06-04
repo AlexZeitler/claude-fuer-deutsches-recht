@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-verl-016-isbn-metada-bis-verl-017-vg-wort-mel
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (verl-016-isbn-metadaten-vlb-und-meldeprozesse, verl-017-vg-wort-meldung-beteiligung-und-ausschuettung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 016 Isbn Metadaten Vlb Und Meldeprozesse, Verl 017 Vg Wort Meldung Beteiligung Und Ausschuettung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-016-isbn-metadaten-vlb-und-meldeprozesse` | Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards. |
 | `verl-017-vg-wort-meldung-beteiligung-und-ausschuettung` | VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-016-isbn-metadaten-vlb-und-meldeprozesse`
 
-**Frühere Beschreibung:** Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards.
+**Fokus:** Verlagsrecht und Buchhandel: ISBN-Vergabe, Metadatenpflege, VLB-Meldeprozesse und bibliothekarische Pflichtablieferung — rechtliche Anforderungen und Praxisstandards.
 
 # Verl-016 · ISBN, Metadaten, VLB und Meldeprozesse
 
@@ -153,7 +153,7 @@ ISBN, Metadaten und VLB-Einträge sind das **operative Rückgrat** des deutschen
 
 ## 2. `verl-017-vg-wort-meldung-beteiligung-und-ausschuettung`
 
-**Frühere Beschreibung:** VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis.
+**Fokus:** VG Wort: Werkmeldung, Ausschüttungsrecht von Autoren und Verlagen, Wahrnehmungsvertrag, VGG §§ 27 ff. — Fristen, Verteilungsplan und Praxis.
 
 # Verl-017 · VG Wort: Meldung, Beteiligung und Ausschüttung
 

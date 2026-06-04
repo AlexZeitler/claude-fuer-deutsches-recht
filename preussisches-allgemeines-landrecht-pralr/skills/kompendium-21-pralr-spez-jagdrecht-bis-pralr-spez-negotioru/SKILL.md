@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-pralr-spez-jagdrecht-bis-pralr-spez-negotioru
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (pralr-spez-jagdrecht-und-fischerei, pralr-spez-justizreform-friedrich-grosskanzler-svarez, pralr-spez-leistungsstoerungen-unmoeglichkeit-verzug, pralr-spez-nachbarrecht-grenzbaum-traufrecht-ueberbau, pralr-spez-negotiorum-gestio-im-alr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Jagdrecht Und Fischerei, Pralr Spez Justizreform Friedrich Grosskanzler Svarez, Pralr Spez Leistungsstoerungen Unmoeglichkeit Verzug, Pralr Spez Nachbarrecht Grenzbaum Traufrecht Ueberbau und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Jagdrecht Und Fischerei bis Pralr Spez Negotiorum Gestio Im Alr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-jagdrecht-und-fischerei` | Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix. |
 | `pralr-spez-justizreform-friedrich-grosskanzler-svarez` | Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-jagdrecht-und-fischerei`
 
-**Frühere Beschreibung:** Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix.
+**Fokus:** Jagdrecht und Fischereirecht im ALR. Skill behandelt das Wildbann-System die Jagdberechtigung des Grundherrn vs. Eigenjagdrecht der Bauern und die Reform durch die Bundesgesetze. Liefert Quellenmatrix.
 
 # Pralr Jagdrecht Und Fischerei
 
@@ -67,7 +67,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-justizreform-friedrich-grosskanzler-svarez`
 
-**Frühere Beschreibung:** Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix.
+**Fokus:** Justizreform unter Friedrich II Grosskanzler Carmer und Svarez. Skill behandelt die Reformphase 1779-1794 das Verhaeltnis zum Mueller-Arnold-Fall und die Auswirkungen auf das ALR und die AGO. Liefert Quellenmatrix.
 
 # Pralr Justizreform Friedrich Grosskanzler Svarez
 
@@ -113,7 +113,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-leistungsstoerungen-unmoeglichkeit-verzug`
 
-**Frühere Beschreibung:** Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhaeltnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Pruefraster.
+**Fokus:** Leistungsstoerungen im ALR — Unmoeglichkeit und Verzug. Skill behandelt die ALR-Regelungen zur Unmoeglichkeit Verschulden Verzug und das Verhaeltnis zur modernen Pflichtverletzungsregel § 280 BGB. Liefert Pruefraster.
 
 # Pralr Leistungsstoerungen Unmoeglichkeit Verzug
 
@@ -154,7 +154,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `pralr-spez-nachbarrecht-grenzbaum-traufrecht-ueberbau`
 
-**Frühere Beschreibung:** Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Ueberhang Wegerecht und das Verhaeltnis zu Landesnachbarrecht und § 906 BGB. Liefert Pruefraster.
+**Fokus:** Nachbarrecht im ALR — Grenzbaum Traufrecht Ueberbau. Skill behandelt typische nachbarrechtliche Konstellationen Grenzbaeume Ueberhang Wegerecht und das Verhaeltnis zu Landesnachbarrecht und § 906 BGB. Liefert Pruefraster.
 
 # Pralr Nachbarrecht Grenzbaum Traufrecht Ueberbau
 
@@ -199,7 +199,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 5. `pralr-spez-negotiorum-gestio-im-alr`
 
-**Frühere Beschreibung:** Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill behandelt ALR I 13 §§ 207-251 zur GoA das Verhaeltnis zur roemischen actio negotiorum gestorum die Aufwendungsersatzlogik und die Fortwirkung in §§ 677-687 BGB. Liefert Quellenmatrix.
+**Fokus:** Geschaeftsfuehrung ohne Auftrag (negotiorum gestio) im ALR. Skill behandelt ALR I 13 §§ 207-251 zur GoA das Verhaeltnis zur roemischen actio negotiorum gestorum die Aufwendungsersatzlogik und die Fortwirkung in §§ 677-687 BGB. Liefert Quellenmatrix.
 
 # Pralr Negotiorum Gestio Im Alr
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-ssm-bundesbank-aufsi-bis-sustainability-linke
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (ssm-bundesbank-aufsichtsbrief, stablecoin-payment-usecase-bank, staking-lending-token-bank, stundung-standstill-waiver, sustainability-linked-loan-greenwashing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ssm Bundesbank Aufsichtsbrief, Stablecoin Payment Usecase Bank, Staking Lending Token Bank, Stundung Standstill Waiver und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - bank-rechtsabteilung
+# Arbeitsbereich - Ssm Bundesbank Aufsichtsbrief bis Sustainability Linked Loan Greenwashing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ssm-bundesbank-aufsichtsbrief` | SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten. |
 | `stablecoin-payment-usecase-bank` | Stablecoin-Zahlungsusecase für Banken prüfen: EMT/ART, E-Geld, Zahlungsdienst, Wallet, Händlerakzeptanz, Reserve, Rücktausch, Sanktionsscreening und Settlement. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ssm-bundesbank-aufsichtsbrief`
 
-**Frühere Beschreibung:** SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten.
+**Fokus:** SSM-, EZB- und Bundesbank-Aufsichtsbriefe für Institute einordnen: Zuständigkeit, JST-Kommunikation, nationale Umsetzung, Fristen, Management Letter, Follow-up und Board-Package vorbereiten.
 
 # SSM und Bundesbank
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `stablecoin-payment-usecase-bank`
 
-**Frühere Beschreibung:** Stablecoin-Zahlungsusecase für Banken prüfen: EMT/ART, E-Geld, Zahlungsdienst, Wallet, Händlerakzeptanz, Reserve, Rücktausch, Sanktionsscreening und Settlement.
+**Fokus:** Stablecoin-Zahlungsusecase für Banken prüfen: EMT/ART, E-Geld, Zahlungsdienst, Wallet, Händlerakzeptanz, Reserve, Rücktausch, Sanktionsscreening und Settlement.
 
 # Stablecoin Payments
 
@@ -244,7 +244,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `staking-lending-token-bank`
 
-**Frühere Beschreibung:** Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko.
+**Fokus:** Staking, Lending und Yield-Produkte mit Tokenbezug prüfen: Produktqualifikation, MiCAR, KWG/WpIG, AGB, Verbraucherhinweise, Verwahrung, Insolvenztrennung und Reputationsrisiko.
 
 # Staking und Token-Lending
 
@@ -343,7 +343,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `stundung-standstill-waiver`
 
-**Frühere Beschreibung:** Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz.
+**Fokus:** Stundung, Standstill, Waiver und Covenant-Reset entwerfen und prüfen: Bankinteressen, Sicherheiten, Sanierungspfad, Gleichbehandlung, Kündigungsrechte und Dokumentationsschutz.
 
 # Stundung und Standstill
 
@@ -458,7 +458,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `sustainability-linked-loan-greenwashing`
 
-**Frühere Beschreibung:** Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz.
+**Fokus:** Sustainability-Linked Loans und Greenwashing-Risiken prüfen: KPI, SPT, Margin Ratchet, externe Verifikation, Offenlegung, Kreditdokumentation und Reputationsschutz.
 
 # SLL und Greenwashing
 

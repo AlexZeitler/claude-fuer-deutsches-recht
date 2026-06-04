@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-rechtsabteilung-safe-bis-vc-005-direktinvestm
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht, vc-002-rookie-modus-vc-begriffe, vc-004-kagb-aif-bafin-grenzcheck, vc-005-direktinvestment-spv-club-deal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Safe Und Wandeldarlehen Nach Deutschem Recht, Vc 002 Rookie Modus Vc Begriffe, Vc 004 Kagb Aif Bafin Grenzcheck, Vc 005 Direktinvestment Spv Club Deal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - venture-capital-geber
+# Arbeitsbereich - Safe Und Wandeldarlehen Nach Deutschem Recht bis Vc 005 Direktinvestment Spv Club Deal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht` | Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `vc-002-rookie-modus-vc-begriffe` | Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-safe-und-wandeldarlehen-nach-deutschem-recht`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für SAFE und Wandeldarlehen nach deutschem Recht: VC prüft, ob US-Templates in deutsche GmbH-Finanzierung passen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: SAFE und Wandeldarlehen nach deutschem Recht
 
@@ -69,7 +69,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `vc-002-rookie-modus-vc-begriffe`
 
-**Frühere Beschreibung:** Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch.
+**Fokus:** Erklärt Pre-Seed, Seed, Series A/B, bridge, runway, lead, follow-on, pro rata, SAFE, cap table und liquidation preference auf Deutsch.
 
 # Rookie-Modus Venture Capital
 
@@ -115,7 +115,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-004-kagb-aif-bafin-grenzcheck`
 
-**Frühere Beschreibung:** Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt.
+**Fokus:** Prüft, ob gemeinsames Einsammeln und Investieren in Startups in Richtung Investmentvermögen, AIF, KVG, Vertrieb oder Pre-Marketing kippt.
 
 # KAGB/AIF/BaFin-Grenzcheck
 
@@ -160,7 +160,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-005-direktinvestment-spv-club-deal`
 
-**Frühere Beschreibung:** Vergleicht Direktbeteiligung, Treuhand, Pooling-SPV, Club Deal, Angel-Syndikat und Fondsvehikel aus Sicht eines deutschen VC-Gebers.
+**Fokus:** Vergleicht Direktbeteiligung, Treuhand, Pooling-SPV, Club Deal, Angel-Syndikat und Fondsvehikel aus Sicht eines deutschen VC-Gebers.
 
 # Direktinvestment, SPV oder Club Deal
 

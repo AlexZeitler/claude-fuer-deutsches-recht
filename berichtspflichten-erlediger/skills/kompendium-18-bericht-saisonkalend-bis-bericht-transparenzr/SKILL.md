@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-bericht-saisonkalend-bis-bericht-transparenzr
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (bericht-saisonkalender-mittelstand, bericht-stichprobe-und-befreiung-kleine-unternehmen, bericht-transparenzregister-gwg-ubo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Saisonkalender Mittelstand, Bericht Stichprobe Und Befreiung Kleine Unternehmen, Bericht Transparenzregister Gwg Ubo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-saisonkalender-mittelstand` | Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc. |
 | `bericht-stichprobe-und-befreiung-kleine-unternehmen` | Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-saisonkalender-mittelstand`
 
-**Frühere Beschreibung:** Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc.
+**Fokus:** Jahresrhythmus typischer Berichtspflichten im Mittelstand: monatlich, quartalsweise, jährlich, ad hoc.
 
 # Saisonkalender Mittelstand
 
@@ -74,7 +74,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-stichprobe-und-befreiung-kleine-unternehmen`
 
-**Frühere Beschreibung:** Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können.
+**Fokus:** Prüft bei Statistik- und Berichtspflichten, ob kleine/mittlere Unternehmen wegen Schwellen, Stichprobe, Bagatelle, einmaliger Auswahl oder Härte entlastet werden können.
 
 # Stichprobe, Schwelle und Entlastung kleiner Unternehmen
 
@@ -113,7 +113,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-transparenzregister-gwg-ubo`
 
-**Frühere Beschreibung:** Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle.
+**Fokus:** Transparenzregister: wirtschaftlich Berechtigte, Meldefiktion, Änderungen, Unstimmigkeitsmeldung, Bußgeldrisiko und Konzernfälle.
 
 # Transparenzregister und wirtschaftlich Berechtigte
 

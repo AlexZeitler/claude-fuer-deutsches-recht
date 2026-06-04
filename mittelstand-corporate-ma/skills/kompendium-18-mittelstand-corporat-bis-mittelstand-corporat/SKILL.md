@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-kommandocenter, mittelstand-corporate-ma-look-and-feel, mittelstand-corporate-ma-matter-file, mittelstand-corporate-ma-outside-in-target-screening) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Kommandocenter, Mittelstand Corporate Ma Look And Feel, Mittelstand Corporate Ma Matter File, Mittelstand Corporate Ma Outside In Target Screening; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Kommandocenter bis Mittelstand Corporate Ma Outside In Target Screening
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-kommandocenter` | Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion. |
 | `mittelstand-corporate-ma-look-and-feel` | Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-kommandocenter`
 
-**Frühere Beschreibung:** Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion.
+**Fokus:** Deal-Kommandocenter: Schnellstart für Corporate/M&A-Mandate. Erkennt aus einem Satz, Datenraum, Term Sheet oder Markup den passenden Deal-Workflow und erzeugt Deal-Karte, Ampel, Rollen und nächste Aktion.
 
 # Deal-Kommandocenter
 
@@ -203,7 +203,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mittelstand-corporate-ma-look-and-feel`
 
-**Frühere Beschreibung:** Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup).
+**Fokus:** Kanzlei oder Plugin-Entwickler definiert visuelles Erscheinungsbild des Deal-Copiloten: ruhig edel blaeulch-silbern warmes Orange für Entscheidungspunkte. Normen keine (UI/UX-Guideline). Prüfraster Farbpalette Typografie Informationsdichte Branding-Konformität. Output Style-Guide Farb-Definitionen Layout-Regeln. Abgrenzung zu allen Fach-Skills (nur visuelles Rahmen-Setup).
 
 # Corporate-Cowork-Look
 
@@ -367,7 +367,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mittelstand-corporate-ma-matter-file`
 
-**Frühere Beschreibung:** Deal-Akte: Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenraumspiegel, Register, Q&A, SPA, Signing, Closing und PMI.
+**Fokus:** Deal-Akte: Legt die Transaktionsakte als Matter Workspace an: Struktur, Workstreams, Datenraumspiegel, Register, Q&A, SPA, Signing, Closing und PMI.
 
 # Deal-Akte
 
@@ -530,7 +530,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `mittelstand-corporate-ma-outside-in-target-screening`
 
-**Frühere Beschreibung:** Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen.
+**Fokus:** Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen.
 
 # Outside-in Target Screening
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-umv-095-flughafenaus-bis-umv-004-aarhus-argum
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (umv-095-flughafenausbau-klagefrist-sichern, umv-002-anerkennung-und-klagebefugnis-pruefen, umv-003-umwrg-anwendungsbereich-routen, umv-004-aarhus-argumentationslinie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 095 Flughafenausbau Klagefrist Sichern, Umv 002 Anerkennung Und Klagebefugnis Pruefen, Umv 003 Umwrg Anwendungsbereich Routen, Umv 004 Aarhus Argumentationslinie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 095 Flughafenausbau Klagefrist Sichern bis Umv 004 Aarhus Argumentationslinie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-095-flughafenausbau-klagefrist-sichern` | Umweltschutzverband Verbandsklage: Flughafenausbau: Klagefrist sichern. Klagefrist sichern für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-002-anerkennung-und-klagebefugnis-pruefen` | Umweltschutzverband Verbandsklage: Anerkennung und Klagebefugnis prüfen. Anerkennung und Klagebefugnis prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-095-flughafenausbau-klagefrist-sichern`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Flughafenausbau: Klagefrist sichern. Klagefrist sichern für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Flughafenausbau: Klagefrist sichern. Klagefrist sichern für Flughafenausbau im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Flughafenausbau Klagefrist Sichern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-002-anerkennung-und-klagebefugnis-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Anerkennung und Klagebefugnis prüfen. Anerkennung und Klagebefugnis prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Anerkennung und Klagebefugnis prüfen. Anerkennung und Klagebefugnis prüfen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Anerkennung Und Klagebefugnis Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-003-umwrg-anwendungsbereich-routen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: UmwRG-Anwendungsbereich routen. UmwRG-Anwendungsbereich routen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: UmwRG-Anwendungsbereich routen. UmwRG-Anwendungsbereich routen im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Umwrg Anwendungsbereich Routen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-004-aarhus-argumentationslinie`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Aarhus-Argumentationslinie. Aarhus-Argumentationslinie im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Umweltschutzverband Verbandsklage: Aarhus-Argumentationslinie. Aarhus-Argumentationslinie im Fachgebiet Umweltschutzverband Verbandsklage als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Aarhus Argumentationslinie
 

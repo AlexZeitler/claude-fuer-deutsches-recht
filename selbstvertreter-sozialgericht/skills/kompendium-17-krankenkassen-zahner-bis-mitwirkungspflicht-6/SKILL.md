@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-krankenkassen-zahner-bis-mitwirkungspflicht-6
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (krankenkassen-zahnersatz-55-sgb-v, ladung-termin-sozialgericht-vorbereitung, leistungsklage-54-sgg, medizinische-gutachten-strategie-laien, mitwirkungspflicht-60-bis-67-sgb-i) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Krankenkassen Zahnersatz 55 Sgb V, Ladung Termin Sozialgericht Vorbereitung, Leistungsklage 54 Sgg, Medizinische Gutachten Strategie Laien und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Krankenkassen Zahnersatz 55 Sgb V bis Mitwirkungspflicht 60 Bis 67 Sgb I
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krankenkassen-zahnersatz-55-sgb-v` | Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine. |
 | `ladung-termin-sozialgericht-vorbereitung` | Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krankenkassen-zahnersatz-55-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine.
+**Fokus:** Krankenkassen-Zahnersatz nach § 55 SGB V. Skill klaert das Festzuschuss-System Regelversorgung Mehrkostenvereinbarung Bonusheft Haerteklausel sowie die Implantatregeln. Liefert Pruefraster und Beratungsbausteine.
 
 # Krankenkassen Zahnersatz 55 Sgb V
 
@@ -83,7 +83,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `ladung-termin-sozialgericht-vorbereitung`
 
-**Frühere Beschreibung:** Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt.
+**Fokus:** Die Ladung zum SG-Termin verstehen. Was steht im Brief was tun was mitbringen Anwesenheitspflicht Vertretung. Praktische Hinweise für Buerger ohne Anwalt.
 
 # Die Ladung zum Termin — was tun?
 
@@ -223,7 +223,7 @@ Stand: 05/2026. SGG aktuell. § 110a SGG (Video-Verhandlung) seit 2020 verstaerk
 
 ## 3. `leistungsklage-54-sgg`
 
-**Frühere Beschreibung:** Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger.
+**Fokus:** Die Leistungsklage nach § 54 Abs. 5 SGG. Wenn die Behoerde konkret zahlen oder handeln muss. Schlichte Geldforderung Beispiele Mustertext für Buerger.
 
 # Die Leistungsklage — § 54 Abs. 5 SGG
 
@@ -360,7 +360,7 @@ Stand: 05/2026. § 54 Abs. 5 SGG aktuell. Verzinsung § 44 SGB I — pruefen.
 
 ## 4. `medizinische-gutachten-strategie-laien`
 
-**Frühere Beschreibung:** Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten.
+**Fokus:** Strategie mit medizinischen Gutachten im SG-Verfahren. Wie laeuft Gutachten Welche Fragen welcher Arzt. Vorbereitung Untersuchung und Reaktion auf Gutachten.
 
 # Medizinische Gutachten — Ihre Strategie
 
@@ -515,7 +515,7 @@ Stand: 05/2026. Praxis der Sozialgerichtsbarkeit. § 109 SGG wichtige Strategie.
 
 ## 5. `mitwirkungspflicht-60-bis-67-sgb-i`
 
-**Frühere Beschreibung:** Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster.
+**Fokus:** Mitwirkungspflichten der Antragstellenden nach §§ 60-67 SGB I. Skill klaert den Umfang Auskunfts- und Vorlagepflichten Untersuchungen Behandlungsmassnahmen sowie die Grenzen der Mitwirkung. Konsequenzen bei Verletzung Aufforderung Versagung Entziehung. Liefert Pruefraster.
 
 # Mitwirkungspflicht 60 Bis 67 Sgb I
 

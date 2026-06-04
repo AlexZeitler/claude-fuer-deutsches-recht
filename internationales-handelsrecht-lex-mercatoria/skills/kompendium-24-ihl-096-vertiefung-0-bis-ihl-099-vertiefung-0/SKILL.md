@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-ihl-096-vertiefung-0-bis-ihl-099-vertiefung-0
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (ihl-096-vertiefung-01-praxisfall-auswertung, ihl-097-vertiefung-01-dashboard-und-naechster-schritt, ihl-098-vertiefung-01-laienerklaerung, ihl-099-vertiefung-01-board-memo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 096 Vertiefung 01 Praxisfall Auswertung, Ihl 097 Vertiefung 01 Dashboard Und Naechster Schritt, Ihl 098 Vertiefung 01 Laienerklaerung, Ihl 099 Vertiefung 01 Board Memo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 096 Vertiefung 01 Praxisfall Auswertung bis Ihl 099 Vertiefung 01 Board Memo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-096-vertiefung-01-praxisfall-auswertung` | Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien. |
 | `ihl-097-vertiefung-01-dashboard-und-naechster-schritt` | Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-096-vertiefung-01-praxisfall-auswertung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien.
+**Fokus:** Internationales Handelsrecht: Auswertung eines Praxisfalls aus dem internationalen Handel. Strukturierter Fallansatz: Sachverhalt, Rechtsrahmen, Subsumtion (CISG, Incoterms, UCP), Ergebnis und Handlungsempfehlungen auf Basis realer Materialien.
 
 # Praxisfall-Auswertung Internationales Handelsrecht
 
@@ -81,7 +81,7 @@ CISG: uncitral.un.org. Incoterms 2020: iccwbo.org. UCP 600: iccwbo.org. NY Conve
 
 ## 2. `ihl-097-vertiefung-01-dashboard-und-naechster-schritt`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement.
+**Fokus:** Internationales Handelsrecht: Fortschritts-Dashboard und nächste Schritte für komplexe internationale Handelsfälle. Meilensteintracking, offene Rechtsfragen, Informationslücken, Eskalationsstufen und Entscheidungsmatrix für das Fallmanagement.
 
 # Dashboard und nächste Schritte im internationalen Handelsfall
 
@@ -132,7 +132,7 @@ CISG Art. 39 Abs. 2: uncitral.un.org. ZPO § 1059: gesetze-im-internet.de. ICC S
 
 ## 3. `ihl-098-vertiefung-01-laienerklaerung`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte.
+**Fokus:** Internationales Handelsrecht: Laienerklärung komplexer Rechtsbegriffe aus dem internationalen Handel. CISG in einfacher Sprache, Incoterms ohne Fachjargon, Schiedsverfahren vs. Gericht und Akkreditiv erklärt für Nicht-Juristen und Führungskräfte.
 
 # Laienerklärungen: Internationales Handelsrecht
 
@@ -183,7 +183,7 @@ Incoterms 2020 Grafik: iccwbo.org. CISG-Laienerklärung: uncitral.un.org (CISG D
 
 ## 4. `ihl-099-vertiefung-01-board-memo`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht.
+**Fokus:** Internationales Handelsrecht: Board-Memo zu einem internationalen Handelsstreit oder Vertragsrisiko. Führungskräfte-taugliche Kurzdarstellung, Entscheidungsoptionen, Kostenrisikoabwägung, Settlement-Empfehlung und rechtliche Unsicherheiten transparent gemacht.
 
 # Board-Memo: Internationaler Handelsstreit
 

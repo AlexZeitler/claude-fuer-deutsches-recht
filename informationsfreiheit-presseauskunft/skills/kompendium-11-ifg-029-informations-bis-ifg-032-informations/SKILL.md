@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-ifg-029-informations-bis-ifg-032-informations
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (ifg-029-informationszugang-niedersachsen-livec, ifg-030-informationszugang-nordrhein-westfalen, ifg-031-informationszugang-rheinland-pfalz-liv, ifg-032-informationszugang-saarland-livecheck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 029 Informationszugang Niedersachsen Livec, Ifg 030 Informationszugang Nordrhein Westfalen, Ifg 031 Informationszugang Rheinland Pfalz Liv, Ifg 032 Informationszugang Saarland Livecheck; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 029 Informationszugang Niedersachsen Livec bis Ifg 032 Informationszugang Saarland Livecheck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-029-informationszugang-niedersachsen-livec` | Informationsfreiheit und Presseauskunft: Informationszugang Niedersachsen Livecheck. Informationszugang Niedersachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-030-informationszugang-nordrhein-westfalen` | Informationsfreiheit und Presseauskunft: Informationszugang Nordrhein-Westfalen Livecheck. Informationszugang Nordrhein-Westfalen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-029-informationszugang-niedersachsen-livec`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Niedersachsen Livecheck. Informationszugang Niedersachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Niedersachsen Livecheck. Informationszugang Niedersachsen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Niedersachsen Livec
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-030-informationszugang-nordrhein-westfalen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Nordrhein-Westfalen Livecheck. Informationszugang Nordrhein-Westfalen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Nordrhein-Westfalen Livecheck. Informationszugang Nordrhein-Westfalen Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Nordrhein Westfalen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-031-informationszugang-rheinland-pfalz-liv`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Rheinland-Pfalz Livecheck. Informationszugang Rheinland-Pfalz Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Rheinland-Pfalz Livecheck. Informationszugang Rheinland-Pfalz Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Rheinland Pfalz Liv
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-032-informationszugang-saarland-livecheck`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Saarland Livecheck. Informationszugang Saarland Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Saarland Livecheck. Informationszugang Saarland Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Saarland Livecheck
 

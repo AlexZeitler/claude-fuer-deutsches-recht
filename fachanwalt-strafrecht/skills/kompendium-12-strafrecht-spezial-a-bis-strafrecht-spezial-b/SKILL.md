@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-strafrecht-spezial-a-bis-strafrecht-spezial-b
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 12; bündelt 10 frühere Spezialskills (strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik, strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis, strafrecht-spezial-aussetzung-221-stgb, strafrecht-spezial-bandenbetrug-263-stgb, strafrecht-spezial-bankrott-283-stgb und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik, Strafrecht Spezial Aussagepsychologie Vernehmungslehre Praxis, Strafrecht Spezial Aussetzung 221 Stgb, Strafrecht Spezial Bandenbetrug 263 Stgb und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Aussagepsychologie Staatsanwaltschaft Replik bis Strafrecht Spezial Betrug 263 Stgb Besonders Schwer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik` | Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen. |
 | `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis` | Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-aussagepsychologie-staatsanwaltschaft-replik`
 
-**Frühere Beschreibung:** Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen.
+**Fokus:** Verteidigerwerkzeug: methodisch fundierte Replik gegen typische StA-Argumentationen wie der Zeuge luegt, die Aussage ist detailreich also wahr, die Inkonstanzen sind traumatypisch. Replik-Schemata fuer Schlussplaedoyer, Hilfsbeweisantraege, Revisionsruegen.
 
 # Replik gegen staatsanwaltliche Aussagebewertung
 
@@ -136,7 +136,7 @@ Im Plaedoyer arbeiten Sie strukturiert in zwei Schritten: erstens die StA-Argume
 
 ## 2. `strafrecht-spezial-aussagepsychologie-vernehmungslehre-praxis`
 
-**Frühere Beschreibung:** Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse.
+**Fokus:** Vernehmungsmethodik: PEACE-Modell (Planung, Engagement, Account, Closure, Evaluate), Cognitive Interview, Reid-Technik und ihre methodischen Risiken. Suggestive Fragen, geschlossene Fragen, Mehrfachfrage, Anklage- und Eingestaendnisdruck. Verteidigerwerkzeug fuer Vernehmungsanalyse.
 
 # Vernehmungslehre und Vernehmungsmethodik
 
@@ -235,7 +235,7 @@ Im Plaedoyer methodisch arbeiten: "Die polizeiliche Vernehmung der Belastungszeu
 
 ## 3. `strafrecht-spezial-aussetzung-221-stgb`
 
-**Frühere Beschreibung:** Aussetzung nach § 221 StGB. Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Erfolgsqualifikation Tod Abs. 3.
+**Fokus:** Aussetzung nach § 221 StGB. Konkretes Gefaehrdungsdelikt. Versetzen in hilflose Lage oder Imstichlassen bei Obhuts- oder Beistandspflicht. Gefahr des Todes oder einer schweren Gesundheitsschaedigung. Qualifikationen Abs. 2 und Erfolgsqualifikation Tod Abs. 3.
 
 # Aussetzung § 221 StGB
 
@@ -356,7 +356,7 @@ In der Praxis sind die wichtigsten Konstellationen: Vernachlaessigung von Kinder
 
 ## 4. `strafrecht-spezial-bandenbetrug-263-stgb`
 
-**Frühere Beschreibung:** Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo.
+**Fokus:** Bandenbetrug § 263 Abs. 5 StGB: Anwendungsfall Verteidigung in Bandenstrukturen bei Online-Betrug, Phishing, Enkeltrick, Schockanruf, Cybertrading. Qualifikation Strafrahmen ein bis zehn Jahre, bei minderschwerer Fall sechs Monate bis fuenf Jahre. Pruefraster Bandenabrede, drei Mitglieder, fortlaufende Begehung, gewerbsmaessig. Trade-offs Aussage gegen Tatbeteiligte (Kronzeugenregelung § 46b StGB), Bestreiten Bandenabrede, Wiedergutmachung. Output Verteidigungslinie und Strafzumessungs-Memo.
 
 # Bandenbetrug § 263 Abs. 5 StGB
 
@@ -453,7 +453,7 @@ Abzugrenzen vom besonders schweren Fall (§ 263 Abs. 3) und vom Grundtatbestand 
 
 ## 5. `strafrecht-spezial-bankrott-283-stgb`
 
-**Frühere Beschreibung:** Bankrott nach Paragraph 283 StGB. Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4 und 5. Faktische Geschaeftsfuehrer Paragraph 14 StGB. Verteidigungsstrategien in Insolvenzverfahren und Strafverfahren.
+**Fokus:** Bankrott nach Paragraph 283 StGB. Tatbestandsalternativen Beiseiteschaffen Verheimlichen Zerstoeren Verkuerzung. Krise und Insolvenzreife als objektive Strafbarkeitsbedingung. Vorsatz und Fahrlaessigkeitsvarianten Absatz 4 und 5. Faktische Geschaeftsfuehrer Paragraph 14 StGB. Verteidigungsstrategien in Insolvenzverfahren und Strafverfahren.
 
 # Bankrott nach Paragraph 283 StGB
 
@@ -569,7 +569,7 @@ Voraussetzung jeder Strafbarkeit nach Paragraph 283 StGB: Eintritt der Zahlungse
 
 ## 6. `strafrecht-spezial-bankrott-strafzumessung-und-einziehung`
 
-**Frühere Beschreibung:** Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB.
+**Fokus:** Strafzumessung bei Bankrott und Insolvenzdelikten. Paragraph 46 StGB Abwaegung. Einziehung nach Paragraph 73 StGB und Wertersatz Paragraph 73c StGB. Berufsverbot Paragraph 70 StGB. BZRG-Eintrag. GF-Sperre Paragraph 6 GmbHG. Bewaehrung bei Insolvenzstraftaten. Wiedergutmachung Paragraph 46a StGB.
 
 # Strafzumessung und Vermoegensabschoepfung bei Insolvenzstraftaten
 
@@ -710,7 +710,7 @@ Bei Insolvenzstraftaten ist die Bewaehrungsschwelle oft das Hauptziel der Vertei
 
 ## 7. `strafrecht-spezial-bedrohung-241-stgb`
 
-**Frühere Beschreibung:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persoenliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
+**Fokus:** Bedrohung nach § 241 StGB. Verschaerfung 2021 durch das Gesetz zur Bekaempfung des Rechtsextremismus und der Hasskriminalitaet. Bedrohung mit Verbrechen oder mit rechtswidriger Tat gegen sexuelle Selbstbestimmung koerperliche Unversehrtheit persoenliche Freiheit Vermoegen. Hassrede online erfasst. Strafrahmen bis drei Jahre.
 
 # Bedrohung § 241 StGB
 
@@ -817,7 +817,7 @@ Strafrahmen:
 
 ## 8. `strafrecht-spezial-besonders-schwerer-bankrott-283a-stgb`
 
-**Frühere Beschreibung:** Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB. Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Glaeubiger. Strafrahmen 6 Monate bis 10 Jahre. Verteidigung gegen die Regelbeispielsindikation. Abgrenzung zu Paragraph 283 StGB Grundtatbestand. Praxisrelevanz in Wirtschaftsstrafverfahren.
+**Fokus:** Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB. Regelbeispiele Gewerbsmaessigkeit und Inkaufnahme wirtschaftlicher Not vieler Glaeubiger. Strafrahmen 6 Monate bis 10 Jahre. Verteidigung gegen die Regelbeispielsindikation. Abgrenzung zu Paragraph 283 StGB Grundtatbestand. Praxisrelevanz in Wirtschaftsstrafverfahren.
 
 # Besonders schwerer Fall des Bankrotts nach Paragraph 283a StGB
 
@@ -915,7 +915,7 @@ Die Regelbeispiele wirken als gesetzliche Vermutung. Sie kann aber widerlegt wer
 
 ## 9. `strafrecht-spezial-bestechung-im-geschaeftsverkehr-299-stgb`
 
-**Frühere Beschreibung:** Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo fuer Bauunternehmen Pharma Healthcare Einkaufsabteilungen.
+**Fokus:** Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB: Anwendungsfall Verteidigung bei Vorteilszuwendungen zwischen Angestellten und Geschaeftspartnern im privaten Sektor. Pruefraster Wettbewerbsmodell § 299 Abs. 1 Nr. 1 und Geschaeftsherrenmodell Nr. 2 seit Reform 2015 Korruptionsbekaempfungsgesetz. Trade-offs Compliance-Defence Verteidigung Vorsatz. Strafrahmen bis drei Jahre Grundtatbestand drei Monate bis fuenf Jahre in besonders schweren Faellen § 300 StGB. Output Verteidigungsmemo fuer Bauunternehmen Pharma Healthcare Einkaufsabteilungen.
 
 # Bestechung und Bestechlichkeit im geschaeftlichen Verkehr § 299 StGB
 
@@ -1029,7 +1029,7 @@ Auch fuer auslaendischen Wettbewerb gilt § 299 StGB; Internationalisierung.
 
 ## 10. `strafrecht-spezial-betrug-263-stgb-besonders-schwer`
 
-**Frühere Beschreibung:** Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen.
+**Fokus:** Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB Regelbeispiele: Anwendungsfall Verteidigung wenn Anklage einen erhoehten Strafrahmen ueber Regelbeispiele auslost. Gewerbsmaessig § 263 Abs. 3 Nr. 1, Vermoegensverlust grosser Ausmasses oder grosse Zahl von Personen Nr. 2, wirtschaftliche Not Nr. 3, Amtstraegermissbrauch Nr. 4, Versicherungsmissbrauch Nr. 5. Pruefraster Regelbeispiel-Indikation, Widerlegungstaktik und Strafzumessung bei sechs Monaten bis zehn Jahren. Trade-offs zwischen Bestreiten des Regelbeispiels und Gestaendnis. Output Verteidigungsstrategie mit Antraegen.
 
 # Besonders schwerer Fall des Betruges § 263 Abs. 3 StGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-bautraeger-rueckabwi-bis-bautraeger-typische
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (bautraeger-rueckabwicklung-bei-insolvenz, bautraeger-selbstvornahme-und-vorschussklage, bautraeger-sonderwuensche-zusaetzliche-vereinbarungen, bautraeger-typische-nichtigkeitsfallen-checkliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bautraeger Rueckabwicklung Bei Insolvenz, Bautraeger Selbstvornahme Und Vorschussklage, Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen, Bautraeger Typische Nichtigkeitsfallen Checkliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bautraeger Rueckabwicklung Bei Insolvenz bis Bautraeger Typische Nichtigkeitsfallen Checkliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bautraeger-rueckabwicklung-bei-insolvenz` | Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster. |
 | `bautraeger-selbstvornahme-und-vorschussklage` | Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bautraeger-rueckabwicklung-bei-insolvenz`
 
-**Frühere Beschreibung:** Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster.
+**Fokus:** Bautraeger-Rueckabwicklung bei Insolvenz. Skill klaert das Verfahren der Rueckabwicklung wenn der Bautraeger insolvent geht aber Eigentumsuebertragung noch nicht erfolgt ist Buergschaftsabruf Forderungsanmeldung Wohnungsuebernahme im Insolvenzverfahren. Liefert Pruefraster.
 
 # Bautraeger Rueckabwicklung Bei Insolvenz
 
@@ -66,7 +66,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `bautraeger-selbstvornahme-und-vorschussklage`
 
-**Frühere Beschreibung:** Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster.
+**Fokus:** Selbstvornahme und Vorschussklage gegen den Bautraeger. Skill klaert das Recht zur Selbstvornahme nach § 637 BGB die Vorschussklage zur Finanzierung der Beseitigung und die typischen Fallgruppen Erwerber will saniertes Apartment. Liefert Pruefraster.
 
 # Bautraeger Selbstvornahme Und Vorschussklage
 
@@ -105,7 +105,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `bautraeger-sonderwuensche-zusaetzliche-vereinbarungen`
 
-**Frühere Beschreibung:** Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf.
+**Fokus:** Bautraeger-Sonderwuensche und zusaetzliche Vereinbarungen. Skill klaert die Behandlung von Sonderwuensche Mehrpreisen Aenderungen der Baubeschreibung Schriftform und das Verhaeltnis zur urspruenglichen Vertragsgrundlage. Liefert Klauselentwurf.
 
 # Bautraeger Sonderwuensche Zusaetzliche Vereinbarungen
 
@@ -148,7 +148,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `bautraeger-typische-nichtigkeitsfallen-checkliste`
 
-**Frühere Beschreibung:** Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien fuer den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit.
+**Fokus:** Bautraeger typische Nichtigkeitsfallen und Erwerber-Strategie. Skill listet die haeufigsten Nichtigkeitstatbestaende und entwickelt Strategien fuer den Erwerber wann Nichtigkeit zu seinem Vorteil genutzt werden kann (Default-Recht oft guenstiger). Liefert Risiko-Cockpit.
 
 # Bautraeger Typische Nichtigkeitsfallen Checkliste
 

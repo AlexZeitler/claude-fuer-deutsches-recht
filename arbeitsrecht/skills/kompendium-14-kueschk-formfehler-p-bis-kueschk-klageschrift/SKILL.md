@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-kueschk-formfehler-p-bis-kueschk-klageschrift
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (kueschk-formfehler-pruefen, kueschk-guetetermin-strategie-und-sprechzettel, kueschk-kammertermin-sprechzettel, kueschk-klageschrift-anwalt-baustein) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kueschk Formfehler Pruefen, Kueschk Guetetermin Strategie Und Sprechzettel, Kueschk Kammertermin Sprechzettel, Kueschk Klageschrift Anwalt Baustein; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - arbeitsrecht
+# Arbeitsbereich - Kueschk Formfehler Pruefen bis Kueschk Klageschrift Anwalt Baustein
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kueschk-formfehler-pruefen` | Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur. |
 | `kueschk-guetetermin-strategie-und-sprechzettel` | Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kueschk-formfehler-pruefen`
 
-**Frühere Beschreibung:** Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur.
+**Fokus:** Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur.
 
 # Formfehler bei der Kündigung prüfen
 
@@ -162,7 +162,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 2. `kueschk-guetetermin-strategie-und-sprechzettel`
 
-**Frühere Beschreibung:** Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen.
+**Fokus:** Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen.
 
 # Gütetermin: Strategie und Sprechzettel
 
@@ -270,7 +270,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 3. `kueschk-kammertermin-sprechzettel`
 
-**Frühere Beschreibung:** Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden.
+**Fokus:** Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden.
 
 # Kammertermin: Sprechzettel für die Hauptverhandlung
 
@@ -380,7 +380,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 4. `kueschk-klageschrift-anwalt-baustein`
 
-**Frühere Beschreibung:** Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil.
+**Fokus:** Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil.
 
 # Klageschrift — Anwaltliche Version
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-db-057-datenbankrech-bis-db-059-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (db-057-datenbankrecht-musik-film-bildarchiv, db-058-datenbankrecht-app-store-und-app-daten, db-059-datenbankrecht-bei-finanzmarktdaten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - datenbankrecht
+# Arbeitsbereich - Db 057 Datenbankrecht Musik Film Bildarchiv, Db 058 Datenbankrecht App Store Und App Daten, Db 059 Datenbankrecht Bei Finanzmarktdaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-057-datenbankrecht-musik-film-bildarchiv` | Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale. |
 | `db-058-datenbankrecht-app-store-und-app-daten` | Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-057-datenbankrecht-musik-film-bildarchiv`
 
-**Frühere Beschreibung:** Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale.
+**Fokus:** Datenbankrecht für Musik-, Film- und Bildarchive: §§ 87a-87e UrhG für Mediendatenbanken, Schichtenschutz (Datenbankherstellerrecht + Urheberrecht an Einzelwerken), Lizenzmodelle für Stock-Media-Portale und Verwertungsgesellschaften (GEMA, VGBild), TDM-Schranken und Einzel-Metadaten-Schutz. Erstellt Medienlizenz-Konzept und Herstellerrechts-Gutachten für Contentportale.
 
 # Datenbankrecht für Musik-, Film- und Bildarchive — Mediendatenbanken
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-058-datenbankrecht-app-store-und-app-daten`
 
-**Frühere Beschreibung:** Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse.
+**Fokus:** Datenbankrecht für App Stores und App-Datenbanken: §§ 87a-87e UrhG für App-Store-Kataloge als Datenbankherstellerrecht, Schutz gegen konkurrierende App-Verzeichnisse und Scraper, DMA-Gatekeeper-Pflichten (Art. 5-6 VO 2022/1925) für Apple App Store und Google Play sowie DSGVO bei Nutzerdaten und App-Analytics-Datenbanken. Erstellt Schutzkonzept und DMA-Compliance-Analyse.
 
 # Datenbankrecht für App Stores und App-Daten — DMA und Herstellerrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-059-datenbankrecht-bei-finanzmarktdaten`
 
-**Frühere Beschreibung:** Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten.
+**Fokus:** Datenbankrecht für Finanzmarktdaten: §§ 87a-87e UrhG für Börsen- und Kursdatenbanken, EuGH C-203/02 (BHB/William Hill) und Börsen als Datenbankherstellerinnen (Investition in Kursfeststellung vs. Datenbeschaffung), MiFID-II-Datentransparenzpflichten, Lizenzmodelle für Marktdaten-Feeds und DSGVO bei personenbezogenen Transaktionsdaten.
 
 # Datenbankrecht bei Finanzmarktdaten — Börsen, Kurse und Marktdaten
 

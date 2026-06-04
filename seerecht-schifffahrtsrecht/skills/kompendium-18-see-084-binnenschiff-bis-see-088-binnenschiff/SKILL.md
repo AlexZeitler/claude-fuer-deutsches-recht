@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-see-084-binnenschiff-bis-see-088-binnenschiff
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (see-084-binnenschiff-arrest-vorbereiten, see-085-binnenschiff-wrackpflicht-pruefen, see-086-binnenschiff-versicherung-melden, see-087-binnenschiff-local-counsel-instruieren, see-088-binnenschiff-closing-planen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 084 Binnenschiff Arrest Vorbereiten, See 085 Binnenschiff Wrackpflicht Pruefen, See 086 Binnenschiff Versicherung Melden, See 087 Binnenschiff Local Counsel Instruieren und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 084 Binnenschiff Arrest Vorbereiten bis See 088 Binnenschiff Closing Planen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-084-binnenschiff-arrest-vorbereiten` | Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan. |
 | `see-085-binnenschiff-wrackpflicht-pruefen` | Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-084-binnenschiff-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Binnenschiff: Glaeubiger sichert Anspruch an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Binnenschiff – Arrest vorbereiten
 
@@ -126,7 +126,7 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 
 ## 2. `see-085-binnenschiff-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Binnenschiff – Wrackbeseitigungspflicht prüfen
 
@@ -218,7 +218,7 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 
 ## 3. `see-086-binnenschiff-versicherung-melden`
 
-**Frühere Beschreibung:** Binnenschiff: Schadensereignis an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Binnenschiff: Schadensereignis an Binnenmotorgueterschiff; Tanker oder Fahrgastschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Binnenschiff – Schadensfall bei Versicherung melden
 
@@ -309,7 +309,7 @@ Der H&M-Versicherer, der den Schaden reguliert hat, tritt in die Forderungen des
 
 ## 4. `see-087-binnenschiff-local-counsel-instruieren`
 
-**Frühere Beschreibung:** Binnenschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Binnenschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Binnenschiff – Local Counsel instruieren
 
@@ -400,7 +400,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 5. `see-088-binnenschiff-closing-planen`
 
-**Frühere Beschreibung:** Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Binnenschiff: Closing eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Binnenschiff – Closing planen
 

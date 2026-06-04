@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-harmonisierung-und-m-bis-internationale-buyou
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (harmonisierung-und-migration-rechtssicher, historisch-gewachsene-altsysteme-due-diligence, internationale-buyout-datenflows-und-datenschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - bav-strategie-konzern
+# Arbeitsbereich - Harmonisierung Und Migration Rechtssicher, Historisch Gewachsene Altsysteme Due Diligence, Internationale Buyout Datenflows Und Datenschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `harmonisierung-und-migration-rechtssicher` | bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse. |
 | `historisch-gewachsene-altsysteme-due-diligence` | Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `harmonisierung-und-migration-rechtssicher`
 
-**Frühere Beschreibung:** bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse.
+**Fokus:** bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse.
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen
 
@@ -206,7 +206,7 @@ Mit freundlichen Grüßen
 
 ## 2. `historisch-gewachsene-altsysteme-due-diligence`
 
-**Frühere Beschreibung:** Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung.
+**Fokus:** Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung.
 
 # Historisch Gewachsene Altsysteme — Due Diligence
 
@@ -379,7 +379,7 @@ QUANTITATIVE PRÜFUNG:
 
 ## 3. `internationale-buyout-datenflows-und-datenschutz`
 
-**Frühere Beschreibung:** Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb.
+**Fokus:** Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Prüfraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb.
 
 # Internationale Buyout-Datenflows und Datenschutz
 

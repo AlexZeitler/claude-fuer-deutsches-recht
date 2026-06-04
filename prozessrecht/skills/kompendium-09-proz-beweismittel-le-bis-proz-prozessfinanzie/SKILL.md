@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-proz-beweismittel-le-bis-proz-prozessfinanzie
-description: "prozessrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (proz-beweismittel-leitfaden, proz-mediationsklage-guete-spezial, proz-prozessfinanzierung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "prozessrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Proz Beweismittel Leitfaden, Proz Mediationsklage Guete Spezial, Proz Prozessfinanzierung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - prozessrecht
+# Arbeitsbereich - Proz Beweismittel Leitfaden, Proz Mediationsklage Guete Spezial, Proz Prozessfinanzierung Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `proz-beweismittel-leitfaden` | Leitfaden Beweismittel ZPO: Urkundenbeweis, Zeugenbeweis, Sachverstaendigenbeweis, Parteivernehmung, Augenscheinsbeweis. Pruefraster fuer Beweisangebot. |
 | `proz-mediationsklage-guete-spezial` | Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zustaendige Stelle, Verlauf, Vergleich, Folgen. Pruefraster fuer Klaegervorbereitung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `proz-beweismittel-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Beweismittel ZPO: Urkundenbeweis, Zeugenbeweis, Sachverstaendigenbeweis, Parteivernehmung, Augenscheinsbeweis. Pruefraster fuer Beweisangebot.
+**Fokus:** Leitfaden Beweismittel ZPO: Urkundenbeweis, Zeugenbeweis, Sachverstaendigenbeweis, Parteivernehmung, Augenscheinsbeweis. Pruefraster fuer Beweisangebot.
 
 # Proz: Beweismittel
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `prozessrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 2. `proz-mediationsklage-guete-spezial`
 
-**Frühere Beschreibung:** Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zustaendige Stelle, Verlauf, Vergleich, Folgen. Pruefraster fuer Klaegervorbereitung.
+**Fokus:** Spezialfall obligatorisches Gueteverfahren § 15a EGZPO und Mediation: zustaendige Stelle, Verlauf, Vergleich, Folgen. Pruefraster fuer Klaegervorbereitung.
 
 # Proz: Mediation Gueteverfahren
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `prozessrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 3. `proz-prozessfinanzierung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster fuer Mandant und Anwalt.
+**Fokus:** Spezialfall Prozessfinanzierung: Anbieter, Quotenmodelle, RDG-Implikationen, Berufsrecht. Pruefraster fuer Mandant und Anwalt.
 
 # Proz: Prozessfinanzierung
 

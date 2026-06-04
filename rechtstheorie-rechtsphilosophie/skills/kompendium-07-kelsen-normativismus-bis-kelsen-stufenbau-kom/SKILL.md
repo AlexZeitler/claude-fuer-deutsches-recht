@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-kelsen-normativismus-bis-kelsen-stufenbau-kom
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (kelsen-normativismus-und-reine-rechtslehre, kelsen-stufenbau-gueltigkeit-und-methodendisziplin, kelsen-stufenbau-kompetenz-und-grundnorm) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Kelsen Normativismus Und Reine Rechtslehre, Kelsen Stufenbau Gueltigkeit Und Methodendisziplin, Kelsen Stufenbau Kompetenz Und Grundnorm
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kelsen-normativismus-und-reine-rechtslehre` | Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik. |
 | `kelsen-stufenbau-gueltigkeit-und-methodendisziplin` | Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kelsen-normativismus-und-reine-rechtslehre`
 
-**Frühere Beschreibung:** Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik.
+**Fokus:** Prueft Rechtsgeltung kelsenianisch: Norm, Rechtsquelle, Kompetenz, Stufenbau, Trennung von Geltung und politisch-moralischer Bewertung sowie Abwehr von Ausnahme- und Souveraenitaetsrhetorik.
 
 # Kelsen: Normativismus und reine Rechtslehre
 
@@ -100,7 +100,7 @@ Schließe mit einem Satz, der die Rechtsgeltung und die rechtspolitische Bewertu
 
 ## 2. `kelsen-stufenbau-gueltigkeit-und-methodendisziplin`
 
-**Frühere Beschreibung:** Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
+**Fokus:** Nutzt kelsenianische Rechtsquellenklarheit zur Trennung von Normgeltung, Moral, Politik, Kompetenz, Verfahren und Rechtsschutz.
 
 # Kelsen: Stufenbau, Geltung, Kompetenz und Methodendisziplin
 
@@ -119,7 +119,7 @@ Normstufenkarte plus kurzer Red-Team-Abschnitt gegen Souveränitäts-, Ausnahme-
 
 ## 3. `kelsen-stufenbau-kompetenz-und-grundnorm`
 
-**Frühere Beschreibung:** Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf.
+**Fokus:** Ordnet Normen im Stufenbau: Verfassung, Gesetz, Verordnung, Satzung, Verwaltungsakt, Vertrag, Urteil, Unionsrecht und Voelkerrecht; klaert Kompetenzketten und bricht falsche Autoritaetsbehauptungen auf.
 
 # Stufenbau, Kompetenz und Normkette
 

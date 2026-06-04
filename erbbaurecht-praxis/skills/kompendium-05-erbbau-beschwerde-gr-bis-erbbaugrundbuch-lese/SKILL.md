@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-erbbau-beschwerde-gr-bis-erbbaugrundbuch-lese
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (erbbau-beschwerde-grundbuchamt, erbbaugrundbuch-lesen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - erbbaurecht-praxis
+# Arbeitsbereich - Erbbau Beschwerde Grundbuchamt, Erbbaugrundbuch Lesen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbbau-beschwerde-grundbuchamt` | Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde. |
 | `erbbaugrundbuch-lesen` | Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbbau-beschwerde-grundbuchamt`
 
-**Frühere Beschreibung:** Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde.
+**Fokus:** Prüft Zwischenverfügung, Rangproblem, Zustimmung, Nachweise und Beschwerde.
 
 # Grundbuchstreit im Erbbaurecht
 
@@ -61,7 +61,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `erbbaugrundbuch-lesen`
 
-**Frühere Beschreibung:** Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen.
+**Fokus:** Führt durch Erbbaugrundbuch, Grundstücksgrundbuch, Rangvermerke, Belastungen und korrespondierende Eintragungen.
 
 # Erbbaugrundbuch lesen
 

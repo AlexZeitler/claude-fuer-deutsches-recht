@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kanzlei-berufsgeheim-bis-konflikt-nda-due-dil
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (kanzlei-berufsgeheimnis, kartellrecht, kommunikation-an-betroffene, konflikt-nda-due-diligence) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Berufsgeheimnis, Kartellrecht, Kommunikation An Betroffene, Konflikt Nda Due Diligence; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Kanzlei Berufsgeheimnis bis Konflikt Nda Due Diligence
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-berufsgeheimnis` | Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld. |
 | `kartellrecht` | Routet Kartellhinweise. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-berufsgeheimnis`
 
-**Frühere Beschreibung:** Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld.
+**Fokus:** Prüft Hinweise in Kanzleien und Berufsgeheimnisträger-Umfeld.
 
 # Kanzlei Berufsgeheimnis
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `kartellrecht`
 
-**Frühere Beschreibung:** Routet Kartellhinweise.
+**Fokus:** Routet Kartellhinweise.
 
 # Kartellrecht
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `kommunikation-an-betroffene`
 
-**Frühere Beschreibung:** Formuliert Kommunikation an beschuldigte und betroffene Personen.
+**Fokus:** Formuliert Kommunikation an beschuldigte und betroffene Personen.
 
 # Kommunikation An Betroffene
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `konflikt-nda-due-diligence`
 
-**Frühere Beschreibung:** Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen.
+**Fokus:** Prüft NDA-Konflikte in M&A-Due-Diligence und Datenräumen.
 
 # Konflikt NDA Due Diligence
 

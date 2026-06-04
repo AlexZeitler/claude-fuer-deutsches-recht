@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (gesellschaftsgruender-gmbh-vorbereitung, gesellschaftsgruender-golden-share-und-vetorechte, gesellschaftsgruender-gruenderrollen-konfliktcheck, gesellschaftsgruender-gv-einladung-tagesordnung, gesellschaftsgruender-gv-protokoll-und-versammlungsleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Gmbh Vorbereitung, Gesellschaftsgruender Golden Share Und Vetorechte, Gesellschaftsgruender Gruenderrollen Konfliktcheck, Gesellschaftsgruender Gv Einladung Tagesordnung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Gmbh Vorbereitung bis Gesellschaftsgruender Gv Protokoll Und Versammlungsleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-gmbh-vorbereitung` | GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Prüfraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschäftsführereignung. Output: Vorbereitungscheckliste GmbH-Gründung. Abgrenzung: nicht UG-Gründung (eigener Skill). |
 | `gesellschaftsgruender-golden-share-und-vetorechte` | Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich). |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-gmbh-vorbereitung`
 
-**Frühere Beschreibung:** GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Prüfraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschäftsführereignung. Output: Vorbereitungscheckliste GmbH-Gründung. Abgrenzung: nicht UG-Gründung (eigener Skill).
+**Fokus:** GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Prüfraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschäftsführereignung. Output: Vorbereitungscheckliste GmbH-Gründung. Abgrenzung: nicht UG-Gründung (eigener Skill).
 
 # GmbH-Vorbereitung
 
@@ -173,7 +173,7 @@ Anstellungsvertrag: [vorhanden / noch abzuschließen]
 
 ## 2. `gesellschaftsgruender-golden-share-und-vetorechte`
 
-**Frühere Beschreibung:** Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich).
+**Fokus:** Golden Shares und Vetorechte in GmbH oder AG satzungsmäßig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Prüfraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich).
 
 # Golden Share und Sondervetorechte
 
@@ -294,7 +294,7 @@ erheben.
 
 ## 3. `gesellschaftsgruender-gruenderrollen-konfliktcheck`
 
-**Frühere Beschreibung:** Klärt Rollen, Beiträge, Erwartungen, Streitpunkte und Exit-Szenarien vor Satzungsentwurf.
+**Fokus:** Klärt Rollen, Beiträge, Erwartungen, Streitpunkte und Exit-Szenarien vor Satzungsentwurf.
 
 # Gründerrollen und Konfliktcheck
 
@@ -357,7 +357,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-gv-einladung-tagesordnung`
 
-**Frühere Beschreibung:** Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Prüfraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfähigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll.
+**Fokus:** Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Prüfraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfähigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll.
 
 # Einladung zur Gesellschafterversammlung
 
@@ -530,7 +530,7 @@ Anlage: [RELEVANTE DOKUMENTE]
 
 ## 5. `gesellschaftsgruender-gv-protokoll-und-versammlungsleiter`
 
-**Frühere Beschreibung:** Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchführen. Normen: §§ 48 ff. GmbHG. Prüfraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung.
+**Fokus:** Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchführen. Normen: §§ 48 ff. GmbHG. Prüfraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung.
 
 # Protokoll der Gesellschafterversammlung
 

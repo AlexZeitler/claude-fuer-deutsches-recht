@@ -1,33 +1,33 @@
 ---
 name: kompendium-19-stand-der-technik-be-bis-startup-schnellschut
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 19; bündelt 2 frühere Spezialskills (stand-der-technik-belegpaket, startup-schnellschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stand Der Technik Belegpaket, Startup Schnellschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - gebrauchsmusterrecht
+# Arbeitsbereich - Stand Der Technik Belegpaket, Startup Schnellschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stand-der-technik-belegpaket` | Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise. |
 | `startup-schnellschutz` | Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stand-der-technik-belegpaket`
 
-**Frühere Beschreibung:** Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise.
+**Fokus:** Stand-der-Technik-Belegpaket bauen: Dokumente, öffentliche Benutzung, Internetarchiv, Produktkatalog, Messe, Zeugen und Datumsnachweise.
 
 # Stand Der Technik Belegpaket
 
@@ -59,7 +59,7 @@ Belegpaket mit Timeline.
 
 ## 2. `startup-schnellschutz`
 
-**Frühere Beschreibung:** Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget.
+**Fokus:** Schnellschutzstrategie für Start-ups und KMU: Gebrauchsmuster, Patent, Geheimhaltung, defensive Veröffentlichung, Investorenkommunikation und Budget.
 
 # Startup Schnellschutz
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-rechtsgrundmangel-an-bis-schenkung-leihe-und
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (rechtsgrundmangel-anfang-und-wegfall, ruecktritt-widerruf-und-bereicherung, saldotheorie-rueckabwicklung-nichtiger-vertraege, schenkung-leihe-und-unbenannte-zuwendung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsgrundmangel Anfang Und Wegfall, Ruecktritt Widerruf Und Bereicherung, Saldotheorie Rueckabwicklung Nichtiger Vertraege, Schenkung Leihe Und Unbenannte Zuwendung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Rechtsgrundmangel Anfang Und Wegfall bis Schenkung Leihe Und Unbenannte Zuwendung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsgrundmangel-anfang-und-wegfall` | Nutze diesen Skill, wenn Anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung. |
 | `ruecktritt-widerruf-und-bereicherung` | Nutze diesen Skill, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsgrundmangel-anfang-und-wegfall`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung.
+**Fokus:** Nutze diesen Skill, wenn Anfangsmangel, späterer Wegfall, Teilmangel und Zweckausfall zeitlich getrennt werden müssen. Normen: § 812 Abs. 1 S. 1 Alt. 1 und S. 2 Alt. 1 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Prüfergebnis Rechtsgrundlage mit Anfangs- oder Wegfall-Klassifikation. Abgrenzung: nicht Behaltensgrund-Prüfung.
 
 # Rechtsgrundmangel: Anfang und Wegfall
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `ruecktritt-widerruf-und-bereicherung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime.
+**Fokus:** Nutze diesen Skill, wenn Rücktritts- oder Widerrufsfolgen neben Bereicherungsrecht stehen. Normen: §§ 346 bis 359 BGB; § 812 BGB; §§ 355 bis 361 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Konkurrenz-Matrix Rücktritt/Widerruf vs. Bereicherungsrecht. Abgrenzung: nicht reines Bereicherungsrecht bei vorrangigem Rücktritts-/Widerrufsregime.
 
 # Rücktritt, Widerruf und Bereicherung
 
@@ -177,7 +177,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `saldotheorie-rueckabwicklung-nichtiger-vertraege`
 
-**Frühere Beschreibung:** Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse.
+**Fokus:** Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse.
 
 # Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge
 
@@ -286,7 +286,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `schenkung-leihe-und-unbenannte-zuwendung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Normen: §§ 516 und 528 BGB; § 530 BGB; § 812 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zuordnungs-Matrix Schenkung vs. Leihe vs. unbenannte Zuwendung. Abgrenzung: nicht Familien- oder Erbrecht.
+**Fokus:** Nutze diesen Skill, wenn unentgeltliche Zuwendung, Nutzungsüberlassung und Zweckbindung auseinanderfallen können. Normen: §§ 516 und 528 BGB; § 530 BGB; § 812 BGB. Prüfraster: Arbeite vom Vermögensvorteil zur Zweck- und Rechtsgrundebene vor; Trenne innere Motivation von erkennbarer Zweckbindung; Prüfe Teilmängel und zeitliche Zäsuren betragsgenau. Output: Zuordnungs-Matrix Schenkung vs. Leihe vs. unbenannte Zuwendung. Abgrenzung: nicht Familien- oder Erbrecht.
 
 # Schenkung, Leihe und unbenannte Zuwendung
 

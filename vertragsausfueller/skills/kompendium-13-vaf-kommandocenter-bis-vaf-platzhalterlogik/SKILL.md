@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-vaf-kommandocenter-bis-vaf-platzhalterlogik
-description: "vertragsausfueller: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (vaf-kommandocenter, vaf-mehrsprachige-vertraege-spezial, vaf-platzhalterlogik-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsausfueller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vaf Kommandocenter, Vaf Mehrsprachige Vertraege Spezial, Vaf Platzhalterlogik Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - vertragsausfueller
+# Arbeitsbereich - Vaf Kommandocenter, Vaf Mehrsprachige Vertraege Spezial, Vaf Platzhalterlogik Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vaf-kommandocenter` | Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Spezial-Skill. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview. |
 | `vaf-mehrsprachige-vertraege-spezial` | Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster fuer internationale Mandate. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vaf-kommandocenter`
 
-**Frühere Beschreibung:** Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Spezial-Skill. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview.
+**Fokus:** Vertragsausfüller Kommandocenter starten: Anwendungsfall Anwalt oder Mandant möchte Vertrag ausfüllen und gibt Eingabe-Dokument an; Skill erkennt Vorlage Altvertrag Term Sheet oder Freitext und leitet in richtigen Workflow. Vertragsrecht §§ 145 ff. BGB, § 3a RVG Vergütung. Prüfraster Eingabedokument-Typ erkennen, Ausgabeziel Clean-Entwurf oder Redline klären, Track-Changes-Bestätigung einholen, Vertragstyp bestimmen. Output Deal-Start-Karte mit Weiterleitung zum Spezial-Skill. Abgrenzung zu Template-Erkennung für Vorlage-Analyse und zu Rückfrageninterview.
 
 # Kommandocenter
 
@@ -89,7 +89,7 @@ Der Skill steuert den gesamten Workflow von Upload bis neuem Vertragsentwurf. Er
 
 ## 2. `vaf-mehrsprachige-vertraege-spezial`
 
-**Frühere Beschreibung:** Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster fuer internationale Mandate.
+**Fokus:** Spezialfall mehrsprachige Vertraege deutsch / englisch: massgebliche Sprache, paralleler Aufbau, Uebersetzungsfehler. Pruefraster fuer internationale Mandate.
 
 # VAF: Mehrsprachige Vertraege
 
@@ -142,7 +142,7 @@ Dieser Skill gehoert zum Plugin `vertragsausfueller`. Er ergaenzt die uebrigen S
 
 ## 3. `vaf-platzhalterlogik-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Pruefraster fuer Templatebau und Fehlerquellen.
+**Fokus:** Bauleiter Platzhalterlogik: Variablen, Pflichtfelder, optionale Bloecke, Konditionalen. Pruefraster fuer Templatebau und Fehlerquellen.
 
 # VAF: Platzhalterlogik Bauleiter
 

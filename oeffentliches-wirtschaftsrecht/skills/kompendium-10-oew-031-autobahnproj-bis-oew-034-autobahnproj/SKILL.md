@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-oew-031-autobahnproj-bis-oew-034-autobahnproj
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (oew-031-autobahnprojekt-organisationsform-prue, oew-032-autobahnprojekt-vergabeweg-waehlen, oew-033-autobahnprojekt-beihilfe-markieren, oew-034-autobahnprojekt-wirtschaftlichkeit-rec) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 031 Autobahnprojekt Organisationsform Prue, Oew 032 Autobahnprojekt Vergabeweg Waehlen, Oew 033 Autobahnprojekt Beihilfe Markieren, Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 031 Autobahnprojekt Organisationsform Prue bis Oew 034 Autobahnprojekt Wirtschaftlichkeit Rec
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-031-autobahnprojekt-organisationsform-prue` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Organisationsform prüfen. Organisationsform prüfen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-032-autobahnprojekt-vergabeweg-waehlen` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vergabeweg wählen. Vergabeweg wählen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-031-autobahnprojekt-organisationsform-prue`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Organisationsform prüfen. Organisationsform prüfen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Organisationsform prüfen. Organisationsform prüfen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahnprojekt Organisationsform Prue
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-032-autobahnprojekt-vergabeweg-waehlen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vergabeweg wählen. Vergabeweg wählen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Vergabeweg wählen. Vergabeweg wählen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahnprojekt Vergabeweg Waehlen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-033-autobahnprojekt-beihilfe-markieren`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Beihilfe markieren. Beihilfe markieren für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Beihilfe markieren. Beihilfe markieren für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahnprojekt Beihilfe Markieren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-034-autobahnprojekt-wirtschaftlichkeit-rec`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahnprojekt Wirtschaftlichkeit Rec
 

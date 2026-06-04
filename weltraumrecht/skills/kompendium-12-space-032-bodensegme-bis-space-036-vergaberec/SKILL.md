@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-space-032-bodensegme-bis-space-036-vergaberec
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr, space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech, space-035-public-private-partnership-raumfahrtmission, space-036-vergaberecht-raumfahrtauftrag-esa-dlr-eu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr, Space 033 Exportkontrolle Itar Ear Eu Dual Use Bei Raumfahrttech, Space 035 Public Private Partnership Raumfahrtmission, Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - weltraumrecht
+# Arbeitsbereich - Space 032 Bodensegment Teleport Rechenzentrum Und Kritische Infr bis Space 036 Vergaberecht Raumfahrtauftrag Esa Dlr Eu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr` | Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit. |
 | `space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech` | Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-032-bodensegment-teleport-rechenzentrum-und-kritische-infr`
 
-**Frühere Beschreibung:** Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit.
+**Fokus:** Bodensegment-Sicherheit – Teleport, Rechenzentrum, KRITIS, physische Sicherheit.
 
 # Weltraumrecht: Bodensegment: Teleport, Rechenzentrum, Kritische Infrastruktur
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Bodensegment-Sicherheit, Teleport
 
 ## 2. `space-033-exportkontrolle-itar-ear-eu-dual-use-bei-raumfahrttech`
 
-**Frühere Beschreibung:** Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren.
+**Fokus:** Exportkontrolle für Raumfahrttechnik – ITAR-Listenprüfung, EAR, EU Dual-Use-VO, BAFA-Verfahren.
 
 # Weltraumrecht: Exportkontrolle: ITAR, EAR, EU Dual-Use bei Raumfahrttechnik
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: ITAR, EAR, EU Dual-Use-VO, BAFA-E
 
 ## 3. `space-035-public-private-partnership-raumfahrtmission`
 
-**Frühere Beschreibung:** PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien.
+**Fokus:** PPP in der Raumfahrt – Vertragsstruktur, staatliche Beihilfen, Risikoverteilung, Exit-Szenarien.
 
 # Weltraumrecht: Public-Private-Partnership Raumfahrtmission
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: PPP Raumfahrt, staatliche Beihilf
 
 ## 4. `space-036-vergaberecht-raumfahrtauftrag-esa-dlr-eu`
 
-**Frühere Beschreibung:** Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien.
+**Fokus:** Vergaberecht für Raumfahrtaufträge – ESA-Beschaffungsregeln, DLR-Vergabe, EU-Vergaberichtlinien.
 
 # Weltraumrecht: Vergaberecht: Raumfahrtauftrag ESA, DLR, EU
 

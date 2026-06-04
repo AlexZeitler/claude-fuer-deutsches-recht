@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-aufloesung-liquidati-bis-datenschutz-mitglied
-description: "vereinsrecht-vereinsmanager: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (aufloesung-liquidation, beschlussvorlagen, datenschutz-mitgliederliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vereinsrecht-vereinsmanager: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - vereinsrecht-vereinsmanager
+# Arbeitsbereich - Aufloesung Liquidation, Beschlussvorlagen, Datenschutz Mitgliederliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aufloesung-liquidation` | Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt. |
 | `beschlussvorlagen` | Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aufloesung-liquidation`
 
-**Frühere Beschreibung:** Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt.
+**Fokus:** Begleitet Auflösung, Liquidatoren, Sperrjahr, Vermögensanfall, Register und Finanzamt.
 
 # Auflösung und Liquidation
 
@@ -120,7 +120,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 2. `beschlussvorlagen`
 
-**Frühere Beschreibung:** Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss.
+**Fokus:** Formuliert rechtssichere Beschlussvorschläge für Versammlung, Vorstand oder Ausschuss.
 
 # Beschlussvorlagen
 
@@ -161,7 +161,7 @@ Erst verstehen, dann gezielt antworten. Keine unnötigen Tatsachen, Wertungen, G
 
 ## 3. `datenschutz-mitgliederliste`
 
-**Frühere Beschreibung:** Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung.
+**Fokus:** Regelt Mitgliederverwaltung, Verteiler, Fotos, WhatsApp-Gruppen, Cloud, Einwilligung und Löschung.
 
 # Datenschutz Mitgliederliste
 

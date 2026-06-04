@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bfsg-zeitleiste-und-bis-en301549-wcag-pruefp
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (bfsg-zeitleiste-und-pflichten, ecommerce-checkout-pruefung-spezial, en301549-wcag-pruefplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bfsg Zeitleiste Und Pflichten, Ecommerce Checkout Pruefung Spezial, En301549 Wcag Pruefplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - barrierefreiheit-web-checker
+# Arbeitsbereich - Bfsg Zeitleiste Und Pflichten, Ecommerce Checkout Pruefung Spezial, En301549 Wcag Pruefplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bfsg-zeitleiste-und-pflichten` | Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0. |
 | `ecommerce-checkout-pruefung-spezial` | Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bfsg-zeitleiste-und-pflichten`
 
-**Frühere Beschreibung:** Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0.
+**Fokus:** Barrierefreiheitsstaerkungsgesetz BFSG Zeitleiste und Pflichten einfuehrend: Inkrafttreten 28.06.2025, betroffene Produkte (PC, Smartphone, Selbstbedienungsterminal), Dienstleistungen (E-Commerce, E-Books, Bankdienstleistungen, Personenbefoerderung). Pflichten Hersteller, Importeur, Haendler, Diensteanbieter. Uebergangsfristen. Schnittstelle zu Bitv 2.0.
 
 # BFSG: Zeitleiste und Pflichten
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `barrierefreiheit-web-checker`. Er ergaenzt die 
 
 ## 2. `ecommerce-checkout-pruefung-spezial`
 
-**Frühere Beschreibung:** Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende.
+**Fokus:** Spezialpruefung E-Commerce-Checkout: Warenkorb, Adresseingabe, Bezahlung, Bestaetigung. Typische Stolpersteine: AGB-Modal, dynamische Versandkosten, Coupon-Felder, 3D-Secure-Fenster. Pruefraster Tastatur-only-Bestellung und Screenreader-Bestellung Ende-zu-Ende.
 
 # E-Commerce Checkout-Spezial
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `barrierefreiheit-web-checker`. Er ergaenzt die 
 
 ## 3. `en301549-wcag-pruefplan`
 
-**Frühere Beschreibung:** Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan.
+**Fokus:** Erstellt Prüfkatalog nach EN 301 549 und WCAG. Trennt rechtlich harmonisierten Standard von fachlicher WCAG-2.2-Erweiterung, definiert Seitentypen, Stichprobe, A/AA-Kriterien, manuelle Checks und Nachweise. Output: Auditplan.
 
 # EN 301 549 und WCAG-Prüfplan
 

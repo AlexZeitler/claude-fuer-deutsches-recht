@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-ordnerliste-und-mitt-bis-partei-gewerkschaft
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (ordnerliste-und-mitteilung, partei-gewerkschaft-verein-veranstalter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - versammlungsrecht
+# Arbeitsbereich - Ordnerliste Und Mitteilung, Partei Gewerkschaft Verein Veranstalter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ordnerliste-und-mitteilung` | Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht. |
 | `partei-gewerkschaft-verein-veranstalter` | Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ordnerliste-und-mitteilung`
 
-**Frühere Beschreibung:** Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht.
+**Fokus:** Erstellt datensparsame Ordnerliste oder Ordnerzahl-Mitteilung an die Behörde nach dem einschlägigen Recht.
 
 # So viel wie nötig, so wenig wie möglich
 
@@ -69,7 +69,7 @@ Output: Ordnerzahlmitteilung, Namensliste, Begleitschreiben und Widerspruchsvorb
 
 ## 2. `partei-gewerkschaft-verein-veranstalter`
 
-**Frühere Beschreibung:** Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit.
+**Fokus:** Hilft Parteien, Gewerkschaften, Vereinen, Initiativen und losen Gruppen bei Veranstalterrolle und interner Verantwortlichkeit.
 
 # Wer lädt eigentlich ein?
 

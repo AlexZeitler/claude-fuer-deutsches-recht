@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-handelsvertreter-ver-bis-insolvenz-anfechtung
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (handelsvertreter-vertriebsrecht-bank, hauptversammlung-bank-aktg, iban-name-check-verification-payee, inhkontrollv-bedeutende-beteiligung-bank, insolvenz-anfechtung-bank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsvertreter Vertriebsrecht Bank, Hauptversammlung Bank Aktg, Iban Name Check Verification Payee, Inhkontrollv Bedeutende Beteiligung Bank und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - bank-rechtsabteilung
+# Arbeitsbereich - Handelsvertreter Vertriebsrecht Bank bis Insolvenz Anfechtung Bank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsvertreter-vertriebsrecht-bank` | Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen. |
 | `hauptversammlung-bank-aktg` | Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsvertreter-vertriebsrecht-bank`
 
-**Frühere Beschreibung:** Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen.
+**Fokus:** Handelsvertreter- und Vertriebsrecht für Banken: § 84 HGB, Ausgleich § 89b HGB, Vermittlerstatus, Tippgeber, Ausschließlichkeit, Provision, Kündigung und Compliance prüfen.
 
 # Handelsvertreter und Vertrieb
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `hauptversammlung-bank-aktg`
 
-**Frühere Beschreibung:** Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen.
+**Fokus:** Hauptversammlung einer Bank rechtlich vorbereiten: Tagesordnung, Beschlussvorschläge, Vorstand/Aufsichtsrat, Vergütung, Kapitalmaßnahmen, Satzung, Gegenanträge und Stimmrechtsfragen.
 
 # Hauptversammlung Bank
 
@@ -260,7 +260,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `iban-name-check-verification-payee`
 
-**Frühere Beschreibung:** Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation.
+**Fokus:** Verification of Payee und IBAN-Name-Check prüfen: Matching-Logik, Haftung, Warntexte, Firmenkunden, Sammelzahlungen, Datenschutz, Fraud-Reduktion und Prozessdokumentation.
 
 # IBAN-Name-Check
 
@@ -366,7 +366,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `inhkontrollv-bedeutende-beteiligung-bank`
 
-**Frühere Beschreibung:** Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mittelbare Kontrolle, Erwerberkette, Finanzierung, Zuverlässigkeit, Schwellen, Übersetzungen, Closing-Condition und BaFin-/Bundesbank-Dealfahrplan prüfen.
+**Fokus:** Inhaberkontrollverfahren bei Banken: bedeutende Beteiligung, mittelbare Kontrolle, Erwerberkette, Finanzierung, Zuverlässigkeit, Schwellen, Übersetzungen, Closing-Condition und BaFin-/Bundesbank-Dealfahrplan prüfen.
 
 # InhKontrollV: Bedeutende Beteiligung an Banken
 
@@ -436,7 +436,7 @@ Prüfe aktuelle InhKontrollV, § 2c KWG, BaFin-Inhaberkontrollhinweise und bei W
 
 ## 5. `insolvenz-anfechtung-bank`
 
-**Frühere Beschreibung:** Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen.
+**Fokus:** Insolvenzanfechtung gegen Banken vorbeugen und verteidigen: Sicherheitenbestellung, Rückführung, Kontokorrent, inkongruente Deckung, Kenntnis, Bargeschäft und Anfechtungsgegner-Argumente prüfen.
 
 # Insolvenzanfechtung Bank
 

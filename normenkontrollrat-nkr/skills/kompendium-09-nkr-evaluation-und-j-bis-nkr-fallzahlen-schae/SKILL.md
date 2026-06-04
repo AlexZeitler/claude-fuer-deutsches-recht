@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-nkr-evaluation-und-j-bis-nkr-fallzahlen-schae
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (nkr-evaluation-und-jahresbericht, nkr-fallzahlen-schaetzung-bandbreiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Evaluation Und Jahresbericht, Nkr Fallzahlen Schaetzung Bandbreiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-evaluation-und-jahresbericht` | Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen. |
 | `nkr-fallzahlen-schaetzung-bandbreiten` | Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-evaluation-und-jahresbericht`
 
-**Frühere Beschreibung:** Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen.
+**Fokus:** Beschreibt Evaluierungspraxis ex-post-Pruefung und Jahresbericht des NKR nach § 7 NKRG. Erklaert wie der NKR vergangene Stellungnahmen bilanziert wie er Trends im Buerokratiekostenstand identifiziert und wie der Jahresbericht politisch wirkt. Mit Bausteinen fuer Jahresberichts-Bezugnahmen und ex-post-Evaluierungsempfehlungen in einzelnen Stellungnahmen.
 
 # NKR-Evaluation und Jahresbericht
 
@@ -140,7 +140,7 @@ Rueckfrage nur wenn unklar: *"Bezug auf welchen Berichtsjahrgang und welchen The
 
 ## 2. `nkr-fallzahlen-schaetzung-bandbreiten`
 
-**Frühere Beschreibung:** Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme.
+**Fokus:** Methodischer Spezial-Skill fuer Schaetzungen mit Bandbreiten wenn keine harten Statistik-Daten vorliegen. Beschreibt Plausibilitaetsraster Sensitivitaetsanalyse Min-Max-Punkt-Schaetzung Dunkelzifferproblematik und Begruendungstiefe. Mit Mustertexten zur Bandbreitenangabe und Sensitivitaetsbeschreibung in der Stellungnahme.
 
 # NKR-Fallzahlen — Schaetzung und Bandbreiten
 

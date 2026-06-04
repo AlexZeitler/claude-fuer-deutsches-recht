@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-ihl-048-long-term-su-bis-ihl-051-standard-ter
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (ihl-048-long-term-supply-agreement, ihl-049-framework-agreement-and-call-offs, ihl-050-battle-of-forms-international, ihl-051-standard-terms-crossborder) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 048 Long Term Supply Agreement, Ihl 049 Framework Agreement And Call Offs, Ihl 050 Battle Of Forms International, Ihl 051 Standard Terms Crossborder; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 048 Long Term Supply Agreement bis Ihl 051 Standard Terms Crossborder
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-048-long-term-supply-agreement` | Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen. |
 | `ihl-049-framework-agreement-and-call-offs` | Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-048-long-term-supply-agreement`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen.
+**Fokus:** Internationales Handelsrecht: Langfristige Lieferverträge (Long-Term Supply Agreement, LSA). Preisanpassungsklauseln, Mindestmengen (Take-or-Pay), Qualitätssicherung, Änderungsmanagement, Vertragsauflösung und Force-Majeure-Klausel in mehrjährigen Verträgen.
 
 # Langfristige Lieferverträge (LSA)
 
@@ -81,7 +81,7 @@ CISG Art. 14, 29: uncitral.un.org. PICC Art. 6.2.1-6.2.3: unidroit.org. BGB §§
 
 ## 2. `ihl-049-framework-agreement-and-call-offs`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung.
+**Fokus:** Internationales Handelsrecht: Rahmenvertrag (Framework Agreement) und Abrufaufträge (Call-Offs). Verhältnis Rahmen- zu Einzelauftrag, CISG-Anwendbarkeit auf Abrufaufträge, Mindestmengen, Exklusivität, Preisrecht und Kündigung.
 
 # Rahmenvertrag und Abrufaufträge
 
@@ -132,7 +132,7 @@ CISG Art. 14: uncitral.un.org. BGB §§ 311, 433: gesetze-im-internet.de. GWB §
 
 ## 3. `ihl-050-battle-of-forms-international`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Battle of Forms im internationalen Kaufrecht. CISG Art. 19 modifizierte Annahme, Knock-Out-Theorie (herrschende Schiedsgerichtspraxis), Last-Shot-Doktrin (Common Law), Mirror-Image-Rule und Abwehrklauseln in AGB.
+**Fokus:** Internationales Handelsrecht: Battle of Forms im internationalen Kaufrecht. CISG Art. 19 modifizierte Annahme, Knock-Out-Theorie (herrschende Schiedsgerichtspraxis), Last-Shot-Doktrin (Common Law), Mirror-Image-Rule und Abwehrklauseln in AGB.
 
 # Battle of Forms International
 
@@ -184,7 +184,7 @@ CISG Art. 19: uncitral.un.org. PICC Art. 2.1.22: unidroit.org. UCC § 2-207: uni
 
 ## 4. `ihl-051-standard-terms-crossborder`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen.
+**Fokus:** Internationales Handelsrecht: Einbeziehung von AGB im grenzüberschreitenden B2B-Handel. Unterschiede CISG-Regime vs. nationales AGB-Recht, Sprachanforderungen, Überraschungsklauseln (PICC Art. 2.1.20) und branchenspezifische Standardbedingungen.
 
 # Standard Terms im grenzüberschreitenden Handel
 

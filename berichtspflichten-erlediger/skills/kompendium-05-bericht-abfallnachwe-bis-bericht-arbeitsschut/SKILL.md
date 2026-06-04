@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bericht-abfallnachwe-bis-bericht-arbeitsschut
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (bericht-abfallnachweis-nachwv-krwg, bericht-api-portal-zugang-rollen, bericht-arbeitsschutz-unterweisung-nachweise) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Abfallnachweis Nachwv Krwg, Bericht Api Portal Zugang Rollen, Bericht Arbeitsschutz Unterweisung Nachweise
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-abfallnachweis-nachwv-krwg` | Abfallrechtliche Nachweise: gefährliche Abfälle, eANV, Register, Entsorgungsnachweise, Begleitscheine und Abfallbilanz. |
 | `bericht-api-portal-zugang-rollen` | Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-abfallnachweis-nachwv-krwg`
 
-**Frühere Beschreibung:** Abfallrechtliche Nachweise: gefährliche Abfälle, eANV, Register, Entsorgungsnachweise, Begleitscheine und Abfallbilanz.
+**Fokus:** Abfallrechtliche Nachweise: gefährliche Abfälle, eANV, Register, Entsorgungsnachweise, Begleitscheine und Abfallbilanz.
 
 # Abfallnachweis und Entsorgung
 
@@ -74,7 +74,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-api-portal-zugang-rollen`
 
-**Frühere Beschreibung:** Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding.
+**Fokus:** Behördenportale/API-Zugänge: ELSTER, IDEV, LUCID, ear, BAFA, DEHSt, Bundesbank, Rollen, Vertreter und Offboarding.
 
 # Portale, APIs und Rollen sicher verwalten
 
@@ -112,7 +112,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-arbeitsschutz-unterweisung-nachweise`
 
-**Frühere Beschreibung:** Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle.
+**Fokus:** Unterweisung, Gefährdungsbeurteilung, Betriebsanweisung, Prüfnachweise und Behördenkontrolle.
 
 # Arbeitsschutz-Unterweisungen nachweisen
 

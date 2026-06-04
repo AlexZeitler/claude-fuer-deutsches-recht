@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-pruefungsrecht-thuer-bis-punkte-noten-umrechn
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (pruefungsrecht-thueringen, pruefungssprache, pruefungsunfaehigkeit-ruecktritt, punkte-noten-umrechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pruefungsrecht Thueringen, Pruefungssprache, Pruefungsunfaehigkeit Ruecktritt, Punkte Noten Umrechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - pruefungsrecht-hochschule
+# Arbeitsbereich - Pruefungsrecht Thueringen bis Punkte Noten Umrechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pruefungsrecht-thueringen` | Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht. |
 | `pruefungssprache` | Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pruefungsrecht-thueringen`
 
-**Frühere Beschreibung:** Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
+**Fokus:** Prüft Hochschulprüfungsrecht in Thüringen mit Hochschulgesetz, Prüfungsordnung und Verwaltungsrecht.
 
 # Pruefungsrecht Thueringen
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesprüfungs-Steckbrief. Am Ende immer drei Zeilen: **Fris
 
 ## 2. `pruefungssprache`
 
-**Frühere Beschreibung:** Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit.
+**Fokus:** Prüft Sprache der Prüfung, Übersetzungen, internationale Studiengänge und Chancengleichheit.
 
 # Prüfungssprache
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `pruefungsunfaehigkeit-ruecktritt`
 
-**Frühere Beschreibung:** Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme.
+**Fokus:** Prüft Rücktritt, Unverzüglichkeit, Attest, Prüfungsantritt und Kenntnisprobleme.
 
 # Prüfungsunfähigkeit und Rücktritt
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `punkte-noten-umrechnung`
 
-**Frühere Beschreibung:** Prüft Punkte, Noten, Rundung und ECTS-Umrechnung.
+**Fokus:** Prüft Punkte, Noten, Rundung und ECTS-Umrechnung.
 
 # Punkte Noten Umrechnung
 

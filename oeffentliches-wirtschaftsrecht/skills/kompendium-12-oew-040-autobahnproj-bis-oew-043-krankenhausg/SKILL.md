@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-oew-040-autobahnproj-bis-oew-043-krankenhausg
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (oew-040-autobahnprojekt-red-flags-listen, oew-041-krankenhausgesellschaft-organisationsf, oew-042-krankenhausgesellschaft-vergabeweg-wae, oew-043-krankenhausgesellschaft-beihilfe-marki) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 040 Autobahnprojekt Red Flags Listen, Oew 041 Krankenhausgesellschaft Organisationsf, Oew 042 Krankenhausgesellschaft Vergabeweg Wae, Oew 043 Krankenhausgesellschaft Beihilfe Marki; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 040 Autobahnprojekt Red Flags Listen bis Oew 043 Krankenhausgesellschaft Beihilfe Marki
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-040-autobahnprojekt-red-flags-listen` | Öffentliches Wirtschaftsrecht: Autobahnprojekt: Red Flags listen. Red Flags listen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-041-krankenhausgesellschaft-organisationsf` | Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Organisationsform prüfen. Organisationsform prüfen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-040-autobahnprojekt-red-flags-listen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Red Flags listen. Red Flags listen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Autobahnprojekt: Red Flags listen. Red Flags listen für Autobahnprojekt im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahnprojekt Red Flags Listen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-041-krankenhausgesellschaft-organisationsf`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Organisationsform prüfen. Organisationsform prüfen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Organisationsform prüfen. Organisationsform prüfen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Organisationsf
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-042-krankenhausgesellschaft-vergabeweg-wae`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Vergabeweg wählen. Vergabeweg wählen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Vergabeweg wählen. Vergabeweg wählen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Vergabeweg Wae
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-043-krankenhausgesellschaft-beihilfe-marki`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Beihilfe markieren. Beihilfe markieren für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Beihilfe markieren. Beihilfe markieren für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Beihilfe Marki
 

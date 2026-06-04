@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-vc-047-uk-us-deal-do-bis-vc-051-portfolio-das
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (vc-047-uk-us-deal-docs, vc-049-us-securities-accredited-investor, vc-050-swiss-ag-startup-investment, vc-051-portfolio-dashboard) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 047 Uk Us Deal Docs, Vc 049 Us Securities Accredited Investor, Vc 050 Swiss Ag Startup Investment, Vc 051 Portfolio Dashboard; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - venture-capital-geber
+# Arbeitsbereich - Vc 047 Uk Us Deal Docs bis Vc 051 Portfolio Dashboard
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-047-uk-us-deal-docs` | Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik. |
 | `vc-049-us-securities-accredited-investor` | Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-047-uk-us-deal-docs`
 
-**Frühere Beschreibung:** Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik.
+**Fokus:** Übersetzt US-/UK-Terms wie SAFE, NVCA, Delaware flip, preferred stock, reps und board rights in deutsche VC-Logik.
 
 # UK/US Deal Docs verstehen
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-049-us-securities-accredited-investor`
 
-**Frühere Beschreibung:** Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein.
+**Fokus:** Ordnet US-Investor-Kommunikation, Reg-D-/Accredited-Investor-Themen und Securities-Law-Risiken auf hoher Ebene ein.
 
 # US Securities und Accredited Investor
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-050-swiss-ag-startup-investment`
 
-**Frühere Beschreibung:** Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht.
+**Fokus:** Prüft Schweizer AG/GmbH-Basics, Aktionärbindungsvertrag, Wandeldarlehen, Mitarbeiterbeteiligung und deutsche Investorensicht.
 
 # Schweizer Startup-Investment
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-051-portfolio-dashboard`
 
-**Frühere Beschreibung:** Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls.
+**Fokus:** Baut Dashboard für Beteiligungen, Tickets, Quoten, Runway, Updates, Follow-ons, Risiken, Verantwortliche und nächste Calls.
 
 # Portfolio Dashboard
 

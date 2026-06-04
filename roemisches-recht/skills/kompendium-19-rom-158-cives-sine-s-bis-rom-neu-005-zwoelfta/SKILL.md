@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-rom-158-cives-sine-s-bis-rom-neu-005-zwoelfta
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 19; bündelt 8 frühere Spezialskills (rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii, rom-159-romanisierung-der-provinzen-und-stadtrecht, rom-161-vergebung-vererbung-vergabe-begriffsklaerung, rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und, rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii, Rom 159 Romanisierung Der Provinzen Und Stadtrecht, Rom 161 Vergebung Vererbung Vergabe Begriffsklaerung, Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - roemisches-recht
+# Arbeitsbereich - Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii bis Rom Neu 005 Zwoelftafelrecht Schuldhaft Nexum Und Soziale Ordnun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii` | Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix. |
 | `rom-159-romanisierung-der-provinzen-und-stadtrecht` | Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-158-cives-sine-suffragio-und-municipia-sine-iure-suffragii`
 
-**Frühere Beschreibung:** Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix.
+**Fokus:** Cives sine suffragio und municipia sine iure suffragii: roemische Halbbuerger und ihre Gemeinden. Skill behandelt die historische Konstruktion der Buergerschaft ohne Stimmrecht ihre Rechtsfolgen und die Aufhebung im 1. Jh. v. Chr. Liefert Quellenmatrix.
 
 # Rom 158 Cives Sine Suffragio Und Municipia Sine Iure Suffragii
 
@@ -75,7 +75,7 @@ Skill fuer Halbbuergerschaft.
 
 ## 2. `rom-159-romanisierung-der-provinzen-und-stadtrecht`
 
-**Frühere Beschreibung:** Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix.
+**Fokus:** Romanisierung der Provinzen und Stadtrecht: kommunale Selbstverwaltung im Reich. Skill behandelt die ius latinum-Verleihung an Provinzialstaedte (vor allem in Spanien Britannien Gallien) die Lex Irnitana als Beispiel und die Wirkung auf das ius civile. Liefert Quellenmatrix.
 
 # Rom 159 Romanisierung Der Provinzen Und Stadtrecht
 
@@ -128,7 +128,7 @@ Skill fuer die Romanisierung der Provinzen.
 
 ## 3. `rom-161-vergebung-vererbung-vergabe-begriffsklaerung`
 
-**Frühere Beschreibung:** Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani.
+**Fokus:** Römisches Recht: Klärt mehrdeutige Anfragen zu Vergebung, Vererbung und Vergabe. Behandelt Schulderlass durch acceptilatio und pactum de non petendo, Erbrecht durch hereditas/Testament/querela inofficiosi testamenti sowie öffentliche Vergabe durch censores und publicani.
 
 # Vergebung, Vererbung oder Vergabe
 
@@ -197,7 +197,7 @@ Für öffentliche Bauaufträge, Steuerpacht und Versorgungsaufgaben gab es keine
 
 ## 4. `rom-neu-001-fruehformen-zwoelftafelrecht-sakrale-spruchform-und`
 
-**Frühere Beschreibung:** Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Frühformen Zwölftafelrecht sakrale Spruchform und Prozessformel mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 001 Fruehformen Zwoelftafelrecht Sakrale Spruchform Und
 
@@ -249,7 +249,7 @@ A ist Schuldner; nach Urteil und 30 Tagen Fristablauf darf B zugreifen.
 
 ## 5. `rom-neu-002-zwoelftafelgesetz-textzeugen-rekonstruktion-und-vors`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Zwölftafelgesetz Textzeugen Rekonstruktion und Vorsicht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 002 Zwoelftafelgesetz Textzeugen Rekonstruktion Und Vors
 
@@ -292,7 +292,7 @@ Zwoelftafelgesetz: Textzeugen und Rekonstruktion.
 
 ## 6. `rom-neu-003-zwoelftafelrecht-familiengewalt-erbrecht-und-nachbar`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Zwölftafelrecht Familiengewalt Erbrecht und Nachbarschaft mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 003 Zwoelftafelrecht Familiengewalt Erbrecht Und Nachbar
 
@@ -339,7 +339,7 @@ A will Vermoegen zu Lebzeiten ueber Tod hinaus verfuegen.
 
 ## 7. `rom-neu-004-zwoelftafelrecht-delikt-busse-talion-und-komposition`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Zwölftafelrecht Delikt Buße Talion und Komposition mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 004 Zwoelftafelrecht Delikt Busse Talion Und Komposition
 
@@ -386,7 +386,7 @@ A beleidigt B oeffentlich.
 
 ## 8. `rom-neu-005-zwoelftafelrecht-schuldhaft-nexum-und-soziale-ordnun`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Zwölftafelrecht Schuldhaft nexum und soziale Ordnung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 005 Zwoelftafelrecht Schuldhaft Nexum Und Soziale Ordnun
 

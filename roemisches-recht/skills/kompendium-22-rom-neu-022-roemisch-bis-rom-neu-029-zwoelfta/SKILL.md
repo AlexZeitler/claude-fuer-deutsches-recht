@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-rom-neu-022-roemisch-bis-rom-neu-029-zwoelfta
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 22; bündelt 8 frühere Spezialskills (rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mitt, rom-neu-023-roemisches-recht-und-stadtrechte-norditalien, rom-neu-024-roemisches-recht-und-byzantinisches-sachenrecht, rom-neu-025-roemisches-recht-in-griechischer-sprache-terminologi, rom-neu-026-epigraphische-quellen-juristisch-auswerten und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt, Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien, Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht, Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - roemisches-recht
+# Arbeitsbereich - Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt bis Rom Neu 029 Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mitt` | Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `rom-neu-023-roemisches-recht-und-stadtrechte-norditalien` | Römisches Recht: Römisches Recht und Stadtrechte Norditalien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-neu-022-roemische-obligationenlehre-im-handelsrecht-des-mitt`
 
-**Frühere Beschreibung:** Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Römische Obligationenlehre im Handelsrecht des Mittelalters mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 022 Roemische Obligationenlehre Im Handelsrecht Des Mitt
 
@@ -70,7 +70,7 @@ Roemische Obligationenlehre im Handelsrecht des Mittelalters.
 
 ## 2. `rom-neu-023-roemisches-recht-und-stadtrechte-norditalien`
 
-**Frühere Beschreibung:** Römisches Recht: Römisches Recht und Stadtrechte Norditalien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Römisches Recht und Stadtrechte Norditalien mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 023 Roemisches Recht Und Stadtrechte Norditalien
 
@@ -108,7 +108,7 @@ Roemisches Recht und Stadtrechte in Norditalien.
 
 ## 3. `rom-neu-024-roemisches-recht-und-byzantinisches-sachenrecht`
 
-**Frühere Beschreibung:** Römisches Recht: Römisches Recht und byzantinisches Sachenrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Römisches Recht und byzantinisches Sachenrecht mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 024 Roemisches Recht Und Byzantinisches Sachenrecht
 
@@ -146,7 +146,7 @@ Roemisches Recht und byzantinisches Sachenrecht.
 
 ## 4. `rom-neu-025-roemisches-recht-in-griechischer-sprache-terminologi`
 
-**Frühere Beschreibung:** Römisches Recht: Römisches Recht in griechischer Sprache Terminologie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Römisches Recht in griechischer Sprache Terminologie mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 025 Roemisches Recht In Griechischer Sprache Terminologi
 
@@ -177,7 +177,7 @@ Roemisches Recht in griechischer Sprache — Terminologie.
 
 ## 5. `rom-neu-026-epigraphische-quellen-juristisch-auswerten`
 
-**Frühere Beschreibung:** Römisches Recht: Epigraphische Quellen juristisch auswerten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Epigraphische Quellen juristisch auswerten mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 026 Epigraphische Quellen Juristisch Auswerten
 
@@ -217,7 +217,7 @@ Epigraphische Quellen juristisch auswerten.
 
 ## 6. `rom-neu-027-archaisches-formularrecht-legis-actiones-vertiefen`
 
-**Frühere Beschreibung:** Römisches Recht: Archaisches Formularrecht legis actiones vertiefen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Archaisches Formularrecht legis actiones vertiefen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 027 Archaisches Formularrecht Legis Actiones Vertiefen
 
@@ -260,7 +260,7 @@ Archaisches Formularrecht — legis actiones vertiefen.
 
 ## 7. `rom-neu-028-pontifikalrecht-kalender-und-rechtszugang`
 
-**Frühere Beschreibung:** Römisches Recht: Pontifikalrecht Kalender und Rechtszugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Pontifikalrecht Kalender und Rechtszugang mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 028 Pontifikalrecht Kalender Und Rechtszugang
 
@@ -296,7 +296,7 @@ Pontifikalrecht — Kalender und Rechtszugang.
 
 ## 8. `rom-neu-029-zwoelftafelrecht-in-heutiger-didaktik-ohne-scheinsic`
 
-**Frühere Beschreibung:** Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Römisches Recht: Zwölftafelrecht in heutiger Didaktik ohne Scheinsicherheit mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Rom Neu 029 Zwoelftafelrecht In Heutiger Didaktik Ohne Scheinsic
 

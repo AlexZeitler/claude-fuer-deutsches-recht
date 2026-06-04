@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-aenderungs-historie-bis-eskalations-marker
-description: "vertragsrecht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (aenderungs-historie, agb-pruefung, eskalations-marker) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aenderungs Historie, Agb Pruefung, Eskalations Marker; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - vertragsrecht
+# Arbeitsbereich - Aenderungs Historie, Agb Pruefung, Eskalations Marker
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aenderungs-historie` | Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt. |
 | `agb-pruefung` | Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aenderungs-historie`
 
-**Frühere Beschreibung:** Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt.
+**Fokus:** Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt "was hat sich in diesem Vertrag geändert", "zeig mir die Nachtragshistorie", "wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt.
 
 # Nachtragsverwaltung
 
@@ -268,7 +268,7 @@ Vorher: s. o. | Jetzt:
 
 ## 2. `agb-pruefung`
 
-**Frühere Beschreibung:** Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat.
+**Fokus:** Unterstützt bei der rechtlichen Prüfung von Allgemeinen Geschäftsbedingungen (AGB) auf Einbeziehung, Inhaltskontrolle und Transparenzgebot nach §§ 305–310 BGB. Lädt, wenn ein Mandat die Prüfung, Erstellung oder Verteidigung von AGB im B2C- oder B2B-Bereich zum Gegenstand hat.
 
 # AGB-Prüfung – Einbeziehung und Inhaltskontrolle
 
@@ -404,7 +404,7 @@ Ergebnis.
 
 ## 3. `eskalations-marker`
 
-**Frühere Beschreibung:** Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt.
+**Fokus:** Ordnet ein Vertragsproblem dem richtigen Genehmiger per Eskalationsmatrix aus dem Praxisprofil zu und erstellt die Genehmigungsanfrage. Laden, wenn der Nutzer fragt "wer muss das genehmigen", "eskalieren", "braucht das GC-Freigabe", "Genehmigung einholen" oder ein anderer Skill ein Problem identifiziert, das die Kompetenz des Prüfers übersteigt.
 
 # Eskalationsregeln
 

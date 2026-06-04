@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-notariat-007-grundbu-bis-notariat-009-geldwae
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n, notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert-un, notariat-009-geldwaeschepruefung-immobilientransaktion-wirtschaf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat 009 Geldwaeschepruefung Immobilientransaktion Wirtschaf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - notariat-alltag
+# Arbeitsbereich - Notariat 007 Grundbuchantrag Rangstelle Zwischenverfuegung Und N, Notariat 008 Notarielle Kostenrechnung Gnotkg Gegenstandswert Un, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n` | Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung. |
 | `notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert-un` | Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-007-grundbuchantrag-rangstelle-zwischenverfuegung-und-n`
 
-**Frühere Beschreibung:** Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung.
+**Fokus:** Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung und Nachreichung. GBO-Verfahren, Antragsgrundsatz, Rangprinzip, typische Beanstandungen und fristgerechte Nachreichung.
 
 # Notariat im Alltag: Grundbuchantrag – Rangstelle, Zwischenverfügung, Nachreichung
 
@@ -113,7 +113,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-008-notarielle-kostenrechnung-gnotkg-gegenstandswert-un`
 
-**Frühere Beschreibung:** Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung.
+**Fokus:** Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert und Kostenschuldner. Strukturierte Kostenberechnung nach dem Kostenverzeichnis, Gegenstandswertermittlung, Schuldnerbestimmung und Rechnungsstellung.
 
 # Notariat im Alltag: Notarielle Kostenrechnung – GNotKG, Gegenstandswert, Kostenschuldner
 
@@ -204,7 +204,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-009-geldwaeschepruefung-immobilientransaktion-wirtschaf`
 
-**Frühere Beschreibung:** Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG §§ 1–17 und Meldepflichten.
+**Fokus:** Notariat im Alltag: Geldwäscheprüfung bei Immobilientransaktionen – wirtschaftlich Berechtigter, Risikoklassifizierung, Dokumentationspflichten nach GwG §§ 1–17 und Meldepflichten.
 
 # Notariat im Alltag: Geldwäscheprüfung – Immobilientransaktion, wirtschaftlich Berechtigter, Risikoklassifizierung
 

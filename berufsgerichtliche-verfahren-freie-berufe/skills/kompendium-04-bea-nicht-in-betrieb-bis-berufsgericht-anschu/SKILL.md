@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-bea-nicht-in-betrieb-bis-berufsgericht-anschu
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (bea-nicht-in-betrieb-praevention, bea-nicht-in-betrieb-verteidigung, berufsgericht-anschuldigungsschrift-praevention, berufsgericht-anschuldigungsschrift-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bea Nicht In Betrieb Praevention, Bea Nicht In Betrieb Verteidigung, Berufsgericht Anschuldigungsschrift Praevention, Berufsgericht Anschuldigungsschrift Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Bea Nicht In Betrieb Praevention bis Berufsgericht Anschuldigungsschrift Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bea-nicht-in-betrieb-praevention` | beA nicht in Betrieb (Präventions- und Organisationspaket): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `bea-nicht-in-betrieb-verteidigung` | beA nicht in Betrieb (Verteidigungs- und Kammerantwort): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bea-nicht-in-betrieb-praevention`
 
-**Frühere Beschreibung:** beA nicht in Betrieb (Präventions- und Organisationspaket): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** beA nicht in Betrieb (Präventions- und Organisationspaket): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # beA nicht in Betrieb: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `bea-nicht-in-betrieb-verteidigung`
 
-**Frühere Beschreibung:** beA nicht in Betrieb (Verteidigungs- und Kammerantwort): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** beA nicht in Betrieb (Verteidigungs- und Kammerantwort): steuert unterlassene beA-Einrichtung, Zustellungsprobleme, Fristenversäumnis und Kammeraufsicht mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # beA nicht in Betrieb: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `berufsgericht-anschuldigungsschrift-praevention`
 
-**Frühere Beschreibung:** Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgericht Anschuldigungsschrift (Präventions- und Organisationspaket): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgericht Anschuldigungsschrift: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `berufsgericht-anschuldigungsschrift-verteidigung`
 
-**Frühere Beschreibung:** Berufsgericht Anschuldigungsschrift (Verteidigungs- und Kammerantwort): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Berufsgericht Anschuldigungsschrift (Verteidigungs- und Kammerantwort): steuert Anschuldigungsschrift, Tatvorwurf, Verfahrenshindernisse, Beweisanträge und Terminstrategie mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Berufsgericht Anschuldigungsschrift: Verteidigungs- und Kammerantwort
 

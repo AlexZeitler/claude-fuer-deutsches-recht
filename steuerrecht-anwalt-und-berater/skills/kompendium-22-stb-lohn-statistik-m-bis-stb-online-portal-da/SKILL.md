@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-stb-lohn-statistik-m-bis-stb-online-portal-da
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 22; bündelt 9 frühere Spezialskills (stb-lohn-statistik-meldungen-destatis, stb-lohn-sv-beitraege-grundlagen, stb-lohn-sv-meldungen-dakota-svnet, stb-lohn-ueberstunden-abbau-arbeitszeitkonto, stb-lohn-umlage-u1-u2-insogeld-umlage und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Lohn Statistik Meldungen Destatis, Stb Lohn Sv Beitraege Grundlagen, Stb Lohn Sv Meldungen Dakota Svnet, Stb Lohn Ueberstunden Abbau Arbeitszeitkonto und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Lohn Statistik Meldungen Destatis bis Stb Online Portal Datev Mandantenshop
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-lohn-statistik-meldungen-destatis` | Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung. |
 | `stb-lohn-sv-beitraege-grundlagen` | Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-lohn-statistik-meldungen-destatis`
 
-**Frühere Beschreibung:** Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung.
+**Fokus:** Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung.
 
 # Statistik-Meldungen — Verdienststatistik Destatis
 
@@ -163,7 +163,7 @@ Stand: 05/2026.
 
 ## 2. `stb-lohn-sv-beitraege-grundlagen`
 
-**Frühere Beschreibung:** Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege.
+**Fokus:** Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege.
 
 # SV-Beitraege Grundlagen — RV KV PV AV und Umlagen
 
@@ -323,7 +323,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-sv-meldungen-dakota-svnet`
 
-**Frühere Beschreibung:** SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Übermittlung Prüfung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen.
+**Fokus:** SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Übermittlung Prüfung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen.
 
 # SV-Meldungen ueber sv.net oder DAKOTA
 
@@ -458,7 +458,7 @@ Stand: 05/2026.
 
 ## 4. `stb-lohn-ueberstunden-abbau-arbeitszeitkonto`
 
-**Frühere Beschreibung:** Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Überstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung MiLoG Bewertung Stand. Output Arbeitszeitkonto-Abrechnung.
+**Fokus:** Überstunden Arbeitszeitkonto Stundenkonto Auszahlung. Anwendungsfall AN haeuft Überstunden an Bilanzierung im Arbeitszeitkonto Abbau in Freizeit oder Auszahlung lohn- und sv-rechtliche Behandlung. Methodik Aufzeichnung MiLoG Bewertung Stand. Output Arbeitszeitkonto-Abrechnung.
 
 # Ueberstunden und Arbeitszeitkonto
 
@@ -588,7 +588,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-umlage-u1-u2-insogeld-umlage`
 
-**Frühere Beschreibung:** Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung.
+**Fokus:** Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung.
 
 # Umlagen U1, U2, Insolvenzgeld
 
@@ -726,7 +726,7 @@ Stand: 05/2026.
 
 ## 6. `stb-lohn-vermoegenswirksame-leistungen`
 
-**Frühere Beschreibung:** Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration.
+**Fokus:** Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration.
 
 # Vermoegenswirksame Leistungen (VL) und AN-Sparzulage
 
@@ -854,7 +854,7 @@ Stand: 05/2026.
 
 ## 7. `stb-lohn-werkstudent-pauschalen`
 
-**Frühere Beschreibung:** Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung.
+**Fokus:** Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung.
 
 # Werkstudent — SV-Status und Pauschalen
 
@@ -998,7 +998,7 @@ Stand: 05/2026.
 
 ## 8. `stb-mandantenfragebogen-jahresabschluss`
 
-**Frühere Beschreibung:** Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rückstellungen Sondervorgaenge. Methodik strukturierter Fragebogen Prüfliste. Output ausgefuellter Fragebogen Datenbasis für Jahresabschluss.
+**Fokus:** Mandantenfragebogen zum Jahresabschluss. Anwendungsfall JA-Vorbereitung systematische Datenerhebung vom Mandanten Bestaende Forderungen Verbindlichkeiten Rückstellungen Sondervorgaenge. Methodik strukturierter Fragebogen Prüfliste. Output ausgefuellter Fragebogen Datenbasis für Jahresabschluss.
 
 # Mandantenfragebogen zum Jahresabschluss
 
@@ -1177,7 +1177,7 @@ Stand: 05/2026.
 
 ## 9. `stb-online-portal-datev-mandantenshop`
 
-**Frühere Beschreibung:** DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransfer Bank-Abruf Auswertungs-Download Mandantenakte digital für Mandant. Methodik Konfiguration Benutzer Schulung Mandant. Output eingerichtetes Portal.
+**Fokus:** DATEV Unternehmen Online Mandantenshop. Anwendungsfall Belegtransfer Bank-Abruf Auswertungs-Download Mandantenakte digital für Mandant. Methodik Konfiguration Benutzer Schulung Mandant. Output eingerichtetes Portal.
 
 # DATEV Unternehmen Online — Mandantenshop
 

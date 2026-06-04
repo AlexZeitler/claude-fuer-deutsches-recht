@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-dsv-dsfa-update-nach-bis-dsv-kein-risiko-doku
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (dsv-dsfa-update-nach-vorfall, dsv-erstgespraech-vorfallmeldung, dsv-eskalationsmatrix, dsv-interne-dokumentation-art-33-abs-5, dsv-kein-risiko-dokumentation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Dsfa Update Nach Vorfall, Dsv Erstgespraech Vorfallmeldung, Dsv Eskalationsmatrix, Dsv Interne Dokumentation Art 33 Abs 5 und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Dsfa Update Nach Vorfall bis Dsv Kein Risiko Dokumentation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-dsfa-update-nach-vorfall` | Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hohem Risiko; Verknüpfung mit VVT und Vorfallregister. Output: DSFA-Update-Vorlage mit Pflichtfeldern. Abgrenzung: keine neue DSFA; kein Verfahrensverzeichnis. |
 | `dsv-erstgespraech-vorfallmeldung` | Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsverarbeiter-Konstellation; Konzernbezug Art. 56 DSGVO; bereits eingeleitete Sofortmaßnahmen; Beweissicherung; Pressekontakte; aufsichtsbehördliche Vorkontakte. Output: strukturiertes Gesprächsprotokoll mit Lücken-Liste. Abgrenzung: keine eigene Risikobewertung; keine Behördenmeldung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-dsfa-update-nach-vorfall`
 
-**Frühere Beschreibung:** Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hohem Risiko; Verknüpfung mit VVT und Vorfallregister. Output: DSFA-Update-Vorlage mit Pflichtfeldern. Abgrenzung: keine neue DSFA; kein Verfahrensverzeichnis.
+**Fokus:** Aktualisiert die Datenschutz-Folgenabschätzung nach Art. 35 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Erforderlichkeit der DSFA bei voraussichtlich hohem Risiko; Anpassung der Risikoanalyse; Abhilfemaßnahmen; Konsultation der Aufsichtsbehörde nach Art. 36 DSGVO bei verbleibendem hohem Risiko; Verknüpfung mit VVT und Vorfallregister. Output: DSFA-Update-Vorlage mit Pflichtfeldern. Abgrenzung: keine neue DSFA; kein Verfahrensverzeichnis.
 
 # Datenschutz-Folgenabschätzung nach Datenschutzvorfall aktualisieren
 
@@ -84,7 +84,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `dsv-erstgespraech-vorfallmeldung`
 
-**Frühere Beschreibung:** Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsverarbeiter-Konstellation; Konzernbezug Art. 56 DSGVO; bereits eingeleitete Sofortmaßnahmen; Beweissicherung; Pressekontakte; aufsichtsbehördliche Vorkontakte. Output: strukturiertes Gesprächsprotokoll mit Lücken-Liste. Abgrenzung: keine eigene Risikobewertung; keine Behördenmeldung.
+**Fokus:** Führt das anwaltliche oder DSB-Erstgespräch nach einem gemeldeten Datenschutzvorfall mit Geschäftsleitung oder Fachabteilung. Behandelt: Zeitstrahl der Kenntnisnahme; betroffene Systeme und Verarbeitungen; Datenkategorien und Schutzbedarfsklassen; geschätzte Anzahl betroffener Personen; Auftragsverarbeiter-Konstellation; Konzernbezug Art. 56 DSGVO; bereits eingeleitete Sofortmaßnahmen; Beweissicherung; Pressekontakte; aufsichtsbehördliche Vorkontakte. Output: strukturiertes Gesprächsprotokoll mit Lücken-Liste. Abgrenzung: keine eigene Risikobewertung; keine Behördenmeldung.
 
 # Erstgespräch nach gemeldetem Datenschutzvorfall — Fragenkatalog
 
@@ -148,7 +148,7 @@ Versicherung: Cyberpolice; Meldepflicht-Trigger?
 
 ## 3. `dsv-eskalationsmatrix`
 
-**Frühere Beschreibung:** Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern. Behandelt: Schwellenwerte für Eskalation; Erreichbarkeit außerhalb der Bürozeiten; Stellvertreter; Wochenend- und Feiertagsregelung; Eskalationsprotokoll; Ausweichkommunikation bei IT-Ausfall. Output: Matrix mit Stufen und Verantwortlichen plus Erreichbarkeitsplan. Abgrenzung: keine konkrete Stakeholder-Information.
+**Fokus:** Definiert eine Eskalationsmatrix vom Erstmelder über Service-Desk und Datenschutzbeauftragten bis zur Geschäftsleitung und externen Beratern. Behandelt: Schwellenwerte für Eskalation; Erreichbarkeit außerhalb der Bürozeiten; Stellvertreter; Wochenend- und Feiertagsregelung; Eskalationsprotokoll; Ausweichkommunikation bei IT-Ausfall. Output: Matrix mit Stufen und Verantwortlichen plus Erreichbarkeitsplan. Abgrenzung: keine konkrete Stakeholder-Information.
 
 # Eskalationsmatrix Datenschutzvorfall
 
@@ -199,7 +199,7 @@ Erreichbarkeit: Hauptkontakt + zwei Stellvertreter je Stufe; 24/7-Rufbereitschaf
 
 ## 4. `dsv-interne-dokumentation-art-33-abs-5`
 
-**Frühere Beschreibung:** Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der Aufsichtsbehörde; Versionierung. Output: Vorlage Vorfallregister mit Pflichtfeldern. Abgrenzung: kein Verfahrensverzeichnis Art. 30.
+**Fokus:** Pflegt das interne Vorfallregister nach Art. 33 Abs. 5 DSGVO als Beweisinstrument der Rechenschaftspflicht. Behandelt: Pflichtinhalte Sachverhalt, Auswirkungen, Abhilfemaßnahmen, Bewertung; Verknüpfung mit VVT; Aufbewahrungsfristen; Schnittstelle zu Risikomanagement; Vorlage auf Anforderung der Aufsichtsbehörde; Versionierung. Output: Vorlage Vorfallregister mit Pflichtfeldern. Abgrenzung: kein Verfahrensverzeichnis Art. 30.
 
 # Interne Dokumentation Art. 33 Abs. 5 DSGVO — Vorfallregister
 
@@ -248,7 +248,7 @@ Versionierung: jede Änderung mit Datum und Bearbeiter; alte Versionen revisions
 
 ## 5. `dsv-kein-risiko-dokumentation`
 
-**Frühere Beschreibung:** Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der Nichtmeldung; Risikoabwägung mit Faktoren; Aufbewahrungsfristen; Vorlage für Aufsichtsbehörde auf Anforderung. Output: vollständige Dokumentationsvorlage. Abgrenzung: keine Behördenmeldung; keine Benachrichtigung.
+**Fokus:** Erstellt die interne Dokumentation eines Datenschutzvorfalls, der nicht an die Aufsichtsbehörde gemeldet wird, weil voraussichtlich kein Risiko für die Rechte und Freiheiten besteht. Behandelt: Pflichtangaben nach Art. 33 Abs. 5 DSGVO; Sachverhalt; Auswirkungen; Abhilfemaßnahmen; Begründung der Nichtmeldung; Risikoabwägung mit Faktoren; Aufbewahrungsfristen; Vorlage für Aufsichtsbehörde auf Anforderung. Output: vollständige Dokumentationsvorlage. Abgrenzung: keine Behördenmeldung; keine Benachrichtigung.
 
 # Kein-Risiko-Dokumentation nach Art. 33 Abs. 5 DSGVO
 

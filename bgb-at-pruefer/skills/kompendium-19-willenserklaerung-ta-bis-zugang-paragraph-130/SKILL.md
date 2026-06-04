@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-willenserklaerung-ta-bis-zugang-paragraph-130
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (willenserklaerung-tatbestand, wucher-und-ausbeutung-paragraph-138-2, zugang-paragraph-130) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Willenserklaerung Tatbestand, Wucher Und Ausbeutung Paragraph 138 2, Zugang Paragraph 130; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - bgb-at-pruefer
+# Arbeitsbereich - Willenserklaerung Tatbestand, Wucher Und Ausbeutung Paragraph 138 2, Zugang Paragraph 130
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `willenserklaerung-tatbestand` | Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung. |
 | `wucher-und-ausbeutung-paragraph-138-2` | Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrigkeit nach § 138 Abs. 1 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `willenserklaerung-tatbestand`
 
-**Frühere Beschreibung:** Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung.
+**Fokus:** Klausurfall zum Tatbestand der Willenserklärung: objektiver Erklärungstatbestand, Rechtsbindungswille, Erklärungsbewusstsein und potentielles Bewusstsein, Abgrenzung zu Gefälligkeiten und sozialtypischem Verhalten. Prüfraster für §§ 116 ff. BGB in Examens- und Anwaltsprüfung.
 
 # Willenserklärung — Tatbestand §§ 116 ff. BGB
 
@@ -111,7 +111,7 @@ Fehlt der Geschäftswille: Anfechtungsrecht nach § 119 Abs. 1 BGB (Inhaltsirrtu
 
 ## 2. `wucher-und-ausbeutung-paragraph-138-2`
 
-**Frühere Beschreibung:** Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrigkeit nach § 138 Abs. 1 BGB.
+**Fokus:** Klausurfall zu Wucher und wucherähnlichen Geschäften nach § 138 Abs. 2 BGB: Leistung und Gegenleistung in auffälligem Missverhältnis, Ausbeutung einer Zwangslage oder Unerfahrenheit, subjektives Wucherelement, Abgrenzung zur Sittenwidrigkeit nach § 138 Abs. 1 BGB.
 
 # Wucher und Ausbeutung — § 138 Abs. 2 BGB
 
@@ -198,7 +198,7 @@ unabhängig von einer strafrechtlichen Verurteilung. § 291 StGB hat höheren Ve
 
 ## 3. `zugang-paragraph-130`
 
-**Frühere Beschreibung:** Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich des Empfängers, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf vor oder gleichzeitig mit Zugang, Empfangsbote, digitale Postfächer und Zugangsvereitelung. Prüfraster für Examen.
+**Fokus:** Klausurfall zum Zugang empfangsbedürftiger Willenserklärungen nach § 130 BGB: Machtbereich des Empfängers, gewöhnliche Kenntnisnahmemöglichkeit, Widerruf vor oder gleichzeitig mit Zugang, Empfangsbote, digitale Postfächer und Zugangsvereitelung. Prüfraster für Examen.
 
 # Zugang — § 130 BGB
 

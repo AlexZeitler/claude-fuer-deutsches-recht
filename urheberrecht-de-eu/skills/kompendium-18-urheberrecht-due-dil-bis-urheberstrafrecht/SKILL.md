@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-urheberrecht-due-dil-bis-urheberstrafrecht
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (urheberrecht-due-diligence, urheberrechtliche-compliance, urheberstrafrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urheberrecht Due Diligence, Urheberrechtliche Compliance, Urheberstrafrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - urheberrecht-de-eu
+# Arbeitsbereich - Urheberrecht Due Diligence, Urheberrechtliche Compliance, Urheberstrafrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `urheberrecht-due-diligence` | Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment. |
 | `urheberrechtliche-compliance` | Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `urheberrecht-due-diligence`
 
-**Frühere Beschreibung:** Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment.
+**Fokus:** Prueft Rechteportfolio bei Verlag, Label, Softwarehaus, Plattform, M&A und Investment.
 
 # Copyright Due Diligence
 
@@ -98,7 +98,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `urheberrechtliche-compliance`
 
-**Frühere Beschreibung:** Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit.
+**Fokus:** Baut Prozesse für Rechteclearing, Stock, Software, KI, Social Media, Schulung, Freigabe und Audit.
 
 # Urheberrechts-Compliance im Unternehmen
 
@@ -169,7 +169,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `urheberstrafrecht`
 
-**Frühere Beschreibung:** Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen.
+**Fokus:** Prueft Strafbarkeit, Strafantrag, gewerbsmäßige Nutzung, Durchsuchung, Beschlagnahme und Verteidigungsschnittstellen.
 
 # Urheberstrafrecht und Ermittlungen
 

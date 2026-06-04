@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-tr3d-bestreitensgrue-bis-tr3d-massearmut-tabe
-description: "tabellenreview-3d: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (tr3d-bestreitensgruende-leitfaden, tr3d-feststellungsklage-tabellenfeststellung-spezial, tr3d-massearmut-tabelle-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tabellenreview-3d: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tr3d Bestreitensgruende Leitfaden, Tr3d Feststellungsklage Tabellenfeststellung Spezial, Tr3d Massearmut Tabelle Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - tabellenreview-3d
+# Arbeitsbereich - Tr3d Bestreitensgruende Leitfaden, Tr3d Feststellungsklage Tabellenfeststellung Spezial, Tr3d Massearmut Tabelle Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tr3d-bestreitensgruende-leitfaden` | Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjaehrung, Aufrechnung. Pruefraster fuer Tabellenpruefer. |
 | `tr3d-feststellungsklage-tabellenfeststellung-spezial` | Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster fuer Glaeubiger und Insolvenzverwalter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tr3d-bestreitensgruende-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjaehrung, Aufrechnung. Pruefraster fuer Tabellenpruefer.
+**Fokus:** Leitfaden Bestreitensgruende systematisch: dem Grunde, der Hoehe, dem Rang, Verjaehrung, Aufrechnung. Pruefraster fuer Tabellenpruefer.
 
 # TR3D: Bestreitensgruende
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `tabellenreview-3d`. Er ergaenzt die uebrigen Sk
 
 ## 2. `tr3d-feststellungsklage-tabellenfeststellung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster fuer Glaeubiger und Insolvenzverwalter.
+**Fokus:** Spezialfall Feststellungsklage zur Tabellenfeststellung § 180 InsO: Klagebefugnis, Frist, Streitwert. Pruefraster fuer Glaeubiger und Insolvenzverwalter.
 
 # TR3D: Feststellungsklage Tabelle
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `tabellenreview-3d`. Er ergaenzt die uebrigen Sk
 
 ## 3. `tr3d-massearmut-tabelle-spezial`
 
-**Frühere Beschreibung:** Spezialfall Tabellenfuehrung bei Massearmut: vereinfachte Quote, vereinfachtes Tabellenformat, BGH-Rechtsprechung. Pruefraster fuer Verwalter und Insolvenzgericht.
+**Fokus:** Spezialfall Tabellenfuehrung bei Massearmut: vereinfachte Quote, vereinfachtes Tabellenformat, BGH-Rechtsprechung. Pruefraster fuer Verwalter und Insolvenzgericht.
 
 # TR3D: Massearmut Tabelle
 

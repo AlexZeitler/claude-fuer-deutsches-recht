@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-wahlkampf-asymmetris-bis-wahlkampf-briefkaste
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (wahlkampf-asymmetrische-demobilisierung, wahlkampf-barrierefreie-und-mehrsprachige-information, wahlkampf-barrierefreiheit-und-inklusion, wahlkampf-bots-und-inauthentisches-verhalten, wahlkampf-briefkasten-flyer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Asymmetrische Demobilisierung, Wahlkampf Barrierefreie Und Mehrsprachige Information, Wahlkampf Barrierefreiheit Und Inklusion, Wahlkampf Bots Und Inauthentisches Verhalten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Asymmetrische Demobilisierung bis Wahlkampf Briefkasten Flyer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-asymmetrische-demobilisierung` | Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren. |
 | `wahlkampf-barrierefreie-und-mehrsprachige-information` | Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-asymmetrische-demobilisierung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren.
+**Fokus:** Wahlkampfrecht Praxis: Demobilisierungsstrategien analysieren.
 
 # Asymmetrische Demobilisierung
 
@@ -83,7 +83,7 @@ Erzeuge: **Demobilisierungsanalyse**. Wenn Informationen fehlen, stelle höchste
 
 ## 2. `wahlkampf-barrierefreie-und-mehrsprachige-information`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen.
+**Fokus:** Wahlkampfrecht Praxis: mehrsprachige und barrierefreie Kampagneninformationen rechtssicher planen.
 
 # Barrierefreie Und Mehrsprachige Information
 
@@ -136,7 +136,7 @@ Erzeuge: **Mehrsprachigkeits-Check**. Wenn Informationen fehlen, stelle höchste
 
 ## 3. `wahlkampf-barrierefreiheit-und-inklusion`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen.
+**Fokus:** Wahlkampfrecht Praxis: barrierearme Wahlkampfkommunikation und Veranstaltungen planen.
 
 # Barrierefreiheit Und Inklusion
 
@@ -189,7 +189,7 @@ Erzeuge: **Inklusions-Check**. Wenn Informationen fehlen, stelle höchstens acht
 
 ## 4. `wahlkampf-bots-und-inauthentisches-verhalten`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden.
+**Fokus:** Wahlkampfrecht Praxis: koordinierte inauthentische Kommunikation erkennen und vermeiden.
 
 # Bots Und Inauthentisches Verhalten
 
@@ -250,7 +250,7 @@ Erzeuge: **Integritaetscheck**. Wenn Informationen fehlen, stelle höchstens ach
 
 ## 5. `wahlkampf-briefkasten-flyer`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Flyer- und Briefkastenaktionen pruefen.
 
 # Briefkasten Flyer
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-aussenwirtschaft-emb-bis-aussenwirtschaft-emb
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (aussenwirtschaft-embargo-iran, aussenwirtschaft-embargo-myanmar, aussenwirtschaft-embargo-nordkorea, aussenwirtschaft-embargo-russland) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Embargo Iran, Aussenwirtschaft Embargo Myanmar, Aussenwirtschaft Embargo Nordkorea, Aussenwirtschaft Embargo Russland; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Embargo Iran bis Aussenwirtschaft Embargo Russland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-embargo-iran` | EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel. |
 | `aussenwirtschaft-embargo-myanmar` | EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-Screening und Pruefungsvermerk. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-embargo-iran`
 
-**Frühere Beschreibung:** EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel.
+**Fokus:** EU-Iran-Sanktionsregime nach VO (EU) 267/2012 (Nuklear) und VO (EU) 359/2011 (Menschenrechte): gelistete Personen, Finanzsanktionen, Guetersanktionen und Dienstleistungsverbote. Besondere Risiken im Dual-Use-Bereich und bei Oel/Gas-Sektor. Fallkonstellation: Unternehmen erhalt Anfrage aus Iran. Output: Iran-Embargo-Pruefungsvermerk mit Risikoampel.
 
 # Embargo Iran: Nukleare Sanktionen und Doppelverwendungsrisiken
 
@@ -117,7 +117,7 @@ Iran-Embargo-Pruefungsvermerk mit Listenscan, Gueterkategorien-Analyse, Catch-Al
 
 ## 2. `aussenwirtschaft-embargo-myanmar`
 
-**Frühere Beschreibung:** EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-Screening und Pruefungsvermerk.
+**Fokus:** EU-Myanmar-Sanktionsregime nach VO (EU) 401/2013 und Folgeverordnungen: gelistete Personen und Entitaeten des Militaerregimes, Finanzsanktionen, Waffenembargo und sektorale Einschraenkungen. Besondere Risiken bei Handels- und Investitionsbeziehungen mit Staatsunternehmen. Output: Myanmar-Embargo-Screening und Pruefungsvermerk.
 
 # Embargo Myanmar: Militaerregime-Sanktionen und Guetersperren
 
@@ -203,7 +203,7 @@ Myanmar-Embargo-Screening-Protokoll, Gueterkategorien-Uebersicht, Unternehmenspr
 
 ## 3. `aussenwirtschaft-embargo-nordkorea`
 
-**Frühere Beschreibung:** EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All fuer Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse.
+**Fokus:** EU- und UN-Sanktionsregime gegen Nordkorea: VO (EU) 2017/1509 und UN-Resolutionen 1718/1874/2270 ff. Umfassendes Guetersanktionsregime, Waffenembargo, Finanzsanktionen und Transshipment-Risiken. Catch-All fuer Proliferationsverdacht besonders weitreichend. Output: Nordkorea-Embargo-Pruefvermerk und Transshipment-Risikoanalyse.
 
 # Embargo Nordkorea: Umfassendes Sanktionsregime und Proliferationskontrolle
 
@@ -289,7 +289,7 @@ Nordkorea-Embargo-Pruefvermerk, Transshipment-Risikoanalyse, Screening-Protokoll
 
 ## 4. `aussenwirtschaft-embargo-russland`
 
-**Frühere Beschreibung:** EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prueft Lieferkette auf Russland-Kontamination. Output: Russland-Embargo-Pruefvermerk mit Ampel und Massnahmenplan.
+**Fokus:** EU-Russland-Sanktionsregime: VO (EU) 833/2014 (Sektoral/Gueter) und VO (EU) 269/2014 (Finanzsanktionen). Verbotene Gueter (Anhaenge VO 833/2014), No-Russia-Clause Art. 12g, Dienstleistungsverbote (Art. 5n), Umgehungsverbot. Catch-All und Red-Flags. Mandant prueft Lieferkette auf Russland-Kontamination. Output: Russland-Embargo-Pruefvermerk mit Ampel und Massnahmenplan.
 
 # Embargo Russland: Sektoralsanktionen und Umgehungsverbote
 

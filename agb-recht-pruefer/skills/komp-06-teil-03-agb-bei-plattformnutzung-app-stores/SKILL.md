@@ -1,0 +1,126 @@
+---
+name: komp-06-teil-03-agb-bei-plattformnutzung-app-stores
+description: "agb-recht-pruefer: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Agb Bei Plattformnutzung App Stores, Agb Bei Vereinen Und Verbaenden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
+---
+
+# Arbeitsbereich - Agb Bei Plattformnutzung App Stores bis Agb Bei Vereinen Und Verbaenden
+
+## Zweck
+
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
+
+## Arbeitsmodule
+
+| Arbeitsmodul | Fokus |
+| --- | --- |
+| `agb-bei-plattformnutzung-app-stores` | AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster. |
+| `agb-bei-vereinen-und-verbaenden` | AGB bei Vereinen und Verbaenden. Skill klaert die AGB-rechtliche Pruefung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhaeltnis zwischen Vereinsautonomie (Art. 9 GG) und AGB-Recht. Liefert Pruefraster. |
+
+## Arbeitsregel
+
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
+2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
+4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
+
+## Arbeitsmodule im Detail
+
+## 1. `agb-bei-plattformnutzung-app-stores`
+
+**Fokus:** AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster.
+
+
+# Agb Bei Plattformnutzung App Stores
+
+## Fachkern: Agb Bei Plattformnutzung App Stores
+
+- **Klauselproblem (Agb Bei Plattformnutzung App Stores):** AGB bei Plattformnutzung App Stores Apple Google Steam Amazon. Skill klaert die AGB-rechtlichen Kontrollfaktoren der Standardvertraege Marktstellung und Marktmacht (Art. 102 AEUV) sowie das Verhaeltnis zur P2B-Verordnung. Behandelt aktuelle BGH-Rechtsprechung zu Marketplace-AGB. Liefert Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Norm
+
+- §§ 305-310 BGB AGB-Recht.
+- P2B-Verordnung (EU) 2019/1150 Plattform-Business-Verordnung.
+- DSA-Verordnung (EU) 2022/2065.
+- DMA-Verordnung (EU) 2022/1925 fuer Gatekeeper.
+
+## Plattform-AGB
+
+- App Store-AGB Apple: Provision 30 Prozent (15 Prozent fuer kleine Entwickler) — DMA-Pflicht zur Alternative.
+- Google Play-AGB: aehnlich, mit DMA-Pflicht.
+- Amazon Marketplace: Allgemeine Verkaufsbedingungen mit Sanktionen.
+
+## BGH-Linie
+
+- BGH KZR 67/19 zur Marketplace-AGB: einseitige Aenderung unwirksam, wenn Hauptleistung beruehrt.
+- BGH I ZR 26/19 Cookie-Banner.
+
+## P2B-VO
+
+- Art. 3: Transparenzpflichten in AGB.
+- Art. 4: Kuendigung und Aussetzung mit Begruendungspflicht.
+- Art. 8: Beschwerdemanagement.
+
+## DMA
+
+- Art. 5 Gatekeeper-Pflichten.
+- Art. 6 spezifische Verhaltenspflichten.
+
+## Pruefraster
+
+1. Welche Plattform?
+2. Gatekeeper-Status?
+3. AGB-Klausel in Konflikt mit P2B/DMA?
+4. § 307 BGB Generalklausel anwendbar?
+
+## Output
+
+- Klauselraster.
+- Beschwerde-/Klageentwurf.
+
+## 2. `agb-bei-vereinen-und-verbaenden`
+
+**Fokus:** AGB bei Vereinen und Verbaenden. Skill klaert die AGB-rechtliche Pruefung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhaeltnis zwischen Vereinsautonomie (Art. 9 GG) und AGB-Recht. Liefert Pruefraster.
+
+
+# Agb Bei Vereinen Und Verbaenden
+
+## Fachkern: Agb Bei Vereinen Und Verbaenden
+
+- **Klauselproblem (Agb Bei Vereinen Und Verbaenden):** AGB bei Vereinen und Verbaenden. Skill klaert die AGB-rechtliche Pruefung von Vereinsbeitrittsbedingungen Beitragsregelungen Ausschlussklauseln und Vereinsstrafen. Behandelt das Spannungsverhaeltnis zwischen Vereinsautonomie (Art. 9 GG) und AGB-Recht. Liefert Pruefraster.
+- **AGB-Weiche:** Einbeziehung (§ 305 BGB), überraschende Klausel (§ 305c BGB), Transparenz (§ 307 Abs. 1 S. 2 BGB), Inhaltskontrolle (§§ 307-309 BGB), Rechtsfolge (§ 306 BGB) und Prozess-/Verbandsrisiko sauber trennen.
+- **Beleglogik:** Originalklausel, Vertragsumfeld, Verwendungsnachweis, Verhandlungsspuren, Kundengruppe, Marktstandard und wirtschaftliche Wirkung als Matrix erfassen.
+- **Arbeitsprodukt:** Klauselampel, Redline, Ersatzformulierung, Verhandlungsposition und gerichtsfeste Kurzbegründung mit Live-Check amtlicher Normenquellen.
+
+## Norm
+
+- § 305 BGB: Eintrittsformulare, Beitragsregelungen sind AGB.
+- Vereinsautonomie Art. 9 GG.
+- §§ 21 ff. BGB Vereinsrecht.
+
+## Klauseltypen
+
+### Beitragsanpassung
+- Klausel zur einseitigen Beitragserhoehung problematisch.
+- BGH II ZR 109/11 zur Lebensversicherer-Beitragserhoehung analog.
+
+### Ausschluss
+- Klausel zum Ausschluss "ohne Begruendung" unwirksam.
+- BGH II ZR 30/10: Verfahrensgrundsaetze zwingend (Anhoerung, Rechtsschutz).
+
+### Vereinsstrafen
+- Vertragsstrafe in Satzung wirksam, soweit angemessen.
+
+## Pruefraster
+
+1. Verein oder Verband?
+2. Welche AGB-Klausel?
+3. Vereinsautonomie als Schranke?
+4. Verfahrensgrundsaetze beachtet?
+
+## Output
+
+- Klauselraster.
+- Schriftsatzbaustein.

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-owi-010-unternehmen-bis-owi-013-nebenfolgen
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (owi-010-unternehmen-und-verbandsgeldbusse, owi-011-aufsichtspflichtverletzung-130-owig, owi-012-einziehung-und-verfall-pruefen, owi-013-nebenfolgen-und-register) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 010 Unternehmen Und Verbandsgeldbusse, Owi 011 Aufsichtspflichtverletzung 130 Owig, Owi 012 Einziehung Und Verfall Pruefen, Owi 013 Nebenfolgen Und Register; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 010 Unternehmen Und Verbandsgeldbusse bis Owi 013 Nebenfolgen Und Register
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-010-unternehmen-und-verbandsgeldbusse` | Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `owi-011-aufsichtspflichtverletzung-130-owig` | Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-010-unternehmen-und-verbandsgeldbusse`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Unternehmen und Verbandsgeldbuße. Unternehmen und Verbandsgeldbuße im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Unternehmen Und Verbandsgeldbusse
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-011-aufsichtspflichtverletzung-130-owig`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Aufsichtspflichtverletzung § 130 OWiG. Aufsichtspflichtverletzung § 130 OWiG im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Aufsichtspflichtverletzung 130 Owig
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-012-einziehung-und-verfall-pruefen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Einziehung und Verfall prüfen. Einziehung und Verfall prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Einziehung und Verfall prüfen. Einziehung und Verfall prüfen im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einziehung Und Verfall Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-013-nebenfolgen-und-register`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Nebenfolgen und Register. Nebenfolgen und Register im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Ordnungswidrigkeitenrecht: Nebenfolgen und Register. Nebenfolgen und Register im Fachgebiet Ordnungswidrigkeitenrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Nebenfolgen Und Register
 

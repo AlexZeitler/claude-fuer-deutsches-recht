@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spezial-kanzlei-mehr-bis-spezial-orientierung
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (spezial-kanzlei-mehrparteien-konflikt-und-interessen, spezial-livecheck-abschlussprodukt-und-uebergabe, spezial-mandat-mandantenkommunikation-entscheidungsvorlage, spezial-orientierung-sonderfall-und-edge-case) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Mehrparteien Konflikt Und Interessen, Livecheck Abschlussprodukt Und Uebergabe, Mandat Mandantenkommunikation Entscheidungsvorlage, Orientierung Sonderfall Und Edge Case; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Kanzlei Mehrparteien Konflikt Und Interessen bis Orientierung Sonderfall Und Edge Case
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-kanzlei-mehrparteien-konflikt-und-interessen` | Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-livecheck-abschlussprodukt-und-uebergabe` | Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-kanzlei-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Kanzlei: Mehrparteienkonflikt und Interessenmatrix im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Kanzlei: Mehrparteienkonflikt und Interessenmatrix
 
@@ -70,7 +70,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-livecheck-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Livecheck: Abschlussprodukt und Übergabe im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Livecheck: Abschlussprodukt und Übergabe
 
@@ -111,7 +111,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-mandat-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Mandat: Mandantenkommunikation und Entscheidungsvorlage im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Mandat: Mandantenkommunikation und Entscheidungsvorlage
 
@@ -152,7 +152,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-orientierung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Orientierung: Sonderfall und Edge-Case-Prüfung im Plugin fachanwalt bau architektenrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Orientierung: Sonderfall und Edge-Case-Prüfung
 

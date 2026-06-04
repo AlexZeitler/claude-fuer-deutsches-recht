@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-pralr-050-pralr-in-a-bis-pralr-neu-004-erster
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (pralr-050-pralr-in-anderen-plugins-routen, pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliess, pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr, pralr-neu-003-einleitung-normkarte-allgemeine-rechtsgrundsaetze, pralr-neu-004-erster-teil-titel-1-personen-und-stand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 050 Pralr In Anderen Plugins Routen, Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess, Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr, Pralr Neu 003 Einleitung Normkarte Allgemeine Rechtsgrundsaetze und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualität"
 ---
 
-# Kompendium 12 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 050 Pralr In Anderen Plugins Routen bis Pralr Neu 004 Erster Teil Titel 1 Personen Und Stand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-050-pralr-in-anderen-plugins-routen` | PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen. |
 | `pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliess` | PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-050-pralr-in-anderen-plugins-routen`
 
-**Frühere Beschreibung:** PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen.
+**Fokus:** PrALR: Brücken zu Rechtsgeschichte, Methodenlehre, Staatshaftung, Nachbarrecht, Grundbuch und BGB herstellen.
 
 # Routing in andere Plugins
 
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-neu-001-normnavigator-jede-pralr-norm-als-karte-erschliess`
 
-**Frühere Beschreibung:** PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Normnavigator jede PrALR-Norm als Karte erschließen mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 001 Normnavigator Jede Pralr Norm Als Karte Erschliess
 
@@ -121,7 +121,7 @@ Pro Norm: Quellenanker, Inhalt, Subsumtion, Vergleich BGB.
 
 ## 3. `pralr-neu-002-textzeugenvergleich-1794-1804-ausgabe-und-ocr`
 
-**Frühere Beschreibung:** PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Textzeugenvergleich 1794 1804 Ausgabe und OCR mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Pralr Neu 002 Textzeugenvergleich 1794 1804 Ausgabe Und Ocr
 
@@ -164,7 +164,7 @@ Vergleich der ALR-Textzeugen 1794 / 1804 / spaetere Drucke und OCR-Probleme.
 
 ## 4. `pralr-neu-003-einleitung-normkarte-allgemeine-rechtsgrundsaetze`
 
-**Frühere Beschreibung:** PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Einleitung Normkarte allgemeine Rechtsgrundsätze
 
@@ -234,7 +234,7 @@ Die Einleitung des ALR (1794) gilt als das normative Vorzimmer der Kodifikation.
 
 ## 5. `pralr-neu-004-erster-teil-titel-1-personen-und-stand`
 
-**Frühere Beschreibung:** PrALR: Erster Teil Titel 1 Personen und Stand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** PrALR: Erster Teil Titel 1 Personen und Stand mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # PrALR: Erster Teil Titel 1 Personen und Stand
 

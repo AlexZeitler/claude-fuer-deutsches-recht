@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bescheinigung-305-in-bis-eigenverwaltung-nich
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (bescheinigung-305-inso, datenschutz-und-schamfreie-akte, eigenverwaltung-nicht-verbraucher) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Bescheinigung 305 Inso, Datenschutz Und Schamfreie Akte, Eigenverwaltung Nicht Verbraucher
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bescheinigung-305-inso` | Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `datenschutz-und-schamfreie-akte` | Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bescheinigung-305-inso`
 
-**Frühere Beschreibung:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.; Normanker: InsO § 305 Abs. 1 Nr. 1, Abs. 4; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Bescheinigung nach § 305 InsO: wer bescheinigen darf, was bescheinigt wird und welche Lücken den Antrag gefährden.
 
@@ -69,7 +69,7 @@ InsO § 305 Abs. 1 Nr. 1, Abs. 4. Entscheidend ist immer der aktuelle Normstand 
 
 ## 2. `datenschutz-und-schamfreie-akte`
 
-**Frühere Beschreibung:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.; Normanker: DSGVO Art. 5 und 6 und 9; Berufsgeheimnis je nach Beratung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Datenschutz und schamfreie Akte: sensible Daten, Familienmitglieder, Beratung, Cloud und sichere Dokumentenmappe.
 
@@ -110,7 +110,7 @@ DSGVO Art. 5, 6, 9; Berufsgeheimnis je nach Beratung. Entscheidend ist immer der
 
 ## 3. `eigenverwaltung-nicht-verbraucher`
 
-**Frühere Beschreibung:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.; Normanker: InsO Eigenverwaltung vs. Verbraucherinsolvenz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Warum Eigenverwaltung kein Verbraucher-Standard ist: falsche Erwartungen, Regelinsolvenzabgrenzung und Beratungspfad.
 

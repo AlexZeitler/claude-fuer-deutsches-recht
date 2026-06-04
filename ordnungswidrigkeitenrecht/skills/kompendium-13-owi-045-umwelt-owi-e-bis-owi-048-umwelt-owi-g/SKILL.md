@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-owi-045-umwelt-owi-e-bis-owi-048-umwelt-owi-g
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (owi-045-umwelt-owi-einstellung-anregen, owi-046-umwelt-owi-beweis-ruegen, owi-047-umwelt-owi-verjaehrung-berechnen, owi-048-umwelt-owi-gerichtstermin-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 045 Umwelt Owi Einstellung Anregen, Owi 046 Umwelt Owi Beweis Ruegen, Owi 047 Umwelt Owi Verjaehrung Berechnen, Owi 048 Umwelt Owi Gerichtstermin Vorbereiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 045 Umwelt Owi Einstellung Anregen bis Owi 048 Umwelt Owi Gerichtstermin Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-045-umwelt-owi-einstellung-anregen` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Einstellung anregen. Einstellung anregen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-046-umwelt-owi-beweis-ruegen` | Ordnungswidrigkeitenrecht: Umwelt-OWi: Beweis rügen. Beweis rügen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-045-umwelt-owi-einstellung-anregen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Einstellung anregen. Einstellung anregen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Einstellung anregen. Einstellung anregen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Umwelt Owi Einstellung Anregen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-046-umwelt-owi-beweis-ruegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Beweis rügen. Beweis rügen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Beweis rügen. Beweis rügen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Umwelt Owi Beweis Ruegen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-047-umwelt-owi-verjaehrung-berechnen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Verjährung berechnen. Verjährung berechnen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Verjährung berechnen. Verjährung berechnen für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Umwelt Owi Verjaehrung Berechnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-048-umwelt-owi-gerichtstermin-vorbereiten`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Umwelt-OWi: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Umwelt-OWi im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Umwelt Owi Gerichtstermin Vorbereiten
 

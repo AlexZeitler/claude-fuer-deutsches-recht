@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-vergabe-nachpruefung-bis-vergabekammer-termin
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (vergabe-nachpruefung-aussicht, vergabe-os-master-orchestrator, vergabeakte-dokumentationsvermerk-builder, vergabekammer-termin-simulation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergabe Nachpruefung Aussicht, Vergabe Os Master Orchestrator, Vergabeakte Dokumentationsvermerk Builder, Vergabekammer Termin Simulation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergabe Nachpruefung Aussicht bis Vergabekammer Termin Simulation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergabe-nachpruefung-aussicht` | Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk. |
 | `vergabe-os-master-orchestrator` | Vergabe-OS fuer Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergabe-nachpruefung-aussicht`
 
-**Frühere Beschreibung:** Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk.
+**Fokus:** Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk.
 
 # Vergabe-Nachprüfung — Erfolgs-Aussichten
 
@@ -327,7 +327,7 @@ Datum Memo:  [TT.MM.JJJJ]
 
 ## 2. `vergabe-os-master-orchestrator`
 
-**Frühere Beschreibung:** Vergabe-OS fuer Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
+**Fokus:** Vergabe-OS fuer Anfaenger und Profis: erkennt Rolle, Schwellenwert, Verfahrensstand, Fristen, Rechtsweg, Dokumentenlage und fuehrt in Padlet, Tabellen, Schriftsatz, Memo oder Vergabeakte.
 
 # Vergabe-OS Master-Orchestrator
 
@@ -391,7 +391,7 @@ Kurzbild, Phasenkarte, Fristenampel, Skill-Routing, Arbeitsplan, Mandantennaechs
 
 ## 3. `vergabeakte-dokumentationsvermerk-builder`
 
-**Frühere Beschreibung:** Vergabeakte und Dokumentationsvermerk fuer Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.
+**Fokus:** Vergabeakte und Dokumentationsvermerk fuer Auftraggeber aufbauen: Beschaffungsbedarf, Markterkundung, Verfahrenswahl, Eignung, Wertung, Kommunikation, Entscheidungen und Nachvollziehbarkeit.
 
 # Vergabeakte und Dokumentationsvermerk
 
@@ -455,7 +455,7 @@ Aktenstruktur, Dokumentationsvermerk, Lueckenliste, Haftungsampel.
 
 ## 4. `vergabekammer-termin-simulation`
 
-**Frühere Beschreibung:** Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan.
+**Fokus:** Vergabekammer-Termin simulieren: Fragenkatalog, Schwachstellen, Vergleichsfenster, Antragstaktik, Mandantenbriefing und Nachterminplan.
 
 # Vergabekammer-Termin Simulation
 

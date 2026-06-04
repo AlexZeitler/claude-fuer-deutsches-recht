@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-kita-antrag-bis-kommunale-abgaben
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (kita-antrag, kita-gebuehren, klage-verwaltungsgericht-einfach, kommunale-abgaben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kita Antrag, Kita Gebuehren, Klage Verwaltungsgericht Einfach, Kommunale Abgaben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Kita Antrag bis Kommunale Abgaben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kita-antrag` | Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung. |
 | `kita-gebuehren` | Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kita-antrag`
 
-**Frühere Beschreibung:** Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung.
+**Fokus:** Hilft bei Kita-Platz, Vormerkung, Priorität, Ablehnung, Rechtsanspruch, Eilantrag und kommunaler Satzung.
 
 # Kita-Antrag
 
@@ -69,7 +69,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `kita-gebuehren`
 
-**Frühere Beschreibung:** Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung.
+**Fokus:** Prüft Beitragsbescheid, Einkommen, Geschwisterregel, Ermäßigung, Satzung, Rückstand und Stundung.
 
 # Kita-Gebühren
 
@@ -109,7 +109,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `klage-verwaltungsgericht-einfach`
 
-**Frühere Beschreibung:** Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt.
+**Fokus:** Erklärt den Weg zur Anfechtungs- oder Verpflichtungsklage, wenn kein Widerspruch möglich ist oder ein Widerspruchsbescheid vorliegt.
 
 # Klage Verwaltungsgericht einfach
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `kommunale-abgaben`
 
-**Frühere Beschreibung:** Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette.
+**Fokus:** Erklärt Erschließungsbeitrag, Straßenausbaubeitrag, Abwasser, Müllgebühren, Satzung und Bescheidkette.
 
 # Kommunale Abgaben
 

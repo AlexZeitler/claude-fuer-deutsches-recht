@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-vdg-024-bankentgelte-bis-vdg-027-bankentgelte
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (vdg-024-bankentgelte-registertext-schreiben, vdg-025-bankentgelte-betroffenenformular-bauen, vdg-026-bankentgelte-beweisplan-erstellen, vdg-027-bankentgelte-vergleich-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 024 Bankentgelte Registertext Schreiben, Vdg 025 Bankentgelte Betroffenenformular Bauen, Vdg 026 Bankentgelte Beweisplan Erstellen, Vdg 027 Bankentgelte Vergleich Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 024 Bankentgelte Registertext Schreiben bis Vdg 027 Bankentgelte Vergleich Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-024-bankentgelte-registertext-schreiben` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Registertext schreiben. Registertext schreiben für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-025-bankentgelte-betroffenenformular-bauen` | Verbraucherschutzverband Durchsetzung: Bankentgelte: Betroffenenformular bauen. Betroffenenformular bauen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-024-bankentgelte-registertext-schreiben`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Registertext schreiben. Registertext schreiben für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Registertext schreiben. Registertext schreiben für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Registertext Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-025-bankentgelte-betroffenenformular-bauen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Betroffenenformular bauen. Betroffenenformular bauen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Betroffenenformular bauen. Betroffenenformular bauen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Betroffenenformular Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-026-bankentgelte-beweisplan-erstellen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Beweisplan erstellen. Beweisplan erstellen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Beweisplan erstellen. Beweisplan erstellen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Beweisplan Erstellen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-027-bankentgelte-vergleich-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Vergleich prüfen. Vergleich prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Bankentgelte: Vergleich prüfen. Vergleich prüfen für Bankentgelte im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bankentgelte Vergleich Pruefen
 

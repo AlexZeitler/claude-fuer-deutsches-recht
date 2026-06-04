@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-fachanwalt-arbeitsre-bis-fazugang-neu-001-kue
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (fachanwalt-arbeitsrecht-orientierung, fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg, fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitsrecht Orientierung, Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kuendigung Durch Boten Beweisvermerk Und Prozes; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Arbeitsrecht Orientierung, Arbeitsrecht Verhandlung Guete Abfindung Arbg, Fazugang Neu 001 Kuendigung Durch Boten Beweisvermerk Und Prozes
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-arbeitsrecht-orientierung` | Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill. |
 | `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg` | Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-arbeitsrecht-orientierung`
 
-**Frühere Beschreibung:** Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill.
+**Fokus:** Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG verifizierbare Quellen. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill.
 
 # Fachanwalt für Arbeitsrecht — Orientierung
 
@@ -132,7 +132,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-arbeitsrecht-verhandlung-guete-abfindung-arbg`
 
-**Frühere Beschreibung:** Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie.
+**Fokus:** Gueteverhandlung im Arbeitsgerichtsverfahren nach § 54 ArbGG mit Auflösungsantrag und Abfindungsstrategie. Anwendungsfall Guetetermin steht an und Vergleich oder Auflösungsantrag soll vorbereitet werden. Normen § 54 ArbGG Gueteverfahren § 9 KSchG Auflösungsantrag § 10 KSchG Abfindungsobergrenzen § 159 SGB III Sperrzeit-Vermeidung. Prüfraster Abfindungsstrategie halbes-Bruttogehalt-Faustformel Vergleichsformulierung Sperrzeit-Klausel Protokollniederschrift Kostenregelung. Output Vergleichsvorschlag-Schreiben Verhandlungsskript Protokoll-Entwurf und Sperrzeit-Formulierungstipp. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und vergleichsverhandlung-strategie.
 
 # Güte-Verhandlung Arbeitsgericht / Abfindungs-Vergleich
 
@@ -300,7 +300,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fazugang-neu-001-kuendigung-durch-boten-beweisvermerk-und-prozes`
 
-**Frühere Beschreibung:** Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang. Beweislast des Arbeitgebers, Anforderungen BAG-Linie, Notarpraxis, Gerichtsvollzieher-Alternative.
+**Fokus:** Zugang der Kündigung durch Boten: Beweisvermerk-Erstellung, Zeugenbenennung, Prozessstrategie bei bestritenem Zugang. Beweislast des Arbeitgebers, Anforderungen BAG-Linie, Notarpraxis, Gerichtsvollzieher-Alternative.
 
 # Zugang der Kündigung durch Boten — Beweisvermerk und Prozessstrategie
 

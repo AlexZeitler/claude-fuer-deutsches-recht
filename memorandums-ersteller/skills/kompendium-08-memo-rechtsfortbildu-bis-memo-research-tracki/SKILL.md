@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-memo-rechtsfortbildu-bis-memo-research-tracki
-description: "memorandums-ersteller: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (memo-rechtsfortbildung-bgh-aktuell, memo-rechtsfragen-formulieren, memo-research-tracking-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "memorandums-ersteller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - memorandums-ersteller
+# Arbeitsbereich - Memo Rechtsfortbildung Bgh Aktuell, Memo Rechtsfragen Formulieren, Memo Research Tracking Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `memo-rechtsfortbildung-bgh-aktuell` | Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen fuer die Kanzlei. Format Update-Memo fuer Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum. |
 | `memo-rechtsfragen-formulieren` | Rechtsfragen praezise formulieren: jede Frage in einer Frage, mit normativem Bezug. Schlechte Formulierung 'Was sind die rechtlichen Folgen' wird ersetzt durch 'Hat der Mandant einen Anspruch gegen X auf Y aus Norm Z'. Liste der haeufigsten Frageformate. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `memo-rechtsfortbildung-bgh-aktuell`
 
-**Frühere Beschreibung:** Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen fuer die Kanzlei. Format Update-Memo fuer Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum.
+**Fokus:** Memo zu aktueller BGH-Entscheidung: Sachverhalt der Entscheidung, Leitsatz, Rechtsfrage, Begruendung BGH, praktische Auswirkungen fuer die Kanzlei. Format Update-Memo fuer Mandanten und Anwaltskollegen. Pflicht: Originalfundstelle, dejure.org-Link, Erscheinungsdatum.
 
 # BGH-Update-Memo
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 2. `memo-rechtsfragen-formulieren`
 
-**Frühere Beschreibung:** Rechtsfragen praezise formulieren: jede Frage in einer Frage, mit normativem Bezug. Schlechte Formulierung 'Was sind die rechtlichen Folgen' wird ersetzt durch 'Hat der Mandant einen Anspruch gegen X auf Y aus Norm Z'. Liste der haeufigsten Frageformate.
+**Fokus:** Rechtsfragen praezise formulieren: jede Frage in einer Frage, mit normativem Bezug. Schlechte Formulierung 'Was sind die rechtlichen Folgen' wird ersetzt durch 'Hat der Mandant einen Anspruch gegen X auf Y aus Norm Z'. Liste der haeufigsten Frageformate.
 
 # Memo: Rechtsfragen formulieren
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `memorandums-ersteller`. Er ergaenzt die uebrige
 
 ## 3. `memo-research-tracking-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Research- und Quellen-Tracking fuer Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster fuer Erstautor und Review.
+**Fokus:** Leitfaden Research- und Quellen-Tracking fuer Memos: Quellenarten, Zitierregeln dejure.org / openjur, BGH / BVerfG / EuGH, Versionierung. Pruefraster fuer Erstautor und Review.
 
 # Memo: Research-Tracking
 

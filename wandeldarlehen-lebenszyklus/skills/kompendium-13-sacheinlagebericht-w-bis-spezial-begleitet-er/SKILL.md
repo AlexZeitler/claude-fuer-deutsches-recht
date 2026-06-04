@@ -1,33 +1,33 @@
 ---
 name: kompendium-13-sacheinlagebericht-w-bis-spezial-begleitet-er
-description: "wandeldarlehen-lebenszyklus: Konsolidiertes Skill-Kompendium 13; bündelt 2 frühere Spezialskills (sacheinlagebericht-werthaltigkeit, spezial-begleitet-erstpruefung-und-mandatsziel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wandeldarlehen-lebenszyklus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sacheinlagebericht Werthaltigkeit, Begleitet Erstpruefung Und Mandatsziel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - wandeldarlehen-lebenszyklus
+# Arbeitsbereich - Sacheinlagebericht Werthaltigkeit, Begleitet Erstpruefung Und Mandatsziel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sacheinlagebericht-werthaltigkeit` | Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung). |
 | `spezial-begleitet-erstpruefung-und-mandatsziel` | Begleitet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sacheinlagebericht-werthaltigkeit`
 
-**Frühere Beschreibung:** Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung).
+**Fokus:** Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung).
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung
 
@@ -141,7 +141,7 @@ Stand: 05/2026.
 
 ## 2. `spezial-begleitet-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Begleitet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Begleitet: Erstprüfung, Rollenklärung und Mandatsziel im Plugin wandeldarlehen lebenszyklus; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Begleitet: Erstprüfung, Rollenklärung und Mandatsziel
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-stb-susa-saldenabsti-bis-vergleichsverhandlun
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 25; bündelt 7 frühere Spezialskills (stb-susa-saldenabstimmung-bestaetigung, stb-susa-saldennullstellung-jahresende, stb-susa-vorperiode-vergleich, stb-ueberschuldungspruefung-19-inso, stb-warnschreiben-krisensignale und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Susa Saldenabstimmung Bestaetigung, Stb Susa Saldennullstellung Jahresende, Stb Susa Vorperiode Vergleich, Stb Ueberschuldungspruefung 19 Inso und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Susa Saldenabstimmung Bestaetigung bis Vergleichsverhandlung Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-susa-saldenabstimmung-bestaetigung` | Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe. |
 | `stb-susa-saldennullstellung-jahresende` | Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-susa-saldenabstimmung-bestaetigung`
 
-**Frühere Beschreibung:** Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe.
+**Fokus:** Saldenabstimmung und Saldenbestätigung im Jahresabschluss-Anlass. Anwendungsfall Bilanzvorbereitung Stichtag Forderungen und Verbindlichkeiten Lieferanten Kunden Banken. Methodik Abstimmungsschreiben Antwortauswertung Differenzklaerung. Output Saldenbestätigungs-Mappe.
 
 # Saldenabstimmung — Bestaetigung der Stichtagssalden
 
@@ -190,7 +190,7 @@ Stand: 05/2026.
 
 ## 2. `stb-susa-saldennullstellung-jahresende`
 
-**Frühere Beschreibung:** Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt.
+**Fokus:** Erfolgskonten-Saldennullstellung zum Jahresende. Anwendungsfall Jahresabschluss-Vorbereitung Schluss-SuSa GuV-Überleitung Bilanzgewinn auf Konto 800 oder 2000. Methodik Abschlussbuchungen über GuV-Konto. Output Geschlossene Erfolgskonten Bilanzgewinn ueberführt.
 
 # Erfolgskonten-Saldennullstellung zum Jahresende
 
@@ -331,7 +331,7 @@ Stand: 05/2026.
 
 ## 3. `stb-susa-vorperiode-vergleich`
 
-**Frühere Beschreibung:** SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen.
+**Fokus:** SuSa-Periodenvergleich Vormonat und Vorjahr. Anwendungsfall Prüfung Salden-Konsistenz Saldenentwicklung Vergleich der einzelnen Konten über Perioden. Methodik Differenz-Tabelle Auffälligkeit Hinweis-Liste. Output SuSa mit Vergleichsspalten Auswertung Differenzen.
 
 # SuSa-Periodenvergleich — Vormonat und Vorjahres-Periode
 
@@ -483,7 +483,7 @@ Stand: 05/2026.
 
 ## 4. `stb-ueberschuldungspruefung-19-inso`
 
-**Frühere Beschreibung:** Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu stb ueberschuldungspruefung 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)
 
@@ -653,7 +653,7 @@ Stand: 05/2026. Maßgebliche Reformen berücksichtigt: SanInsKG (24-Monats-Progn
 
 ## 5. `stb-warnschreiben-krisensignale`
 
-**Frühere Beschreibung:** Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu stb warnschreiben krisensignale. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Warnschreiben Steuerberater an Mandant bei Krisensignalen
 
@@ -968,7 +968,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 6. `v90-e-rechnung-umsatzsteuer-umsetzung-und-fehler`
 
-**Frühere Beschreibung:** Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle.
+**Fokus:** Führt Unternehmen durch die E-Rechnungspflichten ab 2025, UStAE/BMF-Linie, Validierung, Archivierung, Rechnungseingang, Ausgangsrechnung und GoBD-Schnittstelle.
 
 # E-Rechnung: USt, Formatfehler, Übergang, Prozesse und Betriebsprüfung
 
@@ -987,7 +987,7 @@ Implementierungsplan, Fehlerampel, Verfahrensdokumentationsbaustein und E-Rechnu
 
 ## 7. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu vergleichsverhandlung strategie. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Vergleichsverhandlung und Einigung im Steuerrecht (Beratung und Prozess)
 

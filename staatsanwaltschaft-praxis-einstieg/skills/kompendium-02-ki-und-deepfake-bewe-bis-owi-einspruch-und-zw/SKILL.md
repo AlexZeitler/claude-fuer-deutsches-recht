@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-ki-und-deepfake-bewe-bis-owi-einspruch-und-zw
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (ki-und-deepfake-beweise-strafverfahren, mehrfachverfahren-verbindung-trennung, owi-beschlussverfahren-72-und-widerspruch, owi-datenschutz-bussgeld-lg-zustaendigkeit, owi-einspruch-und-zwischenverfahren-69) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Und Deepfake Beweise Strafverfahren, Mehrfachverfahren Verbindung Trennung, Owi Beschlussverfahren 72 Und Widerspruch, Owi Datenschutz Bussgeld Lg Zustaendigkeit und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Ki Und Deepfake Beweise Strafverfahren bis Owi Einspruch Und Zwischenverfahren 69
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-und-deepfake-beweise-strafverfahren` | KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `mehrfachverfahren-verbindung-trennung` | Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-und-deepfake-beweise-strafverfahren`
 
-**Frühere Beschreibung:** KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** KI- und Deepfake-Beweise im Strafverfahren: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # KI- und Deepfake-Beweise im Strafverfahren
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `mehrfachverfahren-verbindung-trennung`
 
-**Frühere Beschreibung:** Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Mehrfachverfahren: Verbindung, Trennung und Übersicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Mehrfachverfahren: Verbindung, Trennung und Übersicht
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `owi-beschlussverfahren-72-und-widerspruch`
 
-**Frühere Beschreibung:** Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Beschlussverfahren nach § 72 OWiG: Widerspruchsfrist, Zustimmungslage und taktische Entscheidung prüfen
 
@@ -186,7 +186,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 4. `owi-datenschutz-bussgeld-lg-zustaendigkeit`
 
-**Frühere Beschreibung:** Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Datenschutz-Bußgeld nach DSGVO/BDSG: Aufsichtsbehörde, OWiG-Verweisung, Landgerichtsschwelle und Unternehmensgeldbuße
 
@@ -244,7 +244,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 5. `owi-einspruch-und-zwischenverfahren-69`
 
-**Frühere Beschreibung:** Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Einspruch gegen Bußgeldbescheid und Zwischenverfahren: Frist, Beschränkung, Nachermittlung, Rücknahme oder Vorlage sauber steuern
 

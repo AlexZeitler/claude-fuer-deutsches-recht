@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-bho-058-bho-26-bunde-bis-bho-068-bho-63-vermo
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 07; bündelt 11 frühere Spezialskills (bho-058-bho-26-bundesbetriebe-praktisch-anwend, bho-059-bho-34-erhebung-einnahmen-praktisch-an, bho-060-bho-37-ueberplanmaessig-praktisch-anwe, bho-061-bho-38-verpflichtung-ohne-ausgabe-prak, bho-062-bho-39-gewaehrleistungen-praktisch-anw und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend, Bho 059 Bho 34 Erhebung Einnahmen Praktisch An, Bho 060 Bho 37 Ueberplanmaessig Praktisch Anwe, Bho 061 Bho 38 Verpflichtung Ohne Ausgabe Prak und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 058 Bho 26 Bundesbetriebe Praktisch Anwend bis Bho 068 Bho 63 Vermoegenserwerb Praktisch Anwe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-058-bho-26-bundesbetriebe-praktisch-anwend` | Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-059-bho-34-erhebung-einnahmen-praktisch-an` | Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-058-bho-26-bundesbetriebe-praktisch-anwend`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 26 Bundesbetriebe praktisch anwenden. BHO § 26 Bundesbetriebe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 26 Bundesbetriebe Praktisch Anwend
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-059-bho-34-erhebung-einnahmen-praktisch-an`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 34 Erhebung Einnahmen praktisch anwenden. BHO § 34 Erhebung Einnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 34 Erhebung Einnahmen Praktisch An
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-060-bho-37-ueberplanmaessig-praktisch-anwe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig praktisch anwenden. BHO § 37 Überplanmäßig praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 37 Überplanmäßig praktisch anwenden. BHO § 37 Überplanmäßig praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 37 Ueberplanmaessig Praktisch Anwe
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-061-bho-38-verpflichtung-ohne-ausgabe-prak`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden. BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden. BHO § 38 Verpflichtung ohne Ausgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 38 Verpflichtung Ohne Ausgabe Prak
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-062-bho-39-gewaehrleistungen-praktisch-anw`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 39 Gewährleistungen praktisch anwenden. BHO § 39 Gewährleistungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 39 Gewährleistungen praktisch anwenden. BHO § 39 Gewährleistungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 39 Gewaehrleistungen Praktisch Anw
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-063-bho-44-zuwendungen-verwaltung-praktisc`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 44 Zuwendungen Verwaltung praktisch anwenden. BHO § 44 Zuwendungen Verwaltung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 44 Zuwendungen Verwaltung praktisch anwenden. BHO § 44 Zuwendungen Verwaltung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 44 Zuwendungen Verwaltung Praktisc
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-064-bho-49-kassenmittel-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 49 Kassenmittel praktisch anwenden. BHO § 49 Kassenmittel praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 49 Kassenmittel praktisch anwenden. BHO § 49 Kassenmittel praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 49 Kassenmittel Praktisch Anwenden
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-065-bho-55-oeffentliche-ausschreibung-prak`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 55 Öffentliche Ausschreibung praktisch anwenden. BHO § 55 Öffentliche Ausschreibung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 55 Öffentliche Ausschreibung praktisch anwenden. BHO § 55 Öffentliche Ausschreibung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 55 Oeffentliche Ausschreibung Prak
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-066-bho-58-aenderung-vertraege-praktisch-a`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 58 Änderung Verträge praktisch anwenden. BHO § 58 Änderung Verträge praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 58 Änderung Verträge praktisch anwenden. BHO § 58 Änderung Verträge praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 58 Aenderung Vertraege Praktisch A
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-067-bho-59-forderungen-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 59 Forderungen praktisch anwenden. BHO § 59 Forderungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 59 Forderungen praktisch anwenden. BHO § 59 Forderungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 59 Forderungen Praktisch Anwenden
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-068-bho-63-vermoegenserwerb-praktisch-anwe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 63 Vermögenserwerb praktisch anwenden. BHO § 63 Vermögenserwerb praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 63 Vermögenserwerb praktisch anwenden. BHO § 63 Vermögenserwerb praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 63 Vermoegenserwerb Praktisch Anwe
 

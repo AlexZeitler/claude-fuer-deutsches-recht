@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-wahlkampf-landeslist-bis-wahlkampf-leak-und-h
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (wahlkampf-landeslisten-und-direktkandidaten, wahlkampf-landesrecht-plakatierung-livecheck, wahlkampf-landeswahlkampf-lagekarte, wahlkampf-lautsprecher-fahrzeug, wahlkampf-leak-und-hack-notfall) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Landeslisten Und Direktkandidaten, Wahlkampf Landesrecht Plakatierung Livecheck, Wahlkampf Landeswahlkampf Lagekarte, Wahlkampf Lautsprecher Fahrzeug und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Landeslisten Und Direktkandidaten bis Wahlkampf Leak Und Hack Notfall
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-landeslisten-und-direktkandidaten` | Wahlkampfrecht Praxis: Landeslisten, Kreiswahlvorschlaege und Direktkandidaturen ordnen. |
 | `wahlkampf-landesrecht-plakatierung-livecheck` | Wahlkampfrecht Praxis: Livecheck von Landes- und Kommunalrecht bei Plakatierung erzwingen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-landeslisten-und-direktkandidaten`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Landeslisten, Kreiswahlvorschlaege und Direktkandidaturen ordnen.
+**Fokus:** Wahlkampfrecht Praxis: Landeslisten, Kreiswahlvorschlaege und Direktkandidaturen ordnen.
 
 # Landeslisten Und Direktkandidaten
 
@@ -83,7 +83,7 @@ Erzeuge: **Wahlvorschlagsmappe**. Wenn Informationen fehlen, stelle höchstens a
 
 ## 2. `wahlkampf-landesrecht-plakatierung-livecheck`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Livecheck von Landes- und Kommunalrecht bei Plakatierung erzwingen.
+**Fokus:** Wahlkampfrecht Praxis: Livecheck von Landes- und Kommunalrecht bei Plakatierung erzwingen.
 
 # Landesrecht Plakatierung Livecheck
 
@@ -136,7 +136,7 @@ Erzeuge: **Livecheck-Auftrag**. Wenn Informationen fehlen, stelle höchstens ach
 
 ## 3. `wahlkampf-landeswahlkampf-lagekarte`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Landtagswahlkampf mit Landesrecht, Kreisverbaenden und lokalen Behoerden strukturieren.
+**Fokus:** Wahlkampfrecht Praxis: Landtagswahlkampf mit Landesrecht, Kreisverbaenden und lokalen Behoerden strukturieren.
 
 # Landeslagekarte
 
@@ -189,7 +189,7 @@ Erzeuge: **Landeslagekarte und Massnahmenplan**. Wenn Informationen fehlen, stel
 
 ## 4. `wahlkampf-lautsprecher-fahrzeug`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Lautsprecherwagen und mobile Wahlwerbung pruefen.
 
 # Lautsprecher Fahrzeug
 
@@ -242,7 +242,7 @@ Erzeuge: **Lautsprecher-Konzept**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 5. `wahlkampf-leak-und-hack-notfall`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: auf Leaks, Hacks und veroeffentlichte interne Dokumente reagieren.
+**Fokus:** Wahlkampfrecht Praxis: auf Leaks, Hacks und veroeffentlichte interne Dokumente reagieren.
 
 # Leak Und Hack Notfall
 

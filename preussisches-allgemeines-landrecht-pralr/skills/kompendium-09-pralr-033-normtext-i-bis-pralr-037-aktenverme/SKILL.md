@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-pralr-033-normtext-i-bis-pralr-037-aktenverme
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (pralr-033-normtext-in-heutige-sprache-uebertragen, pralr-034-fraktur-lesen-und-begriffe-entschluesseln, pralr-035-fallloesung-historischer-sachverhalt, pralr-036-quellenmatrix-erstellen, pralr-037-aktenvermerk-fuer-gericht-oder-gutachten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 033 Normtext In Heutige Sprache Uebertragen, Pralr 034 Fraktur Lesen Und Begriffe Entschluesseln, Pralr 035 Fallloesung Historischer Sachverhalt, Pralr 036 Quellenmatrix Erstellen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 033 Normtext In Heutige Sprache Uebertragen bis Pralr 037 Aktenvermerk Fuer Gericht Oder Gutachten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-033-normtext-in-heutige-sprache-uebertragen` | PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen. |
 | `pralr-034-fraktur-lesen-und-begriffe-entschluesseln` | PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-033-normtext-in-heutige-sprache-uebertragen`
 
-**Frühere Beschreibung:** PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen.
+**Fokus:** PrALR: historische Normtexte verständlich, knapp und ohne Sinnverschiebung in heutiges Deutsch übertragen.
 
 # In heutige Sprache übertragen
 
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-034-fraktur-lesen-und-begriffe-entschluesseln`
 
-**Frühere Beschreibung:** PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären.
+**Fokus:** PrALR: Frakturbegriffe, alte Orthographie, lange s, Genugthuung, Versehen und historische Terminologie erklären.
 
 # Begriffe entschlüsseln
 
@@ -104,7 +104,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 3. `pralr-035-fallloesung-historischer-sachverhalt`
 
-**Frühere Beschreibung:** PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Anspruch, Einwendung und Vollzug lösen.
+**Fokus:** PrALR: historische Fälle nach Ort, Jahr, Stand, Rechtsquelle, Anspruch, Einwendung und Vollzug lösen.
 
 # Historische Falllösung
 
@@ -192,7 +192,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 4. `pralr-036-quellenmatrix-erstellen`
 
-**Frühere Beschreibung:** PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen.
+**Fokus:** PrALR: Quellenmatrix aus Digitalisat, Edition, OCR, Sekundärhinweis und heutiger Anschlussnorm erstellen.
 
 # Quellenmatrix
 
@@ -229,7 +229,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 5. `pralr-037-aktenvermerk-fuer-gericht-oder-gutachten`
 
-**Frühere Beschreibung:** PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen.
+**Fokus:** PrALR: Aktenvermerk, Gutachtenbaustein oder Schriftsatzpassage zu PrALR-Fortwirkung erstellen.
 
 # Aktenvermerk
 

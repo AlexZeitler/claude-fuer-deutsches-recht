@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-see-048-werftvertrag-bis-see-063-containersch
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (see-048-werftvertrag-closing-planen, see-049-werftvertrag-klagepfad-waehlen, see-050-werftvertrag-risiko-memo-schreiben, see-053-yachtkauf-kaufvertrag-scopen, see-063-containerschiff-kaufvertrag-scopen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 048 Werftvertrag Closing Planen, See 049 Werftvertrag Klagepfad Waehlen, See 050 Werftvertrag Risiko Memo Schreiben, See 053 Yachtkauf Kaufvertrag Scopen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 048 Werftvertrag Closing Planen bis See 063 Containerschiff Kaufvertrag Scopen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-048-werftvertrag-closing-planen` | Werftvertrag: Closing eines Neubauprojekt unter Werftvertrag-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. |
 | `see-049-werftvertrag-klagepfad-waehlen` | Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-048-werftvertrag-closing-planen`
 
-**Frühere Beschreibung:** Werftvertrag: Closing eines Neubauprojekt unter Werftvertrag-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Werftvertrag: Closing eines Neubauprojekt unter Werftvertrag-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Werftvertrag – Closing planen
 
@@ -123,7 +123,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 2. `see-049-werftvertrag-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Werftvertrag: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Neubauprojekt unter Werftvertrag: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Werftvertrag – Klagepfad wählen
 
@@ -214,7 +214,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 3. `see-050-werftvertrag-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Werftvertrag: Gesamtrisikobewertung fuer Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Werftvertrag: Gesamtrisikobewertung fuer Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bei Neubauprojekt unter Werftvertrag: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Werftvertrag – Risiko-Memo schreiben
 
@@ -307,7 +307,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 4. `see-053-yachtkauf-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus scopet Kaufvertrag fuer Segel- oder Motorjacht: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Yachtkauf: Privater Kaeufer; Haendler; Flaggenregistrierung und Zollstatus scopet Kaufvertrag fuer Segel- oder Motorjacht: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. BGB §§ 433-479 Kaufrecht; SchRG §§ 8-74 wenn eingetragen; WRC 2007 ab 14 m. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Yachtkauf – Kaufvertrag scopen
 
@@ -387,7 +387,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 5. `see-063-containerschiff-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag fuer Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft scopet Kaufvertrag fuer Containerlinienfrachtschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Containerschiff – Kaufvertrag scopen
 

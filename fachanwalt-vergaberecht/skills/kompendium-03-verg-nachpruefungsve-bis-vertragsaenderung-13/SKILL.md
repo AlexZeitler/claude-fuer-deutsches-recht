@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-verg-nachpruefungsve-bis-vertragsaenderung-13
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (verg-nachpruefungsverfahren-spezial, verg-vergabeverfahren-bauleiter, vorinformation-134-gwb-stillhaltefrist, vertragsaenderung-132-gwb-change-control) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verg Nachpruefungsverfahren Spezial, Verg Vergabeverfahren Bauleiter, Vorinformation 134 Gwb Stillhaltefrist, Vertragsaenderung 132 Gwb Change Control; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - fachanwalt-vergaberecht
+# Arbeitsbereich - Verg Nachpruefungsverfahren Spezial bis Vertragsaenderung 132 Gwb Change Control
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verg-nachpruefungsverfahren-spezial` | Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster fuer Bieter und Vergabekammer. |
 | `verg-vergabeverfahren-bauleiter` | Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster fuer Vergabestelle. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verg-nachpruefungsverfahren-spezial`
 
-**Frühere Beschreibung:** Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster fuer Bieter und Vergabekammer.
+**Fokus:** Spezialfall Nachpruefungsverfahren §§ 155 ff. GWB: Antrag, Ruege, Eilantrag, sofortige Beschwerde. Pruefraster fuer Bieter und Vergabekammer.
 
 # Verg: Nachpruefungsverfahren
 
@@ -93,7 +93,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-vergaberecht`. Er ergaenzt die uebri
 
 ## 2. `verg-vergabeverfahren-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster fuer Vergabestelle.
+**Fokus:** Bauleiter Vergabeverfahren GWB / VgV: offen, beschraenkt, Verhandlungsverfahren, wettbewerblicher Dialog, Innovationspartnerschaft. Pruefraster fuer Vergabestelle.
 
 # Verg: Vergabeverfahren
 
@@ -184,7 +184,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-vergaberecht`. Er ergaenzt die uebri
 
 ## 3. `vorinformation-134-gwb-stillhaltefrist`
 
-**Frühere Beschreibung:** Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist pruefen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen.
+**Fokus:** Vorabinformation nach Paragraph 134 GWB und Stillhaltefrist pruefen: Inhalt, Versandweg, Fristlauf, Zuschlagsverbot, Fehlerfolgen und taktische Sofortmassnahmen.
 
 # Paragraph 134 GWB Vorinformation und Stillhaltefrist
 
@@ -248,7 +248,7 @@ Fristenblatt, Fehlercheck, Sofortplan, Mandantenmail.
 
 ## 4. `vertragsaenderung-132-gwb-change-control`
 
-**Frühere Beschreibung:** Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
+**Fokus:** Vertragsaenderungen nach Paragraph 132 GWB und Change-Control pruefen: wesentliche Aenderung, Schwellen, Optionen, Zusatzleistungen, Laufzeit, Preisrevision und Dokumentation.
 
 # Paragraph 132 GWB Vertragsaenderung
 

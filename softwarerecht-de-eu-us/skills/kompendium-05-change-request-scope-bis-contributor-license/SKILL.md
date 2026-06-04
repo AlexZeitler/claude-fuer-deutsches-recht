@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-change-request-scope-bis-contributor-license
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (change-request-scope-creep, compliance-matrix-global, computerprogramm-69a-urhg-schutz, contributor-license-agreement) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Change Request Scope Creep, Compliance Matrix Global, Computerprogramm 69a Urhg Schutz, Contributor License Agreement; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - softwarerecht-de-eu-us
+# Arbeitsbereich - Change Request Scope Creep bis Contributor License Agreement
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `change-request-scope-creep` | Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance. |
 | `compliance-matrix-global` | Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `change-request-scope-creep`
 
-**Frühere Beschreibung:** Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance.
+**Fokus:** Kontrolliert Change Requests, Scope Creep, Mehrvergütung, Terminverschiebung und Governance.
 
 # Change Requests und Scope Creep
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `compliance-matrix-global`
 
-**Frühere Beschreibung:** Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten.
+**Fokus:** Erstellt globale Compliance-Matrix für Deutschland, EU, USA und weitere Märkte bei Softwareprodukten.
 
 # Global Software Compliance Matrix
 
@@ -141,7 +141,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `computerprogramm-69a-urhg-schutz`
 
-**Frühere Beschreibung:** Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse.
+**Fokus:** Prüft Schutzgegenstand deutscher Computerprogramme, Ausdruck, Schnittstellen, Dokumentation, Vorbereitungsmaterial und Ausschlüsse.
 
 # Computerprogramm-Schutz § 69a UrhG
 
@@ -197,7 +197,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `contributor-license-agreement`
 
-**Frühere Beschreibung:** Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance.
+**Fokus:** Entwirft CLA/DCO-Regeln für Open-Source-Projekte, Firmenbeiträge, Patent Grants und Maintainer-Governance.
 
 # Contributor License Agreement
 

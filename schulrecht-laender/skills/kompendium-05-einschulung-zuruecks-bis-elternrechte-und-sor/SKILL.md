@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-einschulung-zuruecks-bis-elternrechte-und-sor
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (einschulung-zurueckstellung, elternabend-protokoll-und-beschluss, elternbeitrag-ogts-ganztag, elternrechte-und-sorgerecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einschulung Zurueckstellung, Elternabend Protokoll Und Beschluss, Elternbeitrag Ogts Ganztag, Elternrechte Und Sorgerecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - schulrecht-laender
+# Arbeitsbereich - Einschulung Zurueckstellung bis Elternrechte Und Sorgerecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einschulung-zurueckstellung` | Prüft Einschulung, Rückstellung und vorzeitige Aufnahme. |
 | `elternabend-protokoll-und-beschluss` | Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einschulung-zurueckstellung`
 
-**Frühere Beschreibung:** Prüft Einschulung, Rückstellung und vorzeitige Aufnahme.
+**Fokus:** Prüft Einschulung, Rückstellung und vorzeitige Aufnahme.
 
 # Einschulung Zurueckstellung
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Antrag oder Widerspruch. Am Ende immer drei Zeilen: **Frist**
 
 ## 2. `elternabend-protokoll-und-beschluss`
 
-**Frühere Beschreibung:** Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit.
+**Fokus:** Prüft Elternabende, Elternvertretung, Einladung, Protokoll und Beschlussfähigkeit.
 
 # Elternabend, Protokoll und Beschluss
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 3. `elternbeitrag-ogts-ganztag`
 
-**Frühere Beschreibung:** Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung.
+**Fokus:** Prüft Elternbeiträge, Ganztagsbetreuung, Satzung, Ermäßigung und Rückforderung.
 
 # Elternbeitrag OGS/Ganztag
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `elternrechte-und-sorgerecht`
 
-**Frühere Beschreibung:** Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information.
+**Fokus:** Prüft Elternrechte bei gemeinsamer Sorge, Trennung und Information.
 
 # Elternrechte Und Sorgerecht
 

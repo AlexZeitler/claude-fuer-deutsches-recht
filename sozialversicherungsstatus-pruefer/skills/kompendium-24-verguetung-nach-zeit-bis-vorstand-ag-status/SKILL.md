@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-verguetung-nach-zeit-bis-vorstand-ag-status
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (verguetung-nach-zeit-oder-erfolg, vermittler-dreiecksverhaeltnis, vhs-dozenten, vorstand-ag-status) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verguetung Nach Zeit Oder Erfolg, Vermittler Dreiecksverhaeltnis, Vhs Dozenten, Vorstand Ag Status; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Verguetung Nach Zeit Oder Erfolg bis Vorstand Ag Status
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verguetung-nach-zeit-oder-erfolg` | Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance. |
 | `vermittler-dreiecksverhaeltnis` | Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verguetung-nach-zeit-oder-erfolg`
 
-**Frühere Beschreibung:** Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance.
+**Fokus:** Prüft Stundenhonorar, Pauschale, Erfolgshonorar, Retainer, Ausfallvergütung und wirtschaftliche Chance.
 
 # Vergütung Zeit oder Erfolg
 
@@ -93,7 +93,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `vermittler-dreiecksverhaeltnis`
 
-**Frühere Beschreibung:** Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht.
+**Fokus:** Prüft Recruiter, Agenturen, Plattformen, Endkunden und Vertragsketten im Statusrecht.
 
 # Vermittler und Dreiecksverhältnis
 
@@ -159,7 +159,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `vhs-dozenten`
 
-**Frühere Beschreibung:** Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen.
+**Fokus:** Prüft Dozenten an Volkshochschulen mit Kursprogramm, Raum, Entgelt, Freiheit und Wiederholungsbeauftragungen.
 
 # VHS-Dozenten
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `vorstand-ag-status`
 
-**Frühere Beschreibung:** Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten.
+**Fokus:** Prüft AG-Vorstände, Organstellung, Beschäftigungsfiktionen/Ausnahmen und Sozialversicherungspflichten.
 
 # AG-Vorstand und Sozialversicherung
 

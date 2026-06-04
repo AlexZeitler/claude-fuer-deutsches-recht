@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-security-procurement-bis-software-sbom
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (security-procurement-tender, security-training-management, sektor-und-groessencheck, software-sbom) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Security Procurement Tender, Security Training Management, Sektor Und Groessencheck, Software Sbom; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Security Procurement Tender bis Software Sbom
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `security-procurement-tender` | Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen. |
 | `security-training-management` | Prüft Security-Schulung der Leitung und Mitarbeitenden. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `security-procurement-tender`
 
-**Frühere Beschreibung:** Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen.
+**Fokus:** Prüft IT-Security-Anforderungen in Einkauf, Ausschreibung und Beschaffung von SaaS, Hardware, OT, Managed Services und Cyberdienstleistungen.
 
 # Security Procurement Tender
 
@@ -66,7 +66,7 @@ Erzeuge eine RFP-/Tender-Matrix mit Muss-Kriterien, Bewertungspunkten, Nachweisf
 
 ## 2. `security-training-management`
 
-**Frühere Beschreibung:** Prüft Security-Schulung der Leitung und Mitarbeitenden.
+**Fokus:** Prüft Security-Schulung der Leitung und Mitarbeitenden.
 
 # Security Training Management
 
@@ -114,7 +114,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `sektor-und-groessencheck`
 
-**Frühere Beschreibung:** Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein.
+**Fokus:** Ordnet Tätigkeiten in NIS-2-Sektoren und Unternehmensgrößen ein.
 
 # Sektor Und Groessencheck
 
@@ -162,7 +162,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `software-sbom`
 
-**Frühere Beschreibung:** Baut SBOM-Prozess für eigene Software und Lieferanten.
+**Fokus:** Baut SBOM-Prozess für eigene Software und Lieferanten.
 
 # Software SBOM
 

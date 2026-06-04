@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-corporate-kanzlei-du-bis-corporate-kanzlei-du
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (corporate-kanzlei-due-diligence-commercial-contracts, corporate-kanzlei-due-diligence-legal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Due Diligence Commercial Contracts, Corporate Kanzlei Due Diligence Legal
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-due-diligence-commercial-contracts` | Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting. |
 | `corporate-kanzlei-due-diligence-legal` | Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-due-diligence-commercial-contracts`
 
-**Frühere Beschreibung:** Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting.
+**Fokus:** Commercial Contracts Due Diligence: Prüft wesentliche Vertraege im M&A-Datenraum auf Change-of-Control-Klauseln, Kündigungsrechte, Exklusivitaet, Haftungsgrenzen und Material-Contract-Risiken für SPA-Reps. Normen: §§ 305 ff. BGB, § 311 Abs. 2 BGB, SPA Material Adverse Change. Prüfraster: CoC-Klauseln, Laufzeit, Kündigungsrechte, Haftungscaps, Wettbewerbsverbote. Output Risk-rated Vertragsliste, Red-Flag-Memo, SPA-Implikationen. Abgrenzung: Legal-DD-Gesamtschau siehe due-diligence-legal; DD-Konsolidierung siehe due-diligence-reporting.
 
 # Due Diligence — Commercial Contracts
 
@@ -243,7 +243,7 @@ Lizenzvertraege fuer Software koennen Open-Source-Copyleft-Pflichten enthalten (
 
 ## 2. `corporate-kanzlei-due-diligence-legal`
 
-**Frühere Beschreibung:** Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting.
+**Fokus:** Legal Due Diligence für M&A-Transaktionen: Prüft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Prüfraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping für SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting.
 
 # Legal Due Diligence
 

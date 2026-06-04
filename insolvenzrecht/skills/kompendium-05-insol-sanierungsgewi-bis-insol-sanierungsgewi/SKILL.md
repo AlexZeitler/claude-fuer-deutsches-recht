@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-insol-sanierungsgewi-bis-insol-sanierungsgewi
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack, insol-sanierungsgewinn-debt-equity-swap-im-plan, insol-sanierungsgewinn-eigenverwaltung-und-cra, insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack, Insol Sanierungsgewinn Debt Equity Swap Im Plan, Insol Sanierungsgewinn Eigenverwaltung Und Cra, Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - insolvenzrecht
+# Arbeitsbereich - Insol Sanierungsgewinn 7b Gewstg Im Insolvenzplan Paralleltrack bis Insol Sanierungsgewinn Fruehe Vorbereitung Vor Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack` | Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde. |
 | `insol-sanierungsgewinn-debt-equity-swap-im-plan` | Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insol-sanierungsgewinn-7b-gewstg-im-insolvenzplan-paralleltrack`
 
-**Frühere Beschreibung:** Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde.
+**Fokus:** Gewerbesteuerliche Parallelregelung Paragraph 7b GewStG i.V.m. Paragraph 36 Absatz 2c GewStG zum Sanierungsertrag. Eigenstaendige Antragsmechanik neben Paragraph 3a EStG. Hebesatz-Risiko der Gemeinde. Zustaendigkeit Stadtkasse/Finanzamt. Mustertext fuer Antrag in Gewerbesteuererklaerung und parallel laufendes Verfahren bei Gemeinde.
 
 # Sanierungsgewinn — Paragraph 7b GewStG im Insolvenzplan, Paralleltrack
 
@@ -206,7 +206,7 @@ In anderen Plugins:
 
 ## 2. `insol-sanierungsgewinn-debt-equity-swap-im-plan`
 
-**Frühere Beschreibung:** Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung.
+**Fokus:** Debt-Equity-Swap (DES) im Insolvenzplan und StaRUG-Plan. Forderungsumwandlung in Eigenkapital. Steuerliche Folgen nach KStG, EStG, GewStG. Werthaltigkeit der eingebrachten Forderung als Schluesselfrage. Paragraph 8b KStG, Paragraph 17 EStG, Paragraph 3 Nr. 40 EStG bei Veraeusserung. Abgrenzung zum reinen Verzicht. Mustertexte fuer die Plan-Gestaltung.
 
 # Sanierungsgewinn — Debt-Equity-Swap im Plan
 
@@ -380,7 +380,7 @@ In anderen Plugins:
 
 ## 3. `insol-sanierungsgewinn-eigenverwaltung-und-cra`
 
-**Frühere Beschreibung:** Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung fuer Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte fuer interne Steuerung der Eigenverwaltung.
+**Fokus:** Eigenverwaltung nach Paragraph 270 InsO und die Schnittstelle zum Sanierungsgewinn. Geschaeftsleitung bleibt im Amt, Sachwalter ist nur Aufsicht — Verantwortung fuer Steuerteil bleibt bei der Schuldnergesellschaft. Rolle des CRO (Chief Restructuring Officer). Haftungsverteilung GF, CRO, Sachwalter. Mustertexte fuer interne Steuerung der Eigenverwaltung.
 
 # Sanierungsgewinn — Eigenverwaltung und CRO
 
@@ -556,7 +556,7 @@ In anderen Plugins:
 
 ## 4. `insol-sanierungsgewinn-fruehe-vorbereitung-vor-plan`
 
-**Frühere Beschreibung:** Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan.
+**Fokus:** Fruehzeitige steuerliche Vorbereitung des Sanierungsgewinns vor Insolvenzantrag oder StaRUG-Anzeige. Zeitachse mit Monaten und Antragspflichtigen. Was muss VOR der Plan-Einreichung steuerlich geklaert sein: Sanierungsbeduerftigkeit dokumentieren, Verlustvortrag aufstellen lassen, Antragsraster nach Paragraph 3a EStG vorbereiten, Sanierungsabsicht der Glaeubiger sichern. Verhindert das spaete und teuere Stolpern ueber Steuerfallen im bestaetigten Plan.
 
 # Sanierungsgewinn — fruehe Vorbereitung vor Insolvenzantrag oder StaRUG-Anzeige
 

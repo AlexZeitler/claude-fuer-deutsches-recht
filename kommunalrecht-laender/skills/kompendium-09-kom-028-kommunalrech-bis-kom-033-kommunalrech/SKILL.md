@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-kom-028-kommunalrech-bis-kom-033-kommunalrech
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 09; bündelt 6 frühere Spezialskills (kom-028-kommunalrecht-mecklenburg-vorpommern-r, kom-029-kommunalrecht-niedersachsen-routen, kom-030-kommunalrecht-nordrhein-westfalen-rout, kom-031-kommunalrecht-rheinland-pfalz-routen, kom-032-kommunalrecht-saarland-routen und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 028 Kommunalrecht Mecklenburg Vorpommern R, Kom 029 Kommunalrecht Niedersachsen Routen, Kom 030 Kommunalrecht Nordrhein Westfalen Rout, Kom 031 Kommunalrecht Rheinland Pfalz Routen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - kommunalrecht-laender
+# Arbeitsbereich - Kom 028 Kommunalrecht Mecklenburg Vorpommern R bis Kom 033 Kommunalrecht Sachsen Routen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-028-kommunalrecht-mecklenburg-vorpommern-r` | Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-029-kommunalrecht-niedersachsen-routen` | Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-028-kommunalrecht-mecklenburg-vorpommern-r`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Mecklenburg-Vorpommern routen. Kommunalrecht Mecklenburg-Vorpommern routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Mecklenburg Vorpommern R
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-029-kommunalrecht-niedersachsen-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Niedersachsen routen. Kommunalrecht Niedersachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Niedersachsen Routen
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-030-kommunalrecht-nordrhein-westfalen-rout`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Nordrhein-Westfalen routen. Kommunalrecht Nordrhein-Westfalen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Nordrhein-Westfalen routen. Kommunalrecht Nordrhein-Westfalen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Nordrhein Westfalen Rout
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-031-kommunalrecht-rheinland-pfalz-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Rheinland-Pfalz routen. Kommunalrecht Rheinland-Pfalz routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Rheinland-Pfalz routen. Kommunalrecht Rheinland-Pfalz routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Rheinland Pfalz Routen
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-032-kommunalrecht-saarland-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Saarland routen. Kommunalrecht Saarland routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Saarland routen. Kommunalrecht Saarland routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Saarland Routen
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-033-kommunalrecht-sachsen-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunalrecht Sachsen routen. Kommunalrecht Sachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunalrecht Sachsen routen. Kommunalrecht Sachsen routen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunalrecht Sachsen Routen
 

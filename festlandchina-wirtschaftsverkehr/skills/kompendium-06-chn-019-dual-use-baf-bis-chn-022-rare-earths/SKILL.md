@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-chn-019-dual-use-baf-bis-chn-022-rare-earths
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (chn-019-dual-use-bafa-check, chn-020-us-ear-china-touchpoints, chn-021-china-export-control-law-touchpoints, chn-022-rare-earths-and-critical-raw-materials) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 019 Dual Use Bafa Check, Chn 020 Us Ear China Touchpoints, Chn 021 China Export Control Law Touchpoints, Chn 022 Rare Earths And Critical Raw Materials; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 019 Dual Use Bafa Check bis Chn 022 Rare Earths And Critical Raw Materials
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-019-dual-use-bafa-check` | BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage. |
 | `chn-020-us-ear-china-touchpoints` | US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-019-dual-use-bafa-check`
 
-**Frühere Beschreibung:** BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage.
+**Fokus:** BAFA-Dual-Use-Genehmigungsprüfung für Exporte nach VR China: EU-VO 2021/821 Anhang I (AL-Listung), Catch-All-Klausel Art. 4 Abs. 1, End-User-Zertifikat (EUC), Ablehnungsgründe, Strafbarkeit §§ 17 AWG, Unterschied Ausfuhrgenehmigung und Vermarktungsgenehmigung, Einzelfall-Anträge BAFA. Output: Dual-Use-Prüfprotokoll und BAFA-Antragsunterlage.
 
 # BAFA Dual-Use-Check: Genehmigungspflichten für China-Exporte
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-020-us-ear-china-touchpoints`
 
-**Frühere Beschreibung:** US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US.
+**Fokus:** US-EAR (Export Administration Regulations) Berührungspunkte für deutsche Unternehmen im China-Geschaeft: De-Minimis-Regel, Foreign Direct Product Rule (FDPR), Entity List (BIS), Deemed-Export-Risiken, EAR99-Irrtum. Abstimmung mit EU-Dual-Use-Kontrollen. KEIN US-Recht, aber Compliance-Referenz. Output: EAR-Touchpoint-Checkliste und Abstimmungsplan EU/US.
 
 # US-EAR und China: Berührungspunkte für deutsche Exporteure
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-021-china-export-control-law-touchpoints`
 
-**Frühere Beschreibung:** Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste.
+**Fokus:** Chinesisches Exportkontrollgesetz (ECL VR China 2020) und Dual-Use-Kontrollen: Exportkontrollliste CN, End-User-Verwaltung, Genehmigungspflichten für Technologieexporte Richtung Drittstaaten, Retaliation-Risiko nach Anti-Sanktions-Gesetz CN, Berührung mit EU-Dual-Use. Compliance-Pflichten für deutsche Unternehmen mit China-Betrieb. Output: CN-Exportkontroll-Compliance-Checkliste.
 
 # Chinesisches Exportkontrollgesetz: Pflichten für deutsche Unternehmen
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-022-rare-earths-and-critical-raw-materials`
 
-**Frühere Beschreibung:** Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan.
+**Fokus:** Kritische Rohstoffe aus VR China (Seltene Erden, Gallium, Germanium, Graphit): Exportrestriktionen CN (seit 2023 Gallium/Germanium-Lizenzvorbehalt), Critical Raw Materials Act EU 2024/1252 Diversifizierungspflichten, Beschaffungsalternativen, Lagerstrategien, LkSG § 5 Risikobewertung, Vertragliche Absicherung Liefersicherheit. Output: Rohstoff-Risikoanalyse und Diversifizierungsplan.
 
 # Seltene Erden und kritische Rohstoffe: Risiken und Diversifizierung
 

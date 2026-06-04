@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-oew-044-krankenhausg-bis-oew-048-krankenhausg
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (oew-044-krankenhausgesellschaft-wirtschaftlich, oew-045-krankenhausgesellschaft-risiko-verteil, oew-047-krankenhausgesellschaft-kontrolle-sich, oew-048-krankenhausgesellschaft-haushalt-anbin) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 044 Krankenhausgesellschaft Wirtschaftlich, Oew 045 Krankenhausgesellschaft Risiko Verteil, Oew 047 Krankenhausgesellschaft Kontrolle Sich, Oew 048 Krankenhausgesellschaft Haushalt Anbin; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 044 Krankenhausgesellschaft Wirtschaftlich bis Oew 048 Krankenhausgesellschaft Haushalt Anbin
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-044-krankenhausgesellschaft-wirtschaftlich` | Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-045-krankenhausgesellschaft-risiko-verteil` | Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Risiko verteilen. Risiko verteilen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-044-krankenhausgesellschaft-wirtschaftlich`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Wirtschaftlich
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-045-krankenhausgesellschaft-risiko-verteil`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Risiko verteilen. Risiko verteilen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Risiko verteilen. Risiko verteilen für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Risiko Verteil
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-047-krankenhausgesellschaft-kontrolle-sich`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Kontrolle sichern. Kontrolle sichern für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Kontrolle sichern. Kontrolle sichern für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Kontrolle Sich
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-048-krankenhausgesellschaft-haushalt-anbin`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Haushalt anbinden. Haushalt anbinden für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Krankenhausgesellschaft: Haushalt anbinden. Haushalt anbinden für Krankenhausgesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Krankenhausgesellschaft Haushalt Anbin
 

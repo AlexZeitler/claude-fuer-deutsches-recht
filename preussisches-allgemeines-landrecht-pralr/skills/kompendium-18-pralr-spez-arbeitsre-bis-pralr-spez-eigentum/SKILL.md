@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-pralr-spez-arbeitsre-bis-pralr-spez-eigentum
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (pralr-spez-arbeitsrecht-vorgaenger-im-alr, pralr-spez-aufopferung-fortwirkung-bgb-und-polizei, pralr-spez-aufopferung-historische-faelle-pockenimpfung, pralr-spez-bereicherungsrecht-im-alr-condictiones, pralr-spez-eigentum-belasten-pfand-hypothek) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Arbeitsrecht Vorgaenger Im Alr, Pralr Spez Aufopferung Fortwirkung Bgb Und Polizei, Pralr Spez Aufopferung Historische Faelle Pockenimpfung, Pralr Spez Bereicherungsrecht Im Alr Condictiones und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Arbeitsrecht Vorgaenger Im Alr bis Pralr Spez Eigentum Belasten Pfand Hypothek
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-arbeitsrecht-vorgaenger-im-alr` | Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster. |
 | `pralr-spez-aufopferung-fortwirkung-bgb-und-polizei` | Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-arbeitsrecht-vorgaenger-im-alr`
 
-**Frühere Beschreibung:** Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster.
+**Fokus:** Vorlaeufer des modernen Arbeitsrechts im ALR. Skill behandelt die Differenzierung zwischen Gesinde Tagelohn Handlungsgehilfe und freier Berufstaetigkeit Schutzvorschriften und das Verhaeltnis zur preussischen Sozialversicherung Bismarcks. Liefert Pruefraster.
 
 # Pralr Arbeitsrecht Vorgaenger Im Alr
 
@@ -75,7 +75,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-aufopferung-fortwirkung-bgb-und-polizei`
 
-**Frühere Beschreibung:** Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster.
+**Fokus:** Aufopferungsanspruch — Fortwirkung im BGB und im modernen Polizei- und Ordnungsrecht. Skill behandelt die heute lebende ungeschriebene Anspruchsgrundlage die spezialgesetzlichen Sondervorschriften (POG IfSG OEG StVG) und die Subsidiaritaet. Liefert Pruefraster.
 
 # Pralr Aufopferung Fortwirkung Bgb Und Polizei
 
@@ -126,7 +126,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-aufopferung-historische-faelle-pockenimpfung`
 
-**Frühere Beschreibung:** Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatrix.
+**Fokus:** Aufopferungsanspruch Einleitung §§ 74-75 ALR — historische Faelle Pockenimpfungsschaeden und Sonderopfer-Lehre. Skill behandelt die Pockenimpfungspflicht des 19. Jahrhunderts (Reichsimpfgesetz 1874) und die rechtshistorische Linie zur heutigen Impfschadensversorgung nach IfSG. Liefert Quellenmatrix.
 
 # Pralr Aufopferung Historische Faelle Pockenimpfung
 
@@ -169,7 +169,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 4. `pralr-spez-bereicherungsrecht-im-alr-condictiones`
 
-**Frühere Beschreibung:** Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix.
+**Fokus:** Ungerechtfertigte Bereicherung im ALR. Skill behandelt die roemische condictiones-Systematik im ALR die condictio indebiti die condictio sine causa die condictio ob rem die condictio ob iniustam causam und die Fortwirkung in §§ 812-822 BGB. Liefert Quellenmatrix.
 
 # Pralr Bereicherungsrecht Im Alr Condictiones
 
@@ -218,7 +218,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 5. `pralr-spez-eigentum-belasten-pfand-hypothek`
 
-**Frühere Beschreibung:** Belastung des Eigentums im ALR Pfand und Hypothek. Skill behandelt die dingliche Sicherung pignus hypotheca conventional generalhypothek und die historische Hypothekenordnung. Liefert Quellenmatrix.
+**Fokus:** Belastung des Eigentums im ALR Pfand und Hypothek. Skill behandelt die dingliche Sicherung pignus hypotheca conventional generalhypothek und die historische Hypothekenordnung. Liefert Quellenmatrix.
 
 # Pralr Eigentum Belasten Pfand Hypothek
 

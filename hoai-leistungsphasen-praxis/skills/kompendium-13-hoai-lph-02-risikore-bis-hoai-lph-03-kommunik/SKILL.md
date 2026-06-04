@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-hoai-lph-02-risikore-bis-hoai-lph-03-kommunik
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 13; bündelt 18 frühere Spezialskills (hoai-lph-02-risikoregister, hoai-lph-02-sachverstaendigen-pruefung, hoai-lph-02-schnittstelle-vob-bgb, hoai-lph-02-streitfall-vorbereitung, hoai-lph-02-terminsteuerung und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 02 Risikoregister, Hoai Lph 02 Sachverstaendigen Pruefung, Hoai Lph 02 Schnittstelle Vob Bgb, Hoai Lph 02 Streitfall Vorbereitung und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 02 Risikoregister bis Hoai Lph 03 Kommunikation Baustelle Behoerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-02-risikoregister` | HOAI LPH 2 Vorplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
 | `hoai-lph-02-sachverstaendigen-pruefung` | HOAI LPH 2 Vorplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-02-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Baut risiko-
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft b
 
 ## 2. `hoai-lph-02-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft �
 
 ## 3. `hoai-lph-02-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Prüft vob/b
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft p
 
 ## 4. `hoai-lph-02-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft m
 
 ## 5. `hoai-lph-02-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Baut terminlog
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft b
 
 ## 6. `hoai-lph-02-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 2 Vorplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
+**Fokus:** HOAI LPH 2 Vorplanung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Grundlagen analysieren, Planungskonzept mit Alternativen, Kostenschätzung, Vorverhandlungen und Entscheidungsgrundlage und Bewertungsanteil 7 %.
 
 # LPH 2 Vorplanung: Erklärt pflichten
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 2 (Vorplanung)** gedacht. Er prüft e
 
 ## 7. `hoai-lph-03-abnahme-und-teilabnahme`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Ordnet abnahme
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 8. `hoai-lph-03-anwaltlicher-pruefvermerk`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Erstellt anwaltliches kurzmemorandum zum lph-stand
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 9. `hoai-lph-03-bauherrnfreigabe`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Strukturiert freigabeentscheidung
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 10. `hoai-lph-03-bim-und-datenraum`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Ordnet digitale modelle
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 11. `hoai-lph-03-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Sichert protokolle
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 12. `hoai-lph-03-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Koordiniert architekt
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 13. `hoai-lph-03-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Prüft fördermittelbedingungen
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 14. `hoai-lph-03-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 15. `hoai-lph-03-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Grenzt hoai-grundleistung
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 16. `hoai-lph-03-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Prüft bewertungsanteil
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 17. `hoai-lph-03-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Prüft eingaben
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 3 (Entwurfsplanung)** gedacht. Er pr�
 
 ## 18. `hoai-lph-03-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 3 Entwurfsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
+**Fokus:** HOAI LPH 3 Entwurfsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf stimmige Entwurfsfassung, Kostenberechnung, Termin-/Objektbeschreibung, Integration der Fachplanung und Bewertungsanteil 15 %.
 
 # LPH 3 Entwurfsplanung: Formuliert klare e-mails an bauherr
 

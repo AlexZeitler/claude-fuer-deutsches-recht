@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-entscheidungsbaum-ki-bis-provider-deployer-ve
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (entscheidungsbaum-ki-vo-gesamt-workflow, ai-act-owi-verfahren-internal-investigation, zeitlicher-geltungsbereich-uebergangsfristen, provider-deployer-vertragsmatrix) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entscheidungsbaum Ki Vo Gesamt Workflow, Ai Act Owi Verfahren Internal Investigation, Zeitlicher Geltungsbereich Uebergangsfristen, Provider Deployer Vertragsmatrix; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Entscheidungsbaum Ki Vo Gesamt Workflow bis Provider Deployer Vertragsmatrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entscheidungsbaum-ki-vo-gesamt-workflow` | Master-Workflow fuer die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills. |
 | `ai-act-owi-verfahren-internal-investigation` | KI-VO-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entscheidungsbaum-ki-vo-gesamt-workflow`
 
-**Frühere Beschreibung:** Master-Workflow fuer die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills.
+**Fokus:** Master-Workflow fuer die vollstaendige KI-VO-Pruefung. Fuehrt von Art. 3 KI-System-Definition ueber Anwendungsbereich, Rollen, Art. 6 Abs. 2/Anhang III-Hochrisiko, Rueckausnahme, GPAI/Chatbot-Abgrenzung, Betreiber-Fehlgebrauch, Pflichten, Standards und Output-Dokumentation. Schwerpunkt: allgemeine Chatbots sind nicht automatisch Hochrisiko; Zweckbestimmung und tatsaechlicher Einsatz entscheiden. Output: strukturierter Pruefpfad mit Folge-Skills.
 
 # Master-Workflow: KI-VO-Gesamtprüfung
 
@@ -195,7 +195,7 @@ Stand: 05/2026. Maßgeblich sind Art. 2, 3, 5, 6, 25, 26, 27, 40, 50, 51 bis 56 
 
 ## 2. `ai-act-owi-verfahren-internal-investigation`
 
-**Frühere Beschreibung:** KI-VO-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte.
+**Fokus:** KI-VO-Ordnungswidrigkeiten und interne Untersuchung: Sachverhaltsaufklaerung ohne Selbstbelastungschaos, Legal Privilege/Geschuetztheit, Mitarbeiterinterviews, Datenexport, Behördenschreiben, Remediation und Verteidigungsakte.
 
 # KI-VO-OWi und interne Untersuchung
 
@@ -234,7 +234,7 @@ Erst Tatsachen sichern, dann rechtlich einordnen. Nicht umgekehrt eine schöne G
 
 ## 3. `zeitlicher-geltungsbereich-uebergangsfristen`
 
-**Frühere Beschreibung:** Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025, GPAI/Governance/Sanktionen ab 2. August 2025, allgemeine Anwendung ab 2. August 2026, Art. 6 Abs. 1 samt korrespondierenden Pflichten ab 2. August 2027, Bestandssysteme nach Art. 111. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender für jede Systemkategorie.
+**Fokus:** Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Übergangsfristen und Zeitplan nach Art. 113 KI-VO. Prüfraster: Inkrafttreten 1. August 2024, Kapitel I/II und Verbote ab 2. Februar 2025, GPAI/Governance/Sanktionen ab 2. August 2025, allgemeine Anwendung ab 2. August 2026, Art. 6 Abs. 1 samt korrespondierenden Pflichten ab 2. August 2027, Bestandssysteme nach Art. 111. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender für jede Systemkategorie.
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO
 
@@ -361,7 +361,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 4. `provider-deployer-vertragsmatrix`
 
-**Frühere Beschreibung:** Vertragsmatrix Anbieter/Betreiber: Pflichtenverschiebung vermeiden, Art. 25-Re-Provisioning, Art. 26-Betreiberpflichten, Art. 13-Informationen, GPAI-Downstream, Audit, Incident, Haftung und Change Control.
+**Fokus:** Vertragsmatrix Anbieter/Betreiber: Pflichtenverschiebung vermeiden, Art. 25-Re-Provisioning, Art. 26-Betreiberpflichten, Art. 13-Informationen, GPAI-Downstream, Audit, Incident, Haftung und Change Control.
 
 # Anbieter-Betreiber-Vertragsmatrix
 

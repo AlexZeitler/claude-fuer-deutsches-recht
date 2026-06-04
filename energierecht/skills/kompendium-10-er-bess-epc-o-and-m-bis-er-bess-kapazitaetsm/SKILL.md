@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-er-bess-epc-o-and-m-bis-er-bess-kapazitaetsm
-description: "energierecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (er-bess-epc-o-and-m-vertraege, er-bess-fca-agnes-bnetza, er-bess-finanzierung-bankability, er-bess-kapazitaetsmarkt-grundlast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Epc O And M Vertraege, Er Bess Fca Agnes Bnetza, Er Bess Finanzierung Bankability, Er Bess Kapazitaetsmarkt Grundlast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - energierecht
+# Arbeitsbereich - Er Bess Epc O And M Vertraege bis Er Bess Kapazitaetsmarkt Grundlast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-epc-o-and-m-vertraege` | Prüft Bau-/Liefervertrag, O&M, Garantien, Degradation, Availability, LDs, Ersatzteile und Cyberpflichten. |
 | `er-bess-fca-agnes-bnetza` | Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-epc-o-and-m-vertraege`
 
-**Frühere Beschreibung:** Prüft Bau-/Liefervertrag, O&M, Garantien, Degradation, Availability, LDs, Ersatzteile und Cyberpflichten.
+**Fokus:** Prüft Bau-/Liefervertrag, O&M, Garantien, Degradation, Availability, LDs, Ersatzteile und Cyberpflichten.
 
 # EPC, O&M und Herstellerverträge
 
@@ -62,7 +62,7 @@ BGB Werk-/Kaufrecht, Produktsicherheit, Garantie, Datenschutz/Cyber, Exportkontr
 
 ## 2. `er-bess-fca-agnes-bnetza`
 
-**Frühere Beschreibung:** Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt.
+**Fokus:** Prüft Netzanschlussdokumente nach BNetzA/Festlegungslogik und markiert, was im konkreten Vertrag fehlt.
 
 # FCA/AgNes: Netzanschluss-Regelwerk lesen
 
@@ -95,7 +95,7 @@ BNetzA-Festlegungen, EnWG, Netzanschlussbedingungen, keine Vertragsstandards ohn
 
 ## 3. `er-bess-finanzierung-bankability`
 
-**Frühere Beschreibung:** Prüft Projektfinanzierung, Sicherheiten, Erlösmodell, Netzanschlussrisiko, Bau-/Betriebsrisiko und Insurance DD.
+**Fokus:** Prüft Projektfinanzierung, Sicherheiten, Erlösmodell, Netzanschlussrisiko, Bau-/Betriebsrisiko und Insurance DD.
 
 # Finanzierung und Bankability
 
@@ -128,7 +128,7 @@ BGB, Sicherheitenrecht, EnWG/EEG, Versicherungen, Bauvertrag, Finanzierungsvertr
 
 ## 4. `er-bess-kapazitaetsmarkt-grundlast`
 
-**Frühere Beschreibung:** Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein.
+**Fokus:** Ordnet Aussagen zu Grundlast, gesicherter Leistung, Kapazitätsmarkt, Gaskraftwerken und Speicherfunktion rechtlich ein.
 
 # Kapazitätsmechanismen, Grundlast und politische Aussagen
 

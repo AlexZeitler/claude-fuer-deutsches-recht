@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-bwbes-neu-003-auslan-bis-bwbes-neu-005-erschw
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung, bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe, bwbes-neu-005-erschwerniszulagen-militaerischer-dienst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschwerniszulagen Militaerischer Dienst; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Bwbes Neu 003 Auslandsverwendungszuschlag Und Einsatzversorgung, Bwbes Neu 004 Trennungsgeld Umzugskosten Reisebeihilfe, Bwbes Neu 005 Erschw
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung` | AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG. |
 | `bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe` | Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bwbes-neu-003-auslandsverwendungszuschlag-und-einsatzversorgung`
 
-**Frühere Beschreibung:** AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG.
+**Fokus:** AVZ und Einsatzversorgung: prüft §§ 56–58 BBesG, Gefährdungsstufen, EinsatzWVG, SVG §§ 63a ff. und PTBS-Anerkennung. Norm-/Quellenanker: BBesG, EinsatzWVG, SVG.
 
 # Auslandsverwendungszuschlag und Einsatzversorgung
 
@@ -140,7 +140,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `bwbes-neu-004-trennungsgeld-umzugskosten-reisebeihilfe`
 
-**Frühere Beschreibung:** Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG.
+**Fokus:** Trennungsgeld, Umzugskosten, Reisebeihilfe: prüft TGV, BUKG, Anspruchsvoraussetzungen, Präklusionsfristen und Rückforderungen. Norm-/Quellenanker: TGV, BUKG, BRKG.
 
 # Trennungsgeld, Umzugskosten und Reisebeihilfe
 
@@ -251,7 +251,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `bwbes-neu-005-erschwerniszulagen-militaerischer-dienst`
 
-**Frühere Beschreibung:** Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV.
+**Fokus:** Erschwerniszulagen militärischer Dienst: prüft EZulV, Anspruchsvoraussetzungen, Wegfall und Rückforderung. Norm-/Quellenanker: BBesG §§ 47–50, EZulV.
 
 # Erschwerniszulagen für militärischen Dienst
 

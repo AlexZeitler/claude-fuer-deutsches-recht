@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (gesellschaftsgruender-handelsregister-anmeldung, gesellschaftsgruender-ihk-und-berufsgenossenschaft, gesellschaftsgruender-investor-dd-vorbereiten, gesellschaftsgruender-ip-einbringung, gesellschaftsgruender-kapitalerhoehung-bezugsrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Handelsregister Anmeldung, Gesellschaftsgruender Ihk Und Berufsgenossenschaft, Gesellschaftsgruender Investor Dd Vorbereiten, Gesellschaftsgruender Ip Einbringung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Handelsregister Anmeldung bis Gesellschaftsgruender Kapitalerhoehung Bezugsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-handelsregister-anmeldung` | Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung. |
 | `gesellschaftsgruender-ihk-und-berufsgenossenschaft` | IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-handelsregister-anmeldung`
 
-**Frühere Beschreibung:** Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung.
+**Fokus:** Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung.
 
 # Handelsregister-Anmeldung
 
@@ -172,7 +172,7 @@ Bekanntmachungskosten: ca. 25 EUR
 
 ## 2. `gesellschaftsgruender-ihk-und-berufsgenossenschaft`
 
-**Frühere Beschreibung:** IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung.
+**Fokus:** IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gründung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Prüfraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung.
 
 # IHK und Berufsgenossenschaft
 
@@ -332,7 +332,7 @@ STATUS PFLICHTMELDUNGEN
 
 ## 3. `gesellschaftsgruender-investor-dd-vorbereiten`
 
-**Frühere Beschreibung:** Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge.
+**Fokus:** Baut Datenraum für Investor-DD: Corporate, Finance, IP, HR, Datenschutz, Verträge.
 
 # Investor Due Diligence vorbereiten
 
@@ -395,7 +395,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-ip-einbringung`
 
-**Frühere Beschreibung:** Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen.
+**Fokus:** Prüft, ob Software, Marken, Designs, Domains und Know-how sauber in die Gesellschaft gelangen.
 
 # IP-Einbringung und Rechtekette
 
@@ -458,7 +458,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-kapitalerhoehung-bezugsrecht`
 
-**Frühere Beschreibung:** Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführen. Normen: §§ 55 56 56a GmbHG. Prüfraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital.
+**Fokus:** Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführen. Normen: §§ 55 56 56a GmbHG. Prüfraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital.
 
 # Kapitalerhöhung und Bezugsrecht
 

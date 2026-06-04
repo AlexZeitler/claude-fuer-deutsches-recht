@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-str-082-bruecke-widm-bis-str-085-bruecke-einw
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (str-082-bruecke-widmung-lesen, str-083-bruecke-planrecht-pruefen, str-084-bruecke-sondernutzung-formulieren, str-085-bruecke-einwendung-bauen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 082 Bruecke Widmung Lesen, Str 083 Bruecke Planrecht Pruefen, Str 084 Bruecke Sondernutzung Formulieren, Str 085 Bruecke Einwendung Bauen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 082 Bruecke Widmung Lesen bis Str 085 Bruecke Einwendung Bauen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-082-bruecke-widmung-lesen` | Straßenrecht und Infrastruktur: Brücke: Widmung lesen. Widmung lesen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `str-083-bruecke-planrecht-pruefen` | Straßenrecht und Infrastruktur: Brücke: Planrecht prüfen. Planrecht prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-082-bruecke-widmung-lesen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke: Widmung lesen. Widmung lesen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke: Widmung lesen. Widmung lesen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bruecke Widmung Lesen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-083-bruecke-planrecht-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke: Planrecht prüfen. Planrecht prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke: Planrecht prüfen. Planrecht prüfen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bruecke Planrecht Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-084-bruecke-sondernutzung-formulieren`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke: Sondernutzung formulieren. Sondernutzung formulieren für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke: Sondernutzung formulieren. Sondernutzung formulieren für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bruecke Sondernutzung Formulieren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-085-bruecke-einwendung-bauen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Brücke: Einwendung bauen. Einwendung bauen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Brücke: Einwendung bauen. Einwendung bauen für Brücke im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bruecke Einwendung Bauen
 

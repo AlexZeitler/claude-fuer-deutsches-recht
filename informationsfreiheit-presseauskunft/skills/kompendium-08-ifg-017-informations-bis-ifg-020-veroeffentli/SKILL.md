@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ifg-017-informations-bis-ifg-020-veroeffentli
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (ifg-017-informationszugang-bei-beliehenen-priv, ifg-018-parlaments-und-rechnungshofgrenzen, ifg-019-sicherheitsinteressen-und-geheimschutz, ifg-020-veroeffentlichung-erhaltene-dokumente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 017 Informationszugang Bei Beliehenen Priv, Ifg 018 Parlaments Und Rechnungshofgrenzen, Ifg 019 Sicherheitsinteressen Und Geheimschutz, Ifg 020 Veroeffentlichung Erhaltene Dokumente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 017 Informationszugang Bei Beliehenen Priv bis Ifg 020 Veroeffentlichung Erhaltene Dokumente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-017-informationszugang-bei-beliehenen-priv` | Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-018-parlaments-und-rechnungshofgrenzen` | Informationsfreiheit und Presseauskunft: Parlaments- und Rechnungshofgrenzen. Parlaments- und Rechnungshofgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-017-informationszugang-bei-beliehenen-priv`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang bei beliehenen Privaten. Informationszugang bei beliehenen Privaten im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Bei Beliehenen Priv
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-018-parlaments-und-rechnungshofgrenzen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Parlaments- und Rechnungshofgrenzen. Parlaments- und Rechnungshofgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Parlaments- und Rechnungshofgrenzen. Parlaments- und Rechnungshofgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Parlaments Und Rechnungshofgrenzen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-019-sicherheitsinteressen-und-geheimschutz`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Sicherheitsinteressen und Geheimschutz. Sicherheitsinteressen und Geheimschutz im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Sicherheitsinteressen und Geheimschutz. Sicherheitsinteressen und Geheimschutz im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Sicherheitsinteressen Und Geheimschutz
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-020-veroeffentlichung-erhaltene-dokumente`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Veröffentlichung erhaltene Dokumente prüfen. Veröffentlichung erhaltene Dokumente prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Veröffentlichung erhaltene Dokumente prüfen. Veröffentlichung erhaltene Dokumente prüfen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Veroeffentlichung Erhaltene Dokumente
 

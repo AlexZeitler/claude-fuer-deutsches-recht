@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-sammelanmeldung-und-bis-schutzgegenstand-des
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (sammelanmeldung-und-locarno-klasse, schutzgegenstand-design-produkt-erscheinungsform) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sammelanmeldung Und Locarno Klasse, Schutzgegenstand Design Produkt Erscheinungsform; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Sammelanmeldung Und Locarno Klasse, Schutzgegenstand Design Produkt Erscheinungsform
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sammelanmeldung-und-locarno-klasse` | Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung. |
 | `schutzgegenstand-design-produkt-erscheinungsform` | Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sammelanmeldung-und-locarno-klasse`
 
-**Frühere Beschreibung:** Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung.
+**Fokus:** Sammelanmeldung und Locarno-Klassifikation planen: mehrere Varianten, Produktfamilie, einheitliche Klasse, Kostenstrategie, Veröffentlichungslogik und spätere Durchsetzung.
 
 # Sammelanmeldung Und Locarno Klasse
 
@@ -59,7 +59,7 @@ Sammelanmeldungsplan mit Variantenmatrix.
 
 ## 2. `schutzgegenstand-design-produkt-erscheinungsform`
 
-**Frühere Beschreibung:** Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion.
+**Fokus:** Schutzgegenstand im Designrecht präzisieren: Erscheinungsform, Linien, Konturen, Farben, Gestalt, Oberflächenstruktur, Verzierung, Produktbegriff und Abgrenzung zu technischer Funktion.
 
 # Schutzgegenstand Design Produkt Erscheinungsform
 

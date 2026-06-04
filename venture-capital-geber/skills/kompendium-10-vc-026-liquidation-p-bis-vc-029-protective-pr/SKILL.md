@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-vc-026-liquidation-p-bis-vc-029-protective-pr
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (vc-026-liquidation-preference-waterfall, vc-027-anti-dilution-down-round, vc-028-information-rights-reporting, vc-029-protective-provisions-veto) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 026 Liquidation Preference Waterfall, Vc 027 Anti Dilution Down Round, Vc 028 Information Rights Reporting, Vc 029 Protective Provisions Veto; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - venture-capital-geber
+# Arbeitsbereich - Vc 026 Liquidation Preference Waterfall bis Vc 029 Protective Provisions Veto
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-026-liquidation-preference-waterfall` | Rechnet non-participating, participating, multiple, cap und Erlösverteilung über mehrere Runden. |
 | `vc-027-anti-dilution-down-round` | Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-026-liquidation-preference-waterfall`
 
-**Frühere Beschreibung:** Rechnet non-participating, participating, multiple, cap und Erlösverteilung über mehrere Runden.
+**Fokus:** Rechnet non-participating, participating, multiple, cap und Erlösverteilung über mehrere Runden.
 
 # Liquidation Preference und Waterfall
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-027-anti-dilution-down-round`
 
-**Frühere Beschreibung:** Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness.
+**Fokus:** Prüft weighted average, full ratchet, pay-to-play, Down-Round-Folgen und Fairness.
 
 # Anti-Dilution und Down Round
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-028-information-rights-reporting`
 
-**Frühere Beschreibung:** Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben.
+**Fokus:** Baut Informationsrechte, Reporting-Kalender, KPI-Pack, Budget-Updates, consent requests und Sanktionen bei Ausbleiben.
 
 # Information Rights und Reporting
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-029-protective-provisions-veto`
 
-**Frühere Beschreibung:** Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&A, Debt, IP, Related-Party und Deadlock.
+**Fokus:** Prüft Zustimmungsvorbehalte, Reserved Matters, Budget, Hiring, M&A, Debt, IP, Related-Party und Deadlock.
 
 # Protective Provisions und Vetorechte
 

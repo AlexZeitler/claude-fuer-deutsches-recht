@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-fachanwalt-bau-archi-bis-fachanwalt-bau-archi
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg, fachanwalt-bau-architektenrecht-orientierung, fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung, fachanwalt-bau-architektenrecht-werkmangel-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bau Architektenrecht Kontaminierter Baugrund Bbodschg, Bau Architektenrecht Orientierung, Bau Architektenrecht Vob Schiedsgutachten Schlichtung, Bau Architektenrecht Werkmangel Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Bau Architektenrecht Kontaminierter Baugrund Bbodschg bis Bau Architektenrecht Werkmangel Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg` | Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung. |
 | `fachanwalt-bau-architektenrecht-orientierung` | Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg`
 
-**Frühere Beschreibung:** Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung.
+**Fokus:** Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Prüfraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung.
 
 # Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht
 
@@ -369,7 +369,7 @@ Bauzeitverlängerung: [Anzahl] Werktage ab [Datum]
 
 ## 2. `fachanwalt-bau-architektenrecht-orientierung`
 
-**Frühere Beschreibung:** Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill.
+**Fokus:** Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Prüfraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Prüf-Skill.
 
 # Fachanwalt für Bau- und Architektenrecht — Orientierung
 
@@ -471,7 +471,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fachanwalt-bau-architektenrecht-vob-schiedsgutachten-schlichtung`
 
-**Frühere Beschreibung:** VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren.
+**Fokus:** VOB/B-Schiedsgutachten und Schlichtung als Alternative zum Bauprozess nutzen. Normen: §§ 18 Abs. 3 18b VOB/B, §§ 1025 ff. ZPO. Prüfraster: Schiedsgutachter-Auswahl, Bindungswirkung, Fristen, Abgrenzung Schiedsverfahren. Output: Schiedsgutachten-Antrag VOB/B. Abgrenzung: nicht staatliches Klageverfahren.
 
 # VOB-Schiedsgericht / SOBau / Schlichtung im Baurecht
 
@@ -587,7 +587,7 @@ Stand: 05/2026. SOBau 2020. § 18 VOB/B unverändert. BGH-Linien stabil. Bei VOB
 
 ## 4. `fachanwalt-bau-architektenrecht-werkmangel-pruefen`
 
-**Frühere Beschreibung:** Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme.
+**Fokus:** Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme.
 
 # Werkmangel prüfen — Bau- und Werkvertragsrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-beweismittel-katalog-bis-beziehungsmatrix-per
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (beweismittel-katalog, beweisverwertungsverbote-pruefen, beziehungsmatrix-personen-taten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beweismittel Katalog, Beweisverwertungsverbote Pruefen, Beziehungsmatrix Personen Taten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Beweismittel Katalog, Beweisverwertungsverbote Pruefen, Beziehungsmatrix Personen Taten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beweismittel-katalog` | Beweismittel-Katalog fuer die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren, Datentraeger, Telekommunikationsueberwachung, Observation. Beweisthema, Beweismittel, Fundstelle in der Akte, Beweisverwertungsfragen (§ 136a sowie §§ 252 und 261 StPO). |
 | `beweisverwertungsverbote-pruefen` | Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beweismittel-katalog`
 
-**Frühere Beschreibung:** Beweismittel-Katalog fuer die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren, Datentraeger, Telekommunikationsueberwachung, Observation. Beweisthema, Beweismittel, Fundstelle in der Akte, Beweisverwertungsfragen (§ 136a sowie §§ 252 und 261 StPO).
+**Fokus:** Beweismittel-Katalog fuer die Verteidigung: Urkunden, Augenschein, Zeugen, Sachverstaendige, Beschuldigtenaussage, Spuren, Datentraeger, Telekommunikationsueberwachung, Observation. Beweisthema, Beweismittel, Fundstelle in der Akte, Beweisverwertungsfragen (§ 136a sowie §§ 252 und 261 StPO).
 
 # Beweismittel-Katalog
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 2. `beweisverwertungsverbote-pruefen`
 
-**Frühere Beschreibung:** Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung.
+**Fokus:** Beweisverwertungsverbote pruefen: § 136a StPO (verbotene Vernehmungsmethoden), § 252 StPO (Aussageverweigerung Angehoeriger), § 100a/d StPO (TKUe ohne Voraussetzungen), Belehrungsfehler § 136 StPO, Zufallsfunde § 108 StPO, Kernbereich privater Lebensgestaltung. Pruefraster und Antragsentwurf auf Beweiserhebungsverbot oder Verwertungsverbot in der Hauptverhandlung.
 
 # Beweisverwertungsverbote pruefen
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `beziehungsmatrix-personen-taten`
 
-**Frühere Beschreibung:** Beziehungen zwischen Personen und Tatkomplexen sichtbar machen: Wer hat wem etwas getan, wer war wann wo, wer sagt was zu welchem Tatkomplex. Matrix-Tabelle mit Tatkomplexen als Spalten und Personen als Zeilen. Markiert Beziehungstyp (Taeter, Mitwirkender, Opfer, Zeuge, Anstifter, Gehilfe).
+**Fokus:** Beziehungen zwischen Personen und Tatkomplexen sichtbar machen: Wer hat wem etwas getan, wer war wann wo, wer sagt was zu welchem Tatkomplex. Matrix-Tabelle mit Tatkomplexen als Spalten und Personen als Zeilen. Markiert Beziehungstyp (Taeter, Mitwirkender, Opfer, Zeuge, Anstifter, Gehilfe).
 
 # Beziehungsmatrix Personen/Taten
 

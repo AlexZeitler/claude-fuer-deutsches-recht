@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-ifg-021-informations-bis-ifg-024-informations
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (ifg-021-informationszugang-baden-wuerttemberg, ifg-022-informationszugang-bayern-livecheck, ifg-023-informationszugang-berlin-livecheck, ifg-024-informationszugang-brandenburg-liveche) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 021 Informationszugang Baden Wuerttemberg, Ifg 022 Informationszugang Bayern Livecheck, Ifg 023 Informationszugang Berlin Livecheck, Ifg 024 Informationszugang Brandenburg Liveche; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 021 Informationszugang Baden Wuerttemberg bis Ifg 024 Informationszugang Brandenburg Liveche
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-021-informationszugang-baden-wuerttemberg` | Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-022-informationszugang-bayern-livecheck` | Informationsfreiheit und Presseauskunft: Informationszugang Bayern Livecheck. Informationszugang Bayern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-021-informationszugang-baden-wuerttemberg`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Baden-Württemberg Livecheck. Informationszugang Baden-Württemberg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Baden Wuerttemberg
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-022-informationszugang-bayern-livecheck`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Bayern Livecheck. Informationszugang Bayern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Bayern Livecheck. Informationszugang Bayern Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Bayern Livecheck
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-023-informationszugang-berlin-livecheck`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Berlin Livecheck. Informationszugang Berlin Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Berlin Livecheck. Informationszugang Berlin Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Berlin Livecheck
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-024-informationszugang-brandenburg-liveche`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Informationszugang Brandenburg Livecheck. Informationszugang Brandenburg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Informationszugang Brandenburg Livecheck. Informationszugang Brandenburg Livecheck im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationszugang Brandenburg Liveche
 

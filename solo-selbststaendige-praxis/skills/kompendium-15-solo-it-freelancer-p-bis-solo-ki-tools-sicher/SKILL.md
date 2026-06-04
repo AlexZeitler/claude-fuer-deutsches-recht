@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-solo-it-freelancer-p-bis-solo-ki-tools-sicher
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 8 frühere Spezialskills (solo-it-freelancer-projekt, solo-jahresabschluss-vorbereitung, solo-journalist-autor-publizist, solo-kammer-ihk-handwerkskammer, solo-keine-unnoetigen-aussagen und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo It Freelancer Projekt, Solo Jahresabschluss Vorbereitung, Solo Journalist Autor Publizist, Solo Kammer Ihk Handwerkskammer und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo It Freelancer Projekt bis Solo Ki Tools Sicher Nutzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-it-freelancer-projekt` | Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-jahresabschluss-vorbereitung` | Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-it-freelancer-projekt`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft IT-Projektvertrag, Weisungen, Sprintplanung, Abnahme und Ergebnisverantwortung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft it-projektvertrag
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 2. `solo-jahresabschluss-vorbereitung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: macht Jahresabschluss-/EÜR-Paket mit Lückenliste; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Macht jahresabschluss-/eür-paket mit lückenliste
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 3. `solo-journalist-autor-publizist`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft KSK, Nutzungsrechte, Quellen, Pressefreiheit und Honorare; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft KSK, Nutzungsrechte, Quellen, Pressefreiheit und Honorare; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Branchenfälle: Prüft ksk
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Branchenfälle**. Sch
 
 ## 4. `solo-kammer-ihk-handwerkskammer`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft IHK/HWK, freie Berufe und Handwerksrollenrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft IHK/HWK, freie Berufe und Handwerksrollenrisiken; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Anmeldung und Behörden: Prüft ihk/hwk
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Anmeldung und Behörd
 
 ## 5. `solo-keine-unnoetigen-aussagen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: hilft bei Behörden- und Kundengesprächen, nur Erforderliches sauber mitzuteilen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Hilft bei behörden- und kundengesprächen
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 6. `solo-ki-bilder-und-prompts`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft KI-Bilder, Trainingsdatenrisiko, Lizenz und Kundenfreigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft KI-Bilder, Trainingsdatenrisiko, Lizenz und Kundenfreigabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Prüft ki-bilder
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 7. `solo-ki-generierte-inhalte-kennzeichnung`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet KI-Content, Urheberrecht, Transparenz und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet KI-Content, Urheberrecht, Transparenz und Haftung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Ordnet ki-content
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 8. `solo-ki-tools-sicher-nutzen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Datenkategorien, Geheimnisse, AVV, Drittlandtransfer und Promptdisziplin; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Datenkategorien, Geheimnisse, AVV, Drittlandtransfer und Promptdisziplin; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Prüft datenkategorien
 

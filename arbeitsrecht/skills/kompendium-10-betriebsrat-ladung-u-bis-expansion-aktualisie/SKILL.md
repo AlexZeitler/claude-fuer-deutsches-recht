@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-betriebsrat-ladung-u-bis-expansion-aktualisie
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (betriebsrat-ladung-und-ersatzmitglieder-pruefen, betriebsuebergang-613a-pruefen, einstellungspruefung, expansion-aktualisierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betriebsrat Ladung Und Ersatzmitglieder Pruefen, Betriebsuebergang 613a Pruefen, Einstellungspruefung, Expansion Aktualisierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - arbeitsrecht
+# Arbeitsbereich - Betriebsrat Ladung Und Ersatzmitglieder Pruefen bis Expansion Aktualisierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betriebsrat-ladung-und-ersatzmitglieder-pruefen` | Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `betriebsuebergang-613a-pruefen` | Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betriebsrat-ladung-und-ersatzmitglieder-pruefen`
 
-**Frühere Beschreibung:** Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu betriebsrat ladung und ersatzmitglieder pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Betriebsrat — Ladung und Ersatzmitglieder prüfen
 
@@ -177,7 +177,7 @@ Bei Verhinderung muss das **richtige** Ersatzmitglied geladen werden:
 
 ## 2. `betriebsuebergang-613a-pruefen`
 
-**Frühere Beschreibung:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan.
+**Fokus:** Unternehmen wird verkauft oder Betrieb geht auf neuen Inhaber über und Arbeitnehmer fragen nach Rechten oder Kündigungsschutz. Prüfraster Identitätswahrung wirtschaftliche Einheit EuGH-Suezen-Kriterien § 613a BGB. Pflicht zur Unterrichtung § 613a Abs. 5 BGB schriftlich vollständig. Widerspruchsrecht Arbeitnehmer § 613a Abs. 6 BGB Frist ein Monat. Haftung Erwerber und Veraeusserer § 613a Abs. 2 BGB gesamtschuldnerisch. Kündigungsverbot § 613a Abs. 4 BGB wegen Betriebsuebergang. Output Prüf-Memo Übergangsprotokoll BR-Beteiligung § 111 BetrVG Interessenausgleich Sozialplan.
 
 # Betriebsübergang § 613a BGB prüfen
 
@@ -381,7 +381,7 @@ Zitierstandard: `../references/zitierweise.md`.
 
 ## 3. `einstellungspruefung`
 
-**Frühere Beschreibung:** Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung.
+**Fokus:** Prüfung von Arbeitsvertrag und Befristung bei Neueinstellungen: TzBfG (Sachgrund, Vorbeschaeftigungsverbot), AGG (diskriminierungsfreie Ausschreibung), AUeG (Abgrenzung Arbeitnehmerüberlassung), Nachweisgesetz sowie nachvertragliche Wettbewerbsverbote (§§ 74 ff. HGB). Liefert strukturiertes Memo mit Ampelbewertung.
 
 # /arbeitsrecht:einstellungsprüfung
 
@@ -552,7 +552,7 @@ Handlungsempfehlungen:
 
 ## 4. `expansion-aktualisierung`
 
-**Frühere Beschreibung:** Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll.
+**Fokus:** Aktualisiert den Status eines laufenden Expansionsprojekts — ermittelt, welche Punkte nun freigegeben sind, kennzeichnet überfällige Positionen und benennt die nächsten Prioritäten. Lädt, wenn seit der letzten Sitzung Fortschritte erzielt wurden und der Tracker den aktuellen Stand widerspiegeln soll.
 
 # Expansions-Update (Arbeitsrecht)
 

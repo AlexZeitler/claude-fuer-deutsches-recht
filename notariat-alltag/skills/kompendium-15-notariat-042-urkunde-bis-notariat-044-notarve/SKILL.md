@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-notariat-042-urkunde-bis-notariat-044-notarve
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi, notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku, notariat-044-notarvertretung-notariatsverwalter-und-amtsuebergab) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat 044 Notarvertretung Notariatsverwalter Und Amtsuebergab; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - notariat-alltag
+# Arbeitsbereich - Notariat 042 Urkundensammlung Aufbewahrung Ausfertigung Beglaubi, Notariat 043 Kanzleiorganisation Vier Augen Prinzip Und Fehlerku, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi` | Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen. |
 | `notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku` | Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-042-urkundensammlung-aufbewahrung-ausfertigung-beglaubi`
 
-**Frühere Beschreibung:** Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen.
+**Fokus:** Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung und beglaubigte Abschrift. Pflichten nach DONot, Ausfertigungs- und Abschriftsarten, Aufbewahrungsfristen und Vernichtungsvoraussetzungen.
 
 # Notariat im Alltag: Urkundensammlung, Aufbewahrung, Ausfertigung, beglaubigte Abschrift
 
@@ -119,7 +119,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-043-kanzleiorganisation-vier-augen-prinzip-und-fehlerku`
 
-**Frühere Beschreibung:** Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur.
+**Fokus:** Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip und Fehlerkultur. Organisatorische Anforderungen an das Notariat, Qualitätssicherung, Fehlermanagement und Lernkultur.
 
 # Notariat im Alltag: Kanzleiorganisation, Vier-Augen-Prinzip, Fehlerkultur
 
@@ -219,7 +219,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-044-notarvertretung-notariatsverwalter-und-amtsuebergab`
 
-**Frühere Beschreibung:** Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation.
+**Fokus:** Notariat im Alltag: Notarvertretung, Notariatsverwalter und Amtsübergabe. Verfahren bei Vertretung, Amtsniederlegung und Notariatsverwaltung nach BNotO, Aktentransfer und Mandantenkommunikation.
 
 # Notariat im Alltag: Notarvertretung, Notariatsverwalter, Amtsübergabe
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-berichte-sch-bis-spezial-besitz-dokum
-description: "zwangsverwaltung-zvg: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-berichte-schriftsatz-brief-und-memo-bausteine, spezial-beschlagnahme-mietverwaltung-start, spezial-besitz-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsverwaltung-zvg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Berichte Schriftsatz Brief Und Memo Bausteine, Beschlagnahme Mietverwaltung Start, Besitz Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - zwangsverwaltung-zvg
+# Arbeitsbereich - Berichte Schriftsatz Brief Und Memo Bausteine, Beschlagnahme Mietverwaltung Start, Besitz Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-berichte-schriftsatz-brief-und-memo-bausteine` | Berichte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-beschlagnahme-mietverwaltung-start` | Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-berichte-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Berichte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Berichte: Schriftsatz-, Brief- und Memo-Bausteine im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Berichte: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-beschlagnahme-mietverwaltung-start`
 
-**Frühere Beschreibung:** Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Beschlagnahme, Besitzergreifung und Mietverwaltung zum Verfahrensstart
 
@@ -108,7 +108,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `spezial-besitz-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Besitz: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Besitz: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin zwangsverwaltung zvg; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Besitz: Dokumentenmatrix, Lückenliste und Nachforderung
 

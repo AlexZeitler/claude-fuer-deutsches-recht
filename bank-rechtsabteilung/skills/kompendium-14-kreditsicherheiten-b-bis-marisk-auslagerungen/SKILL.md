@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-kreditsicherheiten-b-bis-marisk-auslagerungen
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (kreditsicherheiten-bestellung-verwertung, kreditwesengesetz-erlaubnis-inhaberkontrolle, liquiditaetsbruecke-firmenkunde-bankinstrumente, ma-risk-compliance-funktion, marisk-auslagerungen-at9-dora) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kreditsicherheiten Bestellung Verwertung, Kreditwesengesetz Erlaubnis Inhaberkontrolle, Liquiditaetsbruecke Firmenkunde Bankinstrumente, Ma Risk Compliance Funktion und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - bank-rechtsabteilung
+# Arbeitsbereich - Kreditsicherheiten Bestellung Verwertung bis Marisk Auslagerungen At9 Dora
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kreditsicherheiten-bestellung-verwertung` | Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte. |
 | `kreditwesengesetz-erlaubnis-inhaberkontrolle` | KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kreditsicherheiten-bestellung-verwertung`
 
-**Frühere Beschreibung:** Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte.
+**Fokus:** Kreditsicherheiten bestellen, prüfen und verwerten: Grundschuld, Bürgschaft, Garantie, Globalzession, Sicherungsübereignung, Pfandrechte, Rang, Freigabe und Verwertungsschritte.
 
 # Kreditsicherheiten
 
@@ -145,7 +145,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 2. `kreditwesengesetz-erlaubnis-inhaberkontrolle`
 
-**Frühere Beschreibung:** KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren.
+**Fokus:** KWG-Erlaubnis, Erlaubniserweiterung, Inhaberkontrolle und qualifizierte Beteiligung prüfen: Geschäftsmodell, Schwellen, Anzeige, Fit-and-Proper und BaFin-Erwartungen strukturieren.
 
 # KWG-Erlaubnis und Inhaberkontrolle
 
@@ -192,7 +192,7 @@ gesetze-im-internet.de (KWG, InhKontrollV, AnzV), bafin.de (Merkblatt Inhaberkon
 
 ## 3. `liquiditaetsbruecke-firmenkunde-bankinstrumente`
 
-**Frühere Beschreibung:** Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix.
+**Fokus:** Bankinstrumente als Liquiditätsbrücke für Firmenkunden strukturieren: Aval, Kontokorrent, Factoring, Forfaitierung, Akkreditiv, Lieferantenkredit, Stundung, Waiver und Sanierungsnähe mit Rechts- und Risikomatrix.
 
 # Liquiditätsbrücke durch Bankinstrumente
 
@@ -251,7 +251,7 @@ Ergänze:
 
 ## 4. `ma-risk-compliance-funktion`
 
-**Frühere Beschreibung:** MaRisk-Compliance-Funktion und zweite Verteidigungslinie prüfen: Aufgaben, Unabhängigkeit, Compliance-Plan, Monitoring, Findings, Berichtslinie und Verhältnis zu Recht, Risk und Revision.
+**Fokus:** MaRisk-Compliance-Funktion und zweite Verteidigungslinie prüfen: Aufgaben, Unabhängigkeit, Compliance-Plan, Monitoring, Findings, Berichtslinie und Verhältnis zu Recht, Risk und Revision.
 
 # MaRisk Compliance-Funktion
 
@@ -366,7 +366,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `marisk-auslagerungen-at9-dora`
 
-**Frühere Beschreibung:** MaRisk-Auslagerung und DORA-Schnittstelle: AT 9, § 25b KWG, Auslagerungsregister, Risikoanalyse, wesentliche Auslagerung, IKT-Drittanbieter und Exit-Plan zusammen prüfen.
+**Fokus:** MaRisk-Auslagerung und DORA-Schnittstelle: AT 9, § 25b KWG, Auslagerungsregister, Risikoanalyse, wesentliche Auslagerung, IKT-Drittanbieter und Exit-Plan zusammen prüfen.
 
 # Auslagerung und DORA
 

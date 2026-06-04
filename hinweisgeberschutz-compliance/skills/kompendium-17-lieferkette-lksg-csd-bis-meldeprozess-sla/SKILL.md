@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-lieferkette-lksg-csd-bis-meldeprozess-sla
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (lieferkette-lksg-csddd, massnahmenplan, meldekanal-design, meldeprozess-sla) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lieferkette Lksg Csddd, Massnahmenplan, Meldekanal Design, Meldeprozess Sla; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Lieferkette Lksg Csddd bis Meldeprozess Sla
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lieferkette-lksg-csddd` | Verknüpft Hinweise mit Lieferkette und Menschenrechten. |
 | `massnahmenplan` | Priorisiert Verbesserungen am HinSchG-System. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lieferkette-lksg-csddd`
 
-**Frühere Beschreibung:** Verknüpft Hinweise mit Lieferkette und Menschenrechten.
+**Fokus:** Verknüpft Hinweise mit Lieferkette und Menschenrechten.
 
 # Lieferkette LkSG CSDDD
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `massnahmenplan`
 
-**Frühere Beschreibung:** Priorisiert Verbesserungen am HinSchG-System.
+**Fokus:** Priorisiert Verbesserungen am HinSchG-System.
 
 # Massnahmenplan
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `meldekanal-design`
 
-**Frühere Beschreibung:** Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital.
+**Fokus:** Gestaltet Meldekanäle schriftlich, mündlich, persönlich und digital.
 
 # Meldekanal Design
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `meldeprozess-sla`
 
-**Frühere Beschreibung:** Baut Service-Level für Bearbeitung von Hinweisen.
+**Fokus:** Baut Service-Level für Bearbeitung von Hinweisen.
 
 # Meldeprozess SLA
 

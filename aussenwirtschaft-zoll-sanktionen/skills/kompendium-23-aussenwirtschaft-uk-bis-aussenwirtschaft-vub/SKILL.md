@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-aussenwirtschaft-uk-bis-aussenwirtschaft-vub
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (aussenwirtschaft-uk-sanctions-touchpoint, aussenwirtschaft-us-ear-itar, aussenwirtschaft-voruebergehende-verwendung-ata-carnet, aussenwirtschaft-vub-einfuhr-ausfuhr) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Uk Sanctions Touchpoint, Aussenwirtschaft Us Ear Itar, Aussenwirtschaft Voruebergehende Verwendung Ata Carnet, Aussenwirtschaft Vub Einfuhr Ausfuhr; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Uk Sanctions Touchpoint bis Aussenwirtschaft Vub Einfuhr Ausfuhr
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-uk-sanctions-touchpoint` | UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung fuer Transaktionen mit UK-Bezug. |
 | `aussenwirtschaft-us-ear-itar` | US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-uk-sanctions-touchpoint`
 
-**Frühere Beschreibung:** UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung fuer Transaktionen mit UK-Bezug.
+**Fokus:** UK-Sanktionsrecht als Touchpoint im EU-Exportkontrollmandat: SAMLA 2018 OFSI-Richtlinien und UK-Konsolidierte-Sanktionsliste nach Brexit. Vergleich mit EU-Sanktionen bei Transaktionen ueber UK-Tochtergesellschaften oder UK-Banken. Output: UK-EU-Sanktionsvergleich und Handlungsempfehlung fuer Transaktionen mit UK-Bezug.
 
 # UK-Sanktionen als Touchpoint: SAMLA und OFSI nach Brexit
 
@@ -114,7 +114,7 @@ UK-EU-Sanktionsvergleich mit Divergenz-Tabelle, OFSI-Lizenz-Bewertung und Koordi
 
 ## 2. `aussenwirtschaft-us-ear-itar`
 
-**Frühere Beschreibung:** US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen.
+**Fokus:** US-Exportkontrolle als Touchpoint im deutschen Mandat: EAR (Export Administration Regulations 15 CFR Parts 730-774) ITAR (22 CFR Parts 120-130) und ECCN-Klassifizierung. De-minimis-Regel und Foreign-Direct-Product-Rule als Risiken fuer EU-Reexporte. Output: US-Touchpoint-Vermerk und Abgrenzung zu EU-Dual-Use-Kontrollen.
 
 # US-Exportkontrolle EAR und ITAR als Touchpoint im EU-Mandat
 
@@ -201,7 +201,7 @@ US-Touchpoint-Vermerk mit ECCN de-minimis-Kalkulation FDPR-Bewertung und klarer 
 
 ## 3. `aussenwirtschaft-voruebergehende-verwendung-ata-carnet`
 
-**Frühere Beschreibung:** Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuldentstehung. Output: ATA-Carnet-Antragsmappe und Verwendungsnachweis.
+**Fokus:** Voruebergehende Verwendung nach UZK Art. 250 ff. und ATA-Carnet nach Istanbul-Konvention: Messe- und Ausstellungsgueter Berufsausruestung Transportmittel und Ersatzteile. Beantragung beim Hauptzollamt Buergschaftspflichten und Riedereinf uehrungspflicht. Risiken bei Nichtrueckfuehr und Zollschuldentstehung. Output: ATA-Carnet-Antragsmappe und Verwendungsnachweis.
 
 # Voruebergehende Verwendung und ATA-Carnet: Messeware und Berufsausruestung
 
@@ -288,7 +288,7 @@ ATA-Carnet-Antragsmappe mit Warenliste, Buergschaftsberechnung, Ausfuhr-/Einf ue
 
 ## 4. `aussenwirtschaft-vub-einfuhr-ausfuhr`
 
-**Frühere Beschreibung:** Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan.
+**Fokus:** Verbote und Beschraenkungen (VuB) bei der Ein- und Ausfuhr: Ueberwachungsmassnahmen bei CITES-Waren Drogenvorstufen Kulturgut Lebensmitteln und anderen regulierten Waren. Schnittstelle ATLAS-VuB-Meldung und Koordination mit spezialzustaendigen Behoerden (BZSt BAFA BLE BfR). Output: VuB-Pruefprotokoll und Behoerdenkoordinationsplan.
 
 # Verbote und Beschraenkungen (VuB) bei Ein- und Ausfuhr: Behoerdenkoordination
 

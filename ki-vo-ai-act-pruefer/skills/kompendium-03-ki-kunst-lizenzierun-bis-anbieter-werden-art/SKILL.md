@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ki-kunst-lizenzierun-bis-anbieter-werden-art
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ki-kunst-lizenzierung-kennzeichnung, abgrenzung-konventionelle-software-vs-ki-system, algorithmische-kollusion-und-pricing-ki, anbieter-werden-art-25) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Kunst Lizenzierung Kennzeichnung, Abgrenzung Konventionelle Software Vs Ki System, Algorithmische Kollusion Und Pricing Ki, Anbieter Werden Art 25; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Ki Kunst Lizenzierung Kennzeichnung bis Anbieter Werden Art 25
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-kunst-lizenzierung-kennzeichnung` | KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation fuer Agenturen, Verlage, Kanzleien und Unternehmen. |
 | `abgrenzung-konventionelle-software-vs-ki-system` | Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-kunst-lizenzierung-kennzeichnung`
 
-**Frühere Beschreibung:** KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation fuer Agenturen, Verlage, Kanzleien und Unternehmen.
+**Fokus:** KI-Kunst, Werbung und Design: kreative Steuerung, Prompt-Protokoll, Trainings-/Referenzrisiko, Stilnaehe, Rechtefreigabe, Art.-50-Kennzeichnung, Lizenzvertrag und Dokumentation fuer Agenturen, Verlage, Kanzleien und Unternehmen.
 
 # KI-Kunst: Lizenzierung und Kennzeichnung
 
@@ -68,7 +68,7 @@ Ein druckbarer Freigabezettel mit Ampel:
 
 ## 2. `abgrenzung-konventionelle-software-vs-ki-system`
 
-**Frühere Beschreibung:** Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung.
+**Fokus:** Grenzfall-Skill zur Abgrenzung konventioneller Software, Automation, Statistik, Expertensystemen, Workflows und KI-Systemen nach Art. 3 Nr. 1 KI-VO. Problematisiert Automation, Autonomie, Inferenz, gelernte Parameter, LLM/API-Komponenten und menschliche Freigabe. Output: Einordnungsmatrix mit belastbarer Begruendung und Weiterleitung zu liegt-ki-system-vor-art-3-nr-1, GPAI oder Hochrisiko-Pruefung.
 
 # Abgrenzung: Konventionelle Software versus KI-System
 
@@ -197,7 +197,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 1 KI-VO, Erwägungsgrund 12 und die 
 
 ## 3. `algorithmische-kollusion-und-pricing-ki`
 
-**Frühere Beschreibung:** Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signalling, Hub-and-Spoke, Plattformdaten, Monitoring, Kartellrecht, Compliance-Firewalls und Beweisindikatoren fuer Rechtsabteilung und Vertrieb.
+**Fokus:** Algorithmische Kollusion und KI-Pricing: Preisalgorithmen, Signalling, Hub-and-Spoke, Plattformdaten, Monitoring, Kartellrecht, Compliance-Firewalls und Beweisindikatoren fuer Rechtsabteilung und Vertrieb.
 
 # Algorithmische Kollusion und Pricing-KI
 
@@ -252,7 +252,7 @@ Ein Algorithmus kann ein Kartell nicht entschuldigen. Er kann aber dessen Beweis
 
 ## 4. `anbieter-werden-art-25`
 
-**Frühere Beschreibung:** Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Namen Hochrisiko-Abdeckung ohne Anbieterbenennung. Output: Entscheidungsbaum mit Ja/Nein-Ergebnis und konkreten Folgepflichten. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 (Grunddefinition) und betreiber-deployer-pflichten-art-26 (Betreiberpflichten).
+**Fokus:** Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Namen Hochrisiko-Abdeckung ohne Anbieterbenennung. Output: Entscheidungsbaum mit Ja/Nein-Ergebnis und konkreten Folgepflichten. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 (Grunddefinition) und betreiber-deployer-pflichten-art-26 (Betreiberpflichten).
 
 # Anbieter-Werden — Art. 25 KI-VO
 

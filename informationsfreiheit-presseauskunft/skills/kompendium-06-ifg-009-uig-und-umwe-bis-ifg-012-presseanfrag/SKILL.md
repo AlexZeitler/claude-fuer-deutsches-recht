@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ifg-009-uig-und-umwe-bis-ifg-012-presseanfrag
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (ifg-009-uig-und-umweltinformationen-abgrenzen, ifg-010-vig-und-verbraucherinformationen-nutze, ifg-011-akteneinsicht-oder-auskunft-oder-kopie, ifg-012-presseanfrage-schnell-und-knapp-formul) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 009 Uig Und Umweltinformationen Abgrenzen, Ifg 010 Vig Und Verbraucherinformationen Nutze, Ifg 011 Akteneinsicht Oder Auskunft Oder Kopie, Ifg 012 Presseanfrage Schnell Und Knapp Formul; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 009 Uig Und Umweltinformationen Abgrenzen bis Ifg 012 Presseanfrage Schnell Und Knapp Formul
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-009-uig-und-umweltinformationen-abgrenzen` | Informationsfreiheit und Presseauskunft: UIG und Umweltinformationen abgrenzen. UIG und Umweltinformationen abgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ifg-010-vig-und-verbraucherinformationen-nutze` | Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-009-uig-und-umweltinformationen-abgrenzen`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: UIG und Umweltinformationen abgrenzen. UIG und Umweltinformationen abgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: UIG und Umweltinformationen abgrenzen. UIG und Umweltinformationen abgrenzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Uig Und Umweltinformationen Abgrenzen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-010-vig-und-verbraucherinformationen-nutze`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: VIG und Verbraucherinformationen nutzen. VIG und Verbraucherinformationen nutzen im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vig Und Verbraucherinformationen Nutze
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-011-akteneinsicht-oder-auskunft-oder-kopie`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Akteneinsicht oder Auskunft oder Kopie. Akteneinsicht oder Auskunft oder Kopie im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Akteneinsicht oder Auskunft oder Kopie. Akteneinsicht oder Auskunft oder Kopie im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Akteneinsicht Oder Auskunft Oder Kopie
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-012-presseanfrage-schnell-und-knapp-formul`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: Presseanfrage schnell und knapp formulieren. Presseanfrage schnell und knapp formulieren im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Informationsfreiheit und Presseauskunft: Presseanfrage schnell und knapp formulieren. Presseanfrage schnell und knapp formulieren im Fachgebiet Informationsfreiheit und Presseauskunft als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Presseanfrage Schnell Und Knapp Formul
 

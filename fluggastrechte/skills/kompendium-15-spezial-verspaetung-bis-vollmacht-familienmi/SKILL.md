@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-verspaetung-bis-vollmacht-familienmi
-description: "fluggastrechte: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-verspaetung-verhandlung-vergleich-und-eskalation, ticket-und-fluginformationen-erfassen, vollmacht-familienmitglieder) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fluggastrechte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fluggastrechte
+# Arbeitsbereich - Verspaetung Verhandlung Vergleich Und Eskalation, Ticket Und Fluginformationen Erfassen, Vollmacht Familienmitglieder
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verspaetung-verhandlung-vergleich-und-eskalation` | Verspaetung: Verhandlung, Vergleich und Eskalation im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `ticket-und-fluginformationen-erfassen` | Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestätigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse Passagiernamen ausführendes Luftfahrtunternehmen (Operating Carrier) vermarktendes (Code-Share). Ergaenzt manuell die Ist-Zeiten (taktsaechliche Abflug- und Ankunftszeit) und das Stoerungsereignis (Annullierung Verspaetung Nichtbefoerderung Umbuchung). Erzeugt Fallakte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verspaetung-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Verspaetung: Verhandlung, Vergleich und Eskalation im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verspaetung: Verhandlung, Vergleich und Eskalation im Plugin fluggastrechte; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verspaetung: Verhandlung, Vergleich und Eskalation
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `ticket-und-fluginformationen-erfassen`
 
-**Frühere Beschreibung:** Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestätigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse Passagiernamen ausführendes Luftfahrtunternehmen (Operating Carrier) vermarktendes (Code-Share). Ergaenzt manuell die Ist-Zeiten (taktsaechliche Abflug- und Ankunftszeit) und das Stoerungsereignis (Annullierung Verspaetung Nichtbefoerderung Umbuchung). Erzeugt Fallakte.
+**Fokus:** Erfasst die Falldaten aus hochgeladenen Tickets Buchungsbestätigungen Boardingpaesse PDF-Scans Foto-Belegen. Extrahiert Buchungscode (PNR) Flugnummer Datum Abflughafen Zielflughafen geplante Abflugzeit geplante Ankunftszeit Tarifklasse Passagiernamen ausführendes Luftfahrtunternehmen (Operating Carrier) vermarktendes (Code-Share). Ergaenzt manuell die Ist-Zeiten (taktsaechliche Abflug- und Ankunftszeit) und das Stoerungsereignis (Annullierung Verspaetung Nichtbefoerderung Umbuchung). Erzeugt Fallakte.
 
 # Ticket- und Fluginformationen erfassen
 
@@ -175,7 +175,7 @@ Aktion: Eintrag mit korrektem Thema und Fundstelle EU:C:2017:342 ersetzt.
 
 ## 3. `vollmacht-familienmitglieder`
 
-**Frühere Beschreibung:** Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmacht Untervollmacht. Bei minderjaehrigen Kindern Sondervorlage mit Erziehungsberechtigten. Datenschutzhinweis. Versandentwurf an die Mitreisenden zur Unterschrift.
+**Fokus:** Erzeugt Vollmachten für Mitreisende (Familienmitglieder Freunde) damit der Hauptansprechpartner deren Fluggastrechtsanspruch im Schriftverkehr und im gerichtlichen Verfahren mitvertreten kann. Pro Person eigene Vollmacht mit Inhalt Bezug auf Buchung Mandatsumfang Empfangsvollmacht Untervollmacht. Bei minderjaehrigen Kindern Sondervorlage mit Erziehungsberechtigten. Datenschutzhinweis. Versandentwurf an die Mitreisenden zur Unterschrift.
 
 # Vollmacht für Familienmitglieder und Mitreisende
 

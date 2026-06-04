@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-eingangsbestaetigung-bis-falscher-tag-falsche
-description: "versammlungsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (eingangsbestaetigung-und-aktenzeichen, falscher-tag-falscher-ort-einwand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versammlungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - versammlungsrecht
+# Arbeitsbereich - Eingangsbestaetigung Und Aktenzeichen, Falscher Tag Falscher Ort Einwand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eingangsbestaetigung-und-aktenzeichen` | Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit. |
 | `falscher-tag-falscher-ort-einwand` | Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eingangsbestaetigung-und-aktenzeichen`
 
-**Frühere Beschreibung:** Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit.
+**Fokus:** Sichert Nachweis von Anzeige, Eingang, Aktenzeichen und behördlicher Zuständigkeit.
 
 # Ohne Eingangsnachweis wird es unnötig nervös
 
@@ -69,7 +69,7 @@ Output: Eingangslog, Nachfassmail und Beweisnotiz.
 
 ## 2. `falscher-tag-falscher-ort-einwand`
 
-**Frühere Beschreibung:** Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass.
+**Fokus:** Reagiert auf Behördeneinwände wie falscher Tag, falscher Ort, sensible Nachbarschaft, parallele Veranstaltung oder politisch unpassender Anlass.
 
 # Nicht jeder Behördenwunsch ist Recht
 

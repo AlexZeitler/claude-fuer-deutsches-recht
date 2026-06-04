@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-verl-010-rabatte-bib-bis-verl-011-maengelexem
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (verl-010-rabatte-bibliotheken-schulen-bundles-und-serien, verl-011-maengelexemplar-remittenden-und-preisbindung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 010 Rabatte Bibliotheken Schulen Bundles Und Serien, Verl 011 Maengelexemplar Remittenden Und Preisbindung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-010-rabatte-bibliotheken-schulen-bundles-und-serien` | Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel. |
 | `verl-011-maengelexemplar-remittenden-und-preisbindung` | Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-010-rabatte-bibliotheken-schulen-bundles-und-serien`
 
-**Frühere Beschreibung:** Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel.
+**Fokus:** Buchpreisbindungsgesetz: Rabatte an Bibliotheken, Schulen, Bundleangebote und Serienpreise — BuchPrG §§ 5–6 und Sonderkonditionenpraxis im deutschen Buchhandel.
 
 # Verl-010 · Rabatte, Bibliotheken, Schulen, Bundles und Serien
 
@@ -141,7 +141,7 @@ Das BuchPrG verbietet grundsätzlich Abweichungen vom festgesetzten Ladenpreis. 
 
 ## 2. `verl-011-maengelexemplar-remittenden-und-preisbindung`
 
-**Frühere Beschreibung:** Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel.
+**Fokus:** Buchpreisbindungsgesetz: Mängelexemplare, Remittenden und Preisbindung — BuchPrG § 6, Kennzeichnungspflicht, Handhabung bei Verlag, Auslieferung und Buchhandel.
 
 # Verl-011 · Mängelexemplare, Remittenden und Preisbindung
 

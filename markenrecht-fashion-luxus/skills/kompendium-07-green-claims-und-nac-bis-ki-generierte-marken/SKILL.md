@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-green-claims-und-nac-bis-ki-generierte-marken
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (green-claims-und-nachhaltigkeitsmarken, haptik-und-tastmarke, keyword-advertising-hashtag-influencer, ki-generierte-marken-deepfake-counterfeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Green Claims Und Nachhaltigkeitsmarken, Haptik Und Tastmarke, Keyword Advertising Hashtag Influencer, Ki Generierte Marken Deepfake Counterfeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - markenrecht-fashion-luxus
+# Arbeitsbereich - Green Claims Und Nachhaltigkeitsmarken bis Ki Generierte Marken Deepfake Counterfeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `green-claims-und-nachhaltigkeitsmarken` | Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation. |
 | `haptik-und-tastmarke` | Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `green-claims-und-nachhaltigkeitsmarken`
 
-**Frühere Beschreibung:** Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation.
+**Fokus:** Nachhaltigkeitsmarken und Green Claims prüfen: Markenanmeldung, beschreibende Umweltangaben, Täuschungsgefahr, UWG, Nachweisführung, Zertifizierungszeichen, Greenwashing-Risiko und Produktkommunikation.
 
 # Green Claims und Nachhaltigkeitsmarken
 
@@ -72,7 +72,7 @@ UWG, EU-Verbraucherrecht und aktuelle Green-Claims-Regeln live prüfen.
 
 ## 2. `haptik-und-tastmarke`
 
-**Frühere Beschreibung:** Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse.
+**Fokus:** Haptik- und Tastmarken prüfen: Oberflächenstruktur, Materialgefühl, Darstellbarkeit, Unterscheidungskraft, Verkehrsdurchsetzung, Designschutz, UWG und Produktionsgeheimnisse.
 
 # Tastmarken und Haptik-Marken
 
@@ -230,7 +230,7 @@ Bevor der Schutzweg gewaehlt wird, klaere:
 
 ## 3. `keyword-advertising-hashtag-influencer`
 
-**Frühere Beschreibung:** Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle.
+**Fokus:** Keyword Advertising, Hashtags, Influencer-Posts und Metatags markenrechtlich prüfen: Benutzung im geschäftlichen Verkehr, Herkunftsfunktion, Anzeigenkontext, vergleichende Werbung, Plattformbelege und UWG-Schnittstelle.
 
 # Keyword Advertising, Hashtags und Influencer
 
@@ -273,7 +273,7 @@ EuGH/BGH-Keyword-Rechtsprechung nur mit Datum, Aktenzeichen und Quelle zitieren.
 
 ## 4. `ki-generierte-marken-deepfake-counterfeit`
 
-**Frühere Beschreibung:** KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung.
+**Fokus:** KI-generierte Markenverletzungen, Deepfake-Werbung und Counterfeit-Kampagnen prüfen: synthetische Produktbilder, Fake-Shops, Brand-Impersonation, Plattformmeldungen, DSA, AI-Act-Schnittstelle und Beweissicherung.
 
 # KI-generierte Markenverletzungen und Deepfake-Counterfeit
 

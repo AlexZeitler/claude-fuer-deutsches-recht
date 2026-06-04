@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-notariat-034-rangrue-bis-notariat-037-datensc
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre, notariat-036-signatur-qualifizierte-elektronische-signatur-und-d, notariat-037-datenschutz-im-notariat-aktenversand-und-cloudgrenz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 034 Rangruecktritt Rangvorbehalt Loeschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat 037 Datenschutz Im Notariat Aktenversand Und Cloudgrenz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - notariat-alltag
+# Arbeitsbereich - Notariat 034 Rangruecktritt Rangvorbehalt Loeschung Und Pfandfre, Notariat 036 Signatur Qualifizierte Elektronische Signatur Und D, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre` | Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen. |
 | `notariat-036-signatur-qualifizierte-elektronische-signatur-und-d` | Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-034-rangruecktritt-rangvorbehalt-loeschung-und-pfandfre`
 
-**Frühere Beschreibung:** Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen.
+**Fokus:** Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung und Pfandfreigabe. Grundbuchrangrecht nach §§ 879–882 BGB, Rangrücktritt, Löschungsunterlagen und Pfandfreigabe-Mechanismen.
 
 # Notariat im Alltag: Rangrücktritt, Rangvorbehalt, Löschung, Pfandfreigabe
 
@@ -113,7 +113,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-036-signatur-qualifizierte-elektronische-signatur-und-d`
 
-**Frühere Beschreibung:** Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung.
+**Fokus:** Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate. Rechtliche Anforderungen der qeS nach eIDAS, notarielle Signaturpflichten, zulässige Dateiformate und Signaturprüfung.
 
 # Notariat im Alltag: Signatur – qualifizierte elektronische Signatur und Dateiformate
 
@@ -207,7 +207,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-037-datenschutz-im-notariat-aktenversand-und-cloudgrenz`
 
-**Frühere Beschreibung:** Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung.
+**Fokus:** Notariat im Alltag: Datenschutz im Notariat – Aktenversand und Cloudgrenzen. DSGVO-Pflichten, verschlüsselter Aktenversand, Cloudnutzung im Notariat und Datenschutzfolgenabschätzung.
 
 # Notariat im Alltag: Datenschutz im Notariat – Aktenversand, Cloudgrenzen
 

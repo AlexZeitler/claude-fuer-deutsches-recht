@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-see-089-binnenschiff-bis-see-094-kreuzfahrtsc
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (see-089-binnenschiff-klagepfad-waehlen, see-090-binnenschiff-risiko-memo-schreiben, see-091-kreuzfahrtschiff-register-pruefen, see-092-kreuzfahrtschiff-hypothek-bestellen, see-094-kreuzfahrtschiff-arrest-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 089 Binnenschiff Klagepfad Waehlen, See 090 Binnenschiff Risiko Memo Schreiben, See 091 Kreuzfahrtschiff Register Pruefen, See 092 Kreuzfahrtschiff Hypothek Bestellen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 089 Binnenschiff Klagepfad Waehlen bis See 094 Kreuzfahrtschiff Arrest Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-089-binnenschiff-klagepfad-waehlen` | Binnenschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
 | `see-090-binnenschiff-risiko-memo-schreiben` | Binnenschiff: Gesamtrisikobewertung fuer Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-089-binnenschiff-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Binnenschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Binnenschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Binnenschiff – Klagepfad wählen
 
@@ -121,7 +121,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 2. `see-090-binnenschiff-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Binnenschiff: Gesamtrisikobewertung fuer Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Binnenschiff: Gesamtrisikobewertung fuer Binnenschiffer; Verladungsunternehmen; Kreditinstitut bei Binnenmotorgueterschiff; Tanker oder Fahrgastschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Binnenschiff – Risiko-Memo schreiben
 
@@ -214,7 +214,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 3. `see-091-kreuzfahrtschiff-register-pruefen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger prueft Seeschiffsregister; typisch auslaendische Flagge (Bahamas/Malta) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Kreuzfahrtschiff – Registerprüfung
 
@@ -309,7 +309,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 4. `see-092-kreuzfahrtschiff-hypothek-bestellen`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Kreuzfahrtschiff: Kreuzfahrtreeder; Passagier-Charterer; Passagierrechts-Klaeger bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Kreuzfahrtschiff oder grosses Fahrgastschiff. HGB §§ 536-556 Befoerderung von Reisenden; Athen-Uebereinkommen 2002; SOLAS Kap. III. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Kreuzfahrtschiff – Schiffshypothek bestellen
 
@@ -388,7 +388,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 5. `see-094-kreuzfahrtschiff-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Kreuzfahrtschiff: Glaeubiger sichert Anspruch an Kreuzfahrtschiff oder grosses Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Kreuzfahrtschiff: Glaeubiger sichert Anspruch an Kreuzfahrtschiff oder grosses Fahrgastschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Kreuzfahrtschiff – Arrest vorbereiten
 

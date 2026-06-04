@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-see-061-containersch-bis-see-066-containersch
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (see-061-containerschiff-register-pruefen, see-062-containerschiff-hypothek-bestellen, see-064-containerschiff-arrest-vorbereiten, see-065-containerschiff-wrackpflicht-pruefen, see-066-containerschiff-versicherung-melden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 061 Containerschiff Register Pruefen, See 062 Containerschiff Hypothek Bestellen, See 064 Containerschiff Arrest Vorbereiten, See 065 Containerschiff Wrackpflicht Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 061 Containerschiff Register Pruefen bis See 066 Containerschiff Versicherung Melden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-061-containerschiff-register-pruefen` | Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte. |
 | `see-062-containerschiff-hypothek-bestellen` | Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-061-containerschiff-register-pruefen`
 
-**Frühere Beschreibung:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft prueft Seeschiffsregister oder Auslandsregister unter Bare-Boat auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Containerschiff – Registerprüfung
 
@@ -125,7 +125,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 2. `see-062-containerschiff-hypothek-bestellen`
 
-**Frühere Beschreibung:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Containerlinienfrachtschiff. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Containerschiff – Schiffshypothek bestellen
 
@@ -204,7 +204,7 @@ In Konsortialkrediten hält eine Sicherheitentreuhänderin (Security Trustee) di
 
 ## 3. `see-064-containerschiff-arrest-vorbereiten`
 
-**Frühere Beschreibung:** Containerschiff: Glaeubiger sichert Anspruch an Containerlinienfrachtschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
+**Fokus:** Containerschiff: Glaeubiger sichert Anspruch an Containerlinienfrachtschiff durch dinglichen Arrest (ZPO §§ 916-945); Registervermerk (SchRegO § 67); Vollziehungsfrist 1 Monat. ISAC 1952 Seeforderungen; P&I Letter of Undertaking als Alternative. Output: Arrestantrags-Baustein und Vollziehungs-Zeitplan.
 
 # Containerschiff – Arrest vorbereiten
 
@@ -300,7 +300,7 @@ In der Praxis wird der Arrest häufig durch eine Letter of Undertaking (LOU) des
 
 ## 4. `see-065-containerschiff-wrackpflicht-pruefen`
 
-**Frühere Beschreibung:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Containerlinienfrachtschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
+**Fokus:** Containerschiff: Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft analysiert Wrackbeseitigungspflicht nach WRC 2007 / WSG §§ 1-12 fuer gesunkenes Containerlinienfrachtschiff. Versicherungspflicht ab 300 BRZ; Behoerdenkoordination; Haftungsfolge. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: WRC-Pflichtenanalyse und Kostenrisiko-Vermerk.
 
 # Containerschiff – Wrackbeseitigungspflicht prüfen
 
@@ -392,7 +392,7 @@ Ab 300 BRZ besteht eine Pflichtversicherung für Wrackbeseitigungskosten (WRC Ar
 
 ## 5. `see-066-containerschiff-versicherung-melden`
 
-**Frühere Beschreibung:** Containerschiff: Schadensereignis an Containerlinienfrachtschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
+**Fokus:** Containerschiff: Schadensereignis an Containerlinienfrachtschiff melden: P&I-Club-Meldepflicht; H&M-Police-Meldung; Mortgagee Interest Insurance (MII) aktivieren. VVG §§ 28-30 Obliegenheiten; DTV-Klauseln Kasko; IGP&I Club Rules. Output: Meldecheckliste und Fristenuebersicht.
 
 # Containerschiff – Schadensfall bei Versicherung melden
 

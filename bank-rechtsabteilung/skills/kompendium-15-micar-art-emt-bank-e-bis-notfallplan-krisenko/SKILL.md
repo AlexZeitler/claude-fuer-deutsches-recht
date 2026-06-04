@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-micar-art-emt-bank-e-bis-notfallplan-krisenko
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (micar-art-emt-bank-emission, micar-casp-notifikation-bank-art60, micar-whitepaper-marketing-bank, mifid-wphg-anlageberatung, notfallplan-krisenkommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Micar Art Emt Bank Emission, Micar Casp Notifikation Bank Art60, Micar Whitepaper Marketing Bank, Mifid Wphg Anlageberatung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - bank-rechtsabteilung
+# Arbeitsbereich - Micar Art Emt Bank Emission bis Notfallplan Krisenkommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `micar-art-emt-bank-emission` | ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle. |
 | `micar-casp-notifikation-bank-art60` | MiCAR-CASP-Notifikation für Banken nach Art. 60 prüfen: bestehende Erlaubnis, Kryptowerte-Dienstleistung, 40-Arbeitstage-Frist, Unterlagen, BaFin/Bundesbank-Kommunikation und DORA-Schnittstelle. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `micar-art-emt-bank-emission`
 
-**Frühere Beschreibung:** ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle.
+**Fokus:** ART- und EMT-Emission nach MiCAR für Banken prüfen: Asset-Referenced Token, E-Geld-Token, Zulassung, Whitepaper, Reserve, Rücktausch, Governance und Zahlungsdienste-Schnittstelle.
 
 # MiCAR ART und EMT
 
@@ -136,7 +136,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `micar-casp-notifikation-bank-art60`
 
-**Frühere Beschreibung:** MiCAR-CASP-Notifikation für Banken nach Art. 60 prüfen: bestehende Erlaubnis, Kryptowerte-Dienstleistung, 40-Arbeitstage-Frist, Unterlagen, BaFin/Bundesbank-Kommunikation und DORA-Schnittstelle.
+**Fokus:** MiCAR-CASP-Notifikation für Banken nach Art. 60 prüfen: bestehende Erlaubnis, Kryptowerte-Dienstleistung, 40-Arbeitstage-Frist, Unterlagen, BaFin/Bundesbank-Kommunikation und DORA-Schnittstelle.
 
 # MiCAR CASP für Banken
 
@@ -235,7 +235,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `micar-whitepaper-marketing-bank`
 
-**Frühere Beschreibung:** MiCAR-Whitepaper und Marketing für Kryptowerte prüfen: Pflichtinhalte, Notifizierung, Werbung, Risikoangaben, Website, Social Media, Vertriebspartner und Haftungsrisiken.
+**Fokus:** MiCAR-Whitepaper und Marketing für Kryptowerte prüfen: Pflichtinhalte, Notifizierung, Werbung, Risikoangaben, Website, Social Media, Vertriebspartner und Haftungsrisiken.
 
 # MiCAR Whitepaper und Werbung
 
@@ -334,7 +334,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `mifid-wphg-anlageberatung`
 
-**Frühere Beschreibung:** WpHG- und MiFID-II-Pflichten bei Anlageberatung und Vertrieb: Geeignetheit, Angemessenheit, Zielmarkt, Kosteninformation, Zuwendungen, ESG-Präferenzen und Dokumentation prüfen.
+**Fokus:** WpHG- und MiFID-II-Pflichten bei Anlageberatung und Vertrieb: Geeignetheit, Angemessenheit, Zielmarkt, Kosteninformation, Zuwendungen, ESG-Präferenzen und Dokumentation prüfen.
 
 # WpHG Anlageberatung
 
@@ -449,7 +449,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `notfallplan-krisenkommunikation`
 
-**Frühere Beschreibung:** Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren.
+**Fokus:** Notfallplan und Krisenkommunikation für Bank-Legal: Cyberangriff, Bank Run, BaFin-Maßnahme, Medienanfrage, Whistleblowing, Großschaden oder Vorstandskrise strukturieren.
 
 # Krise und Kommunikation
 

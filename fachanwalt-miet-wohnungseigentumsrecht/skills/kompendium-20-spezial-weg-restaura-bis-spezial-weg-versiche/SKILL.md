@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-spezial-weg-restaura-bis-spezial-weg-versiche
-description: "fachanwalt-miet-wohnungseigentumsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 10 frühere Spezialskills (spezial-weg-restaurant-geruch-laerm, spezial-weg-sondereigentum-gemeinschaftseigentum, spezial-weg-sondernutzungsrecht, spezial-weg-sonderumlage, spezial-weg-tauben-schaedlinge und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-miet-wohnungseigentumsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Weg Restaurant Geruch Laerm, Weg Sondereigentum Gemeinschaftseigentum, Weg Sondernutzungsrecht, Weg Sonderumlage und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-miet-wohnungseigentumsrecht
+# Arbeitsbereich - Weg Restaurant Geruch Laerm bis Weg Versicherungsfall
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-weg-restaurant-geruch-laerm` | Restaurant/Geruch/Lärm in Anlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
 | `spezial-weg-sondereigentum-gemeinschaftseigentum` | Sondereigentum/Gemeinschaftseigentum: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-weg-restaurant-geruch-laerm`
 
-**Frühere Beschreibung:** Restaurant/Geruch/Lärm in Anlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Restaurant/Geruch/Lärm in Anlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Immissionen, Sondernutzung, Mangel, Unterlassung, Bau-/Gewerberecht; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Restaurant/Geruch/Lärm in Anlage
 
@@ -80,7 +80,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 2. `spezial-weg-sondereigentum-gemeinschaftseigentum`
 
-**Frühere Beschreibung:** Sondereigentum/Gemeinschaftseigentum: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Sondereigentum/Gemeinschaftseigentum: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Bauteile, Teilungserklärung, Kostentragung, Beschlusszuständigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Sondereigentum/Gemeinschaftseigentum
 
@@ -125,7 +125,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 3. `spezial-weg-sondernutzungsrecht`
 
-**Frühere Beschreibung:** Sondernutzungsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Sondernutzungsrecht: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Inhalt, Grenzen, Übertragung, bauliche Änderung und Störung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Sondernutzungsrecht
 
@@ -170,7 +170,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 4. `spezial-weg-sonderumlage`
 
-**Frühere Beschreibung:** WEG Sonderumlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Sonderumlage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Anlass, Höhe, Verteilung, Fälligkeit, Anfechtungsrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Sonderumlage
 
@@ -215,7 +215,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 5. `spezial-weg-tauben-schaedlinge`
 
-**Frühere Beschreibung:** Tauben/Schädlinge: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Tauben/Schädlinge: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Abwehrmaßnahmen, Kosten, Tierschutz, Hygiene, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Tauben/Schädlinge
 
@@ -260,7 +260,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 6. `spezial-weg-teilnahme-online-hybrid`
 
-**Frühere Beschreibung:** Online-/Hybridversammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Online-/Hybridversammlung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Beschlussgrundlage, Zugang, Identität, Protokoll, Technikrisiko; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Online-/Hybridversammlung
 
@@ -305,7 +305,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 7. `spezial-weg-umlaufbeschluss`
 
-**Frühere Beschreibung:** Umlaufbeschluss: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Umlaufbeschluss: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Textform, Mehrheit, Umlauffrist, Dokumentation, Anfechtung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Umlaufbeschluss
 
@@ -350,7 +350,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 8. `spezial-weg-unterlassungsklage`
 
-**Frühere Beschreibung:** WEG Unterlassungsklage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Unterlassungsklage: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Störer, Anspruchsinhaber, Gemeinschaft, Eilbedürftigkeit; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Unterlassungsklage
 
@@ -395,7 +395,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 9. `spezial-weg-vermietete-eigentumswohnung`
 
-**Frühere Beschreibung:** Vermietete Eigentumswohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** Vermietete Eigentumswohnung: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schnittstelle Mieter/Eigentümer/Gemeinschaft, Umlage, Duldung; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # Vermietete Eigentumswohnung
 
@@ -440,7 +440,7 @@ Spezialskill im Plugin `fachanwalt-miet-wohnungseigentumsrecht`. Er bearbeitet: 
 
 ## 10. `spezial-weg-versicherungsfall`
 
-**Frühere Beschreibung:** WEG Versicherungsfall: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
+**Fokus:** WEG Versicherungsfall: Spezial-Skill im Miet- und Wohnungseigentumsrecht; prüft Schadenmeldung, Selbstbehalt, Regress, Mietausfall, Beschluss; mit Normprüfung, Beweisen, Fristen, Risikoampel und Arbeitsprodukt.
 
 # WEG Versicherungsfall
 

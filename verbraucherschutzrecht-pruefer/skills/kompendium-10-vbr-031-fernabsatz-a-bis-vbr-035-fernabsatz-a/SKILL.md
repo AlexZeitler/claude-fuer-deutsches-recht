@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-vbr-031-fernabsatz-a-bis-vbr-035-fernabsatz-a
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (vbr-031-fernabsatz-anspruch-pruefen, vbr-032-fernabsatz-widerruf-formulieren, vbr-034-fernabsatz-beweise-sichern, vbr-035-fernabsatz-agb-redlinen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 031 Fernabsatz Anspruch Pruefen, Vbr 032 Fernabsatz Widerruf Formulieren, Vbr 034 Fernabsatz Beweise Sichern, Vbr 035 Fernabsatz Agb Redlinen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 031 Fernabsatz Anspruch Pruefen bis Vbr 035 Fernabsatz Agb Redlinen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-031-fernabsatz-anspruch-pruefen` | Verbraucherschutzrecht Prüfer: Fernabsatz: Anspruch prüfen. Anspruch prüfen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-032-fernabsatz-widerruf-formulieren` | Verbraucherschutzrecht Prüfer: Fernabsatz: Widerruf formulieren. Widerruf formulieren für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-031-fernabsatz-anspruch-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Fernabsatz: Anspruch prüfen. Anspruch prüfen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Fernabsatz: Anspruch prüfen. Anspruch prüfen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fernabsatz Anspruch Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-032-fernabsatz-widerruf-formulieren`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Fernabsatz: Widerruf formulieren. Widerruf formulieren für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Fernabsatz: Widerruf formulieren. Widerruf formulieren für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fernabsatz Widerruf Formulieren
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-034-fernabsatz-beweise-sichern`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Fernabsatz: Beweise sichern. Beweise sichern für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Fernabsatz: Beweise sichern. Beweise sichern für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fernabsatz Beweise Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-035-fernabsatz-agb-redlinen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Fernabsatz: AGB redlinen. AGB redlinen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Fernabsatz: AGB redlinen. AGB redlinen für Fernabsatz im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fernabsatz Agb Redlinen
 

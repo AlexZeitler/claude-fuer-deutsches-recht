@@ -1,35 +1,35 @@
 ---
 name: kompendium-19-schulgesetz-sachsen-bis-schulgesetz-thuering
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (schulgesetz-sachsen, schulgesetz-sachsen-anhalt, schulgesetz-schleswig-holstein, schulgesetz-thueringen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulgesetz Sachsen, Schulgesetz Sachsen Anhalt, Schulgesetz Schleswig Holstein, Schulgesetz Thueringen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - schulrecht-laender
+# Arbeitsbereich - Schulgesetz Sachsen bis Schulgesetz Thueringen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
-| `schulgesetz-sachsen` | Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-sachsen-anhalt` | Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-schleswig-holstein` | Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
-| `schulgesetz-thueringen` | Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.  |
+| `schulgesetz-sachsen` | Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-sachsen-anhalt` | Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-schleswig-holstein` | Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
+| `schulgesetz-thueringen` | Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulgesetz-sachsen`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Sachsen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Sachsen
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 2. `schulgesetz-sachsen-anhalt`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Sachsen-Anhalt mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Sachsen Anhalt
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 3. `schulgesetz-schleswig-holstein`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Schleswig-Holstein mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Schleswig Holstein
 
@@ -230,7 +230,7 @@ Erzeuge bevorzugt: Landesrecht-Steckbrief. Am Ende immer drei Zeilen: **Frist**,
 
 ## 4. `schulgesetz-thueringen`
 
-**Frühere Beschreibung:** Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
+**Fokus:** Prüft Schulrecht in Thüringen mit Landes-Schulgesetz, Verordnungen, Erlassen und Schulaufsicht.
 
 # Schulgesetz Thueringen
 

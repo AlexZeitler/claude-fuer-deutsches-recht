@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-drg-082-arbeitsgeric-bis-drg-089-kodifikation
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 15; bündelt 6 frühere Spezialskills (drg-082-arbeitsgerichtsbarkeit-geschichte, drg-083-sozialgerichtsbarkeit-geschichte, drg-085-verfassungsgerichtsbarkeit-geschichte, drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen, drg-088-gewohnheitsrecht-und-observanz und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 082 Arbeitsgerichtsbarkeit Geschichte, Drg 083 Sozialgerichtsbarkeit Geschichte, Drg 085 Verfassungsgerichtsbarkeit Geschichte, Drg 086 Eu Rechtsgeschichte Fuer Deutsche Juristen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 082 Arbeitsgerichtsbarkeit Geschichte bis Drg 089 Kodifikationstechnik Historisch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-082-arbeitsgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954. |
 | `drg-083-sozialgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-082-arbeitsgerichtsbarkeit-geschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte der Arbeitsgerichtsbarkeit. Gewerbegerichte des Kaiserreichs, Arbeitsgerichtsgesetz 1926, NS-Gleichschaltung, ArbGG 1953 und Bundesarbeitsgericht seit 1954.
 
 # Arbeitsgerichtsbarkeit Geschichte
 
@@ -81,7 +81,7 @@ ArbGG 1926: RGBl. I 1926, 507 via ALEX/OeNB. ArbGG aktuell: gesetze-im-internet.
 
 ## 2. `drg-083-sozialgerichtsbarkeit-geschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte der Sozialgerichtsbarkeit. Entstehung der Sozialversicherung 1883-1889, Spruchkoerper der Sozialversicherung, Sozialgerichtsgesetz 1953 und Bundessozialgericht seit 1954.
 
 # Sozialgerichtsbarkeit Geschichte
 
@@ -133,7 +133,7 @@ RGBl. Texte: ALEX/ÖNB. RVO und SGG: gesetze-im-internet.de. BSG: bsg.bund.de. B
 
 ## 3. `drg-085-verfassungsgerichtsbarkeit-geschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte der Verfassungsgerichtsbarkeit. Staatsgerichtshof der WRV, Entstehung des BVerfG 1951, Normenkontrolle und Grundrechtsbeschwerde als deutsche Innovationen.
 
 # Verfassungsgerichtsbarkeit Geschichte
 
@@ -184,7 +184,7 @@ GG und BVerfGG: gesetze-im-internet.de. BVerfGE vollstaendig: bverfg.de. WRV: do
 
 ## 4. `drg-086-eu-rechtsgeschichte-fuer-deutsche-juristen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung.
+**Fokus:** Deutsche Rechtsgeschichte: Europaeisierung des Rechts aus historischer Perspektive. EGKS 1951, EWG 1957, EG-Vertrag, Maastricht 1992, Lissabon 2007 und Einfluss des Europarechts auf deutsche Rechtsordnung.
 
 # EU-Rechtsgeschichte fuer deutsche Juristen
 
@@ -235,7 +235,7 @@ Vertragstexte: eur-lex.europa.eu. EuGH: curia.europa.eu. BVerfGE: bverfg.de. BGB
 
 ## 5. `drg-088-gewohnheitsrecht-und-observanz`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht.
+**Fokus:** Deutsche Rechtsgeschichte: Gewohnheitsrecht und Observanz. Consuetudo im gemeinen Recht, Puchtas Gewohnheitsrechtslehre, Handelsbräuche im HGB und Gewohnheitsrecht im modernen deutschen Recht.
 
 # Gewohnheitsrecht und Observanz
 
@@ -285,7 +285,7 @@ HGB: gesetze-im-internet.de. BGH: bgh.de. Historische Quellen: Puchta Das Gewohn
 
 ## 6. `drg-089-kodifikationstechnik-historisch`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002.
+**Fokus:** Deutsche Rechtsgeschichte: Kodifikationstechnik im historischen Vergleich. ALR 1794 als kasuistisches System, BGB-Abstraktion und Pandektistik, DDR-ZGB 1975 und moderne Schuldrechtsreform 2002.
 
 # Kodifikationstechnik historisch
 

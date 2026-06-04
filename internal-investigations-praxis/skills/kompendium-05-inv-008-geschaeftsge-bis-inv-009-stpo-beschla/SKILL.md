@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-inv-008-geschaeftsge-bis-inv-009-stpo-beschla
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (inv-008-geschaeftsgeheimnisse, inv-009-stpo-beschlagnahme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 008 Geschaeftsgeheimnisse, Inv 009 Stpo Beschlagnahme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - internal-investigations-praxis
+# Arbeitsbereich - Inv 008 Geschaeftsgeheimnisse, Inv 009 Stpo Beschlagnahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-008-geschaeftsgeheimnisse` | Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz. |
 | `inv-009-stpo-beschlagnahme` | Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-008-geschaeftsgeheimnisse`
 
-**Frühere Beschreibung:** Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz.
+**Fokus:** Schützt Untersuchungsergebnisse und Unternehmensinterna als Geschäftsgeheimnisse – GeschGehG, § 17 UWG a.F., strafrechtlicher Schutz.
 
 # Schutz von Geschäftsgeheimnissen in Internal Investigations
 
@@ -108,7 +108,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-009-stpo-beschlagnahme`
 
-**Frühere Beschreibung:** Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung.
+**Fokus:** Analysiert Beschlagnahmerisiken nach StPO, Schutzstrategien für Anwaltsunterlagen und Verhalten bei Durchsuchung.
 
 # StPO-Beschlagnahme und Durchsuchung
 

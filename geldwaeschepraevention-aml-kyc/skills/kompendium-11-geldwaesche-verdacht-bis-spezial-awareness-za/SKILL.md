@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-geldwaesche-verdacht-bis-spezial-awareness-za
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (geldwaesche-verdachtsmeldung-fiu-goaml, geldwaesche-verpflichteten-check, spezial-awareness-zahlen-schwellen-und-berechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Verdachtsmeldung Fiu Goaml, Geldwaesche Verpflichteten Check, Awareness Zahlen Schwellen Und Berechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Geldwaesche Verdachtsmeldung Fiu Goaml, Geldwaesche Verpflichteten Check, Awareness Zahlen Schwellen Und Berechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-verdachtsmeldung-fiu-goaml` | Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tipping-off-Verbot goAML-Merkblatt FIU. Prüfraster Sachverhaltskern Beteiligte Konten Transaktionen goAML-Felder Anlagen Dokumentationsentscheidung. Output Vollständige goAML-Verdachtsmeldung mit Sachverhaltsbeschreibung Anhalt-Tabelle und Meldungsprotokoll. Abgrenzung zu geldwäsche-transaktionsstopp-freeze und geldwäsche-transaktionsmonitoring. |
 | `geldwaesche-verpflichteten-check` | Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-verdachtsmeldung-fiu-goaml`
 
-**Frühere Beschreibung:** Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tipping-off-Verbot goAML-Merkblatt FIU. Prüfraster Sachverhaltskern Beteiligte Konten Transaktionen goAML-Felder Anlagen Dokumentationsentscheidung. Output Vollständige goAML-Verdachtsmeldung mit Sachverhaltsbeschreibung Anhalt-Tabelle und Meldungsprotokoll. Abgrenzung zu geldwäsche-transaktionsstopp-freeze und geldwäsche-transaktionsmonitoring.
+**Fokus:** Vorbereitung und Einreichung von Verdachtsmeldungen nach § 43 GwG über goAML-Portal an die FIU. Anwendungsfall Sachverhalt mit Verdacht auf Geldwäsche oder Terrorismusfinanzierung ist festgestellt und Meldung muss erstattet werden. Normen § 43 GwG Meldepflicht § 44 GwG Meldeinhalte § 47 GwG Tipping-off-Verbot goAML-Merkblatt FIU. Prüfraster Sachverhaltskern Beteiligte Konten Transaktionen goAML-Felder Anlagen Dokumentationsentscheidung. Output Vollständige goAML-Verdachtsmeldung mit Sachverhaltsbeschreibung Anhalt-Tabelle und Meldungsprotokoll. Abgrenzung zu geldwäsche-transaktionsstopp-freeze und geldwäsche-transaktionsmonitoring.
 
 # Verdachtsmeldung an FIU/goAML
 
@@ -102,7 +102,7 @@ Dieser Skill führt von Verdachtsprüfung bis Meldungsentwurf, ohne voreilig Sch
 
 ## 2. `geldwaesche-verpflichteten-check`
 
-**Frühere Beschreibung:** Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen.
+**Fokus:** Prüft ob und in welcher Rolle ein Unternehmen oder Berufsstraeger nach GwG verpflichtet ist. Anwendungsfall Unternehmen oder Kanzlei will wissen ob GwG-Pflichten bestehen und welche Konsequenzen das hat. Normen § 2 GwG Verpflichtetenkatalog § 2 Abs. 1 Nr. 10 GwG Rechtsanwaelte § 1 Abs. 24 GwG Geldwäsche-Definition. Prüfraster Tätigkeitsbereich Kataloggeschäft Schwellen Rolleneinschraenkungen Befreiungen. Output Verpflichtetencheck-Ergebnis mit Pflichtenkatalog Risikoeinstufung und Implementierungsplan. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen.
 
 # Verpflichtetenstatus nach GwG
 
@@ -162,7 +162,7 @@ Dieser Skill sortiert Branchen, Tätigkeiten, Schwellen, Ausnahmen, Aufsichtszus
 
 ## 3. `spezial-awareness-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Awareness: Zahlen, Schwellenwerte und Berechnung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Awareness: Zahlen, Schwellenwerte und Berechnung im Plugin geldwaeschepraevention aml kyc; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Awareness: Zahlen, Schwellenwerte und Berechnung
 

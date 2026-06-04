@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-oew-006-inhouse-verg-bis-oew-009-daseinsvorso
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (oew-006-inhouse-vergabe-pruefen, oew-007-konzession-oder-auftrag, oew-008-beihilfe-check-eu, oew-009-daseinsvorsorge-und-markt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 006 Inhouse Vergabe Pruefen, Oew 007 Konzession Oder Auftrag, Oew 008 Beihilfe Check Eu, Oew 009 Daseinsvorsorge Und Markt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 006 Inhouse Vergabe Pruefen bis Oew 009 Daseinsvorsorge Und Markt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-006-inhouse-vergabe-pruefen` | Öffentliches Wirtschaftsrecht: Inhouse-Vergabe prüfen. Inhouse-Vergabe prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-007-konzession-oder-auftrag` | Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-006-inhouse-vergabe-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Inhouse-Vergabe prüfen. Inhouse-Vergabe prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Inhouse-Vergabe prüfen. Inhouse-Vergabe prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Inhouse Vergabe Pruefen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-007-konzession-oder-auftrag`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Konzession oder Auftrag. Konzession oder Auftrag im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Konzession Oder Auftrag
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-008-beihilfe-check-eu`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Beihilfe-Check EU. Beihilfe-Check EU im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Beihilfe-Check EU. Beihilfe-Check EU im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Beihilfe Check Eu
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-009-daseinsvorsorge-und-markt`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Daseinsvorsorge und Markt. Daseinsvorsorge und Markt im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Daseinsvorsorge Und Markt
 

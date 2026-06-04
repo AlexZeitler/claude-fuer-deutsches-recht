@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-wahlkampf-ebenen-und-bis-wahlkampf-flooding-g
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (wahlkampf-ebenen-und-wahlart-router, wahlkampf-ehrenamtliche-schulen, wahlkampf-eu-2024-900-politische-werbung, wahlkampf-faktencheck-gegenrede, wahlkampf-flooding-gegenrede-statt-muell) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Ebenen Und Wahlart Router, Wahlkampf Ehrenamtliche Schulen, Wahlkampf Eu 2024 900 Politische Werbung, Wahlkampf Faktencheck Gegenrede und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Ebenen Und Wahlart Router bis Wahlkampf Flooding Gegenrede Statt Muell
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-ebenen-und-wahlart-router` | Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden. |
 | `wahlkampf-ehrenamtliche-schulen` | Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-ebenen-und-wahlart-router`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden.
+**Fokus:** Wahlkampfrecht Praxis: Bundestag, Europa, Landtag, Kommunalwahl, Buergermeisterwahl und Sonderlagen sauber unterscheiden.
 
 # Ebenen Und Wahlart Router
 
@@ -83,7 +83,7 @@ Erzeuge: **Rechtsraum-Matrix mit zustaendiger Wahlleitung**. Wenn Informationen 
 
 ## 2. `wahlkampf-ehrenamtliche-schulen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen.
+**Fokus:** Wahlkampfrecht Praxis: Ehrenamtliche schnell und verstaendlich kampagnentauglich machen.
 
 # Ehrenamtliche Schulen
 
@@ -136,7 +136,7 @@ Erzeuge: **Volunteer-Schulungsblatt**. Wenn Informationen fehlen, stelle höchst
 
 ## 3. `wahlkampf-eu-2024-900-politische-werbung`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen.
+**Fokus:** Wahlkampfrecht Praxis: politische Werbung nach EU-Verordnung 2024/900 pruefen.
 
 # Eu 2024 900 Politische Werbung
 
@@ -197,7 +197,7 @@ Erzeuge: **TTPA-Freigabevermerk**. Wenn Informationen fehlen, stelle höchstens 
 
 ## 4. `wahlkampf-faktencheck-gegenrede`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen.
+**Fokus:** Wahlkampfrecht Praxis: sachliche Gegenrede gegen falsche Wahlkampfnarrative erstellen.
 
 # Faktencheck Gegenrede
 
@@ -250,7 +250,7 @@ Erzeuge: **Faktencheck-Statement**. Wenn Informationen fehlen, stelle höchstens
 
 ## 5. `wahlkampf-flooding-gegenrede-statt-muell`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren.
+**Fokus:** Wahlkampfrecht Praxis: auf Informationsflutung reagieren, ohne selbst Muell zu produzieren.
 
 # Flooding Gegenrede Statt Muell
 

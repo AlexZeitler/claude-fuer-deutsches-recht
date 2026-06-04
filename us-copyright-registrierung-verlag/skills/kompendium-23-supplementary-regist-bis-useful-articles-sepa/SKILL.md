@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-supplementary-regist-bis-useful-articles-sepa
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (supplementary-registration-corrections, templates-open-cases-save-for-later, termination-203-304-recapture, useful-articles-separability) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Supplementary Registration Corrections, Templates Open Cases Save For Later, Termination 203 304 Recapture, Useful Articles Separability; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Supplementary Registration Corrections bis Useful Articles Separability
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `supplementary-registration-corrections` | Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten. |
 | `templates-open-cases-save-for-later` | Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `supplementary-registration-corrections`
 
-**Frühere Beschreibung:** Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten.
+**Fokus:** Fehlerkorrektur und Supplementary Registration: falsche Titel, Claimants, Publication-Daten, AI-Angaben oder Rechteketten sauber nacharbeiten.
 
 # Supplementary Registration und Corrections
 
@@ -72,7 +72,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `templates-open-cases-save-for-later`
 
-**Frühere Beschreibung:** Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik.
+**Fokus:** Templates und Open Cases im eCO-Prozess: Wiederverwendung nur bei gleicher Werkklasse, Statusliste, Fehlerkontrolle und Abbruchlogik.
 
 # Templates, Open Cases und Save for Later
 
@@ -116,7 +116,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `termination-203-304-recapture`
 
-**Frühere Beschreibung:** Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD.
+**Fokus:** Prueft US-Termination, Recapture-Risiken, Notice Window, Grants, Derivative Works Exception und Deal-DD.
 
 # Termination Rights § 203 und § 304
 
@@ -185,7 +185,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `useful-articles-separability`
 
-**Frühere Beschreibung:** Prueft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht.
+**Fokus:** Prueft angewandte Gestaltung, Produktdesign, Fashion, Möbel, Verpackung und separierbare expressive Elemente nach US-Recht.
 
 # Useful Articles und Separability
 

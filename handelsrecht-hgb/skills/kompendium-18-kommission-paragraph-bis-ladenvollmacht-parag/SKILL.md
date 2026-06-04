@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-kommission-paragraph-bis-ladenvollmacht-parag
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (kommission-paragraphen-383-406-hgb, ladenvollmacht-paragraph-56-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - handelsrecht-hgb
+# Arbeitsbereich - Kommission Paragraphen 383 406 Hgb, Ladenvollmacht Paragraph 56 Hgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kommission-paragraphen-383-406-hgb` | Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht. |
 | `ladenvollmacht-paragraph-56-hgb` | Prüft Laden-/Warenlagerangestellte und Verkehrsschutz. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kommission-paragraphen-383-406-hgb`
 
-**Frühere Beschreibung:** Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht.
+**Fokus:** Prüft Kommissionsgeschäft, Selbsteintritt, Ausführung, Provision, Pfandrecht.
 
 # Kommission §§ 383 ff. HGB
 
@@ -79,7 +79,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `ladenvollmacht-paragraph-56-hgb`
 
-**Frühere Beschreibung:** Prüft Laden-/Warenlagerangestellte und Verkehrsschutz.
+**Fokus:** Prüft Laden-/Warenlagerangestellte und Verkehrsschutz.
 
 # Ladenvollmacht § 56 HGB
 

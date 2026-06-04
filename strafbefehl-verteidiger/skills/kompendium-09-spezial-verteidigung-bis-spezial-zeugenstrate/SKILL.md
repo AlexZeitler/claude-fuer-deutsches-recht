@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-spezial-verteidigung-bis-spezial-zeugenstrate
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (spezial-verteidigung-tatbestand-beweis-und-belege, spezial-wiedereinsetzung-zahlen-schwellen-und-berechnung, spezial-zeugenstrategie-mehrparteien-konflikt-und-interessen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Interessen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - strafbefehl-verteidiger
+# Arbeitsbereich - Verteidigung Tatbestand Beweis Und Belege, Wiedereinsetzung Zahlen Schwellen Und Berechnung, Zeugenstrategie Mehrparteien Konflikt Und Intere
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verteidigung-tatbestand-beweis-und-belege` | Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-wiedereinsetzung-zahlen-schwellen-und-berechnung` | Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verteidigung-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verteidigung: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -92,7 +92,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-wiedereinsetzung-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Wiedereinsetzung: Zahlen, Schwellenwerte und Berechnung
 
@@ -169,7 +169,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-zeugenstrategie-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix im Plugin strafbefehl verteidiger; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zeugenstrategie: Mehrparteienkonflikt und Interessenmatrix
 

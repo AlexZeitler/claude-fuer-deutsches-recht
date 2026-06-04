@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-eur-anrufung-eu-peti-bis-europarecht-beihilfe
-description: "europarecht-kompass: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (eur-anrufung-eu-petitionsausschuss, eur-state-aid-notifikation-spezial, europarecht-beihilfen-vergaben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "europarecht-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - europarecht-kompass
+# Arbeitsbereich - Eur Anrufung Eu Petitionsausschuss, Eur State Aid Notifikation Spezial, Europarecht Beihilfen Vergaben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eur-anrufung-eu-petitionsausschuss` | Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen. |
 | `eur-state-aid-notifikation-spezial` | Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster fuer Foerderung und Industrieprojekt. Mustertext fuer Pre-Notification. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eur-anrufung-eu-petitionsausschuss`
 
-**Frühere Beschreibung:** Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen.
+**Fokus:** Anrufung EU-Petitionsausschuss: Voraussetzungen Art. 227 AEUV, Form, Sprache, Inhalt, Beispielfaelle. Pruefraster und Mustertext. Alternative zu Klage Art. 263 / 265 AEUV bei strategischen Anliegen.
 
 # EU: Petitionsausschuss
 
@@ -98,7 +98,7 @@ Dieser Skill gehoert zum Plugin `europarecht-kompass`. Er ergaenzt die uebrigen 
 
 ## 2. `eur-state-aid-notifikation-spezial`
 
-**Frühere Beschreibung:** Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster fuer Foerderung und Industrieprojekt. Mustertext fuer Pre-Notification.
+**Fokus:** Spezialfall State-Aid-Notifikation Art. 108 AEUV: Pflicht zur Anmeldung bei Kommission, Stillstand-Pflicht, De-minimis VO, AGVO Freistellung, Beihilferueckforderung. Pruefraster fuer Foerderung und Industrieprojekt. Mustertext fuer Pre-Notification.
 
 # EU: State-Aid-Notifikation
 
@@ -151,7 +151,7 @@ Dieser Skill gehoert zum Plugin `europarecht-kompass`. Er ergaenzt die uebrigen 
 
 ## 3. `europarecht-beihilfen-vergaben`
 
-**Frühere Beschreibung:** Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell).
+**Fokus:** Beihilfenrecht und Vergaberecht prüfen wenn staatliche Foerderung oder öffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Prüfraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabeprüfmemo. Abgrenzung: nicht für allgemeines Kartellrecht (europarecht-wettbewerb-kartell).
 
 # Beihilfen, Förderungen und Vergabe
 

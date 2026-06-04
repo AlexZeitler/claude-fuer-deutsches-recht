@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-solo-kundenakten-dat-bis-solo-minderjaehrige
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 8 frühere Spezialskills (solo-kundenakten-datenschutz, solo-kundenupdate, solo-leistung-zurueckbehalten, solo-leistungsbeschreibung-scope, solo-lieferung-waren-ausland und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Kundenakten Datenschutz, Solo Kundenupdate, Solo Leistung Zurueckbehalten, Solo Leistungsbeschreibung Scope und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Kundenakten Datenschutz bis Solo Minderjaehrige Kunden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-kundenakten-datenschutz` | Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-kundenupdate` | Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-kundenakten-datenschutz`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Speicherung, Löschung, Zugriff, Backup und Mandanten-/Kundendaten; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Datenschutz IT und Website: Ordnet speicherung
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Datenschutz IT und We
 
 ## 2. `solo-kundenupdate`
 
-**Frühere Beschreibung:** Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: schreibt Statusmail mit nächstem Schritt und offener Mitwirkung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Dokumente und Kommunikation: Schreibt statusmail mit nächstem schritt und offener mitwirkung
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Dokumente und Kommuni
 
 ## 3. `solo-leistung-zurueckbehalten`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Zurückbehaltungsrecht, Sperre, Herausgabe und Eskalationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Zurückbehaltungsrecht, Sperre, Herausgabe und Eskalationsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Prüft zurückbehaltungsrecht
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 4. `solo-leistungsbeschreibung-scope`
 
-**Frühere Beschreibung:** Solo-Selbstständige: schärft Leistungsumfang, Nichtleistungen, Mitwirkung und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: schärft Leistungsumfang, Nichtleistungen, Mitwirkung und Abnahme; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Verträge und AGB: Schärft leistungsumfang
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Verträge und AGB**. 
 
 ## 5. `solo-lieferung-waren-ausland`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Zoll, Incoterms, Versandrisiko und Rücksendung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Zoll, Incoterms, Versandrisiko und Rücksendung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Internationales und Auslandskunden: Prüft zoll
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Internationales und A
 
 ## 6. `solo-mahnbescheid-oder-klage`
 
-**Frühere Beschreibung:** Solo-Selbstständige: entscheidet zwischen Mahnverfahren, Klage, Inkasso und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: entscheidet zwischen Mahnverfahren, Klage, Inkasso und Abschreibung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Entscheidet zwischen mahnverfahren
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 7. `solo-mahnung-mit-verzug`
 
-**Frühere Beschreibung:** Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: setzt Verzug, Zinsen, Pauschale und Frist sauber auf; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Forderungen Mahnung und Streit: Setzt verzug
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Forderungen Mahnung u
 
 ## 8. `solo-minderjaehrige-kunden`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet Verträge, Einwilligungen, Fotos, Datenschutz und Zahlung mit Minderjährigen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Ordnet verträge
 

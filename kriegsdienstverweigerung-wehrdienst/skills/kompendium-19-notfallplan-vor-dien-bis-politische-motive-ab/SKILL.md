@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-notfallplan-vor-dien-bis-politische-motive-ab
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (notfallplan-vor-dienstantritt, parteivernehmung-vorbereiten, personalakte-und-datenschutz-soldaten, personenkennziffer-und-grundakte, politische-motive-abgrenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notfallplan Vor Dienstantritt, Parteivernehmung Vorbereiten, Personalakte Und Datenschutz Soldaten, Personenkennziffer Und Grundakte und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Notfallplan Vor Dienstantritt bis Politische Motive Abgrenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notfallplan-vor-dienstantritt` | Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt. |
 | `parteivernehmung-vorbereiten` | Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notfallplan-vor-dienstantritt`
 
-**Frühere Beschreibung:** Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt.
+**Fokus:** Erstellt 24/48-Stunden-Plan bei kurzfristiger Musterung, Übung oder Dienstantritt.
 
 # Notfallplan Dienstantritt
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `parteivernehmung-vorbereiten`
 
-**Frühere Beschreibung:** Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor.
+**Fokus:** Bereitet persönliche gerichtliche Befragung ehrlich und konsistent vor.
 
 # Parteivernehmung vorbereiten
 
@@ -140,7 +140,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 3. `personalakte-und-datenschutz-soldaten`
 
-**Frühere Beschreibung:** Prüft Personalaktenzuleitung und Datenschutz bei Soldaten-KDV.
+**Fokus:** Prüft Personalaktenzuleitung und Datenschutz bei Soldaten-KDV.
 
 # Personalakte Soldaten
 
@@ -195,7 +195,7 @@ Keine vollständigen Personal-, Gesundheits- oder Gewissensakten in ungeprüfte 
 
 ## 4. `personenkennziffer-und-grundakte`
 
-**Frühere Beschreibung:** Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren.
+**Fokus:** Erklärt Registrierung, PK, Grundakte und Zuleitung im BAPersBw-Verfahren.
 
 # Personenkennziffer und Grundakte
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `politische-motive-abgrenzen`
 
-**Frühere Beschreibung:** Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat.
+**Fokus:** Trennt allgemeine Gewissensentscheidung von Kritik an einem bestimmten Krieg oder Staat.
 
 # Politische Motive abgrenzen
 

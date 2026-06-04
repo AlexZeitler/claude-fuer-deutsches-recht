@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ihl-025-spediteur-un-bis-ihl-021-dap-dpu-ddp
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (ihl-025-spediteur-und-logistikvertrag, ihl-007-cisg-schadensersatz-und-mitigation, ihl-033-sanktionen-und-embargos, ihl-021-dap-dpu-ddp) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 025 Spediteur Und Logistikvertrag, Ihl 007 Cisg Schadensersatz Und Mitigation, Ihl 033 Sanktionen Und Embargos, Ihl 021 Dap Dpu Ddp; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 025 Spediteur Und Logistikvertrag bis Ihl 021 Dap Dpu Ddp
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-025-spediteur-und-logistikvertrag` | Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport. |
 | `ihl-007-cisg-schadensersatz-und-mitigation` | Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-025-spediteur-und-logistikvertrag`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport.
+**Fokus:** Internationales Handelsrecht: Spediteurrecht national (HGB §§ 453-466) und international. FIATA-Dokumente (FBL, FCR, FWR), Spediteurslagerschein, Haftungsregimes bei Sammelladung, Haftungsdurchbrechung durch Kenntnis vom Inhalt und Multimodaltransport.
 
 # Spediteur- und Logistikvertrag
 
@@ -82,7 +82,7 @@ HGB §§ 453-466: gesetze-im-internet.de. ADSp 2017: dslv.org. FIATA-Dokumente: 
 
 ## 2. `ihl-007-cisg-schadensersatz-und-mitigation`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78).
+**Fokus:** Internationales Handelsrecht: Schadensersatz nach CISG Art. 74-77. Voller Ersatz des Verlustes und entgangenen Gewinns (Art. 74), Deckungskauf/-verkauf (Art. 75), abstrakter Marktpreis (Art. 76), Schadenminderungspflicht (Art. 77) und Zinsen (Art. 78).
 
 # Schadensersatz und Schadensminderung (CISG Art. 74-78)
 
@@ -134,7 +134,7 @@ CISG Art. 74-78: uncitral.un.org. Rechtsprechung: CISG-online.ch, jusmundi.com. 
 
 ## 3. `ihl-033-sanktionen-und-embargos`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen.
+**Fokus:** Internationales Handelsrecht: Handelssanktionen EU, USA (OFAC) und UK (OFSI). Blocking Statute (EU VO 2018/1100), SDN-Liste, Sektorsanktionen, Finanzsanktionen, Compliance-Pflichten und Konflikte zwischen EU- und US-Sanktionen.
 
 # Sanktionen und Embargos
 
@@ -186,7 +186,7 @@ EU-Sanktionen: eur-lex.europa.eu. OFAC: home.treasury.gov/policy-issues/office-o
 
 ## 4. `ihl-021-dap-dpu-ddp`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen.
+**Fokus:** Internationales Handelsrecht: Ankunftsklauseln DAP, DPU und DDP nach Incoterms 2020. Gefahrübergang am Bestimmungsort, Entladepflicht (DPU), Verzollungspflicht (DDP), Risiken für Verkäufer und steuerrechtliche Implikationen.
 
 # DAP, DPU, DDP: Ankunftsklauseln
 

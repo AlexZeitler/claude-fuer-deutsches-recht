@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-devops-ci-cd-secrets-bis-dora-finanzsektor-ab
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (devops-ci-cd-secrets, digitale-souveraenitaet-provider-lockin, dora-art16-finanzunternehmen-simplified-framework, dora-finanzsektor-abgrenzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Devops Ci Cd Secrets, Digitale Souveraenitaet Provider Lockin, Dora Art16 Finanzunternehmen Simplified Framework, Dora Finanzsektor Abgrenzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Devops Ci Cd Secrets bis Dora Finanzsektor Abgrenzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `devops-ci-cd-secrets` | Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit. |
 | `digitale-souveraenitaet-provider-lockin` | Bewertet Provider-Lock-in und digitale Souveränität strategisch. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `devops-ci-cd-secrets`
 
-**Frühere Beschreibung:** Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit.
+**Fokus:** Prüft CI/CD, Secrets und Build-Pipeline-Sicherheit.
 
 # Devops Ci Cd Secrets
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `digitale-souveraenitaet-provider-lockin`
 
-**Frühere Beschreibung:** Bewertet Provider-Lock-in und digitale Souveränität strategisch.
+**Fokus:** Bewertet Provider-Lock-in und digitale Souveränität strategisch.
 
 # Digitale Souveraenitaet Provider Lockin
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `dora-art16-finanzunternehmen-simplified-framework`
 
-**Frühere Beschreibung:** DORA-Artikel-16-Spezialskill für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan.
+**Fokus:** DORA-Artikel-16-Spezialskill für Cyber- und Compliance-Teams: prüft, ob ein Finanzunternehmen den vereinfachten IKT-Risikomanagementrahmen nutzen kann, und baut Governance-, Asset-, IAM-, BCP-, Drittparteien- und Nachweisplan.
 
 # DORA Artikel 16 für Finanzunternehmen
 
@@ -173,7 +173,7 @@ Erzeuge eine `DORA-Art.-16-Note`:
 
 ## 4. `dora-finanzsektor-abgrenzung`
 
-**Frühere Beschreibung:** Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab.
+**Fokus:** Grenzt NIS-2 zu DORA bei Banken, Zahlungsdiensten und IKT-Drittparteien ab.
 
 # DORA Finanzsektor Abgrenzung
 

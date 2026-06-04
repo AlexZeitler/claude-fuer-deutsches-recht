@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-inv-036-third-party-bis-inv-037-vendor-kickb
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (inv-036-third-party-agent, inv-037-vendor-kickback) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 036 Third Party Agent, Inv 037 Vendor Kickback; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - internal-investigations-praxis
+# Arbeitsbereich - Inv 036 Third Party Agent, Inv 037 Vendor Kickback
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-036-third-party-agent` | Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung. |
 | `inv-037-vendor-kickback` | Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-036-third-party-agent`
 
-**Frühere Beschreibung:** Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung.
+**Fokus:** Überprüft Third-Party-Agenten und Intermediäre auf FCPA/UK-Bribery-Risiken – Due Diligence, Verträge, Red Flags und Vertragsbeendigung.
 
 # Third-Party-Due-Diligence und Agenten-Untersuchung
 
@@ -114,7 +114,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-037-vendor-kickback`
 
-**Frühere Beschreibung:** Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen.
+**Fokus:** Untersucht Lieferanten-Kickbacks – forensische Zahlungsanalyse, Vergabeverfahren-Review, Täteridentifizierung, strafrechtliche und arbeitsrechtliche Konsequenzen.
 
 # Lieferanten-Kickback-Untersuchung
 

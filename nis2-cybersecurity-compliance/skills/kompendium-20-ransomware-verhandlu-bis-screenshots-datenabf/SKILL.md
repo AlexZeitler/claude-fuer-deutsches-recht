@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-ransomware-verhandlu-bis-screenshots-datenabf
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (ransomware-verhandlungsverbot, remote-access-vpn-zero-trust, risk-register-cyber, screenshots-datenabfluss) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ransomware Verhandlungsverbot, Remote Access Vpn Zero Trust, Risk Register Cyber, Screenshots Datenabfluss; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Ransomware Verhandlungsverbot bis Screenshots Datenabfluss
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ransomware-verhandlungsverbot` | Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen. |
 | `remote-access-vpn-zero-trust` | Prüft VPN, Zero Trust und Remote Access. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ransomware-verhandlungsverbot`
 
-**Frühere Beschreibung:** Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen.
+**Fokus:** Prüft Ransomware-Entscheidungen und Grenzen von Zahlungen.
 
 # Ransomware Verhandlungsverbot
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `remote-access-vpn-zero-trust`
 
-**Frühere Beschreibung:** Prüft VPN, Zero Trust und Remote Access.
+**Fokus:** Prüft VPN, Zero Trust und Remote Access.
 
 # Remote Access VPN Zero Trust
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `risk-register-cyber`
 
-**Frühere Beschreibung:** Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht.
+**Fokus:** Erzeugt ein Cyber-Risikoregister für Leitung, Audit und Aufsicht.
 
 # Risk Register Cyber
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `screenshots-datenabfluss`
 
-**Frühere Beschreibung:** Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets.
+**Fokus:** Prüft Screenshot-Risiken in Support, Slack, Teams und Tickets.
 
 # Screenshots Datenabfluss
 

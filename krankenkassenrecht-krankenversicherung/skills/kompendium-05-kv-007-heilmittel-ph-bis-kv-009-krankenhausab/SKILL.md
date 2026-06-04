@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-kv-007-heilmittel-ph-bis-kv-009-krankenhausab
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung, kv-008-arzneimittel-off-label-und-lifestyle-abgrenzung, kv-009-krankenhausabrechnung-drg-zuzahlung-und-md-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 007 Heilmittel Physiotherapie Ergotherapie Und Genehmigung, Kv 008 Arzneimittel Off Label Und Lifestyle Abgrenzung, Kv 009 Krankenhausabrechnung Drg Zuzahlung Und Md Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 007 Heilmittel Physiotherapie Ergotherapie Und Genehmigung, Kv 008 Arzneimittel Off Label Und Lifestyle Abgrenzung, Kv 009 Krankenhausabre
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung` | Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch. |
 | `kv-008-arzneimittel-off-label-und-lifestyle-abgrenzung` | GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-007-heilmittel-physiotherapie-ergotherapie-und-genehmigung`
 
-**Frühere Beschreibung:** Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch.
+**Fokus:** Heilmittelanspruch nach § 32 SGB V: Heilmittel-Richtlinie, Verordnungsmengen, Langfristgenehmigung, Wirtschaftlichkeitsprüfung und Widerspruch.
 
 # Heilmittel: Physiotherapie, Ergotherapie und Genehmigung
 
@@ -108,7 +108,7 @@ Heilmittel (Physiotherapie, Ergotherapie, Logopädie, Podologie) sind häufig Ge
 
 ## 2. `kv-008-arzneimittel-off-label-und-lifestyle-abgrenzung`
 
-**Frühere Beschreibung:** GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung.
+**Fokus:** GKV-Arzneimittelversorgung: Zulassung, Off-Label-Use nach BSG-Maßstäben, Lifestyle-Ausschluss, AMNOG, Nutzenbewertung und Einzelfallentscheidung.
 
 # Arzneimittel: Off-Label-Use und Lifestyle-Abgrenzung
 
@@ -189,7 +189,7 @@ Dieser Skill klärt, wann die GKV Arzneimittelkosten übernimmt – und wann nic
 
 ## 3. `kv-009-krankenhausabrechnung-drg-zuzahlung-und-md-pruefung`
 
-**Frühere Beschreibung:** Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht, MD-Prüfverfahren, Kürzungen und Widerspruchsstrategien.
+**Fokus:** Krankenhausabrechnung im DRG-System: Kodierung, Zuzahlungspflicht, MD-Prüfverfahren, Kürzungen und Widerspruchsstrategien.
 
 # Krankenhausabrechnung: DRG, Zuzahlung und MD-Prüfung
 

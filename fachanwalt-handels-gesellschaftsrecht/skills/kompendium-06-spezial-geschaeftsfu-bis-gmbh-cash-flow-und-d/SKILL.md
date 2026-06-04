@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-spezial-geschaeftsfu-bis-gmbh-cash-flow-und-d
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung, fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung, gmbh-cash-flow-und-darlehen-gesellschafter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Gesellschafter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Geschaeftsfuehrerhaftung Zahlen Schwellen Und Berechnung, Handels Gesellschaftsrecht Holding Strukturplanung, Gmbh Cash Flow Und Darlehen Ges
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung` | Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung` | Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-geschaeftsfuehrerhaftung-zahlen-schwellen-und-berechnung`
 
-**Frühere Beschreibung:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Geschaeftsfuehrerhaftung: Zahlen, Schwellenwerte und Berechnung
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung`
 
-**Frühere Beschreibung:** Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung.
+**Fokus:** Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holding, Doppel-Holding mit Familienstiftung. Gewerbesteuerkürzung § 9 Nr. 1 S. 2 GewStG Immobilien-Holding. Zeitreihenfolge Holding vor Gründung der Tochter. Wegzugsbesteuerung § 6 AStG. Pflichtteilsschutz § 2325 BGB. Praktische Rechenbeispiele Exit-Vorteil. GmbH-Gründungsaufwand, Notarkosten. Schriftsatzvorlagen Anteilsübertragungsvertrag, Holding-GmbH-Gründung.
 
 ## V90 Fachkern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Holding-Strukturplanung: § 8b KStG Schachtelprivileg (95 % steuerfreier Exit), Varianten Einzel-Holding, Vermögens-Holdi` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -360,7 +360,7 @@ Kosten ca.:
 
 ## 3. `gmbh-cash-flow-und-darlehen-gesellschafter`
 
-**Frühere Beschreibung:** Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung.
+**Fokus:** Gesellschafterdarlehen und Cash-Flow GmbH: § 39 Abs. 1 Nr. 5 InsO Subordination, § 135 InsO Anfechtbarkeit Rueckzahlung in der Krise, Stehenlassen als Eigenkapitalersatz alter Rechtslage gegenueber neuer Lage. Steuerliche Behandlung. Pruefraster fuer Cash-Pool-Strukturen und Konzernfinanzierung.
 
 # GmbH: Gesellschafterdarlehen
 

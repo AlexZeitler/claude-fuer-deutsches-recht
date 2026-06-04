@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-lizenz-collaboration-bis-ma-brand-acquisition
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (lizenz-collaboration-co-branding, ma-brand-acquisition) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lizenz Collaboration Co Branding, Ma Brand Acquisition; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fashion-law-moderecht
+# Arbeitsbereich - Lizenz Collaboration Co Branding, Ma Brand Acquisition
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lizenz-collaboration-co-branding` | Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte. |
 | `ma-brand-acquisition` | M&A und Brand Acquisition im Fashion-Bereich prüfen: Marken, Designs, Lieferanten, Influencer-Verträge, Nachhaltigkeitsclaims, Retouren, Lager und IP-Streit. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lizenz-collaboration-co-branding`
 
-**Frühere Beschreibung:** Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte.
+**Fokus:** Collaboration, Capsule Collection und Co-Branding vertraglich gestalten: Markenlizenz, Designrechte, Freigaben, Revenue Share, Ausstieg und Kommunikationsrechte.
 
 # Lizenz Collaboration Co Branding
 
@@ -59,7 +59,7 @@ Collab-Term-Sheet.
 
 ## 2. `ma-brand-acquisition`
 
-**Frühere Beschreibung:** M&A und Brand Acquisition im Fashion-Bereich prüfen: Marken, Designs, Lieferanten, Influencer-Verträge, Nachhaltigkeitsclaims, Retouren, Lager und IP-Streit.
+**Fokus:** M&A und Brand Acquisition im Fashion-Bereich prüfen: Marken, Designs, Lieferanten, Influencer-Verträge, Nachhaltigkeitsclaims, Retouren, Lager und IP-Streit.
 
 # Ma Brand Acquisition
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-er-bess-kritis-nis2-bis-er-bess-netzanschlus
-description: "energierecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (er-bess-kritis-nis2-cyber, er-bess-marktrollen-bilanzkreis, er-bess-naturschutz-artenschutz, er-bess-netzanschluss-hoehe-spannung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Kritis Nis2 Cyber, Er Bess Marktrollen Bilanzkreis, Er Bess Naturschutz Artenschutz, Er Bess Netzanschluss Hoehe Spannung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - energierecht
+# Arbeitsbereich - Er Bess Kritis Nis2 Cyber bis Er Bess Netzanschluss Hoehe Spannung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-kritis-nis2-cyber` | Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind. |
 | `er-bess-marktrollen-bilanzkreis` | Prüft Betreiber, Lieferant, Direktvermarkter, Bilanzkreis, Redispatch, Fahrplan, MaStR und Datenpflichten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-kritis-nis2-cyber`
 
-**Frühere Beschreibung:** Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind.
+**Fokus:** Prüft, ob Speicher, Leitwarte, Netzanschluss oder Betreiber kritische Anlage/IT-Sicherheitsfall sind.
 
 # KRITIS, NIS2, BSI und Cybersecurity
 
@@ -62,7 +62,7 @@ BSIG, NIS2-Umsetzung live prüfen, EnWG-IT-Sicherheit, KRITIS-Dachgesetz live pr
 
 ## 2. `er-bess-marktrollen-bilanzkreis`
 
-**Frühere Beschreibung:** Prüft Betreiber, Lieferant, Direktvermarkter, Bilanzkreis, Redispatch, Fahrplan, MaStR und Datenpflichten.
+**Fokus:** Prüft Betreiber, Lieferant, Direktvermarkter, Bilanzkreis, Redispatch, Fahrplan, MaStR und Datenpflichten.
 
 # Marktrollen, Bilanzkreis und Redispatch
 
@@ -95,7 +95,7 @@ EnWG, MaStRV, Redispatch-Regeln, Bilanzkreisverträge, Marktkommunikation.
 
 ## 3. `er-bess-naturschutz-artenschutz`
 
-**Frühere Beschreibung:** Prüft Eingriffsregelung, Artenschutz, Ausgleich, Landschaftsbild, Ackerflächen und FFH/Vogelschutz.
+**Fokus:** Prüft Eingriffsregelung, Artenschutz, Ausgleich, Landschaftsbild, Ackerflächen und FFH/Vogelschutz.
 
 # Naturschutz, Artenschutz und Flächenkonkurrenz
 
@@ -128,7 +128,7 @@ BNatSchG, BauGB Umweltbericht, Landesnaturschutz, Planunterlagen.
 
 ## 4. `er-bess-netzanschluss-hoehe-spannung`
 
-**Frühere Beschreibung:** Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan.
+**Fokus:** Prüft Netzanschlussbegehren, Anschlusszusage, Netzverträglichkeitsprüfung, Kostentragung und Zeitplan.
 
 # Netzanschluss: Hochspannung, Umspannwerk und Kapazität
 

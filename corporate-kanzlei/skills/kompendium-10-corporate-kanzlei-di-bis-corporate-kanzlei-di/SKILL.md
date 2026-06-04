@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-corporate-kanzlei-di-bis-corporate-kanzlei-di
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (corporate-kanzlei-disclosure-schedules, corporate-kanzlei-distressed-ma) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Disclosure Schedules, Corporate Kanzlei Distressed Ma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-disclosure-schedules` | Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance. |
 | `corporate-kanzlei-distressed-ma` | Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-disclosure-schedules`
 
-**Frühere Beschreibung:** Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance.
+**Fokus:** Disclosure Schedules zum SPA erstellen und prüfen: Verkaeufer offenbart bekannte Risiken um Warranty-Verletzungen nach § 444 BGB (Arglist) zu verhindern; Kaeufer prüft Vollständigkeit. Normen: § 444 BGB, § 311 Abs. 2 BGB (vorvertragliche Pflichten), § 442 BGB (Kenntnis des Kaeufers). Prüfraster: je Warranty-Abschnitt korrespondierender Schedule, Vollständigkeits-Prüfung, W&I-Versicherungs-Schnittstelle. Output Draft Disclosure Schedules, Luecken-Memo, Disclosure-Letter. Abgrenzung: SPA-Entwurf siehe spa-apa-entwurf; W&I-Police siehe wi-insurance.
 
 # Disclosure Schedules
 
@@ -259,7 +259,7 @@ nach vernaenftiger Nachforschung.
 
 ## 2. `corporate-kanzlei-distressed-ma`
 
-**Frühere Beschreibung:** Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu corporate kanzlei distressed ma. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Distressed M&A
 

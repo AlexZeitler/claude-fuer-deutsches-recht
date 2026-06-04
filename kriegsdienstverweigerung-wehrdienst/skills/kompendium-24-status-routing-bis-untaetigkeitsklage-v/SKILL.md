@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-status-routing-bis-untaetigkeitsklage-v
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 24; bündelt 5 frühere Spezialskills (status-routing, stellungnahmen-dritter, ungedient-ab-2010, ungedient-vor-2010, untaetigkeitsklage-vwgo-75) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Status Routing, Stellungnahmen Dritter, Ungedient Ab 2010, Ungedient Vor 2010 und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Status Routing bis Untaetigkeitsklage Vwgo 75
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `status-routing` | Bestimmt, ob jemand ungedient, wehrpflichtig, Soldat, Reservist, frühere Soldatin oder Sonderfall ist. |
 | `stellungnahmen-dritter` | Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `status-routing`
 
-**Frühere Beschreibung:** Bestimmt, ob jemand ungedient, wehrpflichtig, Soldat, Reservist, frühere Soldatin oder Sonderfall ist.
+**Fokus:** Bestimmt, ob jemand ungedient, wehrpflichtig, Soldat, Reservist, frühere Soldatin oder Sonderfall ist.
 
 # Status-Routing Wehrpflicht Soldat Reservist
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `stellungnahmen-dritter`
 
-**Frühere Beschreibung:** Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen.
+**Fokus:** Prüft, wann Wahrnehmungen Dritter nach § 2 Abs. 3 KDVG helfen.
 
 # Stellungnahmen Dritter
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `ungedient-ab-2010`
 
-**Frühere Beschreibung:** Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse.
+**Fokus:** Prüft jüngere ungediente Personen, Antragstermin und fehlendes aktuelles Bescheidungsinteresse.
 
 # Ungediente ab 01.01.2010
 
@@ -195,7 +195,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 4. `ungedient-vor-2010`
 
-**Frühere Beschreibung:** Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an.
+**Fokus:** Wendet § 13 KDVG n. F. auf vor 2010 geborene ungediente Wehrpflichtige an.
 
 # Ungediente vor 01.01.2010
 
@@ -250,7 +250,7 @@ Politische Ankündigungen nicht als geltendes Recht behandeln; Normstand live pr
 
 ## 5. `untaetigkeitsklage-vwgo-75`
 
-**Frühere Beschreibung:** Prüft Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab.
+**Fokus:** Prüft Rechtsschutz bei Nichtbescheidung und grenzt diffuse Untätigkeitsbeschwerde ab.
 
 # Untätigkeitsklage § 75 VwGO
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-btm-070-mdma-mandant-bis-btm-073-fentanyl-str
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (btm-070-mdma-mandantenbrief-schreiben, btm-071-fentanyl-stoff-pruefen, btm-072-fentanyl-menge-einordnen, btm-073-fentanyl-strafrahmen-routen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 070 Mdma Mandantenbrief Schreiben, Btm 071 Fentanyl Stoff Pruefen, Btm 072 Fentanyl Menge Einordnen, Btm 073 Fentanyl Strafrahmen Routen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 070 Mdma Mandantenbrief Schreiben bis Btm 073 Fentanyl Strafrahmen Routen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-070-mdma-mandantenbrief-schreiben` | Betäubungsmittelrecht: MDMA: Mandantenbrief schreiben. Mandantenbrief schreiben für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-071-fentanyl-stoff-pruefen` | Betäubungsmittelrecht: Fentanyl: Stoff prüfen. Stoff prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-070-mdma-mandantenbrief-schreiben`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: MDMA: Mandantenbrief schreiben. Mandantenbrief schreiben für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: MDMA: Mandantenbrief schreiben. Mandantenbrief schreiben für MDMA im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Mdma Mandantenbrief Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-071-fentanyl-stoff-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Stoff prüfen. Stoff prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Stoff prüfen. Stoff prüfen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Stoff Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-072-fentanyl-menge-einordnen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Menge einordnen. Menge einordnen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Menge einordnen. Menge einordnen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Menge Einordnen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-073-fentanyl-strafrahmen-routen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Fentanyl: Strafrahmen routen. Strafrahmen routen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Fentanyl: Strafrahmen routen. Strafrahmen routen für Fentanyl im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fentanyl Strafrahmen Routen
 

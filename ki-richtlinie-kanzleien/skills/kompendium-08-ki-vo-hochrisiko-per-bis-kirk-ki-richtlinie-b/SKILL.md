@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ki-vo-hochrisiko-per-bis-kirk-ki-richtlinie-b
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ki-vo-hochrisiko-personalwesen, kirk-fortbildung-pflicht-spezial, kirk-ki-richtlinie-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Vo Hochrisiko Personalwesen, Kirk Fortbildung Pflicht Spezial, Kirk Ki Richtlinie Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Ki Vo Hochrisiko Personalwesen, Kirk Fortbildung Pflicht Spezial, Kirk Ki Richtlinie Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-vo-hochrisiko-personalwesen` | KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten. |
 | `kirk-fortbildung-pflicht-spezial` | Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-vo-hochrisiko-personalwesen`
 
-**Frühere Beschreibung:** KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten.
+**Fokus:** KI-VO Hochrisiko-Anforderungen für Personalwesen in Kanzleien ab August 2026: Anwendungsfall Kanzlei setzt KI im HR-Bereich ein oder beraet Mandanten zum AGG-konformen KI-Einsatz bei Bewerberauswahl. Anhang III Nr. 4 KI-VO Hochrisiko Bewerberauswahl, Inkrafttreten 2. August 2026, AGG Diskriminierungsverbot. Prüfraster Hochrisiko-Klassifizierung eigener HR-KI, Konformitätsbewertung, Transparenzpflichten für Betroffene, Beratungsmandate Arbeitsrecht. Output Checkliste Hochrisiko-Anforderungen mit Umsetzungsplan für August 2026. Abgrenzung zu Bias-und-Diskriminierung-Prüfung und zu KI-VO-Betreiber-Pflichten.
 
 # KI-VO Hochrisiko Personalwesen
 
@@ -109,7 +109,7 @@ Verantwortlicher: [NAME], [DATUM]
 
 ## 2. `kirk-fortbildung-pflicht-spezial`
 
-**Frühere Beschreibung:** Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement.
+**Fokus:** Spezialfall Fortbildungspflicht zu KI in der Anwaltschaft: § 43a BRAO, Berufsfortbildung, EU AI Act Art. 4 KI-Kompetenz. Pruefraster fuer Kanzleimanagement.
 
 # KIRK: Fortbildung KI-Pflicht
 
@@ -162,7 +162,7 @@ Dieser Skill gehoert zum Plugin `ki-richtlinie-kanzleien`. Er ergaenzt die uebri
 
 ## 3. `kirk-ki-richtlinie-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT.
+**Fokus:** Bauleiter KI-Richtlinie fuer Kanzlei: zulaessige Tools, Vertraulichkeit, Mandantengeheimnis, Berufsrecht. Pruefraster fuer Geschaeftsfuehrung und IT.
 
 # KIRK: KI-Richtlinie Bauleiter
 

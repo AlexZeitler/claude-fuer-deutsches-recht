@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-frist-sofortcheck-bis-gewerbeanmeldung
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (frist-sofortcheck, nachbar-im-bauverfahren, bussgeld-anhoerung, gewerbeanmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Frist Sofortcheck, Nachbar Im Bauverfahren, Bussgeld Anhoerung, Gewerbeanmeldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Frist Sofortcheck bis Gewerbeanmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `frist-sofortcheck` | Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO. |
 | `nachbar-im-bauverfahren` | Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `frist-sofortcheck`
 
-**Frühere Beschreibung:** Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO.
+**Fokus:** Fristen-Sofortcheck bei Bescheiden: Zugangsfiktion, Monatsfrist, Rechtsbehelfsbelehrung, fehlerhafte Belehrung, Sofortmassnahmen vor Fristablauf, Berechnung nach VwVfG und ZPO.
 
 # Frist Sofortcheck
 
@@ -109,7 +109,7 @@ Behoerden setzen Fristen oder lassen Fristen entstehen (Rechtsbehelf, Aeusserung
 
 ## 2. `nachbar-im-bauverfahren`
 
-**Frühere Beschreibung:** Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage.
+**Fokus:** Erklärt Nachbarrechte, Akteneinsicht, Einwendungen, Frist, Rücksichtnahme und Widerspruch/Klage.
 
 # Nachbar im Bauverfahren
 
@@ -149,7 +149,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `bussgeld-anhoerung`
 
-**Frühere Beschreibung:** Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch.
+**Fokus:** Erklärt Anhörungsbogen, Betroffener, Aussageverweigerung, Fahrerfrage, Fristen und Einspruch.
 
 # Bußgeld-Anhörung
 
@@ -196,7 +196,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `gewerbeanmeldung`
 
-**Frühere Beschreibung:** Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen.
+**Fokus:** Hilft bei Gewerbeanmeldung, Erlaubnissen, IHK/HWK, Steuernummer, Nebengewerbe und Auflagen.
 
 # Gewerbeanmeldung
 

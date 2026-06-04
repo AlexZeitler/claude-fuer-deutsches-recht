@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-pe-023-legal-dd-red-bis-pe-026-management-pr
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (pe-023-legal-dd-red-flag, pe-024-financial-tax-dd-legal-translation, pe-025-commercial-dd-contract-value, pe-026-management-presentation-und-q-and-a) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 023 Legal Dd Red Flag, Pe 024 Financial Tax Dd Legal Translation, Pe 025 Commercial Dd Contract Value, Pe 026 Management Presentation Und Q And A; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - private-equity-praxis
+# Arbeitsbereich - Pe 023 Legal Dd Red Flag bis Pe 026 Management Presentation Und Q And A
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-023-legal-dd-red-flag` | Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call. |
 | `pe-024-financial-tax-dd-legal-translation` | Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-023-legal-dd-red-flag`
 
-**Frühere Beschreibung:** Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call.
+**Fokus:** Erstellt einen fokussierten Red-Flag-Report aus Datenraum, Q&A und Management-Call.
 
 # Legal DD: Red-Flag-Report für PE
 
@@ -70,7 +70,7 @@ BGB/GmbHG/AktG/HGB, Arbeitsrecht, IP, Litigation, Compliance, Regulatory.
 
 ## 2. `pe-024-financial-tax-dd-legal-translation`
 
-**Frühere Beschreibung:** Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues.
+**Fokus:** Übersetzt Quality-of-Earnings, Net Debt, Working Capital, Tax Exposure und Locked-Box-Findings in Legal Issues.
 
 # Financial/Tax DD für Legal Teams übersetzen
 
@@ -111,7 +111,7 @@ SPA-Kaufpreismechanik, Steuerklauseln, Warranty/Indemnity, Disclosure.
 
 ## 3. `pe-025-commercial-dd-contract-value`
 
-**Frühere Beschreibung:** Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen.
+**Fokus:** Prüft, ob Kunden-, Lieferanten-, Händler- und Plattformverträge den Investment Case tragen.
 
 # Commercial DD und Vertragswert
 
@@ -152,7 +152,7 @@ BGB/AGB, HGB-Handelsvertreter, Kartellrecht, Datenschutz, IP-Lizenzen.
 
 ## 4. `pe-026-management-presentation-und-q-and-a`
 
-**Frühere Beschreibung:** Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor.
+**Fokus:** Bereitet Management-Termine, Fragenkatalog, Antwortbewertung und Follow-up-Requests vor.
 
 # Management Presentation und Q&A
 

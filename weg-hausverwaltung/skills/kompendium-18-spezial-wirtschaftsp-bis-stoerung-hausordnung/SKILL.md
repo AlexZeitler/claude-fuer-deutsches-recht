@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-spezial-wirtschaftsp-bis-stoerung-hausordnung
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (spezial-wirtschaftsplan-verhandlung-vergleich-und-eskalation, steckersolar-wallbox-barrierefreiheit, stoerung-hausordnung-mieter-eigentuemer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wirtschaftsplan Verhandlung Vergleich Und Eskalation, Steckersolar Wallbox Barrierefreiheit, Stoerung Hausordnung Mieter Eigentuemer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - weg-hausverwaltung
+# Arbeitsbereich - Wirtschaftsplan Verhandlung Vergleich Und Eskalation, Steckersolar Wallbox Barrierefreiheit, Stoerung Hausordnung Mieter Eigentuemer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-wirtschaftsplan-verhandlung-vergleich-und-eskalation` | Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `steckersolar-wallbox-barrierefreiheit` | Spezialworkflow für privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlusswortlaut und Anfechtungsrisiko. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-wirtschaftsplan-verhandlung-vergleich-und-eskalation`
 
-**Frühere Beschreibung:** Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Wirtschaftsplan: Verhandlung, Vergleich und Eskalation im WEG- und Hausverwaltungsrecht: fachlich vertiefter Spezialskill mit Normenradar (WEG/BGB/BetrKV), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Wirtschaftsplan: Verhandlung, Vergleich und Eskalation
 
@@ -85,7 +85,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `steckersolar-wallbox-barrierefreiheit`
 
-**Frühere Beschreibung:** Spezialworkflow für privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlusswortlaut und Anfechtungsrisiko.
+**Fokus:** Spezialworkflow für privilegierte Maßnahmen nach § 20 Abs. 2 WEG (Stand 05/2026): Steckersolargerät, Wallbox/E-Mobilität, barrierefreier Umbau, Einbruchsschutz, Glasfaseranschluss. Prüft Anspruch, technische Unterlagen, Auflagen, Beschlusswortlaut und Anfechtungsrisiko.
 
 # Steckersolar, Wallbox, Barrierefreiheit und Co.
 
@@ -188,7 +188,7 @@ Folgen: **Anspruch auf Gestattung** (kein freies Ermessen). Die GdWE darf das "W
 
 ## 3. `stoerung-hausordnung-mieter-eigentuemer`
 
-**Frühere Beschreibung:** Bearbeitet Störungen in der WEG (Stand 05/2026): Lärm, Müll, Feuchtigkeit, Geruch, Kamera, Gemeinschaftsflächen, Mieter als Störer, vermietender Eigentümer, Hausordnung, Abmahnung, Beweissicherung. Berücksichtigt BGH V ZR 1/24 (mittelbare Handlungsstörerhaftung des vermietenden Eigentümers) und V ZR 105/24 (Nutzungsabwehr gegen Klimasplit über § 14 Abs. 2 Nr. 1 WEG, § 1004 BGB).
+**Fokus:** Bearbeitet Störungen in der WEG (Stand 05/2026): Lärm, Müll, Feuchtigkeit, Geruch, Kamera, Gemeinschaftsflächen, Mieter als Störer, vermietender Eigentümer, Hausordnung, Abmahnung, Beweissicherung. Berücksichtigt BGH V ZR 1/24 (mittelbare Handlungsstörerhaftung des vermietenden Eigentümers) und V ZR 105/24 (Nutzungsabwehr gegen Klimasplit über § 14 Abs. 2 Nr. 1 WEG, § 1004 BGB).
 
 # Störung, Hausordnung, Mieter und Eigentümer
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-27-tk-regulierungsakte-bis-tk-regulierungsakte
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 27; bündelt 8 frühere Spezialskills (tk-regulierungsakte-frequenzauktion-unterlagenanforderung, tk-regulierungsakte-frequenzzuteilung-rechtsmittel-check, tk-regulierungsakte-frequenzzuteilung-unterlagenanforderung, tk-regulierungsakte-nummernverwaltung-rechtsmittel-check, tk-regulierungsakte-nummernverwaltung-unterlagenanforderung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tk Regulierungsakte Frequenzauktion Unterlagenanforderung, Tk Regulierungsakte Frequenzzuteilung Rechtsmittel Check, Tk Regulierungsakte Frequenzzuteilung Unterlagenanforderung, Tk Regulierungsakte Nummernverwaltung Rechtsmittel Check und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Tk Regulierungsakte Frequenzauktion Unterlagenanforderung bis Tk Regulierungsakte Tkg Marktregulierung Betraechtliche Marktm 2
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tk-regulierungsakte-frequenzauktion-unterlagenanforderung` | Frequenzauktion: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
 | `tk-regulierungsakte-frequenzzuteilung-rechtsmittel-check` | Frequenzzuteilung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tk-regulierungsakte-frequenzauktion-unterlagenanforderung`
 
-**Frühere Beschreibung:** Frequenzauktion: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Frequenzauktion: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Frequenzauktion — Unterlagenanforderung
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `tk-regulierungsakte-frequenzzuteilung-rechtsmittel-check`
 
-**Frühere Beschreibung:** Frequenzzuteilung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Frequenzzuteilung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Frequenzzuteilung — Rechtsmittel-Check
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `tk-regulierungsakte-frequenzzuteilung-unterlagenanforderung`
 
-**Frühere Beschreibung:** Frequenzzuteilung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Frequenzzuteilung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Frequenzzuteilung — Unterlagenanforderung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `tk-regulierungsakte-nummernverwaltung-rechtsmittel-check`
 
-**Frühere Beschreibung:** Nummernverwaltung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Nummernverwaltung: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Nummernverwaltung — Rechtsmittel-Check
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `tk-regulierungsakte-nummernverwaltung-unterlagenanforderung`
 
-**Frühere Beschreibung:** Nummernverwaltung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Nummernverwaltung: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Nummernverwaltung — Unterlagenanforderung
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `tk-regulierungsakte-rufnummernmissbrauch-rechtsmittel-check`
 
-**Frühere Beschreibung:** Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Rufnummernmissbrauch: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Rechtsmittel-Check
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `tk-regulierungsakte-rufnummernmissbrauch-unterlagenanforderung`
 
-**Frühere Beschreibung:** Rufnummernmissbrauch: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Rufnummernmissbrauch: Unterlagenanforderung für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Rufnummernmissbrauch — Unterlagenanforderung
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `tk-regulierungsakte-tkg-marktregulierung-betraechtliche-marktm-2`
 
-**Frühere Beschreibung:** TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** TKG Marktregulierung beträchtliche Marktmacht: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: TKG Marktregulierung beträchtliche Marktmacht — Rechtsmittel-Check
 

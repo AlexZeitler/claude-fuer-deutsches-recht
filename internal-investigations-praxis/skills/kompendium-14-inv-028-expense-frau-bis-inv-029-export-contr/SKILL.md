@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-inv-028-expense-frau-bis-inv-029-export-contr
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (inv-028-expense-fraud, inv-029-export-control-breach) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 028 Expense Fraud, Inv 029 Export Control Breach; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - internal-investigations-praxis
+# Arbeitsbereich - Inv 028 Expense Fraud, Inv 029 Export Control Breach
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-028-expense-fraud` | Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen. |
 | `inv-029-export-control-breach` | Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-028-expense-fraud`
 
-**Frühere Beschreibung:** Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen.
+**Fokus:** Untersucht Spesenabrechungs- und Reisekostenbetrug – forensische Buchprüfung, Beweissicherung, arbeitsrechtliche und strafrechtliche Konsequenzen.
 
 # Spesenbetrug und Reisekostenmissbrauch
 
@@ -113,7 +113,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-029-export-control-breach`
 
-**Frühere Beschreibung:** Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle.
+**Fokus:** Untersucht Verstöße gegen Exportkontrollrecht – AWG, AWV, EG-Dual-Use-VO, BAFA-Meldepflichten, US-Re-Export-Kontrolle.
 
 # Exportkontrollverstöße – Untersuchung und Meldepflichten
 

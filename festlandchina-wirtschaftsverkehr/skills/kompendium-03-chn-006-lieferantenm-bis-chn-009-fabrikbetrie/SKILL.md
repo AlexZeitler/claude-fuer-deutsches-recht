@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-chn-006-lieferantenm-bis-chn-009-fabrikbetrie
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (chn-006-lieferantenmapping-tier-1-bis-tier-n, chn-007-single-source-risk, chn-008-dual-sourcing-und-china-plus-one, chn-009-fabrikbetrieb-in-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 006 Lieferantenmapping Tier 1 Bis Tier N, Chn 007 Single Source Risk, Chn 008 Dual Sourcing Und China Plus One, Chn 009 Fabrikbetrieb In China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 006 Lieferantenmapping Tier 1 Bis Tier N bis Chn 009 Fabrikbetrieb In China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-006-lieferantenmapping-tier-1-bis-tier-n` | Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan. |
 | `chn-007-single-source-risk` | Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-006-lieferantenmapping-tier-1-bis-tier-n`
 
-**Frühere Beschreibung:** Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan.
+**Fokus:** Systematisches Lieferantenmapping bis Tier-3/Tier-n für China-Lieferketten: Datenerhebung, Tier-Klassifizierung, China-Exponiertheits-Score, LkSG-Risikoanalyse §§ 5-7, BAFA-Relevanzprüfung, Forced-Labour-Screening (XUAR). Output: Lieferanten-Mapping-Vorlage mit Risikoscore und Prüfungsplan.
 
 # Lieferantenmapping Tier-1 bis Tier-n: China-Exposition erfassen
 
@@ -119,7 +119,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-007-single-source-risk`
 
-**Frühere Beschreibung:** Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen.
+**Fokus:** Bewertung und Minderung von Single-Source-Risiken bei China-Lieferanten: Identifikation monopolartiger Bezugsquellen, Kritikalitätsbewertung nach CRMA und LkSG § 5, Notfallplanung, Dual-Sourcing-Optionen, vertragliche Absicherung (Force-Majeure, Lieferpflichten). Output: Single-Source-Risikobericht mit Handlungsoptionen.
 
 # Single-Source-Risiko China: Bewertung und Notfallplanung
 
@@ -209,7 +209,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-008-dual-sourcing-und-china-plus-one`
 
-**Frühere Beschreibung:** Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst.
+**Fokus:** Planung und Umsetzung von Dual-Sourcing-Strategien und China-Plus-One-Modellen: Alternativstandorte (Vietnam/Indien/Mexiko), Make-or-Buy-Analyse, LkSG-Konformität neuer Lieferanten, Kostenmodell, Vertragsstruktur Parallellieferanten, BAFA-Freigabe für Technologietransfer. Output: Dual-Sourcing-Businessplan und Lieferantenvertragsgerüst.
 
 # Dual-Sourcing und China-Plus-One: Planung und Umsetzung
 
@@ -299,7 +299,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-009-fabrikbetrieb-in-china`
 
-**Frühere Beschreibung:** Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping.
+**Fokus:** Rechtlicher und operativer Rahmen für Fabrikbetrieb in der VR China: Betriebsgenehmigungen, Umweltauflagen (chinesisches Umweltschutzgesetz), Arbeitssicherheit (Work Safety Law CN), Datenlokalisierung (Cybersecurity Law Art. 37), LkSG-Sorgfaltspflichten aus Deutschland, Notfallplanung. Output: Operations-Compliance-Checkliste und Behörden-Mapping.
 
 # Fabrikbetrieb in China: Rechtlicher Rahmen und Compliance
 

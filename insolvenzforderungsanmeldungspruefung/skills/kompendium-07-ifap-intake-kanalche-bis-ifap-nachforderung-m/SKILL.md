@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-ifap-intake-kanalche-bis-ifap-nachforderung-m
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (ifap-intake-kanalcheck, ifap-masseverbindlichkeit-abgrenzen, ifap-nachforderung-maengelschreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Intake Kanalcheck, Ifap Masseverbindlichkeit Abgrenzen, Ifap Nachforderung Maengelschreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Intake Kanalcheck, Ifap Masseverbindlichkeit Abgrenzen, Ifap Nachforderung Maengelschreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-intake-kanalcheck` | Eingehende Forderungsanmeldungen kanalübergreifend erfassen: Anwendungsfall Insolvenzverwalter-Büro erhält Anmeldungen per Post E-Mail Portal Tabellenexport oder Nachtrag und muss einheitliches Eingangsbuch führen. § 174 InsO Forderungsanmeldung, § 177 InsO Nachtragsanmeldung. Prüfraster Kanal-Identifikation, Metadaten-Erfassung, Eingangs-Zeitstempel, Dubletten-Vorabcheck, Prioritaet bei Fristnaehe. Output strukturiertes Eingangsbuch mit Kanal, Datum, Gläubiger und Status. Abgrenzung zu Aktenanlage-Batchregister für Massenerfassung und zu Formalprüfung. |
 | `ifap-masseverbindlichkeit-abgrenzen` | Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 InsO Insolvenzforderungen. Prüfraster Entstehungszeitpunkt relativ zur Eroeffnung, Verwalterhandeln, Zustimmungsvorbehalt, Neumasse vs. Altmasse. Output Abgrenzungsprotokoll mit rechtlicher Einordnung und Handlungsempfehlung. Abgrenzung zu Formalprüfung-174 und zu Rang-Nachrang. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-intake-kanalcheck`
 
-**Frühere Beschreibung:** Eingehende Forderungsanmeldungen kanalübergreifend erfassen: Anwendungsfall Insolvenzverwalter-Büro erhält Anmeldungen per Post E-Mail Portal Tabellenexport oder Nachtrag und muss einheitliches Eingangsbuch führen. § 174 InsO Forderungsanmeldung, § 177 InsO Nachtragsanmeldung. Prüfraster Kanal-Identifikation, Metadaten-Erfassung, Eingangs-Zeitstempel, Dubletten-Vorabcheck, Prioritaet bei Fristnaehe. Output strukturiertes Eingangsbuch mit Kanal, Datum, Gläubiger und Status. Abgrenzung zu Aktenanlage-Batchregister für Massenerfassung und zu Formalprüfung.
+**Fokus:** Eingehende Forderungsanmeldungen kanalübergreifend erfassen: Anwendungsfall Insolvenzverwalter-Büro erhält Anmeldungen per Post E-Mail Portal Tabellenexport oder Nachtrag und muss einheitliches Eingangsbuch führen. § 174 InsO Forderungsanmeldung, § 177 InsO Nachtragsanmeldung. Prüfraster Kanal-Identifikation, Metadaten-Erfassung, Eingangs-Zeitstempel, Dubletten-Vorabcheck, Prioritaet bei Fristnaehe. Output strukturiertes Eingangsbuch mit Kanal, Datum, Gläubiger und Status. Abgrenzung zu Aktenanlage-Batchregister für Massenerfassung und zu Formalprüfung.
 
 # Intake und Kanalcheck
 
@@ -102,7 +102,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-masseverbindlichkeit-abgrenzen`
 
-**Frühere Beschreibung:** Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 InsO Insolvenzforderungen. Prüfraster Entstehungszeitpunkt relativ zur Eroeffnung, Verwalterhandeln, Zustimmungsvorbehalt, Neumasse vs. Altmasse. Output Abgrenzungsprotokoll mit rechtlicher Einordnung und Handlungsempfehlung. Abgrenzung zu Formalprüfung-174 und zu Rang-Nachrang.
+**Fokus:** Masseverbindlichkeiten von Insolvenzforderungen abgrenzen: Anwendungsfall Insolvenzverwalter erkennt Forderung die nach Verfahrenseroeffnung entstanden sein koennte und muss klaeren ob es Masseverbindlichkeit oder einfache Insolvenzforderung ist. §§ 53-55 InsO Masseverbindlichkeiten, §§ 38-39 InsO Insolvenzforderungen. Prüfraster Entstehungszeitpunkt relativ zur Eroeffnung, Verwalterhandeln, Zustimmungsvorbehalt, Neumasse vs. Altmasse. Output Abgrenzungsprotokoll mit rechtlicher Einordnung und Handlungsempfehlung. Abgrenzung zu Formalprüfung-174 und zu Rang-Nachrang.
 
 # Masseverbindlichkeit abgrenzen
 
@@ -175,7 +175,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-nachforderung-maengelschreiben`
 
-**Frühere Beschreibung:** Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach § 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern. § 174 InsO Pflichtangaben, § 176 InsO Prüfungstermin. Prüfraster fehlende Belege identifizieren, unklaren Anspruchsgrund präzisieren, Zinsrechnung nachfordern, Frist für Reaktion setzen. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist. Abgrenzung zu Formalprüfung-174 und zu Quality-Gate.
+**Fokus:** Mängel- und Nachforderungsschreiben bei unvollständigen Insolvenzanmeldungen: Anwendungsfall Forderungsanmeldung nach § 174 InsO hat Mängel und Insolvenzverwalter muss Gläubiger präzise und freundlich zur Ergänzung auffordern. § 174 InsO Pflichtangaben, § 176 InsO Prüfungstermin. Prüfraster fehlende Belege identifizieren, unklaren Anspruchsgrund präzisieren, Zinsrechnung nachfordern, Frist für Reaktion setzen. Output vollständiges Mängelschreiben mit konkreten Nachforderungen und Reaktionsfrist. Abgrenzung zu Formalprüfung-174 und zu Quality-Gate.
 
 # Nachforderung und Mängelschreiben
 

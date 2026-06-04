@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-verhalten-im-saal-so-bis-video-verhandlung-11
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 24; bündelt 5 frühere Spezialskills (verhalten-im-saal-sozialgericht-laienleitfaden, verletztengeld-46-sgb-vii, verpflichtungsklage-54-sgg, versand-selbst-zurechnung-laien-sozialgericht, video-verhandlung-110a-sgg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verhalten Im Saal Sozialgericht Laienleitfaden, Verletztengeld 46 Sgb Vii, Verpflichtungsklage 54 Sgg, Versand Selbst Zurechnung Laien Sozialgericht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Verhalten Im Saal Sozialgericht Laienleitfaden bis Video Verhandlung 110a Sgg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verhalten-im-saal-sozialgericht-laienleitfaden` | Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt. |
 | `verletztengeld-46-sgb-vii` | Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verhalten-im-saal-sozialgericht-laienleitfaden`
 
-**Frühere Beschreibung:** Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt.
+**Fokus:** Wie verhalte ich mich im Sitzungssaal des SG. Anrede Aufstehen Ehrenamtliche Richter ehrlich antworten ruhig bleiben. Praktischer Leitfaden für Buerger ohne Anwalt.
 
 # Wie verhalte ich mich im Sitzungssaal?
 
@@ -177,7 +177,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 ## 2. `verletztengeld-46-sgb-vii`
 
-**Frühere Beschreibung:** Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster.
+**Fokus:** Verletztengeld nach § 46 SGB VII. Skill klaert die Voraussetzungen Hoehe Beginn Ende der 78-Wochen-Frist Sonderfall fortgesetzte AU und das Verhaeltnis zur Verletztenrente. Liefert Pruefraster.
 
 # Verletztengeld 46 Sgb Vii
 
@@ -223,7 +223,7 @@ Stand: 05/2026. Praxis-Hinweise.
 
 ## 3. `verpflichtungsklage-54-sgg`
 
-**Frühere Beschreibung:** Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger.
+**Fokus:** Die Verpflichtungsklage nach § 54 Abs. 1 SGG. Behoerde soll begehrten Bescheid erlassen. EM-Rente Pflegegrad GdB Beispiele Mustertext für Buerger.
 
 # Die Verpflichtungsklage — § 54 Abs. 1 SGG
 
@@ -405,7 +405,7 @@ Stand: 05/2026. § 54 SGG aktuell. BSG-Linie zum Berufsschutz und zum verschloss
 
 ## 4. `versand-selbst-zurechnung-laien-sozialgericht`
 
-**Frühere Beschreibung:** Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung.
+**Fokus:** Beweise für den Versand sicher organisieren. Einlieferungsschein Rückschein Fax-Sendebericht MJP-Quittung Empfangsstempel. Aufbewahrung Frist-Sicherung.
 
 # Versand-Beweise sicher aufheben
 
@@ -538,7 +538,7 @@ Stand: 05/2026. Standard-Beweispraxis.
 
 ## 5. `video-verhandlung-110a-sgg`
 
-**Frühere Beschreibung:** Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen.
+**Fokus:** Video-Verhandlung beim SG nach § 110a SGG. Wer kann teilnehmen Technik Vorbereitung Verlauf. Praktische Hinweise für Buerger mit gesundheitlichen Einschraenkungen.
 
 # Video-Verhandlung am SG — § 110a SGG
 

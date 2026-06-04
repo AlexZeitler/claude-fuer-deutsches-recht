@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-stv-027-haltverbot-e-bis-stv-030-haltverbot-r
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (stv-027-haltverbot-eilrechtsschutz-planen, stv-028-haltverbot-behoerde-anschreiben, stv-029-haltverbot-karte-bauen, stv-030-haltverbot-risiko-erklaeren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 027 Haltverbot Eilrechtsschutz Planen, Stv 028 Haltverbot Behoerde Anschreiben, Stv 029 Haltverbot Karte Bauen, Stv 030 Haltverbot Risiko Erklaeren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 027 Haltverbot Eilrechtsschutz Planen bis Stv 030 Haltverbot Risiko Erklaeren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-027-haltverbot-eilrechtsschutz-planen` | Straßenverkehrsrecht StVO: Haltverbot: Eilrechtsschutz planen. Eilrechtsschutz planen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-028-haltverbot-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Haltverbot: Behörde anschreiben. Behörde anschreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-027-haltverbot-eilrechtsschutz-planen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Eilrechtsschutz planen. Eilrechtsschutz planen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Eilrechtsschutz planen. Eilrechtsschutz planen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Eilrechtsschutz Planen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-028-haltverbot-behoerde-anschreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Behörde anschreiben. Behörde anschreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Behörde anschreiben. Behörde anschreiben für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Behoerde Anschreiben
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-029-haltverbot-karte-bauen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Karte bauen. Karte bauen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Karte bauen. Karte bauen für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Karte Bauen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-030-haltverbot-risiko-erklaeren`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Haltverbot: Risiko erklären. Risiko erklären für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Haltverbot: Risiko erklären. Risiko erklären für Haltverbot im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Haltverbot Risiko Erklaeren
 

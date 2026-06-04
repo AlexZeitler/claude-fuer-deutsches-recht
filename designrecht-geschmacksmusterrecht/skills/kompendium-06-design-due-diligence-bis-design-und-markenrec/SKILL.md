@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-design-due-diligence-bis-design-und-markenrec
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (design-due-diligence-ma, design-und-markenrecht-formmarke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Design Due Diligence Ma, Design Und Markenrecht Formmarke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Design Due Diligence Ma, Design Und Markenrecht Formmarke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `design-due-diligence-ma` | Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber. |
 | `design-und-markenrecht-formmarke` | Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `design-due-diligence-ma`
 
-**Frühere Beschreibung:** Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber.
+**Fokus:** Design-Due-Diligence in M&A und Finanzierung: Register, Rechtekette, Lizenzen, Verletzungsstreit, Abhängigkeit von Einzelentwerfern und Werttreiber.
 
 # Design Due Diligence Ma
 
@@ -59,7 +59,7 @@ DD-Red-Flag-Report.
 
 ## 2. `design-und-markenrecht-formmarke`
 
-**Frühere Beschreibung:** Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse.
+**Fokus:** Designrecht und Markenrecht bei Form, Position, Muster und Produktauftritt abgrenzen: kurzfristiger Designschutz, dauerhafte Marke, Verkehrsdurchsetzung und Schutzhindernisse.
 
 # Design Und Markenrecht Formmarke
 

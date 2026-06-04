@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-iv-sicherung-betrieb-bis-iv-tabelle-pruefungs
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (iv-sicherung-betriebsfortfuehrung, iv-tabelle-pruefungstermin) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - insolvenzverwaltung
+# Arbeitsbereich - Iv Sicherung Betriebsfortfuehrung, Iv Tabelle Pruefungstermin
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-sicherung-betriebsfortfuehrung` | Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster: Fortführungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operative Risiken. Output: Fortführungsplan Liquiditaetsplan Risikoliste. Abgrenzung: nicht für Personalrecht (iv-arbeitsrecht-insolvenzgeld). |
 | `iv-tabelle-pruefungstermin` | Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststellungsantrag. Abgrenzung: nicht für Forderungsanmeldungsprüfung (iv-forderungsanmeldung-prüfung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-sicherung-betriebsfortfuehrung`
 
-**Frühere Beschreibung:** Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster: Fortführungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operative Risiken. Output: Fortführungsplan Liquiditaetsplan Risikoliste. Abgrenzung: nicht für Personalrecht (iv-arbeitsrecht-insolvenzgeld).
+**Fokus:** Betrieb in Insolvenz fortführen wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhältnisse. Prüfraster: Fortführungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operative Risiken. Output: Fortführungsplan Liquiditaetsplan Risikoliste. Abgrenzung: nicht für Personalrecht (iv-arbeitsrecht-insolvenzgeld).
 
 # Sicherung und Betriebsfortführung
 
@@ -115,7 +115,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `iv-tabelle-pruefungstermin`
 
-**Frühere Beschreibung:** Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststellungsantrag. Abgrenzung: nicht für Forderungsanmeldungsprüfung (iv-forderungsanmeldung-prüfung).
+**Fokus:** Insolvenztabelle konsolidieren und Prüfungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenführung und Widersprueche. Prüfraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklärungen Feststellungsantrag. Abgrenzung: nicht für Forderungsanmeldungsprüfung (iv-forderungsanmeldung-prüfung).
 
 # Tabelle und Prüfungstermin
 

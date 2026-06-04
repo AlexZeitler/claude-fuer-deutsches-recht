@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-aussenwirtschaft-pre-bis-aussenwirtschaft-ree
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (aussenwirtschaft-presse-krise, aussenwirtschaft-produktsicherheit-vub-schnittstelle, aussenwirtschaft-pruefung-ermittlung, aussenwirtschaft-reexport-weitergabe-kettenlieferung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Presse Krise, Aussenwirtschaft Produktsicherheit Vub Schnittstelle, Aussenwirtschaft Pruefung Ermittlung, Aussenwirtschaft Reexport Weitergabe Kettenlieferung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Presse Krise bis Aussenwirtschaft Reexport Weitergabe Kettenlieferung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-presse-krise` | Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage. |
 | `aussenwirtschaft-produktsicherheit-vub-schnittstelle` | Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-presse-krise`
 
-**Frühere Beschreibung:** Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage.
+**Fokus:** Krisenmanagement bei medialer Berichterstattung ueber Exportkontroll- oder Sanktionsverstoss: Sofortmassnahmen, Koordination zwischen Rechtsabteilung, Kommunikation und Geschaeftsfuehrung, behordliche Kommunikation waehrend Medienexponierung, Q&A-Vorbereitung. Output: Krisenhandbuch-Gliederung und Q&A-Vorlage.
 
 # Presse und Krise bei Exportkontroll- oder Sanktionsverstoss: Krisenmanagement
 
@@ -116,7 +116,7 @@ Krisenhandbuch-Gliederung, Q&A-Vorlage, Pressemitteilungs-Erstfassung, Behoerden
 
 ## 2. `aussenwirtschaft-produktsicherheit-vub-schnittstelle`
 
-**Frühere Beschreibung:** Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien.
+**Fokus:** Schnittstelle zwischen Produktsicherheitsanforderungen und Verboten und Beschraenkungen (VuB) im Zollrecht: CE-Kennzeichnung als Einfuhrvoraussetzung, RAPEX-Meldungen als Zollkontrollausloeser, Marktueberwaecheung und Zollbehordenzusammenarbeit nach VO (EU) 2019/1020. Output: Einfuhr-VuB-Matrix fuer Produktkategorien.
 
 # Produktsicherheit und Zoll-VuB: CE-Kennzeichnung und RAPEX-Schnittstelle
 
@@ -203,7 +203,7 @@ Einfuhr-VuB-Matrix fuer relevante Produktkategorien, RAPEX-Pruefprotokoll, CE-Do
 
 ## 3. `aussenwirtschaft-pruefung-ermittlung`
 
-**Frühere Beschreibung:** Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rechtsmittelschriftsatz.
+**Fokus:** Verteidigung bei BAFA-Aussenpruefung und zollrechtlicher Betriebspruefung: Ablauf der Pruefung, Auskunftspflicht vs. Schweigerecht, Umgang mit Pruefer-Fragen, Akteneinsicht, Einspruch gegen Pruefungsergebnis und Uebergang zur strafrechtlichen Ermittlung. Output: Pruefungsbegleit-Protokoll und Rechtsmittelschriftsatz.
 
 # BAFA-Aussenpruefung und Zollbetriebspruefung: Verteidigung und Protokollierung
 
@@ -290,7 +290,7 @@ Pruefungsbegleit-Protokoll-Vorlage, Mitarbeiter-Briefing-Handout, Dokumentenherg
 
 ## 4. `aussenwirtschaft-reexport-weitergabe-kettenlieferung`
 
-**Frühere Beschreibung:** Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix.
+**Fokus:** Exportkontrollpruefung bei Re-Export und Kettenlieferungen: Weitergabe-Beschraenkungen in BAFA-Genehmigungen, Re-Export-Verbote in Handelsvertraegen, Catch-All-Risiko bei Weiterlieferung an Endabnehmer in Hochrisikolaendern, No-Russia-Clause Art. 12g VO (EU) 833/2014 in der Lieferkette. Output: Re-Export-Pruefmatrix.
 
 # Re-Export und Kettenlieferung: Weitergabeverbote und Catch-All-Risiken
 

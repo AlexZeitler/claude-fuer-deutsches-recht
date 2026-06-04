@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-kommunale-klinik-bei-bis-krankenhausapotheke
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (kommunale-klinik-beihilfe-und-eu-beihilfen, krankenhaus-mvz-gruendung-zulassung-compliance, krankenhausapotheke-arzneimittelversorgung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - krankenhausrecht
+# Arbeitsbereich - Kommunale Klinik Beihilfe Und Eu Beihilfen, Krankenhaus Mvz Gruendung Zulassung Compliance, Krankenhausapotheke Arzneimittelversorgung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kommunale-klinik-beihilfe-und-eu-beihilfen` | Kommunale Klinik Beihilfe und EU-Beihilfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 | `krankenhaus-mvz-gruendung-zulassung-compliance` | Krankenhaus-MVZ Gründung Zulassung Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kommunale-klinik-beihilfe-und-eu-beihilfen`
 
-**Frühere Beschreibung:** Kommunale Klinik Beihilfe und EU-Beihilfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Kommunale Klinik Beihilfe und EU-Beihilfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Kommunale Klinik Beihilfe und EU-Beihilfen
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `krankenhaus-mvz-gruendung-zulassung-compliance`
 
-**Frühere Beschreibung:** Krankenhaus-MVZ Gründung Zulassung Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Krankenhaus-MVZ Gründung Zulassung Compliance: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Krankenhaus-MVZ Gründung Zulassung Compliance
 
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `krankenhausapotheke-arzneimittelversorgung`
 
-**Frühere Beschreibung:** Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse.
+**Fokus:** Krankenhausapotheke und Arzneimittelversorgung: AMG, ApoG, ApBetrO, Versorgungsvertrag § 14 ApoG, Pruefungspflicht, Substitution, NUB, Zytostatika, Antibiotic Stewardship und Lieferengpaesse.
 
 # Krankenhausapotheke Arzneimittelversorgung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-insurance-notice-bis-kanzlei-ki-tool-mand
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (insurance-notice, investigation-governance, invoice-review-narratives, joint-ai-workspace, kanzlei-ki-tool-mandanteneinwilligung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insurance Notice, Investigation Governance, Invoice Review Narratives, Joint Ai Workspace und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Insurance Notice bis Kanzlei Ki Tool Mandanteneinwilligung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insurance-notice` | Insurance Notice: steuert D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `investigation-governance` | Investigation Governance: steuert interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insurance-notice`
 
-**Frühere Beschreibung:** Insurance Notice: steuert D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Insurance Notice: steuert D&O, Rechtsschutz, Cyber, Produkthaftpflicht und Deckungsmeldung im Mandat koordinieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Insurance Notice
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `investigation-governance`
 
-**Frühere Beschreibung:** Investigation Governance: steuert interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Investigation Governance: steuert interne Untersuchung, Upjohn-Warnung, Interviewplan, Dokumentensicherung und Reporting zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Investigation Governance
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `invoice-review-narratives`
 
-**Frühere Beschreibung:** Invoice Review Narratives: steuert Stundenbeschreibungen auf Verständlichkeit, Doppelerfassung, Blockbilling und OCG-Konformität prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Invoice Review Narratives: steuert Stundenbeschreibungen auf Verständlichkeit, Doppelerfassung, Blockbilling und OCG-Konformität prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Invoice Review Narratives
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `joint-ai-workspace`
 
-**Frühere Beschreibung:** Gemeinsamer KI-Workspace: steuert Kanzlei und Mandant arbeiten in einem KI-System mit getrennten Rollen, Logs und Freigaben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Gemeinsamer KI-Workspace: steuert Kanzlei und Mandant arbeiten in einem KI-System mit getrennten Rollen, Logs und Freigaben zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Gemeinsamer KI-Workspace
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `kanzlei-ki-tool-mandanteneinwilligung`
 
-**Frühere Beschreibung:** KI-Tool und Mandanteneinwilligung: steuert KI-Einsatz im Mandat offenlegen, absichern, begrenzen und dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** KI-Tool und Mandanteneinwilligung: steuert KI-Einsatz im Mandat offenlegen, absichern, begrenzen und dokumentieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # KI-Tool und Mandanteneinwilligung
 

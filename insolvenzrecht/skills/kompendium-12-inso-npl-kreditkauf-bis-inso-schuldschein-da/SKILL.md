@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-inso-npl-kreditkauf-bis-inso-schuldschein-da
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (inso-npl-kreditkauf-krzwmg, inso-restschuldbefreiung-und-versagungsgruende, inso-schufa-restschuldbefreiung-loeschung, inso-schuldschein-darlehen-in-der-insolvenz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Npl Kreditkauf Krzwmg, Inso Restschuldbefreiung Und Versagungsgruende, Inso Schufa Restschuldbefreiung Loeschung, Inso Schuldschein Darlehen In Der Insolvenz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - insolvenzrecht
+# Arbeitsbereich - Inso Npl Kreditkauf Krzwmg bis Inso Schuldschein Darlehen In Der Insolvenz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-npl-kreditkauf-krzwmg` | Prüft Kreditkauf notleidender Darlehen vor und im Insolvenzverfahren: Kreditkäufer, Kreditdienstleister, Datenschutz, Notices, Sicherheiten und Enforcement. |
 | `inso-restschuldbefreiung-und-versagungsgruende` | Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermoegensverschwendung, falsche Angaben). Pruefraster und Mandantenleitfaden. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-npl-kreditkauf-krzwmg`
 
-**Frühere Beschreibung:** Prüft Kreditkauf notleidender Darlehen vor und im Insolvenzverfahren: Kreditkäufer, Kreditdienstleister, Datenschutz, Notices, Sicherheiten und Enforcement.
+**Fokus:** Prüft Kreditkauf notleidender Darlehen vor und im Insolvenzverfahren: Kreditkäufer, Kreditdienstleister, Datenschutz, Notices, Sicherheiten und Enforcement.
 
 # Insolvenz: NPL-Kreditkauf und KrZwMG
 
@@ -72,7 +72,7 @@ Kreditzweitmarktgesetz, InsO, BGB Abtretung, DSGVO, ZVG.
 
 ## 2. `inso-restschuldbefreiung-und-versagungsgruende`
 
-**Frühere Beschreibung:** Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermoegensverschwendung, falsche Angaben). Pruefraster und Mandantenleitfaden.
+**Fokus:** Restschuldbefreiung Verbraucher und Unternehmer: 3 Jahre Wohlverhaltensphase seit 2020, Versagungsgruende § 290 InsO (Verurteilung wegen Insolvenzstraftat, Vermoegensverschwendung, falsche Angaben). Pruefraster und Mandantenleitfaden.
 
 # InsO: Restschuldbefreiung
 
@@ -133,7 +133,7 @@ Dieser Skill gehoert zum Plugin `insolvenzrecht`. Er ergaenzt die uebrigen Skill
 
 ## 3. `inso-schufa-restschuldbefreiung-loeschung`
 
-**Frühere Beschreibung:** SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lassen: Insolvenzbekanntmachung, EuGH C-26/22/C-64/22, DSGVO und Neustartstrategie.
+**Fokus:** SCHUFA-/Auskunfteieinträge nach Restschuldbefreiung löschen lassen: Insolvenzbekanntmachung, EuGH C-26/22/C-64/22, DSGVO und Neustartstrategie.
 
 # Insolvenzrecht: SCHUFA nach Restschuldbefreiung
 
@@ -176,7 +176,7 @@ Konkrete Normen, konkrete Unterlagen, konkrete nächste Handlung. Keine pauschal
 
 ## 4. `inso-schuldschein-darlehen-in-der-insolvenz`
 
-**Frühere Beschreibung:** Prüft Schuldscheindarlehen im Insolvenzverfahren: Forderungsanmeldung, Rang, Abtretung, Sicherheiten, Zahlstelle, Gläubigeridentität und Anfechtung.
+**Fokus:** Prüft Schuldscheindarlehen im Insolvenzverfahren: Forderungsanmeldung, Rang, Abtretung, Sicherheiten, Zahlstelle, Gläubigeridentität und Anfechtung.
 
 # Insolvenz: Schuldscheindarlehen
 

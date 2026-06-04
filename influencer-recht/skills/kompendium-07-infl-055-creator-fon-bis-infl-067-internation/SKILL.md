@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-infl-055-creator-fon-bis-infl-067-internation
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (infl-055-creator-fonds-plattformauszahlung, infl-064-jahresabschluss-creator-risiken, infl-067-internationaler-creator-wohnsitz-und-wegzug) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - influencer-recht
+# Arbeitsbereich - Infl 055 Creator Fonds Plattformauszahlung, Infl 064 Jahresabschluss Creator Risiken, Infl 067 Internationaler Creator Wohnsitz Und Wegzug
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-055-creator-fonds-plattformauszahlung` | Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten. |
 | `infl-064-jahresabschluss-creator-risiken` | Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-055-creator-fonds-plattformauszahlung`
 
-**Frühere Beschreibung:** Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten.
+**Fokus:** Influencer-Recht: Creator-Fonds und Plattformauszahlungen – steuerliche Behandlung, Abrechnungsstrukturen, USt-Pflicht und internationale Besonderheiten.
 
 # Influencer-Recht: Creator-Fonds und Plattformauszahlung
 
@@ -95,7 +95,7 @@ Plattform-Monetarisierungsprogramme (TikTok Creator Fund, YouTube AdSense, Meta 
 
 ## 2. `infl-064-jahresabschluss-creator-risiken`
 
-**Frühere Beschreibung:** Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale.
+**Fokus:** Influencer-Recht: Jahresabschluss für Creator – EÜR, Steuererklärung, Risikofelder, Abgabefristen und Optimierungspotenziale.
 
 # Influencer-Recht: Jahresabschluss – Creator-Risiken
 
@@ -163,7 +163,7 @@ Der Jahresabschluss eines Creators ist komplexer als bei klassischen Gewerbetrei
 
 ## 3. `infl-067-internationaler-creator-wohnsitz-und-wegzug`
 
-**Frühere Beschreibung:** Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen.
+**Fokus:** Influencer-Recht: Internationaler Wohnsitz und Wegzug – Steuerrecht, Wegzugsbesteuerung, DBA, Telearbeit und sozialversicherungsrechtliche Konsequenzen.
 
 # Influencer-Recht: Internationaler Wohnsitz und Wegzug
 

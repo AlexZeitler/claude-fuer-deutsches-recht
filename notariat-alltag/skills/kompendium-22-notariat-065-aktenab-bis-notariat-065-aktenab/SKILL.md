@@ -1,32 +1,32 @@
 ---
 name: kompendium-22-notariat-065-aktenab-bis-notariat-065-aktenab
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 22; bündelt 1 frühere Spezialskills (notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill zu Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - notariat-alltag
+# Arbeitsbereich - Notariat 065 Aktenabschluss Archivierung Und Offene Vollzugsrest
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest` | Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-065-aktenabschluss-archivierung-und-offene-vollzugsrest`
 
-**Frühere Beschreibung:** Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste.
+**Fokus:** Notariat im Alltag: Aktenabschluss, Archivierung und offene Vollzugsreste. Ordnungsgemäßer Abschluss eines Vorgangs nach vollständigem Vollzug, Archivierungsanforderungen und Behandlung offener Vollzugsreste.
 
 # Notariat im Alltag: Aktenabschluss, Archivierung, offene Vollzugsreste
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-iv-anfechtung-129ff-bis-iv-arbeitsrecht-inso
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (iv-anfechtung-129ff, iv-arbeitsrecht-insolvenzgeld) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Anfechtung 129ff, Iv Arbeitsrecht Insolvenzgeld; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - insolvenzverwaltung
+# Arbeitsbereich - Iv Anfechtung 129ff, Iv Arbeitsrecht Insolvenzgeld
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-anfechtung-129ff` | Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen. |
 | `iv-arbeitsrecht-insolvenzgeld` | Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-anfechtung-129ff`
 
-**Frühere Beschreibung:** Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen.
+**Fokus:** Insolvenzanfechtungsansprüche nach §§ 129-147 InsO aus Verwaltersicht prüfen und verfolgen. Enthält KI-gestütztes Schuldnerakten-Screening, Kandidatenmatrix, §§ 130/131/133/134/135, Bargeschäft § 142, Rechtsfolgen §§ 143-147, Verjährung § 146 und Grenzen bei § 133-Wertungen sowie Dreiecksverhältnissen.
 
 # Insolvenzanfechtung §§ 129 ff. InsO
 
@@ -157,7 +157,7 @@ Hinweis: Keine Rechtsberatung. Die KI kann Anfechtungsrisiken aus Akten sichtbar
 
 ## 2. `iv-arbeitsrecht-insolvenzgeld`
 
-**Frühere Beschreibung:** Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung).
+**Fokus:** Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung).
 
 # Arbeitsrecht, Personal und Insolvenzgeld
 

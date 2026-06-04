@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-verkehrsowi-punkte-f-bis-verkehrsowi-rotlicht
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (verkehrsowi-punkte-fahrverbot-flensburg, verkehrsowi-rechtsbeschwerde, verkehrsowi-rotlicht-abstand-handy) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsowi Punkte Fahrverbot Flensburg, Verkehrsowi Rechtsbeschwerde, Verkehrsowi Rotlicht Abstand Handy; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verkehrsowi-verteidiger
+# Arbeitsbereich - Verkehrsowi Punkte Fahrverbot Flensburg, Verkehrsowi Rechtsbeschwerde, Verkehrsowi Rotlicht Abstand Handy
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehrsowi-punkte-fahrverbot-flensburg` | Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Führerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Prüfraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Übersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin. |
 | `verkehrsowi-rechtsbeschwerde` | Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehrsowi-punkte-fahrverbot-flensburg`
 
-**Frühere Beschreibung:** Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Führerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Prüfraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Übersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin.
+**Fokus:** Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Führerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Prüfraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Übersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin.
 
 # Punkte und Fahrverbot — Fahreignungsregister Flensburg
 
@@ -97,7 +97,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `verkehrsowi-rechtsbeschwerde`
 
-**Frühere Beschreibung:** Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht.
+**Fokus:** Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse über 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begründungspflicht), Frist 1 Woche ab Urteil. Prüfraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bußgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht.
 
 # Rechtsbeschwerde im OWi-Verfahren — § 79 OWiG
 
@@ -184,7 +184,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 3. `verkehrsowi-rotlicht-abstand-handy`
 
-**Frühere Beschreibung:** Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Prüfraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie.
+**Fokus:** Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bußgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Prüfraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie.
 
 # Rotlicht, Abstand und Handy — §§ 23, 37, 4 StVO
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-plattformsales-dsa-m-bis-pricing-sales-rabatt
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (plattformsales-dsa-marketplace, pricing-sales-rabatte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Plattformsales Dsa Marketplace, Pricing Sales Rabatte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fashion-law-moderecht
+# Arbeitsbereich - Plattformsales Dsa Marketplace, Pricing Sales Rabatte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `plattformsales-dsa-marketplace` | Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter. |
 | `pricing-sales-rabatte` | Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `plattformsales-dsa-marketplace`
 
-**Frühere Beschreibung:** Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter.
+**Fokus:** Plattformverkauf und DSA für Fashion prüfen: Händlerdaten, Notice-and-Action, Counterfeit-Meldung, Ranking, Sperrung, Beschwerde und Wiederholungstäter.
 
 # Plattformsales Dsa Marketplace
 
@@ -59,7 +59,7 @@ Marketplace-Plan.
 
 ## 2. `pricing-sales-rabatte`
 
-**Frühere Beschreibung:** Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung.
+**Fokus:** Rabatte, Sales, Streichpreise und Outlet-Kommunikation prüfen: Preisangaben, UWG, Omnibus-Regeln, Vergleichspreise und Irreführung.
 
 # Pricing Sales Rabatte
 

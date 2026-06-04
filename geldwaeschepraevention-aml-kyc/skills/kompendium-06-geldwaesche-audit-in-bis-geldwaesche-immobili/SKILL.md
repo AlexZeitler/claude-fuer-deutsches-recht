@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-geldwaesche-audit-in-bis-geldwaesche-immobili
-description: "geldwaeschepraevention-aml-kyc: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (geldwaesche-audit-internal-revision, geldwaesche-datenqualitaet-register, geldwaesche-immobilien-gueterhaendler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "geldwaeschepraevention-aml-kyc: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Audit Internal Revision, Geldwaesche Datenqualitaet Register, Geldwaesche Immobilien Gueterhaendler; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - geldwaeschepraevention-aml-kyc
+# Arbeitsbereich - Geldwaesche Audit Internal Revision, Geldwaesche Datenqualitaet Register, Geldwaesche Immobilien Gueterhaendler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-audit-internal-revision` | Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement FATF-Empfehlungen BaFin-Rundschreiben. Prüfraster AML-Kontrollen Stichproben Fallakten Screeningqualitaet Monitoring Verdachtsmeldungen Remediation. Output Revisionsbericht mit Befunden Massnahmenplan Priorisierung und Abschluss-Freigabe. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp (Aufbau) und geldwäsche-behoerdenverfahren (externe Prüfung). |
 | `geldwaesche-datenqualitaet-register` | Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Prüfraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-transparenzregister. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-audit-internal-revision`
 
-**Frühere Beschreibung:** Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement FATF-Empfehlungen BaFin-Rundschreiben. Prüfraster AML-Kontrollen Stichproben Fallakten Screeningqualitaet Monitoring Verdachtsmeldungen Remediation. Output Revisionsbericht mit Befunden Massnahmenplan Priorisierung und Abschluss-Freigabe. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp (Aufbau) und geldwäsche-behoerdenverfahren (externe Prüfung).
+**Fokus:** Interne Revision und Audit der AML/KYC-Kontrollen nach GwG. Anwendungsfall Compliance-Beauftragter oder externer Prüfer will AML-Kontrollsystem auf Wirksamkeit prüfen. Normen § 4 GwG interne Sicherungsmassnahmen § 6 GwG Risikomanagement FATF-Empfehlungen BaFin-Rundschreiben. Prüfraster AML-Kontrollen Stichproben Fallakten Screeningqualitaet Monitoring Verdachtsmeldungen Remediation. Output Revisionsbericht mit Befunden Massnahmenplan Priorisierung und Abschluss-Freigabe. Abgrenzung zu geldwäsche-sicherungsmassnahmen-icp (Aufbau) und geldwäsche-behoerdenverfahren (externe Prüfung).
 
 # Audit und interne Revision
 
@@ -97,7 +97,7 @@ Dieser Skill erzeugt Auditpläne und Findings, die Geschäftsleitung und Aufsich
 
 ## 2. `geldwaesche-datenqualitaet-register`
 
-**Frühere Beschreibung:** Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Prüfraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-transparenzregister.
+**Fokus:** Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Prüfraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-transparenzregister.
 
 # Datenqualität, Register und Screening-Tools
 
@@ -166,7 +166,7 @@ Dieser Skill härtet die Datenbasis, damit KYC und Screening nicht an schlechten
 
 ## 3. `geldwaesche-immobilien-gueterhaendler`
 
-**Frühere Beschreibung:** AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen § 2 Abs. 1 Nr. 14 GwG Immobilienmakler § 2 Abs. 1 Nr. 16 GwG Gueterhaendler § 4 GwG interne Sicherungsmassnahmen. Prüfraster Verpflichtetenstatus Risikoanalyse Identifizierung Transaktionsschwellen Barzahlungsverbot. Output KYC-Prozessdesign mit Risikoeinstufung Identifizierungsprotokoll und Barzahlungsregel-Dokumentation. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen.
+**Fokus:** AML/KYC-Prüfung für Immobilienmakler Gueterhaendler Kunsthandel Edelmetalle und sonstige Nichtfinanzunternehmen. Anwendungsfall Makler oder Gueterhaendler will prüfen ob GwG-Pflichten bestehen und wie KYC-Prozesse auszugestalten sind. Normen § 2 Abs. 1 Nr. 14 GwG Immobilienmakler § 2 Abs. 1 Nr. 16 GwG Gueterhaendler § 4 GwG interne Sicherungsmassnahmen. Prüfraster Verpflichtetenstatus Risikoanalyse Identifizierung Transaktionsschwellen Barzahlungsverbot. Output KYC-Prozessdesign mit Risikoeinstufung Identifizierungsprotokoll und Barzahlungsregel-Dokumentation. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-risikoanalyse-unternehmen.
 
 # Immobilien, Güterhandel und Nichtfinanzsektor
 

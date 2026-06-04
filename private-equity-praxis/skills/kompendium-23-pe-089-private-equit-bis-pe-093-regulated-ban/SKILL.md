@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-pe-089-private-equit-bis-pe-093-regulated-ban
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (pe-089-private-equity-in-bank-restructuring, pe-091-shareholder-loans-in-crisis, pe-092-carve-out-operating-model, pe-093-regulated-bank-fintech-target) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 089 Private Equity In Bank Restructuring, Pe 091 Shareholder Loans In Crisis, Pe 092 Carve Out Operating Model, Pe 093 Regulated Bank Fintech Target; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - private-equity-praxis
+# Arbeitsbereich - Pe 089 Private Equity In Bank Restructuring bis Pe 093 Regulated Bank Fintech Target
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-089-private-equity-in-bank-restructuring` | Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung. |
 | `pe-091-shareholder-loans-in-crisis` | Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-089-private-equity-in-bank-restructuring`
 
-**Frühere Beschreibung:** Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung.
+**Fokus:** Prüft PE-Investor als Käufer, Gläubiger, Kreditfonds oder Sponsor in Bank-/Kreditrestrukturierung.
 
 # PE in Bank-Restrukturierungen
 
@@ -70,7 +70,7 @@ KWG/KAGB, KrZwMG, BGB, InsO/StaRUG, Sicherheiten.
 
 ## 2. `pe-091-shareholder-loans-in-crisis`
 
-**Frühere Beschreibung:** Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation.
+**Fokus:** Prüft Gesellschafterdarlehen, Rang, Rückzahlungen, Anfechtung, Sanierung und Dokumentation.
 
 # Gesellschafterdarlehen in Krise
 
@@ -111,7 +111,7 @@ InsO §§ 39, 135, 129 ff., GmbHG, BGB, Steuer.
 
 ## 3. `pe-092-carve-out-operating-model`
 
-**Frühere Beschreibung:** Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services.
+**Fokus:** Prüft Zielbetriebsmodell, Lizenzen, IT, Shared Services, HR, IP, Real Estate und Transitional Services.
 
 # Carve-out Operating Model
 
@@ -152,7 +152,7 @@ TSA, Asset Transfer, Datenschutz, IP, Arbeitsrecht, Regulatory.
 
 ## 4. `pe-093-regulated-bank-fintech-target`
 
-**Frühere Beschreibung:** Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing.
+**Fokus:** Prüft Erwerb regulierter Finanzunternehmen, Inhaberkontrolle, ZAG/PSD, MiCAR und Outsourcing.
 
 # Bank-/FinTech-Target im PE-Deal
 

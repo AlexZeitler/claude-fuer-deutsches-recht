@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-verk-fahrerlaubnisre-bis-verk-trunkenheit-dro
-description: "fachanwalt-verkehrsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (verk-fahrerlaubnisrecht-leitfaden, verk-fahrtenbuch-anordnung-spezial, verk-trunkenheit-drogenfahrt-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verkehrsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-verkehrsrecht
+# Arbeitsbereich - Verk Fahrerlaubnisrecht Leitfaden, Verk Fahrtenbuch Anordnung Spezial, Verk Trunkenheit Drogenfahrt Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verk-fahrerlaubnisrecht-leitfaden` | Leitfaden Fahrerlaubnisrecht: Entziehung, MPU, Sperrfrist, vorzeitige Wiedererteilung. Pruefraster FeV-Begutachtung und Klage gegen Fahrerlaubnisbehoerde. |
 | `verk-fahrtenbuch-anordnung-spezial` | Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhaeltnismaessigkeit. Pruefraster fuer Widerspruch und Klage. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verk-fahrerlaubnisrecht-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Fahrerlaubnisrecht: Entziehung, MPU, Sperrfrist, vorzeitige Wiedererteilung. Pruefraster FeV-Begutachtung und Klage gegen Fahrerlaubnisbehoerde.
+**Fokus:** Leitfaden Fahrerlaubnisrecht: Entziehung, MPU, Sperrfrist, vorzeitige Wiedererteilung. Pruefraster FeV-Begutachtung und Klage gegen Fahrerlaubnisbehoerde.
 
 # Verk: Fahrerlaubnisrecht
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-verkehrsrecht`. Er ergaenzt die uebr
 
 ## 2. `verk-fahrtenbuch-anordnung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhaeltnismaessigkeit. Pruefraster fuer Widerspruch und Klage.
+**Fokus:** Spezialfall Fahrtenbuchanordnung § 31a StVZO: Voraussetzungen, Ermessen, Mitwirkung, Verhaeltnismaessigkeit. Pruefraster fuer Widerspruch und Klage.
 
 # Verk: Fahrtenbuch-Anordnung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-verkehrsrecht`. Er ergaenzt die uebr
 
 ## 3. `verk-trunkenheit-drogenfahrt-spezial`
 
-**Frühere Beschreibung:** Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024. Pruefraster fuer Verteidiger.
+**Fokus:** Spezialfall Trunkenheits- und Drogenfahrt: § 24a StVG OWi, § 316 StGB, relative und absolute Fahruntuechtigkeit, BAK-Werte, Cannabis-Grenzwert Reform 2024. Pruefraster fuer Verteidiger.
 
 # Verk: Trunkenheit Drogenfahrt
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-strafrecht-spezial-g-bis-strafrecht-spezial-k
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 15; bündelt 10 frühere Spezialskills (strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg, strafrecht-spezial-insiderhandel-119-wphg, strafrecht-spezial-insolvenzverschleppung-15a-inso, strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme, strafrecht-spezial-ip-strafrecht-verteidigung und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Gmbh Verletzung Anzeigepflicht 84 Gmbhg, Strafrecht Spezial Insiderhandel 119 Wphg, Strafrecht Spezial Insolvenzverschleppung 15a Inso, Strafrecht Spezial Ip Strafrecht Grenzbeschlagnahme und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Gmbh Verletzung Anzeigepflicht 84 Gmbhg bis Strafrecht Spezial Koerperliche Vermoegensgefaehrdung Untreue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg` | Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise. |
 | `strafrecht-spezial-insiderhandel-119-wphg` | Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-gmbh-verletzung-anzeigepflicht-84-gmbhg`
 
-**Frühere Beschreibung:** Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise.
+**Fokus:** Unterlassene Verlustanzeige nach Paragraph 84 GmbHG bei Verlust der Haelfte des Stammkapitals. Pflicht zur unverzueglichen Einberufung der Gesellschafterversammlung nach Paragraph 49 Abs 3 GmbHG. Strafdrohung Freiheitsstrafe bis 3 Jahre. Abgrenzung zu Paragraph 82 GmbHG und Paragraph 15a InsO. Praxisrelevanz bei wirtschaftlicher Krise.
 
 # Verletzung der Anzeigepflicht nach Paragraph 84 GmbHG
 
@@ -142,7 +142,7 @@ zu unterrichten. Die Versammlung muss ueber das weitere Vorgehen entscheiden.
 
 ## 2. `strafrecht-spezial-insiderhandel-119-wphg`
 
-**Frühere Beschreibung:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
+**Fokus:** Insiderhandel § 119 WpHG iVm Art. 14 MAR: Anwendungsfall Verteidigung bei Vorwurf Nutzung Weitergabe oder Empfehlung von Insiderinformationen. Pruefraster Insiderinformation Art. 7 MAR Insidergeschaeft Art. 8 MAR Verbote Art. 14 MAR Strafnorm § 119 Abs. 3 WpHG. Trade-offs Bestreiten Insiderqualitaet Wissensbasis Selbstanzeige. Strafrahmen bis fuenf Jahre Freiheitsstrafe. Output Verteidigungsmemo fuer Vorstand Aufsichtsrat Mitarbeiter Boersenhandel Wertpapierdienstleister.
 
 # Insiderhandel § 119 WpHG iVm Art. 14 MAR
 
@@ -265,7 +265,7 @@ Verbinder zur strafrechtlichen Sanktion. Strafrahmen: Freiheitsstrafe bis fuenf 
 
 ## 3. `strafrecht-spezial-insolvenzverschleppung-15a-inso`
 
-**Frühere Beschreibung:** Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott.
+**Fokus:** Insolvenzverschleppung nach Paragraph 15a InsO. Antragspflicht des Geschaeftsleiters bei Zahlungsunfaehigkeit innerhalb 3 Wochen und bei Ueberschuldung innerhalb 6 Wochen. Strafbarkeit Absatz 4 und 5. Faktische Geschaeftsfuehrer. Sanierungsfenster und Verteidigungslinien. Abgrenzung zu Paragraph 283 StGB Bankrott.
 
 # Insolvenzverschleppung nach Paragraph 15a InsO
 
@@ -374,7 +374,7 @@ Vorsatz im Sinne Absatz 4: dolus eventualis reicht. Der GF muss Krise und Antrag
 
 ## 4. `strafrecht-spezial-ip-strafrecht-grenzbeschlagnahme`
 
-**Frühere Beschreibung:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
+**Fokus:** Grenzbeschlagnahme bei IP-Verletzungen VO (EU) 608/2013 Paragraph 142a MarkenG. Antrag auf Taetigwerden der Zollbehoerden AGZ-Antrag. Ausnahme Privatreise. Vereinfachtes Vernichtungsverfahren. Schnittstelle Strafverfahren zivilrechtlicher Verletzungsklage. Verteidigung Originalitaetsnachweis Schiedsgerichtbarkeit Beschwerde. Praxis Counterfeit Fashion Luxus.
 
 # Grenzbeschlagnahme bei IP-Verletzungen nach VO (EU) 608/2013 und Paragraph 142a MarkenG
 
@@ -476,7 +476,7 @@ Grenzbeschlagnahme selbst hat keine Strafzumessung. Auswirkungen auf das nachgel
 
 ## 5. `strafrecht-spezial-ip-strafrecht-verteidigung`
 
-**Frühere Beschreibung:** Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht.
+**Fokus:** Verteidigung im IP-Strafrecht und Strafantragsfristen. Querschnittsthema zu Paragraphen 106 108 108a 108b UrhG 143 143a 144 MarkenG 142 PatG 51 DesignG 23 GeschGehG. Strafantragsfrist Paragraph 77b StGB. Privatklage Adhaesion Antragsruecknahme. Verstaendigung Verbotsirrtum Erschoepfung. Trade-off Strafanzeige vs. zivilrechtliches Vorgehen aus Mandantensicht.
 
 # Verteidigung im IP-Strafrecht und Strafantragsfristen
 
@@ -601,7 +601,7 @@ Einziehung Paragraph 74 StGB (Tatobjekte: Counterfeit-Ware, Pressformen, Datentr
 
 ## 6. `strafrecht-spezial-kapitalanlagebetrug-264a-stgb`
 
-**Frühere Beschreibung:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse fuer Crowdfunding, Token Offerings, geschlossene Fonds.
+**Fokus:** Kapitalanlagebetrug § 264a StGB: Anwendungsfall Verteidigung bei unrichtigen vorteilhaften Angaben in Prospekten oder vergleichbaren Darstellungen zum Vertrieb von Wertpapieren, Bezugsrechten, Vermoegensanlagen. Abstrakte Gefaehrdungsdelikt — Schaden nicht erforderlich. Pruefraster Abgrenzung zu § 263 StGB, Prospekthaftung zivilrechtlich, parallele BaFin-Verfahren. Trade-offs Verteidigung Vorsatz, Wesentlichkeit der Angaben, Selbstanzeige § 264a Abs. 3 StGB. Output Memo mit Subsumtionsraster und Strafzumessungsanalyse fuer Crowdfunding, Token Offerings, geschlossene Fonds.
 
 # Kapitalanlagebetrug § 264a StGB
 
@@ -704,7 +704,7 @@ Spezial-Mandat: Anklage Kapitalanlagebetrug. Klassische Konstellationen: geschlo
 
 ## 7. `strafrecht-spezial-kcang-anbauvereinigung-cannabis-club`
 
-**Frühere Beschreibung:** KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff. KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlaubnis.
+**Fokus:** KCanG Anbauvereinigung (Cannabis Social Club): §§ 11 ff. KCanG. Erlaubnisverfahren, Mengenkontingent 50 g monatlich pro Mitglied, Mitgliederzahl, Vereinsstruktur. Strafbarkeit bei Verstoss gegen Erlaubnis.
 
 # KCanG: Anbauvereinigung (Cannabis Social Club)
 
@@ -808,7 +808,7 @@ Strafrechtsrelevanz: Wer ausserhalb der Erlaubnis Cannabis anbaut, vertreibt ode
 
 ## 8. `strafrecht-spezial-kcang-cannabisgesetz-konsum-besitz`
 
-**Frühere Beschreibung:** Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG.
+**Fokus:** Konsumcannabisgesetz KCanG seit 01.04.2024: §§ 2-3 KCanG erlaubter Eigenkonsum, Eigenbesitz 25 g, privater Anbau drei Pflanzen. Konsumverbote, Bussgeldrahmen, Abgrenzung zur Strafbarkeit nach § 34 sowie § 35 KCanG.
 
 # KCanG: Konsum und Eigenbesitz seit 01.04.2024
 
@@ -921,7 +921,7 @@ Weitere Beratung zu Anbauvereinigung oder Schenkung an Bekannte gerne im Folgete
 
 ## 9. `strafrecht-spezial-kcang-strafvorschriften-34-35-kcang`
 
-**Frühere Beschreibung:** Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis.
+**Fokus:** Strafvorschriften KCanG: § 34 KCanG Grundtatbestand (unerlaubter Anbau, Besitz, Handel ueber Schwellen), § 35 KCanG nicht geringe Menge und Qualifikationen. Strafrahmen, Konkurrenzen, Uebergangsregeln zur Strafhaftung Cannabis.
 
 # KCanG: § 34, § 35 Strafvorschriften Cannabis
 
@@ -1029,7 +1029,7 @@ ueber die in §§ 2, 3 KCanG erlaubten Schwellen hinaus, wird mit Freiheitsstraf
 
 ## 10. `strafrecht-spezial-koerperliche-vermoegensgefaehrdung-untreue`
 
-**Frühere Beschreibung:** Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermoegensgefaehrdung. Revisions- und Verfassungsangriff.
+**Fokus:** Konkrete Vermoegensgefaehrdung als Schadensaequivalent bei Paragraph 266 StGB. BVerfG-Linie zur Bezifferbarkeit. Risikogeschaefte Schwarze Kassen Kreditvergabe Anlageentscheidungen. Verfassungsrechtliche Grenzen der schadensgleichen Vermoegensgefaehrdung. Revisions- und Verfassungsangriff.
 
 # Konkrete Vermoegensgefaehrdung vs. Schaden bei Paragraph 266 StGB
 

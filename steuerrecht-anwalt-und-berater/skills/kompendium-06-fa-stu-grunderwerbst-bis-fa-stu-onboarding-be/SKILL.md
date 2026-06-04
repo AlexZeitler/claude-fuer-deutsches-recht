@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fa-stu-grunderwerbst-bis-fa-stu-onboarding-be
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 06; bündelt 9 frühere Spezialskills (fa-stu-grunderwerbsteuer-share-deal, fa-stu-grundsteuer-bundesmodell, fa-stu-handels-vs-steuerbilanz, fa-stu-int-verrechnungspreise-1-astg, fa-stu-investmentsteuer-invstg und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fa Stu Grunderwerbsteuer Share Deal, Fa Stu Grundsteuer Bundesmodell, Fa Stu Handels Vs Steuerbilanz, Fa Stu Int Verrechnungspreise 1 Astg und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Fa Stu Grunderwerbsteuer Share Deal bis Fa Stu Onboarding Beratungsstruktur
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fa-stu-grunderwerbsteuer-share-deal` | Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Aenderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge soll vor Closing geklaert werden. Behandelt Beteiligungsschwelle 90 Prozent Beobachtungszeitraum zehn Jahre und Folgewirkung auf den Festschreibungspreis. Output Pruefraster und Anzeigeschreiben § 19 GrEStG. Abgrenzung zu fa-stu-bewertung-immobilien-bewg. |
 | `fa-stu-grundsteuer-bundesmodell` | Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fa-stu-grunderwerbsteuer-share-deal`
 
-**Frühere Beschreibung:** Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Aenderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge soll vor Closing geklaert werden. Behandelt Beteiligungsschwelle 90 Prozent Beobachtungszeitraum zehn Jahre und Folgewirkung auf den Festschreibungspreis. Output Pruefraster und Anzeigeschreiben § 19 GrEStG. Abgrenzung zu fa-stu-bewertung-immobilien-bewg.
+**Fokus:** Praxis-Skill zu Grunderwerbsteuer-Tatbestaenden bei Anteilsuebertragungen — Aenderung des Gesellschafterbestands § 1 Abs. 2a Personengesellschaft § 1 Abs. 2b Kapitalgesellschaft und § 1 Abs. 3 § 1 Abs. 3a GrEStG. Anwendungsfall M und A-Transaktion mit Immobilienvermoegen — Grunderwerbsteuer-Folge soll vor Closing geklaert werden. Behandelt Beteiligungsschwelle 90 Prozent Beobachtungszeitraum zehn Jahre und Folgewirkung auf den Festschreibungspreis. Output Pruefraster und Anzeigeschreiben § 19 GrEStG. Abgrenzung zu fa-stu-bewertung-immobilien-bewg.
 
 # Grunderwerbsteuer beim Share Deal — § 1 Abs. 2a 2b 3 3a GrEStG
 
@@ -85,7 +85,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-stu-grundsteuer-bundesmodell`
 
-**Frühere Beschreibung:** Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg.
+**Fokus:** Verteidigungs-Skill gegen Grundsteuerwert-Bescheide nach dem reformierten Modell — Bundesmodell und Laendermodelle Baden-Wuerttemberg Bayern Hamburg Hessen Niedersachsen sowie verfassungsrechtliche Bedenken. Anwendungsfall Mandant erhaelt Bescheid mit erkennbar uebersetztem Bodenrichtwert oder fehlerhaften Flaechenangaben. Behandelt Einsprueche gegen Grundsteuerwert- und Messbescheid Aussetzung der Vollziehung und Musterverfahren beim BFH und BVerfG. Output Pruefraster und Einspruchsmuster. Abgrenzung zu fa-stu-bewertung-immobilien-bewg.
 
 # Grundsteuer — Reform 2025 Bundesmodell und Laendermodelle
 
@@ -136,7 +136,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fa-stu-handels-vs-steuerbilanz`
 
-**Frühere Beschreibung:** Pruefung der Massgeblichkeit der Handelsbilanz fuer die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und materielle Massgeblichkeit Bewertungsvorbehalte § 5 Abs. 6 EStG und Verzeichnis nach § 5 Abs. 1 S. 3 EStG. Output Pruefraster und Differenzliste. Abgrenzung zu fa-stu-bilanzberichtigung-4-abs-2-estg.
+**Fokus:** Pruefung der Massgeblichkeit der Handelsbilanz fuer die Steuerbilanz nach § 5 EStG sowie der Durchbrechungen durch steuerliche Sondervorschriften. Anwendungsfall Mandant hat in der Handelsbilanz Wahlrechte ausgeuebt und es ist zu klaeren ob und wie die Steuerbilanz folgt. Behandelt formelle und materielle Massgeblichkeit Bewertungsvorbehalte § 5 Abs. 6 EStG und Verzeichnis nach § 5 Abs. 1 S. 3 EStG. Output Pruefraster und Differenzliste. Abgrenzung zu fa-stu-bilanzberichtigung-4-abs-2-estg.
 
 # Massgeblichkeit Handelsbilanz zur Steuerbilanz — § 5 EStG und Abweichungen
 
@@ -187,7 +187,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `fa-stu-int-verrechnungspreise-1-astg`
 
-**Frühere Beschreibung:** Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Pruefung versucht Gewinnkorrekturen via § 1 AStG; die Dokumentation soll vor Abgabe geprueft werden. Behandelt OECD-Verrechnungspreis-Leitlinien Stammdokumentation Local File Master File und CbCR Anti-BEPS-Mindestbesteuerung. Output Pruefraster mit Dokumentations-Checkliste. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd.
+**Fokus:** Skill zu Verrechnungspreisen zwischen verbundenen Unternehmen — Fremdvergleichsgrundsatz § 1 AStG Korrekturregeln Dokumentationspflicht § 90 Abs. 3 AO Country-by-Country-Reporting und Zuschlaege nach § 162 Abs. 4 AO. Anwendungsfall Konzern wird geprueft und die Pruefung versucht Gewinnkorrekturen via § 1 AStG; die Dokumentation soll vor Abgabe geprueft werden. Behandelt OECD-Verrechnungspreis-Leitlinien Stammdokumentation Local File Master File und CbCR Anti-BEPS-Mindestbesteuerung. Output Pruefraster mit Dokumentations-Checkliste. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd.
 
 # Verrechnungspreise im Internationalen Steuerrecht — § 1 AStG und Dokumentation § 90 Abs. 3 AO
 
@@ -238,7 +238,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `fa-stu-investmentsteuer-invstg`
 
-**Frühere Beschreibung:** Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen oder ein Spezialfonds plant Umstrukturierung. Behandelt § 6 InvStG Besteuerung der Investmentertraege § 16 InvStG Teilfreistellungen und § 18 InvStG Vorabpauschale. Output Pruefraster und Berechnungsbeispiel. Abgrenzung zu fa-stu-est-werbungskosten-systematik.
+**Fokus:** Skill zum Investmentsteuergesetz seit 2018 — Investmentfonds Teilfreistellungen Vorabpauschale und Spezial-Investmentfonds Kapitel 3. Anwendungsfall Anleger mit Fondsbestand fragt nach Belastung der Vorabpauschale und Teilfreistellungen oder ein Spezialfonds plant Umstrukturierung. Behandelt § 6 InvStG Besteuerung der Investmentertraege § 16 InvStG Teilfreistellungen und § 18 InvStG Vorabpauschale. Output Pruefraster und Berechnungsbeispiel. Abgrenzung zu fa-stu-est-werbungskosten-systematik.
 
 # Investmentsteuerrecht — InvStG 2018 in der Anwendung
 
@@ -289,7 +289,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 6. `fa-stu-kst-organschaft-14-kstg`
 
-**Frühere Beschreibung:** Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehende Organschaft wegen mangelhafter Durchfuehrung. Behandelt finanzielle Eingliederung Gewinnabfuehrungsvertrag § 291 AktG Mindestlaufzeit Verlustuebernahmeklausel § 302 AktG und steuerliche Folgen einer verungluckten Organschaft. Output Pruefraster Organschaftsvoraussetzungen und Auditmuster fuer GAV. Abgrenzung zu fa-stu-vga-pruefraster und fa-stu-anteilstausch-21-umwstg.
+**Fokus:** Pruefung der Voraussetzungen einer ertragsteuerlichen Organschaft — finanzielle Eingliederung Gewinnabfuehrungsvertrag Mindestlaufzeit fuenf Jahre tatsaechliche Durchfuehrung. Anwendungsfall Konzern oder Unternehmensgruppe will eine Organschaft begruenden oder das Finanzamt versagt eine bestehende Organschaft wegen mangelhafter Durchfuehrung. Behandelt finanzielle Eingliederung Gewinnabfuehrungsvertrag § 291 AktG Mindestlaufzeit Verlustuebernahmeklausel § 302 AktG und steuerliche Folgen einer verungluckten Organschaft. Output Pruefraster Organschaftsvoraussetzungen und Auditmuster fuer GAV. Abgrenzung zu fa-stu-vga-pruefraster und fa-stu-anteilstausch-21-umwstg.
 
 # Koerperschaftsteuerliche Organschaft — § 14 KStG und Gewinnabfuehrungsvertrag
 
@@ -340,7 +340,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 7. `fa-stu-leichtfertige-steuerverkuerzung-378-ao`
 
-**Frühere Beschreibung:** Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren ein weil Vorsatz nicht nachgewiesen werden kann. Behandelt Leichtfertigkeit als grobe Fahrlaessigkeit Verfolgungsverjaehrung fuenf Jahre Verteidigung und Selbstanzeigewirkung. Output Pruefraster und Stellungnahme im OWi-Verfahren. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-selbstanzeige-371-ao.
+**Fokus:** Bearbeitung des Ordnungswidrigkeitstatbestands § 378 AO leichtfertige Steuerverkuerzung — Abgrenzung zur Hinterziehung Schuldform Bussgeld und Wirkung der Selbstanzeige § 378 Abs. 3 AO. Anwendungsfall Finanzamt leitet Bussgeldverfahren ein weil Vorsatz nicht nachgewiesen werden kann. Behandelt Leichtfertigkeit als grobe Fahrlaessigkeit Verfolgungsverjaehrung fuenf Jahre Verteidigung und Selbstanzeigewirkung. Output Pruefraster und Stellungnahme im OWi-Verfahren. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao und fa-stu-selbstanzeige-371-ao.
 
 # Leichtfertige Steuerverkuerzung — § 378 AO und Bussgeldverfahren
 
@@ -391,7 +391,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 8. `fa-stu-nichtigkeit-125-ao`
 
-**Frühere Beschreibung:** Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhoerungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo.
+**Fokus:** Pruefung und Geltendmachung der Nichtigkeit eines Steuerbescheids nach § 125 AO — wann liegt ein besonders schwerer offenkundiger Fehler vor und welche Folgen ergeben sich. Anwendungsfall Bescheid leidet an gravierendem Mangel etwa Adressat unbestimmt Steuerschuldner nicht existent kein Steuertatbestand oder Anhoerungsmangel von Verfassungsrang. Behandelt Pruefraster Abgrenzung zur Rechtswidrigkeit Antrag auf Nichtigkeitsfeststellung Anwendung im Klage- und Vollstreckungsverfahren. Output Antragsmuster Nichtigkeitsfeststellung. Abgrenzung zu fa-stu-onboarding-bescheid-lesen und fa-stu-finanzgerichtsklage-78-fgo.
 
 # Nichtigkeit eines Steuerbescheids — § 125 AO
 
@@ -442,7 +442,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 9. `fa-stu-onboarding-beratungsstruktur`
 
-**Frühere Beschreibung:** Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage).
+**Fokus:** Methodisches Pruefungsschema fuer jedes steuerliche Mandat — vom Sachverhalt ueber die Norm zur Subsumtion und Strategie. Anwendungsfall Berufstraeger braucht ein wiederverwendbares Geruest fuer steuerliche Stellungnahmen Gutachten und Schriftsaetze. Behandelt Sachverhaltsaufnahme Beweismittelmatrix Norm-Identifikation Rechtsfolgenermittlung Belastungsvergleich Alternativen-Gegenueberstellung und Mandantenkommunikation. Output Aktenraster und Pruefungsbogen. Abgrenzung zu fa-stu-onboarding-mandatsannahme (Erstgespraech) und fa-stu-onboarding-fristen-uebersicht (Termin-Triage).
 
 # Beratungsstruktur im Steuerrecht — Pruefungsschema vom Sachverhalt zur Loesung
 

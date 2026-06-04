@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-hoai-lph-04-bim-und-bis-hoai-lph-04-rechnung
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 18 frühere Spezialskills (hoai-lph-04-bim-und-datenraum, hoai-lph-04-dokumentation-und-belegakte, hoai-lph-04-fachplaner-schnittstellen, hoai-lph-04-foerdermittel-und-nachweis, hoai-lph-04-genehmigungen-und-auflagen und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 04 Bim Und Datenraum, Hoai Lph 04 Dokumentation Und Belegakte, Hoai Lph 04 Fachplaner Schnittstellen, Hoai Lph 04 Foerdermittel Und Nachweis und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 04 Bim Und Datenraum bis Hoai Lph 04 Rechnung Und Prueffaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-04-bim-und-datenraum` | HOAI LPH 4 Genehmigungsplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. |
 | `hoai-lph-04-dokumentation-und-belegakte` | HOAI LPH 4 Genehmigungsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-04-bim-und-datenraum`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Ordnet digitale modelle
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 2. `hoai-lph-04-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Sichert protokolle
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 3. `hoai-lph-04-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Koordiniert architekt
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 4. `hoai-lph-04-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft fördermittelbedingungen
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 5. `hoai-lph-04-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 6. `hoai-lph-04-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Grenzt hoai-grundleistung
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 7. `hoai-lph-04-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft bewertungsanteil
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 8. `hoai-lph-04-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft eingaben
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 9. `hoai-lph-04-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Formuliert klare e-mails an bauherr
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 10. `hoai-lph-04-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft kostenermittlung
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 11. `hoai-lph-04-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 12. `hoai-lph-04-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Sichert spätere mängel-
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 13. `hoai-lph-04-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Erkennt planungsänderung
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 14. `hoai-lph-04-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Berücksichtigt vergabe
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 15. `hoai-lph-04-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Liefert alle dokumente
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 16. `hoai-lph-04-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft planindex
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 17. `hoai-lph-04-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Erstellt ein qualitygate
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 4 (Genehmigungsplanung)** gedacht. Er
 
 ## 18. `hoai-lph-04-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 4 Genehmigungsplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
+**Fokus:** HOAI LPH 4 Genehmigungsplanung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf öffentlich-rechtlich genehmigungsfähige Unterlagen, Anträge, Behördenabstimmung und Auflagenlogik und Bewertungsanteil 3 % Gebäude / 2 % Innenräume.
 
 # LPH 4 Genehmigungsplanung: Prüft abschlag
 

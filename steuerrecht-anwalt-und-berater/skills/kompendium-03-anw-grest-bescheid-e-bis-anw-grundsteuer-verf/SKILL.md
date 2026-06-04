@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-anw-grest-bescheid-e-bis-anw-grundsteuer-verf
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 03; bündelt 9 frühere Spezialskills (anw-grest-bescheid-einspruch-adv-16, anw-grest-spa-tax-clause-indemnity, anw-grunderwerbsteuer-share-deal-90-prozent, anw-grundsteuer-einspruch-adv-bfh, anw-grundsteuer-ermittlungsbasis-flaeche-nutzung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Grest Bescheid Einspruch Adv 16, Anw Grest Spa Tax Clause Indemnity, Anw Grunderwerbsteuer Share Deal 90 Prozent, Anw Grundsteuer Einspruch Adv Bfh und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Grest Bescheid Einspruch Adv 16 bis Anw Grundsteuer Verfassungscheck Bundesmodell
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie. |
 | `anw-grest-spa-tax-clause-indemnity` | GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity, Käufer-/Verkäufertragung, Signing-Closing-Doppelrisiko, Escrow, Mitwirkungspflichten, Anzeigen, Grundbesitzliste und Post-Closing-Steuerklauseln. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-grest-bescheid-einspruch-adv-16`
 
-**Frühere Beschreibung:** GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie.
+**Fokus:** GrESt-Bescheid prüfen und angreifen: Einspruch, Aussetzung der Vollziehung, § 16 GrEStG Rueckgaengigmachung/Korrektur, doppelte Festsetzung, falsche Bemessungsgrundlage, falscher Steuersatz, Verfahrensfehler und FG-Strategie.
 
 # GrESt: Bescheid, Einspruch, AdV und § 16
 
@@ -100,7 +100,7 @@ GrEStG, AO, FGO und BFH-Volltexte öffnen. BFH-AdV-Beschlüsse als Eilverfahren 
 
 ## 2. `anw-grest-spa-tax-clause-indemnity`
 
-**Frühere Beschreibung:** GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity, Käufer-/Verkäufertragung, Signing-Closing-Doppelrisiko, Escrow, Mitwirkungspflichten, Anzeigen, Grundbesitzliste und Post-Closing-Steuerklauseln.
+**Fokus:** GrESt im SPA vertraglich absichern: Tax Covenant, GrESt-Indemnity, Käufer-/Verkäufertragung, Signing-Closing-Doppelrisiko, Escrow, Mitwirkungspflichten, Anzeigen, Grundbesitzliste und Post-Closing-Steuerklauseln.
 
 # GrESt: SPA-Klauseln, Indemnity und Escrow
 
@@ -186,7 +186,7 @@ Empfehlung: Allgemeine Tax Indemnity für unbekannte Altrisiken + Specific Indem
 
 ## 3. `anw-grunderwerbsteuer-share-deal-90-prozent`
 
-**Frühere Beschreibung:** Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 GrEStG unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Prüfprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage.
+**Fokus:** Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht GrESt-Pflicht. 90-Prozent-Schwelle ab 01.07.2021 statt zuvor 95 Prozent. § 1 Abs. 2a GrEStG Personengesellschaft § 1 Abs. 2b GrEStG Kapitalgesellschaft § 1 Abs. 3 GrEStG unmittelbare Vereinigung § 1 Abs. 3a wirtschaftliche Beteiligung. 10-Jahres-Frist RETT-Blocker-Strukturen Anzeigepflicht § 19 GrEStG. Output GrESt-Prüfprotokoll Strukturierungs-Empfehlung Anzeige-Vorlage.
 
 # Grunderwerbsteuer bei Share Deals — 90-%-Schwelle, Anzeigepflicht, Gestaltung
 
@@ -381,7 +381,7 @@ Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. Gleich lau
 
 ## 4. `anw-grundsteuer-einspruch-adv-bfh`
 
-**Frühere Beschreibung:** Grundsteuer-Einspruch und Aussetzung der Vollziehung: Frist, Bekanntgabe, BFH-AdV-Linie II B 78/23 und II B 79/23, BFH-Hauptsache 12.11.2025, Belegstrategie, Einspruchsbegründung und AdV-Antrag formulieren.
+**Fokus:** Grundsteuer-Einspruch und Aussetzung der Vollziehung: Frist, Bekanntgabe, BFH-AdV-Linie II B 78/23 und II B 79/23, BFH-Hauptsache 12.11.2025, Belegstrategie, Einspruchsbegründung und AdV-Antrag formulieren.
 
 # Grundsteuer: Einspruch, AdV und BFH-Linie
 
@@ -466,7 +466,7 @@ Gib immer eine "nächste 7 Tage"-Liste: Frist, Beleg, Antrag, Zahlung, Rückfrag
 
 ## 5. `anw-grundsteuer-ermittlungsbasis-flaeche-nutzung`
 
-**Frühere Beschreibung:** Grundsteuer-Ermittlungsbasis prüfen: Wohnfläche, Nutzfläche, Grundstücksfläche, wirtschaftliche Einheit, Baujahr, Nutzung, Garagen, Stellplätze, Erbbaurecht, Teileigentum, Leerstand, Denkmalschutz und Schätzungen aus der Grundsteuererklärung herausarbeiten.
+**Fokus:** Grundsteuer-Ermittlungsbasis prüfen: Wohnfläche, Nutzfläche, Grundstücksfläche, wirtschaftliche Einheit, Baujahr, Nutzung, Garagen, Stellplätze, Erbbaurecht, Teileigentum, Leerstand, Denkmalschutz und Schätzungen aus der Grundsteuererklärung herausarbeiten.
 
 # Grundsteuer: Ermittlungsbasis Fläche, Nutzung und wirtschaftliche Einheit
 
@@ -539,7 +539,7 @@ Keine "gefühlten" Flächenwerte als feststehend ausgeben. Bei streitiger Wohnfl
 
 ## 6. `anw-grundsteuer-gutachten-gemeiner-wert`
 
-**Frühere Beschreibung:** Grundsteuer-Gegenbeweis mit gemeinem Wert vorbereiten: Kaufpreis, Verkehrswertgutachten, Maklerbewertung, Gutachterausschuss, Sonderfaktoren und BFH-AdV-Linie zu deutlich niedrigerem gemeinem Wert dokumentieren.
+**Fokus:** Grundsteuer-Gegenbeweis mit gemeinem Wert vorbereiten: Kaufpreis, Verkehrswertgutachten, Maklerbewertung, Gutachterausschuss, Sonderfaktoren und BFH-AdV-Linie zu deutlich niedrigerem gemeinem Wert dokumentieren.
 
 # Grundsteuer: Gemeiner Wert und Gutachtenstrategie
 
@@ -610,7 +610,7 @@ Die BFH-AdV-Beschlüsse vom 27.05.2024 ermöglichen im Eilverfahren eine Argumen
 
 ## 7. `anw-grundsteuer-hebesatz-zahlungsplan`
 
-**Frühere Beschreibung:** Kommunalen Grundsteuerbescheid prüfen: Hebesatz, Satzung, Fälligkeiten, Zahlungsplan, Stundung, Erlass, Vollstreckungsaufschub, Abgrenzung Finanzamt/Gemeinde und Kommunikation mit Hausverwaltung oder Kommune.
+**Fokus:** Kommunalen Grundsteuerbescheid prüfen: Hebesatz, Satzung, Fälligkeiten, Zahlungsplan, Stundung, Erlass, Vollstreckungsaufschub, Abgrenzung Finanzamt/Gemeinde und Kommunikation mit Hausverwaltung oder Kommune.
 
 # Grundsteuer: Hebesatz, Zahlung und Gemeindeebene
 
@@ -694,7 +694,7 @@ Wenn der Wert falsch ist, nicht bei der Gemeinde "korrigieren" wollen. Dann `anw
 
 ## 8. `anw-grundsteuer-landesmodell-routing`
 
-**Frühere Beschreibung:** Grundsteuer-Landesmodell-Routing: Bundesmodell von Baden-Wuerttemberg, Bayern, Hamburg, Hessen, Niedersachsen und punktuellen Abweichungen trennen; richtige Rechtsquelle, Bescheidart, BFH-/FG-Stand und Argumentationslinie bestimmen.
+**Fokus:** Grundsteuer-Landesmodell-Routing: Bundesmodell von Baden-Wuerttemberg, Bayern, Hamburg, Hessen, Niedersachsen und punktuellen Abweichungen trennen; richtige Rechtsquelle, Bescheidart, BFH-/FG-Stand und Argumentationslinie bestimmen.
 
 # Grundsteuer: Landesmodell-Routing
 
@@ -766,7 +766,7 @@ Empfehlung: Erst Einzelfall prüfen, dann ggf. zusätzlich verfassungsrechtlich 
 
 ## 9. `anw-grundsteuer-verfassungscheck-bundesmodell`
 
-**Frühere Beschreibung:** Verfassungsrechtlicher Grundsteuer-Check nach der Reform: BVerfG 10.04.2018 zur alten Einheitsbewertung, BFH 27.05.2024 AdV, BFH 12.11.2025 zum Bundesmodell, Art. 3 GG, Typisierung, gemeiner Wert, Landesmodelle und offene Verfahren sauber einordnen.
+**Fokus:** Verfassungsrechtlicher Grundsteuer-Check nach der Reform: BVerfG 10.04.2018 zur alten Einheitsbewertung, BFH 27.05.2024 AdV, BFH 12.11.2025 zum Bundesmodell, Art. 3 GG, Typisierung, gemeiner Wert, Landesmodelle und offene Verfahren sauber einordnen.
 
 # Grundsteuer: Verfassungscheck Bundesmodell und Reformstand
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-anw-grest-signing-cl-bis-fa-stu-est-werbungsk
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 15; bündelt 9 frühere Spezialskills (anw-grest-signing-closing-doppelfestsetzung, anw-insolvenzreife-pruefung-17-19-inso, anw-klage-finanzgericht, anw-organschaft-konzern-grundlagen, anw-tatsaechliche-verstaendigung-schlussbesprechung und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Grest Signing Closing Doppelfestsetzung, Anw Insolvenzreife Pruefung 17 19 Inso, Anw Klage Finanzgericht, Anw Organschaft Konzern Grundlagen und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Grest Signing Closing Doppelfestsetzung bis Fa Stu Est Werbungskosten Systematik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-grest-signing-closing-doppelfestsetzung` | GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung. |
 | `anw-insolvenzreife-pruefung-17-19-inso` | Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-grest-signing-closing-doppelfestsetzung`
 
-**Frühere Beschreibung:** GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung.
+**Fokus:** GrESt Signing/Closing Spezialskill: auseinanderfallendes schuldrechtliches Erwerbsgeschaeft und dingliche Anteilsuebertragung, doppelte Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG, BFH II B 13/25, II B 23/25, II B 47/25, AdV und Verteidigung gegen Mehrfachbelastung.
 
 # GrESt: Signing, Closing und Doppelfestsetzung
 
@@ -98,7 +98,7 @@ Keine Aussage, die Finanzverwaltung dürfe "nie" zwei Bescheide erlassen. Der ak
 
 ## 2. `anw-insolvenzreife-pruefung-17-19-inso`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw insolvenzreife pruefung 17 19 inso. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)
 
@@ -433,7 +433,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `anw-klage-finanzgericht`
 
-**Frühere Beschreibung:** Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde.
+**Fokus:** Klageschrift zum Finanzgericht nach §§ 40 ff. FGO entwerfen. Anwendungsfall Einspruch wurde zurückgewiesen Mandant will Klage einreichen oder Untätigkeitsklage nach sechs Monaten ohne Entscheidung. Klagefrist ein Monat nach Bekanntgabe Einspruchsentscheidung § 47 Abs. 1 FGO ein Jahr bei fehlender Rechtsbehelfsbelehrung § 55 FGO Untätigkeitsklage § 46 FGO nach sechs Monaten. Sachliche Zuständigkeit FG § 33 FGO örtlich Beklagtensitz § 38 FGO beA-Pflicht. Output Klageschrift Anlagen Beweisangebote FGO-konform. Abgrenzung zu anw-einspruch-finanzamt und BFH-Nichtzulassungsbeschwerde.
 
 # Klage zum Finanzgericht
 
@@ -558,7 +558,7 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 
 ## 4. `anw-organschaft-konzern-grundlagen`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw organschaft konzern grundlagen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken
 
@@ -732,7 +732,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `anw-tatsaechliche-verstaendigung-schlussbesprechung`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw tatsaechliche verstaendigung schlussbesprechung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich
 
@@ -869,7 +869,7 @@ Rechtsprechung live prüfen: Keine Entscheidung aus Modellwissen zitieren; vor A
 
 ## 6. `fa-stu-anteilstausch-21-umwstg`
 
-**Frühere Beschreibung:** Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kapitalgesellschaft. Behandelt qualifizierter Anteilstausch Wertansatzwahl Sperrfristen § 22 Abs. 2 UmwStG sieben Jahre und Folge einer schaedlichen Veraeusserung. Output Pruefraster und Vereinbarungsmuster. Abgrenzung zu fa-stu-umwandlung-formwechsel-umwstg.
+**Fokus:** Bearbeitung des Anteilstauschs § 21 UmwStG mit Schwerpunkt qualifizierter Anteilstausch Mehrheitsstimmen und Rechtsfolgen Buchwert. Anwendungsfall Eine natuerliche Person oder Personengesellschaft uebertraegt Anteile an einer Kapitalgesellschaft gegen Gewaehrung neuer Anteile an einer anderen Kapitalgesellschaft. Behandelt qualifizierter Anteilstausch Wertansatzwahl Sperrfristen § 22 Abs. 2 UmwStG sieben Jahre und Folge einer schaedlichen Veraeusserung. Output Pruefraster und Vereinbarungsmuster. Abgrenzung zu fa-stu-umwandlung-formwechsel-umwstg.
 
 # Anteilstausch — § 21 UmwStG Voraussetzungen und Sperrfrist
 
@@ -919,7 +919,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 7. `fa-stu-aussenpruefung-anordnung-pruefung`
 
-**Frühere Beschreibung:** Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung.
+**Fokus:** Praxis-Skill zur Begleitung von Aussenpruefungen — Pruefungsanordnung §§ 196 197 AO Pruefungserweiterung Schlussbesprechung § 201 AO Pruefungsbericht und Auswirkungen auf Folgejahre. Anwendungsfall Mandant erhaelt Pruefungsanordnung — Berater muss in zehn Minuten Erweiterungsangriffe Mitwirkungsgrenzen und Belege-Bereitstellung klaeren. Behandelt Pruefungsumfang Mitwirkungspflicht § 200 AO digitaler Datenzugriff GoBD und Ablaufhemmung § 171 Abs. 4 AO. Output Pruefraster und Schriftsatz gegen unwirksame Pruefungsanordnung. Abgrenzung zu fa-stu-betriebspruefung-strafrecht-393-ao und fa-stu-tatsaechliche-verstaendigung.
 
 # Aussenpruefung — Pruefungsanordnung Pruefungserweiterung und Mitwirkung
 
@@ -973,7 +973,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 8. `fa-stu-aussenwirtschaftsembargo`
 
-**Frühere Beschreibung:** Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an gelistete Personen. Behandelt Genehmigungspflichten Catch-all-Klausel und das deutsche Strafrecht § 17 § 18 AWG. Output Pruefraster und Strategie bei Ermittlungsverfahren. Abgrenzung zu fa-stu-zollwert-unionszollkodex.
+**Fokus:** Pruefung der Einhaltung des Aussenwirtschaftsrechts in Mandantenstrukturen — AWG AWV Dual-Use-Verordnung und EU-Sanktionsregime sowie strafrechtliche Konsequenzen § 17 AWG. Anwendungsfall Mandant exportiert in sanktionierten Drittstaat oder erhaelt eine Anfrage zur Bereitstellung von Vermoegen an gelistete Personen. Behandelt Genehmigungspflichten Catch-all-Klausel und das deutsche Strafrecht § 17 § 18 AWG. Output Pruefraster und Strategie bei Ermittlungsverfahren. Abgrenzung zu fa-stu-zollwert-unionszollkodex.
 
 # Aussenwirtschaftsrecht — AWG und Sanktionen
 
@@ -1024,7 +1024,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 9. `fa-stu-est-werbungskosten-systematik`
 
-**Frühere Beschreibung:** Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Abzugsfaehigkeit das Finanzamt bestreitet. Behandelt § 9 EStG § 4 Abs. 4 EStG § 12 EStG und einschlaegige Rechtsprechung des BFH zum Aufteilungsmassstab. Output Pruefraster mit beispielhaftem Berechnungsteil. Abgrenzung zu fa-stu-onboarding-beratungsstruktur.
+**Fokus:** Systematische Pruefung der Abzugsfaehigkeit von Aufwendungen — von der Veranlassungspruefung ueber Aufteilungsgebot und Aufteilungsverbot bis zu Sonderfaellen wie haeuslichem Arbeitszimmer doppelter Haushaltsfuehrung und Bewirtungskosten. Anwendungsfall Mandant macht Aufwendungen geltend deren Abzugsfaehigkeit das Finanzamt bestreitet. Behandelt § 9 EStG § 4 Abs. 4 EStG § 12 EStG und einschlaegige Rechtsprechung des BFH zum Aufteilungsmassstab. Output Pruefraster mit beispielhaftem Berechnungsteil. Abgrenzung zu fa-stu-onboarding-beratungsstruktur.
 
 # Werbungskosten und Betriebsausgaben — § 9 EStG § 4 Abs. 4 EStG
 

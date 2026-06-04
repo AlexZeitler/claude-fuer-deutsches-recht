@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-subsidiary-parent-cl-bis-termination-of-manda
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (subsidiary-parent-client, success-fee-compliance, success-probability-alignment, template-library-governance, termination-of-mandate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Subsidiary Parent Client, Success Fee Compliance, Success Probability Alignment, Template Library Governance und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Subsidiary Parent Client bis Termination Of Mandate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `subsidiary-parent-client` | Konzernmandat Mutter/Tochter: steuert wer ist Mandant: Mutter, Tochter, Vorstand, Projektgesellschaft oder Gruppe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `success-fee-compliance` | Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `subsidiary-parent-client`
 
-**Frühere Beschreibung:** Konzernmandat Mutter/Tochter: steuert wer ist Mandant: Mutter, Tochter, Vorstand, Projektgesellschaft oder Gruppe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Konzernmandat Mutter/Tochter: steuert wer ist Mandant: Mutter, Tochter, Vorstand, Projektgesellschaft oder Gruppe zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Konzernmandat Mutter/Tochter
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `success-fee-compliance`
 
-**Frühere Beschreibung:** Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Success Fee Compliance: steuert Erfolgsvergütung, Bonus, Premium, Discount und gesetzliche Grenzen prüfen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Success Fee Compliance
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `success-probability-alignment`
 
-**Frühere Beschreibung:** Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Erfolgsaussichten Alignment: steuert Kanzlei- und Mandantensicht auf Chancen, Risiken, Bauchgefühl und Business-Ziel abgleichen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Erfolgsaussichten Alignment
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `template-library-governance`
 
-**Frühere Beschreibung:** Template Library Governance: steuert Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Template Library Governance: steuert Mustertexte, Klauseln, Schriftsatzbausteine, Freigaben und Aktualitätscheck verwalten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Template Library Governance
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `termination-of-mandate`
 
-**Frühere Beschreibung:** Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Mandatsbeendigung: steuert Kündigung des Mandats, Fristen, Herausgabe, offene Rechnungen und Anschlussvertretung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Mandatsbeendigung
 

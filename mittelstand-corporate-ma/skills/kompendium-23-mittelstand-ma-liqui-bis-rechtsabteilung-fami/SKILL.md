@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-mittelstand-ma-liqui-bis-rechtsabteilung-fami
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (mittelstand-ma-liquiditaetsvorschau, mittelstand-ma-schreibcanvas, rechtsabteilung-betriebsuebergang-im-asset-deal, rechtsabteilung-familiengesellschafter-und-zustimmungsketten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Ma Liquiditaetsvorschau, Mittelstand Ma Schreibcanvas, Betriebsuebergang Im Asset Deal, Familiengesellschafter Und Zustimmungsketten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Ma Liquiditaetsvorschau bis Familiengesellschafter Und Zustimmungsketten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-ma-liquiditaetsvorschau` | Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten). |
 | `mittelstand-ma-schreibcanvas` | Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-ma-liquiditaetsvorschau`
 
-**Frühere Beschreibung:** Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten).
+**Fokus:** Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten).
 
 # Freistehende Liquiditätsvorschau (Mittelstand)
 
@@ -241,7 +241,7 @@ Quelle: dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=19.12.201
 
 ## 2. `mittelstand-ma-schreibcanvas`
 
-**Frühere Beschreibung:** Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe).
+**Fokus:** Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe).
 
 # Freistehender Corporate-Schreibcanvas
 
@@ -406,7 +406,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `rechtsabteilung-betriebsuebergang-im-asset-deal`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Betriebsübergang im Asset Deal: Informationsschreiben, Widerspruchsrisiko und Closing-Unterlagen werden koordiniert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Betriebsübergang im Asset Deal
 
@@ -462,7 +462,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-familiengesellschafter-und-zustimmungsketten`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Familiengesellschafter und Zustimmungsketten: Zustimmungen, Vorkaufsrechte, Güterstand und Nachfolge werden vor Signing gesichert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Familiengesellschafter und Zustimmungsketten
 

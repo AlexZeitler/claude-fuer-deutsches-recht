@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-gewrechts-bis-faevvollzug-neu-001
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg, fachanwalt-gewrechts-ki-vo-50-genai, faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Gewrechts Geschgehg Kollisionen Nda Hinschg Urhg, Gewrechts Ki Vo 50 Genai, Faevvollzug Neu 001 Ev Vollziehungscheck Dringlichkeit Titel Zus
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg` | Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen. |
 | `fachanwalt-gewrechts-ki-vo-50-genai` | KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen für KI-Nutzung. Abgrenzung: nicht für allgemeine KI-Governance. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg`
 
-**Frühere Beschreibung:** Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen.
+**Fokus:** Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -324,7 +324,7 @@ Bevor die Schutzstrategie entwickelt wird, klaere:
 
 ## 2. `fachanwalt-gewrechts-ki-vo-50-genai`
 
-**Frühere Beschreibung:** KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen für KI-Nutzung. Abgrenzung: nicht für allgemeine KI-Governance.
+**Fokus:** KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen für KI-Nutzung. Abgrenzung: nicht für allgemeine KI-Governance.
 
 ## Mandantenfragen beim Kaltstart
 
@@ -568,7 +568,7 @@ S. 2 KI-VO offensichtlich künstlerischen oder satirischen Zwecken dienen.
 
 ## 3. `faevvollzug-neu-001-ev-vollziehungscheck-dringlichkeit-titel-zus`
 
-**Frühere Beschreibung:** EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz. § 929 ZPO Vollziehungsfrist, § 936 ZPO, § 12 UWG, Selbstzustellung, Parteibetrieb, Rechtsfolgen verspäteter Vollziehung.
+**Fokus:** EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung bei einstweiliger Verfügung im gewerblichen Rechtsschutz. § 929 ZPO Vollziehungsfrist, § 936 ZPO, § 12 UWG, Selbstzustellung, Parteibetrieb, Rechtsfolgen verspäteter Vollziehung.
 
 # EV-Vollziehungscheck: Dringlichkeit, Titel und Zustellung
 

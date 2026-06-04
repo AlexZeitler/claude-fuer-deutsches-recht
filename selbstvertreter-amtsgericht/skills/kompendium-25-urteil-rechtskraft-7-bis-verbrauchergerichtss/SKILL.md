@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-urteil-rechtskraft-7-bis-verbrauchergerichtss
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 25; bündelt 3 frühere Spezialskills (urteil-rechtskraft-705-zpo, urteilsverkuendung-310-zpo, verbrauchergerichtsstand-29c-zpo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29c Zpo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Urteil Rechtskraft 705 Zpo, Urteilsverkuendung 310 Zpo, Verbrauchergerichtsstand 29c Zpo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `urteil-rechtskraft-705-zpo` | Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter. |
 | `urteilsverkuendung-310-zpo` | Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `urteil-rechtskraft-705-zpo`
 
-**Frühere Beschreibung:** Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter.
+**Fokus:** Rechtskraft des Urteils nach § 705 ZPO. Wann ist ein Urteil rechtskraeftig formelle und materielle Rechtskraft. Wirkung der Rechtskraft für Vollstreckung und gegen erneute Klage Bedeutung für Sie als Selbstvertreter.
 
 # Rechtskraft des Urteils
 
@@ -139,7 +139,7 @@ Stand: 05/2026. §§ 322, 705 ZPO unveraendert.
 
 ## 2. `urteilsverkuendung-310-zpo`
 
-**Frühere Beschreibung:** Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben.
+**Fokus:** Urteilsverkündung nach § 310 ZPO. Ende der muendlichen Verhandlung Verkündungs-Termin Zustellung schriftliches Urteil Tenor Form und Inhalt. Was Sie als Partei beim Termin und nach Verkündung erleben.
 
 # Urteilsverkuendung: So endet das Verfahren
 
@@ -280,7 +280,7 @@ Stand: 05/2026. § 310 ZPO unveraendert.
 
 ## 3. `verbrauchergerichtsstand-29c-zpo`
 
-**Frühere Beschreibung:** Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen.
+**Fokus:** Verbrauchergerichtsstand § 29c ZPO. Bei Haustuergeschäften und Außergeschäftsraum-Vertraegen kann der Verbraucher am eigenen Wohnsitz klagen oder verklagt werden. Voraussetzungen und Beispiele aus dem Versandhandel Online-Verkauf und Fernabsatzvertraegen.
 
 # Verbrauchergerichtsstand: Klagen am eigenen Wohnsitz
 

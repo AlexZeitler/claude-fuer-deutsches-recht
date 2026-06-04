@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-sexuelle-belaestigun-bis-soldatenbeteiligung
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (sexuelle-belaestigung-beschwerde-schutzpflicht, social-media-soldat-dienstpflichten, soldatenbeteiligung-vertrauensperson-sbg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Sexuelle Belaestigung Beschwerde Schutzpflicht, Social Media Soldat Dienstpflichten, Soldatenbeteiligung Vertrauensperson Sbg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sexuelle-belaestigung-beschwerde-schutzpflicht` | Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO. |
 | `social-media-soldat-dienstpflichten` | Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sexuelle-belaestigung-beschwerde-schutzpflicht`
 
-**Frühere Beschreibung:** Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO.
+**Fokus:** Sexuelle Belästigung, Beschwerde, Schutzpflicht: prüft SoldGG, AGG § 3 Abs. 4, SG §§ 10 und 12, Beschwerdewege und Schutzmaßnahmen. Norm-/Quellenanker: SoldGG, AGG, WBO.
 
 # Sexuelle Belästigung, Beschwerde und Schutzpflicht
 
@@ -137,7 +137,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `social-media-soldat-dienstpflichten`
 
-**Frühere Beschreibung:** Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG.
+**Fokus:** Social Media und Dienstpflichten Soldat: prüft Mäßigungsgebot § 7a SG, Treuepflicht, Disziplinarrecht und Grenzen. Norm-/Quellenanker: §§ 7 und 7a SG, Art. 5 GG, BVerwG.
 
 # Social Media und Dienstpflichten des Soldaten
 
@@ -246,7 +246,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `soldatenbeteiligung-vertrauensperson-sbg`
 
-**Frühere Beschreibung:** Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Soldatenbeteiligung Vertrauensperson SBG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Soldatenbeteiligung – Vertrauensperson nach SBG
 

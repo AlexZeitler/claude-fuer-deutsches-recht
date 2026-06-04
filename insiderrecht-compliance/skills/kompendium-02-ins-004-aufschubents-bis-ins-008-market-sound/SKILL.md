@@ -1,33 +1,33 @@
 ---
 name: kompendium-02-ins-004-aufschubents-bis-ins-008-market-sound
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 02; bündelt 2 frühere Spezialskills (ins-004-aufschubentscheidung, ins-008-market-sounding) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 004 Aufschubentscheidung, Ins 008 Market Sounding; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - insiderrecht-compliance
+# Arbeitsbereich - Ins 004 Aufschubentscheidung, Ins 008 Market Sounding
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-004-aufschubentscheidung` | Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht. |
 | `ins-008-market-sounding` | Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-004-aufschubentscheidung`
 
-**Frühere Beschreibung:** Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht.
+**Fokus:** Prueft die drei Aufschubvoraussetzungen nach Art. 17 Abs. 4 MAR, dokumentiert die Aufschubakte und steuert die Aufhebungspflicht.
 
 # Aufschubentscheidung nach Art. 17 Abs. 4 MAR
 
@@ -125,7 +125,7 @@ openjur.de, curia.europa.eu, bgh.de.
 
 ## 2. `ins-008-market-sounding`
 
-**Frühere Beschreibung:** Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management.
+**Fokus:** Steuert Market-Sounding-Prozesse nach Art. 11 MAR und DVO 2016/960: Vorab-Formalia, Wall-Crossing, Protokollierung und Wall-Down-Management.
 
 # Market Sounding nach Art. 11 MAR
 

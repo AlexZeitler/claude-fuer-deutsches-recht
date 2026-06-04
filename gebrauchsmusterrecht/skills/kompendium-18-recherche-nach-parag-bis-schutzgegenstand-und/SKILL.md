@@ -1,33 +1,33 @@
 ---
 name: kompendium-18-recherche-nach-parag-bis-schutzgegenstand-und
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 18; bündelt 2 frühere Spezialskills (recherche-nach-paragraph-7-gebrmg, schutzgegenstand-und-ausschluesse) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - gebrauchsmusterrecht
+# Arbeitsbereich - Recherche Nach Paragraph 7 Gebrmg, Schutzgegenstand Und Ausschluesse
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `recherche-nach-paragraph-7-gebrmg` | Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko. |
 | `schutzgegenstand-und-ausschluesse` | Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `recherche-nach-paragraph-7-gebrmg`
 
-**Frühere Beschreibung:** Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko.
+**Fokus:** Recherche nach § 7 GebrMG vorbereiten und auswerten: DPMA-Rechercheantrag, Stand der Technik, Trefferbewertung und Rechtsbestandsrisiko.
 
 # Recherche Nach Paragraph 7 Gebrmg
 
@@ -59,7 +59,7 @@ Rechercheauftrag und Auswertungsmemo.
 
 ## 2. `schutzgegenstand-und-ausschluesse`
 
-**Frühere Beschreibung:** Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee.
+**Fokus:** Schutzgegenstand und Ausschlüsse prüfen: technische Erfindung, Erzeugnis, Verfahren, biologische Verfahren, Softwareabgrenzung und bloße Idee.
 
 # Schutzgegenstand Und Ausschluesse
 

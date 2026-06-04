@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-pflegegeld-pflegegra-bis-pflegekasse-pflegeku
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 19; bündelt 5 frühere Spezialskills (pflegegeld-pflegegrad-1-bis-5, pflegegrad-mds-gutachten-widerspruch, pflegegrad-streit-mdk-pflegekasse-sgb-xi, pflegekasse-pflegehilfsmittel-40-sgb-xi, pflegekasse-pflegekurse-und-angehoerige) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pflegegeld Pflegegrad 1 Bis 5, Pflegegrad Mds Gutachten Widerspruch, Pflegegrad Streit Mdk Pflegekasse Sgb Xi, Pflegekasse Pflegehilfsmittel 40 Sgb Xi und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Pflegegeld Pflegegrad 1 Bis 5 bis Pflegekasse Pflegekurse Und Angehoerige
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pflegegeld-pflegegrad-1-bis-5` | Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation. |
 | `pflegegrad-mds-gutachten-widerspruch` | Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pflegegeld-pflegegrad-1-bis-5`
 
-**Frühere Beschreibung:** Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation.
+**Fokus:** Pflegegeld Pflegegrade 1 bis 5 (§§ 28 ff. SGB XI). Skill erklärt Pflegegeld, Pflegesachleistung, Kombinationsleistung, Entlastungsbetrag, Begutachtung, Widerspruch und aktuelle Leistungsbeträge mit Live-Verifikation.
 
 # Pflegegeld Pflegegrad 1 Bis 5
 
@@ -107,7 +107,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pflegegrad-mds-gutachten-widerspruch`
 
-**Frühere Beschreibung:** Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine.
+**Fokus:** Pflegegrad-Begutachtung durch den MD und Widerspruch. Skill leitet durch das Begutachtungsverfahren das neue Begutachtungsinstrument (BI) mit 6 Modulen die Punkteskala und typische Streitpunkte. Liefert Antragsvorlage und Widerspruchsbausteine.
 
 # Pflegegrad Mds Gutachten Widerspruch
 
@@ -171,7 +171,7 @@ Modul 2 oder 3 — das schwerwiegendere zaehlt.
 
 ## 3. `pflegegrad-streit-mdk-pflegekasse-sgb-xi`
 
-**Frühere Beschreibung:** Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige.
+**Fokus:** Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige.
 
 # Pflegegrad-Streit nach SGB XI
 
@@ -361,7 +361,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 4. `pflegekasse-pflegehilfsmittel-40-sgb-xi`
 
-**Frühere Beschreibung:** Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage.
+**Fokus:** Pflegehilfsmittel nach § 40 SGB XI. Skill klaert die Versorgung mit zum Verbrauch bestimmten Pflegehilfsmitteln (40 Euro/Monat) und technischen Pflegehilfsmitteln (Pflegebett Rollstuhl) sowie die wohnumfeldverbessernden Massnahmen (4000 Euro Zuschuss). Liefert Antragsvorlage.
 
 # Pflegekasse Pflegehilfsmittel 40 Sgb Xi
 
@@ -411,7 +411,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `pflegekasse-pflegekurse-und-angehoerige`
 
-**Frühere Beschreibung:** Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. SGB XI. Skill klaert die kostenlosen Pflegekurse Pflegeberatung Verhinderungspflegegeld Pflegezeit und Familienpflegezeit. Liefert Antragsvorlage.
+**Fokus:** Pflegekasse Pflegekurse und Angehoerigenberatung nach §§ 45 ff. SGB XI. Skill klaert die kostenlosen Pflegekurse Pflegeberatung Verhinderungspflegegeld Pflegezeit und Familienpflegezeit. Liefert Antragsvorlage.
 
 # Pflegekasse Pflegekurse Und Angehoerige
 

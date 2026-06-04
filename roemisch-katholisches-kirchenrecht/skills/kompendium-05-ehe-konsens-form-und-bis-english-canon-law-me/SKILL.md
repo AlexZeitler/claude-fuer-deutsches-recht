@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ehe-konsens-form-und-bis-english-canon-law-me
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (ehe-konsens-form-und-hindernisse, ehenichtigkeit-vor-dem-kirchlichen-tribunal, ehevorbereitung-und-dokumentencheck, english-canon-law-memo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ehe Konsens Form Und Hindernisse, Ehenichtigkeit Vor Dem Kirchlichen Tribunal, Ehevorbereitung Und Dokumentencheck, English Canon Law Memo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Ehe Konsens Form Und Hindernisse bis English Canon Law Memo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ehe-konsens-form-und-hindernisse` | Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `ehenichtigkeit-vor-dem-kirchlichen-tribunal` | Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ehe-konsens-form-und-hindernisse`
 
-**Frühere Beschreibung:** Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Ehe: Konsens, Form und Hindernisse: Ehefähigkeit, Konsensmängel, Formpflicht, Dispens und Nichtigkeit; CIC can. 1055-1165; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Ehe: Konsens, Form und Hindernisse
 
@@ -117,7 +117,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `ehenichtigkeit-vor-dem-kirchlichen-tribunal`
 
-**Frühere Beschreibung:** Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Ehenichtigkeit vor dem kirchlichen Tribunal: Anamnese, Klagegrund, Beweis, Zeugen und Tribunal; CIC can. 1671-1691 und 1095-1107; KKK 1625-1632; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Ehenichtigkeit vor dem kirchlichen Tribunal
 
@@ -175,7 +175,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `ehevorbereitung-und-dokumentencheck`
 
-**Frühere Beschreibung:** Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Ehevorbereitung und Dokumentencheck: Dokumentenliste, Traugespräch, Hindernisprüfung und Dispensbedarf; CIC can. 1063-1072; KKK 1601-1666; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Ehevorbereitung und Dokumentencheck
 
@@ -233,7 +233,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `english-canon-law-memo`
 
-**Frühere Beschreibung:** English Canon Law Memo: precise English canonical terminology; CIC can. 1-22 und 1400-1752; KKK CCC Prologue, 871-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** English Canon Law Memo: precise English canonical terminology; CIC can. 1-22 und 1400-1752; KKK CCC Prologue, 871-945 und 2030-2051; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # English Canon Law Memo
 

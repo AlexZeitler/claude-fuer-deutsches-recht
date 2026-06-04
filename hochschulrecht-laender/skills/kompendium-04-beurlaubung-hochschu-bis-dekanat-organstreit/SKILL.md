@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-beurlaubung-hochschu-bis-dekanat-organstreit
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (beurlaubung-hochschulstatus, campusbau-und-flaechenmanagement, datenschutz-hochschule, dekanat-organstreit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beurlaubung Hochschulstatus, Campusbau Und Flaechenmanagement, Datenschutz Hochschule, Dekanat Organstreit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - hochschulrecht-laender
+# Arbeitsbereich - Beurlaubung Hochschulstatus bis Dekanat Organstreit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beurlaubung-hochschulstatus` | Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken. |
 | `campusbau-und-flaechenmanagement` | Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beurlaubung-hochschulstatus`
 
-**Frühere Beschreibung:** Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken.
+**Fokus:** Prüft Urlaubssemester, Beitragsstatus, Prüfungsrechte, BAföG und Exmatrikulationsrisiken.
 
 # Beurlaubung und Hochschulstatus
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `campusbau-und-flaechenmanagement`
 
-**Frühere Beschreibung:** Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung.
+**Fokus:** Prüft Campusbau, Flächenvergabe, Bauherrenschaft, Vergabe und Gremienbeteiligung.
 
 # Campusbau und Flächenmanagement
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `datenschutz-hochschule`
 
-**Frühere Beschreibung:** Prüft Datenschutz in Lehre, Forschung und Verwaltung.
+**Fokus:** Prüft Datenschutz in Lehre, Forschung und Verwaltung.
 
 # Datenschutz Hochschule
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Datenschutzvermerk. Am Ende immer drei Zeilen: **Frist**, **f
 
 ## 4. `dekanat-organstreit`
 
-**Frühere Beschreibung:** Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel.
+**Fokus:** Prüft innerhochschulische Organstreitigkeiten und Beschlussmängel.
 
 # Dekanat und Organstreit
 

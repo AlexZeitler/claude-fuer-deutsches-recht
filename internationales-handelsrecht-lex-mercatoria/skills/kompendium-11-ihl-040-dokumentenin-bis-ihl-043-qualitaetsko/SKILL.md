@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-ihl-040-dokumentenin-bis-ihl-043-qualitaetsko
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (ihl-040-dokumenteninkasso, ihl-041-retention-of-title-international, ihl-042-eigentuemsuebergang-und-sicherheiten, ihl-043-qualitaetskontrolle-pre-shipment) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 040 Dokumenteninkasso, Ihl 041 Retention Of Title International, Ihl 042 Eigentuemsuebergang Und Sicherheiten, Ihl 043 Qualitaetskontrolle Pre Shipment; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 040 Dokumenteninkasso bis Ihl 043 Qualitaetskontrolle Pre Shipment
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-040-dokumenteninkasso` | Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung. |
 | `ihl-041-retention-of-title-international` | Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-040-dokumenteninkasso`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung.
+**Fokus:** Internationales Handelsrecht: Dokumenteninkasso nach URC 522 (ICC 1995). Dokumente-gegen-Zahlung (D/P) und Dokumente-gegen-Akzept (D/A), Inkassoauftrag, Pflichten der Inkassobank und Risiken bei Nichteinlösung.
 
 # Dokumenteninkasso nach URC 522
 
@@ -81,7 +81,7 @@ URC 522: iccwbo.org. WG (Wechselgesetz): gesetze-im-internet.de. Schrifttum: Mal
 
 ## 2. `ihl-041-retention-of-title-international`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA).
+**Fokus:** Internationales Handelsrecht: Eigentumsvorbehalt (EV) im internationalen Handel. Einfacher, erweiterter und verlängerter Eigentumsvorbehalt, Wirksamkeit nach ausländischem Sachenrecht, Kollisionsrecht (lex situs), Registrierungspflichten und UCC Art. 9 (USA).
 
 # Eigentumsvorbehalt International
 
@@ -133,7 +133,7 @@ BGB §§ 449, 138: gesetze-im-internet.de. UCC Art. 9: uniform.law.cornell.edu (
 
 ## 3. `ihl-042-eigentuemsuebergang-und-sicherheiten`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Eigentumsübergang bei Warenkauf international. CISG-Lücke (Art. 4b), lex situs, Traditio vs. Konsensualprinzip, Kreditsicherheiten in der Lieferkette und Floating Charge (englisches Recht).
+**Fokus:** Internationales Handelsrecht: Eigentumsübergang bei Warenkauf international. CISG-Lücke (Art. 4b), lex situs, Traditio vs. Konsensualprinzip, Kreditsicherheiten in der Lieferkette und Floating Charge (englisches Recht).
 
 # Eigentumsübergang und Kreditsicherheiten
 
@@ -185,7 +185,7 @@ BGB §§ 929 ff.: gesetze-im-internet.de. SGA 1979 (UK): legislation.gov.uk. CIS
 
 ## 4. `ihl-043-qualitaetskontrolle-pre-shipment`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung.
+**Fokus:** Internationales Handelsrecht: Qualitätskontrolle vor Versand (Pre-Shipment Inspection, PSI). CISG Art. 35 Vertragsmäßigkeit als Grundlage, PSI-Klauseln, SGS/Bureau Veritas-Praxis, WTO-PSI-Abkommen und Haftung des Inspektors bei fehlerhafter Bescheinigung.
 
 # Qualitätskontrolle: Pre-Shipment Inspection
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-rechtsabteilung-cybe-bis-rechtsabteilung-righ
-description: "produktrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal, rechtsabteilung-digitale-elemente-im-kaufrecht, rechtsabteilung-right-to-repair-im-geraetevertrieb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Cybersecurity Als Produktsicherheitsmerkmal, Digitale Elemente Im Kaufrecht, Right To Repair Im Geraetevertrieb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - produktrecht
+# Arbeitsbereich - Cybersecurity Als Produktsicherheitsmerkmal, Digitale Elemente Im Kaufrecht, Right To Repair Im Geraetevertrieb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal` | Rechtsabteilungs-Spezialskill für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-digitale-elemente-im-kaufrecht` | Rechtsabteilungs-Spezialskill für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-cybersecurity-als-produktsicherheitsmerkmal`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Cybersecurity als Produktsicherheitsmerkmal: Connected Products werden auf Security-by-Design und Patchfähigkeit geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Cybersecurity als Produktsicherheitsmerkmal
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-digitale-elemente-im-kaufrecht`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Digitale Elemente im Kaufrecht: Updatepflicht, Mangel, Interoperabilität und Informationspflichten werden getrennt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Digitale Elemente im Kaufrecht
 
@@ -108,7 +108,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-right-to-repair-im-geraetevertrieb`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Right to Repair im Gerätevertrieb: Reparaturpflichten, Ersatzteile, Garantietexte und Service-Netz werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Right to Repair im Gerätevertrieb
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-notariat-013-vorsorg-bis-notariat-017-erbbaur
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (notariat-013-vorsorgevollmacht-patientenverfuegung-betreuungsver, notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf, notariat-017-erbbaurecht-bestellung-aenderung-heimfall-und-rang) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat 017 Erbbaurecht Bestellung Aenderung Heimfall Und Rang; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - notariat-alltag
+# Arbeitsbereich - Notariat 013 Vorsorgevollmacht Patientenverfuegung Betreuungsver, Notariat 016 Teilungserklaerung Weg Sondernutzungsrechte Und Auf, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-013-vorsorgevollmacht-patientenverfuegung-betreuungsver` | Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung. |
 | `notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf` | Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-013-vorsorgevollmacht-patientenverfuegung-betreuungsver`
 
-**Frühere Beschreibung:** Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung.
+**Fokus:** Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung und Zentrales Vorsorgeregister. Formvoraussetzungen, Inhalt, Registrierung beim ZVR der BNotK und Abgrenzung zur Betreuung.
 
 # Notariat im Alltag: Vorsorgevollmacht, Patientenverfügung, Betreuungsverfügung, Zentrales Vorsorgeregister
 
@@ -120,7 +120,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-016-teilungserklaerung-weg-sondernutzungsrechte-und-auf`
 
-**Frühere Beschreibung:** Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen.
+**Fokus:** Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte und Aufteilungsplan. Begründung von Wohnungseigentum nach § 8 WEG, Inhalt der Teilungserklärung, Gemeinschaftsordnung, Sondernutzungsrechte und grundbuchrechtliche Vollzugsfragen.
 
 # Notariat im Alltag: Teilungserklärung WEG, Sondernutzungsrechte, Aufteilungsplan
 
@@ -208,7 +208,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-017-erbbaurecht-bestellung-aenderung-heimfall-und-rang`
 
-**Frühere Beschreibung:** Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts.
+**Fokus:** Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall und Rang. Inhalt des Erbbaurechtsvertrags, Grundbuchrecht, Erbbauzins, Heimfallklauseln und Finanzierbarkeit des Erbbaurechts.
 
 # Notariat im Alltag: Erbbaurecht – Bestellung, Änderung, Heimfall, Rang
 

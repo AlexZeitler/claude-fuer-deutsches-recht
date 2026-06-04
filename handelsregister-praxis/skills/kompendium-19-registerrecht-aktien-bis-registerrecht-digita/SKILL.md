@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-registerrecht-aktien-bis-registerrecht-digita
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (registerrecht-aktiengesellschaft-vorstand-aufsichtsrat, registerrecht-beschlussmaengel-und-registervollzug, registerrecht-digitalgruendung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Registerrecht Aktiengesellschaft Vorstand Aufsichtsrat, Registerrecht Beschlussmaengel Und Registervollzug, Registerrecht Digitalgruendung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - handelsregister-praxis
+# Arbeitsbereich - Registerrecht Aktiengesellschaft Vorstand Aufsichtsrat, Registerrecht Beschlussmaengel Und Registervollzug, Registerrecht Digitalgruendung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `registerrecht-aktiengesellschaft-vorstand-aufsichtsrat` | Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG. |
 | `registerrecht-beschlussmaengel-und-registervollzug` | Prüft, ob das Registergericht bei Kapitalmaßnahme, Geschäftsführerbestellung oder Satzungsänderung Beschlussmängel beachten muss, wie weit die formelle Prüfung reicht und wann der materielle Streit auf Zivilprozess/Eilrechtsschutz verlagert wird. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `registerrecht-aktiengesellschaft-vorstand-aufsichtsrat`
 
-**Frühere Beschreibung:** Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG.
+**Fokus:** Prüft Bestellung, Vertretung, Satzungsänderungen, Kapitalmaßnahmen und Eintragung bei der AG.
 
 # AG: Vorstand/Aufsichtsrat anmelden
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `registerrecht-beschlussmaengel-und-registervollzug`
 
-**Frühere Beschreibung:** Prüft, ob das Registergericht bei Kapitalmaßnahme, Geschäftsführerbestellung oder Satzungsänderung Beschlussmängel beachten muss, wie weit die formelle Prüfung reicht und wann der materielle Streit auf Zivilprozess/Eilrechtsschutz verlagert wird.
+**Fokus:** Prüft, ob das Registergericht bei Kapitalmaßnahme, Geschäftsführerbestellung oder Satzungsänderung Beschlussmängel beachten muss, wie weit die formelle Prüfung reicht und wann der materielle Streit auf Zivilprozess/Eilrechtsschutz verlagert wird.
 
 # Beschlussmängel im Registervollzug
 
@@ -96,7 +96,7 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 
 ## 3. `registerrecht-digitalgruendung`
 
-**Frühere Beschreibung:** Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch.
+**Fokus:** Prüft Online-Beurkundung/Beglaubigung, Identifizierung, digitale Einreichung und Medienbruch.
 
 # Online-Gründung und DiRUG
 

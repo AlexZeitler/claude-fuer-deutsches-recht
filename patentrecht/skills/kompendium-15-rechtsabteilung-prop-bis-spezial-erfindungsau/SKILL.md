@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-rechtsabteilung-prop-bis-spezial-erfindungsau
-description: "patentrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (rechtsabteilung-proportionalitaet-der-unterlassung-139-patg, schweiz-patentrecht-bundespatentgericht, spezial-erfindungsaufnahme-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - patentrecht
+# Arbeitsbereich - Proportionalitaet Der Unterlassung 139 Patg, Schweiz Patentrecht Bundespatentgericht, Erfindungsaufnahme Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-proportionalitaet-der-unterlassung-139-patg` | Rechtsabteilungs-Spezialskill für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `schweiz-patentrecht-bundespatentgericht` | Prüft Schweizer Patentrecht: Swissreg/IGE, nationale Patente, EP-Validierung, Bundespatentgericht, Verletzung, Nichtigkeit, vorsorgliche Maßnahmen und DACH-Abgrenzung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-proportionalitaet-der-unterlassung-139-patg`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Proportionalität der Unterlassung § 139 PatG: Injunction-Risiken werden für komplexe Produkte und Supply Chain bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Proportionalität der Unterlassung § 139 PatG
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `schweiz-patentrecht-bundespatentgericht`
 
-**Frühere Beschreibung:** Prüft Schweizer Patentrecht: Swissreg/IGE, nationale Patente, EP-Validierung, Bundespatentgericht, Verletzung, Nichtigkeit, vorsorgliche Maßnahmen und DACH-Abgrenzung.
+**Fokus:** Prüft Schweizer Patentrecht: Swissreg/IGE, nationale Patente, EP-Validierung, Bundespatentgericht, Verletzung, Nichtigkeit, vorsorgliche Maßnahmen und DACH-Abgrenzung.
 
 # Schweiz: IGE und Bundespatentgericht
 
@@ -126,7 +126,7 @@ Keine erfundenen Registerstände, Fristen oder ausländischen Rechtsaussagen. F�
 
 ## 3. `spezial-erfindungsaufnahme-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin patentrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin patentrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Erfindungsaufnahme: Tatbestandsmerkmale, Beweisfragen und Beleglage
 

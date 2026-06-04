@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-notariat-022-zwische-bis-notariat-024-dolmets
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (notariat-022-zwischenverfuegung-registergericht-antwortstrategie, notariat-023-identitaetspruefung-videoident-und-praesenztermin-g, notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat 024 Dolmetscher Beteiligte Ohne Deutschkenntnisse Und S; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - notariat-alltag
+# Arbeitsbereich - Notariat 022 Zwischenverfuegung Registergericht Antwortstrategie, Notariat 023 Identitaetspruefung Videoident Und Praesenztermin G, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-022-zwischenverfuegung-registergericht-antwortstrategie` | Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde. |
 | `notariat-023-identitaetspruefung-videoident-und-praesenztermin-g` | Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-022-zwischenverfuegung-registergericht-antwortstrategie`
 
-**Frühere Beschreibung:** Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde.
+**Fokus:** Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie und Frist. Typische Beanstandungen bei HR- und Grundbuchanmeldungen, Nachreichungsstrategien, Fristverlängerung und Beschwerde.
 
 # Notariat im Alltag: Zwischenverfügung Registergericht – Antwortstrategie, Frist
 
@@ -115,7 +115,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-023-identitaetspruefung-videoident-und-praesenztermin-g`
 
-**Frühere Beschreibung:** Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung.
+**Fokus:** Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen. Pflichten nach § 10 BeurkG, anerkannte Legitimationsdokumente, Videobeurkundung und Abgrenzung zur unzulässigen Fernbeurkundung.
 
 # Notariat im Alltag: Identitätsprüfung – Videoident und Präsenztermin, Grenzen
 
@@ -200,7 +200,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-024-dolmetscher-beteiligte-ohne-deutschkenntnisse-und-s`
 
-**Frühere Beschreibung:** Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach § 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung.
+**Fokus:** Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse und Sprachvermerk. Anforderungen nach § 16 BeurkG, Dolmetscherqualifikation, Sprachvermerk in der Urkunde und zweisprachige Beurkundung.
 
 # Notariat im Alltag: Dolmetscher, Beteiligte ohne Deutschkenntnisse, Sprachvermerk
 

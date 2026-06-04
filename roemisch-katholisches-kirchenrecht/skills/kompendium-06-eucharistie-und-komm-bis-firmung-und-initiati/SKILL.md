@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-eucharistie-und-komm-bis-firmung-und-initiati
-description: "roemisch-katholisches-kirchenrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (eucharistie-und-kommunionzulassung, exkommunikation-apostasie-haresie-schisma, exorzismus-und-sakramentalien, firmung-und-initiation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisch-katholisches-kirchenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eucharistie Und Kommunionzulassung, Exkommunikation Apostasie Haresie Schisma, Exorzismus Und Sakramentalien, Firmung Und Initiation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - roemisch-katholisches-kirchenrecht
+# Arbeitsbereich - Eucharistie Und Kommunionzulassung bis Firmung Und Initiation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eucharistie-und-kommunionzulassung` | Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
 | `exkommunikation-apostasie-haresie-schisma` | Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eucharistie-und-kommunionzulassung`
 
-**Frühere Beschreibung:** Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Eucharistie und Kommunionzulassung: Zulassung, würdiger Empfang, öffentliche schwere Sünde und Gespräch; CIC can. 897-958 und 912-923; KKK 1322-1419; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Eucharistie und Kommunionzulassung
 
@@ -87,7 +87,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 2. `exkommunikation-apostasie-haresie-schisma`
 
-**Frühere Beschreibung:** Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Exkommunikation, Apostasie, Häresie, Schisma: Tatbestand, Zurechenbarkeit, Strafe, Remission und Sprache; CIC can. 751 und 1311-1399 und 1364; KKK 817-822 und 2089 und 1463; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Exkommunikation, Apostasie, Häresie, Schisma
 
@@ -174,7 +174,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 3. `exorzismus-und-sakramentalien`
 
-**Frühere Beschreibung:** Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Exorzismus und Sakramentalien: feierlicher Exorzismus, einfache Gebete, psychische Not und Zuständigkeit; CIC can. 1166-1172; KKK 1667-1673; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Exorzismus und Sakramentalien
 
@@ -232,7 +232,7 @@ Wenn eine dieser Stellen entscheidungstragend ist, wird der aktuelle amtliche Te
 
 ## 4. `firmung-und-initiation`
 
-**Frühere Beschreibung:** Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis und Nachholung; CIC can. 879-896; KKK 1285-1321; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
+**Fokus:** Firmung und Initiation: Firmspender, Alter, Vorbereitung, Nachweis und Nachholung; CIC can. 879-896; KKK 1285-1321; mehrsprachige Ausgabe, Zuständigkeit und papsttreue pastorale Umsetzung.
 
 # Firmung und Initiation
 

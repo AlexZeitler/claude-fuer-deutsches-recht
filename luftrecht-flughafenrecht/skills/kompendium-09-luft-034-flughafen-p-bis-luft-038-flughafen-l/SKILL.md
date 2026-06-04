@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-luft-034-flughafen-p-bis-luft-038-flughafen-l
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (luft-034-flughafen-pfaendung-planen, luft-035-flughafen-genehmigung-pruefen, luft-036-flughafen-sicherheitsauflage-bewerten, luft-037-flughafen-insolvenzrisiko-markieren, luft-038-flughafen-local-counsel-briefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 034 Flughafen Pfaendung Planen, Luft 035 Flughafen Genehmigung Pruefen, Luft 036 Flughafen Sicherheitsauflage Bewerten, Luft 037 Flughafen Insolvenzrisiko Markieren und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 034 Flughafen Pfaendung Planen bis Luft 038 Flughafen Local Counsel Briefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-034-flughafen-pfaendung-planen` | Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie. |
 | `luft-035-flughafen-genehmigung-pruefen` | Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-034-flughafen-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie.
+**Fokus:** Glaeubiger will Flughafen-Grundstuecke oder Betriebseinrichtungen pfaenden oder Zwangsverwaltung beantragen. Skill prueft ZVG §§ 146 ff. Grundstückszwangsversteigerung LuftVG-Betriebspflichten und Gemeinwohlvorbehalt und liefert Pfaendungsplan oder Abwehrstrategie.
 
 # Flughafen – Pfändung planen
 
@@ -124,7 +124,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 2. `luft-035-flughafen-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf.
+**Fokus:** Flughafenbetriebsgenehmigung ist unklar: LuftVG § 6 Genehmigung Planfeststellungsbeschluss Betriebserlaubnis Nebenbestimmungen oder Auflagen laeuft aus oder wird angefochten. Skill prueft LuftVG §§ 6-10 Auflagen und liefert Genehmigungsstatus-Vermerk mit Handlungsbedarf.
 
 # Flughafen – Genehmigung prüfen
 
@@ -218,7 +218,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 3. `luft-036-flughafen-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster.
+**Fokus:** Flughafen erhaelt LuftSiG-Bescheid mit Sicherheitsauflagen oder EASA-Inspektion ergibt Findings. Skill prueft LuftSiG § 8 Sicherheitsprogrammpflichten EU-DVO 2015/1998 Findings-Kategorien Verhaeltnismaessigkeit und Widerspruchsrecht und liefert Auflagen-Bewertungs-Vermerk und Abhilfeplan-Muster.
 
 # Flughafen – Sicherheitsauflage bewerten
 
@@ -312,7 +312,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 4. `luft-037-flughafen-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagierzahlen Darlehensausfaelle. Skill prueft InsO §§ 15a 17-19 EU-Beihilferecht Daseinsvorsorge-Ausnahme und LuftVG-Betriebspflichten und liefert Risikoampel-Bewertung fuer Kreditgeber oder Minderheitsgesellschafter.
+**Fokus:** Regionaler Flughafen zeigt Insolvenzzeichen: Subventionsstopp sinkende Passagierzahlen Darlehensausfaelle. Skill prueft InsO §§ 15a 17-19 EU-Beihilferecht Daseinsvorsorge-Ausnahme und LuftVG-Betriebspflichten und liefert Risikoampel-Bewertung fuer Kreditgeber oder Minderheitsgesellschafter.
 
 # Flughafen – Insolvenzrisiko markieren
 
@@ -406,7 +406,7 @@ Für Mandate im Bereich Flughafenbetrieb und Planfeststellung sind folgende Doku
 
 ## 5. `luft-038-flughafen-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Flughafen-Mandat briefen: Planfeststellung Sicherheitsauflage oder Insolvenz. Skill erstellt englisches Briefing-Memo mit deutschem Planfeststellungsrecht LuftSiG LuftVG und konkreten Fragen an Local Counsel.
 
 # Flughafen – Local Counsel briefen
 

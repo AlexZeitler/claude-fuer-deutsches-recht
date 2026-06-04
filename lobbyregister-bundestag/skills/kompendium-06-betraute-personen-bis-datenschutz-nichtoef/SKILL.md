@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-betraute-personen-bis-datenschutz-nichtoef
-description: "lobbyregister-bundestag: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (betraute-personen, datenschutz-nichtoeffentliche-angaben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "lobbyregister-bundestag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betraute Personen, Datenschutz Nichtoeffentliche Angaben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - lobbyregister-bundestag
+# Arbeitsbereich - Betraute Personen, Datenschutz Nichtoeffentliche Angaben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betraute-personen` | Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste. |
 | `datenschutz-nichtoeffentliche-angaben` | Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betraute-personen`
 
-**Frühere Beschreibung:** Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste.
+**Fokus:** Ermittelt Personen, die mit Interessenvertretung nicht nur bei Gelegenheit betraut sind und unmittelbar auftreten. Abgrenzung zu Backoffice, gelegentlicher Hilfe und VZAE. Output Personenliste.
 
 # Betraute Personen
 
@@ -77,7 +77,7 @@ Personenliste mit Rolle, Einsatzbereich, Drehtuerstatus, VZAE-Relevanz und Aktua
 
 ## 2. `datenschutz-nichtoeffentliche-angaben`
 
-**Frühere Beschreibung:** Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte.
+**Fokus:** Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte.
 
 # Datenschutz und nicht oeffentliche Angaben
 

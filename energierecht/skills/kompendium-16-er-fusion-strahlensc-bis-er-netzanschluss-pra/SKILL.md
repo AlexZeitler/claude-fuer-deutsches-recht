@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-er-fusion-strahlensc-bis-er-netzanschluss-pra
-description: "energierecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (er-fusion-strahlenschutz-neutronen, er-fusion-transrapid-anbindung, er-h2-electrolyseur-foerderung, er-netzanschluss-praesumtion-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Fusion Strahlenschutz Neutronen, Er Fusion Transrapid Anbindung, Er H2 Electrolyseur Foerderung, Er Netzanschluss Praesumtion Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - energierecht
+# Arbeitsbereich - Er Fusion Strahlenschutz Neutronen bis Er Netzanschluss Praesumtion Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-fusion-strahlenschutz-neutronen` | Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung. |
 | `er-fusion-transrapid-anbindung` | Prüft Planungsrecht, Infrastrukturzulassung, Grundstücke, Sicherheit, Betreiberrollen und Schnittstellen zum Energieprojekt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-fusion-strahlenschutz-neutronen`
 
-**Frühere Beschreibung:** Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung.
+**Fokus:** Prüft Strahlenschutzfragen, Aktivierung von Materialien, Überwachung, Dosismanagement und Entsorgung.
 
 # Fusion: Strahlenschutz und Neutronenaktivierung
 
@@ -66,7 +66,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 ## 2. `er-fusion-transrapid-anbindung`
 
-**Frühere Beschreibung:** Prüft Planungsrecht, Infrastrukturzulassung, Grundstücke, Sicherheit, Betreiberrollen und Schnittstellen zum Energieprojekt.
+**Fokus:** Prüft Planungsrecht, Infrastrukturzulassung, Grundstücke, Sicherheit, Betreiberrollen und Schnittstellen zum Energieprojekt.
 
 # Fusion und Transrapid-Anschluss
 
@@ -103,7 +103,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 ## 3. `er-h2-electrolyseur-foerderung`
 
-**Frühere Beschreibung:** Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung.
+**Fokus:** Spezialfall Wasserstoff-Elektrolyseur: Foerderwege (Wasserstoffstrategie Bund, EU-Wasserstoffbank, IPCEI), Strompreisbedingungen Industrieprivileg, Anschluss Netz, Sicherheitsabstaende BImSchG, Hochdruck-Pipeline-Genehmigung. Pruefraster Projektentwicklung.
 
 # H2-Elektrolyseur-Spezial
 
@@ -155,7 +155,7 @@ Dieser Skill gehoert zum Plugin `energierecht`. Er ergaenzt die uebrigen Skills 
 
 ## 4. `er-netzanschluss-praesumtion-spezial`
 
-**Frühere Beschreibung:** Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle.
+**Fokus:** Spezialfall Netzanschluss-Verweigerung trotz EEG-Vorrang: Pflicht zur Optimierung und Verstaerkung § 12 EEG, wirtschaftliche Zumutbarkeit, einstweilige Verfuegung gegen Netzbetreiber. Schriftsatzbausteine und Rechtsprechung BGH und Clearingstelle.
 
 # Energie: Netzanschluss-Verweigerung
 

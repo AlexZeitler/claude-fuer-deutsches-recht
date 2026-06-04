@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-tier-062-schweinehal-bis-tier-065-schweinehal
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (tier-062-schweinehaltung-behoerdenantrag-schrei, tier-063-schweinehaltung-anordnung-angreifen, tier-064-schweinehaltung-beweise-sichern, tier-065-schweinehaltung-strafrisiko-bewerten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 062 Schweinehaltung Behoerdenantrag Schrei, Tier 063 Schweinehaltung Anordnung Angreifen, Tier 064 Schweinehaltung Beweise Sichern, Tier 065 Schweinehaltung Strafrisiko Bewerten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - tierschutzrecht
+# Arbeitsbereich - Tier 062 Schweinehaltung Behoerdenantrag Schrei bis Tier 065 Schweinehaltung Strafrisiko Bewerten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-062-schweinehaltung-behoerdenantrag-schrei` | Tierschutzrecht: Schweinehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `tier-063-schweinehaltung-anordnung-angreifen` | Tierschutzrecht: Schweinehaltung: Anordnung angreifen. Anordnung angreifen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-062-schweinehaltung-behoerdenantrag-schrei`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Behördenantrag schreiben. Behördenantrag schreiben für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Behoerdenantrag Schrei
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-063-schweinehaltung-anordnung-angreifen`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Anordnung angreifen. Anordnung angreifen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Anordnung angreifen. Anordnung angreifen für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Anordnung Angreifen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-064-schweinehaltung-beweise-sichern`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Beweise sichern. Beweise sichern für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Beweise sichern. Beweise sichern für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Beweise Sichern
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-065-schweinehaltung-strafrisiko-bewerten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Schweinehaltung: Strafrisiko bewerten. Strafrisiko bewerten für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Tierschutzrecht: Schweinehaltung: Strafrisiko bewerten. Strafrisiko bewerten für Schweinehaltung im Rahmen von Tierschutzrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Schweinehaltung Strafrisiko Bewerten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-oew-093-messegesells-bis-oew-097-messegesells
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (oew-093-messegesellschaft-beihilfe-markieren, oew-094-messegesellschaft-wirtschaftlichkeit-r, oew-095-messegesellschaft-risiko-verteilen, oew-097-messegesellschaft-kontrolle-sichern) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 093 Messegesellschaft Beihilfe Markieren, Oew 094 Messegesellschaft Wirtschaftlichkeit R, Oew 095 Messegesellschaft Risiko Verteilen, Oew 097 Messegesellschaft Kontrolle Sichern; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 093 Messegesellschaft Beihilfe Markieren bis Oew 097 Messegesellschaft Kontrolle Sichern
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-093-messegesellschaft-beihilfe-markieren` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Beihilfe markieren. Beihilfe markieren für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-094-messegesellschaft-wirtschaftlichkeit-r` | Öffentliches Wirtschaftsrecht: Messegesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-093-messegesellschaft-beihilfe-markieren`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Beihilfe markieren. Beihilfe markieren für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Beihilfe markieren. Beihilfe markieren für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Beihilfe Markieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-094-messegesellschaft-wirtschaftlichkeit-r`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Wirtschaftlichkeit rechnen. Wirtschaftlichkeit rechnen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Wirtschaftlichkeit R
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-095-messegesellschaft-risiko-verteilen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Risiko verteilen. Risiko verteilen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Risiko verteilen. Risiko verteilen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Risiko Verteilen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-097-messegesellschaft-kontrolle-sichern`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Kontrolle sichern. Kontrolle sichern für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Kontrolle sichern. Kontrolle sichern für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Kontrolle Sichern
 

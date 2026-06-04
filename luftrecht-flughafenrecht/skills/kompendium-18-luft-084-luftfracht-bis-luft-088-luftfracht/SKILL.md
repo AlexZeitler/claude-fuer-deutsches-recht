@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-luft-084-luftfracht-bis-luft-088-luftfracht
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (luft-084-luftfracht-pfaendung-planen, luft-085-luftfracht-genehmigung-pruefen, luft-086-luftfracht-sicherheitsauflage-bewerten, luft-087-luftfracht-insolvenzrisiko-markieren, luft-088-luftfracht-local-counsel-briefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 084 Luftfracht Pfaendung Planen, Luft 085 Luftfracht Genehmigung Pruefen, Luft 086 Luftfracht Sicherheitsauflage Bewerten, Luft 087 Luftfracht Insolvenzrisiko Markieren und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 084 Luftfracht Pfaendung Planen bis Luft 088 Luftfracht Local Counsel Briefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-084-luftfracht-pfaendung-planen` | Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjaehrung und liefert Pfaendungsplan fuer Luftfracht-Vollstreckung. |
 | `luft-085-luftfracht-genehmigung-pruefen` | Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-084-luftfracht-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjaehrung und liefert Pfaendungsplan fuer Luftfracht-Vollstreckung.
+**Fokus:** Glaeubiger will Luftfracht oder Luftfrachtansprueche pfaenden. Prueft ZPO § 808 Mobiliarpfaendung HGB Frachtfuehrer-Pfandrecht Montreal Convention Art. 35 Verjaehrung und liefert Pfaendungsplan fuer Luftfracht-Vollstreckung.
 
 # Luftfracht – Pfändung planen
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 2. `luft-085-luftfracht-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk.
+**Fokus:** Luftfrachtfuehrer oder Spediteur fraucht Genehmigung: Luftverkehrsbetreiberzeugnis AOC Gefahrgut-Erlaubnis oder Regulated-Agent-Status. Skill prueft LuftVG EASA Part-OPS IATA DGR EU-VO 300/2008 und liefert Genehmigungsstatus-Vermerk.
 
 # Luftfracht – Genehmigung prüfen
 
@@ -221,7 +221,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 3. `luft-086-luftfracht-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** Luftfrachtfuehrer oder Spediteur erhaelt LuftSiG oder EU-Luftsicherheits-Auflage. Prueft LuftSiG § 9 Sicherheitsprogramm EU-DVO 2015/1998 EU-VO 300/2008 Findings-Kategorien und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan.
+**Fokus:** Luftfrachtfuehrer oder Spediteur erhaelt LuftSiG oder EU-Luftsicherheits-Auflage. Prueft LuftSiG § 9 Sicherheitsprogramm EU-DVO 2015/1998 EU-VO 300/2008 Findings-Kategorien und liefert Auflagen-Bewertungs-Vermerk und Corrective-Action-Plan.
 
 # Luftfracht – Sicherheitsauflage bewerten
 
@@ -316,7 +316,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 4. `luft-087-luftfracht-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel fuer Fracht-Glaeubiger.
+**Fokus:** Luftfrachtfuehrer oder grosser Luftfracht-Spediteur zeigt Insolvenzzeichen. Prueft InsO §§ 15a 17-19 Frachtfuehrer-Pfandrecht HGB § 440 Montreal Convention Haftungsgrenzen und liefert Risikoampel fuer Fracht-Glaeubiger.
 
 # Luftfracht – Insolvenzrisiko markieren
 
@@ -412,7 +412,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 5. `luft-088-luftfracht-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Luftfracht-Mandat briefen: Montreal Convention Haftung Gefahrgutvorfall oder Frachtführer-Insolvenz. Skill erstellt englisches Briefing-Memo mit Sachverhalt deutschem Recht und konkreten Fragen.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Luftfracht-Mandat briefen: Montreal Convention Haftung Gefahrgutvorfall oder Frachtführer-Insolvenz. Skill erstellt englisches Briefing-Memo mit Sachverhalt deutschem Recht und konkreten Fragen.
 
 # Luftfracht – Local Counsel briefen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-bverwg-2012-sanitaet-bis-checkliste-vor-antra
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (bverwg-2012-sanitaetsdienst, bverwg-2018-innere-umkehr, bverwg-2021-parteivernehmung, checkliste-nach-antrag, checkliste-vor-antrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bverwg 2012 Sanitaetsdienst, Bverwg 2018 Innere Umkehr, Bverwg 2021 Parteivernehmung, Checkliste Nach Antrag und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Bverwg 2012 Sanitaetsdienst bis Checkliste Vor Antrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bverwg-2012-sanitaetsdienst` | Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an. |
 | `bverwg-2018-innere-umkehr` | Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bverwg-2012-sanitaetsdienst`
 
-**Frühere Beschreibung:** Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an.
+**Fokus:** Wendet BVerwG 22.02.2012 - 6 C 31.11/6 C 11.11 an.
 
 # BVerwG 2012 Sanitätsdienst
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `bverwg-2018-innere-umkehr`
 
-**Frühere Beschreibung:** Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an.
+**Fokus:** Wendet BVerwG 03.08.2018 - 6 B 124.18 auf Gediente an.
 
 # BVerwG 2018 innere Umkehr
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `bverwg-2021-parteivernehmung`
 
-**Frühere Beschreibung:** Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor.
+**Fokus:** Bereitet persönliche gerichtliche Befragung nach BVerwG 31.03.2021 vor.
 
 # BVerwG 2021 Parteivernehmung
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `checkliste-nach-antrag`
 
-**Frühere Beschreibung:** Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung.
+**Fokus:** Ordnet Eingangsnachweis, Aktenlog, Sachstand und Fristen nach Antragstellung.
 
 # Checkliste nach Antrag
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `checkliste-vor-antrag`
 
-**Frühere Beschreibung:** Letztes Qualitätsgate vor Absendung des KDV-Antrags.
+**Fokus:** Letztes Qualitätsgate vor Absendung des KDV-Antrags.
 
 # Checkliste vor Antrag
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-see-018-umwelt-und-m-bis-see-022-schiffshypot
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (see-018-umwelt-und-marpol, see-019-itlos-hamburg-und-unclos, see-020-dokumenten-cockpit-schiff, see-021-schiffshypothek-register-pruefen, see-022-schiffshypothek-hypothek-bestellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 018 Umwelt Und Marpol, See 019 Itlos Hamburg Und Unclos, See 020 Dokumenten Cockpit Schiff, See 021 Schiffshypothek Register Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 018 Umwelt Und Marpol bis See 022 Schiffshypothek Hypothek Bestellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-018-umwelt-und-marpol` | Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste. |
 | `see-019-itlos-hamburg-und-unclos` | Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-018-umwelt-und-marpol`
 
-**Frühere Beschreibung:** Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste.
+**Fokus:** Schiff hat Oel oder Chemikalien ins Meer eingeleitet; Strafanzeige und Bussgeldsverfahren. MARPOL Annex I (Oel) / II (Chemikalien) / VI (Abgase SOx/NOx); OelSG §§ 1-12; SeeUG § 11; StGB §§ 324/326 (Gewaesserschutz). Oil Record Book; Falscheintrag; US APPS Act. Output: Strafverteidigungs-Vermerk und Beweissicherungs-Checkliste.
 
 # Umwelt und MARPOL – Öleinleitung und Strafverfolgung
 
@@ -109,7 +109,7 @@ Ein Kapitän soll auf der Elbe Bilgenwasser eingeleitet haben; die Küstenwache 
 
 ## 2. `see-019-itlos-hamburg-und-unclos`
 
-**Frühere Beschreibung:** Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation.
+**Fokus:** Flaggenstaatstreit oder Prompt-Release-Antrag vor dem ITLOS in Hamburg: UNCLOS Art. 292 (Prompt Release); Art. 290 (Vorlaeufige Massnahmen); ITLOS-Statute Annex VI. Relevante Faelle: M/V Saiga Nr. 2; Arctic Sunrise Nr. 22; Juno Trader Nr. 13; Ukraine vs. Russia Nr. 26. Output: ITLOS-Verfahrensstrategie und Sicherheitsleistungs-Kalkulation.
 
 # ITLOS Hamburg und UNCLOS – Internationale Seerechtstreitigkeiten
 
@@ -189,7 +189,7 @@ Ein Fischereifahrzeug eines Vertragsstaats wird von einem anderen Staat beschlag
 
 ## 3. `see-020-dokumenten-cockpit-schiff`
 
-**Frühere Beschreibung:** Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender.
+**Fokus:** Mandant benoetigt Uebersicht aller schiffsrelevanten Dokumente: Registerauszug; Hypothekenurkunden; Zertifikate (Klasse; ISM/DOC/SMC; MLC/DMLC; ISPS/ISSC); Flaggenzertifikat; Charter; Konnossements-Template. SchRG §§ 2/8-74; FlaggRG §§ 3-5; ISM-Code; MLC 2006 Titel 5; ISPS-Code. Output: Dokumenten-Cockpit-Matrix und Faelligkeits-Kalender.
 
 # Dokumenten-Cockpit Schiff – Vollständigkeitsprüfung
 
@@ -272,7 +272,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 4. `see-021-schiffshypothek-register-pruefen`
 
-**Frühere Beschreibung:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank prueft Seeschiffsregister auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Schiffshypothek – Registerprüfung
 
@@ -367,7 +367,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 5. `see-022-schiffshypothek-hypothek-bestellen`
 
-**Frühere Beschreibung:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines hypothekenbelastetes Seeschiff. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines hypothekenbelastetes Seeschiff. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Schiffshypothek – Schiffshypothek bestellen
 

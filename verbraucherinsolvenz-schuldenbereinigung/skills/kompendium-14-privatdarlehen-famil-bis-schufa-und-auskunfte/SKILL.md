@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-privatdarlehen-famil-bis-schufa-und-auskunfte
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (privatdarlehen-familie, restschuldbefreiungsantrag, schufa-und-auskunfteien) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Privatdarlehen Familie, Restschuldbefreiungsantrag, Schufa Und Auskunfteien; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Privatdarlehen Familie, Restschuldbefreiungsantrag, Schufa Und Auskunfteien
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `privatdarlehen-familie` | Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `restschuldbefreiungsantrag` | Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `privatdarlehen-familie`
 
-**Frühere Beschreibung:** Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.; Normanker: InsO Forderungsanmeldung; BGB Darlehen; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Privatdarlehen in Familie und Freundeskreis: Beweis, Gleichbehandlung, Scham, Unterlagen und Planquote.
 
@@ -69,7 +69,7 @@ InsO Forderungsanmeldung; BGB Darlehen. Entscheidend ist immer der aktuelle Norm
 
 ## 2. `restschuldbefreiungsantrag`
 
-**Frühere Beschreibung:** Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.; Normanker: InsO §§ 286-303 und 287 und 300; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Restschuldbefreiungsantrag: Frist, Wirkung, Laufzeit, Obliegenheiten und gefährliche Altfehler.
 
@@ -110,7 +110,7 @@ InsO §§ 286-303, 287, 300. Entscheidend ist immer der aktuelle Normstand der I
 
 ## 3. `schufa-und-auskunfteien`
 
-**Frühere Beschreibung:** SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.; Normanker: DSGVO Art. 5 und 6 und 16 und 17; BDSG; InsO RSB; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # SCHUFA/Auskunfteien nach Insolvenz: Löschung, Restschuldbefreiung, falsche Einträge und Datenschutzbeschwerde.
 

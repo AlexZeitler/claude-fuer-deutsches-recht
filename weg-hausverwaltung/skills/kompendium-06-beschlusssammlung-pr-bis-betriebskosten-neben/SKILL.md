@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-beschlusssammlung-pr-bis-betriebskosten-neben
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (beschlusssammlung-protokoll, beschlussvorlagen-erstellen, betriebskosten-nebenkostenabrechnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - weg-hausverwaltung
+# Arbeitsbereich - Beschlusssammlung Protokoll, Beschlussvorlagen Erstellen, Betriebskosten Nebenkostenabrechnung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `beschlusssammlung-protokoll` | Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen. |
 | `beschlussvorlagen-erstellen` | Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `beschlusssammlung-protokoll`
 
-**Frühere Beschreibung:** Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen.
+**Fokus:** Erstellt und prüft Protokoll, Beschlussverkündung, Beschlusssammlung (§ 24 Abs. 7 WEG), Anlagenverweise, Abstimmungsergebnis, Nachversand und Dokumentationsstand (Stand 05/2026). Sorgt dafür, dass Auslegungsfragen späterer Beschlussklagen (z. B. BGH V ZR 102/23 zu Abrechnungsbeschlüssen) nicht entstehen.
 
 # Beschlusssammlung und Protokoll
 
@@ -118,7 +118,7 @@ Tabellarisch mit:
 
 ## 2. `beschlussvorlagen-erstellen`
 
-**Frühere Beschreibung:** Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe.
+**Fokus:** Erstellt WEG-Beschlussvorlagen mit Beschlusskompetenz, Kostenfolge, Ausführungsdetails, Alternativen, Begründung, Anlagenverweis und Anfechtungsrisiko (Stand 05/2026). Liefert Mustertexte für Abrechnungsspitzen, Sonderumlage, Schlüsseländerung mit sachlichem Grund, bauliche Veränderungen und Verwaltervergabe.
 
 # Beschlussvorlagen Erstellen
 
@@ -228,7 +228,7 @@ Aus einem Verwaltungsthema wird ein klarer Beschlussantrag, der nicht zu viel un
 
 ## 3. `betriebskosten-nebenkostenabrechnung`
 
-**Frühere Beschreibung:** WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende Eigentümer.
+**Fokus:** WEG- und Hausverwaltungs-Schnittstelle Betriebskosten: erstellt und kontrolliert mietrechtliche Betriebskostenabrechnungen aus WEG-Jahresabrechnung, Wirtschaftsplan, Heizkostenabrechnung und Belegen; mit BetrKV, HeizkostenV, CO2KostAufG, § 556 BGB, Abrechnungsspitze und Datenpaket für vermietende Eigentümer.
 
 # Betriebskosten und Nebenkosten in der WEG-Verwaltung
 

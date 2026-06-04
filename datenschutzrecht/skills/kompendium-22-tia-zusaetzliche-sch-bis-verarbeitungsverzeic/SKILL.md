@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-tia-zusaetzliche-sch-bis-verarbeitungsverzeic
-description: "datenschutzrecht: Konsolidiertes Skill-Kompendium 22; bündelt 3 frühere Spezialskills (tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung, us-transfer-tia-dokumentation, verarbeitungsverzeichnis-vvt-generator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - datenschutzrecht
+# Arbeitsbereich - Tia Zusaetzliche Schutzmassnahmen Encryption Pseudonymisierung, Us Transfer Tia Dokumentation, Verarbeitungsverzeichnis Vvt Generator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung` | Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung. |
 | `us-transfer-tia-dokumentation` | US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tia-zusaetzliche-schutzmassnahmen-encryption-pseudonymisierung`
 
-**Frühere Beschreibung:** Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung.
+**Fokus:** Zusaetzliche Schutzmassnahmen (Supplementary Measures) nach EDPB-Empfehlung 01/2020 Annex 2. Technische Massnahmen Verschluesselung Pseudonymisierung Split Processing Key Management; vertragliche Massnahmen Transparenzpflichten Warrant Canary; organisatorische Massnahmen Schulung Policy. Mit Use-Case-Matrix und Anforderungen an starke Verschluesselung.
 
 # Zusaetzliche Schutzmassnahmen fuer das TIA (Schritt 4 EDPB-Roadmap)
 
@@ -146,7 +146,7 @@ Technischer Baustein:
 
 ## 2. `us-transfer-tia-dokumentation`
 
-**Frühere Beschreibung:** US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender.
+**Fokus:** US-Drittlandtransfer nach Art. 44 ff. DSGVO dokumentieren: EU-US Data Privacy Framework, DPF-Listing, Schrems I/II-Historie, SCC/BCR-Ausweichpfad, Transfer Impact Assessment, supplementary measures, Behördennachweis und Review-Kalender.
 
 # US-Transfer-TIA-Dokumentation
 
@@ -292,7 +292,7 @@ Erzeuge auf Wunsch ein zusammenhängendes Paket:
 
 ## 3. `verarbeitungsverzeichnis-vvt-generator`
 
-**Frühere Beschreibung:** Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung).
+**Fokus:** Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung).
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten
 

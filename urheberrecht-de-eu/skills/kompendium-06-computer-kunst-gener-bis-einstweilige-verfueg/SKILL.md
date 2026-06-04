@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-computer-kunst-gener-bis-einstweilige-verfueg
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (computer-kunst-generative-modelle, datenbank-dataset-rechte, einstweilige-verfuegung-urheber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - urheberrecht-de-eu
+# Arbeitsbereich - Computer Kunst Generative Modelle, Datenbank Dataset Rechte, Einstweilige Verfuegung Urheber
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `computer-kunst-generative-modelle` | Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung. |
 | `datenbank-dataset-rechte` | Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `computer-kunst-generative-modelle`
 
-**Frühere Beschreibung:** Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung.
+**Fokus:** Prueft digitale Kunst, generative Systeme, Zufall, Parameterkunst, Codekunst und menschliche Auswahlentscheidung.
 
 # Computerkunst und generative Modelle
 
@@ -98,7 +98,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `datenbank-dataset-rechte`
 
-**Frühere Beschreibung:** Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus.
+**Fokus:** Prueft Datenbankwerk, sui-generis-Datenbankrecht, Metadaten, Scraping, Dataset-Lizenz und KI-Trainingskorpus.
 
 # Datenbanken, Datasets und Trainingskorpora
 
@@ -169,7 +169,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `einstweilige-verfuegung-urheber`
 
-**Frühere Beschreibung:** Prueft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung.
+**Fokus:** Prueft Eilrechtsschutz, Dringlichkeit, Glaubhaftmachung, Verfügungsanspruch, Antrag und Vollziehung.
 
 # Einstweilige Verfügung im Urheberrecht
 

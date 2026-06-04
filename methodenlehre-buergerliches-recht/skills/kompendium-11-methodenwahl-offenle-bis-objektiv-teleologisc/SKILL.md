@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-methodenwahl-offenle-bis-objektiv-teleologisc
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (methodenwahl-offenlegen-schriftsatz, methodischer-demokratiecheck, narrativkritik-und-subsumtion, obersatzbildung-wertungsoffen, objektiv-teleologische-auslegung-red-team) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Methodenwahl Offenlegen Schriftsatz, Methodischer Demokratiecheck, Narrativkritik Und Subsumtion, Obersatzbildung Wertungsoffen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Methodenwahl Offenlegen Schriftsatz bis Objektiv Teleologische Auslegung Red Team
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `methodenwahl-offenlegen-schriftsatz` | Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit. |
 | `methodischer-demokratiecheck` | Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `methodenwahl-offenlegen-schriftsatz`
 
-**Frühere Beschreibung:** Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit.
+**Fokus:** Lehrt die professionelle Offenlegung der gewählten Auslegungsmethode in zivilrechtlichen Schriftsätzen und Gutachten. Das Skill zeigt, wie die Methodenwahl transparent dargestellt, begründet und gegen alternative Methoden abgegrenzt wird. Es stärkt die Überzeugungskraft und revisionsrechtliche Haltbarkeit von Schriftsätzen durch methodische Klarheit.
 
 # Methodenwahl offenlegen: Handwerk im Schriftsatz
 
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `methodischer-demokratiecheck`
 
-**Frühere Beschreibung:** Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen.
+**Fokus:** Prüft zivilrechtliche Rechtsanwendungsentscheidungen auf ihre demokratische Legitimation. Das Skill analysiert, ob gerichtliche und behördliche Entscheidungen die demokratisch gesetzten Normen respektieren oder ob sie durch Auslegung und Rechtsfortbildung demokratisch getroffene Entscheidungen des Gesetzgebers unterlaufen. Es stärkt das Bewusstsein für den demokratietheoretischen Gehalt von Methodenfragen.
 
 # Methodischer Demokratiecheck
 
@@ -208,7 +208,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `narrativkritik-und-subsumtion`
 
-**Frühere Beschreibung:** Analysiert den Einfluss von Narrativen und Framings auf die juristische Subsumtion im Zivilrecht. Das Skill zeigt, wie die sprachliche Rahmung eines Sachverhalts die Subsumtionsergebnisse beeinflusst, wie Narrative dekonstruiert werden und wie methodisch saubere Subsumtion von narrativer Überformung getrennt wird. Geeignet für Schriftsatzkritik und wissenschaftliche Methodenanalyse.
+**Fokus:** Analysiert den Einfluss von Narrativen und Framings auf die juristische Subsumtion im Zivilrecht. Das Skill zeigt, wie die sprachliche Rahmung eines Sachverhalts die Subsumtionsergebnisse beeinflusst, wie Narrative dekonstruiert werden und wie methodisch saubere Subsumtion von narrativer Überformung getrennt wird. Geeignet für Schriftsatzkritik und wissenschaftliche Methodenanalyse.
 
 # Narrativkritik und Subsumtion: Sprache und Rechtsfindung
 
@@ -297,7 +297,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `obersatzbildung-wertungsoffen`
 
-**Frühere Beschreibung:** Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vorwegzunehmen. Geeignet für juristische Ausbildung, Klausuren und Praxisgutachten.
+**Fokus:** Lehrt die methodisch korrekte Bildung wertungsoffener Obersätze für die juristische Gutachtentechnik im Zivilrecht. Das Skill zeigt, wie Obersätze so formuliert werden, dass sie das rechtliche Problem vollständig erfassen und einer wertungsoffenen Subsumtion zugänglich sind, ohne das Ergebnis vorwegzunehmen. Geeignet für juristische Ausbildung, Klausuren und Praxisgutachten.
 
 # Obersatzbildung: Wertungsoffene Formulierung im Gutachten
 
@@ -386,7 +386,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `objektiv-teleologische-auslegung-red-team`
 
-**Frühere Beschreibung:** Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung.
+**Fokus:** Erstellt Red-Team-Analysen zur objektiv-teleologischen Auslegungsmethode im Zivilrecht. Das Skill entwickelt die stärksten Argumente gegen eine objektivteleolagische Auslegungsentscheidung, zeigt deren Grenzen auf und hilft dabei, zu entscheiden, wann der objektive Normzweck gegenüber dem historischen Gesetzgeberwillen vorzugswürdig ist und wann nicht. Geeignet für strategische Prozessplanung.
 
 # Objektiv-teleologische Auslegung: Red-Team-Analyse
 

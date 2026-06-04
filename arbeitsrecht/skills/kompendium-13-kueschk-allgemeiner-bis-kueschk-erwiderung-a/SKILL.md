@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-kueschk-allgemeiner-bis-kueschk-erwiderung-a
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (kueschk-allgemeiner-und-besonderer-feststellungsantrag, kueschk-aufloesungsantrag-arbeitnehmer-9-kschg, kueschk-berufung-und-revision-lag-bag, kueschk-erwiderung-arbeitgeber-strategien-typisch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kueschk Allgemeiner Und Besonderer Feststellungsantrag, Kueschk Aufloesungsantrag Arbeitnehmer 9 Kschg, Kueschk Berufung Und Revision Lag Bag, Kueschk Erwiderung Arbeitgeber Strategien Typisch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - arbeitsrecht
+# Arbeitsbereich - Kueschk Allgemeiner Und Besonderer Feststellungsantrag bis Kueschk Erwiderung Arbeitgeber Strategien Typisch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten. |
 | `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kueschk-allgemeiner-und-besonderer-feststellungsantrag`
 
-**Frühere Beschreibung:** Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten.
+**Fokus:** Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten.
 
 # Allgemeiner und besonderer Feststellungsantrag
 
@@ -109,7 +109,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `kueschk-aufloesungsantrag-arbeitnehmer-9-kschg`
 
-**Frühere Beschreibung:** Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen.
+**Fokus:** Aufloeungsantrag des Arbeitnehmers nach § 9 KSchG: Voraussetzung der Unzumutbarkeit der Weiterbeschaeftigung; Abfindung nach § 10 KSchG; Antrag-Formulierung; Abgrenzung zu § 12 KSchG; wann sollte man diesen Antrag stellen.
 
 # Auflösungsantrag des Arbeitnehmers — § 9 KSchG
 
@@ -228,7 +228,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `kueschk-berufung-und-revision-lag-bag`
 
-**Frühere Beschreibung:** Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe.
+**Fokus:** Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe.
 
 # Berufung und Revision: LAG und BAG
 
@@ -366,7 +366,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `kueschk-erwiderung-arbeitgeber-strategien-typisch`
 
-**Frühere Beschreibung:** Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik.
+**Fokus:** Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik.
 
 # Typische Arbeitgeber-Strategien im Kündigungsschutzprozess
 

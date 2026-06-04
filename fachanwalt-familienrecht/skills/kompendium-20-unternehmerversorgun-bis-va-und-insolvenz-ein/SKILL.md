@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-unternehmerversorgun-bis-va-und-insolvenz-ein
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (unternehmerversorgung-gesellschafter-geschaeftsfuehrer, v90-versorgungsausgleich-totalrevision-und-tod, va-bei-lebenspartnerschaft, va-im-internationalen-scheidungsfall, va-und-insolvenz-eines-versorgungstraegers) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unternehmerversorgung Gesellschafter Geschaeftsfuehrer, V90 Versorgungsausgleich Totalrevision Und Tod, Va Bei Lebenspartnerschaft, Va Im Internationalen Scheidungsfall und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-familienrecht
+# Arbeitsbereich - Unternehmerversorgung Gesellschafter Geschaeftsfuehrer bis Va Und Insolvenz Eines Versorgungstraegers
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unternehmerversorgung-gesellschafter-geschaeftsfuehrer` | Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `v90-versorgungsausgleich-totalrevision-und-tod` | Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unternehmerversorgung-gesellschafter-geschaeftsfuehrer`
 
-**Frühere Beschreibung:** Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Unternehmerversorgung Gesellschafter-Geschäftsführer: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Unternehmerversorgung Gesellschafter-Geschäftsführer
 
@@ -84,7 +84,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `v90-versorgungsausgleich-totalrevision-und-tod`
 
-**Frühere Beschreibung:** Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
+**Fokus:** Prüft Abänderungsverfahren nach § 51 VersAusglG, Besitzschutz in der gesetzlichen Rentenversicherung, Tod eines Ehegatten und die Grenze zwischen Änderungsgrund und Fehlerkorrektur.
 
 # Versorgungsausgleich: Abänderung, Totalrevision, Tod und 24-Monats-Regel
 
@@ -106,7 +106,7 @@ Eine `Anrechtsmatrix` und einen Antrag-/Zurückweisungsbaustein mit klarer Trenn
 
 ## 3. `va-bei-lebenspartnerschaft`
 
-**Frühere Beschreibung:** VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** VA bei Lebenspartnerschaft: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # VA bei Lebenspartnerschaft
 
@@ -160,7 +160,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `va-im-internationalen-scheidungsfall`
 
-**Frühere Beschreibung:** VA im internationalen Scheidungsfall: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** VA im internationalen Scheidungsfall: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # VA im internationalen Scheidungsfall
 
@@ -214,7 +214,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `va-und-insolvenz-eines-versorgungstraegers`
 
-**Frühere Beschreibung:** VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** VA und Insolvenz eines Versorgungsträgers: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # VA und Insolvenz eines Versorgungsträgers
 

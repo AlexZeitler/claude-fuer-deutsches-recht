@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-produktpiraterie-und-bis-rechtsabteilung-infl
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (produktpiraterie-und-zoll, rechtsabteilung-google-ads-und-keyword-kollision, rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen, rechtsabteilung-influencer-brand-use-und-erschoepfung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Produktpiraterie Und Zoll, Google Ads Und Keyword Kollision, Grenzbeschlagnahme Gegen Faelschungen, Influencer Brand Use Und Erschoepfung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - markenrecht-fashion-luxus
+# Arbeitsbereich - Produktpiraterie Und Zoll bis Influencer Brand Use Und Erschoepfung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `produktpiraterie-und-zoll` | Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz. |
 | `rechtsabteilung-google-ads-und-keyword-kollision` | Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `produktpiraterie-und-zoll`
 
-**Frühere Beschreibung:** Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz.
+**Fokus:** Anti-Produktpiraterie und Zoll-Grenzbeschlagnahme: Modehaus oder Luxusmarke will gefaelschte Waren an der EU-Grenze stoppen. Normen: VO (EU) 608/2013 (Zoll-Enforcement), § 14 MarkenG, § 25a ZollVG (Antrag auf Tätigwerden AWA). Prüfraster: AWA-Antrag bei Zollbehoerden, IP-Enforcement-Database Eintragung, Vernichtungsverfahren, Kooperations-Protokoll. Output AWA-Antragsunterlagen, Zoll-Merkblatt, Vernichtungsanordnung-Entwurf. Abgrenzung: Plattform-Verletzung online siehe plattform-piraterie-donauzon; Messe-Einsatz vor Ort siehe messe-verletzung-und-gv-einsatz.
 
 # Produktpiraterie und Zollbeschlagnahme
 
@@ -208,7 +208,7 @@ Behaupteter Inhalt war falsch: Erschoepfungsprinzip galt laut SKILL angeblich NI
 
 ## 2. `rechtsabteilung-google-ads-und-keyword-kollision`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Google Ads und Keyword-Kollision: Keyword Advertising wird nach Herkunftsfunktion, Anzeigegestaltung und Beweislage bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Google Ads und Keyword-Kollision
 
@@ -255,7 +255,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-grenzbeschlagnahme-gegen-faelschungen`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Grenzbeschlagnahme gegen Fälschungen: Zollanträge, Muster, Vernichtungsverfahren und Beweissicherung werden vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Grenzbeschlagnahme gegen Fälschungen
 
@@ -302,7 +302,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-influencer-brand-use-und-erschoepfung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Influencer-Brand-Use und Erschöpfung: Affiliate-Posts, Hashtags und Resale werden auf Marken- und Werberecht geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Influencer-Brand-Use und Erschöpfung
 

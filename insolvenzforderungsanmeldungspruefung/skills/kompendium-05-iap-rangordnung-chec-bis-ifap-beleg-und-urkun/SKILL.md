@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-iap-rangordnung-chec-bis-ifap-beleg-und-urkun
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (iap-rangordnung-checkliste, ifap-aktenanlage-batchregister, ifap-beleg-und-urkundencheck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iap Rangordnung Checkliste, Ifap Aktenanlage Batchregister, Ifap Beleg Und Urkundencheck; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Iap Rangordnung Checkliste, Ifap Aktenanlage Batchregister, Ifap Beleg Und Urkundencheck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iap-rangordnung-checkliste` | Checkliste Rangordnung der Insolvenzforderungen § 38 / § 39 InsO: einfach, nachrangig, Massekosten, Masseverbindlichkeiten. Pruefraster fuer Tabellenfuehrer. |
 | `ifap-aktenanlage-batchregister` | Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubigerstamm, Prüfnummern, Status je Forderung, Wiedervorlagen, Audit-Trail, Fristen. Output Batchregister mit Eingangsprotokoll, Statusuebersicht und Fristenliste. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Kommandocenter. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iap-rangordnung-checkliste`
 
-**Frühere Beschreibung:** Checkliste Rangordnung der Insolvenzforderungen § 38 / § 39 InsO: einfach, nachrangig, Massekosten, Masseverbindlichkeiten. Pruefraster fuer Tabellenfuehrer.
+**Fokus:** Checkliste Rangordnung der Insolvenzforderungen § 38 / § 39 InsO: einfach, nachrangig, Massekosten, Masseverbindlichkeiten. Pruefraster fuer Tabellenfuehrer.
 
 # IAP: Rangordnung-Checkliste
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `insolvenzforderungsanmeldungspruefung`. Er erga
 
 ## 2. `ifap-aktenanlage-batchregister`
 
-**Frühere Beschreibung:** Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubigerstamm, Prüfnummern, Status je Forderung, Wiedervorlagen, Audit-Trail, Fristen. Output Batchregister mit Eingangsprotokoll, Statusuebersicht und Fristenliste. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Kommandocenter.
+**Fokus:** Batchregister für Massenverfahren Insolvenzforderungsanmeldung anlegen: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle erhaelt umfangreichen Stapel Forderungsanmeldungen nach § 174 InsO und muss strukturiertes Register aufbauen. § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubigerstamm, Prüfnummern, Status je Forderung, Wiedervorlagen, Audit-Trail, Fristen. Output Batchregister mit Eingangsprotokoll, Statusuebersicht und Fristenliste. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Kommandocenter.
 
 # Aktenanlage und Batchregister
 
@@ -158,7 +158,7 @@ Freundlich, präzise, aktennah. Der Skill trennt interne Bewertung, Tabellenverm
 
 ## 3. `ifap-beleg-und-urkundencheck`
 
-**Frühere Beschreibung:** Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwendungsfall Gläubiger legt Rechnungen Verträge Titel Lieferscheine Kontoauszüge vor; Insolvenzverwalter oder Prüfungsstelle muss Belegkette aufbauen und Beweiswert einordnen. § 174 InsO Anmeldepflicht Urkunden, § 180 InsO streitige Forderung. Prüfraster vollständige Belegkette prüfen, Originale vs. Kopien, Lesbarkeit, Titel-Nachweis, Zuordnung zur Forderungssumme. Output Belegcheckliste mit Beweiswert-Ampel und Nachforderungsbedarf. Abgrenzung zu Formalprüfung-174 und zu Grund-Betrag-Zinsen.
+**Fokus:** Belege und Urkunden bei Insolvenzforderungsanmeldung prüfen: Anwendungsfall Gläubiger legt Rechnungen Verträge Titel Lieferscheine Kontoauszüge vor; Insolvenzverwalter oder Prüfungsstelle muss Belegkette aufbauen und Beweiswert einordnen. § 174 InsO Anmeldepflicht Urkunden, § 180 InsO streitige Forderung. Prüfraster vollständige Belegkette prüfen, Originale vs. Kopien, Lesbarkeit, Titel-Nachweis, Zuordnung zur Forderungssumme. Output Belegcheckliste mit Beweiswert-Ampel und Nachforderungsbedarf. Abgrenzung zu Formalprüfung-174 und zu Grund-Betrag-Zinsen.
 
 # Beleg- und Urkundencheck
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-inkassokosten-konzer-bis-kindergeld-kinderzus
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (inkassokosten-konzerninkasso-verzug, jugendamt-schreiben-verstehen, kindergeld-kinderzuschlag-bescheid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Inkassokosten Konzerninkasso Verzug, Jugendamt Schreiben Verstehen, Kindergeld Kinderzuschlag Bescheid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inkassokosten-konzerninkasso-verzug` | Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis. |
 | `jugendamt-schreiben-verstehen` | Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inkassokosten-konzerninkasso-verzug`
 
-**Frühere Beschreibung:** Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis.
+**Fokus:** Inkassokosten, Konzerninkasso und Verzug: prüft Hauptforderung, Verzug, § 280/286/249 BGB, RDG-Schnittstelle, BGH VIII ZR 138/23, Gebührenhöhe, Drohkulisse und Verbraucherantwort ohne Anerkenntnis.
 
 # Inkassokosten Konzerninkasso Verzug
 
@@ -84,7 +84,7 @@ Ruhig, knapp, keine emotionalen Vorwürfe. Der Text soll beweisbar machen: bestr
 
 ## 2. `jugendamt-schreiben-verstehen`
 
-**Frühere Beschreibung:** Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Jugendamt-Schreiben verstehen: führt Laien durch Einladung, Hilfeplan, Kindeswohlhinweis, Mitwirkung und Datenschutz im Jugendamtkontakt. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Jugendamt-Schreiben verstehen
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `kindergeld-kinderzuschlag-bescheid`
 
-**Frühere Beschreibung:** Kindergeld und Kinderzuschlag Bescheid: führt Laien durch Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Kindergeld und Kinderzuschlag Bescheid: führt Laien durch Familienkasse, Rückforderung, Einspruch, Nachweise und Fristen. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Kindergeld und Kinderzuschlag Bescheid
 

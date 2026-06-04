@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-aussenwirtschaft-zol-bis-aussenwirtschaft-zol
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 25; bündelt 3 frühere Spezialskills (aussenwirtschaft-zolltarif-vzta, aussenwirtschaft-zollwert-royalties-assists, aussenwirtschaft-zollwert-ursprung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Zolltarif Vzta, Aussenwirtschaft Zollwert Royalties Assists, Aussenwirtschaft Zollwert Ursprung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Zolltarif Vzta, Aussenwirtschaft Zollwert Royalties Assists, Aussenwirtschaft Zollwert Ursprung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-zolltarif-vzta` | Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungsanalyse und vZTA-Strategie. |
 | `aussenwirtschaft-zollwert-royalties-assists` | Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherhebung. Output: Zollwert-Analyse mit Royalty-Pruefpfad. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-zolltarif-vzta`
 
-**Frühere Beschreibung:** Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungsanalyse und vZTA-Strategie.
+**Fokus:** Zolltarifrecht und verbindliche Zolltarifauskuenfte (vZTA) nach UZK Art. 33: Systematik der Kombinierten Nomenklatur EU-Zolltarif TARIC Allgemeine Praeferenzsystem (APS/GSP) und Zollaussetzungen. Verfahren zur Erlangung von Zollbeguenstigungen und deren Kumulierung. Output: Zolltarif-Optimierungsanalyse und vZTA-Strategie.
 
 # Zolltarifrecht und vZTA: Systematik APS und Zolloptimierung
 
@@ -115,7 +115,7 @@ Zolltarif-Optimierungsanalyse mit Praeferenzvergleich, Zollaussetzungs-Kalender 
 
 ## 2. `aussenwirtschaft-zollwert-royalties-assists`
 
-**Frühere Beschreibung:** Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherhebung. Output: Zollwert-Analyse mit Royalty-Pruefpfad.
+**Fokus:** Zollwerterhöhungen durch Lizenzgebuehren (Royalties) und Assists nach UZK Art. 71: Pruefung ob Lizenz als Verkaufsbedingung gilt und Hinzurechnung zum Transaktionswert. Assists (unentgeltliche Beistellungen wie Werkzeuge Muster Technologie) und deren Bewertung. Risiko rueckwirkender Zollnacherhebung. Output: Zollwert-Analyse mit Royalty-Pruefpfad.
 
 # Zollwert: Lizenzgebuehren Assists und Hinzurechnungen nach UZK Art. 71
 
@@ -202,7 +202,7 @@ Zollwert-Analyse mit Royalty-Pruefpfad, Assists-Bewertungsblatt, Hinzurechnungs-
 
 ## 3. `aussenwirtschaft-zollwert-ursprung`
 
-**Frühere Beschreibung:** Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollaußenpruefungen. Output: Integrierte Zollwert-Ursprungs-Pruefmatrix.
+**Fokus:** Zusammenhang von Zollwert und Ursprung bei der Einfuhr: Praeferenzieller und nichtpraeferenzieller Ursprung als Zollwert-Einflussfaktor und Nachweis-Anforderungen. Zollwertberichtigung bei nachtraeglichen Ursprungsnachweisen und REX-Erklaerungen. Kombinierte Pruefung Zollwert-Ursprung bei Zollaußenpruefungen. Output: Integrierte Zollwert-Ursprungs-Pruefmatrix.
 
 # Zollwert und Ursprung: Integrierte Pruefung und kombiniertes Nachweispaket
 

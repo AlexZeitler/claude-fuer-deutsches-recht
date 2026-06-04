@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-vdg-070-abo-modell-r-bis-vdg-073-fitnessstudi
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (vdg-070-abo-modell-risiko-rot-markieren, vdg-071-fitnessstudio-sammelfaehigkeit-pruefen, vdg-072-fitnessstudio-klageschrift-strukturier, vdg-073-fitnessstudio-anspruchsgruppen-bilden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 070 Abo Modell Risiko Rot Markieren, Vdg 071 Fitnessstudio Sammelfaehigkeit Pruefen, Vdg 072 Fitnessstudio Klageschrift Strukturier, Vdg 073 Fitnessstudio Anspruchsgruppen Bilden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 070 Abo Modell Risiko Rot Markieren bis Vdg 073 Fitnessstudio Anspruchsgruppen Bilden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-070-abo-modell-risiko-rot-markieren` | Verbraucherschutzverband Durchsetzung: Abo-Modell: Risiko rot markieren. Risiko rot markieren für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vdg-071-fitnessstudio-sammelfaehigkeit-pruefen` | Verbraucherschutzverband Durchsetzung: Fitnessstudio: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-070-abo-modell-risiko-rot-markieren`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Risiko rot markieren. Risiko rot markieren für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Abo-Modell: Risiko rot markieren. Risiko rot markieren für Abo-Modell im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Abo Modell Risiko Rot Markieren
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-071-fitnessstudio-sammelfaehigkeit-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Sammelfähigkeit prüfen. Sammelfähigkeit prüfen für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Sammelfaehigkeit Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-072-fitnessstudio-klageschrift-strukturier`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Klageschrift strukturieren. Klageschrift strukturieren für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Klageschrift strukturieren. Klageschrift strukturieren für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Klageschrift Strukturier
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-073-fitnessstudio-anspruchsgruppen-bilden`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Fitnessstudio: Anspruchsgruppen bilden. Anspruchsgruppen bilden für Fitnessstudio im Rahmen von Verbraucherschutzverband Durchsetzung; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Fitnessstudio Anspruchsgruppen Bilden
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-ipsplan-planstruktur-bis-sanierungsmoderation
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (ipsplan-planstruktur-bauleiter, ipsplan-prepack-plan-spezial, sanierungsmoderation-94-starug) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ipsplan Planstruktur Bauleiter, Ipsplan Prepack Plan Spezial, Sanierungsmoderation 94 Starug; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ipsplan Planstruktur Bauleiter, Ipsplan Prepack Plan Spezial, Sanierungsmoderation 94 Starug
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ipsplan-planstruktur-bauleiter` | Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster fuer Planerstellung. |
 | `ipsplan-prepack-plan-spezial` | Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Glaeubiger einbinden. Pruefraster fuer Krisenberater. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ipsplan-planstruktur-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster fuer Planerstellung.
+**Fokus:** Bauleiter Planstruktur Insolvenzplan und StaRUG-Restrukturierungsplan: darstellender und gestaltender Teil, Anlagen. Pruefraster fuer Planerstellung.
 
 # IPSPlan: Planstruktur
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `insolvenzplan-starug-planwerkstatt`. Er ergaenz
 
 ## 2. `ipsplan-prepack-plan-spezial`
 
-**Frühere Beschreibung:** Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Glaeubiger einbinden. Pruefraster fuer Krisenberater.
+**Fokus:** Spezialfall Prepack-Plan und Eigenverwaltung: Plan vor Antrag, Sachwalter, Glaeubiger einbinden. Pruefraster fuer Krisenberater.
 
 # IPSPlan: Prepack-Plan
 
@@ -152,7 +152,7 @@ Dieser Skill gehoert zum Plugin `insolvenzplan-starug-planwerkstatt`. Er ergaenz
 
 ## 3. `sanierungsmoderation-94-starug`
 
-**Frühere Beschreibung:** Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht für StaRUG-Restrukturierungsplan (ips-starug-plan-architektur).
+**Fokus:** Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchführen wenn außergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Prüfraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Gläubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht für StaRUG-Restrukturierungsplan (ips-starug-plan-architektur).
 
 # Sanierungsmoderation § 94 StaRUG
 

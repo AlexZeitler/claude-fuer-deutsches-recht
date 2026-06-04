@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-bag-equal-pay-paarve-bis-betriebsrat-beschlus
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (bag-equal-pay-paarvergleich-8azr30024, bag-mindesturlaub-kein-verzicht-9azr10424, betriebsrat-anhoerung, betriebsrat-beschluss-heilung-nachtraeglich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bag Equal Pay Paarvergleich 8azr30024, Bag Mindesturlaub Kein Verzicht 9azr10424, Betriebsrat Anhoerung, Betriebsrat Beschluss Heilung Nachtraeglich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - arbeitsrecht
+# Arbeitsbereich - Bag Equal Pay Paarvergleich 8azr30024 bis Betriebsrat Beschluss Heilung Nachtraeglich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bag-equal-pay-paarvergleich-8azr30024` | Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `bag-mindesturlaub-kein-verzicht-9azr10424` | Workflow-Skill zu bag mindesturlaub kein verzicht 9azr10424. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bag-equal-pay-paarvergleich-8azr30024`
 
-**Frühere Beschreibung:** Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu bag equal pay paarvergleich 8azr30024. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Rechtsprechung live prüfen
 
@@ -106,7 +106,7 @@ In Kombination mit `agg-pruefung-bewerber-und-beschaeftigte` für die generelle 
 
 ## 2. `bag-mindesturlaub-kein-verzicht-9azr10424`
 
-**Frühere Beschreibung:** Workflow-Skill zu bag mindesturlaub kein verzicht 9azr10424. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu bag mindesturlaub kein verzicht 9azr10424. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Rechtsprechung live prüfen
 
@@ -170,7 +170,7 @@ Verbindung mit `aufhebungsvertrag` und `aufhebungsvertrag-sperrzeit-prognose` f�
 
 ## 3. `betriebsrat-anhoerung`
 
-**Frühere Beschreibung:** Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll.
+**Fokus:** Prüft und dokumentiert die ordnungsgemäße Anhörung des Betriebsrats vor Kündigungen nach § 102 BetrVG. Lädt, wenn die Wirksamkeit einer BR-Anhörung (Inhalt, Fristen, Reaktion des BR) beurteilt oder ein Anhörungsschreiben erstellt werden soll.
 
 # Betriebsratsanhörung vor Kündigung (§ 102 BetrVG)
 
@@ -336,7 +336,7 @@ Jede juristische Aussage in jedem auf diesem Skill basierenden Dokument ist nach
 
 ## 4. `betriebsrat-beschluss-heilung-nachtraeglich`
 
-**Frühere Beschreibung:** Workflow-Skill zu betriebsrat beschluss heilung nachtraeglich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu betriebsrat beschluss heilung nachtraeglich. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Betriebsratsbeschluss — Heilung nachträglich
 

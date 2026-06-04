@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 13; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-board-paper-business-judgment, grosskanzlei-corporate-ma-cap-table-ownership-chain, grosskanzlei-corporate-ma-carve-out-separation-tsa, grosskanzlei-corporate-ma-client-update-pack, grosskanzlei-corporate-ma-closing-bible-archiv und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Board Paper Business Judgment, Grosskanzlei Corporate Ma Cap Table Ownership Chain, Grosskanzlei Corporate Ma Carve Out Separation Tsa, Grosskanzlei Corporate Ma Client Update Pack und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Board Paper Business Judgment bis Grosskanzlei Corporate Ma Data Protection Transfer Dd
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-board-paper-business-judgment` | Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs. |
 | `grosskanzlei-corporate-ma-cap-table-ownership-chain` | Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-board-paper-business-judgment`
 
-**Frühere Beschreibung:** Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs.
+**Fokus:** Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs.
 
 # Board Paper und Business Judgment (Corporate M&A)
 
@@ -228,7 +228,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-cap-table-ownership-chain`
 
-**Frühere Beschreibung:** Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage.
+**Fokus:** Cap Table und Ownership Chain Analyzer: rekonstruiert Beteiligungsketten, wirtschaftliche Berechtigte, Optionen, VSOP/ESOP, Wandeldarlehen, Gesellschafterlisten und Registerlage.
 
 # Cap Table Ownership Chain
 
@@ -318,7 +318,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-carve-out-separation-tsa`
 
-**Frühere Beschreibung:** Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschaeftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen.
+**Fokus:** Carve-out Separation und TSA Deep Dive: plant Herausloesung von Geschaeftsbereichen, Assets, Mitarbeitern, IT, Daten, Genehmigungen und Uebergangsleistungen.
 
 # Carve Out Separation TSA
 
@@ -408,7 +408,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-client-update-pack`
 
-**Frühere Beschreibung:** Client Update Pack fuer M&A-Mandanten: erstellt laufende Statusupdates, Weekly Reports, Entscheidungsvorlagen, Risikoampeln und naechste Mandanten-Requests.
+**Fokus:** Client Update Pack fuer M&A-Mandanten: erstellt laufende Statusupdates, Weekly Reports, Entscheidungsvorlagen, Risikoampeln und naechste Mandanten-Requests.
 
 # Client Update Pack
 
@@ -498,7 +498,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-closing-bible-archiv`
 
-**Frühere Beschreibung:** Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierung Anlagen, Registerbelege, Closing Deliverables, Widerrufsrechte. Output strukturierte Closing Bible mit Inhaltsverzeichnis, Signaturkettenprotokoll, Registerstandsnachweisen und Deal-Archiv. Abgrenzung zu Signing Closing Conditions Skill für CP-Prüfung und zu Matter-File Skill für laufende Aktenstruktur.
+**Fokus:** Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierung Anlagen, Registerbelege, Closing Deliverables, Widerrufsrechte. Output strukturierte Closing Bible mit Inhaltsverzeichnis, Signaturkettenprotokoll, Registerstandsnachweisen und Deal-Archiv. Abgrenzung zu Signing Closing Conditions Skill für CP-Prüfung und zu Matter-File Skill für laufende Aktenstruktur.
 
 # Closing Bible und Archiv
 
@@ -721,7 +721,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-conflict-gwg-sanctions`
 
-**Frühere Beschreibung:** Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Prüfraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau.
+**Fokus:** Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Prüfraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau.
 
 # Konflikt-, GwG- und Sanktionscheck
 
@@ -949,7 +949,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-data-protection-transfer-dd`
 
-**Frühere Beschreibung:** Data Protection Transfer DD fuer M&A: prueft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration.
+**Fokus:** Data Protection Transfer DD fuer M&A: prueft DSGVO-Risiken, Datenuebertragung, Datenraumzugriff, Kunden-/Mitarbeiterdaten, Drittlandtransfer und Post-Closing-Migration.
 
 # Data Protection Transfer DD
 

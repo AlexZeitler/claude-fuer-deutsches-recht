@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-mahnbescheid-online-bis-spezial-anspruchs-sc
-description: "forderungsmanagement-klagewerkstatt: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (mahnbescheid-online-mb, mahnung-aussergerichtlich-stufenmodell, spezial-anspruchs-schriftsatz-brief-und-memo-bausteine) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forderungsmanagement-klagewerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - forderungsmanagement-klagewerkstatt
+# Arbeitsbereich - Mahnbescheid Online Mb, Mahnung Aussergerichtlich Stufenmodell, Anspruchs Schriftsatz Brief Und Memo Bausteine
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mahnbescheid-online-mb` | Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster. |
 | `mahnung-aussergerichtlich-stufenmodell` | Aussergerichtliches Mahnverfahren in Stufen: 1. Mahnung kostenfrei, 2. Mahnung mit Frist, 3. Mahnung mit Anwaltsandrohung. Beleg fuer Verzugseintritt § 286 BGB, Schwelle § 288 Abs. 2 BGB. Output: Mahnschreiben-Templates. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mahnbescheid-online-mb`
 
-**Frühere Beschreibung:** Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster.
+**Fokus:** Mahnbescheid Online-Mahnbescheid (Online-MB): wann sinnvoll, Voraussetzungen § 690 ZPO, zustaendiges Mahngericht (zentrales Online-Mahngericht), Online-Antrag, Zustellung an Schuldner, Folge Widerspruch fuehrt in streitiges Verfahren. Pruefraster.
 
 # Mahnbescheid (Online-MB)
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 2. `mahnung-aussergerichtlich-stufenmodell`
 
-**Frühere Beschreibung:** Aussergerichtliches Mahnverfahren in Stufen: 1. Mahnung kostenfrei, 2. Mahnung mit Frist, 3. Mahnung mit Anwaltsandrohung. Beleg fuer Verzugseintritt § 286 BGB, Schwelle § 288 Abs. 2 BGB. Output: Mahnschreiben-Templates.
+**Fokus:** Aussergerichtliches Mahnverfahren in Stufen: 1. Mahnung kostenfrei, 2. Mahnung mit Frist, 3. Mahnung mit Anwaltsandrohung. Beleg fuer Verzugseintritt § 286 BGB, Schwelle § 288 Abs. 2 BGB. Output: Mahnschreiben-Templates.
 
 # Mahnung aussergerichtlich
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `forderungsmanagement-klagewerkstatt`. Er ergaen
 
 ## 3. `spezial-anspruchs-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine im Plugin forderungsmanagement klagewerkstatt; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Anspruchs: Schriftsatz-, Brief- und Memo-Bausteine
 

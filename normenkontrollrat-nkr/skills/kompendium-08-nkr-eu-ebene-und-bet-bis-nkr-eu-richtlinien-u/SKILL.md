@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-nkr-eu-ebene-und-bet-bis-nkr-eu-richtlinien-u
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (nkr-eu-ebene-und-better-regulation, nkr-eu-richtlinien-umsetzung-und-goldplating) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Eu Ebene Und Better Regulation, Nkr Eu Richtlinien Umsetzung Und Goldplating
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-eu-ebene-und-better-regulation` | Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen. |
 | `nkr-eu-richtlinien-umsetzung-und-goldplating` | Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-eu-ebene-und-better-regulation`
 
-**Frühere Beschreibung:** Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen.
+**Fokus:** Verortet den NKR im europaeischen Better-Regulation-Kontext. Stellt Beruehrungspunkte zu EU-Richtlinien EU-Verordnungen Impact Assessments REFIT-Programm und dem Regulatory Scrutiny Board RSB der EU-Kommission dar. Zeigt wo der NKR bei der Umsetzung europaeischer Rechtsakte ansetzt und wo sein Mandat endet sowie Standardbausteine fuer EU-spezifische Stellungnahmen.
 
 # NKR-EU-Ebene und Better Regulation
 
@@ -128,7 +128,7 @@ Rueckfrage nur wenn unklar: *"Handelt es sich um Umsetzung einer Richtlinie, Dur
 
 ## 2. `nkr-eu-richtlinien-umsetzung-und-goldplating`
 
-**Frühere Beschreibung:** Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung.
+**Fokus:** Detailskill EU-Richtlinienumsetzung und Goldplating-Vermeidung. Beschreibt 1:1-Umsetzungsprinzip Pruefraster fuer Goldplating Delta-Berechnung und Bezug zur Better-Regulation-Methodik der EU-Kommission. Mit Pruef-Checkliste Mustertexten und Standard-Argumentation gegen nationale Verschaerfung.
 
 # NKR-EU-Richtlinienumsetzung und Goldplating-Vermeidung
 

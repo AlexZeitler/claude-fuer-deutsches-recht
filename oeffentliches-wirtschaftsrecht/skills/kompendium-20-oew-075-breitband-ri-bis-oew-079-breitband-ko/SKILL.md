@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-oew-075-breitband-ri-bis-oew-079-breitband-ko
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (oew-075-breitband-risiko-verteilen, oew-077-breitband-kontrolle-sichern, oew-078-breitband-haushalt-anbinden, oew-079-breitband-kommunikation-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 075 Breitband Risiko Verteilen, Oew 077 Breitband Kontrolle Sichern, Oew 078 Breitband Haushalt Anbinden, Oew 079 Breitband Kommunikation Schreiben; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 075 Breitband Risiko Verteilen bis Oew 079 Breitband Kommunikation Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-075-breitband-risiko-verteilen` | Öffentliches Wirtschaftsrecht: Breitband: Risiko verteilen. Risiko verteilen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-077-breitband-kontrolle-sichern` | Öffentliches Wirtschaftsrecht: Breitband: Kontrolle sichern. Kontrolle sichern für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-075-breitband-risiko-verteilen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Risiko verteilen. Risiko verteilen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Risiko verteilen. Risiko verteilen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Risiko Verteilen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-077-breitband-kontrolle-sichern`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Kontrolle sichern. Kontrolle sichern für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Kontrolle sichern. Kontrolle sichern für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Kontrolle Sichern
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-078-breitband-haushalt-anbinden`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Haushalt anbinden. Haushalt anbinden für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Haushalt anbinden. Haushalt anbinden für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Haushalt Anbinden
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-079-breitband-kommunikation-schreiben`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Kommunikation schreiben. Kommunikation schreiben für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Kommunikation schreiben. Kommunikation schreiben für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Kommunikation Schreiben
 

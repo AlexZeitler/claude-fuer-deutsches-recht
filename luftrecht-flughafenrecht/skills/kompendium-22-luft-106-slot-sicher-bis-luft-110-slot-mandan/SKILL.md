@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-luft-106-slot-sicher-bis-luft-110-slot-mandan
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (luft-106-slot-sicherheitsauflage-bewerten, luft-107-slot-insolvenzrisiko-markieren, luft-108-slot-local-counsel-briefen, luft-109-slot-dashboard-bauen, luft-110-slot-mandantenmemo-schreiben) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 106 Slot Sicherheitsauflage Bewerten, Luft 107 Slot Insolvenzrisiko Markieren, Luft 108 Slot Local Counsel Briefen, Luft 109 Slot Dashboard Bauen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 106 Slot Sicherheitsauflage Bewerten bis Luft 110 Slot Mandantenmemo Schreiben
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-106-slot-sicherheitsauflage-bewerten` | Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk. |
 | `luft-107-slot-insolvenzrisiko-markieren` | Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel fuer Glaeubiger und Investoren. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-106-slot-sicherheitsauflage-bewerten`
 
-**Frühere Beschreibung:** Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk.
+**Fokus:** Slot-Zuweisung ist mit Auflagen verbunden oder Slot-Nutzung wird durch LuftSiG-Auflage eingeschraenkt. Skill prueft VO EWG 95/93 Auflagen-Moeglichkeiten LuftSiG-Verbot und Verhaeltnismaessigkeit und liefert Auflagen-Bewertungs-Vermerk.
 
 # Slot – Sicherheitsauflage bewerten
 
@@ -125,7 +125,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 2. `luft-107-slot-insolvenzrisiko-markieren`
 
-**Frühere Beschreibung:** Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel fuer Glaeubiger und Investoren.
+**Fokus:** Insolvente oder insolvenznahe Airline hat wertvolle Slot-Portfolio. Skill prueft EuGH C-272/06 Slots keine Vermoegenswerte InsO-Folgen Fluko-Einziehung und Restrukturierungs-Optionen und liefert Risikoampel fuer Glaeubiger und Investoren.
 
 # Slot – Insolvenzrisiko markieren
 
@@ -221,7 +221,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 3. `luft-108-slot-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Slot-Mandat briefen: Slot-Zuweisung Insolvenz oder Wechsel von koordiniertem Flughafen. Skill erstellt englisches Briefing-Memo mit deutschem Slot-Recht EU-VO und konkreten Fragen.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Slot-Mandat briefen: Slot-Zuweisung Insolvenz oder Wechsel von koordiniertem Flughafen. Skill erstellt englisches Briefing-Memo mit deutschem Slot-Recht EU-VO und konkreten Fragen.
 
 # Slot – Local Counsel briefen
 
@@ -317,7 +317,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 4. `luft-109-slot-dashboard-bauen`
 
-**Frühere Beschreibung:** Airline braucht Slot-Dashboard fuer laufendes Saison-Management: Bestand Nutzungsquote Waiver-Status Fristen Koordinierungsantraege. Skill strukturiert Datenquellen Fluko VO EWG 95/93 und liefert befuellbares Slot-Management-Dashboard.
+**Fokus:** Airline braucht Slot-Dashboard fuer laufendes Saison-Management: Bestand Nutzungsquote Waiver-Status Fristen Koordinierungsantraege. Skill strukturiert Datenquellen Fluko VO EWG 95/93 und liefert befuellbares Slot-Management-Dashboard.
 
 # Slot – Dashboard bauen
 
@@ -414,7 +414,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 5. `luft-110-slot-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Airline zu Slot-Verlust Use-it-or-lose-it Waiver-Ablehnung oder Slot-Insolvenzfragen. Skill strukturiert Memo mit Sachverhalt Slot-Recht Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Airline zu Slot-Verlust Use-it-or-lose-it Waiver-Ablehnung oder Slot-Insolvenzfragen. Skill strukturiert Memo mit Sachverhalt Slot-Recht Handlungsoptionen und Empfehlung.
 
 # Slot – Mandantenmemo schreiben
 

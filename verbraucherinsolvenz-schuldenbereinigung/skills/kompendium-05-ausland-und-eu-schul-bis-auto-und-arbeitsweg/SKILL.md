@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-ausland-und-eu-schul-bis-auto-und-arbeitsweg
-description: "verbraucherinsolvenz-schuldenbereinigung: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (ausland-und-eu-schulden, aussergerichtlicher-einigungsversuch, auto-und-arbeitsweg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherinsolvenz-schuldenbereinigung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verbraucherinsolvenz-schuldenbereinigung
+# Arbeitsbereich - Ausland Und Eu Schulden, Aussergerichtlicher Einigungsversuch, Auto Und Arbeitsweg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausland-und-eu-schulden` | Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
 | `aussergerichtlicher-einigungsversuch` | Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausland-und-eu-schulden`
 
-**Frühere Beschreibung:** Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.; Normanker: EuInsVO; InsO; internationale Zustellung; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Auslandsschulden und EU-Bezug: Zuständigkeit, COMI, ausländische Gläubiger und Anerkennung.
 
@@ -69,7 +69,7 @@ EuInsVO; InsO; internationale Zustellung. Entscheidend ist immer der aktuelle No
 
 ## 2. `aussergerichtlicher-einigungsversuch`
 
-**Frühere Beschreibung:** Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.; Normanker: InsO § 305 Abs. 1 Nr. 1; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Außergerichtlicher Einigungsversuch: ernsthafter Plan, Zustellung an alle Gläubiger, Reaktionslog und Scheiternsbescheinigung.
 
@@ -110,7 +110,7 @@ InsO § 305 Abs. 1 Nr. 1. Entscheidend ist immer der aktuelle Normstand der InsO
 
 ## 3. `auto-und-arbeitsweg`
 
-**Frühere Beschreibung:** Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
+**Fokus:** Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.; Normanker: InsO § 36; ZPO Pfändungsschutz; liefert konkrete Fragen, Dokumentenliste, Entscheidungsbaum und Textbausteine fuer Verbraucherinsolvenz und Schuldenbereinigung.
 
 # Auto und Arbeitsweg: notwendiges Fahrzeug, Verwertung, Austauschpfändung, Berufserhalt und Familienbedarf.
 

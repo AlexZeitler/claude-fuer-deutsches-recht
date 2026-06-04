@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-vergabere-bis-fachanwalt-vergabere
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2, fachanwalt-vergaberecht-konzessionsvergabe-konzvgv, fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung, fachanwalt-vergaberecht-nachpruefungsantrag-vk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergaberecht It Sicherheits Vergabe Bsi It Sig 2, Vergaberecht Konzessionsvergabe Konzvgv, Vergaberecht Losbildung Mittelstandsfoerderung, Vergaberecht Nachpruefungsantrag Vk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-vergaberecht
+# Arbeitsbereich - Vergaberecht It Sicherheits Vergabe Bsi It Sig 2 bis Vergaberecht Nachpruefungsantrag Vk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2` | IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin. |
 | `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv` | Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2`
 
-**Frühere Beschreibung:** IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin.
+**Fokus:** IT-Sicherheits-Vergabe für KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei öffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Prüfraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungsprüfung allgemein siehe fachanwalt-vergaberecht-eignungsprüfung; DSA/DMA siehe dsa-dma-Plugin.
 
 # IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2
 
@@ -335,7 +335,7 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 2. `fachanwalt-vergaberecht-konzessionsvergabe-konzvgv`
 
-**Frühere Beschreibung:** Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
+**Fokus:** Konzessionsvergabe nach KonzVgV strukturieren und pruefen: Konzessionsgeber oder Bieter braucht KonzVgV-konforme Loesung fuer Bau- oder Dienstleistungskonzession. Normen: GWB §§ 105 ff. und §§ 151 ff., KonzVgV, RL 2014/23/EU. Pruefraster: Konzessionsbegriff Betriebsrisiko, Schwellenwert EUR 5404000 ab Anfang 2026, Verfahrenswahl § 12 KonzVgV, Mindestlaufzeit § 3 KonzVgV, Bekanntmachung, Verhandlungsfreiheit. Output Konzessionsbekanntmachung-Entwurf, Risikoteilungsmatrix. Abgrenzung: Sektoren siehe fachanwalt-vergaberecht-sektorenvergabe-sektvo; Inhouse siehe fachanwalt-vergaberecht-inhouse-interkommunal.
 
 # Konzessionsvergabe (KonzVgV)
 
@@ -406,7 +406,7 @@ EuGH-Entscheidungen zur Konzessionsabgrenzung ueber curia.europa.eu verifizieren
 
 ## 3. `fachanwalt-vergaberecht-losbildung-mittelstandsfoerderung`
 
-**Frühere Beschreibung:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende fuer Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
+**Fokus:** Losbildung und Mittelstandsfoerderung im Vergabeverfahren pruefen und angreifen: Auftraggeber muss Gesamtvergabe begruenden; Bieter aus dem Mittelstand will Losverzicht ruegen. Normen: § 97 Abs. 4 GWB (Mittelstandsklausel), § 30 VgV (Fachlose), § 5 VOB-A (Bauleistung-Lose). Pruefraster: Grundsatz losweiser Vergabe, wirtschaftliche oder technische Gruende fuer Gesamtvergabe, Dokumentationspflicht, Quote Mittelstand, Eignungsleihe § 47 VgV im Lospaket. Output Losbildungs-Pruefvermerk, Ruegeschriftsatz-Modul. Abgrenzung: Ruege siehe fachanwalt-vergaberecht-ruege-vor-zuschlag.
 
 # Losbildung und Mittelstandsfoerderung
 
@@ -479,7 +479,7 @@ OLG-Linie zu § 97 Abs. 4 GWB (OLG Duesseldorf, OLG Muenchen) vor Ausgabe ueber 
 
 ## 4. `fachanwalt-vergaberecht-nachpruefungsantrag-vk`
 
-**Frühere Beschreibung:** Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
+**Fokus:** Nachprüfungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulässig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachprüfungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Prüfraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachprüfungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachprüfungsverfahren-vk.
 
 # Nachprüfungsantrag VK
 

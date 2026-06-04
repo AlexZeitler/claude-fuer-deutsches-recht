@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-bauantrag-bis-beratungshilfe-pkh
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (bauantrag, bauordnungsamt-anordnung, behoerde-oder-gericht-erkennen, beratungshilfe-pkh) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bauantrag, Bauordnungsamt Anordnung, Behoerde Oder Gericht Erkennen, Beratungshilfe Pkh; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Bauantrag bis Beratungshilfe Pkh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bauantrag` | Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen. |
 | `bauordnungsamt-anordnung` | Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bauantrag`
 
-**Frühere Beschreibung:** Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen.
+**Fokus:** Erklärt Bauantrag, Bauvorbescheid, Nachbarbeteiligung, Unterlagen, Landesbauordnung und Fristen.
 
 # Bauantrag
 
@@ -76,7 +76,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `bauordnungsamt-anordnung`
 
-**Frühere Beschreibung:** Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag.
+**Fokus:** Hilft bei Nutzungsuntersagung, Beseitigungsverfügung, Baustopp, Anhörung, Sofortvollzug und Eilantrag.
 
 # Bauordnungsamt-Anordnung
 
@@ -116,7 +116,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `behoerde-oder-gericht-erkennen`
 
-**Frühere Beschreibung:** Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht.
+**Fokus:** Ordnet Absender ein: Kommune, Landkreis, Landesbehörde, Bundesbehörde, Jobcenter, Jugendamt, Familiengericht, Polizei, Staatsanwaltschaft, Amtsgericht.
 
 # Behörde oder Gericht erkennen
 
@@ -156,7 +156,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `beratungshilfe-pkh`
 
-**Frühere Beschreibung:** Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe, Unterlagen, Fristen und wann anwaltliche Hilfe nötig ist.
+**Fokus:** Erklärt Beratungshilfe, Prozesskostenhilfe/Verfahrenskostenhilfe, Unterlagen, Fristen und wann anwaltliche Hilfe nötig ist.
 
 # Beratungshilfe und PKH
 

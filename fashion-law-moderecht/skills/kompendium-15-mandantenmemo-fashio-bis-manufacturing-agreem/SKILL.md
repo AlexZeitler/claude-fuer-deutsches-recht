@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-mandantenmemo-fashio-bis-manufacturing-agreem
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (mandantenmemo-fashion-strategie, manufacturing-agreement) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenmemo Fashion Strategie, Manufacturing Agreement; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - fashion-law-moderecht
+# Arbeitsbereich - Mandantenmemo Fashion Strategie, Manufacturing Agreement
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenmemo-fashion-strategie` | Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen. |
 | `manufacturing-agreement` | Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenmemo-fashion-strategie`
 
-**Frühere Beschreibung:** Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen.
+**Fokus:** Mandantenmemo für Fashion-Law-Strategie erstellen: kurze Lage, Optionen, Risiken, Kosten, Timeline, Verantwortliche und nächste Entscheidungen.
 
 # Mandantenmemo Fashion Strategie
 
@@ -59,7 +59,7 @@ Executive Memo.
 
 ## 2. `manufacturing-agreement`
 
-**Frühere Beschreibung:** Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling.
+**Fokus:** Manufacturing Agreement für Mode prüfen: Spezifikation, Qualität, IP, Audit, Liefertermine, Mängel, Sozialstandards, Unterauftragnehmer und Tooling.
 
 # Manufacturing Agreement
 

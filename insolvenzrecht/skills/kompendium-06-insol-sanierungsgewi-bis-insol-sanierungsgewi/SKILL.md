@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-insol-sanierungsgewi-bis-insol-sanierungsgewi
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (insol-sanierungsgewinn-liquidation-statt-plan-folgen, insol-sanierungsgewinn-mandantenwarnung-iv-und-cro, insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg, insol-sanierungsgewinn-restschuldbefreiung-und-3a-estg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insol Sanierungsgewinn Liquidation Statt Plan Folgen, Insol Sanierungsgewinn Mandantenwarnung Iv Und Cro, Insol Sanierungsgewinn Massenpriorisierung 261 Vs 3a Estg, Insol Sanierungsgewinn Restschuldbefreiung Und 3a Estg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - insolvenzrecht
+# Arbeitsbereich - Insol Sanierungsgewinn Liquidation Statt Plan Folgen bis Insol Sanierungsgewinn Restschuldbefreiung Und 3a Estg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-liquidation-statt-plan-folgen` | Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte. |
 | `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro` | Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insol-sanierungsgewinn-liquidation-statt-plan-folgen`
 
-**Frühere Beschreibung:** Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte.
+**Fokus:** Wahlentscheidung Insolvenzplan versus Liquidation und die Steuerfolgen. Bei Liquidation: kein Sanierungsertrag, aber Aufdeckung stiller Reserven, Veraeusserungsgewinn aus Verwertung. Bei der GmbH-Liquidation: Verbindlichkeiten bleiben nach BFH II R 19/01 ueber blosse Vermoegenslosigkeit bestehen. OFD Frankfurt: Liquidationsbeschluss allein ist kein konkludenter Verzicht. Entscheidungsmatrix mit Steuersicht und Mustertexte.
 
 # Sanierungsgewinn — Liquidation statt Plan, Steuer-Folgen
 
@@ -215,7 +215,7 @@ In anderen Plugins:
 
 ## 2. `insol-sanierungsgewinn-mandantenwarnung-iv-und-cro`
 
-**Frühere Beschreibung:** Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf.
+**Fokus:** Mandantenbrief an Insolvenzverwalter, Sachwalter, CRO und Schuldner zur rechtzeitigen Einbeziehung steuerlicher Beratung beim Sanierungsgewinn. Standardisierter Brief: was steuerlich VOR der Plan-Vorlage zu klaeren ist, welche Haftung droht bei Versaeumnis (Paragraph 60 InsO, ggf. Paragraph 130 OWiG, Paragraph 69 AO), wie der Berater eingebunden wird. Erste Antwort knapp, dann sofort Briefentwurf.
 
 # Sanierungsgewinn — Mandantenwarnung an Insolvenzverwalter / CRO / Schuldner
 
@@ -405,7 +405,7 @@ In anderen Plugins:
 
 ## 3. `insol-sanierungsgewinn-massenpriorisierung-261-vs-3a-estg`
 
-**Frühere Beschreibung:** Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. Workflow zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief.
+**Fokus:** Massevorrang Paragraph 53 InsO und seine Spannung zum Sanierungsantrag nach Paragraph 3a EStG. Wenn aus dem Restsanierungsertrag eine Steuer entsteht und die Steuer eine Masseverbindlichkeit Paragraph 55 InsO ist, geht sie der Quote vor. Risiko: bestaetigter Plan scheitert, weil die Steuer die Masse aufzehrt. Workflow zur Modellierung und Mustertexte fuer Glaeubigerausschuss-Brief.
 
 # Sanierungsgewinn — Massenpriorisierung Paragraphen 53/261 InsO vs. Paragraph 3a EStG
 
@@ -577,7 +577,7 @@ In anderen Plugins:
 
 ## 4. `insol-sanierungsgewinn-restschuldbefreiung-und-3a-estg`
 
-**Frühere Beschreibung:** Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Restschuldbefreiung erlischt Verbindlichkeiten zivilrechtlich; steuerlich kann gleichwohl ein Ertrag entstehen. Mustertexte und Pruefraster.
+**Fokus:** Restschuldbefreiung Paragraphen 286 ff. InsO bei natuerlichen Personen und ihre Schnittstelle zum Sanierungsertrag Paragraph 3a EStG. Bei natuerlichen Personen Unterscheidung unternehmensbezogene vs. unternehmerbezogene Sanierung. Paragraph 3a EStG erfasst nur unternehmensbezogene Sanierung. Restschuldbefreiung erlischt Verbindlichkeiten zivilrechtlich; steuerlich kann gleichwohl ein Ertrag entstehen. Mustertexte und Pruefraster.
 
 # Sanierungsgewinn — Restschuldbefreiung und Paragraph 3a EStG bei natuerlichen Personen
 

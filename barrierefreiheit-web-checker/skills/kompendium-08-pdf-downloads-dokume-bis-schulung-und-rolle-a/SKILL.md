@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-pdf-downloads-dokume-bis-schulung-und-rolle-a
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (pdf-downloads-dokumente, remediation-roadmap-dokumentation, schulung-und-rolle-accessibility-champion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pdf Downloads Dokumente, Remediation Roadmap Dokumentation, Schulung Und Rolle Accessibility Champion; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - barrierefreiheit-web-checker
+# Arbeitsbereich - Pdf Downloads Dokumente, Remediation Roadmap Dokumentation, Schulung Und Rolle Accessibility Champion
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pdf-downloads-dokumente` | Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit. |
 | `remediation-roadmap-dokumentation` | Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pdf-downloads-dokumente`
 
-**Frühere Beschreibung:** Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit.
+**Fokus:** Prüft PDFs, Downloads, eingebettete Dokumente, Preislisten, AGB, Formulare und Bescheide auf Barrierefreiheit: Tags, Lesereihenfolge, Alternativtexte, Tabellen, Formularfelder und HTML-Alternative. Output: Dokumenten-Audit.
 
 # PDFs, Downloads und Dokumente
 
@@ -76,7 +76,7 @@ AGB, Preislisten, Produktinformationen, Formulare, Widerrufsbelehrung, Barrieref
 
 ## 2. `remediation-roadmap-dokumentation`
 
-**Frühere Beschreibung:** Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation.
+**Fokus:** Erstellt Maßnahmenplan für Barrierefreiheits-Fixes: Priorisierung, Nutzerimpact, Rechtsrisiko, Aufwand, Owner, Tickets, Re-Test, Nachweisakte und Management-Reporting. Output: Roadmap und Dokumentation.
 
 # Remediation-Roadmap und Dokumentation
 
@@ -138,7 +138,7 @@ Ein Maßnahmenplan ist kein Ausredenpapier. Er muss zeigen, was wann behoben wir
 
 ## 3. `schulung-und-rolle-accessibility-champion`
 
-**Frühere Beschreibung:** Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan fuer Design, Entwicklung, QA, Content, Marketing. Pruefraster fuer Reifegrad und Schulungslevel.
+**Fokus:** Schulungsprogramm und Accessibility-Champion-Modell in der Organisation aufbauen: Rollendefinition, Aufgaben, Zeitbudget, Trainingsplan fuer Design, Entwicklung, QA, Content, Marketing. Pruefraster fuer Reifegrad und Schulungslevel.
 
 # Schulung und Champion-Modell
 

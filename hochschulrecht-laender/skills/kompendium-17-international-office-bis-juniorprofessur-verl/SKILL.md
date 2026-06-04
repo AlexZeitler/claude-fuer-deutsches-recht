@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-international-office-bis-juniorprofessur-verl
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (international-office-und-visa, international-office-visum-status, juniorprofessur-tenure-track, juniorprofessur-verlaengerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu International Office Und Visa, International Office Visum Status, Juniorprofessur Tenure Track, Juniorprofessur Verlaengerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - hochschulrecht-laender
+# Arbeitsbereich - International Office Und Visa bis Juniorprofessur Verlaengerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `international-office-und-visa` | Prüft internationale Studierende und Hochschulstatus. |
 | `international-office-visum-status` | Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `international-office-und-visa`
 
-**Frühere Beschreibung:** Prüft internationale Studierende und Hochschulstatus.
+**Fokus:** Prüft internationale Studierende und Hochschulstatus.
 
 # International Office Und Visa
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: International-Office-Memo. Am Ende immer drei Zeilen: **Frist
 
 ## 2. `international-office-visum-status`
 
-**Frühere Beschreibung:** Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung.
+**Fokus:** Prüft hochschulische Bescheinigungen, Visum, Aufenthalt und Einschreibung.
 
 # International Office, Visum und Status
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `juniorprofessur-tenure-track`
 
-**Frühere Beschreibung:** Prüft Juniorprofessur und Tenure Track.
+**Fokus:** Prüft Juniorprofessur und Tenure Track.
 
 # Juniorprofessur Tenure Track
 
@@ -224,7 +224,7 @@ Erzeuge bevorzugt: Tenure-Fahrplan. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 4. `juniorprofessur-verlaengerung`
 
-**Frühere Beschreibung:** Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen.
+**Fokus:** Prüft Verlängerung, Evaluation, Mutterschutz/Elternzeit und Befristungsgrenzen.
 
 # Juniorprofessur Verlängerung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-aussenwirtschaft-ers-bis-aussenwirtschaft-f-g
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (aussenwirtschaft-ersatzteile-dual-use, aussenwirtschaft-exporteur-ausfuehrer-anmelder-rollen, aussenwirtschaft-exportkontrolle-dual-use, aussenwirtschaft-f-gase-ozonstoffe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Ersatzteile Dual Use, Aussenwirtschaft Exporteur Ausfuehrer Anmelder Rollen, Aussenwirtschaft Exportkontrolle Dual Use, Aussenwirtschaft F Gase Ozonstoffe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Ersatzteile Dual Use bis Aussenwirtschaft F Gase Ozonstoffe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-ersatzteile-dual-use` | Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung. |
 | `aussenwirtschaft-exporteur-ausfuehrer-anmelder-rollen` | Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr. 19 und DA Art. 1 Nr. 18 sowie AWG: Haftungsverteilung, Vollmachtserteilung an Zollagenten (direkte/indirekte Vertretung), Verantwortung bei Genehmigungspflichten. Output: Rollenmatrix und Vollmachtsvorlage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-ersatzteile-dual-use`
 
-**Frühere Beschreibung:** Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung.
+**Fokus:** Exportkontrollpruefung fuer Ersatzteile und Komponenten mit Dual-Use-Potenzial nach VO (EU) 2021/821 und AWG: Abgrenzung Ersatzteil vs. vollstaendige Anlage, Klassifizierung nach Anhang I, Catch-All-Risiko bei Bestimmungslaendern mit Proliferationsrisiko, BAFA-Genehmigungspfad. Output: Klassifizierungsvermerk und Lieferentscheidung.
 
 # Ersatzteile mit Dual-Use-Risiko: Klassifizierung und Lieferentscheidung
 
@@ -116,7 +116,7 @@ Klassifizierungsvermerk mit technischer Begruendung, Catch-All-Pruefergebnis, Li
 
 ## 2. `aussenwirtschaft-exporteur-ausfuehrer-anmelder-rollen`
 
-**Frühere Beschreibung:** Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr. 19 und DA Art. 1 Nr. 18 sowie AWG: Haftungsverteilung, Vollmachtserteilung an Zollagenten (direkte/indirekte Vertretung), Verantwortung bei Genehmigungspflichten. Output: Rollenmatrix und Vollmachtsvorlage.
+**Fokus:** Abgrenzung der Rollen Exporteur, Ausfuehrer und Zollanmelder nach UZK Art. 1 Nr. 19 und DA Art. 1 Nr. 18 sowie AWG: Haftungsverteilung, Vollmachtserteilung an Zollagenten (direkte/indirekte Vertretung), Verantwortung bei Genehmigungspflichten. Output: Rollenmatrix und Vollmachtsvorlage.
 
 # Exporteur, Ausfuehrer, Anmelder: Rollen und Haftungsverteilung im Aussenhandel
 
@@ -203,7 +203,7 @@ Rollenmatrix mit Haftungszuordnung, Vollmachtsvorlage fuer Zollagenten (direkte/
 
 ## 3. `aussenwirtschaft-exportkontrolle-dual-use`
 
-**Frühere Beschreibung:** Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad.
+**Fokus:** Dual-Use-Pruefung fuer Gueter, Software und Technologie nach VO (EU) 2021/821 Anhang I und AWG §§ 8 ff.: Gueterklassifizierung, Genehmigungspflicht, Catch-All nach Art. 4, Technologietransfer, BAFA-Genehmigungsantrag ueber ELAN-K2. Abgrenzung zu Rustungsguetern und Handelssanktionen. Output: Klassifizierungsdossier und Genehmigungspfad.
 
 # Dual-Use-Ausfuhrkontrolle: Klassifizierung und Genehmigungspfad
 
@@ -290,7 +290,7 @@ Klassifizierungsdossier mit Listenpruefung je Kategorie, Catch-All-Ergebnis, Gen
 
 ## 4. `aussenwirtschaft-f-gase-ozonstoffe`
 
-**Frühere Beschreibung:** Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag.
+**Fokus:** Ein- und Ausfuhrkontrolle fuer fluorierte Treibhausgase (F-Gase) nach VO (EU) 517/2014 und ozonabbauende Stoffe nach VO (EG) 1005/2009: Quotensystem, F-Gas-Zertifizierungspflicht, Einfuhrgenehmigung beim Umweltbundesamt, TARIC-Sondervorschriften. Output: Einfuhr-Compliance-Pruefbericht und Genehmigungsantrag.
 
 # F-Gase und Ozonschutzstoffe: Einfuhrkontrolle und Quotenmanagement
 

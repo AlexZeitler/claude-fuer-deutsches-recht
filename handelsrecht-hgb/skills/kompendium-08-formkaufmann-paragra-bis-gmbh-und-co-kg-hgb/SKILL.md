@@ -1,33 +1,33 @@
 ---
 name: kompendium-08-formkaufmann-paragra-bis-gmbh-und-co-kg-hgb
-description: "handelsrecht-hgb: Konsolidiertes Skill-Kompendium 08; bündelt 2 frühere Spezialskills (formkaufmann-paragraph-6-hgb, gmbh-und-co-kg-hgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsrecht-hgb: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - handelsrecht-hgb
+# Arbeitsbereich - Formkaufmann Paragraph 6 Hgb, Gmbh Und Co Kg Hgb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `formkaufmann-paragraph-6-hgb` | Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen. |
 | `gmbh-und-co-kg-hgb` | Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `formkaufmann-paragraph-6-hgb`
 
-**Frühere Beschreibung:** Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen.
+**Fokus:** Prüft Kaufmannseigenschaft kraft Rechtsform bei Handelsgesellschaften und juristischen Personen.
 
 # Formkaufmann § 6 HGB
 
@@ -79,7 +79,7 @@ HGB amtlich prüfen: https://www.gesetze-im-internet.de/hgb/. Je nach Thema auß
 
 ## 2. `gmbh-und-co-kg-hgb`
 
-**Frühere Beschreibung:** Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität.
+**Fokus:** Prüft HGB-Struktur der GmbH & Co. KG: Firma, Vertretung, Haftung, Register und Publizität.
 
 # GmbH & Co. KG HGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-stornoreserve-bis-urlaub-krankheit
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (stornoreserve, training-material, untervertreter, urlaub-krankheit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stornoreserve, Training Material, Untervertreter, Urlaub Krankheit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - handelsvertreterrecht
+# Arbeitsbereich - Stornoreserve bis Urlaub Krankheit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stornoreserve` | Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen. |
 | `training-material` | Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stornoreserve`
 
-**Frühere Beschreibung:** Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen.
+**Fokus:** Prüft Zulässigkeit und Umfang von Stornoreserven im Handelsvertretervertrag: Einbehalt von Provisionen als Sicherheit gegen Vertragsstornierungen, AGB-Konformität von Stornoreserveklauseln nach § 307 BGB, Auszahlungsbedingungen sowie Zusammenhang mit § 87a Abs. 2 HGB bei Nichtausführung von Verträgen.
 
 # Stornoreserve im Handelsvertretervertrag — Zulässigkeit nach § 307 BGB und § 87a HGB
 
@@ -108,7 +108,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 2. `training-material`
 
-**Frühere Beschreibung:** Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen.
+**Fokus:** Erstellt und prüft Schulungs- und Trainingsunterlagen für Handelsvertreter und Unternehmer: rechtliche Grundlagen des Handelsvertreterrechts nach HGB und EU-Richtlinie, Rechte und Pflichten beider Parteien, Provisionssysteme sowie typische Streitfelder mit praxisnahen Fallbeispielen.
 
 # Schulungs- und Trainingsunterlagen zum Handelsvertreterrecht nach HGB
 
@@ -187,7 +187,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `untervertreter`
 
-**Frühere Beschreibung:** Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende.
+**Fokus:** Prüft Rechtsverhältnisse beim Einsatz von Untervertretern: Zulässigkeit der Unterbeauftragung nach § 84 HGB, Haftung des Hauptvertreters für den Untervertreter, Provisionsaufteilung, Vertragsverhältnisse zu Unternehmer und Untervertreter sowie Ausgleichsansprüche beider Ebenen bei Vertragsende.
 
 # Untervertreter im Handelsvertreterrecht — Zulässigkeit und Haftung nach § 84 HGB
 
@@ -266,7 +266,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `urlaub-krankheit`
 
-**Frühere Beschreibung:** Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall.
+**Fokus:** Prüft Regelungen zu Urlaub, Krankheit und Verhinderung im Handelsvertreterverhältnis: kein gesetzlicher Urlaubsanspruch nach BUrlG für Selbständige, Auswirkungen längerer Krankheit auf Provisionsansprüche und Vertragspflichten, Sonderkündigungsrecht nach § 89 Abs. 3 HGB sowie vertragliche Vereinbarungen zu Vertretung und Ausfall.
 
 # Urlaub und Krankheit im Handelsvertreterverhältnis — Rechte und Pflichten
 

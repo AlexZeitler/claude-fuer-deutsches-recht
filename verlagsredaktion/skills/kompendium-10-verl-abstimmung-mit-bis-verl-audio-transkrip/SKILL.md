@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-verl-abstimmung-mit-bis-verl-audio-transkrip
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (verl-abstimmung-mit-lektorat-format, verl-abstimmung-mit-produktion-satz-druck, verl-abstimmung-mit-rechtsabteilung-pruefung, verl-abstimmung-mit-vertrieb-marketing, verl-audio-transkript-zu-fachbeitrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Abstimmung Mit Lektorat Format, Verl Abstimmung Mit Produktion Satz Druck, Verl Abstimmung Mit Rechtsabteilung Pruefung, Verl Abstimmung Mit Vertrieb Marketing und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - verlagsredaktion
+# Arbeitsbereich - Verl Abstimmung Mit Lektorat Format bis Verl Audio Transkript Zu Fachbeitrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-abstimmung-mit-lektorat-format` | Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln. |
 | `verl-abstimmung-mit-produktion-satz-druck` | Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-abstimmung-mit-lektorat-format`
 
-**Frühere Beschreibung:** Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln.
+**Fokus:** Klaert Lektorats- und Redaktionsstandards: wer ist fuer welchen Pruefschritt zustaendig wie wird uebergeben Track-Changes Stand Versionierung Eskalationsregeln.
 
 # Abstimmung Lektorat / Redaktion (Format-Klaerung)
 
@@ -150,7 +150,7 @@ Mueller-Plattform_v7_druck.docx          (an Produktion)
 
 ## 2. `verl-abstimmung-mit-produktion-satz-druck`
 
-**Frühere Beschreibung:** Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege.
+**Fokus:** Klaert die Schnittstelle zur Produktion: Satzdaten Format Bildaufloesung Schriftrechte Fahnenlauf Druckfreigabe Online-Auslieferung und Reklamationswege.
 
 # Abstimmung Produktion / Satz / Druck
 
@@ -271,7 +271,7 @@ Sie brauchen ihn bei der Uebergabe an die Produktion und bei Reklamationen. Klae
 
 ## 3. `verl-abstimmung-mit-rechtsabteilung-pruefung`
 
-**Frühere Beschreibung:** Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmung mit Justiziariat zu Aeusserungsrecht, Persoenlichkeitsrecht, Urheberrecht, Wettbewerbsrecht und Datenschutz.
+**Fokus:** Inhouse-Legal-Check vor Veroeffentlichung: strukturierte Abstimmung mit Justiziariat zu Aeusserungsrecht, Persoenlichkeitsrecht, Urheberrecht, Wettbewerbsrecht und Datenschutz.
 
 # Inhouse-Legal-Check vor Veroeffentlichung
 
@@ -406,7 +406,7 @@ Unterschrift: [Name]
 
 ## 4. `verl-abstimmung-mit-vertrieb-marketing`
 
-**Frühere Beschreibung:** Briefing fuer Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material fuer Katalog Webseite Veranstaltungen.
+**Fokus:** Briefing fuer Vertrieb und Marketing zu einem Verlagsprodukt: Zielgruppe Kernnutzen Vergleichstitel Preisarchitektur und Material fuer Katalog Webseite Veranstaltungen.
 
 # Abstimmung mit Vertrieb / Marketing
 
@@ -524,7 +524,7 @@ Erscheinungsphasen:
 
 ## 5. `verl-audio-transkript-zu-fachbeitrag`
 
-**Frühere Beschreibung:** Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag fuer juristische Fachzeitschriften und Sammelbaende.
+**Fokus:** Destilliert einen Audio-Vortrag oder ein freies Diktat zu einem zitierfaehigen Fachbeitrag fuer juristische Fachzeitschriften und Sammelbaende.
 
 # Audio-Transkript zu Fachbeitrag
 

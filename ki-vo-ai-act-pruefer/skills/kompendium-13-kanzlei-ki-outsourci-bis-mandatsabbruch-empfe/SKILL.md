@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-kanzlei-ki-outsourci-bis-mandatsabbruch-empfe
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (kanzlei-ki-outsourcing-berufsgeheimnis, ki-im-zivilprozess-rollen-und-grenzen, liegt-ki-system-vor-art-3-nr-1, mandatsabbruch-empfehlung-komplexe-faelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Ki Outsourcing Berufsgeheimnis, Ki Im Zivilprozess Rollen Und Grenzen, Liegt Ki System Vor Art 3 Nr 1, Mandatsabbruch Empfehlung Komplexe Faelle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Kanzlei Ki Outsourcing Berufsgeheimnis bis Mandatsabbruch Empfehlung Komplexe Faelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-ki-outsourcing-berufsgeheimnis` | KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe. |
 | `ki-im-zivilprozess-rollen-und-grenzen` | KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-ki-outsourcing-berufsgeheimnis`
 
-**Frühere Beschreibung:** KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe.
+**Fokus:** KI-Outsourcing fuer Kanzleien und Rechtsabteilungen: Mandatsgeheimnis, Auftragsverarbeitung, Berufsrecht, Datenklassen, Subdienstleister, Drittlandtransfer, Prompt-Logging, Loeschung, Audit und Mandantenfreigabe.
 
 # Kanzlei-KI-Outsourcing und Berufsgeheimnis
 
@@ -73,7 +73,7 @@ Nicht abstrakt "Cloud ist verboten" oder "Cloud ist erlaubt" sagen. Entscheidend
 
 ## 2. `ki-im-zivilprozess-rollen-und-grenzen`
 
-**Frühere Beschreibung:** KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung.
+**Fokus:** KI im Zivilprozess: Einsatz durch Partei, Anwalt, Gericht, Sachverstaendige und Justizverwaltung. Prueft KI-VO, ZPO, Berufsrecht, Beweisrecht, richterliche Verantwortung, rechtliches Gehoer und Grenzen automatisierter Entscheidungsunterstuetzung.
 
 # KI im Zivilprozess
 
@@ -113,7 +113,7 @@ Erzeuge eine Rollenmatrix mit:
 
 ## 3. `liegt-ki-system-vor-art-3-nr-1`
 
-**Frühere Beschreibung:** Erster Schritt jeder KI-VO-Pruefung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prueft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und Umweltbeeinflussung nach den Kommissionsleitlinien. Problematisiert Automation und Autonomie statt schematisch abzuhaken. Output: dokumentierbarer KI-System-Einordnungsvermerk mit Tatsachenbasis, Unsicherheiten und Folge-Skills.
+**Fokus:** Erster Schritt jeder KI-VO-Pruefung: Ist die Software, API, App, Automatisierung oder Modellkette ein KI-System nach Art. 3 Nr. 1 KI-VO? Prueft maschinenbasiertes System, Autonomie, optionale Adaptivitaet, Ziele, Inferenz, Output-Typen und Umweltbeeinflussung nach den Kommissionsleitlinien. Problematisiert Automation und Autonomie statt schematisch abzuhaken. Output: dokumentierbarer KI-System-Einordnungsvermerk mit Tatsachenbasis, Unsicherheiten und Folge-Skills.
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO
 
@@ -329,7 +329,7 @@ Stand: 05/2026. Zu berücksichtigen sind Art. 3 Nr. 1, Nr. 12, Nr. 13 und Nr. 23
 
 ## 4. `mandatsabbruch-empfehlung-komplexe-faelle`
 
-**Frühere Beschreibung:** Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage).
+**Fokus:** Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren für Komplexitaet jenseits des KI-VO-Prüfers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Prüfraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragsprüfung. Output: Eskalationsempfehlung mit Begründung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorprüfung (Eingangs-Triage).
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-encrochat-anom-sky-e-bis-europaeischer-haftbe
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (encrochat-anom-sky-ecc-krypto, encrochat-sky-ecc-anom-beweiswert, entscheidungsvorlage, ermittlungsvermerk-schreiben, europaeischer-haftbefehl-sta-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Encrochat Anom Sky Ecc Krypto, Encrochat Sky Ecc Anom Beweiswert, Entscheidungsvorlage, Ermittlungsvermerk Schreiben und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Encrochat Anom Sky Ecc Krypto bis Europaeischer Haftbefehl Sta Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `encrochat-anom-sky-ecc-krypto` | EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `encrochat-sky-ecc-anom-beweiswert` | EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `encrochat-anom-sky-ecc-krypto`
 
-**Frühere Beschreibung:** EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** EncroChat, ANOM, Sky ECC und Kryptodienste: Praxis-Skill für neue Staatsanwälte zu Krypto-Messenger-Beweise, Herkunft, Authentizität, Rechtshilfe, Verwertbarkeit und Verteidigungseinwände prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # EncroChat, ANOM, Sky ECC und Kryptodienste
 
@@ -80,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `encrochat-sky-ecc-anom-beweiswert`
 
-**Frühere Beschreibung:** EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # EncroChat, Sky ECC und ANOM: Beweiswert und Verwertungsangriff
 
@@ -129,7 +129,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `entscheidungsvorlage`
 
-**Frühere Beschreibung:** Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Entscheidungsvorlage: Praxis-Skill für neue Staatsanwälte zu macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Entscheidungsvorlage
 
@@ -179,7 +179,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `ermittlungsvermerk-schreiben`
 
-**Frühere Beschreibung:** Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstand, Tatverdacht, Beweislage, offene Ermittlungen und Entscheidungsvorschlag in einem brauchbaren Vermerk bündeln; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Ermittlungsvermerk schreiben: Praxis-Skill für neue Staatsanwälte zu Sachstand, Tatverdacht, Beweislage, offene Ermittlungen und Entscheidungsvorschlag in einem brauchbaren Vermerk bündeln; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Ermittlungsvermerk schreiben
 
@@ -229,7 +229,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `europaeischer-haftbefehl-sta-praxis`
 
-**Frühere Beschreibung:** Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Europäischer Haftbefehl aus StA-Sicht: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Europäischer Haftbefehl aus StA-Sicht
 

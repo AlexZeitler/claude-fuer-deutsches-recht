@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-laienhilfe-sanktion-bis-laienhilfe-aussteuer
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (laienhilfe-sanktion-minderung, fachanwalt-sozialrecht-erwerbsminderungsrente, fachanwalt-sozialrecht-gdb-schwerbehinderung, laienhilfe-aussteuerung-nahtlosigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laienhilfe Sanktion Minderung, Sozialrecht Erwerbsminderungsrente, Sozialrecht Gdb Schwerbehinderung, Laienhilfe Aussteuerung Nahtlosigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-sozialrecht
+# Arbeitsbereich - Laienhilfe Sanktion Minderung bis Laienhilfe Aussteuerung Nahtlosigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `laienhilfe-sanktion-minderung` | Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
 | `fachanwalt-sozialrecht-erwerbsminderungsrente` | Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `laienhilfe-sanktion-minderung`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Sanktion Minderung. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Sanktion Minderung
 
@@ -116,7 +116,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `fachanwalt-sozialrecht-erwerbsminderungsrente`
 
-**Frühere Beschreibung:** Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang).
+**Fokus:** Versicherter erhielt Ablehnung der Erwerbsminderungsrente oder ist ausgesteuert und fragt nach Rentenanspruch. §§ 43 240 SGB VI. Prüfraster: volle Erwerbsminderung unter 3 Stunden taeglich teilweise unter 6 Stunden Wartezeit 5 Jahre § 50 SGB VI 3 Jahre Pflichtbeitraege in letzten 5 Jahren § 43 Abs. 1 Nr. 2 SGB VI. Berufsschutz § 240 SGB VI Jahrgaenge vor 1961. Medizinische Befundlage Gutachten. Output: Widerspruchsschriftsatz oder Klagebaustein Erwerbsminderungsrente. Abgrenzung zu fachanwalt-sozialrecht-krankengeld-aussteuerung (Übergang).
 
 # Erwerbsminderungsrente (§§ 43, 240 SGB VI)
 
@@ -457,7 +457,7 @@ Mit freundlichen Grüßen
 
 ## 3. `fachanwalt-sozialrecht-gdb-schwerbehinderung`
 
-**Frühere Beschreibung:** Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Prüfraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente.
+**Fokus:** Mandant hat Behinderung und moechte Schwerbehindertenausweis und Merkzeichen beantragen oder Ablehnungsbescheid anfechten. § 152 SGB IX Feststellungsverfahren Versorgungsmedizin-Verordnung. Prüfraster: GdB-Feststellung nach Versorgungsmedizinischer Grundsaetze Merkzeichen G aG H B Bl Gl RF Schwerbehindertenausweis ab GdB 50. Steuerliche und arbeitsrechtliche Vorteile. Output: Antragschreiben oder Widerspruchsbaustein GdB/Schwerbehinderung. Abgrenzung zu eingliederungshilfe-schule (Kinder) und fachanwalt-sozialrecht-erwerbsminderungsrente.
 
 # GdB-Feststellung
 
@@ -641,7 +641,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `laienhilfe-aussteuerung-nahtlosigkeit`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Aussteuerung Nahtlosigkeit. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen für Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Aussteuerung Nahtlosigkeit
 

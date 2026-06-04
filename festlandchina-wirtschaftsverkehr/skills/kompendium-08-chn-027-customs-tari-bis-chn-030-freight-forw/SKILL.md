@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-chn-027-customs-tari-bis-chn-030-freight-forw
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (chn-027-customs-tariff-origin-china, chn-028-preferential-origin-not-usually, chn-029-incoterms-china-shipment, chn-030-freight-forwarder-and-customs-broker) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 027 Customs Tariff Origin China, Chn 028 Preferential Origin Not Usually, Chn 029 Incoterms China Shipment, Chn 030 Freight Forwarder And Customs Broker; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 027 Customs Tariff Origin China bis Chn 030 Freight Forwarder And Customs Broker
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-027-customs-tariff-origin-china` | Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste. |
 | `chn-028-preferential-origin-not-usually` | Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-027-customs-tariff-origin-china`
 
-**Frühere Beschreibung:** Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste.
+**Fokus:** Zolltarif und Ursprungsregeln für Waren aus VR China: KN-Nomenklatur, Ursprungsermittlung (wesentliche Be-/Verarbeitung), Präferenzursprung (kein allg. DE-CN-Präferenzabkommen), Ursprungsnachweise, Zollwert (Transaktionswert GATT-Zollwertkodex), Anti-Umgehungsschutz. Output: Ursprungsprüfungsprotokoll und Zolldokumentation-Checkliste.
 
 # Zolltarif und Warenursprung China: Prüfung und Dokumentation
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-028-preferential-origin-not-usually`
 
-**Frühere Beschreibung:** Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht.
+**Fokus:** Fehlender präferentieller Ursprung im EU-China-Handel: Kein EU-China-Freihandelsabkommen (Stand 2024), CAI (Comprehensive Agreement on Investment) eingefroren, GSP-Abwicklung, Drittlandsregeln, Ursprungsplanung bei Verlagerung. Alternativrouten über DE-Länder mit EU-FTAs. Output: Ursprungsstrategie-Analyse und Alternativen-Übersicht.
 
 # Präferenzursprung EU-China: Fehlende FTA und Alternativen
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-029-incoterms-china-shipment`
 
-**Frühere Beschreibung:** Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung.
+**Fokus:** Incoterms-Wahl bei Lieferungen aus/nach China: FOB/CIF/DDP-Fallstricke im China-Handel, Risikoübergangspunkte, Zuständigkeit für chinesische Exportzollanmeldung, Versicherungsrisiken auf Seefracht, Abgrenzung Incoterms zu Eigentumsübergang (CISG Art. 67). Output: Incoterms-Bewertungsmatrix China-Handel und Vertragsklausel-Empfehlung.
 
 # Incoterms China-Handel: Auswahl und Risikobewertung
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-030-freight-forwarder-and-customs-broker`
 
-**Frühere Beschreibung:** Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick.
+**Fokus:** Spediteur- und Zolldienstleisterrecht im China-Handel: Haftungsrahmen HGB §§ 407 ff. (Frachtrecht), Spediteurbedingungen ADSp, Vollmachten für Zollanmeldung, Zollvertretung nach EU-ZK Art. 18 ff., Haftung bei Fehlanmeldung, BAFA-Vertretung bei Exportgenehmigung. Output: Beauftragungsrahmen und Haftungsüberblick.
 
 # Spediteur und Zollmakler China-Handel: Haftung und Beauftragung
 

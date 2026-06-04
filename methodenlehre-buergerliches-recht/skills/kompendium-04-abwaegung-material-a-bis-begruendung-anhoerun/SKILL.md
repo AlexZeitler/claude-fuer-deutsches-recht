@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-abwaegung-material-a-bis-begruendung-anhoerun
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (abwaegung-material-auswahl, abwaegungslast-non-liquet, argumentum-figuren-e-contrario-a-maiore-a-fortiori, auslegung-rechtsfortbildung-grenzprotokoll, begruendung-anhoerung-und-adressatenfaehigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abwaegung Material Auswahl, Abwaegungslast Non Liquet, Argumentum Figuren E Contrario A Maiore A Fortiori, Auslegung Rechtsfortbildung Grenzprotokoll und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Abwaegung Material Auswahl bis Begruendung Anhoerung Und Adressatenfaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abwaegung-material-auswahl` | Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit. |
 | `abwaegungslast-non-liquet` | Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abwaegung-material-auswahl`
 
-**Frühere Beschreibung:** Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit.
+**Fokus:** Leitet durch die methodisch begründete Auswahl von Abwägungsmaterial im Zivilrecht. Das Skill zeigt, welche Fakten, Normen, Präjudizien und Wertungsgesichtspunkte in eine Abwägungsentscheidung einbezogen werden dürfen und welche ausgeblendet werden müssen. Es schützt vor willkürlicher Materialauswahl und stärkt die Legitimität richterlicher und anwaltlicher Abwägungsarbeit.
 
 # Abwägung: Materialauswahl und Abwägungsgrundlagen
 
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `abwaegungslast-non-liquet`
 
-**Frühere Beschreibung:** Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet.
+**Fokus:** Behandelt die methodische Frage, wie mit Abwägungslagen umzugehen ist, in denen das Material keine eindeutige Entscheidung erlaubt. Das Skill systematisiert die Non-liquet-Problematik im Zivilrecht und zeigt, welche Entscheidungsregeln bei Abwägungsunklarheit greifen — Beweislastverteilung, Regelfallannahmen, In-dubio-Grundsätze und institutionelle Rückbindung an den Gesetzgeber. Für Gutachten und Schriftsätze bei strittiger Abwägungslage geeignet.
 
 # Abwägungslast und Non-liquet: Entscheiden bei unsicherer Abwägungsgrundlage
 
@@ -210,7 +210,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `argumentum-figuren-e-contrario-a-maiore-a-fortiori`
 
-**Frühere Beschreibung:** Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke.
+**Fokus:** Argumentum-Figuren im deutschen Zivilrecht. Umkehrschluss (argumentum e contrario), Erst-recht-Schluss (argumentum a maiore ad minus, a minore ad maius), argumentum a fortiori. Voraussetzungen und Verhaeltnis zur Analogie. Praezise BGB-Beispiele: § 181 BGB e contrario, §§ 134 138 BGB a maiore, §§ 119 142 BGB a fortiori. Wann diese Figuren tragen und wo sie scheitern. Pruefraster mit Begruendungsstaerke.
 
 # Argumentum-Figuren: e contrario, a maiore ad minus, a fortiori
 
@@ -328,7 +328,7 @@ Stand: Mai 2026.
 
 ## 4. `auslegung-rechtsfortbildung-grenzprotokoll`
 
-**Frühere Beschreibung:** Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als Prüfprotokoll für Anwälte, Richter und Wissenschaftler, die Auslegungsschritte revisionsrechtlich absichern oder angreifen wollen.
+**Fokus:** Protokolliert methodisch präzise die Grenze zwischen erlaubter Auslegung und unerlaubter richterlicher Rechtsfortbildung im Zivilrecht. Das Skill hilft, Wortlautgrenzen zu identifizieren, Lückenfeststellungen zu begründen und Rechtsfortbildungsschritte demokratisch zu legitimieren. Es dient als Prüfprotokoll für Anwälte, Richter und Wissenschaftler, die Auslegungsschritte revisionsrechtlich absichern oder angreifen wollen.
 
 # Auslegung versus Rechtsfortbildung: Grenzprotokoll
 
@@ -418,7 +418,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `begruendung-anhoerung-und-adressatenfaehigkeit`
 
-**Frühere Beschreibung:** Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung.
+**Fokus:** Verknuepft zivilrechtliche Methodik mit Verfahrensfairness: rechtliches Gehoer, Parteivortrag, Beweis, Begruendung, Ueberraschungsverbot und adressatenfaehige Rechtsanwendung.
 
 # Begründung, Anhörung und Adressatenfähigkeit
 

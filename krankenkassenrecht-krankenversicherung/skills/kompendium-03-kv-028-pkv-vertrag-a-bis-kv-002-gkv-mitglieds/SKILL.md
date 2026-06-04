@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-kv-028-pkv-vertrag-a-bis-kv-002-gkv-mitglieds
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht, kv-039-betriebliche-krankenversicherung-und-datenschutz, kv-002-gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaft Pflicht Freiwillig Familienversicherun; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 028 Pkv Vertrag Antrag Gesundheitsfragen Anzeigepflicht, Kv 039 Betriebliche Krankenversicherung Und Datenschutz, Kv 002 Gkv Mitgliedschaf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht` | Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung. |
 | `kv-039-betriebliche-krankenversicherung-und-datenschutz` | Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-028-pkv-vertrag-antrag-gesundheitsfragen-anzeigepflicht`
 
-**Frühere Beschreibung:** Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung.
+**Fokus:** Vorvertragliche Anzeigepflicht in der PKV (§§ 19–22 VVG): Gesundheitsfragen, Risikoausschlüsse, Leistungsausschlüsse, Anfechtung wegen arglistiger Täuschung.
 
 # PKV-Vertrag: Antrag, Gesundheitsfragen und Anzeigepflicht
 
@@ -113,7 +113,7 @@ Beim Abschluss eines PKV-Vertrags besteht eine **vorvertragliche Anzeigepflicht*
 
 ## 2. `kv-039-betriebliche-krankenversicherung-und-datenschutz`
 
-**Frühere Beschreibung:** Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität.
+**Fokus:** Betriebliche Krankenversicherung (bKV): Gruppenverträge, Leistungsumfang, Arbeitgeber-Datenschutz, steuerliche Behandlung und Portabilität.
 
 # Betriebliche Krankenversicherung und Datenschutz
 
@@ -196,7 +196,7 @@ Die betriebliche Krankenversicherung (bKV) ist ein wachsendes Benefit-Instrument
 
 ## 3. `kv-002-gkv-mitgliedschaft-pflicht-freiwillig-familienversicherun`
 
-**Frühere Beschreibung:** Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen.
+**Fokus:** Versicherungspflicht (§ 5 SGB V), freiwillige Versicherung (§ 9 SGB V) und Familienversicherung (§ 10 SGB V) prüfen und abgrenzen.
 
 # GKV-Mitgliedschaft: Pflicht, freiwillig, Familienversicherung
 

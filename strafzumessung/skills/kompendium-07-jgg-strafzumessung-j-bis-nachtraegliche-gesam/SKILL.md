@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-jgg-strafzumessung-j-bis-nachtraegliche-gesam
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (jgg-strafzumessung-jugendstrafe-erziehungsmassregeln, minder-schwerer-fall-und-besonders-schwerer-fall, nachtraegliche-gesamtstrafenbildung-55-stgb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 55 Stgb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - strafzumessung
+# Arbeitsbereich - Jgg Strafzumessung Jugendstrafe Erziehungsmassregeln, Minder Schwerer Fall Und Besonders Schwerer Fall, Nachtraegliche Gesamtstrafenbildung 5
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `jgg-strafzumessung-jugendstrafe-erziehungsmassregeln` | Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG. |
 | `minder-schwerer-fall-und-besonders-schwerer-fall` | Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `jgg-strafzumessung-jugendstrafe-erziehungsmassregeln`
 
-**Frühere Beschreibung:** Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG.
+**Fokus:** Strafzumessung im Jugendstrafrecht. Erziehungsgedanke § 2 JGG. Massnahmen-Trio: Erziehungsmassregeln §§ 9-12 JGG, Zuchtmittel §§ 13-16 JGG, Jugendstrafe §§ 17-18 JGG. Voraussetzung Jugendstrafe schaedliche Neigungen oder Schwere der Schuld § 17 JGG. Strafrahmen Jugendstrafe 6 Monate bis 5 Jahre, bei Verbrechen bis 10 Jahre. Heranwachsende § 105 JGG. JStVollzG.
 
 # Strafzumessung im Jugendstrafrecht
 
@@ -176,7 +176,7 @@ Das Jugendgerichtsgesetz (JGG) gilt fuer Jugendliche (14 bis unter 18 Jahre) und
 
 ## 2. `minder-schwerer-fall-und-besonders-schwerer-fall`
 
-**Frühere Beschreibung:** Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug.
+**Fokus:** Strafrahmen-Modifikation durch minder schweren Fall (Strafrahmen-Senkung) und besonders schweren Fall (Strafrahmen-Anhebung). Gesamtwuerdigung aller Tat- und Taeter-Umstaende. Beziehung zu Regelbeispielen. Konkurrenz minder schwerer Fall vs. § 49 StGB. Pruefungsreihenfolge. Anwendungsfaelle § 213 StGB Totschlag, § 249 Abs. 2 StGB Raub, § 243 StGB Diebstahl, § 263 Abs. 3 StGB Betrug.
 
 # Minder schwerer Fall und besonders schwerer Fall
 
@@ -286,7 +286,7 @@ In der Verteidigungspraxis stets **hilfsweise** beide Wege beantragen. **Aktenze
 
 ## 3. `nachtraegliche-gesamtstrafenbildung-55-stgb`
 
-**Frühere Beschreibung:** Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium.
+**Fokus:** Nachtraegliche Gesamtstrafenbildung nach § 55 StGB. Voraussetzung: spaetere Tat wurde **vor** einer frueheren Verurteilung begangen (Zaesurwirkung). Beschluss-Verfahren § 460 StPO. Einbeziehung rechtskraeftiger Strafen. Haerteausgleich, wenn die Einbeziehung nicht moeglich ist (Bewaehrung bereits erledigt, Strafvollstreckung beendet). BGH-staendige Linie. Verteidigung im Vollstreckungsstadium.
 
 # Nachtraegliche Gesamtstrafenbildung — § 55 StGB
 

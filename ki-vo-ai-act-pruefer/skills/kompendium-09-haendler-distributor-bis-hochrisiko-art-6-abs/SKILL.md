@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-haendler-distributor-bis-hochrisiko-art-6-abs
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (haendler-distributor-pflichten-art-24, harmonisierte-normen-gap-uebergang, high-risk-negative-determination-memo, hochrisiko-art-6-abs-1-sicherheitsbauteil) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Haendler Distributor Pflichten Art 24, Harmonisierte Normen Gap Uebergang, High Risk Negative Determination Memo, Hochrisiko Art 6 Abs 1 Sicherheitsbauteil; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Haendler Distributor Pflichten Art 24 bis Hochrisiko Art 6 Abs 1 Sicherheitsbauteil
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `haendler-distributor-pflichten-art-24` | Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einführer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einführer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel). |
 | `harmonisierte-normen-gap-uebergang` | Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-Uebergang: Gap-Analyse, Vermutungswirkung, Standards-Roadmap, Audit-Evidence und keine falsche Normenbehauptung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `haendler-distributor-pflichten-art-24`
 
-**Frühere Beschreibung:** Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einführer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einführer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel).
+**Fokus:** Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einführer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einführer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel).
 
 # Händler-Pflichten (Distributor) — Art. 24 KI-VO
 
@@ -145,7 +145,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `harmonisierte-normen-gap-uebergang`
 
-**Frühere Beschreibung:** Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-Uebergang: Gap-Analyse, Vermutungswirkung, Standards-Roadmap, Audit-Evidence und keine falsche Normenbehauptung.
+**Fokus:** Harmonisierte Normen, gemeinsame Spezifikationen und ISO/IEC-Standards im KI-VO-Uebergang: Gap-Analyse, Vermutungswirkung, Standards-Roadmap, Audit-Evidence und keine falsche Normenbehauptung.
 
 # Harmonisierte Normen und Übergang
 
@@ -185,7 +185,7 @@ Nie "ISO erfüllt KI-VO" pauschal schreiben. Immer Artikel, Standardkapitel, Nac
 
 ## 3. `high-risk-negative-determination-memo`
 
-**Frühere Beschreibung:** Negativvermerk zur Hochrisiko-Einstufung: Art. 6 Abs. 2/Anhang III nicht einschlaegig oder Rueckausnahme Art. 6 Abs. 3. Dokumentiert Zweckbestimmung, tatsächliche Nutzung, Profiling-Sperre, Restpflichten und Re-Evaluation.
+**Fokus:** Negativvermerk zur Hochrisiko-Einstufung: Art. 6 Abs. 2/Anhang III nicht einschlaegig oder Rueckausnahme Art. 6 Abs. 3. Dokumentiert Zweckbestimmung, tatsächliche Nutzung, Profiling-Sperre, Restpflichten und Re-Evaluation.
 
 # High-Risk Negative Determination Memo
 
@@ -229,7 +229,7 @@ Ein Negativvermerk schützt nur, wenn er aktuell gehalten wird. Er ist kein Frei
 
 ## 4. `hochrisiko-art-6-abs-1-sicherheitsbauteil`
 
-**Frühere Beschreibung:** Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I. Prüfraster: ist Produkt in Anhang I gelistet (MDR IVDR Luftfahrt Kfz Spielzeug Maschinen etc.) und ist KI-Komponente Sicherheitsbauteil und erfordert das Sektorrecht Drittbeurteilung. Output: Entscheidungsbaum mit Ergebnis und Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (eigenständige Anhang-III-Hochrisiko-Einstufung).
+**Fokus:** Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I. Prüfraster: ist Produkt in Anhang I gelistet (MDR IVDR Luftfahrt Kfz Spielzeug Maschinen etc.) und ist KI-Komponente Sicherheitsbauteil und erfordert das Sektorrecht Drittbeurteilung. Output: Entscheidungsbaum mit Ergebnis und Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (eigenständige Anhang-III-Hochrisiko-Einstufung).
 
 # Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO
 

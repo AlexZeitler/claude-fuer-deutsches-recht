@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-fz-betriebspruefung-bis-fz-historie-und-rech
-description: "forschungszulage-antragstellung: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (fz-betriebspruefung-strategie, fz-finanzamt-festsetzung-auszahlung, fz-historie-und-rechtsgrundlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "forschungszulage-antragstellung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - forschungszulage-antragstellung
+# Arbeitsbereich - Fz Betriebspruefung Strategie, Fz Finanzamt Festsetzung Auszahlung, Fz Historie Und Rechtsgrundlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fz-betriebspruefung-strategie` | Strategie bei Betriebspruefung mit Schwerpunkt Forschungszulage: Vorbereitung, Selbstanzeige bei Fehlern (auch wenn keine Steuerstraftat), Argumentationspakete, Schlussbesprechung. Pruefraster: Stundennachweise, Auftragsforschungsvertraege, Mitarbeiterzuordnung, FuE-Phasentrennung. Routet in fz-dokumentationspaket-betriebspruefung. |
 | `fz-finanzamt-festsetzung-auszahlung` | Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofortauszahlung vs. Verrechnung und Schritt-für-Schritt-Antragsroute. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fz-betriebspruefung-strategie`
 
-**Frühere Beschreibung:** Strategie bei Betriebspruefung mit Schwerpunkt Forschungszulage: Vorbereitung, Selbstanzeige bei Fehlern (auch wenn keine Steuerstraftat), Argumentationspakete, Schlussbesprechung. Pruefraster: Stundennachweise, Auftragsforschungsvertraege, Mitarbeiterzuordnung, FuE-Phasentrennung. Routet in fz-dokumentationspaket-betriebspruefung.
+**Fokus:** Strategie bei Betriebspruefung mit Schwerpunkt Forschungszulage: Vorbereitung, Selbstanzeige bei Fehlern (auch wenn keine Steuerstraftat), Argumentationspakete, Schlussbesprechung. Pruefraster: Stundennachweise, Auftragsforschungsvertraege, Mitarbeiterzuordnung, FuE-Phasentrennung. Routet in fz-dokumentationspaket-betriebspruefung.
 
 # FZ: Betriebspruefungs-Strategie
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `forschungszulage-antragstellung`. Er ergaenzt d
 
 ## 2. `fz-finanzamt-festsetzung-auszahlung`
 
-**Frühere Beschreibung:** Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofortauszahlung vs. Verrechnung und Schritt-für-Schritt-Antragsroute.
+**Fokus:** Forschungszulage beim Finanzamt beantragen, festsetzen und auszahlen lassen: ELSTER-Antrag, Vorlage der BSFZ-Bescheinigung, Forschungszulagenbescheid, Anrechnung auf Einkommen- oder Körperschaftsteuer, Auszahlung eines Überschusses, Vorauszahlungssenkung. Mit Zeitlinie Q1 bis Q4, Trade-offs Sofortauszahlung vs. Verrechnung und Schritt-für-Schritt-Antragsroute.
 
 # Finanzamt: Festsetzung und Auszahlung
 
@@ -222,7 +222,7 @@ Mit freundlichen Grüßen [Berufsbezeichnung]."
 
 ## 3. `fz-historie-und-rechtsgrundlagen`
 
-**Frühere Beschreibung:** Historie und Rechtsgrundlagen der steuerlichen Forschungszulage einfuehrend: FZulG seit 2020, Wachstumschancengesetz 2024 mit Erhoehung auf 10 Mio. Euro Bemessungsgrundlage, KMU-Bonus 5 Mio. Euro. Verhaeltnis zu Projektfoerderung (Bund, Land, EU). Steuerliche Behandlung als Zulage, nicht Subvention. Beispielrechnung.
+**Fokus:** Historie und Rechtsgrundlagen der steuerlichen Forschungszulage einfuehrend: FZulG seit 2020, Wachstumschancengesetz 2024 mit Erhoehung auf 10 Mio. Euro Bemessungsgrundlage, KMU-Bonus 5 Mio. Euro. Verhaeltnis zu Projektfoerderung (Bund, Land, EU). Steuerliche Behandlung als Zulage, nicht Subvention. Beispielrechnung.
 
 # FZ: Historie und Rechtsgrundlagen
 

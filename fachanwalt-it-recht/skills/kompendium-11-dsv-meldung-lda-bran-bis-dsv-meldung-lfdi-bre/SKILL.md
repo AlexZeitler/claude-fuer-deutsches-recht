@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-dsv-meldung-lda-bran-bis-dsv-meldung-lfdi-bre
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (dsv-meldung-lda-brandenburg, dsv-meldung-ldi-nrw, dsv-meldung-lfd-niedersachsen, dsv-meldung-lfd-sachsen-anhalt, dsv-meldung-lfdi-bremen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Meldung Lda Brandenburg, Dsv Meldung Ldi Nrw, Dsv Meldung Lfd Niedersachsen, Dsv Meldung Lfd Sachsen Anhalt und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Meldung Lda Brandenburg bis Dsv Meldung Lfdi Bremen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-meldung-lda-brandenburg` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BbgDSG Brandenburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-ldi-nrw` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Nordrhein-Westfalen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG NRW; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-meldung-lda-brandenburg`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BbgDSG Brandenburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht Brandenburg (LDA BB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Brandenburg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BbgDSG Brandenburgisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LDA BB
 
@@ -135,7 +135,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 2. `dsv-meldung-ldi-nrw`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Nordrhein-Westfalen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG NRW; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Nordrhein-Westfalen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG NRW; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LDI NRW
 
@@ -240,7 +240,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 3. `dsv-meldung-lfd-niedersachsen`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus NDSG Niedersächsisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für den Datenschutz Niedersachsen (LfD NI) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Niedersachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus NDSG Niedersächsisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfD NI
 
@@ -345,7 +345,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 4. `dsv-meldung-lfd-sachsen-anhalt`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG LSA Datenschutzgesetz Sachsen-Anhalt; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz Sachsen-Anhalt (LfD ST) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen-Anhalt und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG LSA Datenschutzgesetz Sachsen-Anhalt; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfD ST
 
@@ -450,7 +450,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 5. `dsv-meldung-lfdi-bremen`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BremDSGVOAG Bremisches Ausführungsgesetz zur DSGVO; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragte für Datenschutz und Informationsfreiheit der Freien Hansestadt Bremen (LfDI HB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Bremen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus BremDSGVOAG Bremisches Ausführungsgesetz zur DSGVO; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfDI HB
 

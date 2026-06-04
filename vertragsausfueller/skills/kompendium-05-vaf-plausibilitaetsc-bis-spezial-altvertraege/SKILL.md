@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vaf-plausibilitaetsc-bis-spezial-altvertraege
-description: "vertragsausfueller: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (vaf-plausibilitaetscheck, vaf-termsheet-mapping, spezial-altvertraege-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "vertragsausfueller: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vaf Plausibilitaetscheck, Vaf Termsheet Mapping, Altvertraege Dokumentenmatrix Und Lueckenliste; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - vertragsausfueller
+# Arbeitsbereich - Vaf Plausibilitaetscheck, Vaf Termsheet Mapping, Altvertraege Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vaf-plausibilitaetscheck` | Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Prüfraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate für Gesamtprüfung und zu Clean-Output. |
 | `vaf-termsheet-mapping` | Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vaf-plausibilitaetscheck`
 
-**Frühere Beschreibung:** Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Prüfraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate für Gesamtprüfung und zu Clean-Output.
+**Fokus:** Plausibilitätsprüfung vor Vertragsausgabe: Zahlen Fristen Querverweise und interne Widersprüche prüfen. Anwendungsfall ausgefüllter Vertragsentwurf soll vor Ausgabe auf Rechenfehler und Inkonsistenzen geprüft werden. §§ 305 ff. BGB Klausel-Konsistenz, § 550 BGB Schriftformhürde. Prüfraster Betraege Netto/Brutto konsistent, Fristen rechtlich zulässig, Anlagenverzeichnis vollständig, Parteidaten aktuell, Umsatzsteuer-Option konsistent. Output Plausibilitätsprotokoll mit Fehlerampel und Korrekturbedarf. Abgrenzung zu Quality-Gate für Gesamtprüfung und zu Clean-Output.
 
 # Plausibilitätscheck
 
@@ -94,7 +94,7 @@ Bundle: bundle_047.json
 
 ## 2. `vaf-termsheet-mapping`
 
-**Frühere Beschreibung:** Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar.
+**Fokus:** Term Sheet auf Vertragsfelder mappen: Anwendungsfall Term Sheet liegt vor und Eckdaten muessen auf Vertragsfelder übertragen werden mit Erkennung fehlender Punkte und Widersprüche. §§ 145 ff. BGB Letter of Intent, Klausel-Bibliothek Vertragsmodule. Prüfraster Term Sheet vollständig Parteien Objekt Preis Laufzeit, Widersprüche Vorlage vs. Term Sheet, Bindungswirkung Letter of Intent, steuerliche Punkte erklärt. Output Mapping-Tabelle Term Sheet zu Vertragsfeld mit Lueckenliste und Widerspruchs-Ampel. Abgrenzung zu Template-Erkennung und zu Feldinventar.
 
 # Term-Sheet-Mapping
 
@@ -159,7 +159,7 @@ Bundle: bundle_047.json
 
 ## 3. `spezial-altvertraege-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung im Plugin vertragsausfueller; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Altvertraege: Dokumentenmatrix, Lückenliste und Nachforderung
 

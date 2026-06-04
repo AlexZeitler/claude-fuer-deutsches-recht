@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-lektorat-struktur-re-bis-produktionsuebergabe
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (lektorat-struktur-redaktion, manuskriptaufnahme-materialinventar, marketing-presse-social, metadaten-seo-klappentext, produktionsuebergabe-checkliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lektorat Struktur Redaktion, Manuskriptaufnahme Materialinventar, Marketing Presse Social, Metadaten Seo Klappentext und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verlagsredaktion
+# Arbeitsbereich - Lektorat Struktur Redaktion bis Produktionsuebergabe Checkliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lektorat-struktur-redaktion` | Redigiert Struktur, Argumentationsgang, Gliederung, Kuerzung, Redundanzen, Widersprueche und Lesefuehrung von Verlagsmanuskripten. |
 | `manuskriptaufnahme-materialinventar` | Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autor:innenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lektorat-struktur-redaktion`
 
-**Frühere Beschreibung:** Redigiert Struktur, Argumentationsgang, Gliederung, Kuerzung, Redundanzen, Widersprueche und Lesefuehrung von Verlagsmanuskripten.
+**Fokus:** Redigiert Struktur, Argumentationsgang, Gliederung, Kuerzung, Redundanzen, Widersprueche und Lesefuehrung von Verlagsmanuskripten.
 
 # Lektorat, Struktur und Redaktion
 
@@ -81,7 +81,7 @@ Inhaltlich starke Eingriffe immer als Vorschlag markieren, nicht als erledigte A
 
 ## 2. `manuskriptaufnahme-materialinventar`
 
-**Frühere Beschreibung:** Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autor:innenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen.
+**Fokus:** Nimmt Manuskripte und Begleitmaterial auf, erstellt ein Materialinventar, trennt Autor:innenmaterial, Fremdquelle, Redaktionstext, Luecken und Rechtefragen.
 
 # Manuskriptaufnahme und Materialinventar
 
@@ -129,7 +129,7 @@ Vor jeder Bearbeitung muss klar sein, welches Material existiert, woher es kommt
 
 ## 3. `marketing-presse-social`
 
-**Frühere Beschreibung:** Erstellt Verlagstexte fuer Vorschau, Newsletter, Presse, Website und Social Media aus Manuskript, Zielgruppe und Produktnutzen.
+**Fokus:** Erstellt Verlagstexte fuer Vorschau, Newsletter, Presse, Website und Social Media aus Manuskript, Zielgruppe und Produktnutzen.
 
 # Marketing, Presse und Social
 
@@ -178,7 +178,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 4. `metadaten-seo-klappentext`
 
-**Frühere Beschreibung:** Erstellt Titelvarianten, Untertitel, Abstract, Schlagworte, Klappentext, Webteaser, Kurzbeschreibung und Metadaten aus Manuskriptmaterial.
+**Fokus:** Erstellt Titelvarianten, Untertitel, Abstract, Schlagworte, Klappentext, Webteaser, Kurzbeschreibung und Metadaten aus Manuskriptmaterial.
 
 # Metadaten, SEO und Klappentext
 
@@ -229,7 +229,7 @@ Wenn Material oder Ziel unklar sind, stelle hoechstens drei Fragen: Was soll ver
 
 ## 5. `produktionsuebergabe-checkliste`
 
-**Frühere Beschreibung:** Erstellt die Uebergabe an Herstellung, Satz, Online, Marketing, Vertrieb und Archiv mit Dateien, Freigaben, Rechten, Metadaten und offenen Punkten.
+**Fokus:** Erstellt die Uebergabe an Herstellung, Satz, Online, Marketing, Vertrieb und Archiv mit Dateien, Freigaben, Rechten, Metadaten und offenen Punkten.
 
 # Produktionsübergabe
 

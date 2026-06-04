@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-dora-ict-vertraege-v-bis-ewpg-emission-elektr
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (dora-ict-vertraege-vorfall, einlagensicherung-kundenhinweise, embedded-finance-kooperation, esg-sustainable-finance, ewpg-emission-elektronische-wertpapiere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dora Ict Vertraege Vorfall, Einlagensicherung Kundenhinweise, Embedded Finance Kooperation, Esg Sustainable Finance und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bank-rechtsabteilung
+# Arbeitsbereich - Dora Ict Vertraege Vorfall bis Ewpg Emission Elektronische Wertpapiere
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dora-ict-vertraege-vorfall` | DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen. |
 | `einlagensicherung-kundenhinweise` | Einlagensicherung und Kundenhinweise: gesetzliche und institutsspezifische Sicherung, Informationsbogen, Produktabgrenzung, Markenauftritt, Filialhinweise und Beschwerdekommunikation prüfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dora-ict-vertraege-vorfall`
 
-**Frühere Beschreibung:** DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen.
+**Fokus:** DORA-IKT-Verträge und IKT-Vorfälle: Pflichtklauseln, Register, Exit, Überwachungsrechte, Suboutsourcing, Incident-Klassifizierung, Meldewege und Managementbericht prüfen.
 
 # DORA IKT-Verträge und Vorfälle
 
@@ -150,7 +150,7 @@ Wenn Artikel 16 DORA im Raum steht, nicht den vollen Standard mechanisch übertr
 
 ## 2. `einlagensicherung-kundenhinweise`
 
-**Frühere Beschreibung:** Einlagensicherung und Kundenhinweise: gesetzliche und institutsspezifische Sicherung, Informationsbogen, Produktabgrenzung, Markenauftritt, Filialhinweise und Beschwerdekommunikation prüfen.
+**Fokus:** Einlagensicherung und Kundenhinweise: gesetzliche und institutsspezifische Sicherung, Informationsbogen, Produktabgrenzung, Markenauftritt, Filialhinweise und Beschwerdekommunikation prüfen.
 
 # Einlagensicherung
 
@@ -265,7 +265,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `embedded-finance-kooperation`
 
-**Frühere Beschreibung:** Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken.
+**Fokus:** Embedded-Finance-Kooperationen prüfen: Händler, Plattform, Bank, Zahlungsdienstleister, Kreditangebot, Vermittlung, Scoring, Datenschutz, Provision und Erlaubnisrisiken.
 
 # Embedded Finance
 
@@ -364,7 +364,7 @@ Vor Ausgabe prüfen:
 
 ## 4. `esg-sustainable-finance`
 
-**Frühere Beschreibung:** ESG und Sustainable Finance in der Bank: Offenlegung, Taxonomie, Green Claims, Kreditpolitik, Anlageprodukte, Reputationsrisiko und Vorstandskommunikation prüfen.
+**Fokus:** ESG und Sustainable Finance in der Bank: Offenlegung, Taxonomie, Green Claims, Kreditpolitik, Anlageprodukte, Reputationsrisiko und Vorstandskommunikation prüfen.
 
 # ESG Sustainable Finance
 
@@ -479,7 +479,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `ewpg-emission-elektronische-wertpapiere`
 
-**Frühere Beschreibung:** Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation.
+**Fokus:** Emission elektronischer Wertpapiere nach eWpG prüfen: Zentralregister, Kryptowertpapierregister, Emissionsbedingungen, Registerangaben, Prospekt, Depot, Vertrieb und Anlegerkommunikation.
 
 # eWpG-Emission
 

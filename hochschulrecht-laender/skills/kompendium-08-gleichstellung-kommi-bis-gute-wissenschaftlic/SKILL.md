@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-gleichstellung-kommi-bis-gute-wissenschaftlic
-description: "hochschulrecht-laender: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (gleichstellung-kommissionen, graduiertenschule-zulassung, grundordnung-und-satzung, gute-wissenschaftliche-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hochschulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gleichstellung Kommissionen, Graduiertenschule Zulassung, Grundordnung Und Satzung, Gute Wissenschaftliche Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - hochschulrecht-laender
+# Arbeitsbereich - Gleichstellung Kommissionen bis Gute Wissenschaftliche Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gleichstellung-kommissionen` | Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler. |
 | `graduiertenschule-zulassung` | Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gleichstellung-kommissionen`
 
-**Frühere Beschreibung:** Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler.
+**Fokus:** Prüft Gleichstellung, Beteiligungsrechte, Kommissionsbesetzung und Verfahrensfehler.
 
 # Gleichstellung in Kommissionen
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 2. `graduiertenschule-zulassung`
 
-**Frühere Beschreibung:** Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz.
+**Fokus:** Prüft Zulassung zur Graduiertenschule, Auswahlkriterien, Betreuung und Rechtsschutz.
 
 # Graduiertenschule Zulassung
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulrecht. Er ist für Hochs
 
 ## 3. `grundordnung-und-satzung`
 
-**Frühere Beschreibung:** Prüft Grundordnung, Satzungskompetenz und Bekanntmachung.
+**Fokus:** Prüft Grundordnung, Satzungskompetenz und Bekanntmachung.
 
 # Grundordnung Und Satzung
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Satzungscheck. Am Ende immer drei Zeilen: **Frist**, **fehlen
 
 ## 4. `gute-wissenschaftliche-praxis`
 
-**Frühere Beschreibung:** Prüft gute wissenschaftliche Praxis und Ombudsverfahren.
+**Fokus:** Prüft gute wissenschaftliche Praxis und Ombudsverfahren.
 
 # Gute Wissenschaftliche Praxis
 

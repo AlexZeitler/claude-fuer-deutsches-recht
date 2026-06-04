@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-abmahnung-markenrech-bis-anmeldung-strategie
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (abmahnung-markenrecht-uwg, euipo-beschwerdekammer-eu-gerichte, absolute-schutzhindernisse-8-markeng-art7-umv, anmeldung-strategie-portfolio) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abmahnung Markenrecht Uwg, Euipo Beschwerdekammer Eu Gerichte, Absolute Schutzhindernisse 8 Markeng Art7 Umv, Anmeldung Strategie Portfolio; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - markenrecht-fashion-luxus
+# Arbeitsbereich - Abmahnung Markenrecht Uwg bis Anmeldung Strategie Portfolio
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abmahnung-markenrecht-uwg` | Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung. |
 | `euipo-beschwerdekammer-eu-gerichte` | EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abmahnung-markenrecht-uwg`
 
-**Frühere Beschreibung:** Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung.
+**Fokus:** Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklärung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprüche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Prüfraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklärung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-löschung.
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung
 
@@ -166,7 +166,7 @@ Bevor die Abmahnung abgeschickt wird, kläre:
 
 ## 2. `euipo-beschwerdekammer-eu-gerichte`
 
-**Frühere Beschreibung:** EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren.
+**Fokus:** EUIPO-Rechtsmittelroute steuern: Beschwerdekammer, Begründung, Belege, Fristen, Amtssprache, Vergleich, Gericht der EU, EuGH-Rechtsmittel und nationale Parallelverfahren.
 
 # EUIPO-Beschwerde und EU-Gerichte
 
@@ -209,7 +209,7 @@ UMV, Verfahrensordnung, EUIPO Guidelines und konkrete Entscheidung live prüfen.
 
 ## 3. `absolute-schutzhindernisse-8-markeng-art7-umv`
 
-**Frühere Beschreibung:** Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort.
+**Fokus:** Absolute Schutzhindernisse bei DPMA- und EUIPO-Anmeldungen prüfen: Unterscheidungskraft, beschreibende Angaben, Freihaltebedürfnis, Täuschung, Sittenverstoß, Hoheitszeichen, Form- und Funktionsausschlüsse, Verkehrsdurchsetzung und Beanstandungsantwort.
 
 # Absolute Schutzhindernisse
 
@@ -254,7 +254,7 @@ Normtext und Behördenpraxis live prüfen: MarkenG, UMV, DPMA-Hinweise, EUIPO Gu
 
 ## 4. `anmeldung-strategie-portfolio`
 
-**Frühere Beschreibung:** Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung.
+**Fokus:** Strategische Markenportfolio-Planung für Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schützen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Prüfraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung.
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-allgemein-bis-gr-portfolio-pflege
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (allgemein, gr-abmahnung-workflow, gr-portfolio-pflege-workflow) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Allgemein, Gr Abmahnung Workflow, Gr Portfolio Pflege Workflow
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. |
 | `gr-abmahnung-workflow` | Workflow Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Fachanwalt Gewerblicher Rechtsschutz-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -176,7 +176,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## 2. `gr-abmahnung-workflow`
 
-**Frühere Beschreibung:** Workflow Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte.
+**Fokus:** Workflow Abmahnung im gewerblichen Rechtsschutz: Berechtigung, Vollmacht, konkrete Verletzungsform, Anspruch, Frist, Unterlassungserklärung modifiziert annehmen. Prüfraster für Markenrecht, Patentrecht, Designrecht, UWG und UrhG. Mustertexte.
 
 # GR: Abmahnung-Workflow
 
@@ -304,7 +304,7 @@ Skill gehört zu `fachanwalt-gewerblicher-rechtsschutz`. Anschluss-Skills: `faev
 
 ## 3. `gr-portfolio-pflege-workflow`
 
-**Frühere Beschreibung:** Schutzrechtsportfolio-Pflege: Jahresgebühren-Fristenplan, Verlängerungsfristen Marke/Patent/Design/Gebrauchsmuster, Löschungsrisiken, DPMA-Statusabfrage, Portfolioaudit, Kostenoptimierung und strategische Aufgabe von Schutzrechten.
+**Fokus:** Schutzrechtsportfolio-Pflege: Jahresgebühren-Fristenplan, Verlängerungsfristen Marke/Patent/Design/Gebrauchsmuster, Löschungsrisiken, DPMA-Statusabfrage, Portfolioaudit, Kostenoptimierung und strategische Aufgabe von Schutzrechten.
 
 # Schutzrechtsportfolio-Pflege
 

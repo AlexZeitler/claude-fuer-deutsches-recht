@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anw-verbindliche-aus-bis-fa-stu-finanztransak
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 05; bündelt 9 frühere Spezialskills (anw-verbindliche-auskunft, erstgespraech-mandatsannahme, fa-stu-betriebspruefung-strafrecht-393-ao, fa-stu-bewertung-immobilien-bewg, fa-stu-bilanzberichtigung-4-abs-2-estg und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Verbindliche Auskunft, Erstgespraech Mandatsannahme, Fa Stu Betriebspruefung Strafrecht 393 Ao, Fa Stu Bewertung Immobilien Bewg und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Verbindliche Auskunft bis Fa Stu Finanztransaktion Abgeltungsteuer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-verbindliche-auskunft` | Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile. |
 | `erstgespraech-mandatsannahme` | Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebührenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebührenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-verbindliche-auskunft`
 
-**Frühere Beschreibung:** Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile.
+**Fokus:** Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile.
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO
 
@@ -208,7 +208,7 @@ Präzise Fragen z. B.:
 
 ## 2. `erstgespraech-mandatsannahme`
 
-**Frühere Beschreibung:** Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebührenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebührenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage.
+**Fokus:** Strukturierter Erstgespraechsleitfaden für Steuerrechtsmandate — Mandatsannahme von der ersten Kontaktaufnahme bis zur Vollmachtserteilung. Anwendungsfall Mandant ruft erstmals an oder kommt zum Erstgespraech Steuerrecht Beratung oder Prozess. Prüfraster Konflikt- und GwG-Check §§ 10 ff. GwG Vollmacht Streitwert Gebührenvereinbarung Fristen-Erstprognose Einspruch § 355 AO Klage FG § 47 FGO BFH-Revision § 120 FGO. Output Mandatsannahme-Dokumentation Vollmacht Gebührenvereinbarung Fristenliste. Abgrenzung zu anw-mandat-triage-steuerrecht mandatsbezogene Triage.
 
 # Erstgespraech und Mandatsannahme im Steuerrecht (Beratung und Prozess)
 
@@ -383,7 +383,7 @@ Frueheres Mandat mit derselben Gegnerin oder gleichem Sachzusammenhang. Pruefung
 
 ## 3. `fa-stu-betriebspruefung-strafrecht-393-ao`
 
-**Frühere Beschreibung:** Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen. Behandelt Belehrungspflicht § 393 Abs. 1 S. 4 AO Verwertungsverbot § 393 Abs. 2 AO und das Verhaeltnis zu § 30 AO Steuergeheimnis. Output Verteidigungsraster fuer parallele Verfahren und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao.
+**Fokus:** Strategischer Skill zur Schnittstelle Aussenpruefung und Steuerstrafverfahren — Mitwirkungspflicht im Besteuerungsverfahren versus Selbstbelastungsfreiheit nach § 393 AO. Anwendungsfall Aussenpruefung mit strafrechtlichen Verdachtsmomenten — Berater muss zwischen Mitwirkung und Schweigen abwaegen. Behandelt Belehrungspflicht § 393 Abs. 1 S. 4 AO Verwertungsverbot § 393 Abs. 2 AO und das Verhaeltnis zu § 30 AO Steuergeheimnis. Output Verteidigungsraster fuer parallele Verfahren und Aktenanforderungs-Liste. Abgrenzung zu fa-stu-steuerhinterziehung-370-ao.
 
 # Aussenpruefung und Strafverfahren — § 393 AO nemo tenetur
 
@@ -434,7 +434,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `fa-stu-bewertung-immobilien-bewg`
 
-**Frühere Beschreibung:** Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg.
+**Fokus:** Bewertung von Grundvermoegen fuer Zwecke der Erbschaft- und Schenkungsteuer — Vergleichswertverfahren Ertragswertverfahren Sachwertverfahren nach §§ 176 ff. BewG sowie Nachweis des niedrigeren gemeinen Werts § 198 BewG. Anwendungsfall Finanzamt setzt einen Bedarfswert fest der erkennbar ueber dem tatsaechlichen Verkehrswert liegt — Mandant moechte niedrigeren Wert nachweisen. Behandelt Verfahrensauswahl Bewertungsparameter Sachverstaendigengutachten und Verfassungsfragen nach Aenderung 2023. Output Pruefraster und Antrag § 198 BewG. Abgrenzung zu fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg.
 
 # Bewertung von Immobilien fuer Erbschaft und Schenkung — §§ 176 ff. BewG
 
@@ -486,7 +486,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 5. `fa-stu-bilanzberichtigung-4-abs-2-estg`
 
-**Frühere Beschreibung:** Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerrecht — Korrektur unrichtiger Bilanzansatzfehler und Wahlrechtsausuebung in Folgejahren. Anwendungsfall Aussenpruefung deckt Bilanzansatzfehler auf oder Steuerpflichtiger will ein Wahlrecht (z. B. § 6b EStG Ruecklage) nachtraeglich anders ausueben. Behandelt Bilanzzusammenhang fortgefuehrte Werte und das Verhaeltnis zur Verfahrensaenderung § 173 AO. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-handels-vs-steuerbilanz.
+**Fokus:** Praxis-Skill zur Bilanzberichtigung und Bilanzaenderung im Steuerrecht — Korrektur unrichtiger Bilanzansatzfehler und Wahlrechtsausuebung in Folgejahren. Anwendungsfall Aussenpruefung deckt Bilanzansatzfehler auf oder Steuerpflichtiger will ein Wahlrecht (z. B. § 6b EStG Ruecklage) nachtraeglich anders ausueben. Behandelt Bilanzzusammenhang fortgefuehrte Werte und das Verhaeltnis zur Verfahrensaenderung § 173 AO. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-handels-vs-steuerbilanz.
 
 # Bilanzberichtigung und Bilanzaenderung — § 4 Abs. 2 EStG
 
@@ -537,7 +537,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 6. `fa-stu-doppelbesteuerung-musterabkommen-oecd`
 
-**Frühere Beschreibung:** Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einkuenfte oder Wegzugskonstellation und das Finanzamt fordert deutsche Besteuerung trotz Auslandsbezuegen. Behandelt Begriff der Ansaessigkeit Tie-Breaker Betriebsstaettenbegriff und unilaterale Anrechnungsregeln § 34c EStG. Output DBA-Pruefraster mit Schritt fuer Schritt Anleitung. Abgrenzung zu fa-stu-wegzugsteuer-6-astg und fa-stu-quellensteuer-50a-estg.
+**Fokus:** Anwendung und Auslegung von Doppelbesteuerungsabkommen anhand des OECD-Musterabkommens — Wohnsitz nach Art. 4 Betriebsstaette Art. 5 Unternehmensgewinne Art. 7 Dividenden Zinsen Lizenzgebuehren und Vermeidungsmethoden Anrechnung Freistellung. Anwendungsfall Mandant hat grenzueberschreitende Einkuenfte oder Wegzugskonstellation und das Finanzamt fordert deutsche Besteuerung trotz Auslandsbezuegen. Behandelt Begriff der Ansaessigkeit Tie-Breaker Betriebsstaettenbegriff und unilaterale Anrechnungsregeln § 34c EStG. Output DBA-Pruefraster mit Schritt fuer Schritt Anleitung. Abgrenzung zu fa-stu-wegzugsteuer-6-astg und fa-stu-quellensteuer-50a-estg.
 
 # Doppelbesteuerung und OECD-Musterabkommen — Auslegung deutscher DBA
 
@@ -589,7 +589,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 7. `fa-stu-energiesteuerentlastung`
 
-**Frühere Beschreibung:** Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastung; Hauptzollamt versagt sie wegen Fristversaeumnis oder Fehlerhaftigkeit. Behandelt Antragsfristen Nachweispflicht und Energiemanagementsystem ISO 50001. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-zollwert-unionszollkodex.
+**Fokus:** Bearbeitung von Entlastungsantraegen nach Energiesteuergesetz und Stromsteuergesetz — Spitzenausgleich produzierendes Gewerbe und Land- und Forstwirtschaft. Anwendungsfall Mandant ist energieintensives Unternehmen und beantragt Entlastung; Hauptzollamt versagt sie wegen Fristversaeumnis oder Fehlerhaftigkeit. Behandelt Antragsfristen Nachweispflicht und Energiemanagementsystem ISO 50001. Output Pruefraster und Antragsmuster. Abgrenzung zu fa-stu-zollwert-unionszollkodex.
 
 # Energie- und Stromsteuerentlastung — EnergieStG und StromStG
 
@@ -640,7 +640,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 8. `fa-stu-erbsch-betriebsvermoegen-13a-13b-erbstg`
 
-**Frühere Beschreibung:** Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg.
+**Fokus:** Pruefung der erbschaftsteuerlichen Verschonungsregeln fuer Betriebsvermoegen — Begriff begueenstigtes Vermoegen § 13b ErbStG Verschonungsabschlag 85 Prozent oder Optionsverschonung 100 Prozent Lohnsummen- und Behaltensregel. Anwendungsfall Generationenuebergang im Familienunternehmen — die Verschonung soll moeglichst ausgeschoepft werden ohne Verstoss gegen Behalte- oder Lohnsummenregel. Behandelt 90 Prozent Verwaltungsvermoegenstest Investitionsklausel und Verschonungsbedarfspruefung § 28a ErbStG. Output Pruefraster mit Verschonungsrechner. Abgrenzung zu fa-stu-schenkung-zehnjahresfrist und fa-stu-bewertung-immobilien-bewg.
 
 # Erbschaftsteuerliche Verschonung Betriebsvermoegen — §§ 13a 13b ErbStG
 
@@ -691,7 +691,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 9. `fa-stu-finanztransaktion-abgeltungsteuer`
 
-**Frühere Beschreibung:** Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligungsanteilen ueber 1 Prozent moechte Veranlagung optimieren. Behandelt Antrag auf Guenstigerpruefung Antrag auf Veranlagung Werbungskostenabzugsverbot und das Optionsrecht zum Teileinkuenfteverfahren § 32d Abs. 2 Nr. 3 EStG. Output Entscheidungsbaum mit Berechnung. Abgrenzung zu fa-stu-investmentsteuer-invstg.
+**Fokus:** Bearbeitung der Kapitaleinkuenfte und der Abgeltungsteuer — § 20 EStG § 32d EStG Antragsveranlagung Wahl Teileinkuenfteverfahren bei wesentlichen Beteiligungen. Anwendungsfall Anleger mit ggf. anrechenbarer Quellensteuer oder Beteiligungsanteilen ueber 1 Prozent moechte Veranlagung optimieren. Behandelt Antrag auf Guenstigerpruefung Antrag auf Veranlagung Werbungskostenabzugsverbot und das Optionsrecht zum Teileinkuenfteverfahren § 32d Abs. 2 Nr. 3 EStG. Output Entscheidungsbaum mit Berechnung. Abgrenzung zu fa-stu-investmentsteuer-invstg.
 
 # Abgeltungsteuer und Kapitaleinkuenfte — § 32d EStG und Teileinkuenfteverfahren
 

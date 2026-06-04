@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-ihl-073-insolvency-o-bis-ihl-076-emergency-ar
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (ihl-073-insolvency-of-foreign-buyer, ihl-074-retention-and-setoff, ihl-075-arbitration-evidence, ihl-076-emergency-arbitrator) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 073 Insolvency Of Foreign Buyer, Ihl 074 Retention And Setoff, Ihl 075 Arbitration Evidence, Ihl 076 Emergency Arbitrator; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 073 Insolvency Of Foreign Buyer bis Ihl 076 Emergency Arbitrator
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-073-insolvency-of-foreign-buyer` | Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung. |
 | `ihl-074-retention-and-setoff` | Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-073-insolvency-of-foreign-buyer`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung.
+**Fokus:** Internationales Handelsrecht: Insolvenz des ausländischen Käufers. EuInsVO (EU) 2015/848, Hauptinsolvenzverfahren und Sekundärverfahren, Anmeldepflicht, Sicherungsrechte in der Insolvenz (Eigentumsvorbehalt, Akkreditiv) und COMI-Bestimmung.
 
 # Insolvenz des ausländischen Käufers
 
@@ -81,7 +81,7 @@ EuInsVO (EU) 2015/848: eur-lex.europa.eu. InsO §§ 343 ff.: gesetze-im-internet
 
 ## 2. `ihl-074-retention-and-setoff`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung.
+**Fokus:** Internationales Handelsrecht: Einbehalt und Aufrechnung im internationalen Kaufvertrag. Zurückbehaltungsrecht (CISG Art. 58, BGB § 273), Aufrechnung (BGB §§ 387-396), CISG-Schweigen zur Aufrechnung, grenzüberschreitende Aufrechnung und Insolvenzaufrechnung.
 
 # Zurückbehaltungsrecht und Aufrechnung International
 
@@ -133,7 +133,7 @@ BGB §§ 273, 387-396: gesetze-im-internet.de. CISG Art. 58: uncitral.un.org. PI
 
 ## 3. `ihl-075-arbitration-evidence`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO.
+**Fokus:** Internationales Handelsrecht: Beweisrecht in internationaler Schiedsgerichtsbarkeit. IBA Rules on the Taking of Evidence 2020, Document Production, Zeugenaussagen, Sachverständige, Beweiswürdigung und Verhältnis zu nationaler ZPO.
 
 # Beweisrecht in der internationalen Schiedsgerichtsbarkeit
 
@@ -185,7 +185,7 @@ IBA Rules 2020: ibanet.org. ICC Schiedsregeln 2021: iccwbo.org. § 1042 ZPO: ges
 
 ## 4. `ihl-076-emergency-arbitrator`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen.
+**Fokus:** Internationales Handelsrecht: Notfallschiedsrichter (Emergency Arbitrator) nach ICC Art. 29/Appendix V, LCIA Art. 9B, SIAC Schedule 1. Voraussetzungen, Verfahrensablauf, Vollstreckbarkeit und Verhältnis zu staatlichen einstweiligen Maßnahmen.
 
 # Notfallschiedsrichter (Emergency Arbitrator)
 

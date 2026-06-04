@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 21; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-sector-regulatory-dd, grosskanzlei-corporate-ma-shareholder-loans-subordination, grosskanzlei-corporate-ma-signing-closing-conditions, grosskanzlei-corporate-ma-signing-closing-room-manager, grosskanzlei-corporate-ma-specific-indemnities-risk-transfer und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Sector Regulatory Dd, Grosskanzlei Corporate Ma Shareholder Loans Subordination, Grosskanzlei Corporate Ma Signing Closing Conditions, Grosskanzlei Corporate Ma Signing Closing Room Manager und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Sector Regulatory Dd bis Grosskanzlei Corporate Ma Tabellen Und Matrix Factory
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-sector-regulatory-dd` | Sector Regulatory DD fuer regulierte Targets: prueft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs. |
 | `grosskanzlei-corporate-ma-shareholder-loans-subordination` | Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prueft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-sector-regulatory-dd`
 
-**Frühere Beschreibung:** Sector Regulatory DD fuer regulierte Targets: prueft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs.
+**Fokus:** Sector Regulatory DD fuer regulierte Targets: prueft Erlaubnisse, Aufsicht, Change-of-Control, Inhaberqualifikation, Meldepflichten und regulatorische CPs.
 
 # Sector Regulatory DD
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-shareholder-loans-subordination`
 
-**Frühere Beschreibung:** Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prueft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung.
+**Fokus:** Shareholder Loans, Rangruecktritt und Gesellschafterfinanzierung im M&A: prueft Darlehen, Nachrang, Insolvenznahe, Debt Pushdown, Verzicht und SPA-Behandlung.
 
 # Shareholder Loans Subordination
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-signing-closing-conditions`
 
-**Frühere Beschreibung:** Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung.
+**Fokus:** Signing-to-Closing-Prozess mit Conditions Precedent für M&A-Transaktionen: Anwendungsfall nach Signing muessen alle Closing-Bedingungen erfuellt und Closing Deliverables koordiniert werden. SPA Closing Conditions, § 179a AktG Hauptversammlungsvorbehalt, §§ 35 ff. GWB Kartellfreigabe. Prüfraster alle CPs identifiziert und zugeordnet, Ordinary-Course-Covenants überwacht, Bring-down-Condition aktuell, Funds Flow koordiniert. Output CP-Tracker mit Owner Frist Status und Closing-Checkliste. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Closing-Bible für Archivierung.
 
 # Signing, Closing und Conditions Precedent
 
@@ -427,7 +427,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-signing-closing-room-manager`
 
-**Frühere Beschreibung:** Signing- und Closing-Room-Manager: koordiniert Execution-Versionen, Signaturseiten, CPs, Bring-downs, Funds Flow, Closing Minutes und Post-Closing-Ablage.
+**Fokus:** Signing- und Closing-Room-Manager: koordiniert Execution-Versionen, Signaturseiten, CPs, Bring-downs, Funds Flow, Closing Minutes und Post-Closing-Ablage.
 
 # Signing Closing Room Manager
 
@@ -517,7 +517,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-specific-indemnities-risk-transfer`
 
-**Frühere Beschreibung:** Specific Indemnities und Risk Transfer Skill: entwickelt Sonderfreistellungen, Escrow, W&I-Schnittstellen, Tax Deeds und Risikoallokation fuer erkannte Findings.
+**Fokus:** Specific Indemnities und Risk Transfer Skill: entwickelt Sonderfreistellungen, Escrow, W&I-Schnittstellen, Tax Deeds und Risikoallokation fuer erkannte Findings.
 
 # Specific Indemnities Risk Transfer
 
@@ -607,7 +607,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-steps-plan-pmo`
 
-**Frühere Beschreibung:** Deal-PMO und Steps-Plan für Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs Conditions Precedent. Prüfraster Pflichten Fristen Bedingungen und Deliverables aus Dokumenten extrahieren, Owner zuordnen, Eskalation dokumentieren, woechentliche PMO-Ansicht. Output Steps-Plan mit Aufgaben, Owner, Fristen und Statusampel für alle Deal-Phasen. Abgrenzung zu Fristen-CP-Kalender für Kalender-Ansicht und zu Post-Closing-Integration.
+**Fokus:** Deal-PMO und Steps-Plan für Pre-Signing bis Post-Closing: Anwendungsfall Transaktion braucht praezisen Aufgaben- und Zeitplan aus Vertraegen, DD-Unterlagen und Gremienunterlagen extrahiert. SPA Closing Conditions, CPs Conditions Precedent. Prüfraster Pflichten Fristen Bedingungen und Deliverables aus Dokumenten extrahieren, Owner zuordnen, Eskalation dokumentieren, woechentliche PMO-Ansicht. Output Steps-Plan mit Aufgaben, Owner, Fristen und Statusampel für alle Deal-Phasen. Abgrenzung zu Fristen-CP-Kalender für Kalender-Ansicht und zu Post-Closing-Integration.
 
 # Deal-PMO und Steps Plan
 
@@ -784,7 +784,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-tabellen-und-matrix-factory`
 
-**Frühere Beschreibung:** Tabellen- und Matrix-Fabrik fuer M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen.
+**Fokus:** Tabellen- und Matrix-Fabrik fuer M&A: baut DD-Grids, Risk Heatmaps, Issue Lists, CP-Tracker, Authority-Matrizen, Disclosure-Schedules und Registerabgleich als direkt nutzbare Tabellen.
 
 # Tabellen und Matrix Factory
 

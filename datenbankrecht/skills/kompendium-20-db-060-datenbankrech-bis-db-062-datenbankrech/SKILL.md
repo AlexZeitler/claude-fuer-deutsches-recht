@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-db-060-datenbankrech-bis-db-062-datenbankrech
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (db-060-datenbankrecht-agrar-und-sensordaten, db-061-datenbankrecht-im-logistik-tracking, db-062-datenbankrecht-und-cyberincident) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - datenbankrecht
+# Arbeitsbereich - Db 060 Datenbankrecht Agrar Und Sensordaten, Db 061 Datenbankrecht Im Logistik Tracking, Db 062 Datenbankrecht Und Cyberincident
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-060-datenbankrecht-agrar-und-sensordaten` | Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen. |
 | `db-061-datenbankrecht-im-logistik-tracking` | Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-060-datenbankrecht-agrar-und-sensordaten`
 
-**Frühere Beschreibung:** Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen.
+**Fokus:** Datenbankrecht für Agrar- und Sensordaten: §§ 87a-87e UrhG für Präzisionslandwirtschaftsdatenbanken und IoT-Sensornetzwerke, Data Act (VO 2023/2854) Zugangsrechte für Landwirte, Verhältnis zu Geschäftsgeheimnissen (GeschGehG) bei Erntedaten und DSGVO-Anforderungen bei personenbezogenen Agrardaten. Erstellt Datenstrategie für AgTech-Unternehmen.
 
 # Datenbankrecht für Agrar- und Sensordaten — Präzisionslandwirtschaft und IoT
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-061-datenbankrecht-im-logistik-tracking`
 
-**Frühere Beschreibung:** Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister.
+**Fokus:** Datenbankrecht für Logistik-Tracking-Datenbanken: §§ 87a-87e UrhG für Sendungsverfolgungssysteme und Transportdatenbanken, Data Act (VO 2023/2854) Zugangsrechte für Kunden, Schutz gegen Tracking-Aggregatoren und DSGVO-Anforderungen bei personenbezogenen Lieferdaten. Erstellt Schutzstrategie und Lizenzkonzept für Logistikdienstleister.
 
 # Datenbankrecht im Logistik-Tracking — Sendungsverfolgung und Transportdaten
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-062-datenbankrecht-und-cyberincident`
 
-**Frühere Beschreibung:** Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff oder Datenleck aus eigenem Datenbankbestand. Output: Notfall-Checkliste, Meldepflichtprüfung BSI/Aufsichtsbehörde, Beweissicherungsprotokoll, Schadensersatzansprüche gegen Angreifer und Dritte.
+**Fokus:** Beratung bei Cyberangriffen und Datenbankexfiltration: Prüfung nach §§ 87a-87e UrhG (Herstellerrecht), § 202a StGB (Datenzugang), DSGVO Art. 33-34 (Meldepflicht), NIS2-RL 2022/2555, KRITIS-Dachgesetz. Mandant erlitt Ransomware-Angriff oder Datenleck aus eigenem Datenbankbestand. Output: Notfall-Checkliste, Meldepflichtprüfung BSI/Aufsichtsbehörde, Beweissicherungsprotokoll, Schadensersatzansprüche gegen Angreifer und Dritte.
 
 # Datenbankrecht und Cyberincident: Exfiltration, Meldepflicht, Beweissicherung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-phishing-versicherer-bis-phishing-zivilklage
-description: "phishing-vorfall-pruefer: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (phishing-versicherer-cyber, phishing-vorfall-pruefen, phishing-zivilklage-bank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "phishing-vorfall-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Phishing Versicherer Cyber, Phishing Vorfall Pruefen, Phishing Zivilklage Bank; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - phishing-vorfall-pruefer
+# Arbeitsbereich - Phishing Versicherer Cyber, Phishing Vorfall Pruefen, Phishing Zivilklage Bank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `phishing-versicherer-cyber` | Cyberversicherung pruefen: Deckungsumfang bei Phishing/Social Engineering, Selbstbehalt, Ausschluesse (z. B. grobfahrlaessige Pflichtverletzung). Pruefraster Versicherungsbedingungen. Schadenanzeige § 31 VVG. |
 | `phishing-vorfall-pruefen` | Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `phishing-versicherer-cyber`
 
-**Frühere Beschreibung:** Cyberversicherung pruefen: Deckungsumfang bei Phishing/Social Engineering, Selbstbehalt, Ausschluesse (z. B. grobfahrlaessige Pflichtverletzung). Pruefraster Versicherungsbedingungen. Schadenanzeige § 31 VVG.
+**Fokus:** Cyberversicherung pruefen: Deckungsumfang bei Phishing/Social Engineering, Selbstbehalt, Ausschluesse (z. B. grobfahrlaessige Pflichtverletzung). Pruefraster Versicherungsbedingungen. Schadenanzeige § 31 VVG.
 
 # Cyberversicherung pruefen
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `phishing-vorfall-pruefer`. Er ergaenzt die uebr
 
 ## 2. `phishing-vorfall-pruefen`
 
-**Frühere Beschreibung:** Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin.
+**Fokus:** Prüft Phishing-Vorfall im Online-Banking oder Zahlungsverkehr auf Erstattungsansprüche gegen Zahlungsdienstleister. Anwendungsfall Bankkunde ist Opfer von Phishing pushTAN-Betrug oder Call-ID-Spoofing und Bank verweigert Erstattung. Normen § 675v BGB Haftung Zahler grobe Fahrlässigkeit § 675u BGB Erstattungsanspruch Art. 33 Art. 34 DSGVO Meldepflichten. Prüfraster Online-Banking-Phishing pushTAN Call-ID-Spoofing grobe Fahrlässigkeit Beweislast Banklogs Ombudsmann. Output Prüfvermerk mit Haftungseinschaetzung Beweisanforderungen und Klage- oder Ombudsmannweg gegen Bank. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und datenschutzrecht-Plugin.
 
 # Phishing-Vorfall Prüfen
 
@@ -274,7 +274,7 @@ Anlagen: Chronologie des Vorfalls (Anlage K1), Kontoauszug (Anlage K2)
 
 ## 3. `phishing-zivilklage-bank`
 
-**Frühere Beschreibung:** Zivilklage gegen Bank wenn Rueckbuchung verweigert: § 675u BGB Anspruch, Beweislast bei Bank Authentifizierung. Output: Klageentwurf vor LG. Streitwert Schadenshoehe. Mandantenrechtsanspruch auf Datenherausgabe (Logs, Beweise).
+**Fokus:** Zivilklage gegen Bank wenn Rueckbuchung verweigert: § 675u BGB Anspruch, Beweislast bei Bank Authentifizierung. Output: Klageentwurf vor LG. Streitwert Schadenshoehe. Mandantenrechtsanspruch auf Datenherausgabe (Logs, Beweise).
 
 # Zivilklage gegen Bank
 

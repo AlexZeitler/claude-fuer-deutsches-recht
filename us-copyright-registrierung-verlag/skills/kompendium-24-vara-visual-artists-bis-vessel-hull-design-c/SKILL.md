@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-vara-visual-artists-bis-vessel-hull-design-c
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (vara-visual-artists-rights, verlags-batchplan-serien-und-backlist, versand-aus-deutschland-zoll-tracking, vessel-hull-design-ch13) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vara Visual Artists Rights, Verlags Batchplan Serien Und Backlist, Versand Aus Deutschland Zoll Tracking, Vessel Hull Design Ch13; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Vara Visual Artists Rights bis Vessel Hull Design Ch13
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vara-visual-artists-rights` | Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen. |
 | `verlags-batchplan-serien-und-backlist` | Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vara-visual-artists-rights`
 
-**Frühere Beschreibung:** Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen.
+**Fokus:** Prueft attribution, integrity, works of visual art, waiver, murals, destruction, modification und moral-rights-nahe Fragen.
 
 # VARA Visual Artists Rights
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `verlags-batchplan-serien-und-backlist`
 
-**Frühere Beschreibung:** Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness.
+**Fokus:** Batchplan für Backlist, Reihen, Neuauflagen und Serien: Priorisierung nach US-Risiko, Marktwert, Rechtekette, Kosten, Deposit-Logistik und Litigation Readiness.
 
 # Verlags-Batchplan, Serien und Backlist
 
@@ -147,7 +147,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `versand-aus-deutschland-zoll-tracking`
 
-**Frühere Beschreibung:** Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits.
+**Fokus:** Versand aus Deutschland: Kurierauswahl, Zollbeschreibung, Nominalwert, Tracking, Zustellnachweis und saubere Akte für physische Copyright-Deposits.
 
 # Versand aus Deutschland, Zoll und Tracking
 
@@ -199,7 +199,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `vessel-hull-design-ch13`
 
-**Frühere Beschreibung:** Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung.
+**Fokus:** Prueft Schutz von Original Vessel Hull Designs, registration, term, infringement und Produktdesign-Abgrenzung.
 
 # Vessel Hull Design Chapter 13
 

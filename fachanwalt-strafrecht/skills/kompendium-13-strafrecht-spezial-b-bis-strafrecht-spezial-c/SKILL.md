@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-strafrecht-spezial-b-bis-strafrecht-spezial-c
-description: "fachanwalt-strafrecht: Konsolidiertes Skill-Kompendium 13; bündelt 10 frühere Spezialskills (strafrecht-spezial-betrug-263-stgb-grundtatbestand, strafrecht-spezial-btmg-29-grundtatbestand, strafrecht-spezial-btmg-29a-nicht-geringe-menge, strafrecht-spezial-btmg-30-handeltreiben, strafrecht-spezial-btmg-30a-schwerer-bandenhandel und 5 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafrecht Spezial Betrug 263 Stgb Grundtatbestand, Strafrecht Spezial Btmg 29 Grundtatbestand, Strafrecht Spezial Btmg 29a Nicht Geringe Menge, Strafrecht Spezial Btmg 30 Handeltreiben und 6 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - fachanwalt-strafrecht
+# Arbeitsbereich - Strafrecht Spezial Betrug 263 Stgb Grundtatbestand bis Strafrecht Spezial Cannabis Uebergangsregeln Altfaelle Amnestie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafrecht-spezial-betrug-263-stgb-grundtatbestand` | Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand fuer Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo fuer Akte und Mandanten plus Pruefraster fuer Plaedoyer. |
 | `strafrecht-spezial-btmg-29-grundtatbestand` | BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster fuer Verteidigung und Strafzumessung. |
@@ -26,16 +26,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafrecht-spezial-betrug-263-stgb-grundtatbestand`
 
-**Frühere Beschreibung:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand fuer Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo fuer Akte und Mandanten plus Pruefraster fuer Plaedoyer.
+**Fokus:** Betrug § 263 StGB Grundtatbestand: Anwendungsfall Verteidigung eines Beschuldigten oder Beistand fuer Geschaedigten in einem Vorwurf nach § 263 Abs. 1 StGB ausserhalb der Qualifikationen. Taeuschung ueber Tatsachen, Irrtum, Vermoegensverfuegung und Vermoegensschaden inklusive Stoffgleichheit und Bereicherungsabsicht. Pruefraster zur Subsumtion, typische Verteidigungsansaetze (kein Schaden, kein Irrtum, kein Vorsatz), Trade-offs zwischen Einstellung Schweigen Einlassung und Verstaendigung. Output Memo fuer Akte und Mandanten plus Pruefraster fuer Plaedoyer.
 
 # Betrug § 263 StGB — Grundtatbestand
 
@@ -155,7 +155,7 @@ Abzugrenzen: Qualifizierter Betrug § 263 Abs. 3 StGB (Regelbeispiele) — eigen
 
 ## 2. `strafrecht-spezial-btmg-29-grundtatbestand`
 
-**Frühere Beschreibung:** BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster fuer Verteidigung und Strafzumessung.
+**Fokus:** BtMG-Grundtatbestand § 29 Abs. 1 BtMG: Anbau, Herstellung, Handel, Ein- und Ausfuhr, Erwerb, Besitz von Betaeubungsmitteln. Strafrahmen bis fuenf Jahre Freiheitsstrafe oder Geldstrafe. Abgrenzung zu KCanG seit 01.04.2024. Pruefraster fuer Verteidigung und Strafzumessung.
 
 # § 29 BtMG Grundtatbestand: Anbau, Erwerb, Besitz, Handeltreiben
 
@@ -257,7 +257,7 @@ Tatbestandsausschluss durch Erlaubnis (§ 3 BtMG, Bundesopiumstelle BfArM).
 
 ## 3. `strafrecht-spezial-btmg-29a-nicht-geringe-menge`
 
-**Frühere Beschreibung:** BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Pruefraster und Verteidigungsstrategie.
+**Fokus:** BtMG-Qualifikation § 29a BtMG: nicht geringe Menge. Verbrechen mit Mindeststrafe ein Jahr Freiheitsstrafe. BGH-Mengen-Faustregeln Heroin, Kokain, Amphetamin, MDMA. Minder schwerer Fall § 29a Abs. 2 BtMG. Pruefraster und Verteidigungsstrategie.
 
 # § 29a BtMG: Nicht geringe Menge
 
@@ -357,7 +357,7 @@ Beispiel: 50 g Kokain mit 70 Prozent Wirkstoffgehalt = 35 g KHC. Damit deutlich 
 
 ## 4. `strafrecht-spezial-btmg-30-handeltreiben`
 
-**Frühere Beschreibung:** § 30 BtMG: bandenmaessiges, gewerbsmaessiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Pruefraster Bande, Waffenbegriff, minder schwerer Fall.
+**Fokus:** § 30 BtMG: bandenmaessiges, gewerbsmaessiges und mit Schusswaffe gefuehrtes Handeltreiben mit BtM. Verbrechen mit zwei Jahren Mindeststrafe. Abgrenzung zu § 30a BtMG. Pruefraster Bande, Waffenbegriff, minder schwerer Fall.
 
 # § 30 BtMG: Qualifikationen Banden-, Gewerbs- und Waffenhandel
 
@@ -453,7 +453,7 @@ Stoffliche Erfassung wie § 29 BtMG; setzt nicht geringe Menge nicht voraus, jed
 
 ## 5. `strafrecht-spezial-btmg-30a-schwerer-bandenhandel`
 
-**Frühere Beschreibung:** § 30a BtMG: schwerer Banden- und bewaffneter Handel. Verbrechen mit fuenf Jahren Mindeststrafe. Abs. 1 Bandenhandel mit nicht geringer Menge. Abs. 2 Schusswaffe oder gefaehrliche Werkzeuge. Minder schwerer Fall Abs. 3.
+**Fokus:** § 30a BtMG: schwerer Banden- und bewaffneter Handel. Verbrechen mit fuenf Jahren Mindeststrafe. Abs. 1 Bandenhandel mit nicht geringer Menge. Abs. 2 Schusswaffe oder gefaehrliche Werkzeuge. Minder schwerer Fall Abs. 3.
 
 # § 30a BtMG: Schwerer Bandenhandel
 
@@ -549,7 +549,7 @@ Mengen wie § 29a BtMG (BGH-Faustregeln): Heroin 1.5 g HHC, Kokain 5 g KHC, Amph
 
 ## 6. `strafrecht-spezial-btmg-31-aufklaerungshilfe-kronzeuge`
 
-**Frühere Beschreibung:** § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB grosse Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz.
+**Fokus:** § 31 BtMG kleine Kronzeugenregelung: Strafmilderung oder Absehen von Strafe bei wesentlicher Aufklaerungshilfe. Abgrenzung zu § 46b StGB grosse Kronzeugenregelung. Voraussetzungen, Verhandlungstaktik, Zeugenschutz.
 
 # § 31 BtMG: Kleine Kronzeugenregelung Aufklaerungshilfe
 
@@ -653,7 +653,7 @@ Wir beantragen Strafrahmenverschiebung nach § 49 Abs. 1 StGB, hilfsweise Absehe
 
 ## 7. `strafrecht-spezial-btmg-35-therapie-statt-strafe`
 
-**Frühere Beschreibung:** § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie. Voraussetzungen Abhaengigkeit, Reststrafe bis zwei Jahre, Therapiezusage. Verfahren mit Vollstreckungsbehoerde, Therapieabbruch, Strafrest-Aussetzung § 36 BtMG.
+**Fokus:** § 35 BtMG Zurueckstellung der Strafvollstreckung zugunsten einer Therapie. Voraussetzungen Abhaengigkeit, Reststrafe bis zwei Jahre, Therapiezusage. Verfahren mit Vollstreckungsbehoerde, Therapieabbruch, Strafrest-Aussetzung § 36 BtMG.
 
 # § 35 BtMG: Therapie statt Strafe
 
@@ -756,7 +756,7 @@ Ich beantrage die Zurueckstellung gemaess § 35 BtMG und vorlaeufige Aussetzung 
 
 ## 8. `strafrecht-spezial-btmg-konsumeigenbedarf-verteidigung`
 
-**Frühere Beschreibung:** Eigenbedarfsverteidigung im BtMG/KCanG: § 31a BtMG Absehen von Strafverfolgung, § 153 sowie § 153a StPO, Konsumeinheiten-Argumentation, Abgrenzung zum Handeltreiben. Suchtgutachten und Therapieanbahnung als Verteidigungsbausteine.
+**Fokus:** Eigenbedarfsverteidigung im BtMG/KCanG: § 31a BtMG Absehen von Strafverfolgung, § 153 sowie § 153a StPO, Konsumeinheiten-Argumentation, Abgrenzung zum Handeltreiben. Suchtgutachten und Therapieanbahnung als Verteidigungsbausteine.
 
 # BtMG/KCanG: Konsumeigenbedarfs-Verteidigung
 
@@ -872,7 +872,7 @@ Bei der nicht geringen Menge (§ 29a BtMG, § 35 KCanG) ist die reine Eigenbedar
 
 ## 9. `strafrecht-spezial-btmg-nicht-geringe-menge-grenzen`
 
-**Frühere Beschreibung:** Praxis-Mengen-Tabelle nicht geringe Menge: Cannabis, Heroin, Kokain, Amphetamin, MDMA, Methamphetamin, LSD. BGH-Faustregeln zur Wirkstoffmenge. Berechnungsformel, Streckmittel, Mischpraeparate. Pruefraster fuer Verteidiger.
+**Fokus:** Praxis-Mengen-Tabelle nicht geringe Menge: Cannabis, Heroin, Kokain, Amphetamin, MDMA, Methamphetamin, LSD. BGH-Faustregeln zur Wirkstoffmenge. Berechnungsformel, Streckmittel, Mischpraeparate. Pruefraster fuer Verteidiger.
 
 # BtMG: Mengen-Tabelle nicht geringe Menge
 
@@ -990,7 +990,7 @@ Die nicht geringe Menge ([Schwelle] g) wird damit [Faktor]-fach erreicht/untersc
 
 ## 10. `strafrecht-spezial-cannabis-uebergangsregeln-altfaelle-amnestie`
 
-**Frühere Beschreibung:** Cannabis-Uebergangsregeln 01.04.2024: Altfaelle nach BtMG vor KCanG-Inkrafttreten, Amnestie-Regelung Art. 13 KCanG-Einfuehrungsgesetz, milderes Gesetz § 2 Abs. 3 StGB, Tilgung Bundeszentralregister, Wiederaufnahme.
+**Fokus:** Cannabis-Uebergangsregeln 01.04.2024: Altfaelle nach BtMG vor KCanG-Inkrafttreten, Amnestie-Regelung Art. 13 KCanG-Einfuehrungsgesetz, milderes Gesetz § 2 Abs. 3 StGB, Tilgung Bundeszentralregister, Wiederaufnahme.
 
 # Cannabis: Uebergangsregeln Altfaelle und Amnestie
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-bericht-ausland-toch-bis-bericht-fuhrpark-tel
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (bericht-ausland-tochter-de-pflichten, bericht-emissionshandel-tehg-dehst, bericht-fuhrpark-telemetrie-datenschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Ausland Tochter De Pflichten, Bericht Emissionshandel Tehg Dehst, Bericht Fuhrpark Telemetrie Datenschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-ausland-tochter-de-pflichten` | Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen. |
 | `bericht-emissionshandel-tehg-dehst` | EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-ausland-tochter-de-pflichten`
 
-**Frühere Beschreibung:** Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen.
+**Fokus:** Auslandstochter/deutsches Unternehmen: AWV, Konzernbericht, Lieferkette, Steuer, Beschäftigte und Statistik-Schnittstellen.
 
 # Auslandstöchter und deutsche Berichtspflichten
 
@@ -66,7 +66,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-emissionshandel-tehg-dehst`
 
-**Frühere Beschreibung:** EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen.
+**Fokus:** EU-Emissionshandel: Monitoringkonzept, jährlicher Emissionsbericht, Verifizierung, Abgabe von Zertifikaten und DEHSt-Fristen.
 
 # TEHG Emissionsbericht und DEHSt
 
@@ -104,7 +104,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-fuhrpark-telemetrie-datenschutz`
 
-**Frühere Beschreibung:** Fuhrparkdaten: Fahrer, Unfall, Fahrtenbuch, Maut, Tachograf, Telematik, Datenschutz und Steuer-/Arbeitsrecht.
+**Fokus:** Fuhrparkdaten: Fahrer, Unfall, Fahrtenbuch, Maut, Tachograf, Telematik, Datenschutz und Steuer-/Arbeitsrecht.
 
 # Fuhrpark, Telemetrie und Meldedaten
 

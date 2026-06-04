@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-spezial-schutzrechts-bis-spezial-klausel-bewe
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (spezial-schutzrechts-fristennotiz-und-naechster-schritt, ip-klausel-pruefung, spezial-klausel-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Pruefung, Klausel Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Schutzrechts Fristennotiz Und Naechster Schritt, Ip Klausel Pruefung, Klausel Beweislast Und Darlegungslast
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-schutzrechts-fristennotiz-und-naechster-schritt` | Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant. |
 | `ip-klausel-pruefung` | Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-schutzrechts-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant.
+**Fokus:** Schutzrechts-Fristennotiz und nächster Schritt: Schnellerfassung aller relevanten Fristen bei einem IP-Mandat, sofortige Bewertung der Handlungsdringlichkeit und konkreter nächster Schritt für Anwalt und Mandant.
 
 # Spezial: Schutzrechts-Fristennotiz und nächster Schritt
 
@@ -206,7 +206,7 @@ Bis wann: 15.04.2025 (Puffer von 2 Wochen vor Fristende)
 
 ## 2. `ip-klausel-pruefung`
 
-**Frühere Beschreibung:** Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance).
+**Fokus:** Anwalt prüft Vertrag auf IP-Klauseln (Übertragung Lizenz Inhaberschaft Freistellung) oder Mandant fragt nach Risiken. IP-Klauseln Vertragsrecht. Prüfraster: Übertragung Inhaberschaft Lizenzgewaehrung exklusiv/nicht-exklusiv Gewährleistung Freistellung Reichweite. Output: IP-Klausel-Prüfbericht mit Risikokennzeichnung und Aenderungsvorschlaegen. Abgrenzung zu unterlassungsverlangen (Verletzung) und open-source-prüfung (OSS-Compliance).
 
 # IP-Klausel-Prüfung
 
@@ -461,7 +461,7 @@ Frontmatter unverändert. Kein Commit. Bearbeiter: Halluzinations-Reparatur-Pipe
 
 ## 3. `spezial-klausel-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen.
+**Fokus:** Beweislast und Darlegungslast im gewerblichen Rechtsschutz: Wer muss was beweisen bei Marken-, Patent-, Design-, Urheber- und UWG-Verletzungen? Beweislastumkehr, sekundäre Darlegungslast, Beweiserleichterungen und praktische Konsequenzen.
 
 # Spezial: Klausel – Beweislast und Darlegungslast im IP-Recht
 

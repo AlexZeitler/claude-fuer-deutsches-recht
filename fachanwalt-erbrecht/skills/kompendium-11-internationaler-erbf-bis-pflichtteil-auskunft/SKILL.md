@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-internationaler-erbf-bis-pflichtteil-auskunft
-description: "fachanwalt-erbrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (internationaler-erbfall-eu-erbvo, mandat-triage-erbrecht, pflichtteil-auskunft-wertermittlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-erbrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - fachanwalt-erbrecht
+# Arbeitsbereich - Internationaler Erbfall Eu Erbvo, Mandat Triage Erbrecht, Pflichtteil Auskunft Wertermittlung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `internationaler-erbfall-eu-erbvo` | Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.; Normanker: EuErbVO; FamFG; GBO; IPR; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
 | `mandat-triage-erbrecht` | Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `internationaler-erbfall-eu-erbvo`
 
-**Frühere Beschreibung:** Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.; Normanker: EuErbVO; FamFG; GBO; IPR; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.; Normanker: EuErbVO; FamFG; GBO; IPR; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Internationaler Erbfall: gewöhnlicher Aufenthalt, Rechtswahl, Europäisches Nachlasszeugnis, Auslandsvermögen und Grundbuch.
 
@@ -61,7 +61,7 @@ EuErbVO; FamFG; GBO; IPR. Rechtsprechung wird nur mit Gericht, Datum, Aktenzeich
 
 ## 2. `mandat-triage-erbrecht`
 
-**Frühere Beschreibung:** Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
+**Fokus:** Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Prüfraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills.
 
 # Mandat-Triage Erbrecht
 
@@ -214,7 +214,7 @@ Erbrechtsmandate sind zeitkritisch (Ausschlagungsfrist) und psychologisch sensib
 
 ## 3. `pflichtteil-auskunft-wertermittlung`
 
-**Frühere Beschreibung:** Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.; Normanker: BGB §§ 2303 und 2314 und 2325; ZPO Stufenklage; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.; Normanker: BGB §§ 2303 und 2314 und 2325; ZPO Stufenklage; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Pflichtteil: Auskunft, notarielles Nachlassverzeichnis, Wertermittlung, Ergänzung und taktische Stufenklage.
 

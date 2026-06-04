@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-trans-cmr-frachtbrie-bis-trans-kabotage-markt
-description: "fachanwalt-transport-speditionsrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (trans-cmr-frachtbrief-checkliste, trans-hgb-spedition-leitfaden, trans-kabotage-marktzugang-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-transport-speditionsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-transport-speditionsrecht
+# Arbeitsbereich - Trans Cmr Frachtbrief Checkliste, Trans Hgb Spedition Leitfaden, Trans Kabotage Marktzugang Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `trans-cmr-frachtbrief-checkliste` | Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger. |
 | `trans-hgb-spedition-leitfaden` | Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `trans-cmr-frachtbrief-checkliste`
 
-**Frühere Beschreibung:** Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger.
+**Fokus:** Checkliste CMR-Frachtbrief: Pflichtangaben Art. 6 CMR, Haftung Frachtfuehrer Art. 17, Hoechsthaftung 8.33 SZR pro Kilogramm. Pruefraster Schadensanzeige Empfaenger.
 
 # Trans: CMR-Frachtbrief
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-transport-speditionsrecht`. Er ergae
 
 ## 2. `trans-hgb-spedition-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber.
+**Fokus:** Leitfaden HGB-Spedition §§ 453 ff. HGB: Speditionsvertrag, Fixkostenspedition, Sammelladungsspedition, ADSp 2017. Pruefraster Spediteur und Auftraggeber.
 
 # Trans: HGB-Spedition
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-transport-speditionsrecht`. Er ergae
 
 ## 3. `trans-kabotage-marktzugang-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat.
+**Fokus:** Spezialfall Kabotage und Marktzugang EU VO 1072 / 2009 und Mobility Package: zulaessige Kabotagebefoerderungen, Mindestlohn, Entsenderecht. Pruefraster Frachtfuehrer aus Drittstaat.
 
 # Trans: Kabotage Mobility Package
 

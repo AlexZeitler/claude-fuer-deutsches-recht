@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-fran-045-schadensers-bis-fran-004-systemhandb
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (fran-045-schadensersatz-wegen-falschaufklaerung, fran-rs-master-franchise-und-grenzueberschreitende-expansion, fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechtsnatur Und Aenderungsrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - franchiserecht-praxis
+# Arbeitsbereich - Fran 045 Schadensersatz Wegen Falschaufklaerung, Fran Rs Master Franchise Und Grenzueberschreitende Expansion, Fran 004 Systemhandbuch Rechts
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-045-schadensersatz-wegen-falschaufklaerung` | Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren. |
 | `fran-rs-master-franchise-und-grenzueberschreitende-expansion` | Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-045-schadensersatz-wegen-falschaufklaerung`
 
-**Frühere Beschreibung:** Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren.
+**Fokus:** Schadensersatzklage wegen Falschaufklärung im Franchiserecht vorbereiten: Anspruchsgrundlagen §§ 280 und 311 BGB, Kausalität, Schadensberechnung (negatives Interesse), Verjährung, Anfechtung nach § 123 BGB und Beweisführung im Klageverfahren.
 
 # Franchiserecht: Schadensersatz wegen Falschaufklärung
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-rs-master-franchise-und-grenzueberschreitende-expansion`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Master-Franchise und grenzüberschreitende Expansion: Master-Franchise, Development Schedule, Subfranchising, Quellensteuer, Exportkontrolle und Lokalisierung werden in einem Internationalisierungsmodell gebündelt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Master-Franchise und grenzüberschreitende Expansion
 
@@ -150,7 +150,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `fran-004-systemhandbuch-rechtsnatur-und-aenderungsrechte`
 
-**Frühere Beschreibung:** Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen.
+**Fokus:** Rechtsnatur des Systemhandbuchs im Franchiserecht klären: AGB-Einbeziehung, einseitige Änderungsrechte des Franchisegebers, Grenzen nach §§ 307 ff. BGB und Systemtreuepflicht nach § 242 BGB. Know-how-Schutz nach GeschGehG einbeziehen.
 
 # Franchiserecht: Systemhandbuch – Rechtsnatur und Änderungsrechte
 

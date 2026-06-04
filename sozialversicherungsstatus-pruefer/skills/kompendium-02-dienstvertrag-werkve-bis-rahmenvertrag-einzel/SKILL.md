@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-dienstvertrag-werkve-bis-rahmenvertrag-einzel
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (dienstvertrag-werkvertrag-status, freie-mitarbeit-klauseln, honorarvertrag-realitaetscheck, rahmenvertrag-einzelauftrag) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dienstvertrag Werkvertrag Status, Freie Mitarbeit Klauseln, Honorarvertrag Realitaetscheck, Rahmenvertrag Einzelauftrag; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Dienstvertrag Werkvertrag Status bis Rahmenvertrag Einzelauftrag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dienstvertrag-werkvertrag-status` | Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen. |
 | `freie-mitarbeit-klauseln` | Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dienstvertrag-werkvertrag-status`
 
-**Frühere Beschreibung:** Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen.
+**Fokus:** Prüft, wie Dienst- oder Werkvertragskonstruktionen statusrechtlich wirken und wo sie täuschen.
 
 # Dienst-/Werkvertrag im Statusrecht
 
@@ -94,7 +94,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `freie-mitarbeit-klauseln`
 
-**Frühere Beschreibung:** Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance.
+**Fokus:** Entwirft statusbewusste Klauseln zu Weisungsfreiheit, Vertretung, Betriebsmitteln, Vergütung, IP und Compliance.
 
 # Freie-Mitarbeit-Klauseln
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `honorarvertrag-realitaetscheck`
 
-**Frühere Beschreibung:** Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen.
+**Fokus:** Prüft Honorarverträge darauf, ob sie Statusrisiken nur sprachlich kaschieren oder wirklich lösen.
 
 # Honorarvertrag Realitätscheck
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `rahmenvertrag-einzelauftrag`
 
-**Frühere Beschreibung:** Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung.
+**Fokus:** Prüft Rahmenverträge, Einzelabrufe, Statements of Work und tatsächliche Projektsteuerung.
 
 # Rahmenvertrag und Einzelauftrag
 

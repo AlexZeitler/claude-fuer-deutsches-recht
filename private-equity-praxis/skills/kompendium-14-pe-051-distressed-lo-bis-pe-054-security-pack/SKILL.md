@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-pe-051-distressed-lo-bis-pe-054-security-pack
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (pe-051-distressed-loan-to-own, pe-052-intercreditor-und-sicherheitenagent, pe-053-covenants-defaults-waiver, pe-054-security-package-germany) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 051 Distressed Loan To Own, Pe 052 Intercreditor Und Sicherheitenagent, Pe 053 Covenants Defaults Waiver, Pe 054 Security Package Germany; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - private-equity-praxis
+# Arbeitsbereich - Pe 051 Distressed Loan To Own bis Pe 054 Security Package Germany
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-051-distressed-loan-to-own` | Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement. |
 | `pe-052-intercreditor-und-sicherheitenagent` | Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-051-distressed-loan-to-own`
 
-**Frühere Beschreibung:** Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement.
+**Fokus:** Prüft Erwerb notleidender Forderungen mit Ziel Kontrolle, Debt-Equity-Swap, Insolvenzplan oder Enforcement.
 
 # Distressed Debt und Loan-to-Own
 
@@ -70,7 +70,7 @@ InsO, StaRUG, BGB Abtretung, Sicherheiten, Kartell/FDI, MAR bei börsennahen Tar
 
 ## 2. `pe-052-intercreditor-und-sicherheitenagent`
 
-**Frühere Beschreibung:** Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben.
+**Fokus:** Prüft Rang, Enforcement Waterfall, Sicherheitenagent, Garantie, Upstream/Side-stream Security und Freigaben.
 
 # Intercreditor, Security Agent und Sicherheitenpool
 
@@ -111,7 +111,7 @@ BGB/Sachenrecht, GmbHG § 30, AktG Kapitalerhaltung, Insolvenzrecht, LMA-Upload.
 
 ## 3. `pe-053-covenants-defaults-waiver`
 
-**Frühere Beschreibung:** Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess.
+**Fokus:** Prüft Financial Covenants, Information Undertakings, MAC, Events of Default, Cure Rights und Waiver-Prozess.
 
 # Covenants, Defaults und Waiver
 
@@ -152,7 +152,7 @@ Kreditvertrag, BGB, InsO/StaRUG Frühwarnung, Geschäftsleiterpflichten.
 
 ## 4. `pe-054-security-package-germany`
 
-**Frühere Beschreibung:** Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck.
+**Fokus:** Prüft GmbH-Anteile, Konten, Forderungen, IP, Warenlager, Grundschuld, Garantie und Sicherheitenzweck.
 
 # Deutsches Sicherheitenpaket
 

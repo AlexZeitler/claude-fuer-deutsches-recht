@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-spezial-dpma-mehrpar-bis-spezial-euipo-intern
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (spezial-dpma-mehrparteien-konflikt-und-interessen, spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage, spezial-euipo-internationaler-bezug-und-schnittstellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnittstellen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Dpma Mehrparteien Konflikt Und Interessen, Einstweilige Mandantenkommunikation Entscheidungsvorlage, Euipo Internationaler Bezug Und Schnitts
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-dpma-mehrparteien-konflikt-und-interessen` | DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie. |
 | `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage` | Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-dpma-mehrparteien-konflikt-und-interessen`
 
-**Frühere Beschreibung:** DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
+**Fokus:** DPMA-Mehrparteienverfahren: Widerspruchsverfahren MarkenG §§ 41–43, Verfalls- und Nichtigkeitsverfahren, Beschwerde zum BPatG, Beteiligtenrechte, Kollidierende Interessen mehrerer Schutzrechtsinhaber, Prioritätskonflikte, Verfahrensstrategie.
 
 # DPMA-Mehrparteienverfahren: Konflikte und Interessen
 
@@ -155,7 +155,7 @@ Beschwerde beim BPatG (§ 66 MarkenG) → Rechtsbeschwerde BGH
 
 ## 2. `spezial-einstweilige-mandantenkommunikation-entscheidungsvorlage`
 
-**Frühere Beschreibung:** Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation.
+**Fokus:** Mandantenkommunikation im Eilverfahren: Entscheidungsvorlage für einstweilige Verfügung, Risiko-Chancen-Abwägung, Kostenaufklärung § 49b BRAO, Mandantenbrief EV-Antrag oder Reaktion auf EV, Informationspflichten und Dokumentation.
 
 # Mandantenkommunikation: Entscheidungsvorlage Eilverfügung
 
@@ -294,7 +294,7 @@ Wir empfehlen [Option] weil [Begründung].
 
 ## 3. `spezial-euipo-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System.
+**Fokus:** EUIPO: Internationale Schnittstellen und Verfahren. Unionsmarke UMV, GGM-Verfahren, EUIPO-Beschwerdekammer, EuGH-Vorabentscheidungen, IR-Marke Madrider System, TM5/IP5, WIPO-Schnittstellen, nationale Designierung über Hague-System.
 
 # EUIPO: Internationale Bezüge und Schnittstellen
 

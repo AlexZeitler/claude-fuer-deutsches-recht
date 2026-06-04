@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-vbr-003-unternehmerr-bis-vbr-007-digitale-pro
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (vbr-003-unternehmerrolle-und-plattformrolle-pr, vbr-004-informationspflichten-matrix-bauen, vbr-005-widerrufsrecht-und-erloeschen-pruefen, vbr-007-digitale-produkte-und-updatepflichten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 003 Unternehmerrolle Und Plattformrolle Pr, Vbr 004 Informationspflichten Matrix Bauen, Vbr 005 Widerrufsrecht Und Erloeschen Pruefen, Vbr 007 Digitale Produkte Und Updatepflichten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 003 Unternehmerrolle Und Plattformrolle Pr bis Vbr 007 Digitale Produkte Und Updatepflichten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-003-unternehmerrolle-und-plattformrolle-pr` | Verbraucherschutzrecht Prüfer: Unternehmerrolle und Plattformrolle prüfen. Unternehmerrolle und Plattformrolle prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vbr-004-informationspflichten-matrix-bauen` | Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-003-unternehmerrolle-und-plattformrolle-pr`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Unternehmerrolle und Plattformrolle prüfen. Unternehmerrolle und Plattformrolle prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Unternehmerrolle und Plattformrolle prüfen. Unternehmerrolle und Plattformrolle prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Unternehmerrolle Und Plattformrolle Pr
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-004-informationspflichten-matrix-bauen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Informationspflichten-Matrix bauen. Informationspflichten-Matrix bauen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Informationspflichten Matrix Bauen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-005-widerrufsrecht-und-erloeschen-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Widerrufsrecht und Erlöschen prüfen. Widerrufsrecht und Erlöschen prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Widerrufsrecht und Erlöschen prüfen. Widerrufsrecht und Erlöschen prüfen im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Widerrufsrecht Und Erloeschen Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-007-digitale-produkte-und-updatepflichten`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Produkte und Updatepflichten. Digitale Produkte und Updatepflichten im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Produkte und Updatepflichten. Digitale Produkte und Updatepflichten im Fachgebiet Verbraucherschutzrecht Prüfer als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Digitale Produkte Und Updatepflichten
 

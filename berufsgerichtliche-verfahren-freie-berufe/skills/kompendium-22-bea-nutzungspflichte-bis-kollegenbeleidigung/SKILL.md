@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-bea-nutzungspflichte-bis-kollegenbeleidigung
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (bea-nutzungspflichten, entscheidungsvorlage, kanzleisitz-und-zustellbarkeit, kollegenbeleidigung-unsachlichkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bea Nutzungspflichten, Entscheidungsvorlage, Kanzleisitz Und Zustellbarkeit, Kollegenbeleidigung Unsachlichkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Bea Nutzungspflichten bis Kollegenbeleidigung Unsachlichkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bea-nutzungspflichten` | beA und elektronische Kommunikation: prüft aktive/passive Nutzungspflichten, Fristen, Wiedereinsetzung und Kammerkommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
 | `entscheidungsvorlage` | Entscheidungsvorlage: prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bea-nutzungspflichten`
 
-**Frühere Beschreibung:** beA und elektronische Kommunikation: prüft aktive/passive Nutzungspflichten, Fristen, Wiedereinsetzung und Kammerkommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** beA und elektronische Kommunikation: prüft aktive/passive Nutzungspflichten, Fristen, Wiedereinsetzung und Kammerkommunikation in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # beA und elektronische Kommunikation
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `entscheidungsvorlage`
 
-**Frühere Beschreibung:** Entscheidungsvorlage: prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Entscheidungsvorlage: prüft macht aus der Prüfung eine Entscheidung mit Optionen, Risiken und Empfehlung in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Entscheidungsvorlage
 
@@ -129,7 +129,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `kanzleisitz-und-zustellbarkeit`
 
-**Frühere Beschreibung:** Kanzleisitz und Zustellbarkeit: prüft Kanzleisitz, Zustellungsbevollmächtigter, Erreichbarkeit und Registerdaten prüfen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Kanzleisitz und Zustellbarkeit: prüft Kanzleisitz, Zustellungsbevollmächtigter, Erreichbarkeit und Registerdaten prüfen in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Kanzleisitz und Zustellbarkeit
 
@@ -179,7 +179,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `kollegenbeleidigung-unsachlichkeit`
 
-**Frühere Beschreibung:** Kollegenbeleidigung und Unsachlichkeit: prüft Sachlichkeitsgebot, Meinungsfreiheit, Verhältnismäßigkeit und Verteidigungslinie in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
+**Fokus:** Kollegenbeleidigung und Unsachlichkeit: prüft Sachlichkeitsgebot, Meinungsfreiheit, Verhältnismäßigkeit und Verteidigungslinie in berufsgerichtlichen Verfahren freier Berufe; mit Normencheck, Aktenlog, Verteidigungslinie, Verhältnismäßigkeit und Rechtsmittelspur.
 
 # Kollegenbeleidigung und Unsachlichkeit
 

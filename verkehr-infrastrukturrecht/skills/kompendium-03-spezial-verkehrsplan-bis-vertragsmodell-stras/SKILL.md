@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-verkehrsplan-bis-vertragsmodell-stras
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-verkehrsplanung-fristen-form-und-zustaendigkeit, verkehr-infrastrukturrecht-verfahren, vertragsmodell-strasse-app-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Verkehrsplanung Fristen Form Und Zustaendigkeit, Verkehr Infrastrukturrecht Verfahren, Vertragsmodell Strasse App Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-verkehrsplanung-fristen-form-und-zustaendigkeit` | Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `verkehr-infrastrukturrecht-verfahren` | Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-verkehrsplanung-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin verkehr infrastrukturrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Verkehrsplanung: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `verkehr-infrastrukturrecht-verfahren`
 
-**Frühere Beschreibung:** Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin.
+**Fokus:** Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Prüfraster: Akteneinsicht, Widerspruchs-Begründung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin.
 
 # Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz
 
@@ -212,7 +212,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `vertragsmodell-strasse-app-spezial`
 
-**Frühere Beschreibung:** Spezialfall App- und Plattform-Vertraege im oeffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster fuer Kommunen.
+**Fokus:** Spezialfall App- und Plattform-Vertraege im oeffentlichen Personennahverkehr: Mobility-as-a-Service-Vertraege, Datenraum, P2B-Verordnung, DSGVO, Verkehrsvertraege nach VO 1370/2007. Schiedsklauseln und Vergaberecht. Pruefraster fuer Kommunen.
 
 # OePNV-App und Plattform
 

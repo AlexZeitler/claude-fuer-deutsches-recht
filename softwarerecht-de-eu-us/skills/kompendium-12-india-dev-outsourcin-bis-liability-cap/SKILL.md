@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-india-dev-outsourcin-bis-liability-cap
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (india-dev-outsourcing, investment-term-sheet-software-ip, ip-indemnity, liability-cap) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu India Dev Outsourcing, Investment Term Sheet Software Ip, Ip Indemnity, Liability Cap; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - softwarerecht-de-eu-us
+# Arbeitsbereich - India Dev Outsourcing bis Liability Cap
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `india-dev-outsourcing` | Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement. |
 | `investment-term-sheet-software-ip` | Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `india-dev-outsourcing`
 
-**Frühere Beschreibung:** Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement.
+**Fokus:** Prüft Outsourcing an indische Softwareteams mit IP assignment, Datenschutz, Export, Security und Enforcement.
 
 # India Development Outsourcing
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `investment-term-sheet-software-ip`
 
-**Frühere Beschreibung:** Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties.
+**Fokus:** Prüft Term Sheets für Softwareunternehmen mit IP reps, vesting, founder code, option pool, open source und AI warranties.
 
 # Investment-Term-Sheet Software IP
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `ip-indemnity`
 
-**Frühere Beschreibung:** Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung.
+**Fokus:** Prüft Freistellungen für IP Claims, Open Source, Patente, Third-Party-Code, Remedies und Kontrolle der Verteidigung.
 
 # IP-Indemnity Software
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `liability-cap`
 
-**Frühere Beschreibung:** Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken.
+**Fokus:** Prüft Liability Caps, Ausschlüsse, carve-outs, Datenverlust, Security, IP, Datenschutz und AGB-Risiken.
 
 # Haftungsbegrenzung Software
 

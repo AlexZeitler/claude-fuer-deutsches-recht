@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-btm-054-amphetamin-b-bis-btm-057-amphetamin-e
-description: "betaeubungsmittelrecht: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (btm-054-amphetamin-beweis-sichern, btm-055-amphetamin-einlassung-planen, btm-056-amphetamin-therapiepfad-pruefen, btm-057-amphetamin-erlaubnis-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "betaeubungsmittelrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Btm 054 Amphetamin Beweis Sichern, Btm 055 Amphetamin Einlassung Planen, Btm 056 Amphetamin Therapiepfad Pruefen, Btm 057 Amphetamin Erlaubnis Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - betaeubungsmittelrecht
+# Arbeitsbereich - Btm 054 Amphetamin Beweis Sichern bis Btm 057 Amphetamin Erlaubnis Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `btm-054-amphetamin-beweis-sichern` | Betäubungsmittelrecht: Amphetamin: Beweis sichern. Beweis sichern für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `btm-055-amphetamin-einlassung-planen` | Betäubungsmittelrecht: Amphetamin: Einlassung planen. Einlassung planen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `btm-054-amphetamin-beweis-sichern`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Beweis sichern. Beweis sichern für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Beweis sichern. Beweis sichern für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Beweis Sichern
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `btm-055-amphetamin-einlassung-planen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Einlassung planen. Einlassung planen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Einlassung planen. Einlassung planen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Einlassung Planen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `btm-056-amphetamin-therapiepfad-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Therapiepfad prüfen. Therapiepfad prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Therapiepfad prüfen. Therapiepfad prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Therapiepfad Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `btm-057-amphetamin-erlaubnis-pruefen`
 
-**Frühere Beschreibung:** Betäubungsmittelrecht: Amphetamin: Erlaubnis prüfen. Erlaubnis prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Betäubungsmittelrecht: Amphetamin: Erlaubnis prüfen. Erlaubnis prüfen für Amphetamin im Rahmen von Betäubungsmittelrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Amphetamin Erlaubnis Pruefen
 

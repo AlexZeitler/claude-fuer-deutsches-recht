@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-workflow-open-source-bis-workflow-rechtsregim
-description: "robotik-recht: Konsolidiertes Skill-Kompendium 04; bündelt 6 frühere Spezialskills (workflow-open-source-und-sbom, workflow-post-market-monitoring, workflow-presse-und-krisenkommunikation, workflow-privacy-by-design-sprint, workflow-produkt-und-rollenprofil und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "robotik-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Open Source Und Sbom, Post Market Monitoring, Presse Und Krisenkommunikation, Privacy By Design Sprint und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - robotik-recht
+# Arbeitsbereich - Open Source Und Sbom bis Rechtsregime Matrix
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-open-source-und-sbom` | Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen. |
 | `workflow-post-market-monitoring` | Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-open-source-und-sbom`
 
-**Frühere Beschreibung:** Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen.
+**Fokus:** Sammelt FOSS, SBOM, Lizenzen, Security Advisories, Maintainer-Risiken und regulatorische Verantwortungsfragen.
 
 # Open Source und SBOM
 
@@ -82,7 +82,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 2. `workflow-post-market-monitoring`
 
-**Frühere Beschreibung:** Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review.
+**Fokus:** Baut Post-Market-Monitoring für Robotik: Reklamationen, Vorfälle, Patches, Trends, Rückrufschwellen und Management-Review.
 
 # Post-Market-Monitoring
 
@@ -133,7 +133,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 3. `workflow-presse-und-krisenkommunikation`
 
-**Frühere Beschreibung:** Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar.
+**Fokus:** Bereitet Kommunikation nach Unfall, Rückruf oder Datenschutzvorfall vor: sachlich, rechtlich vorsichtig, kundenverständlich und belegbar.
 
 # Presse und Krisenkommunikation
 
@@ -184,7 +184,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 4. `workflow-privacy-by-design-sprint`
 
-**Frühere Beschreibung:** Führt Produktteam durch Privacy-by-Design für Roboter: Sensorik, lokale Verarbeitung, Datenminimierung, Rollen, Transparenz und Löschkonzept.
+**Fokus:** Führt Produktteam durch Privacy-by-Design für Roboter: Sensorik, lokale Verarbeitung, Datenminimierung, Rollen, Transparenz und Löschkonzept.
 
 # Privacy-by-Design-Sprint
 
@@ -235,7 +235,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 5. `workflow-produkt-und-rollenprofil`
 
-**Frühere Beschreibung:** Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer.
+**Fokus:** Erstellt ein Produkt- und Rollenprofil: Hersteller, Anbieter, Importeur, Händler, Betreiber, Integrator, KI-Anbieter, Wartungsdienstleister und Nutzer.
 
 # Produkt- und Rollenprofil
 
@@ -286,7 +286,7 @@ Schlage am Ende passende Anschluss-Skills aus `robotik-recht` vor. Wenn Datensch
 
 ## 6. `workflow-rechtsregime-matrix`
 
-**Frühere Beschreibung:** Baut eine Regime-Matrix aus Maschinenverordnung, KI-VO, ProdSG/GPSR, ProdHaftG/PLD, MDR, DSGVO, CRA, Data Act, NIS2 und Vertrag.
+**Fokus:** Baut eine Regime-Matrix aus Maschinenverordnung, KI-VO, ProdSG/GPSR, ProdHaftG/PLD, MDR, DSGVO, CRA, Data Act, NIS2 und Vertrag.
 
 # Rechtsregime-Matrix
 

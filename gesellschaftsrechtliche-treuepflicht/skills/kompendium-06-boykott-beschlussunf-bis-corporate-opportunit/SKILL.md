@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-boykott-beschlussunf-bis-corporate-opportunit
-description: "gesellschaftsrechtliche-treuepflicht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (boykott-beschlussunfaehigkeit, chronologie, compliance-meldung, corporate-opportunity) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrechtliche-treuepflicht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Boykott Beschlussunfaehigkeit, Chronologie, Compliance Meldung, Corporate Opportunity; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - gesellschaftsrechtliche-treuepflicht
+# Arbeitsbereich - Boykott Beschlussunfaehigkeit bis Corporate Opportunity
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `boykott-beschlussunfaehigkeit` | Gesellschaftsrechtliche Treuepflicht: Boykott Beschlussunfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
 | `chronologie` | Gesellschaftsrechtliche Treuepflicht: Chronologie; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `boykott-beschlussunfaehigkeit`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Boykott Beschlussunfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Boykott Beschlussunfaehigkeit; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Boykott Beschlussunfaehigkeit
 
@@ -95,7 +95,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 2. `chronologie`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Chronologie; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Chronologie; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Chronologie
 
@@ -161,7 +161,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 3. `compliance-meldung`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Compliance Meldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Compliance Meldung; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Compliance Meldung
 
@@ -227,7 +227,7 @@ Keine BeckRS-, juris-, Kommentar- oder Aufsatz-Blindzitate aus Modellwissen. Rec
 
 ## 4. `corporate-opportunity`
 
-**Frühere Beschreibung:** Gesellschaftsrechtliche Treuepflicht: Corporate Opportunity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
+**Fokus:** Gesellschaftsrechtliche Treuepflicht: Corporate Opportunity; konkretisierter Spezial-Workflow mit Prüfachsen, Red Flags, Varianten, Quellenhygiene und verwertbarem Output.
 
 # Corporate Opportunity
 

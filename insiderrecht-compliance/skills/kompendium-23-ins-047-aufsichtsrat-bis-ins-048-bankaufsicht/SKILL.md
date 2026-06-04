@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-ins-047-aufsichtsrat-bis-ins-048-bankaufsicht
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (ins-047-aufsichtsratssonderpr-fung, ins-048-bankaufsichtliches-handeln) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - insiderrecht-compliance
+# Arbeitsbereich - Ins 047 Aufsichtsratssonderpr Fung, Ins 048 Bankaufsichtliches Handeln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-047-aufsichtsratssonderpr-fung` | Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht. |
 | `ins-048-bankaufsichtliches-handeln` | Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-047-aufsichtsratssonderpr-fung`
 
-**Frühere Beschreibung:** Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht.
+**Fokus:** Prueft Insiderrecht-Konsequenzen einer Sonderuntersuchung durch den Aufsichtsrat oder Wirtschaftspruefer: Informationsfluss, Insiderlisten und Ad-hoc-Pflicht.
 
 # Aufsichtsrats-Sonderprüfung – Insiderrecht
 
@@ -108,7 +108,7 @@ dejure.org.
 
 ## 2. `ins-048-bankaufsichtliches-handeln`
 
-**Frühere Beschreibung:** Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB.
+**Fokus:** Analysiert Insiderrecht bei bankaufsichtsrechtlichen Massnahmen (KWG, SSM): Vertraulichkeit, Ad-hoc-Pflicht und Koordination mit BaFin/EZB.
 
 # Bankaufsichtliches Handeln – Insiderrecht und MAR
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-ausnahmen-streitwert-bis-beratungshilfe-ausse
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (ausnahmen-streitwertgrenze-23-nr-2-gvg, aussergerichtliche-mahnung-286-bgb, beratungshilfe-aussergerichtlich-brh) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Ausnahmen Streitwertgrenze 23 Nr 2 Gvg, Aussergerichtliche Mahnung 286 Bgb, Beratungshilfe Aussergerichtlich Brh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ausnahmen-streitwertgrenze-23-nr-2-gvg` | Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG. |
 | `aussergerichtliche-mahnung-286-bgb` | Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ausnahmen-streitwertgrenze-23-nr-2-gvg`
 
-**Frühere Beschreibung:** Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG.
+**Fokus:** Sonderzuständigkeiten des Amtsgerichts unabhängig vom Streitwert. Wohnraummietsachen Reisevertrag Wildschaeden Unterhaltsstreitigkeiten Familiensachen Betreuungs- und Nachlasssachen nach § 23 Nr. 2 GVG § 23a § 23b und § 23c GVG.
 
 # Wann ist das Amtsgericht **immer** zustaendig (egal wie hoch der Streitwert)?
 
@@ -131,7 +131,7 @@ Stand: 05/2026. § 23 Nr. 2 GVG unveraendert. Reform der Wertgrenze § 23 Nr. 1 
 
 ## 2. `aussergerichtliche-mahnung-286-bgb`
 
-**Frühere Beschreibung:** Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren.
+**Fokus:** Außergerichtliche Mahnung als Voraussetzung für Verzug nach § 286 BGB. Mit Mustertext-Anregungen Verzugszinsen Mahngebühren und Folgen für Schadensersatz. Klaert wann Mahnung entbehrlich ist und wie Sie eine wirksame Mahnung dokumentieren.
 
 # Mahnen Sie zuerst — bevor Sie klagen
 
@@ -269,7 +269,7 @@ Stand: 05/2026. § 286 BGB unveraendert. Basiszinssatz halbjaehrlich aktualisier
 
 ## 3. `beratungshilfe-aussergerichtlich-brh`
 
-**Frühere Beschreibung:** Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen.
+**Fokus:** Beratungshilfe vor Klageerhebung. Beratungshilfegesetz BerHG ermöglicht bedürftigen Buergern kostenlose oder verguenstigte Anwaltsberatung vor Gericht. Antrag beim Amtsgericht Berechtigungsschein Eigenanteil. Sinnvoll als Vorklaerung bevor Sie selbst klagen.
 
 # Beratungshilfe: Anwalt vor Klage (fast) umsonst
 

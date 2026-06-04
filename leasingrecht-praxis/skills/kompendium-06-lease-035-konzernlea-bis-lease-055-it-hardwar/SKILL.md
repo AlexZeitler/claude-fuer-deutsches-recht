@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-lease-035-konzernlea-bis-lease-055-it-hardwar
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (lease-035-konzernleasing-transfer-pricing, lease-036-franchise-leasing-ausstattung, lease-055-it-hardware-refresh) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 035 Konzernleasing Transfer Pricing, Lease 036 Franchise Leasing Ausstattung, Lease 055 It Hardware Refresh; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - leasingrecht-praxis
+# Arbeitsbereich - Lease 035 Konzernleasing Transfer Pricing, Lease 036 Franchise Leasing Ausstattung, Lease 055 It Hardware Refresh
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-035-konzernleasing-transfer-pricing` | Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken. |
 | `lease-036-franchise-leasing-ausstattung` | Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-035-konzernleasing-transfer-pricing`
 
-**Frühere Beschreibung:** Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken.
+**Fokus:** Konzerninternes Leasing: Verrechnungspreise, § 1 AStG, BEPS-Aktionsplan, Fremdvergleichsgrundsatz, Dokumentationspflichten und länderbezogene Steuerrisiken.
 
 # Konzerninternes Leasing: Transfer Pricing und Verrechnungspreise
 
@@ -124,7 +124,7 @@ Vergleich der Nettomarge des Leasinggebers mit vergleichbaren Drittunternehmen.
 
 ## 2. `lease-036-franchise-leasing-ausstattung`
 
-**Frühere Beschreibung:** Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung.
+**Fokus:** Franchise-Leasing: Ausstattungsleasing im Franchise-System, Eigentumsrechte, Rückgabe bei Franchisekündigung, steuerliche Behandlung.
 
 # Franchise-Leasing: Ausstattung und Eigentumsrechte
 
@@ -219,7 +219,7 @@ Varianten:
 
 ## 3. `lease-055-it-hardware-refresh`
 
-**Frühere Beschreibung:** IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung.
+**Fokus:** IT Hardware Refresh Leasing: Upgrade-Zyklen, Technology Refresh-Klauseln, Datenlöschung, Disposition und steuerliche Behandlung.
 
 # IT Hardware Refresh im Leasing
 

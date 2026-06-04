@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-bho-179-institutione-bis-bho-189-globaler-min
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 18; bündelt 11 frühere Spezialskills (bho-179-institutionelle-foerderung-deckung-fin, bho-180-institutionelle-foerderung-szenario-re, bho-181-institutionelle-foerderung-dashboard-b, bho-182-institutionelle-foerderung-risiko-mark, bho-183-institutionelle-foerderung-brh-frage-f und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 179 Institutionelle Foerderung Deckung Fin, Bho 180 Institutionelle Foerderung Szenario Re, Bho 181 Institutionelle Foerderung Dashboard B, Bho 182 Institutionelle Foerderung Risiko Mark und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 179 Institutionelle Foerderung Deckung Fin bis Bho 189 Globaler Minderausgabe Deckung Finden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-179-institutionelle-foerderung-deckung-fin` | Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Deckung finden. Deckung finden für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-180-institutionelle-foerderung-szenario-re` | Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Szenario rechnen. Szenario rechnen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-179-institutionelle-foerderung-deckung-fin`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Deckung finden. Deckung finden für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Deckung finden. Deckung finden für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Deckung Fin
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-180-institutionelle-foerderung-szenario-re`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Szenario rechnen. Szenario rechnen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Szenario rechnen. Szenario rechnen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Szenario Re
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-181-institutionelle-foerderung-dashboard-b`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Dashboard bauen. Dashboard bauen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Dashboard bauen. Dashboard bauen für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Dashboard B
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-182-institutionelle-foerderung-risiko-mark`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Risiko markieren. Risiko markieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Risiko markieren. Risiko markieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Risiko Mark
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-183-institutionelle-foerderung-brh-frage-f`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: BRH-Frage formulieren. BRH-Frage formulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: BRH-Frage formulieren. BRH-Frage formulieren für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Brh Frage F
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-184-institutionelle-foerderung-parlamentsf`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Parlamentsf
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-185-institutionelle-foerderung-vollzug-tra`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Vollzug tracken. Vollzug tracken für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Institutionelle Förderung: Vollzug tracken. Vollzug tracken für Institutionelle Förderung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Institutionelle Foerderung Vollzug Tra
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-186-globaler-minderausgabe-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Titel prüfen. Titel prüfen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Titel prüfen. Titel prüfen für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Titel Pruefen
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-187-globaler-minderausgabe-umschichtung-si`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Umschichtung simulieren. Umschichtung simulieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Umschichtung simulieren. Umschichtung simulieren für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Umschichtung Si
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-188-globaler-minderausgabe-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Sperre bewerten. Sperre bewerten für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Sperre bewerten. Sperre bewerten für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Sperre Bewerten
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-189-globaler-minderausgabe-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Deckung finden. Deckung finden für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Globaler Minderausgabe: Deckung finden. Deckung finden für Globaler Minderausgabe im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Globaler Minderausgabe Deckung Finden
 

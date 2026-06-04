@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-befristung-c-bis-spezial-unwirksam-fr
-description: "fachanwalt-arbeitsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-befristung-compliance-dokumentation-und-akte, spezial-fao-fristen-form-und-zustaendigkeit, spezial-unwirksam-fristennotiz-und-naechster-schritt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-arbeitsrecht
+# Arbeitsbereich - Befristung Compliance Dokumentation Und Akte, Fao Fristen Form Und Zustaendigkeit, Unwirksam Fristennotiz Und Naechster Schritt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-befristung-compliance-dokumentation-und-akte` | Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG. |
 | `spezial-fao-fristen-form-und-zustaendigkeit` | Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-befristung-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG.
+**Fokus:** Befristungscompliance und Aktenführung: TzBfG §§ 14–17, Schriftformzwang vor Dienstantritt, Sachgrundbefristung-Dokumentation, Anschlussverbot § 14 Abs. 2 Satz 2 TzBfG, Kettenbefristung, Entfristungsklage-Frist § 17 TzBfG.
 
 # Spezial: Befristung — Compliance, Dokumentation und Akte
 
@@ -151,7 +151,7 @@ BAG-Linie: Bei Kettenbefristungen prüft das BAG, ob eine missbräuchliche Gesta
 
 ## 2. `spezial-fao-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang.
+**Fokus:** Fachanwalt für Arbeitsrecht (FAO § 10): Verfahrensrecht ArbGG, Zuständigkeit §§ 2 und 2a ArbGG, Urteilsverfahren vs. Beschlussverfahren, Instanzenzug ArbG → LAG → BAG, Fristen § 66 ArbGG Berufung, § 74 ArbGG Revision, Güte- und Kammertermin, Anwaltszwang.
 
 # Spezial: FAO — Fristen, Form und Zuständigkeit (ArbGG)
 
@@ -270,7 +270,7 @@ Angelegenheiten aus dem BetrVG, MitbestG, TVG (§ 2a ArbGG); Beteiligte sind AG 
 
 ## 3. `spezial-unwirksam-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation.
+**Fokus:** Unwirksamkeit erkannt — Fristennotiz und nächster Schritt: sofortige Handlungsanleitung nach erkanntem Unwirksamkeitsgrund (Schriftform, BR-Anhörung, Sonderkündigungsschutz, Massenentlassung, Befristungsfehler) — Fristberechnung, Klageweg und Mandantenkommunikation.
 
 # Spezial: Unwirksam erkannt — Fristennotiz und nächster Schritt
 

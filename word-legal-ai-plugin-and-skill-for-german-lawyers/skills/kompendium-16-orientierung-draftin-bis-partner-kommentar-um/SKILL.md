@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-orientierung-draftin-bis-partner-kommentar-um
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (orientierung-drafting-triage, partner-kommentar-umsetzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Orientierung Drafting Triage, Partner Kommentar Umsetzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Orientierung Drafting Triage, Partner Kommentar Umsetzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `orientierung-drafting-triage` | Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate. |
 | `partner-kommentar-umsetzen` | Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `orientierung-drafting-triage`
 
-**Frühere Beschreibung:** Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate.
+**Fokus:** Einstiegs- und Triage-Skill für juristisches Drafting. Klärt Dokumenttyp, Stadium, Adressat, Stilprofil, Sprachraum und Risiko, erstellt eine Mandatsmatrix und verweist auf die einschlägigen Spezial-Skills im Plugin word-legal-ai-plugin-and-skill-for-german-lawyers, insbesondere Kaltstart-Kommandocenter, Kanzleistil, Word-Finish, Partnerkommentar, US/UK-English und finales Quality Gate.
 
 # Orientierung und Drafting-Triage
 
@@ -153,7 +153,7 @@ Der Skill arbeitet schnell und liefert sofort ein Arbeitsergebnis. Er hält kein
 
 ## 2. `partner-kommentar-umsetzen`
 
-**Frühere Beschreibung:** Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu.
+**Fokus:** Setzt knappe Partnerkommentare und Randnotizen in echte Drafting-Schritte um. Übersetzt Hinweise wie bitte schärfen, zu lang, commercial, mehr Druck, weniger Gutachten, US counsel fragt, in eine Änderungsliste, priorisiert die Arbeit und formuliert die betroffenen Passagen neu.
 
 # Partner-Kommentar Umsetzen
 

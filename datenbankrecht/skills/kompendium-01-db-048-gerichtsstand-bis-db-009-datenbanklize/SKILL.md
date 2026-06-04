@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-db-048-gerichtsstand-bis-db-009-datenbanklize
-description: "datenbankrecht: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (db-048-gerichtsstand-und-anwendbares-recht, db-007-api-nutzung-rate-limits-und-vertragsbruch, db-009-datenbanklizenz-entwurf-nutzungsumfang-und-audit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "datenbankrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang Und Audit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - datenbankrecht
+# Arbeitsbereich - Db 048 Gerichtsstand Und Anwendbares Recht, Db 007 Api Nutzung Rate Limits Und Vertragsbruch, Db 009 Datenbanklizenz Entwurf Nutzungsumfang U
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `db-048-gerichtsstand-und-anwendbares-recht` | Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken. |
 | `db-007-api-nutzung-rate-limits-und-vertragsbruch` | Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `db-048-gerichtsstand-und-anwendbares-recht`
 
-**Frühere Beschreibung:** Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken.
+**Fokus:** Gerichtsstand und anwendbares Recht im Datenbankrecht: Internationale Zuständigkeit nach EuGVVO Art. 4 und Art. 7 Nr. 2 (Tatort), Kollisionsrecht nach Art. 8 Rom-II-VO (Schutzlandprinzip), fliegender Gerichtsstand bei Internet-Verletzungen und Schiedsklauseln für Datenbanklizenzen. Bewertet Klagestrategien und Forum-Shopping-Risiken.
 
 # Gerichtsstand und anwendbares Recht im Datenbankrecht
 
@@ -93,7 +93,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `db-007-api-nutzung-rate-limits-und-vertragsbruch`
 
-**Frühere Beschreibung:** Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers.
+**Fokus:** Prüft die rechtliche Bewertung von API-Nutzung im Datenbankkontext: Vertragsbruch bei Überschreitung von Rate-Limits oder Nutzungsbedingungen, Verhältnis zu §§ 87a-87e UrhG, Schadensersatz bei unerlaubter Massenabfrage sowie Gestaltung wirksamer API-Nutzungsbedingungen. Bewertet Kündigungsrecht und Sperrbefugnis des Datenbankbetreibers.
 
 # API-Nutzung, Rate-Limits und Vertragsbruch im Datenbankrecht
 
@@ -158,7 +158,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `db-009-datenbanklizenz-entwurf-nutzungsumfang-und-audit`
 
-**Frühere Beschreibung:** Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider.
+**Fokus:** Entwurf und Prüfung von Datenbanklizenzen nach §§ 87a-87e UrhG: Definition des Nutzungsumfangs (Entnahme/Weiterverwendung wesentlicher Teile), Audit-Klauseln, Nutzungsberichts­pflichten, Sublizenzierungsverbote und Kündigungsrechte. Bewertet AGB-Wirksamkeit nach § 307 BGB und erstellt lizenzrechts­konforme Vertragsklauseln für SaaS- und Datenprovider.
 
 # Datenbanklizenz: Entwurf, Nutzungsumfang und Audit-Klauseln
 

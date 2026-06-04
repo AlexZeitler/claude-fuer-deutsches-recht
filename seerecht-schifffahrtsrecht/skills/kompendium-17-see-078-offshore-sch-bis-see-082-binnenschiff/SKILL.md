@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-see-078-offshore-sch-bis-see-082-binnenschiff
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (see-078-offshore-schiff-closing-planen, see-079-offshore-schiff-klagepfad-waehlen, see-080-offshore-schiff-risiko-memo-schreiben, see-081-binnenschiff-register-pruefen, see-082-binnenschiff-hypothek-bestellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 078 Offshore Schiff Closing Planen, See 079 Offshore Schiff Klagepfad Waehlen, See 080 Offshore Schiff Risiko Memo Schreiben, See 081 Binnenschiff Register Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 078 Offshore Schiff Closing Planen bis See 082 Binnenschiff Hypothek Bestellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-078-offshore-schiff-closing-planen` | Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. |
 | `see-079-offshore-schiff-klagepfad-waehlen` | Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-078-offshore-schiff-closing-planen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Offshore-Schiff: Closing eines Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Offshore-Schiff – Closing planen
 
@@ -123,7 +123,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 2. `see-079-offshore-schiff-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Offshore-Schiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Offshore-Schiff – Klagepfad wählen
 
@@ -214,7 +214,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 3. `see-080-offshore-schiff-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Offshore-Schiff: Gesamtrisikobewertung fuer Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Offshore-Schiff: Gesamtrisikobewertung fuer Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren bei Offshore-Versorgungsschiff (PSV/AHTS) oder Bohrinsel-Tender: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Offshore-Schiff – Risiko-Memo schreiben
 
@@ -307,7 +307,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 4. `see-081-binnenschiff-register-pruefen`
 
-**Frühere Beschreibung:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut prueft Binnenschiffsregister (AG Duisburg-Ruhrort) auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Binnenschiff – Registerprüfung
 
@@ -402,7 +402,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 5. `see-082-binnenschiff-hypothek-bestellen`
 
-**Frühere Beschreibung:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Binnenschiff: Binnenschiffer; Verladungsunternehmen; Kreditinstitut bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Binnenmotorgueterschiff; Tanker oder Fahrgastschiff. BinSchG §§ 1-133; SchRG §§ 1-75 fuer eingetragene Binnenschiffe; BinSchRegO. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Binnenschiff – Schiffshypothek bestellen
 

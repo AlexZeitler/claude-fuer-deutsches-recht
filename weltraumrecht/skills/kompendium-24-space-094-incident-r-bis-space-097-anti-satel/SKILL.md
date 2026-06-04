@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-space-094-incident-r-bis-space-097-anti-satel
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (space-094-incident-response-satellitenausfall, space-095-launch-readiness-legal-review, space-096-post-mission-aktenabschluss-und-lessons-learned, space-097-anti-satellite-test-ban-und-orbital-debris-pledge) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 094 Incident Response Satellitenausfall, Space 095 Launch Readiness Legal Review, Space 096 Post Mission Aktenabschluss Und Lessons Learned, Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - weltraumrecht
+# Arbeitsbereich - Space 094 Incident Response Satellitenausfall bis Space 097 Anti Satellite Test Ban Und Orbital Debris Pledge
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-094-incident-response-satellitenausfall` | Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation. |
 | `space-095-launch-readiness-legal-review` | Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-094-incident-response-satellitenausfall`
 
-**Frühere Beschreibung:** Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation.
+**Fokus:** Incident Response bei Satellitenausfall – Notfallprotokoll, Behördenmeldung, Kundenkommunikation.
 
 # Weltraumrecht: Incident Response: Satellitenausfall
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Incident Response Satellitenausfa
 
 ## 2. `space-095-launch-readiness-legal-review`
 
-**Frühere Beschreibung:** Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen.
+**Fokus:** Launch Readiness Legal Review – Checkliste vor dem Start: Genehmigungen, Verträge, Versicherungen.
 
 # Weltraumrecht: Launch Readiness Legal Review
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Launch Readiness Legal Checkliste
 
 ## 3. `space-096-post-mission-aktenabschluss-und-lessons-learned`
 
-**Frühere Beschreibung:** Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned.
+**Fokus:** Post-Mission-Abschluss – Vertragsabwicklung, Aktenaufbewahrung, Debriefing, Lessons Learned.
 
 # Weltraumrecht: Post-Mission: Aktenabschluss und Lessons Learned
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Post-Mission Aktenabschluss, Less
 
 ## 4. `space-097-anti-satellite-test-ban-und-orbital-debris-pledge`
 
-**Frühere Beschreibung:** Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen fuer Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit.
+**Fokus:** Anti-Satellite-Test-Ban und Orbital-Debris-Pledge: zerstoerende ASAT-Tests Voelkerrechtsbewertung UN-Resolutionslinie und kommerzielle Konsequenzen fuer Operator Versicherer Investoren Lieferanten. Klaert Geltung des Outer Space Treaty bei ASAT Liability Convention Registrierungsfragen Sanktionsrecht und nationale Pflichten Deutschland und EU. Liefert Pruefraster Compliance-Memo und Risiko-Cockpit.
 
 # Anti-Satellite-Test-Ban und Orbital-Debris-Pledge
 

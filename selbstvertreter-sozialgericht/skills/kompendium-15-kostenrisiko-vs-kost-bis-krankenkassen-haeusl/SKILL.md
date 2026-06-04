@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kostenrisiko-vs-kost-bis-krankenkassen-haeusl
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (kostenrisiko-vs-kostenfreiheit-laien, krankenkassen-arzneimittel-31-sgb-v, krankenkassen-fahrkosten-60-sgb-v, krankenkassen-genehmigungsfiktion-13-sgb-v, krankenkassen-haeusliche-krankenpflege-37-sgb-v) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kostenrisiko Vs Kostenfreiheit Laien, Krankenkassen Arzneimittel 31 Sgb V, Krankenkassen Fahrkosten 60 Sgb V, Krankenkassen Genehmigungsfiktion 13 Sgb V und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Kostenrisiko Vs Kostenfreiheit Laien bis Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kostenrisiko-vs-kostenfreiheit-laien` | Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger. |
 | `krankenkassen-arzneimittel-31-sgb-v` | Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kostenrisiko-vs-kostenfreiheit-laien`
 
-**Frühere Beschreibung:** Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger.
+**Fokus:** Was kostet Sie ein SG-Verfahren wirklich? Gerichtskostenfreiheit § 183 SGG Anwaltskosten Gutachterkosten § 109 SGG Mutwilligkeit § 192 SGG. Überblick für Buerger.
 
 # Was kostet ein SG-Verfahren wirklich?
 
@@ -172,7 +172,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 2. `krankenkassen-arzneimittel-31-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Arzneimittel nach § 31 SGB V. Skill klaert die Arzneimittelversorgung Erstattung Rezeptgebuehr Festbetrag verschreibungspflichtige vs. apothekenpflichtige Arzneimittel Off-Label-Use und die Notwendigkeit von individueller Erstattung. Liefert Pruefraster.
 
 # Krankenkassen Arzneimittel 31 Sgb V
 
@@ -224,7 +224,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 3. `krankenkassen-fahrkosten-60-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen fuer ambulante Behandlungen. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Fahrkosten nach § 60 SGB V. Skill klaert wann die Krankenkasse Fahrtkosten zur Behandlung uebernimmt Wegfall Eigenanteil dauerhafter Fall (Schwerbehinderung mit Merkzeichen aG H Bl) und die Ausnahmen fuer ambulante Behandlungen. Liefert Pruefraster.
 
 # Krankenkassen Fahrkosten 60 Sgb V
 
@@ -277,7 +277,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 4. `krankenkassen-genehmigungsfiktion-13-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen fuer den Selbstbeschaffungsanspruch. Liefert Pruefraster.
+**Fokus:** Krankenkassen-Genehmigungsfiktion nach § 13 Abs. 3a SGB V. Skill klaert die 3-Wochen-Frist Verlaengerung auf 5 Wochen bei MD-Stellungnahme die Rechtsfolge fiktive Genehmigung und die Voraussetzungen fuer den Selbstbeschaffungsanspruch. Liefert Pruefraster.
 
 # Krankenkassen Genehmigungsfiktion 13 Sgb V
 
@@ -332,7 +332,7 @@ Stand: 05/2026. § 183 SGG seit langem unveraendert. § 192 SGG selten angewandt
 
 ## 5. `krankenkassen-haeusliche-krankenpflege-37-sgb-v`
 
-**Frühere Beschreibung:** Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage.
+**Fokus:** Krankenkassen haeusliche Krankenpflege nach § 37 SGB V. Skill klaert die Voraussetzungen Behandlungspflege Grundpflege hauswirtschaftliche Versorgung Verhaeltnis zur Pflegekasse SGB XI und die aktuelle BSG-Linie zu Spezialfaellen wie Intensivpflege. Liefert Antragsvorlage.
 
 # Krankenkassen Haeusliche Krankenpflege 37 Sgb V
 

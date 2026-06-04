@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-pralr-023-gewerbe-zu-bis-pralr-027-geltungsbe
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (pralr-023-gewerbe-zunft-und-wirtschaftsordnung, pralr-024-strafrecht-zweiter-teil-zwanzigster-titel, pralr-025-strafvollzug-und-strafzwecke, pralr-026-rheinisches-recht-code-civil-abgrenzung, pralr-027-geltungsbereich-subsidiaritaet-lokalrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung, Pralr 024 Strafrecht Zweiter Teil Zwanzigster Titel, Pralr 025 Strafvollzug Und Strafzwecke, Pralr 026 Rheinisches Recht Code Civil Abgrenzung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr 023 Gewerbe Zunft Und Wirtschaftsordnung bis Pralr 027 Geltungsbereich Subsidiaritaet Lokalrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-023-gewerbe-zunft-und-wirtschaftsordnung` | PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen. |
 | `pralr-024-strafrecht-zweiter-teil-zwanzigster-titel` | PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-023-gewerbe-zunft-und-wirtschaftsordnung`
 
-**Frühere Beschreibung:** PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen.
+**Fokus:** PrALR: Gewerbe, Zunft, Stand, Handel, Besitzstandsschutz und wirtschaftliche Modernisierungshemmnisse prüfen.
 
 # Gewerbe und Zunft
 
@@ -67,7 +67,7 @@ Dieser Skill arbeitet mit dem Allgemeinen Landrecht für die Preußischen Staate
 
 ## 2. `pralr-024-strafrecht-zweiter-teil-zwanzigster-titel`
 
-**Frühere Beschreibung:** PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren.
+**Fokus:** PrALR: Strafrecht des Zweiten Teils, 20. Titel, Strafen, Abschaffung/Ablösung und Rechtsstaatsabstand analysieren.
 
 # Strafrecht
 
@@ -127,7 +127,7 @@ ALR-Loesung: ALR II 20 §§ 19-22 — schuldhaft selbst herbeigefuehrte Trunkenh
 
 ## 3. `pralr-025-strafvollzug-und-strafzwecke`
 
-**Frühere Beschreibung:** PrALR: Strafvollzug, Freiheitsstrafe, Leibesstrafen, Abschreckung und historische Strafzwecke einordnen.
+**Fokus:** PrALR: Strafvollzug, Freiheitsstrafe, Leibesstrafen, Abschreckung und historische Strafzwecke einordnen.
 
 # Strafvollzug
 
@@ -186,7 +186,7 @@ ALR-Loesung: ALR II 20 — Zuchthaus 5-10 Jahre; spaeter ergaenzend Pranger fuer
 
 ## 4. `pralr-026-rheinisches-recht-code-civil-abgrenzung`
 
-**Frühere Beschreibung:** PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen.
+**Fokus:** PrALR: Rheinisches Recht, Code civil/Code pénal, linksrheinische Gebiete und räumliche Nichtgeltung sauber abgrenzen.
 
 # Rheinisches Recht
 
@@ -253,7 +253,7 @@ Sachverhalt: Vergleich Ehegueterrecht.
 
 ## 5. `pralr-027-geltungsbereich-subsidiaritaet-lokalrecht`
 
-**Frühere Beschreibung:** PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen, Observanz und lokale Rechtsquellen prüfen.
+**Fokus:** PrALR: Geltungsbereich, subsidiäre Anwendung, Städte, Provinzen, Observanz und lokale Rechtsquellen prüfen.
 
 # Geltungsbereich
 

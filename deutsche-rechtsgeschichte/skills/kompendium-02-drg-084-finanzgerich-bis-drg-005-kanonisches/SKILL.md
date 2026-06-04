@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-drg-084-finanzgerich-bis-drg-005-kanonisches
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 02; bündelt 6 frühere Spezialskills (drg-084-finanzgerichtsbarkeit-geschichte, drg-111-richterbild-in-diktatur-und-rechtsstaat, drg-002-quellenkritik-archiv-und-edition, drg-003-sachsenspiegel-und-landrechte, drg-004-stadtrecht-und-handelsstaedte und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 084 Finanzgerichtsbarkeit Geschichte, Drg 111 Richterbild In Diktatur Und Rechtsstaat, Drg 002 Quellenkritik Archiv Und Edition, Drg 003 Sachsenspiegel Und Landrechte und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 084 Finanzgerichtsbarkeit Geschichte bis Drg 005 Kanonisches Recht Und Ehe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-084-finanzgerichtsbarkeit-geschichte` | Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965. |
 | `drg-111-richterbild-in-diktatur-und-rechtsstaat` | Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-084-finanzgerichtsbarkeit-geschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965.
+**Fokus:** Deutsche Rechtsgeschichte: Geschichte der Finanzgerichtsbarkeit. Preussische Steuerbeschwerdekommissionen, Reichsabgabenordnung 1919, Finanzgerichte nach 1945 und FGO 1965.
 
 # Finanzgerichtsbarkeit Geschichte
 
@@ -81,7 +81,7 @@ RAO 1919: ALEX/ÖNB. AO und FGO: gesetze-im-internet.de. BFH: bundesfinanzhof.de
 
 ## 2. `drg-111-richterbild-in-diktatur-und-rechtsstaat`
 
-**Frühere Beschreibung:** Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung.
+**Fokus:** Vergleicht Richterrollen in liberalem Rechtsstaat, autoritärem Staat und Diktatur: Gesetzesbindung, Zeitgeist, politische Steuerung, richterliche Unabhängigkeit und Verantwortung.
 
 # Richterbild in Diktatur und Rechtsstaat
 
@@ -112,7 +112,7 @@ Richterbild-Synopse mit historischer Einordnung und Lehren für heutige Methoden
 
 ## 3. `drg-002-quellenkritik-archiv-und-edition`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Quellenkritik fuer Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben.
+**Fokus:** Deutsche Rechtsgeschichte: Quellenkritik fuer Archivfunde und historische Editionen. Ueberlieferungskritik, Editionsvergleich, Archivrecherche in Bundes- und Landesarchiven sowie Umgang mit Handschriften und Druckausgaben.
 
 # Quellenkritik: Archiv und Edition
 
@@ -161,7 +161,7 @@ Bundesarchiv: invenio.bundesarchiv.de. MGH: mgh.de. ALEX/OeNB: alex.onb.ac.at. L
 
 ## 4. `drg-003-sachsenspiegel-und-landrechte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht.
+**Fokus:** Deutsche Rechtsgeschichte: Sachsenspiegel (ca. 1220-1235) und mittelalterliche Landrechte. Eike von Repgow, Landrecht und Lehnrecht, Dreistaendeordnung, Ueberlieferung in Handschriften und Einfluss auf spaeteres Recht.
 
 # Sachsenspiegel und Landrechte
 
@@ -211,7 +211,7 @@ Sachsenspiegel: MGH-Edition Eckhardt (1955/56) oder historische Faksimile-Ausgab
 
 ## 5. `drg-004-stadtrecht-und-handelsstaedte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien.
+**Fokus:** Deutsche Rechtsgeschichte: Stadtrecht und Handelsstaedte im Mittelalter. Magdeburger Recht, Luebisches Recht, Hanse, Kaufmannsgilden und Entstehung des fruehen Handelsrechts in Stadtrechtsfamilien.
 
 # Stadtrecht und Handelsstaedte
 
@@ -261,7 +261,7 @@ Stadtrechtsquellen: MGH Constitutiones et Acta, Landesarchiv-Editionen. Hansisch
 
 ## 6. `drg-005-kanonisches-recht-und-ehe`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874.
+**Fokus:** Deutsche Rechtsgeschichte: Kanonisches Recht und Eherecht. Decretum Gratiani, Corpus Iuris Canonici, kirchliche Ehegesetze von der Friede-Bulle bis zum BGB 1896, Tridentinum und Zivilehe 1874.
 
 # Kanonisches Recht und Eherecht
 

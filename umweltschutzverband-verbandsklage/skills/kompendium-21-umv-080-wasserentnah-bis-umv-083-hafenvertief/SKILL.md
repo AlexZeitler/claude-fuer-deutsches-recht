@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-umv-080-wasserentnah-bis-umv-083-hafenvertief
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (umv-080-wasserentnahme-kommunikation-schaerfen, umv-081-hafenvertiefung-beteiligung-pruefen, umv-082-hafenvertiefung-einwendung-bauen, umv-083-hafenvertiefung-akteneinsicht-erzwinge) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 080 Wasserentnahme Kommunikation Schaerfen, Umv 081 Hafenvertiefung Beteiligung Pruefen, Umv 082 Hafenvertiefung Einwendung Bauen, Umv 083 Hafenvertiefung Akteneinsicht Erzwinge; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 080 Wasserentnahme Kommunikation Schaerfen bis Umv 083 Hafenvertiefung Akteneinsicht Erzwinge
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-080-wasserentnahme-kommunikation-schaerfen` | Umweltschutzverband Verbandsklage: Wasserentnahme: Kommunikation schärfen. Kommunikation schärfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-081-hafenvertiefung-beteiligung-pruefen` | Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-080-wasserentnahme-kommunikation-schaerfen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Wasserentnahme: Kommunikation schärfen. Kommunikation schärfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Wasserentnahme: Kommunikation schärfen. Kommunikation schärfen für Wasserentnahme im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wasserentnahme Kommunikation Schaerfen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-081-hafenvertiefung-beteiligung-pruefen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Beteiligung prüfen. Beteiligung prüfen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hafenvertiefung Beteiligung Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-082-hafenvertiefung-einwendung-bauen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Einwendung bauen. Einwendung bauen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Einwendung bauen. Einwendung bauen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hafenvertiefung Einwendung Bauen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-083-hafenvertiefung-akteneinsicht-erzwinge`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Hafenvertiefung: Akteneinsicht erzwingen. Akteneinsicht erzwingen für Hafenvertiefung im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Hafenvertiefung Akteneinsicht Erzwinge
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bankrecht-buergschaf-bis-bankrecht-kaufmaenni
-description: "fachanwalt-bank-kapitalmarktrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (bankrecht-buergschaft-aval-garantie-routing, bankrecht-garantieabruf-eilrechtsschutz, bankrecht-kaufmaennische-buergschaft-hgb-349-350) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bank-kapitalmarktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-bank-kapitalmarktrecht
+# Arbeitsbereich - Bankrecht Buergschaft Aval Garantie Routing, Bankrecht Garantieabruf Eilrechtsschutz, Bankrecht Kaufmaennische Buergschaft Hgb 349 350
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bankrecht-buergschaft-aval-garantie-routing` | Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast. |
 | `bankrecht-garantieabruf-eilrechtsschutz` | Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bankrecht-buergschaft-aval-garantie-routing`
 
-**Frühere Beschreibung:** Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast.
+**Fokus:** Mandat zu Bürgschaft, Aval oder Bankgarantie im Bankrecht routen: Bürge, Bank, Begünstigter oder Kunde; §§ 765 ff. BGB, §§ 349 und 350 HGB, erstes Anfordern, Regress, Missbrauchseinwand und Beweislast.
 
 # Bürgschaft, Aval und Bankgarantie routen
 
@@ -83,7 +83,7 @@ Erzeuge eine **Mandats-Triage**:
 
 ## 2. `bankrecht-garantieabruf-eilrechtsschutz`
 
-**Frühere Beschreibung:** Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation.
+**Fokus:** Eilrechtsschutz bei Abruf aus Bankgarantie, Aval oder Bürgschaft auf erstes Anfordern vorbereiten: Verfügungsanspruch, Verfügungsgrund, Missbrauchsbelege, Zustellung, Vollziehung und Bankkommunikation.
 
 # Garantieabruf und Eilrechtsschutz
 
@@ -119,7 +119,7 @@ Erzeuge:
 
 ## 3. `bankrecht-kaufmaennische-buergschaft-hgb-349-350`
 
-**Frühere Beschreibung:** Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie.
+**Fokus:** Kaufmännische Bürgschaft prüfen: Handelsgeschäft des Bürgen, § 349 HGB ohne Vorausklage, § 350 HGB ohne BGB-Schriftform, Abgrenzung zu privater Mithaftung, AGB und Prozessstrategie.
 
 # Kaufmännische Bürgschaft nach HGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-vertragsschluss-antr-bis-invitatio-ad-offeren
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (vertragsschluss-antrag-annahme, abgabe-willenserklaerung, invitatio-ad-offerendum-und-werbung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vertragsschluss Antrag Annahme, Abgabe Willenserklaerung, Invitatio Ad Offerendum Und Werbung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - bgb-at-pruefer
+# Arbeitsbereich - Vertragsschluss Antrag Annahme, Abgabe Willenserklaerung, Invitatio Ad Offerendum Und Werbung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vertragsschluss-antrag-annahme` | Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad. |
 | `abgabe-willenserklaerung` | Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. BGB: willentliche Entäußerung unter Anwesenden und Abwesenden, Botenproblematik, E-Mail und Plattform-Postfach, Widerruf vor Abgabe. Output: Gutachtenstil-Lösung mit Subsumtionsraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vertragsschluss-antrag-annahme`
 
-**Frühere Beschreibung:** Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad.
+**Fokus:** Klausurfall zum Vertragsschluss durch Antrag und Annahme nach §§ 145 bis 156 BGB: Bindungswirkung des Antrags, Erlöschungsgründe, Annahmefrist unter An- und Abwesenden, verspätete und abgeänderte Annahme sowie Zeitpunkt des Vertragsschlusses. Output: vollständiger Subsumtionspfad.
 
 # Vertragsschluss — Antrag und Annahme §§ 145 bis 156 BGB
 
@@ -111,7 +111,7 @@ den internationalen BGB-AT-Vergleich.
 
 ## 2. `abgabe-willenserklaerung`
 
-**Frühere Beschreibung:** Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. BGB: willentliche Entäußerung unter Anwesenden und Abwesenden, Botenproblematik, E-Mail und Plattform-Postfach, Widerruf vor Abgabe. Output: Gutachtenstil-Lösung mit Subsumtionsraster.
+**Fokus:** Klausurfall zur Abgabe einer Willenserklärung nach §§ 116 ff. BGB: willentliche Entäußerung unter Anwesenden und Abwesenden, Botenproblematik, E-Mail und Plattform-Postfach, Widerruf vor Abgabe. Output: Gutachtenstil-Lösung mit Subsumtionsraster.
 
 # Abgabe der Willenserklärung — Tatbestand und Zeitpunkt
 
@@ -195,7 +195,7 @@ Machtbereich-Lehre als vergleichbar mit E-Mail, solange der Absender keinen Rüc
 
 ## 3. `invitatio-ad-offerendum-und-werbung`
 
-**Frühere Beschreibung:** Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und Online-Shop als bloße Aufforderung zur Angebotsabgabe, verbindliche Preisauszeichnung, automatisierte Bestellbestätigung. Output: Subsumtionsraster und Gutachtenstil.
+**Fokus:** Klausurfall zur Abgrenzung von Angebot und invitatio ad offerendum nach §§ 145 bis 147 BGB: Werbung im Schaufenster und Online-Shop als bloße Aufforderung zur Angebotsabgabe, verbindliche Preisauszeichnung, automatisierte Bestellbestätigung. Output: Subsumtionsraster und Gutachtenstil.
 
 # Invitatio ad offerendum und Werbung — Angebot oder Aufforderung?
 

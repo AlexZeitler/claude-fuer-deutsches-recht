@@ -1,33 +1,33 @@
 ---
 name: kompendium-09-financing-convertibl-bis-fully-diluted-esop-o
-description: "gesellschaftsrecht-legal-english: Konsolidiertes Skill-Kompendium 09; bündelt 2 frühere Spezialskills (financing-convertible-loan-safe, fully-diluted-esop-option-pool) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht-legal-english: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Financing Convertible Loan Safe, Fully Diluted Esop Option Pool; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - gesellschaftsrecht-legal-english
+# Arbeitsbereich - Financing Convertible Loan Safe, Fully Diluted Esop Option Pool
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `financing-convertible-loan-safe` | Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen. |
 | `fully-diluted-esop-option-pool` | Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `financing-convertible-loan-safe`
 
-**Frühere Beschreibung:** Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen.
+**Fokus:** Erklaert Convertible Loan, Wandeldarlehen, SAFE, Discount, Valuation Cap, MFN und deutsche Notar- und Kapitalerhoehungsfragen.
 
 # Convertible Loan und SAFE
 
@@ -94,7 +94,7 @@ Finanzierungsinstrumente nicht als bloße Darlehen lesen, sondern Wandlungsmecha
 
 ## 2. `fully-diluted-esop-option-pool`
 
-**Frühere Beschreibung:** Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren.
+**Fokus:** Fuehrt durch fully diluted basis, ESOP, VSOP, Option Pool, Wandlungsrechte, Verwässerung und die Frage, welche Instrumente in die Berechnung gehoeren.
 
 # Fully Diluted, ESOP und Option Pool
 

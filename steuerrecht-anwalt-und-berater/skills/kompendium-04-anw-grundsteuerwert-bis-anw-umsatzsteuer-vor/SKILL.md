@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anw-grundsteuerwert-bis-anw-umsatzsteuer-vor
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 04; bündelt 9 frühere Spezialskills (anw-grundsteuerwert-bewertung-bewg-218ff, anw-mandat-triage-steuerrecht, anw-minbestg-pillar2-konzernbesteuerung, anw-orientierung, anw-selbstanzeige-371 und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Grundsteuerwert Bewertung Bewg 218ff, Anw Mandat Triage Steuerrecht, Anw Minbestg Pillar2 Konzernbesteuerung, Anw Orientierung und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Grundsteuerwert Bewertung Bewg 218ff bis Anw Umsatzsteuer Vorsteuerabzug Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung. |
 | `anw-mandat-triage-steuerrecht` | Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-grundsteuerwert-bewertung-bewg-218ff`
 
-**Frühere Beschreibung:** Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung.
+**Fokus:** Grundsteuerwert nach BewG §§ 218 ff. prüfen: Bundesmodell, Ertragswert, Sachwert, Bodenrichtwert, Grundstücksart, Steuermesszahl, Hauptfeststellung 01.01.2022, Fehlerdiagnose und Bescheidbegründung.
 
 # Grundsteuerwert: Bewertung nach BewG §§ 218 ff.
 
@@ -124,7 +124,7 @@ Empfehlung: Erst niedrigwertige Belege (Wohnflächenberechnung, Bodenrichtwertau
 
 ## 2. `anw-mandat-triage-steuerrecht`
 
-**Frühere Beschreibung:** Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration.
+**Fokus:** Strukturierte Erstabfrage und Triage bei Eingang eines steuerrechtlichen Mandats. Anwendungsfall Mandant meldet sich mit Steuerproblem Art und Dringlichkeit noch unklar. Klaert Mandantenrolle Steuerart ESt KSt GewSt USt ErbSt GrESt Vorgang Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Aussenprüfung Selbstanzeige AdV verbindliche Auskunft Klage FG. Sofort-Fristen Einspruch § 355 AO ein Monat Jahresfrist § 356 AO Klage § 47 FGO. Eskalation Telefon-Sofort bei Selbstanzeige-Bedarf Hausdurchsuchung Steuerfahndung drohender Vollziehung. Output Triage-Ergebnis Fristenprotokoll naechste Schritte. Abgrenzung zu anw-kaltstart-interview Kanzlei-Konfiguration.
 
 # Mandat-Triage Steuerrecht
 
@@ -307,7 +307,7 @@ Steuerrechts-Mandate sind kurzfristig fristgeprägt (Einspruch ein Monat) und se
 
 ## 3. `anw-minbestg-pillar2-konzernbesteuerung`
 
-**Frühere Beschreibung:** Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax 15 Prozent globaler Mindeststeuersatz. Berechnung effektiver Steuersatz Top-Up Tax Steuererklärung. Output Compliance-Prüfprotokoll Reporting-Konzept Beratungsmemo. Abgrenzung zu anw-organschaft-konzern-grundlagen inlaendische Konzernstruktur.
+**Fokus:** Beratung zur globalen Mindestbesteuerung Pillar Two MinBestG für Konzerne ab 750 Mio EUR Umsatz. Anwendungsfall Konzern fragt nach GloBE-Pflichten Compliance-Aufbau oder Country-by-Country Reporting ab 01.01.2024. MinBestG vom 21.12.2023. GloBE-Regeln IIR Income Inclusion Rule UTPR Undertaxed Profits Rule QDMTT Qualified Domestic Minimum Top-up Tax 15 Prozent globaler Mindeststeuersatz. Berechnung effektiver Steuersatz Top-Up Tax Steuererklärung. Output Compliance-Prüfprotokoll Reporting-Konzept Beratungsmemo. Abgrenzung zu anw-organschaft-konzern-grundlagen inlaendische Konzernstruktur.
 
 # Mindestbesteuerung Pillar Two / MinBestG — Konzernbesteuerung 15 %
 
@@ -495,7 +495,7 @@ Stand: 05/2026. MinBestG seit 1.1.2024. OECD Administrative Guidance Stand Janua
 
 ## 4. `anw-orientierung`
 
-**Frühere Beschreibung:** Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang.
+**Fokus:** Orientierungs-Skill für Anwaeltinnen und Anwaelte im Steuerrecht. Anwendungsfall Einstieg in das Plugin oder Überblick über verfuegbare Skills gewuenscht. Zentrale Gesetze AO EStG KStG UStG GewStG ErbStG GrEStG. Verfahrenswege Einspruch § 347 AO AdV § 361 AO Aussenprüfung §§ 193 ff. AO FG-Klage FGO Revision BFH Steuerstrafrecht §§ 369 ff. AO Selbstanzeige § 371 AO. verifizierbare Quellen lizenzpflichtige Literaturquellen HHSp L. Schmidt EStG. Output Überblick verfuegbare Skills und Routing zu Spezial-Skills. FAO § 9 Fachanwaltsvoraussetzungen als Anhang.
 
 # Anwalt im Steuerrecht — Orientierung
 
@@ -581,7 +581,7 @@ Inhaltlich-fachlich macht der Fachanwaltstitel keinen Unterschied — alle Skill
 
 ## 5. `anw-selbstanzeige-371`
 
-**Frühere Beschreibung:** Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgründe § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklärung. Pflichtprüfung Hoechstrisikobereich mehrere Anwaelte.
+**Fokus:** Selbstanzeige nach § 371 AO als strafbefreiende Berichtigung bei Steuerhinterziehung vorbereiten und einreichen. Anwendungsfall Mandant hat Steuern hinterzogen und will Straffreiheit erlangen bevor Entdeckung droht. Vollständigkeit aller unverjährten Steuerstraftaten zehn Jahre § 376 AO ggf. 15 Jahre Sperrgründe § 371 Abs. 2 AO Nachentrichtung § 371 Abs. 3 AO Zinsen § 235 AO Zuschlag § 398a AO gestaffelt. Abgrenzung § 153 AO Berichtigungspflicht ohne Strafbefreiung zu § 371 AO Vorsatz und § 378 Abs. 3 AO Leichtfertigkeit. Output Berichtigungserklärung. Pflichtprüfung Hoechstrisikobereich mehrere Anwaelte.
 
 # Selbstanzeige nach § 371 AO
 
@@ -788,7 +788,7 @@ Dieser Skill ist Werkzeug zur Vorbereitung. Die Entscheidung Selbstanzeige zu er
 
 ## 6. `anw-steuerbescheid-analyse`
 
-**Frühere Beschreibung:** Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachprüfung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Übergang zu anw-einspruch-finanzamt.
+**Fokus:** Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachprüfung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Übergang zu anw-einspruch-finanzamt.
 
 # Steuerbescheid-Analyse
 
@@ -888,7 +888,7 @@ Analyseprotokoll mit:
 
 ## 7. `anw-steuerstrafverteidigung-verstaendigung`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw steuerstrafverteidigung verstaendigung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung
 
@@ -1191,7 +1191,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 8. `anw-stundung-erlass-vollstreckungsaufschub`
 
-**Frühere Beschreibung:** Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgründen § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begründung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-prüfung-17-19-inso.
+**Fokus:** Anträge auf Stundung Erlass und Vollstreckungsaufschub bei Zahlungsproblemen stellen. Anwendungsfall Mandant kann fällige Steuerschulden vorueber-gehend oder dauerhaft nicht zahlen Vollstreckung droht. Stundung erhebliche Haerte § 222 AO ohne Anspruchsgefaehrdung. Erlass aus persoenlichen oder sachlichen Billigkeitsgründen § 227 AO. Vollstreckungsaufschub bei unbilligem Vollstreckungserfolg § 258 AO Verzinsung bei Stundung § 234 AO. Output Antrag mit Begründung Sicherheitsleistung Ratenzahlungsplan. Abgrenzung zu anw-aussetzung-vollziehung AdV und anw-insolvenzreife-prüfung-17-19-inso.
 
 # Stundung § 222 AO / Erlass § 227 AO / Vollstreckungsaufschub § 258 AO
 
@@ -1369,7 +1369,7 @@ Stand: 05/2026. § 234 AO Stundungszinssatz aktuell unverändert 0.5 %/Monat (ge
 
 ## 9. `anw-umsatzsteuer-vorsteuerabzug-pruefen`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw umsatzsteuer vorsteuerabzug pruefen. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Umsatzsteuer-Vorsteuerabzug prüfen
 

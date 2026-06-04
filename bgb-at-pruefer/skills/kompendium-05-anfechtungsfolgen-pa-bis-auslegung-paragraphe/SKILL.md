@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anfechtungsfolgen-pa-bis-auslegung-paragraphe
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (anfechtungsfolgen-paragraphen-142-122, anspruchsaufbau-zivilrecht-bgb-at, auslegung-paragraphen-133-157) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bgb-at-pruefer
+# Arbeitsbereich - Anfechtungsfolgen Paragraphen 142 122, Anspruchsaufbau Zivilrecht Bgb At, Auslegung Paragraphen 133 157
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfechtungsfolgen-paragraphen-142-122` | Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse. |
 | `anspruchsaufbau-zivilrecht-bgb-at` | Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfechtungsfolgen-paragraphen-142-122`
 
-**Frühere Beschreibung:** Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse.
+**Fokus:** Klausurfall zu Anfechtungsfolgen nach §§ 142 und 122 BGB: ex-tunc-Nichtigkeit des angefochtenen Rechtsgeschäfts, Rückabwicklung nach §§ 812 ff. BGB, Vertrauensschaden des Anfechtungsgegners und Abgrenzung zum Erfüllungsinteresse.
 
 # Anfechtungsfolgen — §§ 142 und 122 BGB
 
@@ -113,7 +113,7 @@ vertraut hätte. Deckelung auf das positive Interesse (§ 122 Abs. 1 a.E. BGB) v
 
 ## 2. `anspruchsaufbau-zivilrecht-bgb-at`
 
-**Frühere Beschreibung:** Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil.
+**Fokus:** Strukturhilfe für den zivilrechtlichen Anspruchsaufbau im BGB Allgemeiner Teil: Anspruchsgrundlage lokalisieren, Tatbestandsmerkmale prüfen, Rechtsfolge feststellen, Einwendungen und Einreden abarbeiten. Klausurorientiert mit Gutachten- und Urteilsstil.
 
 # Anspruchsaufbau im Zivilrecht — BGB Allgemeiner Teil
 
@@ -198,7 +198,7 @@ Der Dreiklang jeder Anspruchsprüfung:
 
 ## 3. `auslegung-paragraphen-133-157`
 
-**Frühere Beschreibung:** Klausurfall zur Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: natürliche Auslegung, normative Auslegung nach objektivem Empfängerhorizont, falsa demonstratio non nocet, ergänzende Vertragsauslegung bei Lücken.
+**Fokus:** Klausurfall zur Auslegung von Willenserklärungen und Verträgen nach §§ 133 und 157 BGB: natürliche Auslegung, normative Auslegung nach objektivem Empfängerhorizont, falsa demonstratio non nocet, ergänzende Vertragsauslegung bei Lücken.
 
 # Auslegung von Willenserklärungen und Verträgen — §§ 133 und 157 BGB
 

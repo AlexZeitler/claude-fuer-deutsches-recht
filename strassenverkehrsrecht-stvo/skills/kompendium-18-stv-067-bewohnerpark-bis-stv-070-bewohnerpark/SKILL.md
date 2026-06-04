@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-stv-067-bewohnerpark-bis-stv-070-bewohnerpark
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (stv-067-bewohnerparken-eilrechtsschutz-planen, stv-068-bewohnerparken-behoerde-anschreiben, stv-069-bewohnerparken-karte-bauen, stv-070-bewohnerparken-risiko-erklaeren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 067 Bewohnerparken Eilrechtsschutz Planen, Stv 068 Bewohnerparken Behoerde Anschreiben, Stv 069 Bewohnerparken Karte Bauen, Stv 070 Bewohnerparken Risiko Erklaeren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 067 Bewohnerparken Eilrechtsschutz Planen bis Stv 070 Bewohnerparken Risiko Erklaeren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-067-bewohnerparken-eilrechtsschutz-planen` | Straßenverkehrsrecht StVO: Bewohnerparken: Eilrechtsschutz planen. Eilrechtsschutz planen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `stv-068-bewohnerparken-behoerde-anschreiben` | Straßenverkehrsrecht StVO: Bewohnerparken: Behörde anschreiben. Behörde anschreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-067-bewohnerparken-eilrechtsschutz-planen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Eilrechtsschutz planen. Eilrechtsschutz planen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Eilrechtsschutz planen. Eilrechtsschutz planen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Eilrechtsschutz Planen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-068-bewohnerparken-behoerde-anschreiben`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Behörde anschreiben. Behörde anschreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Behörde anschreiben. Behörde anschreiben für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Behoerde Anschreiben
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-069-bewohnerparken-karte-bauen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Karte bauen. Karte bauen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Karte bauen. Karte bauen für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Karte Bauen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-070-bewohnerparken-risiko-erklaeren`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Bewohnerparken: Risiko erklären. Risiko erklären für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenverkehrsrecht StVO: Bewohnerparken: Risiko erklären. Risiko erklären für Bewohnerparken im Rahmen von Straßenverkehrsrecht StVO; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Bewohnerparken Risiko Erklaeren
 

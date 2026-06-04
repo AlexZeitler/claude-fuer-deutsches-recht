@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-minderjaehrige-und-s-bis-nutzungen-zinsen-fru
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (minderjaehrige-und-schutzwertung, nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2, nutzungen-verwendungen-gefahrtragung-818, nutzungen-zinsen-fruechte-gebrauchsvorteile) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Minderjaehrige Und Schutzwertung, Nichtleistungskondiktion Grundtatbestand 812 I 1 Alt 2, Nutzungen Verwendungen Gefahrtragung 818, Nutzungen Zinsen Fruechte Gebrauchsvorteile; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Minderjaehrige Und Schutzwertung bis Nutzungen Zinsen Fruechte Gebrauchsvorteile
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `minderjaehrige-und-schutzwertung` | Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB. |
 | `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2` | Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `minderjaehrige-und-schutzwertung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB.
+**Fokus:** Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB.
 
 # Minderjährige und Schutzwertung
 
@@ -103,7 +103,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2`
 
-**Frühere Beschreibung:** Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung).
+**Fokus:** Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung).
 
 # Nichtleistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 2 BGB
 
@@ -194,7 +194,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 3. `nutzungen-verwendungen-gefahrtragung-818`
 
-**Frühere Beschreibung:** Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert prüfen. Output: Wert- und Risiko-Tabelle.
+**Fokus:** Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert prüfen. Output: Wert- und Risiko-Tabelle.
 
 # Nutzungen, Verwendungen und Gefahrtragung bei § 818 BGB
 
@@ -321,7 +321,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `nutzungen-zinsen-fruechte-gebrauchsvorteile`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB.
+**Fokus:** Nutze diesen Skill, wenn Nutzungen und Zinsen ohne Doppelzählung erfasst werden müssen. Normen: § 818 Abs. 1 BGB; § 100 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Berechnungsblatt gezogene Nutzungen mit Wertersatzhöhe. Abgrenzung: nicht Schadenszinsen § 288 BGB.
 
 # Nutzungen, Zinsen, Früchte und Gebrauchsvorteile
 

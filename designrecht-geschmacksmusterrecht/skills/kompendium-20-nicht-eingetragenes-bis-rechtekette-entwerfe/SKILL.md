@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-nicht-eingetragenes-bis-rechtekette-entwerfe
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (nicht-eingetragenes-eu-design, rechtekette-entwerfer-arbeitgeber) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Nicht Eingetragenes Eu Design, Rechtekette Entwerfer Arbeitgeber
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nicht-eingetragenes-eu-design` | Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung. |
 | `rechtekette-entwerfer-arbeitgeber` | Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nicht-eingetragenes-eu-design`
 
-**Frühere Beschreibung:** Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung.
+**Fokus:** Nicht eingetragenes EU-Design prüfen: erste Offenbarung in der EU, dreijähriger Schutz, Nachahmungsnachweis, Beweisprobleme und Verhältnis zur späteren Anmeldung.
 
 # Nicht Eingetragenes Eu Design
 
@@ -59,7 +59,7 @@ Beweisplan und Durchsetzungsampel.
 
 ## 2. `rechtekette-entwerfer-arbeitgeber`
 
-**Frühere Beschreibung:** Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit.
+**Fokus:** Rechtekette vom Entwerfer zum Unternehmen prüfen: freie Designer, Arbeitnehmer, Agentur, Studio, Rechteübertragung, Nutzungsrechte, Entwerfernennung und Beweisbarkeit.
 
 # Rechtekette Entwerfer Arbeitgeber
 

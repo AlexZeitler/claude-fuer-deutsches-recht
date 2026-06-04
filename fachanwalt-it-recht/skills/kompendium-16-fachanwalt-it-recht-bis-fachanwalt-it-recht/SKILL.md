@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-fachanwalt-it-recht-bis-fachanwalt-it-recht
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen, fachanwalt-it-recht-datenschutz-folgenabschaetzung, fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung, fachanwalt-it-recht-open-source-compliance-audit, fachanwalt-it-recht-orientierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu It Recht Cyber Vorfall Sofortmassnahmen, It Recht Datenschutz Folgenabschaetzung, It Recht Ki Vo Hochrisiko Konformitaetsbewertung, It Recht Open Source Compliance Audit und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - fachanwalt-it-recht
+# Arbeitsbereich - It Recht Cyber Vorfall Sofortmassnahmen bis It Recht Orientierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen` | Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung. |
 | `fachanwalt-it-recht-datenschutz-folgenabschaetzung` | Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen`
 
-**Frühere Beschreibung:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
+**Fokus:** Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung.
 
 # Cyber-Vorfall-Sofortmaßnahmen
 
@@ -286,7 +286,7 @@ Aktenzeichens.
 
 ## 2. `fachanwalt-it-recht-datenschutz-folgenabschaetzung`
 
-**Frühere Beschreibung:** Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung.
+**Fokus:** Datenschutz-Folgenabschaetzung DSFA nach Art. 35 DSGVO bei voraussichtlich hohem Risiko. Anwendungsfall neues Verarbeitungsverfahren mit hohem Risiko für Betroffene soll eingeführt werden. Normen Art. 35 DSGVO DSFA-Pflicht Art. 36 DSGVO Konsultation Aufsichtsbehoerde DSK-Blacklist Art. 9 DSGVO besondere Kategorien. Prüfraster Pflicht-Check DSK-Blacklist Risikohoehe systematische Profilbildung umfangreiche Verarbeitung Konsultation Restrisiko Dokumentation. Output DSFA-Dokument mit Verfahrensbeschreibung Risikoanalyse Massnahmen und Genehmigungsprotokoll. Abgrenzung zu fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen und fachanwalt-it-recht-saas-vertrag-verhandlung.
 
 # Datenschutz-Folgenabschätzung
 
@@ -402,7 +402,7 @@ Genehmigt von: [FUNKTION, NAME]
 
 ## 3. `fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung`
 
-**Frühere Beschreibung:** KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
+**Fokus:** KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung.
 
 # KI-VO High-Risk-System Konformitätsbewertung Art. 16–29
 
@@ -725,7 +725,7 @@ Alle übrigen Zitate in diesem Skill wurden nicht beanstandet.
 
 ## 4. `fachanwalt-it-recht-open-source-compliance-audit`
 
-**Frühere Beschreibung:** Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprüft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Prüfraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
+**Fokus:** Open-Source-Software Compliance Audit für GPL LGPL MIT BSD Apache Copyleft und SBOM. Anwendungsfall Software-Produkt enthaelt Open-Source-Komponenten und Lizenzpflichten muessen vor Auslieferung geprüft werden. Normen GPL v2/v3 AGPL LGPL MIT Apache-2.0 Copyleft-Wirkung EU-Cyber-Resilienz-Act SBOM-Pflicht. Prüfraster Inventarisierung Komponentenliste Lizenzkonflikte permissiv vs. Copyleft SBOM-Erstellung Werkzeuge FOSSology BlackDuck. Output Compliance-Audit-Bericht mit Lizenzkarte Konflikten Bereinigungsplan und SBOM-Dokumentation. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen.
 
 # Open-Source-Compliance-Audit
 
@@ -931,7 +931,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 5. `fachanwalt-it-recht-orientierung`
 
-**Frühere Beschreibung:** Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie verifizierbare Quellen und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme.
+**Fokus:** Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie verifizierbare Quellen und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme.
 
 # Fachanwalt für Informationstechnologierecht — Orientierung
 

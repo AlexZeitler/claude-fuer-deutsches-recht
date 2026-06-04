@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-prokura-eintragung-u-bis-rechtsabteilung-gese
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (prokura-eintragung-und-widerruf, rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug, rechtsabteilung-gesellschafterliste-nach-streit-und-ev) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Prokura Eintragung Und Widerruf, Geschaeftsfuehrerbestellung Mit Auslandsbezug, Gesellschafterliste Nach Streit Und Ev; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - handelsregister-praxis
+# Arbeitsbereich - Prokura Eintragung Und Widerruf, Geschaeftsfuehrerbestellung Mit Auslandsbezug, Gesellschafterliste Nach Streit Und Ev
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `prokura-eintragung-und-widerruf` | Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster. |
 | `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug` | Rechtsabteilungs-Spezialskill für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `prokura-eintragung-und-widerruf`
 
-**Frühere Beschreibung:** Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster.
+**Fokus:** Prüft Einzel-/Gesamtprokura, Filialprokura, Gesamtvertretung, Widerruf, Publizität und Unterschriftenmuster.
 
 # Prokura anmelden und löschen
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `rechtsabteilung-geschaeftsfuehrerbestellung-mit-auslandsbezug`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Geschäftsführerbestellung mit Auslandsbezug: Identität, Versicherung, Unterschrift und Übersetzung werden sauber vorbereitet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Geschäftsführerbestellung mit Auslandsbezug
 
@@ -102,7 +102,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-gesellschafterliste-nach-streit-und-ev`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Gesellschafterliste nach Streit und EV: Rechtsabteilungen bauen registertaugliche Listenpakete und Widerspruchsstrategien. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Gesellschafterliste nach Streit und EV
 

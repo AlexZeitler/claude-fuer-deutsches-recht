@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-mitgliedschaften-mit-bis-nicht-aktualisiert-r
-description: "lobbyregister-bundestag: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (mitgliedschaften-mitgliederzahl, nicht-aktualisiert-risiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "lobbyregister-bundestag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mitgliedschaften Mitgliederzahl, Nicht Aktualisiert Risiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - lobbyregister-bundestag
+# Arbeitsbereich - Mitgliedschaften Mitgliederzahl, Nicht Aktualisiert Risiko
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mitgliedschaften-mitgliederzahl` | Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte. |
 | `nicht-aktualisiert-risiko` | Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mitgliedschaften-mitgliederzahl`
 
-**Frühere Beschreibung:** Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte.
+**Fokus:** Erfasst Mitgliederzahl, mitgliedschaftliche Organisation und relevante Mitgliedschaften im Zusammenhang mit Interessenvertretung. Output Mitgliederkarte.
 
 # Mitgliedschaften und Mitgliederzahl
 
@@ -77,7 +77,7 @@ Mitgliederkarte mit Anzahl, Stichtag, Mitgliedschaften, Belegen und Aktualisieru
 
 ## 2. `nicht-aktualisiert-risiko`
 
-**Frühere Beschreibung:** Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan.
+**Fokus:** Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan.
 
 # Nicht-aktualisiert Risiko
 

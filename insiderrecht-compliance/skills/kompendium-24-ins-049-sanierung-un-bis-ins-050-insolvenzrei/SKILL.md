@@ -1,33 +1,33 @@
 ---
 name: kompendium-24-ins-049-sanierung-un-bis-ins-050-insolvenzrei
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (ins-049-sanierung-und-starug, ins-050-insolvenzreife) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - insiderrecht-compliance
+# Arbeitsbereich - Ins 049 Sanierung Und Starug, Ins 050 Insolvenzreife
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-049-sanierung-und-starug` | Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss. |
 | `ins-050-insolvenzreife` | Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-049-sanierung-und-starug`
 
-**Frühere Beschreibung:** Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss.
+**Fokus:** Prueft Insiderrecht-Pflichten in Restrukturierungsverfahren (StaRUG, Schutzschirm, Insolvenzplan): Insiderinformations-Zeitpunkte, Ad-hoc und Glaeubiger-Informationsfluss.
 
 # Sanierung und StaRUG – Insiderrecht bei Restrukturierung
 
@@ -110,7 +110,7 @@ bafin.de, dejure.org.
 
 ## 2. `ins-050-insolvenzreife`
 
-**Frühere Beschreibung:** Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen.
+**Fokus:** Prueft Insiderrecht-Pflichten bei drohender oder eingetretener Insolvenzreife: Ad-hoc-Pflicht, Handelsverbot, Koordination mit InsO-Antragsfristen.
 
 # Insolvenzreife – Insiderrecht und Ad-hoc-Pflicht
 

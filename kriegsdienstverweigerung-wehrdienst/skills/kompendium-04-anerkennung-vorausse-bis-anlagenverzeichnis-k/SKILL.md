@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-anerkennung-vorausse-bis-anlagenverzeichnis-k
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (anerkennung-voraussetzungen-kdvg-5, anerkennungsbescheid-gueltigkeit, angst-karriere-gesundheit-abgrenzen, anhoerungsprotokoll-und-korrektur, anlagenverzeichnis-kdv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anerkennung Voraussetzungen Kdvg 5, Anerkennungsbescheid Gueltigkeit, Angst Karriere Gesundheit Abgrenzen, Anhoerungsprotokoll Und Korrektur und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Anerkennung Voraussetzungen Kdvg 5 bis Anlagenverzeichnis Kdv
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anerkennung-voraussetzungen-kdvg-5` | Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel. |
 | `anerkennungsbescheid-gueltigkeit` | Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anerkennung-voraussetzungen-kdvg-5`
 
-**Frühere Beschreibung:** Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel.
+**Fokus:** Prüft Vollständigkeit, geeignete Beweggründe und fehlende Wahrheitszweifel.
 
 # Anerkennung § 5 KDVG
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `anerkennungsbescheid-gueltigkeit`
 
-**Frühere Beschreibung:** Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien.
+**Fokus:** Erklärt Fortgeltung alter Anerkennungsbescheide und Nachweisstrategien.
 
 # Gültigkeit alter Bescheide
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `angst-karriere-gesundheit-abgrenzen`
 
-**Frühere Beschreibung:** Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen.
+**Fokus:** Unterscheidet Gewissensgründe von Angst, Karriere, Familienlage und Tauglichkeitsfragen.
 
 # Angst Karriere Gesundheit
 
@@ -195,7 +195,7 @@ Keine Totalverweigerung, Dienstflucht oder bloße politische Situationsverweiger
 
 ## 4. `anhoerungsprotokoll-und-korrektur`
 
-**Frühere Beschreibung:** Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf.
+**Fokus:** Prüft Protokoll der Anhörung auf Missverständnisse und Ergänzungsbedarf.
 
 # Anhörungsprotokoll prüfen
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `anlagenverzeichnis-kdv`
 
-**Frühere Beschreibung:** Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag.
+**Fokus:** Erstellt ein nachvollziehbares Anlagenverzeichnis für den KDV-Antrag.
 
 # Anlagenverzeichnis KDV
 

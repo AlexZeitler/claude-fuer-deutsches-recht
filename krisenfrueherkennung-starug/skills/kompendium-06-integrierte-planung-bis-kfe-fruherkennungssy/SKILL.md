@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-integrierte-planung-bis-kfe-fruherkennungssy
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (integrierte-planung-guv-bilanz-cashflow, kennzahlenset-und-ampelsystem-starug-konform, kfe-fruherkennungssystem-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - krisenfrueherkennung-starug
+# Arbeitsbereich - Integrierte Planung Guv Bilanz Cashflow, Kennzahlenset Und Ampelsystem Starug Konform, Kfe Fruherkennungssystem Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `integrierte-planung-guv-bilanz-cashflow` | Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform. |
 | `kennzahlenset-und-ampelsystem-starug-konform` | StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `integrierte-planung-guv-bilanz-cashflow`
 
-**Frühere Beschreibung:** Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform.
+**Fokus:** Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform.
 
 # Integrierte Planung — GuV, Bilanz und Cashflow
 
@@ -273,7 +273,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `kennzahlenset-und-ampelsystem-starug-konform`
 
-**Frühere Beschreibung:** StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template.
+**Fokus:** StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template.
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform
 
@@ -517,7 +517,7 @@ Bevor losgelegt wird, klaere:
 
 ## 3. `kfe-fruherkennungssystem-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster fuer mittelstaendische GmbH.
+**Fokus:** Bauleiter Frueherkennungssystem § 1 StaRUG: Risikolandkarte, Indikatoren, Eskalationsstufen, Berichtswege an Geschaeftsleitung und Aufsichtsorgan. Pruefraster fuer mittelstaendische GmbH.
 
 # KFE: Frueherkennungssystem
 

@@ -1,32 +1,32 @@
 ---
 name: kompendium-19-wesentliche-vertraeg-bis-wesentliche-vertraeg
-description: "gesellschaftsrecht: Konsolidiertes Skill-Kompendium 19; bündelt 1 frühere Spezialskills (wesentliche-vertraege-anlage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsrecht: eigenständiger Arbeits-Skill zu Wesentliche Vertraege Anlage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - gesellschaftsrecht
+# Arbeitsbereich - Wesentliche Vertraege Anlage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wesentliche-vertraege-anlage` | Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wesentliche-vertraege-anlage`
 
-**Frühere Beschreibung:** Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext.
+**Fokus:** Erstellt das Verzeichnis wesentlicher Verträge (Material Contracts Schedule) aus Due-Diligence-Erkenntnissen auf Grundlage der SPA-Definition und des Anhangformats. Berücksichtigt Change-of-Control-Klauseln (BGH-Rspr.), Vendor-Disclosure-Logik und Konsistenz mit anderen Gewährleistungsanhängen. Lädt bei "Vertragsanhang erstellen", "Disclosure Schedule", "wesentliche Verträge", "Anhang 3.X" oder beim Entwurf von Offenlegungsanhängen im M&A-Kontext.
 
 # Material-Vertragsverzeichnis (Disclosure Schedule)
 

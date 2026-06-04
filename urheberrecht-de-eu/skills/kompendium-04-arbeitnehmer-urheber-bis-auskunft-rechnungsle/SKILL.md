@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-arbeitnehmer-urheber-bis-auskunft-rechnungsle
-description: "urheberrecht-de-eu: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (arbeitnehmer-urheber-software, architektur-angewandte-kunst, auskunft-rechnungslegung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "urheberrecht-de-eu: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Arbeitnehmer Urheber Software, Architektur Angewandte Kunst, Auskunft Rechnungslegung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - urheberrecht-de-eu
+# Arbeitsbereich - Arbeitnehmer Urheber Software, Architektur Angewandte Kunst, Auskunft Rechnungslegung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `arbeitnehmer-urheber-software` | Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur. |
 | `architektur-angewandte-kunst` | Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `arbeitnehmer-urheber-software`
 
-**Frühere Beschreibung:** Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur.
+**Fokus:** Prueft Werke im Arbeitsverhältnis, Software-Sonderregel, Auftragsproduktion, Freelancer, Hochschule und Agentur.
 
 # Arbeitnehmerurheber und Auftragswerke
 
@@ -99,7 +99,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 2. `architektur-angewandte-kunst`
 
-**Frühere Beschreibung:** Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen.
+**Fokus:** Prueft Werke der Baukunst, angewandte Kunst, Produktgestaltung, Designrecht und Nutzungsänderungen.
 
 # Architektur und angewandte Kunst
 
@@ -169,7 +169,7 @@ Nach diesem Skill passen häufig `werkhoehe-schoepfungshoehe`, `nutzungsrechte-l
 
 ## 3. `auskunft-rechnungslegung`
 
-**Frühere Beschreibung:** Prueft Informationsansprüche, Drittauskunft, Rechnungslegung, Belegvorlage und Besichtigung im Urheberrechtsstreit.
+**Fokus:** Prueft Informationsansprüche, Drittauskunft, Rechnungslegung, Belegvorlage und Besichtigung im Urheberrechtsstreit.
 
 # Auskunft, Rechnungslegung und Besichtigung
 

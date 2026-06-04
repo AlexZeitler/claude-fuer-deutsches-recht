@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-itr-saas-vertragstyp-bis-dsv-forensische-erst
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (itr-saas-vertragstypen-praxis, dsv-bussgeldverteidigung-art-83, dsv-schadensersatz-art-82, softwarefehler-mangelhaftung-pruefen, dsv-forensische-erstsicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Itr Saas Vertragstypen Praxis, Dsv Bussgeldverteidigung Art 83, Dsv Schadensersatz Art 82, Softwarefehler Mangelhaftung Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fachanwalt-it-recht
+# Arbeitsbereich - Itr Saas Vertragstypen Praxis bis Dsv Forensische Erstsicherung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `itr-saas-vertragstypen-praxis` | SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B. |
 | `dsv-bussgeldverteidigung-art-83` | Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `itr-saas-vertragstypen-praxis`
 
-**Frühere Beschreibung:** SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B.
+**Fokus:** SaaS-Vertragstypen in der Praxis: Mietvertrag, Werkvertrag, Dienstvertrag oder eigenes IT-Vertragstyp. Auswirkungen auf Maengel, Kuendigung, Vergueng. BGH-Rechtsprechung zur Einordnung. Pruefraster und Vertragsmuster B2B.
 
 # IT-Recht: SaaS-Vertragstypen
 
@@ -82,7 +82,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-it-recht`. Er ergaenzt die uebrigen 
 
 ## 2. `dsv-bussgeldverteidigung-art-83`
 
-**Frühere Beschreibung:** Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG.
+**Fokus:** Verteidigt den Verantwortlichen im Bußgeldverfahren nach Art. 83 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Bemessungsfaktoren nach Art. 83 Abs. 2 DSGVO; EDSA-Leitlinien 4/2022 zur Bußgeldberechnung; Wirtschaftliche Einheit nach EuGH Deutsche Wohnen; Verschuldensfrage; Mitwirkungspflicht und Selbstbelastung; Rechtsweg gegen Bußgeldbescheid; OWiG-Spezialitäten. Output: Verteidigungsstrategie mit Bemessungsanalyse. Abgrenzung: keine Schadensersatzverteidigung Art. 82; keine Strafverteidigung § 42 BDSG.
 
 # Bußgeldverteidigung Art. 83 DSGVO nach Datenschutzvorfall
 
@@ -140,7 +140,7 @@ Schritt 6: Stellungnahme verfassen; ggf. Bußgeldbescheid abwarten; Einspruch fr
 
 ## 3. `dsv-schadensersatz-art-82`
 
-**Frühere Beschreibung:** Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung.
+**Fokus:** Verteidigt den Verantwortlichen gegen Schadensersatzansprüche nach Art. 82 DSGVO im Nachgang eines Datenschutzvorfalls. Behandelt: Anspruchsvoraussetzungen; materieller und immaterieller Schaden; EuGH-Rechtsprechung (insbesondere Österreichische Post C-300/21; Saturn C-687/21); Substantiierungsanforderungen; Bagatellschwelle; Kausalität; Exkulpation nach Art. 82 Abs. 3 DSGVO; gesamtschuldnerische Haftung. Output: Verteidigungsraster mit Schriftsatzgliederung. Abgrenzung: keine Bußgeldverteidigung.
 
 # Schadensersatz nach Art. 82 DSGVO — Verteidigung
 
@@ -199,7 +199,7 @@ F. Höhe — Bagatellgrenze; Vergleich mit Rechtsprechung.
 
 ## 4. `softwarefehler-mangelhaftung-pruefen`
 
-**Frühere Beschreibung:** Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjährung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Prüfraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Rücktritt Open-Source-GPL-Compliance. Output Mangel-Prüfprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung.
+**Fokus:** Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjährung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Prüfraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Rücktritt Open-Source-GPL-Compliance. Output Mangel-Prüfprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung.
 
 # Softwarefehler — Mangelhaftung prüfen
 
@@ -463,7 +463,7 @@ Anlagen: Fehlerprotokoll, Screenshots, Log-Auszuege (Anlage K1–K3)
 
 ## 5. `dsv-forensische-erstsicherung`
 
-**Frühere Beschreibung:** Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate; Kommunikation mit Aufsichtsbehörde; Schnittstellen zur Cyberversicherung. Output: Beauftragungsmuster, Briefing für Forensiker und Steuerungsraster. Abgrenzung: keine eigene forensische Tätigkeit; keine technische Anleitung.
+**Fokus:** Steuert die forensische Erstsicherung nach einem Datenschutzvorfall im Zusammenspiel zwischen Mandant, interner IT, externem Forensiker und Anwaltskanzlei. Behandelt: Auswahl und Beauftragung des Forensikers; Mandatsstruktur mit Anwaltsprivileg; Scope; Triage versus tiefe Analyse; Berichtsformate; Kommunikation mit Aufsichtsbehörde; Schnittstellen zur Cyberversicherung. Output: Beauftragungsmuster, Briefing für Forensiker und Steuerungsraster. Abgrenzung: keine eigene forensische Tätigkeit; keine technische Anleitung.
 
 # Forensische Erstsicherung — Beauftragung und Steuerung
 

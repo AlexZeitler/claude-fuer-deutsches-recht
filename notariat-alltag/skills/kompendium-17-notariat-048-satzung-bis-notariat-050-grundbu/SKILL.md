@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-notariat-048-satzung-bis-notariat-050-grundbu
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi, notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist, notariat-050-grundbuchauszug-lesen-abteilung-ii-und-iii) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat 050 Grundbuchauszug Lesen Abteilung Ii Und Iii; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - notariat-alltag
+# Arbeitsbereich - Notariat 048 Satzungsaenderung Beschlussmaengel Und Registerrisi, Notariat 049 Liste Wirtschaftlich Berechtigter Transparenzregist, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi` | Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung. |
 | `notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist` | Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-048-satzungsaenderung-beschlussmaengel-und-registerrisi`
 
-**Frühere Beschreibung:** Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung.
+**Fokus:** Notariat im Alltag: Satzungsänderung – Beschlussmängel und Registerrisiko. Voraussetzungen für wirksame Satzungsänderungen bei GmbH und AG, häufige Beschlussmängel und Konsequenzen bei der Handelsregistereintragung.
 
 # Notariat im Alltag: Satzungsänderung – Beschlussmängel, Registerrisiko
 
@@ -126,7 +126,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-049-liste-wirtschaftlich-berechtigter-transparenzregist`
 
-**Frühere Beschreibung:** Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung.
+**Fokus:** Notariat im Alltag: Liste wirtschaftlich Berechtigter und Transparenzregister. Meldepflichten nach GwG §§ 20–24, Abfragepflichten des Notars, Bußgelder und praktische Umsetzung.
 
 # Notariat im Alltag: Liste wirtschaftlich Berechtigter – Transparenzregister
 
@@ -221,7 +221,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-050-grundbuchauszug-lesen-abteilung-ii-und-iii`
 
-**Frühere Beschreibung:** Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III. Systematische Analyse aller Grundbuchinhalte, Bedeutung der Eintragungen in Abt. I (Eigentum), II (Belastungen) und III (Grundpfandrechte) für den Vollzug.
+**Fokus:** Notariat im Alltag: Grundbuchauszug lesen – Abteilung II und III. Systematische Analyse aller Grundbuchinhalte, Bedeutung der Eintragungen in Abt. I (Eigentum), II (Belastungen) und III (Grundpfandrechte) für den Vollzug.
 
 # Notariat im Alltag: Grundbuchauszug lesen – Abt. II und III
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-ein-012-ausschlussfr-bis-ein-035-treuhandpriv
-description: "einigungsvertrag-vermoegensrecht: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (ein-012-ausschlussfristen-und-bestandskraft, ein-014-verwaltungsverfahren-wiederaufgreifen, ein-025-volkseigener-betrieb-fristproblem-mark, ein-035-treuhandprivatisierung-fristproblem-ma) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "einigungsvertrag-vermoegensrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ein 012 Ausschlussfristen Und Bestandskraft, Ein 014 Verwaltungsverfahren Wiederaufgreifen, Ein 025 Volkseigener Betrieb Fristproblem Mark, Ein 035 Treuhandprivatisierung Fristproblem Ma; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - einigungsvertrag-vermoegensrecht
+# Arbeitsbereich - Ein 012 Ausschlussfristen Und Bestandskraft bis Ein 035 Treuhandprivatisierung Fristproblem Ma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ein-012-ausschlussfristen-und-bestandskraft` | Einigungsvertrag und Vermögensrecht: Ausschlussfristen und Bestandskraft. Ausschlussfristen und Bestandskraft im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `ein-014-verwaltungsverfahren-wiederaufgreifen` | Einigungsvertrag und Vermögensrecht: Verwaltungsverfahren wiederaufgreifen. Verwaltungsverfahren wiederaufgreifen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ein-012-ausschlussfristen-und-bestandskraft`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Ausschlussfristen und Bestandskraft. Ausschlussfristen und Bestandskraft im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Ausschlussfristen und Bestandskraft. Ausschlussfristen und Bestandskraft im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Ausschlussfristen Und Bestandskraft
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ein-014-verwaltungsverfahren-wiederaufgreifen`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Verwaltungsverfahren wiederaufgreifen. Verwaltungsverfahren wiederaufgreifen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Verwaltungsverfahren wiederaufgreifen. Verwaltungsverfahren wiederaufgreifen im Fachgebiet Einigungsvertrag und Vermögensrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Verwaltungsverfahren Wiederaufgreifen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ein-025-volkseigener-betrieb-fristproblem-mark`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Fristproblem markieren. Fristproblem markieren für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Volkseigener Betrieb: Fristproblem markieren. Fristproblem markieren für Volkseigener Betrieb im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Volkseigener Betrieb Fristproblem Mark
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ein-035-treuhandprivatisierung-fristproblem-ma`
 
-**Frühere Beschreibung:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Fristproblem markieren. Fristproblem markieren für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Einigungsvertrag und Vermögensrecht: Treuhandprivatisierung: Fristproblem markieren. Fristproblem markieren für Treuhandprivatisierung im Rahmen von Einigungsvertrag und Vermögensrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Treuhandprivatisierung Fristproblem Ma
 

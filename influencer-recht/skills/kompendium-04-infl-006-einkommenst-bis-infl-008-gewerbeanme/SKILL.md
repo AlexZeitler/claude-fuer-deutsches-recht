@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-infl-006-einkommenst-bis-infl-008-gewerbeanme
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (infl-006-einkommensteuer-betriebseinnahme-private-nutzung, infl-007-kleinunternehmerregelung-und-wachstumsschmerz, infl-008-gewerbeanmeldung-creator-taetigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung Creator Taetigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - influencer-recht
+# Arbeitsbereich - Infl 006 Einkommensteuer Betriebseinnahme Private Nutzung, Infl 007 Kleinunternehmerregelung Und Wachstumsschmerz, Infl 008 Gewerbeanmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-006-einkommensteuer-betriebseinnahme-private-nutzung` | Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen. |
 | `infl-007-kleinunternehmerregelung-und-wachstumsschmerz` | Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-006-einkommensteuer-betriebseinnahme-private-nutzung`
 
-**Frühere Beschreibung:** Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen.
+**Fokus:** Influencer-Recht: Einkommensteuer für Creator – Betriebseinnahmen, private Nutzung von Betriebsmitteln, Abgrenzung und EÜR-Grundlagen.
 
 # Influencer-Recht: Einkommensteuer – Betriebseinnahme und private Nutzung
 
@@ -96,7 +96,7 @@ Creator als Gewerbetreibende oder Freiberufler unterliegen der Einkommensteuer a
 
 ## 2. `infl-007-kleinunternehmerregelung-und-wachstumsschmerz`
 
-**Frühere Beschreibung:** Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen.
+**Fokus:** Influencer-Recht: Kleinunternehmerregelung – Vorteile, Nachteile, Wechsel zur Regelbesteuerung und kritische Umsatzschwellen.
 
 # Influencer-Recht: Kleinunternehmerregelung und Wachstumsschmerz
 
@@ -158,7 +158,7 @@ Die Kleinunternehmerregelung ist für viele Creator der Einstieg – birgt aber 
 
 ## 3. `infl-008-gewerbeanmeldung-creator-taetigkeit`
 
-**Frühere Beschreibung:** Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit.
+**Fokus:** Influencer-Recht: Gewerbeanmeldung für Creator – Pflicht, Ausnahmen, Ablauf, Gewerbesteuer und Abgrenzung zur freiberuflichen Tätigkeit.
 
 # Influencer-Recht: Gewerbeanmeldung für Creator
 

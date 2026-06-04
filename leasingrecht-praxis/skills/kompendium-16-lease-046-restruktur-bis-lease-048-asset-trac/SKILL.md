@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-lease-046-restruktur-bis-lease-048-asset-trac
-description: "leasingrecht-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (lease-046-restrukturierung-stundung-stillhaltevereinbarung, lease-047-leasing-in-sanierungsgutachten, lease-048-asset-tracking-und-eigentumskennzeichnung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "leasingrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumskennzeichnung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - leasingrecht-praxis
+# Arbeitsbereich - Lease 046 Restrukturierung Stundung Stillhaltevereinbarung, Lease 047 Leasing In Sanierungsgutachten, Lease 048 Asset Tracking Und Eigentumsk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lease-046-restrukturierung-stundung-stillhaltevereinbarung` | Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG. |
 | `lease-047-leasing-in-sanierungsgutachten` | Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lease-046-restrukturierung-stundung-stillhaltevereinbarung`
 
-**Frühere Beschreibung:** Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG.
+**Fokus:** Leasingrestrukturierung: Stundung, Ratensenkung, Stillhaltevereinbarung, Schuldnerberatung, Rangrücktritt und Sanierungsbeitrag des LG.
 
 # Restrukturierung: Stundung und Stillhaltevereinbarung
 
@@ -130,7 +130,7 @@ Gerät der Leasingnehmer in finanzielle Schwierigkeiten, ist eine einvernehmlich
 
 ## 2. `lease-047-leasing-in-sanierungsgutachten`
 
-**Frühere Beschreibung:** Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen.
+**Fokus:** Leasing im Sanierungsgutachten: Behandlung von Leasingverbindlichkeiten in IDW S6-Gutachten, Fortführungsprognose, Leasingkosten und Restrukturierungsmaßnahmen.
 
 # Leasing im Sanierungsgutachten (IDW S6)
 
@@ -235,7 +235,7 @@ Detaillierte Angaben zu RoU, Leasingverbindlichkeiten, Laufzeiten und Cash-Auswi
 
 ## 3. `lease-048-asset-tracking-und-eigentumskennzeichnung`
 
-**Frühere Beschreibung:** Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten.
+**Fokus:** Asset Tracking und Eigentumskennzeichnung: GPS, RFID, QR-Codes, rechtliche Grundlagen, Datenschutz und Durchsetzung gegenüber Dritten.
 
 # Asset Tracking und Eigentumskennzeichnung im Leasing
 

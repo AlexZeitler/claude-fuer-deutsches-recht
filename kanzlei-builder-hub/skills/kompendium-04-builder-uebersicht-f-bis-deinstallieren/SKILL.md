@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-builder-uebersicht-f-bis-deinstallieren
-description: "kanzlei-builder-hub: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (builder-uebersicht-fuer-einsteiger, deaktivieren, deinstallieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-builder-hub: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Builder Uebersicht Fuer Einsteiger, Deaktivieren, Deinstallieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - kanzlei-builder-hub
+# Arbeitsbereich - Builder Uebersicht Fuer Einsteiger, Deaktivieren, Deinstallieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `builder-uebersicht-fuer-einsteiger` | Einfuehrender Ueberblick fuer Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag. |
 | `deaktivieren` | Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `builder-uebersicht-fuer-einsteiger`
 
-**Frühere Beschreibung:** Einfuehrender Ueberblick fuer Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag.
+**Fokus:** Einfuehrender Ueberblick fuer Einsteiger: Was kann der Kanzlei-Builder-Hub? Skills installieren, deaktivieren, deinstallieren, anpassen. Routet die wichtigsten Fragen an die passenden Sub-Skills. Mit Beispielszenarien aus dem Kanzleialltag.
 
 # Builder: Uebersicht Einsteiger
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `kanzlei-builder-hub`. Er ergaenzt die uebrigen 
 
 ## 2. `deaktivieren`
 
-**Frühere Beschreibung:** Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation.
+**Fokus:** Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation.
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)
 
@@ -241,7 +241,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `deinstallieren`
 
-**Frühere Beschreibung:** Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren.
+**Fokus:** Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren.
 
 # Deinstallation
 

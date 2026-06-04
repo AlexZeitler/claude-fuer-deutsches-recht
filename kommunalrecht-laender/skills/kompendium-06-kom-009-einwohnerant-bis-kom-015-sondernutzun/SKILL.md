@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-kom-009-einwohnerant-bis-kom-015-sondernutzun
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 06; bündelt 6 frühere Spezialskills (kom-009-einwohnerantrag-und-petition, kom-011-haushalt-und-haushaltssicherung, kom-012-kommunales-unternehmen, kom-013-oeffentliche-einrichtung, kom-014-benutzungsordnung und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 009 Einwohnerantrag Und Petition, Kom 011 Haushalt Und Haushaltssicherung, Kom 012 Kommunales Unternehmen, Kom 013 Oeffentliche Einrichtung und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - kommunalrecht-laender
+# Arbeitsbereich - Kom 009 Einwohnerantrag Und Petition bis Kom 015 Sondernutzung Im Strassenraum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-009-einwohnerantrag-und-petition` | Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `kom-011-haushalt-und-haushaltssicherung` | Kommunalrecht der Länder: Haushalt und Haushaltssicherung. Haushalt und Haushaltssicherung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-009-einwohnerantrag-und-petition`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Einwohnerantrag und Petition. Einwohnerantrag und Petition im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Einwohnerantrag Und Petition
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-011-haushalt-und-haushaltssicherung`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Haushalt und Haushaltssicherung. Haushalt und Haushaltssicherung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Haushalt und Haushaltssicherung. Haushalt und Haushaltssicherung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Haushalt Und Haushaltssicherung
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-012-kommunales-unternehmen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Kommunales Unternehmen. Kommunales Unternehmen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Kommunales Unternehmen. Kommunales Unternehmen im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunales Unternehmen
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-013-oeffentliche-einrichtung`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Öffentliche Einrichtung. Öffentliche Einrichtung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Öffentliche Einrichtung. Öffentliche Einrichtung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Oeffentliche Einrichtung
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-014-benutzungsordnung`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Benutzungsordnung. Benutzungsordnung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Benutzungsordnung. Benutzungsordnung im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Benutzungsordnung
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-015-sondernutzung-im-strassenraum`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernutzung im Straßenraum im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Kommunalrecht der Länder: Sondernutzung im Straßenraum. Sondernutzung im Straßenraum im Fachgebiet Kommunalrecht der Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Sondernutzung Im Strassenraum
 

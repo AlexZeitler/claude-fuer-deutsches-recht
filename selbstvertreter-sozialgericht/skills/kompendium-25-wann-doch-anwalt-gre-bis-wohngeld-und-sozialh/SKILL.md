@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-wann-doch-anwalt-gre-bis-wohngeld-und-sozialh
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 25; bündelt 5 frühere Spezialskills (wann-doch-anwalt-grenzfaelle-sozialgericht, widerspruch-begruendung-laienleitfaden, widerspruch-gegen-gutachten-laien, widerspruchsbescheid-was-jetzt, wohngeld-und-sozialhilfe-grenzfaelle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wann Doch Anwalt Grenzfaelle Sozialgericht, Widerspruch Begruendung Laienleitfaden, Widerspruch Gegen Gutachten Laien, Widerspruchsbescheid Was Jetzt und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Wann Doch Anwalt Grenzfaelle Sozialgericht bis Wohngeld Und Sozialhilfe Grenzfaelle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wann-doch-anwalt-grenzfaelle-sozialgericht` | Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe. |
 | `widerspruch-begruendung-laienleitfaden` | Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wann-doch-anwalt-grenzfaelle-sozialgericht`
 
-**Frühere Beschreibung:** Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe.
+**Fokus:** Wann sollten Sie als Buerger doch einen Anwalt einschalten. Komplexe medizinische Fragen mehrere Bescheide LSG-Verfahren Beratungshilfe PKH. Entscheidungshilfe.
 
 # Wann sollten Sie doch einen Anwalt einschalten?
 
@@ -173,7 +173,7 @@ Stand: 05/2026. Praxisempfehlung.
 
 ## 2. `widerspruch-begruendung-laienleitfaden`
 
-**Frühere Beschreibung:** Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen.
+**Fokus:** Wie Sie Ihren Widerspruch ohne Anwalt sinnvoll begründen. Tatsachen Beweismittel Gegenargumente. Aufbau Mustertexte und konkrete Beispiele für typische Streitthemen.
 
 # So begruenden Sie Ihren Widerspruch — fuer Laien
 
@@ -325,7 +325,7 @@ Stand: 05/2026. § 24 SGB X garantiert Ihr Anhoerungsrecht. § 25 SGB X gibt Ans
 
 ## 3. `widerspruch-gegen-gutachten-laien`
 
-**Frühere Beschreibung:** Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt.
+**Fokus:** Wie Sie sich gegen ein negatives Gutachten wehren. Schriftliche Stellungnahme Frage nach Erlaeuterung neuer Beweisantrag. Schritte für den Buerger ohne Anwalt.
 
 # Sich gegen ein negatives Gutachten wehren
 
@@ -478,7 +478,7 @@ Stand: 05/2026. § 411 ZPO analog. Erlaeuterung im Termin selten verweigert.
 
 ## 4. `widerspruchsbescheid-was-jetzt`
 
-**Frühere Beschreibung:** Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid.
+**Fokus:** Sie haben den Widerspruchsbescheid bekommen. Was nun? Klagefrist 1 Monat § 87 SGG. Klage einreichen oder akzeptieren. Wegweiser für Buerger nach dem Widerspruchsbescheid.
 
 # Widerspruchsbescheid erhalten — was jetzt?
 
@@ -616,7 +616,7 @@ Stand: 05/2026. § 87 SGG aktuell. 1-Monats-Frist klar. PostModG 2025 wichtig fu
 
 ## 5. `wohngeld-und-sozialhilfe-grenzfaelle`
 
-**Frühere Beschreibung:** Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht.
+**Fokus:** Abgrenzung Wohngeld zu Sozialhilfe. Wer bekommt was und welches Gericht ist zuständig. Wohngeld Verwaltungsgericht Sozialhilfe Sozialgericht.
 
 # Wohngeld und Sozialhilfe — wo gehoeren Sie hin?
 

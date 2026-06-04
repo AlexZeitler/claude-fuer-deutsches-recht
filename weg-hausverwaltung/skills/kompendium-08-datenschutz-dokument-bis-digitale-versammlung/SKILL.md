@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-datenschutz-dokument-bis-digitale-versammlung
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (datenschutz-dokumentenfreigabe, datenschutz-vvt-tom-avv-hausverwaltung, digitale-versammlung-screenreader-untertitel) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Datenschutz Dokumentenfreigabe, Datenschutz Vvt Tom Avv Hausverwaltung, Digitale Versammlung Screenreader Untertitel; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - weg-hausverwaltung
+# Arbeitsbereich - Datenschutz Dokumentenfreigabe, Datenschutz Vvt Tom Avv Hausverwaltung, Digitale Versammlung Screenreader Untertitel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `datenschutz-dokumentenfreigabe` | Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwaltungsunterlagen); § 28 Abs. 4 WEG nur für den Vermögensbericht. |
 | `datenschutz-vvt-tom-avv-hausverwaltung` | VVT nach Art. 30 DSGVO, TOM nach Art. 32 und AVV nach Art. 28 DSGVO fuer die typische Hausverwaltung (Stand 06/2026): Verarbeitungsverzeichnis-Muster, TOM-Mindeststandards, AVV-Pflichten gegenueber Buchhaltungssoftware und Cloud-Diensten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `datenschutz-dokumentenfreigabe`
 
-**Frühere Beschreibung:** Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwaltungsunterlagen); § 28 Abs. 4 WEG nur für den Vermögensbericht.
+**Fokus:** Prüft Datenschutz und Dokumentenfreigaben in der Hausverwaltung (Stand 05/2026): Eigentümerlisten, Belegeinsicht, Handwerkerdaten, Mieterbeschwerden, Cloud-Ordner, Schwärzungen und Versandkreis. Schnittstelle zum Datenschutzrecht-Plugin bei hohem Risiko; Belegeinsicht nach § 18 Abs. 4 WEG (Verwaltungsunterlagen); § 28 Abs. 4 WEG nur für den Vermögensbericht.
 
 # Datenschutz und Dokumentenfreigabe
 
@@ -126,7 +126,7 @@ Transparenz in der GdWE ermöglichen, ohne personenbezogene Daten unnötig breit
 
 ## 2. `datenschutz-vvt-tom-avv-hausverwaltung`
 
-**Frühere Beschreibung:** VVT nach Art. 30 DSGVO, TOM nach Art. 32 und AVV nach Art. 28 DSGVO fuer die typische Hausverwaltung (Stand 06/2026): Verarbeitungsverzeichnis-Muster, TOM-Mindeststandards, AVV-Pflichten gegenueber Buchhaltungssoftware und Cloud-Diensten.
+**Fokus:** VVT nach Art. 30 DSGVO, TOM nach Art. 32 und AVV nach Art. 28 DSGVO fuer die typische Hausverwaltung (Stand 06/2026): Verarbeitungsverzeichnis-Muster, TOM-Mindeststandards, AVV-Pflichten gegenueber Buchhaltungssoftware und Cloud-Diensten.
 
 # Datenschutz: VVT, TOM und AVV für die Hausverwaltung
 
@@ -203,7 +203,7 @@ EuGH, Urteil vom 14.12.2023, C-340/21 (Bulgarische NRA-Hack): Schon die unbefugt
 
 ## 3. `digitale-versammlung-screenreader-untertitel`
 
-**Frühere Beschreibung:** Hybride und rein digitale Eigentuemerversammlung nach § 23 Abs. 1 WEG barrierefrei durchfuehren (Stand 06/2026): Live-Untertitel Zoom/Teams, Screenreader-kompatible Abstimmung, Tonqualitaet, Vollmacht in Textform. BGH V ZR 33/24.
+**Fokus:** Hybride und rein digitale Eigentuemerversammlung nach § 23 Abs. 1 WEG barrierefrei durchfuehren (Stand 06/2026): Live-Untertitel Zoom/Teams, Screenreader-kompatible Abstimmung, Tonqualitaet, Vollmacht in Textform. BGH V ZR 33/24.
 
 # Digitale Versammlung: Screenreader, Untertitel und Barrierefreiheit
 

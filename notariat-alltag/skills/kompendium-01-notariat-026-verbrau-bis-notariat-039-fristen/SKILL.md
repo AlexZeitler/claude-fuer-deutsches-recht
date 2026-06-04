@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-notariat-026-verbrau-bis-notariat-039-fristen
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand, notariat-035-aufgebotsverfahren-verlorener-grundschuldbrief, notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage-eskal) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fristenkalender Vollzugsmonitor Wiedervorlage Eskal; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - notariat-alltag
+# Arbeitsbereich - Notariat 026 Verbrauchervertrag Wartefrist Und Entwurfsversand, Notariat 035 Aufgebotsverfahren Verlorener Grundschuldbrief, Notariat 039 Fri
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand` | Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen. |
 | `notariat-035-aufgebotsverfahren-verlorener-grundschuldbrief` | Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-026-verbrauchervertrag-wartefrist-und-entwurfsversand`
 
-**Frühere Beschreibung:** Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen.
+**Fokus:** Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand. § 17 Abs. 2a BeurkG, Anwendungsbereich, Fristberechnung, Dokumentation und Rechtsfolgen bei Verstößen.
 
 # Notariat im Alltag: Verbrauchervertrag, Wartefrist und Entwurfsversand
 
@@ -118,7 +118,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-035-aufgebotsverfahren-verlorener-grundschuldbrief`
 
-**Frühere Beschreibung:** Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung.
+**Fokus:** Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief. Verfahren nach §§ 1162–1163 BGB i.V.m. FamFG, Antrag beim Amtsgericht, Bekanntmachungspflichten und Kraftloserklärung.
 
 # Notariat im Alltag: Aufgebotsverfahren – verlorener Grundschuldbrief
 
@@ -199,7 +199,7 @@ Manche Grundbuchämter akzeptieren eine notariell aufgenommene eidesstattliche V
 
 ## 3. `notariat-039-fristenkalender-vollzugsmonitor-wiedervorlage-eskal`
 
-**Frühere Beschreibung:** Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden.
+**Fokus:** Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage und Eskalation. Systematisches Fristenmanagement im Notariat, Wiedervorlagepflichten und Eskalationsregeln bei drohenden Vollzugsblockaden.
 
 # Notariat im Alltag: Fristenkalender, Vollzugsmonitor, Wiedervorlage, Eskalation
 

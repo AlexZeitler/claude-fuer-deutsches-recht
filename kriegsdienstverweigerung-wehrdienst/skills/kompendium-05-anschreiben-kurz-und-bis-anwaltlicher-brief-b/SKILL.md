@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-anschreiben-kurz-und-bis-anwaltlicher-brief-b
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (anschreiben-kurz-und-wuerdig, antrag-bapersbw-form, antrag-zur-niederschrift, anwaltlicher-brief-bafza, anwaltlicher-brief-bapersbw) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anschreiben Kurz Und Wuerdig, Antrag Bapersbw Form, Antrag Zur Niederschrift, Anwaltlicher Brief Bafza und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Anschreiben Kurz Und Wuerdig bis Anwaltlicher Brief Bapersbw
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anschreiben-kurz-und-wuerdig` | Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste. |
 | `antrag-bapersbw-form` | Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anschreiben-kurz-und-wuerdig`
 
-**Frühere Beschreibung:** Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste.
+**Fokus:** Erstellt ein kurzes Anschreiben mit Art.-4-Berufung und Anlagenliste.
 
 # Anschreiben kurz und würdig
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `antrag-bapersbw-form`
 
-**Frühere Beschreibung:** Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung.
+**Fokus:** Führt durch Adresse, Form, Unterschrift, Lebenslauf und persönliche Begründung.
 
 # Antrag beim BAPersBw
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `antrag-zur-niederschrift`
 
-**Frühere Beschreibung:** Erklärt Antragstellung zur Niederschrift beim BAPersBw.
+**Fokus:** Erklärt Antragstellung zur Niederschrift beim BAPersBw.
 
 # Antrag zur Niederschrift
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `anwaltlicher-brief-bafza`
 
-**Frühere Beschreibung:** Formuliert Schreiben im inhaltlichen Anerkennungsverfahren.
+**Fokus:** Formuliert Schreiben im inhaltlichen Anerkennungsverfahren.
 
 # Anwaltlicher Brief BAFzA
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `anwaltlicher-brief-bapersbw`
 
-**Frühere Beschreibung:** Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13.
+**Fokus:** Formuliert Schreiben zu Eingang, Weiterleitung, Musterung und §13.
 
 # Anwaltlicher Brief BAPersBw
 

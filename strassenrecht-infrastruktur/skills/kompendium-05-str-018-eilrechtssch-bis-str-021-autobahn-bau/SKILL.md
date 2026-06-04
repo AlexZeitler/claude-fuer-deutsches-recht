@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-str-018-eilrechtssch-bis-str-021-autobahn-bau
-description: "strassenrecht-infrastruktur: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (str-018-eilrechtsschutz-gegen-bau, str-019-aktenplan-infrastruktur, str-020-landesstrassengesetz-livecheck, str-021-autobahn-baulast-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenrecht-infrastruktur: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Str 018 Eilrechtsschutz Gegen Bau, Str 019 Aktenplan Infrastruktur, Str 020 Landesstrassengesetz Livecheck, Str 021 Autobahn Baulast Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - strassenrecht-infrastruktur
+# Arbeitsbereich - Str 018 Eilrechtsschutz Gegen Bau bis Str 021 Autobahn Baulast Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `str-018-eilrechtsschutz-gegen-bau` | Straßenrecht und Infrastruktur: Eilrechtsschutz gegen Bau. Eilrechtsschutz gegen Bau im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `str-019-aktenplan-infrastruktur` | Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `str-018-eilrechtsschutz-gegen-bau`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Eilrechtsschutz gegen Bau. Eilrechtsschutz gegen Bau im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Eilrechtsschutz gegen Bau. Eilrechtsschutz gegen Bau im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Eilrechtsschutz Gegen Bau
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `str-019-aktenplan-infrastruktur`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Aktenplan Infrastruktur. Aktenplan Infrastruktur im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Aktenplan Infrastruktur
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `str-020-landesstrassengesetz-livecheck`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Landesstraßengesetz-Livecheck. Landesstraßengesetz-Livecheck im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenrecht und Infrastruktur: Landesstraßengesetz-Livecheck. Landesstraßengesetz-Livecheck im Fachgebiet Straßenrecht und Infrastruktur als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Landesstrassengesetz Livecheck
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `str-021-autobahn-baulast-pruefen`
 
-**Frühere Beschreibung:** Straßenrecht und Infrastruktur: Autobahn: Baulast prüfen. Baulast prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Straßenrecht und Infrastruktur: Autobahn: Baulast prüfen. Baulast prüfen für Autobahn im Rahmen von Straßenrecht und Infrastruktur; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Autobahn Baulast Pruefen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-gmbh-co-kg-kommandit-bis-hochschullehrbeauftr
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (gmbh-co-kg-kommanditist-gf, gruppenfeststellung-gleichartige-auftraege, handwerker-solo, hochschullehrbeauftragte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gmbh Co Kg Kommanditist Gf, Gruppenfeststellung Gleichartige Auftraege, Handwerker Solo, Hochschullehrbeauftragte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Gmbh Co Kg Kommanditist Gf bis Hochschullehrbeauftragte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gmbh-co-kg-kommanditist-gf` | Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung. |
 | `gruppenfeststellung-gleichartige-auftraege` | Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gmbh-co-kg-kommanditist-gf`
 
-**Frühere Beschreibung:** Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung.
+**Fokus:** Prüft Status in GmbH & Co. KG-Strukturen, Komplementär-GmbH, Kommanditistenrechte und Geschäftsführung.
 
 # GmbH & Co. KG Kommanditist/GF
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `gruppenfeststellung-gleichartige-auftraege`
 
-**Frühere Beschreibung:** Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen.
+**Fokus:** Prüft Möglichkeiten einer übergreifenden Beurteilung gleichartiger Auftragsverhältnisse und ihre Grenzen.
 
 # Gruppenfeststellung gleichartige Aufträge
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `handwerker-solo`
 
-**Frühere Beschreibung:** Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit.
+**Fokus:** Prüft Solo-Handwerker, Subunternehmer, Baustellenintegration, eigenes Werkzeug, Gewährleistung und Scheinselbständigkeit.
 
 # Solo-Handwerker
 
@@ -225,7 +225,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `hochschullehrbeauftragte`
 
-**Frühere Beschreibung:** Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung.
+**Fokus:** Prüft Lehrbeauftragte, Hochschulorganisation, Prüfungen, Deputat, Freiheit der Lehre und Sozialversicherung.
 
 # Hochschullehrbeauftragte
 

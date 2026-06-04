@@ -1,33 +1,33 @@
 ---
 name: kompendium-16-nkr-stellungnahme-gr-bis-nkr-stellungnahme-ma
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 16; bündelt 2 frühere Spezialskills (nkr-stellungnahme-grundsatzfeststellung, nkr-stellungnahme-mahnender-charakter-grenzen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Stellungnahme Grundsatzfeststellung, Nkr Stellungnahme Mahnender Charakter Grenzen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Stellungnahme Grundsatzfeststellung, Nkr Stellungnahme Mahnender Charakter Grenzen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-stellungnahme-grundsatzfeststellung` | Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Stellungnahme. Drei Saetze: (1) Was will das Vorhaben (2) Position zur Erforderlichkeit (3) Position zur Ausgestaltung. Mit Standardformeln Tonalitaet Verbindlichkeit und typischen Variationen je nach Mahnungs- oder Lobcharakter. |
 | `nkr-stellungnahme-mahnender-charakter-grenzen` | Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungsabwaegungen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-stellungnahme-grundsatzfeststellung`
 
-**Frühere Beschreibung:** Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Stellungnahme. Drei Saetze: (1) Was will das Vorhaben (2) Position zur Erforderlichkeit (3) Position zur Ausgestaltung. Mit Standardformeln Tonalitaet Verbindlichkeit und typischen Variationen je nach Mahnungs- oder Lobcharakter.
+**Fokus:** Schreibt den Eingangsabschnitt Grundsatzfeststellung einer NKR-Stellungnahme. Drei Saetze: (1) Was will das Vorhaben (2) Position zur Erforderlichkeit (3) Position zur Ausgestaltung. Mit Standardformeln Tonalitaet Verbindlichkeit und typischen Variationen je nach Mahnungs- oder Lobcharakter.
 
 # NKR-Stellungnahme — Grundsatzfeststellung
 
@@ -143,7 +143,7 @@ Rueckfrage nur wenn unklar: *"Ist die Gesamthaltung positiv, ambivalent, kritisc
 
 ## 2. `nkr-stellungnahme-mahnender-charakter-grenzen`
 
-**Frühere Beschreibung:** Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungsabwaegungen.
+**Fokus:** Beschaeftigt sich mit dem mahnenden Charakter der NKR-Stellungnahme und ihren Grenzen. Wann darf der NKR mahnen wann sollte er konstruktiv bleiben wann hat die Mahnung politische Wirkung wo verlaeuft die rote Linie zur politischen Bewertung. Mit Stufenvokabular Beispielen und politischen Wirkungsabwaegungen.
 
 # NKR-Stellungnahme — Mahnender Charakter und seine Grenzen
 

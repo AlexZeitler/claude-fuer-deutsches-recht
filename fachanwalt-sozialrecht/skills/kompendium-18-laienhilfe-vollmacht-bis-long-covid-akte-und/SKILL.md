@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-laienhilfe-vollmacht-bis-long-covid-akte-und
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (laienhilfe-vollmacht-betreuung-angehoerige, laienhilfe-widerspruch-einfach, laienhilfe-wohngeld-kinderzuschlag-schnittstelle, long-covid-akte-und-tagebuch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Laienhilfe Vollmacht Betreuung Angehoerige, Laienhilfe Widerspruch Einfach, Laienhilfe Wohngeld Kinderzuschlag Schnittstelle, Long Covid Akte Und Tagebuch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - fachanwalt-sozialrecht
+# Arbeitsbereich - Laienhilfe Vollmacht Betreuung Angehoerige bis Long Covid Akte Und Tagebuch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `laienhilfe-vollmacht-betreuung-angehoerige` | Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
 | `laienhilfe-widerspruch-einfach` | Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `laienhilfe-vollmacht-betreuung-angehoerige`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Vollmacht Betreuung Angehoerige. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Vollmacht Betreuung Angehoerige
 
@@ -100,7 +100,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 2. `laienhilfe-widerspruch-einfach`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Widerspruch Einfach. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Widerspruch Einfach
 
@@ -171,7 +171,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 3. `laienhilfe-wohngeld-kinderzuschlag-schnittstelle`
 
-**Frühere Beschreibung:** Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
+**Fokus:** Laienverstaendlicher Sozialrechts-Skill zu Wohngeld Kinderzuschlag Schnittstelle. Erklaert Bescheid, Frist, Unterlagen, typische Fehler, naechste Schritte und einfache Formulierungen fuer Behoerde, Widerspruch, Klage oder Beratung.
 
 # Laienhilfe: Wohngeld Kinderzuschlag Schnittstelle
 
@@ -242,7 +242,7 @@ Ist die Antwort freundlich, einfach, respektvoll und trotzdem rechtlich praezise
 
 ## 4. `long-covid-akte-und-tagebuch`
 
-**Frühere Beschreibung:** Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.; Normanker: SGB X §§ 20 und 21 und 25; SGG § 84, § 87; SGB VI/SGB IX/SGB V je nach Ziel; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid-Akte: Symptomtagebuch, Belastungsprotokoll, Arztberichte, Reha-Unterlagen, Arbeitgeberkommunikation und Fristenmappe.
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-bericht-trinkwasser-bis-bericht-verdienststa
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (bericht-trinkwasser-legionellen-meldung, bericht-umsatzsteuer-voranmeldung-elster, bericht-verdienststatistik-verdstatg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Trinkwasser Legionellen Meldung, Bericht Umsatzsteuer Voranmeldung Elster, Bericht Verdienststatistik Verdstatg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Trinkwasser Legionellen Meldung, Bericht Umsatzsteuer Voranmeldung Elster, Bericht Verdienststatistik Verdstatg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-trinkwasser-legionellen-meldung` | Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan. |
 | `bericht-umsatzsteuer-voranmeldung-elster` | USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-trinkwasser-legionellen-meldung`
 
-**Frühere Beschreibung:** Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan.
+**Fokus:** Trinkwasserpflichten: Legionellenprüfung, Anzeige, Betreiberpflicht, Mieterinformation und Maßnahmenplan.
 
 # Trinkwasser und Legionellenmeldung
 
@@ -74,7 +74,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `bericht-umsatzsteuer-voranmeldung-elster`
 
-**Frühere Beschreibung:** USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur.
+**Fokus:** USt-Voranmeldung als Berichtspflicht: Frist, Dauerfristverlängerung, Beleglogik, innergemeinschaftliche Lieferungen und Korrektur.
 
 # Umsatzsteuer-Voranmeldung und ELSTER
 
@@ -116,7 +116,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-verdienststatistik-verdstatg`
 
-**Frühere Beschreibung:** Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität.
+**Fokus:** Verdienst-/Entgeltstatistik: Auswahl, Beschäftigtengruppen, Entgeltbestandteile, Arbeitszeit, Datenschutz und Plausibilität.
 
 # Verdienststatistik und Entgeltdaten
 

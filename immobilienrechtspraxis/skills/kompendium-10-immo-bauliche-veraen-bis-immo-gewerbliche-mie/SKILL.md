@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-immo-bauliche-veraen-bis-immo-gewerbliche-mie
-description: "immobilienrechtspraxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (immo-bauliche-veraenderung-weg, immo-energieausweis, immo-gewerbliche-mieter-konkurs) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "immobilienrechtspraxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Immo Bauliche Veraenderung Weg, Immo Energieausweis, Immo Gewerbliche Mieter Konkurs; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - immobilienrechtspraxis
+# Arbeitsbereich - Immo Bauliche Veraenderung Weg, Immo Energieausweis, Immo Gewerbliche Mieter Konkurs
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `immo-bauliche-veraenderung-weg` | Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster. |
 | `immo-energieausweis` | Energieausweis: Pflicht GEG 2024, Vorlage bei Verkauf/Vermietung, Bussgeldrisiko. Beratung Verkaeufer/Vermieter Beschaffung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `immo-bauliche-veraenderung-weg`
 
-**Frühere Beschreibung:** Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster.
+**Fokus:** Bauliche Veraenderung im WEG nach § 20 WEG (Reform 2020): Beschlusserfordernisse, privilegierte Massnahmen (Barrierefreiheit, Lademoeglichkeit E-Auto, Glasfaser, Einbruchschutz). Pruefraster.
 
 # Bauliche Veraenderung WEG
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `immobilienrechtspraxis`. Er ergaenzt die uebrig
 
 ## 2. `immo-energieausweis`
 
-**Frühere Beschreibung:** Energieausweis: Pflicht GEG 2024, Vorlage bei Verkauf/Vermietung, Bussgeldrisiko. Beratung Verkaeufer/Vermieter Beschaffung.
+**Fokus:** Energieausweis: Pflicht GEG 2024, Vorlage bei Verkauf/Vermietung, Bussgeldrisiko. Beratung Verkaeufer/Vermieter Beschaffung.
 
 # Energieausweis (GEG)
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `immobilienrechtspraxis`. Er ergaenzt die uebrig
 
 ## 3. `immo-gewerbliche-mieter-konkurs`
 
-**Frühere Beschreibung:** Gewerbliche Mieter in der Insolvenz: § 109 InsO Wahlrecht Insolvenzverwalter, Kuendigung trotz fester Mietzeit. Pruefraster fuer Vermieter.
+**Fokus:** Gewerbliche Mieter in der Insolvenz: § 109 InsO Wahlrecht Insolvenzverwalter, Kuendigung trotz fester Mietzeit. Pruefraster fuer Vermieter.
 
 # Gewerbemieter in Insolvenz
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-er-bess-ppa-und-merc-bis-er-bess-regelenergie
-description: "energierecht: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (er-bess-ppa-und-merchant-risk, er-bess-projektakte-qualitygate, er-bess-rechtsmittel-und-nachbarabwehr, er-bess-regelenergie-systemdienstleistung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Bess Ppa Und Merchant Risk, Er Bess Projektakte Qualitygate, Er Bess Rechtsmittel Und Nachbarabwehr, Er Bess Regelenergie Systemdienstleistung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - energierecht
+# Arbeitsbereich - Er Bess Ppa Und Merchant Risk bis Er Bess Regelenergie Systemdienstleistung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-bess-ppa-und-merchant-risk` | Prüft Erlösverträge für Speicher: Tolling, Capacity, Arbitrage, Regelenergie, Floor/Cap und Verfügbarkeitsgarantien. |
 | `er-bess-projektakte-qualitygate` | Prüft die gesamte Speicherakte auf Lücken, Widersprüche, fehlende Quellen, falsche Rollen und unrealistische Annahmen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-bess-ppa-und-merchant-risk`
 
-**Frühere Beschreibung:** Prüft Erlösverträge für Speicher: Tolling, Capacity, Arbitrage, Regelenergie, Floor/Cap und Verfügbarkeitsgarantien.
+**Fokus:** Prüft Erlösverträge für Speicher: Tolling, Capacity, Arbitrage, Regelenergie, Floor/Cap und Verfügbarkeitsgarantien.
 
 # PPA, Tolling und Merchant-Risk
 
@@ -62,7 +62,7 @@ BGB, EnWG, REMIT/MAR-Schnittstelle, Bilanzkreis, Garantien, Haftung.
 
 ## 2. `er-bess-projektakte-qualitygate`
 
-**Frühere Beschreibung:** Prüft die gesamte Speicherakte auf Lücken, Widersprüche, fehlende Quellen, falsche Rollen und unrealistische Annahmen.
+**Fokus:** Prüft die gesamte Speicherakte auf Lücken, Widersprüche, fehlende Quellen, falsche Rollen und unrealistische Annahmen.
 
 # BESS-Projektakte und Qualitygate
 
@@ -95,7 +95,7 @@ Quellenhygiene, Dokumentenmatrix, Fristen, Zuständigkeit, technische Annahmen, 
 
 ## 3. `er-bess-rechtsmittel-und-nachbarabwehr`
 
-**Frühere Beschreibung:** Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung.
+**Fokus:** Prüft Widerspruch/Klage, Nachbarrechte, Sofortvollzug, Baustopp, Umweltverbandsklage und Verteidigung.
 
 # Rechtsmittel, Nachbarabwehr und Eilrechtsschutz
 
@@ -128,7 +128,7 @@ VwGO, BauGB/Bauordnungsrecht, BImSchG, UmwRG, Nachbarschutz.
 
 ## 4. `er-bess-regelenergie-systemdienstleistung`
 
-**Frühere Beschreibung:** Prüft Präqualifikation, Vermarktung, Verfügbarkeit, Messdaten, Sanktionen und Aggregator-Struktur.
+**Fokus:** Prüft Präqualifikation, Vermarktung, Verfügbarkeit, Messdaten, Sanktionen und Aggregator-Struktur.
 
 # Regelenergie und Systemdienstleistungen
 

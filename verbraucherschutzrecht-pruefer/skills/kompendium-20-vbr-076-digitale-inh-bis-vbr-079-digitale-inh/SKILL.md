@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-vbr-076-digitale-inh-bis-vbr-079-digitale-inh
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (vbr-076-digitale-inhalte-beschwerde-schreiben, vbr-077-digitale-inhalte-schlichtung-waehlen, vbr-078-digitale-inhalte-klagepfad-skizzieren, vbr-079-digitale-inhalte-vergleich-vorschlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 076 Digitale Inhalte Beschwerde Schreiben, Vbr 077 Digitale Inhalte Schlichtung Waehlen, Vbr 078 Digitale Inhalte Klagepfad Skizzieren, Vbr 079 Digitale Inhalte Vergleich Vorschlagen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 076 Digitale Inhalte Beschwerde Schreiben bis Vbr 079 Digitale Inhalte Vergleich Vorschlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-076-digitale-inhalte-beschwerde-schreiben` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Beschwerde schreiben. Beschwerde schreiben für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-077-digitale-inhalte-schlichtung-waehlen` | Verbraucherschutzrecht Prüfer: Digitale Inhalte: Schlichtung wählen. Schlichtung wählen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-076-digitale-inhalte-beschwerde-schreiben`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Beschwerde schreiben. Beschwerde schreiben für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Beschwerde schreiben. Beschwerde schreiben für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Beschwerde Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-077-digitale-inhalte-schlichtung-waehlen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Schlichtung wählen. Schlichtung wählen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Schlichtung wählen. Schlichtung wählen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Schlichtung Waehlen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-078-digitale-inhalte-klagepfad-skizzieren`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Klagepfad skizzieren. Klagepfad skizzieren für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Klagepfad skizzieren. Klagepfad skizzieren für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Klagepfad Skizzieren
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-079-digitale-inhalte-vergleich-vorschlagen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Vergleich vorschlagen. Vergleich vorschlagen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Digitale Inhalte: Vergleich vorschlagen. Vergleich vorschlagen für Digitale Inhalte im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Digitale Inhalte Vergleich Vorschlagen
 

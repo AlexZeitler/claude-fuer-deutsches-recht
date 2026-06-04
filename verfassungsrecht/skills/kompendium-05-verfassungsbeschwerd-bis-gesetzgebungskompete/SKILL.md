@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-verfassungsbeschwerd-bis-gesetzgebungskompete
-description: "verfassungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (verfassungsbeschwerde-entwurf, formelle-verfassungsmaessigkeit, gesetzgebungskompetenz-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verfassungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verfassungsrecht
+# Arbeitsbereich - Verfassungsbeschwerde Entwurf, Formelle Verfassungsmaessigkeit, Gesetzgebungskompetenz Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verfassungsbeschwerde-entwurf` | Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulässigkeit Begründung. Abgrenzung: nicht für abstrakte oder konkrete Normenkontrolle. |
 | `formelle-verfassungsmaessigkeit` | Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verfassungsbeschwerde-entwurf`
 
-**Frühere Beschreibung:** Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulässigkeit Begründung. Abgrenzung: nicht für abstrakte oder konkrete Normenkontrolle.
+**Fokus:** Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulässigkeit Begründung. Abgrenzung: nicht für abstrakte oder konkrete Normenkontrolle.
 
 # Verfassungsbeschwerde-Entwurf
 
@@ -231,7 +231,7 @@ Eine Verfassungsbeschwerde ist eine der anspruchsvollsten Schriftsätze der deut
 
 ## 2. `formelle-verfassungsmaessigkeit`
 
-**Frühere Beschreibung:** Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung).
+**Fokus:** Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung).
 
 # Formelle Verfassungsmäßigkeit prüfen
 
@@ -380,7 +380,7 @@ Auch eine sorgfältige Prüfung der formellen Verfassungsmäßigkeit ersetzt nic
 
 ## 3. `gesetzgebungskompetenz-pruefen`
 
-**Frühere Beschreibung:** Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzprüfmemo Ergebnis mit Fundstellen. Abgrenzung: nicht für formelles Gesetzgebungsverfahren (formelle-verfassungsmäßigkeit).
+**Fokus:** Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzprüfmemo Ergebnis mit Fundstellen. Abgrenzung: nicht für formelles Gesetzgebungsverfahren (formelle-verfassungsmäßigkeit).
 
 # Gesetzgebungskompetenz prüfen
 

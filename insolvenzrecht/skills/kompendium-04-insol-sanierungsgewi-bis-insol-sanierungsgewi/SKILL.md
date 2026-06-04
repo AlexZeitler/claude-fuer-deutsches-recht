@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-insol-sanierungsgewi-bis-insol-sanierungsgewi
-description: "insolvenzrecht: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz, spezial-insolvenzreife-antragspflicht-und-haftung, insol-sanierungsgewinn-3a-estg-im-insolvenzplan, insol-sanierungsgewinn-3a-estg-im-starug-plan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz, Insolvenzreife Antragspflicht Und Haftung, Insol Sanierungsgewinn 3a Estg Im Insolvenzplan, Insol Sanierungsgewinn 3a Estg Im Starug Plan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - insolvenzrecht
+# Arbeitsbereich - Insol Sanierungsgewinn Massehaftungsbefreiung Und Bilanz bis Insol Sanierungsgewinn 3a Estg Im Starug Plan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz` | Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz. |
 | `spezial-insolvenzreife-antragspflicht-und-haftung` | Insolvenzreife, Antragspflicht und Haftung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `insol-sanierungsgewinn-massehaftungsbefreiung-und-bilanz`
 
-**Frühere Beschreibung:** Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz.
+**Fokus:** Massehaftungsbefreiung und bilanzielle Verbuchung des Sanierungsertrags. Buchungstechnik bei Verzicht: Verbindlichkeit weg, ausserordentlicher Ertrag. Auswirkung auf Eigenkapital. Schnittstelle Masse versus Insolvenzforderungen. Massehaftungsbefreiung Paragraph 60 InsO bei korrekter Buchung. Stille Reserven, latente Steuern, ggf. Paragraph 5 Absatz 2a EStG-Wirkung. Mustertexte Buchungsbeleg und Pruefvermerk fuer die Bilanz.
 
 # Sanierungsgewinn — Massehaftungsbefreiung und Bilanzbuchung
 
@@ -197,7 +197,7 @@ In anderen Plugins:
 
 ## 2. `spezial-insolvenzreife-antragspflicht-und-haftung`
 
-**Frühere Beschreibung:** Insolvenzreife, Antragspflicht und Haftung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
+**Fokus:** Insolvenzreife, Antragspflicht und Haftung: führt schnell durch Sachverhalt, Rechtsgrundlagen, Belege, Risiken und erzeugt einen verwertbaren nächsten Output.
 
 # Insolvenzreife, Antragspflicht und Haftung
 
@@ -245,7 +245,7 @@ Wenn Material vorliegt, nutze es zuerst. Frage nur nach, was für die nächste E
 
 ## 3. `insol-sanierungsgewinn-3a-estg-im-insolvenzplan`
 
-**Frühere Beschreibung:** Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext fuer darstellenden Teil des Plans und fuer den Erlassantrag.
+**Fokus:** Paragraph 3a EStG im Insolvenzplan-Kontext (Paragraphen 217 ff. InsO). Vier Voraussetzungen pruefen: Sanierungsbeduerftigkeit, Sanierungsfaehigkeit, Sanierungseignung, Sanierungsabsicht der Glaeubiger. Antragsmechanik mit der Steuererklaerung des Sanierungsjahres. Verrechnungsreihenfolge Paragraph 3a Absatz 3 EStG. Mustertext fuer darstellenden Teil des Plans und fuer den Erlassantrag.
 
 # Sanierungsgewinn — Paragraph 3a EStG im Insolvenzplan
 
@@ -464,7 +464,7 @@ Zitierweise und Quellenpruefung siehe `references/zitierweise.md`.
 
 ## 4. `insol-sanierungsgewinn-3a-estg-im-starug-plan`
 
-**Frühere Beschreibung:** Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung.
+**Fokus:** Paragraph 3a EStG bei StaRUG-Restrukturierungsplan (Paragraphen 4 ff. StaRUG). Unterschiede zum Insolvenzplan: kein Insolvenzverfahren, keine Massehaftung, Sanierungsabsicht der Glaeubiger im StaRUG-Kontext belegen. Antragsmechanik fuer den Sanierungsertrag bei vorinsolvenzlicher Restrukturierung. Mustertexte fuer Restrukturierungsplan und Steuererklaerung.
 
 # Sanierungsgewinn — Paragraph 3a EStG bei StaRUG-Restrukturierungsplan
 

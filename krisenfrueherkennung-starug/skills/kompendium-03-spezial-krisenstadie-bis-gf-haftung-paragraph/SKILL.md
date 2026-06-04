@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-krisenstadie-bis-gf-haftung-paragraph
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-krisenstadien-fristennotiz-und-naechster-schritt, spezial-starug-fristen-form-und-zustaendigkeit, gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - krisenfrueherkennung-starug
+# Arbeitsbereich - Krisenstadien Fristennotiz Und Naechster Schritt, Starug Fristen Form Und Zustaendigkeit, Gf Haftung Paragraph 43 Gmbhg Und Paragraph 93 Aktg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-krisenstadien-fristennotiz-und-naechster-schritt` | Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-starug-fristen-form-und-zustaendigkeit` | StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-krisenstadien-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Krisenstadien: Fristennotiz und nächster Schritt im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Krisenstadien: Fristennotiz und nächster Schritt
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-starug-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # StaRUG: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg`
 
-**Frühere Beschreibung:** Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
+**Fokus:** Geschäftsführerhaftung bei Krisenversagen prüfe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Prüfraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschäftsführung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist.
 
 # Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise
 

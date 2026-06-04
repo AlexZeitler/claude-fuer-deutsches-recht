@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-immor-bodenrichtwert-bis-betriebskostenabrech
-description: "immobilienrechtspraxis: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (immor-bodenrichtwert-bewertung-spezial, betriebskostenabrechnung-erstellen-asset-management, betriebskostenabrechnung-pruefen-asset-management) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "immobilienrechtspraxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Immor Bodenrichtwert Bewertung Spezial, Betriebskostenabrechnung Erstellen Asset Management, Betriebskostenabrechnung Pruefen Asset Management; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - immobilienrechtspraxis
+# Arbeitsbereich - Immor Bodenrichtwert Bewertung Spezial, Betriebskostenabrechnung Erstellen Asset Management, Betriebskostenabrechnung Pruefen Asset Managemen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `immor-bodenrichtwert-bewertung-spezial` | Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster fuer Finanzamt und Gutachter. |
 | `betriebskostenabrechnung-erstellen-asset-management` | Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `immor-bodenrichtwert-bewertung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster fuer Finanzamt und Gutachter.
+**Fokus:** Spezialfall Bodenrichtwert und Bewertung im Erb- und Steuerfall: ImmoWertV 2021, Vergleichswertverfahren, Ertragswertverfahren. Pruefraster fuer Finanzamt und Gutachter.
 
 # ImmoR: Bodenrichtwert-Bewertung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `immobilienrechtspraxis`. Er ergaenzt die uebrig
 
 ## 2. `betriebskostenabrechnung-erstellen-asset-management`
 
-**Frühere Beschreibung:** Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket.
+**Fokus:** Betriebskostenabrechnung im Asset- und Property-Management erstellen: Mietvertragsklauseln, BetrKV-Mapping, WEG- oder Objektbuchhaltung, HeizkostenV, CO2KostAufG, Gewerbe-Vorwegabzug, Vorauszahlungskonto, Versand und Belegpaket.
 
 # Betriebskostenabrechnung erstellen
 
@@ -138,7 +138,7 @@ Dieser Skill erstellt eine vermieterseitige Betriebskostenabrechnung für Immobi
 
 ## 3. `betriebskostenabrechnung-pruefen-asset-management`
 
-**Frühere Beschreibung:** Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation.
+**Fokus:** Betriebskostenabrechnung im Immobilienportfolio prüfen: formelle Mindestangaben, Fristen, Umlagefähigkeit, Buchhaltungsabgleich, WEG-zu-Mieter-Übersetzung, Zahlungsbelege, Wirtschaftlichkeit, HeizkostenV, CO2KostAufG und Streitwertkalkulation.
 
 # Betriebskostenabrechnung prüfen
 

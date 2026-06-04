@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-uwr-bundesnaturschut-bis-uwr-immissionsschutz
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (uwr-bundesnaturschutzgesetz-eingriff-spezial, uwr-co2-emissionshandel-spezial, uwr-immissionsschutz-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Uwr Bundesnaturschutzgesetz Eingriff Spezial, Uwr Co2 Emissionshandel Spezial, Uwr Immissionsschutz Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - umweltrecht
+# Arbeitsbereich - Uwr Bundesnaturschutzgesetz Eingriff Spezial, Uwr Co2 Emissionshandel Spezial, Uwr Immissionsschutz Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `uwr-bundesnaturschutzgesetz-eingriff-spezial` | Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung. |
 | `uwr-co2-emissionshandel-spezial` | Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster fuer Anlagenbetreiber. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `uwr-bundesnaturschutzgesetz-eingriff-spezial`
 
-**Frühere Beschreibung:** Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung.
+**Fokus:** Spezialfall Eingriff in Natur und Landschaft §§ 14 ff. BNatSchG: Vermeidung, Minimierung, Ausgleich und Ersatz, Eingriff Pruefraster. Anwendung in Bauleitplanung.
 
 # UwR: BNatSchG-Eingriff
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `umweltrecht`. Er ergaenzt die uebrigen Skills d
 
 ## 2. `uwr-co2-emissionshandel-spezial`
 
-**Frühere Beschreibung:** Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster fuer Anlagenbetreiber.
+**Fokus:** Spezialfall CO2-Emissionshandel TEHG / EU-ETS und Reform ETS 2: Zuteilung, Auktion, freie Zuteilung, CBAM Schnittstelle. Pruefraster fuer Anlagenbetreiber.
 
 # UwR: ETS CBAM
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `umweltrecht`. Er ergaenzt die uebrigen Skills d
 
 ## 3. `uwr-immissionsschutz-praxis`
 
-**Frühere Beschreibung:** Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhoerung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster fuer Anlagenbetreiber und Anwohner.
+**Fokus:** Immissionsschutzrecht Praxis: § 4 BImSchG genehmigungsbeduerftige Anlagen, 4. BImSchV, Genehmigungsverfahren, Anhoerung, Einwendungen, sofortige Vollziehbarkeit. Pruefraster fuer Anlagenbetreiber und Anwohner.
 
 # Umwelt: Immissionsschutz-Praxis
 

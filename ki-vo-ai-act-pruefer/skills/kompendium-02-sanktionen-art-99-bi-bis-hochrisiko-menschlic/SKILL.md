@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-sanktionen-art-99-bi-bis-hochrisiko-menschlic
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (sanktionen-art-99-bis-101, sanktionen-bussgeldverteidigung-art-99, bildung-pruefungsrecht-anhang-iii-monitoring, hochrisiko-menschliche-aufsicht-art-14) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sanktionen Art 99 Bis 101, Sanktionen Bussgeldverteidigung Art 99, Bildung Pruefungsrecht Anhang Iii Monitoring, Hochrisiko Menschliche Aufsicht Art 14; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Sanktionen Art 99 Bis 101 bis Hochrisiko Menschliche Aufsicht Art 14
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `sanktionen-art-99-bis-101` | Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bis 7.5 Mio EUR oder 1 Prozent bei falschen Angaben. KMU-Privilegierung. Strafbarkeit natuerlicher Personen. Output: Sanktionsrahmen-Übersicht und Compliance-ROI-Argumentation. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (Behoerden) und marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten). |
 | `sanktionen-bussgeldverteidigung-art-99` | Art. 99 KI-VO als Bußgeld- und Verteidigungsworkflow: Sanktionstier, Unternehmensbezug, Vorsatz/Fahrlaessigkeit, Aufsichtsbehoerdenkontakt, Akteneinsicht, Abhilfe, Vergleichsstrategie, Vorstandsvorlage und Litigation Hold. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `sanktionen-art-99-bis-101`
 
-**Frühere Beschreibung:** Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bis 7.5 Mio EUR oder 1 Prozent bei falschen Angaben. KMU-Privilegierung. Strafbarkeit natuerlicher Personen. Output: Sanktionsrahmen-Übersicht und Compliance-ROI-Argumentation. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (Behoerden) und marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten).
+**Fokus:** Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand über Bußgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Prüfraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bis 7.5 Mio EUR oder 1 Prozent bei falschen Angaben. KMU-Privilegierung. Strafbarkeit natuerlicher Personen. Output: Sanktionsrahmen-Übersicht und Compliance-ROI-Argumentation. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (Behoerden) und marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten).
 
 # Sanktionen — Art. 99 bis 101 KI-VO
 
@@ -145,7 +145,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 2. `sanktionen-bussgeldverteidigung-art-99`
 
-**Frühere Beschreibung:** Art. 99 KI-VO als Bußgeld- und Verteidigungsworkflow: Sanktionstier, Unternehmensbezug, Vorsatz/Fahrlaessigkeit, Aufsichtsbehoerdenkontakt, Akteneinsicht, Abhilfe, Vergleichsstrategie, Vorstandsvorlage und Litigation Hold.
+**Fokus:** Art. 99 KI-VO als Bußgeld- und Verteidigungsworkflow: Sanktionstier, Unternehmensbezug, Vorsatz/Fahrlaessigkeit, Aufsichtsbehoerdenkontakt, Akteneinsicht, Abhilfe, Vergleichsstrategie, Vorstandsvorlage und Litigation Hold.
 
 # Sanktionen und Bußgeldverteidigung nach Art. 99 KI-VO
 
@@ -195,7 +195,7 @@ Bußgeldhöhen immer am aktuellen Art. 99 KI-VO prüfen; keine Zahlen aus Sekund
 
 ## 3. `bildung-pruefungsrecht-anhang-iii-monitoring`
 
-**Frühere Beschreibung:** Anhang III KI-VO fuer Bildung, Pruefung, Zulassung und Lernsteuerung: Hochrisiko-Check fuer KI in Hochschulen, Schulen, EdTech, Proctoring, Zulassungsranking, Plagiats-/KI-Erkennung und Lernstandsdiagnostik.
+**Fokus:** Anhang III KI-VO fuer Bildung, Pruefung, Zulassung und Lernsteuerung: Hochrisiko-Check fuer KI in Hochschulen, Schulen, EdTech, Proctoring, Zulassungsranking, Plagiats-/KI-Erkennung und Lernstandsdiagnostik.
 
 # Bildung und Prüfungsrecht nach Anhang III
 
@@ -242,7 +242,7 @@ Bei konkreten gerichtlichen Entscheidungen nur Gericht, Datum, Aktenzeichen und 
 
 ## 4. `hochrisiko-menschliche-aufsicht-art-14`
 
-**Frühere Beschreibung:** Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der Systemfähigkeiten und Grenzen Überwachungspflichten Stop-Button-Konzept Nicht-Blinding-Schutz Kompetenzanforderungen Aufsichtspersonen Dokumentation. Output: Aufsichtskonzept und Muster-Schulungsplan für Betreiber. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Betreiber-Gesamtpflichten) und hochrisiko-technische-dokumentation-art-11-und-anhang-iv.
+**Fokus:** Anbieter oder Betreiber fragt: Wie stellen wir sicher dass Menschen das Hochrisiko-KI-System wirksam beaufsichtigen und uebersteuerung ist möglich? Art. 14 KI-VO menschliche Aufsicht. Prüfraster: Verstehen der Systemfähigkeiten und Grenzen Überwachungspflichten Stop-Button-Konzept Nicht-Blinding-Schutz Kompetenzanforderungen Aufsichtspersonen Dokumentation. Output: Aufsichtskonzept und Muster-Schulungsplan für Betreiber. Abgrenzung zu betreiber-deployer-pflichten-art-26 (Betreiber-Gesamtpflichten) und hochrisiko-technische-dokumentation-art-11-und-anhang-iv.
 
 # Menschliche Aufsicht — Art. 14 KI-VO
 

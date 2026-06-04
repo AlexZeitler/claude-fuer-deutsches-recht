@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 14; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle, grosskanzlei-corporate-ma-datenraum-aufbau, grosskanzlei-corporate-ma-datenraum-gap-clean-room, grosskanzlei-corporate-ma-deal-intake, grosskanzlei-corporate-ma-deal-team-staffing und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle, Grosskanzlei Corporate Ma Datenraum Aufbau, Grosskanzlei Corporate Ma Datenraum Gap Clean Room, Grosskanzlei Corporate Ma Deal Intake und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Datenqualitaet Xai Qualitaetskontrolle bis Grosskanzlei Corporate Ma Distressed Ma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle` | KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau. |
 | `grosskanzlei-corporate-ma-datenraum-aufbau` | Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-datenqualitaet-xai-qualitaetskontrolle`
 
-**Frühere Beschreibung:** KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau.
+**Fokus:** KI-Qualitaetskontrolle und Halluzinations-Absicherung in M&A-Transaktionen: Anwendungsfall KI-generierte DD-Berichte, Klauseln oder Recherchen sollen auf Datenqualitaet, Bias und Black-Box-Risiken geprüft werden. Art. 22 DSGVO automatisierte Entscheidungen, KI-VO Risikoklassen. Prüfraster Halluzinations-Erkennung, Quellenverifikation, Bias-Analyse, Plausibilitaetsprüfung, Human-in-the-Loop-Dokumentation. Output Qualitaetsprotokoll mit Risikoampel, Prüfvermerken und Freigabebestätigung. Abgrenzung zu KI-Governance-Berufsrecht und zu Datenraum-Aufbau.
 
 # Datenqualität und XAI-Qualitätskontrolle
 
@@ -226,7 +226,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-datenraum-aufbau`
 
-**Frühere Beschreibung:** Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial.
+**Fokus:** Due Diligence Datenraum strukturieren und bestücken: Anwendungsfall Mandant bereitet Verkaufsprozess vor oder Buyer-Team benoetigt strukturierten Datenraum für Private M&A, Public M&A, Carve-out oder Distressed-Prozesse. §§ 433 ff. BGB, SPA DD-Pflichten, MAR Vertraulichkeit. Prüfraster Ordnerstruktur nach Workstreams, Zugriffsrechte, NDA-Gate, Versionierung, Document Management. Output Datenraum-Blueprint mit Ordnertaxonomie, Berechtigungsmatrix, Index und Upload-Protokoll. Abgrenzung zu Datenraum-Gap-Clean-Room und zu DD-Legal und DD-Commercial.
 
 # Datenraum-Aufbau
 
@@ -421,7 +421,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-datenraum-gap-clean-room`
 
-**Frühere Beschreibung:** Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests.
+**Fokus:** Datenraum-Lueckenanalyse und Clean-Room-Protokoll für M&A Due Diligence: Anwendungsfall Anwalt oder Mandant stellt fest dass Datenraum Luecken hat oder sensible Wettbewerbsdaten nur unter Clean-Room-Bedingungen geteilt werden koennen. §§ 35 ff. GWB Fusionskontrolle, Kartellrecht. Prüfraster fehlende Dokumente identifizieren, Gap-Liste erstellen, Clean-Room-Prozess dokumentieren, Nachanforderungen strukturieren. Output Gap-Report mit priorisierten Nachforderungen und Clean-Room-Zugangsprotokolll. Abgrenzung zu Datenraum-Aufbau und zu QA-Information-Requests.
 
 # Datenraum-Gap-Analyse und Clean Room
 
@@ -615,7 +615,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-deal-intake`
 
-**Frühere Beschreibung:** Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgesellschaft, Transaktionsstruktur, Zeitplan, Budget-Ersteinschaetzung, Annahme-Check. Output Deal-Intake-Sheet mit Parteienregister, Dealtyp, Workstreams, initiales Budget und Fristen-Erstliste. Abgrenzung zu Kaltstart-Skill für Kanzleipraeferenzen und zu Matter-File für laufende Akte.
+**Fokus:** Neues M&A-Mandat aufnehmen und strukturieren: Anwendungsfall Partner oder Associate erhaelt Erstanfrage zu einer Transaktion und muss Deal-Profil, Rolle, Parteien, Zeitplan und Workstreams erfassen. §§ 3a RVG Honorar, § 43a BRAO Konflikt. Prüfraster Deal-Typ Buy-side/Sell-side/Carve-out, Zielgesellschaft, Transaktionsstruktur, Zeitplan, Budget-Ersteinschaetzung, Annahme-Check. Output Deal-Intake-Sheet mit Parteienregister, Dealtyp, Workstreams, initiales Budget und Fristen-Erstliste. Abgrenzung zu Kaltstart-Skill für Kanzleipraeferenzen und zu Matter-File für laufende Akte.
 
 # Deal-Intake
 
@@ -813,7 +813,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-deal-team-staffing`
 
-**Frühere Beschreibung:** Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan für Fristen und zu Konflikt-GwG-Sanktions-Check für Mandat-Annahme.
+**Fokus:** Deal-Team-Besetzung und Staffing-Plan für Corporate/M&A-Transaktionen: Anwendungsfall Senior-Partner oder Team-Lead muss Workstreams Anwalt, Counsel, Associate, Paralegals und externe Spezialisten zuweisen. §§ 43a BRAO Interessenkonflikte, § 3a RVG Budget. Prüfraster Workstream-Anforderungen, Erfahrungslevel, Interessenkonflikt-Check, Budget-Kapazitaet, Schnittstellen. Output Staffing-Matrix mit Workstream, Owner, Backup, Stunden-Budget und Eskalationspfad. Abgrenzung zu Deal-PMO-Steps-Plan für Fristen und zu Konflikt-GwG-Sanktions-Check für Mandat-Annahme.
 
 # Deal-Team und Staffing
 
@@ -1006,7 +1006,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-disclosure-schedules`
 
-**Frühere Beschreibung:** Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbarungen, General Disclosure vs. Specific Disclosure, Knowledge-Qualifikation, Materiality-Schwellen, Datenraumverweis-Tauglichkeit. Output Disclosure-Matrix mit Guarantee-zu-Schedule-Mapping und Luecken-Ampel. Abgrenzung zu SPA/APA-Entwurf und zu Vertragsmarkup-Key-Issues.
+**Fokus:** Disclosure Schedules und Guarantees-Abgleich im SPA/APA: Anwendungsfall Verkaeufer-Anwalt erstellt Disclosure Schedules zur Einschraenkung von Reps and Warranties oder Kaeufer prüft ob Disclosure ausreichend ist. §§ 433 ff. BGB, SPA Disclosure-Mechanismus. Prüfraster Vollständigkeit der Offenbarungen, General Disclosure vs. Specific Disclosure, Knowledge-Qualifikation, Materiality-Schwellen, Datenraumverweis-Tauglichkeit. Output Disclosure-Matrix mit Guarantee-zu-Schedule-Mapping und Luecken-Ampel. Abgrenzung zu SPA/APA-Entwurf und zu Vertragsmarkup-Key-Issues.
 
 # Disclosure Schedules
 
@@ -1227,7 +1227,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-distressed-ma`
 
-**Frühere Beschreibung:** Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. §§ 17-19 InsO Insolvenztatbestaende, § 1 StaRUG Sanierung, §§ 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antragspflicht, Deal-Strukturoptionen Asset Deal vs. Share Deal, MAC-Klausel-Risiko, W&I-Versicherungsausschluesse. Output Distressed-MA-Memo mit Strukturempfehlung, Risikoampel und naechsten Schritten. Abgrenzung zu StaRUG-Insolvenzplan und zu Post-Closing-Integration.
+**Fokus:** Distressed M&A Transaktion begleiten: Anwendungsfall Unternehmen in Krise oder Insolvenz soll verkauft werden oder Investor prüft Erwerb notleidender Vermögenswerte. §§ 17-19 InsO Insolvenztatbestaende, § 1 StaRUG Sanierung, §§ 433 ff. BGB Share/Asset Deal. Prüfraster Insolvenzreife-Prüfung, Antragspflicht, Deal-Strukturoptionen Asset Deal vs. Share Deal, MAC-Klausel-Risiko, W&I-Versicherungsausschluesse. Output Distressed-MA-Memo mit Strukturempfehlung, Risikoampel und naechsten Schritten. Abgrenzung zu StaRUG-Insolvenzplan und zu Post-Closing-Integration.
 
 # Distressed M&A
 

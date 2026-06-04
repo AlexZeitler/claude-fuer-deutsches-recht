@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-e-commerce-widerruf-bis-employment-creatives
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (e-commerce-widerruf-fashion, employment-creatives-fashion) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu E Commerce Widerruf Fashion, Employment Creatives Fashion; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fashion-law-moderecht
+# Arbeitsbereich - E Commerce Widerruf Fashion, Employment Creatives Fashion
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `e-commerce-widerruf-fashion` | E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB. |
 | `employment-creatives-fashion` | Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `e-commerce-widerruf-fashion`
 
-**Frühere Beschreibung:** E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB.
+**Fokus:** E-Commerce-Pflichten für Fashion prüfen: Produktinformationen, Widerruf, Größen, Retouren, Preisangaben, Button-Lösung, Verbraucherschutz und AGB.
 
 # E Commerce Widerruf Fashion
 
@@ -59,7 +59,7 @@ Shop-Legal-Check.
 
 ## 2. `employment-creatives-fashion`
 
-**Frühere Beschreibung:** Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung.
+**Fokus:** Arbeitsrecht für Kreativteams im Fashion-Bereich prüfen: Designer, Pattern Maker, Store Staff, Überstunden, Reise, Incentives, IP und Geheimhaltung.
 
 # Employment Creatives Fashion
 

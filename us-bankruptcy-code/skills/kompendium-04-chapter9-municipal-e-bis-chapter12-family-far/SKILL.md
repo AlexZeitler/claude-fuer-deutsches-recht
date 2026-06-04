@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-chapter9-municipal-e-bis-chapter12-family-far
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (chapter9-municipal-eligibility, chapter9-plan, chapter11-dip, chapter12-family-farmer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chapter9 Municipal Eligibility, Chapter9 Plan, Chapter11 Dip, Chapter12 Family Farmer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - us-bankruptcy-code
+# Arbeitsbereich - Chapter9 Municipal Eligibility bis Chapter12 Family Farmer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chapter9-municipal-eligibility` | Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities. |
 | `chapter9-plan` | Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chapter9-municipal-eligibility`
 
-**Frühere Beschreibung:** Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities.
+**Fokus:** Prueft municipality eligibility, state authorization, insolvency, creditor negotiation and Tenth Amendment sensitivities.
 
 # Chapter 9 Municipal Eligibility
 
@@ -96,7 +96,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `chapter9-plan`
 
-**Frühere Beschreibung:** Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services.
+**Fokus:** Prueft municipal plan, limited court power, special revenues, bondholders, pensions and essential services.
 
 # Chapter 9 Plan Special Rules
 
@@ -164,7 +164,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `chapter11-dip`
 
-**Frühere Beschreibung:** Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision.
+**Fokus:** Prueft DIP powers, duties, reporting, fiduciary obligations, operations and supervision.
 
 # Chapter 11 Debtor in Possession
 
@@ -232,7 +232,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `chapter12-family-farmer`
 
-**Frühere Beschreibung:** Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations.
+**Fokus:** Prueft Chapter 12 eligibility, seasonal income, plan treatment, secured claims and agricultural/fishing operations.
 
 # Chapter 12 Family Farmer Fisherman
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-oew-066-wohnungsbau-bis-oew-096-messegesells
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (oew-066-wohnungsbau-vertrag-scopen, oew-076-breitband-vertrag-scopen, oew-086-parkhaus-vertrag-scopen, oew-096-messegesellschaft-vertrag-scopen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 066 Wohnungsbau Vertrag Scopen, Oew 076 Breitband Vertrag Scopen, Oew 086 Parkhaus Vertrag Scopen, Oew 096 Messegesellschaft Vertrag Scopen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 066 Wohnungsbau Vertrag Scopen bis Oew 096 Messegesellschaft Vertrag Scopen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-066-wohnungsbau-vertrag-scopen` | Öffentliches Wirtschaftsrecht: Wohnungsbau: Vertrag scopen. Vertrag scopen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `oew-076-breitband-vertrag-scopen` | Öffentliches Wirtschaftsrecht: Breitband: Vertrag scopen. Vertrag scopen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-066-wohnungsbau-vertrag-scopen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Wohnungsbau: Vertrag scopen. Vertrag scopen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Wohnungsbau: Vertrag scopen. Vertrag scopen für Wohnungsbau im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Wohnungsbau Vertrag Scopen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-076-breitband-vertrag-scopen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Breitband: Vertrag scopen. Vertrag scopen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Breitband: Vertrag scopen. Vertrag scopen für Breitband im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Breitband Vertrag Scopen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-086-parkhaus-vertrag-scopen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Parkhaus: Vertrag scopen. Vertrag scopen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Parkhaus: Vertrag scopen. Vertrag scopen für Parkhaus im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Parkhaus Vertrag Scopen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-096-messegesellschaft-vertrag-scopen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Vertrag scopen. Vertrag scopen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Öffentliches Wirtschaftsrecht: Messegesellschaft: Vertrag scopen. Vertrag scopen für Messegesellschaft im Rahmen von Öffentliches Wirtschaftsrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Messegesellschaft Vertrag Scopen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-hoai-lph-06-bim-und-bis-hoai-lph-06-rechnung
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 18; bündelt 18 frühere Spezialskills (hoai-lph-06-bim-und-datenraum, hoai-lph-06-dokumentation-und-belegakte, hoai-lph-06-fachplaner-schnittstellen, hoai-lph-06-foerdermittel-und-nachweis, hoai-lph-06-genehmigungen-und-auflagen und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 06 Bim Und Datenraum, Hoai Lph 06 Dokumentation Und Belegakte, Hoai Lph 06 Fachplaner Schnittstellen, Hoai Lph 06 Foerdermittel Und Nachweis und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 06 Bim Und Datenraum bis Hoai Lph 06 Rechnung Und Prueffaehigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-06-bim-und-datenraum` | HOAI LPH 6 Vorbereitung der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. |
 | `hoai-lph-06-dokumentation-und-belegakte` | HOAI LPH 6 Vorbereitung der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-06-bim-und-datenraum`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Ordnet digitale modelle
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 2. `hoai-lph-06-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Sichert protokolle
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 3. `hoai-lph-06-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Koordiniert architekt
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 4. `hoai-lph-06-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft fördermittelbedingungen
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 5. `hoai-lph-06-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 6. `hoai-lph-06-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Grenzt hoai-grundleistung
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 7. `hoai-lph-06-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft bewertungsanteil
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 8. `hoai-lph-06-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft eingaben
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 9. `hoai-lph-06-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Formuliert klare e-mails an bauherr
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 10. `hoai-lph-06-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft kostenermittlung
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 11. `hoai-lph-06-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 12. `hoai-lph-06-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Sichert spätere mängel-
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 13. `hoai-lph-06-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Erkennt planungsänderung
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 14. `hoai-lph-06-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Berücksichtigt vergabe
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 15. `hoai-lph-06-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Liefert alle dokumente
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 16. `hoai-lph-06-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft planindex
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 17. `hoai-lph-06-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Erstellt ein qualitygate
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 18. `hoai-lph-06-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft abschlag
 

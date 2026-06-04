@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-bho-102-sondervermoe-bis-bho-112-klimafonds-r
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 11; bündelt 11 frühere Spezialskills (bho-102-sondervermoegen-bundeswehr-risiko-mark, bho-103-sondervermoegen-bundeswehr-brh-frage-f, bho-104-sondervermoegen-bundeswehr-parlamentsf, bho-105-sondervermoegen-bundeswehr-vollzug-tra, bho-106-klimafonds-titel-pruefen und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 102 Sondervermoegen Bundeswehr Risiko Mark, Bho 103 Sondervermoegen Bundeswehr Brh Frage F, Bho 104 Sondervermoegen Bundeswehr Parlamentsf, Bho 105 Sondervermoegen Bundeswehr Vollzug Tra und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 102 Sondervermoegen Bundeswehr Risiko Mark bis Bho 112 Klimafonds Risiko Markieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-102-sondervermoegen-bundeswehr-risiko-mark` | Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren. Risiko markieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-103-sondervermoegen-bundeswehr-brh-frage-f` | Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: BRH-Frage formulieren. BRH-Frage formulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-102-sondervermoegen-bundeswehr-risiko-mark`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren. Risiko markieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Risiko markieren. Risiko markieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Risiko Mark
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-103-sondervermoegen-bundeswehr-brh-frage-f`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: BRH-Frage formulieren. BRH-Frage formulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: BRH-Frage formulieren. BRH-Frage formulieren für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Brh Frage F
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-104-sondervermoegen-bundeswehr-parlamentsf`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Parlamentsf
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-105-sondervermoegen-bundeswehr-vollzug-tra`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Vollzug tracken. Vollzug tracken für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Sondervermögen Bundeswehr: Vollzug tracken. Vollzug tracken für Sondervermögen Bundeswehr im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Sondervermoegen Bundeswehr Vollzug Tra
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-106-klimafonds-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Titel prüfen. Titel prüfen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Titel prüfen. Titel prüfen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Titel Pruefen
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-107-klimafonds-umschichtung-simulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Umschichtung simulieren. Umschichtung simulieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Umschichtung simulieren. Umschichtung simulieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Umschichtung Simulieren
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-108-klimafonds-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Sperre bewerten. Sperre bewerten für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Sperre bewerten. Sperre bewerten für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Sperre Bewerten
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-109-klimafonds-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Deckung finden. Deckung finden für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Deckung finden. Deckung finden für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Deckung Finden
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-110-klimafonds-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Szenario rechnen. Szenario rechnen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Szenario rechnen. Szenario rechnen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Szenario Rechnen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-111-klimafonds-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Dashboard bauen. Dashboard bauen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Dashboard bauen. Dashboard bauen für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Dashboard Bauen
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-112-klimafonds-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Risiko markieren. Risiko markieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Klimafonds: Risiko markieren. Risiko markieren für Klimafonds im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Klimafonds Risiko Markieren
 

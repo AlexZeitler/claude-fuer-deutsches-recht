@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-chn-010-importeur-eu-bis-chn-014-m-and-a-in-c
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (chn-010-importeur-eu-compliance, chn-011-exporteur-deutschland-nach-china, chn-012-investor-entry-options, chn-014-m-and-a-in-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 010 Importeur Eu Compliance, Chn 011 Exporteur Deutschland Nach China, Chn 012 Investor Entry Options, Chn 014 M And A In China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 010 Importeur Eu Compliance bis Chn 014 M And A In China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-010-importeur-eu-compliance` | EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Checkliste und Behördenkoordinations-Plan. |
 | `chn-011-exporteur-deutschland-nach-china` | Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-010-importeur-eu-compliance`
 
-**Frühere Beschreibung:** EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Checkliste und Behördenkoordinations-Plan.
+**Fokus:** EU-Compliance-Pflichten für Importeure von Waren aus VR China: CE-Konformität, Produktsicherheits-VO (EU) 2023/988, Marktüberwachungs-VO (EU) 2019/1020, Zollursprungsregeln, Anti-Dumping/Antisubventionszölle, LkSG § 2 Abs. 7 mittelbare Zulieferer, Forced-Labour-VO. Output: Import-Compliance-Checkliste und Behördenkoordinations-Plan.
 
 # Importeur EU-Compliance: Waren aus China
 
@@ -119,7 +119,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-011-exporteur-deutschland-nach-china`
 
-**Frühere Beschreibung:** Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage.
+**Fokus:** Exportkontrolle für Lieferungen aus Deutschland nach VR China: AL-Listung nach EU-VO 2021/821, BAFA-Genehmigungspflicht, Catch-All-Kontrolle, End-User-Zertifikat, US-EAR-Touchpoints (Re-Export aus DE mit US-Anteilen), AWV-Meldepflichten, Anti-Sanktions-Risiko CN. Output: Exportkontroll-Checkliste und BAFA-Antragsunterlage.
 
 # Exporteur Deutschland nach China: Exportkontrolle und Genehmigungen
 
@@ -213,7 +213,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-012-investor-entry-options`
 
-**Frühere Beschreibung:** Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht.
+**Fokus:** Markteintrittsoptionen für ausländische Investoren in VR China: WFOE (Wholly Foreign-Owned Enterprise), Joint Venture, Representative Office, QFII/RQFII, VIE-Struktur. Vergleich nach Foreign Investment Law (FIL) 2020, Negative List, Genehmigungsverfahren MOFCOM/SAMR, FDI-Screening AWV und EU-VO 2019/452. Output: Strukturierungsmatrix und Behördenübersicht.
 
 # Investoreintritt China: Optionen und Strukturierungsvergleich
 
@@ -307,7 +307,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-014-m-and-a-in-china`
 
-**Frühere Beschreibung:** M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-Genehmigung, Antimonopol-Gesetz AMG CN 2022), FIL-Compliance, Datenschutz (PIPL) bei Datenraum, Technologietransfer-Risiken, Deregistrierung/Exit-Klauseln, AWV-Meldung DE-Seite, HSR-Analogon China. Output: M&A-Prüfliste und Transaktionsstruktur-Empfehlung.
+**Fokus:** M&A-Transaktionen in VR China: Due-Diligence-Besonderheiten (SAMR-Genehmigung, Antimonopol-Gesetz AMG CN 2022), FIL-Compliance, Datenschutz (PIPL) bei Datenraum, Technologietransfer-Risiken, Deregistrierung/Exit-Klauseln, AWV-Meldung DE-Seite, HSR-Analogon China. Output: M&A-Prüfliste und Transaktionsstruktur-Empfehlung.
 
 # M&A in China: Due Diligence und Transaktionsstruktur
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fp-dokumentation-ger-bis-fp-zeitraum-und-szen
-description: "fortbestehensprognose: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fp-dokumentation-gerichtsfaehigkeit-spezial, fp-einfuehrung-pflicht-und-zweck, fp-zeitraum-und-szenarien-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fortbestehensprognose: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fp Dokumentation Gerichtsfaehigkeit Spezial, Fp Einfuehrung Pflicht Und Zweck, Fp Zeitraum Und Szenarien Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fortbestehensprognose
+# Arbeitsbereich - Fp Dokumentation Gerichtsfaehigkeit Spezial, Fp Einfuehrung Pflicht Und Zweck, Fp Zeitraum Und Szenarien Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fp-dokumentation-gerichtsfaehigkeit-spezial` | Spezialfall Dokumentation und Gerichtsfaehigkeit: was muss in der Akte, wann ist die Prognose strafrechts- und haftungsfest, Aktualisierung bei wesentlicher Aenderung. Standard fuer Auditoren-Akzeptanz und Insolvenzverwalter-Pruefung. |
 | `fp-einfuehrung-pflicht-und-zweck` | Fortbestehensprognose einfuehrend: Pflicht zur Erstellung bei Anhaltspunkten fuer Zahlungsunfaehigkeit, Geltung im Sinne § 19 InsO Ueberschuldungspruefung, Verzahnung mit Krisenfrueherkennung StaRUG § 1. Wer muss erstellen, wann, wozu. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fp-dokumentation-gerichtsfaehigkeit-spezial`
 
-**Frühere Beschreibung:** Spezialfall Dokumentation und Gerichtsfaehigkeit: was muss in der Akte, wann ist die Prognose strafrechts- und haftungsfest, Aktualisierung bei wesentlicher Aenderung. Standard fuer Auditoren-Akzeptanz und Insolvenzverwalter-Pruefung.
+**Fokus:** Spezialfall Dokumentation und Gerichtsfaehigkeit: was muss in der Akte, wann ist die Prognose strafrechts- und haftungsfest, Aktualisierung bei wesentlicher Aenderung. Standard fuer Auditoren-Akzeptanz und Insolvenzverwalter-Pruefung.
 
 # FP: Dokumentation-Gerichtsfaehigkeit
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fortbestehensprognose`. Er ergaenzt die uebrige
 
 ## 2. `fp-einfuehrung-pflicht-und-zweck`
 
-**Frühere Beschreibung:** Fortbestehensprognose einfuehrend: Pflicht zur Erstellung bei Anhaltspunkten fuer Zahlungsunfaehigkeit, Geltung im Sinne § 19 InsO Ueberschuldungspruefung, Verzahnung mit Krisenfrueherkennung StaRUG § 1. Wer muss erstellen, wann, wozu.
+**Fokus:** Fortbestehensprognose einfuehrend: Pflicht zur Erstellung bei Anhaltspunkten fuer Zahlungsunfaehigkeit, Geltung im Sinne § 19 InsO Ueberschuldungspruefung, Verzahnung mit Krisenfrueherkennung StaRUG § 1. Wer muss erstellen, wann, wozu.
 
 # FP: Pflicht und Zweck
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `fortbestehensprognose`. Er ergaenzt die uebrige
 
 ## 3. `fp-zeitraum-und-szenarien-praxis`
 
-**Frühere Beschreibung:** Fortbestehensprognose-Zeitraum 12 Monate seit SanInsFoG, ueblicher Praxis-Korridor: konservativ, mittel, optimistisch. Aufbau Szenarienrechnung in der Praxis. IDW S 11 Ueberschuldung und IDW S 6 Sanierungskonzept Bezug.
+**Fokus:** Fortbestehensprognose-Zeitraum 12 Monate seit SanInsFoG, ueblicher Praxis-Korridor: konservativ, mittel, optimistisch. Aufbau Szenarienrechnung in der Praxis. IDW S 11 Ueberschuldung und IDW S 6 Sanierungskonzept Bezug.
 
 # FP: Zeitraum und Szenarien
 

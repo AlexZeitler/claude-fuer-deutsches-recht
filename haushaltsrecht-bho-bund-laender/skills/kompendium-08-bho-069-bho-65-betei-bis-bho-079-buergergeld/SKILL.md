@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-bho-069-bho-65-betei-bis-bho-079-buergergeld
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 08; bündelt 11 frühere Spezialskills (bho-069-bho-65-beteiligung-unternehmen-praktis, bho-070-bho-88-brh-aufgabe-praktisch-anwenden, bho-071-bho-89-brh-pruefung-praktisch-anwenden, bho-072-bho-90-inhalt-pruefung-praktisch-anwen, bho-073-bho-91-stellen-ausserhalb-bund-praktis und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 069 Bho 65 Beteiligung Unternehmen Praktis, Bho 070 Bho 88 Brh Aufgabe Praktisch Anwenden, Bho 071 Bho 89 Brh Pruefung Praktisch Anwenden, Bho 072 Bho 90 Inhalt Pruefung Praktisch Anwen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 069 Bho 65 Beteiligung Unternehmen Praktis bis Bho 079 Buergergeld Krankenversicherung Deckun
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-069-bho-65-beteiligung-unternehmen-praktis` | Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-070-bho-88-brh-aufgabe-praktisch-anwenden` | Haushaltsrecht BHO Bund und Länder: BHO § 88 BRH Aufgabe praktisch anwenden. BHO § 88 BRH Aufgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-069-bho-65-beteiligung-unternehmen-praktis`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 65 Beteiligung Unternehmen praktisch anwenden. BHO § 65 Beteiligung Unternehmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 65 Beteiligung Unternehmen Praktis
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-070-bho-88-brh-aufgabe-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 88 BRH Aufgabe praktisch anwenden. BHO § 88 BRH Aufgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 88 BRH Aufgabe praktisch anwenden. BHO § 88 BRH Aufgabe praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 88 Brh Aufgabe Praktisch Anwenden
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-071-bho-89-brh-pruefung-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 89 BRH Prüfung praktisch anwenden. BHO § 89 BRH Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 89 BRH Prüfung praktisch anwenden. BHO § 89 BRH Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 89 Brh Pruefung Praktisch Anwenden
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-072-bho-90-inhalt-pruefung-praktisch-anwen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 90 Inhalt Prüfung praktisch anwenden. BHO § 90 Inhalt Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 90 Inhalt Prüfung praktisch anwenden. BHO § 90 Inhalt Prüfung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 90 Inhalt Pruefung Praktisch Anwen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-073-bho-91-stellen-ausserhalb-bund-praktis`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 91 Stellen außerhalb Bund praktisch anwenden. BHO § 91 Stellen außerhalb Bund praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 91 Stellen außerhalb Bund praktisch anwenden. BHO § 91 Stellen außerhalb Bund praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 91 Stellen Ausserhalb Bund Praktis
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-074-bho-97-pruefungsergebnis-praktisch-anw`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 97 Prüfungsergebnis praktisch anwenden. BHO § 97 Prüfungsergebnis praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 97 Prüfungsergebnis praktisch anwenden. BHO § 97 Prüfungsergebnis praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 97 Pruefungsergebnis Praktisch Anw
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-075-bho-114-entlastung-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. BHO § 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 114 Entlastung praktisch anwenden. BHO § 114 Entlastung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 114 Entlastung Praktisch Anwenden
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-076-buergergeld-krankenversicherung-titel`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Titel prüfen. Titel prüfen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Titel prüfen. Titel prüfen für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Titel
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-077-buergergeld-krankenversicherung-umschi`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Umschichtung simulieren. Umschichtung simulieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Umschichtung simulieren. Umschichtung simulieren für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Umschi
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-078-buergergeld-krankenversicherung-sperre`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Sperre bewerten. Sperre bewerten für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Sperre bewerten. Sperre bewerten für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Sperre
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-079-buergergeld-krankenversicherung-deckun`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Deckung finden. Deckung finden für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgergeld-Krankenversicherung: Deckung finden. Deckung finden für Bürgergeld-Krankenversicherung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergergeld Krankenversicherung Deckun
 

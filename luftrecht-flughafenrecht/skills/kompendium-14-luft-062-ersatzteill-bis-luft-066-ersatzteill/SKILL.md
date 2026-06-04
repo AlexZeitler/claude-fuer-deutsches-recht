@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-luft-062-ersatzteill-bis-luft-066-ersatzteill
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (luft-062-ersatzteillager-register-auswerten, luft-063-ersatzteillager-pfandrecht-vorbereiten, luft-064-ersatzteillager-pfaendung-planen, luft-065-ersatzteillager-genehmigung-pruefen, luft-066-ersatzteillager-sicherheitsauflage-bew) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 062 Ersatzteillager Register Auswerten, Luft 063 Ersatzteillager Pfandrecht Vorbereiten, Luft 064 Ersatzteillager Pfaendung Planen, Luft 065 Ersatzteillager Genehmigung Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 062 Ersatzteillager Register Auswerten bis Luft 066 Ersatzteillager Sicherheitsauflage Bew
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-062-ersatzteillager-register-auswerten` | Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus. |
 | `luft-063-ersatzteillager-pfandrecht-vorbereiten` | Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-062-ersatzteillager-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus.
+**Fokus:** Mandant will Register-/Inventar-Status fuer Luftfahrzeug-Ersatzteile auswerten. Prueft EASA Part-145 AMO-Zertifizierung LuftVG-Eintragung Cape-Town-Convention fuer Triebwerke und Luftfahrzeugteile und liefert Bestandsaufnahme-Bericht mit Zertifizierungsstatus.
 
 # Ersatzteillager – Register auswerten
 
@@ -127,7 +127,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 2. `luft-063-ersatzteillager-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung.
+**Fokus:** Kreditgeber will Pfandrecht an Ersatzteillager und Flugzeugteilen als Kreditsicherheit bestellen. Prueft BGB §§ 1204 ff. Mobiliarpfandrecht LuftFzgG Cape-Town-Convention fuer Triebwerke und Zubehoer und liefert Sicherungsstruktur-Vermerk fuer Spares-Finanzierung.
 
 # Ersatzteillager – Pfandrecht vorbereiten
 
@@ -223,7 +223,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 3. `luft-064-ersatzteillager-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan fuer Teile-Vollstreckung.
+**Fokus:** Glaeubiger will Ersatzteillager oder einzelne Flugzeugteile pfaenden. Prueft ZPO § 808 Mobiliarpfaendung Cape-Town-Motorenerfassung LuftFzgG Zubehoerpfandrecht und Insolvenz-Freigabe und liefert Pfaendungsplan fuer Teile-Vollstreckung.
 
 # Ersatzteillager – Pfändung planen
 
@@ -320,7 +320,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 4. `luft-065-ersatzteillager-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen.
+**Fokus:** Ersatzteillager braucht Genehmigungen: EASA Part-145 AMO-Zertifizierung LBA-Anerkennung Zollgenehmigung Gefahrguterlaubnis. Skill prueft Genehmigungsstatus und liefert Genehmigungslücken-Analyse mit Antragsfristen.
 
 # Ersatzteillager – Genehmigung prüfen
 
@@ -417,7 +417,7 @@ Für Mandate im Bereich Ersatzteillager für Luftfahrzeuge und Part-145-Zulassun
 
 ## 5. `luft-066-ersatzteillager-sicherheitsauflage-bew`
 
-**Frühere Beschreibung:** Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan.
+**Fokus:** Ersatzteillager erhaelt EASA oder LBA-Auflage zur Lagerung zertifizierter Teile oder Gefahrgut-Auflage. Prueft EASA Part-145 Anforderungen LuftVG Gefahrgutrecht IATA DGR und liefert Auflagen-Bewertungs-Vermerk und Compliance-Plan.
 
 # Ersatzteillager – Sicherheitsauflage bewerten
 

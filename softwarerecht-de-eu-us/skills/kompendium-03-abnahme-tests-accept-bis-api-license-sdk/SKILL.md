@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-abnahme-tests-accept-bis-api-license-sdk
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (abnahme-tests-acceptance, ai-code-generation-ip, ai-pair-programming-employment, api-license-sdk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abnahme Tests Acceptance, Ai Code Generation Ip, Ai Pair Programming Employment, Api License Sdk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - softwarerecht-de-eu-us
+# Arbeitsbereich - Abnahme Tests Acceptance bis Api License Sdk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abnahme-tests-acceptance` | Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte. |
 | `ai-code-generation-ip` | Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abnahme-tests-acceptance`
 
-**Frühere Beschreibung:** Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte.
+**Fokus:** Gestaltet Abnahme, Testfälle, UAT, Go-live, Teilabnahme, Fiktion und Mängelvorbehalte.
 
 # Abnahme und Acceptance Tests
 
@@ -85,7 +85,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `ai-code-generation-ip`
 
-**Frühere Beschreibung:** Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies.
+**Fokus:** Prüft KI-generierten Code, Trainingsrisiken, Output-Ownership, OSS-Leakage, Warranties und Entwickler-Policies.
 
 # AI Code Generation IP
 
@@ -142,7 +142,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `ai-pair-programming-employment`
 
-**Frühere Beschreibung:** Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung.
+**Fokus:** Gestaltet Arbeitnehmerregeln für KI-gestützte Softwareentwicklung, Code Review, Geheimnisse, Datenschutz und Haftung.
 
 # AI Pair Programming im Arbeitsverhältnis
 
@@ -199,7 +199,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `api-license-sdk`
 
-**Frühere Beschreibung:** Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls.
+**Fokus:** Entwirft API-/SDK-Lizenzen mit Rate Limits, Developer Terms, Datenrechten, Deprecation und Abuse Controls.
 
 # API- und SDK-Lizenz
 

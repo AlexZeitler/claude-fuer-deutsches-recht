@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-spezial-historie-com-bis-spezial-rechtsanwend
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (spezial-historie-compliance-dokumentation-und-akte, spezial-lueckenfuellung-sonderfall-und-edge-case, spezial-methodenlehre-erstpruefung-und-mandatsziel, spezial-pragmatisch-internationaler-bezug-und-schnittstellen, spezial-rechtsanwendung-tatbestand-beweis-und-belege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Historie Compliance Dokumentation Und Akte, Lueckenfuellung Sonderfall Und Edge Case, Methodenlehre Erstpruefung Und Mandatsziel, Pragmatisch Internationaler Bezug Und Schnittstellen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Historie Compliance Dokumentation Und Akte bis Rechtsanwendung Tatbestand Beweis Und Belege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-historie-compliance-dokumentation-und-akte` | Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung. |
 | `spezial-lueckenfuellung-sonderfall-und-edge-case` | Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-historie-compliance-dokumentation-und-akte`
 
-**Frühere Beschreibung:** Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung.
+**Fokus:** Dieses Skill strukturiert die historische und compliance-relevante Dokumentation eines zivilrechtlichen Mandats. Es zeigt, wie Vertragshistorie, behördliche Korrespondenz und rechtlich relevante Vorgänge revisionssicher dokumentiert werden, welche Aufbewahrungsfristen gelten und wie eine Mandatsakte aufgebaut sein muss, um aufsichts- und haftungsrechtlichen Anforderungen zu genügen. Besonderes Gewicht liegt auf der Verbindung von historisch-genetischer Auslegung mit praktischer Aktenführung.
 
 # Historische Compliance-Dokumentation und Aktenführung
 
@@ -123,7 +123,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 2. `spezial-lueckenfuellung-sonderfall-und-edge-case`
 
-**Frühere Beschreibung:** Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht.
+**Fokus:** Dieses Skill behandelt die methodische Lückenfüllung im bürgerlichen Recht bei Sonderfällen und Grenzkonstellationen (Edge Cases), die vom Gesetzgeber nicht ausdrücklich geregelt wurden. Es zeigt, wie analoge Anwendung, teleologische Extension und teleologische Reduktion methodisch korrekt eingesetzt werden, wie Sonderfälle von Standardfällen abgegrenzt und wie atypische Sachverhalte durch richterliche Lückenschließung behandelt werden. Dabei werden Grenzen und Risiken der Lückenfüllung transparent gemacht.
 
 # Lückenfüllung bei Sonderfällen und Edge Cases
 
@@ -216,7 +216,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `spezial-methodenlehre-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmethoden für die Erstprüfung heranzuziehen sind und wie Mandatsziel, Rechtsfrage und Bearbeitungsstrategie methodisch aufeinander abgestimmt werden. Das Skill sichert von Anfang an die methodische Kohärenz des Mandats.
+**Fokus:** Dieses Skill leitet die methodische Erstprüfung eines neuen Mandats an und hilft, das Mandatsziel präzise zu definieren. Es zeigt, wie aus dem Mandantenanliegen eine rechtlich präzise Fragestellung entwickelt wird, welche Auslegungsmethoden für die Erstprüfung heranzuziehen sind und wie Mandatsziel, Rechtsfrage und Bearbeitungsstrategie methodisch aufeinander abgestimmt werden. Das Skill sichert von Anfang an die methodische Kohärenz des Mandats.
 
 # Erstprüfung und Mandatszieldefinition
 
@@ -308,7 +308,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 4. `spezial-pragmatisch-internationaler-bezug-und-schnittstellen`
 
-**Frühere Beschreibung:** Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vertragsschnittstellen erkannt werden. Besonderes Gewicht liegt auf der pragmatischen Priorisierung — Wann lohnt es sich, den internationalen Aspekt methodisch vertieft zu prüfen, und wann reicht ein Schnittstellen-Screening?
+**Fokus:** Dieses Skill behandelt die methodisch-pragmatische Bearbeitung von Sachverhalten mit internationalem Bezug im bürgerlichen Recht. Es zeigt, wie Kollisionsnormen (Rom I, Rom II, CISG) angewendet werden, wie Gerichtsstandsvereinbarungen und Schiedsklauseln methodisch geprüft und internationale Vertragsschnittstellen erkannt werden. Besonderes Gewicht liegt auf der pragmatischen Priorisierung — Wann lohnt es sich, den internationalen Aspekt methodisch vertieft zu prüfen, und wann reicht ein Schnittstellen-Screening?
 
 # Internationaler Bezug und Schnittstellen im bürgerlichen Recht
 
@@ -401,7 +401,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `spezial-rechtsanwendung-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung von materiell-rechtlicher Prüfung und prozessrechtlichen Beweisanforderungen, sodass eine anwaltliche Position von Anfang an beweiskräftig aufgebaut wird.
+**Fokus:** Dieses Skill leitet die vollständige Rechtsanwendung vom Tatbestand bis zur Beweisführung und Belegsicherung an. Es zeigt, wie Tatbestandsmerkmale operationalisiert, Beweismittel tatbestandsspezifisch zugeordnet und Belege methodisch gesichert werden. Besonderes Gewicht liegt auf der Verbindung von materiell-rechtlicher Prüfung und prozessrechtlichen Beweisanforderungen, sodass eine anwaltliche Position von Anfang an beweiskräftig aufgebaut wird.
 
 # Rechtsanwendung: Tatbestand, Beweis und Belege
 

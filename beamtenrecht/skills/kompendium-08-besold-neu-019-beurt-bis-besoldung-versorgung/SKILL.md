@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-besold-neu-019-beurt-bis-besoldung-versorgung
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 08; bündelt 7 frühere Spezialskills (besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu, besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red, besoldung-bund-bbesg, besoldung-bverfg-dreischritt-2025, besoldung-laender-check und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu, Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red, Besoldung Bund Bbesg, Besoldung Bverfg Dreischritt 2025 und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - beamtenrecht
+# Arbeitsbereich - Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu bis Besoldung Versorgung Familienzuschlag
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu` | Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
 | `besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red` | Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `besold-neu-019-beurteilung-plausibilisierung-und-anlassbeurteilu`
 
-**Frühere Beschreibung:** Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Beurteilung Plausibilisierung und Anlassbeurteilung mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 019 Beurteilung Plausibilisierung Und Anlassbeurteilu
 
@@ -82,7 +82,7 @@ Skill fuer dienstliche Beurteilung — Plausibilisierung und Anlassbeurteilung.
 
 ## 2. `besold-neu-020-befoerderungskaskade-organisationsmissbrauch-red`
 
-**Frühere Beschreibung:** Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
+**Fokus:** Beamtenrecht: Beförderungskaskade Organisationsmissbrauch Red-Team mit geführtem Workflow, Normencheck, Beweis- und Fristenlogik, Red-Team und verwertbarem Ergebnis.
 
 # Besold Neu 020 Befoerderungskaskade Organisationsmissbrauch Red
 
@@ -133,7 +133,7 @@ Skill fuer Beförderungskaskade — Organisationsmissbrauch (Red Flag).
 
 ## 3. `besoldung-bund-bbesg`
 
-**Frühere Beschreibung:** Bundesbesoldung nach BBesG: Grundgehalt, Stufen, Zulagen, Familienzuschlag, Rückforderung und Verlust der Besoldung.
+**Fokus:** Bundesbesoldung nach BBesG: Grundgehalt, Stufen, Zulagen, Familienzuschlag, Rückforderung und Verlust der Besoldung.
 
 # Besoldung Bund Bbesg
 
@@ -171,7 +171,7 @@ Prüfe Besoldungsgruppe, Stufe, Erfahrungszeiten, Teilzeit, Zulagen, Rückforder
 
 ## 4. `besoldung-bverfg-dreischritt-2025`
 
-**Frühere Beschreibung:** Vertiefung amtsangemessene Alimentation nach Art. 33 Abs. 5 GG: BVerfG-Linie 2015/2020/2025, Mindestabstand, Prekaritätsschwelle, Drei-Schritt-Prüfung, Reparaturgesetz und Output für Widerspruch, Vorlageanregung und Mandantenmemo.
+**Fokus:** Vertiefung amtsangemessene Alimentation nach Art. 33 Abs. 5 GG: BVerfG-Linie 2015/2020/2025, Mindestabstand, Prekaritätsschwelle, Drei-Schritt-Prüfung, Reparaturgesetz und Output für Widerspruch, Vorlageanregung und Mandantenmemo.
 
 # Besoldung - BVerfG-Dreischritt, Mindestabstand und Reformstand
 
@@ -231,7 +231,7 @@ Keine BeckRS-, juris- oder Kommentarzitate. Rechtsprechung nur mit Gericht, Ents
 
 ## 5. `besoldung-laender-check`
 
-**Frühere Beschreibung:** Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen, Familienzuschläge und landesspezifische Abweichungen.
+**Fokus:** Länderbesoldung: Landesbesoldungsgesetz, Stufen, Sonderzahlungen, Familienzuschläge und landesspezifische Abweichungen.
 
 # Besoldung Laender Check
 
@@ -269,7 +269,7 @@ Frage Bundesland ab. Erzeuge Prüfliste statt pauschaler Aussage. Jede Zahl und 
 
 ## 6. `besoldung-verfassungswidrig-a-besoldung`
 
-**Frühere Beschreibung:** Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema fuer den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag fuer das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag.
+**Fokus:** Skill zur Geltendmachung verfassungswidriger A-Besoldung im Land. Pruefschema fuer den Verstoss gegen die amtsangemessene Alimentation in der A-Besoldung unter Beruecksichtigung des Mindestabstandsgebots zum sozialhilferechtlichen Grundsicherungsniveau. Behandelt die Konstellationen Familienzuschlag fuer das dritte und weitere Kinder lange statische Besoldung in Verbindung mit Tariferhoehungen sowie die zeitnahe Geltendmachung des Anspruchs im jeweiligen Haushaltsjahr. Liefert Widerspruch und Vorlageantrag.
 
 # Verfassungswidrige A-Besoldung — Mindestabstandsgebot und Geltendmachung
 
@@ -328,7 +328,7 @@ Polizeimeister A7 Stufe 4, Ehepartner ohne Erwerbseinkommen, vier Kinder. Skill 
 
 ## 7. `besoldung-versorgung-familienzuschlag`
 
-**Frühere Beschreibung:** Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung.
+**Fokus:** Überträgt Alimentationsfragen vorsichtig auf Versorgungsempfänger, Hinterbliebene, kinderreiche Beamtenfamilien und Familienzuschlag-Rückforderungen, mit ausdrücklicher Unsicherheits- und Landesrechtsprüfung.
 
 # Versorgung, Familienzuschlag und offene Übertragungsfragen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-unionsmarken-anmeldu-bis-us-selektivvertrieb
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (unionsmarken-anmeldung-euipo, unternehmenskennzeichen-werktitel-domain, us-counterfeit-und-customs-cbp, us-selektivvertrieb-und-mfp-tiffany-vs-costco) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unionsmarken Anmeldung Euipo, Unternehmenskennzeichen Werktitel Domain, Us Counterfeit Und Customs Cbp, Us Selektivvertrieb Und Mfp Tiffany Vs Costco; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - markenrecht-fashion-luxus
+# Arbeitsbereich - Unionsmarken Anmeldung Euipo bis Us Selektivvertrieb Und Mfp Tiffany Vs Costco
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unionsmarken-anmeldung-euipo` | Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung. |
 | `unternehmenskennzeichen-werktitel-domain` | Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unionsmarken-anmeldung-euipo`
 
-**Frühere Beschreibung:** Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung.
+**Fokus:** Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Prüfraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung.
 
 # Unionsmarken-Anmeldung beim EUIPO
 
@@ -163,7 +163,7 @@ Bevor das e-Filing startet, klaere:
 
 ## 2. `unternehmenskennzeichen-werktitel-domain`
 
-**Frühere Beschreibung:** Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung.
+**Fokus:** Unternehmenskennzeichen, besondere Geschäftsbezeichnungen, Werktitel, Domains und Social-Media-Handles markenrechtlich einordnen: Entstehung ohne Register, Priorität, Reichweite, Verwechslungsgefahr und Durchsetzung.
 
 # Unternehmenskennzeichen, Werktitel und Domains
 
@@ -205,7 +205,7 @@ MarkenG live prüfen; Domain- und Plattformregeln konkret nach Registry/Plattfor
 
 ## 3. `us-counterfeit-und-customs-cbp`
 
-**Frühere Beschreibung:** US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation.
+**Fokus:** US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Prüfraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation.
 
 # US Counterfeit Enforcement und CBP Recordation
 
@@ -405,7 +405,7 @@ klotzkette SA — Trademark Portfolio
 
 ## 4. `us-selektivvertrieb-und-mfp-tiffany-vs-costco`
 
-**Frühere Beschreibung:** US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo.
+**Fokus:** US-Vertriebsrecht für Luxusmarken: Resale Price Maintenance und MAP-Policies kartellrechtskonform gestalten. Normen: Sherman Act § 1, Leegin 551 U.S. 877 (Rule of Reason), Colgate Doctrine (unilateral), Tiffany v. Costco (Trademark Dilution durch Discount). Prüfraster: RPM-Legalitaet nach Leegin, MAP-Policy Formulierung, Minimum-Advertised-Price Unterschied zu Resale Price Fixing. Output Vertriebspolitik-Memo, MAP-Policy-Entwurf. Abgrenzung: EU Selektivvertrieb siehe selektiver-vertrieb-coty; EU Preisbindung siehe vertikale-preisbindung-vbe-vo.
 
 # US-Selektivvertrieb, Resale Price Maintenance und MAP-Policies
 

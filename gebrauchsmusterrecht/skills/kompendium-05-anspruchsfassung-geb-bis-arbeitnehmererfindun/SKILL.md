@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-anspruchsfassung-geb-bis-arbeitnehmererfindun
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (anspruchsfassung-gebrauchsmuster, arbeitnehmererfindung-und-inhaberschaft) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anspruchsfassung Gebrauchsmuster, Arbeitnehmererfindung Und Inhaberschaft; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - gebrauchsmusterrecht
+# Arbeitsbereich - Anspruchsfassung Gebrauchsmuster, Arbeitnehmererfindung Und Inhaberschaft
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anspruchsfassung-gebrauchsmuster` | Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit. |
 | `arbeitnehmererfindung-und-inhaberschaft` | Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anspruchsfassung-gebrauchsmuster`
 
-**Frühere Beschreibung:** Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit.
+**Fokus:** Schutzansprüche für Gebrauchsmuster strukturieren: Merkmale, unabhängiger Anspruch, Unteransprüche, Stütze, Varianten und Klarheit.
 
 # Anspruchsfassung Gebrauchsmuster
 
@@ -81,7 +81,7 @@ Anspruchs-Review und Rückfragen.
 
 ## 2. `arbeitnehmererfindung-und-inhaberschaft`
 
-**Frühere Beschreibung:** Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation.
+**Fokus:** Arbeitnehmererfindung, Erfinderstellung und Inhaberschaft prüfen: Meldung, Inanspruchnahme, Rechtekette, Vergütung und Dokumentation.
 
 # Arbeitnehmererfindung Und Inhaberschaft
 

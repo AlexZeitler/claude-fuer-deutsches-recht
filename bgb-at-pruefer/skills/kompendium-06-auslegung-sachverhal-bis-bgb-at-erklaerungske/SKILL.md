@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-auslegung-sachverhal-bis-bgb-at-erklaerungske
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (auslegung-sachverhalt-und-fallfrage, bgb-at-anfechtung-vor-auslegung, bgb-at-erklaerungskette-tableau) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Auslegung Sachverhalt Und Fallfrage, Bgb At Anfechtung Vor Auslegung, Bgb At Erklaerungskette Tableau; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bgb-at-pruefer
+# Arbeitsbereich - Auslegung Sachverhalt Und Fallfrage, Bgb At Anfechtung Vor Auslegung, Bgb At Erklaerungskette Tableau
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `auslegung-sachverhalt-und-fallfrage` | Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil. |
 | `bgb-at-anfechtung-vor-auslegung` | Klausurmethodik: Prüfungsreihenfolge Auslegung vor Anfechtung im BGB Allgemeiner Teil — Begründung des Vorrangs der Auslegung, Abgrenzung Inhaltsirrtum und falsa demonstratio, Konsequenzen für Klausuraufbau und Praxismandat. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `auslegung-sachverhalt-und-fallfrage`
 
-**Frühere Beschreibung:** Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil.
+**Fokus:** Methodik zur Sachverhaltsanalyse und Fallfrage-Auslegung in BGB-AT-Klausuren: Trennung von Tatsachen und rechtlicher Qualifikation, Identifikation des relevanten Lebenssachverhalts, strukturierte Fallfragebeantwortung im Gutachtenstil.
 
 # Sachverhaltsauslegung und Fallfrage — Klausur-Methodik BGB AT
 
@@ -112,7 +112,7 @@ Prüfung unter alternativen Annahmen. Erfundene Tatsachen ohne Sachverhaltsgrund
 
 ## 2. `bgb-at-anfechtung-vor-auslegung`
 
-**Frühere Beschreibung:** Klausurmethodik: Prüfungsreihenfolge Auslegung vor Anfechtung im BGB Allgemeiner Teil — Begründung des Vorrangs der Auslegung, Abgrenzung Inhaltsirrtum und falsa demonstratio, Konsequenzen für Klausuraufbau und Praxismandat.
+**Fokus:** Klausurmethodik: Prüfungsreihenfolge Auslegung vor Anfechtung im BGB Allgemeiner Teil — Begründung des Vorrangs der Auslegung, Abgrenzung Inhaltsirrtum und falsa demonstratio, Konsequenzen für Klausuraufbau und Praxismandat.
 
 # Auslegung vor Anfechtung — Prüfungsreihenfolge und Begründung
 
@@ -195,7 +195,7 @@ Wirksamkeit des Vertrags mit dem gewollten Inhalt, ohne Anfechtung.
 
 ## 3. `bgb-at-erklaerungskette-tableau`
 
-**Frühere Beschreibung:** Tableau zur Darstellung von Erklärungsketten im BGB Allgemeiner Teil: mehrstufige Willenserklärungen, Vertretungsketten, Genehmigungsvorgänge und Übertragungen. Strukturhilfe für Klausur und Mandatsaufnahme mit Flussdiagramm-Ansatz.
+**Fokus:** Tableau zur Darstellung von Erklärungsketten im BGB Allgemeiner Teil: mehrstufige Willenserklärungen, Vertretungsketten, Genehmigungsvorgänge und Übertragungen. Strukturhilfe für Klausur und Mandatsaufnahme mit Flussdiagramm-Ansatz.
 
 # Erklärungsketten-Tableau — Willenserklärungen und Vertretungsketten
 

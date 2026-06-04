@@ -1,17 +1,17 @@
 ---
 name: kompendium-27-bho-288-vertrauensgr-bis-bho-298-geheimschutz
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 27; bündelt 11 frühere Spezialskills (bho-288-vertrauensgremium-sperre-bewerten, bho-289-vertrauensgremium-deckung-finden, bho-290-vertrauensgremium-szenario-rechnen, bho-291-vertrauensgremium-dashboard-bauen, bho-292-vertrauensgremium-risiko-markieren und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 288 Vertrauensgremium Sperre Bewerten, Bho 289 Vertrauensgremium Deckung Finden, Bho 290 Vertrauensgremium Szenario Rechnen, Bho 291 Vertrauensgremium Dashboard Bauen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 27 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 288 Vertrauensgremium Sperre Bewerten bis Bho 298 Geheimschutzhaushalt Sperre Bewerten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-288-vertrauensgremium-sperre-bewerten` | Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Sperre bewerten. Sperre bewerten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-289-vertrauensgremium-deckung-finden` | Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Deckung finden. Deckung finden für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-288-vertrauensgremium-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Sperre bewerten. Sperre bewerten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Sperre bewerten. Sperre bewerten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Sperre Bewerten
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-289-vertrauensgremium-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Deckung finden. Deckung finden für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Deckung finden. Deckung finden für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Deckung Finden
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-290-vertrauensgremium-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Szenario rechnen. Szenario rechnen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Szenario rechnen. Szenario rechnen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Szenario Rechnen
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-291-vertrauensgremium-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Dashboard bauen. Dashboard bauen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Dashboard bauen. Dashboard bauen für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Dashboard Bauen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-292-vertrauensgremium-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Risiko markieren. Risiko markieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Risiko markieren. Risiko markieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Risiko Markieren
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-293-vertrauensgremium-brh-frage-formuliere`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: BRH-Frage formulieren. BRH-Frage formulieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: BRH-Frage formulieren. BRH-Frage formulieren für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Brh Frage Formuliere
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-294-vertrauensgremium-parlamentsfrage-vorb`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Parlamentsfrage Vorb
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-295-vertrauensgremium-vollzug-tracken`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Vollzug tracken. Vollzug tracken für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Vertrauensgremium: Vollzug tracken. Vollzug tracken für Vertrauensgremium im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vertrauensgremium Vollzug Tracken
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-296-geheimschutzhaushalt-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen. Titel prüfen für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Titel prüfen. Titel prüfen für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Geheimschutzhaushalt Titel Pruefen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-297-geheimschutzhaushalt-umschichtung-simu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Umschichtung simulieren. Umschichtung simulieren für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Umschichtung simulieren. Umschichtung simulieren für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Geheimschutzhaushalt Umschichtung Simu
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-298-geheimschutzhaushalt-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Sperre bewerten. Sperre bewerten für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Geheimschutzhaushalt: Sperre bewerten. Sperre bewerten für Geheimschutzhaushalt im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Geheimschutzhaushalt Sperre Bewerten
 

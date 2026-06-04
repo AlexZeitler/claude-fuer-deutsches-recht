@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-gesellschaftsgruende-bis-spezial-partg-dokume
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 18; bündelt 5 frühere Spezialskills (gesellschaftsgruender-wandeldarlehen-safe, spezial-gesellschaften-tatbestand-beweis-und-belege, spezial-ggmbh-risikoampel-und-gegenargumente, spezial-gruendungsassistent-erstpruefung-und-mandatsziel, spezial-partg-dokumentenmatrix-und-lueckenliste) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Wandeldarlehen Safe, Gesellschaften Tatbestand Beweis Und Belege, Ggmbh Risikoampel Und Gegenargumente, Gruendungsassistent Erstpruefung Und Mandatsziel und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Wandeldarlehen Safe bis Partg Dokumentenmatrix Und Lueckenliste
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-wandeldarlehen-safe` | Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken. |
 | `spezial-gesellschaften-tatbestand-beweis-und-belege` | Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-wandeldarlehen-safe`
 
-**Frühere Beschreibung:** Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken.
+**Fokus:** Prüft Wandeldarlehen, Discount, Cap, Wandlung, Rang, Prospekt-/Bankaufsichtsrisiken.
 
 # Wandeldarlehen und SAFE-ähnliche Instrumente
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `spezial-gesellschaften-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaften: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -143,7 +143,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `spezial-ggmbh-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Ggmbh: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -214,7 +214,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 4. `spezial-gruendungsassistent-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gruendungsassistent: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -285,7 +285,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 5. `spezial-partg-dokumentenmatrix-und-lueckenliste`
 
-**Frühere Beschreibung:** PartG: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** PartG: Dokumentenmatrix, Lückenliste und Nachforderung im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # PartG: Dokumentenmatrix, Lückenliste und Nachforderung
 

@@ -1,38 +1,36 @@
 ---
 name: kompendium-15-krankheitsbedingte-u-bis-live-quellencheck-bu
-description: "beamtenrecht: Konsolidiertes Skill-Kompendium 15; bündelt 7 frühere Spezialskills (krankheitsbedingte-urlaubsuebertragung, krankheitskosten-beihilfe-pkv-widerspruch, landesrecht-16-laender-routenplan, laufbahnrecht-bund, laufbahnrecht-laender-matrix und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "beamtenrecht: eigenständiger Arbeits-Skill für sachlich zusammengehörige Arbeitsmodule zu Krankheitsbedingte Urlaubsuebertragung, Krankheitskosten Beihilfe Pkv Widerspruch, Landesrecht 16 Laender Routenplan, Laufbahnrecht Bund; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - beamtenrecht
+# Arbeitsbereich - Krankheitsbedingte Urlaubsuebertragung bis Laufbahnrecht Bund
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet sachlich benachbarte Arbeitsmodule, die gemeinsam in einem Fall auftreten können. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `krankheitsbedingte-urlaubsuebertragung` | Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster. |
 | `krankheitskosten-beihilfe-pkv-widerspruch` | Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch. |
 | `landesrecht-16-laender-routenplan` | Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren. |
 | `laufbahnrecht-bund` | Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation. |
-| `laufbahnrecht-laender-matrix` | Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab. |
-| `lehrer-schule-beamtenrecht` | Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht. |
-| `live-quellencheck-bund-land-richter` | Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `krankheitsbedingte-urlaubsuebertragung`
 
-**Frühere Beschreibung:** Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster.
+**Fokus:** Skill zur Uebertragung und Abgeltung des Erholungsurlaubs bei laenger andauernder Erkrankung im Beamtenverhaeltnis. Klaert die 15-Monats-Frist nach EuGH-Rechtsprechung den unionsrechtlichen Mindesturlaub die Unterscheidung zwischen unionsrechtlich gewaehrtem Urlaub und nationalem Zusatzurlaub den Verzicht auf Verfall mangels Mitwirkungsobliegenheit sowie das Verhaeltnis zur Abgeltung bei Eintritt in den Ruhestand. Liefert Berechnungstabelle und Pruefraster.
+
 
 # Krankheitsbedingte Urlaubsuebertragung
 
@@ -91,7 +89,8 @@ Mandantin 28 Monate Krankheit, in 2022 zehn Tage Urlaub genommen. Skill liefert 
 
 ## 2. `krankheitskosten-beihilfe-pkv-widerspruch`
 
-**Frühere Beschreibung:** Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch.
+**Fokus:** Krankheitskosten im Beamtenrecht: Beihilfe, PKV, ablehnender Beihilfebescheid, medizinische Notwendigkeit, Voranerkennung, Frist und Widerspruch.
+
 
 # krankheitskosten-beihilfe-pkv-widerspruch
 
@@ -126,7 +125,8 @@ Keine Rechtsprechung aus Modellwissen zitieren. Entscheidungen nur mit Gericht, 
 
 ## 3. `landesrecht-16-laender-routenplan`
 
-**Frühere Beschreibung:** Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren.
+**Fokus:** Routenplan für Landesbeamtenrecht aller 16 Länder: Landesbeamtengesetz, Laufbahn, Besoldung, Versorgung, Beihilfe, Disziplinarrecht und Landesrichterrecht ohne falsches Bundesrechts-Autopilotieren.
+
 
 # Landesrecht - 16-Länder-Routenplan
 
@@ -180,7 +180,8 @@ Der Skill stoppt Ausgaben, wenn:
 
 ## 4. `laufbahnrecht-bund`
 
-**Frühere Beschreibung:** Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation.
+**Fokus:** Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwechsel, Anerkennung von Zeiten und Qualifikation.
+
 
 # Laufbahnrecht Bund
 
@@ -191,120 +192,6 @@ Laufbahnrecht Bund: Laufbahngruppen, Vorbereitungsdienst, Aufstieg, Laufbahnwech
 ## Arbeitsweise
 
 Arbeite mit Laufbahnverordnung und Ressortvorgaben. Prüfe Eingangsvoraussetzungen, Laufbahnbefähigung, Erprobung, Fortbildung und Auswahlentscheidung.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 5. `laufbahnrecht-laender-matrix`
-
-**Frühere Beschreibung:** Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab.
-
-# Laufbahnrecht Laender Matrix
-
-## Aufgabe
-
-Länder-Laufbahnrecht-Matrix: fragt Bundesland, Laufbahngruppe, Fachrichtung, Vorbildung und Zielamt ab.
-
-## Arbeitsweise
-
-Erzeuge eine Ländermatrix mit zu prüfenden Normen. Behaupte keine landesspezifische Spezialfrist ohne amtliche Quelle.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 6. `lehrer-schule-beamtenrecht`
-
-**Frühere Beschreibung:** Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht.
-
-# Lehrer Schule Beamtenrecht
-
-## Aufgabe
-
-Lehrerbeamtenrecht: Abordnung, Versetzung, Unterrichtspflicht, Dienstunfähigkeit, Elternkonflikte und Schulaufsicht.
-
-## Arbeitsweise
-
-Prüfe Schulart, Land, Deputat, dienstliche Beurteilung, Schulaufsicht und Personalrat. Output: Schulleitungs-/Behördenschreiben.
-
-## Pflichtfragen
-
-- Welcher Status liegt vor: Beamter, Richter, Bewerber, Anwärter, Tarifbeschäftigter, Wahlbeamter oder Mischfall?
-- Welcher Dienstherr und welches Bundesland sind betroffen?
-- Gibt es einen Bescheid, eine Beurteilung, eine Ausschreibung, einen Auswahlvermerk oder eine Verfügung mit Datum und Zugang?
-- Welche Frist läuft und welches Ergebnis soll erreicht werden?
-- Welche Unterlagen fehlen noch: Personalakte, Beurteilungsbeiträge, amtsärztliches Gutachten, Berechnungsblatt, Beteiligungsvermerk?
-
-## Prüfprogramm
-
-1. **Status und Rechtsquelle:** Bundesrecht, Landesrecht oder Richterrecht trennen; Normen live gegen amtliche Quellen prüfen.
-2. **Eingriff und Ziel:** Verwaltungsakt, dienstliche Weisung, Auswahlentscheidung, Realakt oder bloße Kommunikation einordnen.
-3. **Materielle Prüfung:** Tatbestand, Ermessen, Beteiligung, Begründung, Gleichbehandlung, Fürsorge und Verhältnismäßigkeit prüfen.
-4. **Verfahren:** Anhörung, Akteneinsicht, Frist, Widerspruch, Klageart, Eilrechtsschutz und Glaubhaftmachung klären.
-5. **Output:** Eine klare Handlungsempfehlung, einen Entwurf oder eine Risikomatrix erzeugen.
-
-## Ausgabeformat
-
-- Kurzantwort in drei Sätzen.
-- Checkliste der fehlenden Tatsachen.
-- Rechtliche Einordnung mit passenden Normgruppen.
-- Nächste Schritte mit Fristen und Anlagen.
-- Quellenhygiene: keine nicht überprüfbaren Fundstellen, keine Kommentar- oder Aufsatzblindzitate.
-
-## 7. `live-quellencheck-bund-land-richter`
-
-**Frühere Beschreibung:** Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen.
-
-# Live Quellencheck Bund Land Richter
-
-## Aufgabe
-
-Live-Quellencheck für Bundesrecht, Landesrecht und Richterrecht mit Sperre gegen nicht prüfbare Fundstellen.
-
-## Arbeitsweise
-
-Vor konkreter Normbehauptung aktuelle amtliche Quelle nennen oder Unsicherheit markieren. Nutze für Bundesrecht gesetze-im-internet.de. Für Länder: amtliche Landesportale. Rechtsprechung nur mit Gericht, Datum, Aktenzeichen und freier Quelle; keine BeckRS- oder juris-Blindzitate.
 
 ## Pflichtfragen
 

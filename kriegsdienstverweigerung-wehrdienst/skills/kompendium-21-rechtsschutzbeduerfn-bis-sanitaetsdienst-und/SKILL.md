@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-rechtsschutzbeduerfn-bis-sanitaetsdienst-und
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (rechtsschutzbeduerfnis-pruefen, religioese-weltanschauliche-gruende, reservisten-heranziehung, ruecknahme-oder-verzicht, sanitaetsdienst-und-waffenloser-dienst) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsschutzbeduerfnis Pruefen, Religioese Weltanschauliche Gruende, Reservisten Heranziehung, Ruecknahme Oder Verzicht und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Rechtsschutzbeduerfnis Pruefen bis Sanitaetsdienst Und Waffenloser Dienst
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsschutzbeduerfnis-pruefen` | Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus. |
 | `religioese-weltanschauliche-gruende` | Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsschutzbeduerfnis-pruefen`
 
-**Frühere Beschreibung:** Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus.
+**Fokus:** Prüft Sachbescheidungsinteresse bei ausgesetzter Wehrpflicht und Soldatenstatus.
 
 # Rechtsschutzbedürfnis
 
@@ -85,7 +85,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 2. `religioese-weltanschauliche-gruende`
 
-**Frühere Beschreibung:** Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang.
+**Fokus:** Ordnet religiöse, humanistische und weltanschauliche Gründe ohne Bekenntniszwang.
 
 # Religiöse und weltanschauliche Gründe
 
@@ -140,7 +140,7 @@ Keine fremde Mustervorlage produzieren; die Darstellung muss persönlich, wahrha
 
 ## 3. `reservisten-heranziehung`
 
-**Frühere Beschreibung:** Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen.
+**Fokus:** Prüft KDV bei Beorderung, Heranziehungsbescheid und Übungen.
 
 # Reservisten und Heranziehung
 
@@ -195,7 +195,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 4. `ruecknahme-oder-verzicht`
 
-**Frühere Beschreibung:** Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung.
+**Fokus:** Erklärt Rücknahme eines Antrags oder Verzicht auf Anerkennung.
 
 # Rücknahme oder Verzicht
 
@@ -250,7 +250,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 5. `sanitaetsdienst-und-waffenloser-dienst`
 
-**Frühere Beschreibung:** Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um.
+**Fokus:** Setzt BVerwG 2012 zu Sanitätsdienst und waffenlosem Dienst um.
 
 # Sanitätsdienst und waffenloser Dienst
 

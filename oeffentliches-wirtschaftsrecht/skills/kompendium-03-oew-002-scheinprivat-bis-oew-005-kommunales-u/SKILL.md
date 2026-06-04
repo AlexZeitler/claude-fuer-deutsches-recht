@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-oew-002-scheinprivat-bis-oew-005-kommunales-u
-description: "oeffentliches-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (oew-002-scheinprivatisierung-erkennen, oew-003-oepp-struktur-pruefen, oew-004-projektfinanzierung-oeffentlich, oew-005-kommunales-unternehmen-zulaessig) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "oeffentliches-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oew 002 Scheinprivatisierung Erkennen, Oew 003 Oepp Struktur Pruefen, Oew 004 Projektfinanzierung Oeffentlich, Oew 005 Kommunales Unternehmen Zulaessig; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - oeffentliches-wirtschaftsrecht
+# Arbeitsbereich - Oew 002 Scheinprivatisierung Erkennen bis Oew 005 Kommunales Unternehmen Zulaessig
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oew-002-scheinprivatisierung-erkennen` | Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `oew-003-oepp-struktur-pruefen` | Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oew-002-scheinprivatisierung-erkennen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Scheinprivatisierung erkennen. Scheinprivatisierung erkennen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Scheinprivatisierung Erkennen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `oew-003-oepp-struktur-pruefen`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: ÖPP-Struktur prüfen. ÖPP-Struktur prüfen im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Oepp Struktur Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `oew-004-projektfinanzierung-oeffentlich`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Projektfinanzierung öffentlich. Projektfinanzierung öffentlich im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Projektfinanzierung Oeffentlich
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `oew-005-kommunales-unternehmen-zulaessig`
 
-**Frühere Beschreibung:** Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Öffentliches Wirtschaftsrecht: Kommunales Unternehmen zulässig. Kommunales Unternehmen zulässig im Fachgebiet Öffentliches Wirtschaftsrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunales Unternehmen Zulaessig
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-fachanwalt-agrarrech-bis-mandat-triage-agrarr
-description: "fachanwalt-agrarrecht: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg, landpacht-und-hoferbfolge-pruefen, mandat-triage-agrarrecht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-agrarrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Pruefen, Mandat Triage Agrarrecht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-agrarrecht
+# Arbeitsbereich - Agrarrecht Wolfsentnahme Genehmigung Bnatschg, Landpacht Und Hoferbfolge Pruefen, Mandat Triage Agrarrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg` | Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `landpacht-und-hoferbfolge-pruefen` | Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt agrarrecht wolfsentnahme genehmigung bnatschg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG
 
@@ -252,7 +252,7 @@ Rechtsprechung im Mandat live verifizieren — keine Aktenzeichen aus Modellwiss
 
 ## 2. `landpacht-und-hoferbfolge-pruefen`
 
-**Frühere Beschreibung:** Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten.
+**Fokus:** Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten.
 
 # Landpacht und Höfeerbfolge prüfen
 
@@ -510,7 +510,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `mandat-triage-agrarrecht`
 
-**Frühere Beschreibung:** Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
+**Fokus:** Eingangs-Abfrage für agrarrechtliche Mandate — Landwirt fragt nach Pacht Hof-Erbfolge EU-Foerderung Tierhaltungs-Genehmigung Duenge-Bußgeld oder Direktzahlungen-Kuerzung. Klaert Sachgebiet (Landpacht HoefeO GAP ELER Tierhaltung Pflanzenschutz Duenge-VO Hofnachfolge) und Mandantenrolle (Landwirt Verpaechter Paechter Erbe Genossenschaft). Sofort-Fristen Sammelantrag 15. Mai Pachtvertragsanzeige § 2 LPachtVG OWiG-Einspruch zwei Wochen. Normen §§ 581 ff. BGB HoefeO GAP-VO 2021/2115 DueV. Eskalation Telefon-Sofort bei Sammelantragsfrist Tierseuche. Output Triage-Memo Fristen-Ampel Routing zu landpacht-und-hoferbfolge-prüfen. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden).
 
 # Mandat-Triage Agrarrecht
 

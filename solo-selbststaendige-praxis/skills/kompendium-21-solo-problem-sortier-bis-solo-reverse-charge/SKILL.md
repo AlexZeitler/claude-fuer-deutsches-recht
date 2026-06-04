@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-solo-problem-sortier-bis-solo-reverse-charge
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 21; bündelt 8 frühere Spezialskills (solo-problem-sortieren, solo-profimodus-schnelltriage, solo-ratenzahlung-finanzamt-kasse, solo-rechte-bei-subunternehmern, solo-referenzen-und-kundenlogos und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Problem Sortieren, Solo Profimodus Schnelltriage, Solo Ratenzahlung Finanzamt Kasse, Solo Rechte Bei Subunternehmern und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Problem Sortieren bis Solo Reverse Charge Ausland
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-problem-sortieren` | Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-profimodus-schnelltriage` | Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-problem-sortieren`
 
-**Frühere Beschreibung:** Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: trennt rechtliches Problem, Behördenproblem, Geldproblem und Organisationsproblem; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Trennt rechtliches problem
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 2. `solo-profimodus-schnelltriage`
 
-**Frühere Beschreibung:** Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: liefert Kurztriage für erfahrene Selbstständige mit Prioritäten und roten Linien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Kaltstart und Orientierung: Liefert kurztriage für erfahrene selbstständige mit prioritäten und roten linien
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Kaltstart und Orienti
 
 ## 3. `solo-ratenzahlung-finanzamt-kasse`
 
-**Frühere Beschreibung:** Solo-Selbstständige: erstellt vorsichtige Stundungs-/Ratenzahlungsunterlagen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: erstellt vorsichtige Stundungs-/Ratenzahlungsunterlagen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Krise Schulden und Neustart: Erstellt vorsichtige stundungs-/ratenzahlungsunterlagen
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Krise Schulden und Ne
 
 ## 4. `solo-rechte-bei-subunternehmern`
 
-**Frühere Beschreibung:** Solo-Selbstständige: sichert Rechtekette von freien Mitarbeitenden und Agenturen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: sichert Rechtekette von freien Mitarbeitenden und Agenturen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Sichert rechtekette von freien mitarbeitenden und agenturen
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 5. `solo-referenzen-und-kundenlogos`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Referenznutzung, Logo, Case Study und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Referenznutzung, Logo, Case Study und Geheimhaltung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft referenznutzung
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 6. `solo-remote-freelancer-im-team`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft agile Teams, Jira, Slack, Daily, Urlaub und Eingliederungsindizien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft agile Teams, Jira, Slack, Daily, Urlaub und Eingliederungsindizien; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft agile teams
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 7. `solo-rentenversicherungspflicht`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft rentenversicherungspflichtige Selbstständigkeit und Berufsgruppen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft rentenversicherungspflichtige Selbstständigkeit und Berufsgruppen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Sozialversicherung und Vorsorge: Prüft rentenversicherungspflichtige selbstständigkeit und berufsgruppen
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Sozialversicherung un
 
 ## 8. `solo-reverse-charge-ausland`
 
-**Frühere Beschreibung:** Solo-Selbstständige: ordnet EU-/Drittlandleistungen, Reverse Charge und Nachweistexte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: ordnet EU-/Drittlandleistungen, Reverse Charge und Nachweistexte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Ordnet eu-/drittlandleistungen
 

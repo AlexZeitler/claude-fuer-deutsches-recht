@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-blutprodukte-transfu-bis-datenschutz-krankenh
-description: "krankenhausrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (blutprodukte-transfusionsrecht-dokumentation, compliance-system-klinik-einkauf-forschung-spenden, datenschutz-krankenhaus-patientenakte-forschung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenhausrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forschung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - krankenhausrecht
+# Arbeitsbereich - Blutprodukte Transfusionsrecht Dokumentation, Compliance System Klinik Einkauf Forschung Spenden, Datenschutz Krankenhaus Patientenakte Forsc
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `blutprodukte-transfusionsrecht-dokumentation` | Blutprodukte Transfusionsrecht Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
 | `compliance-system-klinik-einkauf-forschung-spenden` | Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `blutprodukte-transfusionsrecht-dokumentation`
 
-**Frühere Beschreibung:** Blutprodukte Transfusionsrecht Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Blutprodukte Transfusionsrecht Dokumentation: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Blutprodukte Transfusionsrecht Dokumentation
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `compliance-system-klinik-einkauf-forschung-spenden`
 
-**Frühere Beschreibung:** Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
+**Fokus:** Compliance-System Klinik Einkauf Forschung Spenden: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KHG, KHEntgG, BPflV, SGB V, KHVVG/Reformstand, G-BA-Richtlinien, Landeskrankenhausrecht, MD-Prüfregeln, IfSG, MPDG/MDR.
 
 # Compliance-System Klinik Einkauf Forschung Spenden
 
@@ -118,7 +118,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `datenschutz-krankenhaus-patientenakte-forschung`
 
-**Frühere Beschreibung:** Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen.
+**Fokus:** Datenschutz im Krankenhaus: DSGVO, BDSG, Landeskrankenhausgesetze, Patientenakte, ePA-Anbindung, Forschungsdaten, Auftragsverarbeitung Cloud/KI, Betroffenenrechte und Datenpannen.
 
 # Datenschutz Krankenhaus Patientenakte Forschung
 

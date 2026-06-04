@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-kv-050-impfleistunge-bis-kv-052-telemedizin-e
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (kv-050-impfleistungen-reiseimpfung-und-stiko, kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung, kv-052-telemedizin-epa-erezept-und-datenschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezept Und Datenschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 050 Impfleistungen Reiseimpfung Und Stiko, Kv 051 Digitale Gesundheitsanwendungen Diga Antrag Und Erprobung, Kv 052 Telemedizin Epa Erezep
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-050-impfleistungen-reiseimpfung-und-stiko` | GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung. |
 | `kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung` | GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-050-impfleistungen-reiseimpfung-und-stiko`
 
-**Frühere Beschreibung:** GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung.
+**Fokus:** GKV-Impfleistungen: STIKO-Empfehlungen (§ 20i SGB V), Reiseimpfungen als Satzungsleistung, Off-STIKO-Impfungen und Widerspruch bei Ablehnung.
 
 # Impfleistungen: Reiseimpfung und STIKO
 
@@ -110,7 +110,7 @@ GKV übernimmt Kosten für Schutzimpfungen nach STIKO-Empfehlung. Dieser Skill k
 
 ## 2. `kv-051-digitale-gesundheitsanwendungen-diga-antrag-und-erprobung`
 
-**Frühere Beschreibung:** GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM.
+**Fokus:** GKV-Leistungsanspruch auf DiGA (§ 33a SGB V): Verzeichnis, Verordnung, Freischaltung, Erprobungsphase und Nutzenbewertung durch BfArM.
 
 # Digitale Gesundheitsanwendungen (DiGA): Antrag und Erprobung
 
@@ -200,7 +200,7 @@ Digitale Gesundheitsanwendungen (DiGA) sind Apps auf Rezept. Dieser Skill klärt
 
 ## 3. `kv-052-telemedizin-epa-erezept-und-datenschutz`
 
-**Frühere Beschreibung:** Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out.
+**Fokus:** Digitalisierung im Gesundheitswesen: Telemedizin, elektronische Patientenakte (ePA), elektronisches Rezept (eRezept) – GKV-Leistungsrahmen, Datenschutz und Opt-out.
 
 # Telemedizin, ePA, eRezept und Datenschutz
 

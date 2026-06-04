@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-ifap-dubletten-serie-bis-ifap-grund-betrag-zi
-description: "insolvenzforderungsanmeldungspruefung: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (ifap-dubletten-serienforderungen, ifap-formalpruefung-174, ifap-grund-betrag-zinsen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzforderungsanmeldungspruefung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifap Dubletten Serienforderungen, Ifap Formalpruefung 174, Ifap Grund Betrag Zinsen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - insolvenzforderungsanmeldungspruefung
+# Arbeitsbereich - Ifap Dubletten Serienforderungen, Ifap Formalpruefung 174, Ifap Grund Betrag Zinsen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifap-dubletten-serienforderungen` | Dubletten und Serienforderungen in Insolvenzanmeldungen erkennen: Anwendungsfall mehrere Gläubiger melden gleichartige oder identische Forderungen an; Inkassounternehmen und Originalgläubiger reichen parallel ein. § 174 InsO Forderungsanmeldung, § 178 InsO Tabelle Bestreiten. Prüfraster Doppelerfassung gleicher Rechnung, Serienrechnungen mit laufenden Nummern, Konzernforderungen und Vertreterwechsel, mehrfach eingereichte Titel. Output Dublettenprotokoll mit Unterscheidung echte Dublette vs. Serienforderung. Abgrenzung zu Aktenanlage-Batchregister und zu Formalprüfung. |
 | `ifap-formalpruefung-174` | Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderungsgrund, Betrag, Nachrang, Urkundenvorlage, elektronische Einreichung EGVP. Output Formalprüfungsprotokoll mit gruener oder roter Ampel und Maengelschreiben-Vorlage. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifap-dubletten-serienforderungen`
 
-**Frühere Beschreibung:** Dubletten und Serienforderungen in Insolvenzanmeldungen erkennen: Anwendungsfall mehrere Gläubiger melden gleichartige oder identische Forderungen an; Inkassounternehmen und Originalgläubiger reichen parallel ein. § 174 InsO Forderungsanmeldung, § 178 InsO Tabelle Bestreiten. Prüfraster Doppelerfassung gleicher Rechnung, Serienrechnungen mit laufenden Nummern, Konzernforderungen und Vertreterwechsel, mehrfach eingereichte Titel. Output Dublettenprotokoll mit Unterscheidung echte Dublette vs. Serienforderung. Abgrenzung zu Aktenanlage-Batchregister und zu Formalprüfung.
+**Fokus:** Dubletten und Serienforderungen in Insolvenzanmeldungen erkennen: Anwendungsfall mehrere Gläubiger melden gleichartige oder identische Forderungen an; Inkassounternehmen und Originalgläubiger reichen parallel ein. § 174 InsO Forderungsanmeldung, § 178 InsO Tabelle Bestreiten. Prüfraster Doppelerfassung gleicher Rechnung, Serienrechnungen mit laufenden Nummern, Konzernforderungen und Vertreterwechsel, mehrfach eingereichte Titel. Output Dublettenprotokoll mit Unterscheidung echte Dublette vs. Serienforderung. Abgrenzung zu Aktenanlage-Batchregister und zu Formalprüfung.
 
 # Dubletten und Serienforderungen
 
@@ -101,7 +101,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ifap-formalpruefung-174`
 
-**Frühere Beschreibung:** Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderungsgrund, Betrag, Nachrang, Urkundenvorlage, elektronische Einreichung EGVP. Output Formalprüfungsprotokoll mit gruener oder roter Ampel und Maengelschreiben-Vorlage. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck.
+**Fokus:** Formalprüfung Forderungsanmeldung nach § 174 InsO: Anwendungsfall Insolvenzverwalter oder Prüfungsstelle prüft ob eingegangene Anmeldung Mindestangaben hat und tabellenfähig ist. § 174 InsO Pflichtinhalt, § 175 InsO Tabelle, § 176 InsO Prüfungstermin. Prüfraster Gläubiger mit Anschrift, Forderungsgrund, Betrag, Nachrang, Urkundenvorlage, elektronische Einreichung EGVP. Output Formalprüfungsprotokoll mit gruener oder roter Ampel und Maengelschreiben-Vorlage. Abgrenzung zu Grund-Betrag-Zinsen für inhaltliche Prüfung und zu Intake-Kanalcheck.
 
 # Formalprüfung nach § 174 InsO
 
@@ -178,7 +178,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ifap-grund-betrag-zinsen`
 
-**Frühere Beschreibung:** Anspruchsgrund Betrag und Zinsen der Insolvenzforderung prüfen: Anwendungsfall Insolvenzverwalter prüft ob angemeldeter Betrag rechnerisch korrekt und durch Anspruchsgrundlage gedeckt ist. § 174 InsO Forderungsanmeldung, §§ 38-39 InsO Insolvenzforderungen, BGB Verzugszinsen § 288. Prüfraster Hauptforderung aufschlüsseln, Teilzahlungen und Gutschriften abziehen, Zinsberechnung prüfen, Kostenpositionen prüfen. Output Berechnungsprotokoll mit Sollbetrag, Abweichungsampel und Korrekturbedarf. Abgrenzung zu Formalprüfung-174 und zu Beleg-Urkundencheck.
+**Fokus:** Anspruchsgrund Betrag und Zinsen der Insolvenzforderung prüfen: Anwendungsfall Insolvenzverwalter prüft ob angemeldeter Betrag rechnerisch korrekt und durch Anspruchsgrundlage gedeckt ist. § 174 InsO Forderungsanmeldung, §§ 38-39 InsO Insolvenzforderungen, BGB Verzugszinsen § 288. Prüfraster Hauptforderung aufschlüsseln, Teilzahlungen und Gutschriften abziehen, Zinsberechnung prüfen, Kostenpositionen prüfen. Output Berechnungsprotokoll mit Sollbetrag, Abweichungsampel und Korrekturbedarf. Abgrenzung zu Formalprüfung-174 und zu Beleg-Urkundencheck.
 
 # Grund, Betrag und Zinsen
 

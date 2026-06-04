@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-widerspruch-einfach-bis-zahlung-stundung-rat
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (widerspruch-einfach, wohngeld, wohnung-und-obdachlosigkeit, zahlung-stundung-raten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Widerspruch Einfach, Wohngeld, Wohnung Und Obdachlosigkeit, Zahlung Stundung Raten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Widerspruch Einfach bis Zahlung Stundung Raten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `widerspruch-einfach` | Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung. |
 | `wohngeld` | Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `widerspruch-einfach`
 
-**Frühere Beschreibung:** Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung.
+**Fokus:** Erstellt fristwahrenden Widerspruch gegen Verwaltungsakte, wenn Widerspruch statthaft ist, mit knapper Begründung oder Begründungsnachreichung.
 
 # Widerspruch einfach
 
@@ -76,7 +76,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `wohngeld`
 
-**Frühere Beschreibung:** Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch.
+**Fokus:** Hilft bei Wohngeldantrag, Mietstufe, Einkommen, Haushaltsmitglieder, Ablehnung, Nachzahlung und Widerspruch.
 
 # Wohngeld
 
@@ -123,7 +123,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `wohnung-und-obdachlosigkeit`
 
-**Frühere Beschreibung:** Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz.
+**Fokus:** Routet Wohnungsnotfall, Ordnungsamt, Sozialamt, Kündigung, Räumung und Eilrechtsschutz.
 
 # Wohnung und Obdachlosigkeit
 
@@ -163,7 +163,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `zahlung-stundung-raten`
 
-**Frühere Beschreibung:** Formuliert Stundungs-, Ratenzahlungs-, Erlass- oder Aussetzungsantrag bei Forderungen öffentlicher Stellen.
+**Fokus:** Formuliert Stundungs-, Ratenzahlungs-, Erlass- oder Aussetzungsantrag bei Forderungen öffentlicher Stellen.
 
 # Zahlung, Stundung, Raten
 

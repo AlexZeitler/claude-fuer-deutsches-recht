@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-umform-eilgespraech-bis-umform-vertraulichke
-description: "email-umformulierer-berufsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (umform-eilgespraech-zusammenfassung-spezial, umform-tonalitaet-bauleiter, umform-vertraulichkeitshinweise-leitfaden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "email-umformulierer-berufsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - email-umformulierer-berufsrecht
+# Arbeitsbereich - Umform Eilgespraech Zusammenfassung Spezial, Umform Tonalitaet Bauleiter, Umform Vertraulichkeitshinweise Leitfaden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umform-eilgespraech-zusammenfassung-spezial` | Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster fuer Mandant. |
 | `umform-tonalitaet-bauleiter` | Bauleiter Tonalitaet fuer Anwalts-E-Mail: sachlich, foerdernd, deeskalierend. Pruefraster fuer Mandanten- und Kollegenkorrespondenz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umform-eilgespraech-zusammenfassung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster fuer Mandant.
+**Fokus:** Spezialfall Zusammenfassung eines Eilgespraechs als E-Mail an Mandant: Sachverhalt, Optionen, Entscheidungsvorschlag, Frist. Pruefraster fuer Mandant.
 
 # Umform: Eilgespraech-Zusammenfassung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `email-umformulierer-berufsrecht`. Er ergaenzt d
 
 ## 2. `umform-tonalitaet-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Tonalitaet fuer Anwalts-E-Mail: sachlich, foerdernd, deeskalierend. Pruefraster fuer Mandanten- und Kollegenkorrespondenz.
+**Fokus:** Bauleiter Tonalitaet fuer Anwalts-E-Mail: sachlich, foerdernd, deeskalierend. Pruefraster fuer Mandanten- und Kollegenkorrespondenz.
 
 # Umform: Tonalitaet Bauleiter
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `email-umformulierer-berufsrecht`. Er ergaenzt d
 
 ## 3. `umform-vertraulichkeitshinweise-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Vertraulichkeits- und Geheimnishinweise in Anwalts-E-Mails: Mandantengeheimnis, Datenschutz, Disclaimer. Pruefraster fuer Standardsignatur.
+**Fokus:** Leitfaden Vertraulichkeits- und Geheimnishinweise in Anwalts-E-Mails: Mandantengeheimnis, Datenschutz, Disclaimer. Pruefraster fuer Standardsignatur.
 
 # Umform: Vertraulichkeitshinweise
 

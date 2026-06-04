@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-kom-067-buergermeist-bis-kom-073-buergermeist
-description: "kommunalrecht-laender: Konsolidiertes Skill-Kompendium 15; bündelt 6 frühere Spezialskills (kom-067-buergermeister-landesrecht-routen, kom-069-buergermeister-beschluss-bauen, kom-070-buergermeister-satzung-redlinen, kom-071-buergermeister-gebuehr-kalkulieren, kom-072-buergermeister-aufsichtsbeschwerde-sch und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kommunalrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kom 067 Buergermeister Landesrecht Routen, Kom 069 Buergermeister Beschluss Bauen, Kom 070 Buergermeister Satzung Redlinen, Kom 071 Buergermeister Gebuehr Kalkulieren und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - kommunalrecht-laender
+# Arbeitsbereich - Kom 067 Buergermeister Landesrecht Routen bis Kom 073 Buergermeister Eilantrag Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kom-067-buergermeister-landesrecht-routen` | Kommunalrecht der Länder: Bürgermeister: Landesrecht routen. Landesrecht routen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `kom-069-buergermeister-beschluss-bauen` | Kommunalrecht der Länder: Bürgermeister: Beschluss bauen. Beschluss bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kom-067-buergermeister-landesrecht-routen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Landesrecht routen. Landesrecht routen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Landesrecht routen. Landesrecht routen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Landesrecht Routen
 
@@ -88,7 +88,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `kom-069-buergermeister-beschluss-bauen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Beschluss bauen. Beschluss bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Beschluss bauen. Beschluss bauen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Beschluss Bauen
 
@@ -145,7 +145,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `kom-070-buergermeister-satzung-redlinen`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Satzung redlinen. Satzung redlinen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Satzung redlinen. Satzung redlinen für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Satzung Redlinen
 
@@ -202,7 +202,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `kom-071-buergermeister-gebuehr-kalkulieren`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Gebühr kalkulieren. Gebühr kalkulieren für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Gebühr kalkulieren. Gebühr kalkulieren für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Gebuehr Kalkulieren
 
@@ -259,7 +259,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `kom-072-buergermeister-aufsichtsbeschwerde-sch`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Aufsichtsbeschwerde schreiben. Aufsichtsbeschwerde schreiben für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Aufsichtsbeschwerde Sch
 
@@ -316,7 +316,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `kom-073-buergermeister-eilantrag-vorbereiten`
 
-**Frühere Beschreibung:** Kommunalrecht der Länder: Bürgermeister: Eilantrag vorbereiten. Eilantrag vorbereiten für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Kommunalrecht der Länder: Bürgermeister: Eilantrag vorbereiten. Eilantrag vorbereiten für Bürgermeister im Rahmen von Kommunalrecht der Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergermeister Eilantrag Vorbereiten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-chn-013-wfoe-joint-v-bis-chn-086-platform-eco
-description: "festlandchina-wirtschaftsverkehr: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (chn-013-wfoe-joint-venture-repraesentanz, chn-077-asset-protection-and-cash-repatriation, chn-080-tax-and-transfer-pricing-touchpoints, chn-086-platform-ecommerce-china) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "festlandchina-wirtschaftsverkehr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chn 013 Wfoe Joint Venture Repraesentanz, Chn 077 Asset Protection And Cash Repatriation, Chn 080 Tax And Transfer Pricing Touchpoints, Chn 086 Platform Ecommerce China; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - festlandchina-wirtschaftsverkehr
+# Arbeitsbereich - Chn 013 Wfoe Joint Venture Repraesentanz bis Chn 086 Platform Ecommerce China
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `chn-013-wfoe-joint-venture-repraesentanz` | Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan. |
 | `chn-077-asset-protection-and-cash-repatriation` | Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `chn-013-wfoe-joint-venture-repraesentanz`
 
-**Frühere Beschreibung:** Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan.
+**Fokus:** Rechtsformvergleich WFOE/JV/Representative Office in VR China nach Foreign Investment Law 2020: Gründungsvoraussetzungen, Kapitalanforderungen, Negative List, Geschäftsführerbestellung, Gewinnabführung, Exit-Optionen. Steuerliche und gesellschaftsrechtliche Aspekte. Output: Entscheidungsmatrix und Gründungsfahrplan.
 
 # WFOE/Joint Venture/Representative Office: Rechtsformvergleich China
 
@@ -123,7 +123,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 2. `chn-077-asset-protection-and-cash-repatriation`
 
-**Frühere Beschreibung:** Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick.
+**Fokus:** Vermögensschutz und Cash-Repatriierung aus China: SAFE-Devisenkontrolle (State Administration of Foreign Exchange), Dividendenausschüttung aus WFOE, Verrechnungspreise als Repatriierungsinstrument, Cash-Pooling CN-DE, Kapitalrückführung bei Liquidation, Steuern auf Repatriierung (Quellensteuer 10 Prozent). Output: Cash-Repatriierungs-Strategie und Steueroptimierungsüberblick.
 
 # Vermögensschutz und Cash-Repatriierung China: SAFE und Steuern
 
@@ -217,7 +217,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 3. `chn-080-tax-and-transfer-pricing-touchpoints`
 
-**Frühere Beschreibung:** Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen.
+**Fokus:** Steuern und Verrechnungspreise im China-Geschaeft: Körperschaftsteuer VR China (Enterprise Income Tax 25 Prozent), Quellensteuer Dividenden/Zinsen/Lizenzen (10 Prozent), Doppelbesteuerungsabkommen DE-CN, Verrechnungspreise OECD-Standard vs. CN-Praxis (SAT-Guidance), BEPS-Maßnahmen China. Output: Steuer-Compliance-Überblick und VP-Dokumentationsrahmen.
 
 # Steuern und Verrechnungspreise China: EIT/DBA/Verrechnungspreise
 
@@ -311,7 +311,7 @@ Nur frei prüfbare Quellen aus erlaubten Domains. Rechtsprechung nur mit Gericht
 
 ## 4. `chn-086-platform-ecommerce-china`
 
-**Frühere Beschreibung:** E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen.
+**Fokus:** E-Commerce-Plattformen China: Tmall/JD.com/Pinduoduo-Rechtsrahmen, E-Commerce-Gesetz VR China 2019, Verbraucherschutz CN, Plattformhaftung und IP-Enforcement, PIPL-Pflichten bei Nutzerdaten, Zahlungsabwicklung (Alipay/WeChat Pay), Cross-Border-E-Commerce-Zone (CBEC), Steuerbehandlung Onlinehandel. Output: Plattform-Einstiegsanalyse China und Vertragsrahmen.
 
 # E-Commerce China: Tmall/JD/Plattformrecht/PIPL
 

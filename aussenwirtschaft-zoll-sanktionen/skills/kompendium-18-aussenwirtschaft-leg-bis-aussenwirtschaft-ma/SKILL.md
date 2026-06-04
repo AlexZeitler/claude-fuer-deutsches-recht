@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-aussenwirtschaft-leg-bis-aussenwirtschaft-ma
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (aussenwirtschaft-legal-hold-datenextraktion, aussenwirtschaft-lieferanten-onboarding-aussenhandel, aussenwirtschaft-lieferkettensorgfalt-aussenhandel, aussenwirtschaft-ma-sanctions-export-dd) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Legal Hold Datenextraktion, Aussenwirtschaft Lieferanten Onboarding Aussenhandel, Aussenwirtschaft Lieferkettensorgfalt Aussenhandel, Aussenwirtschaft Ma Sanctions Export Dd; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Legal Hold Datenextraktion bis Aussenwirtschaft Ma Sanctions Export Dd
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-legal-hold-datenextraktion` | Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll. |
 | `aussenwirtschaft-lieferanten-onboarding-aussenhandel` | Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung fuer praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-legal-hold-datenextraktion`
 
-**Frühere Beschreibung:** Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll.
+**Fokus:** Legal Hold und digitale Datenextraktion bei Exportkontroll- und Sanktionsermittlungen: Sicherung von ATLAS-Daten, ERP-Exportdaten, E-Mail-Archiven und Zollanmeldungen, DSGVO-Konformitaet der Datensicherung, eDiscovery-Anforderungen bei US-Behoerden. Output: Legal-Hold-Anordnung und Datensicherungsprotokoll.
 
 # Legal Hold und Datenextraktion bei Aussenwirtschafts-Ermittlungen
 
@@ -116,7 +116,7 @@ Legal-Hold-Anordnung, Datenkategorie-Inventar, IT-Sicherungsprotokoll mit Hash-W
 
 ## 2. `aussenwirtschaft-lieferanten-onboarding-aussenhandel`
 
-**Frühere Beschreibung:** Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung fuer praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung.
+**Fokus:** Exportkontroll- und sanktionsrechtliches Onboarding neuer Lieferanten: KYC-Lieferantenpruefung, Sanktionslistenscreening, Herkunftsland-Compliance, Lieferantenerklaerung fuer praeferenzielle Behandlung, Sorgfaltspflichten nach LkSG. Output: Lieferanten-Onboarding-Paket und Risikoklassifizierung.
 
 # Lieferanten-Onboarding: Aussenwirtschaftliche Compliance und Sanktionspruefung
 
@@ -203,7 +203,7 @@ Lieferanten-Onboarding-Paket (Fragebogen, Checkliste, Screening-Protokoll), Risi
 
 ## 3. `aussenwirtschaft-lieferkettensorgfalt-aussenhandel`
 
-**Frühere Beschreibung:** Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix fuer Import-Lieferkette.
+**Fokus:** Lieferkettensorgfaltspflichten im Aussenwirtschaftskontext nach LkSG und EU-Lieferkettengesetz (CSDDD): Risikoanalyse im Aussenhandel, Menschenrechtspruefung bei Importguetererzeugern, Sanktions-Ueberschneidungen mit LkSG-Pflichten und Dokumentationsanforderungen. Output: LkSG-Risikomatrix fuer Import-Lieferkette.
 
 # Lieferkettensorgfaltspflichten im Aussenhandel: LkSG und CSDDD
 
@@ -290,7 +290,7 @@ LkSG-Risikomatrix fuer Import-Lieferkette, Massnahmenplan, Beschwerdemechanismus
 
 ## 4. `aussenwirtschaft-ma-sanctions-export-dd`
 
-**Frühere Beschreibung:** Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht.
+**Fokus:** Exportkontroll- und Sanktions-Due-Diligence bei M&A-Transaktionen: Identifizierung von Sanktionsexposure des Zielunternehmens, Exportkontrollverstoss-Historizitaet, ICP-Qualitaet, Haftungsrisiken und Vertragsgestaltung (Rep und Warranties, Ruecktrittsrechte). Output: M&A-Exportkontroll-DD-Bericht.
 
 # M und A Exportkontroll- und Sanktions-Due-Diligence
 

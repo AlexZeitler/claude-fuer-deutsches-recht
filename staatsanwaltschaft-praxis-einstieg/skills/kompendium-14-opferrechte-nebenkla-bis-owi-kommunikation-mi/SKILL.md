@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-opferrechte-nebenkla-bis-owi-kommunikation-mi
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (opferrechte-nebenklage-adhaesion, owi-abwesenheit-betroffener-73-74, owi-beweisaufnahme-77-und-beweisantraege, owi-hauptverhandlung-sitzungsdienst-sta, owi-kommunikation-mit-verwaltungsbehoerde) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Opferrechte Nebenklage Adhaesion, Owi Abwesenheit Betroffener 73 74, Owi Beweisaufnahme 77 Und Beweisantraege, Owi Hauptverhandlung Sitzungsdienst Sta und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Opferrechte Nebenklage Adhaesion bis Owi Kommunikation Mit Verwaltungsbehoerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `opferrechte-nebenklage-adhaesion` | Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `owi-abwesenheit-betroffener-73-74` | Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `opferrechte-nebenklage-adhaesion`
 
-**Frühere Beschreibung:** Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Opferrechte, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Opferrechte, Nebenklage und Adhäsion
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `owi-abwesenheit-betroffener-73-74`
 
-**Frühere Beschreibung:** Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Abwesenheit des Betroffenen: Entbindung, Verwerfung des Einspruchs und faire Sitzungsreaktion
 
@@ -137,7 +137,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 3. `owi-beweisaufnahme-77-und-beweisantraege`
 
-**Frühere Beschreibung:** Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Beweisaufnahme im OWi-Verfahren: Aufklärungspflicht, vereinfachte Beweisaufnahme und Beweisanträge
 
@@ -195,7 +195,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 4. `owi-hauptverhandlung-sitzungsdienst-sta`
 
-**Frühere Beschreibung:** OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # OWi-Hauptverhandlung im Sitzungsdienst: Teilnahme, Anträge, Beweisaufnahme, Einstellung und Urteilserwartung
 
@@ -253,7 +253,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 5. `owi-kommunikation-mit-verwaltungsbehoerde`
 
-**Frühere Beschreibung:** Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Kommunikation mit Verwaltungsbehörde und Gericht: sachkundig, knapp und rollenrein
 

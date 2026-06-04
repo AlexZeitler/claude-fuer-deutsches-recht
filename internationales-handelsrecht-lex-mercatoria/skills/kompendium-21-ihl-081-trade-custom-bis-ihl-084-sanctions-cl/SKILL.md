@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-ihl-081-trade-custom-bis-ihl-084-sanctions-cl
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (ihl-081-trade-custom-evidence, ihl-082-lex-mercatoria-in-award, ihl-083-public-policy-and-mandatory-law, ihl-084-sanctions-clause-drafting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 081 Trade Custom Evidence, Ihl 082 Lex Mercatoria In Award, Ihl 083 Public Policy And Mandatory Law, Ihl 084 Sanctions Clause Drafting; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 081 Trade Custom Evidence bis Ihl 084 Sanctions Clause Drafting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-081-trade-custom-evidence` | Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org. |
 | `ihl-082-lex-mercatoria-in-award` | Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-081-trade-custom-evidence`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org.
+**Fokus:** Internationales Handelsrecht: Handelsbräuche und ihr Beweis im Schiedsverfahren. CISG Art. 9 (Gepflogenheiten und Bräuche), PICC Art. 1.9, IBA Rules Art. 3 Dokumentenproduktion, Expertenzeugen für Trade Usage und CENTRAL-Datenbank trans-lex.org.
 
 # Handelsbräuche: Nachweis und Evidenz
 
@@ -81,7 +81,7 @@ CISG Art. 9: uncitral.un.org. PICC Art. 1.9: unidroit.org. CENTRAL: trans-lex.or
 
 ## 2. `ihl-082-lex-mercatoria-in-award`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung.
+**Fokus:** Internationales Handelsrecht: Lex mercatoria in Schiedssprüchen. Anwendung durch ICC-Schiedsgerichte (transnational rules of law), ICSID-Awards, jusmundi.com-Datenbank, Berger CENTRAL und Legitimationsfrage für staatliche Gerichte bei Vollstreckung.
 
 # Lex Mercatoria im Schiedsspruch
 
@@ -133,7 +133,7 @@ trans-lex.org (CENTRAL). jusmundi.com. iccwbo.org (ICC Regeln). icsid.worldbank.
 
 ## 3. `ihl-083-public-policy-and-mandatory-law`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public.
+**Fokus:** Internationales Handelsrecht: Ordre public und Eingriffsnormen in der internationalen Schiedsgerichtsbarkeit und im IPR. Unterschied ordre public und Eingriffsnorm, truly international public policy, EU-Kartellrecht als Eingriffsnorm und CISG-Ausschluss durch ordre public.
 
 # Ordre Public und Eingriffsnormen
 
@@ -185,7 +185,7 @@ Rom I Art. 9, 21: eur-lex.europa.eu. NY Convention: newyorkconvention.org. EuGH 
 
 ## 4. `ihl-084-sanctions-clause-drafting`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen.
+**Fokus:** Internationales Handelsrecht: Sanktionsklauseln in internationalen Verträgen. Force-Majeure-Abgrenzung, Kündigungsrecht bei Sanktionierung einer Partei, OFAC-Compliance-Klauseln, EU-Blocking-Statute-Konflikt und Formulierungsempfehlungen.
 
 # Sanktionsklauseln in internationalen Verträgen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-pe-043-dual-track-ex-bis-pe-046-lma-facility
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (pe-043-dual-track-exit-ipo-sale, pe-044-secondary-buyout-und-sbo, pe-045-private-credit-direct-lending, pe-046-lma-facility-review-deutsch) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 043 Dual Track Exit Ipo Sale, Pe 044 Secondary Buyout Und Sbo, Pe 045 Private Credit Direct Lending, Pe 046 Lma Facility Review Deutsch; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - private-equity-praxis
+# Arbeitsbereich - Pe 043 Dual Track Exit Ipo Sale bis Pe 046 Lma Facility Review Deutsch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-043-dual-track-exit-ipo-sale` | Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output. |
 | `pe-044-secondary-buyout-und-sbo` | Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-043-dual-track-exit-ipo-sale`
 
-**Frühere Beschreibung:** Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output.
+**Fokus:** Vergleicht IPO, Trade Sale, Secondary Buyout und Continuation Fund mit Aufwand, Timing, Risiko und Output.
 
 # Dual Track: IPO oder Trade Sale
 
@@ -70,7 +70,7 @@ WpPG/Prospektrecht, WpHG/MAR, SPA, Börsenregeln, Kartell/FDI.
 
 ## 2. `pe-044-secondary-buyout-und-sbo`
 
-**Frühere Beschreibung:** Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin.
+**Fokus:** Prüft Verkauf von PE-Sponsor an PE-Sponsor: Vendor DD, Reps, W&I, Stapled Financing und Prozessdisziplin.
 
 # Secondary Buyout
 
@@ -111,7 +111,7 @@ SPA/W&I, DD-Reliance, Kartell/FDI, Management Participation.
 
 ## 3. `pe-045-private-credit-direct-lending`
 
-**Frühere Beschreibung:** Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket.
+**Fokus:** Strukturiert Senior, Unitranche, Second Lien, PIK, NAV Facility und Covenant-Paket.
 
 # Private Credit und Direct Lending
 
@@ -152,7 +152,7 @@ Kreditvertrag, BGB Darlehen, Sicherheiten, KAGB/Kreditfonds, KWG/ZAG-Schnittstel
 
 ## 4. `pe-046-lma-facility-review-deutsch`
 
-**Frühere Beschreibung:** Prüft hochgeladene LMA-basierte Facility Agreements auf deutsche Rechts-/Deal-Schnittstellen.
+**Fokus:** Prüft hochgeladene LMA-basierte Facility Agreements auf deutsche Rechts-/Deal-Schnittstellen.
 
 # LMA Facility Review im deutschen Deal
 

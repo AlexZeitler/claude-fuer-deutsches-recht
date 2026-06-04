@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-social-media-berufsr-bis-steuerberater-153-ao
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (social-media-berufsrecht-praevention, social-media-berufsrecht-verteidigung, steuerberater-153-ao-berichtigung-praevention, steuerberater-153-ao-berichtigung-verteidigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Social Media Berufsrecht Praevention, Social Media Berufsrecht Verteidigung, Steuerberater 153 Ao Berichtigung Praevention, Steuerberater 153 Ao Berichtigung Verteidigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Social Media Berufsrecht Praevention bis Steuerberater 153 Ao Berichtigung Verteidigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `social-media-berufsrecht-praevention` | Social Media Berufsrecht (Präventions- und Organisationspaket): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `social-media-berufsrecht-verteidigung` | Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `social-media-berufsrecht-praevention`
 
-**Frühere Beschreibung:** Social Media Berufsrecht (Präventions- und Organisationspaket): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Social Media Berufsrecht (Präventions- und Organisationspaket): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Social Media Berufsrecht: Präventions- und Organisationspaket
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `social-media-berufsrecht-verteidigung`
 
-**Frühere Beschreibung:** Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Social Media Berufsrecht (Verteidigungs- und Kammerantwort): steuert LinkedIn, X, Kanzleivideo, Fachanwaltstitel, Mandatswerbung und öffentliche Streitkultur mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Social Media Berufsrecht: Verteidigungs- und Kammerantwort
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `steuerberater-153-ao-berichtigung-praevention`
 
-**Frühere Beschreibung:** Steuerberater § 153 AO Berichtigung (Präventions- und Organisationspaket): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater § 153 AO Berichtigung (Präventions- und Organisationspaket): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater § 153 AO Berichtigung: Präventions- und Organisationspaket
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `steuerberater-153-ao-berichtigung-verteidigung`
 
-**Frühere Beschreibung:** Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Steuerberater § 153 AO Berichtigung (Verteidigungs- und Kammerantwort): steuert Berichtigungspflicht, Selbstanzeigegrenze, Mandantenweisung und Berufsrisiko mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Steuerberater § 153 AO Berichtigung: Verteidigungs- und Kammerantwort
 

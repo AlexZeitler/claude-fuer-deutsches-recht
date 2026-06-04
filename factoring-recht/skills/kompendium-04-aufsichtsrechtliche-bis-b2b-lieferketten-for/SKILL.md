@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-aufsichtsrechtliche-bis-b2b-lieferketten-for
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (aufsichtsrechtliche-schnellampel-kwg-zag, auslandsfactoring-import-export-two-factor-system, b2b-lieferketten-forderungsbestand-und-reklamationsrisiko) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2b Lieferketten Forderungsbestand Und Reklamationsrisiko; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - factoring-recht
+# Arbeitsbereich - Aufsichtsrechtliche Schnellampel Kwg Zag, Auslandsfactoring Import Export Two Factor System, B2b Lieferketten Forderungsbestand Und Reklamati
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aufsichtsrechtliche-schnellampel-kwg-zag` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG. |
 | `auslandsfactoring-import-export-two-factor-system` | Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aufsichtsrechtliche-schnellampel-kwg-zag`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Aufsichtsrechtliche Schnellampel KWG ZAG.
 
 # Aufsichtsrechtliche Schnellampel KWG ZAG
 
@@ -149,7 +149,7 @@ Fragen zum Einstieg:
 
 ## 2. `auslandsfactoring-import-export-two-factor-system`
 
-**Frühere Beschreibung:** Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Auslandsfactoring Import Export Two-Factor-System: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Auslandsfactoring Import Export Two-Factor-System
 
@@ -267,7 +267,7 @@ Fragen zum Einstieg:
 
 ## 3. `b2b-lieferketten-forderungsbestand-und-reklamationsrisiko`
 
-**Frühere Beschreibung:** B2B Lieferketten Forderungsbestand und Reklamationsrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** B2B Lieferketten Forderungsbestand und Reklamationsrisiko: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # B2B Lieferketten Forderungsbestand und Reklamationsrisiko
 

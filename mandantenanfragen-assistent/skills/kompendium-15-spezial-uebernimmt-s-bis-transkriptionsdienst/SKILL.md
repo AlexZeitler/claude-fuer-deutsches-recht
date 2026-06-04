@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-spezial-uebernimmt-s-bis-transkriptionsdienst
-description: "mandantenanfragen-assistent: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (spezial-uebernimmt-schriftsatz-brief-und-memo-bausteine, telefon-konfiguration, transkriptionsdienst-erklaerung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mandantenanfragen-assistent: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - mandantenanfragen-assistent
+# Arbeitsbereich - Uebernimmt Schriftsatz Brief Und Memo Bausteine, Telefon Konfiguration, Transkriptionsdienst Erklaerung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-uebernimmt-schriftsatz-brief-und-memo-bausteine` | Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `telefon-konfiguration` | Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-uebernimmt-schriftsatz-brief-und-memo-bausteine`
 
-**Frühere Beschreibung:** Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine im Plugin mandantenanfragen assistent; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Uebernimmt: Schriftsatz-, Brief- und Memo-Bausteine
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `telefon-konfiguration`
 
-**Frühere Beschreibung:** Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort.
+**Fokus:** Kanzlei muss Telefonnummern für Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Prüfraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort.
 
 # Telefon-Konfiguration
 
@@ -198,7 +198,7 @@ Für jeden Standort eine separate `kanzlei-[standort].json` anlegen und beim Abr
 
 ## 3. `transkriptionsdienst-erklaerung`
 
-**Frühere Beschreibung:** Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis für Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator.
+**Fokus:** Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis für Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator.
 
 # Transkriptionsdienst-Erklärung
 

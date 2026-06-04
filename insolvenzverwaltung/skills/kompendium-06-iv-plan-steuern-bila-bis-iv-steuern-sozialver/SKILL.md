@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-iv-plan-steuern-bila-bis-iv-steuern-sozialver
-description: "insolvenzverwaltung: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (iv-plan-steuern-bilanz-folgen, iv-steuern-sozialversicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iv Plan Steuern Bilanz Folgen, Iv Steuern Sozialversicherung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - insolvenzverwaltung
+# Arbeitsbereich - Iv Plan Steuern Bilanz Folgen, Iv Steuern Sozialversicherung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iv-plan-steuern-bilanz-folgen` | Steuerliche und bilanzielle Folgen des Insolvenzplans oder StaRUG prüfen damit Planwirkungen nicht an Nebenwirkungen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine Steuerthemen im Verfahren (iv-steuern-sozialversicherung). |
 | `iv-steuern-sozialversicherung` | Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklärungspflichten § 15b InsO Steuerprivileg. Output: Klassifizierungstabelle Erklärungsplan Haftungsnotiz. Abgrenzung: nicht für steuerliche Planfolgen (iv-plan-steuern-bilanz-folgen). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iv-plan-steuern-bilanz-folgen`
 
-**Frühere Beschreibung:** Steuerliche und bilanzielle Folgen des Insolvenzplans oder StaRUG prüfen damit Planwirkungen nicht an Nebenwirkungen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine Steuerthemen im Verfahren (iv-steuern-sozialversicherung).
+**Fokus:** Steuerliche und bilanzielle Folgen des Insolvenzplans oder StaRUG prüfen damit Planwirkungen nicht an Nebenwirkungen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine Steuerthemen im Verfahren (iv-steuern-sozialversicherung).
 
 # IV-integrierte Steuern und Bilanzfolgen
 
@@ -109,7 +109,7 @@ Diese integrierte Fassung ist fuer Insolvenzverwalter, Sachwalter und voraeufige
 
 ## 2. `iv-steuern-sozialversicherung`
 
-**Frühere Beschreibung:** Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklärungspflichten § 15b InsO Steuerprivileg. Output: Klassifizierungstabelle Erklärungsplan Haftungsnotiz. Abgrenzung: nicht für steuerliche Planfolgen (iv-plan-steuern-bilanz-folgen).
+**Fokus:** Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklärungspflichten § 15b InsO Steuerprivileg. Output: Klassifizierungstabelle Erklärungsplan Haftungsnotiz. Abgrenzung: nicht für steuerliche Planfolgen (iv-plan-steuern-bilanz-folgen).
 
 # Steuern, Sozialversicherung und Abgaben
 

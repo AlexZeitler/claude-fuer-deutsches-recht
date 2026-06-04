@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-fachanwalt-internati-bis-fachanwalt-iwr-eu-us
-description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (fachanwalt-internationales-wirtschaftsrecht-orientierung, fachanwalt-iwr-embargo-pruefung-russland, fachanwalt-iwr-eu-us-dpf-data-privacy-framework) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-internationales-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationales Wirtschaftsrecht Orientierung, Iwr Embargo Pruefung Russland, Iwr Eu Us Dpf Data Privacy Framework; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - fachanwalt-internationales-wirtschaftsrecht
+# Arbeitsbereich - Internationales Wirtschaftsrecht Orientierung, Iwr Embargo Pruefung Russland, Iwr Eu Us Dpf Data Privacy Framework
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-internationales-wirtschaftsrecht-orientierung` | Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung. |
 | `fachanwalt-iwr-embargo-pruefung-russland` | Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-internationales-wirtschaftsrecht-orientierung`
 
-**Frühere Beschreibung:** Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung.
+**Fokus:** Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzüberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-prüfung.
 
 # Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
 
@@ -127,7 +127,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-iwr-embargo-pruefung-russland`
 
-**Frühere Beschreibung:** Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung.
+**Fokus:** Sanktions-Prüfung EU-Russland-Sanktionen VO 833/2014 und VO 269/2014. Sektor-Sanktionen Personen-Sanktionen Eingefrorenes Vermögen § 7 AWG. BAFA-Genehmigung. Strafbarkeit § 18 AWG. Compliance-Check Workflow Vertragsanalyse Kontoanalyse Mitarbeiter-Prüfung Reportingpflichten. Umgehungsrisiko Drittstaaten UBO-Prüfung.
 
 # Embargo-Prüfung Russland-Sanktionen
 
@@ -412,7 +412,7 @@ Abgelegt unter: [ARCHIVPFAD / AKTENZEICHEN]
 
 ## 3. `fachanwalt-iwr-eu-us-dpf-data-privacy-framework`
 
-**Frühere Beschreibung:** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates.
+**Fokus:** EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates.
 
 # EU-US Data Privacy Framework — Folgen für Verträge
 

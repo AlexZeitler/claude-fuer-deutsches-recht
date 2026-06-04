@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-photos-stock-social-bis-pleading-us-copyrigh
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (photos-stock-social-media, physischer-deposit-shipping-slip, platform-takedown-registration-package, pleading-us-copyright-complaint) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Photos Stock Social Media, Physischer Deposit Shipping Slip, Platform Takedown Registration Package, Pleading Us Copyright Complaint; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Photos Stock Social Media bis Pleading Us Copyright Complaint
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `photos-stock-social-media` | Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown. |
 | `physischer-deposit-shipping-slip` | Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `photos-stock-social-media`
 
-**Frühere Beschreibung:** Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown.
+**Fokus:** Prueft Fotorechte, Social-Media-Reposts, Stock Terms, embedded content, model releases und DMCA-Takedown.
 
 # Photos, Stock und Social Media
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `physischer-deposit-shipping-slip`
 
-**Frühere Beschreibung:** Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung.
+**Fokus:** Physischer Deposit mit Shipping Slip: pro Werk sauber zuordnen, sichtbar beilegen, Versandpaket, Belegfotos, Kuriertracking und keine Doppel-Einreichung.
 
 # Physischer Deposit und Shipping Slip
 
@@ -152,7 +152,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `platform-takedown-registration-package`
 
-**Frühere Beschreibung:** Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten.
+**Fokus:** Plattform- und Takedown-Paket: Registrierung, Rechtekette, Infringement-Belege und DMCA-/Marketplace-Kommunikation für US-Plattformen vorbereiten.
 
 # Platform Takedown Registration Package
 
@@ -197,7 +197,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `pleading-us-copyright-complaint`
 
-**Frühere Beschreibung:** Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits.
+**Fokus:** Bereitet US-Copyright-Complaint oder Response vor: jurisdiction, registration, ownership, infringement, remedies and exhibits.
 
 # US Copyright Complaint Pleading
 

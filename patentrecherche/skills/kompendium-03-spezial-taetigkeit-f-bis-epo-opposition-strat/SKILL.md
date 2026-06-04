@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-spezial-taetigkeit-f-bis-epo-opposition-strat
-description: "patentrecherche: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (spezial-taetigkeit-fristennotiz-und-naechster-schritt, agentische-datenbank-recherche, epo-opposition-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "patentrecherche: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Taetigkeit Fristennotiz Und Naechster Schritt, Agentische Datenbank Recherche, Epo Opposition Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - patentrecherche
+# Arbeitsbereich - Taetigkeit Fristennotiz Und Naechster Schritt, Agentische Datenbank Recherche, Epo Opposition Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-taetigkeit-fristennotiz-und-naechster-schritt` | Taetigkeit: Fristennotiz und nächster Schritt im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `agentische-datenbank-recherche` | Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-taetigkeit-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Taetigkeit: Fristennotiz und nächster Schritt im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Taetigkeit: Fristennotiz und nächster Schritt im Plugin patentrecherche; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Taetigkeit: Fristennotiz und nächster Schritt
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `agentische-datenbank-recherche`
 
-**Frühere Beschreibung:** Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen.
+**Fokus:** Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings für Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Tätigkeit). Prüfraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veröffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen.
 
 # agentische-datenbank-recherche
 
@@ -241,7 +241,7 @@ Bevor die Datenbankrecherche gestartet wird, klaere:
 
 ## 3. `epo-opposition-strategie`
 
-**Frühere Beschreibung:** EPO-Einspruch (Opposition) Strategie: 9-Monatsfrist nach Erteilung, Einspruchsgruende Art. 100 EPC, schriftliches Verfahren, muendliche Verhandlung, Beschwerde Boards of Appeal. Beispieltaktiken und Erfolgsfaktoren. Mustertexte fuer Einspruchsschriftsatz.
+**Fokus:** EPO-Einspruch (Opposition) Strategie: 9-Monatsfrist nach Erteilung, Einspruchsgruende Art. 100 EPC, schriftliches Verfahren, muendliche Verhandlung, Beschwerde Boards of Appeal. Beispieltaktiken und Erfolgsfaktoren. Mustertexte fuer Einspruchsschriftsatz.
 
 # EPO-Einspruch: Strategie
 

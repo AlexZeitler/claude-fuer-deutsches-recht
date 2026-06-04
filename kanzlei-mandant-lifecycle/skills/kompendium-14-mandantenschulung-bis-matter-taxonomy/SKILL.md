@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-mandantenschulung-bis-matter-taxonomy
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (mandantenschulung, mandatsannahme-conflict-gwg, matter-closeout, matter-intake-form-builder, matter-taxonomy) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenschulung, Mandatsannahme Conflict Gwg, Matter Closeout, Matter Intake Form Builder und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Mandantenschulung bis Matter Taxonomy
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mandantenschulung` | Mandantenschulung: steuert Kanzlei schult Fachabteilung oder Legal Team; Inhalte, Grenzen, Dokumentation und Follow-up zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `mandatsannahme-conflict-gwg` | Mandatsannahme, Conflict und GwG: steuert Konfliktprüfung, wirtschaftlich Berechtigte, Sanktions-/PEP-Hinweise, Scope und Ablehnungsszenarien zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mandantenschulung`
 
-**Frühere Beschreibung:** Mandantenschulung: steuert Kanzlei schult Fachabteilung oder Legal Team; Inhalte, Grenzen, Dokumentation und Follow-up zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Mandantenschulung: steuert Kanzlei schult Fachabteilung oder Legal Team; Inhalte, Grenzen, Dokumentation und Follow-up zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Mandantenschulung
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `mandatsannahme-conflict-gwg`
 
-**Frühere Beschreibung:** Mandatsannahme, Conflict und GwG: steuert Konfliktprüfung, wirtschaftlich Berechtigte, Sanktions-/PEP-Hinweise, Scope und Ablehnungsszenarien zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Mandatsannahme, Conflict und GwG: steuert Konfliktprüfung, wirtschaftlich Berechtigte, Sanktions-/PEP-Hinweise, Scope und Ablehnungsszenarien zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Mandatsannahme, Conflict und GwG
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `matter-closeout`
 
-**Frühere Beschreibung:** Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Matter Closeout: steuert Abschlussbericht, Lessons Learned, offene Rechnungen, Aktenrückgabe und Know-how sichern zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Matter Closeout
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `matter-intake-form-builder`
 
-**Frühere Beschreibung:** Matter Intake Form Builder: steuert ein Intake-Formular bauen, das genug fragt und nicht nervt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Matter Intake Form Builder: steuert ein Intake-Formular bauen, das genug fragt und nicht nervt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Matter Intake Form Builder
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `matter-taxonomy`
 
-**Frühere Beschreibung:** Matter Taxonomy: steuert Mandate so klassifizieren, dass Reports, Budgets und Wissensmanagement funktionieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Matter Taxonomy: steuert Mandate so klassifizieren, dass Reports, Budgets und Wissensmanagement funktionieren zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Matter Taxonomy
 

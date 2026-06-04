@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-anw-haftungswarn-15a-bis-anw-einspruch-finanz
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 02; bündelt 9 frühere Spezialskills (anw-haftungswarn-15a-inso-mandant, fa-stu-haftungsbescheid-69-191-ao, fa-stu-lst-haftung-42d-estg, stb-lohn-pruefungen-drv-bp-haftung-stb, stb-lohn-streitfaelle-bag-bsg-haftungsrisiko und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anw Haftungswarn 15a Inso Mandant, Fa Stu Haftungsbescheid 69 191 Ao, Fa Stu Lst Haftung 42d Estg, Stb Lohn Pruefungen Drv Bp Haftung Stb und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Anw Haftungswarn 15a Inso Mandant bis Anw Einspruch Finanzamt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anw-haftungswarn-15a-inso-mandant` | Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten. |
 | `fa-stu-haftungsbescheid-69-191-ao` | Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der Gesellschaft. Behandelt Tatbestandsvoraussetzungen Verschulden Kausalitaet quotale Befriedigung und Ermessensfehler. Output Pruefraster Haftung mit Erwiderungsmuster. Abgrenzung zu fa-stu-lst-haftung-42d-estg. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anw-haftungswarn-15a-inso-mandant`
 
-**Frühere Beschreibung:** Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten.
+**Fokus:** Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten.
 
 # Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)
 
@@ -221,7 +221,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BGH&Datum=0
 
 ## 2. `fa-stu-haftungsbescheid-69-191-ao`
 
-**Frühere Beschreibung:** Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der Gesellschaft. Behandelt Tatbestandsvoraussetzungen Verschulden Kausalitaet quotale Befriedigung und Ermessensfehler. Output Pruefraster Haftung mit Erwiderungsmuster. Abgrenzung zu fa-stu-lst-haftung-42d-estg.
+**Fokus:** Materielle Pruefung und Abwehr von Haftungsbescheiden — Geschaeftsfuehrerhaftung § 69 AO Steuerhinterzieherhaftung § 71 AO Lohnsteuerhaftung § 42d EStG und Verfahrensvorschriften § 191 AO. Anwendungsfall Geschaeftsfuehrer oder GmbH-Beirat erhaelt Haftungsbescheid wegen rueckstaendiger Steuern der Gesellschaft. Behandelt Tatbestandsvoraussetzungen Verschulden Kausalitaet quotale Befriedigung und Ermessensfehler. Output Pruefraster Haftung mit Erwiderungsmuster. Abgrenzung zu fa-stu-lst-haftung-42d-estg.
 
 # Haftungsbescheid — § 69 AO § 71 AO und Verfahren § 191 AO
 
@@ -274,7 +274,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fa-stu-lst-haftung-42d-estg`
 
-**Frühere Beschreibung:** Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproblemen. Behandelt Haftungstatbestand Auswahl- und Entschliessungsermessen Bruttoabsetzung Pauschalierung § 40 EStG und Anrechnung beim Arbeitnehmer. Output Pruefraster und Erwiderungsmuster. Abgrenzung zu fa-stu-haftungsbescheid-69-191-ao.
+**Fokus:** Detaillierte Pruefung der Lohnsteuerhaftung — wann haftet der Arbeitgeber als Gesamtschuldner mit dem Arbeitnehmer welche Verteidigungsmoeglichkeiten gibt es. Anwendungsfall Lohnsteueraussenpruefung endet mit Haftungsbescheid wegen pauschaler Geldzuwendungen Sachzuwendungen oder Reisekostenproblemen. Behandelt Haftungstatbestand Auswahl- und Entschliessungsermessen Bruttoabsetzung Pauschalierung § 40 EStG und Anrechnung beim Arbeitnehmer. Output Pruefraster und Erwiderungsmuster. Abgrenzung zu fa-stu-haftungsbescheid-69-191-ao.
 
 # Lohnsteuerhaftung des Arbeitgebers — § 42d EStG
 
@@ -326,7 +326,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `stb-lohn-pruefungen-drv-bp-haftung-stb`
 
-**Frühere Beschreibung:** Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Massnahmen.
+**Fokus:** Prüfungen DRV-Prüfung Lohnsteuer-Aussenprüfung Steuerberater-Haftung. Anwendungsfall DRV-Prüfer kommt Prüfkriterien Nachforderung Haftungsrisiken Mandant. Methodik Vorbereitung Begleitung Reaktion. Output Prüfbericht Prüfverhandlung Massnahmen.
 
 # DRV-Pruefung, Lohnsteuer-Aussenpruefung, StB-Haftung
 
@@ -474,7 +474,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-streitfaelle-bag-bsg-haftungsrisiko`
 
-**Frühere Beschreibung:** Lohn-Streitfaelle BAG-Linie BSG-Linie StB-Haftungsrisiko. Anwendungsfall typische Streitfaelle Werkvertrag versus AN Status arbeitsrechtlich vs sozialversicherungsrechtlich Klagerisiko. Methodik Rechtsprechungsanalyse Risikobewertung. Output Memo Haftungsrisiko.
+**Fokus:** Lohn-Streitfaelle BAG-Linie BSG-Linie StB-Haftungsrisiko. Anwendungsfall typische Streitfaelle Werkvertrag versus AN Status arbeitsrechtlich vs sozialversicherungsrechtlich Klagerisiko. Methodik Rechtsprechungsanalyse Risikobewertung. Output Memo Haftungsrisiko.
 
 # Lohn-Streitfaelle — BAG, BSG, Haftungsrisiken
 
@@ -618,7 +618,7 @@ Stand: 05/2026.
 
 ## 6. `anw-akteneinsicht-steuerakte`
 
-**Frühere Beschreibung:** Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begründen. Behandelt Verwaltungsakten Prüfungsakten Aktenvermerke Aussenprüfungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster für die uebermittelte Akte. Abgrenzung zu anw-aussenprüfung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt.
+**Fokus:** Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begründen. Behandelt Verwaltungsakten Prüfungsakten Aktenvermerke Aussenprüfungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster für die uebermittelte Akte. Abgrenzung zu anw-aussenprüfung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt.
 
 # Akteneinsicht in Steuerakten
 
@@ -821,7 +821,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 7. `anw-aussetzung-vollziehung`
 
-**Frühere Beschreibung:** Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Prüfung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub.
+**Fokus:** Antrag auf Aussetzung der Vollziehung AdV stellen um Steuerzahlung bis zur Streitentscheidung auszusetzen. Anwendungsfall Mandant hat Einspruch eingelegt will aber Nachforderung nicht sofort zahlen. Zweistufig zuerst beim Finanzamt § 361 Abs. 2 AO bei ernstlichen Zweifeln an der Rechtmäßigkeit oder unbilliger Haerte dann bei Ablehnung beim Finanzgericht § 69 Abs. 3 FGO. Prüfung Anordnungsanspruch ernstliche Zweifel oder unbillige Haerte und Anordnungsgrund drohende Vollziehung. Inkludiert eidesstattliche Versicherung. Output AdV-Antrag an FA und Antrag an FG. Abgrenzung zu anw-einspruch-finanzamt und anw-stundung-erlass-vollstreckungsaufschub.
 
 # Aussetzung der Vollziehung (AdV)
 
@@ -1036,7 +1036,7 @@ AdV-Antrag beim **Finanzamt** (§ 361 AO): über ELSTER/ERiC, Briefpost oder Tel
 
 ## 8. `anw-defi-lending-yield-farming-bmf-22-11-2024`
 
-**Frühere Beschreibung:** Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto.
+**Fokus:** Steuerliche Behandlung von DeFi-Lending Yield Farming Liquidity Mining Staking nach BMF-Schreiben vom 22.11.2024. Anwendungsfall Mandant nutzt DeFi-Protokolle Aave Compound Curve Yearn Uniswap Lido EigenLayer und fragt nach steuerlicher Erklärungspflicht. Einkuenfte § 22 Nr. 3 EStG oder § 20 EStG Token-Tausch als Veraeusserung § 23 EStG Spekulationsfrist Wrapped Tokens LP-Tokens Yield Tokens. DAC8-Meldepflicht beachten. Workflow Wallet-Analyse Cointracking Steuererklarung. Output steuerliche Beurteilung Erklärungspflichtige Einkuenfte Beratungsmemo. Abgrenzung zu anw-dac7-dac8-plattformen-krypto.
 
 # DeFi-Lending / Yield Farming — Steuerliche Behandlung (BMF-Schreiben)
 
@@ -1175,7 +1175,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 9. `anw-einspruch-finanzamt`
 
-**Frühere Beschreibung:** Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjährung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begründung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse.
+**Fokus:** Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjährung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begründung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse.
 
 # Einspruch beim Finanzamt
 

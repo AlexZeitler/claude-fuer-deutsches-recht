@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fahrradreparatur-nac-bis-fitnessstudio-rueckz
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fahrradreparatur-nachbesserung, fake-shop-und-chargeback, fitnessstudio-rueckzahlung-schliessung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Fahrradreparatur Nachbesserung, Fake Shop Und Chargeback, Fitnessstudio Rueckzahlung Schliessung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fahrradreparatur-nachbesserung` | Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `fake-shop-und-chargeback` | Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fahrradreparatur-nachbesserung`
 
-**Frühere Beschreibung:** Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Fahrradreparatur und Nachbesserung: führt Laien durch Kleine Reparatur, misslungene Werkleistung, neue Schäden und Streit um Ersatzteile. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Fahrradreparatur und Nachbesserung
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `fake-shop-und-chargeback`
 
-**Frühere Beschreibung:** Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Fake-Shop und Chargeback: führt Laien durch Betrugsnaher Online-Kauf, Kontaktsperre, Zahlungsrückholung und Anzeigeentscheidung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Fake-Shop und Chargeback
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `fitnessstudio-rueckzahlung-schliessung`
 
-**Frühere Beschreibung:** Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso.
+**Fokus:** Fitnessstudio, Schließung und Rückzahlung: prüft Mitgliedsbeiträge, Unmöglichkeit, Vertragsverlängerung, BGH XII ZR 64/21, Kündigung, Gutscheinlösung, Krankheit, Umzug und Beitragsinkasso.
 
 # Fitnessstudio Rückzahlung Schließung
 

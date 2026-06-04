@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-corporate-kanzlei-tr-bis-corporate-kanzlei-tr
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (corporate-kanzlei-transaktionsstruktur, corporate-kanzlei-translations-multijurisdictional) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Transaktionsstruktur, Corporate Kanzlei Translations Multijurisdictional
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-transaktionsstruktur` | Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen für M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH. |
 | `corporate-kanzlei-translations-multijurisdictional` | Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Übersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Übersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-transaktionsstruktur`
 
-**Frühere Beschreibung:** Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen für M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH.
+**Fokus:** Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen für M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH.
 
 # Transaktionsstruktur
 
@@ -245,7 +245,7 @@ NAECHSTE SCHRITTE:
 
 ## 2. `corporate-kanzlei-translations-multijurisdictional`
 
-**Frühere Beschreibung:** Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Übersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Übersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf.
+**Fokus:** Mehrsprachige Transaktionsdokumente in DE/EN erstellen und prüfen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschäfts), Governing-Language-Klauseln. Prüfraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Übersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Übersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf.
 
 # Multijurisdiktionale Uebersetzungen und Dokumente
 

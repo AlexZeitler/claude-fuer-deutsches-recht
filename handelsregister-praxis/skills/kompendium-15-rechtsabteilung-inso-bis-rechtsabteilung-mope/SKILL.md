@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-rechtsabteilung-inso-bis-rechtsabteilung-mope
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee, rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung, rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Insolvenzvermerk Und Auslaendischer Trustee, Kapitalerhoehung Und Zwischenverfuegung, Mopeg Gesellschaftsregister Und Ohg Sprung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - handelsregister-praxis
+# Arbeitsbereich - Insolvenzvermerk Und Auslaendischer Trustee, Kapitalerhoehung Und Zwischenverfuegung, Mopeg Gesellschaftsregister Und Ohg Sprung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee` | Rechtsabteilungs-Spezialskill für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung` | Rechtsabteilungs-Spezialskill für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-insolvenzvermerk-und-auslaendischer-trustee`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Insolvenzvermerk und ausländischer Trustee: Vertretungsmacht ausländischer Insolvenzorgane wird registertauglich nachgewiesen. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Insolvenzvermerk und ausländischer Trustee
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `rechtsabteilung-kapitalerhoehung-und-zwischenverfuegung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Kapitalerhöhung und Zwischenverfügung: Zwischenverfügungen werden in heilbare Punkte, Streitpunkte und Beschwerde sortiert. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Kapitalerhöhung und Zwischenverfügung
 
@@ -108,7 +108,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `rechtsabteilung-mopeg-gesellschaftsregister-und-ohg-sprung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für MoPeG-Gesellschaftsregister und OHG-Sprung: GbR, eGbR, OHG und Grundstücksfähigkeit werden registerlogisch abgegrenzt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: MoPeG-Gesellschaftsregister und OHG-Sprung
 

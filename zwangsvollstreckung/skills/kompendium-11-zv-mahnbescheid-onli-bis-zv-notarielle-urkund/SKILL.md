@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-zv-mahnbescheid-onli-bis-zv-notarielle-urkund
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (zv-mahnbescheid-online, zv-mobiliar-gv-auftrag, zv-notarielle-urkunde-grundschuld) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - zwangsvollstreckung
+# Arbeitsbereich - Zv Mahnbescheid Online, Zv Mobiliar Gv Auftrag, Zv Notarielle Urkunde Grundschuld
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-mahnbescheid-online` | Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter. |
 | `zv-mobiliar-gv-auftrag` | Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-mahnbescheid-online`
 
-**Frühere Beschreibung:** Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter.
+**Fokus:** Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter.
 
 # Mahnbescheid online
 
@@ -184,7 +184,7 @@ Wiedervorlage:        [DD.MM.JJJJ (2 Wo nach voraussichtl. Zustellung)]
 
 ## 2. `zv-mobiliar-gv-auftrag`
 
-**Frühere Beschreibung:** Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung).
+**Fokus:** Gläubiger beauftragt Gerichtsvollzieher mit Sachpfaendung beweglicher Gegenstaende beim Schuldner. §§ 808 ff. ZPO Mobiliar-Pfaendung. Prüfraster: GV-Auftrag Modulwahl § 802a ZPO Anlaufstellen Wohnung Geschäftsräume Unpfaendbarkeitskatalog § 811 ZPO Austauschpfaendung § 811a ZPO Verwertung § 825 ZPO Internet-Versteigerung. Output: GV-Auftrag fertig zum Versand. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohnpfaendung) und zv-räumung-885 (Räumung).
 
 # Mobiliar-Pfändung durch den Gerichtsvollzieher
 
@@ -274,7 +274,7 @@ WIEDERVORLAGE:         DD.MM.JJJJ
 
 ## 3. `zv-notarielle-urkunde-grundschuld`
 
-**Frühere Beschreibung:** Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kündigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermögen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-gläubiger (Versteigerung) und zv-titel-klausel-zustellung.
+**Fokus:** Gläubiger hat notarielle Grundschuld-Urkunde und will vollstrecken. § 794 Abs. 1 Nr. 5 ZPO Zwangsvollstreckung aus notarieller Urkunde. Prüfraster: Unterwerfungsklausel dinglich und persoenlich Klauselumschreibung § 727 ZPO bei Abtretung Sicherungsabrede Kündigung § 1193 BGB 6-Monats-Frist Vollstreckung Grundstueck ZVG vs. persoenliches Vermögen PfUeB. Output: Vollstreckungsstrategie und Schriftsatz-Entwurf. Abgrenzung zu zv-zvg-antrag-gläubiger (Versteigerung) und zv-titel-klausel-zustellung.
 
 # Vollstreckung aus notarieller Grundschuldurkunde
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-umv-067-batteriespei-bis-umv-070-batteriespei
-description: "umweltschutzverband-verbandsklage: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (umv-067-batteriespeicher-normenkontrolle-skizz, umv-068-batteriespeicher-nebenbestimmung-forde, umv-069-batteriespeicher-monitoring-planen, umv-070-batteriespeicher-kommunikation-schaerf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltschutzverband-verbandsklage: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umv 067 Batteriespeicher Normenkontrolle Skizz, Umv 068 Batteriespeicher Nebenbestimmung Forde, Umv 069 Batteriespeicher Monitoring Planen, Umv 070 Batteriespeicher Kommunikation Schaerf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - umweltschutzverband-verbandsklage
+# Arbeitsbereich - Umv 067 Batteriespeicher Normenkontrolle Skizz bis Umv 070 Batteriespeicher Kommunikation Schaerf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umv-067-batteriespeicher-normenkontrolle-skizz` | Umweltschutzverband Verbandsklage: Batteriespeicher: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `umv-068-batteriespeicher-nebenbestimmung-forde` | Umweltschutzverband Verbandsklage: Batteriespeicher: Nebenbestimmung fordern. Nebenbestimmung fordern für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umv-067-batteriespeicher-normenkontrolle-skizz`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Normenkontrolle skizzieren. Normenkontrolle skizzieren für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Normenkontrolle Skizz
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `umv-068-batteriespeicher-nebenbestimmung-forde`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Nebenbestimmung fordern. Nebenbestimmung fordern für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Nebenbestimmung fordern. Nebenbestimmung fordern für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Nebenbestimmung Forde
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `umv-069-batteriespeicher-monitoring-planen`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Monitoring planen. Monitoring planen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Monitoring planen. Monitoring planen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Monitoring Planen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `umv-070-batteriespeicher-kommunikation-schaerf`
 
-**Frühere Beschreibung:** Umweltschutzverband Verbandsklage: Batteriespeicher: Kommunikation schärfen. Kommunikation schärfen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Umweltschutzverband Verbandsklage: Batteriespeicher: Kommunikation schärfen. Kommunikation schärfen für Batteriespeicher im Rahmen von Umweltschutzverband Verbandsklage; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Batteriespeicher Kommunikation Schaerf
 

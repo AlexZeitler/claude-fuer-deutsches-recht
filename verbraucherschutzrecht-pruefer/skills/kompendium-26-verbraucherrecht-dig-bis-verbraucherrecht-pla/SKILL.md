@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-verbraucherrecht-dig-bis-verbraucherrecht-pla
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 26; bündelt 4 frühere Spezialskills (verbraucherrecht-digitale-produkte-327-bgb, verbraucherrecht-energie-smartmeter-waerme, verbraucherrecht-finanzdienstleistung-online, verbraucherrecht-plattform-marktplatz-haendler) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verbraucherrecht Digitale Produkte 327 Bgb, Verbraucherrecht Energie Smartmeter Waerme, Verbraucherrecht Finanzdienstleistung Online, Verbraucherrecht Plattform Marktplatz Haendler; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Verbraucherrecht Digitale Produkte 327 Bgb bis Verbraucherrecht Plattform Marktplatz Haendler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verbraucherrecht-digitale-produkte-327-bgb` | Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
 | `verbraucherrecht-energie-smartmeter-waerme` | Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verbraucherrecht-digitale-produkte-327-bgb`
 
-**Frühere Beschreibung:** Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.; Normanker: BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Digitale Produkte nach §§ 327 ff. BGB: Bereitstellung, Mangel, Aktualisierung, Kündigung, Daten als Gegenleistung und Beweislast.
 
@@ -54,7 +54,7 @@ BGB §§ 327-327u; Verbraucherrechte-RL; DSGVO-Schnittstelle. Der aktuelle Normt
 
 ## 2. `verbraucherrecht-energie-smartmeter-waerme`
 
-**Frühere Beschreibung:** Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.; Normanker: EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Energie, Smart Meter und Wärme: Abschlag, Preisänderung, Grundversorgung, Sperre, Messstellenbetrieb und Abrechnung.
 
@@ -79,7 +79,7 @@ EnWG; MsbG; StromGVV/GasGVV; AVBFernwärmeV. Der aktuelle Normtext, insbesondere
 
 ## 3. `verbraucherrecht-finanzdienstleistung-online`
 
-**Frühere Beschreibung:** Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.; Normanker: BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Online-Finanzdienstleistung: Fernabsatz, Kredit, Anlageprodukt, Effektivzins, Widerruf und BaFin-Beschwerde.
 
@@ -104,7 +104,7 @@ BGB Verbraucherdarlehen; EGBGB; VVG; KWG/WpHG-Schnittstelle. Der aktuelle Normte
 
 ## 4. `verbraucherrecht-plattform-marktplatz-haendler`
 
-**Frühere Beschreibung:** Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
+**Fokus:** Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.; Normanker: BGB/EGBGB Informationspflichten; UWG; DSA; Produktsicherheitsrecht; liefert Verbraucher-Check, Beweisfragen, Anspruchsziel und Textbaustein.
 
 # Plattform/Marketplace: Verkäuferidentität, Haftung, Ranking, Fake-Bewertungen, Dropshipping und Drittlandanbieter.
 

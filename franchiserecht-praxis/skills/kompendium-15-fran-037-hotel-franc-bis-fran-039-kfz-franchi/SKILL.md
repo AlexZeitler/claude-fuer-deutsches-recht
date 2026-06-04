@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-fran-037-hotel-franc-bis-fran-039-kfz-franchi
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (fran-037-hotel-franchise-management-agreement-abgrenzung, fran-038-tankstellen-franchise-handelsvertreternaehe, fran-039-kfz-franchise-und-selektivvertrieb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 037 Hotel Franchise Management Agreement Abgrenzung, Fran 038 Tankstellen Franchise Handelsvertreternaehe, Fran 039 Kfz Franchise Und Selektivvertrieb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - franchiserecht-praxis
+# Arbeitsbereich - Fran 037 Hotel Franchise Management Agreement Abgrenzung, Fran 038 Tankstellen Franchise Handelsvertreternaehe, Fran 039 Kfz Franchise Und Se
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-037-hotel-franchise-management-agreement-abgrenzung` | Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung. |
 | `fran-038-tankstellen-franchise-handelsvertreternaehe` | Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordnen: Abgrenzung Kommissionsagentur vs. Franchise vs. Handelsvertretung, Ausgleichsanspruch nach § 89b HGB, Kraftstoffpreisbindung und kartellrechtliche Aspekte. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-037-hotel-franchise-management-agreement-abgrenzung`
 
-**Frühere Beschreibung:** Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung.
+**Fokus:** Hotel-Franchise vom Managementvertrag abgrenzen: Selbstständigkeit des Hotelbetreibers vs. Beauftragungsstruktur, markenrechtliche Lizenz, Umsatzbeteiligung statt Managementfee und haftungsrechtliche Konsequenzen der Vertragsgestaltung.
 
 # Franchiserecht: Hotel-Franchise und Managementvertrag – Abgrenzung
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-038-tankstellen-franchise-handelsvertreternaehe`
 
-**Frühere Beschreibung:** Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordnen: Abgrenzung Kommissionsagentur vs. Franchise vs. Handelsvertretung, Ausgleichsanspruch nach § 89b HGB, Kraftstoffpreisbindung und kartellrechtliche Aspekte.
+**Fokus:** Tankstellen-Franchise und Handelsvertreter-Nähe rechtlich einordnen: Abgrenzung Kommissionsagentur vs. Franchise vs. Handelsvertretung, Ausgleichsanspruch nach § 89b HGB, Kraftstoffpreisbindung und kartellrechtliche Aspekte.
 
 # Franchiserecht: Tankstellen-Franchise und Handelsvertreter-Nähe
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-039-kfz-franchise-und-selektivvertrieb`
 
-**Frühere Beschreibung:** Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung.
+**Fokus:** Kfz-Franchise und Kfz-Selektivvertrieb kartellrechtlich prüfen: quantitative und qualitative Selektivvertriebskriterien, Händlernetz nach Vertikal-GVO EU 2022/720, Agenturprinzip im Kfz-Handel, Ersatzteilmarkt und Werkstattkoppelung.
 
 # Franchiserecht: Kfz-Franchise und Selektivvertrieb
 

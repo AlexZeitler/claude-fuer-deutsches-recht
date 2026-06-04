@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (gesellschaftsgruender-geschaeftsordnung-gf, gesellschaftsgruender-gesellschafterstreit-eilantraege, gesellschaftsgruender-gesellschaftervereinbarung, gesellschaftsgruender-gf-meeting-templates, gesellschaftsgruender-ggmbh-gemeinnuetzigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Geschaeftsordnung Gf, Gesellschaftsgruender Gesellschafterstreit Eilantraege, Gesellschaftsgruender Gesellschaftervereinbarung, Gesellschaftsgruender Gf Meeting Templates und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Geschaeftsordnung Gf bis Gesellschaftsgruender Ggmbh Gemeinnuetzigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-geschaeftsordnung-gf` | Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung. |
 | `gesellschaftsgruender-gesellschafterstreit-eilantraege` | Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschäftsführer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-geschaeftsordnung-gf`
 
-**Frühere Beschreibung:** Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung.
+**Fokus:** Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung.
 
 # Geschäftsordnung Geschäftsführung
 
@@ -167,7 +167,7 @@ Mehrheit (§ 46 Nr. 6 GmbHG).
 
 ## 2. `gesellschaftsgruender-gesellschafterstreit-eilantraege`
 
-**Frühere Beschreibung:** Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschäftsführer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss.
+**Fokus:** Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschäftsführer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Prüfraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss.
 
 # Gesellschafterstreit — Eilanträge
 
@@ -561,7 +561,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `gesellschaftsgruender-gesellschaftervereinbarung`
 
-**Frühere Beschreibung:** Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell).
+**Fokus:** Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell).
 
 # Gesellschaftervereinbarung (Shareholder Agreement)
 
@@ -721,7 +721,7 @@ SPRACHE: [Deutsch / Englisch / Bilingual]
 
 ## 4. `gesellschaftsgruender-gf-meeting-templates`
 
-**Frühere Beschreibung:** Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll.
+**Fokus:** Vorlagen für Geschäftsführersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Prüfraster: Beschlussfähigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates für GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll.
 
 # GF-Meeting-Templates
 
@@ -921,7 +921,7 @@ Datum, Ort: __________ Unterschriften: __________
 
 ## 5. `gesellschaftsgruender-ggmbh-gemeinnuetzigkeit`
 
-**Frühere Beschreibung:** Prüft gGmbH-Gründung, Satzungszweck, Mittelbindung und Finanzamt-Abstimmung.
+**Fokus:** Prüft gGmbH-Gründung, Satzungszweck, Mittelbindung und Finanzamt-Abstimmung.
 
 # gGmbH und Gemeinnützigkeit
 

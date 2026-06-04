@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-franchise-marken-ip-bis-franchise-verguetung
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 25; bündelt 3 frühere Spezialskills (franchise-marken-ip-lizenzierung, franchise-mindestumsatz-territorialschutz, franchise-verguetungsmodelle-initial-laufend) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - franchiserecht-praxis
+# Arbeitsbereich - Franchise Marken Ip Lizenzierung, Franchise Mindestumsatz Territorialschutz, Franchise Verguetungsmodelle Initial Laufend
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `franchise-marken-ip-lizenzierung` | Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster. |
 | `franchise-mindestumsatz-territorialschutz` | Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechung. Liefert Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `franchise-marken-ip-lizenzierung`
 
-**Frühere Beschreibung:** Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster.
+**Fokus:** Franchise: Marken und IP-Lizenzierung. Skill behandelt die markenrechtliche und urheberrechtliche Lizenzstruktur Trademark License Trade Dress Know-How-Schutz Software-Lizenz und postvertragliche Pflichten. Liefert Pruefraster.
 
 # Franchise Marken Ip Lizenzierung
 
@@ -78,7 +78,7 @@ Skill fuer Marken- und IP-Lizenzierung im Franchise.
 
 ## 2. `franchise-mindestumsatz-territorialschutz`
 
-**Frühere Beschreibung:** Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechung. Liefert Pruefraster.
+**Fokus:** Franchise: Mindestumsatzklauseln und Territorialschutz. Skill behandelt die Vertragsbedingungen zur Mindestumsatzpflicht des Franchisenehmers Konsequenzen bei Nichterreichen Territorialschutz vs. Wettbewerbsverbot. Aktuelle Rechtsprechung. Liefert Pruefraster.
 
 # Franchise Mindestumsatz Territorialschutz
 
@@ -137,7 +137,7 @@ Dieser Skill prüft Mindestumsatz, Gebietsschutz, aktive/passive Kundenansprache
 
 ## 3. `franchise-verguetungsmodelle-initial-laufend`
 
-**Frühere Beschreibung:** Franchise: Verguetungsmodelle initial und laufend. Skill klaert die Struktur Initial Fee Royalties Marketing Fund Software Fee und ihre AGB-rechtliche Behandlung. Aktuelle Diskussion zur Pflicht zur Marketingfondbeitragsverwendung. Liefert Klauselentwurf.
+**Fokus:** Franchise: Verguetungsmodelle initial und laufend. Skill klaert die Struktur Initial Fee Royalties Marketing Fund Software Fee und ihre AGB-rechtliche Behandlung. Aktuelle Diskussion zur Pflicht zur Marketingfondbeitragsverwendung. Liefert Klauselentwurf.
 
 # Franchise Verguetungsmodelle Initial Laufend
 

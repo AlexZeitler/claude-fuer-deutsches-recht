@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-strafbefehl-nebenfol-bis-strafbefehl-polizeif
-description: "strafbefehl-verteidiger: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (strafbefehl-nebenfolgen-fahrerlaubnis, strafbefehl-pflichtverteidiger, strafbefehl-polizeifilmerei-201-kug) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafbefehl-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - strafbefehl-verteidiger
+# Arbeitsbereich - Strafbefehl Nebenfolgen Fahrerlaubnis, Strafbefehl Pflichtverteidiger, Strafbefehl Polizeifilmerei 201 Kug
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbefehl-nebenfolgen-fahrerlaubnis` | Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelentziehung § 69 Abs. 2 StGB bei §§ 315c 316 142 StGB. Sperrfrist § 69a StGB. Vorzeitige Aufhebung § 69a Abs. 7 StGB. Abgrenzung § 25 StVG (OWi-Fahrverbot). MPU-Anforderungen. Haertfall-Argumente. |
 | `strafbefehl-pflichtverteidiger` | Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbefehl-nebenfolgen-fahrerlaubnis`
 
-**Frühere Beschreibung:** Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelentziehung § 69 Abs. 2 StGB bei §§ 315c 316 142 StGB. Sperrfrist § 69a StGB. Vorzeitige Aufhebung § 69a Abs. 7 StGB. Abgrenzung § 25 StVG (OWi-Fahrverbot). MPU-Anforderungen. Haertfall-Argumente.
+**Fokus:** Fahrerlaubnisentzug § 69 StGB und Fahrverbot § 44 StGB im Strafbefehl. Regelentziehung § 69 Abs. 2 StGB bei §§ 315c 316 142 StGB. Sperrfrist § 69a StGB. Vorzeitige Aufhebung § 69a Abs. 7 StGB. Abgrenzung § 25 StVG (OWi-Fahrverbot). MPU-Anforderungen. Haertfall-Argumente.
 
 # Nebenfolgen Fahrerlaubnis im Strafbefehl
 
@@ -98,7 +98,7 @@ Im Strafbefehl: Fahrverbot § 44 StGB?
 
 ## 2. `strafbefehl-pflichtverteidiger`
 
-**Frühere Beschreibung:** Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG.
+**Fokus:** Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG.
 
 # Pflichtverteidiger im Strafbefehlsverfahren
 
@@ -177,7 +177,7 @@ Mit freundlichen Gruessen [KANZLEI]
 
 ## 3. `strafbefehl-polizeifilmerei-201-kug`
 
-**Frühere Beschreibung:** Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie.
+**Fokus:** Strafbefehl wegen Filmens oder Fotografierens von Polizeieinsätzen, Versammlungen oder Kontrollen: prüft § 201 StGB, § 201a StGB, KunstUrhG/KUG §§ 22 bis 23 sowie § 33, Beweissicherung, Tonspur, Veröffentlichung, Beschlagnahme des Smartphones, Einspruch, Einlassung und Verteidigungsstrategie.
 
 # Strafbefehl Nach Polizeifilmerei
 

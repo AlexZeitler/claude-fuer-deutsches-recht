@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-kirk-mandantenkommun-bis-kr-richtlinie-execut
-description: "ki-richtlinie-kanzleien: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (kirk-mandantenkommunikation-leitfaden, kirk-prompts-templates-versionierung-spezial, kr-richtlinie-executive-summary-1-pager-template) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-richtlinie-kanzleien: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - ki-richtlinie-kanzleien
+# Arbeitsbereich - Kirk Mandantenkommunikation Leitfaden, Kirk Prompts Templates Versionierung Spezial, Kr Richtlinie Executive Summary 1 Pager Template
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kirk-mandantenkommunikation-leitfaden` | Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Pruefraster fuer Mandatsverhaeltnis. |
 | `kirk-prompts-templates-versionierung-spezial` | Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kirk-mandantenkommunikation-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Pruefraster fuer Mandatsverhaeltnis.
+**Fokus:** Leitfaden Mandantenkommunikation ueber KI-Einsatz: Hinweis, Einwilligung, Vergleichbarkeit mit Hilfspersonal. Pruefraster fuer Mandatsverhaeltnis.
 
 # KIRK: Mandantenkommunikation
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `ki-richtlinie-kanzleien`. Er ergaenzt die uebri
 
 ## 2. `kirk-prompts-templates-versionierung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management.
+**Fokus:** Spezialfall Prompts und Templates: Versionierung, Reviewprozess, Geheimhaltung, Test. Pruefraster fuer Knowledge-Management.
 
 # KIRK: Prompts Versionierung
 
@@ -134,7 +134,7 @@ Dieser Skill gehoert zum Plugin `ki-richtlinie-kanzleien`. Er ergaenzt die uebri
 
 ## 3. `kr-richtlinie-executive-summary-1-pager-template`
 
-**Frühere Beschreibung:** Ein-Seiten-Executive-Summary fuer KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang fuer Onboarding und Schulungen einsetzbar.
+**Fokus:** Ein-Seiten-Executive-Summary fuer KI-Nutzungsrichtlinien einer Kanzlei oder Rechtsabteilung; produziert ein druckfertiges 1-Pager-Dokument mit den Bloecken 'Was ist erlaubt', 'Was ist nicht erlaubt', 'Wo Vorsicht', 'Anlaufstellen' und 'Naechste Revision'; deckt KI-VO 2024/1689 Artikel 4 und 5 und 26 sowie BRAO Paragraf 43a und Paragraf 43e und DSGVO Artikel 5 und 6 und 28 und 32 ab und ist als Anlage zur Vollrichtlinie oder als Aushang fuer Onboarding und Schulungen einsetzbar.
 
 # Executive Summary 1-Pager Template
 

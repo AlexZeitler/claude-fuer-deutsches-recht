@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-geschaeftsbesorgung-bis-goa-grundschema-para
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (geschaeftsbesorgung-und-zahlungsdienste, goa-entgegenstehender-wille-paragraphen-678-679, goa-grundschema-paragraph-677) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - bgb-bt-pruefer
+# Arbeitsbereich - Geschaeftsbesorgung Und Zahlungsdienste, Goa Entgegenstehender Wille Paragraphen 678 679, Goa Grundschema Paragraph 677
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geschaeftsbesorgung-und-zahlungsdienste` | Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung. |
 | `goa-entgegenstehender-wille-paragraphen-678-679` | Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geschaeftsbesorgung-und-zahlungsdienste`
 
-**Frühere Beschreibung:** Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung.
+**Fokus:** Prüft Zahlungsdienstleistungen § 675c ff. BGB: Zahlungsauftrag, Haftung bei Fehlüberweisungen und unautorisierter Zahlung.
 
 # Geschäftsbesorgung und Zahlungsdienste
 
@@ -121,7 +121,7 @@ Zahlungsdienstrecht nach §§ 675c–676c BGB prüfen: Zahlungsaufträge, Erstat
 
 ## 2. `goa-entgegenstehender-wille-paragraphen-678-679`
 
-**Frühere Beschreibung:** Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten.
+**Fokus:** Prüft GoA gegen den Willen des Geschäftsherrn §§ 678 und 679 BGB: erhöhte Haftung und Ausnahmen bei Erfüllung gesetzlicher Pflichten.
 
 # GoA: Entgegenstehender Wille §§ 678 und 679 BGB
 
@@ -212,7 +212,7 @@ Geschäftsführung gegen den Willen des Geschäftsherrn nach §§ 678 und 679 BG
 
 ## 3. `goa-grundschema-paragraph-677`
 
-**Frühere Beschreibung:** Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht.
+**Fokus:** Prüft Geschäftsführung ohne Auftrag §§ 677 ff. BGB: echte GoA, Fremdgeschäftsführungswille, Aufwendungsersatz und Herausgabepflicht.
 
 # GoA Grundschema § 677 BGB
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-anfechtungsfrist-erk-bis-bedingung-befristung
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (anfechtungsfrist-erklaerung-bestaetigung, annahmefrist-verspaetung-paragraphen-147-149, bedingung-befristung-paragraphen-158-163) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - bgb-at-pruefer
+# Arbeitsbereich - Anfechtungsfrist Erklaerung Bestaetigung, Annahmefrist Verspaetung Paragraphen 147 149, Bedingung Befristung Paragraphen 158 163
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anfechtungsfrist-erklaerung-bestaetigung` | Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund. |
 | `annahmefrist-verspaetung-paragraphen-147-149` | Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach § 149 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anfechtungsfrist-erklaerung-bestaetigung`
 
-**Frühere Beschreibung:** Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund.
+**Fokus:** Prüft Anfechtungsfrist und Bestätigungstatbestand: Frist bei Irrtumsanfechtung nach § 121 BGB (unverzüglich) und bei arglistiger Täuschung nach § 124 BGB (ein Jahr), Fristbeginn, Bestätigung nach § 144 BGB als Ausschlussgrund.
 
 # Anfechtungsfrist, Anfechtungserklärung und Bestätigung — §§ 121 bis 124 und § 144 BGB
 
@@ -114,7 +114,7 @@ schlüssiges Verhalten (z.B. Erfüllung der Verbindlichkeit) erklärt werden.
 
 ## 2. `annahmefrist-verspaetung-paragraphen-147-149`
 
-**Frühere Beschreibung:** Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach § 149 BGB.
+**Fokus:** Klausurfall zur Annahmefrist nach §§ 147 bis 149 BGB: Annahme unter Anwesenden sofort, unter Abwesenden in angemessener Frist, verspätete Annahme als neues Angebot und Rechtsfolgen des Verspätungsanzeigeverzichts nach § 149 BGB.
 
 # Annahmefrist und verspätete Annahme — §§ 147 bis 149 BGB
 
@@ -198,7 +198,7 @@ unverzüglich an, kommt kein Vertrag zustande. Dies wird in Klausuren oft falsch
 
 ## 3. `bedingung-befristung-paragraphen-158-163`
 
-**Frühere Beschreibung:** Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebende und auflösende Bedingung, Zeitbestimmung, Vereitelung des Bedingungseintritts nach § 162 BGB, Rückwirkung nach § 159 BGB und Zwischenverfügungen.
+**Fokus:** Klausurfall zu Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebende und auflösende Bedingung, Zeitbestimmung, Vereitelung des Bedingungseintritts nach § 162 BGB, Rückwirkung nach § 159 BGB und Zwischenverfügungen.
 
 # Bedingung und Befristung — §§ 158 bis 163 BGB
 

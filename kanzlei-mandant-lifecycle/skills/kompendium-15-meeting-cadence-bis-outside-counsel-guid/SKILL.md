@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-meeting-cadence-bis-outside-counsel-guid
-description: "kanzlei-mandant-lifecycle: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (meeting-cadence, monthly-business-review, multi-client-matter, narrative-value-writing, outside-counsel-guidelines) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-mandant-lifecycle: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Meeting Cadence, Monthly Business Review, Multi Client Matter, Narrative Value Writing und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - kanzlei-mandant-lifecycle
+# Arbeitsbereich - Meeting Cadence bis Outside Counsel Guidelines
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `meeting-cadence` | Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
 | `monthly-business-review` | Monthly Business Review: steuert Monatsreview Kanzlei/Rechtsabteilung: Kosten, Matters, Learnings, Forecast und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `meeting-cadence`
 
-**Frühere Beschreibung:** Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Meeting Cadence: steuert Jour fixe, Steering Committee, Ad-hoc Calls, Minuten und Action Items sinnvoll takten zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Meeting Cadence
 
@@ -88,7 +88,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 2. `monthly-business-review`
 
-**Frühere Beschreibung:** Monthly Business Review: steuert Monatsreview Kanzlei/Rechtsabteilung: Kosten, Matters, Learnings, Forecast und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Monthly Business Review: steuert Monatsreview Kanzlei/Rechtsabteilung: Kosten, Matters, Learnings, Forecast und Beziehung zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Monthly Business Review
 
@@ -146,7 +146,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 3. `multi-client-matter`
 
-**Frühere Beschreibung:** Mehrere Mandanten in einer Sache: steuert Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Mehrere Mandanten in einer Sache: steuert Joint Defense, gleichlaufende Interessen, Kostenteilung, Konfliktumschlag und Information zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Mehrere Mandanten in einer Sache
 
@@ -204,7 +204,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 4. `narrative-value-writing`
 
-**Frühere Beschreibung:** Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Narrative Value Writing: steuert Tätigkeitsbeschreibungen so schreiben, dass der Mandant Wert und Zweck erkennt zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Narrative Value Writing
 
@@ -262,7 +262,7 @@ Vor tragenden Aussagen live prüfen: amtliche Normfassung, zuständige Behörde/
 
 ## 5. `outside-counsel-guidelines`
 
-**Frühere Beschreibung:** Outside Counsel Guidelines: steuert OCG des Unternehmens in alltagstaugliche Kanzlei-Pflichten, Eskalationen und Abrechnungsregeln übersetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
+**Fokus:** Outside Counsel Guidelines: steuert OCG des Unternehmens in alltagstaugliche Kanzlei-Pflichten, Eskalationen und Abrechnungsregeln übersetzen zwischen Kanzlei, Mandant und Rechtsabteilung mit Dashboard, Budget, Fristen, Verantwortlichkeiten, Beziehungspflege und Quellenhygiene.
 
 # Outside Counsel Guidelines
 

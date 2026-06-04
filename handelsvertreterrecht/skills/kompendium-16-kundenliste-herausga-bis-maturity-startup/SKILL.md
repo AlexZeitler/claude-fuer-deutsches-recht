@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-kundenliste-herausga-bis-maturity-startup
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (kundenliste-herausgabe, kundenschutz, makler-abgrenzung, maturity-startup) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kundenliste Herausgabe, Kundenschutz, Makler Abgrenzung, Maturity Startup; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - handelsvertreterrecht
+# Arbeitsbereich - Kundenliste Herausgabe bis Maturity Startup
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kundenliste-herausgabe` | Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch. |
 | `kundenschutz` | Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kundenliste-herausgabe`
 
-**Frühere Beschreibung:** Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch.
+**Fokus:** Prüft Herausgabepflichten und Nutzungsrechte an Kundenlisten bei Vertragsende: Anspruch des Unternehmers auf Herausgabe nach § 667 BGB analog und § 88 HGB, Zurückbehaltungsrecht des Handelsvertreters, Datenschutzrecht nach DSGVO sowie Vollstreckung bei Verweigerung und Schadensersatz bei Datenmissbrauch.
 
 # Kundenliste und Herausgabepflicht bei Vertragsende nach § 88 HGB
 
@@ -108,7 +108,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 2. `kundenschutz`
 
-**Frühere Beschreibung:** Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung.
+**Fokus:** Prüft Kundenschutzklauseln im Handelsvertretervertrag: Verbot der Direktansprache von Kunden durch den Handelsvertreter während und nach der Vertragslaufzeit, Abgrenzung von erlaubter Allgemeinwerbung und verbotenem gezieltem Abwerben sowie Schadensersatz und Unterlassung bei Verletzung.
 
 # Kundenschutz im Handelsvertretervertrag — Abwerbeverbote und Rechtsfolgen
 
@@ -187,7 +187,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 3. `makler-abgrenzung`
 
-**Frühere Beschreibung:** Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch.
+**Fokus:** Klärt die Abgrenzung des Handelsvertreters vom Makler nach §§ 652 ff. BGB: dauerhaftes Vertragsverhältnis des Handelsvertreters vs. einmalige Vermittlung des Maklers, Anspruch auf Fixprovision vs. Erfolgshonorar, Anwendbarkeit des Handelsvertreterrechts auf Makleragenturen sowie Ausgleichsanspruch.
 
 # Abgrenzung Handelsvertreter vom Makler nach §§ 84 HGB und 652 BGB
 
@@ -266,7 +266,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 4. `maturity-startup`
 
-**Frühere Beschreibung:** Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios.
+**Fokus:** Analysiert Handelsvertreterverträge in Start-up- und Scale-up-Kontexten: Flexibilität der Vertragsgestaltung, Equity-Komponenten neben Provision, Exit-Klauseln bei M&A, Ausgleichsansprüche in Wachstumsphasen, Regelungen bei Pivot des Geschäftsmodells und schnell wechselnde Produktportfolios.
 
 # Handelsvertreterrecht im Start-up- und Scale-up-Kontext
 

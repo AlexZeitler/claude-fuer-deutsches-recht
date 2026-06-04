@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-iwr-arbitration-ny-c-bis-iwr-rechtswahl-geric
-description: "fachanwalt-internationales-wirtschaftsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (iwr-arbitration-ny-convention-spezial, iwr-cisg-anwendung-spezial, iwr-rechtswahl-gerichtsstand-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-internationales-wirtschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-internationales-wirtschaftsrecht
+# Arbeitsbereich - Iwr Arbitration Ny Convention Spezial, Iwr Cisg Anwendung Spezial, Iwr Rechtswahl Gerichtsstand Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `iwr-arbitration-ny-convention-spezial` | Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine. |
 | `iwr-cisg-anwendung-spezial` | Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster fuer Vertragsentwurf. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `iwr-arbitration-ny-convention-spezial`
 
-**Frühere Beschreibung:** Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine.
+**Fokus:** Spezialfall internationale Schiedsgerichtsbarkeit nach New York Convention 1958: Vollstreckung im Ausland, Pruefung Versagungsgruende Art. V, Anerkennungsverfahren in Deutschland nach § 1061 ZPO. Pruefraster und Schriftsatzbausteine.
 
 # IWR: Schiedsgerichts-Vollstreckung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. E
 
 ## 2. `iwr-cisg-anwendung-spezial`
 
-**Frühere Beschreibung:** Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster fuer Vertragsentwurf.
+**Fokus:** Spezialfall UN-Kaufrecht CISG: anwendbar bei B2B-Kaufvertraegen zwischen Parteien in Vertragsstaaten, opt-out moeglich. Maengelruege Art. 39, Schadensersatz Art. 74. Vorteile gegenueber BGB-Kaufrecht. Pruefraster fuer Vertragsentwurf.
 
 # IWR: CISG-Anwendung
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-internationales-wirtschaftsrecht`. E
 
 ## 3. `iwr-rechtswahl-gerichtsstand-praxis`
 
-**Frühere Beschreibung:** Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte fuer typische Konstellationen B2B und Verbraucher.
+**Fokus:** Rechtswahl und Gerichtsstand in der Praxis: Pruefraster Art. 3 ROM I, Art. 25 EuGVVO, asymmetrische Klauseln, Schiedsklausel statt staatlicher Gerichtsstand. Mustertexte fuer typische Konstellationen B2B und Verbraucher.
 
 # IWR: Rechtswahl-Praxis
 

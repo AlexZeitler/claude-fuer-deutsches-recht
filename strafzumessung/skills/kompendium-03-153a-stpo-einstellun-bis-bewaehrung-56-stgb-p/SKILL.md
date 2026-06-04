@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-153a-stpo-einstellun-bis-bewaehrung-56-stgb-p
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (153a-stpo-einstellung-gegen-auflage, 267-iii-stpo-begruendungsanforderungen-strafurteil, bewaehrung-56-stgb-positive-sozialprognose) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - strafzumessung
+# Arbeitsbereich - 153a Stpo Einstellung Gegen Auflage, 267 Iii Stpo Begruendungsanforderungen Strafurteil, Bewaehrung 56 Stgb Positive Sozialprognose
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `153a-stpo-einstellung-gegen-auflage` | Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein oeffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung. |
 | `267-iii-stpo-begruendungsanforderungen-strafurteil` | Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `153a-stpo-einstellung-gegen-auflage`
 
-**Frühere Beschreibung:** Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein oeffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung.
+**Fokus:** Einstellung gegen Auflage nach § 153a StPO. Zustimmungserfordernis Staatsanwaltschaft, Gericht und Beschuldigter. Voraussetzung kein oeffentliches Interesse an der Strafverfolgung Vergehen. Auflagen Geldzahlung gemeinnuetzige Arbeit Schadenswiedergutmachung Unterhaltspflicht TOA. Verhaeltnis zur Strafzumessung; Wirkung wie eine kuenftige Strafbefehlsersatzhandlung.
 
 # Einstellung gegen Auflage — § 153a StPO
 
@@ -136,7 +136,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `267-iii-stpo-begruendungsanforderungen-strafurteil`
 
-**Frühere Beschreibung:** Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld.
+**Fokus:** Begruendungsanforderungen an die Strafzumessung im Strafurteil § 267 Abs. 3 StPO. Pflicht zur Mitteilung der bestimmenden Strafzumessungsgruende. Strafrahmen, Schuldrahmen, Strafzumessungstatsachen § 46 Abs. 2 StGB. Bewaehrungs- und Strafaussetzungsbegruendung. Strafzumessungsruege im Revisionsverfahren. Typische Aufhebungsgruende: Pauschalbegruendung Doppelverwertung Schweigen Praevention vor Schuld.
 
 # Begruendung der Strafzumessung im Urteil — § 267 Abs. 3 StPO
 
@@ -301,7 +301,7 @@ III. Strafzumessung
 
 ## 3. `bewaehrung-56-stgb-positive-sozialprognose`
 
-**Frühere Beschreibung:** Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO.
+**Fokus:** Aussetzung der Vollstreckung zur Bewaehrung nach § 56 StGB. Voraussetzungen positive Sozialprognose Abs. 1 bis 1 Jahr; besondere Umstaende Abs. 2 bis 2 Jahre; Verteidigung der Rechtsordnung Abs. 3. Prognose-Faktoren Vorleben, soziale Bindungen, Reue, Wiedergutmachung, Therapiebereitschaft. Bewaehrungszeit § 56a. Auflagen Weisungen. Schnittstelle 267 Abs. 3 StPO.
 
 # Strafaussetzung zur Bewaehrung — § 56 StGB
 

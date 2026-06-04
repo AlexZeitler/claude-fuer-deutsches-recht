@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-rechtsabteilung-d-o-bis-versicherungsmakler
-description: "versicherungsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (rechtsabteilung-d-o-deckung-bei-organhaftung, umwelthaftpflicht-umweltschadenversicherung, versicherungsmakler-haftung-deckungsluecke) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "versicherungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu D O Deckung Bei Organhaftung, Umwelthaftpflicht Umweltschadenversicherung, Versicherungsmakler Haftung Deckungsluecke; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - versicherungsrecht
+# Arbeitsbereich - D O Deckung Bei Organhaftung, Umwelthaftpflicht Umweltschadenversicherung, Versicherungsmakler Haftung Deckungsluecke
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsabteilung-d-o-deckung-bei-organhaftung` | Rechtsabteilungs-Spezialskill für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
 | `umwelthaftpflicht-umweltschadenversicherung` | Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsabteilung-d-o-deckung-bei-organhaftung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für D&O-Deckung bei Organhaftung: Notification, Serienschaden, Selbstbehalt und Ausschlüsse werden für Vorstand/AR bewertet. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: D&O-Deckung bei Organhaftung
 
@@ -68,7 +68,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `umwelthaftpflicht-umweltschadenversicherung`
 
-**Frühere Beschreibung:** Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse.
+**Fokus:** Umwelthaftpflichtversicherung und Umweltschadenversicherung: Kontamination, Sanierung, öffentlich-rechtliche Verfügung, Eigenschaden, Drittanspruch und Ausschlüsse.
 
 # Umwelthaftpflicht und Umweltschadenversicherung
 
@@ -109,7 +109,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `versicherungsmakler-haftung-deckungsluecke`
 
-**Frühere Beschreibung:** Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen.
+**Fokus:** Maklerhaftung wegen fehlerhafter Risikoanalyse, unzureichender Beratung, fehlender Umdeckung oder Deckungslücke prüfen.
 
 # Versicherungsmaklerhaftung bei Deckungslücken
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-grosskanzlei-corpora-bis-grosskanzlei-corpora
-description: "grosskanzlei-corporate-ma: Konsolidiertes Skill-Kompendium 18; bündelt 7 frühere Spezialskills (grosskanzlei-corporate-ma-liability-limitations-basket-cap, grosskanzlei-corporate-ma-litigation-disputes-dd, grosskanzlei-corporate-ma-locked-box-completion-accounts, grosskanzlei-corporate-ma-look-and-feel, grosskanzlei-corporate-ma-mac-ordinary-course-covenants und 2 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "grosskanzlei-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Grosskanzlei Corporate Ma Liability Limitations Basket Cap, Grosskanzlei Corporate Ma Litigation Disputes Dd, Grosskanzlei Corporate Ma Locked Box Completion Accounts, Grosskanzlei Corporate Ma Look And Feel und 3 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - grosskanzlei-corporate-ma
+# Arbeitsbereich - Grosskanzlei Corporate Ma Liability Limitations Basket Cap bis Grosskanzlei Corporate Ma Nda Clean Team Protokoll
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `grosskanzlei-corporate-ma-liability-limitations-basket-cap` | Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA. |
 | `grosskanzlei-corporate-ma-litigation-disputes-dd` | Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer. |
@@ -23,16 +23,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `grosskanzlei-corporate-ma-liability-limitations-basket-cap`
 
-**Frühere Beschreibung:** Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA.
+**Fokus:** Liability Limitations, Basket, De Minimis und Cap: verhandelt Haftungsbegrenzungen, Ausschluesse, Verjaehrung und Buyer Protections im SPA.
 
 # Liability Limitations Basket Cap
 
@@ -122,7 +122,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 2. `grosskanzlei-corporate-ma-litigation-disputes-dd`
 
-**Frühere Beschreibung:** Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer.
+**Fokus:** Litigation und Disputes DD: prueft Prozesse, Schiedsverfahren, Verwaltungsverfahren, Threatened Claims, Rueckstellungen und SPA-Risikotransfer.
 
 # Litigation Disputes DD
 
@@ -212,7 +212,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 3. `grosskanzlei-corporate-ma-locked-box-completion-accounts`
 
-**Frühere Beschreibung:** Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik.
+**Fokus:** Locked Box und Completion Accounts Spezialist: vergleicht Kaufpreismechaniken, Leakage, Working Capital, Net Debt, Accounts-Prozess und Dispute-Mechanik.
 
 # Locked Box Completion Accounts
 
@@ -302,7 +302,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 4. `grosskanzlei-corporate-ma-look-and-feel`
 
-**Frühere Beschreibung:** Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche für Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing für tatsaechlichen Versand und zu Schreibcanvas für inhaltliche Qualitaet.
+**Fokus:** Corporate-Deal-Workspace Darstellung und Ausgabeformat: Anwendungsfall alle sichtbaren Outputs sollen im einheitlichen M&A-Kanzleistil erscheinen — ruhig, edel, deal-informationsdicht ohne Marketing-Ton. Big-Law-Standard, Partnerqualitaet. Prüfraster Statuskarten-Format, Ampelfarben, Deal-Phasenlayout, Risikokategorien, Owner-Matrix-Darstellung. Output konsistente visuelle Arbeitsoberflaeche für Partner, Counsel, Associate und Mandant. Abgrenzung zu Ausgabe-Versand-Signing für tatsaechlichen Versand und zu Schreibcanvas für inhaltliche Qualitaet.
 
 # Corporate-Cowork-Look
 
@@ -480,7 +480,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 5. `grosskanzlei-corporate-ma-mac-ordinary-course-covenants`
 
-**Frühere Beschreibung:** MAC, Ordinary Course und Interim Covenants: prueft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse.
+**Fokus:** MAC, Ordinary Course und Interim Covenants: prueft Signing-to-Closing-Pflichten, Zustimmungsvorbehalte, Notice-Prozesse und Covenant-Verstoesse.
 
 # MAC Ordinary Course Covenants
 
@@ -570,7 +570,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 6. `grosskanzlei-corporate-ma-management-presentation-prep`
 
-**Frühere Beschreibung:** Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle fuer M&A-Managementtermine vor.
+**Fokus:** Management-Presentation-Prep: bereitet Fragen, Red-Flags, Sprechzettel, Follow-up-Requests und Expert-Call-Protokolle fuer M&A-Managementtermine vor.
 
 # Management Presentation Prep
 
@@ -660,7 +660,7 @@ Dieser Skill arbeitet nicht passiv. Er fuehrt den Nutzer freundlich durch Corpor
 
 ## 7. `grosskanzlei-corporate-ma-nda-clean-team-protokoll`
 
-**Frühere Beschreibung:** NDA- und Clean-Team-Protokoll fuer Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
+**Fokus:** NDA- und Clean-Team-Protokoll fuer Bieterprozesse: prueft Vertraulichkeit, kartellrechtliche Informationsgrenzen, Clean-Room-Zugang, Datenklassifikation und Prozessdisziplin.
 
 # NDA Clean Team Protokoll
 

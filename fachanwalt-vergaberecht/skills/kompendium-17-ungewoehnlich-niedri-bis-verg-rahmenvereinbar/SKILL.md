@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-ungewoehnlich-niedri-bis-verg-rahmenvereinbar
-description: "fachanwalt-vergaberecht: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (ungewoehnlich-niedriges-angebot, unterschwellen-rechtsschutz-zivilgericht, verg-eignungspruefung-leitfaden, verg-rahmenvereinbarung-konzession-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-vergaberecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ungewoehnlich Niedriges Angebot, Unterschwellen Rechtsschutz Zivilgericht, Verg Eignungspruefung Leitfaden, Verg Rahmenvereinbarung Konzession Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - fachanwalt-vergaberecht
+# Arbeitsbereich - Ungewoehnlich Niedriges Angebot bis Verg Rahmenvereinbarung Konzession Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ungewoehnlich-niedriges-angebot` | Ungewoehnlich niedriges Angebot pruefen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge. |
 | `unterschwellen-rechtsschutz-zivilgericht` | Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1. Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ungewoehnlich-niedriges-angebot`
 
-**Frühere Beschreibung:** Ungewoehnlich niedriges Angebot pruefen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge.
+**Fokus:** Ungewoehnlich niedriges Angebot pruefen: Aufgreifschwelle, Aufklaerung, Kalkulationsrisiken, Sozial-/Umweltpflichten, Zuschlagsverbot und Ruge.
 
 # Ungewoehnlich niedriges Angebot
 
@@ -93,7 +93,7 @@ Preisabstandscheck, Aufklaerungsfragen, Entscheidungsvorlage, Rugebaustein.
 
 ## 2. `unterschwellen-rechtsschutz-zivilgericht`
 
-**Frühere Beschreibung:** Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1. Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko.
+**Fokus:** Rechtsschutz unterhalb der EU-Schwellenwerte planen: UVgO/VOB/A 1. Abschnitt, Landesrecht, einstweiliger Rechtsschutz, Zivilrechtsweg, Ruge und Kostenrisiko.
 
 # Unterschwellen-Rechtsschutz
 
@@ -157,7 +157,7 @@ Rechtswegkarte, Eilantragsskizze, Ruge-/Anschreiben, Kosten-/Risikoampel.
 
 ## 3. `verg-eignungspruefung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Pruefraster fuer Bieter und Vergabestelle.
+**Fokus:** Leitfaden Eignungspruefung § 122 GWB: Selbstreinigung, Referenzen, technische und wirtschaftliche Leistungsfaehigkeit. Pruefraster fuer Bieter und Vergabestelle.
 
 # Verg: Eignungspruefung
 
@@ -239,7 +239,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-vergaberecht`. Er ergaenzt die uebri
 
 ## 4. `verg-rahmenvereinbarung-konzession-spezial`
 
-**Frühere Beschreibung:** Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung. Pruefraster fuer Auftraggeber.
+**Fokus:** Spezialfall Rahmenvereinbarung und Konzessionsvergabe KonzVgV: Vertragslaufzeit, Anpassungsklauseln, einseitige Vertragsaenderung. Pruefraster fuer Auftraggeber.
 
 # Verg: Rahmenvereinbarung Konzession
 

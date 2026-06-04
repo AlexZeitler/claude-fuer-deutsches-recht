@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-gw-einfuehrung-recht-bis-mandat-triage-gewerb
-description: "gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (gw-einfuehrung-rechtsschutzwege, gw-einstweilige-verfuegung-spezial, mandat-triage-gewerblicher-rechtsschutz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - gewerblicher-rechtsschutz
+# Arbeitsbereich - Gw Einfuehrung Rechtsschutzwege, Gw Einstweilige Verfuegung Spezial, Mandat Triage Gewerblicher Rechtsschutz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gw-einfuehrung-rechtsschutzwege` | Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage. |
 | `gw-einstweilige-verfuegung-spezial` | Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gw-einfuehrung-rechtsschutzwege`
 
-**Frühere Beschreibung:** Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage.
+**Fokus:** Einführung in die Rechtsschutzwege des gewerblichen Rechtsschutzes: Überblick über Verfahrensarten, Zuständigkeiten, Handlungsoptionen und Weichen bei Marken-, Patent-, Design-, Urheber- und Lauterkeitsverletzungen. Erstes Orientierungsgespräch und Triage.
 
 # GewR: Einführung – Rechtsschutzwege im Überblick
 
@@ -170,7 +170,7 @@ Mandatsbezug: Mandant kommt mit einem IP-Problem, weiß aber nicht, ob er klagen
 
 ## 2. `gw-einstweilige-verfuegung-spezial`
 
-**Frühere Beschreibung:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow.
+**Fokus:** Einstweilige Verfügung im gewerblichen Rechtsschutz: Strategische Gesamtbetrachtung von Antrag bis Hauptsache. Gerichtsauswahl, Tenorformulierung, Sicherheitsleistung, Vollzug, Widerspruch und Übergang in die Hauptsache als integrierter Workflow.
 
 # GewR: Einstweilige Verfügung Spezial – Strategische Gesamtbetrachtung
 
@@ -302,7 +302,7 @@ Vor jeder EV-Entscheidung:
 
 ## 3. `mandat-triage-gewerblicher-rechtsschutz`
 
-**Frühere Beschreibung:** Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen.
+**Fokus:** Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Prüfraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen.
 
 # Mandat-Triage Gewerblicher Rechtsschutz
 

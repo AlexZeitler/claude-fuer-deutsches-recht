@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fachanwalt-urheber-m-bis-fachanwalt-urheber-m
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fachanwalt-urheber-medienrecht-presse-gegendarstellung, fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg, fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urheber Medienrecht Presse Gegendarstellung, Urheber Medienrecht Schiedsstelle Dpma Vgg, Urheber Medienrecht Tdm 44b Urhg Ki Training Opt Out; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Urheber Medienrecht Presse Gegendarstellung, Urheber Medienrecht Schiedsstelle Dpma Vgg, Urheber Medienrecht Tdm 44b Urhg Ki Training Opt Out
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-urheber-medienrecht-presse-gegendarstellung` | Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen. |
 | `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg` | Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-urheber-medienrecht-presse-gegendarstellung`
 
-**Frühere Beschreibung:** Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen.
+**Fokus:** Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen.
 
 # Presse-Gegendarstellung
 
@@ -136,7 +136,7 @@ Halluzinations-Reparatur Bundle 026:
 
 ## 2. `fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg`
 
-**Frühere Beschreibung:** Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren.
+**Fokus:** Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren.
 
 # Schiedsstelle DPMA / VGG — Urheber-/Medienrecht
 
@@ -250,7 +250,7 @@ Stand: 05/2026. VGG seit 2016. DPMA-Schiedsstellen-Praxis stabil. DSM-RL ab 7.6.
 
 ## 3. `fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out`
 
-**Frühere Beschreibung:** Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen.
+**Fokus:** Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen.
 
 # TDM § 44b UrhG – KI-Training und Opt-out
 

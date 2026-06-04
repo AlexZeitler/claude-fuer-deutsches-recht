@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-einstweilige-anordnu-bis-festsetzungskatalog
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (einstweilige-anordnung-47-abs-6-vwgo, erforderlichkeit-1-abs-3-baugb, festsetzungskatalog-9-baugb-baunvo) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Einstweilige Anordnung 47 Abs 6 Vwgo, Erforderlichkeit 1 Abs 3 Baugb, Festsetzungskatalog 9 Baugb Baunvo
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einstweilige-anordnung-47-abs-6-vwgo` | Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten). |
 | `erforderlichkeit-1-abs-3-baugb` | Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einstweilige-anordnung-47-abs-6-vwgo`
 
-**Frühere Beschreibung:** Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten).
+**Fokus:** Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Prüfraster: Vollzugsfolgenabwaegung als Massstab Eilbedürftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten).
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO
 
@@ -208,7 +208,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `erforderlichkeit-1-abs-3-baugb`
 
-**Frühere Beschreibung:** Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu erforderlichkeit 1 abs 3 baugb. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Erforderlichkeit § 1 Abs. 3 BauGB
 
@@ -361,7 +361,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `festsetzungskatalog-9-baugb-baunvo`
 
-**Frühere Beschreibung:** Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Prüfprotokoll und Teilunwirksamkeitsbegründung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb.
+**Fokus:** Mandant greift einzelne Festsetzungen im Bebauungsplan als rechtswidrig an. § 9 BauGB abschließender Festsetzungskatalog BauNVO. Prüfraster: Festsetzungen außerhalb des Katalogs unwirksam BauNVO Art und Mass bauliche Nutzung GRZ GFZ Vollgeschosse Hoechstgrenzen § 17 BauNVO Stellplaetze § 9 Abs. 1 Nr. 4 BauGB Schallschutz § 9 Abs. 1 Nr. 24 BauGB. Output: Festsetzungs-Prüfprotokoll und Teilunwirksamkeitsbegründung. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegung) und vorhabenbezogener-bebauungsplan-12-baugb.
 
 # Festsetzungs-Katalog § 9 BauGB iVm BauNVO
 

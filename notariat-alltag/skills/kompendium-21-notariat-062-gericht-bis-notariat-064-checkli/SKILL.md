@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-notariat-062-gericht-bis-notariat-064-checkli
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria, notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und, notariat-064-checkliste-tagesstart-im-notariat) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 064 Checkliste Tagesstart Im Notariat; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - notariat-alltag
+# Arbeitsbereich - Notariat 062 Gerichts Und Behoerdenkommunikation Aus Dem Notaria, Notariat 063 Fehlerkorrektur Nachtragsurkunde Schreibfehler Und, Notariat 0
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria` | Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten. |
 | `notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und` | Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-062-gerichts-und-behoerdenkommunikation-aus-dem-notaria`
 
-**Frühere Beschreibung:** Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten.
+**Fokus:** Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat. Strukturierte Korrespondenz mit Registergerichten, Grundbuchämtern, Finanzämtern und Familien-/Betreuungsgerichten.
 
 # Notariat im Alltag: Gerichts- und Behördenkommunikation aus dem Notariat
 
@@ -120,7 +120,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-063-fehlerkorrektur-nachtragsurkunde-schreibfehler-und`
 
-**Frühere Beschreibung:** Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch.
+**Fokus:** Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler und offensichtliche Unrichtigkeit. Möglichkeiten zur Korrektur von Fehlern in notariellen Urkunden und im Grundbuch.
 
 # Notariat im Alltag: Fehlerkorrektur – Nachtragsurkunde, Schreibfehler, offensichtliche Unrichtigkeit
 
@@ -204,7 +204,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-064-checkliste-tagesstart-im-notariat`
 
-**Frühere Beschreibung:** Notariat im Alltag: Checkliste Tagesstart im Notariat. Tagesöffnungsroutine, Vollzugsmonitor-Prüfung, Fristenkontrolle, Eingangspost und Terminvorbereitung für den täglichen Notariatsbetrieb.
+**Fokus:** Notariat im Alltag: Checkliste Tagesstart im Notariat. Tagesöffnungsroutine, Vollzugsmonitor-Prüfung, Fristenkontrolle, Eingangspost und Terminvorbereitung für den täglichen Notariatsbetrieb.
 
 # Notariat im Alltag: Checkliste Tagesstart im Notariat
 

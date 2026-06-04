@@ -1,32 +1,32 @@
 ---
 name: kompendium-16-zustellung-und-vertr-bis-zustellung-und-vertr
-description: "dsa-dma-digitalregulierung: Konsolidiertes Skill-Kompendium 16; bündelt 1 frühere Spezialskills (zustellung-und-vertreter-art-13-dsa-art-37-dma) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "dsa-dma-digitalregulierung: eigenständiger Arbeits-Skill zu Zustellung Und Vertreter Art 13 Dsa Art 37 Dma; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - dsa-dma-digitalregulierung
+# Arbeitsbereich - Zustellung Und Vertreter Art 13 Dsa Art 37 Dma
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zustellung-und-vertreter-art-13-dsa-art-37-dma` | Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Prüfraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zuständigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zustellung-und-vertreter-art-13-dsa-art-37-dma`
 
-**Frühere Beschreibung:** Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Prüfraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zuständigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
+**Fokus:** Zustellung gegen Plattform mit Sitz außerhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Prüfraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zuständigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste.
 
 # Zustellung gegen Auslands-Plattform — Art. 13 DSA und Art. 37 DMA
 

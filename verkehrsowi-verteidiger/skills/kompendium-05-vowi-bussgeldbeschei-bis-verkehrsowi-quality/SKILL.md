@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-vowi-bussgeldbeschei-bis-verkehrsowi-quality
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (vowi-bussgeldbescheid-pruefung-bauleiter, verkehrsowi-kommandocenter, verkehrsowi-quality-gate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vowi Bussgeldbescheid Pruefung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verkehrsowi-verteidiger
+# Arbeitsbereich - Vowi Bussgeldbescheid Pruefung Bauleiter, Verkehrsowi Kommandocenter, Verkehrsowi Quality Gate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vowi-bussgeldbescheid-pruefung-bauleiter` | Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster fuer Verteidiger im Erstgespraech. |
 | `verkehrsowi-kommandocenter` | Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vowi-bussgeldbescheid-pruefung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster fuer Verteidiger im Erstgespraech.
+**Fokus:** Bauleiter Pruefung Bussgeldbescheid OWiG: Tatvorwurf, Beweismittel, Hoehe, Rechtsfolgen Punkte und Fahrverbot. Pruefraster fuer Verteidiger im Erstgespraech.
 
 # VOWi: Bussgeldbescheid-Pruefung
 
@@ -81,7 +81,7 @@ Dieser Skill gehoert zum Plugin `verkehrsowi-verteidiger`. Er ergaenzt die uebri
 
 ## 2. `verkehrsowi-kommandocenter`
 
-**Frühere Beschreibung:** Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy.
+**Fokus:** Zentrales Steuerungsmodul VerkehrsOWi-Verteidiger: Mandant stellt OWi-Mandat vor und benoetigt schnelle Orientierung. Normen: §§ 24 StVG, 67 OWiG, 25 StVG, 4 StVG (FAER). Prüfraster: Ampel-Schnelldiagnose (Tatvorwurf, Frist, Fahrverbot-Risiko, Punkte), Routing auf Subskills. Output Deal-Karte OWi mit Fristen-Ampel und Routing-Empfehlung. Abgrenzung: Alkohol/Drogen siehe verkehrsowi-alkohol-drogen-24a; Rotlicht/Abstand/Handy siehe verkehrsowi-rotlicht-abstand-handy.
 
 # VerkehrsOWi-Verteidiger — Kommandocenter
 
@@ -159,7 +159,7 @@ Einstiegspunkt fuer alle OWi-Mandate im Verkehrsrecht. Erfasst Kontext, bewertet
 
 ## 3. `verkehrsowi-quality-gate`
 
-**Frühere Beschreibung:** Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter.
+**Fokus:** Quality-Gate-Checkliste OWi-Mandat: Vor Einspruch, nach Akteneingang und vor HV prüft Kanzlei Vollständigkeit. Normen: § 67 OWiG (Einspruch), § 77 OWiG (HV-Beweisanträge), BVerfG Rohmessdaten. Prüfraster: Messakte vollständig, Rohmessdaten vorhanden, Eichschein geprüft, Fahrverbot-Haertefall-Prüfung, Punkte-Flensburg gecheckt. Output Ampel-Checkliste, Prüfprotokoll für jede Phase. Abgrenzung: Detailprüfungen in Spezialskills; Gesamtsteuerung siehe verkehrsowi-kommandocenter.
 
 # Quality Gate — OWi-Mandat
 

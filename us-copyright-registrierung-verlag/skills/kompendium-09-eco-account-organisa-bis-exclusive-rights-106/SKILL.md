@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-eco-account-organisa-bis-exclusive-rights-106
-description: "us-copyright-registrierung-verlag: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (eco-account-organisationskonto, edition-isbn-title-variants, education-distance-learning-110, exclusive-rights-106-bundle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-copyright-registrierung-verlag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eco Account Organisationskonto, Edition Isbn Title Variants, Education Distance Learning 110, Exclusive Rights 106 Bundle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - us-copyright-registrierung-verlag
+# Arbeitsbereich - Eco Account Organisationskonto bis Exclusive Rights 106 Bundle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eco-account-organisationskonto` | eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit. |
 | `edition-isbn-title-variants` | Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eco-account-organisationskonto`
 
-**Frühere Beschreibung:** eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit.
+**Fokus:** eCO-Organisationskonto für Verlage: zentrale Mailbox, Rollen, Passwort-/MFA-Konzept, Open Cases, Vertretung, Datenschutz und Auditfähigkeit.
 
 # eCO Account und Organisationskonto
 
@@ -81,7 +81,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 2. `edition-isbn-title-variants`
 
-**Frühere Beschreibung:** Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten.
+**Fokus:** Editionen, ISBN, Titelvarianten und Umlaute: Antragstitel, Originaltitel, Reihenangaben, Neuauflagen und Backlist konsistent verwalten.
 
 # Edition, ISBN und Titelvarianten
 
@@ -125,7 +125,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 3. `education-distance-learning-110`
 
-**Frühere Beschreibung:** Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen.
+**Fokus:** Prueft Classroom Use, TEACH Act, Distance Learning, LMS, Coursepacks und Lizenz-/Fair-Use-Schnittstellen.
 
 # Education und Distance Learning § 110
 
@@ -193,7 +193,7 @@ Arbeite hier nicht nur abstrakt, sondern als Rechte-, Werk- und Beweisfilter:
 
 ## 4. `exclusive-rights-106-bundle`
 
-**Frühere Beschreibung:** Prueft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel.
+**Fokus:** Prueft Reproduction, Derivative, Distribution, Public Performance, Display und Digital Audio Transmission als Rechtebündel.
 
 # Exclusive Rights Bundle § 106
 

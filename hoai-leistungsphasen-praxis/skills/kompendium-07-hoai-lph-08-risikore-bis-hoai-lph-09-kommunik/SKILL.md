@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-hoai-lph-08-risikore-bis-hoai-lph-09-kommunik
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 07; bündelt 18 frühere Spezialskills (hoai-lph-08-risikoregister, hoai-lph-08-sachverstaendigen-pruefung, hoai-lph-08-schnittstelle-vob-bgb, hoai-lph-08-streitfall-vorbereitung, hoai-lph-08-terminsteuerung und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 08 Risikoregister, Hoai Lph 08 Sachverstaendigen Pruefung, Hoai Lph 08 Schnittstelle Vob Bgb, Hoai Lph 08 Streitfall Vorbereitung und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 08 Risikoregister bis Hoai Lph 09 Kommunikation Baustelle Behoerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-08-risikoregister` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
 | `hoai-lph-08-sachverstaendigen-pruefung` | HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-08-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut risiko-
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 2. `hoai-lph-08-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 3. `hoai-lph-08-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Prüft vob/b
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 4. `hoai-lph-08-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 5. `hoai-lph-08-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Baut terminlog
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 6. `hoai-lph-08-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
+**Fokus:** HOAI LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Baustellensteuerung, Qualitätskontrolle, Termin/Kosten, Rechnungsprüfung, Abnahme und Dokumentation und Bewertungsanteil 32 %.
 
 # LPH 8 Objektüberwachung - Bauüberwachung und Dokumentation: Erklärt pflichten
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 8 (Objektüberwachung - Bauüberwachu
 
 ## 7. `hoai-lph-09-abnahme-und-teilabnahme`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Ordnet abnahme
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 8. `hoai-lph-09-anwaltlicher-pruefvermerk`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Erstellt anwaltliches kurzmemorandum zum lph-stand
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 9. `hoai-lph-09-bauherrnfreigabe`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Strukturiert freigabeentscheidung
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 10. `hoai-lph-09-bim-und-datenraum`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Ordnet digitale modelle
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 11. `hoai-lph-09-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Sichert protokolle
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 12. `hoai-lph-09-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Koordiniert architekt
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 13. `hoai-lph-09-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft fördermittelbedingungen
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 14. `hoai-lph-09-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 15. `hoai-lph-09-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Grenzt hoai-grundleistung
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 16. `hoai-lph-09-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft bewertungsanteil
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 17. `hoai-lph-09-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft eingaben
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 18. `hoai-lph-09-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Formuliert klare e-mails an bauherr
 

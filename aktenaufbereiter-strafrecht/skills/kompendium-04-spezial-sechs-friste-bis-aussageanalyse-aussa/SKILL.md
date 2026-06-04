@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-spezial-sechs-friste-bis-aussageanalyse-aussa
-description: "aktenaufbereiter-strafrecht: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (spezial-sechs-fristen-form-und-zustaendigkeit, u-haft-fristenwacht, aussageanalyse-aussagepsychologie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aktenaufbereiter-strafrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - aktenaufbereiter-strafrecht
+# Arbeitsbereich - Sechs Fristen Form Und Zustaendigkeit, U Haft Fristenwacht, Aussageanalyse Aussagepsychologie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-sechs-fristen-form-und-zustaendigkeit` | Sechs: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `u-haft-fristenwacht` | U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-sechs-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Sechs: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Sechs: Fristen, Form, Zuständigkeit und Rechtsweg im Plugin aktenaufbereiter strafrecht; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Sechs: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `u-haft-fristenwacht`
 
-**Frühere Beschreibung:** U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin.
+**Fokus:** U-Haft-Fristen ueberwachen: 6-Monats-Pruefung § 121 StPO durch das OLG, Haftpruefung § 117 StPO und Haftbeschwerde § 117 Abs. 1 StPO, Aussetzung gegen Auflagen § 116 StPO. Pruefraster: dringender Tatverdacht, Haftgrund, Verhaeltnismaessigkeit, Beschleunigungsgebot. Output Antragsentwuerfe und Fristenkalender bis Endtermin.
 
 # U-Haft-Fristenwacht
 
@@ -121,7 +121,7 @@ Dieser Skill gehoert zum Plugin `aktenaufbereiter-strafrecht`. Er ergaenzt die u
 
 ## 3. `aussageanalyse-aussagepsychologie`
 
-**Frühere Beschreibung:** Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, Detailverknuepfung, Selbstbelastung, ungewoehnliche Details, Nichtsteuerungsmerkmale. Hypothesentest Falschaussage. Sinnvoll bei Aussage-gegen-Aussage. Output strukturiertes Gutachten-Modul fuer Verteidigerschriftsatz.
+**Fokus:** Zeugenaussage mit aussagepsychologischen Realkennzeichen analysieren: logische Konsistenz, quantitative Detailfuelle, Detailverknuepfung, Selbstbelastung, ungewoehnliche Details, Nichtsteuerungsmerkmale. Hypothesentest Falschaussage. Sinnvoll bei Aussage-gegen-Aussage. Output strukturiertes Gutachten-Modul fuer Verteidigerschriftsatz.
 
 # Aussageanalyse Aussagepsychologie
 

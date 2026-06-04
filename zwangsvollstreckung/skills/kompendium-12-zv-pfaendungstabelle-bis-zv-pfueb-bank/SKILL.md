@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-zv-pfaendungstabelle-bis-zv-pfueb-bank
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (zv-pfaendungstabelle-2025, zv-pfueb-arbeitsentgelt, zv-pfueb-bank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - zwangsvollstreckung
+# Arbeitsbereich - Zv Pfaendungstabelle 2025, Zv Pfueb Arbeitsentgelt, Zv Pfueb Bank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `zv-pfaendungstabelle-2025` | Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung). |
 | `zv-pfueb-arbeitsentgelt` | Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `zv-pfaendungstabelle-2025`
 
-**Frühere Beschreibung:** Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung).
+**Fokus:** Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Prüfraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung).
 
 # Pfändungstabelle 1.7.2025
 
@@ -169,7 +169,7 @@ Aktenzeichen geprueft und korrigiert:
 
 ## 2. `zv-pfueb-arbeitsentgelt`
 
-**Frühere Beschreibung:** Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung).
+**Fokus:** Gläubiger will Lohn oder Gehalt des Schuldners pfaenden lassen. §§ 829 835 850 ff. ZPO Lohnpfaendung PfUeB. Prüfraster: PfUeB gegen Arbeitgeber als Drittschuldner pfaendbarer Betrag Pfaendungstabelle 1.7.2025 bis 30.6.2026 Unterhaltsberechtigte Sonderzuwendungen § 850a ZPO Anschlusspfaendungen § 850e ZPO. Output: PfUeB-Antrag Lohn fertig zum Einreichen. Abgrenzung zu zv-pfueb-bank (Konto) und zv-pfaendungstabelle-2025 (reine Berechnung).
 
 # PfÜB Arbeitsentgelt
 
@@ -259,7 +259,7 @@ Geprüft: 3 AZ aus task_259.json
 
 ## 3. `zv-pfueb-bank`
 
-**Frühere Beschreibung:** Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto).
+**Fokus:** Gläubiger will Bankkonto des Schuldners pfaenden lassen. §§ 829 835 ZPO PfUeB Bankkonten. Prüfraster: Antrag Drittschuldner-Bank P-Konto-Schutz § 850k ZPO Sockelbetrag Kindergeld Erhöhungen ZVollstrDigitG XML-Antrag ab 1.10.2026 elektronische Zustellung ab 1.10.2027. Output: PfUeB-Antrag Konto fertig zum Einreichen. Abgrenzung zu zv-pfueb-arbeitsentgelt (Lohn) und zv-eu-kontenpfaendung-655-2014 (Auslands-Konto).
 
 # PfÜB Bankkonto
 

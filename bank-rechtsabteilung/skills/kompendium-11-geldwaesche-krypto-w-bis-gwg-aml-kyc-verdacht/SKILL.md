@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-geldwaesche-krypto-w-bis-gwg-aml-kyc-verdacht
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 11; bündelt 5 frühere Spezialskills (geldwaesche-krypto-wallet-screening, geschaeftsleiter-abberufung-krise, geschaeftsleiter-bestellung-kwg-zag, girokonto-firmenkunden-risk-exit, gwg-aml-kyc-verdachtsmeldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Geldwaesche Krypto Wallet Screening, Geschaeftsleiter Abberufung Krise, Geschaeftsleiter Bestellung Kwg Zag, Girokonto Firmenkunden Risk Exit und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - bank-rechtsabteilung
+# Arbeitsbereich - Geldwaesche Krypto Wallet Screening bis Gwg Aml Kyc Verdachtsmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `geldwaesche-krypto-wallet-screening` | Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking. |
 | `geschaeftsleiter-abberufung-krise` | Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `geldwaesche-krypto-wallet-screening`
 
-**Frühere Beschreibung:** Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking.
+**Fokus:** Krypto-AML und Wallet-Screening für Banken prüfen: Wallet-Risiko, Chain Analytics, Mixer, Bridges, Darknet-Indizien, PEP/Sanktionen, Verdachtsmeldung und De-Risking.
 
 # Krypto-AML Wallet Screening
 
@@ -136,7 +136,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `geschaeftsleiter-abberufung-krise`
 
-**Frühere Beschreibung:** Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan.
+**Fokus:** Abberufung, Suspendierung oder Ressortentzug von Geschäftsleitern in Banken prüfen: KWG, Organrecht, Dienstvertrag, BaFin-Risiko, Aufsichtsratskompetenz, Ad-hoc-Krise und Kommunikationsplan.
 
 # Geschäftsleiterabberufung und Krise
 
@@ -235,7 +235,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `geschaeftsleiter-bestellung-kwg-zag`
 
-**Frühere Beschreibung:** Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation.
+**Fokus:** Geschäftsleiterbestellung nach KWG, ZAG und KAGB tief prüfen: Absichtsanzeige, Vollzugsanzeige, Zuverlässigkeit, fachliche Eignung, Zeitbudget, Lebenslauf, Führungszeugnis, Eignungsmatrix und BaFin-Kommunikation.
 
 # Geschäftsleiterbestellung nach KWG und ZAG
 
@@ -283,7 +283,7 @@ gesetze-im-internet.de (KWG, ZAG, AnzV), bafin.de (Merkblatt Geschäftsleiter, F
 
 ## 4. `girokonto-firmenkunden-risk-exit`
 
-**Frühere Beschreibung:** Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation.
+**Fokus:** Firmenkunden-Girokonto, Risk Exit und De-Risking prüfen: Kündigung, Sperre, AML, Sanktionen, Diskriminierungsrisiko, Zahlungsverkehrsabhängigkeit und saubere Kundenkommunikation.
 
 # Firmenkunden Risk Exit
 
@@ -389,7 +389,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `gwg-aml-kyc-verdachtsmeldung`
 
-**Frühere Beschreibung:** GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren.
+**Fokus:** GwG-, AML- und KYC-Prüfung für Banken: Risikoanalyse, wirtschaftlich Berechtigte, PEP, Sanktionen, Transaktionsmonitoring, Verdachtsmeldung und Dokumentation ohne unnötige Selbstbelastung strukturieren.
 
 # GwG AML KYC
 

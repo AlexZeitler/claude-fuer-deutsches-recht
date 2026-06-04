@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fachanwalt-verwaltun-bis-fachanwalt-verwaltun
-description: "fachanwalt-verwaltungsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (fachanwalt-verwaltungsrecht-drittanfechtung-umwelt, fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz, fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-verwaltungsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verwaltungsrecht Drittanfechtung Umwelt, Verwaltungsrecht Einstweiliger Rechtsschutz, Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-verwaltungsrecht
+# Arbeitsbereich - Verwaltungsrecht Drittanfechtung Umwelt, Verwaltungsrecht Einstweiliger Rechtsschutz, Verwaltungsrecht Klimaklage Bundeslaender Ksg Bverfg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt` | Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
 | `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz` | Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-verwaltungsrecht-drittanfechtung-umwelt`
 
-**Frühere Beschreibung:** Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo.
+**Fokus:** Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gründe prüfen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Prüfraster: Klagebefugnis Dritter, drittschützende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo.
 
 # Drittanfechtung Umwelt-Genehmigung
 
@@ -189,7 +189,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz`
 
-**Frühere Beschreibung:** Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo.
+**Fokus:** Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo.
 
 # Einstweiliger Rechtsschutz
 
@@ -507,7 +507,7 @@ Aktuelle Linien mit Eilrechtsschutz-Bezug:
 
 ## 3. `fachanwalt-verwaltungsrecht-klimaklage-bundeslaender-ksg-bverfg`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt verwaltungsrecht klimaklage bundeslaender ksg bverfg. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Klimaklage gegen Bundesländer — KSG / BVerfG 2021
 

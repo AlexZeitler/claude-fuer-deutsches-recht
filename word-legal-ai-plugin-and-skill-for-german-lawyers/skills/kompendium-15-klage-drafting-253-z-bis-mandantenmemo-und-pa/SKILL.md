@@ -1,33 +1,33 @@
 ---
 name: kompendium-15-klage-drafting-253-z-bis-mandantenmemo-und-pa
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 15; bündelt 2 frühere Spezialskills (klage-drafting-253-zpo, mandantenmemo-und-partner-update) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Klage Drafting 253 Zpo, Mandantenmemo Und Partner Update
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `klage-drafting-253-zpo` | Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage. |
 | `mandantenmemo-und-partner-update` | Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `klage-drafting-253-zpo`
 
-**Frühere Beschreibung:** Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage.
+**Fokus:** Drafting einer Klageschrift nach § 253 Abs. 2 ZPO. Bestimmter Antrag plus Sachverhaltsdarstellung mit Rechtsschutzbegehren und Streitgegenstand. Aufbau: Rubrum (Parteien, Vertretung, Anschriften, Gericht), Anträge (Zahlung, Feststellung, Hilfsantrag), tatsächliches Vorbringen chronologisch oder thematisch, rechtliche Würdigung, Beweisangebote, Anlagenverzeichnis. Mit § 130 ZPO Schriftsatz-Anforderungen, Streitwertberechnung nach § 3 ZPO, Bestimmtheit der Anträge nach BGH-Rechtsprechung sowie Mustertext für Zahlungsklage.
 
 # Klage-Drafting nach § 253 ZPO
 
@@ -176,7 +176,7 @@ Rechtsanwältin
 
 ## 2. `mandantenmemo-und-partner-update`
 
-**Frühere Beschreibung:** Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache.
+**Fokus:** Erstellt Mandantenmemos, Partner-Updates und Management Notes aus juristischer Prüfung. Liefert Executive Summary, klare Empfehlung, Risikoampel, Entscheidungsoptionen, offene Punkte, Fristen und nächste Schritte. Vermeidet Lehrbuch-Gutachten und übersetzt Rechtsfragen in handlungsfähige Kanzleisprache.
 
 # Mandantenmemo und Partner-Update
 

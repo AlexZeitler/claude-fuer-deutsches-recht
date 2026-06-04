@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-behoerdenformular-ve-bis-datenschutz-auskunft
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (behoerdenformular-verstehen, bescheid-brief-verstehen, datenschutz-auskunft-loeschung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Loeschung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Behoerdenformular Verstehen, Bescheid Brief Verstehen, Datenschutz Auskunft Loeschung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `behoerdenformular-verstehen` | Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `bescheid-brief-verstehen` | Bescheid oder Brief verstehen: erklärt erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `behoerdenformular-verstehen`
 
-**Frühere Beschreibung:** Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Behördenformular verstehen: führt Laien durch Formular, Anlagen, Mitwirkungspflichten, Datenschutz und sichere Ausfüllstrategie. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Behördenformular verstehen
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `bescheid-brief-verstehen`
 
-**Frühere Beschreibung:** Bescheid oder Brief verstehen: erklärt erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Bescheid oder Brief verstehen: erklärt erkennen, ob es Rechnung, Mahnung, Bescheid, Klage, Vollstreckung, Anhörung oder Werbung ist in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Bescheid oder Brief verstehen
 
@@ -131,7 +131,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `datenschutz-auskunft-loeschung`
 
-**Frühere Beschreibung:** Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Datenschutz Auskunft und Löschung: führt Laien durch DSGVO-Auskunft, Löschung, Identitätsnachweis, Fristen und Beschwerde. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Datenschutz Auskunft und Löschung
 

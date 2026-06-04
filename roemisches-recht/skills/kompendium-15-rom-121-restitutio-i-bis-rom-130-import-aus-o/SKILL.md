@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-rom-121-restitutio-i-bis-rom-130-import-aus-o
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 15; bündelt 8 frühere Spezialskills (rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz, rom-122-seehandel-lex-rhodia-de-iactu, rom-123-fenus-nauticum-seedarlehen, rom-126-receptum-nautarum-cauponum-stabulariorum, rom-127-magister-navis-und-mehrere-reeder und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz, Rom 122 Seehandel Lex Rhodia De Iactu, Rom 123 Fenus Nauticum Seedarlehen, Rom 126 Receptum Nautarum Cauponum Stabulariorum und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - roemisches-recht
+# Arbeitsbereich - Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz bis Rom 130 Import Aus Orient Aurum Silberbarren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz` | Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix. |
 | `rom-122-seehandel-lex-rhodia-de-iactu` | Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und Pruefraster. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-121-restitutio-in-integrum-ob-aetatem-vermoegensschutz`
 
-**Frühere Beschreibung:** Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix.
+**Fokus:** Restitutio in integrum ob aetatem: Schutz Minderjaehriger im roemischen Recht vor wirtschaftlichen Nachteilen aus eigenen Vertraegen. Skill behandelt die Voraussetzungen die Folgen die Lex Plaetoria de circumscriptione adolescentium und die Fortwirkung im modernen Minderjaehrigenschutz. Liefert Quellenmatrix.
 
 # Rom 121 Restitutio In Integrum Ob Aetatem Vermoegensschutz
 
@@ -87,7 +87,7 @@ Skill fuer Minderjaehrigenschutz im roemischen Recht.
 
 ## 2. `rom-122-seehandel-lex-rhodia-de-iactu`
 
-**Frühere Beschreibung:** Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und Pruefraster.
+**Fokus:** Lex Rhodia de iactu: Generalhavarie im roemischen Seehandelsrecht. Skill behandelt die Voraussetzungen und Rechtsfolgen der Pflicht zur anteiligen Schadenstragung bei Werfen von Gut in Seenot. Vorlaeufer der modernen Grossen Havarie (York-Antwerp Rules HGB §§ 588 ff.). Liefert Quellenmatrix und Pruefraster.
 
 # Rom 122 Seehandel Lex Rhodia De Iactu
 
@@ -146,7 +146,7 @@ Skill fuer die lex Rhodia de iactu als historisches Pendant der modernen Grossen
 
 ## 3. `rom-123-fenus-nauticum-seedarlehen`
 
-**Frühere Beschreibung:** Fenus nauticum: Seedarlehen als römische Risikofinanzierung und funktionaler Vorläufer der Seeversicherung. Prüft Seereise, Risikotragung des Darlehensgebers, Untergang des Schiffs, sichere Ankunft, hohe Zinsen als Risikoprämie und Abgrenzung zu mutuum.
+**Fokus:** Fenus nauticum: Seedarlehen als römische Risikofinanzierung und funktionaler Vorläufer der Seeversicherung. Prüft Seereise, Risikotragung des Darlehensgebers, Untergang des Schiffs, sichere Ankunft, hohe Zinsen als Risikoprämie und Abgrenzung zu mutuum.
 
 # Rom 123 Fenus Nauticum Seedarlehen
 
@@ -203,7 +203,7 @@ Skill fuer das fenus nauticum als Risikofinanzierungsinstrument der Antike.
 
 ## 4. `rom-126-receptum-nautarum-cauponum-stabulariorum`
 
-**Frühere Beschreibung:** Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern fuer eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltnis zur actio depositi. Liefert Quellenmatrix.
+**Fokus:** Receptum nautarum cauponum stabulariorum: praetorische Schaerfung der Haftung von Reedern Gastwirten und Stallbetreibern fuer eingebrachtes Gut. Skill behandelt die receptum-Erklaerung die Haftungsgrundlage als custodia und das Verhaeltnis zur actio depositi. Liefert Quellenmatrix.
 
 # Rom 126 Receptum Nautarum Cauponum Stabulariorum
 
@@ -251,7 +251,7 @@ Skill fuer die strenge praetorische Schaerfung der Haftung der nautae cauponum s
 
 ## 5. `rom-127-magister-navis-und-mehrere-reeder`
 
-**Frühere Beschreibung:** Magister navis und Mehrfachreederschaft im roemischen Seerecht. Skill behandelt die rechtliche Stellung des Schiffskapitaens bei mehreren Reedern (exercitores) Beschluss- und Vertretungsregeln Gesamtschuldnerschaft und Innenausgleich. Liefert Quellenmatrix.
+**Fokus:** Magister navis und Mehrfachreederschaft im roemischen Seerecht. Skill behandelt die rechtliche Stellung des Schiffskapitaens bei mehreren Reedern (exercitores) Beschluss- und Vertretungsregeln Gesamtschuldnerschaft und Innenausgleich. Liefert Quellenmatrix.
 
 # Rom 127 Magister Navis Und Mehrere Reeder
 
@@ -305,7 +305,7 @@ Skill fuer die Mehrfachreederschaft.
 
 ## 6. `rom-128-seerouten-ostia-alexandria-und-importzoll`
 
-**Frühere Beschreibung:** Roemische Seerouten und Importzollordnung. Skill behandelt die historische Rechtspraxis des roemischen Welthandels Routen wie Ostia-Alexandria die portoria-Zoelle und die Aufsicht durch die Procuratoren des Fiscus. Liefert Quellenmatrix.
+**Fokus:** Roemische Seerouten und Importzollordnung. Skill behandelt die historische Rechtspraxis des roemischen Welthandels Routen wie Ostia-Alexandria die portoria-Zoelle und die Aufsicht durch die Procuratoren des Fiscus. Liefert Quellenmatrix.
 
 # Rom 128 Seerouten Ostia Alexandria Und Importzoll
 
@@ -357,7 +357,7 @@ Skill fuer die roemische Importzollordnung im Welthandel.
 
 ## 7. `rom-129-getreidehandel-cura-annonae`
 
-**Frühere Beschreibung:** Cura annonae: roemische Verwaltung des Getreidehandels und der Versorgung der Hauptstadt. Skill behandelt die Praefectus annonae die staatlich gefoerderten Reedereien (navicularii) und die Privilegien fuer Getreidetransporte. Liefert Quellenmatrix.
+**Fokus:** Cura annonae: roemische Verwaltung des Getreidehandels und der Versorgung der Hauptstadt. Skill behandelt die Praefectus annonae die staatlich gefoerderten Reedereien (navicularii) und die Privilegien fuer Getreidetransporte. Liefert Quellenmatrix.
 
 # Rom 129 Getreidehandel Cura Annonae
 
@@ -405,7 +405,7 @@ Skill fuer die cura annonae.
 
 ## 8. `rom-130-import-aus-orient-aurum-silberbarren`
 
-**Frühere Beschreibung:** Roemischer Importhandel mit dem Orient: Gold Silber Seide Edelsteine Pfeffer. Skill behandelt die rechtlichen Sondervorschriften zum Edelmetall- und Luxusguterimport die hohen Zoelle (vicesima quinta) und die Aufsicht. Liefert Quellenmatrix.
+**Fokus:** Roemischer Importhandel mit dem Orient: Gold Silber Seide Edelsteine Pfeffer. Skill behandelt die rechtlichen Sondervorschriften zum Edelmetall- und Luxusguterimport die hohen Zoelle (vicesima quinta) und die Aufsicht. Liefert Quellenmatrix.
 
 # Rom 130 Import Aus Orient Aurum Silberbarren
 

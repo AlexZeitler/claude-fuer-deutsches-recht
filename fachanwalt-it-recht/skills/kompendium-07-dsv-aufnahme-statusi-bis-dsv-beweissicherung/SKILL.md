@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-dsv-aufnahme-statusi-bis-dsv-beweissicherung
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 07; bündelt 5 frühere Spezialskills (dsv-aufnahme-statusinformation, dsv-benachrichtigung-art-34-ausnahmen, dsv-benachrichtigung-art-34-betroffene, dsv-benachrichtigung-art-34-schwelle-hohes-risiko, dsv-beweissicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Aufnahme Statusinformation, Dsv Benachrichtigung Art 34 Ausnahmen, Dsv Benachrichtigung Art 34 Betroffene, Dsv Benachrichtigung Art 34 Schwelle Hohes Risiko und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Aufnahme Statusinformation bis Dsv Beweissicherung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-aufnahme-statusinformation` | Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne. |
 | `dsv-benachrichtigung-art-34-ausnahmen` | Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-aufnahme-statusinformation`
 
-**Frühere Beschreibung:** Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne.
+**Fokus:** Erstellt nach einem gemeldeten Datenschutzvorfall eine knappe Statusinformation an Mandant und Datenschutzbeauftragten in Fließtextform. Behandelt: Vorgangsbezeichnung; Zeitpunkt der Kenntnisnahme; Eingang Service-Desk und Datenschutzpostfach; Sachverhaltskurzfassung; 72-Stunden-Endpunkt als Datum und Uhrzeit; Ampelstatus grün gelb rot schwarz mit Begründung; aktuelle Einschätzung; Bewertung Meldepflicht nach Art. 33 DSGVO; Bewertung Informationspflicht nach Art. 34 DSGVO; nächster Schritt mit Verantwortlichem. Output: Fließtext-Memo 100-300 Wörter; matter-of-factly; Reasoning vor Conclusion in jedem Feld. Abgrenzung: keine Behördenmeldung; keine Risikobewertung im engeren Sinne.
 
 # Datenschutzvorfall — Erstaufnahme als Statusinformation
 
@@ -98,7 +98,7 @@ Nächster Schritt: konkret, mit Verantwortlichem und Zeitpunkt.
 
 ## 2. `dsv-benachrichtigung-art-34-ausnahmen`
 
-**Frühere Beschreibung:** Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung.
+**Fokus:** Prüft die Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO. Behandelt: lit. a technische und organisatorische Maßnahmen (insb. Verschlüsselung) die Daten unverständlich machen; lit. b nachträgliche Maßnahmen die hohes Risiko nicht mehr eintreten lassen; lit. c unverhältnismäßiger Aufwand mit öffentlicher Bekanntmachung als Ersatz; Darlegungs- und Beweislast; Behördenakzeptanz. Output: Ausnahmenprüfungs-Memo mit Begründung. Abgrenzung: keine Schwellenwertentscheidung.
 
 # Ausnahmen von der Benachrichtigungspflicht nach Art. 34 Abs. 3 DSGVO
 
@@ -152,7 +152,7 @@ Beweislast: liegt beim Verantwortlichen — schriftlich dokumentieren mit Datum 
 
 ## 3. `dsv-benachrichtigung-art-34-betroffene`
 
-**Frühere Beschreibung:** Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene und vorgeschlagene Abhilfemaßnahmen; konkrete Empfehlungen für Betroffene; Hotline; Versandweg E-Mail oder Brief. Output: Anschreiben mit Q&A. Abgrenzung: keine öffentliche Bekanntmachung; keine Behördenmeldung.
+**Fokus:** Erstellt das Benachrichtigungsschreiben an die von einer Datenschutzverletzung betroffenen Personen nach Art. 34 DSGVO. Behandelt: Pflichtinhalte nach Art. 34 Abs. 2 DSGVO; klare und einfache Sprache; Beschreibung der Art der Verletzung; Kontaktdaten des Datenschutzbeauftragten; wahrscheinliche Folgen; ergriffene und vorgeschlagene Abhilfemaßnahmen; konkrete Empfehlungen für Betroffene; Hotline; Versandweg E-Mail oder Brief. Output: Anschreiben mit Q&A. Abgrenzung: keine öffentliche Bekanntmachung; keine Behördenmeldung.
 
 # Benachrichtigung der Betroffenen nach Art. 34 DSGVO
 
@@ -221,7 +221,7 @@ Mit freundlichen Grüßen, [Geschäftsleitung]
 
 ## 4. `dsv-benachrichtigung-art-34-schwelle-hohes-risiko`
 
-**Frühere Beschreibung:** Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanzdaten; Gesundheitsdaten; Bewertungsmemo für die Akte. Output: Schwellenentscheidung mit Begründung und Bezug auf EDSA. Abgrenzung: keine konkrete Benachrichtigung; keine Ausnahmenprüfung.
+**Fokus:** Bewertet, ob die Schwelle voraussichtlich hohes Risiko nach Art. 34 Abs. 1 DSGVO erreicht ist. Behandelt: Abgrenzung zur Meldeschwelle Art. 33 Abs. 1 DSGVO; EDSA-Beispielfallgruppen; Faktoren Schwere und Wahrscheinlichkeit; Sondergruppen Art. 9 DSGVO und Minderjährige; Klartext-Passwörter; Finanzdaten; Gesundheitsdaten; Bewertungsmemo für die Akte. Output: Schwellenentscheidung mit Begründung und Bezug auf EDSA. Abgrenzung: keine konkrete Benachrichtigung; keine Ausnahmenprüfung.
 
 # Schwelle hohes Risiko nach Art. 34 Abs. 1 DSGVO
 
@@ -276,7 +276,7 @@ Conclusion: hohes Risiko ab Schwere hoch + Wahrscheinlichkeit mittel; bei Art. 9
 
 ## 5. `dsv-beweissicherung`
 
-**Frühere Beschreibung:** Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabbilder; Hashes; Zeugenidentifikation; Dokumentation der Wahrnehmungen; Aufbewahrungsfristen; Datenschutzbeschränkungen bei Mitarbeiterüberwachung; Telekommunikationsgeheimnis. Output: Beweissicherungs-Protokoll mit Checkliste und Übergabeformular. Abgrenzung: keine eigene Forensik; keine Strafanzeige.
+**Fokus:** Strukturiert die Beweissicherung nach einem Datenschutzvorfall so, dass die Beweismittel in einem späteren Bußgeldverfahren, Strafverfahren oder Zivilprozess verwertbar bleiben. Behandelt: Chain of Custody; Logging-Sicherung; Speicherabbilder; Hashes; Zeugenidentifikation; Dokumentation der Wahrnehmungen; Aufbewahrungsfristen; Datenschutzbeschränkungen bei Mitarbeiterüberwachung; Telekommunikationsgeheimnis. Output: Beweissicherungs-Protokoll mit Checkliste und Übergabeformular. Abgrenzung: keine eigene Forensik; keine Strafanzeige.
 
 # Beweissicherung nach Datenschutzvorfall — Chain of Custody
 

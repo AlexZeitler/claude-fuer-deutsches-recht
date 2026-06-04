@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-dsv-meldung-lfdi-bw-bis-dsv-meldung-saechsds
-description: "fachanwalt-it-recht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (dsv-meldung-lfdi-bw, dsv-meldung-lfdi-mv, dsv-meldung-lfdi-rlp, dsv-meldung-lfdi-saarland, dsv-meldung-saechsdsb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-it-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dsv Meldung Lfdi Bw, Dsv Meldung Lfdi Mv, Dsv Meldung Lfdi Rlp, Dsv Meldung Lfdi Saarland und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-it-recht
+# Arbeitsbereich - Dsv Meldung Lfdi Bw bis Dsv Meldung Saechsdsb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dsv-meldung-lfdi-bw` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
 | `dsv-meldung-lfdi-mv` | Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dsv-meldung-lfdi-bw`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Baden-Württemberg (LfDI BW) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Baden-Württemberg und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Baden-Württemberg; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfDI BW
 
@@ -135,7 +135,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 2. `dsv-meldung-lfdi-mv`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für Datenschutz und Informationsfreiheit Mecklenburg-Vorpommern (LfDI MV) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Mecklenburg-Vorpommern und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus DSG M-V Datenschutzgesetz Mecklenburg-Vorpommern; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfDI MV
 
@@ -240,7 +240,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 3. `dsv-meldung-lfdi-rlp`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland-Pfalz und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Rheinland-Pfalz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Landesbeauftragter für den Datenschutz und die Informationsfreiheit Rheinland-Pfalz (LfDI RLP) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Rheinland-Pfalz und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus LDSG Rheinland-Pfalz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die LfDI RLP
 
@@ -345,7 +345,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 4. `dsv-meldung-lfdi-saarland`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Saarland und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SDSG Saarländisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Unabhängiges Datenschutzzentrum Saarland — Landesbeauftragte für Datenschutz und Informationsfreiheit (UDS) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Saarland und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SDSG Saarländisches Datenschutzgesetz; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die UDS
 
@@ -450,7 +450,7 @@ Diese sechs Bloecke werden in jeder Behoerden-spezifischen Meldung adressiert; d
 
 ## 5. `dsv-meldung-saechsdsb`
 
-**Frühere Beschreibung:** Reicht eine Meldung nach Art. 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SächsDSDG / SächsDSUG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
+**Fokus:** Reicht eine Meldung nach Art. 33 DSGVO bei der Sächsische Datenschutz- und Transparenzbeauftragte (SaechsDSB) ein. Behandelt: Zuständigkeit für Verantwortliche mit Hauptniederlassung in Sachsen und für nicht-öffentliche Stellen; Online-Formular und Postweg; Pflichtangaben in der Reihenfolge der Berliner Goldstandard-Struktur I bis VI; Sonderregelungen aus SächsDSDG / SächsDSUG; Eingangsbestätigung; Aktenzeichen; Nachmeldung. Output: einreichungsfertige Meldung als Fließtext mit Erläuterung der Eingabewege. Abgrenzung: keine Risikobewertung; keine Benachrichtigung Art. 34 DSGVO.
 
 # Meldung Art. 33 DSGVO an die SaechsDSB
 

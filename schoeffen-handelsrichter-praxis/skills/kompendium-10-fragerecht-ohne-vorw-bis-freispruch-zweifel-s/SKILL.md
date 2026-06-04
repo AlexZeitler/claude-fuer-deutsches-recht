@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-fragerecht-ohne-vorw-bis-freispruch-zweifel-s
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (fragerecht-ohne-vorwegnahme, freispruch-zweifel-orientierung, freispruch-zweifel-sitzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fragerecht Ohne Vorwegnahme, Freispruch Zweifel Orientierung, Freispruch Zweifel Sitzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Fragerecht Ohne Vorwegnahme, Freispruch Zweifel Orientierung, Freispruch Zweifel Sitzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fragerecht-ohne-vorwegnahme` | Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung. |
 | `freispruch-zweifel-orientierung` | Freispruch bei Zweifel (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fragerecht-ohne-vorwegnahme`
 
-**Frühere Beschreibung:** Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Fragerecht ohne Vorwegnahme: erklärt Fragen sachlich, offen und ohne Wertung stellen für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Fragerecht ohne Vorwegnahme
 
@@ -78,7 +78,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `freispruch-zweifel-orientierung`
 
-**Frühere Beschreibung:** Freispruch bei Zweifel (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Freispruch bei Zweifel (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Freispruch bei Zweifel: Orientierung
 
@@ -132,7 +132,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `freispruch-zweifel-sitzung`
 
-**Frühere Beschreibung:** Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Freispruch bei Zweifel (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei in dubio pro reo, Beweiswürdigung, Aussage gegen Aussage und innere Überzeugung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Freispruch bei Zweifel: Sitzungspraxis
 

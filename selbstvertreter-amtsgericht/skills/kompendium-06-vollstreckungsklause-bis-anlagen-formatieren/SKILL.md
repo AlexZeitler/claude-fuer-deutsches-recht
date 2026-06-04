@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-vollstreckungsklause-bis-anlagen-formatieren
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (vollstreckungsklausel-724-zpo, einreichung-papierform-mit-abschriften, anlagen-formatieren-k1-k2-pdf-amtsgericht) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Vollstreckungsklausel 724 Zpo, Einreichung Papierform Mit Abschriften, Anlagen Formatieren K1 K2 Pdf Amtsgericht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vollstreckungsklausel-724-zpo` | Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun. |
 | `einreichung-papierform-mit-abschriften` | Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vollstreckungsklausel-724-zpo`
 
-**Frühere Beschreibung:** Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun.
+**Fokus:** Vollstreckungsklausel nach § 724 ZPO. Antrag bei der Geschäftsstelle Voraussetzungen vollstreckbarer Titel Klausel-Erteilung qualifizierte Klausel. Wie Sie als Gläubiger die Klausel beantragen und was Sie damit dann tun.
 
 # Vollstreckungsklausel: Damit das Urteil vollstreckbar wird
 
@@ -160,7 +160,7 @@ Stand: 05/2026. §§ 724 ff. ZPO unveraendert.
 
 ## 2. `einreichung-papierform-mit-abschriften`
 
-**Frühere Beschreibung:** Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung.
+**Fokus:** Einreichung der Klage in Papierform. Anzahl der Abschriften Versand per Post Einschreiben oder persoenliche Abgabe an der Geschäftsstelle. Eingangsstempel Sendebeleg Beweis für rechtzeitige Einreichung. Vorteile und Nachteile gegenüber elektronischer Einreichung.
 
 # Klage in Papierform einreichen
 
@@ -282,7 +282,7 @@ Stand: 05/2026. §§ 130, 133, 167 ZPO unveraendert.
 
 ## 3. `anlagen-formatieren-k1-k2-pdf-amtsgericht`
 
-**Frühere Beschreibung:** Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht.
+**Fokus:** Anlagen K1 K2 K3 richtig formatieren für Klage Klageerwiderung Replik. Schriftart Times New Roman oder Arial 12pt. Position der Anlagen-Beschriftung oben rechts. Seitenzahlen. Stempel-Vorlage. PDF-Tipps für Buerger ohne Anwalt am Amtsgericht.
 
 # Anlagen formatieren — K1, K2 oben rechts, Schrift 12pt
 

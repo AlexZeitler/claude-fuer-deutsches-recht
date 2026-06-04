@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-bwbes-neu-006-dienst-bis-bwbes-neu-008-heilfu
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst, bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed, bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bwbes Neu 006 Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Neu 007 Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Neu 008 Heilfuersorge Truppenaerztliche Versorgung Und Pkv; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Bwbes Neu 006 Dienstzeitversorgung Berufsfoerderungsdienst, Bwbes Neu 007 Soldatenversorgung Dienstunfall Wehrdienstbeschaed, Bwbes Neu 008 H
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst` | Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien. |
 | `bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed` | Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leistungsarten und Verfahren. Norm-/Quellenanker: SVG §§ 27–38, SGB XIV. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bwbes-neu-006-dienstzeitversorgung-berufsfoerderungsdienst`
 
-**Frühere Beschreibung:** Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien.
+**Fokus:** Dienstzeitversorgung und BFD: prüft SVG §§ 1–26, Übergangsgebührnisse, Übergangsbeihilfe, BFD-Ansprüche und Rentenrecht. Norm-/Quellenanker: SVG, BFD-Richtlinien.
 
 # Dienstzeitversorgung und Berufsförderungsdienst
 
@@ -139,7 +139,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `bwbes-neu-007-soldatenversorgung-dienstunfall-wehrdienstbeschaed`
 
-**Frühere Beschreibung:** Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leistungsarten und Verfahren. Norm-/Quellenanker: SVG §§ 27–38, SGB XIV.
+**Fokus:** Dienstunfall und WDB: prüft § 27 SVG, Kausalitätsmaßstab, Leistungsarten und Verfahren. Norm-/Quellenanker: SVG §§ 27–38, SGB XIV.
 
 # Soldatenversorgung: Dienstunfall und Wehrdienstbeschädigung
 
@@ -251,7 +251,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `bwbes-neu-008-heilfuersorge-truppenaerztliche-versorgung-und-pkv`
 
-**Frühere Beschreibung:** Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV.
+**Fokus:** Heilfürsorge, truppenärztliche Versorgung, PKV: prüft § 70 BBesG, Leistungsumfang, PKV-Übergang und SVG-Heilbehandlung. Norm-/Quellenanker: BBesG § 70, SVG §§ 69–74, BBhV.
 
 # Heilfürsorge, truppenärztliche Versorgung und PKV
 

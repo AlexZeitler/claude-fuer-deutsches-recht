@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-vermoegensverfall-zu-bis-werbung-robe-kanzlei
-description: "berufsgerichtliche-verfahren-freie-berufe: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (vermoegensverfall-zulassungswiderruf-verteidigung, verschwiegenheit-cloud-dienstleister-praevention, verschwiegenheit-cloud-dienstleister-verteidigung, werbung-robe-kanzleimarketing-praevention) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsgerichtliche-verfahren-freie-berufe: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vermoegensverfall Zulassungswiderruf Verteidigung, Verschwiegenheit Cloud Dienstleister Praevention, Verschwiegenheit Cloud Dienstleister Verteidigung, Werbung Robe Kanzleimarketing Praevention; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - berufsgerichtliche-verfahren-freie-berufe
+# Arbeitsbereich - Vermoegensverfall Zulassungswiderruf Verteidigung bis Werbung Robe Kanzleimarketing Praevention
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vermoegensverfall-zulassungswiderruf-verteidigung` | Vermögensverfall und Zulassungswiderruf (Verteidigungs- und Kammerantwort): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
 | `verschwiegenheit-cloud-dienstleister-praevention` | Verschwiegenheit und Cloud-Dienstleister (Präventions- und Organisationspaket): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vermoegensverfall-zulassungswiderruf-verteidigung`
 
-**Frühere Beschreibung:** Vermögensverfall und Zulassungswiderruf (Verteidigungs- und Kammerantwort): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Vermögensverfall und Zulassungswiderruf (Verteidigungs- und Kammerantwort): steuert Widerruf der Zulassung wegen Vermögensverfall, Gläubigerschutz, Sofortvollzug und Sanierungsnachweis mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Vermögensverfall und Zulassungswiderruf: Verteidigungs- und Kammerantwort
 
@@ -83,7 +83,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `verschwiegenheit-cloud-dienstleister-praevention`
 
-**Frühere Beschreibung:** Verschwiegenheit und Cloud-Dienstleister (Präventions- und Organisationspaket): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Verschwiegenheit und Cloud-Dienstleister (Präventions- und Organisationspaket): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Verschwiegenheit und Cloud-Dienstleister: Präventions- und Organisationspaket
 
@@ -137,7 +137,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `verschwiegenheit-cloud-dienstleister-verteidigung`
 
-**Frühere Beschreibung:** Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Verschwiegenheit und Cloud-Dienstleister (Verteidigungs- und Kammerantwort): steuert Mandatsgeheimnis, Cloud, Legal Tech, KI-Tools, Auftragsverarbeitung und Berufsgeheimnisträgerprivileg mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Verschwiegenheit und Cloud-Dienstleister: Verteidigungs- und Kammerantwort
 
@@ -191,7 +191,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 4. `werbung-robe-kanzleimarketing-praevention`
 
-**Frühere Beschreibung:** Werbung, Robe und Kanzleimarketing (Präventions- und Organisationspaket): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
+**Fokus:** Werbung, Robe und Kanzleimarketing (Präventions- und Organisationspaket): steuert Berufswerbung, Robenaufdruck, Spezialisierungswerbung, Bewertungen und Irreführung mit berufsrechtlicher Quellenprüfung, Verhältnismäßigkeit, Aktenlog und verwertbarem Arbeitsprodukt.
 
 # Werbung, Robe und Kanzleimarketing: Präventions- und Organisationspaket
 

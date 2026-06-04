@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-allgemein-bis-workflow-redteam-qua
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (allgemein, workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, workflow-mandantenkommunikation, workflow-redteam-qualitygate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Allgemein, Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Allgemein bis Redteam Qualitygate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `allgemein` | Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage. |
 | `workflow-chronologie-und-belegmatrix` | Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `allgemein`
 
-**Frühere Beschreibung:** Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
+**Fokus:** Einstieg, Schnelltriage und Workflow-Routing im Methodenlehre Buergerliches Recht-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -229,7 +229,7 @@ Hinweis: Dieser Skill stärkt die anwaltliche Arbeit, indem er Workflow, Intake 
 
 ## 2. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs.
+**Fokus:** Dieses Skill erstellt eine vollständige Sachverhaltschronologie und eine tatbestandsbezogene Belegmatrix für ein zivilrechtliches Mandat. Es zeigt, wie zeitliche Abläufe für Verjährungs- und Fristprüfungen aufbereitet werden, wie Belege tabellarisch den Tatbestandsmerkmalen zugeordnet werden und wie Chronologie und Belegmatrix zusammen die Grundlage für Gutachten, Schriftsatz und Mandatskommunikation bilden. Das Skill sichert lückenlose Nachvollziehbarkeit des gesamten Sachverhaltsverlaufs.
 
 # Chronologie und Belegmatrix: Workflow für strukturierte Sachverhaltserfassung
 
@@ -321,7 +321,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Dieses Skill verbindet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate. Es zeigt, wie alle mandatsrelevanten Fristen in einem einheitlichen System erfasst werden, wie kritische Fristen durch ein Ampelsystem (grün, gelb, rot) nach Dringlichkeit priorisiert werden und wie Anwälte sicherstellen, dass keine Frist versäumt wird. Das Skill reduziert das Haftungsrisiko und sichert die methodische Qualität der Mandatsführung durch proaktive Fristenkontrolle.
+**Fokus:** Dieses Skill verbindet die systematische Fristenüberwachung mit einer integrierten Risikoampel für zivilrechtliche Mandate. Es zeigt, wie alle mandatsrelevanten Fristen in einem einheitlichen System erfasst werden, wie kritische Fristen durch ein Ampelsystem (grün, gelb, rot) nach Dringlichkeit priorisiert werden und wie Anwälte sicherstellen, dass keine Frist versäumt wird. Das Skill reduziert das Haftungsrisiko und sichert die methodische Qualität der Mandatsführung durch proaktive Fristenkontrolle.
 
 # Fristen und Risikoampel: Integrierter Workflow
 
@@ -413,7 +413,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 4. `workflow-mandantenkommunikation`
 
-**Frühere Beschreibung:** Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe.
+**Fokus:** Dieses Skill strukturiert die anwaltliche Mandantenkommunikation im Verlauf zivilrechtlicher Mandate. Es zeigt, wie rechtliche Einschätzungen mandantengerecht übersetzt werden, welche Informationen zu welchem Zeitpunkt des Mandats mitgeteilt werden müssen und wie schriftliche und mündliche Kommunikation methodisch so aufgebaut wird, dass Mandanten informierte Entscheidungen treffen können. Besonderes Gewicht liegt auf der Aufklärungspflicht, der Dokumentation von Kommunikationsinhalten und der Haftungsreduktion durch vollständige Informationsweitergabe.
 
 # Workflow Mandantenkommunikation
 
@@ -505,7 +505,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 5. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Ergebnis dokumentiert und für die Überarbeitung genutzt wird. Das Skill sichert die methodische und inhaltliche Qualität aller juristischen Endprodukte vor ihrer Verwendung und reduziert das Risiko von Überraschungen im Verfahren.
+**Fokus:** Dieses Skill strukturiert das Red-Team-Quality-Gate als systematischen Qualitätssicherungsprozess vor der finalen Einreichung oder Übergabe juristischer Arbeitsergebnisse. Es zeigt, wie ein strukturiertes Red-Team-Review durchgeführt wird, welche Prüfpunkte das Quality Gate umfasst und wie das Ergebnis dokumentiert und für die Überarbeitung genutzt wird. Das Skill sichert die methodische und inhaltliche Qualität aller juristischen Endprodukte vor ihrer Verwendung und reduziert das Risiko von Überraschungen im Verfahren.
 
 # Red-Team Quality Gate: Systematische Qualitätssicherung vor Einreichung
 

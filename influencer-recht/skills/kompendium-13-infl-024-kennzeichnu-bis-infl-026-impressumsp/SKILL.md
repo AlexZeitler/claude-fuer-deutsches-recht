@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-infl-024-kennzeichnu-bis-infl-026-impressumsp
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (infl-024-kennzeichnung-bei-eigenmarke, infl-025-live-shopping-preisangaben-widerruf-impressum, infl-026-impressumspflicht-und-ladungsfaehige-anschrift) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige Anschrift; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - influencer-recht
+# Arbeitsbereich - Infl 024 Kennzeichnung Bei Eigenmarke, Infl 025 Live Shopping Preisangaben Widerruf Impressum, Infl 026 Impressumspflicht Und Ladungsfaehige
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-024-kennzeichnung-bei-eigenmarke` | Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte. |
 | `infl-025-live-shopping-preisangaben-widerruf-impressum` | Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-024-kennzeichnung-bei-eigenmarke`
 
-**Frühere Beschreibung:** Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte.
+**Fokus:** Influencer-Recht: Werbekennzeichnung bei Eigenmarken – BGH Diana zur Löwen, Abgrenzung, Kennzeichnungspflicht beim Bewerben eigener Produkte.
 
 # Influencer-Recht: Kennzeichnung bei Eigenmarke
 
@@ -92,7 +92,7 @@ Die Frage, ob Creator eigene Produkte kennzeichnen müssen, wurde durch den BGH 
 
 ## 2. `infl-025-live-shopping-preisangaben-widerruf-impressum`
 
-**Frühere Beschreibung:** Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen.
+**Fokus:** Influencer-Recht: Live Shopping – Preisangabenpflicht, Widerrufsrecht, Impressumspflicht und fernabsatzrechtliche Anforderungen.
 
 # Influencer-Recht: Live Shopping – Preisangaben, Widerruf, Impressum
 
@@ -163,7 +163,7 @@ Live Shopping (Instagram Live, TikTok Shop, YouTube Shopping) löst Fernabsatzre
 
 ## 3. `infl-026-impressumspflicht-und-ladungsfaehige-anschrift`
 
-**Frühere Beschreibung:** Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz.
+**Fokus:** Influencer-Recht: Impressumspflicht für Creator – § 5 TMG, § 18 MStV, ladungsfähige Anschrift, Pflichtangaben und Datenschutz.
 
 # Influencer-Recht: Impressumspflicht und ladungsfähige Anschrift
 

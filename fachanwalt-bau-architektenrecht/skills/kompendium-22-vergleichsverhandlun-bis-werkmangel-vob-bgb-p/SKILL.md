@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-vergleichsverhandlun-bis-werkmangel-vob-bgb-p
-description: "fachanwalt-bau-architektenrecht: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (vergleichsverhandlung-strategie, werkmangel-vob-bgb-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-bau-architektenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - fachanwalt-bau-architektenrecht
+# Arbeitsbereich - Vergleichsverhandlung Strategie, Werkmangel Vob Bgb Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vergleichsverhandlung-strategie` | Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten. |
 | `werkmangel-vob-bgb-pruefen` | Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vergleichsverhandlung-strategie`
 
-**Frühere Beschreibung:** Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten.
+**Fokus:** Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten.
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht
 
@@ -240,7 +240,7 @@ Frontmatter unveraendert. Keine Komma-Zahlen in description. Kein Kyrillisch.
 
 ## 2. `werkmangel-vob-bgb-pruefen`
 
-**Frühere Beschreibung:** Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag.
+**Fokus:** Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag.
 
 # Werkmangel — VOB/B oder BGB?
 

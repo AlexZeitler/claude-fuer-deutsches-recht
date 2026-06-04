@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-lernstrategien-bis-methodenlehre-grundl
-description: "jurastudium: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (lernstrategien, loesungsschemata, methodenlehre-grundlagen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "jurastudium: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - jurastudium
+# Arbeitsbereich - Lernstrategien, Loesungsschemata, Methodenlehre Grundlagen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `lernstrategien` | Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung. |
 | `loesungsschemata` | Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer "Schema BGB", "Schema StGB", "Anspruchsprüfung Aufbau", "Verbrechensaufbau", "Grundrechtsschema" oder "brauche ich Schemata" sagt. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `lernstrategien`
 
-**Frühere Beschreibung:** Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung.
+**Fokus:** Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung.
 
 # Lernstrategien für Jura
 
@@ -153,7 +153,7 @@ Diese Skill ist kein Selbsthilfetraktat. Sie nennt Strategien, ordnet sie nach E
 
 ## 2. `loesungsschemata`
 
-**Frühere Beschreibung:** Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer "Schema BGB", "Schema StGB", "Anspruchsprüfung Aufbau", "Verbrechensaufbau", "Grundrechtsschema" oder "brauche ich Schemata" sagt.
+**Fokus:** Stellt klassische Lösungsschemata für die deutsche Juristenklausur bereit — Anspruchsprüfung, Verbrechensaufbau, Grundrechtsprüfung, Verhältnismäßigkeit, Klageart-Bestimmung, EBV, Bereicherung, GoA, c.i.c., culpa-Strukturen. Mit ehrlichem Disclaimer: Schemata sind dogmatisch nicht zwingend, können aber das Verständnis tragen. Lädt, wenn der Nutzer "Schema BGB", "Schema StGB", "Anspruchsprüfung Aufbau", "Verbrechensaufbau", "Grundrechtsschema" oder "brauche ich Schemata" sagt.
 
 # Lösungsschemata
 
@@ -331,7 +331,7 @@ Schemata sind wie Stützräder am Fahrrad. Solange sie tragen, lassen sie sich n
 
 ## 3. `methodenlehre-grundlagen`
 
-**Frühere Beschreibung:** Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben", "auslegen", "Analogie prüfen", "teleologische Reduktion", "verfassungskonform auslegen" oder "warum brauche ich Methodenlehre" sagt.
+**Fokus:** Übt die juristische Methodenlehre für Studierende — Auslegung nach Wortlaut/Systematik/Historie/Telos, Analogie, teleologische Reduktion, Auslegung gegen den Wortlaut, verfassungskonforme und unionsrechtskonforme Auslegung, Argumentationslast. Lädt, wenn der Nutzer "Methodenlehre üben", "auslegen", "Analogie prüfen", "teleologische Reduktion", "verfassungskonform auslegen" oder "warum brauche ich Methodenlehre" sagt.
 
 # Methodenlehre — Grundlagen
 

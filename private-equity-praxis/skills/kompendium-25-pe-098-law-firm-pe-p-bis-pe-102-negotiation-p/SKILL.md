@@ -1,17 +1,17 @@
 ---
 name: kompendium-25-pe-098-law-firm-pe-p-bis-pe-102-negotiation-p
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 25; bündelt 4 frühere Spezialskills (pe-098-law-firm-pe-project-control, pe-100-pe-document-generator-pack, pe-101-translation-de-en-pe-terms, pe-102-negotiation-playbook-pe) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 098 Law Firm Pe Project Control, Pe 100 Pe Document Generator Pack, Pe 101 Translation De En Pe Terms, Pe 102 Negotiation Playbook Pe; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 25 - private-equity-praxis
+# Arbeitsbereich - Pe 098 Law Firm Pe Project Control bis Pe 102 Negotiation Playbook Pe
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-098-law-firm-pe-project-control` | Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe. |
 | `pe-100-pe-document-generator-pack` | Erzeugt aus geprüftem Sachverhalt konkrete Arbeitsdokumente: Memo, Issues List, Q&A, Notice, CP-Tracker, Board Paper. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-098-law-firm-pe-project-control`
 
-**Frühere Beschreibung:** Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe.
+**Fokus:** Plant Staffing, Budget, Workstreams, Review-Gates, Datenraum, Call Notes, Issues List und Partnerfreigabe.
 
 # Kanzlei-Projektsteuerung für PE-Mandate
 
@@ -70,7 +70,7 @@ BRAO, Mandatsvereinbarung, Budget, Know-how-Schutz, Quellenhygiene.
 
 ## 2. `pe-100-pe-document-generator-pack`
 
-**Frühere Beschreibung:** Erzeugt aus geprüftem Sachverhalt konkrete Arbeitsdokumente: Memo, Issues List, Q&A, Notice, CP-Tracker, Board Paper.
+**Fokus:** Erzeugt aus geprüftem Sachverhalt konkrete Arbeitsdokumente: Memo, Issues List, Q&A, Notice, CP-Tracker, Board Paper.
 
 # PE Document Generator Pack
 
@@ -111,7 +111,7 @@ Dokumentenlogik aus SPA/Fondsvertrag/Kreditvertrag; keine Musterklauseln ohne Up
 
 ## 3. `pe-101-translation-de-en-pe-terms`
 
-**Frühere Beschreibung:** Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache.
+**Fokus:** Übersetzt PE-/Credit-Begriffe zwischen deutscher Rechtslogik und englischer Dealsprache.
 
 # DE/EN PE-Terms: präzise übersetzen
 
@@ -152,7 +152,7 @@ Fokus auf Begriffe wie Security Interest, Assignment, Novation, Leakage, Covenan
 
 ## 4. `pe-102-negotiation-playbook-pe`
 
-**Frühere Beschreibung:** Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs.
+**Fokus:** Erstellt Verhandlungspositionen, Fallbacks, Red Lines und Commercial-Risk-Trade-offs.
 
 # Negotiation Playbook PE
 

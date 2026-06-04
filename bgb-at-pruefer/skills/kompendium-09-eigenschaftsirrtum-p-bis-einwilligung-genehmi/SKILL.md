@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-eigenschaftsirrtum-p-bis-einwilligung-genehmi
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (eigenschaftsirrtum-paragraph-119-2, einseitige-geschaefte-minderjaehrige-paragraph-111, einwilligung-genehmigung-paragraphen-107-bis-109) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bgb-at-pruefer
+# Arbeitsbereich - Eigenschaftsirrtum Paragraph 119 2, Einseitige Geschaefte Minderjaehrige Paragraph 111, Einwilligung Genehmigung Paragraphen 107 Bis 109
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eigenschaftsirrtum-paragraph-119-2` | Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen. |
 | `einseitige-geschaefte-minderjaehrige-paragraph-111` | Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eigenschaftsirrtum-paragraph-119-2`
 
-**Frühere Beschreibung:** Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen.
+**Fokus:** Klausurfall zum Eigenschaftsirrtum nach § 119 Abs. 2 BGB: Begriff der verkehrswesentlichen Eigenschaft einer Person oder Sache, Abgrenzung zum Motivirrtum, Wertirrtum und Eigenschaftsirrtum bei Kunstwerken und Vertragspersonen.
 
 # Eigenschaftsirrtum — § 119 Abs. 2 BGB
 
@@ -111,7 +111,7 @@ grundsätzlich Motivirrtum. Die Grenze ist fließend und BGH-Rechtsprechung prä
 
 ## 2. `einseitige-geschaefte-minderjaehrige-paragraph-111`
 
-**Frühere Beschreibung:** Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag.
+**Fokus:** Klausurfall zu einseitigen Rechtsgeschäften Minderjähriger nach § 111 BGB: Kündigung, Anfechtung oder Rücktritt durch oder gegenüber Minderjährigem, sofortige Verwerfung ohne Einwilligung, Unterschied zum zweiseitigen Vertrag.
 
 # Einseitige Rechtsgeschäfte und Minderjährige — § 111 BGB
 
@@ -199,7 +199,7 @@ Rechtsgeschäfte. Alle unterliegen bei Minderjährigen dem Einwilligungserforder
 
 ## 3. `einwilligung-genehmigung-paragraphen-107-bis-109`
 
-**Frühere Beschreibung:** Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc.
+**Fokus:** Klausurfall zu Einwilligung und Genehmigung bei beschränkt Geschäftsfähigen nach §§ 107 bis 109 BGB: schwebende Unwirksamkeit, Genehmigungsfiktion nach § 108 Abs. 2 BGB, Widerrufsrecht des Vertragspartners und Wirkung der Genehmigung ex tunc.
 
 # Einwilligung und Genehmigung — §§ 107 bis 109 BGB
 

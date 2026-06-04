@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-ifg-067-vig-lebensmi-bis-ifg-071-vig-lebensmi
-description: "informationsfreiheit-presseauskunft: Konsolidiertes Skill-Kompendium 19; bündelt 4 frühere Spezialskills (ifg-067-vig-lebensmittel-und-produkte-antrag-f, ifg-068-vig-lebensmittel-und-produkte-zustaend, ifg-070-vig-lebensmittel-und-produkte-kosten-d, ifg-071-vig-lebensmittel-und-produkte-schwaerz) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "informationsfreiheit-presseauskunft: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ifg 067 Vig Lebensmittel Und Produkte Antrag F, Ifg 068 Vig Lebensmittel Und Produkte Zustaend, Ifg 070 Vig Lebensmittel Und Produkte Kosten D, Ifg 071 Vig Lebensmittel Und Produkte Schwaerz; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - informationsfreiheit-presseauskunft
+# Arbeitsbereich - Ifg 067 Vig Lebensmittel Und Produkte Antrag F bis Ifg 071 Vig Lebensmittel Und Produkte Schwaerz
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ifg-067-vig-lebensmittel-und-produkte-antrag-f` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Antrag formulieren. Antrag formulieren für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `ifg-068-vig-lebensmittel-und-produkte-zustaend` | Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Zuständigkeit prüfen. Zuständigkeit prüfen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ifg-067-vig-lebensmittel-und-produkte-antrag-f`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Antrag formulieren. Antrag formulieren für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Antrag formulieren. Antrag formulieren für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vig Lebensmittel Und Produkte Antrag F
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `ifg-068-vig-lebensmittel-und-produkte-zustaend`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Zuständigkeit prüfen. Zuständigkeit prüfen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Zuständigkeit prüfen. Zuständigkeit prüfen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vig Lebensmittel Und Produkte Zustaend
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `ifg-070-vig-lebensmittel-und-produkte-kosten-d`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Kosten deckeln. Kosten deckeln für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Kosten deckeln. Kosten deckeln für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vig Lebensmittel Und Produkte Kosten D
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `ifg-071-vig-lebensmittel-und-produkte-schwaerz`
 
-**Frühere Beschreibung:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Schwärzung angreifen. Schwärzung angreifen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Informationsfreiheit und Presseauskunft: VIG Lebensmittel und Produkte: Schwärzung angreifen. Schwärzung angreifen für VIG Lebensmittel und Produkte im Rahmen von Informationsfreiheit und Presseauskunft; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Vig Lebensmittel Und Produkte Schwaerz
 

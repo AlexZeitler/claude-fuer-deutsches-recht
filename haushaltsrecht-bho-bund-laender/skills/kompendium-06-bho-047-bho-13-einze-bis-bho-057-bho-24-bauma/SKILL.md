@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-bho-047-bho-13-einze-bis-bho-057-bho-24-bauma
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 06; bündelt 11 frühere Spezialskills (bho-047-bho-13-einzelplan-praktisch-anwenden, bho-048-bho-14-funktionenplan-praktisch-anwend, bho-049-bho-15-bruttoveranschlagung-praktisch, bho-050-bho-16-verpflichtungsermaechtigung-pra, bho-051-bho-17-einzelveranschlagung-praktisch und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 047 Bho 13 Einzelplan Praktisch Anwenden, Bho 048 Bho 14 Funktionenplan Praktisch Anwend, Bho 049 Bho 15 Bruttoveranschlagung Praktisch, Bho 050 Bho 16 Verpflichtungsermaechtigung Pra und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 047 Bho 13 Einzelplan Praktisch Anwenden bis Bho 057 Bho 24 Baumassnahmen Praktisch Anwende
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-047-bho-13-einzelplan-praktisch-anwenden` | Haushaltsrecht BHO Bund und Länder: BHO § 13 Einzelplan praktisch anwenden. BHO § 13 Einzelplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `bho-048-bho-14-funktionenplan-praktisch-anwend` | Haushaltsrecht BHO Bund und Länder: BHO § 14 Funktionenplan praktisch anwenden. BHO § 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-047-bho-13-einzelplan-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 13 Einzelplan praktisch anwenden. BHO § 13 Einzelplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 13 Einzelplan praktisch anwenden. BHO § 13 Einzelplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 13 Einzelplan Praktisch Anwenden
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-048-bho-14-funktionenplan-praktisch-anwend`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 14 Funktionenplan praktisch anwenden. BHO § 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 14 Funktionenplan praktisch anwenden. BHO § 14 Funktionenplan praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 14 Funktionenplan Praktisch Anwend
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-049-bho-15-bruttoveranschlagung-praktisch`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagung praktisch anwenden. BHO § 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 15 Bruttoveranschlagung praktisch anwenden. BHO § 15 Bruttoveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 15 Bruttoveranschlagung Praktisch
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-050-bho-16-verpflichtungsermaechtigung-pra`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 16 Verpflichtungsermächtigung praktisch anwenden. BHO § 16 Verpflichtungsermächtigung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 16 Verpflichtungsermächtigung praktisch anwenden. BHO § 16 Verpflichtungsermächtigung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 16 Verpflichtungsermaechtigung Pra
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-051-bho-17-einzelveranschlagung-praktisch`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung praktisch anwenden. BHO § 17 Einzelveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 17 Einzelveranschlagung praktisch anwenden. BHO § 17 Einzelveranschlagung praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 17 Einzelveranschlagung Praktisch
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-052-bho-19-uebertragbarkeit-praktisch-anwe`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 19 Übertragbarkeit praktisch anwenden. BHO § 19 Übertragbarkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 19 Übertragbarkeit praktisch anwenden. BHO § 19 Übertragbarkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 19 Uebertragbarkeit Praktisch Anwe
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-053-bho-20-deckungsfaehigkeit-praktisch-an`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 20 Deckungsfähigkeit praktisch anwenden. BHO § 20 Deckungsfähigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 20 Deckungsfähigkeit praktisch anwenden. BHO § 20 Deckungsfähigkeit praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 20 Deckungsfaehigkeit Praktisch An
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-054-bho-21-wegfall-sperre-praktisch-anwend`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 21 Wegfall Sperre praktisch anwenden. BHO § 21 Wegfall Sperre praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 21 Wegfall Sperre praktisch anwenden. BHO § 21 Wegfall Sperre praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 21 Wegfall Sperre Praktisch Anwend
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-055-bho-22-sperrvermerk-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 22 Sperrvermerk praktisch anwenden. BHO § 22 Sperrvermerk praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 22 Sperrvermerk praktisch anwenden. BHO § 22 Sperrvermerk praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 22 Sperrvermerk Praktisch Anwenden
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-056-bho-23-zuwendungen-praktisch-anwenden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 23 Zuwendungen praktisch anwenden. BHO § 23 Zuwendungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 23 Zuwendungen praktisch anwenden. BHO § 23 Zuwendungen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 23 Zuwendungen Praktisch Anwenden
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-057-bho-24-baumassnahmen-praktisch-anwende`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen praktisch anwenden. BHO § 24 Baumaßnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: BHO § 24 Baumaßnahmen praktisch anwenden. BHO § 24 Baumaßnahmen praktisch anwenden im Fachgebiet Haushaltsrecht BHO Bund und Länder als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Bho 24 Baumassnahmen Praktisch Anwende
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-fran-021-multi-unit-bis-fran-023-disclosure
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (fran-021-multi-unit-franchise-und-area-developer, fran-022-pilotbetrieb-und-proof-of-concept, fran-023-disclosure-document-fuer-internationale-investoren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Fuer Internationale Investoren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - franchiserecht-praxis
+# Arbeitsbereich - Fran 021 Multi Unit Franchise Und Area Developer, Fran 022 Pilotbetrieb Und Proof Of Concept, Fran 023 Disclosure Document Fuer International
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-021-multi-unit-franchise-und-area-developer` | Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB. |
 | `fran-022-pilotbetrieb-und-proof-of-concept` | Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-021-multi-unit-franchise-und-area-developer`
 
-**Frühere Beschreibung:** Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB.
+**Fokus:** Multi-Unit-Franchise und Area-Developer-Strukturen rechtlich gestalten: Entwicklungsvereinbarung, Eröffnungspflichten, Gebietsrechte, Haftung des Area Developers für Systemstandards und AGB-Kontrolle von Paketerweiterungsklauseln nach § 307 BGB.
 
 # Franchiserecht: Multi-Unit-Franchise und Area Developer
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-022-pilotbetrieb-und-proof-of-concept`
 
-**Frühere Beschreibung:** Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase.
+**Fokus:** Pilotbetrieb vor Franchisesystemstart rechtlich absichern: Nachweis der Systemtauglichkeit als Aufklärungspflicht nach § 311 Abs. 2 BGB, Datenbasis für Rentabilitätsprognosen, Vertraulichkeit und Systemschutzmassnahmen während der Pilotphase.
 
 # Franchiserecht: Pilotbetrieb und Proof of Concept
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-023-disclosure-document-fuer-internationale-investoren`
 
-**Frühere Beschreibung:** Disclosure-Dokument für internationale Franchiseinvestoren erstellen: Inhaltliche Mindestanforderungen nach DFV Code of Ethics und ausländischen Disclosure-Regeln, Übersetzungs- und Haftungsfragen, Abgrenzung zu Wertpapierprospekt und Investmentrecht.
+**Fokus:** Disclosure-Dokument für internationale Franchiseinvestoren erstellen: Inhaltliche Mindestanforderungen nach DFV Code of Ethics und ausländischen Disclosure-Regeln, Übersetzungs- und Haftungsfragen, Abgrenzung zu Wertpapierprospekt und Investmentrecht.
 
 # Franchiserecht: Disclosure-Dokument für internationale Investoren
 

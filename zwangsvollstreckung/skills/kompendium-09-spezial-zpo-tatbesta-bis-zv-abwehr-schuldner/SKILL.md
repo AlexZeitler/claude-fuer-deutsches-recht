@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-spezial-zpo-tatbesta-bis-zv-abwehr-schuldner
-description: "zwangsvollstreckung: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (spezial-zpo-tatbestand-beweis-und-belege, spezial-zwangsvollstreckung-erstpruefung-und-mandatsziel, zv-abwehr-schuldner) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "zwangsvollstreckung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - zwangsvollstreckung
+# Arbeitsbereich - Zpo Tatbestand Beweis Und Belege, Zwangsvollstreckung Erstpruefung Und Mandatsziel, Zv Abwehr Schuldner
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-zpo-tatbestand-beweis-und-belege` | ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
 | `spezial-zwangsvollstreckung-erstpruefung-und-mandatsziel` | Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-zpo-tatbestand-beweis-und-belege`
 
-**Frühere Beschreibung:** ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # ZPO: Tatbestandsmerkmale, Beweisfragen und Beleglage
 
@@ -69,7 +69,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `spezial-zwangsvollstreckung-erstpruefung-und-mandatsziel`
 
-**Frühere Beschreibung:** Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel im Plugin zwangsvollstreckung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Zwangsvollstreckung: Erstprüfung, Rollenklärung und Mandatsziel
 
@@ -110,7 +110,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `zv-abwehr-schuldner`
 
-**Frühere Beschreibung:** Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung).
+**Fokus:** Schuldner will sich gegen laufende Zwangsvollstreckung wehren oder hat unrechtmäßigen Pfaendungs-Beschluss erhalten. §§ 766 767 768 771 765a 850k 769 ZPO Schuldnerrechte. Prüfraster: Erinnerung § 766 formale Maengel Vollstreckungsabwehrklage § 767 materielle Einwendungen Klauselgegenklage § 768 Drittwiderspruchsklage § 771 Vollstreckungsschutz § 765a P-Konto-Freigabe § 850k Einstellung § 769. Output: Abwehrstrategie-Memo und passender Schriftsatz-Entwurf. Abgrenzung zu zv-vollstreckungsschutz-haertefall-765a (Haertefall-Schutz) und zv-pfaendungstabelle-2025 (Pfaendungsberechnung).
 
 # Schuldnerabwehr in der Zwangsvollstreckung
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-corporate-kanzlei-co-bis-corporate-kanzlei-da
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (corporate-kanzlei-conflict-gwg-sanctions, corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Conflict Gwg Sanctions, Corporate Kanzlei Datenqualitaet Xai Qualitaetskontrolle
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-conflict-gwg-sanctions` | Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken. |
 | `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle` | Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-conflict-gwg-sanctions`
 
-**Frühere Beschreibung:** Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken.
+**Fokus:** Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken.
 
 # Konflikt-, GwG- und Sanktionscheck
 
@@ -269,7 +269,7 @@ Freigabe durch: [PARTNER-NAME], [DATUM]
 
 ## 2. `corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle`
 
-**Frühere Beschreibung:** Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet.
+**Fokus:** Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet.
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat
 

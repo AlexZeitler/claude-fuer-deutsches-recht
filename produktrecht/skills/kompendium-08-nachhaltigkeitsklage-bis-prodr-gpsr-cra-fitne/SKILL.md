@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-nachhaltigkeitsklage-bis-prodr-gpsr-cra-fitne
-description: "produktrecht: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (nachhaltigkeitsklage-werbeaussagen, preisangaben, prodr-gpsr-cra-fitness-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "produktrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - produktrecht
+# Arbeitsbereich - Nachhaltigkeitsklage Werbeaussagen, Preisangaben, Prodr Gpsr Cra Fitness Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nachhaltigkeitsklage-werbeaussagen` | Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen. |
 | `preisangaben` | Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nachhaltigkeitsklage-werbeaussagen`
 
-**Frühere Beschreibung:** Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen.
+**Fokus:** Nachhaltigkeits- und Greenwashing-Klagen nach UWG sowie Empowering-Consumers-Richtlinie EU 2024 825: konkrete Anforderungen an Klimaneutralitaets-Claims, Recyclingangaben, Kompensationsangaben. Substanziierungspflicht, Lebenszyklus-Daten, Drittzertifizierung. Pruefraster und Abwehrlinie gegen Verbandsklagen.
 
 # Greenwashing-Verteidigung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `produktrecht`. Er ergaenzt die uebrigen Skills 
 
 ## 2. `preisangaben`
 
-**Frühere Beschreibung:** Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe.
+**Fokus:** Prüft die Einhaltung der Preisangabenverordnung 2022 (PAngV) bei Gesamtpreisen, Grundpreisen, Streichpreisen und Versandkosten, insbesondere die 30-Tage-Niedrigstpreisregel bei Preisreduzierungen. Lädt bei Fragen zu Preisauszeichnung, Rabattaktionen, Sale-Kennzeichnung und Grundpreisangabe.
 
 # Preisangaben (PAngV 2022)
 
@@ -212,7 +212,7 @@ Halluzinations-Reparatur task_198 (3 Probleme):
 
 ## 3. `prodr-gpsr-cra-fitness-spezial`
 
-**Frühere Beschreibung:** Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster fuer Hersteller IoT und Software.
+**Fokus:** Spezialfall GPSR und CRA Fitness-Check digitale Produkte: Sicherheitsanforderungen, Konformitaetsbewertung, Marktueberwachung. Pruefraster fuer Hersteller IoT und Software.
 
 # ProdR: GPSR CRA
 

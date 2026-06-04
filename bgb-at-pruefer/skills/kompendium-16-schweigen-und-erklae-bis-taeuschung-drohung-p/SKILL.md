@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-schweigen-und-erklae-bis-taeuschung-drohung-p
-description: "bgb-at-pruefer: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (schweigen-und-erklaerungswert, stellvertretung-routing-paragraphen-164-181, taeuschung-drohung-paragraph-123) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-at-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - bgb-at-pruefer
+# Arbeitsbereich - Schweigen Und Erklaerungswert, Stellvertretung Routing Paragraphen 164 181, Taeuschung Drohung Paragraph 123
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schweigen-und-erklaerungswert` | Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster. |
 | `stellvertretung-routing-paragraphen-164-181` | Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilskills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schweigen-und-erklaerungswert`
 
-**Frühere Beschreibung:** Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster.
+**Fokus:** Prüft den Erklärungswert des Schweigens im BGB: Schweigen als Ausnahme von der Regel keine Willenserklärung, kaufmännisches Bestätigungsschreiben, vertraglich vereinbarter Erklärungswert, § 362 HGB und Sonderfälle im Verbraucherrecht. Klausurfall mit Subsumtionsraster.
 
 # Schweigen und Erklärungswert
 
@@ -113,7 +113,7 @@ Im Verbraucherbereich sind solche Klauseln regelmäßig unwirksam (§ 308 Nr. 5 
 
 ## 2. `stellvertretung-routing-paragraphen-164-181`
 
-**Frühere Beschreibung:** Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilskills.
+**Fokus:** Routing-Skill zur Stellvertretung nach §§ 164 bis 181 BGB: Vollmachtserteilung und -erlöschen, Offenkundigkeit des Handelns im fremden Namen, Duldungs- und Anscheinsvollmacht, Vertreter ohne Vertretungsmacht §§ 177 bis 179 BGB und Insichgeschäft § 181 BGB. Output: Prüfpfad und Verweis auf Teilskills.
 
 # Stellvertretung — Routing §§ 164 bis 181 BGB
 
@@ -198,7 +198,7 @@ duldungs-anscheinsvollmacht für Rechtsschein, insichgeschaeft-paragraph-181 fü
 
 ## 3. `taeuschung-drohung-paragraph-123`
 
-**Frühere Beschreibung:** Klausurfall zur Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung nach § 123 BGB: Täuschungshandlung und Kausalität, Drohung mit dem versprochenen empfindlichen Übel, Anfechtungsfrist ein Jahr nach § 124 BGB und Ausschluss bei Täuschung durch Dritte.
+**Fokus:** Klausurfall zur Anfechtung wegen arglistiger Täuschung oder widerrechtlicher Drohung nach § 123 BGB: Täuschungshandlung und Kausalität, Drohung mit dem versprochenen empfindlichen Übel, Anfechtungsfrist ein Jahr nach § 124 BGB und Ausschluss bei Täuschung durch Dritte.
 
 # Täuschung und Drohung — § 123 BGB
 

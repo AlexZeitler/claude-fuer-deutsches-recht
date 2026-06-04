@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-telekommunikation-fr-bis-telekommunikation-no
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 24; bündelt 8 frühere Spezialskills (telekommunikation-frequenzauktion, telekommunikation-frequenzzuteilung, telekommunikation-glasfaserausbau-mitnutzung, telekommunikation-inhouse-verkabelung-gebaeudenetze, telekommunikation-mehrwertdienste-preisansage und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Telekommunikation Frequenzauktion, Telekommunikation Frequenzzuteilung, Telekommunikation Glasfaserausbau Mitnutzung, Telekommunikation Inhouse Verkabelung Gebaeudenetze und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Telekommunikation Frequenzauktion bis Telekommunikation Notruf Und Standortdaten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `telekommunikation-frequenzauktion` | Telekommunikation / Frequenzauktion: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. |
 | `telekommunikation-frequenzzuteilung` | Telekommunikation / Frequenzzuteilung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `telekommunikation-frequenzauktion`
 
-**Frühere Beschreibung:** Telekommunikation / Frequenzauktion: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Frequenzauktion: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Frequenzauktion
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `telekommunikation-frequenzzuteilung`
 
-**Frühere Beschreibung:** Telekommunikation / Frequenzzuteilung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Frequenzzuteilung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Frequenzzuteilung
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `telekommunikation-glasfaserausbau-mitnutzung`
 
-**Frühere Beschreibung:** Telekommunikation / Glasfaserausbau Mitnutzung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Glasfaserausbau Mitnutzung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Glasfaserausbau Mitnutzung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `telekommunikation-inhouse-verkabelung-gebaeudenetze`
 
-**Frühere Beschreibung:** Telekommunikation / Inhouse-Verkabelung Gebäudenetze: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Inhouse-Verkabelung Gebäudenetze: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Inhouse-Verkabelung Gebäudenetze
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `telekommunikation-mehrwertdienste-preisansage`
 
-**Frühere Beschreibung:** Telekommunikation / Mehrwertdienste Preisansage: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Mehrwertdienste Preisansage: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Mehrwertdienste Preisansage
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `telekommunikation-mobilfunkversorgung-auflagen`
 
-**Frühere Beschreibung:** Telekommunikation / Mobilfunkversorgung Auflagen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Mobilfunkversorgung Auflagen: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Mobilfunkversorgung Auflagen
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `telekommunikation-netzneutralitaet-open-internet`
 
-**Frühere Beschreibung:** Telekommunikation / Netzneutralität Open Internet: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Netzneutralität Open Internet: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Netzneutralität Open Internet
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `telekommunikation-notruf-und-standortdaten`
 
-**Frühere Beschreibung:** Telekommunikation / Notruf und Standortdaten: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Notruf und Standortdaten: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Notruf und Standortdaten
 

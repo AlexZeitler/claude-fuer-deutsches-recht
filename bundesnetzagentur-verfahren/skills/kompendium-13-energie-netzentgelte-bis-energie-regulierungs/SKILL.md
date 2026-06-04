@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-energie-netzentgelte-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 13; bündelt 8 frühere Spezialskills (energie-netzentgelte-gas, energie-netzentgelte-strom, energie-offshore-netzanbindung, energie-redispatch-2-0, energie-regelenergie und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Energie Netzentgelte Gas, Energie Netzentgelte Strom, Energie Offshore Netzanbindung, Energie Redispatch 2 0 und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Energie Netzentgelte Gas bis Energie Regulierungsakte Anreizregulierung Erloesobergrenze Stel
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `energie-netzentgelte-gas` | Energie / Netzentgelte Gas: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
 | `energie-netzentgelte-strom` | Energie / Netzentgelte Strom: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `energie-netzentgelte-gas`
 
-**Frühere Beschreibung:** Energie / Netzentgelte Gas: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Netzentgelte Gas: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Netzentgelte Gas
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `energie-netzentgelte-strom`
 
-**Frühere Beschreibung:** Energie / Netzentgelte Strom: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Netzentgelte Strom: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Netzentgelte Strom
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `energie-offshore-netzanbindung`
 
-**Frühere Beschreibung:** Energie / Offshore-Netzanbindung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Offshore-Netzanbindung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Offshore-Netzanbindung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-redispatch-2-0`
 
-**Frühere Beschreibung:** Energie / Redispatch 2.0: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Redispatch 2.0: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Redispatch 2.0
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regelenergie`
 
-**Frühere Beschreibung:** Energie / Regelenergie: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
+**Fokus:** Energie / Regelenergie: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: EnWG, ARegV, StromNEV/GasNEV, MsbG, EEG, KWKG, NABEG, REMIT.
 
 # Energie: Regelenergie
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-anreizregulierung-erloesobergrenze-fris`
 
-**Frühere Beschreibung:** Anreizregulierung Erlösobergrenze: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Anreizregulierung Erlösobergrenze: Fristen- und Bescheidanalyse für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Fristen- und Bescheidanalyse
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-anreizregulierung-erloesobergrenze-rech`
 
-**Frühere Beschreibung:** Anreizregulierung Erlösobergrenze: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Anreizregulierung Erlösobergrenze: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Rechtsmittel-Check
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-anreizregulierung-erloesobergrenze-stel`
 
-**Frühere Beschreibung:** Anreizregulierung Erlösobergrenze: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Anreizregulierung Erlösobergrenze: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Anreizregulierung Erlösobergrenze — Stellungnahme-Entwurf
 

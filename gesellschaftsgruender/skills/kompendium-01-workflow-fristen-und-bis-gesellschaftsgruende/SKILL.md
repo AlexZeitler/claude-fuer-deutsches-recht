@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-workflow-fristen-und-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (workflow-fristen-und-risikoampel, spezial-gmbh-fristen-form-und-zustaendigkeit, gesellschaftsgruender-geschaeftsfuehrervertrag, gesellschaftsgruender-gesellschaftsvertrag-gmbh, gesellschaftsgruender-klauselkatalog-bilingual) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fristen Und Risikoampel, Gmbh Fristen Form Und Zustaendigkeit, Gesellschaftsgruender Geschaeftsfuehrervertrag, Gesellschaftsgruender Gesellschaftsvertrag Gmbh und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - gesellschaftsgruender
+# Arbeitsbereich - Fristen Und Risikoampel bis Gesellschaftsgruender Klauselkatalog Bilingual
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
 | `spezial-gmbh-fristen-form-und-zustaendigkeit` | GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin gesellschaftsgruender: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 # Fristen- und Risikoampel
 
@@ -74,7 +74,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `spezial-gmbh-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** GmbH: Fristen, Form, Zuständigkeit und Rechtsweg im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # GmbH: Fristen, Form, Zuständigkeit und Rechtsweg
 
@@ -154,7 +154,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `gesellschaftsgruender-geschaeftsfuehrervertrag`
 
-**Frühere Beschreibung:** Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer.
+**Fokus:** Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer.
 
 # Geschäftsführer-Anstellungsvertrag GmbH
 
@@ -300,7 +300,7 @@ Grund (§ 626 BGB) jederzeit moeglich.
 
 ## 4. `gesellschaftsgruender-gesellschaftsvertrag-gmbh`
 
-**Frühere Beschreibung:** GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll § 2 Abs. 1a GmbHG.
+**Fokus:** GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Prüfraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gründung mit Musterprotokoll § 2 Abs. 1a GmbHG.
 
 # GmbH-Gesellschaftsvertrag (Satzung)
 
@@ -452,7 +452,7 @@ Version: [Nr.], Datum: [Datum], Notariell beurkundet: [Datum]
 
 ## 5. `gesellschaftsgruender-klauselkatalog-bilingual`
 
-**Frühere Beschreibung:** Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag.
+**Fokus:** Klauselkatalog für GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln für internationale Investoren. Normen: GmbHG, BGB. Prüfraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollständiger Gesellschaftsvertrag.
 
 # Klauselkatalog bilingual DE/EN
 

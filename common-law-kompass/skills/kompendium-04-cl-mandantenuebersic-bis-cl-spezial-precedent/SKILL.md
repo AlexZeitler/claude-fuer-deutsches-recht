@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-cl-mandantenuebersic-bis-cl-spezial-precedent
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (cl-mandantenuebersicht-englisch, cl-prozesskostenrisiko-each-party-bears-own, cl-spezial-precedent-vs-statute) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - common-law-kompass
+# Arbeitsbereich - Cl Mandantenuebersicht Englisch, Cl Prozesskostenrisiko Each Party Bears Own, Cl Spezial Precedent Vs Statute
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `cl-mandantenuebersicht-englisch` | Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz Englisch / Deutsch parallel. |
 | `cl-prozesskostenrisiko-each-party-bears-own` | Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `cl-mandantenuebersicht-englisch`
 
-**Frühere Beschreibung:** Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz Englisch / Deutsch parallel.
+**Fokus:** Mandantenuebersicht englischsprachig vorbereiten: typische Mandantenfragen zu Common-Law-Unterschieden, Vertragsverhandlung mit US-/UK-Counterparties, Litigation in DE gegenueber Common-Law-Gerichtsbarkeit. Strukturierte Beratungsnotiz Englisch / Deutsch parallel.
 
 # Common Law: Mandantenuebersicht EN
 
@@ -103,7 +103,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 
 ## 2. `cl-prozesskostenrisiko-each-party-bears-own`
 
-**Frühere Beschreibung:** Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse.
+**Fokus:** Spezialfall Prozesskostenregime in USA: each party bears its own costs als Grundregel, Fee Shifting nur per Vertrag oder bei statute. Kontrast zur deutschen kostenpflichtigen Loser-pays-Regel. Pruefraster fuer Mandanten-Risikoanalyse.
 
 # Common Law: Each-party-bears-own
 
@@ -169,7 +169,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 
 ## 3. `cl-spezial-precedent-vs-statute`
 
-**Frühere Beschreibung:** Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster fuer Vergleich mit deutscher Methode und Beispiel-Faelle.
+**Fokus:** Spezialfall Precedent gegen Statute: Verhaeltnis Case Law und Gesetzgebung in England und USA, ratio decidendi gegen obiter dictum, Distinguishing, Overruling. Pruefraster fuer Vergleich mit deutscher Methode und Beispiel-Faelle.
 
 # Common Law: Precedent gegen Statute
 

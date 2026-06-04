@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-betriebspraktikum-sc-bis-datenschutz-schule
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (betriebspraktikum-schule, cloud-plattform-schule-m365, cybermobbing-schule, datenschutz-schule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betriebspraktikum Schule, Cloud Plattform Schule M365, Cybermobbing Schule, Datenschutz Schule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - schulrecht-laender
+# Arbeitsbereich - Betriebspraktikum Schule bis Datenschutz Schule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betriebspraktikum-schule` | Prüft Schülerpraktikum, Versicherung, Einsatzstelle, Datenschutz und Aufsicht. |
 | `cloud-plattform-schule-m365` | Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betriebspraktikum-schule`
 
-**Frühere Beschreibung:** Prüft Schülerpraktikum, Versicherung, Einsatzstelle, Datenschutz und Aufsicht.
+**Fokus:** Prüft Schülerpraktikum, Versicherung, Einsatzstelle, Datenschutz und Aufsicht.
 
 # Betriebspraktikum Schule
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `cloud-plattform-schule-m365`
 
-**Frühere Beschreibung:** Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation.
+**Fokus:** Prüft Lernplattformen, M365, Auftragsverarbeitung, Datenschutzfolge und Elterninformation.
 
 # Cloud-Plattform Schule und M365
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 3. `cybermobbing-schule`
 
-**Frühere Beschreibung:** Prüft Cybermobbing mit Chat, Bild, Plattform und Schule.
+**Fokus:** Prüft Cybermobbing mit Chat, Bild, Plattform und Schule.
 
 # Cybermobbing Schule
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Cybermobbing-Fahrplan. Am Ende immer drei Zeilen: **Frist**, 
 
 ## 4. `datenschutz-schule`
 
-**Frühere Beschreibung:** Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation.
+**Fokus:** Prüft Datenschutz in Schule, Lernplattform und Elternkommunikation.
 
 # Datenschutz Schule
 

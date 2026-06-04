@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-prognose-dokumentati-bis-annahmen-belastbarke
-description: "fortbestehensprognose: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (prognose-dokumentation-stichtag, stundungsanfrage-glaeubiger, annahmen-belastbarkeit-plausibilisieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fortbestehensprognose: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - fortbestehensprognose
+# Arbeitsbereich - Prognose Dokumentation Stichtag, Stundungsanfrage Glaeubiger, Annahmen Belastbarkeit Plausibilisieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `prognose-dokumentation-stichtag` | Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung. |
 | `stundungsanfrage-glaeubiger` | Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `prognose-dokumentation-stichtag`
 
-**Frühere Beschreibung:** Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung.
+**Fokus:** Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung.
 
 # Prognose-Dokumentation Stichtag
 
@@ -219,7 +219,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `stundungsanfrage-glaeubiger`
 
-**Frühere Beschreibung:** Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung.
+**Fokus:** Erzeugt Stundungsanfragen an Gläubiger (Lieferanten Bank Vermieter Steueramt Sozialversicherungstraeger). Erfasst pro Gläubiger Forderungshoehe Fälligkeit Stundungswunsch (neue Fälligkeit Ratenzahlung Tilgungspause) Begründung Sicherheitsangebot. Pro Gläubiger eigenes Schreiben. Hinweis Steuerstundung § 222 AO (restriktiv) und Sozialversicherung (sehr restriktiv § 76 SGB IV). Schriftliche Stundungszusage erforderlich für Berücksichtigung in der Liquiditaetsplanung.
 
 # Stundungsanfrage Gläubiger
 
@@ -470,7 +470,7 @@ Anlagen: Liquiditaetsplanung (Anlage 1), aktuelle BWA (Anlage 2)
 
 ## 3. `annahmen-belastbarkeit-plausibilisieren`
 
-**Frühere Beschreibung:** Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband für jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet.
+**Fokus:** Plausibilisiert die in `annahmen-sammeln-fortführung` gesammelten Annahmen. Prüfraster Konsistenz mit Vergangenheit (BWA SuSa Jahresabschluss) Marktentwicklung (Branche makroekonomisch) Konsistenz untereinander (Umsatz vs Material vs Personal) und Risikokategorisierung. Plausibilitaetsband für jede Annahme. Erzeugt Plausibilitaetsprotokoll. Annahmen mit niedriger Belastbarkeit werden als Modellannahme markiert und im Sensitivitaetsszenario gegengerechnet.
 
 # Annahmen plausibilisieren
 

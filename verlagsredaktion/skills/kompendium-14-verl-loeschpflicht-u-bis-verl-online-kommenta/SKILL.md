@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-verl-loeschpflicht-u-bis-verl-online-kommenta
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (verl-loeschpflicht-und-archivierung-fachzs, verl-loseblattwerk-spezial, verl-manuskript-merkwuerdige-formate-rettung, verl-newsletter-redaktion-jur, verl-online-kommentar-update-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Loeschpflicht Und Archivierung Fachzs, Verl Loseblattwerk Spezial, Verl Manuskript Merkwuerdige Formate Rettung, Verl Newsletter Redaktion Jur und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verlagsredaktion
+# Arbeitsbereich - Verl Loeschpflicht Und Archivierung Fachzs bis Verl Online Kommentar Update Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-loeschpflicht-und-archivierung-fachzs` | Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung. |
 | `verl-loseblattwerk-spezial` | Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster fuer Verlag und Redaktion. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-loeschpflicht-und-archivierung-fachzs`
 
-**Frühere Beschreibung:** Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung.
+**Fokus:** Loeschpflicht und Archivierung bei juristischer Fachzeitschrift: DSGVO Art. 17 Recht auf Vergessen, Online-Archiv, Aktenzeichen-Anonymisierung, Pressefreiheitsabwaegung, Versionierung.
 
 # Loeschpflicht und Archivierung
 
@@ -190,7 +190,7 @@ angaben. Inhaltliche Aenderungen wurden nicht vorgenommen.
 
 ## 2. `verl-loseblattwerk-spezial`
 
-**Frühere Beschreibung:** Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster fuer Verlag und Redaktion.
+**Fokus:** Spezialfall Loseblattwerk: Ergaenzungslieferung, Stichtag, Hinweisapparat, Abonnentenpflege. Pruefraster fuer Verlag und Redaktion.
 
 # Verl: Loseblattwerk
 
@@ -243,7 +243,7 @@ Dieser Skill gehoert zum Plugin `verlagsredaktion`. Er ergaenzt die uebrigen Ski
 
 ## 3. `verl-manuskript-merkwuerdige-formate-rettung`
 
-**Frühere Beschreibung:** Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade fuer die Verlagsredaktion.
+**Fokus:** Rettet Manuskripte aus DOCX-/Markdown-/LaTeX-Mix, alten Word97-Dateien und KI-generiertem Wust; legt saubere Konvertierungspfade fuer die Verlagsredaktion.
 
 # Manuskript-Rettung aus merkwuerdigen Formaten
 
@@ -346,7 +346,7 @@ Output: Mueller-Aufsatz_v2-clean.docx
 
 ## 4. `verl-newsletter-redaktion-jur`
 
-**Frühere Beschreibung:** Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte fuer wochen- und monatsweisen Versand.
+**Fokus:** Newsletter-Redaktion juristisch: Konzept, Themenkasten, Empfaengerverwaltung nach DSGVO und UWG § 7, double opt-in, Mustertexte fuer wochen- und monatsweisen Versand.
 
 # Newsletter-Redaktion juristisch
 
@@ -508,7 +508,7 @@ Vertiefend im Verlag: [Buchempfehlung mit ISBN]
 
 ## 5. `verl-online-kommentar-update-spezial`
 
-**Frühere Beschreibung:** Spezialfall Online-Kommentar und Update-Workflow: Versionierung, Rechtsprechungsmonitoring, Verlinkung. Pruefraster fuer Verlag und Hauptbearbeiter.
+**Fokus:** Spezialfall Online-Kommentar und Update-Workflow: Versionierung, Rechtsprechungsmonitoring, Verlinkung. Pruefraster fuer Verlag und Hauptbearbeiter.
 
 # Verl: Online-Kommentar Update
 

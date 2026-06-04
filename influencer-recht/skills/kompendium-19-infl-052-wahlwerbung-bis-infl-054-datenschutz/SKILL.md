@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-infl-052-wahlwerbung-bis-infl-054-datenschutz
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 19; bündelt 3 frühere Spezialskills (infl-052-wahlwerbung-durch-creator, infl-053-arbeitsrecht-social-media-manager, infl-054-datenschutz-newsletter-community-und-discord) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 052 Wahlwerbung Durch Creator, Infl 053 Arbeitsrecht Social Media Manager, Infl 054 Datenschutz Newsletter Community Und Discord; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - influencer-recht
+# Arbeitsbereich - Infl 052 Wahlwerbung Durch Creator, Infl 053 Arbeitsrecht Social Media Manager, Infl 054 Datenschutz Newsletter Community Und Discord
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-052-wahlwerbung-durch-creator` | Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen. |
 | `infl-053-arbeitsrecht-social-media-manager` | Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-052-wahlwerbung-durch-creator`
 
-**Frühere Beschreibung:** Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen.
+**Fokus:** Influencer-Recht: Wahlwerbung durch Creator – Parteiengesetz, Rundfunkrecht, Kennzeichnung, Neutralitätsgebot und strafrechtliche Grenzen.
 
 # Influencer-Recht: Wahlwerbung durch Creator
 
@@ -94,7 +94,7 @@ Creator bei Wahlkämpfen haben besondere rechtliche Pflichten:
 
 ## 2. `infl-053-arbeitsrecht-social-media-manager`
 
-**Frühere Beschreibung:** Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content.
+**Fokus:** Influencer-Recht: Arbeitsrecht für Social-Media-Manager – Arbeitsverhältnis, Dienstvertrag, Abgrenzung, Kündigung, Urheberrecht an erstelltem Content.
 
 # Influencer-Recht: Arbeitsrecht – Social-Media-Manager
 
@@ -162,7 +162,7 @@ Die Einstellung eines Social-Media-Managers beim Creator löst Arbeitsrecht aus:
 
 ## 3. `infl-054-datenschutz-newsletter-community-und-discord`
 
-**Frühere Beschreibung:** Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer.
+**Fokus:** Influencer-Recht: Datenschutz für Newsletter, Community-Plattformen und Discord – DSGVO, Einwilligung, Double-Opt-In, Drittlandtransfer.
 
 # Influencer-Recht: Datenschutz – Newsletter, Community und Discord
 

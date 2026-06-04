@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-handelsrichter-vertr-bis-jugendschoeffe-beson
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (handelsrichter-vertriebsstreit-orientierung, handelsrichter-vertriebsstreit-sitzung, jugendschoeffe-besonderheiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Handelsrichter Vertriebsstreit Orientierung, Handelsrichter Vertriebsstreit Sitzung, Jugendschoeffe Besonderheiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Handelsrichter Vertriebsstreit Orientierung, Handelsrichter Vertriebsstreit Sitzung, Jugendschoeffe Besonderheiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `handelsrichter-vertriebsstreit-orientierung` | Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `handelsrichter-vertriebsstreit-sitzung` | Handelsrichter Vertriebsstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `handelsrichter-vertriebsstreit-orientierung`
 
-**Frühere Beschreibung:** Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Handelsrichter Vertriebsstreit (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Handelsrichter Vertriebsstreit: Orientierung
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `handelsrichter-vertriebsstreit-sitzung`
 
-**Frühere Beschreibung:** Handelsrichter Vertriebsstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Handelsrichter Vertriebsstreit (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Handelsvertreter, Vertragshändler, Ausgleichsanspruch, Kündigung und Provisionsstreit mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Handelsrichter Vertriebsstreit: Sitzungspraxis
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `jugendschoeffe-besonderheiten`
 
-**Frühere Beschreibung:** Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendgerichtshilfe und Schutz junger Beteiligter für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
+**Fokus:** Jugendschöffe Besonderheiten: erklärt Erziehungsgedanke, Jugendgerichtshilfe und Schutz junger Beteiligter für Schöffen, Handelsrichter oder ehrenamtliche Richter laienverständlich, aber rechtlich präzise; mit Sitzungscheck, Befangenheitswarnung und Nachbereitung.
 
 # Jugendschöffe Besonderheiten
 

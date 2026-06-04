@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (gesellschaftsgruender-transparenzregister-update, gesellschaftsgruender-ug-vorbereitung, gesellschaftsgruender-umsatzsteuer-start, gesellschaftsgruender-versicherungen-start, gesellschaftsgruender-vinkulierung-und-transfer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Transparenzregister Update, Gesellschaftsgruender Ug Vorbereitung, Gesellschaftsgruender Umsatzsteuer Start, Gesellschaftsgruender Versicherungen Start und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Transparenzregister Update bis Gesellschaftsgruender Vinkulierung Und Transfer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-transparenzregister-update` | Prüft Aktualisierung wirtschaftlich Berechtigter nach Anteilserwerb, Treuhand, Pooling oder Kontrolle. |
 | `gesellschaftsgruender-ug-vorbereitung` | UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-transparenzregister-update`
 
-**Frühere Beschreibung:** Prüft Aktualisierung wirtschaftlich Berechtigter nach Anteilserwerb, Treuhand, Pooling oder Kontrolle.
+**Fokus:** Prüft Aktualisierung wirtschaftlich Berechtigter nach Anteilserwerb, Treuhand, Pooling oder Kontrolle.
 
 # Transparenzregister Update
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-ug-vorbereitung`
 
-**Frühere Beschreibung:** UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro.
+**Fokus:** UG haftungsbeschraenkt gründen: Musterprotokoll, Mindestkapital 1 Euro, Thesaurierungspflicht. Normen: § 5a GmbHG, §§ 2 3 GmbHG. Prüfraster: Stammkapital 1 Euro bis unter 25000 Euro, Musterprotokoll-Pflicht, Rücklagenbildung 25 Prozent Jahresueberschuss. Output: UG-Gründungscheckliste mit Musterprotokoll. Abgrenzung: nicht GmbH-Gründung ab 25000 Euro.
 
 # UG-Vorbereitung (Unternehmergesellschaft haftungsbeschränkt)
 
@@ -235,7 +235,7 @@ Maßnahme: Beide Nennungen des AZ (Rechtsprechungsabschnitt und Quellenabschnitt
 
 ## 3. `gesellschaftsgruender-umsatzsteuer-start`
 
-**Frühere Beschreibung:** Prüft USt-Startfragen, Kleinunternehmer, Reverse Charge, innergemeinschaftliche Lieferungen und Rechnungen.
+**Fokus:** Prüft USt-Startfragen, Kleinunternehmer, Reverse Charge, innergemeinschaftliche Lieferungen und Rechnungen.
 
 # Umsatzsteuer Start
 
@@ -298,7 +298,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-versicherungen-start`
 
-**Frühere Beschreibung:** Prüft D&O, Betriebshaftpflicht, Cyber, Produkthaftpflicht, Berufshaftpflicht und Key Person.
+**Fokus:** Prüft D&O, Betriebshaftpflicht, Cyber, Produkthaftpflicht, Berufshaftpflicht und Key Person.
 
 # Versicherungen für Gründer
 
@@ -361,7 +361,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-vinkulierung-und-transfer`
 
-**Frühere Beschreibung:** Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder.
+**Fokus:** Prüft Vinkulierung, Zustimmung, Vorerwerbsrechte, Drag/Tag und Joinder.
 
 # Vinkulierung und Anteilsübertragung
 

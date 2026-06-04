@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-eu-data-act-software-bis-freelancer-misclassi
-description: "softwarerecht-de-eu-us: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (eu-data-act-software-data-sharing, export-control-sanctions-software, freelancer-code-rechteuebertragung-de, freelancer-misclassification-ip-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "softwarerecht-de-eu-us: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Eu Data Act Software Data Sharing, Export Control Sanctions Software, Freelancer Code Rechteuebertragung De, Freelancer Misclassification Ip Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - softwarerecht-de-eu-us
+# Arbeitsbereich - Eu Data Act Software Data Sharing bis Freelancer Misclassification Ip Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `eu-data-act-software-data-sharing` | Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses. |
 | `export-control-sanctions-software` | Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `eu-data-act-software-data-sharing`
 
-**Frühere Beschreibung:** Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses.
+**Fokus:** Prüft Data Act bei vernetzten Produkten, Softwarediensten, Cloud Switching, Datenzugang und unfair clauses.
 
 # EU Data Act in Softwareverträgen
 
@@ -86,7 +86,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `export-control-sanctions-software`
 
-**Frühere Beschreibung:** Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software.
+**Fokus:** Prüft Exportkontrolle, Sanktionen, Verschlüsselung, Cybertools, Dual Use und Cloud-Zugriff bei Software.
 
 # Exportkontrolle und Sanktionen Software
 
@@ -143,7 +143,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `freelancer-code-rechteuebertragung-de`
 
-**Frühere Beschreibung:** Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko.
+**Fokus:** Prüft deutsche Freelancer-Softwareverträge, Nutzungsrechte, Zweckübertragungsregel, Abnahme, Open Source und Statusrisiko.
 
 # Freelancer-Code Rechteübertragung DE
 
@@ -200,7 +200,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `freelancer-misclassification-ip-risk`
 
-**Frühere Beschreibung:** Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken.
+**Fokus:** Verbindet Software-Freelancer-IP mit Scheinselbständigkeits-, Nachzahlungs- und Rechtekettenrisiken.
 
 # Freelancer Misclassification und IP Risk
 

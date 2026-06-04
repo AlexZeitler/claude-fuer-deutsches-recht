@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-extremismus-verdacht-bis-gehorsam-befehl-und
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (extremismus-verdachtsfall-sicherheitsrecht, geheimschutz-sicherheitsueberpruefung-sueg, gehorsam-befehl-und-rechtswidriger-befehl) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Extremismus Verdachtsfall Sicherheitsrecht, Geheimschutz Sicherheitsueberpruefung Sueg, Gehorsam Befehl Und Rechtswidriger Befehl
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `extremismus-verdachtsfall-sicherheitsrecht` | Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff. |
 | `geheimschutz-sicherheitsueberpruefung-sueg` | Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `extremismus-verdachtsfall-sicherheitsrecht`
 
-**Frühere Beschreibung:** Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff.
+**Fokus:** Extremismus-Verdachtsfall und Sicherheitsrecht Bundeswehr: prüft SÜG, MADG, Entlassungsrecht und Rechtsbehelfe. Norm-/Quellenanker: SÜG, MADG, SG §§ 46 ff.
 
 # Extremismus-Verdachtsfall und Sicherheitsrecht
 
@@ -139,7 +139,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `geheimschutz-sicherheitsueberpruefung-sueg`
 
-**Frühere Beschreibung:** Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG.
+**Fokus:** Geheimschutz und Sicherheitsüberprüfung SÜG: prüft Ü1–Ü3-Verfahren, Anhörungsrecht, Rechtsschutz und Datenschutz. Norm-/Quellenanker: SÜG, MADG, SG.
 
 # Geheimschutz und Sicherheitsüberprüfung (SÜG)
 
@@ -250,7 +250,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `gehorsam-befehl-und-rechtswidriger-befehl`
 
-**Frühere Beschreibung:** Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
+**Fokus:** Gehorsam Befehl und rechtswidriger Befehl: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: Soldatengesetz, Wehrbeschwerdeordnung, Wehrdisziplinarordnung 2025, Wehrpflichtgesetz, Soldatenversorgungsgesetz, Soldatenbeteiligungsgesetz, SÜG.
 
 # Gehorsam, Befehl und rechtswidriger Befehl
 

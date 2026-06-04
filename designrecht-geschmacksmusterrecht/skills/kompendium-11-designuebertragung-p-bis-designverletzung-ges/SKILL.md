@@ -1,33 +1,33 @@
 ---
 name: kompendium-11-designuebertragung-p-bis-designverletzung-ges
-description: "designrecht-geschmacksmusterrecht: Konsolidiertes Skill-Kompendium 11; bündelt 2 frühere Spezialskills (designuebertragung-portfolio, designverletzung-gesamteindruck) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "designrecht-geschmacksmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Designuebertragung Portfolio, Designverletzung Gesamteindruck; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - designrecht-geschmacksmusterrecht
+# Arbeitsbereich - Designuebertragung Portfolio, Designverletzung Gesamteindruck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `designuebertragung-portfolio` | Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte. |
 | `designverletzung-gesamteindruck` | Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `designuebertragung-portfolio`
 
-**Frühere Beschreibung:** Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte.
+**Fokus:** Designübertragung und Portfolio-Transaktion prüfen: Asset Deal, Konzernumbau, Sicherheiten, Registerumschreibung, Prioritäten, Lizenzen und streitige Rechte.
 
 # Designuebertragung Portfolio
 
@@ -59,7 +59,7 @@ Design-IP-DD und Closing-Checkliste.
 
 ## 2. `designverletzung-gesamteindruck`
 
-**Frühere Beschreibung:** Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko.
+**Fokus:** Designverletzung anhand des Gesamteindrucks prüfen: angegriffene Ausführungsform, informierter Benutzer, Gestaltungsfreiheit, Merkmalsabstand und Verletzungsrisiko.
 
 # Designverletzung Gesamteindruck
 

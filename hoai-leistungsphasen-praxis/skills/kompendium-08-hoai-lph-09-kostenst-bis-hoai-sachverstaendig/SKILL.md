@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-hoai-lph-09-kostenst-bis-hoai-sachverstaendig
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 18 frühere Spezialskills (hoai-lph-09-kostensteuerung, hoai-lph-09-mandantenbericht, hoai-lph-09-mangel-claim-vorsorge, hoai-lph-09-nachtrag-und-change-request, hoai-lph-09-oeffentlicher-auftraggeber und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 09 Kostensteuerung, Hoai Lph 09 Mandantenbericht, Hoai Lph 09 Mangel Claim Vorsorge, Hoai Lph 09 Nachtrag Und Change Request und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 09 Kostensteuerung bis Hoai Sachverstaendige Beweisfragen Planungsfehler
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-09-kostensteuerung` | HOAI LPH 9 Objektbetreuung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
 | `hoai-lph-09-mandantenbericht` | HOAI LPH 9 Objektbetreuung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-09-kostensteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Kostenermittlung, Kostenfortschreibung, Budgetwarnung und Änderungsfolgen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft kostenermittlung
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 2. `hoai-lph-09-mandantenbericht`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: erstellt verständlichen Statusbericht mit Ampel und nächstem Schritt; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Erstellt verständlichen statusbericht mit ampel und nächstem schritt
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 3. `hoai-lph-09-mangel-claim-vorsorge`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: sichert spätere Mängel-, Behinderungs- und Nachtragskonflikte; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Sichert spätere mängel-
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 4. `hoai-lph-09-nachtrag-und-change-request`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: erkennt Planungsänderung, Zusatzleistung, Anordnung und Vergütungsfolge; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Erkennt planungsänderung
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 5. `hoai-lph-09-oeffentlicher-auftraggeber`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: berücksichtigt Vergabe, Haushaltsrecht, Fördermittel und Dokumentationspflicht; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Berücksichtigt vergabe
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 6. `hoai-lph-09-outputpaket`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: liefert alle Dokumente, Tabellen und Entscheidungen für den Abschluss der Phase; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Liefert alle dokumente
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 7. `hoai-lph-09-planfreigabe-und-versionierung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Planindex, Freigaben, Verteiler und alte Planstände; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft planindex
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 8. `hoai-lph-09-qualitaetsgate`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: erstellt ein Qualitygate, bevor die nächste Leistungsphase startet; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Erstellt ein qualitygate
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 9. `hoai-lph-09-rechnung-und-prueffaehigkeit`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft Abschlag, Schlussrechnung, Prüfbarkeit und Einwendungen; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft abschlag
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 10. `hoai-lph-09-red-team-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: sucht Widersprüche, vergessene Beteiligte, falsche Annahmen und unklare Zuständigkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Sucht widersprüche
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 11. `hoai-lph-09-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Baut risiko-
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 12. `hoai-lph-09-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 13. `hoai-lph-09-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Prüft vob/b
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 14. `hoai-lph-09-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 15. `hoai-lph-09-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Baut terminlog
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 16. `hoai-lph-09-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 9 Objektbetreuung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
+**Fokus:** HOAI LPH 9 Objektbetreuung: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mängelverfolgung, Gewährleistungsfristen, Objektbegehung, Dokumentation und Abschlusssteuerung und Bewertungsanteil 2 %.
 
 # LPH 9 Objektbetreuung: Erklärt pflichten
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 9 (Objektbetreuung)** gedacht. Er pr�
 
 ## 17. `hoai-projektsteuerung-vs-hoai`
 
-**Frühere Beschreibung:** HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren.
+**Fokus:** HOAI-Praxis: grenzt Projektsteuerung, Bauherrenvertretung und HOAI-Leistungen ab; für Architekten, Ingenieure, Bauleiter, Bauunternehmen, Anwälte, Sachverständige und Bauherren.
 
 # HOAI Querschnitt: Grenzt projektsteuerung
 
@@ -665,7 +665,7 @@ Dieser Querschnitts-Skill bearbeitet **grenzt Projektsteuerung, Bauherrenvertret
 
 ## 18. `hoai-sachverstaendige-beweisfragen-planungsfehler`
 
-**Frühere Beschreibung:** HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren.
+**Fokus:** HOAI-Fachfrage: Sachverständigenfragen zu Planungsfehler, Bauüberwachungsfehler, Kostensteuerung, Nachtrag, Mangelursache und LPH-Abgrenzung gerichtsfest formulieren.
 
 # Sachverständigenfragen Zu Planungsfehlern
 

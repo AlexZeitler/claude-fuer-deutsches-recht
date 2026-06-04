@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-kv-053-seltene-erkra-bis-kv-055-versicherte-i
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 18; bündelt 3 frühere Spezialskills (kv-053-seltene-erkrankung-einzelfallentscheidung, kv-054-kostenerstattung-privatarzt-in-der-gkv, kv-055-versicherte-im-ausland-lebend-deutsche-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsche Rente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 053 Seltene Erkrankung Einzelfallentscheidung, Kv 054 Kostenerstattung Privatarzt In Der Gkv, Kv 055 Versicherte Im Ausland Lebend Deutsch
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-053-seltene-erkrankung-einzelfallentscheidung` | GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung. |
 | `kv-054-kostenerstattung-privatarzt-in-der-gkv` | Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-053-seltene-erkrankung-einzelfallentscheidung`
 
-**Frühere Beschreibung:** GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung.
+**Fokus:** GKV-Leistungsanspruch bei seltenen Erkrankungen: § 2 Abs. 1a SGB V, Nikolaus-Beschluss des BVerfG, Off-Label-Use ohne Nutzenbewertung und Einzelfallgenehmigung.
 
 # Seltene Erkrankung: Einzelfallentscheidung
 
@@ -109,7 +109,7 @@ Bei seltenen Erkrankungen fehlen oft zugelassene Therapien oder G-BA-Beschlüsse
 
 ## 2. `kv-054-kostenerstattung-privatarzt-in-der-gkv`
 
-**Frühere Beschreibung:** Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV.
+**Fokus:** Kostenerstattungsverfahren nach § 13 SGB V: Wahlerklärung, Systemversagen, Notfall, GOÄ-Abrechnung und Erstattungsgrenzen in der GKV.
 
 # Kostenerstattung: Privatarzt in der GKV
 
@@ -191,7 +191,7 @@ GKV-Versicherte können unter bestimmten Umständen einen Privatarzt aufsuchen u
 
 ## 3. `kv-055-versicherte-im-ausland-lebend-deutsche-rente`
 
-**Frühere Beschreibung:** Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen.
+**Fokus:** Krankenversicherung für im Ausland lebende Rentner mit deutschen Rentenansprüchen: KVdR, S1-Formular, EU-Koordinierungsrecht und bilaterale Abkommen.
 
 # Versicherte im Ausland lebend mit deutscher Rente
 

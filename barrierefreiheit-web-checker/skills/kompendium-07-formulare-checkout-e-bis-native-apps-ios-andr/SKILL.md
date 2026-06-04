@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-formulare-checkout-e-bis-native-apps-ios-andr
-description: "barrierefreiheit-web-checker: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (formulare-checkout-ecommerce, kontrast-farbe-motion-responsive, native-apps-ios-android-pruefung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "barrierefreiheit-web-checker: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Pruefung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - barrierefreiheit-web-checker
+# Arbeitsbereich - Formulare Checkout Ecommerce, Kontrast Farbe Motion Responsive, Native Apps Ios Android Pruefung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `formulare-checkout-ecommerce` | Prüft Formulare, Login, Suche, Warenkorb, Checkout, Zahlungsstrecke und elektronische Verträge in Webshops. Fokus BFSG/E-Commerce, Fehlermeldungen, Labels, Pflichtfelder, Zeitlimits und Bestellabschluss. Output: Checkout-Audit. |
 | `kontrast-farbe-motion-responsive` | Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `formulare-checkout-ecommerce`
 
-**Frühere Beschreibung:** Prüft Formulare, Login, Suche, Warenkorb, Checkout, Zahlungsstrecke und elektronische Verträge in Webshops. Fokus BFSG/E-Commerce, Fehlermeldungen, Labels, Pflichtfelder, Zeitlimits und Bestellabschluss. Output: Checkout-Audit.
+**Fokus:** Prüft Formulare, Login, Suche, Warenkorb, Checkout, Zahlungsstrecke und elektronische Verträge in Webshops. Fokus BFSG/E-Commerce, Fehlermeldungen, Labels, Pflichtfelder, Zeitlimits und Bestellabschluss. Output: Checkout-Audit.
 
 # Formulare, Checkout, E-Commerce
 
@@ -85,7 +85,7 @@ Nutze diesen Skill für Webshops, Buchungsstrecken, Login-Portale und digitale V
 
 ## 2. `kontrast-farbe-motion-responsive`
 
-**Frühere Beschreibung:** Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix.
+**Fokus:** Prüft Kontrast, Farbe ohne Farbcodierung, Zoom, Reflow, Textabstände, responsives Layout, Animationen, Motion-Reduction, Hover-Fallen und mobile Nutzung. Output: visuelle Barrierefreiheitsmatrix.
 
 # Kontrast, Farbe, Motion, Responsive
 
@@ -140,7 +140,7 @@ Kontrast und Reflow sind oft schnell zu beheben und stark nutzerwirksam. Animati
 
 ## 3. `native-apps-ios-android-pruefung`
 
-**Frühere Beschreibung:** Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin fuer haeufige Probleme.
+**Fokus:** Native Apps iOS und Android pruefen: Accessibility-API VoiceOver bzw. TalkBack, Plattform-spezifische Pattern, EN 301 549 Klausel 11. Tooling Xcode Accessibility Inspector, Android Accessibility Scanner. Konkrete Code-Beispiele Swift und Kotlin fuer haeufige Probleme.
 
 # Native Apps iOS und Android
 

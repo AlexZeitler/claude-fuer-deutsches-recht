@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-faevvollzug-neu-002-bis-faevvollzug-neu-004
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt, faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev, faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzug Neu 004 Vollstreckung Aus Unterlassungsverfuegung Or; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Faevvollzug Neu 002 Parteibetrieb Und Gerichtsvollzieher Bei Unt, Faevvollzug Neu 003 Bea Und Elektronischer Rechtsverkehr Bei Ev, Faevvollzu
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt` | Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung. |
 | `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev` | BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `faevvollzug-neu-002-parteibetrieb-und-gerichtsvollzieher-bei-unt`
 
-**Frühere Beschreibung:** Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung.
+**Fokus:** Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln: Beauftragung, Zustellungsnachweis, Vollziehung einstweiliger Verfügungen im gewerblichen Rechtsschutz. §§ 192 und 194 und 890 ZPO, Ordnungsmittelantrag nach Zuwiderhandlung.
 
 # Parteibetrieb und Gerichtsvollzieher bei Unterlassungstiteln
 
@@ -149,7 +149,7 @@ Die Vollziehungsfrist läuft bis [Datum]. Bitte vorrangige Bearbeitung.
 
 ## 2. `faevvollzug-neu-003-bea-und-elektronischer-rechtsverkehr-bei-ev`
 
-**Frühere Beschreibung:** BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz.
+**Fokus:** BeA und elektronischer Rechtsverkehr bei EV-Zustellung: ERVV, § 130a ZPO, sichere Übermittlungswege, qualifizierte elektronische Signatur, Einreichung über beA bei einstweiligen Verfügungen im gewerblichen Rechtsschutz.
 
 # BeA und Elektronischer Rechtsverkehr bei EV-Zustellung
 
@@ -248,7 +248,7 @@ Datum des Empfangs (= Zustellungsdatum): [Datum]
 
 ## 3. `faevvollzug-neu-004-vollstreckung-aus-unterlassungsverfuegung-or`
 
-**Frühere Beschreibung:** Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren.
+**Fokus:** Vollstreckung aus Unterlassungsverfügung: Ordnungsgeld und Ordnungshaft nach § 890 ZPO, Tatbestandsvoraussetzungen, Antragstellung, Zuwiderhandlungsnachweis, Höhe des Ordnungsmittels, Ordnungsmittelverfahren.
 
 # Vollstreckung aus Unterlassungsverfügung: Ordnungsmittel
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-pflegekasse-verhinde-bis-rentenkontenklaerung
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (pflegekasse-verhinderungs-und-kurzzeitpflege, pkh-anwaltsbeiordnung-erfolgsaussicht, pkh-vor-sozialgericht-73a-sgg, rentenauskunft-und-versicherungsverlauf-pruefen, rentenkontenklaerung-149-sgb-vi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pflegekasse Verhinderungs Und Kurzzeitpflege, Pkh Anwaltsbeiordnung Erfolgsaussicht, Pkh Vor Sozialgericht 73a Sgg, Rentenauskunft Und Versicherungsverlauf Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Pflegekasse Verhinderungs Und Kurzzeitpflege bis Rentenkontenklaerung 149 Sgb Vi
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pflegekasse-verhinderungs-und-kurzzeitpflege` | Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage. |
 | `pkh-anwaltsbeiordnung-erfolgsaussicht` | Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pflegekasse-verhinderungs-und-kurzzeitpflege`
 
-**Frühere Beschreibung:** Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage.
+**Fokus:** Pflegekasse Verhinderungspflege und Kurzzeitpflege. Skill klaert die Verhinderungspflege § 39 SGB XI Kurzzeitpflege § 42 SGB XI Voraussetzungen Hoechstbetraege Kombinierbarkeit und die Anrechnungsregeln. Liefert Antragsvorlage.
 
 # Pflegekasse Verhinderungs Und Kurzzeitpflege
 
@@ -76,7 +76,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pkh-anwaltsbeiordnung-erfolgsaussicht`
 
-**Frühere Beschreibung:** Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt.
+**Fokus:** Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt.
 
 # PKH-Bewilligung — die Erfolgsaussicht
 
@@ -198,7 +198,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `pkh-vor-sozialgericht-73a-sgg`
 
-**Frühere Beschreibung:** Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung.
+**Fokus:** Prozesskostenhilfe (PKH) vor dem Sozialgericht § 73a SGG i.V.m. ZPO. Voraussetzungen Erfolgsaussicht Mutwilligkeit Erklärung wirtschaftlicher Verhältnisse Anwaltsbeiordnung.
 
 # Prozesskostenhilfe vor dem SG — § 73a SGG
 
@@ -364,7 +364,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 ## 4. `rentenauskunft-und-versicherungsverlauf-pruefen`
 
-**Frühere Beschreibung:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
+**Fokus:** Rentenauskunft und Versicherungsverlauf pruefen. Skill erklaert wie Selbstvertreter die Rentenauskunft anfordern Versicherungsverlauf auf Luecken pruefen Korrekturantrag stellen. Wichtig fuer EM-Rente Altersrente Witwenrente. Liefert Pruefraster.
 
 # Rentenauskunft Und Versicherungsverlauf Pruefen
 
@@ -429,7 +429,7 @@ Stand: 05/2026. § 73a SGG i.V.m. ZPO. Aktuelle PKH-Tabelle pruefen.
 
 ## 5. `rentenkontenklaerung-149-sgb-vi`
 
-**Frühere Beschreibung:** Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage.
+**Fokus:** Rentenkontenklaerung nach § 149 SGB VI. Skill leitet durch das Verfahren der Kontoklaerung Antrag Belege Schwerpunkte Schulzeit Wehrdienst Mutterschutz Erziehung Pflege Arbeitslosigkeit Auslandsarbeit. Liefert Antragsvorlage.
 
 # Rentenkontenklaerung 149 Sgb Vi
 

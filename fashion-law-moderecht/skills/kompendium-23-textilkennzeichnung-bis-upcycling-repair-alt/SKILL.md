@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-textilkennzeichnung-bis-upcycling-repair-alt
-description: "fashion-law-moderecht: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (textilkennzeichnung-eu-1007, upcycling-repair-alteration) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fashion-law-moderecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Textilkennzeichnung Eu 1007, Upcycling Repair Alteration; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - fashion-law-moderecht
+# Arbeitsbereich - Textilkennzeichnung Eu 1007, Upcycling Repair Alteration
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `textilkennzeichnung-eu-1007` | Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur. |
 | `upcycling-repair-alteration` | Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `textilkennzeichnung-eu-1007`
 
-**Frühere Beschreibung:** Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur.
+**Fokus:** Textilkennzeichnung nach VO (EU) 1007/2011 prüfen: Faserbezeichnungen, Zusammensetzung, Etikett, Online-Shop, Sprache, Verantwortlichkeit und Korrektur.
 
 # Textilkennzeichnung Eu 1007
 
@@ -59,7 +59,7 @@ Label-QA-Liste.
 
 ## 2. `upcycling-repair-alteration`
 
-**Frühere Beschreibung:** Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim.
+**Fokus:** Upcycling, Reparatur und Alteration prüfen: Markenrecht, Designrecht, Urheberrecht, Erschöpfung, Irreführung und Nachhaltigkeitsclaim.
 
 # Upcycling Repair Alteration
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-bho-233-buergschaft-bis-bho-243-eu-mittel-br
-description: "haushaltsrecht-bho-bund-laender: Konsolidiertes Skill-Kompendium 22; bündelt 11 frühere Spezialskills (bho-233-buergschaft-und-gewaehrleistung-brh-fr, bho-234-buergschaft-und-gewaehrleistung-parlam, bho-235-buergschaft-und-gewaehrleistung-vollzu, bho-236-eu-mittel-titel-pruefen, bho-237-eu-mittel-umschichtung-simulieren und 6 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "haushaltsrecht-bho-bund-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bho 233 Buergschaft Und Gewaehrleistung Brh Fr, Bho 234 Buergschaft Und Gewaehrleistung Parlam, Bho 235 Buergschaft Und Gewaehrleistung Vollzu, Bho 236 Eu Mittel Titel Pruefen und 7 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - haushaltsrecht-bho-bund-laender
+# Arbeitsbereich - Bho 233 Buergschaft Und Gewaehrleistung Brh Fr bis Bho 243 Eu Mittel Brh Frage Formulieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bho-233-buergschaft-und-gewaehrleistung-brh-fr` | Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: BRH-Frage formulieren. BRH-Frage formulieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `bho-234-buergschaft-und-gewaehrleistung-parlam` | Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -27,16 +27,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bho-233-buergschaft-und-gewaehrleistung-brh-fr`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: BRH-Frage formulieren. BRH-Frage formulieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: BRH-Frage formulieren. BRH-Frage formulieren für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Brh Fr
 
@@ -93,7 +93,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `bho-234-buergschaft-und-gewaehrleistung-parlam`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Parlamentsfrage vorbereiten. Parlamentsfrage vorbereiten für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Parlam
 
@@ -150,7 +150,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `bho-235-buergschaft-und-gewaehrleistung-vollzu`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Vollzug tracken. Vollzug tracken für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: Bürgschaft und Gewährleistung: Vollzug tracken. Vollzug tracken für Bürgschaft und Gewährleistung im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Buergschaft Und Gewaehrleistung Vollzu
 
@@ -207,7 +207,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `bho-236-eu-mittel-titel-pruefen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Titel prüfen. Titel prüfen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Titel prüfen. Titel prüfen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Titel Pruefen
 
@@ -264,7 +264,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 5. `bho-237-eu-mittel-umschichtung-simulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Umschichtung simulieren. Umschichtung simulieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Umschichtung simulieren. Umschichtung simulieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Umschichtung Simulieren
 
@@ -321,7 +321,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 6. `bho-238-eu-mittel-sperre-bewerten`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Sperre bewerten. Sperre bewerten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Sperre bewerten. Sperre bewerten für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Sperre Bewerten
 
@@ -378,7 +378,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 7. `bho-239-eu-mittel-deckung-finden`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Deckung finden. Deckung finden für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Deckung finden. Deckung finden für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Deckung Finden
 
@@ -435,7 +435,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 8. `bho-240-eu-mittel-szenario-rechnen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Szenario rechnen. Szenario rechnen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Szenario rechnen. Szenario rechnen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Szenario Rechnen
 
@@ -492,7 +492,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 9. `bho-241-eu-mittel-dashboard-bauen`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Dashboard bauen. Dashboard bauen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Dashboard bauen. Dashboard bauen für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Dashboard Bauen
 
@@ -549,7 +549,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 10. `bho-242-eu-mittel-risiko-markieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Risiko markieren. Risiko markieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: Risiko markieren. Risiko markieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Risiko Markieren
 
@@ -606,7 +606,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 11. `bho-243-eu-mittel-brh-frage-formulieren`
 
-**Frühere Beschreibung:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: BRH-Frage formulieren. BRH-Frage formulieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Haushaltsrecht BHO Bund und Länder: EU-Mittel: BRH-Frage formulieren. BRH-Frage formulieren für EU-Mittel im Rahmen von Haushaltsrecht BHO Bund und Länder; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Eu Mittel Brh Frage Formulieren
 

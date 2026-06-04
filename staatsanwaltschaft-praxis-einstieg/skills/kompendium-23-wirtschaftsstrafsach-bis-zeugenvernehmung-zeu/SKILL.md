@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-wirtschaftsstrafsach-bis-zeugenvernehmung-zeu
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 23; bündelt 4 frühere Spezialskills (wirtschaftsstrafsachen-sachleitung, wohnungsdurchsuchung-gefahr-im-verzug, zeugenmanagement-und-ladungsrisiken, zeugenvernehmung-zeugenrechte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wirtschaftsstrafsachen Sachleitung, Wohnungsdurchsuchung Gefahr Im Verzug, Zeugenmanagement Und Ladungsrisiken, Zeugenvernehmung Zeugenrechte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Wirtschaftsstrafsachen Sachleitung bis Zeugenvernehmung Zeugenrechte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wirtschaftsstrafsachen-sachleitung` | Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `wohnungsdurchsuchung-gefahr-im-verzug` | Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wirtschaftsstrafsachen-sachleitung`
 
-**Frühere Beschreibung:** Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Wirtschaftsstrafsachen sachleiten: Praxis-Skill für neue Staatsanwälte zu komplexe Tatkomplexe, Gutachten, Finanzdaten, Durchsuchung, Arrest und Verständigung koordinieren; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Wirtschaftsstrafsachen sachleiten
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `wohnungsdurchsuchung-gefahr-im-verzug`
 
-**Frühere Beschreibung:** Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Wohnungsdurchsuchung und Gefahr im Verzug: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Wohnungsdurchsuchung und Gefahr im Verzug
 
@@ -128,7 +128,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `zeugenmanagement-und-ladungsrisiken`
 
-**Frühere Beschreibung:** Zeugenmanagement für die Hauptverhandlung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Zeugenmanagement für die Hauptverhandlung: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Zeugenmanagement für die Hauptverhandlung
 
@@ -177,7 +177,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `zeugenvernehmung-zeugenrechte`
 
-**Frühere Beschreibung:** Zeugenvernehmung und Zeugenrechte: Praxis-Skill für neue Staatsanwälte zu Ladung, Belehrung, Aussageverweigerung, Auskunftsverweigerung und Schutzbedarf beachten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Zeugenvernehmung und Zeugenrechte: Praxis-Skill für neue Staatsanwälte zu Ladung, Belehrung, Aussageverweigerung, Auskunftsverweigerung und Schutzbedarf beachten; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Zeugenvernehmung und Zeugenrechte
 

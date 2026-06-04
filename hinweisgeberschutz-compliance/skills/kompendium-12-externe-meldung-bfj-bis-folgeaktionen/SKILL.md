@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-externe-meldung-bfj-bis-folgeaktionen
-description: "hinweisgeberschutz-compliance: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (externe-meldung-bfj, externes-bfj-formular, faq-fuer-mitarbeiter, folgeaktionen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hinweisgeberschutz-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Externe Meldung Bfj, Externes Bfj Formular, Faq Fuer Mitarbeiter, Folgeaktionen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - hinweisgeberschutz-compliance
+# Arbeitsbereich - Externe Meldung Bfj bis Folgeaktionen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `externe-meldung-bfj` | Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen. |
 | `externes-bfj-formular` | Bereitet Kommunikation mit externer Meldestelle vor. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `externe-meldung-bfj`
 
-**Frühere Beschreibung:** Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen.
+**Fokus:** Prüft externe Meldung beim Bundesamt für Justiz und andere Stellen.
 
 # Externe Meldung BfJ
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `externes-bfj-formular`
 
-**Frühere Beschreibung:** Bereitet Kommunikation mit externer Meldestelle vor.
+**Fokus:** Bereitet Kommunikation mit externer Meldestelle vor.
 
 # Externes BfJ Formular
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `faq-fuer-mitarbeiter`
 
-**Frühere Beschreibung:** Schreibt verständliche Mitarbeiter-FAQ.
+**Fokus:** Schreibt verständliche Mitarbeiter-FAQ.
 
 # FAQ Fuer Mitarbeiter
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `folgeaktionen`
 
-**Frühere Beschreibung:** Plant zulässige und angemessene Folgemaßnahmen.
+**Fokus:** Plant zulässige und angemessene Folgemaßnahmen.
 
 # Folgeaktionen
 

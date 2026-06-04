@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-verl-mahnung-an-auto-bis-buchprojekt-kapitelk
-description: "verlagsredaktion: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (verl-mahnung-an-autor-zahlung-frist, honorar-vertrag-royalties-triage, verl-honorarvertrag-templates-und-abweichungen, verl-haftungsfreistellung-autor-verlag, buchprojekt-kapitelkoordination) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsredaktion: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl Mahnung An Autor Zahlung Frist, Honorar Vertrag Royalties Triage, Verl Honorarvertrag Templates Und Abweichungen, Verl Haftungsfreistellung Autor Verlag und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - verlagsredaktion
+# Arbeitsbereich - Verl Mahnung An Autor Zahlung Frist bis Buchprojekt Kapitelkoordination
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-mahnung-an-autor-zahlung-frist` | Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjaehrungspruefung, Mustertexte und gerichtliche Geltendmachung. |
 | `honorar-vertrag-royalties-triage` | Triage fuer Autor:innenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-mahnung-an-autor-zahlung-frist`
 
-**Frühere Beschreibung:** Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjaehrungspruefung, Mustertexte und gerichtliche Geltendmachung.
+**Fokus:** Mahnung an Autor bei Rueckforderung von Vorschuss oder ueberzahltem Honorar: Stufenmodell, Nachfrist gemaess BGB § 286 und § 323, Verjaehrungspruefung, Mustertexte und gerichtliche Geltendmachung.
 
 # Mahnung an Autor
 
@@ -186,7 +186,7 @@ Mit freundlichen Gruessen
 
 ## 2. `honorar-vertrag-royalties-triage`
 
-**Frühere Beschreibung:** Triage fuer Autor:innenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat.
+**Fokus:** Triage fuer Autor:innenvertrag, Honorar, Tantiemen, Pauschale, Nebenrechte, Abrechnung, Nutzungsarten und Eskalation an Justiziariat.
 
 # Honorar, Vertrag und Royalties
 
@@ -235,7 +235,7 @@ Redaktionelle Vorprüfung, keine Vertragsrechtsberatung aus dem Stand.
 
 ## 3. `verl-honorarvertrag-templates-und-abweichungen`
 
-**Frühere Beschreibung:** Honorarvertragstemplates fuer juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung.
+**Fokus:** Honorarvertragstemplates fuer juristische Werke: Standardvertrag Aufsatz, Buch, Kommentar, Herausgeberwerk. Abweichungspruefung gegen UrhG § 32 angemessene Verguetung.
 
 # Honorarvertrags-Templates
 
@@ -385,7 +385,7 @@ Justiziariat einbinden? [ja/nein]
 
 ## 4. `verl-haftungsfreistellung-autor-verlag`
 
-**Frühere Beschreibung:** Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im Verlagsvertrag, Reichweite, AGB-Schranken, Versicherungsfragen, Praxis bei Abmahnung und Klage.
+**Fokus:** Haftungsfreistellung zwischen Autor und Verlag: Klauselbaustein im Verlagsvertrag, Reichweite, AGB-Schranken, Versicherungsfragen, Praxis bei Abmahnung und Klage.
 
 # Haftungsfreistellung Autor / Verlag
 
@@ -557,7 +557,7 @@ Mit freundlichen Gruessen
 
 ## 5. `buchprojekt-kapitelkoordination`
 
-**Frühere Beschreibung:** Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildungen, Vorwort, Fristen und Produktionsstand.
+**Fokus:** Steuert Buchprojekte, Kapitel, Autor:innen, Herausgeber:innen, Register, Abbildungen, Vorwort, Fristen und Produktionsstand.
 
 # Buchprojekt- und Kapitelkoordination
 

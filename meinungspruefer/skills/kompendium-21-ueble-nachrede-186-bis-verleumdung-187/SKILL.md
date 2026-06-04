@@ -1,33 +1,33 @@
 ---
 name: kompendium-21-ueble-nachrede-186-bis-verleumdung-187
-description: "meinungspruefer: Konsolidiertes Skill-Kompendium 21; bündelt 2 frühere Spezialskills (ueble-nachrede-186, verleumdung-187) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "meinungspruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ueble Nachrede 186, Verleumdung 187; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - meinungspruefer
+# Arbeitsbereich - Ueble Nachrede 186, Verleumdung 187
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ueble-nachrede-186` | Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich wahr sind. Trennt Tatsachenkern, Beweislast, Verdachtsäußerung, Öffentlichkeit, § 188 StGB und Art 5 GG. |
 | `verleumdung-187` | Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ueble-nachrede-186`
 
-**Frühere Beschreibung:** Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich wahr sind. Trennt Tatsachenkern, Beweislast, Verdachtsäußerung, Öffentlichkeit, § 188 StGB und Art 5 GG.
+**Fokus:** Prüft § 186 StGB bei ehrenrührigen Tatsachenbehauptungen, die nicht erweislich wahr sind. Trennt Tatsachenkern, Beweislast, Verdachtsäußerung, Öffentlichkeit, § 188 StGB und Art 5 GG.
 
 # § 186 StGB - üble Nachrede
 
@@ -91,7 +91,7 @@ Eine harte Tatsachenbehauptung braucht harte Belege. Bei Verdacht:
 
 ## 2. `verleumdung-187`
 
-**Frühere Beschreibung:** Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken.
+**Fokus:** Prüft § 187 StGB bei bewusst unwahren ehrverletzenden Tatsachenbehauptungen. Fokussiert Wissen um Unwahrheit, Beweisstand, Rufschädigung, Öffentlichkeitswirkung und zivilrechtliche Anschlussrisiken.
 
 # § 187 StGB - Verleumdung
 

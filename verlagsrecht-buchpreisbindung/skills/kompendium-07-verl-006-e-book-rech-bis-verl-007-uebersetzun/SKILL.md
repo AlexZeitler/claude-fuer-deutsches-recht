@@ -1,33 +1,33 @@
 ---
 name: kompendium-07-verl-006-e-book-rech-bis-verl-007-uebersetzun
-description: "verlagsrecht-buchpreisbindung: Konsolidiertes Skill-Kompendium 07; bündelt 2 frühere Spezialskills (verl-006-e-book-rechte-print-rechte-hoerbuch-und-audio, verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verlagsrecht-buchpreisbindung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - verlagsrecht-buchpreisbindung
+# Arbeitsbereich - Verl 006 E Book Rechte Print Rechte Hoerbuch Und Audio, Verl 007 Uebersetzungsrechte Auslandslizenz Und Co Edition
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verl-006-e-book-rechte-print-rechte-hoerbuch-und-audio` | Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten. |
 | `verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition` | Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verl-006-e-book-rechte-print-rechte-hoerbuch-und-audio`
 
-**Frühere Beschreibung:** Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten.
+**Fokus:** Verlagsrecht: Nutzungsrechte für E-Book, Print, Hörbuch und Audio im Verlagsvertrag — Abgrenzung der Nutzungsarten, Buchpreisbindung je Ausgabe, Plattformverträge und Lizenzketten.
 
 # Verl-006 · E-Book, Print, Hörbuch und Audio: Nutzungsrechte und Preisbindung
 
@@ -139,7 +139,7 @@ Verlage müssen für jede **Ausgabeform** (Print, E-Book, Hörbuch, Audiostream,
 
 ## 2. `verl-007-uebersetzungsrechte-auslandslizenz-und-co-edition`
 
-**Frühere Beschreibung:** Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer.
+**Fokus:** Verlagsrecht: Übersetzungsrechte, Auslandslizenzen und Co-Editions — VerlG § 35, UrhG § 3, internationale Lizenzvertragsgestaltung, Verlagsrecht als Lizenzgeber und -nehmer.
 
 # Verl-007 · Übersetzungsrechte, Auslandslizenz und Co-Edition
 

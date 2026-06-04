@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-hgesr-handelsvertret-bis-registerrecht-handel
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (hgesr-handelsvertreterausgleich-detail, hgesr-mbg-modernisierungsgesetz-praxis, registerrecht-handelsregister-praxis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hgesr Handelsvertreterausgleich Detail, Hgesr Mbg Modernisierungsgesetz Praxis, Registerrecht Handelsregister Praxis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Hgesr Handelsvertreterausgleich Detail, Hgesr Mbg Modernisierungsgesetz Praxis, Registerrecht Handelsregister Praxis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hgesr-handelsvertreterausgleich-detail` | Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Hoechstgrenze. Beispielfall und Tabellenformeln. Routet in fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich. |
 | `hgesr-mbg-modernisierungsgesetz-praxis` | MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster fuer Altvertraege, Anpassungsbedarf, neue Standardklauseln. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hgesr-handelsvertreterausgleich-detail`
 
-**Frühere Beschreibung:** Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Hoechstgrenze. Beispielfall und Tabellenformeln. Routet in fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich.
+**Fokus:** Handelsvertreterausgleich § 89b HGB detailliert: Voraussetzungen Nichtwirksamwerden des Vertrags, Unternehmervorteile bestehen fort, Provisionsverluste, Billigkeit. Berechnung in mehreren Schritten: Rohausgleich, Billigkeitskorrektur, Hoechstgrenze. Beispielfall und Tabellenformeln. Routet in fachanwalt-handels-gesellschaftsrecht-handelsvertreterausgleich.
 
 # Handelsvertreterausgleich § 89b HGB
 
@@ -89,7 +89,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 2. `hgesr-mbg-modernisierungsgesetz-praxis`
 
-**Frühere Beschreibung:** MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster fuer Altvertraege, Anpassungsbedarf, neue Standardklauseln.
+**Fokus:** MoPeG (Modernisierungsgesetz Personengesellschaftsrecht) seit 2024 in der Praxis: neue GbR mit Rechtsfaehigkeit und Gesellschaftsregister, Auswirkungen auf Grundbuch, OHG-Aktualisierungen, KG-Detailaenderungen. Pruefraster fuer Altvertraege, Anpassungsbedarf, neue Standardklauseln.
 
 # HGesR: MoPeG-Praxis
 
@@ -150,7 +150,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-handels-gesellschaftsrecht`. Er erga
 
 ## 3. `registerrecht-handelsregister-praxis`
 
-**Frühere Beschreibung:** Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zustaendiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG. Typische Beanstandungen, Zwischenverfuegung, Beschwerde gegen Eintragungs-Verweigerung. Mustertexte.
+**Fokus:** Handelsregister-Praxis: Anmeldungen, Form (notariell, oeffentlich beglaubigt), zustaendiges Gericht, elektronische Einreichung XJustiz, Pruefungsumfang nach FamFG. Typische Beanstandungen, Zwischenverfuegung, Beschwerde gegen Eintragungs-Verweigerung. Mustertexte.
 
 # Registerrecht in der Praxis
 

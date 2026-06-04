@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-kanzlei-allgemein-re-bis-fristenbuch-fuehren
-description: "kanzlei-allgemein: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (kanzlei-allgemein-rechtsprechungsrecherche, fristenbuch-fuehren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kanzlei-allgemein: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - kanzlei-allgemein
+# Arbeitsbereich - Kanzlei Allgemein Rechtsprechungsrecherche, Fristenbuch Fuehren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kanzlei-allgemein-rechtsprechungsrecherche` | Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab. |
 | `fristenbuch-fuehren` | Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zuständigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kanzlei-allgemein-rechtsprechungsrecherche`
 
-**Frühere Beschreibung:** Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab.
+**Fokus:** Recherchiert Rechtsprechung zu einer konkreten Sache in amtlichen Datenbanken der Bundesgerichte und Länder, ergänzt OpenJur und dejure.org, bewertet Treffer, erstellt Zitier- und Verwertungsnotizen und legt Fundstellen samt Quellenprotokoll in der Akte oder freigegebenen Online-Ablage ab.
 
 # Rechtsprechungsrecherche und Fundstellenablage
 
@@ -164,7 +164,7 @@ Wenn eine Online-Ablage gewünscht ist:
 
 ## 2. `fristenbuch-fuehren`
 
-**Frühere Beschreibung:** Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zuständigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
+**Fokus:** Zentrales Fristenbuch für die Kanzlei mit Haupt- und Vorfristen über alle Rechtsgebiete. Berechnet Fristbeginn nach den jeweiligen Verfahrensordnungen (ZPO StPO SGG FGO VwGO FamFG AO BGB) Vier-Tages-Fiktionen bei Postzustellung (PostModG seit 1.1.2025; bis 31.12.2024 drei Tage). Trennt Notfristen (BRAO-Haftungsrisiko) von Beobachtungsfristen. Setzt Vorfristen typisch fuenf Werktage vor Hauptfrist; bei BRAO-relevanten Notfristen sieben Werktage. Eskalation an Sekretariat und zuständigen Anwalt bei Vorfristerreichung. Audit-Trail jeder Fristaenderung.
 
 # Zentrales Fristenbuch der Kanzlei
 

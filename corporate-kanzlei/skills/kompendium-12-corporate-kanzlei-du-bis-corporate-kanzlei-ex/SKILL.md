@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-corporate-kanzlei-du-bis-corporate-kanzlei-ex
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (corporate-kanzlei-due-diligence-reporting, corporate-kanzlei-expert-calls-transkripte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Due Diligence Reporting, Corporate Kanzlei Expert Calls Transkripte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-due-diligence-reporting` | DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance. |
 | `corporate-kanzlei-expert-calls-transkripte` | Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-due-diligence-reporting`
 
-**Frühere Beschreibung:** DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance.
+**Fokus:** DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht für M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Prüfraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung für SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance.
 
 # Due Diligence Reporting
 
@@ -275,7 +275,7 @@ Beim Verkaefer-initiierten Vendor DD erstellt ein unabhaengiger Berater den Repo
 
 ## 2. `corporate-kanzlei-expert-calls-transkripte`
 
-**Frühere Beschreibung:** Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting.
+**Fokus:** Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team führt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschäftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Prüfraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting.
 
 # Expert Calls und Transkripte
 

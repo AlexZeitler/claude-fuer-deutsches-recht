@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-see-013-bermuda-stru-bis-see-006-schiffsverka
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 5 frühere Spezialskills (see-013-bermuda-struktur-pruefen, see-002-seeschiff-oder-binnenschiff, see-003-schiffsregister-und-eigentum, see-004-schiffshypothek-pruefen, see-006-schiffsverkauf-closing) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 013 Bermuda Struktur Pruefen, See 002 Seeschiff Oder Binnenschiff, See 003 Schiffsregister Und Eigentum, See 004 Schiffshypothek Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 013 Bermuda Struktur Pruefen bis See 006 Schiffsverkauf Closing
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-013-bermuda-struktur-pruefen` | Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte. |
 | `see-002-seeschiff-oder-binnenschiff` | Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-013-bermuda-struktur-pruefen`
 
-**Frühere Beschreibung:** Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte.
+**Fokus:** Reederei nutzt Bermuda-Holding-Struktur (SPV; Cayman/BVI-Holding): steuerliche und haftungsrechtliche Analyse. Abgrenzung Reeder vs. Ausruester (HGB §§ 476/477); Durchgriffshaftung; BEPS-Konformitaet (AStG §§ 7-14); BFH-Rechtsprechung; ISM-Code-Verantwortung. Output: Strukturanalyse-Vermerk und Haftungsrisiko-Karte.
 
 # Bermuda-Struktur prüfen – Holding-Struktur und Haftungsrisiken
 
@@ -111,7 +111,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 2. `see-002-seeschiff-oder-binnenschiff`
 
-**Frühere Beschreibung:** Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime.
+**Fokus:** Mandant klaert ob sein Fahrzeug Seeschiff oder Binnenschiff ist: entscheidend fuer Register; Hypothekenrecht und Haftungsregime. Abgrenzung nach HGB § 476 (Seegewaesser) vs. BinSchG § 1 (Binnengewaesser); SchRegO § 3 (Seeschiffsregister) vs. BinSchRegO (Binnenschiffsregister). BSH-Fahrterlaubnis; Klasseregime. Output: Klassifizierungsvermerk mit Normpfad und Folgeregime.
 
 # Seeschiff oder Binnenschiff – Klassifizierungsprüfung
 
@@ -192,7 +192,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 3. `see-003-schiffsregister-und-eigentum`
 
-**Frühere Beschreibung:** Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf.
+**Fokus:** Mandant kauft Schiff und klaert Eigentumslage: Pruefung des Schiffsregisters auf Hypotheken; Vormerkungen; Arreste nach SchRG §§ 8-74 und SchRegO §§ 3-19. Eigentumsuebergang (SchRG § 2 Eintragungsprinzip); Rangfolge; Loeschungsvoraussetzungen. Output: Registerpruefprotokoll und Due-Diligence-Vermerk fuer Schiffskauf.
 
 # Schiffsregister und Eigentum – Due-Diligence-Prüfung
 
@@ -272,7 +272,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 4. `see-004-schiffshypothek-pruefen`
 
-**Frühere Beschreibung:** Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie.
+**Fokus:** Mandant (Bank oder Kaeufer) prueft bestehende Schiffshypothek: Valutierung; Rang; Sicherungsvertrag nach SchRG §§ 8-74. Hoechstbetragshypothek (SchRG § 75); Sicherungsabrede; Mithaftung Zubehoer (SchRG § 31); Kreditkuendigungsvoraussetzungen. Schiffsglaeubigerrecht-Vorrang (HGB §§ 596-601). Output: Hypothekenpruefvermerk und Freigabestrategie.
 
 # Schiffshypothek prüfen
 
@@ -355,7 +355,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 5. `see-006-schiffsverkauf-closing`
 
-**Frühere Beschreibung:** Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll.
+**Fokus:** Mandant schliesst Schiffsveraeusserung ab: MOA (Norwegian Saleform/Nipponsale) prufen; Closing-Bedingungen; Eigentumsuebergang (SchRG § 2); Flaggenwechsel; Loeschung alter Hypotheken (SchRG § 19); P&I-Abrechnung; Zertifikats-Ummeldung. FlaggRG §§ 3-5. Output: Closing-Checkliste und Uebergabe-Protokoll.
 
 # Schiffsverkauf Closing – Durchführung und Übergabe
 

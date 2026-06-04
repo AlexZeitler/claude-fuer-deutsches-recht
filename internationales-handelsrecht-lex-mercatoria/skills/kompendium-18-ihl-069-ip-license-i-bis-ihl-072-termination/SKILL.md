@@ -1,17 +1,17 @@
 ---
 name: kompendium-18-ihl-069-ip-license-i-bis-ihl-072-termination
-description: "internationales-handelsrecht-lex-mercatoria: Konsolidiertes Skill-Kompendium 18; bündelt 4 frühere Spezialskills (ihl-069-ip-license-in-supply-chain, ihl-070-confidentiality-and-trade-secrets, ihl-071-audit-rights-supplier, ihl-072-termination-crossborder) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internationales-handelsrecht-lex-mercatoria: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ihl 069 Ip License In Supply Chain, Ihl 070 Confidentiality And Trade Secrets, Ihl 071 Audit Rights Supplier, Ihl 072 Termination Crossborder; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 18 - internationales-handelsrecht-lex-mercatoria
+# Arbeitsbereich - Ihl 069 Ip License In Supply Chain bis Ihl 072 Termination Crossborder
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ihl-069-ip-license-in-supply-chain` | Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen. |
 | `ihl-070-confidentiality-and-trade-secrets` | Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ihl-069-ip-license-in-supply-chain`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen.
+**Fokus:** Internationales Handelsrecht: IP-Lizenzen in der Lieferkette. Patentzwangslizenz, Markenlizenz, Know-how-Lizenz, Reichweite von Sublizenzrechten, Exhaustion-Doktrin (EUIPO) und IP-Klauseln in Supply-Chain-Verträgen.
 
 # IP-Lizenzen in der Lieferkette
 
@@ -81,7 +81,7 @@ PatG §§ 9, 20: gesetze-im-internet.de. MarkenG § 24: gesetze-im-internet.de. 
 
 ## 2. `ihl-070-confidentiality-and-trade-secrets`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B.
+**Fokus:** Internationales Handelsrecht: Vertraulichkeit und Geschäftsgeheimnisschutz im internationalen Handel. HGeschGehG (Umsetzung RL 2016/943), angemessene Schutzmaßnahmen, Klagebefugnis und NDA-Gestaltung im grenzüberschreitenden B2B.
 
 # Vertraulichkeit und Geschäftsgeheimnisse
 
@@ -133,7 +133,7 @@ HGeschGehG: gesetze-im-internet.de. RL (EU) 2016/943: eur-lex.europa.eu. TRIPS A
 
 ## 3. `ihl-071-audit-rights-supplier`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern.
+**Fokus:** Internationales Handelsrecht: Audit-Rechte gegenüber Lieferanten. Vertragliche Grundlage, Umfang (Qualität, Umwelt, Menschenrechte, Finanzprüfung), Ankündigung, Datenzugang, Ergebnisverwertung und LkSG-Prüfpflichten bei mittelbaren Zulieferern.
 
 # Audit-Rechte gegenüber Lieferanten
 
@@ -185,7 +185,7 @@ LkSG §§ 4-5: gesetze-im-internet.de. ISO 19011:2018: iso.org. SA8000: saasaccr
 
 ## 4. `ihl-072-termination-crossborder`
 
-**Frühere Beschreibung:** Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung.
+**Fokus:** Internationales Handelsrecht: Vertragsbeendigung im grenzüberschreitenden Handel. CISG Art. 26 / 49 / 64 Aufhebungserklärung, PICC Art. 7.3.1-7.3.6 Kündigungsrecht, Rückabwicklung und cross-border Durchsetzung.
 
 # Vertragsbeendigung International
 

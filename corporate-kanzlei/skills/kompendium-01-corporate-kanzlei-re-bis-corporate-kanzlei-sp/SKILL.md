@@ -1,33 +1,33 @@
 ---
 name: kompendium-01-corporate-kanzlei-re-bis-corporate-kanzlei-sp
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 01; bündelt 2 frühere Spezialskills (corporate-kanzlei-rechtsprechungsrecherche, corporate-kanzlei-spa-apa-entwurf) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Rechtsprechungsrecherche, Corporate Kanzlei Spa Apa Entwurf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-rechtsprechungsrecherche` | Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper. |
 | `corporate-kanzlei-spa-apa-entwurf` | SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-rechtsprechungsrecherche`
 
-**Frühere Beschreibung:** Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper.
+**Fokus:** Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper.
 
 # Corporate-Rechtsprechungsrecherche
 
@@ -173,7 +173,7 @@ Ergebnisse verwendbar für:
 
 ## 2. `corporate-kanzlei-spa-apa-entwurf`
 
-**Frühere Beschreibung:** SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules.
+**Fokus:** SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules.
 
 # SPA/APA-Entwurf
 

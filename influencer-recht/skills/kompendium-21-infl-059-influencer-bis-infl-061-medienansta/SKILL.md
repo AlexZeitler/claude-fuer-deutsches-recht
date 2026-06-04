@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-infl-059-influencer-bis-infl-061-medienansta
-description: "influencer-recht: Konsolidiertes Skill-Kompendium 21; bündelt 3 frühere Spezialskills (infl-059-influencer-als-testimonials-in-kapitalmarktkommunikatio, infl-060-beauty-filter-und-irrefuehrung, infl-061-medienanstalt-anfrage-beantworten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "influencer-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Beantworten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - influencer-recht
+# Arbeitsbereich - Infl 059 Influencer Als Testimonials In Kapitalmarktkommunikatio, Infl 060 Beauty Filter Und Irrefuehrung, Infl 061 Medienanstalt Anfrage Bea
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infl-059-influencer-als-testimonials-in-kapitalmarktkommunikatio` | Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken. |
 | `infl-060-beauty-filter-und-irrefuehrung` | Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infl-059-influencer-als-testimonials-in-kapitalmarktkommunikatio`
 
-**Frühere Beschreibung:** Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken.
+**Fokus:** Influencer-Recht: Creator als Testimonials in Kapitalmarktkommunikation – WpHG, MAR, BaFin-Pflichten und Haftungsrisiken.
 
 # Influencer-Recht: Influencer als Testimonial in Kapitalmarktkommunikation
 
@@ -96,7 +96,7 @@ Creator in Kapitalmarktumfeld tragen erhebliche Haftungsrisiken:
 
 ## 2. `infl-060-beauty-filter-und-irrefuehrung`
 
-**Frühere Beschreibung:** Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung.
+**Fokus:** Influencer-Recht: Beauty-Filter und Bildbearbeitung – Irreführung, § 5 UWG, internationale Regulierungstendenzen und Körperbild-Kennzeichnung.
 
 # Influencer-Recht: Beauty-Filter und Irreführung
 
@@ -164,7 +164,7 @@ Beauty-Filter und KI-Bildbearbeitung in Werbeposts sind zunehmend reguliert:
 
 ## 3. `infl-061-medienanstalt-anfrage-beantworten`
 
-**Frühere Beschreibung:** Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie.
+**Fokus:** Influencer-Recht: Anfrage der Landesmedienanstalt beantworten – MStV, Verfahren, Mitwirkungspflichten, Bußgeld und Reaktionsstrategie.
 
 # Influencer-Recht: Landesmedienanstalt – Anfrage beantworten
 

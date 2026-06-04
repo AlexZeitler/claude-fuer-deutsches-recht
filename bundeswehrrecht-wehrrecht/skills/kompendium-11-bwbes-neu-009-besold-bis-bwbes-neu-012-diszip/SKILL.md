@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-bwbes-neu-009-besold-bis-bwbes-neu-012-diszip
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (bwbes-neu-009-besoldung-reservist-wehruebung-und-arbeitgeberausg, bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel, bwbes-neu-012-disziplinarbusse-kuerzung-und-besoldung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bwbes Neu 009 Besoldung Reservist Wehruebung Und Arbeitgeberausg, Bwbes Neu 011 Kdv Und Besoldungsfolgen Bei Statuswechsel, Bwbes Neu 012 Disziplinarbusse Kuerzung Und Besoldung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Bwbes Neu 009 Besoldung Reservist Wehruebung Und Arbeitgeberausg, Bwbes Neu 011 Kdv Und Besoldungsfolgen Bei Statuswechsel, Bwbes Neu 012 Dis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bwbes-neu-009-besoldung-reservist-wehruebung-und-arbeitgeberausg` | Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft ArbPlSchG, UhSiG, Freistellungspflicht und Kündigungsschutz. Norm-/Quellenanker: ArbPlSchG, UhSiG, WSG. |
 | `bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel` | KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bwbes-neu-009-besoldung-reservist-wehruebung-und-arbeitgeberausg`
 
-**Frühere Beschreibung:** Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft ArbPlSchG, UhSiG, Freistellungspflicht und Kündigungsschutz. Norm-/Quellenanker: ArbPlSchG, UhSiG, WSG.
+**Fokus:** Besoldung Reservisten, Wehrübung, Arbeitgeberausgleich: prüft ArbPlSchG, UhSiG, Freistellungspflicht und Kündigungsschutz. Norm-/Quellenanker: ArbPlSchG, UhSiG, WSG.
 
 # Besoldung Reservist: Wehrübung und Arbeitgeberausgleich
 
@@ -137,7 +137,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `bwbes-neu-011-kdv-und-besoldungsfolgen-bei-statuswechsel`
 
-**Frühere Beschreibung:** KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG.
+**Fokus:** KDV und Besoldungsfolgen Statuswechsel: prüft Art. 4 Abs. 3 GG, KDVG, Entlassungsrecht und Ausbildungskostenrückforderung. Norm-/Quellenanker: KDVG, SG §§ 46 und 56, Art. 4 GG.
 
 # KDV und Besoldungsfolgen bei Statuswechsel
 
@@ -247,7 +247,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `bwbes-neu-012-disziplinarbusse-kuerzung-und-besoldung`
 
-**Frühere Beschreibung:** Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG.
+**Fokus:** Disziplinarbuße, Gehaltskürzung, Besoldungsfolgen: prüft WDO §§ 22–30, Bemessung, Vollstreckung und Rechtsbehelfe. Norm-/Quellenanker: WDO, BBesG.
 
 # Disziplinarbuße, Gehaltskürzung und Besoldung
 

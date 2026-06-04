@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-paket-verloren-nachb-bis-probeabo-widerruf-ku
-description: "verbraucher-rechtsstaat-alltag: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (paket-verloren-nachbar-abgestellt, plattformkonto-sperre, probeabo-widerruf-kuendigung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucher-rechtsstaat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kuendigung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verbraucher-rechtsstaat-alltag
+# Arbeitsbereich - Paket Verloren Nachbar Abgestellt, Plattformkonto Sperre, Probeabo Widerruf Kuendigung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `paket-verloren-nachbar-abgestellt` | Paket verloren oder beim Nachbarn: führt Laien durch Lieferverlust, Abstellgenehmigung, Nachbarannahme, Gefahrübergang und Ersatzlieferung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache. |
 | `plattformkonto-sperre` | Plattformkonto gesperrt: erklärt Marktplatz, Social Media, Payment, Beschwerde und Dokumentation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `paket-verloren-nachbar-abgestellt`
 
-**Frühere Beschreibung:** Paket verloren oder beim Nachbarn: führt Laien durch Lieferverlust, Abstellgenehmigung, Nachbarannahme, Gefahrübergang und Ersatzlieferung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
+**Fokus:** Paket verloren oder beim Nachbarn: führt Laien durch Lieferverlust, Abstellgenehmigung, Nachbarannahme, Gefahrübergang und Ersatzlieferung. mit Fristen-, Beleg-, Datenschutz- und Kommunikationscheck in einfacher, aber rechtlich belastbarer Sprache.
 
 # Paket verloren oder beim Nachbarn
 
@@ -81,7 +81,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `plattformkonto-sperre`
 
-**Frühere Beschreibung:** Plattformkonto gesperrt: erklärt Marktplatz, Social Media, Payment, Beschwerde und Dokumentation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
+**Fokus:** Plattformkonto gesperrt: erklärt Marktplatz, Social Media, Payment, Beschwerde und Dokumentation in einfacher, aber richtiger Sprache; sortiert Dokumente, Fristen, Risiken und nächste Schritte ohne unnötige Preisgabe persönlicher Daten.
 
 # Plattformkonto gesperrt
 
@@ -131,7 +131,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `probeabo-widerruf-kuendigung`
 
-**Frühere Beschreibung:** Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr.
+**Fokus:** Probeabo, automatische Verlängerung und Widerruf: prüft kostenlose Testphase, spätere Zahlungspflicht, § 312j/312k/355 BGB, EuGH C-565/22 Sofatutor, Kündigungsbutton, Beweisführung und Forderungsabwehr.
 
 # Probeabo Widerruf Kündigung
 

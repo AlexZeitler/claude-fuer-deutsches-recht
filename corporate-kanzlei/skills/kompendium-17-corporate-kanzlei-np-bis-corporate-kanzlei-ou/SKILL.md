@@ -1,33 +1,33 @@
 ---
 name: kompendium-17-corporate-kanzlei-np-bis-corporate-kanzlei-ou
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 17; bündelt 2 frühere Spezialskills (corporate-kanzlei-npl-distressed-loan-transfer, corporate-kanzlei-outside-in-target-screening) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Npl Distressed Loan Transfer, Corporate Kanzlei Outside In Target Screening
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-npl-distressed-loan-transfer` | Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: KrZwMG-Rollen, Datenschutz, Sicherheiten, Borrower Notices, Portfolio-DD und Enforcement. |
 | `corporate-kanzlei-outside-in-target-screening` | Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff. (Stimmrechtsmitteilungen). Prüfraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-npl-distressed-loan-transfer`
 
-**Frühere Beschreibung:** Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: KrZwMG-Rollen, Datenschutz, Sicherheiten, Borrower Notices, Portfolio-DD und Enforcement.
+**Fokus:** Prüft Erwerb/Verkauf notleidender Darlehen im Corporate-Kontext: KrZwMG-Rollen, Datenschutz, Sicherheiten, Borrower Notices, Portfolio-DD und Enforcement.
 
 # Corporate: NPL und Distressed Loan Transfer
 
@@ -70,7 +70,7 @@ Kreditzweitmarktgesetz, BGB Abtretung, DSGVO, Sicherheiten, InsO/StaRUG, ZVG.
 
 ## 2. `corporate-kanzlei-outside-in-target-screening`
 
-**Frühere Beschreibung:** Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff. (Stimmrechtsmitteilungen). Prüfraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf.
+**Fokus:** Outside-In-Zielunternehmen-Screening aus öffentlichen Quellen für M&A-Vorprüfung: M&A-Team benoetigt schnellen Überblick über Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 33 ff. (Stimmrechtsmitteilungen). Prüfraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf.
 
 # Outside-In Target Screening
 

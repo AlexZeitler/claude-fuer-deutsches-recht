@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-legw-bmukn-wasser-un-bis-legw-bmvg-nato-und-s
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 10; bündelt 8 frühere Spezialskills (legw-bmukn-wasser-und-bodenschutzrecht, legw-bmv-luft-und-luftverkehrsrecht, legw-bmv-mobilitaets-und-fuehrerscheinrecht, legw-bmv-schienen-und-bahnregulierung-aeg, legw-bmv-schifffahrts-und-seeverkehrsrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmukn Wasser Und Bodenschutzrecht, Legw Bmv Luft Und Luftverkehrsrecht, Legw Bmv Mobilitaets Und Fuehrerscheinrecht, Legw Bmv Schienen Und Bahnregulierung Aeg und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmukn Wasser Und Bodenschutzrecht bis Legw Bmvg Nato Und Stationierungsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmukn-wasser-und-bodenschutzrecht` | Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Laender-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung). |
 | `legw-bmv-luft-und-luftverkehrsrecht` | Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmukn-wasser-und-bodenschutzrecht`
 
-**Frühere Beschreibung:** Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Laender-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
+**Fokus:** Sachbereich Wasser- und Bodenschutzrecht im Geschaeftsbereich BMUKN: Normbestand (WHG; LWGs; BBodSchG; BBodSchV; AwSV; DueV; KrWG-Bezuege.); Akteure (UBA; BfG; Laender-Wasserbehoerden; LAWA.); EU-Bezug (Wasserrahmen-RL; Grundwasser-RL; Nitrat-RL; Meeresstrategie-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmukn (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmukn (Heranfuehrung).
 
 # Wasser- und Bodenschutzrecht (BMUKN)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmv-luft-und-luftverkehrsrecht`
 
-**Frühere Beschreibung:** Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Sachbereich Luft- und Luftverkehrsrecht im Geschaeftsbereich BMV: Normbestand (LuftVG; LuftVO; LuftBO; LuftVZO; LuftSiG; EU-VO 2018/1139.); Akteure (Luftfahrt-Bundesamt; BAF; DFS; EASA (EU).); EU-Bezug (EU-Luftverkehrs-VO; Single European Sky; EASA-Verordnung.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Luft- und Luftverkehrsrecht (BMV)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmv-mobilitaets-und-fuehrerscheinrecht`
 
-**Frühere Beschreibung:** Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschaeftsbereich BMV: Normbestand (FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.); Akteure (KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.); EU-Bezug (Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Sachbereich Mobilitaets- und Fuehrerscheinrecht im Geschaeftsbereich BMV: Normbestand (FeV; StVG; PBefG; CsgG (Carsharinggesetz); GVFG; ElektroMobG.); Akteure (KBA; Fahrerlaubnisbehoerden; Verkehrsministerien der Laender.); EU-Bezug (Fuehrerschein-RL; alternativer Antrieb (RED III; AFIR).); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Mobilitaets- und Fuehrerscheinrecht (BMV)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmv-schienen-und-bahnregulierung-aeg`
 
-**Frühere Beschreibung:** Sachbereich Schienen- und Bahnregulierung (AEG) im Geschaeftsbereich BMV: Normbestand (AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.); Akteure (EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.); EU-Bezug (4. Eisenbahnpaket; TSI; ERA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Sachbereich Schienen- und Bahnregulierung (AEG) im Geschaeftsbereich BMV: Normbestand (AEG; ERegG; BSchwAG; BNetzAG; EisbahnG; ERegV.); Akteure (EBA; BNetzA; DB-Konzern; Laender-Aufsicht; Schienenverkehrsbeirat.); EU-Bezug (4. Eisenbahnpaket; TSI; ERA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Schienen- und Bahnregulierung (AEG) (BMV)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmv-schifffahrts-und-seeverkehrsrecht`
 
-**Frühere Beschreibung:** Sachbereich Schifffahrts- und Seeverkehrsrecht im Geschaeftsbereich BMV: Normbestand (SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.); Akteure (BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.); EU-Bezug (EMSA; IMO-Umsetzung; Hafenstaatkontrolle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Sachbereich Schifffahrts- und Seeverkehrsrecht im Geschaeftsbereich BMV: Normbestand (SeeAufgG; SchSG; BinSchG; SeeFischG; Marpol-Ausfuehrungsgesetze.); Akteure (BSH; BG Verkehr; Wasser- und Schifffahrtsverwaltung des Bundes; HavarieKommando.); EU-Bezug (EMSA; IMO-Umsetzung; Hafenstaatkontrolle.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Schifffahrts- und Seeverkehrsrecht (BMV)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmv-strassenverkehrsrecht-und-stvg-stvo`
 
-**Frühere Beschreibung:** Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschaeftsbereich BMV: Normbestand (StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.); Akteure (Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.); EU-Bezug (Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
+**Fokus:** Sachbereich Strassenverkehrsrecht (StVG; StVO) im Geschaeftsbereich BMV: Normbestand (StVG; StVO; FeV; FZV; StVZO; FStrG; PBefG.); Akteure (Kraftfahrt-Bundesamt; BMV; Strassenverkehrsbehoerden der Laender und Kommunen.); EU-Bezug (Typgenehmigungsrecht (EU 2018/858); Fuehrerschein-RL; Mobilitaetspaket.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmv (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmv (Heranfuehrung).
 
 # Strassenverkehrsrecht (StVG; StVO) (BMV)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmvg-militaerische-beschaffung-und-vergaberecht`
 
-**Frühere Beschreibung:** Sachbereich Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg: Normbestand (BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).); Akteure (BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.); EU-Bezug (RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Sachbereich Militaerische Beschaffung und Vergaberecht im Geschaeftsbereich BMVg: Normbestand (BwBeschG; GWB; VgV; SektVO; KonzVgV; VSVgV (Verteidigungs- und Sicherheitsvergabe).); Akteure (BAAINBw; BMVg-Abteilungen Ausruestung; BMWE-Vergaberecht; OLG-Vergabesenate.); EU-Bezug (RL 2009/81/EG (Verteidigungs- und Sicherheitsvergabe); Art. 346 AEUV.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # Militaerische Beschaffung und Vergaberecht (BMVg)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmvg-nato-und-stationierungsrecht`
 
-**Frühere Beschreibung:** Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
+**Fokus:** Sachbereich NATO-Recht und Stationierungsrecht im Geschaeftsbereich BMVg: Normbestand (NATO-Truppenstatut; ZA-NTS; Stationierungsstreitkraefte-Schutzgesetz; AwSV.); Akteure (BMVg; BMI; BMJV; Bundesbehoerden im NATO-Verbund.); EU-Bezug (EU-Verteidigungspolitik; Mobility Package; GSVP-Missionen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmvg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmvg (Heranfuehrung).
 
 # NATO-Recht und Stationierungsrecht (BMVg)
 

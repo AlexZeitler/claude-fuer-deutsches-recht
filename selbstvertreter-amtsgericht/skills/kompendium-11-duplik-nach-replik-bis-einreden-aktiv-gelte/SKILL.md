@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-duplik-nach-replik-bis-einreden-aktiv-gelte
-description: "selbstvertreter-amtsgericht: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (duplik-nach-replik, eidesstattliche-versicherung-294-zpo, einreden-aktiv-geltend-machen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-amtsgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - selbstvertreter-amtsgericht
+# Arbeitsbereich - Duplik Nach Replik, Eidesstattliche Versicherung 294 Zpo, Einreden Aktiv Geltend Machen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `duplik-nach-replik` | Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht. |
 | `eidesstattliche-versicherung-294-zpo` | Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `duplik-nach-replik`
 
-**Frühere Beschreibung:** Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht.
+**Fokus:** Duplik als Beklagten-Antwort auf die Klaeger-Replik. Letzter Schriftsatz vor Termin neue Tatsachen Beweisangebote substantiiertes Bestreiten Reaktion auf Klaeger-Replik. Wann ist Duplik noetig wann nicht.
 
 # Duplik: Antwort des Beklagten auf die Replik
 
@@ -177,7 +177,7 @@ Stand: 05/2026. ZPO unveraendert.
 
 ## 2. `eidesstattliche-versicherung-294-zpo`
 
-**Frühere Beschreibung:** Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB.
+**Fokus:** Eidesstattliche Versicherung nach § 294 ZPO als Glaubhaftmachung. Nicht Strengbeweis nur für Glaubhaftmachung bei PKH-Antrag Wiedereinsetzung einstweiligem Rechtsschutz. Strafbarkeit der falschen eidesstattlichen Versicherung § 156 StGB.
 
 # Eidesstattliche Versicherung: nur Glaubhaftmachung, kein Beweis!
 
@@ -324,7 +324,7 @@ Stand: 05/2026. § 294 ZPO, § 156 StGB unveraendert.
 
 ## 3. `einreden-aktiv-geltend-machen`
 
-**Frühere Beschreibung:** Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen.
+**Fokus:** Einreden aktiv geltend machen Verjährung Aufrechnung Zurückbehaltung Stundung im Klageerwiderungs-Schriftsatz. Mustertexte und Anwendung. Gericht prüft nicht von Amts wegen außer bei rechtsvernichtenden oder rechtshindernden Einwendungen.
 
 # Einreden: Sie muessen sie erheben!
 

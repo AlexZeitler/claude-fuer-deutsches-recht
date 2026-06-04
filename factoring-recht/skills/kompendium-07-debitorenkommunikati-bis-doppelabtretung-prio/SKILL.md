@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-debitorenkommunikati-bis-doppelabtretung-prio
-description: "factoring-recht: Konsolidiertes Skill-Kompendium 07; bündelt 3 frühere Spezialskills (debitorenkommunikation-und-abtretungsanzeige, debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb, doppelabtretung-prioritaet-und-gutglaubensprobleme) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "factoring-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutglaubensprobleme; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - factoring-recht
+# Arbeitsbereich - Debitorenkommunikation Und Abtretungsanzeige, Debitorenschutz Einwendungen 404 Bgb Aufrechnung 406 Bgb, Doppelabtretung Prioritaet Und Gutgla
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `debitorenkommunikation-und-abtretungsanzeige` | Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige. |
 | `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb` | Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `debitorenkommunikation-und-abtretungsanzeige`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Debitorenkommunikation und Abtretungsanzeige.
 
 # Debitorenkommunikation und Abtretungsanzeige
 
@@ -143,7 +143,7 @@ ich teile Ihnen mit, dass ich meine sämtlichen gegenwärtigen und künftigen Fo
 
 ## 2. `debitorenschutz-einwendungen-404-bgb-aufrechnung-406-bgb`
 
-**Frühere Beschreibung:** Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Debitorenschutz Einwendungen § 404 BGB Aufrechnung § 406 BGB
 
@@ -254,7 +254,7 @@ Fragen zum Einstieg:
 
 ## 3. `doppelabtretung-prioritaet-und-gutglaubensprobleme`
 
-**Frühere Beschreibung:** Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
+**Fokus:** Doppelabtretung Priorität und Gutglaubensprobleme: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: KWG § 1 Abs. 1a Satz 2 Nr. 9, § 32 KWG, BaFin-Merkblatt Factoring, BGB §§ 398 ff., HGB § 354a, ZAG, GwG, DSGVO.
 
 # Doppelabtretung Priorität und Gutglaubensprobleme
 

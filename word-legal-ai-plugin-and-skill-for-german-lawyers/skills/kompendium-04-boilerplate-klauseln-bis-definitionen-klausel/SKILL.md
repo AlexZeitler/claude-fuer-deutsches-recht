@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-boilerplate-klauseln-bis-definitionen-klausel
-description: "word-legal-ai-plugin-and-skill-for-german-lawyers: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (boilerplate-klauseln-katalog, definitionen-klauseln-stringent) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "word-legal-ai-plugin-and-skill-for-german-lawyers: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - word-legal-ai-plugin-and-skill-for-german-lawyers
+# Arbeitsbereich - Boilerplate Klauseln Katalog, Definitionen Klauseln Stringent
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `boilerplate-klauseln-katalog` | Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext. |
 | `definitionen-klauseln-stringent` | Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `boilerplate-klauseln-katalog`
 
-**Frühere Beschreibung:** Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext.
+**Fokus:** Katalog typischer Boilerplate-Klauseln im deutschen Wirtschaftsvertrag mit Wirksamkeitsanalyse und Mustertexten. Behandelt salvatorische Klausel (BGH-kritisch nach § 139 BGB), Schriftformklausel inklusive doppelter Schriftformklausel, Gerichtsstand nach § 38 ZPO, Rechtswahl nach Rom-I-VO, Erfuellungsort, Bekanntmachung, Uebertragungsverbot. Je Klausel: Voraussetzung, AGB-Risiko, Mustertext.
 
 # Boilerplate-Klauseln: Katalog mit Mustertexten
 
@@ -202,7 +202,7 @@ Erfuellungsort fuer Lieferung und Zahlung ist der Sitz des Lieferanten.
 
 ## 2. `definitionen-klauseln-stringent`
 
-**Frühere Beschreibung:** Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel.
+**Fokus:** Defined Terms in Vertraegen sauber bauen. Hierarchie und Konsistenz: einmal definieren, im gesamten Dokument einheitlich verwenden, mit Grossschreibung sichtbar machen. Trennung zwischen zentralem Definitionen-Abschnitt (alphabetisch) und Inline-Definitionen ('im Folgenden Vertrag'). Mit Beispielklauseln, Konsistenzpruefung per Suchen-Ersetzen-Logik und einem Katalog typischer Anti-Pattern wie verschachtelte Definitionen oder Definitionsdoppel.
 
 # Definitionen-Klauseln stringent
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-orientierung-strafzu-bis-spezial-besonders-fo
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 08; bündelt 3 frühere Spezialskills (orientierung-strafzumessung-triage, paragraph-46-stgb-grundsatz-strafzumessung, spezial-besonders-formular-portal-und-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - strafzumessung
+# Arbeitsbereich - Orientierung Strafzumessung Triage, Paragraph 46 Stgb Grundsatz Strafzumessung, Besonders Formular Portal Und Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `orientierung-strafzumessung-triage` | Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Spezial-Skills aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern. |
 | `paragraph-46-stgb-grundsatz-strafzumessung` | Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `orientierung-strafzumessung-triage`
 
-**Frühere Beschreibung:** Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Spezial-Skills aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern.
+**Fokus:** Einstieg und Triage im Plugin Strafzumessung. Ordnet das Mandat (Strafverteidiger, Staatsanwaltschaft, Beistand) nach Verfahrensstadium (Strafbefehl, Anklage, Hauptverhandlung, Urteil, Berufung, nachtraegliche Gesamtstrafe), erkennt Eilfristen, schlaegt passende Spezial-Skills aus diesem Plugin vor und liefert bei klarer Faktenlage sofort einen ersten Strafzumessungsentwurf mit Platzhaltern.
 
 ## Konversationsstil – konzis starten, schnell zum Dokument
 
@@ -114,7 +114,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 
 ## 2. `paragraph-46-stgb-grundsatz-strafzumessung`
 
-**Frühere Beschreibung:** Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO.
+**Fokus:** Grundsatznorm der Strafzumessung § 46 StGB. Schuld als Grundlage (Abs. 1 Satz 1), praeventive Wirkungen auf das kuenftige Leben des Taeters (Abs. 1 Satz 2), Katalog der Strafzumessungstatsachen (Abs. 2), Doppelverwertungsverbot (Abs. 3). Anwendung in Hauptverhandlung, Urteilsbegruendung und Revision. Schnittstelle zu §§ 46a 47 49 56 StGB und § 267 Abs. 3 StPO.
 
 # § 46 StGB — Grundsatz der Strafzumessung
 
@@ -206,7 +206,7 @@ Wenn die Rolle unklar ist, **frage zuerst** — die Argumentationsrichtung haeng
 
 ## 3. `spezial-besonders-formular-portal-und-einreichung`
 
-**Frühere Beschreibung:** Besonders: Formular, Portal und Einreichungslogik im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Besonders: Formular, Portal und Einreichungslogik im Plugin strafzumessung; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Besonders: Formular, Portal und Einreichungslogik
 

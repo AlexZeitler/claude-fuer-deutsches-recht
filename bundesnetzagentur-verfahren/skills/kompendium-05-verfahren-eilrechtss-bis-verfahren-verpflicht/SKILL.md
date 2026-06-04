@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-verfahren-eilrechtss-bis-verfahren-verpflicht
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 05; bündelt 8 frühere Spezialskills (verfahren-eilrechtsschutz-80-vwgo, verfahren-festlegungsverfahren-beschlusskammer, verfahren-gebuehren-kosten-bnetza, verfahren-geschaeftsgeheimnisse-im-verwaltungsverfahren, verfahren-konsultationsverfahren-stellungnahme und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfahren Eilrechtsschutz 80 Vwgo, Verfahren Festlegungsverfahren Beschlusskammer, Verfahren Gebuehren Kosten Bnetza, Verfahren Geschaeftsgeheimnisse Im Verwaltungsverfahren und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Verfahren Eilrechtsschutz 80 Vwgo bis Verfahren Verpflichtungszusage Und Abhilfemassnahme
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verfahren-eilrechtsschutz-80-vwgo` | Verfahren / Eilrechtsschutz § 80 VwGO: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
 | `verfahren-festlegungsverfahren-beschlusskammer` | Verfahren / Festlegungsverfahren Beschlusskammer: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verfahren-eilrechtsschutz-80-vwgo`
 
-**Frühere Beschreibung:** Verfahren / Eilrechtsschutz § 80 VwGO: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Eilrechtsschutz § 80 VwGO: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Eilrechtsschutz § 80 VwGO
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `verfahren-festlegungsverfahren-beschlusskammer`
 
-**Frühere Beschreibung:** Verfahren / Festlegungsverfahren Beschlusskammer: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Festlegungsverfahren Beschlusskammer: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Festlegungsverfahren Beschlusskammer
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `verfahren-gebuehren-kosten-bnetza`
 
-**Frühere Beschreibung:** Verfahren / Gebühren Kosten BNetzA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Gebühren Kosten BNetzA: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Gebühren Kosten BNetzA
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `verfahren-geschaeftsgeheimnisse-im-verwaltungsverfahren`
 
-**Frühere Beschreibung:** Verfahren / Geschäftsgeheimnisse im Verwaltungsverfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Geschäftsgeheimnisse im Verwaltungsverfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Geschäftsgeheimnisse im Verwaltungsverfahren
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `verfahren-konsultationsverfahren-stellungnahme`
 
-**Frühere Beschreibung:** Verfahren / Konsultationsverfahren Stellungnahme: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Konsultationsverfahren Stellungnahme: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Konsultationsverfahren Stellungnahme
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `verfahren-legal-project-management-bnetza-verfahren`
 
-**Frühere Beschreibung:** Verfahren / Legal Project Management BNetzA-Verfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Legal Project Management BNetzA-Verfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Legal Project Management BNetzA-Verfahren
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `verfahren-pressekommunikation-regulierungsverfahren`
 
-**Frühere Beschreibung:** Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Pressekommunikation Regulierungsverfahren: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Pressekommunikation Regulierungsverfahren
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `verfahren-verpflichtungszusage-und-abhilfemassnahme`
 
-**Frühere Beschreibung:** Verfahren / Verpflichtungszusage und Abhilfemaßnahme: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Verpflichtungszusage und Abhilfemaßnahme: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Verpflichtungszusage und Abhilfemaßnahme
 

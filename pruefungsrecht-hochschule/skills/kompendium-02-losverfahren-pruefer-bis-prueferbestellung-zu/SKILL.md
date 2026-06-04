@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-losverfahren-pruefer-bis-prueferbestellung-zu
-description: "pruefungsrecht-hochschule: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (losverfahren-pruefer, neubewertung-verfahren, notenbekanntgabe-und-friststart, prueferbestellung-zustaendigkeit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "pruefungsrecht-hochschule: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Losverfahren Pruefer, Neubewertung Verfahren, Notenbekanntgabe Und Friststart, Prueferbestellung Zustaendigkeit; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - pruefungsrecht-hochschule
+# Arbeitsbereich - Losverfahren Pruefer bis Prueferbestellung Zustaendigkeit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `losverfahren-pruefer` | Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler. |
 | `neubewertung-verfahren` | Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `losverfahren-pruefer`
 
-**Frühere Beschreibung:** Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler.
+**Fokus:** Prüft Prüferzuteilung, Losverfahren, Befangenheit und Umsetzungsfehler.
 
 # Losverfahren und Prüferzuteilung
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 2. `neubewertung-verfahren`
 
-**Frühere Beschreibung:** Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik.
+**Fokus:** Prüft Neubewertung, Prüferbindung, Austausch des Prüfers und Bescheidtechnik.
 
 # Neubewertung Verfahren
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 3. `notenbekanntgabe-und-friststart`
 
-**Frühere Beschreibung:** Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung.
+**Fokus:** Prüft Bekanntgabe der Note, Rechtsbehelfsfrist, Portalstatus und Zustellung.
 
 # Notenbekanntgabe und Friststart
 
@@ -212,7 +212,7 @@ Dieser Skill vertieft ein konkretes Problem im Hochschulprüfungsrecht. Er ist f
 
 ## 4. `prueferbestellung-zustaendigkeit`
 
-**Frühere Beschreibung:** Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung.
+**Fokus:** Prüft Prüferbestellung, Prüfungsausschuss, Zuständigkeitsfehler und Heilung.
 
 # Prüferbestellung und Zuständigkeit
 

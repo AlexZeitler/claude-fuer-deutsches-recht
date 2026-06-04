@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-incident-meldekaskad-bis-java-code-signing-ze
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (incident-meldekaskade-24-72-abschluss, iot-geraete, iso27001-mapping, java-code-signing-zertifikate) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Incident Meldekaskade 24 72 Abschluss, Iot Geraete, Iso27001 Mapping, Java Code Signing Zertifikate; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Incident Meldekaskade 24 72 Abschluss bis Java Code Signing Zertifikate
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `incident-meldekaskade-24-72-abschluss` | Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht. |
 | `iot-geraete` | Prüft IoT-Geräte im Unternehmen und Produktkontext. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `incident-meldekaskade-24-72-abschluss`
 
-**Frühere Beschreibung:** Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht.
+**Fokus:** Baut die Incident-Meldekaskade mit Frühwarnung, Folgemeldung und Abschlussbericht.
 
 # Incident Meldekaskade 24 72 Abschluss
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `iot-geraete`
 
-**Frühere Beschreibung:** Prüft IoT-Geräte im Unternehmen und Produktkontext.
+**Fokus:** Prüft IoT-Geräte im Unternehmen und Produktkontext.
 
 # IoT Geraete
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `iso27001-mapping`
 
-**Frühere Beschreibung:** Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies.
+**Fokus:** Mappt ISO 27001 Controls auf NIS-2, BSI und interne Policies.
 
 # ISO 27001 Mapping
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `java-code-signing-zertifikate`
 
-**Frühere Beschreibung:** Prüft Java-Code-Signing und Zertifikatsmanagement.
+**Fokus:** Prüft Java-Code-Signing und Zertifikatsmanagement.
 
 # Java Code Signing Zertifikate
 

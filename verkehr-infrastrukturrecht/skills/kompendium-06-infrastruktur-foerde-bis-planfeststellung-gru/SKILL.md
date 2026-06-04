@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-infrastruktur-foerde-bis-planfeststellung-gru
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 06; bündelt 3 frühere Spezialskills (infrastruktur-foerderung-uebersicht, nachhaltige-bahninfrastruktur-emissionen, planfeststellung-grundzuege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Infrastruktur Foerderung Uebersicht, Nachhaltige Bahninfrastruktur Emissionen, Planfeststellung Grundzuege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Infrastruktur Foerderung Uebersicht, Nachhaltige Bahninfrastruktur Emissionen, Planfeststellung Grundzuege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `infrastruktur-foerderung-uebersicht` | Foerderprogramme Verkehrsinfrastruktur uebersichtlich: GVFG, KfW, EU CEF, NIP, Foerderaufruf BMDV, Land-Programme. Pro Programm: Foerdergegenstand, Quote, Antragsweg, Berichtspflichten. Routet in verkehr-infrastrukturrecht-foerderung-vergabe. |
 | `nachhaltige-bahninfrastruktur-emissionen` | Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug fuer Stahl/Schienen-Lieferungen. Compliance-Roadmap fuer DB-Auftraggeber und Bauunternehmen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `infrastruktur-foerderung-uebersicht`
 
-**Frühere Beschreibung:** Foerderprogramme Verkehrsinfrastruktur uebersichtlich: GVFG, KfW, EU CEF, NIP, Foerderaufruf BMDV, Land-Programme. Pro Programm: Foerdergegenstand, Quote, Antragsweg, Berichtspflichten. Routet in verkehr-infrastrukturrecht-foerderung-vergabe.
+**Fokus:** Foerderprogramme Verkehrsinfrastruktur uebersichtlich: GVFG, KfW, EU CEF, NIP, Foerderaufruf BMDV, Land-Programme. Pro Programm: Foerdergegenstand, Quote, Antragsweg, Berichtspflichten. Routet in verkehr-infrastrukturrecht-foerderung-vergabe.
 
 # Infrastruktur-Foerderung
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `verkehr-infrastrukturrecht`. Er ergaenzt die ue
 
 ## 2. `nachhaltige-bahninfrastruktur-emissionen`
 
-**Frühere Beschreibung:** Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug fuer Stahl/Schienen-Lieferungen. Compliance-Roadmap fuer DB-Auftraggeber und Bauunternehmen.
+**Fokus:** Nachhaltige Bahninfrastruktur und Emissionen: Trassenpreis, Elektrifizierungsfoerderung, Verlagerung Schiene, ETS und Strassenverkehr, CBAM-Bezug fuer Stahl/Schienen-Lieferungen. Compliance-Roadmap fuer DB-Auftraggeber und Bauunternehmen.
 
 # Bahninfrastruktur: Emissionen
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `verkehr-infrastrukturrecht`. Er ergaenzt die ue
 
 ## 3. `planfeststellung-grundzuege`
 
-**Frühere Beschreibung:** Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhoerungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung.
+**Fokus:** Planfeststellung in Grundzuegen: §§ 72 ff. VwVfG, fachgesetzliche Planfeststellung Strasse, Schiene, Wasser, Energie. Antragsunterlagen, Anhoerungsverfahren, Beschluss, Klage. Verhaeltnis zur Plangenehmigung. Routet in verkehr-infrastrukturrecht-planfeststellung.
 
 # Planfeststellung: Grundzuege
 

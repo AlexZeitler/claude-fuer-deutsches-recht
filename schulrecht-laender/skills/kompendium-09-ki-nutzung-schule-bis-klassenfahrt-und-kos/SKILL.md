@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-ki-nutzung-schule-bis-klassenfahrt-und-kos
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (ki-nutzung-schule, ki-plagiat-hausarbeit-schule, klassenbildung-und-zuteilung, klassenfahrt-und-kosten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ki Nutzung Schule, Ki Plagiat Hausarbeit Schule, Klassenbildung Und Zuteilung, Klassenfahrt Und Kosten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - schulrecht-laender
+# Arbeitsbereich - Ki Nutzung Schule bis Klassenfahrt Und Kosten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ki-nutzung-schule` | Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen. |
 | `ki-plagiat-hausarbeit-schule` | Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ki-nutzung-schule`
 
-**Frühere Beschreibung:** Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen.
+**Fokus:** Prüft KI-Nutzung in Unterricht, Hausaufgaben und Prüfungen.
 
 # KI Nutzung Schule
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: KI-Regelvermerk. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 2. `ki-plagiat-hausarbeit-schule`
 
-**Frühere Beschreibung:** Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen.
+**Fokus:** Prüft KI-Nutzung, Eigenständigkeitserklärung, Beweiswert und Sanktionen.
 
 # KI, Plagiat und Hausarbeit Schule
 
@@ -157,7 +157,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 3. `klassenbildung-und-zuteilung`
 
-**Frühere Beschreibung:** Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente.
+**Fokus:** Prüft Klassenbildung, Klassenzuteilung, Kapazität und Härtefallargumente.
 
 # Klassenbildung und Zuteilung
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `klassenfahrt-und-kosten`
 
-**Frühere Beschreibung:** Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss.
+**Fokus:** Prüft Klassenfahrt, Pflicht, Kosten und Ausschluss.
 
 # Klassenfahrt Und Kosten
 

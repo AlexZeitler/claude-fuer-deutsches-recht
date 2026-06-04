@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-verkehrsowi-simulati-bis-verkehrsowi-zeugen-p
-description: "verkehrsowi-verteidiger: Konsolidiertes Skill-Kompendium 15; bündelt 3 frühere Spezialskills (verkehrsowi-simulation-training, verkehrsowi-verjaehrung-zustellung, verkehrsowi-zeugen-polizei-strategie) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehrsowi-verteidiger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - verkehrsowi-verteidiger
+# Arbeitsbereich - Verkehrsowi Simulation Training, Verkehrsowi Verjaehrung Zustellung, Verkehrsowi Zeugen Polizei Strategie
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehrsowi-simulation-training` | Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten. |
 | `verkehrsowi-verjaehrung-zustellung` | Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehrsowi-simulation-training`
 
-**Frühere Beschreibung:** Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten.
+**Fokus:** Simulationstraining für OWi-Mandate. Uebungsszenarien Messverfahren Rotlicht Handy Alkohol Fahreridentifizierung. Rollenspiel Mandantengespraeche Hauptverhandlung. Fallvarianten mit Erwartungshorizont. Training ohne echte Mandatsdaten.
 
 # Simulationstraining OWi-Mandate
 
@@ -108,7 +108,7 @@ Polizeibeamter sagt aus: "Ich sah das Fahrzeug mit 80 km/h und sicher mehr als e
 
 ## 2. `verkehrsowi-verjaehrung-zustellung`
 
-**Frühere Beschreibung:** Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid.
+**Fokus:** Verfolgungsverjährung im OWi-Verfahren prüfen: Anwalt will Verjährungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjährungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjährung 6 Monate. Prüfraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjährungseinwand, Absolute-Verjährungs-Frist. Output Verjährungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bußgeldbescheid.
 
 # Verfolgungsverjaehrung und Zustellungsmaengel — § 31 OWiG
 
@@ -177,7 +177,7 @@ Wenn Zustellungsmangel vorliegt:
 
 ## 3. `verkehrsowi-zeugen-polizei-strategie`
 
-**Frühere Beschreibung:** Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfähigkeit Routine-OWi, Vorhalt frueherer Aussage, Sachverständiger Aussage-Glaubwürdigkeit. Output Fragenkatalog für Polizeizeugen-Vernehmung, Strategie-Memo. Abgrenzung: Fahreridentifizierung siehe verkehrsowi-fahreridentifizierung; HV-Gesamt siehe verkehrsowi-hauptverhandlung-amtsgericht.
+**Fokus:** Zeugen-Strategie gegenüber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Prüfraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfähigkeit Routine-OWi, Vorhalt frueherer Aussage, Sachverständiger Aussage-Glaubwürdigkeit. Output Fragenkatalog für Polizeizeugen-Vernehmung, Strategie-Memo. Abgrenzung: Fahreridentifizierung siehe verkehrsowi-fahreridentifizierung; HV-Gesamt siehe verkehrsowi-hauptverhandlung-amtsgericht.
 
 # Polizeibeamten als Zeugen im OWi-Verfahren
 

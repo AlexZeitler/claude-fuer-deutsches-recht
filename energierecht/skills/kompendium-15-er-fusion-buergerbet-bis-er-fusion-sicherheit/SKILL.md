@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-er-fusion-buergerbet-bis-er-fusion-sicherheit
-description: "energierecht: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (er-fusion-buergerbeteiligung-und-politik, er-fusion-foerderung-beihilfe, er-fusion-netzanschluss-und-systemnutzen, er-fusion-sicherheitsnachweis) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "energierecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Er Fusion Buergerbeteiligung Und Politik, Er Fusion Foerderung Beihilfe, Er Fusion Netzanschluss Und Systemnutzen, Er Fusion Sicherheitsnachweis; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - energierecht
+# Arbeitsbereich - Er Fusion Buergerbeteiligung Und Politik bis Er Fusion Sicherheitsnachweis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `er-fusion-buergerbeteiligung-und-politik` | Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement. |
 | `er-fusion-foerderung-beihilfe` | Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `er-fusion-buergerbeteiligung-und-politik`
 
-**Frühere Beschreibung:** Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement.
+**Fokus:** Plant Beteiligung, Umweltinformationen, Presse, Einwendungen, Bürgerentscheid-Schnittstellen und Konfliktmanagement.
 
 # Fusion: Bürgerbeteiligung und politische Kommunikation
 
@@ -66,7 +66,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 ## 2. `er-fusion-foerderung-beihilfe`
 
-**Frühere Beschreibung:** Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle.
+**Fokus:** Prüft staatliche Förderung, EU-Beihilfe, IP-Rechte, Kooperation mit Forschungseinrichtungen und Exportkontrolle.
 
 # Fusion: Förderung, Beihilfe und IP
 
@@ -103,7 +103,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 ## 3. `er-fusion-netzanschluss-und-systemnutzen`
 
-**Frühere Beschreibung:** Prüft Netzanschluss, gesicherte Leistung, PPA, Marktrolle, Wasserstoff-/Wärme-Kopplung und Systemintegration.
+**Fokus:** Prüft Netzanschluss, gesicherte Leistung, PPA, Marktrolle, Wasserstoff-/Wärme-Kopplung und Systemintegration.
 
 # Fusion: Netzanschluss, Systemnutzen und Vermarktung
 
@@ -140,7 +140,7 @@ Fusionsrecht in Deutschland ist dynamisch; tragende Aussagen immer am aktuellen 
 
 ## 4. `er-fusion-sicherheitsnachweis`
 
-**Frühere Beschreibung:** Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz.
+**Fokus:** Prüft Sicherheitskonzept, Störfallszenarien, Notfallplanung, Sachverständige, Feuerwehr und Katastrophenschutz.
 
 # Fusion: Sicherheitsnachweis und Störfalllogik
 

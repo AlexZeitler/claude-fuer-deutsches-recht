@@ -1,40 +1,36 @@
 ---
 name: kompendium-04-quellen-und-rechtspr-bis-steuerberater-datev
-description: "berufsrecht-steuerberater: Konsolidiertes Skill-Kompendium 04; bündelt 9 frühere Spezialskills (quellen-und-rechtsprechungscheck, steuerberater-auslagerung-an-freie-mitarbeiter-rechtsprechungsc, steuerberater-auslandsmandant-und-steuerdaten-rechtsprechungsch, steuerberater-belegvernichtung-und-aufbewahrung-rechtsprechungs, steuerberater-berichtigungspflicht-153-ao-rechtsprechungscheck und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-steuerberater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Quellen Und Rechtsprechungscheck, Steuerberater Auslagerung An Freie Mitarbeiter Rechtsprechungsc, Steuerberater Auslandsmandant Und Steuerdaten Rechtsprechungsch, Steuerberater Belegvernichtung Und Aufbewahrung Rechtsprechungs und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - berufsrecht-steuerberater
+# Arbeitsbereich - Quellen Und Rechtsprechungscheck bis Steuerberater Berichtigungspflicht 153 Ao Rechtsprechungscheck
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule. Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `quellen-und-rechtsprechungscheck` | Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung. |
 | `steuerberater-auslagerung-an-freie-mitarbeiter-rechtsprechungsc` | Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-auslandsmandant-und-steuerdaten-rechtsprechungsch` | Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-belegvernichtung-und-aufbewahrung-rechtsprechungs` | Steuerberater: belegvernichtung und aufbewahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `steuerberater-berichtigungspflicht-153-ao-rechtsprechungscheck` | Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-betriebspruefung-rollenabgrenzung-rechtsprechungs` | Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-cloud-server-drittlandtransfer-rechtsprechungsche` | Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-datenschutzpanne-lohnakte-rechtsprechungscheck-un` | Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
-| `steuerberater-datev-zugriff-nach-mandatsende-rechtsprechungsche` | Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `quellen-und-rechtsprechungscheck`
 
-**Frühere Beschreibung:** Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
+**Fokus:** Quellen- und Rechtsprechungscheck: vertiefter Berufsrechts-Skill für Steuerberater; prüft verhindert Blindzitate und zwingt zu amtlich oder frei prüfbaren Quellen, typische Rechtsprechungslinien nur nach Live-Verifikation, Kammerpraxis, Verteidigung und nächste Handlung.
 
 # Quellen- und Rechtsprechungscheck
 
@@ -84,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `steuerberater-auslagerung-an-freie-mitarbeiter-rechtsprechungsc`
 
-**Frühere Beschreibung:** Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: auslagerung an freie mitarbeiter - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -127,7 +123,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `steuerberater-auslandsmandant-und-steuerdaten-rechtsprechungsch`
 
-**Frühere Beschreibung:** Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: auslandsmandant und steuerdaten - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -170,7 +166,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `steuerberater-belegvernichtung-und-aufbewahrung-rechtsprechungs`
 
-**Frühere Beschreibung:** Steuerberater: belegvernichtung und aufbewahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: belegvernichtung und aufbewahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: belegvernichtung und aufbewahrung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -213,184 +209,12 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `steuerberater-berichtigungspflicht-153-ao-rechtsprechungscheck`
 
-**Frühere Beschreibung:** Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
 ## Konkreter Berufsrechtskern: Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 - **Spezialgegenstand:** Steuerberater: berichtigungspflicht 153 ao - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 6. `steuerberater-betriebspruefung-rollenabgrenzung-rechtsprechungs`
-
-**Frühere Beschreibung:** Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Steuerberater: betriebspruefung rollenabgrenzung - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Prüfungsauftrag, Unabhängigkeit, Prüfungsstandard, Wesentlichkeit und Dokumentation konkret festlegen.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 7. `steuerberater-cloud-server-drittlandtransfer-rechtsprechungsche`
-
-**Frühere Beschreibung:** Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Steuerberater: cloud server drittlandtransfer - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 8. `steuerberater-datenschutzpanne-lohnakte-rechtsprechungscheck-un`
-
-**Frühere Beschreibung:** Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Steuerberater: datenschutzpanne lohnakte - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
-- **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
-- **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
-- **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.
-- **Falllösung:** Baue eine Pflichtverletzungs-/Entlastungsmatrix mit Norm, Tatsache, Beleg, Verschulden, Verhältnismäßigkeit, möglicher Kammerantwort und prozessualem nächsten Schritt.
-
-## Fallweichen dieser Speziallage
-
-1. Rolle, Ziel und Entscheidungsdruck klaeren.
-2. Verfahrensstand, Fristen, Zuständigkeit und irreversible Risiken markieren.
-3. Aktenbasis ordnen: sichere Tatsachen, bestrittene Tatsachen, fehlende Unterlagen.
-4. Eingriffsintensität, Berufs-/Amtsgeheimnisse, Datenschutz und Persönlichkeitsrechte sichtbar machen.
-5. Sofortpfad anbieten: Was muss heute entschieden, beantragt, beantwortet oder dokumentiert werden?
-
-## Prüfprogramm
-
-- **Normenanker:** StBerG, BOStB, StBVV, AO, GwG, DSGVO, Kammerpraxis und Berufsgerichtsbarkeit live prüfen
-- **Tatsachenarbeit:** Beweisquelle, Beweiswert, Gegenbeweis, Dokumentationslücke und mögliche Fehlinterpretation trennen.
-- **Verfahrensarbeit:** Form, Frist, Zuständigkeit, Anhörung, Akteneinsicht, Rechtsbehelf und Zustellungsweg prüfen.
-- **Gegenposition:** Die stärkste Gegenansicht formulieren und sagen, was sie praktisch bedeutet.
-- **Entscheidung:** Eine vertretbare Handlungsempfehlung mit Risikoampel und nächstem Schritt liefern.
-
-## Spezielle Leitplanken
-
-- Rechtsprechung ist tragend nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Quelle.
-- Berufsrechtliche Risiken sind oft reputations- und existenzrelevant; Verhältnismäßigkeit sichtbar prüfen.
-- Mandats-, Steuer-, Prüfungs- oder Amtsgeheimnisse vor Nutzung anonymisieren.
-
-## Output
-
-Erzeuge Berufsrechtsmemo, Kammerantwort, Mandatsgrenzencheck, Vergütungsnotiz, Organisationsanweisung oder Verteidigungslinie.
-
-## Quellenhygiene
-
-Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum, Aktenzeichen und frei oder amtlich prüfbarer Quelle. Bei unsicherer oder neuer Rechtslage ausdrücklich sagen, was live nachzusehen ist und welche Quelle dafür zuerst aufgerufen werden soll.
-
-## 9. `steuerberater-datev-zugriff-nach-mandatsende-rechtsprechungsche`
-
-**Frühere Beschreibung:** Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
-
-# Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-
-## Konkreter Berufsrechtskern: Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
-- **Spezialgegenstand:** Steuerberater: datev zugriff nach mandatsende - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur - prüfe genau diese Pflicht, Verteidigungslinie oder Organisationsfrage berufsrechtlich bis zum verwertbaren Arbeitsergebnis.
 - **Normenanker:** StBerG, BOStB, StBVV, AO-Schnittstellen, GwG, Verschwiegenheit, Interessenkollision und berufsgerichtliches Verfahren.
 - **Institutionen:** Steuerberaterkammer, Berufsgerichtsbarkeit, Finanzverwaltung und bei Straf-/Bußgeldnähe die Ermittlungsbehörden.
 - **Spezialspur:** Leite aus dem konkreten Slug die berufsrechtliche Pflicht, den Tatsachenbeleg, den Verfahrensgegner und das mildeste tragfähige Gegenmittel ab.

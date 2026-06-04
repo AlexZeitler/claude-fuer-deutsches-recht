@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-wegh-eigentuemervers-bis-wirtschaftsplan-jahr
-description: "weg-hausverwaltung: Konsolidiertes Skill-Kompendium 20; bündelt 3 frühere Spezialskills (wegh-eigentuemerversammlung-bauleiter, wegh-wirtschaftsplan-jahresabrechnung-leitfaden, wirtschaftsplan-jahresabrechnung-28-weg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weg-hausverwaltung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - weg-hausverwaltung
+# Arbeitsbereich - Wegh Eigentuemerversammlung Bauleiter, Wegh Wirtschaftsplan Jahresabrechnung Leitfaden, Wirtschaftsplan Jahresabrechnung 28 Weg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wegh-eigentuemerversammlung-bauleiter` | Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Pruefraster fuer Verwalter. |
 | `wegh-wirtschaftsplan-jahresabrechnung-leitfaden` | WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wegh-eigentuemerversammlung-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Pruefraster fuer Verwalter.
+**Fokus:** Bauleiter Eigentuemerversammlung WEG: Einberufung, Tagesordnung, Beschlusskompetenz, Protokoll. Pruefraster fuer Verwalter.
 
 # WEGh: Eigentuemerversammlung
 
@@ -90,7 +90,7 @@ Dieser Skill gehoert zum Plugin `weg-hausverwaltung`. Er ergaenzt die uebrigen S
 
 ## 2. `wegh-wirtschaftsplan-jahresabrechnung-leitfaden`
 
-**Frühere Beschreibung:** WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle.
+**Fokus:** WEG-Leitfaden Wirtschaftsplan und Jahresabrechnung nach § 28 WEG: Vorschüsse, Nachschüsse, Abrechnungsspitzen, Einzelabrechnungen, Vermögensbericht, Beschlussformulierung, Anfechtungsrisiko und Mieterschnittstelle.
 
 # WEG: Wirtschaftsplan und Jahresabrechnung
 
@@ -173,7 +173,7 @@ Dieser Skill führt Verwalter, Beirat, Eigentümer und Anwälte durch die aktuel
 
 ## 3. `wirtschaftsplan-jahresabrechnung-28-weg`
 
-**Frühere Beschreibung:** Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE), V ZR 236/23 und V ZR 128/23 (Schlüsseländerung).
+**Fokus:** Prüft Wirtschaftsplan, Jahresabrechnung, Vermögensbericht, Nachschüsse, Vorschussanpassungen, Rücklagen, Verteilerschlüssel, Beleglage und Beschlussformulierung nach § 28 WEG (Stand 05/2026). Berücksichtigt BGH V ZR 102/23 (Auslegung des Abrechnungsbeschlusses), V ZR 167/23 (Anspruch gegen GdWE), V ZR 236/23 und V ZR 128/23 (Schlüsseländerung).
 
 # Wirtschaftsplan und Jahresabrechnung
 

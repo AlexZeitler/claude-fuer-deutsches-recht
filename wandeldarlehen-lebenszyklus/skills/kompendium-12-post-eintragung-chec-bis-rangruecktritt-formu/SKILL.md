@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-post-eintragung-chec-bis-rangruecktritt-formu
-description: "wandeldarlehen-lebenszyklus: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (post-eintragung-checkliste, rangruecktritt-formulieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wandeldarlehen-lebenszyklus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Post Eintragung Checkliste, Rangruecktritt Formulieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - wandeldarlehen-lebenszyklus
+# Arbeitsbereich - Post Eintragung Checkliste, Rangruecktritt Formulieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `post-eintragung-checkliste` | Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung). |
 | `rangruecktritt-formulieren` | Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen). |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `post-eintragung-checkliste`
 
-**Frühere Beschreibung:** Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung).
+**Fokus:** Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung).
 
 # Post-Eintragung-Checkliste
 
@@ -122,7 +122,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `rangruecktritt-formulieren`
 
-**Frühere Beschreibung:** Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen).
+**Fokus:** Rangrücktrittserklärung für Wandeldarlehen formulieren um insolvenzrechtliche Nachrang­wirkung herzustellen. § 39 InsO qualifizierter Rangrücktritt. Prüfraster: Formulierungsanforderungen BGH-Anforderungen qualifizierter Nachrang Masseverbindlichkeit Auffuellungspflicht. Output: Rangrücktrittserklärung Prüfmemo. Abgrenzung: nicht für allgemeine Darlehenskonditionen (darlehenshoehe-konditionen).
 
 # Qualifizierten Rangrücktritt formulieren
 

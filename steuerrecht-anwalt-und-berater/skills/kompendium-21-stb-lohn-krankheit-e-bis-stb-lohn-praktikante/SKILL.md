@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-stb-lohn-krankheit-e-bis-stb-lohn-praktikante
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 21; bündelt 9 frühere Spezialskills (stb-lohn-krankheit-entgeltfortzahlung-efzg, stb-lohn-mandantenaufnahme-onboarding, stb-lohn-mehrarbeit-zuschlaege-39b-estg, stb-lohn-meldungen-sv-elstam-zugang, stb-lohn-midi-job-uebergangsbereich-2000-euro und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Lohn Krankheit Entgeltfortzahlung Efzg, Stb Lohn Mandantenaufnahme Onboarding, Stb Lohn Mehrarbeit Zuschlaege 39b Estg, Stb Lohn Meldungen Sv Elstam Zugang und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Lohn Krankheit Entgeltfortzahlung Efzg bis Stb Lohn Praktikanten Azubis Loehne
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-lohn-krankheit-entgeltfortzahlung-efzg` | Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1. |
 | `stb-lohn-mandantenaufnahme-onboarding` | Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung Prüfungen Dokumente. Output Lohn-Mandantenakte Stammdaten startklar. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-lohn-krankheit-entgeltfortzahlung-efzg`
 
-**Frühere Beschreibung:** Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1.
+**Fokus:** Krankheit Entgeltfortzahlung 6 Wochen § 3 EFZG eAU. Anwendungsfall Lohnabrechnung bei Krankheit Entgeltfortzahlung 6 Wochen U1-Umlage Krankengeld Krankenkasse-Erstattung elektronische Arbeitsunfähigkeit. Methodik Prüfung Anspruch Berechnung. Output Lohn-Abrechnung Krank Erstattungsantrag U1.
 
 # Krankheit — Entgeltfortzahlung § 3 EFZG und eAU
 
@@ -175,7 +175,7 @@ Stand: 05/2026.
 
 ## 2. `stb-lohn-mandantenaufnahme-onboarding`
 
-**Frühere Beschreibung:** Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung Prüfungen Dokumente. Output Lohn-Mandantenakte Stammdaten startklar.
+**Fokus:** Onboarding eines neuen Lohn-Mandanten. Anwendungsfall Erstaufnahme Stammdaten Arbeitnehmer-Liste Sozialversicherungs-Anmeldung Mandantenstamm DATEV LODAS oder Lohn und Gehalt. Methodik Checkliste Datenerfassung Prüfungen Dokumente. Output Lohn-Mandantenakte Stammdaten startklar.
 
 # Lohn-Mandantenaufnahme — Onboarding
 
@@ -335,7 +335,7 @@ Stand: 05/2026.
 
 ## 3. `stb-lohn-mehrarbeit-zuschlaege-39b-estg`
 
-**Frühere Beschreibung:** Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn Pflichtdokumentation. Output Lohn-Abrechnung mit korrekter Zuschlag-Behandlung.
+**Fokus:** Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG. Anwendungsfall Lohnabrechnung mit Schichtzuschlaegen Gastronomie Pflege Sicherheitsdienst LSt-Freiheit SV-Freiheit in Grenzen. Methodik Prüfung Begrenzung Grundlohn Pflichtdokumentation. Output Lohn-Abrechnung mit korrekter Zuschlag-Behandlung.
 
 # Sonn- Feiertag- und Nachtarbeitszuschlaege § 3b EStG
 
@@ -477,7 +477,7 @@ Stand: 05/2026.
 
 ## 4. `stb-lohn-meldungen-sv-elstam-zugang`
 
-**Frühere Beschreibung:** SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschaeftigungsbeginn und Beendigung Anmeldung Abmeldung Aenderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik DEUEV-Verfahren ELStAM Prüfung. Output gemeldete Vorgaenge Quittungen.
+**Fokus:** SV-Meldungen und ELStAM-Verfahren beim AN-Onboarding. Anwendungsfall Beschaeftigungsbeginn und Beendigung Anmeldung Abmeldung Aenderungsmeldung Sofortmeldung Sonderbranchen Elektronische LSt-Merkmale Abruf. Methodik DEUEV-Verfahren ELStAM Prüfung. Output gemeldete Vorgaenge Quittungen.
 
 # SV-Meldungen und ELStAM-Verfahren
 
@@ -619,7 +619,7 @@ Stand: 05/2026.
 
 ## 5. `stb-lohn-midi-job-uebergangsbereich-2000-euro`
 
-**Frühere Beschreibung:** Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung.
+**Fokus:** Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung.
 
 # Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR
 
@@ -744,7 +744,7 @@ Stand: 05/2026.
 
 ## 6. `stb-lohn-mindestlohn-aktuell-2026-anpassung`
 
-**Frühere Beschreibung:** Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Übersicht aktuell Verifikations-Hinweis.
+**Fokus:** Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Übersicht aktuell Verifikations-Hinweis.
 
 # Aktueller Mindestlohn 2026 — Anpassung und Wirkung
 
@@ -889,7 +889,7 @@ Stand: 05/2026.
 
 ## 7. `stb-lohn-mini-midi-grenzen-2026-stand`
 
-**Frühere Beschreibung:** Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-Hinweis.
+**Fokus:** Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-Hinweis.
 
 # Mini- und Midi-Grenzen — Stand 2026
 
@@ -1030,7 +1030,7 @@ Stand: 05/2026.
 
 ## 8. `stb-lohn-monatsende-meldepflichten-checkliste`
 
-**Frühere Beschreibung:** Lohn-Meldepflichten zum Monatsende Checkliste LSt-Anmeldung SV-Beitragsnachweis DEUEV BG-Lohnnachweis. Anwendungsfall standardisierter Prüfablauf vor Monatsende und Fristen Auswertung. Methodik Prüfliste Termincontrolling. Output Erledigungs-Liste.
+**Fokus:** Lohn-Meldepflichten zum Monatsende Checkliste LSt-Anmeldung SV-Beitragsnachweis DEUEV BG-Lohnnachweis. Anwendungsfall standardisierter Prüfablauf vor Monatsende und Fristen Auswertung. Methodik Prüfliste Termincontrolling. Output Erledigungs-Liste.
 
 # Monatsende-Meldepflichten Lohn — Checkliste
 
@@ -1176,7 +1176,7 @@ Stand: 05/2026.
 
 ## 9. `stb-lohn-praktikanten-azubis-loehne`
 
-**Frühere Beschreibung:** Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs freiwilliges Praktikum Schwellen. Output Lohn-Abrechnung mit korrekter SV-Klassifikation.
+**Fokus:** Praktikanten und Azubis lohnrelevante Sonderregeln. Anwendungsfall Pflichtpraktikum freiwilliges Praktikum Berufsausbildung BBiG Berufsausbildungsbeihilfe SV-Behandlung Vergueteung. Methodik Unterscheidung Pflicht- vs freiwilliges Praktikum Schwellen. Output Lohn-Abrechnung mit korrekter SV-Klassifikation.
 
 # Praktikanten und Azubis — lohnrelevante Sonderregeln
 

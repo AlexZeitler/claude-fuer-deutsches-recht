@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-fachanwalt-sozialrec-bis-hilfsmittelantrag-pr
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (fachanwalt-sozialrecht-sgb-ii-bescheid, fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung, fachanwalt-sozialrecht-widerspruch-sozialleistung, hilfsmittelantrag-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Sozialrecht Sgb Ii Bescheid, Sozialrecht Vergleich Sg Widerspruchsverhandlung, Sozialrecht Widerspruch Sozialleistung, Hilfsmittelantrag Pruefen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - fachanwalt-sozialrecht
+# Arbeitsbereich - Sozialrecht Sgb Ii Bescheid bis Hilfsmittelantrag Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fachanwalt-sozialrecht-sgb-ii-bescheid` | Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
 | `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung` | Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fachanwalt-sozialrecht-sgb-ii-bescheid`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt sozialrecht sgb ii bescheid. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # SGB-II-Bescheid (Bürgergeld)
 
@@ -369,7 +369,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 2. `fachanwalt-sozialrecht-vergleich-sg-widerspruchsverhandlung`
 
-**Frühere Beschreibung:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht.
+**Fokus:** Vergleich vor Sozialgericht § 101 SGG. Widerspruchsverhandlung Behoerde § 84 SGG. Mediation in Sozialleistungs-Streit zunehmend. Anhoerung GdB-Verfahren Vergleich Schwerbehinderung. Workflow Korrespondenz Behoerde Klagebegründung Vergleichsbereitschaft Gericht.
 
 # Sozialrecht — Vergleich vor SG / Widerspruchsverhandlung
 
@@ -682,7 +682,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 3. `fachanwalt-sozialrecht-widerspruch-sozialleistung`
 
-**Frühere Beschreibung:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid).
+**Fokus:** Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Prüfraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begründung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid).
 
 # Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)
 
@@ -1041,7 +1041,7 @@ Rechtsprechung: keine Entscheidung aus Modellwissen zitieren; vor Ausgabe über 
 
 ## 4. `hilfsmittelantrag-pruefen`
 
-**Frühere Beschreibung:** Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad).
+**Fokus:** Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad).
 
 # Hilfsmittelantrag prüfen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 03; bündelt 5 frühere Spezialskills (gesellschaftsgruender-sanktionen-investorcheck, gesellschaftsgruender-gewerbeanmeldung-finanzamt, gesellschaftsgruender-gf-sozialversicherungs-status, gesellschaftsgruender-gruender-intake, gesellschaftsgruender-holdingmodell) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Sanktionen Investorcheck, Gesellschaftsgruender Gewerbeanmeldung Finanzamt, Gesellschaftsgruender Gf Sozialversicherungs Status, Gesellschaftsgruender Gruender Intake und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Sanktionen Investorcheck bis Gesellschaftsgruender Holdingmodell
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-sanktionen-investorcheck` | Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken. |
 | `gesellschaftsgruender-gewerbeanmeldung-finanzamt` | Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-sanktionen-investorcheck`
 
-**Frühere Beschreibung:** Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken.
+**Fokus:** Prüft Investoren und Gesellschafter auf Sanktions-, Geldwäsche- und Außenwirtschaftsrisiken.
 
 # Sanktions- und Investorencheck
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-gewerbeanmeldung-finanzamt`
 
-**Frühere Beschreibung:** Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB.
+**Fokus:** Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB.
 
 # Gewerbeanmeldung und Finanzamt-Erfassung
 
@@ -224,7 +224,7 @@ GewSt-Vorauszahlung: 15.02. / 15.05. / 15.08. / 15.11.
 
 ## 3. `gesellschaftsgruender-gf-sozialversicherungs-status`
 
-**Frühere Beschreibung:** Sozialversicherungsrechtlichen Status des GmbH-Geschäftsführers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Prüfraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte.
+**Fokus:** Sozialversicherungsrechtlichen Status des GmbH-Geschäftsführers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Prüfraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte.
 
 # Sozialversicherungs-Status des Geschäftsführers
 
@@ -364,7 +364,7 @@ Nachzahlungsrisiko (4 Jahre): [geschätzt EUR]
 
 ## 4. `gesellschaftsgruender-gruender-intake`
 
-**Frühere Beschreibung:** Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill).
+**Fokus:** Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill).
 
 # Gründer-Intake
 
@@ -546,7 +546,7 @@ OFFENE PUNKTE / STOPPSCHILDER
 
 ## 5. `gesellschaftsgruender-holdingmodell`
 
-**Frühere Beschreibung:** Prüft Holding vor operativer Gesellschaft, Beteiligungen, Steuer-/Haftungs- und Governancefragen.
+**Fokus:** Prüft Holding vor operativer Gesellschaft, Beteiligungen, Steuer-/Haftungs- und Governancefragen.
 
 # Holdingmodell Gründer
 

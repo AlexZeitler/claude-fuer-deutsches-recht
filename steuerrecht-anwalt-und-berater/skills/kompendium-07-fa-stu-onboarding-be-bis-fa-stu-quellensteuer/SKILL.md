@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-fa-stu-onboarding-be-bis-fa-stu-quellensteuer
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 07; bündelt 9 frühere Spezialskills (fa-stu-onboarding-bescheid-lesen, fa-stu-onboarding-festsetzungsverjaehrung, fa-stu-onboarding-korrekturnormen, fa-stu-onboarding-mandantenkommunikation, fa-stu-onboarding-mandatsannahme und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fa Stu Onboarding Bescheid Lesen, Fa Stu Onboarding Festsetzungsverjaehrung, Fa Stu Onboarding Korrekturnormen, Fa Stu Onboarding Mandantenkommunikation und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Fa Stu Onboarding Bescheid Lesen bis Fa Stu Quellensteuer 50a Estg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fa-stu-onboarding-bescheid-lesen` | Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo. |
 | `fa-stu-onboarding-festsetzungsverjaehrung` | Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjaehrungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjaehrungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fa-stu-onboarding-bescheid-lesen`
 
-**Frühere Beschreibung:** Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo.
+**Fokus:** Anleitung zum schnellen und vollstaendigen Erfassen jedes Steuerbescheids — von der Bekanntgabe bis zur Rechtsbehelfsbelehrung. Anwendungsfall Mandant bringt einen Bescheid Anwalt oder Steuerberater muss in zehn Minuten Einspruchsbedarf Fristen und materielle Angriffspunkte erkennen. Behandelt Bekanntgabe Drei-Tages-Fiktion Bestandskraft Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung Aenderungs- und Korrekturnormen §§ 129 164 165 172 173 175 AO und Rechtsbehelfsbelehrung. Output Checkliste Bescheid-Erstpruefung und Marker fuer Einspruchs- bzw. Aenderungsantrag. Abgrenzung zu anw-einspruch-finanzamt und fa-stu-finanzgerichtsklage-78-fgo.
 
 # Steuerbescheid lesen — die ersten 10 Minuten
 
@@ -100,7 +100,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `fa-stu-onboarding-festsetzungsverjaehrung`
 
-**Frühere Beschreibung:** Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjaehrungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjaehrungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung.
+**Fokus:** Vollstaendige Bearbeitung der Festsetzungsverjaehrung — regulaere und verlaengerte Fristen Anlaufhemmung Ablaufhemmung und besondere Verjaehrungsregeln bei Aussenpruefung Steuerhinterziehung Erbfaellen und ausstehender Steuererklaerung. Anwendungsfall Berater muss pruefen ob ein Steueranspruch noch festgesetzt werden kann oder ob die Finanzbehoerde verspaetet handelt. Behandelt Beginn der Frist nach Abgabe der Erklaerung Anlaufhemmung drei Jahre Ablaufhemmung durch Pruefungsbeginn § 171 Abs. 4 AO und durch laufendes Strafverfahren § 171 Abs. 5 AO. Output Pruefraster und Verjaehrungsrechner. Abgrenzung zu fa-stu-onboarding-verzinsung.
 
 # Festsetzungsverjaehrung — §§ 169 bis 171 AO in der Praxis
 
@@ -151,7 +151,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `fa-stu-onboarding-korrekturnormen`
 
-**Frühere Beschreibung:** Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen.
+**Fokus:** Systematischer Vergleich der Korrekturnormen — wann ist welche Vorschrift einschlaegig wann begruendet sie Aenderung zugunsten oder zu Lasten des Steuerpflichtigen und welche Frist gilt. Anwendungsfall Berater hat einen bestandskraeftigen Bescheid und sucht den richtigen Aenderungstatbestand oder muss sich gegen Aenderung des Finanzamts wehren. Behandelt offenbare Unrichtigkeit Vorbehalt der Nachpruefung Vorlaeufigkeit schlichte Aenderung neue Tatsachen widerstreitende Steuerfestsetzungen Grundlagenbescheide und Verfahrensaufhebung. Output Entscheidungsbaum mit Voraussetzungen je Norm. Abgrenzung zu fa-stu-onboarding-bescheid-lesen.
 
 # Korrektur von Steuerbescheiden — §§ 129 164 165 172 173 174 175 AO im Ueberblick
 
@@ -205,7 +205,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `fa-stu-onboarding-mandantenkommunikation`
 
-**Frühere Beschreibung:** Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko fuer Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafrechtliche Risiken aufwirft und muss dies dokumentieren. Behandelt Hinweispflicht auf Risiken Steuergefahren Vorteilhaftigkeitsvergleich Aufklaerung ueber Vergleichswege und Dokumentation in der Akte. Output Aufklaerungsbogen und Bestaetigungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme und fa-stu-rvg-steuerstreit.
+**Fokus:** Leitfaden zur Mandantenkommunikation in steuerlichen Mandaten — wann muss aufgeklaert werden wie wird dokumentiert und welche Fallstricke schaffen Haftungsrisiko fuer Anwalt und Steuerberater. Anwendungsfall Berater hat eine Empfehlung zu unterbreiten die Mehrsteuer Nachzahlungszinsen oder strafrechtliche Risiken aufwirft und muss dies dokumentieren. Behandelt Hinweispflicht auf Risiken Steuergefahren Vorteilhaftigkeitsvergleich Aufklaerung ueber Vergleichswege und Dokumentation in der Akte. Output Aufklaerungsbogen und Bestaetigungsmuster. Abgrenzung zu fa-stu-onboarding-mandatsannahme und fa-stu-rvg-steuerstreit.
 
 # Mandantenkommunikation und Aufklaerungspflicht im Steuerrecht
 
@@ -282,7 +282,7 @@ Der Mandant entscheidet sich fuer Option [...].
 
 ## 5. `fa-stu-onboarding-mandatsannahme`
 
-**Frühere Beschreibung:** Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmachtsvarianten Verfahrens- und Strafverteidigungsvollmacht Honorarvereinbarung RVG/StBVV Vergueterungsabrede und Aufklaerungspflichten. Output strukturierter Erstberatungsbogen Vollmachtsmuster und Triage-Checkliste mit Fristampel. Abgrenzung zu fa-stu-rvg-steuerstreit (Honorar im Detail) und anw-fristenbuch-steuerrecht (laufende Fristverwaltung).
+**Fokus:** Erstgespraech-Leitfaden fuer steuerrechtliche Mandate. Anwendungsfall Mandant kommt mit Bescheid Pruefungsanordnung oder Vorladung; Anwalt oder Steuerberater muss in 30 Minuten Sachverhalt Fristen und Risiko klaeren. Behandelt Mandantenfragebogen Interessenkonflikt § 43a BRAO § 57 StBerG Vollmachtsvarianten Verfahrens- und Strafverteidigungsvollmacht Honorarvereinbarung RVG/StBVV Vergueterungsabrede und Aufklaerungspflichten. Output strukturierter Erstberatungsbogen Vollmachtsmuster und Triage-Checkliste mit Fristampel. Abgrenzung zu fa-stu-rvg-steuerstreit (Honorar im Detail) und anw-fristenbuch-steuerrecht (laufende Fristverwaltung).
 
 # Mandatsannahme im Steuerrecht — Erstgespraech und Risiko-Triage
 
@@ -354,7 +354,7 @@ umfassend zur Vertretung, insbesondere zur:
 
 ## 6. `fa-stu-onboarding-rechtsbehelfssystematik`
 
-**Frühere Beschreibung:** Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zustaendig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erfolgsaussicht sie haben. Behandelt Einspruch Klage Revision Nichtzulassungsbeschwerde Anhoerungsruege Verfassungsbeschwerde Vorlage an EuGH AdV einstweiliger Rechtsschutz. Output Entscheidungsbaum mit Wegweiser. Abgrenzung zu anw-einspruch-finanzamt fa-stu-finanzgerichtsklage-78-fgo und anw-aussetzung-vollziehung.
+**Fokus:** Vollstaendige Uebersicht aller steuerlichen Rechtsbehelfe — auf welcher Stufe welcher Rechtsbehelf zustaendig ist welche Frist gilt und welche Zwischenanordnungen verfuegbar sind. Anwendungsfall Berater muss bei Mandatsannahme strategisch entscheiden welche Verfahrenswege offen sind und welche Erfolgsaussicht sie haben. Behandelt Einspruch Klage Revision Nichtzulassungsbeschwerde Anhoerungsruege Verfassungsbeschwerde Vorlage an EuGH AdV einstweiliger Rechtsschutz. Output Entscheidungsbaum mit Wegweiser. Abgrenzung zu anw-einspruch-finanzamt fa-stu-finanzgerichtsklage-78-fgo und anw-aussetzung-vollziehung.
 
 # Rechtsbehelfe im Steuerrecht — Systematik vom Einspruch bis zur Verfassungsbeschwerde
 
@@ -407,7 +407,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 7. `fa-stu-onboarding-verwaltungsanweisungen`
 
-**Frühere Beschreibung:** Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben fuer Mandant guenstig ist und ob er sich dem Finanzamt gegenueber darauf berufen kann. Behandelt Bindungswirkung Selbstbindung der Verwaltung Art. 3 GG Vertrauensschutz und prozessuale Verwertbarkeit. Output Argumentationsraster und Zitierhilfe. Abgrenzung zu fa-stu-onboarding-beratungsstruktur und fa-stu-onboarding-bescheid-lesen.
+**Fokus:** Methodik zur Nutzung und Abgrenzung von Verwaltungsanweisungen im Steuerrecht — BMF-Schreiben Anwendungserlass zur AO Umsatzsteuer-Anwendungserlass Einkommen- und Koerperschaftsteuer-Richtlinien Erbschaftsteuer-Hinweise. Anwendungsfall Berater muss entscheiden ob ein BMF-Schreiben fuer Mandant guenstig ist und ob er sich dem Finanzamt gegenueber darauf berufen kann. Behandelt Bindungswirkung Selbstbindung der Verwaltung Art. 3 GG Vertrauensschutz und prozessuale Verwertbarkeit. Output Argumentationsraster und Zitierhilfe. Abgrenzung zu fa-stu-onboarding-beratungsstruktur und fa-stu-onboarding-bescheid-lesen.
 
 # BMF-Schreiben AEAO UStAE EStR — Verwaltungsanweisungen richtig nutzen
 
@@ -458,7 +458,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 8. `fa-stu-onboarding-verzinsung`
 
-**Frühere Beschreibung:** Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren und pruefen ob Zinsen angreifbar sind. Behandelt Zinsbeginn Karenzzeit 15 Monate Zinslauf Zinsfestsetzung und Aenderungen nach § 233a Abs. 5 AO sowie Verfassungsmaessigkeit des Zinssatzes. Output Berechnungsschema und Argumentationsraster gegen Zinsbescheide. Abgrenzung zu anw-aussetzung-vollziehung.
+**Fokus:** Systematik aller Steuerzinsen — Nachzahlungs- und Erstattungszinsen § 233a AO Hinterziehungszinsen § 235 AO Stundungs- und Aussetzungszinsen §§ 234 237 AO Saeumniszuschlaege § 240 AO und Zinssatzanpassung nach BVerfG-Vorgaben. Anwendungsfall Berater muss Zinsfolge eines Bescheids quantifizieren und pruefen ob Zinsen angreifbar sind. Behandelt Zinsbeginn Karenzzeit 15 Monate Zinslauf Zinsfestsetzung und Aenderungen nach § 233a Abs. 5 AO sowie Verfassungsmaessigkeit des Zinssatzes. Output Berechnungsschema und Argumentationsraster gegen Zinsbescheide. Abgrenzung zu anw-aussetzung-vollziehung.
 
 # Steuerliche Verzinsung — § 233a AO Nachzahlungs- und Erstattungszinsen sowie Hinterziehungs- und Aussetzungszinsen
 
@@ -512,7 +512,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 9. `fa-stu-quellensteuer-50a-estg`
 
-**Frühere Beschreibung:** Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und muss Steuer einbehalten. Behandelt Schuldner Glaeubiger Bemessungsgrundlage Bruttoabzug 15 Prozent bzw. 30 Prozent Erstattung nach § 50c EStG und DBA-Bezug. Output Pruefraster und Antragsmuster Freistellungsbescheinigung. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd.
+**Fokus:** Praxisbearbeitung des Quellensteuerabzugs nach § 50a EStG — Tatbestaende Bemessungsgrundlage Abzugsverfahren Freistellungs- und Erstattungsverfahren. Anwendungsfall Inlaendischer Vergueterungsschuldner zahlt an einen beschraenkt Steuerpflichtigen (Kuenstler Sportler Aufsichtsrat Lizenzen) und muss Steuer einbehalten. Behandelt Schuldner Glaeubiger Bemessungsgrundlage Bruttoabzug 15 Prozent bzw. 30 Prozent Erstattung nach § 50c EStG und DBA-Bezug. Output Pruefraster und Antragsmuster Freistellungsbescheinigung. Abgrenzung zu fa-stu-doppelbesteuerung-musterabkommen-oecd.
 
 # Quellensteuer bei beschraenkter Steuerpflicht — § 50a EStG
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-normenkontrollantrag-bis-planerhaltung-214-21
-description: "normenkontrolle-bauleitplanung: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (normenkontrollantrag-schriftsatz, normenkontrolle-oder-inzidentkontrolle, planerhaltung-214-215-baugb) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrolle-bauleitplanung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - normenkontrolle-bauleitplanung
+# Arbeitsbereich - Normenkontrollantrag Schriftsatz, Normenkontrolle Oder Inzidentkontrolle, Planerhaltung 214 215 Baugb
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `normenkontrollantrag-schriftsatz` | Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle. |
 | `normenkontrolle-oder-inzidentkontrolle` | Normenkontrolle oder Inzidentkontrolle: wann § 47 VwGO, wann Anfechtung/Verpflichtung/Feststellung gegen Einzelakt.; Normanker: VwGO §§ 42 und 43 und 47; Rechtsschutzbedürfnis; Bestandskraft; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `normenkontrollantrag-schriftsatz`
 
-**Frühere Beschreibung:** Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle.
+**Fokus:** Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Prüfraster: Rubrum Antrag Begründung Zulässigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbedürfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begründung Schriftverkehr. Output: vollständiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle.
 
 # Normenkontrollantrag — Schriftsatz
 
@@ -215,7 +215,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `normenkontrolle-oder-inzidentkontrolle`
 
-**Frühere Beschreibung:** Normenkontrolle oder Inzidentkontrolle: wann § 47 VwGO, wann Anfechtung/Verpflichtung/Feststellung gegen Einzelakt.; Normanker: VwGO §§ 42 und 43 und 47; Rechtsschutzbedürfnis; Bestandskraft; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
+**Fokus:** Normenkontrolle oder Inzidentkontrolle: wann § 47 VwGO, wann Anfechtung/Verpflichtung/Feststellung gegen Einzelakt.; Normanker: VwGO §§ 42 und 43 und 47; Rechtsschutzbedürfnis; Bestandskraft; macht § 47 VwGO als allgemeines Satzungs- und Rechtsverordnungswerkzeug nutzbar.
 
 # Normenkontrolle oder Inzidentkontrolle: wann § 47 VwGO, wann Anfechtung/Verpflichtung/Feststellung gegen Einzelakt.
 
@@ -242,7 +242,7 @@ Erzeuge eine Statthaftigkeitsskizze, Satzungs-Red-Team, Eilantragsskizze, Schrif
 
 ## 3. `planerhaltung-214-215-baugb`
 
-**Frühere Beschreibung:** Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo.
+**Fokus:** Gemeinde oder Vorhabentraeger prüft ob erkannte Planfehler zur Unwirksamkeit führen oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Prüfraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo.
 
 # Planerhaltung — § 214/215 BauGB
 

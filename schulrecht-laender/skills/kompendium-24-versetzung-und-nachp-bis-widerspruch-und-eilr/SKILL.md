@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-versetzung-und-nachp-bis-widerspruch-und-eilr
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 24; bündelt 4 frühere Spezialskills (versetzung-und-nachpruefung, verwaltungsakt-oder-realakt-schule, waffen-drogen-schule, widerspruch-und-eilrechtsschutz-schule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Versetzung Und Nachpruefung, Verwaltungsakt Oder Realakt Schule, Waffen Drogen Schule, Widerspruch Und Eilrechtsschutz Schule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - schulrecht-laender
+# Arbeitsbereich - Versetzung Und Nachpruefung bis Widerspruch Und Eilrechtsschutz Schule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `versetzung-und-nachpruefung` | Prüft Versetzung, Nichtversetzung und Nachprüfung. |
 | `verwaltungsakt-oder-realakt-schule` | Ordnet schulische Schreiben rechtlich ein. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `versetzung-und-nachpruefung`
 
-**Frühere Beschreibung:** Prüft Versetzung, Nichtversetzung und Nachprüfung.
+**Fokus:** Prüft Versetzung, Nichtversetzung und Nachprüfung.
 
 # Versetzung Und Nachpruefung
 
@@ -96,7 +96,7 @@ Erzeuge bevorzugt: Versetzungswiderspruch. Am Ende immer drei Zeilen: **Frist**,
 
 ## 2. `verwaltungsakt-oder-realakt-schule`
 
-**Frühere Beschreibung:** Ordnet schulische Schreiben rechtlich ein.
+**Fokus:** Ordnet schulische Schreiben rechtlich ein.
 
 # Verwaltungsakt Oder Realakt Schule
 
@@ -163,7 +163,7 @@ Erzeuge bevorzugt: Einordnungsmemo. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 3. `waffen-drogen-schule`
 
-**Frühere Beschreibung:** Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention.
+**Fokus:** Prüft Verdachtsfälle, Durchsuchung, Ordnungsmaßnahme, Polizei und Prävention.
 
 # Waffen, Drogen und Schule
 
@@ -224,7 +224,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `widerspruch-und-eilrechtsschutz-schule`
 
-**Frühere Beschreibung:** Baut Widerspruch und Eilantrag im Schulrecht.
+**Fokus:** Baut Widerspruch und Eilantrag im Schulrecht.
 
 # Widerspruch Und Eilrechtsschutz Schule
 

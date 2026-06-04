@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-urhmr-einfuehrung-re-bis-urhmr-leistungsschut
-description: "fachanwalt-urheber-medienrecht: Konsolidiertes Skill-Kompendium 14; bündelt 3 frühere Spezialskills (urhmr-einfuehrung-rechtsfelder, urhmr-ki-generierter-content-spezial, urhmr-leistungsschutzrecht-presse-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-urheber-medienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - fachanwalt-urheber-medienrecht
+# Arbeitsbereich - Urhmr Einfuehrung Rechtsfelder, Urhmr Ki Generierter Content Spezial, Urhmr Leistungsschutzrecht Presse Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `urhmr-einfuehrung-rechtsfelder` | Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle. |
 | `urhmr-ki-generierter-content-spezial` | Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `urhmr-einfuehrung-rechtsfelder`
 
-**Frühere Beschreibung:** Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle.
+**Fokus:** Urheber- und Medienrecht einfuehrend: UrhG, Verwertungsgesellschaften, Persoenlichkeitsrecht, Aeusserungsrecht (Presse-, Rundfunkrecht), Wettbewerbsrecht UWG, Telekommunikations- und Telemedienrecht. Entscheidungstabelle.
 
 # UrhMR: Rechtsfelder
 
@@ -80,7 +80,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-urheber-medienrecht`. Er ergaenzt di
 
 ## 2. `urhmr-ki-generierter-content-spezial`
 
-**Frühere Beschreibung:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster.
+**Fokus:** Spezialfall KI-generierter Content: keine Schoepfungshoehe ohne menschlichen Beitrag (BGH/EuGH-Linie), Trainingsdaten und § 44b UrhG TDM-Schranke, Pflicht zur Kennzeichnung nach KI-VO Art. 50, Haftung Plattform. Pruefraster.
 
 # UrhMR: KI-Content
 
@@ -132,7 +132,7 @@ Dieser Skill gehoert zum Plugin `fachanwalt-urheber-medienrecht`. Er ergaenzt di
 
 ## 3. `urhmr-leistungsschutzrecht-presse-spezial`
 
-**Frühere Beschreibung:** Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Pruefraster Verlag und Plattform.
+**Fokus:** Spezialfall Leistungsschutzrecht Presseverleger §§ 87f ff. UrhG nach DSM-Reform: Snippet-Lizenz, Aggregator-Plattformen, Vergaberecht. Pruefraster Verlag und Plattform.
 
 # UrhMR: Leistungsschutzrecht Presse
 

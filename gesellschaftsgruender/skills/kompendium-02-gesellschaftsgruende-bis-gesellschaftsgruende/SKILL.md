@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (gesellschaftsgruender-leaver-klauseln, gesellschaftsgruender-mietvertrag-buero-labor, gesellschaftsgruender-mitarbeiter-gf-arbeitsvertrag, spezial-gesellschaftsvertrag-vergleich-eskalation, gesellschaftsgruender-produkt-und-produkthaftung-start) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Leaver Klauseln, Gesellschaftsgruender Mietvertrag Buero Labor, Gesellschaftsgruender Mitarbeiter Gf Arbeitsvertrag, Gesellschaftsvertrag Vergleich Eskalation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Leaver Klauseln bis Gesellschaftsgruender Produkt Und Produkthaftung Start
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-leaver-klauseln` | Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit. |
 | `gesellschaftsgruender-mietvertrag-buero-labor` | Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-leaver-klauseln`
 
-**Frühere Beschreibung:** Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit.
+**Fokus:** Prüft Good/Bad-Leaver-Klauseln, Abfindung, Einziehung und Durchsetzbarkeit.
 
 # Leaver-Klauseln
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-mietvertrag-buero-labor`
 
-**Frühere Beschreibung:** Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen.
+**Fokus:** Prüft Mietvertrag vor Gründung/Eintragung, Vor-GmbH-Haftung und Genehmigungen.
 
 # Büro-, Laden- oder Labor-Mietvertrag
 
@@ -156,7 +156,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 3. `gesellschaftsgruender-mitarbeiter-gf-arbeitsvertrag`
 
-**Frühere Beschreibung:** Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote.
+**Fokus:** Prüft Gründeranstellung, Geschäftsführervertrag, Sozialversicherung, IP und Wettbewerbsverbote.
 
 # Gründer als Arbeitnehmer/Geschäftsführer
 
@@ -219,7 +219,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `spezial-gesellschaftsvertrag-vergleich-eskalation`
 
-**Frühere Beschreibung:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation im Gesellschaftsgründung: fachlich vertiefter Spezialskill mit Normenradar (GmbHG/MoPeG/Registerrecht), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftsvertrag: Verhandlung, Vergleich und Eskalation
 
@@ -302,7 +302,7 @@ Bei Gründung "Exit-Klauseln" mitdenken: Russian-Roulette, Texas Shootout, Dutch
 
 ## 5. `gesellschaftsgruender-produkt-und-produkthaftung-start`
 
-**Frühere Beschreibung:** Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt.
+**Fokus:** Prüft CE, Produktsicherheit, Bedienungsanleitung, Haftung und Versicherung vor Markteintritt.
 
 # Produkt- und Produkthaftungsstart
 

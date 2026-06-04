@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-inso-verteidigung-an-bis-ip-lizenzanalogie-un
-description: "bereicherungs-und-anfechtungsrecht-pruefer: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (inso-verteidigung-anfechtungsgegner, inso-vorsatzanfechtung-133, insolvenzrisiko-im-dreipersonenverhaeltnis, ip-lizenzanalogie-und-bereicherung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bereicherungs-und-anfechtungsrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inso Verteidigung Anfechtungsgegner, Inso Vorsatzanfechtung 133, Insolvenzrisiko Im Dreipersonenverhaeltnis, Ip Lizenzanalogie Und Bereicherung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - bereicherungs-und-anfechtungsrecht-pruefer
+# Arbeitsbereich - Inso Verteidigung Anfechtungsgegner bis Ip Lizenzanalogie Und Bereicherung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inso-verteidigung-anfechtungsgegner` | Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatrix und Schriftsatzgerüst. |
 | `inso-vorsatzanfechtung-133` | Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inso-verteidigung-anfechtungsgegner`
 
-**Frühere Beschreibung:** Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatrix und Schriftsatzgerüst.
+**Fokus:** Verteidigung des Anfechtungsgegners gegen Insolvenzanfechtung nach §§ 129-147 InsO strukturieren. Prüft fehlende Rechtshandlung oder Gläubigerbenachteiligung, Fristen, Kenntnis, § 133-Vermutungen, Bargeschäft § 142, Gegenleistung § 144, Verjährung § 146 und Vergleichsstrategie. Output: Abwehrmatrix und Schriftsatzgerüst.
 
 # Verteidigung des Anfechtungsgegners — §§ 129 ff. InsO
 
@@ -124,7 +124,7 @@ Hinweis: Keine Rechtsberatung. Verteidigung nie pauschal führen; jeder Zahlungs
 
 ## 2. `inso-vorsatzanfechtung-133`
 
-**Frühere Beschreibung:** Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht.
+**Fokus:** Vorsatzanfechtung nach § 133 InsO prüfen: Benachteiligungsvorsatz, Kenntnis, Vermutungsregel, Deckungshandlungen mit Vier-Jahres-Frist, kongruente Deckung mit Zahlungsunfähigkeit, Zahlungserleichterungs-Vermutung, nahestehende Personen und Bargeschäft § 142. Output: Indizienmatrix mit Human-Review-Pflicht.
 
 # Vorsatzanfechtung — § 133 InsO
 
@@ -221,7 +221,7 @@ Hinweis: Keine Rechtsberatung. § 133 InsO ist keine reine Mustererkennung; jede
 
 ## 3. `insolvenzrisiko-im-dreipersonenverhaeltnis`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
+**Fokus:** Nutze diesen Skill, wenn ein Direktanspruch im Dreieck faktisch ein Insolvenzrisiko verlagern würde. Normen: §§ 812 und 818 BGB; §§ 129 ff. InsO. Prüfraster: Zeichne Deckung, Valuta und Zahlungsweg vor der Anspruchswahl; Bestimme den Empfängerhorizont des Endempfängers; Wickle Fehler grundsätzlich in der jeweils fehlerhaften Beziehung ab. Output: Risiko-Analyse Direktanspruch mit Insolvenzfolgen-Bewertung. Abgrenzung: nicht Insolvenzanfechtung §§ 129 ff. InsO.
 
 # Insolvenzrisiko im Dreipersonenverhältnis
 
@@ -316,7 +316,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `ip-lizenzanalogie-und-bereicherung`
 
-**Frühere Beschreibung:** Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie.
+**Fokus:** Nutze diesen Skill, wenn ersparte Lizenz und Schutzrechtsnutzung bereicherungsrechtlich bewertet werden. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB; § 97 UrhG; § 14 MarkenG; § 139 PatG. Prüfraster: Prüfe zuerst, ob wirklich keine Leistungsbeziehung vorliegt; Bestimme den Zuweisungsgehalt der verletzten Position; Ordne Nutzung, Verfügung oder Weitergabe der passenden Anspruchsgrundlage zu. Output: Lizenzanalogie-Berechnung mit Wertbestimmung und Verschuldensunabhängigkeit. Abgrenzung: nicht Schadensersatz nach Lizenzanalogie.
 
 # IP-Lizenzanalogie und Bereicherung
 

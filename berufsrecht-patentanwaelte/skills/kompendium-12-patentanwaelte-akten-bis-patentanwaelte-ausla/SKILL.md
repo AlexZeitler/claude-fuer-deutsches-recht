@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-patentanwaelte-akten-bis-patentanwaelte-ausla
-description: "berufsrecht-patentanwaelte: Konsolidiertes Skill-Kompendium 12; bündelt 9 frühere Spezialskills (patentanwaelte-aktenherausgabe-patentakten-kammerantwort-und-ve, patentanwaelte-aktenherausgabe-patentakten-organisationspflicht, patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-kaltst, patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-kammer, patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-organi und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berufsrecht-patentanwaelte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve, Patentanwaelte Aktenherausgabe Patentakten Organisationspflicht, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kaltst, Patentanwaelte Arbeitnehmererfinder Und Verschwiegenheit Kammer und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster u"
 ---
 
-# Kompendium 12 - berufsrecht-patentanwaelte
+# Arbeitsbereich - Patentanwaelte Aktenherausgabe Patentakten Kammerantwort Und Ve bis Patentanwaelte Auslandsvertreter Und Correspondent Risk Organis
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `patentanwaelte-aktenherausgabe-patentakten-kammerantwort-und-ve` | Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
 | `patentanwaelte-aktenherausgabe-patentakten-organisationspflicht` | Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `patentanwaelte-aktenherausgabe-patentakten-kammerantwort-und-ve`
 
-**Frühere Beschreibung:** Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: aktenherausgabe patentakten - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -77,7 +77,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `patentanwaelte-aktenherausgabe-patentakten-organisationspflicht`
 
-**Frühere Beschreibung:** Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: aktenherausgabe patentakten - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-kaltst`
 
-**Frühere Beschreibung:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
@@ -164,7 +164,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-kammer`
 
-**Frühere Beschreibung:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -208,7 +208,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-organi`
 
-**Frühere Beschreibung:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 
@@ -252,7 +252,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 6. `patentanwaelte-arbeitnehmererfinder-und-verschwiegenheit-rechts`
 
-**Frühere Beschreibung:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: arbeitnehmererfinder und verschwiegenheit - Rechtsprechungscheck, stärkste Gegenansicht und Red-Team-Korrektur
 
@@ -296,7 +296,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 7. `patentanwaelte-auslandsvertreter-und-correspondent-risk-kaltsta`
 
-**Frühere Beschreibung:** Patentanwälte: auslandsvertreter und correspondent risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: auslandsvertreter und correspondent risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Kaltstart mit Faktenmatrix, Risikoampel und fehlenden Unterlagen
 
@@ -339,7 +339,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 8. `patentanwaelte-auslandsvertreter-und-correspondent-risk-kammera`
 
-**Frühere Beschreibung:** Patentanwälte: auslandsvertreter und correspondent risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: auslandsvertreter und correspondent risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Kammerantwort mit Verfahrensstrategie, Tonlage und Belegplan
 
@@ -382,7 +382,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 9. `patentanwaelte-auslandsvertreter-und-correspondent-risk-organis`
 
-**Frühere Beschreibung:** Patentanwälte: auslandsvertreter und correspondent risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
+**Fokus:** Patentanwälte: auslandsvertreter und correspondent risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle; mit Live-Normencheck, Kammerlogik, Verhältnismäßigkeit, Belegplan und nächstem Schritt.
 
 # Patentanwälte: auslandsvertreter und correspondent risk - Organisationspflichten, Prävention, Team-Anweisung und Fristenkontrolle
 

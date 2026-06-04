@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-aussenwirtschaft-emb-bis-aussenwirtschaft-erp
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 13; bündelt 4 frühere Spezialskills (aussenwirtschaft-embargo-syrien, aussenwirtschaft-endverwendung-endverwender-euc, aussenwirtschaft-eori-registrierung-stammdaten, aussenwirtschaft-erp-stammdaten-kontrollpunkte) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Embargo Syrien, Aussenwirtschaft Endverwendung Endverwender Euc, Aussenwirtschaft Eori Registrierung Stammdaten, Aussenwirtschaft Erp Stammdaten Kontrollpunkte; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Embargo Syrien bis Aussenwirtschaft Erp Stammdaten Kontrollpunkte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-embargo-syrien` | EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach Syrien. Output: Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand. |
 | `aussenwirtschaft-endverwendung-endverwender-euc` | Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen und Zwischenhaendlern. Output: EUC-Pruefprotokoll und Vervollstaendigungsanforderung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-embargo-syrien`
 
-**Frühere Beschreibung:** EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach Syrien. Output: Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand.
+**Fokus:** EU-Syrien-Sanktionsregime nach VO (EU) 36/2012 und laufenden Ergaenzungsverordnungen: Finanzsanktionen gelisteter Personen und Entitaeten, Waffenembargo, Guetersanktionen und Oelembargo. Post-Assad-Lockerungen 2024/2025 beachten. Fallkonstellation: Unternehmen plant Wiederaufbaulieferungen nach Syrien. Output: Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand.
 
 # Embargo Syrien: Sanktionsregime und Post-Assad-Lockerungen
 
@@ -116,7 +116,7 @@ Syrien-Embargo-Pruefvermerk mit aktuellem Regelungsstand, Personensanktions-Scre
 
 ## 2. `aussenwirtschaft-endverwendung-endverwender-euc`
 
-**Frühere Beschreibung:** Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen und Zwischenhaendlern. Output: EUC-Pruefprotokoll und Vervollstaendigungsanforderung.
+**Fokus:** Endverwender-Pruefung und End-Use-Certificate (EUC): Identifizierung des tatsaechlichen Endverwenders, Pruefen des Endverwendungszwecks und Authentizitaet der Endverwendungserklaerung nach BAFA-Anforderungen und VO (EU) 2021/821. Besondere Risiken bei Staatsunternehmen, Forschungseinrichtungen und Zwischenhaendlern. Output: EUC-Pruefprotokoll und Vervollstaendigungsanforderung.
 
 # Endverwender-Pruefung und EUC: Authentizitaet und Risikoeinschaetzung
 
@@ -203,7 +203,7 @@ EUC-Pruefprotokoll mit Authentizitaetsnachweis, Red-Flag-Checkliste, Vervollstae
 
 ## 3. `aussenwirtschaft-eori-registrierung-stammdaten`
 
-**Frühere Beschreibung:** EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsformular und Stammdaten-Pruefcheckliste.
+**Fokus:** EORI-Nummer-Registrierung und Stammdatenpflege nach UZK Art. 9: Beantragung beim Hauptzollamt, erforderliche Informationen und Update-Pflichten. Bedeutung der EORI-Nummer in ATLAS und beim AEO-Antrag. Grenzueberschreitende EORI-Anerkennung und Probleme bei UK post-Brexit. Output: EORI-Antragsformular und Stammdaten-Pruefcheckliste.
 
 # EORI-Registrierung: Beantragung und Stammdatenpflege
 
@@ -289,7 +289,7 @@ EORI-Antragsformular, Stammdaten-Pruefcheckliste, Update-Protokoll fuer Aenderun
 
 ## 4. `aussenwirtschaft-erp-stammdaten-kontrollpunkte`
 
-**Frühere Beschreibung:** Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfiguration und Qualitaetssicherung exportkontrollrelevanter Stammdaten wie Gueterklassifizierung (ECCN/Dual-Use-Code), Embargo-Blocker, Sanktionslisten-Integration und Dokumentenabruf. Identifiziert typische Konfigurationsfehler. Output: ERP-Stammdaten-Pruefbericht und Korrekturplan.
+**Fokus:** Exportkontroll-Kontrollpunkte in ERP-Systemen (SAP GTS, Oracle GTM): Konfiguration und Qualitaetssicherung exportkontrollrelevanter Stammdaten wie Gueterklassifizierung (ECCN/Dual-Use-Code), Embargo-Blocker, Sanktionslisten-Integration und Dokumentenabruf. Identifiziert typische Konfigurationsfehler. Output: ERP-Stammdaten-Pruefbericht und Korrekturplan.
 
 # ERP-Stammdaten fuer Exportkontrolle: Konfiguration und Qualitaetssicherung
 

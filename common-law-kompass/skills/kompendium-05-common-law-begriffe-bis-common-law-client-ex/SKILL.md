@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-common-law-begriffe-bis-common-law-client-ex
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (common-law-begriffe-uebersetzung, common-law-bilingual-contract-review, common-law-client-explainer) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - common-law-kompass
+# Arbeitsbereich - Common Law Begriffe Uebersetzung, Common Law Bilingual Contract Review, Common Law Client Explainer
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `common-law-begriffe-uebersetzung` | Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen). |
 | `common-law-bilingual-contract-review` | Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `common-law-begriffe-uebersetzung`
 
-**Frühere Beschreibung:** Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen).
+**Fokus:** Deutscher Anwalt uebersetzt Vertrags- oder Rechtsbegriffe ins Englische und will funktionale nicht wörtliche Übersetzung. Anwendungsfall Vertragsverhandlung mit UK/US-Gegenpartei Memo an englischsprachigen Mandanten. Prüfraster Zielrechtsordnung-Prüfung Klauselzweck Risiko-Aequivalent False-Friends-Check. Output uebersetzter Begriff mit Erklärung Alternativen. Abgrenzung zu common-law-false-friends-scanner (Fehler-Scan) und common-law-us-vs-uk-drafting (Drafting-Konventionen).
 
 # Begriffs- und Übersetzungswerkstatt
 
@@ -123,7 +123,7 @@ Begriff | Kontext | Empfohlene dt. Entsprechung | Risiko Fehluebers.
 
 ## 2. `common-law-bilingual-contract-review`
 
-**Frühere Beschreibung:** Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting).
+**Fokus:** Anwalt prüft deutschen und englischen Vertragstext auf Bedeutungsdrift Rangfolge Definitionskonflikte Haftungsrisiken. Anwendungsfall bilingualer SPA NDA oder Lizenzvertrag. Prüfraster Bedeutungsdrift-Analyse Rangfolgen-Klausel Definitions-Konsistenz Haftungs-Delta. Output Vergleichs-Tabelle Risiko-Markierungen Korrekturvorschlaege. Abgrenzung zu common-law-false-friends-scanner (Begriffsebene) und common-law-ma-commercial-drafting (Drafting).
 
 # Bilingual Contract Review
 
@@ -226,7 +226,7 @@ Controlling language: [English / German / Both — per Clause X]
 
 ## 3. `common-law-client-explainer`
 
-**Frühere Beschreibung:** Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklärungsschreiben oder Memo für Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton).
+**Fokus:** Mandant oder Business-Team versteht Common-Law-Konzepte nicht und braucht verstaendliche Erklärung. Anwendungsfall Deutsche kaufen UK-Unternehmen oder schließen US-Vertrag ab. Prüfraster Verstaendlichkeit Vollständigkeit Wesentliche-Punkte-Abdeckung Risiko-Klarheit. Output verstaendliches Erklärungsschreiben oder Memo für Mandanten. Abgrenzung zu common-law-begriffe-uebersetzung (Fachsprache) und common-law-humor-coach (Ton).
 
 # Mandanten-Erklärer
 

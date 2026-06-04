@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-rom-008-besitz-posse-bis-rom-015-rei-vindicat
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 03; bündelt 8 frühere Spezialskills (rom-008-besitz-possessio-grundlagen, rom-009-eigentum-dominium-und-quiritarisch, rom-010-traditio-und-uebereignung, rom-011-mancipatio-und-in-iure-cessio, rom-012-usucapio-ersitzung und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 008 Besitz Possessio Grundlagen, Rom 009 Eigentum Dominium Und Quiritarisch, Rom 010 Traditio Und Uebereignung, Rom 011 Mancipatio Und In Iure Cessio und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - roemisches-recht
+# Arbeitsbereich - Rom 008 Besitz Possessio Grundlagen bis Rom 015 Rei Vindicatio
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-008-besitz-possessio-grundlagen` | Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium. |
 | `rom-009-eigentum-dominium-und-quiritarisch` | Römisches Recht: Eigentum - dominium ex iure Quiritium nach D. 41.1 und Gaius Inst. 2.40-79. Quiritisches vs. bonitarisches Eigentum, exceptio rei venditae et traditae, actio Publiciana. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-008-besitz-possessio-grundlagen`
 
-**Frühere Beschreibung:** Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium.
+**Fokus:** Römisches Recht: Besitz (possessio) - corpus und animus nach D. 41.2 (Ulpian, Paulus), possessio civilis vs. naturalis, Interdiktsschutz (uti possidetis, utrubi) und Verhältnis zu dominium.
 
 # Besitz (possessio) - Grundlagen
 
@@ -87,7 +87,7 @@ D. 41.2; D. 43 (Mommsen-Krüger). Iust. Inst. 4.15. Savigny 1803 (archive.org). 
 
 ## 2. `rom-009-eigentum-dominium-und-quiritarisch`
 
-**Frühere Beschreibung:** Römisches Recht: Eigentum - dominium ex iure Quiritium nach D. 41.1 und Gaius Inst. 2.40-79. Quiritisches vs. bonitarisches Eigentum, exceptio rei venditae et traditae, actio Publiciana.
+**Fokus:** Römisches Recht: Eigentum - dominium ex iure Quiritium nach D. 41.1 und Gaius Inst. 2.40-79. Quiritisches vs. bonitarisches Eigentum, exceptio rei venditae et traditae, actio Publiciana.
 
 # Eigentum: dominium ex iure Quiritium und bonitarisches Eigentum
 
@@ -141,7 +141,7 @@ D. 6.1; D. 41.1; Gaius Inst. 2 (Mommsen-Krüger). C. 7.25 (Codex). Kaser RP I.
 
 ## 3. `rom-010-traditio-und-uebereignung`
 
-**Frühere Beschreibung:** Römisches Recht: Traditio als Übereignungsform für res nec mancipi nach D. 41.1.31 (Gaius) - iusta causa, Übergabe, Übergabesurrogate (longa manu, brevi manu, constitutum possessorium).
+**Fokus:** Römisches Recht: Traditio als Übereignungsform für res nec mancipi nach D. 41.1.31 (Gaius) - iusta causa, Übergabe, Übergabesurrogate (longa manu, brevi manu, constitutum possessorium).
 
 # Traditio und Übereignung
 
@@ -195,7 +195,7 @@ D. 41.1; D. 41.2; Gaius Inst. 2 (Mommsen-Krüger). C. 2.3. Kaser RP I § 118. Fl
 
 ## 4. `rom-011-mancipatio-und-in-iure-cessio`
 
-**Frühere Beschreibung:** Römisches Recht: Mancipatio und in iure cessio als förmliche Übereignungsarten für res mancipi nach Gaius Inst. 1.119-122 und D. 18.1.80 - Ritual, Zeugen, nexum und Abschaffung durch Justinian.
+**Fokus:** Römisches Recht: Mancipatio und in iure cessio als förmliche Übereignungsarten für res mancipi nach Gaius Inst. 1.119-122 und D. 18.1.80 - Ritual, Zeugen, nexum und Abschaffung durch Justinian.
 
 # Mancipatio und in iure cessio
 
@@ -249,7 +249,7 @@ Gaius Inst. 1-2 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org). C. 7.
 
 ## 5. `rom-012-usucapio-ersitzung`
 
-**Frühere Beschreibung:** Römisches Recht: Usucapio (Ersitzung) nach D. 41.3 und Gaius Inst. 2.41-61 - iusta causa, bona fides, Fristen (1 Jahr Mobilien, 2 Jahre Immobilien), longi temporis praescriptio.
+**Fokus:** Römisches Recht: Usucapio (Ersitzung) nach D. 41.3 und Gaius Inst. 2.41-61 - iusta causa, bona fides, Fristen (1 Jahr Mobilien, 2 Jahre Immobilien), longi temporis praescriptio.
 
 # Usucapio - Ersitzung
 
@@ -303,7 +303,7 @@ D. 41.3; Gaius Inst. 2 (Mommsen-Krüger). XII Tafeln: Bruns Fontes (archive.org)
 
 ## 6. `rom-013-servituten-und-dienstbarkeiten`
 
-**Frühere Beschreibung:** Römisches Recht: Servituten - iura in re aliena nach D. 8, Gaius Inst. 2.12-17. Praedialservituten (iter, actus, via, aquaeductus) und Personalservituten (usus fructus, usus, habitatio) nach Iust. Inst. 2.3-5.
+**Fokus:** Römisches Recht: Servituten - iura in re aliena nach D. 8, Gaius Inst. 2.12-17. Praedialservituten (iter, actus, via, aquaeductus) und Personalservituten (usus fructus, usus, habitatio) nach Iust. Inst. 2.3-5.
 
 # Servituten und Dienstbarkeiten
 
@@ -357,7 +357,7 @@ D. 8; D. 7 (Mommsen-Krüger). Gaius Inst. 2. Iust. Inst. 2.3-5. Kaser RP I §§ 
 
 ## 7. `rom-014-pfandrecht-pignus-hypotheca`
 
-**Frühere Beschreibung:** Römisches Recht: Pfandrecht - pignus (Besitzpfand) nach D. 13.7 und hypotheca (besitzloses Pfand) nach D. 20. Akzessorietät, actio Serviana, actio quasi Serviana und Rangordnung.
+**Fokus:** Römisches Recht: Pfandrecht - pignus (Besitzpfand) nach D. 13.7 und hypotheca (besitzloses Pfand) nach D. 20. Akzessorietät, actio Serviana, actio quasi Serviana und Rangordnung.
 
 # Pfandrecht: pignus und hypotheca
 
@@ -411,7 +411,7 @@ D. 13.7; D. 20 (Mommsen-Krüger). C. 8.13-16. Kaser RP I §§ 148-155.
 
 ## 8. `rom-015-rei-vindicatio`
 
-**Frühere Beschreibung:** Römisches Recht: Rei vindicatio - Eigentumsklage des Eigentümers gegen den Besitzer nach D. 6.1 (Ulpian), Gaius Inst. 4.16 und Voraussetzungen (Eigentum, Besitz des Gegners, Herausgabepflicht).
+**Fokus:** Römisches Recht: Rei vindicatio - Eigentumsklage des Eigentümers gegen den Besitzer nach D. 6.1 (Ulpian), Gaius Inst. 4.16 und Voraussetzungen (Eigentum, Besitz des Gegners, Herausgabepflicht).
 
 # Rei vindicatio - Eigentumsklage
 

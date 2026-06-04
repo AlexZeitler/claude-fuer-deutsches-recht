@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-workflow-chronologie-bis-euipo-widerspruchsve
-description: "markenrecht-fashion-luxus: Konsolidiertes Skill-Kompendium 01; bündelt 4 frühere Spezialskills (workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, benutzungsschonfrist-und-rechtserhaltende-benutzung, euipo-widerspruchsverfahren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "markenrecht-fashion-luxus: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chronologie Und Belegmatrix, Fristen Und Risikoampel, Benutzungsschonfrist Und Rechtserhaltende Benutzung, Euipo Widerspruchsverfahren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - markenrecht-fashion-luxus
+# Arbeitsbereich - Chronologie Und Belegmatrix bis Euipo Widerspruchsverfahren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen. |
 | `workflow-fristen-und-risikoampel` | Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
+**Fokus:** Chronologie und Belegmatrix im Plugin markenrecht-fashion-luxus: macht aus unordentlichem Material eine Timeline mit Belegstellen und offenen Widersprüchen.
 
 # Chronologie und Belegmatrix
 
@@ -81,7 +81,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
+**Fokus:** Fristen- und Risikoampel im Plugin markenrecht-fashion-luxus: macht eine Sofortampel für Frist, Zuständigkeit, Haftung, Eilbedarf und fehlende Unterlagen.
 
 # Fristen- und Risikoampel
 
@@ -126,7 +126,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `benutzungsschonfrist-und-rechtserhaltende-benutzung`
 
-**Frühere Beschreibung:** Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket.
+**Fokus:** Rechtserhaltende Benutzung und Benutzungsschonfrist prüfen: ernsthafte Benutzung, Zeitraum, Gebiet, Waren/Dienstleistungen, Benutzungsunterlagen, Widerspruchseinrede, Verfallsrisiko und Belegpaket.
 
 # Rechtserhaltende Benutzung
 
@@ -170,7 +170,7 @@ Keine Umsatz- oder Marktanteilsschwellen erfinden. Bewertung hängt von Branche,
 
 ## 4. `euipo-widerspruchsverfahren`
 
-**Frühere Beschreibung:** EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation.
+**Fokus:** EUIPO-Widerspruchsverfahren nach Art. 8 UMV führen: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Prüfraster: Widerspruchsfristen (3 Monate ab Veröffentlichung), Gebühren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-löschung; TTAB siehe ttab-opposition-und-cancellation.
 
 # EUIPO-Widerspruchsverfahren
 

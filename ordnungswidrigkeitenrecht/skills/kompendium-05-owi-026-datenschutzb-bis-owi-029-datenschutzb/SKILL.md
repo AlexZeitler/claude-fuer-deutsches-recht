@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-owi-026-datenschutzb-bis-owi-029-datenschutzb
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (owi-026-datenschutzbussgeld-beweis-ruegen, owi-027-datenschutzbussgeld-verjaehrung-berech, owi-028-datenschutzbussgeld-gerichtstermin-vor, owi-029-datenschutzbussgeld-rechtsbeschwerde-p) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 026 Datenschutzbussgeld Beweis Ruegen, Owi 027 Datenschutzbussgeld Verjaehrung Berech, Owi 028 Datenschutzbussgeld Gerichtstermin Vor, Owi 029 Datenschutzbussgeld Rechtsbeschwerde P; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 026 Datenschutzbussgeld Beweis Ruegen bis Owi 029 Datenschutzbussgeld Rechtsbeschwerde P
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-026-datenschutzbussgeld-beweis-ruegen` | Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Beweis rügen. Beweis rügen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-027-datenschutzbussgeld-verjaehrung-berech` | Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-026-datenschutzbussgeld-beweis-ruegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Beweis rügen. Beweis rügen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Beweis rügen. Beweis rügen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Datenschutzbussgeld Beweis Ruegen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-027-datenschutzbussgeld-verjaehrung-berech`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Verjährung berechnen. Verjährung berechnen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Datenschutzbussgeld Verjaehrung Berech
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-028-datenschutzbussgeld-gerichtstermin-vor`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Gerichtstermin vorbereiten. Gerichtstermin vorbereiten für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Datenschutzbussgeld Gerichtstermin Vor
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-029-datenschutzbussgeld-rechtsbeschwerde-p`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Datenschutzbußgeld: Rechtsbeschwerde prüfen. Rechtsbeschwerde prüfen für Datenschutzbußgeld im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Datenschutzbussgeld Rechtsbeschwerde P
 

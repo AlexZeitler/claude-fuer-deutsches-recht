@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-abwaegungszustaendig-bis-generalklauseln-abwa
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (abwaegungszustaendigkeit-institutionen, spezial-buergerlichen-fristen-form-und-zustaendigkeit, spezial-verjaehrung-fristennotiz-und-naechster-schritt, freiheitlicher-paternalismus-check-vertrag, generalklauseln-abwaegungslenkung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Abwaegungszustaendigkeit Institutionen, Buergerlichen Fristen Form Und Zustaendigkeit, Verjaehrung Fristennotiz Und Naechster Schritt, Freiheitlicher Paternalismus Check Vertrag und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Abwaegungszustaendigkeit Institutionen bis Generalklauseln Abwaegungslenkung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `abwaegungszustaendigkeit-institutionen` | Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution. |
 | `spezial-buergerlichen-fristen-form-und-zustaendigkeit` | Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `abwaegungszustaendigkeit-institutionen`
 
-**Frühere Beschreibung:** Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution.
+**Fokus:** Klärt, welche Institution im Rechtssystem für eine konkrete Abwägungsentscheidung zuständig ist — Gesetzgeber, Gericht, Behörde oder Schiedsgericht. Das Skill verhindert Kompetenzkonfusionen und stärkt die demokratische Legitimation richterlicher Abwägung. Es analysiert Abwägungsöffnungen in Normen und zieht die institutionelle Grenze zwischen erlaubter Rechtsfortbildung und unzulässiger Legislativsubstitution.
 
 # Abwägungszuständigkeit: Welche Institution darf abwägen?
 
@@ -120,7 +120,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `spezial-buergerlichen-fristen-form-und-zustaendigkeit`
 
-**Frühere Beschreibung:** Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen.
+**Fokus:** Dieses Skill systematisiert die wichtigsten Fristen, Formvorschriften und Zuständigkeitsregeln im bürgerlichen Recht und Zivilprozess. Es trainiert die methodische Prüfung, ob eine Handlung fristgerecht, formwirksam und beim zuständigen Gericht oder der zuständigen Stelle einzureichen ist. Besonderes Gewicht liegt auf der Fristberechnung nach §§ 186 ff. BGB, den Heilungsmöglichkeiten bei Formfehlern sowie den Zuständigkeitsregeln der ZPO und anderer Verfahrensordnungen.
 
 # Fristen, Form und Zuständigkeit im bürgerlichen Recht
 
@@ -215,7 +215,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 3. `spezial-verjaehrung-fristennotiz-und-naechster-schritt`
 
-**Frühere Beschreibung:** Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsunterbrechungen durch Mahnung, Klage und Verhandlungen dokumentiert werden und wie Anwälte Fristensysteme für eine sichere Mandatsführung aufbauen. Besonderes Gewicht liegt auf der Haftungsvermeidung durch lückenlose Fristenüberwachung.
+**Fokus:** Dieses Skill systematisiert die Berechnung und Überwachung aller mandatsrelevanten Verjährungsfristen im bürgerlichen Recht und erstellt strukturierte Fristennotizen mit konkreten nächsten Schritten. Es zeigt, wie Verjährungsbeginn, Hemmung und Neubeginn korrekt berechnet werden, wie Verjährungsunterbrechungen durch Mahnung, Klage und Verhandlungen dokumentiert werden und wie Anwälte Fristensysteme für eine sichere Mandatsführung aufbauen. Besonderes Gewicht liegt auf der Haftungsvermeidung durch lückenlose Fristenüberwachung.
 
 # Verjährung, Fristennotiz und nächste Schritte
 
@@ -306,7 +306,7 @@ schützt die eigene Position und macht sie resilient gegenüber Angriffen.
 
 ## 4. `freiheitlicher-paternalismus-check-vertrag`
 
-**Frühere Beschreibung:** Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt Juristen ein Analysewerkzeug, um Schutzregelungen auf ihre freiheitliche Verhältnismäßigkeit zu prüfen.
+**Fokus:** Prüft zivilrechtliche Vertragsregelungen und ihre Auslegung auf versteckten oder offenen Paternalismus gegenüber der Vertragsautonomie. Das Skill hilft, Einschränkungen der Privatautonomie durch Richterrecht, AGB-Kontrolle und zwingende Normen methodisch zu legitimieren oder anzugreifen. Es gibt Juristen ein Analysewerkzeug, um Schutzregelungen auf ihre freiheitliche Verhältnismäßigkeit zu prüfen.
 
 # Freiheitlicher Paternalismus-Check im Vertragsrecht
 
@@ -395,7 +395,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `generalklauseln-abwaegungslenkung`
 
-**Frühere Beschreibung:** Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei gleichzeitig an Gesetz und Recht gebunden bleibt. Geeignet für Fälle mit offenen Wertungsfragen im BGB.
+**Fokus:** Systematisiert den methodisch korrekten Umgang mit Generalklauseln wie Treu und Glauben, guten Sitten und Zumutbarkeit im Zivilrecht. Das Skill zeigt, wie Generalklauseln die Abwägung strukturieren und lenken, welche normativen Leitlinien für ihre Konkretisierung gelten und wie der Richter dabei gleichzeitig an Gesetz und Recht gebunden bleibt. Geeignet für Fälle mit offenen Wertungsfragen im BGB.
 
 # Generalklauseln als Abwägungslenker im Zivilrecht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-kv-030-pkv-beitragsa-bis-kv-032-pkv-krankenta
-description: "krankenkassenrecht-krankenversicherung: Konsolidiertes Skill-Kompendium 11; bündelt 3 frühere Spezialskills (kv-030-pkv-beitragsanpassung-treuhaender-begruendung-und-verjaeh, kv-031-pkv-basistarif-standardtarif-notlagentarif, kv-032-pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehi) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krankenkassenrecht-krankenversicherung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kv 030 Pkv Beitragsanpassung Treuhaender Begruendung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagegeld Berufsunfaehigkeit Und Arbeitsunfaehi; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - krankenkassenrecht-krankenversicherung
+# Arbeitsbereich - Kv 030 Pkv Beitragsanpassung Treuhaender Begruendung Und Verjaeh, Kv 031 Pkv Basistarif Standardtarif Notlagentarif, Kv 032 Pkv Krankentagege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kv-030-pkv-beitragsanpassung-treuhaender-begruendung-und-verjaeh` | PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, formelle und materielle Anforderungen, BGH-Rechtsprechung und Rückforderungsverjährung. |
 | `kv-031-pkv-basistarif-standardtarif-notlagentarif` | Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kv-030-pkv-beitragsanpassung-treuhaender-begruendung-und-verjaeh`
 
-**Frühere Beschreibung:** PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, formelle und materielle Anforderungen, BGH-Rechtsprechung und Rückforderungsverjährung.
+**Fokus:** PKV-Beitragserhöhungen nach § 203 VVG: Treuhänder-Zustimmung, formelle und materielle Anforderungen, BGH-Rechtsprechung und Rückforderungsverjährung.
 
 # PKV-Beitragsanpassung: Treuhänder, Begründung und Verjährung
 
@@ -112,7 +112,7 @@ PKV-Beiträge werden regelmäßig erhöht. Dieser Skill prüft, ob **Beitragsanp
 
 ## 2. `kv-031-pkv-basistarif-standardtarif-notlagentarif`
 
-**Frühere Beschreibung:** Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten.
+**Fokus:** Auffangsysteme in der PKV: Basistarif (§ 152 VAG), Standardtarif, Notlagentarif (§ 153 VAG) – Voraussetzungen, Leistungsumfang und Wechselmöglichkeiten.
 
 # PKV: Basistarif, Standardtarif und Notlagentarif
 
@@ -197,7 +197,7 @@ Wer sich die PKV-Beiträge nicht leisten kann oder will, hat Optionen: **Basista
 
 ## 3. `kv-032-pkv-krankentagegeld-berufsunfaehigkeit-und-arbeitsunfaehi`
 
-**Frühere Beschreibung:** PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung.
+**Fokus:** PKV-Krankentagegeld nach § 192 Abs. 5 VVG: Anspruchsvoraussetzungen, Arbeitsunfähigkeitsbegriff, Berufsunfähigkeitsabgrenzung und Leistungseinstellung.
 
 # PKV-Krankentagegeld: Berufsunfähigkeit und Arbeitsunfähigkeit
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-frueherer-abgelehnte-bis-gewissensbegruendung
-description: "kriegsdienstverweigerung-wehrdienst: Konsolidiertes Skill-Kompendium 14; bündelt 5 frühere Spezialskills (frueherer-abgelehnter-antrag, fuehrungszeugnis-zweifel, fwdl-probezeit-und-kdv, gesetzliche-vertreter-rechtsbehelfe, gewissensbegruendung-werkstatt) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "kriegsdienstverweigerung-wehrdienst: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Frueherer Abgelehnter Antrag, Fuehrungszeugnis Zweifel, Fwdl Probezeit Und Kdv, Gesetzliche Vertreter Rechtsbehelfe und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - kriegsdienstverweigerung-wehrdienst
+# Arbeitsbereich - Frueherer Abgelehnter Antrag bis Gewissensbegruendung Werkstatt
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `frueherer-abgelehnter-antrag` | Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit. |
 | `fuehrungszeugnis-zweifel` | Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `frueherer-abgelehnter-antrag`
 
-**Frühere Beschreibung:** Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit.
+**Fokus:** Prüft Folgen früherer Ablehnung oder Rücknahme für Schutzwirkung und Glaubhaftigkeit.
 
 # Früherer abgelehnter Antrag
 
@@ -85,7 +85,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 2. `fuehrungszeugnis-zweifel`
 
-**Frühere Beschreibung:** Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln.
+**Fokus:** Erklärt begrenzte Anforderung eines Führungszeugnisses bei Zweifeln.
 
 # Führungszeugnis bei Zweifeln
 
@@ -140,7 +140,7 @@ Keine schematische Antwort geben; die konkrete Gewissenslage, der Status und die
 
 ## 3. `fwdl-probezeit-und-kdv`
 
-**Frühere Beschreibung:** Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes.
+**Fokus:** Unterscheidet KDV von einfacher Beendigung des freiwilligen Wehrdienstes.
 
 # FWDL Probezeit und KDV
 
@@ -195,7 +195,7 @@ Nie pauschal zur Befehlsverweigerung raten; akute Dienstpflichten, Disziplinarri
 
 ## 4. `gesetzliche-vertreter-rechtsbehelfe`
 
-**Frühere Beschreibung:** Erklärt Rechte gesetzlicher Vertreter im Widerspruchs- und Gerichtsverfahren.
+**Fokus:** Erklärt Rechte gesetzlicher Vertreter im Widerspruchs- und Gerichtsverfahren.
 
 # Gesetzliche Vertreter
 
@@ -250,7 +250,7 @@ Fristen, Zustellung und Dokumenttyp prüfen, bevor Widerspruch, Klage oder Eilan
 
 ## 5. `gewissensbegruendung-werkstatt`
 
-**Frühere Beschreibung:** Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze.
+**Fokus:** Strukturiert Lebensweg, Auslöser, Wandel und heutige Unbedingtheit ohne fremde Mustersätze.
 
 # Werkstatt Gewissensbegründung
 

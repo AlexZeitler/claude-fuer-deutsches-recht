@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-akteneinsicht-wbo-wd-bis-ausbildung-studium-b
-description: "bundeswehrrecht-wehrrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (akteneinsicht-wbo-wdo, arbeitsrecht-zivile-bundeswehrbeschaeftigte, ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundeswehrrecht-wehrrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - bundeswehrrecht-wehrrecht
+# Arbeitsbereich - Akteneinsicht Wbo Wdo, Arbeitsrecht Zivile Bundeswehrbeschaeftigte, Ausbildung Studium Bundeswehr Rueckforderung Ausbildungskosten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `akteneinsicht-wbo-wdo` | Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG. |
 | `arbeitsrecht-zivile-bundeswehrbeschaeftigte` | Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `akteneinsicht-wbo-wdo`
 
-**Frühere Beschreibung:** Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG.
+**Fokus:** Akteneinsicht WBO und WDO: prüft Einsichtsrechte, Umfang, Verweigerungsgründe und Rechtsbehelfe. Norm-/Quellenanker: §§ 4–5 WBO, §§ 18–21 WDO, § 17 SG.
 
 # Akteneinsicht nach WBO und WDO
 
@@ -148,7 +148,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `arbeitsrecht-zivile-bundeswehrbeschaeftigte`
 
-**Frühere Beschreibung:** Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG.
+**Fokus:** Arbeitsrecht zivile Bundeswehrbeschäftigte: prüft TVöD-Anwendung, Personalrat BPersVG, Kündigung, Versetzung und Rechtsweg. Norm-/Quellenanker: TVöD Bund, BPersVG, KSchG.
 
 # Arbeitsrecht für zivile Bundeswehrbeschäftigte
 
@@ -268,7 +268,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `ausbildung-studium-bundeswehr-rueckforderung-ausbildungskosten`
 
-**Frühere Beschreibung:** Rückforderung Ausbildungskosten Bundeswehr: prüft § 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Norm-/Quellenanker: § 56 SG, Art. 12 GG, BVerwG.
+**Fokus:** Rückforderung Ausbildungskosten Bundeswehr: prüft § 56 SG, Zeitstaffelung, Verhältnismäßigkeit und Billigkeitserlass. Norm-/Quellenanker: § 56 SG, Art. 12 GG, BVerwG.
 
 # Ausbildung, Studium und Rückforderung von Ausbildungskosten
 

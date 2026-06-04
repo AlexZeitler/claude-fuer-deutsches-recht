@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-stb-sanierungsgewinn-bis-anw-grest-share-deal
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 14; bündelt 9 frühere Spezialskills (stb-sanierungsgewinn-mandantenwarnung-rechtzeitig, stb-sanierungsgewinn-stehengelassene-verbindlichkeiten, stb-sanierungsgewinn-verlustvortrag-sanity-check, v90-bmf-schreiben-radar-2026, anw-aussenpruefung-strategien und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig, Stb Sanierungsgewinn Stehengelassene Verbindlichkeiten, Stb Sanierungsgewinn Verlustvortrag Sanity Check, V90 Bmf Schreiben Radar 2026 und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Stb Sanierungsgewinn Mandantenwarnung Rechtzeitig bis Anw Grest Share Deal 90 Prozent 10 Jahre
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig` | Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten. |
 | `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten` | Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stb-sanierungsgewinn-mandantenwarnung-rechtzeitig`
 
-**Frühere Beschreibung:** Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten.
+**Fokus:** Mandantenbrief-Mustertext zur frühen Sensibilisierung in der Krise. Erklärt mit verständlicher Sprache, weshalb ein Forderungsverzicht ohne Vorbereitung steuerpflichtig wird, und welche Schritte nach Paragraf 3a EStG die Liquidität retten.
 
 # Sanierungsgewinn — frühzeitige Mandantenwarnung
 
@@ -239,7 +239,7 @@ Mit freundlichen Grüßen
 
 ## 2. `stb-sanierungsgewinn-stehengelassene-verbindlichkeiten`
 
-**Frühere Beschreibung:** Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung.
+**Fokus:** Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation. Drei-Phasen-Analyse: Passivierung dem Grunde nach (BFH I R 100/10), Passivierung der Hoehe nach (BewG, EStG), Wegfall mit Erloeschen der GmbH (FG Koeln 13 K 3006/11). Abgrenzung zu Forderungsverzicht und Rangruecktritt. Wechselwirkung mit Loeschungsverfahren und Mindestbesteuerung.
 
 # Sanierungsgewinn — Stehen gelassene Verbindlichkeiten in der GmbH-Liquidation
 
@@ -644,7 +644,7 @@ Andere Plugins:
 
 ## 3. `stb-sanierungsgewinn-verlustvortrag-sanity-check`
 
-**Frühere Beschreibung:** Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich.
+**Fokus:** Sanity-Check für Verlustvorträge bei Sanierung. Prüft ob § 10d EStG, § 8c KStG-Mindestbesteuerung und § 10a Satz 1 GewStG den Sanierungsertrag bereits aufzehren. Wenn ja, ist der Antrag nach Paragraf 3a Absatz 4 EStG entbehrlich.
 
 # Sanierungsgewinn — Verlustvortrag-Sanity-Check
 
@@ -813,7 +813,7 @@ Lehre: Vor Sanierung § 8d KStG-Antrag sichern.
 
 ## 4. `v90-bmf-schreiben-radar-2026`
 
-**Frühere Beschreibung:** Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende Steuerberatung und verteilt sie in Prüfpfade statt Blindzitate zu erzeugen.
+**Fokus:** Bündelt die wichtigsten amtlichen BMF-/BZSt-Anker für laufende Steuerberatung und verteilt sie in Prüfpfade statt Blindzitate zu erzeugen.
 
 # BMF-Schreiben-Radar 2026: E-Rechnung, Forschungszulage, Mindeststeuer, GrESt und UmwSt
 
@@ -835,7 +835,7 @@ Erzeuge eine Tabelle `Thema / amtlicher Anker / Mandantenrisiko / Pflicht / To-d
 
 ## 5. `anw-aussenpruefung-strategien`
 
-**Frühere Beschreibung:** Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Prüfungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verständigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verständigung-schlussbesprechung.
+**Fokus:** Anwaltliche Begleitung einer Betriebsprüfung Aussenprüfung nach §§ 193 ff. AO. Anwendungsfall Mandant erhaelt Prüfungsanordnung § 196 AO oder Prüfung laeuft bereits. Prüfraster Umfang § 194 AO Mitwirkungspflichten § 200 AO Datenzugriff § 147 AO Auskunftsverweigerungsrecht §§ 102 103 AO Trennungsprinzip § 393 AO GoBD DSFinV-K. Schlussbesprechung § 201 AO Prüfungsbericht § 202 AO Verbindliche Zusage § 204 AO. Strategie aktive Mitwirkung dokumentierter Widerspruch tatsaechliche Verständigung. Output Strategie-Memo Widerspruchsprotokoll Vorlage Schlussbesprechung Aenderungsbescheide §§ 173 175 AO. Abgrenzung zu anw-tatsaechliche-verständigung-schlussbesprechung.
 
 # Außenprüfung — Strategien und Begleitung
 
@@ -1071,7 +1071,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 6. `anw-betriebsausgaben-werbungskosten-pruefraster`
 
-**Frühere Beschreibung:** Workflow-Skill zu anw betriebsausgaben werbungskosten pruefraster. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu anw betriebsausgaben werbungskosten pruefraster. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 # Betriebsausgaben Werbungskosten — Prüfraster
 
@@ -1282,7 +1282,7 @@ Die zentrale Abgrenzungs-Frage im Einkommensteuerrecht: was darf der Mandant ans
 
 ## 7. `anw-dac7-dac8-plattformen-krypto`
 
-**Frühere Beschreibung:** Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bußgeld § 379 AO bei Verletzung. Output Compliance-Prüfliste Meldeprozess Vermeidungsstrategie Beratungsmemo für Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024.
+**Fokus:** Beratung zu DAC7-Meldepflichten für digitale Plattformen ab 2023 PStTG und DAC8-Meldepflichten für Krypto-Dienstleister ab 2026 KryptoStG. Anwendungsfall Plattformbetreiber oder Krypto-Dienstleister fragt nach Meldepflichten oder Mandant als Anbieter erhaelt Meldung. Prüfung Meldepflicht Quartalsmeldung Jahresmeldung Datenerfassung Bußgeld § 379 AO bei Verletzung. Output Compliance-Prüfliste Meldeprozess Vermeidungsstrategie Beratungsmemo für Plattformbetreiber und Krypto-Inhaber. Abgrenzung zu anw-defi-lending-yield-farming-bmf-22-11-2024.
 
 # DAC7 & DAC8 — Meldepflichten Plattformen und Krypto
 
@@ -1470,7 +1470,7 @@ Stand: 05/2026. PStTG seit 1.1.2023 in Kraft, KryptoStG seit 1.1.2026. MiCA-VO a
 
 ## 8. `anw-grest-anzeige-19-closing-check`
 
-**Frühere Beschreibung:** Anzeige nach § 19 GrEStG und Closing-Checkliste: wer zeigt was wann welchem Finanzamt an, Inhalt der Anzeige, Grundstücksliste, Beteiligungswechsel, Notar, Gesellschaft, Erwerber, Fristen, Sanktionen und Nachdokumentation.
+**Fokus:** Anzeige nach § 19 GrEStG und Closing-Checkliste: wer zeigt was wann welchem Finanzamt an, Inhalt der Anzeige, Grundstücksliste, Beteiligungswechsel, Notar, Gesellschaft, Erwerber, Fristen, Sanktionen und Nachdokumentation.
 
 # GrESt: Anzeige nach § 19 GrEStG und Closing-Check
 
@@ -1571,7 +1571,7 @@ Anzeigen nicht nur dem Notar überlassen, wenn Share-Deal-Tatbestände, ausländ
 
 ## 9. `anw-grest-share-deal-90-prozent-10-jahre`
 
-**Frühere Beschreibung:** GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, unmittelbare und mittelbare Beteiligungen, RETT-Blocker, Altgesellschafter, Kapital- und Personengesellschaften.
+**Fokus:** GrESt Share Deal vertieft: § 1 Abs. 2a/2b/3/3a GrEStG, 90-Prozent-Schwelle, 10-Jahres-Zeitraum, unmittelbare und mittelbare Beteiligungen, RETT-Blocker, Altgesellschafter, Kapital- und Personengesellschaften.
 
 # GrESt: Share Deal, 90 % und 10 Jahre
 

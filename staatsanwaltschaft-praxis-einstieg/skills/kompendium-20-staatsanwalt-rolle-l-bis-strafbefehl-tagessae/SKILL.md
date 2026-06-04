@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-staatsanwalt-rolle-l-bis-strafbefehl-tagessae
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 20; bündelt 5 frühere Spezialskills (staatsanwalt-rolle-legalitaet-objektivitaet, staatsanwaltschaft-uebergabe-zwischen-dezernaten, stalking-238-stgb-gewschg-schnittstelle, strafbefehl-beantragen, strafbefehl-tagessaetze-und-nebenfolgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Staatsanwalt Rolle Legalitaet Objektivitaet, Staatsanwaltschaft Uebergabe Zwischen Dezernaten, Stalking 238 Stgb Gewschg Schnittstelle, Strafbefehl Beantragen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Staatsanwalt Rolle Legalitaet Objektivitaet bis Strafbefehl Tagessaetze Und Nebenfolgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `staatsanwalt-rolle-legalitaet-objektivitaet` | Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
 | `staatsanwaltschaft-uebergabe-zwischen-dezernaten` | Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `staatsanwalt-rolle-legalitaet-objektivitaet`
 
-**Frühere Beschreibung:** Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Rolle der Staatsanwaltschaft: Legalität und Objektivität: Praxis-Skill für neue Staatsanwälte zu Rolle als objektive Verfahrensleiterin im Ermittlungsverfahren, Legalitätsprinzip und Belastungs-/Entlastungsermittlung; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Rolle der Staatsanwaltschaft: Legalität und Objektivität
 
@@ -80,7 +80,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `staatsanwaltschaft-uebergabe-zwischen-dezernaten`
 
-**Frühere Beschreibung:** Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt.
+**Fokus:** Dezernatsuebergabe in der Staatsanwaltschaft: prueft Aktenstand, Fristen, Haft, offene Ermittlungsauftraege, Beweisrisiken und Abschlussreife mit Uebergabevermerk und naechstem Schritt.
 
 # Dezernatsübergabe zwischen Staatsanwaltschaftsdezernaten
 
@@ -120,7 +120,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `stalking-238-stgb-gewschg-schnittstelle`
 
-**Frühere Beschreibung:** Stalking § 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Stalking § 238 StGB und GewSchG-Schnittstelle: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Stalking § 238 StGB und GewSchG-Schnittstelle
 
@@ -169,7 +169,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `strafbefehl-beantragen`
 
-**Frühere Beschreibung:** Strafbefehl beantragen: Praxis-Skill für neue Staatsanwälte zu Eignung, Rechtsfolgen, Tagessätze, Fahrverbot, Bewährung und Verteidigungsrechte prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Strafbefehl beantragen: Praxis-Skill für neue Staatsanwälte zu Eignung, Rechtsfolgen, Tagessätze, Fahrverbot, Bewährung und Verteidigungsrechte prüfen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Strafbefehl beantragen
 
@@ -219,7 +219,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `strafbefehl-tagessaetze-und-nebenfolgen`
 
-**Frühere Beschreibung:** Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Strafbefehl: Tagessätze, Nebenfolgen und Einspruchsrisiko
 

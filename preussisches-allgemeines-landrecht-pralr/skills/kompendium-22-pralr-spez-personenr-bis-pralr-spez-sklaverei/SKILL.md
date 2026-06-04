@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-pralr-spez-personenr-bis-pralr-spez-sklaverei
-description: "preussisches-allgemeines-landrecht-pralr: Konsolidiertes Skill-Kompendium 22; bündelt 5 frühere Spezialskills (pralr-spez-personenrecht-kuriositaeten-im-alr, pralr-spez-prozessrecht-ago-1793, pralr-spez-sklavenrecht-alr-ii-5-196-197, pralr-spez-sklavenrecht-rechtsvergleich-somerset-code-noir, pralr-spez-sklaverei-aufhebung-und-edikte-1807-1857) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "preussisches-allgemeines-landrecht-pralr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pralr Spez Personenrecht Kuriositaeten Im Alr, Pralr Spez Prozessrecht Ago 1793, Pralr Spez Sklavenrecht Alr Ii 5 196 197, Pralr Spez Sklavenrecht Rechtsvergleich Somerset Code Noir und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - preussisches-allgemeines-landrecht-pralr
+# Arbeitsbereich - Pralr Spez Personenrecht Kuriositaeten Im Alr bis Pralr Spez Sklaverei Aufhebung Und Edikte 1807 1857
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pralr-spez-personenrecht-kuriositaeten-im-alr` | ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix. |
 | `pralr-spez-prozessrecht-ago-1793` | Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pralr-spez-personenrecht-kuriositaeten-im-alr`
 
-**Frühere Beschreibung:** ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix.
+**Fokus:** ALR-Personenrecht — Kuriositaeten und ihre rechtshistorische Bedeutung. Skill versammelt bekannte kuriose Detail-Regelungen Schlafwandlerhaftung Trunkenheitsregeln Detailvorgaben zur Tatherrschaft und Schuldsfaehigkeit. Liefert Quellenmatrix.
 
 # Pralr Personenrecht Kuriositaeten Im Alr
 
@@ -70,7 +70,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 2. `pralr-spez-prozessrecht-ago-1793`
 
-**Frühere Beschreibung:** Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix.
+**Fokus:** Preussisches Prozessrecht und Allgemeine Gerichtsordnung 1793. Skill behandelt die AGO 1793 die als Vorlaeufer der ZPO gilt das Verfahrensprinzip die Beweisregelung und die Fortwirkung zur CPO/ZPO. Liefert Quellenmatrix.
 
 # Pralr Prozessrecht Ago 1793
 
@@ -109,7 +109,7 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## 3. `pralr-spez-sklavenrecht-alr-ii-5-196-197`
 
-**Frühere Beschreibung:** Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzung) und die rechtshistorische Bedeutung als 'freie Luft Preussens'. Liefert Quellenmatrix und Pruefraster.
+**Fokus:** Sklavenrecht im ALR — die beruehmten Bestimmungen ALR II 5 §§ 196 ff. zur Nichtanerkennung der Sklaverei in Preussen. Skill behandelt den Wortlaut der Schluesselparagraphen die Wirkung Sklavenstatus bei Grenzuebertritt zu enden die Frage nach einer 1-Jahres-Frist (mit kritischer Auseinandersetzung) und die rechtshistorische Bedeutung als 'freie Luft Preussens'. Liefert Quellenmatrix und Pruefraster.
 
 # Sklavenrecht im ALR — ALR II 5 §§ 196 ff.
 
@@ -175,7 +175,7 @@ Spaetere Akte:
 
 ## 4. `pralr-spez-sklavenrecht-rechtsvergleich-somerset-code-noir`
 
-**Frühere Beschreibung:** Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und die rechtsgeschichtliche Linie zur Abolition. Liefert Synopse.
+**Fokus:** Rechtsvergleich Sklavenrecht — Preussen ALR vs. England Somerset 1772 vs. Frankreich Code Noir 1685/1716. Skill arbeitet die drei wichtigsten europaeischen Linien aus den Wirkungsmechanismus (sofortige Befreiung vs. Fristenkonstrukt) und die rechtsgeschichtliche Linie zur Abolition. Liefert Synopse.
 
 # Rechtsvergleich Sklavenrecht — Preussen, England, Frankreich
 
@@ -251,7 +251,7 @@ Spaetere Akte:
 
 ## 5. `pralr-spez-sklaverei-aufhebung-und-edikte-1807-1857`
 
-**Frühere Beschreibung:** Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefert Quellenmatrix.
+**Fokus:** Aufhebung der Sklaverei und der Erbuntertaenigkeit in Preussen — vom ALR ueber das Oktoberedikt 1807 bis zum Gesetz 1857. Skill ordnet die Edikte chronologisch ein klaert das Verhaeltnis von Sklaverei und Erbuntertaenigkeit und zeigt die rechtshistorische Linie zum Reichsgesetz und zum BGB. Liefert Quellenmatrix.
 
 # Aufhebung Sklaverei und Erbuntertaenigkeit in Preussen 1794-1857
 

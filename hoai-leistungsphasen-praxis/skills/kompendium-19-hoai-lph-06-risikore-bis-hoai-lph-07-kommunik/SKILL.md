@@ -1,17 +1,17 @@
 ---
 name: kompendium-19-hoai-lph-06-risikore-bis-hoai-lph-07-kommunik
-description: "hoai-leistungsphasen-praxis: Konsolidiertes Skill-Kompendium 19; bündelt 18 frühere Spezialskills (hoai-lph-06-risikoregister, hoai-lph-06-sachverstaendigen-pruefung, hoai-lph-06-schnittstelle-vob-bgb, hoai-lph-06-streitfall-vorbereitung, hoai-lph-06-terminsteuerung und 13 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "hoai-leistungsphasen-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hoai Lph 06 Risikoregister, Hoai Lph 06 Sachverstaendigen Pruefung, Hoai Lph 06 Schnittstelle Vob Bgb, Hoai Lph 06 Streitfall Vorbereitung und 14 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 19 - hoai-leistungsphasen-praxis
+# Arbeitsbereich - Hoai Lph 06 Risikoregister bis Hoai Lph 07 Kommunikation Baustelle Behoerde
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hoai-lph-06-risikoregister` | HOAI LPH 6 Vorbereitung der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. |
 | `hoai-lph-06-sachverstaendigen-pruefung` | HOAI LPH 6 Vorbereitung der Vergabe: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume. |
@@ -34,16 +34,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hoai-lph-06-risikoregister`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: baut Risiko-, Annahmen- und Entscheidungsregister; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Baut risiko-
 
@@ -80,7 +80,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 2. `hoai-lph-06-sachverstaendigen-pruefung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: übersetzt den LPH-Stand in Gutachterfragen und Prüfspur; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Übersetzt den lph-stand in gutachterfragen und prüfspur
 
@@ -117,7 +117,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 3. `hoai-lph-06-schnittstelle-vob-bgb`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: prüft VOB/B, Bauvertragsrecht und HOAI-Schnittstelle; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Prüft vob/b
 
@@ -154,7 +154,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 4. `hoai-lph-06-streitfall-vorbereitung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: macht aus der Phase eine Prozess-/Schiedsgutachten- oder Vergleichsakte; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Macht aus der phase eine prozess-/schiedsgutachten- oder vergleichsakte
 
@@ -191,7 +191,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 5. `hoai-lph-06-terminsteuerung`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: baut Terminlog, Fristen, Meilensteine, Puffer und Behinderungsrisiken; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Baut terminlog
 
@@ -228,7 +228,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 6. `hoai-lph-06-verbraucher-privater-bauherr`
 
-**Frühere Beschreibung:** HOAI LPH 6 Vorbereitung der Vergabe: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
+**Fokus:** HOAI LPH 6 Vorbereitung der Vergabe: erklärt Pflichten, Widerruf, Kostentransparenz und Verständlichkeit; mit Fokus auf Mengen, Leistungsverzeichnisse, Schnittstellen, Kostenanschlag und Vergabestruktur und Bewertungsanteil 10 % Gebäude / 7 % Innenräume.
 
 # LPH 6 Vorbereitung der Vergabe: Erklärt pflichten
 
@@ -265,7 +265,7 @@ Dieser Skill ist nur für **Leistungsphase 6 (Vorbereitung der Vergabe)** gedach
 
 ## 7. `hoai-lph-07-abnahme-und-teilabnahme`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet Abnahme, Teilabnahme, Zustandsfeststellung und § 650s BGB; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Ordnet abnahme
 
@@ -302,7 +302,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 8. `hoai-lph-07-anwaltlicher-pruefvermerk`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: erstellt anwaltliches Kurzmemorandum zum LPH-Stand; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Erstellt anwaltliches kurzmemorandum zum lph-stand
 
@@ -339,7 +339,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 9. `hoai-lph-07-bauherrnfreigabe`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: strukturiert Freigabeentscheidung, Protokoll, Vorbehalte und Änderungswünsche; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Strukturiert freigabeentscheidung
 
@@ -376,7 +376,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 10. `hoai-lph-07-bim-und-datenraum`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet digitale Modelle, CDE, Planversionen und Zugriffsnachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Ordnet digitale modelle
 
@@ -413,7 +413,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 11. `hoai-lph-07-dokumentation-und-belegakte`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: sichert Protokolle, Planstände, Entscheidungen, Mails und Nachweise; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Sichert protokolle
 
@@ -450,7 +450,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 12. `hoai-lph-07-fachplaner-schnittstellen`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: koordiniert Architekt, TGA, Tragwerk, Brandschutz, Baugrund und Sonderplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Koordiniert architekt
 
@@ -487,7 +487,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 13. `hoai-lph-07-foerdermittel-und-nachweis`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Fördermittelbedingungen, Berichtspflichten und Kostenbelege; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft fördermittelbedingungen
 
@@ -524,7 +524,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 14. `hoai-lph-07-genehmigungen-und-auflagen`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: ordnet öffentlich-rechtliche Auflagen und Genehmigungslasten; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Ordnet öffentlich-rechtliche auflagen und genehmigungslasten
 
@@ -561,7 +561,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 15. `hoai-lph-07-grundleistung-besondere-leistung`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: grenzt HOAI-Grundleistung, Besondere Leistung und Zusatzauftrag ab; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Grenzt hoai-grundleistung
 
@@ -598,7 +598,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 16. `hoai-lph-07-honorar-und-prozentwert`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Bewertungsanteil, Honorarlogik, Basishonorarsatz und Abrechnung; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft bewertungsanteil
 
@@ -635,7 +635,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 17. `hoai-lph-07-input-und-zielcheck`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: prüft Eingaben, Ziele, offene Entscheidungen und Mindestunterlagen; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Prüft eingaben
 
@@ -672,7 +672,7 @@ Dieser Skill ist nur für **Leistungsphase 7 (Mitwirkung bei der Vergabe)** geda
 
 ## 18. `hoai-lph-07-kommunikation-baustelle-behoerde`
 
-**Frühere Beschreibung:** HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
+**Fokus:** HOAI LPH 7 Mitwirkung bei der Vergabe: formuliert klare E-Mails an Bauherr, Behörde, Unternehmer oder Fachplaner; mit Fokus auf Angebotsprüfung, Bieterspiegel, Vergabevorschlag, Kostenanschlag und Vertragsunterlagen und Bewertungsanteil 4 % Gebäude / 3 % Innenräume.
 
 # LPH 7 Mitwirkung bei der Vergabe: Formuliert klare e-mails an bauherr
 

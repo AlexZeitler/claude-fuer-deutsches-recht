@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-spezial-gesellschaft-bis-hgr-kollektivverteid
-description: "fachanwalt-handels-gesellschaftsrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe, fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung, hgr-kollektivverteidigung-direktorenhaftung-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-handels-gesellschaftsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktorenhaftung Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - fachanwalt-handels-gesellschaftsrecht
+# Arbeitsbereich - Gesellschaftervertrag Abschlussprodukt Und Uebergabe, Handels Gesellschaftsrecht Geschaeftsfuehrerhaftung, Hgr Kollektivverteidigung Direktor
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe` | Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt. |
 | `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung` | Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `spezial-gesellschaftervertrag-abschlussprodukt-und-uebergabe`
 
-**Frühere Beschreibung:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
+**Fokus:** Gesellschaftervertrag: Abschlussprodukt und Übergabe im Handels- und Gesellschaftsrecht: fachlich vertiefter Spezialskill mit Normenradar (HGB/GmbHG/AktG/UmwG), Tatbestands-/Beweislastmatrix, Fristen- und Formcheck, Gegenargumenten, Fehlerbremse und direkt nutzbarem Arbeitsprodukt.
 
 # Gesellschaftervertrag: Abschlussprodukt und Übergabe
 
@@ -78,7 +78,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 2. `fachanwalt-handels-gesellschaftsrecht-geschaeftsfuehrerhaftung`
 
-**Frühere Beschreibung:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
+**Fokus:** Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und verifizierte Quellen; Rechtsprechung nur nach Live-Pruefung mit Gericht, Datum und Aktenzeichen.
 
 ## V90 Fachkern — Gesellschaftsrecht und Corporate Law
 - **Problemfokus dieses Skills:** Bleibe beim konkreten Titel `Workflow-Skill zu fachanwalt handels gesellschaftsrecht geschaeftsfuehrerhaftung. Nutzt Normtext, Nutzerangaben und veri` und löse die dort angelegte Fachfrage; keine Flucht in allgemeines Routing, außer eine echte Frist oder Zuständigkeit ist unklar.
@@ -363,7 +363,7 @@ Beispiel: Zahlungen nach Insolvenzreife EUR 200.000.
 
 ## 3. `hgr-kollektivverteidigung-direktorenhaftung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision.
+**Fokus:** Spezialfall Kollektivverteidigung in Direktorenhaftungsfaellen: § 116 AktG, gesamtschuldnerische Haftung Vorstand, Koordinierung Verteidigung, D-and-O-Versicherung. Pruefraster fuer einheitliche Strategie und Pflichtenkollision.
 
 # HGR: Kollektivverteidigung Vorstand
 

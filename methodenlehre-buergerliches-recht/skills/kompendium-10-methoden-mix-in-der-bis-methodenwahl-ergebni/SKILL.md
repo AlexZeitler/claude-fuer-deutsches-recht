@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-methoden-mix-in-der-bis-methodenwahl-ergebni
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 10; bündelt 5 frühere Spezialskills (methoden-mix-in-der-praxis-anwaltsschriftsatz, methodenfragen-als-verfassungsfragen, methodenkritik-larenz-canaris-zivilrecht, methodenlehre-anwenden, methodenwahl-ergebnisoffenheit-audit) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Methoden Mix In Der Praxis Anwaltsschriftsatz, Methodenfragen Als Verfassungsfragen, Methodenkritik Larenz Canaris Zivilrecht, Methodenlehre Anwenden und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Methoden Mix In Der Praxis Anwaltsschriftsatz bis Methodenwahl Ergebnisoffenheit Audit
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `methoden-mix-in-der-praxis-anwaltsschriftsatz` | Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins. |
 | `methodenfragen-als-verfassungsfragen` | Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `methoden-mix-in-der-praxis-anwaltsschriftsatz`
 
-**Frühere Beschreibung:** Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins.
+**Fokus:** Pragmatischer Methoden-Mix im Anwaltsschriftsatz. Wie Sie Wortlaut, System, Historie, Telos, Verfassung, Unionsrecht und Argumentum-Figuren konkret kombinieren. Vorrangdiskussion (Larenz vs. BGH-pragmatisch). Welche Methode in welcher Situation das staerkste Argument liefert. Strategie fuer offene und geschlossene Rechtslagen. Konkrete Schriftsatz-Strukturen und Formulierungsmuster. Verzahnung mit den anderen Methoden-Skills dieses Plugins.
 
 # Methoden-Mix in der Praxis (Anwaltsschriftsatz)
 
@@ -219,7 +219,7 @@ Stand: Mai 2026.
 
 ## 2. `methodenfragen-als-verfassungsfragen`
 
-**Frühere Beschreibung:** Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten.
+**Fokus:** Zeigt auf, dass und wie methodische Fragen der Rechtsanwendung zugleich Verfassungsfragen sind. Das Skill systematisiert, wann die Wahl einer Auslegungsmethode verfassungsrechtliche Relevanz hat und welche Methoden vom Grundgesetz geboten oder verboten sind. Es verbindet Methodenlehre und Verfassungsrecht als Einheit und hilft, Verfassungsrügen aus Methodenfehlern herzuleiten.
 
 # Methodenfragen als Verfassungsfragen
 
@@ -308,7 +308,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 3. `methodenkritik-larenz-canaris-zivilrecht`
 
-**Frühere Beschreibung:** Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene.
+**Fokus:** Prüft System- und Wertungsargumente im Zivilrecht kritisch auf demokratische Rückbindung, NS-Belastung, Scheinobjektivität und Quellenhygiene.
 
 # Methodenkritik Larenz/Canaris im Zivilrecht: System, Wertung, Autoritätskontrolle
 
@@ -332,7 +332,7 @@ Red-Team-Memo mit ersetzbaren Formulierungen für Schriftsatz oder Gutachten.
 
 ## 4. `methodenlehre-anwenden`
 
-**Frühere Beschreibung:** Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch).
+**Fokus:** Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch).
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)
 
@@ -492,7 +492,7 @@ Die ausführliche methodische Grundlage einschließlich der Sektionen zu Anspruc
 
 ## 5. `methodenwahl-ergebnisoffenheit-audit`
 
-**Frühere Beschreibung:** Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärkt die Integrität juristischer Argumentation.
+**Fokus:** Prüft zivilrechtliche Gutachten und Urteile auf Ergebnisoffenheit der Methodenwahl. Das Skill erkennt, ob die Methodenwahl unvoreingenommen erfolgt ist oder rückwärts vom gewünschten Ergebnis konstruiert wurde. Es liefert ein strukturiertes Audit-Verfahren für methodische Unabhängigkeit und stärkt die Integrität juristischer Argumentation.
 
 # Methodenwahl-Audit: Ergebnisoffenheit prüfen
 

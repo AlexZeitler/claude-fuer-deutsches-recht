@@ -1,32 +1,32 @@
 ---
 name: kompendium-16-vifr-planfeststellun-bis-vifr-planfeststellun
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 16; bündelt 1 frühere Spezialskills (vifr-planfeststellung-strasse-bauleiter) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill zu Vifr Planfeststellung Strasse Bauleiter; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Vifr Planfeststellung Strasse Bauleiter
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vifr-planfeststellung-strasse-bauleiter` | Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhoerungsverfahren, Beschluss. Pruefraster fuer Vorhabentraeger und Einwender. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vifr-planfeststellung-strasse-bauleiter`
 
-**Frühere Beschreibung:** Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhoerungsverfahren, Beschluss. Pruefraster fuer Vorhabentraeger und Einwender.
+**Fokus:** Bauleiter Planfeststellung Strasse FStrG: Antragsunterlagen, UVP, Anhoerungsverfahren, Beschluss. Pruefraster fuer Vorhabentraeger und Einwender.
 
 # ViFR: Planfeststellung Strasse
 

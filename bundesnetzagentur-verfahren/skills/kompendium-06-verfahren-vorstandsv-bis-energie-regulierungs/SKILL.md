@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-verfahren-vorstandsv-bis-energie-regulierungs
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 06; bündelt 8 frühere Spezialskills (verfahren-vorstandsvorlage-regulierungsrisiko, verfahren-widerspruch-klage-verwaltungsgericht, zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales, energie-regulierungsakte-bilanzkreis-gas-stellungnahme-entwurf, energie-regulierungsakte-bilanzkreis-strom-stellungnahme-entwurf und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verfahren Vorstandsvorlage Regulierungsrisiko, Verfahren Widerspruch Klage Verwaltungsgericht, Zustaendigkeitsradar Energie Telekom Post Eisenbahn Digitales, Energie Regulierungsakte Bilanzkreis Gas Stellungnahme Entwurf und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Verfahren Vorstandsvorlage Regulierungsrisiko bis Energie Regulierungsakte Netzentgelte Gas Stellungnahme Entwurf
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verfahren-vorstandsvorlage-regulierungsrisiko` | Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
 | `verfahren-widerspruch-klage-verwaltungsgericht` | Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verfahren-vorstandsvorlage-regulierungsrisiko`
 
-**Frühere Beschreibung:** Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Vorstandsvorlage Regulierungsrisiko: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Vorstandsvorlage Regulierungsrisiko
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `verfahren-widerspruch-klage-verwaltungsgericht`
 
-**Frühere Beschreibung:** Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
+**Fokus:** Verfahren / Widerspruch Klage Verwaltungsgericht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: VwVfG, VwGO, OWiG, Fachgesetze und BNetzA-Beschlusskammerpraxis.
 
 # Verfahren: Widerspruch Klage Verwaltungsgericht
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `zustaendigkeitsradar-energie-telekom-post-eisenbahn-digitales`
 
-**Frühere Beschreibung:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales.
+**Fokus:** Workflow zur strukturierten Aufnahme, Priorisierung und Ausgabe im Thema Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales.
 
 # Zuständigkeitsradar Energie Telekom Post Eisenbahn Digitales
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `energie-regulierungsakte-bilanzkreis-gas-stellungnahme-entwurf`
 
-**Frühere Beschreibung:** Bilanzkreis Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Gas — Stellungnahme-Entwurf
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `energie-regulierungsakte-bilanzkreis-strom-stellungnahme-entwurf`
 
-**Frühere Beschreibung:** Bilanzkreis Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Bilanzkreis Strom: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Bilanzkreis Strom — Stellungnahme-Entwurf
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `energie-regulierungsakte-kwkg-zuschlaege-stellungnahme-entwurf`
 
-**Frühere Beschreibung:** KWKG Zuschläge: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** KWKG Zuschläge: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: KWKG Zuschläge — Stellungnahme-Entwurf
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `energie-regulierungsakte-netzanschluss-gas-stellungnahme-entwurf`
 
-**Frühere Beschreibung:** Netzanschluss Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzanschluss Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzanschluss Gas — Stellungnahme-Entwurf
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `energie-regulierungsakte-netzentgelte-gas-stellungnahme-entwurf`
 
-**Frühere Beschreibung:** Netzentgelte Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
+**Fokus:** Netzentgelte Gas: Stellungnahme-Entwurf für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: EnWG/ARegV/MsbG/NABEG.
 
 # Energie-Regulierungsakte: Netzentgelte Gas — Stellungnahme-Entwurf
 

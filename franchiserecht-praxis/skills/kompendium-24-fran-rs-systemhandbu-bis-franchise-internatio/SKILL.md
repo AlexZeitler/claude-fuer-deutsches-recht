@@ -1,17 +1,17 @@
 ---
 name: kompendium-24-fran-rs-systemhandbu-bis-franchise-internatio
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 24; bündelt 3 frühere Spezialskills (fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz, fran-rs-vertikale-preisbindung-im-franchisesystem, franchise-internationaler-kontext) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - franchiserecht-praxis
+# Arbeitsbereich - Fran Rs Systemhandbuch Aenderungen Ohne Agb Absturz, Fran Rs Vertikale Preisbindung Im Franchisesystem, Franchise Internationaler Kontext
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz` | Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
 | `fran-rs-vertikale-preisbindung-im-franchisesystem` | Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-rs-systemhandbuch-aenderungen-ohne-agb-absturz`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Systemhandbuch-Änderungen ohne AGB-Absturz: Einseitige Handbuchänderungen werden auf Transparenz, Zumutbarkeit, Änderungsmechanismus und Beweis der Kenntnisnahme geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Systemhandbuch-Änderungen ohne AGB-Absturz
 
@@ -72,7 +72,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 2. `fran-rs-vertikale-preisbindung-im-franchisesystem`
 
-**Frühere Beschreibung:** Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
+**Fokus:** Spezialskill Franchiserecht für Vertikale Preisbindung im Franchisesystem: Preisempfehlungen, Mindestpreise, Rabattdruck, Bonusstaffeln und Audit-Sanktionen werden auf RPM-Risiko und Beweise für Druck oder Anreiz geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Entscheidungsvorlage für Rechtsabteilungen.
 
 # Franchise: Vertikale Preisbindung im Franchisesystem
 
@@ -116,7 +116,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `franchise-internationaler-kontext`
 
-**Frühere Beschreibung:** Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise.
+**Fokus:** Franchise im internationalen Kontext. Skill behandelt international taetige Franchise-Systeme Anwendbares Recht zwingende Verbraucherschutznormen Sprachenfrage Rechtswahl und Schiedsabrede. Liefert Pruefraster fuer Cross-Border-Franchise.
 
 # Franchise Internationaler Kontext
 

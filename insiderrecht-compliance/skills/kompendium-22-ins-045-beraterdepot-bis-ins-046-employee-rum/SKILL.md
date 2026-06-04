@@ -1,33 +1,33 @@
 ---
 name: kompendium-22-ins-045-beraterdepot-bis-ins-046-employee-rum
-description: "insiderrecht-compliance: Konsolidiertes Skill-Kompendium 22; bündelt 2 frühere Spezialskills (ins-045-beraterdepot, ins-046-employee-rumor) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insiderrecht-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ins 045 Beraterdepot, Ins 046 Employee Rumor; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - insiderrecht-compliance
+# Arbeitsbereich - Ins 045 Beraterdepot, Ins 046 Employee Rumor
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ins-045-beraterdepot` | Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten. |
 | `ins-046-employee-rumor` | Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ins-045-beraterdepot`
 
-**Frühere Beschreibung:** Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten.
+**Fokus:** Prueft Compliance-Risiken bei Berater-Depots und Treuhandkonten: Wissenszurechnung, Handelsverbote, chinesische Mauern und Monitoring-Pflichten.
 
 # Berater-Depot und Treuhandkonten – Insiderrecht
 
@@ -118,7 +118,7 @@ Weitere Quellen:
 
 ## 2. `ins-046-employee-rumor`
 
-**Frühere Beschreibung:** Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation.
+**Fokus:** Bewertet Mitarbeiter-Geruechte ueber Insiderwissen: Klaerungspflichten des Compliance-Officers, Insiderlisten-Folgen und Eskalation.
 
 # Mitarbeiter-Gerüchte über Insiderwissen – Compliance-Reaktion
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-notariat-004-gmbh-gr-bis-notariat-006-handels
-description: "notariat-alltag: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell, notariat-005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu, notariat-006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "notariat-alltag: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat 006 Handelsregisteranmeldung Geschaeftsfuehrer Bestellu; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - notariat-alltag
+# Arbeitsbereich - Notariat 004 Gmbh Gruendung Mit Musterprotokoll Oder Individuell, Notariat 005 Gesellschafterliste Nach Anteilskauf Kapitalerhoehu, Notariat
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell` | Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung. |
 | `notariat-005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu` | Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `notariat-004-gmbh-gruendung-mit-musterprotokoll-oder-individuell`
 
-**Frühere Beschreibung:** Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung.
+**Fokus:** Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung. Beurkundung, Handelsregisteranmeldung, Gesellschafterliste und Vollzug nach GmbHG § 2, inkl. Vor-GmbH-Phase, Stammkapitalaufbringung und Geschäftsführerbestellung.
 
 # Notariat im Alltag: GmbH-Gründung – Musterprotokoll oder individuelle Satzung
 
@@ -120,7 +120,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 2. `notariat-005-gesellschafterliste-nach-anteilskauf-kapitalerhoehu`
 
-**Frühere Beschreibung:** Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz.
+**Fokus:** Notariat im Alltag: Gesellschafterliste nach Anteilskauf, Kapitalerhöhung oder Einziehung. Pflichten nach § 40 GmbHG, Inhalt, Einreichung, Registeraktualisierung und Gutglaubensschutz.
 
 # Notariat im Alltag: Gesellschafterliste – Anteilskauf, Kapitalerhöhung, Einziehung
 
@@ -201,7 +201,7 @@ Quellen für Live-Check: https://dejure.org | https://openjur.de | https://www.g
 
 ## 3. `notariat-006-handelsregisteranmeldung-geschaeftsfuehrer-bestellu`
 
-**Frühere Beschreibung:** Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken.
+**Fokus:** Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer-Bestellung, Abberufung, Vertretungsmacht. Formelle Anforderungen, Inhalt der Anmeldung, Vollzug und Zwischenverfügungsrisiken.
 
 # Notariat im Alltag: Handelsregisteranmeldung – Geschäftsführer Bestellung, Abberufung, Vertretungsmacht
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-folgenorientierte-au-bis-gesetzgebung-justiz
-description: "methodenlehre-buergerliches-recht: Konsolidiertes Skill-Kompendium 06; bündelt 5 frühere Spezialskills (folgenorientierte-auslegung-empirie, formale-legalitaet-vs-einzelfallgerechtigkeit, gesetzesbindung-art-20-gg-pruefprotokoll, gesetzgeberwille-und-materialien-disziplin, gesetzgebung-justiz-wissenschaft-rollen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "methodenlehre-buergerliches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Folgenorientierte Auslegung Empirie, Formale Legalitaet Vs Einzelfallgerechtigkeit, Gesetzesbindung Art 20 Gg Pruefprotokoll, Gesetzgeberwille Und Materialien Disziplin und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - methodenlehre-buergerliches-recht
+# Arbeitsbereich - Folgenorientierte Auslegung Empirie bis Gesetzgebung Justiz Wissenschaft Rollen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `folgenorientierte-auslegung-empirie` | Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt. |
 | `formale-legalitaet-vs-einzelfallgerechtigkeit` | Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `folgenorientierte-auslegung-empirie`
 
-**Frühere Beschreibung:** Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt.
+**Fokus:** Leitet durch die methodisch korrekte Einbeziehung von Folgenargumenten und empirischen Befunden in die Gesetzesauslegung. Das Skill klärt, welche Rolle Folgenerwägungen bei der Wahl zwischen konkurrierenden Auslegungsergebnissen spielen dürfen, wie Folgenprognosen empirisch belegt werden müssen und wo die Grenze zwischen legitimer Folgenorientierung und unzulässiger Politisierung der Rechtsanwendung liegt.
 
 # Folgenorientierte Auslegung: Methodik und empirische Anforderungen
 
@@ -119,7 +119,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 2. `formale-legalitaet-vs-einzelfallgerechtigkeit`
 
-**Frühere Beschreibung:** Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung.
+**Fokus:** Balanciert formale Legalitaet und Einzelfallgerechtigkeit im BGB: Wortlautbindung, Generalklauseln, Billigkeit, Rechtsfortbildung, Vertrauensschutz und offene Begruendung.
 
 # Formale Legalität vs. Einzelfallgerechtigkeit
 
@@ -164,7 +164,7 @@ Erstelle eine Matrix `Formaler Befund / Härte / Normanker / Kompetenz / Verallg
 
 ## 3. `gesetzesbindung-art-20-gg-pruefprotokoll`
 
-**Frühere Beschreibung:** Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die verfassungsrechtlich gebotene Rückbindung an demokratisch legitimierte Normen verletzen.
+**Fokus:** Bietet ein strukturiertes Prüfprotokoll für die Einhaltung der Gesetzesbindung nach Art. 20 Abs. 3 GG in der zivilrechtlichen Rechtsanwendung. Das Skill prüft, ob Gerichte und Behörden die Grenzen ihrer Bindung an Gesetz und Recht einhalten, und zeigt auf, wann richterliche Entscheidungen die verfassungsrechtlich gebotene Rückbindung an demokratisch legitimierte Normen verletzen.
 
 # Gesetzesbindung nach Art. 20 Abs. 3 GG: Prüfprotokoll
 
@@ -254,7 +254,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 4. `gesetzgeberwille-und-materialien-disziplin`
 
-**Frühere Beschreibung:** Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf den Gesetzgeberwillen und unzulässiger Materialbindung liegt. Geeignet für Fälle mit strittiger historischer Auslegung.
+**Fokus:** Lehrt den methodisch disziplinierten Umgang mit Gesetzgebungsmaterialien bei der historischen Auslegung im Zivilrecht. Das Skill zeigt, welche Materialien zulässigerweise herangezogen werden dürfen, wie ihnen der richtige Stellenwert zugemessen wird und wo die Grenze zwischen legalem Bezug auf den Gesetzgeberwillen und unzulässiger Materialbindung liegt. Geeignet für Fälle mit strittiger historischer Auslegung.
 
 # Gesetzgeberwille und Materialien: Methodische Disziplin
 
@@ -344,7 +344,7 @@ Vor Abgabe des fertigen Dokuments sollten folgende Punkte kurz geprüft werden: 
 
 ## 5. `gesetzgebung-justiz-wissenschaft-rollen`
 
-**Frühere Beschreibung:** Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt zwischen gesetzgeberischer, richterlicher und wissenschaftlicher Rechtsbildung unterschieden wird.
+**Fokus:** Analysiert die methodischen Rollen und institutionellen Grenzen von Gesetzgebung, Justiz und Rechtswissenschaft im deutschen Rechtssystem. Das Skill klärt, welche Akteure welche rechtsnormsetzende oder normanwendende Funktion haben, wie Rollenkonfusionen erkannt werden und wie methodisch korrekt zwischen gesetzgeberischer, richterlicher und wissenschaftlicher Rechtsbildung unterschieden wird.
 
 # Gesetzgebung, Justiz und Wissenschaft: Institutionelle Rollen in der Rechtsbildung
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-rechtsschein-und-inn-bis-register-qualitaetsg
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 16; bündelt 3 frühere Spezialskills (rechtsschein-und-innenstreit, register-mandantenbrief, register-qualitaetsgate-vor-einreichung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rechtsschein Und Innenstreit, Register Mandantenbrief, Register Qualitaetsgate Vor Einreichung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - handelsregister-praxis
+# Arbeitsbereich - Rechtsschein Und Innenstreit, Register Mandantenbrief, Register Qualitaetsgate Vor Einreichung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rechtsschein-und-innenstreit` | Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz. |
 | `register-mandantenbrief` | Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rechtsschein-und-innenstreit`
 
-**Frühere Beschreibung:** Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz.
+**Fokus:** Trennt materielles Gesellschaftsrecht, Registerlage, Vertretungsmacht und Gutglaubensschutz.
 
 # Innenstreit trotz Registerschein
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `register-mandantenbrief`
 
-**Frühere Beschreibung:** Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung.
+**Fokus:** Erstellt klare Mandantenupdates: Stand, Risiko, To-dos, Fristen, nächste Entscheidung.
 
 # Mandantenbrief Registerstand
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `register-qualitaetsgate-vor-einreichung`
 
-**Frühere Beschreibung:** Checkliste vor dem Absenden: Urkunden, Beschlüsse, Listen, Unterschriften, Kapital, Namen, Daten, Registerblatt.
+**Fokus:** Checkliste vor dem Absenden: Urkunden, Beschlüsse, Listen, Unterschriften, Kapital, Namen, Daten, Registerblatt.
 
 # Quality Gate vor Einreichung
 

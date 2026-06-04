@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 08; bündelt 5 frühere Spezialskills (gesellschaftsgruender-egbr-mopeg, gesellschaftsgruender-familiengesellschaft, gesellschaftsgruender-finanzierungsrunde-seed, gesellschaftsgruender-firmenname-pruefung, gesellschaftsgruender-founder-vesting) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Egbr Mopeg, Gesellschaftsgruender Familiengesellschaft, Gesellschaftsgruender Finanzierungsrunde Seed, Gesellschaftsgruender Firmenname Pruefung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Egbr Mopeg bis Gesellschaftsgruender Founder Vesting
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-egbr-mopeg` | GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB. |
 | `gesellschaftsgruender-familiengesellschaft` | Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-egbr-mopeg`
 
-**Frühere Beschreibung:** GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB.
+**Fokus:** GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Prüfraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gründungsunterlagen. Abgrenzung: nicht GmbH-Gründung mit Notar und HRB.
 
 # eGbR und GbR nach MoPeG 2024
 
@@ -157,7 +157,7 @@ Unterschriften aller Gesellschafter (notariell beglaubigt)
 
 ## 2. `gesellschaftsgruender-familiengesellschaft`
 
-**Frühere Beschreibung:** Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte.
+**Fokus:** Prüft Familien-GbR/GmbH/KG für Vermögen, Nachfolge, Minderjährige und Stimmrechte.
 
 # Familiengesellschaft und Nachfolge
 
@@ -220,7 +220,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 3. `gesellschaftsgruender-finanzierungsrunde-seed`
 
-**Frühere Beschreibung:** Führt durch Seed-Runde: Term Sheet, Bewertung, Verwässerung, Cap Table, Satzung, SHA, Closing.
+**Fokus:** Führt durch Seed-Runde: Term Sheet, Bewertung, Verwässerung, Cap Table, Satzung, SHA, Closing.
 
 # Seed-Finanzierungsrunde
 
@@ -283,7 +283,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 4. `gesellschaftsgruender-firmenname-pruefung`
 
-**Frühere Beschreibung:** Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA.
+**Fokus:** Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA.
 
 # Firmenname-Prüfung
 
@@ -407,7 +407,7 @@ Naechste Schritte:
 
 ## 5. `gesellschaftsgruender-founder-vesting`
 
-**Frühere Beschreibung:** Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung.
+**Fokus:** Entwirft Founder-Vesting mit Cliff, Good/Bad Leaver und Rückübertragung.
 
 # Founder Vesting
 

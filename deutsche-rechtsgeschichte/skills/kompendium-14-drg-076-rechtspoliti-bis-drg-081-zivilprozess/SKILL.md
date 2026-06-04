@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-drg-076-rechtspoliti-bis-drg-081-zivilprozess
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 14; bündelt 6 frühere Spezialskills (drg-076-rechtspolitische-narrative-pruefen, drg-077-enteignung-und-eigentumsgeschichte, drg-078-verwaltungsakte-historisch-lesen, drg-079-prozessrechtliche-entwicklung, drg-080-strafprozessgeschichte und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 076 Rechtspolitische Narrative Pruefen, Drg 077 Enteignung Und Eigentumsgeschichte, Drg 078 Verwaltungsakte Historisch Lesen, Drg 079 Prozessrechtliche Entwicklung und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 076 Rechtspolitische Narrative Pruefen bis Drg 081 Zivilprozessgeschichte
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-076-rechtspolitische-narrative-pruefen` | Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet. |
 | `drg-077-enteignung-und-eigentumsgeschichte` | Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-076-rechtspolitische-narrative-pruefen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet.
+**Fokus:** Deutsche Rechtsgeschichte: Rechtspolitische Narrative pruefen. Wie man politisch geladene historische Erzaehlungen (Bismarckstaat, Sozialstaat-Errungenschaft, NS als Zivilisationsbruch) historisch-quellenkritisch einordnet.
 
 # Rechtspolitische Narrative pruefen
 
@@ -81,7 +81,7 @@ Quellen zum Narrativ immer separat pruefen. RGBl. 1883 ff.: ALEX/OeNB. GG: geset
 
 ## 2. `drg-077-enteignung-und-eigentumsgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen.
+**Fokus:** Deutsche Rechtsgeschichte: Enteignung und Eigentumsgeschichte. Sozialbindung des Eigentums WRV Art. 153, GG Art. 14, Enteignungsrecht im Kaiserreich, NS-Enteignungen und Wiedervereinigungsenteignungen.
 
 # Enteignung und Eigentumsgeschichte
 
@@ -131,7 +131,7 @@ GG Art. 14: gesetze-im-internet.de. BVerfGE: bverfg.de. NS-Verordnungen: ALEX/Oe
 
 ## 3. `drg-078-verwaltungsakte-historisch-lesen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behoerdendokumenten.
+**Fokus:** Deutsche Rechtsgeschichte: Historische Verwaltungsakte lesen. Formular-Kanzleisprache des 18./19. Jh., Unterschied zu heutigen Verwaltungsakten, Quellenkritik bei historischen Behoerdendokumenten.
 
 # Verwaltungsakte historisch lesen
 
@@ -180,7 +180,7 @@ VwVfG: gesetze-im-internet.de. Historische Verwaltungsakte: Bundesarchiv und Lan
 
 ## 4. `drg-079-prozessrechtliche-entwicklung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022.
+**Fokus:** Deutsche Rechtsgeschichte: Prozessrechtliche Entwicklung. Von der Reichskammergerichtsordnung 1495 ueber CPO 1877, ZPO 1877, VwGO 1960 bis zur elektronischen ZPO-Reform 2022.
 
 # Prozessrechtliche Entwicklung
 
@@ -230,7 +230,7 @@ ZPO und VwGO: gesetze-im-internet.de. ZPO 1877: ALEX/OeNB. ZPO-Reform 2002: BGBl
 
 ## 5. `drg-080-strafprozessgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021.
+**Fokus:** Deutsche Rechtsgeschichte: Strafprozessgeschichte. Inquisitionsprozess, Akkusationsprozess, StPO 1877, NS-Strafprozessrecht und StPO-Reformen bis zur Reform 2021.
 
 # Strafprozessgeschichte
 
@@ -280,7 +280,7 @@ CCC 1532: historische Edition. StPO 1877: ALEX/OeNB. StPO aktuell: gesetze-im-in
 
 ## 6. `drg-081-zivilprozessgeschichte`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses.
+**Fokus:** Deutsche Rechtsgeschichte: Zivilprozessgeschichte. Gemeines Prozessrecht, ZPO 1877, Eventualitaetsmaxime, Vereinfachungsnovelle 1977, ZPO-Reform 2002 und Kosten des Zivilprozesses.
 
 # Zivilprozessgeschichte
 

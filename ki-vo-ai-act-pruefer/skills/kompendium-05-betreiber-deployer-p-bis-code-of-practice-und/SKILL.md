@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-betreiber-deployer-p-bis-code-of-practice-und
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (betreiber-deployer-pflichten-art-26, bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25, biometrie-emotionserkennung-polizei-grenzen, code-of-practice-und-harmonisierte-normen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Betreiber Deployer Pflichten Art 26, Bevollmaechtigter Und Produkthersteller Pflichten Art 22 Und 25, Biometrie Emotionserkennung Polizei Grenzen, Code Of Practice Und Harmonisierte Normen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Betreiber Deployer Pflichten Art 26 bis Code Of Practice Und Harmonisierte Normen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `betreiber-deployer-pflichten-art-26` | Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance fuer allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan. |
 | `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25` | Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenüber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und einführer-importer-pflichten-art-23. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `betreiber-deployer-pflichten-art-26`
 
-**Frühere Beschreibung:** Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance fuer allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan.
+**Fokus:** Unternehmen oder Behoerde setzt ein Hochrisiko-KI-System, GPAI-System oder allgemeinen Chatbot ein und fragt nach Betreiberpflichten. Art. 26 KI-VO: bestimmungsgemaesse Verwendung, menschliche Aufsicht, Eingabedaten, Protokolle, Vorfallmeldungen, Informationspflichten; Art. 27 Grundrechte-Folgenabschaetzung. Besonderer Fokus: Off-label-Nutzung durch Mitarbeitende, Zweckaenderung, Art. 25 Anbieterwerden, Governance fuer allgemeine Chatbots in Hochrisiko-Kontexten. Output: Betreiber-Compliance-Checkliste mit Fehlgebrauchs- und Re-Evaluationsplan.
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO
 
@@ -183,7 +183,7 @@ Stand: 05/2026. Maßgeblich sind Art. 3 Nr. 4, Nr. 12, Nr. 13 und Nr. 23, Art. 4
 
 ## 2. `bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25`
 
-**Frühere Beschreibung:** Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenüber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und einführer-importer-pflichten-art-23.
+**Fokus:** Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenüber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und einführer-importer-pflichten-art-23.
 
 # Bevollmächtigter und Produkthersteller — Art. 22 und 25 KI-VO
 
@@ -289,7 +289,7 @@ Geprueft: [NAME], [DATUM]
 
 ## 3. `biometrie-emotionserkennung-polizei-grenzen`
 
-**Frühere Beschreibung:** Biometrie, Gesichtserkennung und Emotionserkennung im KI-VO-Grenzbereich: Art. 5 Verbote, Anhang III, Strafverfolgungsausnahmen, oeffentlicher Raum, Schule/Arbeitsplatz, Transparenz, Datenschutz und Beweisverwertungsrisiken.
+**Fokus:** Biometrie, Gesichtserkennung und Emotionserkennung im KI-VO-Grenzbereich: Art. 5 Verbote, Anhang III, Strafverfolgungsausnahmen, oeffentlicher Raum, Schule/Arbeitsplatz, Transparenz, Datenschutz und Beweisverwertungsrisiken.
 
 # Biometrie und Emotionserkennung
 
@@ -327,7 +327,7 @@ Bei biometrischen Systemen reicht ein allgemeiner "Security"-Zweck nie. Der konk
 
 ## 4. `code-of-practice-und-harmonisierte-normen`
 
-**Frühere Beschreibung:** Normen- und Standards-Landkarte fuer KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenzierten harmonisierten Normen und nutzt ISO-Normen als Orientierung ohne falsche Konformitaetsvermutung. Output: standardsbasierter Massnahmenplan fuer KI-System, Hochrisiko oder GPAI.
+**Fokus:** Normen- und Standards-Landkarte fuer KI-VO-Compliance: Art. 40 harmonisierte Normen, Art. 41 gemeinsame Spezifikationen, Art. 56 GPAI Code of Practice, ISO/IEC 42001 / 23894 / 22989 / 23053 sowie Sicherheits- und Datenschutzstandards. Erklaert Vermutungswirkung nur bei im EU-Amtsblatt referenzierten harmonisierten Normen und nutzt ISO-Normen als Orientierung ohne falsche Konformitaetsvermutung. Output: standardsbasierter Massnahmenplan fuer KI-System, Hochrisiko oder GPAI.
 
 # Verhaltenskodizes, harmonisierte Normen und ISO-Standards
 

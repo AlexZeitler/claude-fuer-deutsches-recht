@@ -1,33 +1,33 @@
 ---
 name: kompendium-12-hinzuverdienst-und-t-bis-internationaler-date
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 12; bündelt 2 frühere Spezialskills (hinzuverdienst-und-teilrente, internationaler-datenaustausch-formulare) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hinzuverdienst Und Teilrente, Internationaler Datenaustausch Formulare; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - rentenpruefer
+# Arbeitsbereich - Hinzuverdienst Und Teilrente, Internationaler Datenaustausch Formulare
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hinzuverdienst-und-teilrente` | Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten. |
 | `internationaler-datenaustausch-formulare` | Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hinzuverdienst-und-teilrente`
 
-**Frühere Beschreibung:** Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten.
+**Fokus:** Hinzuverdienst und Teilrente: Altersrente, Erwerbsminderung, selbständige Einkünfte, Beschäftigung nach Rentenbeginn und Meldepflichten.
 
 # hinzuverdienst-und-teilrente
 
@@ -67,7 +67,7 @@ Hinzuverdienstmatrix und Mandantenhinweis.
 
 ## 2. `internationaler-datenaustausch-formulare`
 
-**Frühere Beschreibung:** Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation.
+**Fokus:** Internationaler Datenaustausch und Formulare: EU-/Abkommensformulare, Weiterleitung, Mehrstaatenbiografien und Behördenkommunikation.
 
 # internationaler-datenaustausch-formulare
 

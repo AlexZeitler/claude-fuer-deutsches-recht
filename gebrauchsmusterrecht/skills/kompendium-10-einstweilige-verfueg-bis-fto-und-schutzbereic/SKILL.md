@@ -1,33 +1,33 @@
 ---
 name: kompendium-10-einstweilige-verfueg-bis-fto-und-schutzbereic
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 10; bündelt 2 frühere Spezialskills (einstweilige-verfuegung-gebrauchsmuster, fto-und-schutzbereich) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - gebrauchsmusterrecht
+# Arbeitsbereich - Einstweilige Verfuegung Gebrauchsmuster, Fto Und Schutzbereich
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `einstweilige-verfuegung-gebrauchsmuster` | Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung. |
 | `fto-und-schutzbereich` | Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `einstweilige-verfuegung-gebrauchsmuster`
 
-**Frühere Beschreibung:** Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung.
+**Fokus:** Einstweilige Verfügung aus Gebrauchsmuster vorbereiten oder abwehren: Dringlichkeit, Rechtsbestand, Recherche, Verletzung, Glaubhaftmachung und Vollziehung.
 
 # Einstweilige Verfuegung Gebrauchsmuster
 
@@ -86,7 +86,7 @@ eV-Risikomemo.
 
 ## 2. `fto-und-schutzbereich`
 
-**Frühere Beschreibung:** Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around.
+**Fokus:** Freedom-to-Operate und Schutzbereich bei Gebrauchsmustern prüfen: Anspruchsmerkmale, Registerstand, Rechtsbestand, Produktvergleich und Design-around.
 
 # Fto Und Schutzbereich
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-22-selbstaendig-vs-ange-bis-statuscheck-paragraf
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 22; bündelt 4 frühere Spezialskills (selbstaendig-vs-angestellt, side-letter, sozialversicherung-status, statuscheck-paragraf84) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Selbstaendig Vs Angestellt, Side Letter, Sozialversicherung Status, Statuscheck Paragraf84; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 22 - handelsvertreterrecht
+# Arbeitsbereich - Selbstaendig Vs Angestellt bis Statuscheck Paragraf84
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `selbstaendig-vs-angestellt` | Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung. |
 | `side-letter` | Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `selbstaendig-vs-angestellt`
 
-**Frühere Beschreibung:** Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung.
+**Fokus:** Prüft die Abgrenzung von selbständigen Handelsvertretern und angestellten Reisenden nach § 84 Abs. 1 und 2 HGB: Merkmale der Selbständigkeit (eigene Zeit- und Arbeitseinteilung), Konsequenzen für Sozialversicherung, Arbeitsrecht und Handelsvertreterrecht sowie Kriterien der Gerichte bei der Statusbestimmung.
 
 # Selbständiger Handelsvertreter vs. Angestellter Reisender nach § 84 HGB
 
@@ -108,7 +108,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 2. `side-letter`
 
-**Frühere Beschreibung:** Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz.
+**Fokus:** Prüft die Wirksamkeit und rechtliche Bedeutung von Side Letters (Nebenabreden) im Handelsvertretervertrag: Bindungswirkung mündlicher und schriftlicher Nebenabreden, Verhältnis zu Schriftformklauseln, Konsequenzen bei unvereinbarten Zusagen sowie Risiken für Beweisbarkeit und Vertragskonsistenz.
 
 # Side Letter und Nebenabreden im Handelsvertretervertrag — Wirksamkeit und Risiken
 
@@ -187,7 +187,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 3. `sozialversicherung-status`
 
-**Frühere Beschreibung:** Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI.
+**Fokus:** Bestimmt den sozialversicherungsrechtlichen Status des Handelsvertreters nach § 7 SGB IV: Unterschied zwischen Selbständigen (nicht versicherungspflichtig) und Scheinselbständigen (versicherungspflichtig), Statusfeststellungsverfahren nach § 7a SGB IV, Nachzahlungsrisiken sowie Rentenversicherungspflicht für Selbständige nach § 2 SGB VI.
 
 # Sozialversicherungsstatus des Handelsvertreters nach § 7 SGB IV und § 84 HGB
 
@@ -266,7 +266,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `statuscheck-paragraf84`
 
-**Frühere Beschreibung:** Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen.
+**Fokus:** Führt einen Statuscheck zur Qualifikation als Handelsvertreter nach § 84 HGB durch: Prüfung der Selbständigkeit anhand der gesetzlichen Merkmale, Abgrenzung zu Angestellten und Scheinselbständigen sowie Bewertung der Vertragsgestaltung auf Konformität mit den zwingenden HGB-Normen.
 
 # Statuscheck Handelsvertreter nach § 84 HGB
 

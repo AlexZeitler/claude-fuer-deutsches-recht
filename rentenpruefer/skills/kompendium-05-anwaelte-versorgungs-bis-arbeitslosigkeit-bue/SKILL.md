@@ -1,33 +1,33 @@
 ---
 name: kompendium-05-anwaelte-versorgungs-bis-arbeitslosigkeit-bue
-description: "rentenpruefer: Konsolidiertes Skill-Kompendium 05; bündelt 2 frühere Spezialskills (anwaelte-versorgungswerk-spezial, arbeitslosigkeit-buergergeld-und-rente) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rentenpruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Anwaelte Versorgungswerk Spezial, Arbeitslosigkeit Buergergeld Und Rente; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - rentenpruefer
+# Arbeitsbereich - Anwaelte Versorgungswerk Spezial, Arbeitslosigkeit Buergergeld Und Rente
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `anwaelte-versorgungswerk-spezial` | Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten. |
 | `arbeitslosigkeit-buergergeld-und-rente` | Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `anwaelte-versorgungswerk-spezial`
 
-**Frühere Beschreibung:** Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten.
+**Fokus:** Anwälte und Versorgungswerk: Zulassung, Syndikus, Kanzleiwechsel, Befreiung, Nachversicherung und parallele DRV-Zeiten.
 
 # anwaelte-versorgungswerk-spezial
 
@@ -67,7 +67,7 @@ Anwaltsversorgungswerk-Check.
 
 ## 2. `arbeitslosigkeit-buergergeld-und-rente`
 
-**Frühere Beschreibung:** Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn.
+**Fokus:** Arbeitslosigkeit, Bürgergeld und Rente: Meldungen, Pflichtbeiträge, Anrechnungszeiten, Sperrzeiten und Rentenbeginn.
 
 # arbeitslosigkeit-buergergeld-und-rente
 

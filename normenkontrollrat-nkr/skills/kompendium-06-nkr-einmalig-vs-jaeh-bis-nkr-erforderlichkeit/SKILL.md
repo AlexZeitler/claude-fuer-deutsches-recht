@@ -1,33 +1,33 @@
 ---
 name: kompendium-06-nkr-einmalig-vs-jaeh-bis-nkr-erforderlichkeit
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 06; bündelt 2 frühere Spezialskills (nkr-einmalig-vs-jaehrlich-laufend, nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Einmalig Vs Jaehrlich Laufend, Nkr Erforderlichkeitspruefung Warum Ueberhaupt Regeln
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-einmalig-vs-jaehrlich-laufend` | Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen. |
 | `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln` | Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-einmalig-vs-jaehrlich-laufend`
 
-**Frühere Beschreibung:** Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen.
+**Fokus:** Trennscharfe Unterscheidung zwischen einmaligem Umstellungsaufwand und jaehrlich laufendem Erfuellungsaufwand. Erklaert Abgrenzung Grenzfaelle (mehrjaehriger Investitionszyklus IT-Refresh) Implikationen fuer Stellungnahme und One-in-one-out und enthaelt Mustertabelle sowie typische Fehlzuordnungen.
 
 # NKR-Einmalig vs. jaehrlich laufend
 
@@ -129,7 +129,7 @@ Bausteine:
 
 ## 2. `nkr-erforderlichkeitspruefung-warum-ueberhaupt-regeln`
 
-**Frühere Beschreibung:** Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt.
+**Fokus:** Erforderlichkeitspruefung als erster Pruefschritt jeder NKR-Stellungnahme. Zwingt das Ressort zur Beantwortung der Grundfrage Warum ueberhaupt regeln. Liefert Pruefraster Marktversagen-Test Notwendigkeits-Test und Begruendungstiefe. Mit Standardbausteinen fuer die Stellungnahme und einer Heuristik wann der NKR Verzicht oder Alternativen empfiehlt.
 
 # NKR-Erforderlichkeitspruefung — Warum ueberhaupt regeln
 

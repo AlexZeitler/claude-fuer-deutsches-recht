@@ -1,17 +1,17 @@
 ---
 name: kompendium-26-telekommunikation-st-bis-tk-regulierungsakte
-description: "bundesnetzagentur-verfahren: Konsolidiertes Skill-Kompendium 26; bündelt 8 frühere Spezialskills (telekommunikation-stoerung-entstoerung-verbraucherrechte, telekommunikation-telekommunikationsgeheimnis, telekommunikation-tk-verbraucherschlichtung, telekommunikation-tkg-marktregulierung-betraechtliche-marktmacht, telekommunikation-universaldienst-telekommunikation und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bundesnetzagentur-verfahren: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Telekommunikation Stoerung Entstoerung Verbraucherrechte, Telekommunikation Telekommunikationsgeheimnis, Telekommunikation Tk Verbraucherschlichtung, Telekommunikation Tkg Marktregulierung Betraechtliche Marktmacht und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 26 - bundesnetzagentur-verfahren
+# Arbeitsbereich - Telekommunikation Stoerung Entstoerung Verbraucherrechte bis Tk Regulierungsakte Frequenzauktion Rechtsmittel Check
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `telekommunikation-stoerung-entstoerung-verbraucherrechte` | Telekommunikation / Störung Entstörung Verbraucherrechte: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. |
 | `telekommunikation-telekommunikationsgeheimnis` | Telekommunikation / Telekommunikationsgeheimnis: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `telekommunikation-stoerung-entstoerung-verbraucherrechte`
 
-**Frühere Beschreibung:** Telekommunikation / Störung Entstörung Verbraucherrechte: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Störung Entstörung Verbraucherrechte: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Störung Entstörung Verbraucherrechte
 
@@ -73,7 +73,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `telekommunikation-telekommunikationsgeheimnis`
 
-**Frühere Beschreibung:** Telekommunikation / Telekommunikationsgeheimnis: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Telekommunikationsgeheimnis: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Telekommunikationsgeheimnis
 
@@ -113,7 +113,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 3. `telekommunikation-tk-verbraucherschlichtung`
 
-**Frühere Beschreibung:** Telekommunikation / TK-Verbraucherschlichtung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / TK-Verbraucherschlichtung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: TK-Verbraucherschlichtung
 
@@ -153,7 +153,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `telekommunikation-tkg-marktregulierung-betraechtliche-marktmacht`
 
-**Frühere Beschreibung:** Telekommunikation / TKG Marktregulierung beträchtliche Marktmacht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / TKG Marktregulierung beträchtliche Marktmacht: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: TKG Marktregulierung beträchtliche Marktmacht
 
@@ -193,7 +193,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `telekommunikation-universaldienst-telekommunikation`
 
-**Frühere Beschreibung:** Telekommunikation / Universaldienst Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Universaldienst Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Universaldienst Telekommunikation
 
@@ -233,7 +233,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 6. `telekommunikation-wegerecht-mitverlegung`
 
-**Frühere Beschreibung:** Telekommunikation / Wegerecht Mitverlegung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Wegerecht Mitverlegung: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Wegerecht Mitverlegung
 
@@ -273,7 +273,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 7. `telekommunikation-zugangsregulierung-telekommunikation`
 
-**Frühere Beschreibung:** Telekommunikation / Zugangsregulierung Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
+**Fokus:** Telekommunikation / Zugangsregulierung Telekommunikation: anwaltlicher Workflow für Verfahren, Anzeigen, Beschwerden, Stellungnahmen, Compliance und Rechtsschutz bei der Bundesnetzagentur. Quellenanker: TKG 2021, TTDSG/TDDDG, FrequenzVO, EU Open Internet, Nummernregeln.
 
 # Telekommunikation: Zugangsregulierung Telekommunikation
 
@@ -313,7 +313,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 8. `tk-regulierungsakte-frequenzauktion-rechtsmittel-check`
 
-**Frühere Beschreibung:** Frequenzauktion: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
+**Fokus:** Frequenzauktion: Rechtsmittel-Check für anwaltliche Arbeit mit BNetzA-Verfahren. Quellenanker: TKG/Frequenzrecht/Nummernrecht.
 
 # TK-Regulierungsakte: Frequenzauktion — Rechtsmittel-Check
 

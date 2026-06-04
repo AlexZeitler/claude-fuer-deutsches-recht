@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-mittelstand-corporat-bis-mittelstand-corporat
-description: "mittelstand-corporate-ma: Konsolidiertes Skill-Kompendium 16; bündelt 4 frühere Spezialskills (mittelstand-corporate-ma-due-diligence-reporting, mittelstand-corporate-ma-expert-calls-transkripte, mittelstand-corporate-ma-fair-disclosure-knowledge, mittelstand-corporate-ma-freundlicher-copilot) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "mittelstand-corporate-ma: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mittelstand Corporate Ma Due Diligence Reporting, Mittelstand Corporate Ma Expert Calls Transkripte, Mittelstand Corporate Ma Fair Disclosure Knowledge, Mittelstand Corporate Ma Freundlicher Copilot; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - mittelstand-corporate-ma
+# Arbeitsbereich - Mittelstand Corporate Ma Due Diligence Reporting bis Mittelstand Corporate Ma Freundlicher Copilot
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mittelstand-corporate-ma-due-diligence-reporting` | DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping. |
 | `mittelstand-corporate-ma-expert-calls-transkripte` | Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mittelstand-corporate-ma-due-diligence-reporting`
 
-**Frühere Beschreibung:** DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping.
+**Fokus:** DD Reporting und Legal Fact Book: Erstellt Red-Flag-Report, Full DD Report, Legal Fact Book, Executive Summary und Issues-to-SPA-Mapping.
 
 # DD Reporting und Legal Fact Book
 
@@ -207,7 +207,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `mittelstand-corporate-ma-expert-calls-transkripte`
 
-**Frühere Beschreibung:** Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung).
+**Fokus:** Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung).
 
 # Expert Calls und Transkripte
 
@@ -386,7 +386,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `mittelstand-corporate-ma-fair-disclosure-knowledge`
 
-**Frühere Beschreibung:** Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung.
+**Fokus:** Fair Disclosure und Knowledge: Prüft Wissens-, Kenntnis-, Fair-Disclosure- und Aktenwissen-Klauseln im Lichte von KI-gestuetzter Datenraumprüfung.
 
 # Fair Disclosure und Knowledge
 
@@ -564,7 +564,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 4. `mittelstand-corporate-ma-freundlicher-copilot`
 
-**Frühere Beschreibung:** Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung).
+**Fokus:** Junger Anwalt oder Berufseinsteiger braucht unterstuetzenden Begleiter durch grosse Transaktion ohne Angst vor Fehlern. Normen BRAO § 43 Sorgfaltspflicht. Prüfraster Intentionserkennung Fehlerfreundliche Hinweise Eskalationsvorschlaege. Output Deal-Hinweis Korrektheitsprüfung Lernhilfe. Abgrenzung zu deal-kommandocenter (Schnellstart) und kaltstart (Kanzlei-Einrichtung).
 
 # Freundlicher Deal-Copilot
 

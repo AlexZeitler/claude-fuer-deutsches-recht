@@ -1,33 +1,33 @@
 ---
 name: kompendium-04-nkr-buerokratieabbau-bis-nkr-buerokratiekoste
-description: "normenkontrollrat-nkr: Konsolidiertes Skill-Kompendium 04; bündelt 2 frühere Spezialskills (nkr-buerokratieabbau-katalog-konkrete-vorschlaege, nkr-buerokratiekosten-vs-erfuellungsaufwand) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "normenkontrollrat-nkr: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - normenkontrollrat-nkr
+# Arbeitsbereich - Nkr Buerokratieabbau Katalog Konkrete Vorschlaege, Nkr Buerokratiekosten Vs Erfuellungsaufwand
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nkr-buerokratieabbau-katalog-konkrete-vorschlaege` | Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme. |
 | `nkr-buerokratiekosten-vs-erfuellungsaufwand` | Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nkr-buerokratieabbau-katalog-konkrete-vorschlaege`
 
-**Frühere Beschreibung:** Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme.
+**Fokus:** Katalog konkreter Buerokratieabbau-Vorschlaege als Standardrepertoire des NKR. Sammelt typische Entlastungsmuster (Schwellenwerte Once-Only Bagatell-Ausnahmen Stichproben statt Vollkontrolle digitale Verfahren Aufhebung redundanter Vorschriften) mit Mustertexten fuer One-in-one-out-Gegenrechnung und fuer Empfehlungen in der Stellungnahme.
 
 # NKR-Buerokratieabbau-Katalog — konkrete Vorschlaege
 
@@ -170,7 +170,7 @@ Vorhaben mit Wirksamkeitsunsicherheit befristen.
 
 ## 2. `nkr-buerokratiekosten-vs-erfuellungsaufwand`
 
-**Frühere Beschreibung:** Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung.
+**Fokus:** Trennt den engen Begriff Buerokratiekosten von dem umfassenderen Begriff Erfuellungsaufwand. Beschreibt historische Entwicklung (SKM 2006 nur Informationspflichten; Ausweitung 2011) und zeigt Folgen fuer Pruefung Berichtswesen Vorblatt One-in-one-out. Mit Vergleichstabelle und Begriffsklaerung fuer Ressort-Schulung.
 
 # NKR-Buerokratiekosten vs. Erfuellungsaufwand
 

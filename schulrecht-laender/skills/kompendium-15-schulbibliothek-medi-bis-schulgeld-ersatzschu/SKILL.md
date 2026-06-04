@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-schulbibliothek-medi-bis-schulgeld-ersatzschu
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (schulbibliothek-medienbestand, schulbusaufsicht-und-befoerderungssicherheit, schulessen-und-ganztag, schulgeld-ersatzschule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schulbibliothek Medienbestand, Schulbusaufsicht Und Befoerderungssicherheit, Schulessen Und Ganztag, Schulgeld Ersatzschule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - schulrecht-laender
+# Arbeitsbereich - Schulbibliothek Medienbestand bis Schulgeld Ersatzschule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schulbibliothek-medienbestand` | Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag. |
 | `schulbusaufsicht-und-befoerderungssicherheit` | Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schulbibliothek-medienbestand`
 
-**Frühere Beschreibung:** Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag.
+**Fokus:** Prüft Medienauswahl, Jugendschutz, Elternbeschwerde und pädagogischen Auftrag.
 
 # Schulbibliothek und Medienbestand
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `schulbusaufsicht-und-befoerderungssicherheit`
 
-**Frühere Beschreibung:** Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung.
+**Fokus:** Prüft Beförderungssicherheit, Haltestelle, Schulträger und Verkehrssicherung.
 
 # Schulbusaufsicht und Beförderungssicherheit
 
@@ -151,7 +151,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 3. `schulessen-und-ganztag`
 
-**Frühere Beschreibung:** Prüft Ganztag, OGS, Schulessen und Betreuung.
+**Fokus:** Prüft Ganztag, OGS, Schulessen und Betreuung.
 
 # Schulessen Und Ganztag
 
@@ -218,7 +218,7 @@ Erzeuge bevorzugt: Ganztagsvermerk. Am Ende immer drei Zeilen: **Frist**, **fehl
 
 ## 4. `schulgeld-ersatzschule`
 
-**Frühere Beschreibung:** Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung.
+**Fokus:** Prüft Schulgeld, Sonderungsverbot, Ersatzschule und Vertragsgestaltung.
 
 # Schulgeld Ersatzschule
 

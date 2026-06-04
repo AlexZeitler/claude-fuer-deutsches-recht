@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-gerichtliche-ki-assi-bis-gpai-modelle-art-51
-description: "ki-vo-ai-act-pruefer: Konsolidiertes Skill-Kompendium 07; bündelt 4 frühere Spezialskills (gerichtliche-ki-assistenz-hochrisiko-justiz, governance-aufsichtsbehoerden-art-70, gpai-code-of-practice-copyright-safety-evidence, gpai-modelle-art-51-bis-55) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ki-vo-ai-act-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gerichtliche Ki Assistenz Hochrisiko Justiz, Governance Aufsichtsbehoerden Art 70, Gpai Code Of Practice Copyright Safety Evidence, Gpai Modelle Art 51 Bis 55; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - ki-vo-ai-act-pruefer
+# Arbeitsbereich - Gerichtliche Ki Assistenz Hochrisiko Justiz bis Gpai Modelle Art 51 Bis 55
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gerichtliche-ki-assistenz-hochrisiko-justiz` | Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO. |
 | `governance-aufsichtsbehoerden-art-70` | Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen). |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gerichtliche-ki-assistenz-hochrisiko-justiz`
 
-**Frühere Beschreibung:** Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO.
+**Fokus:** Justizielle KI als Hochrisiko-Kontext: Systeme zur Unterstuetzung richterlicher oder behördlicher Rechtsanwendung, Sachverhaltswuerdigung, Aktenpriorisierung und Entscheidungsvorbereitung nach Art. 6 Abs. 2 i.V.m. Anhang III KI-VO.
 
 # Gerichtliche KI-Assistenz und Anhang III
 
@@ -68,7 +68,7 @@ Gerade bei Justiz-KI reicht "human in the loop" nicht als Zauberwort. Entscheide
 
 ## 2. `governance-aufsichtsbehoerden-art-70`
 
-**Frühere Beschreibung:** Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen).
+**Fokus:** Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Prüfraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Übersicht zuständige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bußgeldrahmen).
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO
 
@@ -199,7 +199,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 3. `gpai-code-of-practice-copyright-safety-evidence`
 
-**Frühere Beschreibung:** GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen fuer Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung.
+**Fokus:** GPAI Code of Practice und Evidence-Logik: Copyright-Policy, Safety/Security, systemisches Risiko, Modellinformationen fuer Downstream-Anbieter, Standards-Uebergang und Nachweismappe ohne falsche Zertifizierungsbehauptung.
 
 # GPAI Code of Practice: Evidence statt Etikett
 
@@ -232,7 +232,7 @@ Nicht schreiben: "Code erfüllt, damit automatisch rechtssicher." Besser: "Code/
 
 ## 4. `gpai-modelle-art-51-bis-55`
 
-**Frühere Beschreibung:** Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie Art. 53 Abs. 1 lit. c Zusammenfassung Trainingsdaten Art. 53 Abs. 1 lit. d. Output: GPAI-Pflichtencheckliste nach Risikostufe. Abgrenzung zu gpai-vorliegen-art-3-nr-63 (Vorliegen eines GPAI-Modells) und gpai-systemisches-risiko-schwelle-10e25-flop (erhoehte Pflichten bei systemischem Risiko).
+**Fokus:** Entwickler oder Anbieter eines Sprachmodells oder Basismodells fragt: Fallen wir unter die GPAI-Pflichten der KI-VO und was muessen wir konkret tun? Art. 51 bis 55 KI-VO GPAI-Modelle. Prüfraster: technische Dokumentation Anhang XI Urheberrechts-Compliance-Strategie Art. 53 Abs. 1 lit. c Zusammenfassung Trainingsdaten Art. 53 Abs. 1 lit. d. Output: GPAI-Pflichtencheckliste nach Risikostufe. Abgrenzung zu gpai-vorliegen-art-3-nr-63 (Vorliegen eines GPAI-Modells) und gpai-systemisches-risiko-schwelle-10e25-flop (erhoehte Pflichten bei systemischem Risiko).
 
 # GPAI-Modelle — Art. 51 bis 55 KI-VO
 

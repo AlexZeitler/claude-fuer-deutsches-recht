@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-hinschg-whistleblowe-bis-kuendigungsschutzkla
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (hinschg-whistleblower-antwort, interne-untersuchung, kuendigungs-pruefung, kuendigungsschutzklage) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Hinschg Whistleblower Antwort, Interne Untersuchung, Kuendigungs Pruefung, Kuendigungsschutzklage; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - arbeitsrecht
+# Arbeitsbereich - Hinschg Whistleblower Antwort bis Kuendigungsschutzklage
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `hinschg-whistleblower-antwort` | Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben. |
 | `interne-untersuchung` | Referenz-Skill: gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit Relevanzprüfung, Quellendeckungs-Tracking, Abfragen gegen das Protokoll, Memo-Entwurf und Zielgruppen-Zusammenfassungen. Wird von /untersuchung-eroeffnen, /untersuchung-ergaenzen, /untersuchung-abfrage, /untersuchungs-memo und /untersuchungs-zusammenfassung geladen; nicht direkt aufzurufen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `hinschg-whistleblower-antwort`
 
-**Frühere Beschreibung:** Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben.
+**Fokus:** Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben.
 
 # HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
 
@@ -340,7 +340,7 @@ Bei Rückfragen wenden Sie sich bitte an
 
 ## 2. `interne-untersuchung`
 
-**Frühere Beschreibung:** Referenz-Skill: gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit Relevanzprüfung, Quellendeckungs-Tracking, Abfragen gegen das Protokoll, Memo-Entwurf und Zielgruppen-Zusammenfassungen. Wird von /untersuchung-eroeffnen, /untersuchung-ergaenzen, /untersuchung-abfrage, /untersuchungs-memo und /untersuchungs-zusammenfassung geladen; nicht direkt aufzurufen.
+**Fokus:** Referenz-Skill: gemeinsames Framework für arbeitsrechtliche interne Untersuchungen vom Eingang einer Beschwerde bis zum abschließenden Memo — vertrauliches Untersuchungsprotokoll, Dokumentenverarbeitung mit Relevanzprüfung, Quellendeckungs-Tracking, Abfragen gegen das Protokoll, Memo-Entwurf und Zielgruppen-Zusammenfassungen. Wird von /untersuchung-eroeffnen, /untersuchung-ergaenzen, /untersuchung-abfrage, /untersuchungs-memo und /untersuchungs-zusammenfassung geladen; nicht direkt aufzurufen.
 
 # Interne Untersuchung — Referenz-Skill (Arbeitsrecht)
 
@@ -1058,7 +1058,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 3. `kuendigungs-pruefung`
 
-**Frühere Beschreibung:** Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG).
+**Fokus:** Rechtliche Prüfung einer ordentlichen oder außerordentlichen Kündigung – KSchG (allgemeiner und besonderer Kündigungsschutz), § 102 BetrVG (Betriebsratsanhörung), §§ 622 und 626 BGB (Fristen und wichtiger Grund), Sozialauswahl § 1 Abs. 3 KSchG, Sonderkündigungsschutz (MuSchG, BEEG, SGB IX, § 15 KSchG).
 
 # /arbeitsrecht:kündigungs-prüfung
 
@@ -1261,7 +1261,7 @@ Die beabsichtigte Kündigung ist der des Arbeitnehmers C am ehesten begründbar.
 
 ## 4. `kuendigungsschutzklage`
 
-**Frühere Beschreibung:** Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
+**Fokus:** Prüft und entwirft eine Kündigungsschutzklage nach § 4 KSchG. Lädt, wenn ein Arbeitnehmer eine ordentliche oder außerordentliche Kündigung anfechten will, die 3-Wochen-Frist droht oder ein Entwurf des Klageantrags, der Klagebegründung und der Sozialauswahl benötigt wird.
 
 # Kündigungsschutzklage (§ 4 KSchG)
 

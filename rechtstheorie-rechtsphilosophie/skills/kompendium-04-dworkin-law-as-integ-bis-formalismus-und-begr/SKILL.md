@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-dworkin-law-as-integ-bis-formalismus-und-begr
-description: "rechtstheorie-rechtsphilosophie: Konsolidiertes Skill-Kompendium 04; bündelt 3 frühere Spezialskills (dworkin-law-as-integrity-hard-cases, fallnarrativ-tatsachen-beweis, formalismus-und-begriffszauber-kritik) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "rechtstheorie-rechtsphilosophie: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - rechtstheorie-rechtsphilosophie
+# Arbeitsbereich - Dworkin Law As Integrity Hard Cases, Fallnarrativ Tatsachen Beweis, Formalismus Und Begriffszauber Kritik
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `dworkin-law-as-integrity-hard-cases` | Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür. |
 | `fallnarrativ-tatsachen-beweis` | Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `dworkin-law-as-integrity-hard-cases`
 
-**Frühere Beschreibung:** Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür.
+**Fokus:** Verarbeitet Ronald Dworkins Theorie praktisch: Regeln/Prinzipien, konstruktive Interpretation, Gleichheit der Bürgerinnen vor dem Recht und beste rechtliche Rechtfertigung ohne Richterwillkür.
 
 # Dworkin: Recht als Integrität, Prinzipien und hard cases
 
@@ -47,7 +47,7 @@ Erzeuge eine `Fit/Justification-Matrix` mit These, Normtext, Präjudiz, Prinzip,
 
 ## 2. `fallnarrativ-tatsachen-beweis`
 
-**Frühere Beschreibung:** Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben.
+**Fokus:** Prueft, wie Narrativ, Tatsachen, Beweis und Normauswahl zusammenwirken und wo Erzählungen die Rechtsfrage verschieben.
 
 # Fallnarrativ, Tatsachen, Beweis
 
@@ -99,7 +99,7 @@ Liefere je nach Aufgabe: Theorie-Kurzvermerk, Argumentmatrix, Red-Team, Schrifts
 
 ## 3. `formalismus-und-begriffszauber-kritik`
 
-**Frühere Beschreibung:** Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten.
+**Fokus:** Erkennt formale und begriffsjuristische Scheinloesungen, ohne Systematik und Dogmatik vorschnell zu verachten.
 
 # Formalismus und Begriffszauber
 

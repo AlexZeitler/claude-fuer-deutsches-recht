@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-see-005-schiffbauver-bis-see-042-werftvertrag
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 01; bündelt 5 frühere Spezialskills (see-005-schiffbauvertrag-werft, see-023-schiffshypothek-kaufvertrag-scopen, see-033-schiffbauwerk-kaufvertrag-scopen, see-041-werftvertrag-register-pruefen, see-042-werftvertrag-hypothek-bestellen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 005 Schiffbauvertrag Werft, See 023 Schiffshypothek Kaufvertrag Scopen, See 033 Schiffbauwerk Kaufvertrag Scopen, See 041 Werftvertrag Register Pruefen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 005 Schiffbauvertrag Werft bis See 042 Werftvertrag Hypothek Bestellen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-005-schiffbauvertrag-werft` | Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung. |
 | `see-023-schiffshypothek-kaufvertrag-scopen` | Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-005-schiffbauvertrag-werft`
 
-**Frühere Beschreibung:** Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung.
+**Fokus:** Reeder beauftragt Werft mit Neubau: Pruefung des Schiffbauvertrags auf Lieferpflichten; Gewaehrleistung; Verzoegerungsstrafen; Abnahme und Finanzierungssicherheiten. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104 Schiffbauwerkshypothek; Refund Guarantee; SAJ/AWES-Muster. Output: Vertragsrisiko-Matrix und Verhandlungsempfehlung.
 
 # Schiffbauvertrag Werft – Risikoprüfung
 
@@ -110,7 +110,7 @@ Die oben genannten Normen bilden den Mindest-Recherche-Kanon. Je nach Fallgestal
 
 ## 2. `see-023-schiffshypothek-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Schiffshypothek: Schiffsfinanzierungsbank oder Hypothekenglaeubigerbank scopet Kaufvertrag fuer hypothekenbelastetes Seeschiff: Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 8-75; HGB §§ 596-601 Schiffsglaeubigerrechte. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Schiffshypothek – Kaufvertrag scopen
 
@@ -190,7 +190,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 3. `see-033-schiffbauwerk-kaufvertrag-scopen`
 
-**Frühere Beschreibung:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag fuer Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
+**Fokus:** Schiffbauwerk: Werft; Auftraggeber-Reeder; finanzierende Bank scopet Kaufvertrag fuer Schiff im Bau (Schiffbauwerk): Gewaehrleistung; Lastenfreistellung; Eigentumsuebergang (SchRG § 2); Zertifikatsstatus; Escrow-Mechanismus. SchRG §§ 76-104 Schiffbauwerkshypothek; BGB §§ 631-651 Werkvertrag. Output: Kaufvertrag-Review-Matrix und Closing-Conditions.
 
 # Schiffbauwerk – Kaufvertrag scopen
 
@@ -270,7 +270,7 @@ Wesentliche Risiken beim Schiffskauf: Verborgene Hypotheken; ausstehende Klassem
 
 ## 4. `see-041-werftvertrag-register-pruefen`
 
-**Frühere Beschreibung:** Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel prueft Schiffbauwerksregister ab Kiellegung auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Werftvertrag – Registerprüfung
 
@@ -365,7 +365,7 @@ Ausländische Schiffsregisterauszüge sind im deutschen Rechtsverkehr anerkannt,
 
 ## 5. `see-042-werftvertrag-hypothek-bestellen`
 
-**Frühere Beschreibung:** Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
+**Fokus:** Werftvertrag: Reeder oder Werft; Streit um Lieferung; Preisanpassung; Maengel bestellt Schiffshypothek als Sicherheit fuer Finanzierung eines Neubauprojekt unter Werftvertrag. BGB §§ 631-651 Werkvertragsrecht; SchRG §§ 76-104; CISG wenn nicht ausgeschlossen. Notarielle Bestellungsurkunde, Rangstelle, Sicherungsabrede, Zubehoer-Mithaftung (SchRG § 31). Output: Bestellungs-Checkliste.
 
 # Werftvertrag – Schiffshypothek bestellen
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-luft-100-acc3-mandan-bis-luft-105-slot-genehm
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 21; bündelt 5 frühere Spezialskills (luft-100-acc3-mandantenmemo-schreiben, luft-102-slot-register-auswerten, luft-103-slot-pfandrecht-vorbereiten, luft-104-slot-pfaendung-planen, luft-105-slot-genehmigung-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 100 Acc3 Mandantenmemo Schreiben, Luft 102 Slot Register Auswerten, Luft 103 Slot Pfandrecht Vorbereiten, Luft 104 Slot Pfaendung Planen und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 100 Acc3 Mandantenmemo Schreiben bis Luft 105 Slot Genehmigung Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-100-acc3-mandantenmemo-schreiben` | Anwalt schreibt Mandantenmemo fuer ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung. |
 | `luft-102-slot-register-auswerten` | Mandant will Slot-Bestand einer Airline fuer Sommer- oder Wintersaison bei Fluko auswerten. Prueft VO EWG 95/93 Grandfather Rights Use-it-or-lose-it Slot-Pool und Fluko-Daten und liefert Slot-Portfolio-Analyse mit Nutzungsquoten. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-100-acc3-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer ACC3-Carrier zu Designierungsverlust Sicherheitsauflage Insolvenznaehe oder Validierungsfehler. Skill strukturiert Memo mit Sachverhalt EU-Sicherheitsrecht Handlungsoptionen und Empfehlung.
 
 # ACC3 – Mandantenmemo schreiben
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich ACC3-Zulassung und Sicherheitsvalidierung Luftfracht Dri
 
 ## 2. `luft-102-slot-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Slot-Bestand einer Airline fuer Sommer- oder Wintersaison bei Fluko auswerten. Prueft VO EWG 95/93 Grandfather Rights Use-it-or-lose-it Slot-Pool und Fluko-Daten und liefert Slot-Portfolio-Analyse mit Nutzungsquoten.
+**Fokus:** Mandant will Slot-Bestand einer Airline fuer Sommer- oder Wintersaison bei Fluko auswerten. Prueft VO EWG 95/93 Grandfather Rights Use-it-or-lose-it Slot-Pool und Fluko-Daten und liefert Slot-Portfolio-Analyse mit Nutzungsquoten.
 
 # Slot – Register auswerten
 
@@ -222,7 +222,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 3. `luft-103-slot-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten fuer Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk.
+**Fokus:** Kreditgeber fragt ob Slots als Sicherheit dienen koennen. Skill prueft VO EWG 95/93 Slot-Nicht-Uebertragbarkeit EuGH-Rechtsprechung und alternative Sicherheiten fuer Airline-Finanzierung und liefert Sicherungs-Alternativen-Vermerk.
 
 # Slot – Pfandrecht vorbereiten
 
@@ -316,7 +316,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 4. `luft-104-slot-pfaendung-planen`
 
-**Frühere Beschreibung:** Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit.
+**Fokus:** Glaeubiger will Slots einer Airline pfaenden. Skill prueft VO EWG 95/93 Slot-Nicht-Pfaendbarkeit EuGH C-272/06 und ZPO-Pfaendungsrecht sowie Alternativen und liefert Rechtsgutachten zur Slot-Pfaendbarkeit.
 
 # Slot – Pfändung planen
 
@@ -412,7 +412,7 @@ Für Mandate im Bereich Slot-Koordination und Flughafenkapazität sind folgende 
 
 ## 5. `luft-105-slot-genehmigung-pruefen`
 
-**Frühere Beschreibung:** Airline braucht Slot-Bestätigung oder neuen Slot und prueft Genehmigungsstand. Prueft VO EWG 95/93 Grandfather Rights Koordinierungsstand FHKV IATA-WSAG Saisonantrag und liefert Slot-Bedarfs-Analyse und Antrags-Checkliste.
+**Fokus:** Airline braucht Slot-Bestätigung oder neuen Slot und prueft Genehmigungsstand. Prueft VO EWG 95/93 Grandfather Rights Koordinierungsstand FHKV IATA-WSAG Saisonantrag und liefert Slot-Bedarfs-Analyse und Antrags-Checkliste.
 
 # Slot – Genehmigung prüfen
 

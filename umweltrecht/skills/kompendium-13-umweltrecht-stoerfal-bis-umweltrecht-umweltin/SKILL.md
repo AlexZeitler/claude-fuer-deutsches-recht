@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-umweltrecht-stoerfal-bis-umweltrecht-umweltin
-description: "umweltrecht: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (umweltrecht-stoerfall-anlagen, umweltrecht-transaktionen-dd, umweltrecht-umweltinformation-uig-ifg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "umweltrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - umweltrecht
+# Arbeitsbereich - Umweltrecht Stoerfall Anlagen, Umweltrecht Transaktionen Dd, Umweltrecht Umweltinformation Uig Ifg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `umweltrecht-stoerfall-anlagen` | Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bußgeld-sanktionen (Bußgelder). |
 | `umweltrecht-transaktionen-dd` | M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD). |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `umweltrecht-stoerfall-anlagen`
 
-**Frühere Beschreibung:** Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bußgeld-sanktionen (Bußgelder).
+**Fokus:** Anlagenbetreiber prüft Stoerfallrelevanz betreibt Seveso-III-Anlage oder will DEHSt-Anordnung abwehren. Normen BImSchG 12. BImSchV Stoerfallverordnung Seveso-III-RL. Prüfraster Stoerfallrelevanz-Prüfung Sicherheitsbericht Betreiberpflichten Sicherheitsabstaende Bauleitplanung. Output Sicherheitsbericht-Struktur Anordnungs-Widerspruch. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (allg. Genehmigung) und umweltrecht-bußgeld-sanktionen (Bußgelder).
 
 # Stoerfall, Anlagenbetrieb und Betreiberpflichten
 
@@ -182,7 +182,7 @@ Eine aussergerichtliche Einigung kommt nur in Betracht wenn die Gegenseite inner
 
 ## 2. `umweltrecht-transaktionen-dd`
 
-**Frühere Beschreibung:** M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD).
+**Fokus:** M&A-Transaktion und Anwalt prüft Umwelt-DD-Risiken im Datenraum: Genehmigungen Altlasten Emissionen Abfall Wasser Naturschutz. Normen BImSchG KrWG WHG BBodSchG TEHG Umwelthaftungsrecht. Prüfraster Red-Flags Closing-Conditions Capex-Risiken Wert-Adjustierung. Output Umwelt-DD-Report Kaufvertrags-Klauseln Risikomatrix. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Einzelgenehmigung) und mittelstand-corporate-ma-due-diligence-legal (allg. DD).
 
 # Umweltrechtliche Transaktions-Due-Diligence
 
@@ -294,7 +294,7 @@ Quellen: [Dokument im Datenraum, Seite/Tab]
 
 ## 3. `umweltrecht-umweltinformation-uig-ifg`
 
-**Frühere Beschreibung:** Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing).
+**Fokus:** Buerger Verband oder Unternehmen stellt UIG/IFG-Antrag auf Umweltinformation oder wehrt Ablehnung ab. Normen UIG §§ 3 4 8 9 10 IFG §§ 1 3 5 6 9 Auskunftsfrist 1 Monat. Prüfraster Antragsrecht Ausnahmen Geheimnisschutz Drittbeteiligung Widerspruchs-Klage. Output Antrags-Muster Widerspruch Klage VG. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-kommandocenter (Routing).
 
 # Umweltinformation nach UIG und IFG
 

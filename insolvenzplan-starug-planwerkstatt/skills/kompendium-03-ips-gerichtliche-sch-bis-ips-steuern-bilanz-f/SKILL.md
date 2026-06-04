@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-ips-gerichtliche-sch-bis-ips-steuern-bilanz-f
-description: "insolvenzplan-starug-planwerkstatt: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (ips-gerichtliche-schritte, ips-kommandocenter, ips-steuern-bilanz-folgen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "insolvenzplan-starug-planwerkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Ips Gerichtliche Schritte, Ips Kommandocenter, Ips Steuern Bilanz Folgen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - insolvenzplan-starug-planwerkstatt
+# Arbeitsbereich - Ips Gerichtliche Schritte, Ips Kommandocenter, Ips Steuern Bilanz Folgen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `ips-gerichtliche-schritte` | Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung Fristenkalender. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Kommunikation (ips-stakeholder-kommunikation). |
 | `ips-kommandocenter` | Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute Ampelstatus und naechste Schritte bestimmen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Einstieg und Steuerung; Detailarbeit in ips-Spezialist-Skills. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `ips-gerichtliche-schritte`
 
-**Frühere Beschreibung:** Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung Fristenkalender. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Kommunikation (ips-stakeholder-kommunikation).
+**Fokus:** Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung Fristenkalender. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Kommunikation (ips-stakeholder-kommunikation).
 
 # Gerichtliche Schritte
 
@@ -107,7 +107,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `ips-kommandocenter`
 
-**Frühere Beschreibung:** Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute Ampelstatus und naechste Schritte bestimmen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Einstieg und Steuerung; Detailarbeit in ips-Spezialist-Skills.
+**Fokus:** Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute Ampelstatus und naechste Schritte bestimmen. §§ 217 218 InsO §§ 29 ff. StaRUG. Prüfraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Einstieg und Steuerung; Detailarbeit in ips-Spezialist-Skills.
 
 # Kommandocenter für Planverfahren
 
@@ -184,7 +184,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `ips-steuern-bilanz-folgen`
 
-**Frühere Beschreibung:** Steuerliche und bilanzielle Folgen des Plans prüfen damit Planwirkungen nicht an Nebenfolgen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV Finanzamts-Kommunikation. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine IV-Steuerfragen.
+**Fokus:** Steuerliche und bilanzielle Folgen des Plans prüfen damit Planwirkungen nicht an Nebenfolgen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV Finanzamts-Kommunikation. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine IV-Steuerfragen.
 
 # Steuern und Bilanzfolgen
 

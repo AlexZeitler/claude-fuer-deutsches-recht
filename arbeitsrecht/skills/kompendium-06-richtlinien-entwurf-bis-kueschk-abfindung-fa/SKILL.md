@@ -1,17 +1,17 @@
 ---
 name: kompendium-06-richtlinien-entwurf-bis-kueschk-abfindung-fa
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 06; bündelt 4 frühere Spezialskills (richtlinien-entwurf, kueschk-grundwarnung-falsche-wiese-und-haftung, internationale-expansion, kueschk-abfindung-faustformel-und-spannweite) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Richtlinien Entwurf, Kueschk Grundwarnung Falsche Wiese Und Haftung, Internationale Expansion, Kueschk Abfindung Faustformel Und Spannweite; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 06 - arbeitsrecht
+# Arbeitsbereich - Richtlinien Entwurf bis Kueschk Abfindung Faustformel Und Spannweite
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `richtlinien-entwurf` | Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt "Richtlinie entwerfen zu [Thema]", "wir brauchen eine Regelung zu" oder eine Regelungslücke benennt. |
 | `kueschk-grundwarnung-falsche-wiese-und-haftung` | Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `richtlinien-entwurf`
 
-**Frühere Beschreibung:** Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt "Richtlinie entwerfen zu [Thema]", "wir brauchen eine Regelung zu" oder eine Regelungslücke benennt.
+**Fokus:** Entwirft eine betriebliche Regelung (Richtlinie, Betriebsordnung, Policy) mit standortspezifischen Ergänzungen, wo das Recht oder Tarifverträge abweichende Regeln erfordern. Prüft Mitbestimmungsrechte des Betriebsrats und ob bestehende Leistungsversprechen berührt werden. Lädt, wenn jemand sagt "Richtlinie entwerfen zu [Thema]", "wir brauchen eine Regelung zu" oder eine Regelungslücke benennt.
 
 # Richtlinien-Entwurf (Arbeitsrecht)
 
@@ -343,7 +343,7 @@ Halluzinations-Reparatur Bundle 014:
 
 ## 2. `kueschk-grundwarnung-falsche-wiese-und-haftung`
 
-**Frühere Beschreibung:** Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt.
+**Fokus:** Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt.
 
 # Grundwarnung: Falsche Wiese und Haftung
 
@@ -424,7 +424,7 @@ Du könntest auf der falschen Wiese unterwegs sein. Dieses System kann das nicht
 
 ## 3. `internationale-expansion`
 
-**Frühere Beschreibung:** Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen.
+**Fokus:** Referenz-Skill: Implementierungsplanungs-Framework für internationale Einstellungen — Entscheidungsrahmen AÜG-Modell/EOR vs. eigene Gesellschaft, abteilungsübergreifende Trigger für Steuer/Finance/HR, strukturierter Briefing-Request an externe Arbeitsrechtler und persistenter Lücken-Tracker. Wird von /expansion-auftakt und /expansion-aktualisierung geladen; nicht direkt aufzurufen.
 
 # Internationale Expansion — Referenz-Skill (Arbeitsrecht)
 
@@ -838,7 +838,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BSG&Datum=2
 
 ## 4. `kueschk-abfindung-faustformel-und-spannweite`
 
-**Frühere Beschreibung:** Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht außer §§ 1a und 9 KSchG.
+**Fokus:** Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht außer §§ 1a und 9 KSchG.
 
 # Abfindung: Faustformel und Spannweite
 

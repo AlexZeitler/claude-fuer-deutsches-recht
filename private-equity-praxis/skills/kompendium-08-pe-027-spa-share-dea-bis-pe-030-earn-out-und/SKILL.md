@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-pe-027-spa-share-dea-bis-pe-030-earn-out-und
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (pe-027-spa-share-deal-pe, pe-028-apa-carve-out-pe, pe-029-locked-box-completion-accounts, pe-030-earn-out-und-vendor-loan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 027 Spa Share Deal Pe, Pe 028 Apa Carve Out Pe, Pe 029 Locked Box Completion Accounts, Pe 030 Earn Out Und Vendor Loan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - private-equity-praxis
+# Arbeitsbereich - Pe 027 Spa Share Deal Pe bis Pe 030 Earn Out Und Vendor Loan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-027-spa-share-deal-pe` | Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs. |
 | `pe-028-apa-carve-out-pe` | Strukturiert Asset Deal und Carve-out: Perimeter, Übertragung einzelner Assets, Verträge, Arbeitnehmer, TSAs und Übergang. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-027-spa-share-deal-pe`
 
-**Frühere Beschreibung:** Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs.
+**Fokus:** Prüft und entwirft SPA-Key-Issues für Buyout/Minority/Co-Invest: Garantien, Covenants, Haftung, Kaufpreis, CPs.
 
 # SPA Share Deal: PE-spezifische Key Issues
 
@@ -70,7 +70,7 @@ BGB Kaufrecht, GmbHG/Management, Kartell/FDI, Steuer, W&I, Closing Conditions.
 
 ## 2. `pe-028-apa-carve-out-pe`
 
-**Frühere Beschreibung:** Strukturiert Asset Deal und Carve-out: Perimeter, Übertragung einzelner Assets, Verträge, Arbeitnehmer, TSAs und Übergang.
+**Fokus:** Strukturiert Asset Deal und Carve-out: Perimeter, Übertragung einzelner Assets, Verträge, Arbeitnehmer, TSAs und Übergang.
 
 # APA und Carve-out
 
@@ -111,7 +111,7 @@ BGB, HGB, § 613a BGB, UmwG, Datenschutz, IP, Steuern.
 
 ## 3. `pe-029-locked-box-completion-accounts`
 
-**Frühere Beschreibung:** Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik.
+**Fokus:** Prüft Kaufpreismechanik, Leakage, Permitted Leakage, Net Debt, Working Capital und Streitmechanik.
 
 # Locked Box und Completion Accounts
 
@@ -152,7 +152,7 @@ BGB, SPA, Accounting Policies, Expert Determination, Disclosure.
 
 ## 4. `pe-030-earn-out-und-vendor-loan`
 
-**Frühere Beschreibung:** Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte.
+**Fokus:** Prüft nachgelagerte Kaufpreisbestandteile, Verkäuferdarlehen, Covenants, Sicherheiten und Konfliktpunkte.
 
 # Earn-out, Vendor Loan und Seller Note
 

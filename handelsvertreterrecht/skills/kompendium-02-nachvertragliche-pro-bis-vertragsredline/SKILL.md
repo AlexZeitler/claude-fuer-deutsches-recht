@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-nachvertragliche-pro-bis-vertragsredline
-description: "handelsvertreterrecht: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (nachvertragliche-provision, rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb, vertragshaendler-abgrenzung, vertragsredline) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsvertreterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Nachvertragliche Provision, Nachvertragliches Wettbewerbsverbot 90a Hgb, Vertragshaendler Abgrenzung, Vertragsredline; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - handelsvertreterrecht
+# Arbeitsbereich - Nachvertragliche Provision bis Vertragsredline
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `nachvertragliche-provision` | Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche. |
 | `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb` | Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `nachvertragliche-provision`
 
-**Frühere Beschreibung:** Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche.
+**Fokus:** Prüft Ansprüche auf Provision für Geschäfte nach Vertragsende nach § 87 Abs. 3 HGB: Folgeprovision für Geschäfte, die auf vor Vertragsende geleisteter Tätigkeit des Handelsvertreters beruhen, Abgrenzung zur Folgeprovision nach § 87 Abs. 1 HGB und Verjährung nachvertraglicher Provisionsansprüche.
 
 # Provision nach Vertragsende nach § 87 Abs. 3 HGB — Folgeprovision und Nachwirkung
 
@@ -108,7 +108,7 @@ Für internationale Sachverhalte gilt zudem die Rom-I-Verordnung für das anwend
 
 ## 2. `rechtsabteilung-nachvertragliches-wettbewerbsverbot-90a-hgb`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Nachvertragliches Wettbewerbsverbot § 90a HGB: Wettbewerbsverbote werden nach Gebiet, Kundenkreis, Dauer und Entschädigung geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Nachvertragliches Wettbewerbsverbot § 90a HGB
 
@@ -148,7 +148,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 3. `vertragshaendler-abgrenzung`
 
-**Frühere Beschreibung:** Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptionen.
+**Fokus:** Prüft die Abgrenzung zwischen Handelsvertreter und Vertragshändler: Eigenhändler kauft im eigenen Namen und auf eigene Rechnung und hat keinen gesetzlichen Ausgleich nach § 89b HGB, analoge Anwendung bei Einbindung wie Handelsvertreter nach BGH-Rechtsprechung sowie vertragliche Gestaltungsoptionen.
 
 # Vertragshändler vs. Handelsvertreter: Abgrenzung und analoger Ausgleichsanspruch
 
@@ -227,7 +227,7 @@ Bei Statusfragen (Selbständigkeit) ist das Statusfeststellungsverfahren nach §
 
 ## 4. `vertragsredline`
 
-**Frühere Beschreibung:** Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erstellung eines kommentierten Gegenentwurfs.
+**Fokus:** Unterstützt beim Redigieren und Verhandeln von Handelsvertreterverträgen: systematisches Redline-Verfahren für Klauseln zu Provision, Ausgleich, Kündigung, Wettbewerbsverbot und AGB, Prüfung auf Konformität mit §§ 84–92c HGB sowie Erstellung eines kommentierten Gegenentwurfs.
 
 # Vertragsredline für den Handelsvertretervertrag nach §§ 84–92c HGB
 

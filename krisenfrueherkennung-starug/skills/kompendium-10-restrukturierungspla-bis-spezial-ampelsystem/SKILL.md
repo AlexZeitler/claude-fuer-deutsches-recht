@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-restrukturierungspla-bis-spezial-ampelsystem
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 10; bündelt 3 frühere Spezialskills (restrukturierungsplan-architektur-paragraph-7ff-starug, rollierende-liquiditaetsplanung-24-monate-template, spezial-ampelsystem-beweislast-und-darlegungslast) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Restrukturierungsplan Architektur Paragraph 7ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darlegungslast; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - krisenfrueherkennung-starug
+# Arbeitsbereich - Restrukturierungsplan Architektur Paragraph 7ff Starug, Rollierende Liquiditaetsplanung 24 Monate Template, Ampelsystem Beweislast Und Darleg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `restrukturierungsplan-architektur-paragraph-7ff-starug` | StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestätigung). Prüfraster: Planbestandteile vollständig, Gruppenbildung nach Gläubiger-Rang, Mehrheitserfordernisse, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf-Geruest, Gruppen-Matrix, Zeitplan. Abgrenzung: Cram-Down siehe cross-class-cram-down-und-absolute-priority; Stabilisierungsanordnung siehe stabilisierungsanordnung-und-vollstreckungssperre. |
 | `rollierende-liquiditaetsplanung-24-monate-template` | Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `restrukturierungsplan-architektur-paragraph-7ff-starug`
 
-**Frühere Beschreibung:** StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestätigung). Prüfraster: Planbestandteile vollständig, Gruppenbildung nach Gläubiger-Rang, Mehrheitserfordernisse, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf-Geruest, Gruppen-Matrix, Zeitplan. Abgrenzung: Cram-Down siehe cross-class-cram-down-und-absolute-priority; Stabilisierungsanordnung siehe stabilisierungsanordnung-und-vollstreckungssperre.
+**Fokus:** StaRUG-Restrukturierungsplan nach §§ 7 ff. StaRUG architektieren: Schuldner oder Berater plant außergerichtliche Sanierung unter StaRUG. Normen: §§ 7 ff. StaRUG (Planbestandteile), § 9 StaRUG (Gruppenbildung), § 25 StaRUG (Mehrheitserfordernisse), § 60 StaRUG (gerichtliche Planbestätigung). Prüfraster: Planbestandteile vollständig, Gruppenbildung nach Gläubiger-Rang, Mehrheitserfordernisse, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf-Geruest, Gruppen-Matrix, Zeitplan. Abgrenzung: Cram-Down siehe cross-class-cram-down-und-absolute-priority; Stabilisierungsanordnung siehe stabilisierungsanordnung-und-vollstreckungssperre.
 
 # Restrukturierungsplan — Architektur nach §§ 7 ff. StaRUG
 
@@ -247,7 +247,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `rollierende-liquiditaetsplanung-24-monate-template`
 
-**Frühere Beschreibung:** Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform.
+**Fokus:** Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), Fortbestehensprognose, Sanierungskonzept. Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, Maßnahmenbrücke, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform.
 
 # Rollierende Liquiditätsplanung — 24-Monate-Template
 
@@ -500,7 +500,7 @@ Bevor losgelegt wird, klaere:
 
 ## 3. `spezial-ampelsystem-beweislast-und-darlegungslast`
 
-**Frühere Beschreibung:** Ampelsystem: Beweislast, Darlegungslast und Substantiierung im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Ampelsystem: Beweislast, Darlegungslast und Substantiierung im Plugin krisenfrueherkennung starug; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Ampelsystem: Beweislast, Darlegungslast und Substantiierung
 

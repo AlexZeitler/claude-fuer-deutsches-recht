@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-mandantenko-bis-insolvenzantragspfli
-description: "krisenfrueherkennung-starug: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-mandantenkommunikation, workflow-redteam-qualitygate, insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "krisenfrueherkennung-starug: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15a Inso Und Drei Wochen Frist; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - krisenfrueherkennung-starug
+# Arbeitsbereich - Mandantenkommunikation, Redteam Qualitygate, Insolvenzantragspflicht Paragraph 15a Inso Und Drei Wochen Frist
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-mandantenkommunikation` | Mandantenkommunikation im Plugin krisenfrueherkennung-starug: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten. |
 | `workflow-redteam-qualitygate` | Red-Team Qualitygate im Plugin krisenfrueherkennung-starug: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-mandantenkommunikation`
 
-**Frühere Beschreibung:** Mandantenkommunikation im Plugin krisenfrueherkennung-starug: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
+**Fokus:** Mandantenkommunikation im Plugin krisenfrueherkennung-starug: übersetzt das Ergebnis in eine klare Nachricht mit Entscheidungspunkten, Risiken und nächsten Schritten.
 
 # Mandantenkommunikation
 
@@ -71,7 +71,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 2. `workflow-redteam-qualitygate`
 
-**Frühere Beschreibung:** Red-Team Qualitygate im Plugin krisenfrueherkennung-starug: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
+**Fokus:** Red-Team Qualitygate im Plugin krisenfrueherkennung-starug: prüft das Ergebnis auf Halluzinationen, Fristenfehler, Zuständigkeit, Quellen, Beweise und Ton.
 
 # Red-Team Qualitygate
 
@@ -114,7 +114,7 @@ Wenn Material vorliegt, arbeite zuerst mit dem Material. Stelle nur Rückfragen,
 
 ## 3. `insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist`
 
-**Frühere Beschreibung:** Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug.
+**Fokus:** Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prüft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Prüfraster: Triggerlogik (ZU oder Überschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhältnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, außergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug.
 
 # Insolvenzantragspflicht — § 15a InsO und die Drei-Wochen-Frist
 

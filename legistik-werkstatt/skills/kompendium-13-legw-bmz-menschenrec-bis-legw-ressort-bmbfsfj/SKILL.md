@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-legw-bmz-menschenrec-bis-legw-ressort-bmbfsfj
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 13; bündelt 8 frühere Spezialskills (legw-bmz-menschenrechte-in-lieferketten-lksg, legw-bmz-multilaterale-zusammenarbeit-und-eu, legw-eu-richtlinienumsetzung-spezial, legw-rechtsbereinigung-spezial, legw-rechtsfolgenabschaetzung-leitfaden und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmz Menschenrechte In Lieferketten Lksg, Legw Bmz Multilaterale Zusammenarbeit Und Eu, Legw Eu Richtlinienumsetzung Spezial, Legw Rechtsbereinigung Spezial und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmz Menschenrechte In Lieferketten Lksg bis Legw Ressort Bmbfsfj
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmz-menschenrechte-in-lieferketten-lksg` | Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschaeftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung). |
 | `legw-bmz-multilaterale-zusammenarbeit-und-eu` | Sachbereich Multilaterale Zusammenarbeit und EU im Geschaeftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmz-menschenrechte-in-lieferketten-lksg`
 
-**Frühere Beschreibung:** Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschaeftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Sachbereich Menschenrechte in Lieferketten (LkSG) im Geschaeftsbereich BMZ: Normbestand (LkSG; HinSchG; ProdHaftG; ggf. EU-CSDDD Umsetzung; AWG-Schnittstellen.); Akteure (BAFA; BMZ; BMWE; BMJV.); EU-Bezug (EU-CSDDD; UNGP; OECD-Leitsaetze.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Menschenrechte in Lieferketten (LkSG) (BMZ)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmz-multilaterale-zusammenarbeit-und-eu`
 
-**Frühere Beschreibung:** Sachbereich Multilaterale Zusammenarbeit und EU im Geschaeftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
+**Fokus:** Sachbereich Multilaterale Zusammenarbeit und EU im Geschaeftsbereich BMZ: Normbestand (UN-Charta; UN-Konventionen; EUZBLG; Vertragsgesetze.); Akteure (BMZ; AA; BMF; EU-Generaldirektionen; multilaterale Banken.); EU-Bezug (NDICI; EFAD-Architektur; Team Europe; Pakt fuer die Zukunft.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmz (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmz (Heranfuehrung).
 
 # Multilaterale Zusammenarbeit und EU (BMZ)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-eu-richtlinienumsetzung-spezial`
 
-**Frühere Beschreibung:** Spezialfall EU-Richtlinienumsetzung im deutschen Recht: ueberschiessende Umsetzung, Gold Plating, fristgerecht, EuGH-Aufsichtspflicht. Pruefraster fuer Ministerium.
+**Fokus:** Spezialfall EU-Richtlinienumsetzung im deutschen Recht: ueberschiessende Umsetzung, Gold Plating, fristgerecht, EuGH-Aufsichtspflicht. Pruefraster fuer Ministerium.
 
 # LegW: EU-Richtlinienumsetzung
 
@@ -250,7 +250,7 @@ Dieser Skill gehoert zum Plugin `legistik-werkstatt`. Er ergaenzt die uebrigen S
 
 ## 4. `legw-rechtsbereinigung-spezial`
 
-**Frühere Beschreibung:** Spezialfall Rechtsbereinigung und Entbuerokratisierung: Wegfallpruefung, Konsolidierung, Befristung Sunset-Klausel. Pruefraster fuer Ministerien.
+**Fokus:** Spezialfall Rechtsbereinigung und Entbuerokratisierung: Wegfallpruefung, Konsolidierung, Befristung Sunset-Klausel. Pruefraster fuer Ministerien.
 
 # LegW: Rechtsbereinigung
 
@@ -303,7 +303,7 @@ Dieser Skill gehoert zum Plugin `legistik-werkstatt`. Er ergaenzt die uebrigen S
 
 ## 5. `legw-rechtsfolgenabschaetzung-leitfaden`
 
-**Frühere Beschreibung:** Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung. Pruefraster fuer Ressort und Verband.
+**Fokus:** Leitfaden Gesetzesfolgenabschaetzung GFA: monetaer, nicht monetaer, KMU-Test, Nachhaltigkeitspruefung. Pruefraster fuer Ressort und Verband.
 
 # LegW: Gesetzesfolgenabschaetzung
 
@@ -403,7 +403,7 @@ Dieser Skill gehoert zum Plugin `legistik-werkstatt`. Er ergaenzt die uebrigen S
 
 ## 6. `legw-ressort-aa`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG. Fuenf Spezialfelder: voelkerrecht-und-vertragsgesetzgebung; konsular-und-passrecht; ausfuhrkontrolle-und-aussenwirtschaftsdimension; eu-grundlagen-und-ratsverfahren; sanktionsumsetzung-und-internationale-abkommen. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-aa und legw-aa-Themenslug.
+**Fokus:** Heranfuehrung Ressort AA (Auswaertiges Amt). Schwerpunkt: Voelkerrecht; konsularische Aufgaben; Aussenwirtschaftsdimension; EU-Verfahren; Sanktionsumsetzung. Kernnormen: GG Art. 32 und Art. 59; WVK; KonsG; PassG; AWG; AWV; EUZBLG; IntZG. Fuenf Spezialfelder: voelkerrecht-und-vertragsgesetzgebung; konsular-und-passrecht; ausfuhrkontrolle-und-aussenwirtschaftsdimension; eu-grundlagen-und-ratsverfahren; sanktionsumsetzung-und-internationale-abkommen. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-aa und legw-aa-Themenslug.
 
 # Ressort-Heranfuehrung AA
 
@@ -531,7 +531,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-ressort-bmas`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMAS (Bundesministerium fuer Arbeit und Soziales). Schwerpunkt: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe. Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG. Fuenf Spezialfelder: arbeitsrecht-und-arbeitsschutz; sozialversicherungsrecht-sgb; rente-und-altersvorsorgerecht; arbeitsschutz-und-arbeitssicherheit; teilhabe-und-schwerbehindertenrecht-sgb-ix. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmas und legw-bmas-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMAS (Bundesministerium fuer Arbeit und Soziales). Schwerpunkt: Arbeit und Tarif; Sozialversicherung; Rente; Arbeitsschutz; Teilhabe. Kernnormen: ArbZG; TVG; ArbSchG; SGB I bis SGB XII; SGB IX; SGB VI; BetrVG. Fuenf Spezialfelder: arbeitsrecht-und-arbeitsschutz; sozialversicherungsrecht-sgb; rente-und-altersvorsorgerecht; arbeitsschutz-und-arbeitssicherheit; teilhabe-und-schwerbehindertenrecht-sgb-ix. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmas und legw-bmas-Themenslug.
 
 # Ressort-Heranfuehrung BMAS
 
@@ -659,7 +659,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-ressort-bmbfsfj`
 
-**Frühere Beschreibung:** Heranfuehrung Ressort BMBFSFJ (Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend). Schwerpunkt: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren. Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG. Fuenf Spezialfelder: schul-und-berufsbildungsrecht; kinder-und-jugendhilferecht-sgb-viii; familien-und-elterngeldrecht; gleichstellungs-und-antidiskriminierungsrecht; senioren-und-pflegevorbeugungsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmbfsfj und legw-bmbfsfj-Themenslug.
+**Fokus:** Heranfuehrung Ressort BMBFSFJ (Bundesministerium fuer Bildung; Familie; Senioren; Frauen und Jugend). Schwerpunkt: Bildung; Familienleistungen; Jugendhilfe; Gleichstellung; Senioren. Kernnormen: BAfoeG; BBiG; KJHG (SGB VIII); BEEG; UnterhVG; AGG; LFGB; LPartG. Fuenf Spezialfelder: schul-und-berufsbildungsrecht; kinder-und-jugendhilferecht-sgb-viii; familien-und-elterngeldrecht; gleichstellungs-und-antidiskriminierungsrecht; senioren-und-pflegevorbeugungsrecht. Output: Ressort-Kompass mit Materie; Akteuren; Normbestand; Aufsicht und Stolpersteinen. Anschluss legw-ressortaufgaben-bmbfsfj und legw-bmbfsfj-Themenslug.
 
 # Ressort-Heranfuehrung BMBFSFJ
 

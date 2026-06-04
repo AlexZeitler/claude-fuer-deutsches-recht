@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-drg-032-grundgesetz-bis-drg-038-mauergrundst
-description: "deutsche-rechtsgeschichte: Konsolidiertes Skill-Kompendium 07; bündelt 6 frühere Spezialskills (drg-032-grundgesetz-entstehung-1948-49, drg-033-bverfg-und-nachkriegskonsolidierung, drg-034-ddr-recht-und-sozialistische-gesetzlichkeit, drg-036-treuhand-und-volksvermoegen, drg-037-bodenreform-und-vermoegensrecht und 1 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "deutsche-rechtsgeschichte: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Drg 032 Grundgesetz Entstehung 1948 49, Drg 033 Bverfg Und Nachkriegskonsolidierung, Drg 034 Ddr Recht Und Sozialistische Gesetzlichkeit, Drg 036 Treuhand Und Volksvermoegen und 2 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - deutsche-rechtsgeschichte
+# Arbeitsbereich - Drg 032 Grundgesetz Entstehung 1948 49 bis Drg 038 Mauergrundstuecke Und Restitution
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `drg-032-grundgesetz-entstehung-1948-49` | Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949. |
 | `drg-033-bverfg-und-nachkriegskonsolidierung` | Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik. |
@@ -22,16 +22,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `drg-032-grundgesetz-entstehung-1948-49`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949.
+**Fokus:** Deutsche Rechtsgeschichte: Entstehung des Grundgesetzes 1948-49. Herrenchiemseer Konvent, Parlamentarischer Rat, Frankfurter Dokumente, Bewusste Lehren aus WRV und Inkrafttreten 23. Mai 1949.
 
 # Grundgesetz Entstehung 1948-49
 
@@ -82,7 +82,7 @@ GG: gesetze-im-internet.de; BGBl. 1949, 1 (Originalfassung). BVerfGE: bverfg.de.
 
 ## 2. `drg-033-bverfg-und-nachkriegskonsolidierung`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik.
+**Fokus:** Deutsche Rechtsgeschichte: BVerfG und Nachkriegskonsolidierung. Errichtung des BVerfG 1951, Fruehe Leitentscheidungen (SRP-Verbot BVerfGE 2-1, KPD-Verbot BVerfGE 5-85), Elfes-Urteil und Aufbau der Grundrechtsdogmatik.
 
 # BVerfG und Nachkriegskonsolidierung
 
@@ -132,7 +132,7 @@ BVerfGE 2, 1 und 5, 85 und 6, 32 und 7, 198: vollstaendig bei bverfg.de. BVerfGG
 
 ## 3. `drg-034-ddr-recht-und-sozialistische-gesetzlichkeit`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems.
+**Fokus:** Deutsche Rechtsgeschichte: DDR-Recht und sozialistische Gesetzlichkeit. DDR-Verfassung 1949/68/74, ZGB 1975, AGO, StPO-DDR und Charakteristika des sozialistischen Rechtssystems.
 
 # DDR-Recht und sozialistische Gesetzlichkeit
 
@@ -182,7 +182,7 @@ DDR-Gesetze: GBl. DDR via ALEX/OeNB. BVerfGE zum DDR-Recht: bverfg.de. BGH zu Ma
 
 ## 4. `drg-036-treuhand-und-volksvermoegen`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung.
+**Fokus:** Deutsche Rechtsgeschichte: Treuhandanstalt und DDR-Volksvermoegen. Treuhandgesetz 1990, THA-Privatisierungen, parlamentarische Kontrolle, Schulden und historisch-rechtliche Bewertung.
 
 # Treuhandanstalt und DDR-Volksvermoegen
 
@@ -232,7 +232,7 @@ Treuhandgesetz 1990: GBl. DDR I via ALEX/OeNB. Einigungsvertrag: BGBl. II 1990, 
 
 ## 5. `drg-037-bodenreform-und-vermoegensrecht`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung.
+**Fokus:** Deutsche Rechtsgeschichte: Bodenreform in der SBZ/DDR 1945-1949, Enteignungen ohne Entschaedigung, Fortgeltungsausschluss im Einigungsvertrag 1990 und BVerfGE 84-90 als Grundsatzentscheidung.
 
 # Bodenreform und Vermoegensrecht (1945-1990)
 
@@ -283,7 +283,7 @@ BVerfGE: bverfg.de. VermG: gesetze-im-internet.de. Einigungsvertrag Anlage III: 
 
 ## 6. `drg-038-mauergrundstuecke-und-restitution`
 
-**Frühere Beschreibung:** Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken.
+**Fokus:** Deutsche Rechtsgeschichte: Mauergrundstücke und Restitution nach 1990. Enteignungen fuer den Grenzstreifen, Vermoegensgesetz, Rueckuebertragungsansprueche und BVerwG-Rechtsprechung zu Mauergrundstücken.
 
 # Mauergrundstücke und Restitution
 

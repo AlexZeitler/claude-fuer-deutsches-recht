@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-fran-043-streitbeile-bis-fran-046-umsatzmeldu
-description: "franchiserecht-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 3 frühere Spezialskills (fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht, fran-044-einstweilige-verfuegung-markennutzung-stoppen, fran-046-umsatzmeldung-audit-und-nachzahlung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "franchiserecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung Audit Und Nachzahlung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - franchiserecht-praxis
+# Arbeitsbereich - Fran 043 Streitbeilegung Mediation Beirat Und Schiedsgericht, Fran 044 Einstweilige Verfuegung Markennutzung Stoppen, Fran 046 Umsatzmeldung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht` | Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht. |
 | `fran-044-einstweilige-verfuegung-markennutzung-stoppen` | Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fran-043-streitbeilegung-mediation-beirat-und-schiedsgericht`
 
-**Frühere Beschreibung:** Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht.
+**Fokus:** Streitbeilegung im Franchisesystem gestalten: Mediationsklauseln, Franchisenehmer-Beiräte als Ombudsinstanz, Schiedsgerichtsklauseln nach §§ 1029 ff. ZPO, Stufenmodelle und Kostenfragen bei alternativer Streitbeilegung im deutschen Franchiserecht.
 
 # Franchiserecht: Streitbeilegung, Mediation, Beirat und Schiedsgericht
 
@@ -106,7 +106,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 2. `fran-044-einstweilige-verfuegung-markennutzung-stoppen`
 
-**Frühere Beschreibung:** Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer.
+**Fokus:** Einstweilige Verfügung gegen unberechtigte Markennutzung nach Franchiseende durchsetzen: Verfügungsgrund und Verfügungsanspruch nach §§ 935 ff. ZPO und MarkenG, Dringlichkeit, Abschlussschreiben und Vollstreckung gegen ehemaligen Franchisenehmer.
 
 # Franchiserecht: Einstweilige Verfügung – Markennutzung stoppen
 
@@ -184,7 +184,7 @@ Franchiserecht ist in Deutschland kein eigener gesetzlich geregelter Vertragstyp
 
 ## 3. `fran-046-umsatzmeldung-audit-und-nachzahlung`
 
-**Frühere Beschreibung:** Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung.
+**Fokus:** Umsatzmeldepflichten und Royalty-Audit im Franchiserecht durchsetzen: Pflicht zur korrekten Umsatzreportierung, Revisionsrecht des Franchisegebers nach § 259 BGB, Nachzahlungsansprüche bei Falschmeldung, Verjährung und Beweislastverteilung.
 
 # Franchiserecht: Umsatzmeldung, Audit und Nachzahlung
 

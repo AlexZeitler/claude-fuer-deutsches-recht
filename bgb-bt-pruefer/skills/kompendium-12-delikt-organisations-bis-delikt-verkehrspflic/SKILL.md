@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-delikt-organisations-bis-delikt-verkehrspflic
-description: "bgb-bt-pruefer: Konsolidiertes Skill-Kompendium 12; bündelt 3 frühere Spezialskills (delikt-organisationspflicht, delikt-psychische-schaeden, delikt-verkehrspflicht-digital) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bgb-bt-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - bgb-bt-pruefer
+# Arbeitsbereich - Delikt Organisationspflicht, Delikt Psychische Schaeden, Delikt Verkehrspflicht Digital
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `delikt-organisationspflicht` | Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung. |
 | `delikt-psychische-schaeden` | Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `delikt-organisationspflicht`
 
-**Frühere Beschreibung:** Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung.
+**Fokus:** Prüft Organisationspflichten im Deliktsrecht: § 831 BGB, § 823 BGB Verkehrssicherungspflicht und organschaftliche Haftung.
 
 # Delikt: Organisationspflicht
 
@@ -120,7 +120,7 @@ Organisationsverschulden und Verkehrssicherungspflichten im Deliktsrecht prüfen
 
 ## 2. `delikt-psychische-schaeden`
 
-**Frühere Beschreibung:** Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB.
+**Fokus:** Prüft Ersatzfähigkeit psychischer Schäden im Deliktsrecht: Schockschaden, PTBS, Gesundheitsverletzung § 823 Abs. 1 BGB.
 
 # Delikt: Psychische Schäden
 
@@ -211,7 +211,7 @@ Ersatzfähigkeit psychischer und psychosomatischer Schäden nach § 823 Abs. 1 B
 
 ## 3. `delikt-verkehrspflicht-digital`
 
-**Frühere Beschreibung:** Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaftung, IT-Sicherheit, Datenpannen und deliktische Haftung.
+**Fokus:** Prüft Verkehrssicherungspflichten im digitalen Raum: Plattformhaftung, IT-Sicherheit, Datenpannen und deliktische Haftung.
 
 # Delikt: Verkehrspflicht Digital
 

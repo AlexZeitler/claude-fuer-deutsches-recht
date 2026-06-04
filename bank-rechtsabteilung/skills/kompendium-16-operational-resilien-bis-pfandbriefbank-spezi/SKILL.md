@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-operational-resilien-bis-pfandbriefbank-spezi
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 16; bündelt 5 frühere Spezialskills (operational-resilience-concentration-risk, outsourcing-crypto-dlt-node-provider, outsourcing-externe-dienstleister, outsourcing-fintech-bank-as-a-service, pfandbriefbank-spezialdeckung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Operational Resilience Concentration Risk, Outsourcing Crypto Dlt Node Provider, Outsourcing Externe Dienstleister, Outsourcing Fintech Bank As A Service und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - bank-rechtsabteilung
+# Arbeitsbereich - Operational Resilience Concentration Risk bis Pfandbriefbank Spezialdeckung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `operational-resilience-concentration-risk` | Operational Resilience und Konzentrationsrisiken bei Bankdienstleistern prüfen: kritische Funktionen, Auslagerungscluster, Cloud-Konzentration, DORA, Exit, Stresstest und Vorstandsvorlage. |
 | `outsourcing-crypto-dlt-node-provider` | Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `operational-resilience-concentration-risk`
 
-**Frühere Beschreibung:** Operational Resilience und Konzentrationsrisiken bei Bankdienstleistern prüfen: kritische Funktionen, Auslagerungscluster, Cloud-Konzentration, DORA, Exit, Stresstest und Vorstandsvorlage.
+**Fokus:** Operational Resilience und Konzentrationsrisiken bei Bankdienstleistern prüfen: kritische Funktionen, Auslagerungscluster, Cloud-Konzentration, DORA, Exit, Stresstest und Vorstandsvorlage.
 
 # Operational Resilience Konzentration
 
@@ -129,7 +129,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `outsourcing-crypto-dlt-node-provider`
 
-**Frühere Beschreibung:** Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen.
+**Fokus:** Crypto-/DLT-Dienstleister und Node Provider auslagern: DORA, MaRisk, § 25b KWG, Verwahrung, Daten, Schlüssel, Subdienstleister, Audit-Rechte und Exit in Krypto-Projekten prüfen.
 
 # DLT Outsourcing
 
@@ -228,7 +228,7 @@ Vor Ausgabe prüfen:
 
 ## 3. `outsourcing-externe-dienstleister`
 
-**Frühere Beschreibung:** Externe Dienstleister außerhalb reiner IKT prüfen: Auslagerung, sonstiger Fremdbezug, Datenschutz, Bankgeheimnis, SLA, Prüfungsrechte, Kündigung, Business Continuity und Registerpflege.
+**Fokus:** Externe Dienstleister außerhalb reiner IKT prüfen: Auslagerung, sonstiger Fremdbezug, Datenschutz, Bankgeheimnis, SLA, Prüfungsrechte, Kündigung, Business Continuity und Registerpflege.
 
 # Outsourcing allgemein
 
@@ -343,7 +343,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 4. `outsourcing-fintech-bank-as-a-service`
 
-**Frühere Beschreibung:** FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit.
+**Fokus:** FinTech-Outsourcing und Bank-as-a-Service prüfen: Rollen, KWG/ZAG, White Label, Auslagerung, Vertrieb, AML, Kundenkommunikation, Haftung und Exit.
 
 # Bank-as-a-Service Outsourcing
 
@@ -442,7 +442,7 @@ Vor Ausgabe prüfen:
 
 ## 5. `pfandbriefbank-spezialdeckung`
 
-**Frühere Beschreibung:** Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe.
+**Fokus:** Pfandbrief- und Spezialdeckungsfragen aus Bank-Legal-Sicht prüfen: Deckungsmasse, Treuhänder, Indeckungnahme, Immobilienfinanzierung, Register, Aufsicht und Vorstandsfreigabe.
 
 # Pfandbrief Spezialdeckung
 

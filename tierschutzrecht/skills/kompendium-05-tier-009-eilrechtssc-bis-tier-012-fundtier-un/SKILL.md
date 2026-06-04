@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-tier-009-eilrechtssc-bis-tier-012-fundtier-un
-description: "tierschutzrecht: Konsolidiertes Skill-Kompendium 05; bündelt 4 frühere Spezialskills (tier-009-eilrechtsschutz-gegen-haltungsverbot, tier-010-tierhalter-zivilrechtlich-beraten, tier-011-tierarzt-und-behandlungsfehler, tier-012-fundtier-und-eigentum) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "tierschutzrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Tier 009 Eilrechtsschutz Gegen Haltungsverbot, Tier 010 Tierhalter Zivilrechtlich Beraten, Tier 011 Tierarzt Und Behandlungsfehler, Tier 012 Fundtier Und Eigentum; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - tierschutzrecht
+# Arbeitsbereich - Tier 009 Eilrechtsschutz Gegen Haltungsverbot bis Tier 012 Fundtier Und Eigentum
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `tier-009-eilrechtsschutz-gegen-haltungsverbot` | Tierschutzrecht: Eilrechtsschutz gegen Haltungsverbot. Eilrechtsschutz gegen Haltungsverbot im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `tier-010-tierhalter-zivilrechtlich-beraten` | Tierschutzrecht: Tierhalter zivilrechtlich beraten. Tierhalter zivilrechtlich beraten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `tier-009-eilrechtsschutz-gegen-haltungsverbot`
 
-**Frühere Beschreibung:** Tierschutzrecht: Eilrechtsschutz gegen Haltungsverbot. Eilrechtsschutz gegen Haltungsverbot im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Eilrechtsschutz gegen Haltungsverbot. Eilrechtsschutz gegen Haltungsverbot im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Eilrechtsschutz Gegen Haltungsverbot
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `tier-010-tierhalter-zivilrechtlich-beraten`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tierhalter zivilrechtlich beraten. Tierhalter zivilrechtlich beraten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Tierhalter zivilrechtlich beraten. Tierhalter zivilrechtlich beraten im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierhalter Zivilrechtlich Beraten
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `tier-011-tierarzt-und-behandlungsfehler`
 
-**Frühere Beschreibung:** Tierschutzrecht: Tierarzt und Behandlungsfehler. Tierarzt und Behandlungsfehler im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Tierarzt und Behandlungsfehler. Tierarzt und Behandlungsfehler im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Tierarzt Und Behandlungsfehler
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `tier-012-fundtier-und-eigentum`
 
-**Frühere Beschreibung:** Tierschutzrecht: Fundtier und Eigentum. Fundtier und Eigentum im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Tierschutzrecht: Fundtier und Eigentum. Fundtier und Eigentum im Fachgebiet Tierschutzrecht als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Fundtier Und Eigentum
 

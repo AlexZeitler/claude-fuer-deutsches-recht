@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-cl-vertragsklauseln-bis-cl-discovery-doc-pro
-description: "common-law-kompass: Konsolidiertes Skill-Kompendium 03; bündelt 3 frühere Spezialskills (cl-vertragsklauseln-typische-uebersicht, spezial-vertragsbegriffe-risikoampel-und-gegenargumente, cl-discovery-doc-production-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "common-law-kompass: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - common-law-kompass
+# Arbeitsbereich - Cl Vertragsklauseln Typische Uebersicht, Vertragsbegriffe Risikoampel Und Gegenargumente, Cl Discovery Doc Production Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `cl-vertragsklauseln-typische-uebersicht` | Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine. |
 | `spezial-vertragsbegriffe-risikoampel-und-gegenargumente` | Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `cl-vertragsklauseln-typische-uebersicht`
 
-**Frühere Beschreibung:** Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine.
+**Fokus:** Typische Common-Law-Klauseln uebersichtlich erklaeren: Indemnification, Representations and Warranties, Limitation of Liability, Entire Agreement, Severability, Governing Law, Boilerplate. Pro Klausel Funktion, deutsche Entsprechung und typische Stolpersteine.
 
 # Common Law: Vertragsklauseln
 
@@ -100,7 +100,7 @@ Dieser Skill gehoert zum Plugin `common-law-kompass`. Er ergaenzt die uebrigen S
 
 ## 2. `spezial-vertragsbegriffe-risikoampel-und-gegenargumente`
 
-**Frühere Beschreibung:** Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
+**Fokus:** Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien im Plugin common law kompass; schärft Rollen, Belege, Fachnormen, Risiken, Gegenargumente und nächsten verwertbaren Schritt statt austauschbarer Standardprüfung.
 
 # Vertragsbegriffe: Risikoampel, Gegenargumente und Verteidigungslinien
 
@@ -141,7 +141,7 @@ Wenn Unterlagen vorhanden sind, arbeite zuerst aus den Unterlagen. Stelle nur R�
 
 ## 3. `cl-discovery-doc-production-spezial`
 
-**Frühere Beschreibung:** Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster fuer deutsche Mandanten in US-Verfahren.
+**Fokus:** Spezialfall US-Discovery / E-Discovery und Document Production: Anforderungen US-Gericht, Hague Evidence Convention, Blocking Statutes (Frankreich), DSGVO. Pruefraster fuer deutsche Mandanten in US-Verfahren.
 
 # Common Law: Discovery-Spezial
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-16-fa-stu-finanzgericht-bis-stb-buchhaltungsbutl
-description: "steuerrecht-anwalt-und-berater: Konsolidiertes Skill-Kompendium 16; bündelt 9 frühere Spezialskills (fa-stu-finanzgerichtsklage-78-fgo, fa-stu-tatsaechliche-verstaendigung, rechtsabteilung-dac7-und-plattformreporting, rechtsabteilung-organschaft-nach-eugh-bfh-update, rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen und 4 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "steuerrecht-anwalt-und-berater: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Fa Stu Finanzgerichtsklage 78 Fgo, Fa Stu Tatsaechliche Verstaendigung, Dac7 Und Plattformreporting, Organschaft Nach Eugh Bfh Update und 5 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 16 - steuerrecht-anwalt-und-berater
+# Arbeitsbereich - Fa Stu Finanzgerichtsklage 78 Fgo bis Stb Buchhaltungsbutler Mandantencloud
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `fa-stu-finanzgerichtsklage-78-fgo` | Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe). |
 | `fa-stu-tatsaechliche-verstaendigung` | Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen. |
@@ -25,16 +25,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `fa-stu-finanzgerichtsklage-78-fgo`
 
-**Frühere Beschreibung:** Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe).
+**Fokus:** Strukturierter Aufbau einer Finanzgerichtsklage von der Klagefrist § 47 FGO ueber den Klageantrag und die Begruendung bis zur Akteneinsicht § 78 FGO. Anwendungsfall Einspruchsentscheidung ist ergangen Mandant will klagen — der Skill liefert Klageschrift Klageziel und Begruendungsstrategie. Behandelt Anfechtungsklage Verpflichtungsklage und Feststellungsklage Streitwert nach § 52 GKG und Streitgegenstand. Output Klageschriftmuster und Pruefraster fuer Begruendung. Abgrenzung zu anw-einspruch-finanzamt (Einspruchsstufe).
 
 # Finanzgerichtsklage — Aufbau Frist und Akteneinsicht § 78 FGO
 
@@ -118,7 +118,7 @@ Antrag auf Aussetzung der Vollziehung § 69 FGO wird gestellt.
 
 ## 2. `fa-stu-tatsaechliche-verstaendigung`
 
-**Frühere Beschreibung:** Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen.
+**Fokus:** Strategischer Skill zur tatsaechlichen Verstaendigung mit dem Finanzamt — wann ist sie zulaessig wie wird sie verhandelt und wie bindet sie. Anwendungsfall Aussenpruefung oder Veranlagung erreicht eine Sachverhaltsfrage die im Schaetzungswege nicht weiter aufklaerbar ist. Behandelt zulaessige Gegenstaende (Tatsachen nicht Recht) Beteiligte Mitwirkungspflicht und Bindungswirkung. Output Mustererklaerung Tatsaechliche Verstaendigung mit Protokoll. Abgrenzung zu fa-stu-onboarding-bescheid-lesen.
 
 # Tatsaechliche Verstaendigung mit dem Finanzamt — Voraussetzungen und Vertragsmuster
 
@@ -187,7 +187,7 @@ Ort, Datum            [FA]                 [Mandant]              [Berater]
 
 ## 3. `rechtsabteilung-dac7-und-plattformreporting`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für DAC7 und Plattformreporting: Plattformbetreiber prüfen Meldepflicht, Verkäuferdaten und Korrekturprozesse. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: DAC7 und Plattformreporting
 
@@ -236,7 +236,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 4. `rechtsabteilung-organschaft-nach-eugh-bfh-update`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Organschaft nach EuGH/BFH-Update: Organträger, Eingliederung und Haftung werden für Konzernrechtsabteilungen geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Organschaft nach EuGH/BFH-Update
 
@@ -285,7 +285,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 5. `rechtsabteilung-transfer-pricing-bei-ip-und-softwarelizenzen`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für Transfer Pricing bei IP- und Softwarelizenzen: Intercompany-Lizenzen werden mit DEMPE, Benchmark und Dokumentation geführt. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: Transfer Pricing bei IP- und Softwarelizenzen
 
@@ -334,7 +334,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 6. `rechtsabteilung-vga-bei-geschaeftsfuehrer-und-beiratsverguetung`
 
-**Frühere Beschreibung:** Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
+**Fokus:** Rechtsabteilungs-Spezialskill für vGA bei Geschäftsführer- und Beiratsvergütung: Vergütung, Rückwirkung, Dokumentation und Fremdvergleich werden geprüft. Mit Normen, Rechtsprechungsanker, Belegmatrix und schneller Handlungsoption.
 
 # Rechtsabteilung: vGA bei Geschäftsführer- und Beiratsvergütung
 
@@ -383,7 +383,7 @@ Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und frei 
 
 ## 7. `stb-addison-bwa-konfiguration-tipps`
 
-**Frühere Beschreibung:** Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison.
+**Fokus:** Addison BWA-Konfiguration. Anwendungsfall Kanzleien mit Wolters Kluwer Addison statt DATEV. Methodik Unterschiede zu DATEV Konten-Konfiguration Branchenanpassung. Output BWA in Addison.
 
 # Addison BWA-Konfiguration
 
@@ -492,7 +492,7 @@ Stand: 05/2026.
 
 ## 8. `stb-belegtransfer-datev-unternehmen-online`
 
-**Frühere Beschreibung:** Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard.
+**Fokus:** Belegtransfer DATEV Unternehmen Online. Anwendungsfall systematischer Belegfluss Mandant zu StB Beleg-Scan App Mailpostfach Bank-Anbindung. Methodik Konfiguration Workflow. Output Belegfluss-Standard.
 
 # Belegtransfer ueber DATEV Unternehmen Online
 
@@ -604,7 +604,7 @@ Stand: 05/2026.
 
 ## 9. `stb-buchhaltungsbutler-mandantencloud`
 
-**Frühere Beschreibung:** BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine.
+**Fokus:** BuchhaltungsButler und vergleichbare Cloud-Buchhaltung beim Mandanten. Anwendungsfall Mandant arbeitet mit BuchhaltungsButler sevDesk Lexware Office Candis StB-Schnittstelle DATEV-Export Datenqualitaetsprüfung AVV. Methodik Konfiguration Belegworkflow GoBD-Risiken Honoraranpassung. Output eingerichtete Cloud-Schnittstelle und Prüfroutine.
 
 # BuchhaltungsButler — Mandanten-Cloud-Loesung
 

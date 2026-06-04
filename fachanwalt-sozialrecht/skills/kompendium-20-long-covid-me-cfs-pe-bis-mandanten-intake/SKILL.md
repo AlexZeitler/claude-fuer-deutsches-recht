@@ -1,17 +1,17 @@
 ---
 name: kompendium-20-long-covid-me-cfs-pe-bis-mandanten-intake
-description: "fachanwalt-sozialrecht: Konsolidiertes Skill-Kompendium 20; bündelt 4 frühere Spezialskills (long-covid-me-cfs-pem-beweis, long-covid-psychisch-oder-somatisch, long-covid-reha-und-teilhabe, mandanten-intake) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-sozialrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Long Covid Me Cfs Pem Beweis, Long Covid Psychisch Oder Somatisch, Long Covid Reha Und Teilhabe, Mandanten Intake; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - fachanwalt-sozialrecht
+# Arbeitsbereich - Long Covid Me Cfs Pem Beweis bis Mandanten Intake
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `long-covid-me-cfs-pem-beweis` | ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
 | `long-covid-psychisch-oder-somatisch` | Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `long-covid-me-cfs-pem-beweis`
 
-**Frühere Beschreibung:** ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.; Normanker: SGB VI § 43; SGB IX § 152; SGG §§ 103 und 106; AWMF Long/Post-COVID; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # ME/CFS, PEM und Beweisführung: Belastungsintoleranz, Pacing, Tagesprofil, Fremdanamnese, Aktivitätsprotokoll und Gutachtenfehler.
 
@@ -64,7 +64,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 2. `long-covid-psychisch-oder-somatisch`
 
-**Frühere Beschreibung:** Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.; Normanker: SGB X Amtsermittlung; SGB VI § 43; SGB IX § 152; ICD U09.9 als Zusatzkennzeichen; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid psychisch, somatisch oder multifaktoriell: falsche Entweder-oder-Prüfung vermeiden, Funktionsfolgen sauber beschreiben.
 
@@ -99,7 +99,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 3. `long-covid-reha-und-teilhabe`
 
-**Frühere Beschreibung:** Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.; Normanker: SGB IX Teilhabe; SGB VI Reha; SGB V Heil-/Hilfsmittel; SGB III; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
+**Fokus:** Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.; Normanker: SGB IX Teilhabe; SGB VI Reha; SGB V Heil-/Hilfsmittel; SGB III; fragt medizinische Funktionsfolgen, Beweisstand, Gutachtenangriff und sozialrechtlichen Leistungsweg konkret ab.
 
 # Long-Covid Reha und Teilhabe: medizinische Reha, stufenweise Wiedereingliederung, Leistungen zur Teilhabe am Arbeitsleben und Hilfsmittel.
 
@@ -134,7 +134,7 @@ Erzeuge eine Beweismatrix, einen Fragenkatalog für Ärztinnen/Gutachter, einen 
 
 ## 4. `mandanten-intake`
 
-**Frühere Beschreibung:** Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check).
+**Fokus:** Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check).
 
 # Mandanten-Intake (Sozialrecht)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-stimmbindung-veto-ne-bis-courier-platform-wor
-description: "sozialversicherungsstatus-pruefer: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (stimmbindung-veto-nebenvertrag, vertragswirklichkeit-gelebte-praxis, beitragsnachforderung-haftung, courier-platform-worker) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "sozialversicherungsstatus-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stimmbindung Veto Nebenvertrag, Vertragswirklichkeit Gelebte Praxis, Beitragsnachforderung Haftung, Courier Platform Worker; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - sozialversicherungsstatus-pruefer
+# Arbeitsbereich - Stimmbindung Veto Nebenvertrag bis Courier Platform Worker
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stimmbindung-veto-nebenvertrag` | Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht. |
 | `vertragswirklichkeit-gelebte-praxis` | Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stimmbindung-veto-nebenvertrag`
 
-**Frühere Beschreibung:** Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht.
+**Fokus:** Prüft Stimmbindungsvereinbarungen, Vetorechte, Poolverträge und Nebenabreden im Statusrecht.
 
 # Stimmbindung und Nebenvertrag
 
@@ -95,7 +95,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 2. `vertragswirklichkeit-gelebte-praxis`
 
-**Frühere Beschreibung:** Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung.
+**Fokus:** Vergleicht Vertragstext und tatsächliche Durchführung als Kern der Statusprüfung.
 
 # Vertragswirklichkeit vs. gelebte Praxis
 
@@ -160,7 +160,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 3. `beitragsnachforderung-haftung`
 
-**Frühere Beschreibung:** Prüft Nachforderungen, Säumniszuschläge, Verjährung, Arbeitgeberhaftung und interne Regressfragen.
+**Fokus:** Prüft Nachforderungen, Säumniszuschläge, Verjährung, Arbeitgeberhaftung und interne Regressfragen.
 
 # Beitragsnachforderung und Haftung
 
@@ -226,7 +226,7 @@ Aktuelle Fassungen, Behördenhinweise, Formulare, Guidance und Rechtsprechung vo
 
 ## 4. `courier-platform-worker`
 
-**Frühere Beschreibung:** Prüft Plattformarbeiter, Kurierdienste, App-Steuerung, Algorithmic Management und Statusindizien.
+**Fokus:** Prüft Plattformarbeiter, Kurierdienste, App-Steuerung, Algorithmic Management und Statusindizien.
 
 # Kurier und Plattformarbeit
 

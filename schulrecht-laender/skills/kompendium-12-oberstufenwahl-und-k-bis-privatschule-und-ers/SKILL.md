@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-oberstufenwahl-und-k-bis-privatschule-und-ers
-description: "schulrecht-laender: Konsolidiertes Skill-Kompendium 12; bündelt 4 frühere Spezialskills (oberstufenwahl-und-kursbelegung, ordnungsmassnahmen-anhoerung, polizei-in-der-schule, privatschule-und-ersatzschule) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schulrecht-laender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Oberstufenwahl Und Kursbelegung, Ordnungsmassnahmen Anhoerung, Polizei In Der Schule, Privatschule Und Ersatzschule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - schulrecht-laender
+# Arbeitsbereich - Oberstufenwahl Und Kursbelegung bis Privatschule Und Ersatzschule
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `oberstufenwahl-und-kursbelegung` | Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen. |
 | `ordnungsmassnahmen-anhoerung` | Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `oberstufenwahl-und-kursbelegung`
 
-**Frühere Beschreibung:** Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen.
+**Fokus:** Prüft Kurswahlen, Umwahl, Belegpflichten und Laufbahnfolgen.
 
 # Oberstufenwahl und Kursbelegung
 
@@ -90,7 +90,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 2. `ordnungsmassnahmen-anhoerung`
 
-**Frühere Beschreibung:** Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit.
+**Fokus:** Prüft schulische Ordnungsmaßnahmen mit Anhörung und Verhältnismäßigkeit.
 
 # Ordnungsmaßnahmen Anhoerung
 
@@ -157,7 +157,7 @@ Erzeuge bevorzugt: Maßnahmen-Check. Am Ende immer drei Zeilen: **Frist**, **feh
 
 ## 3. `polizei-in-der-schule`
 
-**Frühere Beschreibung:** Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten.
+**Fokus:** Prüft polizeiliche Maßnahmen in Schulen, Befragung, Elternrechte und Aussageverhalten.
 
 # Polizei in der Schule
 
@@ -218,7 +218,7 @@ Dieser Skill vertieft ein konkretes Problem im Schulrecht. Er ist für Eltern, S
 
 ## 4. `privatschule-und-ersatzschule`
 
-**Frühere Beschreibung:** Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag.
+**Fokus:** Prüft private Schulen, Ersatzschule, Ergänzungsschule und Schulvertrag.
 
 # Privatschule Und Ersatzschule
 

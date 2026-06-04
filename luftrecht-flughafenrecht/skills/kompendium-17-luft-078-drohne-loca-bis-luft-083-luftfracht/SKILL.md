@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-luft-078-drohne-loca-bis-luft-083-luftfracht
-description: "luftrecht-flughafenrecht: Konsolidiertes Skill-Kompendium 17; bündelt 5 frühere Spezialskills (luft-078-drohne-local-counsel-briefen, luft-079-drohne-dashboard-bauen, luft-080-drohne-mandantenmemo-schreiben, luft-082-luftfracht-register-auswerten, luft-083-luftfracht-pfandrecht-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "luftrecht-flughafenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Luft 078 Drohne Local Counsel Briefen, Luft 079 Drohne Dashboard Bauen, Luft 080 Drohne Mandantenmemo Schreiben, Luft 082 Luftfracht Register Auswerten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - luftrecht-flughafenrecht
+# Arbeitsbereich - Luft 078 Drohne Local Counsel Briefen bis Luft 083 Luftfracht Pfandrecht Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `luft-078-drohne-local-counsel-briefen` | Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Drohnen-Mandat briefen: Registrierungsrecht Haftung Unfall oder grenzüberschreitender Betrieb. Skill erstellt englisches Briefing-Memo mit deutschem Drohnenrecht EU-VO 2019/947 und konkreten Fragen. |
 | `luft-079-drohne-dashboard-bauen` | Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `luft-078-drohne-local-counsel-briefen`
 
-**Frühere Beschreibung:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Drohnen-Mandat briefen: Registrierungsrecht Haftung Unfall oder grenzüberschreitender Betrieb. Skill erstellt englisches Briefing-Memo mit deutschem Drohnenrecht EU-VO 2019/947 und konkreten Fragen.
+**Fokus:** Deutsches Kanzleiteam muss auslaendischen Anwalt fuer Drohnen-Mandat briefen: Registrierungsrecht Haftung Unfall oder grenzüberschreitender Betrieb. Skill erstellt englisches Briefing-Memo mit deutschem Drohnenrecht EU-VO 2019/947 und konkreten Fragen.
 
 # Drohne – Local Counsel briefen
 
@@ -126,7 +126,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 2. `luft-079-drohne-dashboard-bauen`
 
-**Frühere Beschreibung:** Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template.
+**Fokus:** Drohnenbetreiber oder Regulierer braucht Dashboard fuer Drohnenflotte: Registrierungsstatus Genehmigungen Versicherung Unfallhistorie Betriebsgebiete. Skill strukturiert Datenquellen LBA-Register EU-VO 2019/947 und liefert befuellbares Dashboard-Template.
 
 # Drohne – Dashboard bauen
 
@@ -223,7 +223,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 3. `luft-080-drohne-mandantenmemo-schreiben`
 
-**Frühere Beschreibung:** Anwalt schreibt Mandantenmemo fuer Drohnenbetreiber zu Genehmigungsfrage Haftungsfall oder Behördenauflage. Skill strukturiert Memo mit Sachverhalt EU-VO 2019/947 Rechtslage Handlungsoptionen und Empfehlung.
+**Fokus:** Anwalt schreibt Mandantenmemo fuer Drohnenbetreiber zu Genehmigungsfrage Haftungsfall oder Behördenauflage. Skill strukturiert Memo mit Sachverhalt EU-VO 2019/947 Rechtslage Handlungsoptionen und Empfehlung.
 
 # Drohne – Mandantenmemo schreiben
 
@@ -320,7 +320,7 @@ Für Mandate im Bereich Drohnen und UAS-Betrieb sind folgende Dokumente regelmä
 
 ## 4. `luft-082-luftfracht-register-auswerten`
 
-**Frühere Beschreibung:** Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht.
+**Fokus:** Mandant will Zulassungsstatus eines Luftfrachtfuehrers oder Gefahrgut-Deklarationen auswerten. Prueft LuftVG Frachtfuehrer-Zulassung IATA DGR Deklarationspflichten Montreal Convention und liefert Compliance-Status-Bericht.
 
 # Luftfracht – Register auswerten
 
@@ -415,7 +415,7 @@ Für Mandate im Bereich Luftfrachtrecht und Warschauer/Montrealer System sind fo
 
 ## 5. `luft-083-luftfracht-pfandrecht-vorbereiten`
 
-**Frühere Beschreibung:** Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung.
+**Fokus:** Luftfrachtfuehrer will Pfandrecht an Fracht geltend machen oder Glaeubiger will Fracht pfaenden. Prueft HGB § 440 Frachtfuehrerpfandrecht Montreal Convention Art. 9 und ZPO-Pfaendungsrecht und liefert Sicherungsstruktur-Vermerk fuer Luftfracht-Finanzierung.
 
 # Luftfracht – Pfandrecht vorbereiten
 

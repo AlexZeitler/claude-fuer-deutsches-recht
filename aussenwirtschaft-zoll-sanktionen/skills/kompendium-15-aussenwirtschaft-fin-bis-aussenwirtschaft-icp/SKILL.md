@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-aussenwirtschaft-fin-bis-aussenwirtschaft-icp
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 15; bündelt 4 frühere Spezialskills (aussenwirtschaft-financial-institutions-correspondent-banking, aussenwirtschaft-freiwillige-offenlegung-bafa-zoll, aussenwirtschaft-gueterlisten-klassifizierung, aussenwirtschaft-icp-kontrollsystem) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Financial Institutions Correspondent Banking, Aussenwirtschaft Freiwillige Offenlegung Bafa Zoll, Aussenwirtschaft Gueterlisten Klassifizierung, Aussenwirtschaft Icp Kontrollsystem; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Financial Institutions Correspondent Banking bis Aussenwirtschaft Icp Kontrollsystem
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-financial-institutions-correspondent-banking` | Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung. |
 | `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll` | Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-financial-institutions-correspondent-banking`
 
-**Frühere Beschreibung:** Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung.
+**Fokus:** Sanktions-Compliance fuer Banken und Finanzinstitute im Korrespondenzbankgeschaeft: Sanktionsscreening von Transaktionen und Gegenparteien nach VO (EU) 2580/2001 und sektorspezifischen Sanktionsverordnungen, SWIFT-Ausschluss-Implikationen, Correspondent-Banking-Due-Diligence. Output: Transaktions-Pruefprotokoll und Risikoklassifizierung.
 
 # Korrespondenzbankgeschaeft: Sanktions-Compliance und Transaktionsscreening
 
@@ -116,7 +116,7 @@ Transaktions-Pruefprotokoll mit Screening-Ergebnis, Risikoklassifizierung der Ko
 
 ## 2. `aussenwirtschaft-freiwillige-offenlegung-bafa-zoll`
 
-**Frühere Beschreibung:** Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie.
+**Fokus:** Strategische und operative Vorbereitung einer freiwilligen Selbstanzeige bei BAFA oder Hauptzollamt nach §§ 22 Abs. 4 AWG und 371 AO analog: Strafmildernde Wirkung, Sachverhaltsaufklaerung, Zeitpunkt, Form und Inhalt der Anzeige, Koordination mit Strafverfolgungsbehoerden. Output: Selbstanzeigenschreiben und Verteidigungsstrategie.
 
 # Freiwillige Offenlegung bei BAFA und Zoll: Strategie und Vorbereitung
 
@@ -203,7 +203,7 @@ Selbstanzeigenschreiben an BAFA/Hauptzollamt, Sachverhaltschronologie, Schadensq
 
 ## 3. `aussenwirtschaft-gueterlisten-klassifizierung`
 
-**Frühere Beschreibung:** Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositionen.
+**Fokus:** Technische Klassifizierung von Waren, Software und Technologie nach Gueterlisten: EU-Dual-Use-Liste Anhang I VO (EU) 2021/821, Kriegswaffenkontrollliste (KrWaffKontrG), MTCR, NSG und Wassenaar-Arrangement. Abgrenzung ML-Gueter von EG-Dual-Use. Output: Klassifizierungsgutachten mit Listenpositionen.
 
 # Gueterlistenklassifizierung: Systematische Einreihung in Dual-Use und Ruestungsgueterlisten
 
@@ -290,7 +290,7 @@ Klassifizierungsgutachten mit Produktbeschreibung, systematischer Listenpruefung
 
 ## 4. `aussenwirtschaft-icp-kontrollsystem`
 
-**Frühere Beschreibung:** Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schluessel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap-Analyse.
+**Fokus:** Aufbau und Auditierung eines Internal Compliance Programme (ICP) nach BAFA-Leitfaden und EU Best Practice Guidelines: Risikobasierte Struktur, Schluessel-Compliance-Elemente, Ausfuhrverantwortlicher, Screening-Prozesse, Dokumentation und Schulungspflichten. Output: ICP-Handbuch-Gliederung und Gap-Analyse.
 
 # Internal Compliance Programme (ICP): Aufbau und Gap-Analyse
 

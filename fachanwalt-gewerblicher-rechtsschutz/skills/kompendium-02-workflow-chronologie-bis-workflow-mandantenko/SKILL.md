@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-workflow-chronologie-bis-workflow-mandantenko
-description: "fachanwalt-gewerblicher-rechtsschutz: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (workflow-chronologie-und-belegmatrix, workflow-fristen-und-risikoampel, workflow-mandantenkommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-gewerblicher-rechtsschutz: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - fachanwalt-gewerblicher-rechtsschutz
+# Arbeitsbereich - Chronologie Und Belegmatrix, Fristen Und Risikoampel, Mandantenkommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `workflow-chronologie-und-belegmatrix` | Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte. |
 | `workflow-fristen-und-risikoampel` | Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `workflow-chronologie-und-belegmatrix`
 
-**Frühere Beschreibung:** Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte.
+**Fokus:** Chronologie und Belegmatrix im gewerblichen Rechtsschutz: Zeitachse aufbauen, Dokumente chronologisch sortieren, Lücken identifizieren, Beweiskette strukturieren für Verletzungsverfahren, EV, Klagschrift und Mandantenakte.
 
 # Chronologie und Belegmatrix
 
@@ -148,7 +148,7 @@ Zeitachse Markenverletzung
 
 ## 2. `workflow-fristen-und-risikoampel`
 
-**Frühere Beschreibung:** Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise.
+**Fokus:** Fristen und Risikoampel im gewerblichen Rechtsschutz: systematischer Fristencheck, Risikoampel Grün/Gelb/Rot für alle Verfahrensarten (Marke, Patent, Design, UWG, EV, Klage), Fristenkalender und Eskalationshinweise.
 
 # Fristen und Risikoampel
 
@@ -256,7 +256,7 @@ Dieser Workflow-Skill führt einen systematischen Fristencheck durch und bewerte
 
 ## 3. `workflow-mandantenkommunikation`
 
-**Frühere Beschreibung:** Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten. Mustertexte für alle Phasen des Mandats.
+**Fokus:** Mandantenkommunikation im gewerblichen Rechtsschutz: Mandantenbriefe, Entscheidungsvorlagen, Statusberichte, Kostenaufklärung, Beratungsprotokoll, Tonalität und BRAO-Informationspflichten. Mustertexte für alle Phasen des Mandats.
 
 # Mandantenkommunikation
 

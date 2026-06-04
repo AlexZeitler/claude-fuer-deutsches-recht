@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-rom-141-mandatum-qua-bis-rom-148-codicilli-un
-description: "roemisches-recht: Konsolidiertes Skill-Kompendium 17; bündelt 8 frühere Spezialskills (rom-141-mandatum-qualificatum-buergschaftsersatz, rom-142-testamentum-calatis-comitiis-und-in-procinctu, rom-143-testamentum-per-aes-et-libram-mancipationstestament, rom-144-testamentum-praetorium-tabulae-septies-signatae, rom-145-querela-inofficiosi-testamenti-pflichtteil und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "roemisches-recht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Rom 141 Mandatum Qualificatum Buergschaftsersatz, Rom 142 Testamentum Calatis Comitiis Und In Procinctu, Rom 143 Testamentum Per Aes Et Libram Mancipationstestament, Rom 144 Testamentum Praetorium Tabulae Septies Signatae und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - roemisches-recht
+# Arbeitsbereich - Rom 141 Mandatum Qualificatum Buergschaftsersatz bis Rom 148 Codicilli Und Nachtragliche Erbverfuegungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `rom-141-mandatum-qualificatum-buergschaftsersatz` | Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhaeltnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix. |
 | `rom-142-testamentum-calatis-comitiis-und-in-procinctu` | Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `rom-141-mandatum-qualificatum-buergschaftsersatz`
 
-**Frühere Beschreibung:** Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhaeltnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix.
+**Fokus:** Mandatum qualificatum: qualifizierte Auftragserteilung als Buergschaftsersatz. Skill behandelt die juristische Konstruktion das Verhaeltnis zur mandatum pecuniae credendae und die Folgen bei Nichterfuellung. Liefert Quellenmatrix.
 
 # Rom 141 Mandatum Qualificatum Buergschaftsersatz
 
@@ -72,7 +72,7 @@ Skill fuer mandatum qualificatum.
 
 ## 2. `rom-142-testamentum-calatis-comitiis-und-in-procinctu`
 
-**Frühere Beschreibung:** Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix.
+**Fokus:** Testamentum calatis comitiis und in procinctu: aelteste Formen des roemischen Testaments. Skill behandelt die Beurkundung vor dem Volk (calatis comitiis) und vor dem Heer (in procinctu) sowie ihre Verdraengung durch das mancipationstestament. Liefert Quellenmatrix.
 
 # Rom 142 Testamentum Calatis Comitiis Und In Procinctu
 
@@ -123,7 +123,7 @@ Skill fuer die aeltesten Testamentsformen.
 
 ## 3. `rom-143-testamentum-per-aes-et-libram-mancipationstestament`
 
-**Frühere Beschreibung:** Testamentum per aes et libram: das mancipationstestament als klassische Form. Skill behandelt das Mancipationsritual familiae emptor heredis institutio Nuncupatio und Verdraengung durch das praetorische Tabula-Testament. Liefert Quellenmatrix.
+**Fokus:** Testamentum per aes et libram: das mancipationstestament als klassische Form. Skill behandelt das Mancipationsritual familiae emptor heredis institutio Nuncupatio und Verdraengung durch das praetorische Tabula-Testament. Liefert Quellenmatrix.
 
 # Rom 143 Testamentum Per Aes Et Libram Mancipationstestament
 
@@ -173,7 +173,7 @@ Skill fuer das Mancipationstestament.
 
 ## 4. `rom-144-testamentum-praetorium-tabulae-septies-signatae`
 
-**Frühere Beschreibung:** Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen fuer die bonorum possessio secundum tabulas. Liefert Quellenmatrix.
+**Fokus:** Testamentum praetorium: praetorische Form des Tabula-Testaments mit 7 Siegelzeugen. Skill behandelt die Voraussetzungen die Verbesserung gegenueber dem Mancipationstestament und die Folgen fuer die bonorum possessio secundum tabulas. Liefert Quellenmatrix.
 
 # Rom 144 Testamentum Praetorium Tabulae Septies Signatae
 
@@ -221,7 +221,7 @@ Skill fuer das praetorische Tabula-Testament.
 
 ## 5. `rom-145-querela-inofficiosi-testamenti-pflichtteil`
 
-**Frühere Beschreibung:** Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Quellenmatrix.
+**Fokus:** Querela inofficiosi testamenti: roemischer Pflichtteilsschutz. Skill behandelt die Klage des uebergangenen oder ungenuegend bedachten naechsten Verwandten Pflichtteilsbruchteil (portio legitima) Voraussetzungen und Beweislast. Liefert Quellenmatrix.
 
 # Rom 145 Querela Inofficiosi Testamenti Pflichtteil
 
@@ -270,7 +270,7 @@ Skill fuer roemischen Pflichtteilsschutz.
 
 ## 6. `rom-146-bonorum-possessio-contra-tabulas`
 
-**Frühere Beschreibung:** Bonorum possessio contra tabulas: Vermoegensbesitzbestaetigung des Praetors gegen das Testament. Skill behandelt die Voraussetzungen die Schutzfunktion fuer uebergangene Hauserben (sui heredes) und das Verhaeltnis zur querela inofficiosi testamenti. Liefert Quellenmatrix.
+**Fokus:** Bonorum possessio contra tabulas: Vermoegensbesitzbestaetigung des Praetors gegen das Testament. Skill behandelt die Voraussetzungen die Schutzfunktion fuer uebergangene Hauserben (sui heredes) und das Verhaeltnis zur querela inofficiosi testamenti. Liefert Quellenmatrix.
 
 # Rom 146 Bonorum Possessio Contra Tabulas
 
@@ -321,7 +321,7 @@ Skill fuer die bonorum possessio contra tabulas.
 
 ## 7. `rom-147-legitimatio-und-erbfaehigkeit-roemischer-buerger`
 
-**Frühere Beschreibung:** Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix.
+**Fokus:** Legitimatio und Erbfaehigkeit im roemischen Recht: wer konnte erben? Skill behandelt die Trennung zivilrechtlicher und praetorischer Erbenstellung Status civitatis als Voraussetzung Sklaven und Peregrini-Sonderregeln. Liefert Quellenmatrix.
 
 # Rom 147 Legitimatio Und Erbfaehigkeit Roemischer Buerger
 
@@ -367,7 +367,7 @@ Skill fuer Erbfaehigkeit im roemischen Recht.
 
 ## 8. `rom-148-codicilli-und-nachtragliche-erbverfuegungen`
 
-**Frühere Beschreibung:** Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung fuer Legate und Fideikommisse. Liefert Quellenmatrix.
+**Fokus:** Codicilli: nachtraegliche letztwillige Verfuegungen im roemischen Recht. Skill behandelt die ad-hoc-Form ihre Bindung an ein bestehendes Testament und die Bedeutung fuer Legate und Fideikommisse. Liefert Quellenmatrix.
 
 # Rom 148 Codicilli Und Nachtragliche Erbverfuegungen
 

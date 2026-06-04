@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-see-067-containersch-bis-see-071-offshore-sch
-description: "seerecht-schifffahrtsrecht: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (see-067-containerschiff-local-counsel-instruie, see-068-containerschiff-closing-planen, see-069-containerschiff-klagepfad-waehlen, see-070-containerschiff-risiko-memo-schreiben, see-071-offshore-schiff-register-pruefen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "seerecht-schifffahrtsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu See 067 Containerschiff Local Counsel Instruie, See 068 Containerschiff Closing Planen, See 069 Containerschiff Klagepfad Waehlen, See 070 Containerschiff Risiko Memo Schreiben und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - seerecht-schifffahrtsrecht
+# Arbeitsbereich - See 067 Containerschiff Local Counsel Instruie bis See 071 Offshore Schiff Register Pruefen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `see-067-containerschiff-local-counsel-instruie` | Containerschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste. |
 | `see-068-containerschiff-closing-planen` | Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `see-067-containerschiff-local-counsel-instruie`
 
-**Frühere Beschreibung:** Containerschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
+**Fokus:** Containerschiff: Auslaendischen Anwalt fuer Arrest; Vollstreckung oder Registerfragen bei Containerlinienfrachtschiff im Ausland instruieren. ISAC 1952; EuGVVO 2012; lokales Seepfandrecht; P&I-Korrespondenten. Output: Local-Counsel-Briefing und Prioritaetenliste.
 
 # Containerschiff – Local Counsel instruieren
 
@@ -121,7 +121,7 @@ Der P&I-Club hat eigene Netzwerke von Correspondenten und Local Counsel. Die Kos
 
 ## 2. `see-068-containerschiff-closing-planen`
 
-**Frühere Beschreibung:** Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
+**Fokus:** Containerschiff: Closing eines Containerlinienfrachtschiff-Kaufs oder einer Finanzierung planen: Eigentumsuebergang (SchRG § 2); Hypothekenloesung (SchRG § 19); simultane Zahlung und Eintragung; Zertifikats-Ummeldung. Output: Closing-Checkliste und Zeitplan.
 
 # Containerschiff – Closing planen
 
@@ -214,7 +214,7 @@ Klasse- und ISM-Zertifikate bleiben nicht automatisch mit dem Schiff verbunden; 
 
 ## 3. `see-069-containerschiff-klagepfad-waehlen`
 
-**Frühere Beschreibung:** Containerschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Containerlinienfrachtschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
+**Fokus:** Containerschiff: Glaeubiger oder Reeder waehlt Klagepfad bei Streit um Containerlinienfrachtschiff: Zwangsversteigerung (ZPO §§ 864-871); Arrest; einvernehmlicher Verkauf; Insolvenzantrag. Rangfolge und Erloesprognose. Output: Klagepfad-Analyse und Erloesprognose.
 
 # Containerschiff – Klagepfad wählen
 
@@ -305,7 +305,7 @@ Schifffahrtssachen werden häufig vor dem LMAA (London Maritime Arbitrators Asso
 
 ## 4. `see-070-containerschiff-risiko-memo-schreiben`
 
-**Frühere Beschreibung:** Containerschiff: Gesamtrisikobewertung fuer Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix.
+**Fokus:** Containerschiff: Gesamtrisikobewertung fuer Reederei; Linienoperator; Slot-Charter oder Leasinggesellschaft bei Containerlinienfrachtschiff: Kreditausfall; Hypothekenrang; Schiffsglaeubigerrechte; Wrackpflicht; Insolvenzrisiko; Handlungsoptionen. HGB §§ 481-526 Stueckgutfracht; SchRG §§ 8-75; ISPS-Code; SOLAS Kap. XI-2. Output: Risiko-Memo und Empfehlungsmatrix.
 
 # Containerschiff – Risiko-Memo schreiben
 
@@ -398,7 +398,7 @@ Die Dauer eines Seearrests bis zur Zwangsversteigerung beträgt in Deutschland t
 
 ## 5. `see-071-offshore-schiff-register-pruefen`
 
-**Frühere Beschreibung:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
+**Fokus:** Offshore-Schiff: Energiekonzern; Offshore-Windparkbetreiber; Drillkontraktoren prueft Seeschiffsregister; Bahamas/Isle of Man fuer Offshore-Flotten auf Eigentumsstand, Hypotheken, Arreste und gesetzliche Vorrechte. HGB §§ 476 ff.; MODU-Code IMO; SchRG §§ 8-75; OSPAR-Konvention Nordsee. Klaert Lastenfreiheit vor Closing oder Kreditvergabe. Output: Registerpruefprotokoll und Rangkarte.
 
 # Offshore-Schiff – Registerprüfung
 

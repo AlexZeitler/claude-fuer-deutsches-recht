@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-schoeffe-ermuedung-k-bis-schoeffe-wirtschafts
-description: "schoeffen-handelsrichter-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 3 frühere Spezialskills (schoeffe-ermuedung-komplexverfahren-sitzung, schoeffe-wirtschaftsstrafverfahren-orientierung, schoeffe-wirtschaftsstrafverfahren-sitzung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "schoeffen-handelsrichter-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - schoeffen-handelsrichter-praxis
+# Arbeitsbereich - Schoeffe Ermuedung Komplexverfahren Sitzung, Schoeffe Wirtschaftsstrafverfahren Orientierung, Schoeffe Wirtschaftsstrafverfahren Sitzung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `schoeffe-ermuedung-komplexverfahren-sitzung` | Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
 | `schoeffe-wirtschaftsstrafverfahren-orientierung` | Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `schoeffe-ermuedung-komplexverfahren-sitzung`
 
-**Frühere Beschreibung:** Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Ermüdung im Komplexverfahren (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei lange Sitzungstage, Konzentration, Pausen, Notizen und Überforderung mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Ermüdung im Komplexverfahren: Sitzungspraxis
 
@@ -82,7 +82,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 2. `schoeffe-wirtschaftsstrafverfahren-orientierung`
 
-**Frühere Beschreibung:** Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Wirtschaftsstrafverfahren für Schöffen (Orientierung): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Wirtschaftsstrafverfahren für Schöffen: Orientierung
 
@@ -136,7 +136,7 @@ Keine erfundenen Fundstellen, keine BeckRS-/juris-Blindzitate. Rechtsprechung nu
 
 ## 3. `schoeffe-wirtschaftsstrafverfahren-sitzung`
 
-**Frühere Beschreibung:** Wirtschaftsstrafverfahren für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
+**Fokus:** Wirtschaftsstrafverfahren für Schöffen (Sitzungspraxis): hilft ehrenamtlichen Richterinnen und Richtern bei Bilanzen, Zahlungsflüsse, Insolvenzdelikte, Steuerzahlen und Sachverständige mit Rollenklärung, Beratungsgeheimnis, Praxisfragen und Quellencheck.
 
 # Wirtschaftsstrafverfahren für Schöffen: Sitzungspraxis
 

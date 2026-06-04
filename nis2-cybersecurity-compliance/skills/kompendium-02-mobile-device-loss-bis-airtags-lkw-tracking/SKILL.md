@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-mobile-device-loss-bis-airtags-lkw-tracking
-description: "nis2-cybersecurity-compliance: Konsolidiertes Skill-Kompendium 02; bündelt 4 frühere Spezialskills (mobile-device-loss, ot-industrial-control, admin-offboarding, airtags-lkw-tracking) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "nis2-cybersecurity-compliance: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Mobile Device Loss, Ot Industrial Control, Admin Offboarding, Airtags Lkw Tracking; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - nis2-cybersecurity-compliance
+# Arbeitsbereich - Mobile Device Loss bis Airtags Lkw Tracking
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `mobile-device-loss` | Steuert verlorene Geräte und gestohlene Laptops. |
 | `ot-industrial-control` | Prüft OT, SPS, Produktionsnetze und industrielle Steuerung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `mobile-device-loss`
 
-**Frühere Beschreibung:** Steuert verlorene Geräte und gestohlene Laptops.
+**Fokus:** Steuert verlorene Geräte und gestohlene Laptops.
 
 # Mobile Device Loss
 
@@ -77,7 +77,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 2. `ot-industrial-control`
 
-**Frühere Beschreibung:** Prüft OT, SPS, Produktionsnetze und industrielle Steuerung.
+**Fokus:** Prüft OT, SPS, Produktionsnetze und industrielle Steuerung.
 
 # OT Industrial Control
 
@@ -125,7 +125,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 3. `admin-offboarding`
 
-**Frühere Beschreibung:** Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel.
+**Fokus:** Prüft Admin-Offboarding nach Kündigung oder Dienstleisterwechsel.
 
 # Admin Offboarding
 
@@ -173,7 +173,7 @@ Vor Ausgabe kontrollieren: Norm aktuell, Quelle frei prüfbar, Sachverhalt nicht
 
 ## 4. `airtags-lkw-tracking`
 
-**Frühere Beschreibung:** Prüft AirTags und Tracker an LKW, Werkzeugen und Assets.
+**Fokus:** Prüft AirTags und Tracker an LKW, Werkzeugen und Assets.
 
 # Airtags Lkw Tracking
 

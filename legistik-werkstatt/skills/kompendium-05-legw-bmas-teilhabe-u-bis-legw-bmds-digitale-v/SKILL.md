@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-legw-bmas-teilhabe-u-bis-legw-bmds-digitale-v
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 05; bündelt 8 frühere Spezialskills (legw-bmas-teilhabe-und-schwerbehindertenrecht-sgb-ix, legw-bmbfsfj-familien-und-elterngeldrecht, legw-bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht, legw-bmbfsfj-kinder-und-jugendhilferecht-sgb-viii, legw-bmbfsfj-schul-und-berufsbildungsrecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix, Legw Bmbfsfj Familien Und Elterngeldrecht, Legw Bmbfsfj Gleichstellungs Und Antidiskriminierungsrecht, Legw Bmbfsfj Kinder Und Jugendhilferecht Sgb Viii und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmas Teilhabe Und Schwerbehindertenrecht Sgb Ix bis Legw Bmds Digitale Verwaltung Ozg Und Egovg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmas-teilhabe-und-schwerbehindertenrecht-sgb-ix` | Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung). |
 | `legw-bmbfsfj-familien-und-elterngeldrecht` | Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmas-teilhabe-und-schwerbehindertenrecht-sgb-ix`
 
-**Frühere Beschreibung:** Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
+**Fokus:** Sachbereich Teilhaberecht (SGB IX) im Geschaeftsbereich BMAS: Normbestand (SGB IX; SchwbAV; BTHG; SGB XII; AGG.); Akteure (Integrationsaemter; Reha-Traeger; Bundesagentur fuer Arbeit; Sozialgerichte.); EU-Bezug (UN-BRK; EU-Beschaeftigungsrichtlinien.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmas (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmas (Heranfuehrung).
 
 # Teilhaberecht (SGB IX) (BMAS)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmbfsfj-familien-und-elterngeldrecht`
 
-**Frühere Beschreibung:** Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Sachbereich Familien- und Elterngeldrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BEEG; BKGG; UnterhVG; FamFG (familienverfahrensrechtlich); MuSchG.); Akteure (Elterngeldstellen der Laender; BMBFSFJ; Familiengerichte.); EU-Bezug (Work-Life-Balance-RL; Mutterschutz-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Familien- und Elterngeldrecht (BMBFSFJ)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmbfsfj-gleichstellungs-und-antidiskriminierungsrecht`
 
-**Frühere Beschreibung:** Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Sachbereich Gleichstellungs- und Antidiskriminierungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (AGG; BGleiG; LGleiG; Lohngerechtigkeitsgesetz (EntgTranspG); StaatszielG GG Art. 3.); Akteure (Antidiskriminierungsstelle des Bundes; Gleichstellungsbeauftragte; Tarifpartner.); EU-Bezug (Gleichbehandlungs-RL; Pay-Transparency-RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Gleichstellungs- und Antidiskriminierungsrecht (BMBFSFJ)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmbfsfj-kinder-und-jugendhilferecht-sgb-viii`
 
-**Frühere Beschreibung:** Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Sachbereich Kinder- und Jugendhilferecht (SGB VIII) im Geschaeftsbereich BMBFSFJ: Normbestand (SGB VIII; KJSG; BKSchG; AdoptionsG; UVG.); Akteure (Jugendaemter; Landesjugendaemter; Bundesjugendamt; Bundeszentrale fuer Kinder- und Jugend-medienschutz (BzKJ).); EU-Bezug (Kinderschutz-Strategie EU; UN-KRK.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Kinder- und Jugendhilferecht (SGB VIII) (BMBFSFJ)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmbfsfj-schul-und-berufsbildungsrecht`
 
-**Frühere Beschreibung:** Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.); Akteure (BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Sachbereich Schul- und Berufsbildungsrecht im Geschaeftsbereich BMBFSFJ: Normbestand (BAfoeG; AFBG; BBiG; HwO; Schulgesetze der Laender; AufstFoeG.); Akteure (BMBFSFJ; Laender-Kultusministerien; KMK; BIBB; Berufsverbaende.); EU-Bezug (Berufsanerkennungs-RL; Europass; Erasmus+.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Schul- und Berufsbildungsrecht (BMBFSFJ)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmbfsfj-senioren-und-pflegevorbeugungsrecht`
 
-**Frühere Beschreibung:** Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
+**Fokus:** Sachbereich Seniorenrecht und Pflegevorbeugung im Geschaeftsbereich BMBFSFJ: Normbestand (SGB XI; ALeistungsG; Pflege-Bahr; HeimG der Laender; HGB-Bezuege.); Akteure (BMBFSFJ; BMG (Schnittstelle Pflege); Laender-Heimaufsichten.); EU-Bezug (Care-Strategy der EU.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmbfsfj (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmbfsfj (Heranfuehrung).
 
 # Seniorenrecht und Pflegevorbeugung (BMBFSFJ)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmds-datenrecht-und-data-act`
 
-**Frühere Beschreibung:** Sachbereich Datenrecht und Data Act im Geschaeftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
+**Fokus:** Sachbereich Datenrecht und Data Act im Geschaeftsbereich BMDS: Normbestand (Data Act (EU); Data Governance Act (EU); BDSG; IFG; UIG.); Akteure (BMDS; BfDI; ggf. Datenmittlerdienste-Aufsicht; BNetzA.); EU-Bezug (Data Act; Data Governance Act; Open Data RL.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
 
 # Datenrecht und Data Act (BMDS)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmds-digitale-verwaltung-ozg-und-egovg`
 
-**Frühere Beschreibung:** Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschaeftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
+**Fokus:** Sachbereich Digitale Verwaltung (OZG; EGovG) im Geschaeftsbereich BMDS: Normbestand (OZG; OZG-AeG; EGovG; EGovG-Laender; eIDAS-DurchG; XOeV.); Akteure (BMDS; ITZBund; FITKO; Laender-CIOs; Bundesdruckerei.); EU-Bezug (Single Digital Gateway; eIDAS 2.0; EU Digital Wallet.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmds (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmds (Heranfuehrung).
 
 # Digitale Verwaltung (OZG; EGovG) (BMDS)
 

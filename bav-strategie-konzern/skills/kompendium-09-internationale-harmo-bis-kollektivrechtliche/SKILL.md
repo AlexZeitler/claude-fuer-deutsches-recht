@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-internationale-harmo-bis-kollektivrechtliche
-description: "bav-strategie-konzern: Konsolidiertes Skill-Kompendium 09; bündelt 3 frühere Spezialskills (internationale-harmonisierung-konzern-bav, japan-bav-und-corporate-pension-iorp, kollektivrechtliche-loesungen-und-sozialplan) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bav-strategie-konzern: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Internationale Harmonisierung Konzern Bav, Japan Bav Und Corporate Pension Iorp, Kollektivrechtliche Loesungen Und Sozialplan; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - bav-strategie-konzern
+# Arbeitsbereich - Internationale Harmonisierung Konzern Bav, Japan Bav Und Corporate Pension Iorp, Kollektivrechtliche Loesungen Und Sozialplan
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `internationale-harmonisierung-konzern-bav` | Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme). |
 | `japan-bav-und-corporate-pension-iorp` | Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `internationale-harmonisierung-konzern-bav`
 
-**Frühere Beschreibung:** Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme).
+**Fokus:** Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme).
 
 # Internationale Harmonisierung Konzern-BAV
 
@@ -208,7 +208,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 2. `japan-bav-und-corporate-pension-iorp`
 
-**Frühere Beschreibung:** Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung.
+**Fokus:** Japanisches betriebliches Altersversorgungssystem und IORP-Vergleich für europaeische Konzerne. Normen: IORP-II, japanisches Pensionsrecht DB-Pensions-Act. Prüfraster: Leistungsunterschiede, Finanzierungsanforderungen, Konvergenz. Output: Vergleichsanalyse Japan-bAV vs. EU-IORP. Abgrenzung: nicht Expatriate-Planung.
 
 # Japan BAV und Corporate Pension — Deutsch-Japanische Perspektive
 
@@ -398,7 +398,7 @@ Quellenregel: Keine Kommentar-, Handbuch- oder Aufsatzfundstellen aus Modellwiss
 
 ## 3. `kollektivrechtliche-loesungen-und-sozialplan`
 
-**Frühere Beschreibung:** Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung.
+**Fokus:** Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung.
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen
 

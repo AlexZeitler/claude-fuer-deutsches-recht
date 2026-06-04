@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-strafbefehl-strafzum-bis-strafrahmen-und-stra
-description: "strafzumessung: Konsolidiertes Skill-Kompendium 13; bündelt 3 frühere Spezialskills (strafbefehl-strafzumessung-407-stpo, strafmilderung-49-stgb-zwingend-fakultativ, strafrahmen-und-strafzumessungsstufen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strafzumessung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - strafzumessung
+# Arbeitsbereich - Strafbefehl Strafzumessung 407 Stpo, Strafmilderung 49 Stgb Zwingend Fakultativ, Strafrahmen Und Strafzumessungsstufen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `strafbefehl-strafzumessung-407-stpo` | Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO. |
 | `strafmilderung-49-stgb-zwingend-fakultativ` | Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persoenliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `strafbefehl-strafzumessung-407-stpo`
 
-**Frühere Beschreibung:** Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO.
+**Fokus:** Strafzumessung im Strafbefehl § 407 StPO. Strafrahmen Strafbefehl bis 360 Tagessaetze Geldstrafe; Freiheitsstrafe bis 1 Jahr nur mit Bewaehrung und nur bei Pflichtverteidiger. Pauschalisierung der Strafzumessung. Tagessatzhoehe oft schaetzungsweise. Verteidigungs-Strategie bei zu hoher Strafe: Einspruch oder beschraenkter Einspruch § 410 Abs. 2 StPO.
 
 # Strafzumessung im Strafbefehlsverfahren — § 407 StPO
 
@@ -131,7 +131,7 @@ Im Strafbefehlsverfahren wird die Strafzumessung haeufig **pauschal** vorgenomme
 
 ## 2. `strafmilderung-49-stgb-zwingend-fakultativ`
 
-**Frühere Beschreibung:** Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persoenliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung.
+**Fokus:** Strafmilderung nach § 49 StGB. Abs. 1 zwingende Milderung mit konkreten Bezugsgroessen Hoechstmass 3/4 Mindeststrafe ermaessigt; bei lebenslang 3 bis 15 Jahre. Abs. 2 fakultative Milderung bis zum gesetzlichen Mindestmass. Anwendungsfaelle Versuch § 23 Abs. 2, Beihilfe § 27 Abs. 2, persoenliche Merkmale § 28 Abs. 1, verminderte Schuldfaehigkeit § 21, Verbotsirrtum § 17, TOA § 46a. Mehrfachmilderung.
 
 # Strafmilderung — § 49 StGB
 
@@ -237,7 +237,7 @@ Das Gericht kann nach pflichtgemaessem Ermessen die Strafe **bis zum gesetzliche
 
 ## 3. `strafrahmen-und-strafzumessungsstufen`
 
-**Frühere Beschreibung:** Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung.
+**Fokus:** Strafrahmen-Logik vor der konkreten Zumessung. Aufbau abstrakter Strafrahmen aus Grundtatbestand, Qualifikation, Privilegierung. Modifikationen durch Regelbeispiele und minder schweren Fall. Verschiebung durch §§ 49 Abs. 1 23 Abs. 2 28 Abs. 1 StGB. Aufbau konkreter Strafrahmen, Ableitung der konkreten Strafe nach § 46 StGB. Schnittstelle Strafmilderung und Strafzumessung.
 
 # Strafrahmen und Strafzumessungsstufen
 

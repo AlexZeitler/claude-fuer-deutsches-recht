@@ -1,17 +1,17 @@
 ---
 name: kompendium-13-konfliktverteidigung-bis-opfer-und-nebenklage
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 13; bündelt 5 frühere Spezialskills (konfliktverteidigung-sitzung-ordnung, konfliktverteidigung-souveraen, korruptionsdelikte-amtstraeger-und-healthcare, mandanten-oder-beteiligtenkommunikation, opfer-und-nebenklage-kommunikation) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Konfliktverteidigung Sitzung Ordnung, Konfliktverteidigung Souveraen, Korruptionsdelikte Amtstraeger Und Healthcare, Mandanten Oder Beteiligtenkommunikation und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 13 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Konfliktverteidigung Sitzung Ordnung bis Opfer Und Nebenklage Kommunikation
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `konfliktverteidigung-sitzung-ordnung` | Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt. |
 | `konfliktverteidigung-souveraen` | Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `konfliktverteidigung-sitzung-ordnung`
 
-**Frühere Beschreibung:** Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Anstrengende Verteidigung in der Sitzung: souverän bleiben: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Anstrengende Verteidigung in der Sitzung: souverän bleiben
 
@@ -79,7 +79,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 2. `konfliktverteidigung-souveraen`
 
-**Frühere Beschreibung:** Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Umgang mit harter Verteidigung: Praxis-Skill für neue Staatsanwälte zu konfliktive Verteidigung nicht persönlich nehmen, prozessuale Rechte respektieren und trotzdem Verfahrensleitung stützen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Umgang mit harter Verteidigung
 
@@ -129,7 +129,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 3. `korruptionsdelikte-amtstraeger-und-healthcare`
 
-**Frühere Beschreibung:** Korruption: Amtsträger, Healthcare und Unternehmen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Korruption: Amtsträger, Healthcare und Unternehmen: Praxis-Skill für neue Staatsanwältinnen und Staatsanwälte mit StPO-/RiStBV-Check, Beweislogik, Verfügungsvorschlag und nächstem Schritt.
 
 # Korruption: Amtsträger, Healthcare und Unternehmen
 
@@ -178,7 +178,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 4. `mandanten-oder-beteiligtenkommunikation`
 
-**Frühere Beschreibung:** Beteiligtenkommunikation: Praxis-Skill für neue Staatsanwälte zu übersetzt das Ergebnis in klare, taktisch sichere Kommunikation; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Beteiligtenkommunikation: Praxis-Skill für neue Staatsanwälte zu übersetzt das Ergebnis in klare, taktisch sichere Kommunikation; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Beteiligtenkommunikation
 
@@ -228,7 +228,7 @@ Keine erfundenen Fundstellen. Rechtsprechung nur mit Gericht, Entscheidungsdatum
 
 ## 5. `opfer-und-nebenklage-kommunikation`
 
-**Frühere Beschreibung:** Opfer, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte zu Verletztenrechte, Informationsrechte, Schutzmaßnahmen und Nebenklage ohne Rollenvermischung berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
+**Fokus:** Opfer, Nebenklage und Adhäsion: Praxis-Skill für neue Staatsanwälte zu Verletztenrechte, Informationsrechte, Schutzmaßnahmen und Nebenklage ohne Rollenvermischung berücksichtigen; mit Datenschutz-/Aktengeheimniswarnung, RiStBV-/StPO-Quellencheck, Verfügungsvorschlag und nächstem Schritt.
 
 # Opfer, Nebenklage und Adhäsion
 

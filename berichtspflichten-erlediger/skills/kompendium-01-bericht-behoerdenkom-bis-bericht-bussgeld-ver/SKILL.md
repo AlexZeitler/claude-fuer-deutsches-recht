@@ -1,17 +1,17 @@
 ---
 name: kompendium-01-bericht-behoerdenkom-bis-bericht-bussgeld-ver
-description: "berichtspflichten-erlediger: Konsolidiertes Skill-Kompendium 01; bündelt 3 frühere Spezialskills (bericht-behoerdenkommunikation-fristverlaengerung, berichtspflichten-register-und-fristenboard, bericht-bussgeld-vermeidung-heilung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "berichtspflichten-erlediger: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Bericht Behoerdenkommunikation Fristverlaengerung, Berichtspflichten Register Und Fristenboard, Bericht Bussgeld Vermeidung Heilung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 01 - berichtspflichten-erlediger
+# Arbeitsbereich - Bericht Behoerdenkommunikation Fristverlaengerung, Berichtspflichten Register Und Fristenboard, Bericht Bussgeld Vermeidung Heilung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `bericht-behoerdenkommunikation-fristverlaengerung` | Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis. |
 | `berichtspflichten-register-und-fristenboard` | Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `bericht-behoerdenkommunikation-fristverlaengerung`
 
-**Frühere Beschreibung:** Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis.
+**Fokus:** Saubere Behördenkommunikation bei Berichtspflichten: Rückfrage, Fristverlängerung, Korrektur, Nichtzuständigkeit und Nachweis.
 
 # Behördenkommunikation und Fristverlängerung
 
@@ -74,7 +74,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 2. `berichtspflichten-register-und-fristenboard`
 
-**Frühere Beschreibung:** Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht.
+**Fokus:** Zentrales Fristen- und Zuständigkeitsboard für wiederkehrende Unternehmensmeldungen: Statistik, Steuer, Sozialversicherung, Umwelt, Produkt, Lieferkette und Aufsicht.
 
 # Register und Fristenboard für Berichtspflichten
 
@@ -113,7 +113,7 @@ Keine Rechtsprechung aus Modellwissen zitieren. Wenn eine Entscheidung gebraucht
 
 ## 3. `bericht-bussgeld-vermeidung-heilung`
 
-**Frühere Beschreibung:** Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix.
+**Fokus:** Verspätete/falsche Meldungen: Selbstkorrektur, Fristverlängerung, Anhörung, Bußgeldabwehr und Governance-Fix.
 
 # Bußgeldvermeidung und Heilung
 

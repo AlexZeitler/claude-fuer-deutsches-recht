@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-registersperre-und-c-bis-todesfall-gesellscha
-description: "handelsregister-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 3 frühere Spezialskills (registersperre-und-closing-risiko, sitz-inlandsanschrift-und-geschaeftsanschrift, todesfall-gesellschafter-register) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "handelsregister-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Registersperre Und Closing Risiko, Sitz Inlandsanschrift Und Geschaeftsanschrift, Todesfall Gesellschafter Register; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - handelsregister-praxis
+# Arbeitsbereich - Registersperre Und Closing Risiko, Sitz Inlandsanschrift Und Geschaeftsanschrift, Todesfall Gesellschafter Register
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `registersperre-und-closing-risiko` | Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug. |
 | `sitz-inlandsanschrift-und-geschaeftsanschrift` | Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `registersperre-und-closing-risiko`
 
-**Frühere Beschreibung:** Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug.
+**Fokus:** Bewertet Sperrwirkung, einstweilige Verfügung, Gesellschafterlistenkonflikt und Alternativvollzug.
 
 # Registersperre als Deal-Risiko
 
@@ -62,7 +62,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 2. `sitz-inlandsanschrift-und-geschaeftsanschrift`
 
-**Frühere Beschreibung:** Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung.
+**Fokus:** Prüft Satzungssitz, inländische Geschäftsanschrift, Empfangsbevollmächtigte, Briefkastenrisiken und Registereintragung.
 
 # Sitz, Geschäftsanschrift, Zustellung
 
@@ -96,7 +96,7 @@ Arbeite wie ein ruhiger, sehr erfahrener Praxisbegleiter. Beginne nicht mit eine
 
 ## 3. `todesfall-gesellschafter-register`
 
-**Frühere Beschreibung:** Prüft Erbnachweis, Sonderrechtsnachfolge, Testamentsvollstrecker, Liste und Registerkommunikation.
+**Fokus:** Prüft Erbnachweis, Sonderrechtsnachfolge, Testamentsvollstrecker, Liste und Registerkommunikation.
 
 # Todesfall eines Gesellschafters
 

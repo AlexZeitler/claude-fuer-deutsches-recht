@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-gesellschaftsgruende-bis-gesellschaftsgruende
-description: "gesellschaftsgruender: Konsolidiertes Skill-Kompendium 09; bündelt 5 frühere Spezialskills (gesellschaftsgruender-freiberufler-partg-mbb, gesellschaftsgruender-gbr-zu-ohg-statuswechsel, gesellschaftsgruender-genehmigtes-kapital, gesellschaftsgruender-genossenschaft-eg, gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gesellschaftsgruender: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Gesellschaftsgruender Freiberufler Partg Mbb, Gesellschaftsgruender Gbr Zu Ohg Statuswechsel, Gesellschaftsgruender Genehmigtes Kapital, Gesellschaftsgruender Genossenschaft Eg und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - gesellschaftsgruender
+# Arbeitsbereich - Gesellschaftsgruender Freiberufler Partg Mbb bis Gesellschaftsgruender Geschaeftsfuehrer Pflichten Startphase
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `gesellschaftsgruender-freiberufler-partg-mbb` | Prüft Freiberuflerstrukturen, PartG, PartG mbB, Berufshaftpflicht und Berufsrecht. |
 | `gesellschaftsgruender-gbr-zu-ohg-statuswechsel` | Prüft MoPeG-Statuswechsel von eGbR zu OHG/KG bei wachsendem Geschäftsbetrieb. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `gesellschaftsgruender-freiberufler-partg-mbb`
 
-**Frühere Beschreibung:** Prüft Freiberuflerstrukturen, PartG, PartG mbB, Berufshaftpflicht und Berufsrecht.
+**Fokus:** Prüft Freiberuflerstrukturen, PartG, PartG mbB, Berufshaftpflicht und Berufsrecht.
 
 # Freiberufler, PartG und PartG mbB
 
@@ -93,7 +93,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 2. `gesellschaftsgruender-gbr-zu-ohg-statuswechsel`
 
-**Frühere Beschreibung:** Prüft MoPeG-Statuswechsel von eGbR zu OHG/KG bei wachsendem Geschäftsbetrieb.
+**Fokus:** Prüft MoPeG-Statuswechsel von eGbR zu OHG/KG bei wachsendem Geschäftsbetrieb.
 
 # GbR zu OHG Statuswechsel
 
@@ -156,7 +156,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 3. `gesellschaftsgruender-genehmigtes-kapital`
 
-**Frühere Beschreibung:** Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG.
+**Fokus:** Genehmigtes Kapital für GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Prüfraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG.
 
 # Genehmigtes Kapital (§ 55a GmbHG)
 
@@ -305,7 +305,7 @@ Die Geschäftsführung beschließt:
 
 ## 4. `gesellschaftsgruender-genossenschaft-eg`
 
-**Frühere Beschreibung:** Prüft, ob eine eG statt GmbH/GbR sinnvoll ist.
+**Fokus:** Prüft, ob eine eG statt GmbH/GbR sinnvoll ist.
 
 # Genossenschaft eG
 
@@ -368,7 +368,7 @@ Arbeite nicht abstrakt, sondern wie eine Gründungsakte mit Notar, Registergeric
 
 ## 5. `gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase`
 
-**Frühere Beschreibung:** Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abgrenzung: nicht Geschäftsführervertrag.
+**Fokus:** Pflichten des GmbH-Geschäftsführers in Gründungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchführung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Prüfraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschäftsführer Gründungsphase. Abgrenzung: nicht Geschäftsführervertrag.
 
 # Erste 100 Tage Geschäftsführer-Pflichten
 

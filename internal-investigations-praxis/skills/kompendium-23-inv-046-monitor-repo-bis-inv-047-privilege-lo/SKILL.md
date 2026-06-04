@@ -1,33 +1,33 @@
 ---
 name: kompendium-23-inv-046-monitor-repo-bis-inv-047-privilege-lo
-description: "internal-investigations-praxis: Konsolidiertes Skill-Kompendium 23; bündelt 2 frühere Spezialskills (inv-046-monitor-reporting, inv-047-privilege-log) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "internal-investigations-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Inv 046 Monitor Reporting, Inv 047 Privilege Log; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - internal-investigations-praxis
+# Arbeitsbereich - Inv 046 Monitor Reporting, Inv 047 Privilege Log
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `inv-046-monitor-reporting` | Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie. |
 | `inv-047-privilege-log` | Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `inv-046-monitor-reporting`
 
-**Frühere Beschreibung:** Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie.
+**Fokus:** Strukturiert das Reporting an einen externen Compliance-Monitor nach DPA/NPA oder Behördenanordnung – Anforderungen, Konfliktmanagement, Exit-Strategie.
 
 # Externer Compliance-Monitor und Monitor-Reporting
 
@@ -113,7 +113,7 @@ Rechtsprechungszitate nur mit Gericht, Datum, Aktenzeichen und frei prüfbarer Q
 
 ## 2. `inv-047-privilege-log`
 
-**Frühere Beschreibung:** Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken.
+**Fokus:** Erstellt und verwaltet das Privilege-Log für privilegierte Untersuchungsdokumente – FRCP Rule 26(b)(5), deutsche Schutzstandards, Waiver-Risiken.
 
 # Privilege-Log in Internal Investigations
 

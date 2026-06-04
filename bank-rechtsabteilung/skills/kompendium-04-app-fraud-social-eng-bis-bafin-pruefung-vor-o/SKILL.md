@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-app-fraud-social-eng-bis-bafin-pruefung-vor-o
-description: "bank-rechtsabteilung: Konsolidiertes Skill-Kompendium 04; bündelt 5 frühere Spezialskills (app-fraud-social-engineering-bank, aufsichtsrat-vorlage-bank, avalrahmenlinie-kautionsaval-praxis, bafin-kommunikation-und-anhoerung, bafin-pruefung-vor-ort-management) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "bank-rechtsabteilung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu App Fraud Social Engineering Bank, Aufsichtsrat Vorlage Bank, Avalrahmenlinie Kautionsaval Praxis, Bafin Kommunikation Und Anhoerung und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - bank-rechtsabteilung
+# Arbeitsbereich - App Fraud Social Engineering Bank bis Bafin Pruefung Vor Ort Management
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `app-fraud-social-engineering-bank` | APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen: Kundenschutz, Warnpflichten, PSD2/BGB-Haftung, SCA, Empfängerbank, Freeze, Recall und Prozessstrategie. |
 | `aufsichtsrat-vorlage-bank` | Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `app-fraud-social-engineering-bank`
 
-**Frühere Beschreibung:** APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen: Kundenschutz, Warnpflichten, PSD2/BGB-Haftung, SCA, Empfängerbank, Freeze, Recall und Prozessstrategie.
+**Fokus:** APP-Fraud, PushTAN und Social Engineering aus Bankensicht prüfen: Kundenschutz, Warnpflichten, PSD2/BGB-Haftung, SCA, Empfängerbank, Freeze, Recall und Prozessstrategie.
 
 # APP-Fraud Bank
 
@@ -136,7 +136,7 @@ Vor Ausgabe prüfen:
 
 ## 2. `aufsichtsrat-vorlage-bank`
 
-**Frühere Beschreibung:** Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up.
+**Fokus:** Aufsichtsrats- und Ausschussvorlagen einer Bank vorbereiten: Informationspflicht, Beschlusskompetenz, Risikoausschuss, Prüfungsausschuss, Vertraulichkeit, Protokollfestigkeit und Follow-up.
 
 # Aufsichtsrat und Ausschüsse
 
@@ -251,7 +251,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 3. `avalrahmenlinie-kautionsaval-praxis`
 
-**Frühere Beschreibung:** Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren.
+**Fokus:** Avalrahmen und Kautionsaval in der Bankpraxis prüfen: Kreditgeschäft, Avalprovision, Limit, Sicherheiten, Abrufrisiko, Text der Garantie/Bürgschaft, § 1 KWG, §§ 765 ff. BGB, §§ 349 und 350 HGB und Regress sauber dokumentieren.
 
 # Avalrahmenlinie und Kautionsaval
 
@@ -348,7 +348,7 @@ Liefere eine **Avalfreigabe-Notiz**:
 
 ## 4. `bafin-kommunikation-und-anhoerung`
 
-**Frühere Beschreibung:** BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren.
+**Fokus:** BaFin-Kommunikation und Anhörung: Antwortstrategie, Tonfall, Tatsachenklärung, Fristen, Vollständigkeit, Anerkenntnisrisiken, Aufsichtsdialog und Vorstandsinformation für Banken strukturieren.
 
 # BaFin-Anhörung und Aufsichtsschreiben
 
@@ -463,7 +463,7 @@ Nutze vor tragenden Aussagen bevorzugt amtliche oder frei zugängliche Quellen: 
 
 ## 5. `bafin-pruefung-vor-ort-management`
 
-**Frühere Beschreibung:** Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen.
+**Fokus:** Vor-Ort-Prüfung, Sonderprüfung oder Aufsichtsprüfung in der Bank vorbereiten: Datenraum, Interviewliste, Kommunikationsregeln, Prüfungslog, Legal Privilege, Nachlieferungen und Abschlussbericht managen.
 
 # Prüfung vor Ort managen
 

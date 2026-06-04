@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-pe-063-arbeitsrecht-bis-pe-066-insurance-dd
-description: "private-equity-praxis: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (pe-063-arbeitsrecht-betriebsrat-pe, pe-064-regulatory-sector-dd, pe-065-anti-bribery-compliance-dd, pe-066-insurance-dd-und-risk) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "private-equity-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Pe 063 Arbeitsrecht Betriebsrat Pe, Pe 064 Regulatory Sector Dd, Pe 065 Anti Bribery Compliance Dd, Pe 066 Insurance Dd Und Risk; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - private-equity-praxis
+# Arbeitsbereich - Pe 063 Arbeitsrecht Betriebsrat Pe bis Pe 066 Insurance Dd Und Risk
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `pe-063-arbeitsrecht-betriebsrat-pe` | Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken. |
 | `pe-064-regulatory-sector-dd` | Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `pe-063-arbeitsrecht-betriebsrat-pe`
 
-**Frühere Beschreibung:** Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken.
+**Fokus:** Prüft Betriebsübergang, Betriebsrat, Tarifbindung, Incentives, Kündigungen, Change of Control und HR-Risiken.
 
 # Arbeitsrecht, Betriebsrat und Managementwechsel
 
@@ -70,7 +70,7 @@ BGB § 613a, BetrVG, KSchG, AGG, Mitbestimmung, Datenschutz.
 
 ## 2. `pe-064-regulatory-sector-dd`
 
-**Frühere Beschreibung:** Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur.
+**Fokus:** Prüft sektorregulierte Targets: Bank, FinTech, Energie, Medizin, Telekom, Verkehr, Verteidigung, Infrastruktur.
 
 # Regulatory Sector DD
 
@@ -111,7 +111,7 @@ KWG/ZAG/MiCAR, EnWG, SGB V, TKG, AWV, BNetzA/BaFin.
 
 ## 3. `pe-065-anti-bribery-compliance-dd`
 
-**Frühere Beschreibung:** Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken.
+**Fokus:** Prüft Korruption, Kartell, Sanktionen, Whistleblowing, interne Untersuchungen und Compliance-Risiken.
 
 # ABC/Compliance DD
 
@@ -152,7 +152,7 @@ StGB, OWiG, HinSchG, GwG, Sanktionen, Lieferkette.
 
 ## 4. `pe-066-insurance-dd-und-risk`
 
-**Frühere Beschreibung:** Prüft Versicherungsschutz, Claims, D&O, Cyber, Produkthaftung, W&I und Post-Closing-Deckung.
+**Fokus:** Prüft Versicherungsschutz, Claims, D&O, Cyber, Produkthaftung, W&I und Post-Closing-Deckung.
 
 # Insurance DD und Risk Allocation
 

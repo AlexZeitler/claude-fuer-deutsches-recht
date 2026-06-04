@@ -1,17 +1,17 @@
 ---
 name: kompendium-14-vbr-049-online-shop-bis-vbr-052-marketplace
-description: "verbraucherschutzrecht-pruefer: Konsolidiertes Skill-Kompendium 14; bündelt 4 frühere Spezialskills (vbr-049-online-shop-vergleich-vorschlagen, vbr-050-online-shop-behoerdenmeldung-pruefen, vbr-051-marketplace-anspruch-pruefen, vbr-052-marketplace-widerruf-formulieren) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzrecht-pruefer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vbr 049 Online Shop Vergleich Vorschlagen, Vbr 050 Online Shop Behoerdenmeldung Pruefen, Vbr 051 Marketplace Anspruch Pruefen, Vbr 052 Marketplace Widerruf Formulieren; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - verbraucherschutzrecht-pruefer
+# Arbeitsbereich - Vbr 049 Online Shop Vergleich Vorschlagen bis Vbr 052 Marketplace Widerruf Formulieren
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vbr-049-online-shop-vergleich-vorschlagen` | Verbraucherschutzrecht Prüfer: Online-Shop: Vergleich vorschlagen. Vergleich vorschlagen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `vbr-050-online-shop-behoerdenmeldung-pruefen` | Verbraucherschutzrecht Prüfer: Online-Shop: Behördenmeldung prüfen. Behördenmeldung prüfen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vbr-049-online-shop-vergleich-vorschlagen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Online-Shop: Vergleich vorschlagen. Vergleich vorschlagen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Online-Shop: Vergleich vorschlagen. Vergleich vorschlagen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Online Shop Vergleich Vorschlagen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vbr-050-online-shop-behoerdenmeldung-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Online-Shop: Behördenmeldung prüfen. Behördenmeldung prüfen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Online-Shop: Behördenmeldung prüfen. Behördenmeldung prüfen für Online-Shop im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Online Shop Behoerdenmeldung Pruefen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vbr-051-marketplace-anspruch-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: Anspruch prüfen. Anspruch prüfen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: Anspruch prüfen. Anspruch prüfen für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Anspruch Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vbr-052-marketplace-widerruf-formulieren`
 
-**Frühere Beschreibung:** Verbraucherschutzrecht Prüfer: Marketplace: Widerruf formulieren. Widerruf formulieren für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Verbraucherschutzrecht Prüfer: Marketplace: Widerruf formulieren. Widerruf formulieren für Marketplace im Rahmen von Verbraucherschutzrecht Prüfer; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Marketplace Widerruf Formulieren
 

@@ -1,33 +1,33 @@
 ---
 name: kompendium-14-erbbaurecht-nutzungs-bis-erbbaurecht-rangruec
-description: "erbbaurecht-praxis: Konsolidiertes Skill-Kompendium 14; bündelt 2 frühere Spezialskills (erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial, erbbaurecht-rangruecktritt-bank) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "erbbaurecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Erbbaurecht Nutzungszweckwechsel Wohnen Gewerbe Sozial, Erbbaurecht Rangruecktritt Bank; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 14 - erbbaurecht-praxis
+# Arbeitsbereich - Erbbaurecht Nutzungszweckwechsel Wohnen Gewerbe Sozial, Erbbaurecht Rangruecktritt Bank
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial` | Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel. |
 | `erbbaurecht-rangruecktritt-bank` | Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `erbbaurecht-nutzungszweckwechsel-wohnen-gewerbe-sozial`
 
-**Frühere Beschreibung:** Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel.
+**Fokus:** Prüft Nutzungszweck, baurechtliche und vertragliche Grenzen, Zustimmungserfordernisse, Erbbauzinsanpassung und Heimfallrisiko bei einem Zweckwechsel.
 
 # Nutzungszweckwechsel Wohnen/Gewerbe/Sozialimmobilie
 
@@ -61,7 +61,7 @@ Arbeite fallnah und lösungsorientiert. Kläre zuerst, welches Dokument, welches
 
 ## 2. `erbbaurecht-rangruecktritt-bank`
 
-**Frühere Beschreibung:** Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation.
+**Fokus:** Prüft Eigentümerzustimmung, Erbbauzinsrang, Finanzierungssicherheit und Heimfallkompensation.
 
 # Rangrücktritt zugunsten Bank
 

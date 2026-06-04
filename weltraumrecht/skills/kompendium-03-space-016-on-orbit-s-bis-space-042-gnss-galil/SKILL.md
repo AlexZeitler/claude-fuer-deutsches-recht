@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-space-016-on-orbit-s-bis-space-042-gnss-galil
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (space-016-on-orbit-servicing-andocken-reparatur-und-haftung, space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-ag, space-034-sanktionen-raumfahrtkooperation-russland-china-iran, space-042-gnss-galileo-haftung-und-dienstqualitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 016 On Orbit Servicing Andocken Reparatur Und Haftung, Space 025 Weltraumtourismus Verbraucherrecht Haftungsverzicht Ag, Space 034 Sanktionen Raumfahrtkooperation Russland China Iran, Space 042 Gnss Galileo Haftung Und Dienstqualitaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - weltraumrecht
+# Arbeitsbereich - Space 016 On Orbit Servicing Andocken Reparatur Und Haftung bis Space 042 Gnss Galileo Haftung Und Dienstqualitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-016-on-orbit-servicing-andocken-reparatur-und-haftung` | On-Orbit Servicing (OOS) – rechtliche Qualifikation, Andockgenehmigung, Haftung, Eigentumsübergang. |
 | `space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-ag` | Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-016-on-orbit-servicing-andocken-reparatur-und-haftung`
 
-**Frühere Beschreibung:** On-Orbit Servicing (OOS) – rechtliche Qualifikation, Andockgenehmigung, Haftung, Eigentumsübergang.
+**Fokus:** On-Orbit Servicing (OOS) – rechtliche Qualifikation, Andockgenehmigung, Haftung, Eigentumsübergang.
 
 # Weltraumrecht: On-Orbit Servicing: Andocken, Reparatur und Haftung
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: On-Orbit Servicing, Andockhaftung
 
 ## 2. `space-025-weltraumtourismus-verbraucherrecht-haftungsverzicht-ag`
 
-**Frühere Beschreibung:** Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen.
+**Fokus:** Weltraumtourismus – Informed Consent, AGB-Haftungsausschluss, Verbraucherschutz, FAA-Anforderungen.
 
 # Weltraumrecht: Weltraumtourismus: Verbraucherrecht, Haftungsverzicht, AGB
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Weltraumtourismus, Informed Conse
 
 ## 3. `space-034-sanktionen-raumfahrtkooperation-russland-china-iran`
 
-**Frühere Beschreibung:** Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance.
+**Fokus:** Sanktionen und Raumfahrt – EU/US-Sanktionsregime, ISS-Zukunft, Straftatbestände, Compliance.
 
 # Weltraumrecht: Sanktionen: Raumfahrtkooperation Russland, China, Iran
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Sanktionen Raumfahrt, Russland IS
 
 ## 4. `space-042-gnss-galileo-haftung-und-dienstqualitaet`
 
-**Frühere Beschreibung:** Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang.
+**Fokus:** Galileo-Haftungsrecht – Signalausfall, SLA, Nutzerhaftung, PRS-Zugang.
 
 # Weltraumrecht: GNSS/Galileo: Haftung und Dienstqualität
 

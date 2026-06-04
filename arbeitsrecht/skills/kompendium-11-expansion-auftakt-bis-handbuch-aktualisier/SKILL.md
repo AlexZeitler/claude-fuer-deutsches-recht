@@ -1,17 +1,17 @@
 ---
 name: kompendium-11-expansion-auftakt-bis-handbuch-aktualisier
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 11; bündelt 4 frühere Spezialskills (expansion-auftakt, fehlzeit-erfassen, fehlzeiten-register, handbuch-aktualisierung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Expansion Auftakt, Fehlzeit Erfassen, Fehlzeiten Register, Handbuch Aktualisierung; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 11 - arbeitsrecht
+# Arbeitsbereich - Expansion Auftakt bis Handbuch Aktualisierung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `expansion-auftakt` | Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein", "Expansion nach [Land]" oder "erste Einstellung in [Land]". |
 | `fehlzeit-erfassen` | Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `expansion-auftakt`
 
-**Frühere Beschreibung:** Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein", "Expansion nach [Land]" oder "erste Einstellung in [Land]".
+**Fokus:** Startet die Planung einer Neueinstellung in einem weiteren Bundesland oder einem neuen Zielland — erhebt die relevanten Eckdaten, rahmt die Entscheidung AÜG-Modell / EOR / eigene Gesellschaft, entwirft abteilungsübergreifende Fragen und legt einen persistenten Tracker an. Lädt, wenn jemand sagt "wir stellen in [Land/Region] ein", "Expansion nach [Land]" oder "erste Einstellung in [Land]".
 
 # Expansions-Kickoff (Arbeitsrecht)
 
@@ -203,7 +203,7 @@ Hinweis: Dieser Skill ersetzt keine anwaltliche Beratung im konkreten Einzelfall
 
 ## 2. `fehlzeit-erfassen`
 
-**Frühere Beschreibung:** Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag.
+**Fokus:** Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag.
 
 # /arbeitsrecht:fehlzeit-erfassen
 
@@ -348,7 +348,7 @@ Anmeldung liegt schriftlich vor (10.12.2024). Rückkehr geplant 01.02.2026.
 
 ## 3. `fehlzeiten-register`
 
-**Frühere Beschreibung:** Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard.
+**Fokus:** Überprüft offene Abwesenheiten und Fristen – Urlaubsanspruch (BUrlG), Entgeltfortzahlung (EFZG), Mutterschutz (MuSchG), Elternzeit (BEEG). Zeigt nur Abwesenheiten, bei denen eine Entscheidung oder Handlung erforderlich ist – kein reines Statusboard.
 
 # /arbeitsrecht:fehlzeiten-register
 
@@ -476,7 +476,7 @@ Aktive Abwesenheiten: 8 gesamt | Handlungsbedarf: 2
 
 ## 4. `handbuch-aktualisierung`
 
-**Frühere Beschreibung:** Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren", "neue Regelung einpflegen" oder "Richtlinie ändern".
+**Fokus:** Prüft eine geplante Änderung des Personalhandbuchs auf Folgewirkungen — andere betroffene Regelungen, standortspezifische Besonderheiten nach Tarifvertrag oder Betriebsvereinbarung, Mitbestimmungsrechte des Betriebsrats und die Frage, ob ein bestehendes Leistungsversprechen beschnitten wird. Lädt, wenn jemand sagt "Handbuch aktualisieren", "neue Regelung einpflegen" oder "Richtlinie ändern".
 
 # Personalhandbuch-Aktualisierung (Arbeitsrecht)
 

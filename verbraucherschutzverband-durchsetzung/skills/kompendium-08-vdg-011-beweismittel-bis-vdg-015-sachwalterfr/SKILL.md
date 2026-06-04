@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-vdg-011-beweismittel-bis-vdg-015-sachwalterfr
-description: "verbraucherschutzverband-durchsetzung: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (vdg-011-beweismittel-offenlegung-nutzen, vdg-012-kommunikation-an-verbraucher, vdg-013-vergleich-und-austritt-pruefen, vdg-015-sachwalterfragen-vorbereiten) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verbraucherschutzverband-durchsetzung: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vdg 011 Beweismittel Offenlegung Nutzen, Vdg 012 Kommunikation An Verbraucher, Vdg 013 Vergleich Und Austritt Pruefen, Vdg 015 Sachwalterfragen Vorbereiten; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - verbraucherschutzverband-durchsetzung
+# Arbeitsbereich - Vdg 011 Beweismittel Offenlegung Nutzen bis Vdg 015 Sachwalterfragen Vorbereiten
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vdg-011-beweismittel-offenlegung-nutzen` | Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `vdg-012-kommunikation-an-verbraucher` | Verbraucherschutzverband Durchsetzung: Kommunikation an Verbraucher. Kommunikation an Verbraucher im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vdg-011-beweismittel-offenlegung-nutzen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Beweismittel-Offenlegung nutzen. Beweismittel-Offenlegung nutzen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Beweismittel Offenlegung Nutzen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `vdg-012-kommunikation-an-verbraucher`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Kommunikation an Verbraucher. Kommunikation an Verbraucher im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Kommunikation an Verbraucher. Kommunikation an Verbraucher im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Kommunikation An Verbraucher
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `vdg-013-vergleich-und-austritt-pruefen`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Vergleich und Austritt prüfen. Vergleich und Austritt prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Vergleich und Austritt prüfen. Vergleich und Austritt prüfen im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Vergleich Und Austritt Pruefen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `vdg-015-sachwalterfragen-vorbereiten`
 
-**Frühere Beschreibung:** Verbraucherschutzverband Durchsetzung: Sachwalterfragen vorbereiten. Sachwalterfragen vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Verbraucherschutzverband Durchsetzung: Sachwalterfragen vorbereiten. Sachwalterfragen vorbereiten im Fachgebiet Verbraucherschutzverband Durchsetzung als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Sachwalterfragen Vorbereiten
 

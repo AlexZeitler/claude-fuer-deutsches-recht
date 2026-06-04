@@ -1,17 +1,17 @@
 ---
 name: kompendium-07-legw-bmftr-kuenstlic-bis-legw-bmi-auslaender
-description: "legistik-werkstatt: Konsolidiertes Skill-Kompendium 07; bündelt 8 frühere Spezialskills (legw-bmftr-kuenstliche-intelligenz-und-technikregulierung, legw-bmftr-raumfahrt-und-weltraumrecht-wrgg, legw-bmg-arzneimittel-und-medizinprodukterecht, legw-bmg-berufsrecht-heilberufe-und-approbation, legw-bmg-infektionsschutz-und-pandemierecht und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "legistik-werkstatt: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung, Legw Bmftr Raumfahrt Und Weltraumrecht Wrgg, Legw Bmg Arzneimittel Und Medizinprodukterecht, Legw Bmg Berufsrecht Heilberufe Und Approbation und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 07 - legistik-werkstatt
+# Arbeitsbereich - Legw Bmftr Kuenstliche Intelligenz Und Technikregulierung bis Legw Bmi Auslaender Und Staatsangehoerigkeitsrecht
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `legw-bmftr-kuenstliche-intelligenz-und-technikregulierung` | Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). |
 | `legw-bmftr-raumfahrt-und-weltraumrecht-wrgg` | Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung). |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `legw-bmftr-kuenstliche-intelligenz-und-technikregulierung`
 
-**Frühere Beschreibung:** Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
+**Fokus:** Sachbereich Kuenstliche Intelligenz und Technikregulierung im Geschaeftsbereich BMFTR: Normbestand (KI-VO (EU); ProdHaftG; ProdSG; BSIG; SGB-Bezuege.); Akteure (BSI; Marktueberwachung der Laender; BNetzA; ggf. KI-Marktaufsicht.); EU-Bezug (KI-VO; AI Liability Directive (Entwurf); Data Act; DSA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
 
 # Kuenstliche Intelligenz und Technikregulierung (BMFTR)
 
@@ -115,7 +115,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 2. `legw-bmftr-raumfahrt-und-weltraumrecht-wrgg`
 
-**Frühere Beschreibung:** Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
+**Fokus:** Sachbereich Raumfahrt- und Weltraumrecht im Geschaeftsbereich BMFTR: Normbestand (WRG (Weltraumgesetz; geplant); ATG; SatDSiG; WeltraumvertraegeBGBl II.); Akteure (BMFTR; DLR; Bundeswehr (sicherheitsrelevant); ESA.); EU-Bezug (EU Space Act (in Vorbereitung); GovSatCom; Copernicus; Galileo.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmftr (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmftr (Heranfuehrung).
 
 # Raumfahrt- und Weltraumrecht (BMFTR)
 
@@ -197,7 +197,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 3. `legw-bmg-arzneimittel-und-medizinprodukterecht`
 
-**Frühere Beschreibung:** Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
+**Fokus:** Sachbereich Arzneimittel- und Medizinprodukterecht im Geschaeftsbereich BMG: Normbestand (AMG; MPG; MPDG; ApBetrO; AMNOG; MedBVSV.); Akteure (BfArM; PEI; G-BA; DIMDI/BfArM; Laender-Aufsichten.); EU-Bezug (VO 726/2004; MDR; IVDR; EMA.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
 
 # Arzneimittel- und Medizinprodukterecht (BMG)
 
@@ -279,7 +279,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 4. `legw-bmg-berufsrecht-heilberufe-und-approbation`
 
-**Frühere Beschreibung:** Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrechte.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
+**Fokus:** Sachbereich Berufsrecht der Heilberufe und Approbation im Geschaeftsbereich BMG: Normbestand (BApO; BAeOAusbV; KrPflG; PflBG; PsychThG; HebG; ZahnHeilkundeG; AppO.); Akteure (Approbationsbehoerden der Laender; Aerzte- und Zahnaerztekammern; BMG.); EU-Bezug (Berufsanerkennungs-RL; EU-Patientenrechte.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
 
 # Berufsrecht der Heilberufe und Approbation (BMG)
 
@@ -361,7 +361,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 5. `legw-bmg-infektionsschutz-und-pandemierecht`
 
-**Frühere Beschreibung:** Sachbereich Infektionsschutz und Pandemierecht im Geschaeftsbereich BMG: Normbestand (IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).); Akteure (RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.); EU-Bezug (ECDC; HERA; EU-Health Union; IGV der WHO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
+**Fokus:** Sachbereich Infektionsschutz und Pandemierecht im Geschaeftsbereich BMG: Normbestand (IfSG; IGV-AusfG; ImpfschadenAnerkennung; SGB V (Tests und Impfen).); Akteure (RKI; PEI; BMG; Laender-Gesundheitsbehoerden; Gesundheitsaemter; STIKO.); EU-Bezug (ECDC; HERA; EU-Health Union; IGV der WHO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
 
 # Infektionsschutz und Pandemierecht (BMG)
 
@@ -443,7 +443,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 6. `legw-bmg-krankenhaus-und-versorgungsstrukturrecht`
 
-**Frühere Beschreibung:** Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
+**Fokus:** Sachbereich Krankenhaus- und Versorgungsstrukturrecht im Geschaeftsbereich BMG: Normbestand (KHG; KHEntgG; BPflV; KHGes der Laender; KHVVG (Krankenhausreform).); Akteure (BMG; G-BA; InEK; Laender (Krankenhausplanung); KVen.); EU-Bezug (EU-Beihilferecht; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
 
 # Krankenhaus- und Versorgungsstrukturrecht (BMG)
 
@@ -525,7 +525,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 7. `legw-bmg-krankenversicherungs-und-leistungsrecht-sgb-v`
 
-**Frühere Beschreibung:** Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
+**Fokus:** Sachbereich Krankenversicherungs- und Leistungsrecht (SGB V) im Geschaeftsbereich BMG: Normbestand (SGB V; SGB IV (Beitragsrecht); KHEntgG; AMG-Bezuege; AMNOG.); Akteure (GKV-Spitzenverband; G-BA; KBV; KZBV; BAS; LSG.); EU-Bezug (EU-Patientenrechte-RL; HTA-VO.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmg (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmg (Heranfuehrung).
 
 # Krankenversicherungs- und Leistungsrecht (SGB V) (BMG)
 
@@ -607,7 +607,7 @@ Alle Quellen aus dem Bestand: gesetze-im-internet.de; bundestag.de; bundesrat.de
 
 ## 8. `legw-bmi-auslaender-und-staatsangehoerigkeitsrecht`
 
-**Frühere Beschreibung:** Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).); Akteure (BAMF; Auslaenderbehoerden; Bundespolizei.); EU-Bezug (GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
+**Fokus:** Sachbereich Auslaender- und Staatsangehoerigkeitsrecht im Geschaeftsbereich BMI: Normbestand (AufenthG; AsylG; StAG; FreizuegG/EU; AZRG; AsylbLG (mit BMAS).); Akteure (BAMF; Auslaenderbehoerden; Bundespolizei.); EU-Bezug (GEAS; Dublin-VO; Rueckfuehrungs-RL; Visa-Kodex; Schengen.); typische Legistik-Aufgaben und Pruefpunkte. Output Sachfeld-Kompass mit Normhierarchie; Akteurskarte; Pruefliste; Anschlusspfaden. Anschluss legw-ressortaufgaben-bmi (Aufgaben) und normhierarchie-routing (Normwahl). Abgrenzung zu legw-ressort-bmi (Heranfuehrung).
 
 # Auslaender- und Staatsangehoerigkeitsrecht (BMI)
 

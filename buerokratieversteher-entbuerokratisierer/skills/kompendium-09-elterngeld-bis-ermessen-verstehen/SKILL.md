@@ -1,17 +1,17 @@
 ---
 name: kompendium-09-elterngeld-bis-ermessen-verstehen
-description: "buerokratieversteher-entbuerokratisierer: Konsolidiertes Skill-Kompendium 09; bündelt 4 frühere Spezialskills (elterngeld, email-an-behoerde, energie-sperre-grundversorgung, ermessen-verstehen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "buerokratieversteher-entbuerokratisierer: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Elterngeld, Email An Behoerde, Energie Sperre Grundversorgung, Ermessen Verstehen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 09 - buerokratieversteher-entbuerokratisierer
+# Arbeitsbereich - Elterngeld bis Ermessen Verstehen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `elterngeld` | Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch. |
 | `email-an-behoerde` | Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `elterngeld`
 
-**Frühere Beschreibung:** Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch.
+**Fokus:** Erklärt Antrag, Bezugsmonate, Partnerschaftsbonus, Einkommen, Nachweise, Bescheid und Widerspruch.
 
 # Elterngeld
 
@@ -76,7 +76,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 2. `email-an-behoerde`
 
-**Frühere Beschreibung:** Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen.
+**Fokus:** Formuliert kurze, sachliche E-Mails an Behörden mit Aktenzeichen, Anliegen, Fristwahrung, Bitte um Eingangsbestätigung und ohne unnötige Nebentatsachen.
 
 # E-Mail an Behörde
 
@@ -116,7 +116,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 3. `energie-sperre-grundversorgung`
 
-**Frühere Beschreibung:** Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise.
+**Fokus:** Erklärt Sperrankündigung, Sozialleistung, Ratenplan, Schlichtung, Eilbedürftigkeit und Nachweise.
 
 # Energiesperre und Grundversorgung
 
@@ -156,7 +156,7 @@ Für Laien gilt: Das Plugin erklärt vorsichtig und respektvoll. Es empfiehlt be
 
 ## 4. `ermessen-verstehen`
 
-**Frühere Beschreibung:** Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz.
+**Fokus:** Ermessen der Behoerde nach § 40 VwVfG: gebundene vs. Ermessensentscheidung, Ermessensfehler, intendiertes Ermessen, Ermessensreduzierung auf Null, Begruendungspflicht und Rechtsschutz.
 
 # Ermessen verstehen
 

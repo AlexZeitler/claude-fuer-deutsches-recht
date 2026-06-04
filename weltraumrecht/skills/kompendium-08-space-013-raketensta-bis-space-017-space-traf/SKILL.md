@@ -1,17 +1,17 @@
 ---
 name: kompendium-08-space-013-raketensta-bis-space-017-space-traf
-description: "weltraumrecht: Konsolidiertes Skill-Kompendium 08; bündelt 4 frühere Spezialskills (space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec, space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta, space-015-weltraummuell-debris-mitigation-und-betreiberpflichten, space-017-space-traffic-management-und-kollisionswarnungen) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "weltraumrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec, Space 014 Absturz In Deutschland Bergung Eigentum Beweis Und Sta, Space 015 Weltraummuell Debris Mitigation Und Betreiberpflichten, Space 017 Space Traffic Management Und Kollisionswarnungen; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 08 - weltraumrecht
+# Arbeitsbereich - Space 013 Raketenstart Exportkontrolle Gefahrgut Luft Und Seerec bis Space 017 Space Traffic Management Und Kollisionswarnungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec` | Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts. |
 | `space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta` | Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `space-013-raketenstart-exportkontrolle-gefahrgut-luft-und-seerec`
 
-**Frühere Beschreibung:** Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts.
+**Fokus:** Raketenstart – ITAR/EAR/EU-Dual-Use, Gefahrgutrecht, Luftraum-Sperrung, Seerecht bei Seestarts.
 
 # Weltraumrecht: Raketenstart: Exportkontrolle, Gefahrgut, Luft- und Seerecht
 
@@ -134,7 +134,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Exportkontrolle, Gefahrgutrecht, 
 
 ## 2. `space-014-absturz-in-deutschland-bergung-eigentum-beweis-und-sta`
 
-**Frühere Beschreibung:** Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung.
+**Fokus:** Weltraumobjekt-Absturz in Deutschland – Fundrecht, Eigentumsrechte, Beweissicherung, Staatshaftung.
 
 # Weltraumrecht: Absturz in Deutschland: Bergung, Eigentum, Beweis und Staatshaftung
 
@@ -239,7 +239,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Fundrecht, Eigentumsrecht, Beweis
 
 ## 3. `space-015-weltraummuell-debris-mitigation-und-betreiberpflichten`
 
-**Frühere Beschreibung:** Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten.
+**Fokus:** Weltraummüll-Prävention – IADC-Leitlinien, 25/5-Jahres-Regel, Active Debris Removal, Betreiberpflichten.
 
 # Weltraumrecht: Weltraummüll: Debris Mitigation und Betreiberpflichten
 
@@ -344,7 +344,7 @@ Das Rechtsgebiet berührt folgende Kernthemen: Debris Mitigation, 25-Jahres-Deor
 
 ## 4. `space-017-space-traffic-management-und-kollisionswarnungen`
 
-**Frühere Beschreibung:** Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST.
+**Fokus:** Space Traffic Management (STM) – Kollisionswarnungen, Ausweichmanöver, Haftungsverteilung, EU SST.
 
 # Weltraumrecht: Space Traffic Management und Kollisionswarnungen
 

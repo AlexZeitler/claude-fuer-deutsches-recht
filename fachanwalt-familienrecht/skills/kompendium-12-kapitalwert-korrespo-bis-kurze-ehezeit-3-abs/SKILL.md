@@ -1,17 +1,17 @@
 ---
 name: kompendium-12-kapitalwert-korrespo-bis-kurze-ehezeit-3-abs
-description: "fachanwalt-familienrecht: Konsolidiertes Skill-Kompendium 12; bündelt 5 frühere Spezialskills (kapitalwert-korrespondierender-kapitalwert-pruefen, kindeswohl-hochkonflikt-wechselmodell, kirchliche-zusatzversorgung, kosten-versorgungstraeger-teilungskosten, kurze-ehezeit-3-abs-3-versausglg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "fachanwalt-familienrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Kapitalwert Korrespondierender Kapitalwert Pruefen, Kindeswohl Hochkonflikt Wechselmodell, Kirchliche Zusatzversorgung, Kosten Versorgungstraeger Teilungskosten und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 12 - fachanwalt-familienrecht
+# Arbeitsbereich - Kapitalwert Korrespondierender Kapitalwert Pruefen bis Kurze Ehezeit 3 Abs 3 Versausglg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `kapitalwert-korrespondierender-kapitalwert-pruefen` | Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte. |
 | `kindeswohl-hochkonflikt-wechselmodell` | Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `kapitalwert-korrespondierender-kapitalwert-pruefen`
 
-**Frühere Beschreibung:** Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Kapitalwert korrespondierender Kapitalwert prüfen: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Kapitalwert korrespondierender Kapitalwert prüfen
 
@@ -84,7 +84,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 2. `kindeswohl-hochkonflikt-wechselmodell`
 
-**Frühere Beschreibung:** Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
+**Fokus:** Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.; Normanker: BGB §§ 1626 und 1671 und 1684; FamFG §§ 26 und 158; fragt Unterlagen, Beweisstand, Fristen und taktische nächste Schritte konkret ab.
 
 # Hochkonflikt und Wechselmodell: Kindeswohl, Bindungstoleranz, Kontinuität, Anhörung, Verfahrensbeistand und Beweis.
 
@@ -122,7 +122,7 @@ BGB §§ 1626, 1671, 1684; FamFG §§ 26, 158. Rechtsprechung wird nur mit Geric
 
 ## 3. `kirchliche-zusatzversorgung`
 
-**Frühere Beschreibung:** Kirchliche Zusatzversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Kirchliche Zusatzversorgung: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Kirchliche Zusatzversorgung
 
@@ -176,7 +176,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 4. `kosten-versorgungstraeger-teilungskosten`
 
-**Frühere Beschreibung:** Kosten Versorgungsträger Teilungskosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Kosten Versorgungsträger Teilungskosten: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Kosten Versorgungsträger Teilungskosten
 
@@ -230,7 +230,7 @@ Am Ende kurz prüfen: Sind Fristen, Zuständigkeit, Rechtsgrundlage, Beweislast,
 
 ## 5. `kurze-ehezeit-3-abs-3-versausglg`
 
-**Frühere Beschreibung:** Kurze Ehezeit § 3 Abs 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
+**Fokus:** Kurze Ehezeit § 3 Abs 3 VersAusglG: prüft die einschlägigen Voraussetzungen, Dokumente, Risiken und Ausnahmen. Norm-/Quellenanker: VersAusglG, FamFG Scheidungsverbund und Beschwerde, SGB VI, Beamtenversorgung, BetrAVG, Versorgungsträgerauskünfte.
 
 # Kurze Ehezeit § 3 Abs 3 VersAusglG
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-23-unfallrente-56-sgb-v-bis-vergleich-vorschlag
-description: "selbstvertreter-sozialgericht: Konsolidiertes Skill-Kompendium 23; bündelt 5 frühere Spezialskills (unfallrente-56-sgb-vii, unfallversicherung-bg-anerkennung-sgb-vii, untaetigkeitsklage-88-sgg, urteil-sozialgericht-was-jetzt, vergleich-vorschlag-101-sgg) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "selbstvertreter-sozialgericht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Unfallrente 56 Sgb Vii, Unfallversicherung Bg Anerkennung Sgb Vii, Untaetigkeitsklage 88 Sgg, Urteil Sozialgericht Was Jetzt und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 23 - selbstvertreter-sozialgericht
+# Arbeitsbereich - Unfallrente 56 Sgb Vii bis Vergleich Vorschlag 101 Sgg
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `unfallrente-56-sgb-vii` | Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster. |
 | `unfallversicherung-bg-anerkennung-sgb-vii` | Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `unfallrente-56-sgb-vii`
 
-**Frühere Beschreibung:** Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster.
+**Fokus:** Unfallrente nach § 56 SGB VII. Skill klaert die Voraussetzungen Minderung der Erwerbsfaehigkeit (MdE) Rentenberechnung Stuetzfunktion und das Verhaeltnis zur EM-Rente. Liefert Pruefraster.
 
 # Unfallrente 56 Sgb Vii
 
@@ -88,7 +88,7 @@ Versicherter erhaelt Unfallrente, wenn er infolge eines Versicherungsfalls (Arbe
 
 ## 2. `unfallversicherung-bg-anerkennung-sgb-vii`
 
-**Frühere Beschreibung:** Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte.
+**Fokus:** Streit mit der Berufsgenossenschaft SGB VII. Arbeitsunfall Wegeunfall Berufskrankheit Anerkennung MdE Rente Unfallrente. Praktischer Leitfaden für Versicherte.
 
 # Streit mit der Berufsgenossenschaft — SGB VII
 
@@ -255,7 +255,7 @@ Stand: 05/2026. SGB VII aktuell. BKV jaehrlich aktualisiert. BSG-Linie zu BK-Ane
 
 ## 3. `untaetigkeitsklage-88-sgg`
 
-**Frühere Beschreibung:** Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger.
+**Fokus:** Die Untätigkeitsklage nach § 88 SGG. Wenn die Behoerde nichts tut nach 6 Monaten oder Widerspruchsbehoerde nach 3 Monaten. Mustertext und Praxis für Buerger.
 
 # Wenn die Behoerde nichts tut — Untaetigkeitsklage § 88 SGG
 
@@ -417,7 +417,7 @@ Stand: 05/2026. § 88 SGG aktuell. Lange Bearbeitungszeiten bei MD-Pruefungen of
 
 ## 4. `urteil-sozialgericht-was-jetzt`
 
-**Frühere Beschreibung:** Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger.
+**Fokus:** Sie haben das Urteil des SG bekommen. Was bedeutet das was sind die naechsten Schritte. Berufung Revision oder akzeptieren. Praxis für Buerger.
 
 # Sie haben das Urteil bekommen — was jetzt?
 
@@ -549,7 +549,7 @@ Stand: 05/2026. SGG aktuell.
 
 ## 5. `vergleich-vorschlag-101-sgg`
 
-**Frühere Beschreibung:** Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin.
+**Fokus:** Vergleich im Sozialprozess § 101 SGG. Was bedeutet das wann lohnt es sich worauf achten Bedenkzeit Widerruf. Tipps für Buerger im Termin.
 
 # Der Vergleich im SG-Verfahren — § 101 SGG
 

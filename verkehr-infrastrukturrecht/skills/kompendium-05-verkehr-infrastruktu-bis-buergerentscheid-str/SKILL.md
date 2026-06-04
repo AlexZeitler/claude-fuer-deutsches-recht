@@ -1,17 +1,17 @@
 ---
 name: kompendium-05-verkehr-infrastruktu-bis-buergerentscheid-str
-description: "verkehr-infrastrukturrecht: Konsolidiertes Skill-Kompendium 05; bündelt 3 frühere Spezialskills (verkehr-infrastrukturrecht-kommandocenter, autonomous-driving-strassenrecht, buergerentscheid-strassenbahn-spezial) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "verkehr-infrastrukturrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Verkehr Infrastrukturrecht Kommandocenter, Autonomous Driving Strassenrecht, Buergerentscheid Strassenbahn Spezial; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 05 - verkehr-infrastrukturrecht
+# Arbeitsbereich - Verkehr Infrastrukturrecht Kommandocenter, Autonomous Driving Strassenrecht, Buergerentscheid Strassenbahn Spezial
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `verkehr-infrastrukturrecht-kommandocenter` | Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Prüfraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz. |
 | `autonomous-driving-strassenrecht` | Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zustaendigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefraster fuer Kommunen mit Pilotvorhaben. |
@@ -19,16 +19,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `verkehr-infrastrukturrecht-kommandocenter`
 
-**Frühere Beschreibung:** Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Prüfraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz.
+**Fokus:** Zentrales Steuerungsmodul Verkehrs- und Infrastrukturrecht: Neues Mandat im Bereich Verkehrsinfrastruktur, Routing auf passenden Subskill. Normen: FStrG, AEG, PBefG, StVO, BauGB, FStrG, GWB (je nach Sachgebiet). Prüfraster: Sachgebiet (Planfeststellung, Sondernutzung, Ladeinfrastruktur, OEPNV, Schulwegsicherheit, Parkraum, Foerderung, Verkehrswende), Mandantenrolle, Verfahrensstand. Output Deal-Karte Verkehrsinfrastruktur mit Ampel und Routing-Empfehlung. Abgrenzung: Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz.
 
 # Verkehrs- und Infrastrukturrecht — Kommandocenter
 
@@ -97,7 +97,7 @@ Einstiegspunkt fuer alle Mandate im Verkehrs- und Infrastrukturrecht (oeffentlic
 
 ## 2. `autonomous-driving-strassenrecht`
 
-**Frühere Beschreibung:** Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zustaendigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefraster fuer Kommunen mit Pilotvorhaben.
+**Fokus:** Autonomes Fahren und Strassenrecht: § 1d StVG, autonomes Fahren in Level 4, Genehmigung der zustaendigen Landesbehoerden, Betrieb auf festgelegter Strecke. Schnittstelle zu KI-VO Hochrisikoanwendungen, Datenschutz, Haftungsfragen. Pruefraster fuer Kommunen mit Pilotvorhaben.
 
 # Autonomes Fahren: Strassenrecht
 
@@ -149,7 +149,7 @@ Dieser Skill gehoert zum Plugin `verkehr-infrastrukturrecht`. Er ergaenzt die ue
 
 ## 3. `buergerentscheid-strassenbahn-spezial`
 
-**Frühere Beschreibung:** Spezialfall Buergerentscheid zur Strassenbahn oder Stadtbahn: kommunalrechtliche Voraussetzungen, Verhaeltnis zum Beschluss des Gemeinderats, planungsrechtliche Folgen, Foerderfaehigkeit nach GVFG bei Verzoegerung. Pruefraster.
+**Fokus:** Spezialfall Buergerentscheid zur Strassenbahn oder Stadtbahn: kommunalrechtliche Voraussetzungen, Verhaeltnis zum Beschluss des Gemeinderats, planungsrechtliche Folgen, Foerderfaehigkeit nach GVFG bei Verzoegerung. Pruefraster.
 
 # Buergerentscheid Strassenbahn
 

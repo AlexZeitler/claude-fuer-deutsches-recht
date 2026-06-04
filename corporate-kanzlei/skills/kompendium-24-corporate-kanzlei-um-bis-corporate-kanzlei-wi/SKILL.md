@@ -1,33 +1,33 @@
 ---
 name: kompendium-24-corporate-kanzlei-um-bis-corporate-kanzlei-wi
-description: "corporate-kanzlei: Konsolidiertes Skill-Kompendium 24; bündelt 2 frühere Spezialskills (corporate-kanzlei-umwandlungsrecht, corporate-kanzlei-wi-insurance) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "corporate-kanzlei: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 24 - corporate-kanzlei
+# Arbeitsbereich - Corporate Kanzlei Umwandlungsrecht, Corporate Kanzlei Wi Insurance
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `corporate-kanzlei-umwandlungsrecht` | Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG. |
 | `corporate-kanzlei-wi-insurance` | W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `corporate-kanzlei-umwandlungsrecht`
 
-**Frühere Beschreibung:** Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG.
+**Fokus:** Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG.
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel
 
@@ -187,7 +187,7 @@ Minderheitsgesellschafter koennen im Spruchverfahren (§§ 2, 34 ff. SpruchG) ei
 
 ## 2. `corporate-kanzlei-wi-insurance`
 
-**Frühere Beschreibung:** W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules.
+**Fokus:** W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und prüfen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Prüfraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules.
 
 # W&I-Versicherung (Warranty & Indemnity Insurance)
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-21-owi-080-baurecht-man-bis-owi-084-strassenverk
-description: "ordnungswidrigkeitenrecht: Konsolidiertes Skill-Kompendium 21; bündelt 4 frühere Spezialskills (owi-080-baurecht-mandantenbrief-schreiben, owi-081-strassenverkehr-tatbestand-zerlegen, owi-083-strassenverkehr-akteneinsicht-schreibe, owi-084-strassenverkehr-einspruch-begruenden) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "ordnungswidrigkeitenrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi 080 Baurecht Mandantenbrief Schreiben, Owi 081 Strassenverkehr Tatbestand Zerlegen, Owi 083 Strassenverkehr Akteneinsicht Schreibe, Owi 084 Strassenverkehr Einspruch Begruenden; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 21 - ordnungswidrigkeitenrecht
+# Arbeitsbereich - Owi 080 Baurecht Mandantenbrief Schreiben bis Owi 084 Strassenverkehr Einspruch Begruenden
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-080-baurecht-mandantenbrief-schreiben` | Ordnungswidrigkeitenrecht: Baurecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
 | `owi-081-strassenverkehr-tatbestand-zerlegen` | Ordnungswidrigkeitenrecht: Straßenverkehr: Tatbestand zerlegen. Tatbestand zerlegen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-080-baurecht-mandantenbrief-schreiben`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Baurecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Baurecht: Mandantenbrief schreiben. Mandantenbrief schreiben für Baurecht im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Baurecht Mandantenbrief Schreiben
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `owi-081-strassenverkehr-tatbestand-zerlegen`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Tatbestand zerlegen. Tatbestand zerlegen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Tatbestand zerlegen. Tatbestand zerlegen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Tatbestand Zerlegen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `owi-083-strassenverkehr-akteneinsicht-schreibe`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Akteneinsicht schreiben. Akteneinsicht schreiben für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Akteneinsicht schreiben. Akteneinsicht schreiben für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Akteneinsicht Schreibe
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `owi-084-strassenverkehr-einspruch-begruenden`
 
-**Frühere Beschreibung:** Ordnungswidrigkeitenrecht: Straßenverkehr: Einspruch begründen. Einspruch begründen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
+**Fokus:** Ordnungswidrigkeitenrecht: Straßenverkehr: Einspruch begründen. Einspruch begründen für Straßenverkehr im Rahmen von Ordnungswidrigkeitenrecht; Zuständigkeit, Tatbestand, Frist, Belege, Risiko und nächsten Schritt trennen.
 
 # Strassenverkehr Einspruch Begruenden
 

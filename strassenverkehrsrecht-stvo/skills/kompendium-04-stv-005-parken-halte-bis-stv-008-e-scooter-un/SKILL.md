@@ -1,17 +1,17 @@
 ---
 name: kompendium-04-stv-005-parken-halte-bis-stv-008-e-scooter-un
-description: "strassenverkehrsrecht-stvo: Konsolidiertes Skill-Kompendium 04; bündelt 4 frühere Spezialskills (stv-005-parken-halten-abschleppen, stv-006-ausnahmegenehmigung-beantragen, stv-007-radverkehr-und-schutzstreifen, stv-008-e-scooter-und-mikromobilitaet) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "strassenverkehrsrecht-stvo: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Stv 005 Parken Halten Abschleppen, Stv 006 Ausnahmegenehmigung Beantragen, Stv 007 Radverkehr Und Schutzstreifen, Stv 008 E Scooter Und Mikromobilitaet; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 04 - strassenverkehrsrecht-stvo
+# Arbeitsbereich - Stv 005 Parken Halten Abschleppen bis Stv 008 E Scooter Und Mikromobilitaet
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `stv-005-parken-halten-abschleppen` | Straßenverkehrsrecht StVO: Parken Halten Abschleppen. Parken Halten Abschleppen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
 | `stv-006-ausnahmegenehmigung-beantragen` | Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `stv-005-parken-halten-abschleppen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Parken Halten Abschleppen. Parken Halten Abschleppen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Parken Halten Abschleppen. Parken Halten Abschleppen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Parken Halten Abschleppen
 
@@ -86,7 +86,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 2. `stv-006-ausnahmegenehmigung-beantragen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Ausnahmegenehmigung beantragen. Ausnahmegenehmigung beantragen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Ausnahmegenehmigung Beantragen
 
@@ -143,7 +143,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 3. `stv-007-radverkehr-und-schutzstreifen`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverkehr und Schutzstreifen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: Radverkehr und Schutzstreifen. Radverkehr und Schutzstreifen im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # Radverkehr Und Schutzstreifen
 
@@ -200,7 +200,7 @@ Wenn etwas nur wahrscheinlich ist, als wahrscheinlich kennzeichnen. Wenn der Rec
 
 ## 4. `stv-008-e-scooter-und-mikromobilitaet`
 
-**Frühere Beschreibung:** Straßenverkehrsrecht StVO: E-Scooter und Mikromobilität. E-Scooter und Mikromobilität im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
+**Fokus:** Straßenverkehrsrecht StVO: E-Scooter und Mikromobilität. E-Scooter und Mikromobilität im Fachgebiet Straßenverkehrsrecht StVO als geführten Arbeitsgang mit Fragen, Dokumentenlogik und Ausgabeformat bearbeiten.
 
 # E Scooter Und Mikromobilitaet
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-15-owi-kosten-vollstrec-bis-owi-verjaehrung-verf
-description: "staatsanwaltschaft-praxis-einstieg: Konsolidiertes Skill-Kompendium 15; bündelt 5 frühere Spezialskills (owi-kosten-vollstreckung-und-ruecknahme, owi-opportunitaet-einstellung-47, owi-rechtsbeschwerde-79-80, owi-verbandsgeldbusse-30-130, owi-verjaehrung-verfolgungsverjaehrung) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "staatsanwaltschaft-praxis-einstieg: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Owi Kosten Vollstreckung Und Ruecknahme, Owi Opportunitaet Einstellung 47, Owi Rechtsbeschwerde 79 80, Owi Verbandsgeldbusse 30 130 und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 15 - staatsanwaltschaft-praxis-einstieg
+# Arbeitsbereich - Owi Kosten Vollstreckung Und Ruecknahme bis Owi Verjaehrung Verfolgungsverjaehrung
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `owi-kosten-vollstreckung-und-ruecknahme` | Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
 | `owi-opportunitaet-einstellung-47` | Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `owi-kosten-vollstreckung-und-ruecknahme`
 
-**Frühere Beschreibung:** Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Kosten, Rücknahme, Rechtskraft und Vollstreckung im Bußgeldverfahren sauber abschließen
 
@@ -88,7 +88,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 2. `owi-opportunitaet-einstellung-47`
 
-**Frühere Beschreibung:** Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Opportunität im OWi-Verfahren: § 47 OWiG als andere Logik als Legalitätsprinzip im Strafverfahren
 
@@ -146,7 +146,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 3. `owi-rechtsbeschwerde-79-80`
 
-**Frühere Beschreibung:** Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Rechtsbeschwerde im OWi-Verfahren: Zulässigkeit, Zulassung, Frist und StA-Entscheidung
 
@@ -204,7 +204,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 4. `owi-verbandsgeldbusse-30-130`
 
-**Frühere Beschreibung:** Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Unternehmens- und Aufsichtspflicht-Ordnungswidrigkeiten: §§ 30 und 130 OWiG in der Praxis
 
@@ -262,7 +262,7 @@ Normen zuerst amtlich prüfen: OWiG auf gesetze-im-internet.de, Spezialgesetz, R
 
 ## 5. `owi-verjaehrung-verfolgungsverjaehrung`
 
-**Frühere Beschreibung:** Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
+**Fokus:** Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender: OWiG-Praxis-Skill für junge Staatsanwältinnen und Staatsanwälte mit Zuständigkeitscheck, Bußgeldbescheid/Einspruch, gerichtlichem Verfahren, Sitzungsdienst und Quellenhygiene.
 
 # Verjährung im OWi-Verfahren: Verfolgungsverjährung, Unterbrechung und Aktenkalender
 

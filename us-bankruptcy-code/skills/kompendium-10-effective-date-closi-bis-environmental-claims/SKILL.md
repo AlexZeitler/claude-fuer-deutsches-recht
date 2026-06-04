@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-effective-date-closi-bis-environmental-claims
-description: "us-bankruptcy-code: Konsolidiertes Skill-Kompendium 10; bündelt 4 frühere Spezialskills (effective-date-closing, eligibility-109-credit, employee-wages-benefits-warn, environmental-claims) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "us-bankruptcy-code: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Effective Date Closing, Eligibility 109 Credit, Employee Wages Benefits Warn, Environmental Claims; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - us-bankruptcy-code
+# Arbeitsbereich - Effective Date Closing bis Environmental Claims
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `effective-date-closing` | Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance. |
 | `eligibility-109-credit` | Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `effective-date-closing`
 
-**Frühere Beschreibung:** Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance.
+**Fokus:** Prueft effective date conditions, funding, releases, corporate actions, distributions and post-confirmation governance.
 
 # Effective Date and Plan Closing
 
@@ -97,7 +97,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 2. `eligibility-109-credit`
 
-**Frühere Beschreibung:** Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues.
+**Fokus:** Prueft Debtor Eligibility, credit counseling, chapter-specific limits, railroad/insurance exclusions and entity issues.
 
 # Eligibility § 109 and Credit Counseling
 
@@ -165,7 +165,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 3. `employee-wages-benefits-warn`
 
-**Frühere Beschreibung:** Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues.
+**Fokus:** Prueft wage priority, benefits, WARN Act exposure, employee claims, retention/bonus plans and sale transfer issues.
 
 # Employees Wages Benefits and WARN
 
@@ -233,7 +233,7 @@ Arbeite hier nicht nur abstrakt, sondern als strukturierter US-Counsel-Briefing-
 
 ## 4. `environmental-claims`
 
-**Frühere Beschreibung:** Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks.
+**Fokus:** Prueft environmental obligations, cleanup orders, police-power exception, claims vs injunctions and asset sale risks.
 
 # Environmental Claims in Bankruptcy
 

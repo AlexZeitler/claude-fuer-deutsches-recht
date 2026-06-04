@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-entfristung-sachgrun-bis-entfristung-sachgrun
-description: "arbeitsrecht: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (entfristung-sachgrund-pruefen-14-abs-1, entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung, entfristung-sachgrundlos-14-abs-2a-neugruendung, entfristung-sachgrundlos-14-abs-3-aelter-52) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "arbeitsrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Entfristung Sachgrund Pruefen 14 Abs 1, Entfristung Sachgrundlos 14 Abs 2 Vorbeschaeftigung, Entfristung Sachgrundlos 14 Abs 2a Neugruendung, Entfristung Sachgrundlos 14 Abs 3 Aelter 52; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - arbeitsrecht
+# Arbeitsbereich - Entfristung Sachgrund Pruefen 14 Abs 1 bis Entfristung Sachgrundlos 14 Abs 3 Aelter 52
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `entfristung-sachgrund-pruefen-14-abs-1` | Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast. |
 | `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `entfristung-sachgrund-pruefen-14-abs-1`
 
-**Frühere Beschreibung:** Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast.
+**Fokus:** Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast.
 
 # Sachgrundprüfung — § 14 Abs. 1 TzBfG
 
@@ -158,7 +158,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 2. `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung`
 
-**Frühere Beschreibung:** Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG.
+**Fokus:** Sachgrundlose Befristung nach § 14 Abs. 2 TzBfG: zwei Jahre Gesamtdauer; dreimal verlaengerbar; Vorbeschaeftigungsverbot; BVerfG-Entscheidung 2018; BAG-Folgerechtsprechung; Karenzzeit-Diskussion; Rechtsfolge § 16 TzBfG.
 
 # Sachgrundlose Befristung — § 14 Abs. 2 TzBfG und Vorbeschäftigungsverbot
 
@@ -261,7 +261,7 @@ Quelle: https://dejure.org/dienste/vernetzung/rechtsprechung?Text=7+AZR+716%2F09
 
 ## 3. `entfristung-sachgrundlos-14-abs-2a-neugruendung`
 
-**Frühere Beschreibung:** Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen.
+**Fokus:** Sachgrundlose Befristung bei Unternehmensneugründung nach § 14 Abs. 2a TzBfG: vier Jahre Gesamtdauer; Neugründungsprivileg; Voraussetzungen der Neugründung; Abgrenzung zu blossen Unternehmensumstrukturierungen.
 
 # Sachgrundlose Befristung bei Neugründung — § 14 Abs. 2a TzBfG
 
@@ -353,7 +353,7 @@ Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behauptete
 
 ## 4. `entfristung-sachgrundlos-14-abs-3-aelter-52`
 
-**Frühere Beschreibung:** Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht.
+**Fokus:** Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht.
 
 # Sachgrundlose Befristung ab Alter 52 — § 14 Abs. 3 TzBfG
 

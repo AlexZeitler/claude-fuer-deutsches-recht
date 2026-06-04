@@ -1,17 +1,17 @@
 ---
 name: kompendium-10-solo-design-und-logo-bis-solo-einkommensteuer
-description: "solo-selbststaendige-praxis: Konsolidiertes Skill-Kompendium 10; bündelt 8 frühere Spezialskills (solo-design-und-logo-rechte, solo-digitale-produkte-und-kurse, solo-diskriminierung-und-kundenwahl, solo-domain-marke-name, solo-drv-statusfeststellung-paragraph-7a und 3 weitere) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "solo-selbststaendige-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Solo Design Und Logo Rechte, Solo Digitale Produkte Und Kurse, Solo Diskriminierung Und Kundenwahl, Solo Domain Marke Name und 4 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 10 - solo-selbststaendige-praxis
+# Arbeitsbereich - Solo Design Und Logo Rechte bis Solo Einkommensteuer Vorauszahlungen
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `solo-design-und-logo-rechte` | Solo-Selbstständige: prüft Logoerstellung, Rechtekette, Fonts, Stockmaterial und Übergabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
 | `solo-digitale-produkte-und-kurse` | Solo-Selbstständige: prüft Downloads, Onlinekurse, Widerruf, Zugang und Nutzungsrechte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis. |
@@ -24,16 +24,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `solo-design-und-logo-rechte`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Logoerstellung, Rechtekette, Fonts, Stockmaterial und Übergabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Logoerstellung, Rechtekette, Fonts, Stockmaterial und Übergabe; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # IP Content und Arbeitsergebnisse: Prüft logoerstellung
 
@@ -63,7 +63,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **IP Content und Arbeit
 
 ## 2. `solo-digitale-produkte-und-kurse`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Downloads, Onlinekurse, Widerruf, Zugang und Nutzungsrechte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Downloads, Onlinekurse, Widerruf, Zugang und Nutzungsrechte; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft downloads
 
@@ -93,7 +93,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 3. `solo-diskriminierung-und-kundenwahl`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft AGG-/Hausrechts-/Vertragsfreiheit bei schwierigen Kunden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft AGG-/Hausrechts-/Vertragsfreiheit bei schwierigen Kunden; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Grenzen Compliance und Selbstschutz: Prüft agg-/hausrechts-/vertragsfreiheit bei schwierigen kunden
 
@@ -123,7 +123,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Grenzen Compliance un
 
 ## 4. `solo-domain-marke-name`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Name, Domain, Marke, Unternehmenskennzeichen und Kollisionsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Name, Domain, Marke, Unternehmenskennzeichen und Kollisionsrisiko; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Marketing E-Commerce und Plattformen: Prüft name
 
@@ -153,7 +153,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Marketing E-Commerce 
 
 ## 5. `solo-drv-statusfeststellung-paragraph-7a`
 
-**Frühere Beschreibung:** Solo-Selbstständige: bereitet Statusfeststellungsverfahren mit Belegen und Argumentmatrix vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: bereitet Statusfeststellungsverfahren mit Belegen und Argumentmatrix vor; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Bereitet statusfeststellungsverfahren mit belegen und argumentmatrix vor
 
@@ -183,7 +183,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 6. `solo-e-rechnung-b2b`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft E-Rechnungspflichten, Empfangsfähigkeit und Übergangslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft E-Rechnungspflichten, Empfangsfähigkeit und Übergangslogik; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Rechnung und Umsatzsteuer: Prüft e-rechnungspflichten
 
@@ -213,7 +213,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Rechnung und Umsatzst
 
 ## 7. `solo-ein-auftraggeber-risiko`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft wirtschaftliche Abhängigkeit und Gegenmaßnahmen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft wirtschaftliche Abhängigkeit und Gegenmaßnahmen; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Scheinselbstständigkeit und Status: Prüft wirtschaftliche abhängigkeit und gegenmaßnahmen
 
@@ -243,7 +243,7 @@ Dieser Skill hilft Solo-Selbstständigen beim Themenfeld **Scheinselbstständigk
 
 ## 8. `solo-einkommensteuer-vorauszahlungen`
 
-**Frühere Beschreibung:** Solo-Selbstständige: prüft Vorauszahlungen, Liquidität und Änderung der Vorauszahlung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
+**Fokus:** Solo-Selbstständige: prüft Vorauszahlungen, Liquidität und Änderung der Vorauszahlung; mit Abfrage von Tätigkeit, Status, Belegen, Fristen, Geldfolge und konkretem nächstem Arbeitsergebnis.
 
 # Steuern und Buchhaltung: Prüft vorauszahlungen
 

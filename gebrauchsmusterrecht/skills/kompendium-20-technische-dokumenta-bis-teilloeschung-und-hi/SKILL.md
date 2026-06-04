@@ -1,33 +1,33 @@
 ---
 name: kompendium-20-technische-dokumenta-bis-teilloeschung-und-hi
-description: "gebrauchsmusterrecht: Konsolidiertes Skill-Kompendium 20; bündelt 2 frühere Spezialskills (technische-dokumentation-laborbuch, teilloeschung-und-hilfsantraege) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "gebrauchsmusterrecht: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Technische Dokumentation Laborbuch, Teilloeschung Und Hilfsantraege; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 20 - gebrauchsmusterrecht
+# Arbeitsbereich - Technische Dokumentation Laborbuch, Teilloeschung Und Hilfsantraege
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `technische-dokumentation-laborbuch` | Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert. |
 | `teilloeschung-und-hilfsantraege` | Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert. |
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `technische-dokumentation-laborbuch`
 
-**Frühere Beschreibung:** Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert.
+**Fokus:** Technische Dokumentation, Laborbuch und Entwicklungsakte auswerten: Erfinder, Datum, Varianten, Tests, Prototypen und Beweiswert.
 
 # Technische Dokumentation Laborbuch
 
@@ -59,7 +59,7 @@ Dokumentenmatrix.
 
 ## 2. `teilloeschung-und-hilfsantraege`
 
-**Frühere Beschreibung:** Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert.
+**Fokus:** Teil-Löschung, Beschränkung und Hilfsanträge taktisch prüfen: Verteidigung engerer Ansprüche, Offenbarungsstütze und Marktwert.
 
 # Teilloeschung Und Hilfsantraege
 

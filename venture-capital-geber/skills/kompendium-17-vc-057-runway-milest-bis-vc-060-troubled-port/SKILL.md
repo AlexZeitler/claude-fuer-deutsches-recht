@@ -1,17 +1,17 @@
 ---
 name: kompendium-17-vc-057-runway-milest-bis-vc-060-troubled-port
-description: "venture-capital-geber: Konsolidiertes Skill-Kompendium 17; bündelt 4 frühere Spezialskills (vc-057-runway-milestone-monitor, vc-058-follow-on-ic-memo, vc-059-co-investor-coordination, vc-060-troubled-portfolio-rescue) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "venture-capital-geber: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Vc 057 Runway Milestone Monitor, Vc 058 Follow On Ic Memo, Vc 059 Co Investor Coordination, Vc 060 Troubled Portfolio Rescue; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 17 - venture-capital-geber
+# Arbeitsbereich - Vc 057 Runway Milestone Monitor bis Vc 060 Troubled Portfolio Rescue
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `vc-057-runway-milestone-monitor` | Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte. |
 | `vc-058-follow-on-ic-memo` | Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `vc-057-runway-milestone-monitor`
 
-**Frühere Beschreibung:** Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte.
+**Fokus:** Überwacht Cash, Burn, Meilensteine, Fundraising-Timing und harte Entscheidungspunkte.
 
 # Runway und Milestone Monitor
 
@@ -75,7 +75,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 2. `vc-058-follow-on-ic-memo`
 
-**Frühere Beschreibung:** Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan.
+**Fokus:** Erstellt Follow-on-Entscheidungsvorlagen aus Updates, Cap Table, Runde, Terms, Signaling und Reserveplan.
 
 # Follow-on IC Memo
 
@@ -121,7 +121,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 3. `vc-059-co-investor-coordination`
 
-**Frühere Beschreibung:** Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern.
+**Fokus:** Plant Kommunikation mit Lead, Angels, Family Offices, Corporate VC, Anwälten und Foundern.
 
 # Co-Investoren koordinieren
 
@@ -167,7 +167,7 @@ Wenn KAGB, BaFin, Wertpapieraufsicht, GmbH-Formalia, Steuer, Sanktionen, FDI, Ka
 
 ## 4. `vc-060-troubled-portfolio-rescue`
 
-**Frühere Beschreibung:** Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten.
+**Fokus:** Prüft Bridge, Down Round, Founderwechsel, Kostenstopp, Verkauf, Insolvenzrisiko und Verantwortlichkeiten.
 
 # Troubled Portfolio Rescue
 

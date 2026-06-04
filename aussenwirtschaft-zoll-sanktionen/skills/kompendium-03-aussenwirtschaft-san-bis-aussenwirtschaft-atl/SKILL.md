@@ -1,17 +1,17 @@
 ---
 name: kompendium-03-aussenwirtschaft-san-bis-aussenwirtschaft-atl
-description: "aussenwirtschaft-zoll-sanktionen: Konsolidiertes Skill-Kompendium 03; bündelt 4 frühere Spezialskills (aussenwirtschaft-sanktionsumgehung-red-flags, aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur, aussenwirtschaft-zollschuld-entstehung-haftung, aussenwirtschaft-atlas-einfuhr-abgabenbescheid) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "aussenwirtschaft-zoll-sanktionen: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Aussenwirtschaft Sanktionsumgehung Red Flags, Aussenwirtschaft Zoll Straf Bussgeld Selbstkorrektur, Aussenwirtschaft Zollschuld Entstehung Haftung, Aussenwirtschaft Atlas Einfuhr Abgabenbescheid; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 03 - aussenwirtschaft-zoll-sanktionen
+# Arbeitsbereich - Aussenwirtschaft Sanktionsumgehung Red Flags bis Aussenwirtschaft Atlas Einfuhr Abgabenbescheid
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `aussenwirtschaft-sanktionsumgehung-red-flags` | Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll. |
 | `aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur` | Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 4 AWG und § 22 ZollVG: Straftatbestaende (§ 18 AWG Schmuggeldelikt § 370 AO) Ordnungswidrigkeiten und Wirkung der Selbstanzeige. Strafmilderung durch Kooperation und BAFA-Praxis bei freiwilliger Offenlegung. Output: Strafbarkeits-Risikobewertung und Selbstkorrektur-Strategie. |
@@ -20,16 +20,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `aussenwirtschaft-sanktionsumgehung-red-flags`
 
-**Frühere Beschreibung:** Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll.
+**Fokus:** Erkennung und rechtliche Bewertung von Sanktionsumgehungsversuchen nach Art. 12 VO (EU) 833/2014 und BAFA-Red-Flags: ungewoehnliche Handelsrouten, Zwischenhaendler ohne erkennbares Geschaeftsmodell, ungewoehnliche Zahlungswege, bekannte Beschaffungsnetzwerke fuer Russland/Iran. Output: Red-Flags-Checkliste und Risikoprotokoll.
 
 # Sanktionsumgehung: Red Flags erkennen und bewerten
 
@@ -116,7 +116,7 @@ Red-Flags-Checkliste nach BAFA-Standard, Risikoprotokoll, Voranfrage-Schreiben a
 
 ## 2. `aussenwirtschaft-zoll-straf-bussgeld-selbstkorrektur`
 
-**Frühere Beschreibung:** Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 4 AWG und § 22 ZollVG: Straftatbestaende (§ 18 AWG Schmuggeldelikt § 370 AO) Ordnungswidrigkeiten und Wirkung der Selbstanzeige. Strafmilderung durch Kooperation und BAFA-Praxis bei freiwilliger Offenlegung. Output: Strafbarkeits-Risikobewertung und Selbstkorrektur-Strategie.
+**Fokus:** Zollstraf- und Bussgeldsachen sowie freiwillige Selbstkorrektur nach § 22 Abs. 4 AWG und § 22 ZollVG: Straftatbestaende (§ 18 AWG Schmuggeldelikt § 370 AO) Ordnungswidrigkeiten und Wirkung der Selbstanzeige. Strafmilderung durch Kooperation und BAFA-Praxis bei freiwilliger Offenlegung. Output: Strafbarkeits-Risikobewertung und Selbstkorrektur-Strategie.
 
 # Zollstrafrecht und Selbstkorrektur: Strafbarkeit Bussgeld und Selbstanzeige
 
@@ -204,7 +204,7 @@ Strafbarkeits-Risikobewertung mit Einordnung AWG/AO, Selbstkorrektur-Strategie m
 
 ## 3. `aussenwirtschaft-zollschuld-entstehung-haftung`
 
-**Frühere Beschreibung:** Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjaehrungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag.
+**Fokus:** Zollschuldentstehung nach UZK Art. 77-87: Einfuhrzollschuld durch Ueberlassung zum zollrechtlich freien Verkehr und Sondertatbestaende (Art. 79 bei Pflichtversto) Schuldnerkreis und gesamtschuldnerische Haftung. Verjaehrungsfristen Nacherhebungsfristen und Erlaessmoeglichkeiten nach UZK Art. 116 ff. Output: Haftungsanalyse und Erlass-Antrag.
 
 # Zollschuldentstehung und Haftung: Schuldner Nacherhebung und Erlass
 
@@ -291,7 +291,7 @@ Haftungsanalyse mit Schuldnerkreis-Matrix, Nacherhebungsfristen-Kalkulationsblat
 
 ## 4. `aussenwirtschaft-atlas-einfuhr-abgabenbescheid`
 
-**Frühere Beschreibung:** Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und Ursprungsablehnungen. Output: Einspruchsschriftsatz und Berechnung.
+**Fokus:** Pruefen und Anfechten von ATLAS-Abgabenbescheiden bei der Einfuhr: Zollwert-Berechnung nach UZK Art. 69-76, Zollsatz-Anwendung und Abgabenberechnung (Zoll, EUSt). Verfahren der Einspruchseinlegung beim Hauptzollamt und Klage beim Finanzgericht. Identifiziert Fehler in Tarifierungsbescheiden und Ursprungsablehnungen. Output: Einspruchsschriftsatz und Berechnung.
 
 # ATLAS-Einfuhr-Abgabenbescheid: Pruefen und Anfechten
 

@@ -1,17 +1,17 @@
 ---
 name: kompendium-02-wahlkampf-aktenplan-bis-wahlkampf-archivieru
-description: "wahlkampfrecht-praxis: Konsolidiertes Skill-Kompendium 02; bündelt 5 frühere Spezialskills (wahlkampf-aktenplan-und-beweisarchiv, wahlkampf-amtstraeger-ressourcen, wahlkampf-angriff-auf-wahlleitung-vermeiden, wahlkampf-arbeitsrecht-kampagnenteam, wahlkampf-archivierung-screenshots) und bewahrt deren Workflows, Normanker, Prüfprogramme und Ausgabemuster."
+description: "wahlkampfrecht-praxis: eigenständiger Arbeits-Skill für verwandte Arbeitsmodule zu Wahlkampf Aktenplan Und Beweisarchiv, Wahlkampf Amtstraeger Ressourcen, Wahlkampf Angriff Auf Wahlleitung Vermeiden, Wahlkampf Arbeitsrecht Kampagnenteam und 1 weitere Arbeitsmodule; mit Intake, Prüfroutine, Normen-/Quellenradar, Beweislogik, Outputmuster und Qualitätscheck."
 ---
 
-# Kompendium 02 - wahlkampfrecht-praxis
+# Arbeitsbereich - Wahlkampf Aktenplan Und Beweisarchiv bis Wahlkampf Archivierung Screenshots
 
 ## Zweck
 
-Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst länger: Die Nutzerin soll nicht zwischen vielen fast benachbarten Skills suchen müssen, sondern in einem Kompendium ein vollständiges Prüf-, Workflow- und Ausgabeprogramm finden.
+Dieser Skill ist ein eigenständiger Arbeitsbereich. Er verbindet mehrere sachlich benachbarte Arbeitsmodule, Wähle anhand des Sachverhalts das passende Modul, arbeite dessen Prüfroutine vollständig ab und kombiniere Module nur, wenn der Fall tatsächlich mehrere Themen berührt.
 
-## Enthaltene frühere Skills
+## Arbeitsmodule
 
-| Früherer Skill | Frühere Beschreibung |
+| Arbeitsmodul | Fokus |
 | --- | --- |
 | `wahlkampf-aktenplan-und-beweisarchiv` | Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt. |
 | `wahlkampf-amtstraeger-ressourcen` | Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen. |
@@ -21,16 +21,16 @@ Dieser Skill bündelt frühere Einzelskills dieses Plugins. Er ist bewusst läng
 
 ## Arbeitsregel
 
-1. Zuerst den passenden Unterabschnitt anhand des früheren Skillnamens oder des Sachthemas auswählen.
+1. Zuerst das passende Arbeitsmodul oder Sachthema auswählen.
 2. Danach die dortige Prüfroutine, Normen-/Quellenanker, Beweislogik und Output-Vorgabe vollständig anwenden.
-3. Bei mehreren passenden Unterabschnitten eine kurze Synopse bilden und Widersprüche offen markieren.
+3. Bei mehreren passenden Arbeitsmodulen eine kurze Synopse bilden, Überschneidungen offen markieren und nichts vermischen, was getrennte Fristen, Zuständigkeiten, Anspruchsgrundlagen oder Beweislasten hat.
 4. Rechtsprechung, Literatur, Behördenpraxis und Tagesrecht nur mit überprüfbarer Quelle oder Nutzerquelle ausgeben.
 
-## Konsolidierte Inhalte
+## Arbeitsmodule im Detail
 
 ## 1. `wahlkampf-aktenplan-und-beweisarchiv`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt.
+**Fokus:** Wahlkampfrecht Praxis: Kampagnenakte so strukturieren, dass sie später prüfbar bleibt.
 
 # Aktenplan Und Beweisarchiv
 
@@ -83,7 +83,7 @@ Erzeuge: **Aktenplan und Archivmatrix**. Wenn Informationen fehlen, stelle höch
 
 ## 2. `wahlkampf-amtstraeger-ressourcen`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Auftritte von Regierungsmitgliedern, Buergermeistern und Abgeordneten pruefen.
 
 # Amtstraeger Ressourcen
 
@@ -144,7 +144,7 @@ Erzeuge: **Amtstraeger-Rollencheck**. Wenn Informationen fehlen, stelle höchste
 
 ## 3. `wahlkampf-angriff-auf-wahlleitung-vermeiden`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren.
+**Fokus:** Wahlkampfrecht Praxis: Kritik an Wahlorganisation ohne Vertrauenszerstoerung formulieren.
 
 # Angriff Auf Wahlleitung Vermeiden
 
@@ -197,7 +197,7 @@ Erzeuge: **Wahlleitungs-Kommunikationslinie**. Wenn Informationen fehlen, stelle
 
 ## 4. `wahlkampf-arbeitsrecht-kampagnenteam`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen.
+**Fokus:** Wahlkampfrecht Praxis: Beschaeftigung, Minijobs, Freelancer und Ehrenamt im Wahlkampf pruefen.
 
 # Arbeitsrecht Kampagnenteam
 
@@ -250,7 +250,7 @@ Erzeuge: **Team-Statuscheck**. Wenn Informationen fehlen, stelle höchstens acht
 
 ## 5. `wahlkampf-archivierung-screenshots`
 
-**Frühere Beschreibung:** Wahlkampfrecht Praxis: digitale Beweise fuer schnelle Praxis sichern.
+**Fokus:** Wahlkampfrecht Praxis: digitale Beweise fuer schnelle Praxis sichern.
 
 # Archivierung Screenshots
 
